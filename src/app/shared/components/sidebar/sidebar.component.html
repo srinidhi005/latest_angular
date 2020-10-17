@@ -1,0 +1,48 @@
+<mat-nav-list >
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/statement">
+        <mat-icon>library_books</mat-icon>
+        My Companies</a>
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/articles">
+        <mat-icon>assignment</mat-icon>
+        Credit Scorecard</a>
+    <a mat-list-item routerLinkActive="list-item-active">
+        <mat-icon>dvr</mat-icon>
+        Financial Dashboard</a>
+        <mat-accordion >
+            <mat-expansion-panel class="mat-elevation-z0">
+                <mat-expansion-panel-header>
+                   <a mat-list-item routerLinkActive="list-item-active">
+                    <mat-icon>view_list</mat-icon>KPI</a> 
+                </mat-expansion-panel-header>
+                <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIIncomeStatement">
+                    <mat-icon>compare</mat-icon>Income Statement</a> 
+                    <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIBalanceSheet">
+                        <mat-icon>menu_book</mat-icon>Balance Sheet</a> 
+              </mat-expansion-panel>
+        </mat-accordion>
+        <mat-accordion >
+            <mat-expansion-panel class="mat-elevation-z0">
+                <mat-expansion-panel-header>
+                   <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
+                    <mat-icon>pie_chart</mat-icon>Budgeting</a> 
+                </mat-expansion-panel-header>
+                <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
+                    <mat-icon>tune</mat-icon>AdjustAssumption</a> 
+                    <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
+                        <mat-icon>layers</mat-icon>Actuals</a> 
+                        <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
+                            <mat-icon>flash_on</mat-icon>Target v/s Actuals</a> 
+              </mat-expansion-panel>
+        </mat-accordion>
+        <mat-accordion >
+            <mat-expansion-panel class="mat-elevation-z0">
+                <mat-expansion-panel-header>
+                   <a mat-list-item routerLinkActive="list-item-active" (click)="scenarioNumber()">
+                    <mat-icon>exposure</mat-icon>Scenario Analysis</a> 
+                </mat-expansion-panel-header>
+                <a mat-list-item routerLinkActive="list-item-active" *ngFor="let scenario of scenarioArray">
+                    <mat-icon>looks_one</mat-icon>Scenario{{scenario}}</a> 
+                    
+              </mat-expansion-panel>
+        </mat-accordion>
+</mat-nav-list>

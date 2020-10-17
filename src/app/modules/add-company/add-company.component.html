@@ -1,0 +1,55 @@
+
+<div class="example-container">
+<mat-card>
+    <mat-card-content>
+      <div class="col-8" style="height: 100%;">
+        <form [formGroup]="form" (ngSubmit)="submit()">
+          <h2 class="title">Import New Statement</h2>
+          <mat-form-field class="container-field">
+            <mat-label>Company Name</mat-label>
+            <input matInput formControlName="companyname"/>
+            <mat-error *ngIf="form.get('companyname').hasError('required')">
+                Fill Company Name without space and special characters
+              </mat-error>
+          </mat-form-field>
+          <mat-form-field class="container-field" >
+            <mat-select placeholder="Financial Statement Duration" formControlName="period">
+              <mat-option *ngFor="let period of period" [value]="period">{{period}}</mat-option>
+            </mat-select>
+            <mat-error *ngIf="form.get('period').hasError('required')">
+                Financial Statement Duration is Required!
+              </mat-error>
+          </mat-form-field>
+          <mat-form-field class="container-field" >
+            <mat-select placeholder="Statement Type" formControlName="statementtype">
+                <mat-option *ngFor="let statementtype of statementtype" [value]="statementtype">{{statementtype}}</mat-option>
+            </mat-select>
+            <mat-error *ngIf="form.get('statementtype').hasError('required')">
+                Statement Type is Required!
+              </mat-error>
+          </mat-form-field>
+          <mat-form-field class="container-field">
+            <mat-select placeholder="Industry"  formControlName="industry">
+                <mat-option *ngFor="let industry of industry" [value]="industry">{{industry}}</mat-option>
+            </mat-select>
+            <mat-error *ngIf="form.get('industry').hasError('required')">
+                Industry is Required!
+              </mat-error>
+          </mat-form-field>
+          <div style="margin-top: 20px;" class="form-group">
+            <app-file-upload formControlName="file"></app-file-upload>
+            <div class="invalid-feedback" style="display: block;">
+              <ng-container *ngIf="hasError('file', 'required')">This field is required</ng-container>
+            </div>
+          </div>
+          <div class="submit-action">
+            <mat-spinner *ngIf="inprogress" style="margin-right: 50px;" diameter="20"></mat-spinner>
+            <button [disabled]="inprogress" mat-stroked-button type="submit" mat-raised-button>
+              Upload
+            </button>
+          </div>
+        </form>
+      </div>
+    </mat-card-content>
+  </mat-card>
+  </div>

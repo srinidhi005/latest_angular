@@ -1,0 +1,15 @@
+ul li {
+  list-style: none;
+}
+mat-toolbar{
+  background-color:#164A5B;
+  color: #f5f5f5;
+}
+
+mat-icon{
+  color:#f5f5f5;
+}
+.search-bar { background-color: #222; }
+.search-bar * { color: white !important; }
+.search-bar input { border-bottom-color: white; }
+.mat-errors-spacer { display:none; }

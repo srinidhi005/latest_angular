@@ -1,0 +1,33 @@
+table {
+    width: 100%;
+  }
+.mat-paginator-sticky {
+  bottom: 0px;
+  position: sticky;
+  z-index: 10;
+}
+.cursor{
+  cursor: pointer;
+}
+.dialog-container{
+  width:35vw;
+}
+a{
+    color:black;
+}
+.name{
+  color:#0056b3;
+  cursor: pointer;
+}
+th{
+  font-size: 14px;
+  font-weight: bold;
+}
+th.mat-header-cell:last-of-type {
+  padding-right: 0px;
+}
+.company{
+  max-width:80%;
+  text-overflow: hidden;
+  // overflow:hidden;
+}

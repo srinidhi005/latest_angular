@@ -150,21 +150,73 @@ export class PLMetricsComponent implements OnInit {
   exportToPDF(){
     let doc = new jsPDF('l','pt'); 
   let data = [];
+  let inMillionsYear=[];
+  let totalRevenue=[];
+  let revenueGrowthRate=[];
+  let COGS=[];
+  let grossProfit=[];
+  let grossMargin=[];
+  let SGA=[];
+  let EBIT=[];
+  let EBITMargin=[];
+  let DA=[];
+  let EBITDA=[];
+  let EBITDAMargin=[];
+  let NIE=[];
+  let EBT=[];
+  let EBTMargin=[];
+  let taxes=[];
+  let netIncome=[];
+  let netIncomeMargin=[];
   ELEMENT_D.forEach(obj => {
-    let arr = [];
-    this.inputColumns.forEach(col => {
-      arr.push(obj[col]);
-      console.log(arr);
-    });
-    data.push(arr);
-  });      
+    inMillionsYear.push(obj["inMillions"]);
+    totalRevenue.push(obj["Total Revenue"]);
+    revenueGrowthRate.push(obj["Revenue Y-O-Y Growth rate"]);
+    COGS.push(obj["(-) Cost of Goods Sold (COGS)"]);
+    grossProfit.push(obj["Gross Profit"]);
+    grossMargin.push(obj["Gross Margin"]);
+    SGA.push(obj["(-) Selling, General & Administrative Expense (SG&A)"]);
+    EBIT.push(obj["EBIT"]);
+    EBITMargin.push(obj["EBIT Margin"]);
+    DA.push(obj["(+) Depreciation & Amortization (D&A)"]);
+    EBITDA.push(obj["EBITDA"]);
+    EBITDAMargin.push(obj["EBITDA Margin"]);
+    NIE.push(obj["(-) Net Interest/Other Income Expense"]);
+    EBT.push(obj["EBT"]);
+    EBTMargin.push(obj["EBT Margin"]);
+    taxes.push(obj["(-) Taxes"]);
+    netIncome.push(obj["Net Income"]);
+    netIncomeMargin.push(obj["Net Income Margin"]);
+  });
+  inMillionsYear.unshift("Years");
+  totalRevenue.unshift("Total Revenue");
+  revenueGrowthRate.unshift("Revenue Y-O-Y Growth rate");
+  COGS.unshift("(-) Cost of Goods Sold (COGS)");
+  grossProfit.unshift("Gross Profit");
+  grossMargin.unshift("Gross Margin");
+  SGA.unshift("(-) Selling, General & Administrative Expense (SG&A)");
+  EBIT.unshift("EBIT");
+  EBITMargin.unshift("EBIT Margin");
+  DA.unshift("(+) Depreciation & Amortization (D&A)");
+  EBITDA.unshift("EBITDA");
+  EBITDAMargin.unshift("EBITDA Margin");
+  NIE.unshift("(-) Net Interest/Other Income Expense");
+  EBT.unshift("EBT");
+  EBTMargin.unshift("EBT Margin");
+  taxes.unshift("(-) Taxes");
+  netIncome.unshift("Net Income");
+  netIncomeMargin.unshift("Net Income Margin");
+  data.push(totalRevenue,revenueGrowthRate,COGS,grossProfit,grossMargin,SGA,EBIT,EBITMargin,DA,EBITDA,EBITDAMargin,NIE,EBT,EBTMargin,taxes,netIncome,netIncomeMargin);
     autoTable(doc,{
-      head: [this.inputColumns],
-      body: data
+      head: [inMillionsYear],
+      body: data,
+      styles: {overflow: 'linebreak',fontSize: 12},
     });
-    doc.save('table.pdf')
+    doc.save(this.companyName +'.pdf');
   }
 }
+
+// ["rowname","trvalues"]
 
 export interface PLElement {
   inMillions:number;

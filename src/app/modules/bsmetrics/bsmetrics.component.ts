@@ -167,19 +167,79 @@ export class BsmetricsComponent implements OnInit {
   exportToPDF(){
     let doc = new jsPDF('l','pt'); 
   let data = [];
+  let inMillionsYear=[];
+  let cashEquivalents=[];
+  let accountsReceivable=[];
+  let inventories=[];
+  let prepaidExpensesOtherCurrentAssets=[];
+  let totalCurrentAssets=[];
+  let ppe=[];
+  let intangibleAssets=[];
+  let goodwill =[];
+  let otherAssets=[];
+  let totalAssets=[];
+  let currentPortionLongTermDebt=[];
+  let accountsPayable=[];
+  let accruedLiabilities = [];
+  let otherCurrentLiabilities = [];
+  let totalCurrentLiabilities=[];
+  let longTermDebt=[];
+  let otherLiabilities=[];
+  let totalShareholdersEquity=[];
+  let totalLiabilitiesShareholdersEquity=[];
+  let memocheck=[];
   ELEMENT_D.forEach(obj => {
-    let arr = [];
-    this.inputColumns.forEach(col => {
-      arr.push(obj[col]);
-      console.log(arr);
-    });
-    data.push(arr);
-  });      
+    inMillionsYear.push(obj["inMillions"]);
+    cashEquivalents.push(obj["Cash Equivalents"]);
+    accountsReceivable.push(obj["Accounts Receivable"]);
+    inventories.push(obj["Inventories"]);
+    prepaidExpensesOtherCurrentAssets.push(obj["Prepaid Expenses & Other Current Assets"]);
+    totalCurrentAssets.push(obj["Total Current Assets"]);
+    ppe.push(obj["Property Plant & Equipment"]);
+    intangibleAssets.push(obj["Intangible Assets"]);
+    goodwill.push(obj["Goodwill"]);
+    otherAssets.push(obj["Other Assets"]);
+    totalAssets.push(obj["Total Assets"]);
+    currentPortionLongTermDebt.push(obj["Current Portion Long Term Debt"]);
+    accountsPayable.push(obj["Accounts Payable"]);
+    accruedLiabilities.push(obj["Accrued Liabilities"]);
+    otherCurrentLiabilities.push(obj["Other Current Liabilities"]);
+    totalCurrentLiabilities.push(obj["Total Current Liabilities"]);
+    longTermDebt.push(obj["Long Term Debt"]);
+    otherLiabilities.push(obj["Other Liabilities"]);
+    totalShareholdersEquity.push(obj["Total Shareholders Equity"]);
+    totalLiabilitiesShareholdersEquity.push(obj["Total Liabilities and Shareholders Equity"]);
+    memocheck.push(obj["memocheck"]);
+  });
+  inMillionsYear.unshift("Years");
+  cashEquivalents.unshift("Cash Equivalents");
+  accountsReceivable.unshift("Accounts Receivable");
+  inventories.unshift("Inventories");
+  prepaidExpensesOtherCurrentAssets.unshift("Prepaid Expenses & Other Current Assets");
+  totalCurrentAssets.unshift("Total Current Assets");
+  ppe.unshift("Property Plant & Equipment");
+  intangibleAssets.unshift("Intangible Assets");
+  goodwill.unshift("Goodwill");
+  otherAssets.unshift("Other Assets");
+  totalAssets.unshift("Total Assets");
+  currentPortionLongTermDebt.unshift("Current Portion Long Term Debt");
+  accountsPayable.unshift("Accounts Payable");
+  accruedLiabilities.unshift("Accrued Liabilities");
+  otherCurrentLiabilities.unshift("Other Current Liabilities");
+  totalCurrentLiabilities.unshift("Total Current Liabilities");
+  longTermDebt.unshift("Long Term Debt");
+  otherLiabilities.unshift("Other Liabilities");
+  totalShareholdersEquity.unshift("Total Shareholders Equity");
+  totalLiabilitiesShareholdersEquity.unshift("Total Liabilities and Shareholders Equity");
+  memocheck.unshift("memocheck");
+  data.push(cashEquivalents,accountsReceivable,inventories,prepaidExpensesOtherCurrentAssets,totalCurrentAssets,ppe,intangibleAssets,goodwill,otherAssets,totalAssets,currentPortionLongTermDebt,accountsPayable,accruedLiabilities,otherCurrentLiabilities,totalCurrentLiabilities,longTermDebt,otherLiabilities,totalShareholdersEquity,totalLiabilitiesShareholdersEquity,memocheck);
+
     autoTable(doc,{
-      head: [this.inputColumns],
-      body: data
+      head: [inMillionsYear],
+      body: data,
+      styles: {overflow: 'linebreak',fontSize: 12},
     });
-    doc.save('table.pdf')
+    doc.save(this.companyName +'.pdf');
   }
 }
 

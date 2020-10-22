@@ -1,0 +1,534 @@
+Row	Reference
+Number 	2019 	2018 	2017
+RowRevenues and other income
+			(millions of dollars)
+	RowSales and other operating revenue 		255,583 	279,332 	237,162
+RowIncome from equity affiliates 	7 	5,441 	7,355 	5,380
+RowOther income 		3,914 	3,525 	1,821
+RowTotal revenues and other income 		264,938 	290,212 	244,363
+RowCosts and other deductions
+				RowCrude oil and product purchases Production and manufacturing expenses Selling, general and administrative expenses 		143,801 36,826 11,398 	156,172 36,682 11,480 	128,217
+32,690
+10,649
+RowDepreciation and depletion 	9 	18,998 	18,745 	19,893
+RowExploration expenses, including dry holes Non-service pension and postretirement benefit expense 	17 	1,269 1,235 	1,466 1,285 	1,790
+1,745
+RowInterest expense 		830 	766 	601
+RowOther taxes and duties 	19 	30,525 	32,663 	30,104
+RowTotal costs and other deductions 		244,882 	259,259 	225,689
+RowIncome before income taxes 		20,056 	30,953 	18,674
+RowIncome taxes 	19 	5,282 	9,532 	(1,174)
+RowNet income including noncontrolling interests Net income attributable to noncontrolling interests Net income attributable to ExxonMobil 		14,774 434 14,340 	21,421 581 20,840 	19,848
+138
+19,710
+RowEarnings per common share (dollars) 	12 	3.36 	4.88 	4.63
+RowEarnings per common share - assuming dilution (dollars) 	12 	3.36 	4.88 	4.63
+Row255,583 	279,332 	237,162
+Row5,441 	7,355 	5,380
+Row3,914 	3,525 	1,821
+Row264,938 	290,212 	244,363
+Row143,801 	156,172 	128,217
+Row36,826 	36,682 	32,690
+Row11,398 	11,480 	10,649
+Row18,998 	18,745 	19,893
+Row1,269 	1,466 	1,790
+Row1,235 	1,285 	1,745
+Row830 	766 	601
+Row30,525 	32,663 	30,104
+Row244,882 	259,259 	225,689
+Row20,056 	30,953 	18,674
+Row5,282 	9,532 	(1,174)
+Row14,774 	21,421 	19,848
+Row434 	581 	138
+Row14,340 	20,840 	19,710
+RowReference 	Dec. 31 	Dec. 31
+RowNumber 	2019 	2018
+RowAssets
+	(millions 	of dollars)
+RowCurrent assets
+		RowCash and cash equivalents 	3,089 	3,042
+RowNotes and accounts receivable, less estimated doubtful amounts 	6 26,966 	24,701
+RowInventories
+		RowCrude oil, products and merchandise 	3 14,010 	14,803
+RowMaterials and supplies 	4,518 	4,155
+RowOther current assets 	1,469 	1,272
+RowTotal current assets 	50,052 	47,973
+RowInvestments, advances and long-term receivables 	8 43,164 	40,790
+RowProperty, plant and equipment, at cost, less accumulated depreciation
+		Rowand depletion 	9 253,018 	247,101
+RowOther assets, including intangibles, net 	16,363 	10,332
+RowTotal assets 	362,597 	346,196
+RowLiabilities
+		RowCurrent liabilities
+		RowNotes and loans payable 	6 20,578 	17,258
+RowAccounts payable and accrued liabilities 	6 41,831 	37,268
+RowIncome taxes payable 	1,580 	2,612
+RowTotal current liabilities 	63,989 	57,138
+RowLong-term debt 	14 26,342 	20,538
+RowPostretirement benefits reserves 	17 22,304 	20,272
+RowDeferred income tax liabilities 	19 25,620 	27,244
+RowLong-term obligations to equity companies 	3,988 	4,382
+RowOther long-term obligations 	21,416 	18,094
+RowTotal liabilities 	163,659 	147,668
+Row3,089 	3,042
+Row26,966 	24,701
+Row14,010 	14,803
+Row4,518 	4,155
+Row1,469 	1,272
+Row50,052 	47,973
+Row43,164 	40,790
+Row253,018 	247,101
+Row16,363 	10,332
+Row362,597 	346,196
+Row20,578 	17,258
+Row41,831 	37,268
+Row1,580 	2,612
+Row63,989 	57,138
+Row26,342 	20,538
+Row22,304 	20,272
+Row25,620 	27,244
+Row3,988 	4,382
+Row21,416 	18,094
+Row163,659 	147,668
+RowCommon stock without par value
+	Row(9,000 million shares authorized, 8,019 million shares issued) 	15,637 15,258
+RowEarnings reinvested 	421,341 421,653
+RowAccumulated other comprehensive income 	(19,493) (19,564)
+RowCommon stock held in treasury
+	Row(3,785 million shares in 2019 and 3,782 million shares in 2018) 	(225,835) (225,553)
+RowExxonMobil share of equity 	191,650 191,794
+RowNoncontrolling interests 	7,288 6,734
+RowTotal equity 	198,938 198,528
+RowTotal liabilities and equity 	362,597 346,196
+Row15,637 	15,258
+Row421,341 	421,653
+Row(19,493) 	(19,564)
+Row(225,835) 	(225,553)
+Row191,650 	191,794
+Row7,288 	6,734
+Row198,938 	198,528
+Row362,597 	346,196
+RowReference
+Number 	2019 	2018 	2017
+RowCash flows from operating activities
+		(millions of dollars)
+	RowNet income including noncontrolling interests 	14,774 	21,421 	19,848
+RowAdjustments for noncash transactions
+			RowDepreciation and depletion
+9
+	18,998 	18,745 	19,893
+RowDeferred income tax charges/(credits) 	(944) 	(60) 	(8,577)
+RowPostretirement benefits expense
+			Rowin excess of/(less than) net payments 	109 	1,070 	1,135
+RowOther long-term obligation provisions
+			Rowin excess of/(less than) payments 	(3,038) 	(68) 	(610)
+RowDividends received greater than/(less than) equity in current
+			Rowearnings of equity companies 	(936) 	(1,684) 	131
+RowChanges in operational working capital, excluding cash and debt
+Reduction/(increase) - Notes and accounts receivable 	(2,640) 	(545) 	(3,954)
+Row- Inventories 	72 	(3,107) 	(1,682)
+Row- Other current assets 	(234) 	(25) 	(117)
+RowIncrease/(reduction) - Accounts and other payables 	3,725 	2,321 	5,104
+RowNet (gain) on asset sales 5 	(1,710) 	(1,993) 	(334)
+RowAll other items - net 	1,540 	(61) 	(771)
+RowNet cash provided by operating activities 	29,716 	36,014 	30,066
+RowCash flows from investing activities
+Additions to property, plant and equipment 	(24,361) 	(19,574) 	(15,402)
+RowProceeds associated with sales of subsidiaries, property, plant
+and equipment, and sales and returns of investments 	3,692 	4,123 	3,103
+RowAdditional investments and advances 	(3,905) 	(1,981) 	(5,507)
+RowOther investing activities including collection of advances 	1,490 	986 	2,076
+RowNet cash used in investing activities 	(23,084) 	(16,446) 	(15,730)
+RowCash flows from financing activities
+			RowAdditions to long-term debt 	7,052 	46 	60
+RowReductions in long-term debt 	(1) 	- 	-
+RowAdditions to short-term debt 	- 	- 	1,735
+RowReductions in short-term debt 	(4,043) 	(4,752) 	(5,024)
+RowAdditions/(reductions) in commercial paper, and debt with
+			Rowthree months or less maturity
+5
+	5,654 	(219) 	2,181
+RowCash dividends to ExxonMobil shareholders 	(14,652) 	(13,798) 	(13,001)
+RowCash dividends to noncontrolling interests 	(192) 	(243) 	(184)
+RowChanges in noncontrolling interests 	158 	146 	(150)
+RowCommon stock acquired 	(594) 	(626) 	(747)
+RowNet cash used in financing activities 	(6,618) 	(19,446) 	(15,130)
+RowEffects of exchange rate changes on cash 	33 	(257) 	314
+RowIncrease/(decrease) in cash and cash equivalents 	47 	(135) 	(480)
+RowCash and cash equivalents at beginning of year 	3,042 	3,177 	3,657
+RowCash and cash equivalents at end of year 	3,089 	3,042 	3,177
+RowThe information in the Notes to Consolidated Financial Statements is an 	integral part of these 	statements.
+	Row3,692 	4,123 	3,103
+Row(3,905) 	(1,981) 	(5,507)
+Row1,490 	986 	2,076
+Row(23,084) 	(16,446) 	(15,730)
+Row7,052 	46 	60
+Row(1) 	- 	-
+Row- 	- 	1,735
+Row(4,043) 	(4,752) 	(5,024)
+Row5,654 	(219) 	2,181
+Row(14,652) 	(13,798) 	(13,001)
+Row(192) 	(243) 	(184)
+Row158 	146 	(150)
+Row(594) 	(626) 	(747)
+Row(6,618) 	(19,446) 	(15,130)
+Row33 	(257) 	314
+Row47 	(135) 	(480)
+Row3,042 	3,177 	3,657
+Row3,089 	3,042 	3,177
+Row	Reference
+Number 	2019 	2018 	2017
+RowRevenues and other income
+			(millions of dollars)
+	RowSales and other operating revenue 		255,583 	279,332 	237,162
+RowIncome from equity affiliates 	7 	5,441 	7,355 	5,380
+RowOther income 		3,914 	3,525 	1,821
+RowTotal revenues and other income 		264,938 	290,212 	244,363
+RowCosts and other deductions
+				RowCrude oil and product purchases Production and manufacturing expenses Selling, general and administrative expenses 		143,801 36,826 11,398 	156,172 36,682 11,480 	128,217
+32,690
+10,649
+RowDepreciation and depletion 	9 	18,998 	18,745 	19,893
+RowExploration expenses, including dry holes Non-service pension and postretirement benefit expense 	17 	1,269 1,235 	1,466 1,285 	1,790
+1,745
+RowInterest expense 		830 	766 	601
+RowOther taxes and duties 	19 	30,525 	32,663 	30,104
+RowTotal costs and other deductions 		244,882 	259,259 	225,689
+RowIncome before income taxes 		20,056 	30,953 	18,674
+RowIncome taxes 	19 	5,282 	9,532 	(1,174)
+RowNet income including noncontrolling interests Net income attributable to noncontrolling interests Net income attributable to ExxonMobil 		14,774 434 14,340 	21,421 581 20,840 	19,848
+138
+19,710
+RowEarnings per common share (dollars) 	12 	3.36 	4.88 	4.63
+RowEarnings per common share - assuming dilution (dollars) 	12 	3.36 	4.88 	4.63
+Row255,583 	279,332 	237,162
+Row5,441 	7,355 	5,380
+Row3,914 	3,525 	1,821
+Row264,938 	290,212 	244,363
+Row143,801 	156,172 	128,217
+Row36,826 	36,682 	32,690
+Row11,398 	11,480 	10,649
+Row18,998 	18,745 	19,893
+Row1,269 	1,466 	1,790
+Row1,235 	1,285 	1,745
+Row830 	766 	601
+Row30,525 	32,663 	30,104
+Row244,882 	259,259 	225,689
+Row20,056 	30,953 	18,674
+Row5,282 	9,532 	(1,174)
+Row14,774 	21,421 	19,848
+Row434 	581 	138
+Row14,340 	20,840 	19,710
+RowReference 	Dec. 31 	Dec. 31
+RowNumber 	2019 	2018
+RowAssets
+	(millions 	of dollars)
+RowCurrent assets
+		RowCash and cash equivalents 	3,089 	3,042
+RowNotes and accounts receivable, less estimated doubtful amounts 	6 26,966 	24,701
+RowInventories
+		RowCrude oil, products and merchandise 	3 14,010 	14,803
+RowMaterials and supplies 	4,518 	4,155
+RowOther current assets 	1,469 	1,272
+RowTotal current assets 	50,052 	47,973
+RowInvestments, advances and long-term receivables 	8 43,164 	40,790
+RowProperty, plant and equipment, at cost, less accumulated depreciation
+		Rowand depletion 	9 253,018 	247,101
+RowOther assets, including intangibles, net 	16,363 	10,332
+RowTotal assets 	362,597 	346,196
+RowLiabilities
+		RowCurrent liabilities
+		RowNotes and loans payable 	6 20,578 	17,258
+RowAccounts payable and accrued liabilities 	6 41,831 	37,268
+RowIncome taxes payable 	1,580 	2,612
+RowTotal current liabilities 	63,989 	57,138
+RowLong-term debt 	14 26,342 	20,538
+RowPostretirement benefits reserves 	17 22,304 	20,272
+RowDeferred income tax liabilities 	19 25,620 	27,244
+RowLong-term obligations to equity companies 	3,988 	4,382
+RowOther long-term obligations 	21,416 	18,094
+RowTotal liabilities 	163,659 	147,668
+Row3,089 	3,042
+Row26,966 	24,701
+Row14,010 	14,803
+Row4,518 	4,155
+Row1,469 	1,272
+Row50,052 	47,973
+Row43,164 	40,790
+Row253,018 	247,101
+Row16,363 	10,332
+Row362,597 	346,196
+Row20,578 	17,258
+Row41,831 	37,268
+Row1,580 	2,612
+Row63,989 	57,138
+Row26,342 	20,538
+Row22,304 	20,272
+Row25,620 	27,244
+Row3,988 	4,382
+Row21,416 	18,094
+Row163,659 	147,668
+RowCommon stock without par value
+	Row(9,000 million shares authorized, 8,019 million shares issued) 	15,637 15,258
+RowEarnings reinvested 	421,341 421,653
+RowAccumulated other comprehensive income 	(19,493) (19,564)
+RowCommon stock held in treasury
+	Row(3,785 million shares in 2019 and 3,782 million shares in 2018) 	(225,835) (225,553)
+RowExxonMobil share of equity 	191,650 191,794
+RowNoncontrolling interests 	7,288 6,734
+RowTotal equity 	198,938 198,528
+RowTotal liabilities and equity 	362,597 346,196
+Row15,637 	15,258
+Row421,341 	421,653
+Row(19,493) 	(19,564)
+Row(225,835) 	(225,553)
+Row191,650 	191,794
+Row7,288 	6,734
+Row198,938 	198,528
+Row362,597 	346,196
+RowReference
+Number 	2019 	2018 	2017
+RowCash flows from operating activities
+		(millions of dollars)
+	RowNet income including noncontrolling interests 	14,774 	21,421 	19,848
+RowAdjustments for noncash transactions
+			RowDepreciation and depletion
+9
+	18,998 	18,745 	19,893
+RowDeferred income tax charges/(credits) 	(944) 	(60) 	(8,577)
+RowPostretirement benefits expense
+			Rowin excess of/(less than) net payments 	109 	1,070 	1,135
+RowOther long-term obligation provisions
+			Rowin excess of/(less than) payments 	(3,038) 	(68) 	(610)
+RowDividends received greater than/(less than) equity in current
+			Rowearnings of equity companies 	(936) 	(1,684) 	131
+RowChanges in operational working capital, excluding cash and debt
+Reduction/(increase) - Notes and accounts receivable 	(2,640) 	(545) 	(3,954)
+Row- Inventories 	72 	(3,107) 	(1,682)
+Row- Other current assets 	(234) 	(25) 	(117)
+RowIncrease/(reduction) - Accounts and other payables 	3,725 	2,321 	5,104
+RowNet (gain) on asset sales 5 	(1,710) 	(1,993) 	(334)
+RowAll other items - net 	1,540 	(61) 	(771)
+RowNet cash provided by operating activities 	29,716 	36,014 	30,066
+RowCash flows from investing activities
+Additions to property, plant and equipment 	(24,361) 	(19,574) 	(15,402)
+RowProceeds associated with sales of subsidiaries, property, plant
+and equipment, and sales and returns of investments 	3,692 	4,123 	3,103
+RowAdditional investments and advances 	(3,905) 	(1,981) 	(5,507)
+RowOther investing activities including collection of advances 	1,490 	986 	2,076
+RowNet cash used in investing activities 	(23,084) 	(16,446) 	(15,730)
+RowCash flows from financing activities
+			RowAdditions to long-term debt 	7,052 	46 	60
+RowReductions in long-term debt 	(1) 	- 	-
+RowAdditions to short-term debt 	- 	- 	1,735
+RowReductions in short-term debt 	(4,043) 	(4,752) 	(5,024)
+RowAdditions/(reductions) in commercial paper, and debt with
+			Rowthree months or less maturity
+5
+	5,654 	(219) 	2,181
+RowCash dividends to ExxonMobil shareholders 	(14,652) 	(13,798) 	(13,001)
+RowCash dividends to noncontrolling interests 	(192) 	(243) 	(184)
+RowChanges in noncontrolling interests 	158 	146 	(150)
+RowCommon stock acquired 	(594) 	(626) 	(747)
+RowNet cash used in financing activities 	(6,618) 	(19,446) 	(15,130)
+RowEffects of exchange rate changes on cash 	33 	(257) 	314
+RowIncrease/(decrease) in cash and cash equivalents 	47 	(135) 	(480)
+RowCash and cash equivalents at beginning of year 	3,042 	3,177 	3,657
+RowCash and cash equivalents at end of year 	3,089 	3,042 	3,177
+RowThe information in the Notes to Consolidated Financial Statements is an 	integral part of these 	statements.
+	Row3,692 	4,123 	3,103
+Row(3,905) 	(1,981) 	(5,507)
+Row1,490 	986 	2,076
+Row(23,084) 	(16,446) 	(15,730)
+Row7,052 	46 	60
+Row(1) 	- 	-
+Row- 	- 	1,735
+Row(4,043) 	(4,752) 	(5,024)
+Row5,654 	(219) 	2,181
+Row(14,652) 	(13,798) 	(13,001)
+Row(192) 	(243) 	(184)
+Row158 	146 	(150)
+Row(594) 	(626) 	(747)
+Row(6,618) 	(19,446) 	(15,130)
+Row33 	(257) 	314
+Row47 	(135) 	(480)
+Row3,042 	3,177 	3,657
+Row3,089 	3,042 	3,177
+Row:	Reference
+Number 	2019 	2018 	2017
+Row:Revenues and other income
+			(millions of dollars)
+	Row:Sales and other operating revenue 		255,583 	279,332 	237,162
+Row:Income from equity affiliates 	7 	5,441 	7,355 	5,380
+Row:Other income 		3,914 	3,525 	1,821
+Row:Total revenues and other income 		264,938 	290,212 	244,363
+Row:Costs and other deductions
+				Row:Crude oil and product purchases Production and manufacturing expenses Selling, general and administrative expenses 		143,801 36,826 11,398 	156,172 36,682 11,480 	128,217
+32,690
+10,649
+Row:Depreciation and depletion 	9 	18,998 	18,745 	19,893
+Row:Exploration expenses, including dry holes Non-service pension and postretirement benefit expense 	17 	1,269 1,235 	1,466 1,285 	1,790
+1,745
+Row:Interest expense 		830 	766 	601
+Row:Other taxes and duties 	19 	30,525 	32,663 	30,104
+Row:Total costs and other deductions 		244,882 	259,259 	225,689
+Row:Income before income taxes 		20,056 	30,953 	18,674
+Row:Income taxes 	19 	5,282 	9,532 	(1,174)
+Row:Net income including noncontrolling interests Net income attributable to noncontrolling interests Net income attributable to ExxonMobil 		14,774 434 14,340 	21,421 581 20,840 	19,848
+138
+19,710
+Row:Earnings per common share (dollars) 	12 	3.36 	4.88 	4.63
+Row:Earnings per common share - assuming dilution (dollars) 	12 	3.36 	4.88 	4.63
+Row:255,583 	279,332 	237,162
+Row:5,441 	7,355 	5,380
+Row:3,914 	3,525 	1,821
+Row:264,938 	290,212 	244,363
+Row:143,801 	156,172 	128,217
+Row:36,826 	36,682 	32,690
+Row:11,398 	11,480 	10,649
+Row:18,998 	18,745 	19,893
+Row:1,269 	1,466 	1,790
+Row:1,235 	1,285 	1,745
+Row:830 	766 	601
+Row:30,525 	32,663 	30,104
+Row:244,882 	259,259 	225,689
+Row:20,056 	30,953 	18,674
+Row:5,282 	9,532 	(1,174)
+Row:14,774 	21,421 	19,848
+Row:434 	581 	138
+Row:14,340 	20,840 	19,710
+Row:Reference 	Dec. 31 	Dec. 31
+Row:Number 	2019 	2018
+Row:Assets
+	(millions 	of dollars)
+Row:Current assets
+		Row:Cash and cash equivalents 	3,089 	3,042
+Row:Notes and accounts receivable, less estimated doubtful amounts 	6 26,966 	24,701
+Row:Inventories
+		Row:Crude oil, products and merchandise 	3 14,010 	14,803
+Row:Materials and supplies 	4,518 	4,155
+Row:Other current assets 	1,469 	1,272
+Row:Total current assets 	50,052 	47,973
+Row:Investments, advances and long-term receivables 	8 43,164 	40,790
+Row:Property, plant and equipment, at cost, less accumulated depreciation
+		Row:and depletion 	9 253,018 	247,101
+Row:Other assets, including intangibles, net 	16,363 	10,332
+Row:Total assets 	362,597 	346,196
+Row:Liabilities
+		Row:Current liabilities
+		Row:Notes and loans payable 	6 20,578 	17,258
+Row:Accounts payable and accrued liabilities 	6 41,831 	37,268
+Row:Income taxes payable 	1,580 	2,612
+Row:Total current liabilities 	63,989 	57,138
+Row:Long-term debt 	14 26,342 	20,538
+Row:Postretirement benefits reserves 	17 22,304 	20,272
+Row:Deferred income tax liabilities 	19 25,620 	27,244
+Row:Long-term obligations to equity companies 	3,988 	4,382
+Row:Other long-term obligations 	21,416 	18,094
+Row:Total liabilities 	163,659 	147,668
+Row:3,089 	3,042
+Row:26,966 	24,701
+Row:14,010 	14,803
+Row:4,518 	4,155
+Row:1,469 	1,272
+Row:50,052 	47,973
+Row:43,164 	40,790
+Row:253,018 	247,101
+Row:16,363 	10,332
+Row:362,597 	346,196
+Row:20,578 	17,258
+Row:41,831 	37,268
+Row:1,580 	2,612
+Row:63,989 	57,138
+Row:26,342 	20,538
+Row:22,304 	20,272
+Row:25,620 	27,244
+Row:3,988 	4,382
+Row:21,416 	18,094
+Row:163,659 	147,668
+Row:Common stock without par value
+	Row:(9,000 million shares authorized, 8,019 million shares issued) 	15,637 15,258
+Row:Earnings reinvested 	421,341 421,653
+Row:Accumulated other comprehensive income 	(19,493) (19,564)
+Row:Common stock held in treasury
+	Row:(3,785 million shares in 2019 and 3,782 million shares in 2018) 	(225,835) (225,553)
+Row:ExxonMobil share of equity 	191,650 191,794
+Row:Noncontrolling interests 	7,288 6,734
+Row:Total equity 	198,938 198,528
+Row:Total liabilities and equity 	362,597 346,196
+Row:15,637 	15,258
+Row:421,341 	421,653
+Row:(19,493) 	(19,564)
+Row:(225,835) 	(225,553)
+Row:191,650 	191,794
+Row:7,288 	6,734
+Row:198,938 	198,528
+Row:362,597 	346,196
+Row:Reference
+Number 	2019 	2018 	2017
+Row:Cash flows from operating activities
+		(millions of dollars)
+	Row:Net income including noncontrolling interests 	14,774 	21,421 	19,848
+Row:Adjustments for noncash transactions
+			Row:Depreciation and depletion
+9
+	18,998 	18,745 	19,893
+Row:Deferred income tax charges/(credits) 	(944) 	(60) 	(8,577)
+Row:Postretirement benefits expense
+			Row:in excess of/(less than) net payments 	109 	1,070 	1,135
+Row:Other long-term obligation provisions
+			Row:in excess of/(less than) payments 	(3,038) 	(68) 	(610)
+Row:Dividends received greater than/(less than) equity in current
+			Row:earnings of equity companies 	(936) 	(1,684) 	131
+Row:Changes in operational working capital, excluding cash and debt
+Reduction/(increase) - Notes and accounts receivable 	(2,640) 	(545) 	(3,954)
+Row:- Inventories 	72 	(3,107) 	(1,682)
+Row:- Other current assets 	(234) 	(25) 	(117)
+Row:Increase/(reduction) - Accounts and other payables 	3,725 	2,321 	5,104
+Row:Net (gain) on asset sales 5 	(1,710) 	(1,993) 	(334)
+Row:All other items - net 	1,540 	(61) 	(771)
+Row:Net cash provided by operating activities 	29,716 	36,014 	30,066
+Row:Cash flows from investing activities
+Additions to property, plant and equipment 	(24,361) 	(19,574) 	(15,402)
+Row:Proceeds associated with sales of subsidiaries, property, plant
+and equipment, and sales and returns of investments 	3,692 	4,123 	3,103
+Row:Additional investments and advances 	(3,905) 	(1,981) 	(5,507)
+Row:Other investing activities including collection of advances 	1,490 	986 	2,076
+Row:Net cash used in investing activities 	(23,084) 	(16,446) 	(15,730)
+Row:Cash flows from financing activities
+			Row:Additions to long-term debt 	7,052 	46 	60
+Row:Reductions in long-term debt 	(1) 	- 	-
+Row:Additions to short-term debt 	- 	- 	1,735
+Row:Reductions in short-term debt 	(4,043) 	(4,752) 	(5,024)
+Row:Additions/(reductions) in commercial paper, and debt with
+			Row:three months or less maturity
+5
+	5,654 	(219) 	2,181
+Row:Cash dividends to ExxonMobil shareholders 	(14,652) 	(13,798) 	(13,001)
+Row:Cash dividends to noncontrolling interests 	(192) 	(243) 	(184)
+Row:Changes in noncontrolling interests 	158 	146 	(150)
+Row:Common stock acquired 	(594) 	(626) 	(747)
+Row:Net cash used in financing activities 	(6,618) 	(19,446) 	(15,130)
+Row:Effects of exchange rate changes on cash 	33 	(257) 	314
+Row:Increase/(decrease) in cash and cash equivalents 	47 	(135) 	(480)
+Row:Cash and cash equivalents at beginning of year 	3,042 	3,177 	3,657
+Row:Cash and cash equivalents at end of year 	3,089 	3,042 	3,177
+Row:The information in the Notes to Consolidated Financial Statements is an 	integral part of these 	statements.
+	Row:3,692 	4,123 	3,103
+Row:(3,905) 	(1,981) 	(5,507)
+Row:1,490 	986 	2,076
+Row:(23,084) 	(16,446) 	(15,730)
+Row:7,052 	46 	60
+Row:(1) 	- 	-
+Row:- 	- 	1,735
+Row:(4,043) 	(4,752) 	(5,024)
+Row:5,654 	(219) 	2,181
+Row:(14,652) 	(13,798) 	(13,001)
+Row:(192) 	(243) 	(184)
+Row:158 	146 	(150)
+Row:(594) 	(626) 	(747)
+Row:(6,618) 	(19,446) 	(15,130)
+Row:33 	(257) 	314
+Row:47 	(135) 	(480)
+Row:3,042 	3,177 	3,657
+Row:3,089 	3,042 	3,177

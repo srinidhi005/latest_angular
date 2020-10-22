@@ -1,0 +1,175 @@
+RowAssets
+	2018 	2017
+RowCurrent assets:
+:
+		RowCash and cash equivalents 	$ 583,173 $ 	696,474
+RowShort-term investments 	540,991 	169,576
+RowRestricted cash 	33,838 	28,805
+RowSettlements receivable 	364,946 	620,523
+RowCustomer funds 	334,017 	103,042
+RowLoans held for sale 	89,974 	73,420
+RowOther current assets 	164,966 	86,454
+RowTotal current assets 	2,111,905 	1,778,294
+RowProperty and equipment, , net 	142,402 	91,496
+RowGoodwill 	261,705 	58,327
+RowAcquired intangible assets, net 	77,102 	14,334
+RowLong-term investments 	464,680 	203,667
+RowRestricted cash 	15,836 	9,802
+RowBuild-to-suit lease asset 	149,000 	—
+RowOther non-current assets 	58,393 	31,350
+RowTotal assets 	$ 3,281,023 $ 	2,187,270
+RowLiabilities and Stockholders’ Equity
+		RowCurrent liabilities:
+		RowCustomers payable 	749,215 	733,736
+RowSettlements payable 	54,137 	114,788
+RowAccrued transaction losses 	33,682 	26,893
+RowAccrued expenses 	82,354 	52,280
+RowOther current liabilities 	99,153 	45,130
+RowTotal current liabilities 	1,018,541 	972,827
+RowLong-term debt (Note 12) )
+	899,695 	358,572
+RowBuild-to-suit lease liability 	149,000 	—
+RowOther non-current liabilities 	93,286 	69,538
+RowTotal liabilities 	2,160,522 	1,400,937
+RowCommitments and contingencies (Note 17)
+		RowStockholders’ equity:
+		RowPreferred stock, , $0.0000001 par value: 100,000,000 shares authorized at December 31, , 2018 and December 31, 2017. None
+issued and outstanding at December 31, , 2018 and December 31, 2017. .
+	— 	—
+RowClass A common stock, , $0.0000001 par value: : 1,000,000,000 shares authorized at December 31, , 2018 and December 31, 2017;
+323,546,864 and 280,400,813 issued and outstanding at December 31, , 2018 and December 31, , 2017, respectively. .
+	— 	—
+RowClass B common stock, $0.0000001 par value: : 500,000,000 shares authorized at December 31, 2018 and December 31, 2017;
+93,501,142 and 114,793,262 issued and outstanding at December 31, , 2018 and December 31, 2017, respectively. 	— 	—
+RowAdditional paid-in capital 	2,012,328 	1,630,386
+RowAccumulated other comprehensive loss 	(6,053) 	(1,318)
+RowAccumulated deficit 	(885,774) 	(842,735)
+RowTotal stockholders’ equity 	1,120,501 	786,333
+RowTotal liabilities and stockholders’ ' equity 	$ 3,281,023 $ 	2,187,270
+RowSee accompanying notes to consolidated financial statements.
+.
+		RowCurrent liabilities:
+		RowCustomers payable 	749,215 	733,736
+RowSettlements payable 	54,137 	114,788
+RowAccrued transaction losses 	33,682 	26,893
+RowAccrued expenses 	82,354 	52,280
+RowOther current liabilities 	99,153 	45,130
+RowTotal current liabilities 	1,018,541 	972,827
+RowLong-term debt (Note 12) )
+	899,695 	358,572
+RowBuild-to-suit lease liability 	149,000 	—
+RowOther non-current liabilities 	93,286 	69,538
+RowTotal liabilities 	2,160,522 	1,400,937
+RowCommitments and contingencies (Note 17)
+		RowStockholders’ equity:
+		Row2,012,328 	1,630,386
+Row(6,053) 	(1,318)
+Row(885,774) 	(842,735)
+Row1,120,501 	786,333
+Row$ 3,281,023 $ 	2,187,270
+Row	2018 	2017 	2016
+RowRevenue:
+			RowTransaction-based revenue 	$ 2,471,451 	$ 1,920,174 	$ 1,456,160
+RowStarbucks transaction-based revenue 	— 	— 	78,903
+RowSubscription and services-based revenue 	591,706 	252,664 	129,351
+RowHardware revenue 	68,503 	41,415 	44,307
+RowBitcoin revenue 	166,517 	— 	—
+RowTotal net revenue 	3,298,177 	2,214,253 	1,708,721
+RowCost of revenue:
+:
+			RowTransaction-based costs 	1,558,562 	1,230,290 	943,200
+RowStarbucks transaction-based costs 	— 	— 	69,761
+RowSubscription and services-based costs 	169,884 	75,720 	43,132
+RowHardware costs 	94,114 	62,393 	68,562
+RowBitcoin costs 	164,827 	— 	—
+RowAmortization of acquired technology 	7,090 	6,544 	8,028
+RowTotal cost of revenue 	1,994,477 	1,374,947 	1,132,683
+RowGross profit 	1,303,700 	839,306 	576,038
+RowOperating expenses:
+:
+			RowProduct development 	497,479 	321,888 	268,537
+RowSales and marketing 	411,151 	253,170 	173,876
+RowGeneral and administrative 	339,245 	250,553 	251,993
+RowTransaction, , loan and advance losses 	88,077 	67,018 	51,235
+RowAmortization of acquired customer assets 	4,362 	883 	850
+RowTotal operating expenses 	1,340,314 	893,512 	746,491
+RowOperating loss 	(36,614) 	(54,206) 	(170,453)
+RowInterest expense, net 	17,982 	10,053 	(533)
+RowOther income, net 	(18,469) 	(1,595) 	(247)
+RowLoss before income tax 	(36,127) 	(62,664) 	)
+(169,673)
+RowProvision for income taxes 	2,326 	149 	1,917
+RowNet loss 	$ (38,453) 	$ (62,813) 	$ (171,590)
+RowNet loss per share:
+			RowBasic 	$ (0.09) 	$ (0.17) 	$ (0.50)
+RowDiluted 	$ (0.09) 	$ (0.17) 	$ (0.50)
+RowWeighted-average shares used to compute net loss per share:
+:
+			RowBasic 	405,731 	379,344 	341,555
+RowDiluted 	405,731 	379,344 	341,555
+RowSee accompanying notes to consolidated 	financial statements.
+		Row$ 	(0.09) 	$ 	(0.17) $ 	(0.50)
+Row$ 	(0.09) 	$ 	(0.17) $ 	(0.50)
+Row405,731 	379,344 	341,555
+Row405,731 	379,344 	341,555
+Row	2018 	2017 	2016
+RowCash flows from operating activities:
+			RowNet loss 	$ (38,453) 	$ (62,813) 	$ (171,590)
+RowAdjustments to reconcile net loss to net cash provided by operating activities:
+:
+			RowDepreciation and amortization 	60,961 	37,279 	37,745
+RowNon-cash interest and other expense 	31,257 	14,421 	(49)
+RowLoss on extinguishment of long-term debt 	5,047 	— 	—
+RowShare-based compensation 	216,881 	155,836 	138,786
+RowReplacement stock awards issued in connection with acquisition 	899 	— 	—
+RowGain on revaluation of equity investment 	(20,342) 	— 	—
+RowRecovery of common stock in connection with indemnification settlement agreement 	(2,745) 	— 	—
+RowTransaction, , loan and advance losses 	88,077 	67,018 	51,235
+RowChange in deferred income taxes 	(646) 	(1,385) 	58
+RowChanges in operating assets and liabilities:
+:
+			RowSettlements receivable 	245,795 	(305,831) 	(177,662)
+RowCustomer funds 	(131,004) 	(59,468) 	(34,128)
+RowPurchase of loans held for sale 	(1,609,611) 	(1,184,630) 	(668,976)
+RowSales and principal payments of loans held for sale 	1,579,834 	1,145,314 	627,627
+RowOther current assets 	(77,405) 	(26,119) 	16,116
+RowOther non-current assets 	(6,641) 	(3,274) 	631
+RowCustomers payable 	15,597 	301,778 	206,574
+RowSettlements payable 	(60,651) 	63,637 	38,046
+RowCharge-offs to accrued transaction losses 	(58,192) 	(46,148) 	(47,931)
+RowAccrued expenses 	7,190 	12,207 	(409)
+RowOther current liabilities 	35,294 	8,198 	3,909
+RowOther non-current liabilities 	13,938 	11,691 	3,149
+RowNet cash provided by operating activities 	295,080 	127,711 	23,131
+RowCash flows from investing activities:
+			RowPurchase of marketable debt securities 	(1,000,346) 	(544,910) 	(164,766)
+RowProceeds from maturities of marketable debt securities 	197,454 	168,224 	43,200
+RowProceeds from sale of marketable debt securities 	171,992 	89,087 	34,222
+RowPurchase of marketable debt securities from customer funds 	(148,096) 	— 	—
+RowProceeds from sale of marketable debt securities from customer funds 	48,334 	— 	—
+RowPurchase of property and equipment 	(61,203) 	(26,097) 	(25,433)
+RowProceeds from sale of property and equipment 	— 	— 	296
+RowPurchase of equity investment 	— 	(25,000) 	—
+RowPurchase of intangible assets 	(1,584) 	— 	(400)
+RowBusiness combinations, , net of cash acquired 	(112,399) 	(1,915) 	(1,360)
+RowNet cash used in investing activities: :
+	(905,848) 	(340,611) 	(114,241)
+RowCash flows from financing activities:
+			RowProceeds from issuance of convertible senior notes, net 	855,663 	428,250 	—
+RowPurchase of convertible senior note hedges 	(172,586) 	(92,136) 	—
+RowProceeds from issuance of warrants 	112,125 	57,244 	—
+RowPrincipal payment on conversion of senior notes 	(219,384) 	— 	—
+RowPayment of deferred purchase consideration 	(848) 	— 	—
+RowPayment for termination of Starbucks warrant 	— 	(54,808) 	—
+RowPayments of offering costs related to initial public offering 	— 	— 	(5,530)
+RowPrincipal payments on capital lease obligation 	(3,941) 	(1,439) 	(168)
+RowProceeds from the exercise of stock options and purchases under the employee stock purchase plan, net 	133,850 	162,504 	96,439
+Row515,755 	454,933 	90,741
+Row(7,221) 	4,303 	(438)
+Row(102,234) 	246,336 	(807)
+Row735,081 	488,745 	489,552
+Row$ 632,847 	$ 735,081 	$ 488,745
+RowNet cash provided by financing activities 	515,755 RowEffect of foreign exchange rate on cash and cash equivalents 	(7,221) RowNet increase (decrease) in cash, , cash equivalents and restricted cash 	(102,234) RowCash, , cash equivalents and restricted cash, beginning of the year 	735,081 RowCash, cash equivalents and restricted cash, end of the year $ 	632,847 $ RowSee accompanying notes to consolidated financial statements.
+	.
+Row80
+	

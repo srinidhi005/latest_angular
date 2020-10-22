@@ -57,6 +57,7 @@ export class StatementComponent implements OnInit {
     this.progressBar=true;
     this.dataSource.paginator = this.paginator;
     this.apiService.getData(this.urlConfig.getStatementAPI()).subscribe((res:any)=>{
+      console.log("res",res);
     const data = res.map((el,index)=>({...el,position:index+1,action:null}));
     this.dataset=data;
     for (let index=0; index<=data.length;index++){

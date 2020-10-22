@@ -1,0 +1,134 @@
+Row:	2018
+	2017
+Row:Assets
+		Row:Current assets:
+Cash and cash equivalents 	$ 346,140 $ 	488,329
+Row:Short term investment securities 	378,039 	-
+Row:Merchandise inventories 	2,730,874 	2,905,660
+Row:Prepaid expenses and other current assets 	516,025 	197,912
+Row:Total current assets 	3,971,078 	3,591,901
+Row:Long term investment securities 	19,517 	89,592
+Row:Property and equipment, net 	1,909,289 	1,837,129
+Row:Goodwill 	716,283 	697,085
+Row:Other assets 	424,639 	606,948
+Row:Total assets 	$ 7,040,806 $ 	6,822,655
+Row:Liabilities and Shareholders' Equity
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 1,197,504 $ 	1,179,088
+Row:Accrued expenses and other current liabilities 	633,100 	484,114
+Row:Merchandise credit and gift card liabilities 	335,081 	309,478
+Row:Current income taxes payable 	- 	59,821
+Row:Total current liabilities 	2,165,685 	2,032,501
+Row:Deferred rent and other liabilities 	431,592 	511,303
+Row:Income taxes payable 	62,823 	67,971
+Row:Long term debt 	1,492,078 	1,491,603
+Row:Total liabilities 	4,152,178 	4,103,378
+Row:Shareholders' equity:
+		Row:Preferred stock - $0.01 par value; authorized - 1,000 shares; no shares issued or outstanding 	- 	-
+Row:Common stock - $0.01 par value; authorized - 900,000 shares; issued 341,795 and 339,533 shares,
+		Row:respectively; outstanding 140,498 and 146,274 shares, respectively 	3,418 	3,395
+Row:Additional paid-in capital 	2,057,975 	1,974,781
+Row:Retained earnings 	11,343,503 	11,003,890
+Row:Treasury stock, at cost 	(10,467,972) 	(10,215,539)
+Row:Accumulated other comprehensive loss 	(48,296) 	(47,250)
+Row:Total shareholders' equity 	2,888,628 	2,719,277
+Row:Total liabilities and shareholders' equity 	$ 7,040,806 $ 	6,822,655
+Row:See accompanying Notes to Consolidated Financial Statements.
+		Row:Liabilities and Shareholders' Equity
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 1,197,504 $ 	1,179,088
+Row:Accrued expenses and other current liabilities 	633,100 	484,114
+Row:Merchandise credit and gift card liabilities 	335,081 	309,478
+Row:Current income taxes payable 	- 	59,821
+Row:Total current liabilities 	2,165,685 	2,032,501
+Row:Deferred rent and other liabilities 	431,592 	511,303
+Row:Income taxes payable 	62,823 	67,971
+Row:Long term debt 	1,492,078 	1,491,603
+Row:Total liabilities 	4,152,178 	4,103,378
+Row:$ 1,197,504 	$ 1,179,088
+Row:633,100 	484,114
+Row:335,081 	309,478
+Row:- 	59,821
+Row:2,165,685 	2,032,501
+Row:431,592 	511,303
+Row:62,823 	67,971
+Row:1,492,078 	1,491,603
+Row:4,152,178 	4,103,378
+Row:Common stock - $0.01 par value; authorized - 900,000 shares; issued respectively; outstanding 140,498 and 146,274 shares, respectively 	341,795 and 	339,533 shares,
+3,418 	3,395
+Row:Additional paid-in capital 		2,057,975 	1,974,781
+Row:Retained earnings 		11,343,503 	11,003,890
+Row:Treasury stock, at cost 		(10,467,972) 	(10,215,539)
+Row:Accumulated other comprehensive loss 		(48,296) 	(47,250)
+Row:Total shareholders' equity 		2,888,628 	2,719,277
+Row:Total liabilities and shareholders' equity 		$ 7,040,806 	$ 6,822,655
+Row:3,418 	3,395
+Row:2,057,975 	1,974,781
+Row:11,343,503 	11,003,890
+Row:(10,467,972) 	(10,215,539)
+Row:(48,296) 	(47,250)
+Row:2,888,628 	2,719,277
+Row:$ 7,040,806 $ 	6,822,655
+Row:Net sales 	$ 	12,349,301 	$ 	12,215,757 	$ 	12,103,887
+Row:Cost of sales 		7,906,286 		7,639,407 		7,483,577
+Row:Gross profit 		4,443,015 		4,576,350 		4,620,310
+Row:Selling, general and administrative expenses 		3,681,694 		3,441,140 		3,205,407
+Row:Operating profit 		761,321 		1,135,210 		1,414,903
+Row:Interest expense, net 		65,661 		69,555 		87,458
+Row:Earnings before provision for income taxes 		695,660 		1,065,655 		1,327,445
+Row:Provision for income taxes 		270,802 		380,547 		485,956
+Row:Net earnings 	$ 	424,858 	$ 	685,108 	$ 	841,489
+Row:Net earnings per share - Basic 	$ 	3.05 	$ 	4.61 	$ 	5.15
+Row:Net earnings per share - Diluted 	$ 	3.04 	$ 	4.58 	$ 	5.10
+Row:Weighted average shares outstanding - Basic Weighted average shares outstanding - Diluted 		139,238 139,739 		148,590 149,708 		163,257
+165,016
+Row:Dividends declared per share 	$ 	0.60 	$ 	0.50 	$ 	-
+Row:Net earnings 	$ 424,858 	$ 685,108 $ 	841,489
+Row:Other comprehensive (loss) income:
+			Row:Change in temporary impairment of auction rate securities, net of taxes 	95 	(351) 	1,584
+Row:Pension adjustment, net of taxes 	2,021 	1,710 	(351)
+Row:Currency translation adjustment 	(2,548) 	6,389 	(13,918)
+Row:Reclassification due to the adoption of ASU 2018-02 	(614) 	- 	-
+Row:Other comprehensive (loss) income 	(1,046) 	7,748 	(12,685)
+Row:Comprehensive income 	$ 423,812 	$ 692,856 $ 	828,804
+Row:Cash Flows from Operating Activities:
+			Row:Net earnings $ Adjustments to reconcile net earnings to net cash provided by operating activities:
+	424,858 	$ 685,108 	$ 841,489
+Row:Depreciation and amortization 	313,107 	290,914 	273,947
+Row:Stock-based compensation 	70,510 	71,911 	66,965
+Row:Deferred income taxes 	175,351 	24,878 	56,997
+Row:Other 	(69) 	(1,032) 	398
+Row:Decrease (increase) in assets, net of effect of acquisitions:
+			Row:Merchandise inventories 	176,672 	(38,493) 	(121,748)
+Row:Trading investment securities 	(16,036) 	(18,780) 	(2,270)
+Row:Other current assets 	(258,853) 	(18,464) 	(16,171)
+Row:Other assets 	(4,754) 	(14,480) 	(27,904)
+Row:Increase (decrease) in liabilities, net of effect of acquisitions:
+			Row:Accounts payable 	13,210 	49,458 	(48,148)
+Row:Accrued expenses and other current liabilities 	80,375 	(8,586) 	6,694
+Row:Merchandise credit and gift card liabilities 	25,510 	11,390 	(7,872)
+Row:Income taxes payable 	(64,941) 	(8,307) 	(15,036)
+Row:Deferred rent and other liabilities 	(75,251) 	17,754 	15,213
+Row:Net cash provided by operating activities 	859,689 	1,043,271 	1,022,554
+Row:Cash Flows from Investing Activities:
+			Row:Purchase of held-to-maturity investment securities 	(292,500) 	- 	(103,017)
+Row:Redemption of held-to-maturity investment securities 	- 	86,240 	126,875
+Row:Redemption of available-for-sale investment securities 	- 	- 	28,905
+Row:Capital expenditures 	(375,793) 	(373,574) 	(328,395)
+Row:Investment in unconsolidated joint venture 	- 	(3,318) 	-
+Row:Payment for acquisitions, net of cash acquired 	(6,119) 	(201,277) 	-
+Row:Net cash used in investing activities 	(674,412) 	(491,929) 	(275,632)
+Row:Cash Flows from Financing Activities:
+			Row:Proceeds from exercise of stock options 	10,313 	20,424 	9,109
+Row:Payment of other liabilities 	(434) 	- 	(7,646)
+Row:Payment of dividends 	(80,877) 	(55,612) 	-
+Row:Repurchase of common stock, including fees 	(252,433) 	(547,022) 	(1,100,585)
+Row:Net cash used in financing activities 	(323,431) 	(582,210) 	(1,099,122)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(4,035) 	3,624 	(7,801)
+Row:Net decrease in cash and cash equivalents 	(142,189) 	(27,244) 	(360,001)
+Row:Cash and cash equivalents:
+			Row:Beginning of period 	488,329 	515,573 	875,574
+Row:End of period $ 	346,140 	$ 488,329 	$ 515,573
+Row:See accompanying Notes to Consolidated 	Financial Statements.
+		Row:488,329 	515,573 	875,574
+Row:346,140 $ 	488,329 $ 	515,573

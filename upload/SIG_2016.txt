@@ -1,0 +1,123 @@
+Row:(in millions, except per share amounts) 	Fiscal 2016 	Fiscal 2015 	Fiscal 2014 	Notes
+Row:Sales 	$ 6,550.2 	$ 5,736.3 $ 	4,209.2 	4
+Row:Cost of sales 	(4,109.8) 	(3,662.1) 	(2,628.7)
+	Row:Gross margin 	2,440.4 	2,074.2 	1,580.5
+	Row:Selling, general and administrative expenses 	(1,987.6) 	(1,712.9) 	(1,196.7)
+	Row:Other operating income, net 	250.9 	215.3 	186.7 	9
+Row:Operating income 	703.7 	576.6 	570.5 	4
+Row:Interest expense, net 	(45.9) 	(36.0) 	(4.0)
+	Row:Income before income taxes 	657.8 	540.6 	566.5
+	Row:Income taxes 	(189.9) 	(159.3) 	(198.5) 	8
+Row:Net income 	$ 467.9 	$ 381.3 $ 	368.0
+	Row:Basic earnings per share 	$ 5.89 	$ 4.77 $ 	4.59 	5
+Row:Diluted earnings per share 	$ 5.87 	$ 4.75 $ 	4.56 	5
+Row:Basic weighted average common shares outstanding 	79.5 	79.9 	80.2 	5
+Row:Diluted weighted average common shares outstanding 	79.7 	80.2 	80.7 	5
+Row:Dividends declared per share 	$ 0.88 	$ 0.72 $ 	0.60 	6
+Row:(in millions, except par value per share amount)
+	January 30,
+2016
+	January 31,
+2015 	Notes
+Row:Assets
+		As adjusted
+	2
+Row:Current assets:
+			Row:Cash and cash equivalents 	$ 137.7 $ 	193.6 	1
+Row:Accounts receivable, net 	1,756.4 	1,567.6 	10
+Row:Other receivables 	84.0 	63.6
+	Row:Other current assets 	154.4 	137.2
+	Row:Income taxes 	3.5 	1.8
+	Row:Inventories 	2,453.9 	2,439.0 	11
+Row:Total current assets 	4,589.9 	4,402.8
+	Row:Non-current assets:
+			Row:Property, plant and equipment, net 	727.6 	665.9 	12
+Row:Goodwill 	515.5 	519.2 	13
+Row:Intangible assets, net 	427.8 	447.1 	13
+Row:Other assets 	162.3 	140.0 	14
+Row:Deferred tax assets 	— 	2.3 	8
+Row:Retirement benefit asset 	51.3 	37.0 	18
+Row:Total assets 	$ 6,474.4 $ 	6,214.3
+	Row:Liabilities and Shareholders’ equity
+			Row:Current liabilities:
+			Row:Loans and overdrafts 	$ 59.5 $ 	97.5 	19
+Row:Accounts payable 	269.1 	277.7
+	Row:Accrued expenses and other current liabilities 	498.3 	482.4 	20
+Row:Deferred revenue 	260.3 	248.0 	21
+Row:Income taxes 	65.7 	86.9
+	Row:Total current liabilities 	1,152.9 	1,192.5
+	Row:Non-current liabilities:
+			Row:Long-term debt 	1,328.7 	1,363.8 	19
+Row:Other liabilities 	230.5 	230.2 	22
+Row:Deferred revenue 	629.1 	563.9 	21
+Row:Deferred tax liabilities 	72.5 	53.5 	8
+Row:Total liabilities 	3,413.7 	3,403.9
+	Row:Commitments and contingencies 			24
+Row:Shareholders’ equity:
+			Row:Common shares of $0.18 par value: authorized 500 shares, 79.4 shares outstanding (2015: 80.3 outstanding) 	15.7 	15.7 	6
+Row:Additional paid-in capital 	279.9 	265.2
+	Row:Other reserves 	0.4 	0.4
+	Row:Treasury shares at cost: 7.8 shares (2015: 6.9 shares) 	(495.8) 	(370.0) 	6
+Row:Retained earnings 	3,534.6 	3,135.7 	6
+Row:Accumulated other comprehensive loss 	(274.1) 	(236.6) 	7
+Row:Total shareholders’ equity 	3,060.7 	2,810.4
+	Row:Total liabilities and shareholders’ equity 	$ 6,474.4 $ 	6,214.3
+	Row:The accompanying notes are an integral part of these consolidated financial statements.
+			Row:Cash flows from operating activities:
+			Row:Net income 	$ 467.9 	$ 381.3 	$ 368.0
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+			Row:Depreciation and amortization 	175.3 	149.7 	110.2
+Row:Amortization of unfavorable leases and contracts 	(28.7) 	(23.7) 	—
+Row:Pension benefit 	— 	(2.4) 	(0.5)
+Row:Share-based compensation 	16.4 	12.1 	14.4
+Row:Deferred taxation 	25.0 	(47.6) 	(20.4)
+Row:Excess tax benefit from exercise of share awards 	(6.9) 	(11.8) 	(6.5)
+Row:Amortization of debt discount and issuance costs 	3.6 	7.4 	0.4
+Row:Other non-cash movements 	3.6 	2.7 	(3.3)
+Row:Changes in operating assets and liabilities:
+			Row:Increase in accounts receivable 	(189.8) 	(194.6) 	(168.3)
+Row:Increase in other receivables and other assets 	(44.1) 	(18.0) 	(21.6)
+Row:Increase in other current assets 	(26.5) 	(35.5) 	(4.1)
+Row:Increase in inventories 	(46.0) 	(121.6) 	(98.4)
+Row:(Decrease) increase in accounts payable 	(6.4) 	23.7 	3.2
+Row:Increase in accrued expenses and other liabilities 	51.8 	64.8 	8.6
+Row:Increase in deferred revenue 	76.3 	102.3 	50.8
+Row:(Decrease) increase in income taxes payable 	(25.7) 	(1.6) 	7.9
+Row:Pension plan contributions 	(2.5) 	(4.2) 	(4.9)
+Row:Net cash provided by operating activities 	443.3 	283.0 	235.5
+Row:Investing activities
+			Row:Purchase of property, plant and equipment 	(226.5) 	(220.2) 	(152.7)
+Row:Purchase of available-for-sale securities 	(6.2) 	(5.7) 	—
+Row:Proceeds from sale of available-for-sale securities 	4.0 	2.5 	—
+Row:Acquisition of Ultra Stores, Inc., net of cash received 	— 	— 	1.4
+Row:Acquisition of Zale Corporation, net of cash acquired 	— 	(1,429.2) 	—
+Row:Acquisition of diamond polishing factory 	— 	— 	(9.1)
+Row:Net cash used in investing activities 	(228.7) 	(1,652.6) 	(160.4)
+Row:Financing activities
+			Row:Dividends paid 	(67.1) 	(55.3) 	(46.0)
+Row:Proceeds from issuance of common shares 	5.0 	6.1 	9.3
+Row:Excess tax benefit from exercise of share awards 	6.9 	11.8 	6.5
+Row:Proceeds from senior notes 	— 	398.4 	—
+Row:Proceeds from term loan 	— 	400.0 	—
+Row:Repayments of term loan 	(25.0) 	(10.0) 	—
+Row:Proceeds from securitization facility 	2,303.9 	1,941.9 	—
+Row:Repayments of securitization facility 	(2,303.9) 	(1,341.9) 	—
+Row:Proceeds from revolving credit facility 	316.0 	260.0 	57.0
+Row:Repayments of revolving credit facility 	(316.0) 	(260.0) 	(57.0)
+Row:Payment of debt issuance costs 	— 	(20.5) 	—
+Row:Repurchase of common shares 	(130.0) 	(29.8) 	(104.7)
+Row:Net settlement of equity based awards 	(8.3) 	(18.4) 	(9.2)
+Row:Principal payments under capital lease obligations 	(1.0) 	(0.8) 	—
+Row:Proceeds from (repayment of) short-term borrowings 	(47.1) 	39.4 	19.3
+Row:Net cash (used in) provided by financing activities 	(266.6) 	1,320.9 	(124.8)
+Row:Cash and cash equivalents at beginning of period 	193.6 	247.6 	301.0
+Row:Decrease in cash and cash equivalents 	(52.0) 	(48.7) 	(49.7)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(3.9) 	(5.3) 	(3.7)
+Row:Cash and cash equivalents at end of period 	$ 137.7 	$ 193.6 $ 	247.6
+Row:Non-cash investing activities:
+			Row:Capital expenditures in accounts payable 	$ 9.3 	$ 6.2 $ 	2.0
+Row:Supplemental cash flow information:
+			Row:Interest paid 	$ 41.6 	$ 25.4 $ 	3.5
+Row:Income taxes paid 	$ 180.1 	$ 208.8 $ 	211.0
+Row:The accompanying notes are an integral part of these consolidated financial 	statements.
+		

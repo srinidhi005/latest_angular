@@ -1,0 +1,285 @@
+Row:Assets
+		Row:Current Assets
+		Row:Cash and cash equivalents 	$ 1,101 $ 	2,240
+Row:Short-term investments 	2,032 	1,681
+Row:Receivables, net 	1,049 	1,347
+Row:Merchandise inventories 	5,209 	4,864
+Row:Other current assets 	438 	384
+Row:Total current assets 	9,829 	10,516
+Row:Property and Equipment
+		Row:Land and buildings 	623 	618
+Row:Leasehold improvements 	2,327 	2,227
+Row:Fixtures and equipment 	5,410 	4,998
+Row:Property under capital and financing leases 	340 	300
+Row:	8,700 	8,143
+Row:Less accumulated depreciation 	6,279 	5,850
+Row:Net property and equipment 	2,421 	2,293
+Row:Goodwill 	425 	425
+Row:Other Assets 	374 	622
+Row:Total Assets 	$ 13,049 $ 	13,856
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Accounts payable 	$ 4,873 $ 	4,984
+Row:Unredeemed gift card liabilities 	385 	427
+Row:Deferred revenue 	453 	418
+Row:Accrued compensation and related expenses 	561 	358
+Row:Accrued liabilities 	864 	865
+Row:Accrued income taxes 	137 	26
+Row:Current portion of long-term debt 	544 	44
+Row:Total current liabilities 	7,817 	7,122
+Row:Long-Term Liabilities 	809 	704
+Row:Long-Term Debt 	811 	1,321
+Row:Contingencies and Commitments (Note 12)
+		Row:Equity
+		Row:Best Buy Co., Inc. Shareholders' Equity
+Preferred stock, $1.00 par value: Authorized — 400,000 shares; Issued and outstanding — none 	— 	—
+Row:Common stock, $0.10 par value: Authorized — 1.0 billion shares; Issued and outstanding —
+282,988,000 and 311,108,000 shares, respectively Additional paid-in capital 	28 — 	31
+—
+Row:Retained earnings 	3,270 	4,399
+Row:Accumulated other comprehensive income 	314 	279
+Row:Total equity 	3,612 	4,709
+Row:Total Liabilities and Equity 	$ 13,049 $ 	13,856
+Row:See Notes to Consolidated Financial Statements.
+		Row:	314 		279
+Row:	3,612 		4,709
+Row:$ 	13,049 	$ 	13,856
+Row:	February 3,
+	January 28,
+	January 30,
+Row:Fiscal Years Ended
+	2018
+	2017
+	2016
+Row:Revenue 	$ 42,151 	$ 39,403 	$ 39,528
+Row:Cost of goods sold 	32,275 	29,963 	30,334
+Row:Restructuring charges — cost of goods sold 	— 	— 	3
+Row:Gross profit 	9,876 	9,440 	9,191
+Row:Selling, general and administrative expenses 	8,023 	7,547 	7,618
+Row:Restructuring charges 	10 	39 	198
+Row:Operating income 	1,843 	1,854 	1,375
+Row:Other income (expense)
+			Row:Gain on sale of investments 	1 	3 	2
+Row:Investment income and other 	48 	31 	13
+Row:Interest expense 	(75) 	(72) 	(80)
+Row:Earnings from continuing operations before income tax expense 	1,817 	1,816 	1,310
+Row:Income tax expense 	818 	609 	503
+Row:Net earnings from continuing operations 	999 	1,207 	807
+Row:Gain from discontinued operations (Note 2), net of tax expense of $0, $7 and $1,
+respectively 	1 	21 	90
+Row:Net earnings 	$ 1,000 	$ 1,228 	$ 897
+Row:Basic earnings per share
+			Row:Continuing operations 	$ 3.33 	$ 3.79 	$ 2.33
+Row:Discontinued operations 	— 	0.07 	0.26
+Row:Basic earnings per share 	$ 3.33 	$ 3.86 	$ 2.59
+Row:Diluted earnings per share
+			Row:Continuing operations 	$ 3.26 	$ 3.74 	$ 2.30
+Row:Discontinued operations 	— 	0.07 	0.26
+Row:Diluted earnings per share 	$ 3.26 	$ 3.81 	$ 2.56
+Row:Weighted-average common shares outstanding
+			Row:Basic 	300.4 	318.5 	346.5
+Row:Diluted 	307.1 	322.6 	350.7
+Row:See Notes to Consolidated Financial Statements.
+			Row:$ 	3.26 $ 	3.74 	$ 	2.30
+Row:$ 	— 3.26 $ 	0.07 3.81 	$ 	0.26
+2.56
+Row:	February 3,
+	January 28,
+	January 30,
+Row:Fiscal Years Ended
+	2018
+	2017
+	2016
+Row:Operating activities
+			Row:Net earnings $ 	1,000 	$ 1,228 $ 	897
+Row:Adjustments to reconcile net earnings to total cash provided by operating
+activities:
+			Row:Depreciation 	683 	654 	657
+Row:Restructuring charges 	10 	39 	201
+Row:Gain on sale of business 	— 	— 	(99)
+Row:Stock-based compensation 	129 	108 	104
+Row:Deferred income taxes 	162 	201 	49
+Row:Other, net 	(13) 	(17) 	59
+Row:Changes in operating assets and liabilities:
+			Row:Receivables 	315 	(193) 	123
+Row:Merchandise inventories 	(335) 	199 	86
+Row:Other assets 	(21) 	10 	36
+Row:Accounts payable 	(196) 	518 	(536)
+Row:Other liabilities 	117 	23 	(140)
+Row:Income taxes 	290 	(213) 	(94)
+Row:Total cash provided by operating activities 	2,141 	2,557 	1,343
+Row:Investing activities
+			Row:Additions to property and equipment, net of $123, $48 and $92,
+respectively, of non-cash capital expenditures
+	(688) 	(580) 	(649)
+Row:Purchases of investments 	(4,325) 	(3,045) 	(2,281)
+Row:Sales of investments 	4,018 	2,689 	2,427
+Row:Proceeds from sale of business, net of cash transferred 	— 	— 	(51)
+Row:Proceeds from property disposition 	2 	56 	—
+Row:Other, net 	(9) 	3 	28
+Row:Total cash used in investing activities 	(1,002) 	(877) 	(526)
+Row:Financing activities
+			Row:Repurchase of common stock 	(2,004) 	(698) 	(1,000)
+Row:Prepayment of accelerated share repurchase 	— 	— 	(55)
+Row:Issuance of common stock 	163 	171 	47
+Row:Dividends paid 	(409) 	(505) 	(499)
+Row:Repayments of debt 	(46) 	(394) 	(28)
+Row:Other, net 	(1) 	8 	(1)
+Row:Total cash used in financing activities 	(2,297) 	(1,418) 	(1,536)
+Row:Effect of exchange rate changes on cash Increase (decrease) in cash, cash equivalents and restricted cash 	25 (1,133) 	10 272 	(38)
+(757)
+Row:Cash, cash equivalents and restricted cash at beginning of period,
+			Row:excluding held for sale 	2,433 	2,161 	2,616
+Row:Cash, cash equivalents and restricted cash at beginning of period, held
+			Row:for sale 	— 	— 	302
+Row:Cash, cash equivalents and restricted cash at end of period $ 	1,300 	$ 2,433 $ 	2,161
+Row:Supplemental disclosure of cash flow information
+			Row:Income taxes paid $ 	366 	$ 628 $ 	550
+Row:Interest paid 	81 	76 	77
+Row:See Notes to Consolidated Financial Statements.
+			Row:Income taxes paid 	$ 366 	$ 628 	$ 550
+Row:Interest paid 	81 	76 	77
+Row:See Notes to Consolidated Financial Statements.
+			Row:Assets
+		Row:Current Assets
+		Row:Cash and cash equivalents 	$ 1,101 $ 	2,240
+Row:Short-term investments 	2,032 	1,681
+Row:Receivables, net 	1,049 	1,347
+Row:Merchandise inventories 	5,209 	4,864
+Row:Other current assets 	438 	384
+Row:Total current assets 	9,829 	10,516
+Row:Property and Equipment
+		Row:Land and buildings 	623 	618
+Row:Leasehold improvements 	2,327 	2,227
+Row:Fixtures and equipment 	5,410 	4,998
+Row:Property under capital and financing leases 	340 	300
+Row:	8,700 	8,143
+Row:Less accumulated depreciation 	6,279 	5,850
+Row:Net property and equipment 	2,421 	2,293
+Row:Goodwill 	425 	425
+Row:Other Assets 	374 	622
+Row:Total Assets 	$ 13,049 $ 	13,856
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Accounts payable 	$ 4,873 $ 	4,984
+Row:Unredeemed gift card liabilities 	385 	427
+Row:Deferred revenue 	453 	418
+Row:Accrued compensation and related expenses 	561 	358
+Row:Accrued liabilities 	864 	865
+Row:Accrued income taxes 	137 	26
+Row:Current portion of long-term debt 	544 	44
+Row:Total current liabilities 	7,817 	7,122
+Row:Long-Term Liabilities 	809 	704
+Row:Long-Term Debt 	811 	1,321
+Row:Contingencies and Commitments (Note 12)
+		Row:Equity
+		Row:Best Buy Co., Inc. Shareholders' Equity
+Preferred stock, $1.00 par value: Authorized — 400,000 shares; Issued and outstanding — none 	— 	—
+Row:Common stock, $0.10 par value: Authorized — 1.0 billion shares; Issued and outstanding —
+282,988,000 and 311,108,000 shares, respectively Additional paid-in capital 	28 — 	31
+—
+Row:Retained earnings 	3,270 	4,399
+Row:Accumulated other comprehensive income 	314 	279
+Row:Total equity 	3,612 	4,709
+Row:Total Liabilities and Equity 	$ 13,049 $ 	13,856
+Row:See Notes to Consolidated Financial Statements.
+		Row:	314 		279
+Row:	3,612 		4,709
+Row:$ 	13,049 	$ 	13,856
+Row:	February 3,
+	January 28,
+	January 30,
+Row:Fiscal Years Ended
+	2018
+	2017
+	2016
+Row:Revenue 	$ 42,151 	$ 39,403 	$ 39,528
+Row:Cost of goods sold 	32,275 	29,963 	30,334
+Row:Restructuring charges — cost of goods sold 	— 	— 	3
+Row:Gross profit 	9,876 	9,440 	9,191
+Row:Selling, general and administrative expenses 	8,023 	7,547 	7,618
+Row:Restructuring charges 	10 	39 	198
+Row:Operating income 	1,843 	1,854 	1,375
+Row:Other income (expense)
+			Row:Gain on sale of investments 	1 	3 	2
+Row:Investment income and other 	48 	31 	13
+Row:Interest expense 	(75) 	(72) 	(80)
+Row:Earnings from continuing operations before income tax expense 	1,817 	1,816 	1,310
+Row:Income tax expense 	818 	609 	503
+Row:Net earnings from continuing operations 	999 	1,207 	807
+Row:Gain from discontinued operations (Note 2), net of tax expense of $0, $7 and $1,
+respectively 	1 	21 	90
+Row:Net earnings 	$ 1,000 	$ 1,228 	$ 897
+Row:Basic earnings per share
+			Row:Continuing operations 	$ 3.33 	$ 3.79 	$ 2.33
+Row:Discontinued operations 	— 	0.07 	0.26
+Row:Basic earnings per share 	$ 3.33 	$ 3.86 	$ 2.59
+Row:Diluted earnings per share
+			Row:Continuing operations 	$ 3.26 	$ 3.74 	$ 2.30
+Row:Discontinued operations 	— 	0.07 	0.26
+Row:Diluted earnings per share 	$ 3.26 	$ 3.81 	$ 2.56
+Row:Weighted-average common shares outstanding
+			Row:Basic 	300.4 	318.5 	346.5
+Row:Diluted 	307.1 	322.6 	350.7
+Row:See Notes to Consolidated Financial Statements.
+			Row:$ 	3.26 $ 	3.74 	$ 	2.30
+Row:$ 	— 3.26 $ 	0.07 3.81 	$ 	0.26
+2.56
+Row:	February 3,
+	January 28,
+	January 30,
+Row:Fiscal Years Ended
+	2018
+	2017
+	2016
+Row:Operating activities
+			Row:Net earnings $ 	1,000 	$ 1,228 $ 	897
+Row:Adjustments to reconcile net earnings to total cash provided by operating
+activities:
+			Row:Depreciation 	683 	654 	657
+Row:Restructuring charges 	10 	39 	201
+Row:Gain on sale of business 	— 	— 	(99)
+Row:Stock-based compensation 	129 	108 	104
+Row:Deferred income taxes 	162 	201 	49
+Row:Other, net 	(13) 	(17) 	59
+Row:Changes in operating assets and liabilities:
+			Row:Receivables 	315 	(193) 	123
+Row:Merchandise inventories 	(335) 	199 	86
+Row:Other assets 	(21) 	10 	36
+Row:Accounts payable 	(196) 	518 	(536)
+Row:Other liabilities 	117 	23 	(140)
+Row:Income taxes 	290 	(213) 	(94)
+Row:Total cash provided by operating activities 	2,141 	2,557 	1,343
+Row:Investing activities
+			Row:Additions to property and equipment, net of $123, $48 and $92,
+respectively, of non-cash capital expenditures
+	(688) 	(580) 	(649)
+Row:Purchases of investments 	(4,325) 	(3,045) 	(2,281)
+Row:Sales of investments 	4,018 	2,689 	2,427
+Row:Proceeds from sale of business, net of cash transferred 	— 	— 	(51)
+Row:Proceeds from property disposition 	2 	56 	—
+Row:Other, net 	(9) 	3 	28
+Row:Total cash used in investing activities 	(1,002) 	(877) 	(526)
+Row:Financing activities
+			Row:Repurchase of common stock 	(2,004) 	(698) 	(1,000)
+Row:Prepayment of accelerated share repurchase 	— 	— 	(55)
+Row:Issuance of common stock 	163 	171 	47
+Row:Dividends paid 	(409) 	(505) 	(499)
+Row:Repayments of debt 	(46) 	(394) 	(28)
+Row:Other, net 	(1) 	8 	(1)
+Row:Total cash used in financing activities 	(2,297) 	(1,418) 	(1,536)
+Row:Effect of exchange rate changes on cash Increase (decrease) in cash, cash equivalents and restricted cash 	25 (1,133) 	10 272 	(38)
+(757)
+Row:Cash, cash equivalents and restricted cash at beginning of period,
+			Row:excluding held for sale 	2,433 	2,161 	2,616
+Row:Cash, cash equivalents and restricted cash at beginning of period, held
+			Row:for sale 	— 	— 	302
+Row:Cash, cash equivalents and restricted cash at end of period $ 	1,300 	$ 2,433 $ 	2,161
+Row:Supplemental disclosure of cash flow information
+			Row:Income taxes paid $ 	366 	$ 628 $ 	550
+Row:Interest paid 	81 	76 	77
+Row:See Notes to Consolidated Financial Statements.
+			Row:Income taxes paid 	$ 366 	$ 628 	$ 550
+Row:Interest paid 	81 	76 	77
+Row:See Notes to Consolidated Financial Statements.
+			

@@ -1,0 +1,125 @@
+Row:Net sales $ 	8,143 $ 7,209 $ 	5,826
+Row:Costs and expenses
+		Row:Cost of sales 	6,986 6,143 	4,991
+Row:Selling, general and administrative expenses 	499 508 	401
+Row:Amortization of intangibles 	8 11 	8
+Row:Restructuring charges, net 	25 14 	36
+Row:Impairment of indefinite-lived intangible asset 	(20)
+	Row:Gain (loss) on disposal group held for sale 	3 (27)
+	Row:Loss on sale of subsidiaries 		(80)
+Row:Other income (expense), net 	(29) (16) 	22
+Row:Earnings before interest and income taxes 	579 490 	332
+Row:Loss on extinguishment of debt 	(19) 	(17)
+Row:Interest income 	11 11 	13
+Row:Interest expense 	96 102 	113
+Row:Earnings before income taxes 	494 380 	215
+Row:Income tax expense (benefit) 	78 283 	(424)
+Row:Equity in earnings of affiliates 	24 19 	14
+Row:Net income 	440 116 	653
+Row:Less: Noncontrolling interests net income 	13 10 	13
+Row:Less: Redeemable noncontrolling interests net loss 	(5)
+	Row:Net income attributable to the parent company $ 	427 $ 111 $ 	640
+Row:Net income per share available to common stockholders
+		Row:Basic $ 	2.94 $ 0.72 $ 	4.38
+Row:Diluted $ 	2.91 $ 0.71 $ 	4.36
+Row:Weighted-average common shares outstanding
+		Row:Basic 	145.0 145.1 	146.0
+Row:Diluted 	146.5 146.9 	146.8
+Row:Assets
+	Row:Current assets
+	Row:Cash and cash equivalents 	$ 510 $ 603
+Row:Marketable securities 	21 40
+Row:Accounts receivable
+	Row:Trade, less allowance for doubtful accounts of $9 in 2018 and $8 in 2017 	1,065 994
+Row:Other 	178 172
+Row:Inventories 	1,031 969
+Row:Other current assets 	102 97
+Row:Current assets of disposal group held for sale 	7
+Row:Total current assets 	2,907 2,882
+Row:Goodwill 	264 127
+Row:Intangibles 	164 174
+Row:Deferred tax assets 	445 420
+Row:Other noncurrent assets 	80 71
+Row:Investments in affiliates 	208 163
+Row:Property, plant and equipment, net 	1,850 1,807
+Row:Total assets 	$ 5,918 $ 5,644
+Row:Liabilities and equity
+	Row:Current liabilities
+	Row:Other noncurrent assets 	80 71
+Row:Investments in affiliates 	208 163
+Row:Property, plant and equipment, net 	1,850 1,807
+Row:Total assets $ 	5,918 $ 5,644
+Row:Liabilities and equity
+	Row:Current liabilities
+	Row:Short-term debt $ 	8 $ 17
+Row:Current portion of long-term debt 	20 23
+Row:Accounts payable 	1,217 1,165
+Row:Accrued payroll and employee benefits 	186 219
+Row:Taxes on income 	47 53
+Row:Other accrued liabilities 	269 220
+Row:Current liabilities of disposal group held for sale 	5
+Row:Total current liabilities 	1,747 1,702
+Row:Long-term debt, less debt issuance costs of $18 in 2018 and $22 in 2017 	1,755 1,759
+Row:Pension and postretirement obligations 	561 607
+Row:Other noncurrent liabilities 	313 413
+Row:Noncurrent liabilities of disposal group held for sale 	2
+Row:Total liabilities 	4,376 4,483
+Row:Commitments and contingencies (Note 16)
+	Row:Redeemable noncontrolling interests 	100 47
+Row:Parent company stockholders' equity
+	Row:Preferred stock, 50,000,000 shares authorized, $0.01 par value, no shares outstanding 	— —
+Row:Common stock, 450,000,000 shares authorized, $0.01 par value, 144,663,403 and 144,984,050 shares outstanding 	2 2
+Row:Additional paid-in capital 	2,368 2,354
+Row:Retained earnings 	456 86
+Row:Treasury stock, at cost (8,342,185 and 7,001,017 shares) Accumulated other comprehensive loss 	(119) (87)
+(1,362) (1,342)
+Row:Total parent company stockholders' equity 	1,345 1,013
+Row:Noncontrolling interests 	97 101
+Row:Total equity 	1,442 1,114
+Row:Total liabilities and equity $ 	5,918 $ 5,644
+Row:2018 Operating activities
+	2017 	2016
+Row:Net income $ 440 	$ 116 	$ 653
+Row:Depreciation 260 	220 	173
+Row:Amortization of intangibles 	10 13 	9
+Row:Amortization of deferred financing charges 	4 5 	5
+Row:Call premium on debt 	15 	12
+Row:Write-off of deferred financing costs 	4 	5
+Row:Earnings of affiliates, net of dividends received 	(4) (3) 	(3)
+Row:Stock compensation expense 	16 23 	17
+Row:Deferred income taxes 	(64) 179 	(480)
+Row:Pension contributions, net 	3 (6) 	(16)
+Row:Impairment of indefinite-lived intangible asset 	20
+	Row:(Gain) loss on sale of subsidiaries 	(3) 	80
+Row:(Gain) loss on disposal group held for sale 	(2) 27
+	Row:Change in working capital (113) 	(8) 	(51)
+Row:Change in other noncurrent assets and liabilities 	(12) (9) 	(1)
+Row:Other, net 	10 (19) 	(19)
+Row:Net cash provided by operating activities 568 	554 	384
+Row:Investing activities
+		Row:Purchases of property, plant and equipment (325) 	(393) 	(322)
+Row:Acquisition of businesses, net of cash acquired (153) 	(185) 	(78)
+Row:Proceeds from previous acquisition 	9
+	Row:Purchases of marketable securities 	(37) (35) 	(93)
+Row:Proceeds from sales of marketable securities 	15 1 	47
+Row:Proceeds from maturities of marketable securities 	37 27 	47
+Row:Proceeds from sale of subsidiaries, net of cash disposed 	(6) 3 	34
+Row:Other, net 	(2) (1)
+	Row:Net cash used in investing activities (462) 	(583) 	(365)
+Row:Financing activities
+		Row:Net change in short-term debt 	(21) (90) 	9
+Row:Proceeds from long-term debt 	676 	441
+Row:Repayment of long-term debt 	(13) (640) 	(382)
+Row:Call premium on debt 	(15) 	(12)
+Row:Deferred financing payments 	(1) (9) 	(11)
+Row:Dividends paid to common stockholders 	(58) (35) 	(35)
+Row:Distributions to noncontrolling interests 	(42) (12) 	(17)
+Row:Contributions from noncontrolling interests 	25
+	Row:Payments to acquire redeemable noncontrolling interests 	(43)
+	Row:Repurchases of common stock 	(25) 	(81)
+Row:Other, net 	(2) 5
+	Row:Net cash used in financing activities (180) 	(120) 	(88)
+Row:Net decrease in cash, cash equivalents and restricted cash 	(74) (149) 	(69)
+Row:Cash, cash equivalents and restricted cash - beginning of period 610 	716 	800
+Row:Effect of exchange rate changes on cash balances 	(16) 43 	(15)
+Row:Cash, cash equivalents and restricted cash - end of period $ 520 	$ 610 	$ 716

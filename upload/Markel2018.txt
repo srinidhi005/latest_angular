@@ -1,0 +1,355 @@
+Row:A
+SSETS
+	(dollars 	in thousands)
+Row:Investments, at estimated fair value:
+Fixed maturities, available-for-sale (amortized cost
+		Row:of $9,950,773 in 2018 and $9,551,153 in 2017) $ Equity securities, available-for-sale (cost of $2,667,661 in 2017) Equity securities (cost of $2,971,856 in 2018) Short-term investments, available-for-sale
+(estimated fair value approximates cost) 	10,043,188 — 5,720,945 1,077,696 	$ 9,940,670
+5,967,847
+—
+2,160,974
+Row:Total Investments 	16,841,829 	18,069,491
+Row:Cash and cash equivalents Restricted cash and cash equivalents 	2,014,168 382,264 	2,198,459
+302,387
+Row:Receivables Reinsurance recoverables 	1,692,526 5,221,947 	1,567,453
+4,745,390
+Row:Deferred policy acquisition costs 	474,513 	465,569
+Row:Prepaid reinsurance premiums 	1,331,022 	1,099,757
+Row:Goodwill 	2,237,975 	1,777,464
+Row:Intangible assets 	1,726,196 	1,355,681
+Row:Other assets 	1,383,823 	1,223,365
+Row:TOTAL ASSETS $ 	33,306,263 	$ 32,805,016
+Row:E
+L
+IABILITIES AND
+QUITY
+		Row:Unpaid losses and loss adjustment expenses $ 	14,276,479 	$ 13,584,281
+Row:Life and annuity benefits 	1,001,453 	1,072,112
+Row:Unearned premiums 	3,611,028 	3,308,779
+Row:Payables to insurance and reinsurance companies Senior long-term debt and other debt (estimated fair value of
+	337,326 	324,304
+Row:$3,030,000 in 2018 and $3,351,000 in 2017) Other liabilities 	3,009,577 1,796,036 	3,099,230
+1,748,460
+Row:Total Liabilities 	24,031,899 	23,137,166
+Row:Redeemable noncontrolling interests Commitments and contingencies
+Shareholders’ equity:
+Common stock 	174,062 3,392,993 	166,269
+3,381,834
+Row:Retained earnings 	5,782,310 	3,776,743
+Row:Accumulated other comprehensive income (loss) Total Shareholders’ Equity Noncontrolling interests 	(94,650) 9,080,653 19,649 	2,345,571
+9,504,148
+(2,567)
+Row:Total Equity 	9,100,302 	9,501,581
+Row:TOTAL LIABILITIES AND EQUITY $ 	33,306,263 	$ 32,805,016
+Row:See accompanying notes to consolidated financial statements.
+		Row:	2018 	2017 	2016
+Row:O
+PERATING
+R
+EVENUES
+	(dollars 	in thousands, except per 	share data)
+Row:Earned premiums Net investment income Net investment gains (losses):
+Other-than-temporary impairment losses Net realized investment gains (losses), excluding
+	$ 4,712,060 434,215 — 	$ 4,247,978 405,709 (7,589) 	$ 3,865,870
+373,230
+(18,355)
+Row:other-than-temporary impairment losses 	(11,974) 	47,174 	66,711
+Row:Change in fair value of equity securities Net investment gains (losses) Products revenues Services and other revenues 	(425,622) (437,596) 1,497,523 635,083 	(44,888) (5,303) 951,012 462,263 	16,791
+65,147
+885,473
+422,306
+Row:Total Operating Revenues 	6,841,285 	6,061,659 	5,612,026
+Row:O
+PERATING
+E
+XPENSES
+Losses and loss adjustment expenses Underwriting, acquisition and insurance expenses Products expenses 	2,820,715 1,777,511 1,413,248 	2,865,761 1,589,464 850,449 	2,050,744
+1,497,125
+755,591
+Row:Services and other expenses 	474,924 	458,621 	416,141
+Row:Amortization of intangible assets 	115,930 	80,758 	68,533
+Row:Impairment of goodwill and intangible assets Total Operating Expenses 	199,198 6,801,526 	— 5,845,053 	18,723
+4,806,857
+Row:Operating Income Interest expense 	39,759 154,212 	216,606 132,451 	805,169
+129,896
+Row:Net foreign exchange losses (gains) Loss on early extinguishment of debt 	(106,598) — 	(3,140) — 	1,253
+44,100
+Row:Income (Loss) Before Income Taxes Income tax expense (benefit) 	(7,855) 122,498 	87,295 (313,463) 	629,920
+169,477
+Row:Net Income (Loss) Net income (loss) attributable to noncontrolling interests 	$ (130,353) (2,173) 	$ 400,758 5,489 	$ 460,443
+4,754
+Row:N
+ET
+I
+NCOME
+(L
+OSS
+)
+TO
+S
+HAREHOLDERS 	$ (128,180) 	$ 395,269 	$ 455,689
+Row:O
+THER
+C
+OMPREHENSIVE
+I
+NCOME
+(L
+OSS
+)
+Change in net unrealized gains on available-for-sale investments,
+			Row:net of taxes:
+Net holding gains (losses) arising during the period Change in unrealized other-than-temporary impairment
+losses on fixed maturities arising during the period Reclassification adjustments for net gains (losses)
+included in net income (loss) Change in net unrealized gains on available-for-sale investments,
+net of taxes Change in foreign currency translation adjustments, net of taxes Change in net actuarial pension loss, net of taxes 	$ (241,325) — 7,849 (233,476) (16,495) 2,341 	$ 787,339 — (24,296) 763,043 10,449 6,259 	$ 275,661
+35
+(33,528)
+242,168
+(11,704)
+(19,100)
+Row:Total Other Comprehensive Income (Loss) 	(247,630) 	779,751 	211,364
+Row:Comprehensive Income (Loss) Comprehensive income (loss) attributable to noncontrolling interests 	$ (377,983) (2,213) 	$ 1,180,509 5,535 	$ 671,807
+4,760
+Row:C
+OMPREHENSIVE
+I
+NCOME
+(L
+OSS
+)
+TO
+S
+HAREHOLDERS 	$ (375,770) 	$ 1,174,974 	$ 667,047
+Row:N
+ET
+I
+NCOME
+(L
+OSS
+) P
+ER
+S
+HARE
+Basic Diluted See accompanying notes to consolidated financial statements.
+	$ (9.55) $ (9.55) 	$ 25.89 $ 25.81 	$ 31.41
+$ 31.27
+Row:		(dollars in thousands)
+	Row:O
+PERATING
+A
+CTIVITIES
+Net income (loss) $ Adjustments to reconcile net income (loss) to net cash provided
+	(130,353) 	$ 400,758 	$ 460,443
+Row:by operating activities:
+			Row:Deferred income tax expense (benefit) 	2,729 	(324,090) 	63,358
+Row:Depreciation and amortization 	227,846 	203,871 	194,147
+Row:Net investment losses (gains) 	437,596 	5,303 	(65,147)
+Row:Loss on early extinguishment of debt 	— 	— 	44,100
+Row:Net foreign exchange losses (gains) 	(106,598) 	(3,140) 	1,253
+Row:Impairment of goodwill and intangible assets Increase in receivables 	199,198 (27,961) 	— (38,259) 	18,723
+(163,123)
+Row:Increase in deferred policy acquisition costs 	(15,585) 	(67,923) 	(41,619)
+Row:Increase (decrease) in unpaid losses and loss adjustment expenses, net 	298,796 	619,305 	(9,429)
+Row:Decrease in life and annuity benefits 	(50,541) 	(55,647) 	(54,580)
+Row:Increase in unearned premiums, net 	62,879 	197,706 	134,593
+Row:Increase (decrease) in payables to insurance and reinsurance companies 	(4,313) 	(40,761) 	11,582
+Row:Increase (decrease) in income taxes payable 	53,730 	(35,968) 	(16,484)
+Row:Increase (decrease) in accrued expenses 	(23,756) 	(71,669) 	67,994
+Row:Increase (decrease) in other liabilities 	(5,637) 	45,051 	(90,571)
+Row:Other 	(25,173) 	23,992 	(20,617)
+Row:Net Cash Provided By Operating Activities 	892,857 	858,529 	534,623
+Row:I
+NVESTING
+A
+CTIVITIES
+			Row:Proceeds from sales of fixed maturities and equity securities Proceeds from maturities, calls and prepayments of fixed maturities 	419,199 551,808 	577,650 1,129,895 	365,822
+963,165
+Row:Cost of fixed maturities and equity securities purchased 	(1,545,913) 	(1,176,281) 	(2,205,939)
+Row:Net change in short-term investments 	1,101,636 	234,743 	(689,194)
+Row:Additions to property and equipment 	(106,593) 	(74,652) 	(63,674)
+Row:Acquisitions, net of cash acquired 	(1,175,211) 	(1,431,712) 	(7,527)
+Row:Other 	(42,165) 	(4,100) 	(1,134)
+Row:Net Cash Used By Investing Activities 	(797,239) 	(744,457) 	(1,638,481)
+Row:F
+INANCING
+A
+CTIVITIES
+			Row:A
+SSETS
+	(dollars 	in thousands)
+Row:Investments, at estimated fair value:
+Fixed maturities, available-for-sale (amortized cost
+		Row:of $9,950,773 in 2018 and $9,551,153 in 2017) $ Equity securities, available-for-sale (cost of $2,667,661 in 2017) Equity securities (cost of $2,971,856 in 2018) Short-term investments, available-for-sale
+(estimated fair value approximates cost) 	10,043,188 — 5,720,945 1,077,696 	$ 9,940,670
+5,967,847
+—
+2,160,974
+Row:Total Investments 	16,841,829 	18,069,491
+Row:Cash and cash equivalents Restricted cash and cash equivalents 	2,014,168 382,264 	2,198,459
+302,387
+Row:Receivables Reinsurance recoverables 	1,692,526 5,221,947 	1,567,453
+4,745,390
+Row:Deferred policy acquisition costs 	474,513 	465,569
+Row:Prepaid reinsurance premiums 	1,331,022 	1,099,757
+Row:Goodwill 	2,237,975 	1,777,464
+Row:Intangible assets 	1,726,196 	1,355,681
+Row:Other assets 	1,383,823 	1,223,365
+Row:TOTAL ASSETS $ 	33,306,263 	$ 32,805,016
+Row:E
+L
+IABILITIES AND
+QUITY
+		Row:Unpaid losses and loss adjustment expenses $ 	14,276,479 	$ 13,584,281
+Row:Life and annuity benefits 	1,001,453 	1,072,112
+Row:Unearned premiums 	3,611,028 	3,308,779
+Row:Payables to insurance and reinsurance companies Senior long-term debt and other debt (estimated fair value of
+	337,326 	324,304
+Row:$3,030,000 in 2018 and $3,351,000 in 2017) Other liabilities 	3,009,577 1,796,036 	3,099,230
+1,748,460
+Row:Total Liabilities 	24,031,899 	23,137,166
+Row:Redeemable noncontrolling interests Commitments and contingencies
+Shareholders’ equity:
+Common stock 	174,062 3,392,993 	166,269
+3,381,834
+Row:Retained earnings 	5,782,310 	3,776,743
+Row:Accumulated other comprehensive income (loss) Total Shareholders’ Equity Noncontrolling interests 	(94,650) 9,080,653 19,649 	2,345,571
+9,504,148
+(2,567)
+Row:Total Equity 	9,100,302 	9,501,581
+Row:TOTAL LIABILITIES AND EQUITY $ 	33,306,263 	$ 32,805,016
+Row:See accompanying notes to consolidated financial statements.
+		Row:	2018 	2017 	2016
+Row:O
+PERATING
+R
+EVENUES
+	(dollars 	in thousands, except per 	share data)
+Row:Earned premiums Net investment income Net investment gains (losses):
+Other-than-temporary impairment losses Net realized investment gains (losses), excluding
+	$ 4,712,060 434,215 — 	$ 4,247,978 405,709 (7,589) 	$ 3,865,870
+373,230
+(18,355)
+Row:other-than-temporary impairment losses 	(11,974) 	47,174 	66,711
+Row:Change in fair value of equity securities Net investment gains (losses) Products revenues Services and other revenues 	(425,622) (437,596) 1,497,523 635,083 	(44,888) (5,303) 951,012 462,263 	16,791
+65,147
+885,473
+422,306
+Row:Total Operating Revenues 	6,841,285 	6,061,659 	5,612,026
+Row:O
+PERATING
+E
+XPENSES
+Losses and loss adjustment expenses Underwriting, acquisition and insurance expenses Products expenses 	2,820,715 1,777,511 1,413,248 	2,865,761 1,589,464 850,449 	2,050,744
+1,497,125
+755,591
+Row:Services and other expenses 	474,924 	458,621 	416,141
+Row:Amortization of intangible assets 	115,930 	80,758 	68,533
+Row:Impairment of goodwill and intangible assets Total Operating Expenses 	199,198 6,801,526 	— 5,845,053 	18,723
+4,806,857
+Row:Operating Income Interest expense 	39,759 154,212 	216,606 132,451 	805,169
+129,896
+Row:Net foreign exchange losses (gains) Loss on early extinguishment of debt 	(106,598) — 	(3,140) — 	1,253
+44,100
+Row:Income (Loss) Before Income Taxes Income tax expense (benefit) 	(7,855) 122,498 	87,295 (313,463) 	629,920
+169,477
+Row:Net Income (Loss) Net income (loss) attributable to noncontrolling interests 	$ (130,353) (2,173) 	$ 400,758 5,489 	$ 460,443
+4,754
+Row:N
+ET
+I
+NCOME
+(L
+OSS
+)
+TO
+S
+HAREHOLDERS 	$ (128,180) 	$ 395,269 	$ 455,689
+Row:O
+THER
+C
+OMPREHENSIVE
+I
+NCOME
+(L
+OSS
+)
+Change in net unrealized gains on available-for-sale investments,
+			Row:net of taxes:
+Net holding gains (losses) arising during the period Change in unrealized other-than-temporary impairment
+losses on fixed maturities arising during the period Reclassification adjustments for net gains (losses)
+included in net income (loss) Change in net unrealized gains on available-for-sale investments,
+net of taxes Change in foreign currency translation adjustments, net of taxes Change in net actuarial pension loss, net of taxes 	$ (241,325) — 7,849 (233,476) (16,495) 2,341 	$ 787,339 — (24,296) 763,043 10,449 6,259 	$ 275,661
+35
+(33,528)
+242,168
+(11,704)
+(19,100)
+Row:Total Other Comprehensive Income (Loss) 	(247,630) 	779,751 	211,364
+Row:Comprehensive Income (Loss) Comprehensive income (loss) attributable to noncontrolling interests 	$ (377,983) (2,213) 	$ 1,180,509 5,535 	$ 671,807
+4,760
+Row:C
+OMPREHENSIVE
+I
+NCOME
+(L
+OSS
+)
+TO
+S
+HAREHOLDERS 	$ (375,770) 	$ 1,174,974 	$ 667,047
+Row:N
+ET
+I
+NCOME
+(L
+OSS
+) P
+ER
+S
+HARE
+Basic Diluted See accompanying notes to consolidated financial statements.
+	$ (9.55) $ (9.55) 	$ 25.89 $ 25.81 	$ 31.41
+$ 31.27
+Row:		(dollars in thousands)
+	Row:O
+PERATING
+A
+CTIVITIES
+Net income (loss) $ Adjustments to reconcile net income (loss) to net cash provided
+	(130,353) 	$ 400,758 	$ 460,443
+Row:by operating activities:
+			Row:Deferred income tax expense (benefit) 	2,729 	(324,090) 	63,358
+Row:Depreciation and amortization 	227,846 	203,871 	194,147
+Row:Net investment losses (gains) 	437,596 	5,303 	(65,147)
+Row:Loss on early extinguishment of debt 	— 	— 	44,100
+Row:Net foreign exchange losses (gains) 	(106,598) 	(3,140) 	1,253
+Row:Impairment of goodwill and intangible assets Increase in receivables 	199,198 (27,961) 	— (38,259) 	18,723
+(163,123)
+Row:Increase in deferred policy acquisition costs 	(15,585) 	(67,923) 	(41,619)
+Row:Increase (decrease) in unpaid losses and loss adjustment expenses, net 	298,796 	619,305 	(9,429)
+Row:Decrease in life and annuity benefits 	(50,541) 	(55,647) 	(54,580)
+Row:Increase in unearned premiums, net 	62,879 	197,706 	134,593
+Row:Increase (decrease) in payables to insurance and reinsurance companies 	(4,313) 	(40,761) 	11,582
+Row:Increase (decrease) in income taxes payable 	53,730 	(35,968) 	(16,484)
+Row:Increase (decrease) in accrued expenses 	(23,756) 	(71,669) 	67,994
+Row:Increase (decrease) in other liabilities 	(5,637) 	45,051 	(90,571)
+Row:Other 	(25,173) 	23,992 	(20,617)
+Row:Net Cash Provided By Operating Activities 	892,857 	858,529 	534,623
+Row:I
+NVESTING
+A
+CTIVITIES
+			Row:Proceeds from sales of fixed maturities and equity securities Proceeds from maturities, calls and prepayments of fixed maturities 	419,199 551,808 	577,650 1,129,895 	365,822
+963,165
+Row:Cost of fixed maturities and equity securities purchased 	(1,545,913) 	(1,176,281) 	(2,205,939)
+Row:Net change in short-term investments 	1,101,636 	234,743 	(689,194)
+Row:Additions to property and equipment 	(106,593) 	(74,652) 	(63,674)
+Row:Acquisitions, net of cash acquired 	(1,175,211) 	(1,431,712) 	(7,527)
+Row:Other 	(42,165) 	(4,100) 	(1,134)
+Row:Net Cash Used By Investing Activities 	(797,239) 	(744,457) 	(1,638,481)
+Row:F
+INANCING
+A
+CTIVITIES
+			

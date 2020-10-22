@@ -1,0 +1,109 @@
+Row:		Period Ended
+		Month 	Ended
+	Row:	Actual
+	Budget
+	Variance
+	Actual
+	Budget
+	Variance
+Row:Revenue:
+						Row:Oil and gas sales	3,456,455	3,614,679	(158,224)	363,687	477,046
+	(113,359Row:Royalties
+	152,379	224,647	72,268	22,993	25,045	2,052Row:	3,304,076	3,390,032	(85,955)	340,694	452,001	(111,307Row:Purchased gas	(142,869)	(39,722)	(103,147)	(43,042)	52,600	(95,642Row:Hedge gain (loss)	64,567
+	25,234	39,332	26,924	(15,500)	42,424Row:Petroleum and natural gas sales, netOther income
+	3,225,774
+1,095
+	3,375,544
+	(149,770)1,095	324,576
+	489,101
+	(164,525Row:	3,226,869
+	3,375,544
+	(148,675)
+	324,576
+	489,101
+	(164,525Row:Cost of operations:						Row:Production and operating	2,922,390	1,924,672	(997,719)	297,872	379,750	81,878
+Row:Transportaion	478,587	498,578	19,990	74,800	78,618
+	3,818Row:Deletion, depreciation and amortization	2,754,804	1,909,235	(845,569)	1,314,798	286,302	(1,028,496Row:General and administrative
+	1,394,195	1,444,650	50,455	152,100	160,373
+	8,273Row:Finance expenses
+	264,565
+	268,123	3,558	75,070	43,287
+	(31,783Row:	7,814,541
+	6,045,258
+	(1,769,285)
+	1,914,640
+	948,330
+	(966,310Row:Net earnings (loss) for the period
+	(4,587,671)
+	(2,669,714)
+	(1,917,957)
+	(1,590,064)
+	(459,229)
+	(1,130,835Row:Prior period earnings (loss)
+	(6,872,631)
+	(6,377,760)
+	(494,871)
+	(9,870,238)
+	(8,588,245)
+	(1,281,993Row:Accumulated earnings (loss)
+	(11,460,302)
+	(9,047,474)
+	(2,412,828)
+	(11,460,302)
+	(9,047,474)
+	(2,412,828Row:As at
+		September 30	December 31,Row:Assets
+		2018
+	2017
+Row:	Restricted Cash equivalent	179,705
+	2,625,000Row:	Accounts receivableDeposits and prepaid expenses
+	382,644
+156,287718,636
+	1,237,05085,3373,947,387
+Row:	Property, plant and equipment	85,101,816	68,691,767
+Row:Total 	Evaluation and exploration assets
+assets
+	33,517,011118,618,827
+119,337,463
+	33,172,977101,864,744
+105,812,131
+Row:Liabilities
+			Row:	Accounts payable and accrued liabilitiesBregal loan
+Bank debt
+	1,413,30012,000,00013,241,993	21,077,782
+3,743,155Row:	Decommissioning liabilites	26,655,293
+2,009,385	24,820,937
+1,215,738
+Row:Total 	liabilities
+	28,664,678
+	26,036,675
+Row:Equity
+			Row:	Parnter's equity - Class A	100,000,000	84,818,627
+Row:	Parnter's equity - Class B	2,000,000	1,696,373
+Row:	Parnter's equity - Class C	16,407	16,407
+Row:	Contributed surplusAccumulated deficit
+	116,680(11,460,302)	116,680(6,872,631)Row:Total 	equity
+	90,672,785
+	79,775,456
+Row:Total 	liabilities and partner's equity
+	119,337,463
+	105,812,131
+Row:	Period Ended 	Month
+Ended
+Row:Operating ActivitiesNet earnings for the periodItems not affecting cash:	(4,587,671)
+	(1,590,064)
+Row:Depletion, depreciation and amortization	2,754,804	1,314,798Row:Accretion expense	35,660	20,813Row:Changes in non-cash working capital	450,976	(303,405)Row:Net cash provided by (used in) operating activities
+	(1,346,231)
+	(557,858)
+Row:Financing Activities		Row:Bank debt	9,498,838	(69,388)Row:Bregal loan	12,000,000	1,000,000
+Row:Partner's equity - class A	15,181,373	Row:Partner's equity - class B	303,627	Row:Net cash provided by (used in) investing activities
+	36,983,838
+	930,612
+Row:Investing ActivitiesAdditions to exploration and evaluation assets	(493,871)	(66,946)
+Row:Disposition of exploration and evaluation assets	150,400	Row:Additions to oil and gas properties	(18,284,183)	(48,069)
+Row:Additions to office assets	(122,756)	Row:Change in non-cash working capital	(19,332,492)	(257,740)Row:Net cash provided by (used in) investing activities
+	(38,082,902)
+	(372,754)
+Row:Change in cash during the periodCash, beginning of the period	(2,445,295)2,625,000	179,705Row:Cash, end of the period
+	179,705
+	179,705

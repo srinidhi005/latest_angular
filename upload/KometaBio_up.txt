@@ -1,0 +1,17 @@
+Row:Year 	2015 	2016 	2017
+Row:Sales Revenues 	10,66,667 	44,20,000 	1,04,00,000
+Row:COGS % 	16% 	19% 	20%
+Row:Cost of Sales 	1,68,500 	8,41,000 	21,11,000
+Row:Gross Profit 	898,167 	3,579,000 	8,289,000
+Row:Marketing Expenses 	4,04,000 	7,95,000 	7,95,000
+Row:Gen. & Admin. expenses 	4,22,000 	7,90,000 	7,90,000
+Row:Operating Income 	72,167 	1,994,000 	6,704,000
+Row:Interest Expense 	1,429 	1,429 	1,429
+Row:Ops. Dev. And Shipping 	45,000 	45,000 	45,000
+Row:Interest Income 	0 	10,768 	29,109
+Row:Profit Before Taxes 	25,738 	19,58,339 	66,86,681
+Row:Corporate Tax 	9,266 	7,05,002 	24,07,205
+Row:Net Profit 	16,472 	12,53,337 	42,79,476
+Row:Cash Dividends 	0 	0 	0
+Row:Last Yr. Retained Earnings 	(3,16,700) 	(3,00,228) 	9,53,109
+Row:Retained Earnings 	(3,00,228) 	9,53,109 	52,32,585

@@ -1,0 +1,121 @@
+Row:December 31,
+	January 2,
+Row:2016
+	2016
+Row:Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	299,358 	$ 381,209
+Row:Accounts receivable, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	202,471 	207,570
+Row:Finished goods inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	487,591 	469,934
+Row:Prepaid expenses and other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	32,180 	37,815
+Row:Deferred income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	35,486 	34,080
+Row:Total current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,057,086 	1,130,608
+Row:Property, plant, and equipment, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	385,874 	371,704
+Row:Tradenames and other intangible assets, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	308,928 	310,848
+Row:Goodwill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Total assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	176,009 18,700 $1,946,597 	174,874
+15,620
+$2,003,654
+Row:Accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . $ 	158,432 	$ 157,648
+Row:Other current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . 	119,177 	105,070
+Row:Total current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . 	277,609 	262,718
+Row:Long-term debt, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . 	580,376 	578,972
+Row:Deferred income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . 	130,656 	128,838
+Row:Other long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . 	169,832 	158,075
+Row:Total liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . 	1,158,473 	1,128,603
+Row:or outstanding at December 31, 2016 and January 2, 2016 . . . . . . . . . . . . . . . . . . 	— 	—
+Row:Common stock, voting; par value $.01 per share; 150,000,000 shares authorized;
+		Row:48,948,670 and 51,764,309 shares issued and outstanding at December 31, 2016
+		Row:and January 2, 2016, respectively . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	489 	518
+Row:Additional paid-in capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	—
+Row:Accumulated other comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(34,740) 	(36,367)
+Row:Retained earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	822,375 	910,900
+Row:Total stockholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	788,124 	875,051
+Row:Total liabilities and stockholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$1,946,597 	$2,003,654
+Row:December 31,
+2016
+	January 2,
+2016
+	January 3,
+2015
+Row:(52 Weeks)
+	(52 Weeks)
+	(53 Weeks)
+Row:$3,199,184 1,820,035 	$3,013,879 1,755,855 	$2,893,868
+1,709,428
+Row:1,379,149 	1,258,024 	1,184,440
+Row:995,406 	909,233 	890,251
+Row:(42,815) 	(44,066) 	(39,156)
+Row:426,558 	392,857 	333,345
+Row:27,044 	27,031 	27,653
+Row:(563) 4,007 	(500) (1,862) 	(403)
+3,189
+Row:396,070 137,964 	368,188 130,366 	302,906
+108,236
+Row:$ 258,106 	$ 237,822 	$ 194,670
+Row:(52 	2016
+Weeks)
+	2016
+(52 Weeks)
+	2015
+(53 Weeks)
+Row:Net sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$3,199,184 	$3,013,879 	$2,893,868
+Row:Cost of goods sold . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,820,035 	1,755,855 	1,709,428
+Row:Gross profit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,379,149 	1,258,024 	1,184,440
+Row:Selling, general, and administrative expenses . . . . . . . . . . . . . . . . . . . . . 	995,406 	909,233 	890,251
+Row:Royalty income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(42,815) 	(44,066) 	(39,156)
+Row:Operating income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	426,558 	392,857 	333,345
+Row:Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	27,044 	27,031 	27,653
+Row:Interest income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(563) 	(500) 	(403)
+Row:Other expense (income), net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	4,007 	(1,862) 	3,189
+Row:Income before income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	396,070 	368,188 	302,906
+Row:Provision for income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	137,964 	130,366 	108,236
+Row:Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ Basic net income per common share . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	258,106 5.13 	$ 237,822 $ 4.55 	$ 194,670
+$ 3.65
+Row:Diluted net income per common share . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	5.08 	$ 4.50 	$ 3.62
+Row:					For December 31,
+2016
+(52 Weeks)
+	the fiscal years January 2,
+2016
+(52 Weeks)
+	January 3,
+2015
+(53 Weeks)
+ended
+Row:Cash flows from operating activities:
+Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Adjustments to reconcile net income to net cash provided operating activities:
+	. by
+	. 	. . 	. . . 	$ 258,106 	$ 237,822 	$ 194,670
+Row:Depreciation and amortization . . . . . . . . . . . . . . . . . . . . Amortization of tradenames . . . . . . . . . . . . . . . . . . . . . . 	. . 	. . 	. . . . 	. . . . . . 	71,522 1,919 	61,982 6,417 	58,487
+16,437
+Row:Accretion of contingent consideration . . . . . . . . . . . . . . Amortization of debt issuance costs . . . . . . . . . . . . . . . . 	. . 	. . 	. . . . 	. . . . . . 	— 1,461 	809 1,603 	1,348
+1,533
+Row:Non-cash stock-based compensation expense . . . . . . . . 	. 	. 	. . 	. . . 	16,847 	17,029 	17,598
+Row:Unrealized foreign currency exchange loss, net . . . . . . . 	. 	. 	. . 	. . . 	33 	4 	2,378
+Row:Income tax benefit from stock-based compensation . . . . 	. 	. 	. . 	. . . 	(4,800) 	(8,839) 	(4,700)
+Row:Loss on disposal of property, plant, and equipment . . . . 	. 	. 	. . 	. . . 	1,167 	870 	1,157
+Row:Deferred income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . Effect of changes in operating assets and liabilities:
+	. 	. 	. . 	. . . 	1,294 	8,657 	3,911
+Row:Accounts receivable, net . . . . . . . . . . . . . . . . . . . . . . . 	. 	. 	. . 	. . . 	5,041 	(23,837) 	8,405
+Row:Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	. 	. . 	. . . 	(17,482) 	(34,352) 	(32,151)
+Row:Prepaid expenses and other assets . . . . . . . . . . . . . . . . Accounts payable and other liabilities . . . . . . . . . . . . Net cash provided by operating activities . . . . . . . . 	. . . 	. . . 	. . . . . . 	. . . . . . . . . 	2,060 32,061 369,229 	(3,496) 43,318 307,987 	(2,719)
+16,043
+282,397
+Row:Cash flows from investing activities:
+							Row:Capital expenditures . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	. 	. . 	. . . 	(88,556) 	(103,497) 	(103,453)
+Row:Acquisition of tradenames . . . . . . . . . . . . . . . . . . . . . . . . 	. 	. 	. . 	. . . 	— 	— 	(3,550)
+Row:Proceeds from sale of property, plant, and equipment . . 	. 	. 	. . 	. . . 	216 	72 	2,271
+Row:Net cash used in investing activities . . . . . . . . . . . . 	. 	. 	. . 	. . . 	(88,340) 	(103,425) 	(104,732)
+Row:Cash flows from financing activities:
+Payments of debt issuance costs . . . . . . . . . . . . . . . . . . . Borrowings under secured revolving credit facility . . . . 	. . 	. . 	. . . . 	. . . . . . 	— — 	(1,628) 205,586 	(177)
+—
+Row:Payments on secured revolving credit facility . . . . . . . . 	. 	. 	. . 	. . . 	— 	(205,237) 	—
+Row:Repurchases of common stock . . . . . . . . . . . . . . . . . . . . 	. 	. 	. . 	. . . 	(300,445) 	(110,290) 	(82,099)
+Row:Payment of contingent consideration . . . . . . . . . . . . . . . 	. 	. 	. . 	. . . 	— 	(7,572) 	(8,901)
+Row:Dividends paid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	. 	. . 	. . . 	(66,355) 	(46,028) 	(40,477)
+Row:Income tax benefit from stock-based compensation . . . . 	. 	. 	. . 	. . . 	4,800 	8,839 	4,700
+Row:Withholdings of taxes from vesting of restricted stock . 	. 	. 	. . 	. . . 	(8,673) 	(12,651) 	(4,548)
+Row:Proceeds from exercise of stock options . . . . . . . . . . . . . 	. 	. 	. . 	. . . 	7,166 	6,976 	9,064
+Row:Net cash used in financing activities . . . . . . . . . . . . 	. 	. 	. . 	. . . 	(363,507) 	(162,005) 	(122,438)
+Row:Net effect of exchange rate changes on cash . . . . . . . . . . . 	. 	. 	. . 	. . . 	767 	(1,986) 	(1,135)
+Row:Net (decrease) increase in cash and cash equivalents . . . . . Cash and cash equivalents, beginning of fiscal year . . . . . . 	. . 	. . 	. . . . 	. . . . . . 	(81,851) 381,209 	40,571 340,638 	54,092
+286,546
+Row:Cash and cash equivalents, end of fiscal year . . . . . . . . . . . 	. 	. 	. . 	. . . 	$ 299,358 	$ 381,209 	$ 340,638

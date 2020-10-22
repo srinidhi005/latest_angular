@@ -1,0 +1,100 @@
+Row:CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, BEGINNING OF PERIOD $ OPERATING ACTIVITIES:
+	16,175 $ 	19,934 	$ 21,856
+Row:Net income 	2,371 	3,033 	10,073
+Row:Adjustments to reconcile net income to net cash from operating activities:
+			Row:Depreciation of property and equipment and other amortization, including capitalized content costs 	8,116 	11,478 	15,341
+Row:Stock-based compensation 	2,975 	4,215 	5,418
+Row:Other operating expense, net 	160 	202 	274
+Row:Other expense (income), net 	(20) 	(292) 	219
+Row:Deferred income taxes 	(246) 	(29) 	441
+Row:Changes in operating assets and liabilities:
+			Row:Inventories 	(1,426) 	(3,583) 	(1,314)
+Row:Accounts receivable, net and other 	(3,436) 	(4,780) 	(4,615)
+Row:Accounts payable 	5,030 	7,100 	3,263
+Row:Accrued expenses and other 	1,724 	283 	472
+Row:Unearned revenue 	1,955 	738 	1,151
+Row:Net cash provided by (used in) operating activities 	17,203 	18,365 	30,723
+Row:INVESTING ACTIVITIES:
+			Row:Purchases of property and equipment 	(7,804) 	(11,955) 	(13,427)
+Row:Proceeds from property and equipment incentives 	1,067 	1,897 	2,104
+Row:Acquisitions, net of cash acquired, and other 	(116) 	(13,972) 	(2,186)
+Row:Sales and maturities of marketable securities 	4,577 	9,677 	8,240
+Row:Purchases of marketable securities 	(7,240) 	(12,731) 	(7,100)
+Row:Net cash provided by (used in) investing activities 	(9,516) 	(27,084) 	(12,369)
+Row:FINANCING ACTIVITIES:
+			Row:Proceeds from long-term debt and other 	618 	16,228 	768
+Row:Repayments of long-term debt and other 	(327) 	(1,301) 	(668)
+Row:Principal repayments of capital lease obligations 	(3,860) 	(4,799) 	(7,449)
+Row:Principal repayments of finance lease obligations 	(147) 	(200) 	(337)
+Row:Net cash provided by (used in) financing activities 	(3,716) 	9,928 	(7,686)
+Row:Foreign currency effect on cash, cash equivalents, and restricted cash 	(212) 	713 	(351)
+Row:Net increase (decrease) in cash, cash equivalents, and restricted cash 	3,759 	1,922 	10,317
+Row:CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, END OF PERIOD $ 	19,934 $ 	21,856 	$ 32,173
+Row:SUPPLEMENTAL CASH FLOW INFORMATION:
+			Row:Cash paid for interest on long-term debt $ 	290 $ 	328 	$ 854
+Row:Cash paid for interest on capital and finance lease obligations 	206 	319 	575
+Row:Cash paid for income taxes, net of refunds 	412 	957 	1,184
+Row:Property and equipment acquired under capital leases 	5,704 	9,637 	10,615
+Row:Property and equipment acquired under build-to-suit leases See accompanying notes to consolidated financial statements.
+	1,209 	3,541 	3,641
+Row:	2016 	2017 	2018
+Row:Net product sales $ 	94,665 	$ 118,573 	$ 141,915
+Row:Net service sales 	41,322 	59,293 	90,972
+Row:Total net sales 	135,987 	177,866 	232,887
+Row:Operating expenses:
+			Row:Cost of sales 	88,265 	111,934 	139,156
+Row:Fulfillment 	17,619 	25,249 	34,027
+Row:Marketing 	7,233 	10,069 	13,814
+Row:Technology and content 	16,085 	22,620 	28,837
+Row:General and administrative 	2,432 	3,674 	4,336
+Row:Other operating expense, net 	167 	214 	296
+Row:Total operating expenses 	131,801 	173,760 	220,466
+Row:Operating income 	4,186 	4,106 	12,421
+Row:Interest income 	100 	202 	440
+Row:Interest expense 	(484) 	(848) 	(1,417)
+Row:Other income (expense), net 	90 	346 	(183)
+Row:Total non-operating income (expense) 	(294) 	(300) 	(1,160)
+Row:Income before income taxes 	3,892 	3,806 	11,261
+Row:Provision for income taxes 	(1,425) 	(769) 	(1,197)
+Row:Equity-method investment activity, net of tax 	(96) 	(4) 	9
+Row:Net income $ 	2,371 	$ 3,033 	$ 10,073
+Row:Basic earnings per share $ 	5.01 	$ 6.32 	$ 20.68
+Row:Diluted earnings per share $ 	4.90 	$ 6.15 	$ 20.14
+Row:Weighted-average shares used in computation of earnings per share:
+			Row:Basic 	474 	480 	487
+Row:Diluted 	484 	493 	500
+Row:Current assets:
+		Row:Cash and cash equivalents $ 	20,522 	$ 31,750
+Row:Marketable securities 	10,464 	9,500
+Row:Inventories Accounts receivable, net and other 	16,047 13,164 	17,174
+16,677
+Row:Total current assets 	60,197 	75,101
+Row:Property and equipment, net 	48,866 	61,797
+Row:Goodwill 	13,350 	14,548
+Row:Other assets 	8,897 	11,202
+Row:Total assets $ 	131,310 	$ 162,648
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable $ 	34,616 	$ 38,192
+Row:Accrued expenses and other 	18,170 	23,663
+Row:Unearned revenue 	5,097 	6,536
+Row:Total current liabilities 	57,883 	68,391
+Row:Long-term debt 	24,743 	23,495
+Row:Other long-term liabilities 	20,975 	27,213
+Row:Commitments and contingencies (Note 7)
+		Row:Stockholders’ equity:
+		Row:Preferred stock, $0.01 par value:
+		Row:Authorized shares — 500
+		Row:Issued and outstanding shares — none 	— 	—
+Row:Common stock, $0.01 par value:
+		Row:Authorized shares — 5,000
+		Row:Issued shares — 507 and 514
+		Row:Outstanding shares — 484 and 491 	5 	5
+Row:Treasury stock, at cost 	(1,837) 	(1,837)
+Row:Additional paid-in capital 	21,389 	26,791
+Row:Accumulated other comprehensive loss 	(484) 	(1,035)
+Row:Retained earnings 	8,636 	19,625
+Row:Total stockholders’ equity 	27,709 	43,549
+Row:Total liabilities and stockholders’ equity $ 	131,310 	$ 162,648
+Row:See accompanying notes to consolidated financial statements.
+		

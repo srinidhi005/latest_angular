@@ -1,0 +1,27 @@
+Row:Dollars in millions, except share and per share data
+	2019 	2018 	2017
+Row:Net sales Cost of products sold 	$ 6,214 3,486 	$ 6,124 3,449 	$ 5,973
+$ 3,302
+Row:Gross profit 	2,728 	2,675 	2,671
+Row:Selling and administrative expenses 	856 	837 	810
+Row:Advertising costs 	612 	570 	599
+Row:Research and development costs 	136 	132 	135
+Row:Interest expense Other (income) expense, net 	97 3 	85 (3) 	88
+6
+Row:Earnings from continuing operations before income taxes Income taxes on continuing operations 	1,024 204 	1,054 231 	1,033
+330
+Row:Earnings from continuing operations Losses from discontinued operations, net of tax 	820 — 	823 — 	703
+(2)
+Row:Net earnings 	$ 820 	$ 823 	$ 701
+Row:Net earnings (losses) per share
+Basic
+Continuing operations Discontinued operations 	$ 6.42 — 	$ 6.37 — 	$ 5.45
+(0.02)
+Row:Basic net earnings per share 	$ 6.42 	$ 6.37 	$ 5.43
+Row:Diluted
+Continuing operations Discontinued operations 	$ 6.32 — 	$ 6.26 — 	$ 5.35
+(0.02)
+Row:Diluted net earnings per share 	$ 6.32 	$ 6.26 	$ 5.33
+Row:Weighted average shares outstanding (in thousands)
+Basic Diluted 	127,734 129,792 	129,293 131,581 	128,953
+131,566

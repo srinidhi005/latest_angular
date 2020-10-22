@@ -1,0 +1,163 @@
+Row:February 29, 	March 2,
+Row:2020 	2019
+Row:Current assets:
+		Row:Cash and cash equivalents $ 	218,180 	$ 144,353
+Row:Accounts receivable, net 	1,286,785 	1,788,712
+Row:Inventories, net 	1,921,604 	1,871,941
+Row:Prepaid expenses and other current assets 	181,794 	179,132
+Row:Current assets held for sale 	92,278 	117,581
+Row:Total current assets 	3,700,641 	4,101,719
+Row:Property, plant and equipment, net 	1,215,838 	1,308,514
+Row:Operating lease right-of-use assets 	2,903,256 	—
+Row:Goodwill 	1,108,136 	1,108,136
+Row:Other intangibles, net 	359,491 	448,706
+Row:Deferred tax assets 	16,680 	409,084
+Row:Other assets 	148,327 	215,208
+Row:Total assets $ 	9,452,369 	$ 7,591,367
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Current maturities of long-term debt and lease financing obligations $ 	8,840 	$ 16,111
+Row:Accounts payable 	1,484,081 	1,618,585
+Row:Accrued salaries, wages and other current liabilities 	746,318 	808,439
+Row:Current portion of operating lease liabilities 	490,161 	—
+Row:Current liabilities held for sale 	37,063 	—
+Row:Total current liabilities 	2,766,463 	2,443,135
+Row:Long-term debt, less current maturities 	3,077,268 	3,454,585
+Row:Long-term operating lease liabilities 	2,710,347 	—
+Row:Lease financing obligations, less current maturities 	19,326 	24,064
+Row:Other noncurrent liabilities 	204,438 	482,893
+Row:Total liabilities 	8,777,842 	6,404,677
+Row:Commitments and contingencies 	— 	—
+Row:outstanding 54,716 and 54,016 	54,716 54,016
+Row:Additional paid-in capital 	5,890,903 5,876,977
+Row:Accumulated deficit 	(5,222,194) (4,713,244)
+Row:Accumulated other comprehensive loss 	(48,898) (31,059)
+Row:Total stockholders’ equity 	674,527 1,186,690
+Row:Total liabilities and stockholders’ equity 	$ 9,452,369 $ 7,591,367
+Row:Revenues 	$ 21,928,393 	$ 21,639,557 	$ 21,528,968
+Row:Costs and expenses:
+			Row:Cost of revenues 	17,201,635 	16,963,205 	16,748,863
+Row:Selling, general and administrative expenses 	4,587,336 	4,592,375 	4,651,262
+Row:Lease termination and impairment charges 	42,843 	107,994 	58,765
+Row:Goodwill and intangible asset impairment charges 	— 	375,190 	261,727
+Row:Interest expense 	229,657 	227,728 	202,768
+Row:(Gain) loss on debt retirements, net 	(55,692) 	554 	—
+Row:Walgreens Boots Alliance merger termination fee 	— 	— 	(325,000)
+Row:Loss (gain) on sale of assets, net 	4,226 	(38,012) 	(25,872)
+Row:	22,010,005 	22,229,034 	21,572,513
+Row:Loss from continuing operations before income taxes 	(81,612) 	(589,477) 	(43,545)
+Row:Income tax expense 	387,607 	77,477 	305,987
+Row:Net loss from continuing operations 	(469,219) 	(666,954) 	(349,532)
+Row:Net income from discontinued operations, net of tax 	17,045 	244,741 	1,293,002
+Row:Net (loss) income 	$ (452,174) 	$ (422,213) 	$ 943,470
+Row:Computation of (loss) income attributable to common stockholders:
+			Row:Loss from continuing operations attributable to common
+			Row:stockholders—basic and diluted 	$ (469,219) 	$ (666,954) 	$ (349,532)
+Row:Income from discontinued operations attributable to common
+			Row:stockholders—basic and diluted 	17,045 	244,741 	1,293,002
+Row:(Loss) income attributable to common stockholders—basic and diluted 	$ (452,174) 	$ (422,213) 	$ 943,470
+Row:Basic and diluted (loss) income per share:
+			Row:Continuing operations 	$ (8.82) 	$ (12.62) 	$ (6.66)
+Row:Discontinued operations 	$ 0.32 	$ 4.63 	$ 24.64
+Row:Net basic and diluted (loss) income per share 	$ (8.50) 	$ (7.99) 	$ 17.98
+Row:February 29, 	March 2, 	March 3,
+Row:2020 	2019 	2018
+Row:(52 Weeks) 	(52 Weeks) 	(52 Weeks)
+Row:$ (452,174) 	$ (422,213) 	$ 943,470
+Row:Other comprehensive (loss) income:
+		Row:Defined benefit pension plans:
+		Row:Amortization of net actuarial losses included in net periodic pension
+cost, net of $0, $1,765 and $4,842 income tax expense (17,351) 	3,490 	7,255
+Row:Change in fair value of interest rate cap 	(488) —
+	Row:Total other comprehensive (loss) income (17,839) 	3,490 	7,255
+Row:Comprehensive (loss) income $ (470,013) 	$ (418,723) 	$ 950,725
+Row:	Shares 	Amount 	Capital Deficit 	Loss 	Total
+Row:BALANCE MARCH 4, 2017 	52,685 	52,685 	$ 5,840,859 $ (5,237,157) 	$ (42,317) 	$ 614,070
+Row:Net income 			943,470 		943,470
+Row:Other comprehensive income:
+					Row:Changes in Defined Benefit Plans, net of $4,842 tax expense 				7,255 	7,255
+Row:Comprehensive income 					950,725
+Row:Adoption of ASU 2016-09 			11,729 		11,729
+Row:Adoption of ASU 2018-02 			(513) 	513 	—
+Row:Exchange of restricted shares for taxes 	(73) 	(73) 	(4,030) 		(4,103)
+Row:Issuance of restricted stock 	693 	693 	(693) 		—
+Row:Cancellation of restricted stock 	(180) 	(180) 	180 		—
+Row:Amortization of restricted stock balance 			18,365 		18,365
+Row:Stock-based compensation expense 			2,761 		2,761
+Row:Amortization of performance-based incentive plans 			1,667 		1,667
+Row:Stock options exercised 	241 	241 	5,555 		5,796
+Row:BALANCE MARCH 3, 2018 Net loss 	53,366 	$ 53,366 	$ 5,864,664 $ (4,282,471) (422,213) 	$ (34,549) 	$ 1,601,010
+(422,213)
+Row:Other comprehensive income:
+Changes in Defined Benefit Plans, net of $1,765 tax expense Comprehensive loss Adoption of ASU 2014-09 Exchange of restricted shares for taxes 	(70) 	(70) 	(8,560) (2,349) 	3,490 	3,490
+(418,723)
+(8,560)
+(2,419)
+Row:Issuance of restricted stock 	709 	709 	(709) 		—
+Row:Cancellation of restricted stock 	(88) 	(88) 	88 		—
+Row:Amortization of restricted stock balance 			14,628 		14,628
+Row:Stock-based compensation expense 			(1,539) 		(1,539)
+Row:Stock options exercised 	99 	99 	2,194 		2,293
+Row:BALANCE MARCH 2, 2019 	54,016 	$ 54,016 	$ 5,876,977 $ (4,713,244) 	$ (31,059) 	$ 1,186,690
+Row:Net loss 			(452,174) 		(452,174)
+Row:Other comprehensive loss:
+					Row:Changes in Defined Benefit Plans, net of $0 tax expense Change in fair value of interest rate cap 				(17,351) (488) 	(17,351)
+(488)
+Row:Comprehensive loss Adoption of ASU 2016-02 			(56,776) 		(470,013)
+(56,776)
+Row:Exchange of restricted shares for taxes 	(240) 	(240) 	(1,680) 		(1,920)
+Row:Issuance of restricted stock 	1,402 	1,402 	(1,402) 		—
+Row:Cancellation of restricted stock 	(462) 	(462) 	462 		—
+Row:Amortization of restricted stock balance 			15,840 		15,840
+Row:Stock-based compensation expense 			706 		706
+Row:BALANCE FEBRUARY 29, 2020 	54,716 	$ 54,716 	$ 5,890,903 $ (5,222,194) 	$ (48,898) 	$ 674,527
+Row:February 29, 	March 2, 	March 3,
+Row:2020 	2019 	2018
+Row:(52 Weeks) 	(52 Weeks) 	(52 Weeks)
+Row:	(52 Weeks) 	(52 Weeks) 	(52 Weeks)
+Row:Operating activities:
+			Row:Net (loss) income $ 	(452,174) 	$ (422,213) 	$ 943,470
+Row:Net income from discontinued operations, net of tax 	17,045 	244,741 	1,293,002
+Row:Net loss from continuing operations $ Adjustments to reconcile to net cash provided by (used in) operating activities of continuing operations:
+Depreciation and amortization 	(469,219) 328,277 	$ (666,954) 357,882 	$ (349,532)
+386,057
+Row:Lease termination and impairment charges 	42,843 	107,994 	58,765
+Row:Goodwill and intangible asset impairment charges 	— 	375,190 	261,727
+Row:LIFO (credit) charge 	(64,804) 	23,354 	(28,827)
+Row:Loss (gain) on sale of assets, net 	4,226 	(38,012) 	(25,872)
+Row:Stock-based compensation expense 	16,087 	12,115 	25,793
+Row:(Gain) loss on debt retirements, net 	(55,692) 	554 	—
+Row:Changes in deferred taxes 	385,904 	95,638 	260,411
+Row:Changes in operating assets and liabilities:
+			Row:Accounts receivable 	486,563 	(75,844) 	(349,481)
+Row:Inventories 	15,141 	(44,645) 	18,835
+Row:Accounts payable 	(92,062) 	125,925 	211,511
+Row:Operating lease right-of-use assets and operating lease liabilities 	14,112 	— 	—
+Row:Other assets 	(38,351) 	1,000 	(10,082)
+Row:Other liabilities 	(62,168) 	(439,906) 	52,165
+Row:Net cash provided by (used in) operating activities of continuing operations Investing activities:
+	510,857 	(165,709) 	511,470
+Row:Payments for property, plant and equipment 	(171,705) 	(196,778) 	(185,879)
+Row:Intangible assets acquired Proceeds from insured loss Proceeds from dispositions of assets and investments 	(42,681) — 59,658 	(47,911) — 43,550 	(28,885)
+4,239
+27,586
+Row:Proceeds from sale-leaseback transactions 	4,879 	2,587 	—
+Row:Net cash used in investing activities of continuing operations 	(149,849) 	(198,552) 	(182,939)
+Row:Financing activities:
+			Row:Proceeds from issuance of long-term debt 	600,000 	450,000 	—
+Row:Net (payments to) proceeds from revolver 	(225,000) 	875,000 	(265,000)
+Row:Principal payments on long-term debt 	(706,103) 	(440,370) 	(9,882)
+Row:Change in zero balance cash accounts 	12,671 	(59,481) 	35,605
+Row:Net proceeds from issuance of common stock Payments for taxes related to net share settlement of equity awards 	— (1,921) 	2,294 (2,419) 	5,796
+(4,103)
+Row:Financing fees paid for early debt redemption 	(518) 	(171) 	—
+Row:Deferred financing costs paid 	(5,781) 	(21,564) 	—
+Row:Net cash (used in) provided by financing activities of continuing operations 	(326,652) 	803,289 	(237,584)
+Row:Cash flows from discontinued operations:
+			Row:Operating activities of discontinued operations 	(23,836) 	(62,956) 	(245,126)
+Row:Investing activities of discontinued operations 	63,307 	664,740 	3,496,222
+Row:Financing activities of discontinued operations 	— 	(1,343,793) 	(3,140,119)
+Row:Net cash provided by (used in) discontinued operations 	39,471 	(742,009) 	110,977
+Row:Increase (decrease) in cash and cash equivalents 	73,827 	(302,981) 	201,924
+Row:Cash and cash equivalents, beginning of period 	144,353 	447,334 	245,410
+Row:Cash and cash equivalents, end of period $ 	218,180 	$ 144,353 	$ 447,334

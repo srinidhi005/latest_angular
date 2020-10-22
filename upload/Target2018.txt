@@ -1,0 +1,290 @@
+Row:(millions, except per share data) 	2018
+	2017
+As Adjusted (a)
+)
+	2016
+As Adjusted (a)
+)
+Row:Sales 	$ 74,433 	$ 71,786 	$ 69,414
+Row:Other revenue 	923 	928 	857
+Row:Total revenue 	75,356 	72,714 	70,271
+Row:Cost of sales 	53,299 	51,125 	49,145
+Row:Selling, general and administrative expenses 	15,723 	15,140 	14,217
+Row:Depreciation and amortization (exclusive of depreciation included in cost of sales) 	2,224 	2,225 	2,045
+Row:Operating income 	4,110 	4,224 	4,864
+Row:Net interest expense 	461 	653 	991
+Row:Net other (income) / expense 	(27) 	(59) 	(88)
+Row:Earnings from continuing operations before income taxes 	3,676 	3,630 	3,961
+Row:Provision for income taxes 	746 	722 	1,295
+Row:Net earnings from continuing operations 	2,930 	2,908 	2,666
+Row:Discontinued operations, net of tax 	7 	6 	68
+Row:Net earnings 	$ 2,937 	$ 2,914 	$ 2,734
+Row:Basic earnings per share
+			Row:Continuing operations 	$ 5.54 	$ 5.32 	$ 4.61
+Row:Discontinued operations 	0.01 	0.01 	0.12
+Row:Net earnings per share 	$ 5.55 	$ 5.32 	$ 4.73
+Row:Diluted earnings per share
+			Row:Continuing operations 	$ 5.50 	$ 5.29 	$ 4.58
+Row:Discontinued operations 	0.01 	0.01 	0.12
+Row:Net earnings per share 	$ 5.51 	$ 5.29 	$ 4.69
+Row:Weighted average common shares outstanding
+			Row:Basic 	528.6 	546.8 	577.6
+Row:Diluted 	533.2 	550.3 	582.5
+Row:Antidilutive shares 	— 	4.1 	0.1
+Row:Note: Per share amounts may not foot due to rounding.
+See accompanying Notes to Consolidated Financial Statements.
+			Row:(millions) 	2018
+	2017
+As Adjusted (a)
+)
+	2016
+As Adjusted (a)
+)
+Row:Net earnings 	$ 2,937 $ 	2,914 $ 	2,734
+Row:Other comprehensive (loss) / income, net of tax
+			Row:Pension and other benefit liabilities, net of tax 	(52) 	2 	(13)
+Row:Currency translation adjustment and cash flow hedges, net of tax 	(6) 	6 	4
+Row:Other comprehensive (loss) / income 	(58) 	8 	(9)
+Row:Comprehensive income 	$ 2,879 $ 	2,922 $ 	2,725
+Row:See accompanying Notes to Consolidated Financial Statements.
+			Row:(a) Refer to Note 2 regarding the adoption of new accounting standards for revenue 	recognition, leases, and 	pensions.
+.
+	Row:36
+			Row:(millions, except footnotes)
+	February 2,
+2019
+	February 3, 2018
+As Adjusted (a)
+)
+Row:Assets
+		Row:Cash and cash equivalents 	$ 1,556 	$ 2,643
+Row:Inventory 	9,497 	8,597
+Row:Other current assets 	1,466 	1,300
+Row:Total current assets 	12,519 	12,540
+Row:Property and equipment
+		Row:Land 	6,064 	6,095
+Row:Buildings and improvements 	29,240 	28,131
+Row:Fixtures and equipment 	5,912 	5,623
+Row:Computer hardware and software 	2,544 	2,645
+Row:Construction-in-progress 	460 	440
+Row:Accumulated depreciation 	(18,687) 	(18,398)
+Row:Property and equipment, , net 	25,533 	24,536
+Row:Operating lease assets 	1,965 	1,884
+Row:Other noncurrent assets 	1,273 	1,343
+Row:Total assets 	$ 41,290 	$ 40,303
+Row:Liabilities and shareholders' investment
+		Row:Accounts payable 	$ 9,761 	$ 8,677
+Row:Accrued and other current liabilities 	4,201 	4,094
+Row:Current portion of long-term debt and other borrowings 	1,052 	281
+Row:Total current liabilities 	15,014 	13,052
+Row:Long-term debt and other borrowings 	10,223 	11,117
+Row:Noncurrent operating lease liabilities 	2,004 	1,924
+Row:Deferred income taxes 	972 	693
+Row:Other noncurrent liabilities 	1,780 	1,866
+Row:Total noncurrent liabilities 	14,979 	15,600
+Row:Shareholders' investment
+		Row:Common stock 	43 	45
+Row:Additional paid-in capital 	6,042 	5,858
+Row:Retained earnings 	6,017 	6,495
+Row:Accumulated other comprehensive loss 	(805) 	(747)
+Row:Total shareholders' investment 	11,297 	11,651
+Row:Total liabilities and shareholders' investment 	$ 41,290 	$ 40,303
+Row:Common Stock Authorized 6,000,000,000 shares, $0.0833 par value; 517,761,600 shares issued 541,681,670 shares issued and outstanding at February 3, , 2018.
+.
+	and outstanding at 	February 2, 2019;
+, Row:Preferred Stock Authorized 5,000,000 shares, $0.01 par value; ; no shares were issued or outstanding at See accompanying Notes to Consolidated Financial Statements.
+(a) Refer to Note 2 regarding the adoption of new accounting standards for revenue recognition, leases, 	February 2, 2019 or and pensions.
+.
+	February 3, , 2018.
+Row:37
+		Row:(millions)
+	2018
+	2017
+As Adjusted (a)
+	2016
+As Adjusted (a)
+Row:Operating activities
+			Row:Net earnings
+	$
+2,937 	$
+2,914 	$
+2,734
+Row:Earnings from discontinued operations, net of tax
+	7
+	6
+	68
+Row:Net earnings from continuing operations
+	2,930
+	2,908
+	2,666
+Row:Adjustments to reconcile net earnings to cash provided by operations:
+			Row:Depreciation and amortization
+	2,474
+	2,476
+	2,318
+Row:Share-based compensation expense
+	132
+	112
+	113
+Row:Deferred income taxes
+	322
+	(188)
+	40
+Row:Loss on debt extinguishment
+		123
+	422
+Row:Noncash losses/(gains) and other, net
+	95
+	208
+	(11)
+Row:Changes in operating accounts:
+			Row:Inventory
+	(900)
+	(348)
+	293
+Row:Other assets
+	(299)
+	(156)
+	56
+Row:Accounts payable
+	1,127
+	1,307
+	(166)
+Row:Accrued and other liabilities
+	89
+	419
+	(394)
+Row:Cash provided by operating activities—continuing operations
+	5,970
+	6,861
+	5,337
+Row:Cash provided by operating activities—discontinued operations
+	3
+	74
+	107
+Row:Cash provided by operations
+	5,973
+	6,935
+	5,444
+Row:Investing activities
+			Row:Expenditures for property and equipment
+	(3,516)
+	(2,533)
+	(1,547)
+Row:Proceeds from disposal of property and equipment
+	85
+	31
+	46
+Row:Cash paid for acquisitions, net of cash assumed
+		(518)
+	Row:Other investments
+	15
+	(55)
+	28
+Row:Cash required for investing activities
+	(3,416)
+	(3,075)
+	(1,473)
+Row:Financing activities
+			Row:Additions to long-term debt
+		739
+	1,977
+Row:Reductions of long-term debt
+	(281)
+	(2,192)
+	(2,649)
+Row:Dividends paid
+	(1,335)
+	(1,338)
+	(1,348)
+Row:Repurchase of stock
+	(2,124)
+	(1,046)
+	(3,706)
+Row:Stock option exercises
+	96
+	108
+	221
+Row:Cash required for financing activities
+	(3,644)
+	(3,729)
+	(5,505)
+Row:Net (decrease)/increase in cash and cash equivalents
+	(1,087)
+	131
+	(1,534)
+Row:Cash and cash equivalents at beginning of period
+	2,643
+	2.512
+	4,046
+Row:Cash and cash equivalents at end of period
+	$
+1,556 	$
+2,643 	2,512
+$
+Row:Supplemental information
+			Row:Interest paid, net of capitalized interest
+	$
+476 	$
+678 	$
+999
+Row:Income taxes paid
+	373
+	934
+	1,514
+Row:Leased assets obtained in exchange for new finance lease liabilities
+	130
+	139
+	252
+Row:Leased assets obtained in exchange for new operating lease liabilities
+	246
+	212
+	148
+Row:See accompanying Notes to Consolidated Financial Statements.
+			Row:(millions)
+	Common
+Stock
+Shares
+	Stock
+Par
+Value
+	Additional
+Paid-in
+Capital
+	Retained
+Earnings
+As Adjusted (a)
+)
+	Accumulated Other
+Comprehensive
+(Loss) / Income 	Total
+Row:January 30, 2016 	602.2 	$ 50 	$ 5,348 	$ 8,196 	$ (629) $ 	12,965
+Row:Adoption of ASC Topic 842 (Leases) 	— 	— 	— 	(43) 	— 	(43)
+Row:Net earnings 	— 	— 	— 	2,734 	— 	2,734
+Row:Other comprehensive loss 	— 	— 	— 	— 	(9) 	(9)
+Row:Dividends declared 	— 	— 	— 	(1,359) 	— 	(1,359)
+Row:Repurchase of stock 	(50.9) 	(4) 	— 	(3,682) 	— 	(3,686)
+Row:Stock options and awards 	4.9 	— 	313 	— 	— 	313
+Row:January 28, 2017 	556.2 	$ 46 	$ 5,661 	$ 5,846 	$ (638) $ 	10,915
+Row:Net earnings 	— 	— 	— 	2,914 	— 	2,914
+Row:Other comprehensive income 	— 	— 	— 	— 	8 	8
+Row:Dividends declared 	— 	— 	— 	(1,356) 	— 	(1,356)
+Row:Repurchase of stock 	(17.6) 	(1) 	— 	(1,026) 	— 	(1,027)
+Row:Stock options and awards 	3.1 	— 	197 	— 	— 	197
+Row:Reclassification of tax effects to retained
+earnings 	— 	— 	— 	117 	(117) 	—
+Row:February 3, 2018 	541.7 	$ 45 	$ 5,858 	$ 6,495 	$ (747) $ 	11,651
+Row:Net earnings 	— 	— 	— 	2,937 	— 	2,937
+Row:Other comprehensive loss 	— 	— 	— 	— 	(58) 	(58)
+Row:Dividends declared 	— 	— 	— 	(1,347) 	— 	(1,347)
+Row:Repurchase of stock 	(27.2) 	(2) 	— 	(2,068) 	— 	(2,070)
+Row:Stock options and awards 	3.3 	— 	184 	— 	— 	184
+Row:February 2, 2019 	517.8 	$ 43 	$ 6,042 	$ 6,017 	$ (805) $ 	11,297
+Row:We declared $2.54, $2.46, and $2.36 dividends 	per share 	for the twelve 	months ended 	February 2, 2019, 	February 3, 2018, and January 	28, 2017,
+Row:February 3, 2018 	541.7 $ 	45 $ 	5,858 $ 	6,495 	$ 	(747) $ 	11,651
+Row:Net earnings 	— 	— 	— 	2,937 		— 	2,937
+Row:Other comprehensive loss 	— 	— 	— 	— 		(58) 	(58)
+Row:Dividends declared 	— 	— 	— 	(1,347) 		— 	(1,347)
+Row:Repurchase of stock 	(27.2) 	(2) 	— 	(2,068) 		— 	(2,070)
+Row:Stock options and awards 	3.3 	— 	184 	— 		— 	184
+Row:February 2, 2019 	517.8 $ 	43 $ 	6,042 $ 	6,017 	$ 	(805) $ 	11,297

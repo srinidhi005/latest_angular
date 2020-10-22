@@ -1,0 +1,41 @@
+<div>
+    <mat-grid-list cols="2" rowHeight="2:2">
+      <mat-grid-tile>
+        <div>
+          <h1>RMI/Insights</h1>
+        </div>
+      </mat-grid-tile>
+      <mat-grid-tile>
+        <div>
+          <mat-card class="example-card">
+            <mat-card-title style="margin-bottom: 40px;text-align: center;">Login</mat-card-title>
+            <mat-card-content>
+              <div>
+                <mat-form-field appearance="outline" class="login-form-field">
+                  <mat-label>User Id</mat-label>
+                  <input matInput [formControl]="username">
+                  <!-- <mat-error *ngIf="username.errors && username.errors.required">enter username</mat-error>
+                  <mat-error *ngIf="username.errors && username.errors.invalidUsername">username in incorrect</mat-error> -->
+                </mat-form-field>
+                <br>
+                <mat-form-field appearance="outline" class="login-form-field">
+                  <mat-label>Password</mat-label>
+                  <input type="password" matInput [formControl]="password">
+                  <!-- <mat-error *ngIf="password.errors && password.errors.required">enter password</mat-error>
+                  <mat-error *ngIf="password.errors && password.errors.invalidPassword">password in incorrect</mat-error> -->
+                </mat-form-field>
+                <br>
+              </div>
+            </mat-card-content>
+            <mat-card-actions>
+              <div style="display: flex;flex-direction: row;justify-content: flex-end;">
+                <mat-spinner *ngIf="inprogress" style="margin-right: 10px;margin-top: 6px;" diameter="20"></mat-spinner>
+                <button style="background: #1973e8;color: white;" mat-button mat-raised-button
+                  (click)="submit()">Submit</button>
+              </div>
+            </mat-card-actions>
+          </mat-card>
+        </div>
+      </mat-grid-tile>
+    </mat-grid-list>
+  </div>

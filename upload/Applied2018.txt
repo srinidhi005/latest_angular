@@ -1,0 +1,60 @@
+Row:Net sales $ 	17,253 $ 14,537 	$ 10,825
+Row:Cost of products sold 	9,436 8,005 	6,314
+Row:Gross profit 	7,817 6,532 	4,511
+Row:Operating expenses:
+		Row:Research, development and engineering 	2,019 1,774 	1,540
+Row:Marketing and selling 	521 456 	429
+Row:General and administrative 	481 434 	390
+Row:Total operating expenses 	3,021 2,664 	2,359
+Row:Income from operations 	4,796 3,868 	2,152
+Row:Interest expense 	234 198 	155
+Row:Interest and other income, net 	132 61 	16
+Row:Income before income taxes 	4,694 3,731 	2,013
+Row:Provision for income taxes 	1,381 297 	292
+Row:Net income $ 	3,313 $ 3,434 	$ 1,721
+Row:Earnings per share:
+		Row:Basic $ 	3.27 $ 3.20 	$ 1.56
+Row:Diluted $ 	3.23 $ 3.17 	$ 1.54
+Row:Weighted average number of shares:
+		Row:Basic 	1,013 1,073 	1,107
+Row:Diluted 	1,026 1,084 	1,116
+Row:Net sales $ 	17,253 $ 14,537 	$ 10,825
+Row:Cost of products sold 	9,436 8,005 	6,314
+Row:Gross profit 	7,817 6,532 	4,511
+Row:Operating expenses:
+		Row:Research, development and engineering 	2,019 1,774 	1,540
+Row:Marketing and selling 	521 456 	429
+Row:General and administrative 	481 434 	390
+Row:Total operating expenses 	3,021 2,664 	2,359
+Row:Income from operations 	4,796 3,868 	2,152
+Row:Interest expense 	234 198 	155
+Row:Interest and other income, net 	132 61 	16
+Row:Income before income taxes 	4,694 3,731 	2,013
+Row:Provision for income taxes 	1,381 297 	292
+Row:Net income $ 	3,313 $ 3,434 	$ 1,721
+Row:Earnings per share:
+		Row:Basic $ 	3.27 $ 3.20 	$ 1.56
+Row:Diluted $ 	3.23 $ 3.17 	$ 1.54
+Row:Weighted average number of shares:
+		Row:Basic 	1,013 1,073 	1,107
+Row:Diluted 	1,026 1,084 	1,116
+Row:Net sales $ 	17,253 $ 14,537 	$ 10,825
+Row:Cost of products sold 	9,436 8,005 	6,314
+Row:Gross profit 	7,817 6,532 	4,511
+Row:Operating expenses:
+		Row:Research, development and engineering 	2,019 1,774 	1,540
+Row:Marketing and selling 	521 456 	429
+Row:General and administrative 	481 434 	390
+Row:Total operating expenses 	3,021 2,664 	2,359
+Row:Income from operations 	4,796 3,868 	2,152
+Row:Interest expense 	234 198 	155
+Row:Interest and other income, net 	132 61 	16
+Row:Income before income taxes 	4,694 3,731 	2,013
+Row:Provision for income taxes 	1,381 297 	292
+Row:Net income $ 	3,313 $ 3,434 	$ 1,721
+Row:Earnings per share:
+		Row:Basic $ 	3.27 $ 3.20 	$ 1.56
+Row:Diluted $ 	3.23 $ 3.17 	$ 1.54
+Row:Weighted average number of shares:
+		Row:Basic 	1,013 1,073 	1,107
+Row:Diluted 	1,026 1,084 	1,116

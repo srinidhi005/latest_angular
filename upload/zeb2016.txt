@@ -1,0 +1,118 @@
+Row:	2016 	2015
+Row:Assets
+Current assets:
+		Row:Cash and cash equivalents 	$ 156 	$ 192
+Row:Accounts receivable, net 	625 	671
+Row:Inventories, net 	345 	397
+Row:Income tax receivable Prepaid expenses and other current assets Total Current assets Property, plant and equipment, net Goodwill 	32 64 1,222 292 2,458 	4
+70
+1,334
+298
+2,490
+Row:Other intangibles, net 	480 	757
+Row:Long-term deferred income taxes 	113 	70
+Row:Other long-term assets Total Assets 	67 $ 4,632 	91
+$ 5,040
+Row:Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable 	$ 413 	$ 289
+Row:Accrued liabilities 	323 	367
+Row:Deferred revenue 	191 	197
+Row:Income taxes payable 	22 	42
+Row:Total Current liabilities 	949 	895
+Row:Long-term debt 	2,648 	3,012
+Row:Long-term deferred tax liability 	3 	1
+Row:Long-term deferred revenue 	124 	124
+Row:Other long-term liabilities 	116 	115
+Row:Total Liabilities 	3,840 	4,147
+Row:Stockholders’ Equity:
+		Row:Preferred stock, $0.01 par value; authorized 10,000,000 shares; none issued 	— 	—
+Row:Class A common stock, $0.01 par value; authorized 150,000,000 shares;
+issued 72,151,857 shares 	1 	1
+Row:Additional paid-in capital 	210 	194
+Row:Treasury stock at cost, 19,267,269 and 19,990,006 shares at December 31,
+2016 and December 31, 2015, respectively 	(614) 	(631)
+Row:Retained earnings 	1,240 	1,377
+Row:Accumulated other comprehensive loss 	(45) 	(48)
+Row:Total Stockholders’ Equity Total Liabilities and Stockholders’ Equity 	792 $ 4,632 	893
+$ 5,040
+Row:See accompanying Notes to Consolidated Financial Statements.
+		Row:	2016 	2015 	2014
+Row:software 	$ 3,056 518 	$ 3,131 519 	$ 1,499
+172
+Row:	3,574 	3,650 	1,671
+Row:products 	1,593 339 	1,629 377 	792
+101
+Row:	1,932 	2,006 	893
+Row:	1,642 	1,644 	778
+Row:	444 376 	494 394 	213
+151
+Row:	307 	283 	138
+Row:assets 	229 	251 	54
+Row:costs 	125 	145 	127
+Row:and other intangibles 	62 	— 	—
+Row:	19 	40 	6
+Row:	1,562 	1,607 	689
+Row:	80 	37 	89
+Row:	(5) (193) (11) 	(23) (193) (1) 	(9)
+(62)
+(1)
+Row:	(209) 	(217) 	(72)
+Row:taxes 	(129) 	(180) 	17
+Row:	8 	(22) 	(15)
+Row:	$ (137 ) 	$ (158 ) 	$ 32
+Row:	$ (2.65 ) $ (2.65 ) 	$ (3.10 ) $ (3.10 ) 	$ 0.64
+$ 0.63
+Row:outstanding 	51,579,112 	50,996,297 	50,789,173
+Row:equivalent shares
+			Row:	51,579,112 	50,996,297 	51,379,698
+Row:Cash flows from operating activities:
+Net (loss) income $ Adjustments to reconcile net (loss) income to net cash provided by
+operating activities:
+	2016 (137) 	2015 $ (158) $ 	2014
+32
+Row:Depreciation and amortization 	304 	320 	81
+Row:Impairment of goodwill, intangibles and other assets 	69 	— 	—
+Row:Amortization of debt issuance cost and discount 	23 	16 	2
+Row:Share-based compensation 	27 	31 	20
+Row:Excess tax benefit from share-based compensation 	(3) 	(12) 	(6)
+Row:Deferred income taxes 	(44) 	(142) 	(44)
+Row:Unrealized (gain) loss on forward interest rate swaps 	— 	(4) 	5
+Row:Other 	3 	14 	4
+Row:Changes in operating assets and liabilities:
+			Row:Accounts receivable, net 	34 	2 	(70)
+Row:Inventories, net 	34 	(13) 	(2)
+Row:Other assets 	7 	(7) 	(13)
+Row:Accounts payable 	125 	(21) 	62
+Row:Accrued liabilities 	(29) 	(5) 	164
+Row:Deferred revenue Income taxes 	7 (41) 	16 47 	10
+(5)
+Row:Other operating activities 	(7) 	26 	8
+Row:Net cash provided by operating activities 	372 	110 	248
+Row:Cash flows from investing activities:
+Acquisition of businesses, net of cash acquired Purchases of property, plant and equipment 	— (77) 	(52) (122) 	(3,399)
+(39)
+Row:Proceeds from the sale of a business 	39 	— 	—
+Row:Proceeds from the sale of long-term investments 	— 	3 	—
+Row:Purchases of long-term investments Purchases of investments and marketable securities 	(1) — 	(1) (1) 	(2)
+(651)
+Row:Maturities of investments and marketable securities 	— 	— 	336
+Row:Proceeds from sales of investments and marketable securities 	— 	25 	644
+Row:Net cash used in investing activities 	(39) 	(148) 	(3,111)
+Row:Cash flows from financing activities:
+			Row:Payment of debt issuance costs 	— 	— 	(24)
+Row:Proceeds from issuance of long-term debt 	102 	— 	3,189
+Row:Payment of long term-debt 	(484) 	(165) 	—
+Row:Proceeds from exercise of stock options and stock purchase plan purchases 	11 	17 	26
+Row:Taxes paid related to net share settlement of equity awards Excess tax benefit from share-based compensation Net cash (used in) provided by financing activities 	(8) 3 (376) 	(13) 12 (149) 	(5)
+6
+3,192
+Row:Effect of exchange rate changes on cash 	7 	(15) 	2
+Row:Net (decrease) increase in cash and cash equivalents Cash and cash equivalents at beginning of year 	(36) 192 	(202) 394 	331
+63
+Row:Cash and cash equivalents at end of year $ 	156 	$ 192 $ 	394
+Row:Supplemental disclosures of cash flow information:
+Income taxes paid $ Interest paid $ 	81 180 	$ 38 $ $ 183 $ 	17
+—
+Row:See accompanying Notes to Consolidated Financial Statements.
+			

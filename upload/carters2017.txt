@@ -1,0 +1,82 @@
+Row:December 30,
+	December 31,
+Row:2017
+	2016
+Row:Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	178,494 $ 	299,358
+Row:Accounts receivable, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	240,561 	202,471
+Row:Finished goods inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	548,722 	487,591
+Row:Prepaid expenses and other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	49,892 	32,180
+Row:Deferred income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	35,486
+Row:Total current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,017,669 	1,057,086
+Row:Property, plant, and equipment, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	377,924 	385,874
+Row:Tradenames, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	365,551 	308,928
+Row:Goodwill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	230,424 	176,009
+Row:Customer relationships, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Total assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	47,996 28,435 $2,067,999 	—
+18,700
+$1,946,597
+Row:Accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	182,114 $ 	158,432
+Row:Other current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	146,510 	119,177
+Row:Total current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	328,624 	277,609
+Row:Long-term debt, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	617,306 	580,376
+Row:Deferred income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Other long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	84,848 180,128 	130,656
+169,832
+Row:Total liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,210,906 	1,158,473
+Row:December 30,
+2017
+	December 31,
+2016
+	January 2,
+2016
+Row:$3,400,410 	$3,199,184 	$3,013,879
+Row:1,917,096 	1,820,035 	1,755,855
+Row:1,483,314 	1,379,149 	1,258,024
+Row:1,106,927 	995,406 	909,233
+Row:(43,181) 	(42,815) 	(44,066)
+Row:419,568 	426,558 	392,857
+Row:30,044 	27,044 	27,031
+Row:(345) 	(563) 	(500)
+Row:(1,163) 	4,007 	(1,862)
+Row:391,032 88,268 	396,070 137,964 	368,188
+130,366
+Row:$ 302,764 	$ 258,106 $ 	237,822
+Row:Net sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . Row:Cost of goods sold . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . Row:Gross profit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . Row:Selling, general, and administrative expenses . . . . . . . . . . . . . . . . 	. . . . . Row:Royalty income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . Row:Operating income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . Row:Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . Row:Interest income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . Row:Other (income) expense, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . Row:Income before income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . Row:Provision for income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . Row:Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . Row:December 30,
+	December 31,
+	January 2,
+Row:2017
+	2016
+	2016
+Row:activities:
+			Row:Depreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	81,796 	71,522 	61,982
+Row:Amortization of intangible assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	2,616 	1,919 	6,417
+Row:Adjustment and accretion of contingent considerations . . . . . . . . . . 	(3,600) 	— 	809
+Row:Amortization of debt issuance costs . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,572 	1,461 	1,603
+Row:Non-cash stock-based compensation expense . . . . . . . . . . . . . . . . . . 	17,549 	16,847 	17,029
+Row:Unrealized foreign currency exchange (gain) loss, net . . . . . . . . . . . 	(624) 	33 	4
+Row:Income tax benefit from stock-based compensation . . . . . . . . . . . . . 	— 	(4,800) 	(8,839)
+Row:Loss on disposal of property, plant, and equipment . . . . . . . . . . . . . . 	1,572 	1,167 	870
+Row:Deferred income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(54,892) 	1,294 	8,657
+Row:Accounts receivable, net . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . . 	(18,046) 	5,041 	(23,837)
+Row:Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . . 	(20,922) 	(17,482) 	(34,352)
+Row:Prepaid expenses and other assets . . . . . . . . . . . . . . . . 	. . . . . . . . . 	(21,339) 	2,060 	(3,496)
+Row:Accounts payable and other liabilities . . . . . . . . . . . . . 	. . . . . . . . . 	41,175 	32,061 	43,318
+Row:Net cash provided by operating activities . . . . . . . . 	. . . . . . . . . 	329,621 	369,229 	307,987
+Row:Capital expenditures . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	. 	. . . 	. . . 	. 	. 	. . . 	(69,473) 	(88,556) 	(103,497)
+Row:Acquisitions of businesses, net of cash acquired . . 	. . 	. 	. . . 	. . . 	. 	. 	. . . 	(158,457) 	— 	—
+Row:Disposals of property, plant, and equipment . . . . . 	. . 	. 	. . . 	. . . 	. 	. 	. . . 	15 	216 	72
+Row:Net cash used in investing activities . . . . . . . 	. . 	. 	. . . 	. . . 	. 	. 	. . . 	(227,915) 	(88,340) 	(103,425)
+Row:Net cash used in investing activities . . . . . . . . . . . . . . . . . . . . . 	(227,915) 	(88,340) 	(103,425)
+Row:Cash flows from financing activities:
+			Row:Payments of debt issuance costs . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(2,119) 	— 	(1,628)
+Row:Borrowings under secured revolving credit facility . . . . . . . . . . . . . . 	200,000 	— 	205,586
+Row:Payments on secured revolving credit facility . . . . . . . . . . . . . . . . . . 	(163,965) 	— 	(205,237)
+Row:Repurchases of common stock . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(188,762) 	(300,445) 	(110,290)
+Row:Payment of contingent consideration . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	— 	(7,572)
+Row:Dividends paid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(70,914) 	(66,355) 	(46,028)
+Row:Income tax benefit from stock-based compensation . . . . . . . . . . . . . 	— 	4,800 	8,839
+Row:Withholdings of taxes from vesting of restricted stock . . . . . . . . . . . 	(5,753) 	(8,673) 	(12,651)
+Row:Proceeds from exercises of stock options . . . . . . . . . . . . . . . . . . . . . 	8,438 	7,166 	6,976
+Row:Net cash used in financing activities . . . . . . . . . . . . . . . . . . . . . 	(223,075) 	(363,507) 	(162,005)
+Row:Net effect of exchange rate changes on cash . . . . . . . . . . . . . . . . . . . . . 	505 	767 	(1,986)
+Row:Net (decrease) increase in cash and cash equivalents . . . . . . . . . . . . . . 	(120,864) 	(81,851) 	40,571
+Row:Cash and cash equivalents, beginning of fiscal year . . . . . . . . . . . . . . . 	299,358 	381,209 	340,638
+Row:Cash and cash equivalents, end of fiscal year . . . . . . . . . . . . . . . . . . . . $ 	178,494 $ 	299,358 $ 	381,209

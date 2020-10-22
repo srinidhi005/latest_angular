@@ -1,0 +1,784 @@
+Row(millions of dollars, except per share data) 	Year 	Ended December 	31,
+Row	2019 	2018 	2017
+RowNet sales $ 	17,900.8 $ 	17,534.5 	$ 14,983.8
+RowCost of goods sold 	9,864.7 	10,115.9 	8,265.0
+RowGross profit 	8,036.1 	7,418.6 	6,718.8
+RowPercent to net sales 	44.9% 	42.3% 	44.8%
+RowSelling, general and administrative expenses 	5,274.9 	5,033.8 	4,797.6
+RowPercent to net sales 	29.5% 	28.7% 	32.0%
+RowOther general expense - net 	39.1 	189.1 	20.9
+RowAmortization 	312.8 	318.1 	206.8
+RowImpairment of trademarks 	122.1 		2.0
+RowInterest expense 	349.3 	366.7 	263.5
+RowInterest and net investment income 	(25.9) 	(5.2) 	(8.6)
+RowCalifornia litigation expense 	(34.7) 	136.3
+	RowOther expense (income) - net 	16.7 	20.1 	(32.7)
+RowIncome from continuing operations before income taxes 	1,981.8 	1,359.7 	1,469.3
+RowIncome tax expense (credit) 	440.5 	251.0 	(300.2)
+RowNet income from continuing operations 	1,541.3 	1,108.7 	1,769.5
+RowLoss from discontinued operations
+			RowIncome taxes 			41.6
+RowNet loss from discontinued operations 	— 	— 	(41.6)
+RowNet income $ 	1,541.3 $ 	1,108.7 	$ 1,727.9
+RowBasic net income per share:
+			RowContinuing operations $ 	16.79 $ 	11.92 	$ 19.04
+RowDiscontinued operations 			(.44)
+RowNet income per share $ 	16.79 $ 	11.92 	$ 18.60
+RowDiluted net income per share
+			RowContinuing operations $ 	16.49 $ 	11.67 	$ 18.64
+RowDiscontinued operations 			(.44)
+RowNet income per share $ 	16.49 $ 	11.67 	$ 18.20
+Row	— 		— 	(41.6)
+Row$ 	1,541.3 	$ 	1,108.7 	$ 1,727.9
+Row	2019 	2018 	2017
+RowNet income 	$ 1,541.3 	$ 1,108.7 	$ 1,727.9
+RowOther comprehensive (loss) income, net of tax:
+			RowForeign currency translation adjustments (1) 	(49.8) 	(254.3) 	148.0
+RowPension and other postretirement benefit adjustments:
+			RowAmounts recognized in Other comprehensive (loss) income (2) 	(5.1) 	(13.5) 	48.0
+RowAmounts reclassified from Other comprehensive (loss) income (3) 	22.3 	31.3 	(7.8)
+Row	17.2 	17.8 	40.2
+RowUnrealized net gains on available-for sale securities:
+			RowAmounts recognized in Other comprehensive (loss) income (4) 			2.1
+RowAmounts reclassified from Other comprehensive (loss) income (5) 			(0.8)
+Row	— 	— 	1.3
+RowUnrealized net (losses) gains on cash flow hedges
+			RowAmounts recognized in Other comprehensive (loss) income (6) 			(30.8)
+RowAmounts reclassified from Other comprehensive (loss) income (7) 	(8.7) 	(6.2) 	(3.2)
+Row	(8.7) 	(6.2) 	(34.0)
+RowOther comprehensive (loss) income, net of tax 	(41.3) 	(242.7) 	155.5
+RowComprehensive income 	$ 1,500.0 	$ 866.0 	$ 1,883.4
+Row(millions of dollars, except share data) 	2019 	December 31,
+2018 	2017
+RowAssets
+			RowCurrent assets:
+Cash and cash equivalents 	$ 161.8 	$ 155.5 	$ 204.2
+RowAccounts receivable, less allowance 	2,088.9 	2,018.8 	2,104.6
+RowInventories:
+			RowFinished goods 	1,509.6 	1,426.4 	1,356.5
+RowWork in process and raw materials 	380.0 	388.9 	386.0
+Row	1,889.6 	1,815.3 	1,742.5
+RowOther current assets 	491.4 	354.9 	355.7
+RowTotal current assets 	4,631.7 	4,344.5 	4,407.0
+RowProperty, plant and equipment:
+			RowLand 	242.1 	244.6 	254.7
+RowBuildings 	1,044.2 	979.1 	962.1
+RowMachinery and equipment 	2,952.1 	2,668.5 	2,573.0
+RowConstruction in progress 	144.0 	147.9 	177.0
+RowLess allowances for depreciation 	4,382.4 2,547.2 	4,040.1 2,263.3 	3,966.8
+2,089.7
+Row	1,835.2 	1,776.8 	1,877.1
+RowGoodwill 	7,004.8 	6,956.7 	6,814.3
+RowIntangible assets 	4,734.5 	5,201.6 	6,002.4
+RowOperating lease right-of-use assets 	1,685.6
+		RowDeferred pension assets 	43.0 	270.7 	296.7
+RowOther assets 	561.4 	584.0 	502.0
+RowTotal Assets 	$ 20,496.2 	$ 19,134.3 	$ 19,899.5
+RowCurrent liabilities:
+			RowShort-term borrowings 	$ 204.7 	$ 328.4 	$ 633.7
+RowAccounts payable 	1,876.3 	1,799.4 	1,791.5
+RowCompensation and taxes withheld 	552.7 	504.5 	508.2
+RowAccrued taxes 	85.7 	80.8 	79.9
+RowCurrent portion of long-term debt 	429.8 	307.2 	1.2
+RowCalifornia litigation accrual 	12.0 	136.3
+	RowCurrent portion of operating lease liabilities 	371.6
+		RowOther accruals 	989.1 	1,141.1 	972.7
+RowTotal current liabilities 	4,521.9 	4,297.7 	3,987.2
+RowLong-term debt 	8,050.7 	8,708.1 	9,885.7
+RowPostretirement benefits other than pensions 	263.0 	257.6 	274.7
+RowDeferred income taxes 	969.9 	1,130.9 	1,419.6
+RowLong-term operating lease liabilities 	1,370.7
+		RowOther long-term liabilities 	1,196.7 	1,009.3 	684.4
+RowShareholders’ equity:
+			RowCommon stock - $1.00 par value:
+			Row92,144,839, 93,116,762 and 93,883,645 shares outstanding
+at December 31, 2019, 2018 and 2017, respectively 	119.4 	118.4 	117.6
+RowOther capital 	3,153.0 	2,896.4 	2,723.2
+RowRetained earnings 	7,366.9 	6,246.5 	5,458.4
+RowTreasury stock, at cost 	(5,836.5) 	(4,900.7) 	(4,266.4)
+RowAccumulated other comprehensive loss 	(679.5) 	(629.9) 	(384.9)
+RowTotal shareholders’ equity 	4,123.3 	3,730.7 	3,647.9
+RowTotal Liabilities and Shareholders’ Equity 	$ 20,496.2 	$ 19,134.3 	$ 19,899.5
+RowOperating Activities
+	2019 	2018 	2017
+RowNet income 	$ 1,541.3 	$ 1,108.7 	$ 1,727.9
+RowAdjustments to reconcile net income to net operating cash:
+			RowLoss from discontinued operations 			41.6
+RowDepreciation 	262.1 	278.2 	285.0
+RowNon-cash lease expense 	370.8
+		RowAmortization of intangible assets 	312.8 	318.1 	206.8
+RowAmortization of inventory purchase accounting adjustments 			113.8
+RowLoss on extinguishment of debt 	14.8
+		RowImpairment of trademarks Amortization of credit facility and debt issuance costs 	122.1 9.2 	12.1 	2.0
+8.3
+RowProvisions for environmental-related matters 	23.0 	176.3 	15.4
+RowProvisions for qualified exit costs 	8.8 	14.9 	50.5
+RowDeferred income taxes 	(131.1) 	(143.4) 	(620.7)
+RowDefined benefit pension plans net cost 	43.1 	36.4 	18.2
+RowStock-based compensation expense 	101.7 	82.6 	90.3
+RowNet decrease in postretirement liability 	(14.4) 	(15.9) 	(17.9)
+RowDecrease in non-traded investments 	82.3 	72.5 	65.7
+RowLoss on sale or disposition of assets 	16.1 	12.8 	5.5
+RowOther 	15.8 	(13.8) 	1.1
+RowChange in working capital accounts:
+(Increase) decrease in accounts receivable 	(73.2) 	18.4 	(49.9)
+Row(Increase) in inventories 	(75.5) 	(119.5) 	(90.0)
+RowIncrease in accounts payable 	36.2 	113.8 	166.7
+RowIncrease (decrease) in accrued taxes 	5.1 	2.7 	(20.9)
+RowIncrease in accrued compensation and taxes withheld 	49.6 	4.6 	11.3
+Row(Increase) decrease in refundable income taxes 	(47.8) 	20.1 	(15.5)
+Row(Decrease) increase in California litigation accrual 	(59.6) 	136.3
+	RowOther 	18.8 	(46.7) 	16.3
+RowChange in operating lease liabilities 	(368.4)
+		RowCosts incurred for environmental-related matters 	(26.1) 	(17.7) 	(13.8)
+RowCosts incurred for qualified exit costs 	(12.8) 	(21.2) 	(45.4)
+RowOther 	96.6 	(86.6) 	(68.3)
+RowNet operating cash 	2,321.3 	1,943.7 	1,884.0
+RowInvesting Activities
+			RowCapital expenditures 	(328.9) 	(251.0) 	(222.8)
+RowAcquisitions of businesses, net of cash acquired 	(77.3) 		(8,810.3)
+RowProceeds from sale of assets 	6.9 	38.4 	47.2
+RowIncrease in other investments 	(63.3) 	(39.0) 	(61.5)
+RowNet investing cash 	(462.6) 	(251.6) 	(9,047.4)
+RowFinancing Activities
+			RowNet (decrease) increase in short-term borrowings 	(122.8) 	(300.9) 	356.3
+RowProceeds from long-term debt 	1,332.8 		8,275.2
+RowPayments of long-term debt 	(1,875.8) 	(852.6) 	(1,852.8)
+RowPayments for credit facility and debt issuance costs 	(13.6) 	(5.2) 	(49.4)
+RowPayments of cash dividends 	(420.8) 	(322.9) 	(319.0)
+RowProceeds from stock options exercised 	154.6 	90.7 	143.6
+RowTreasury stock purchased 	(778.8) 	(613.3)
+	RowProceeds from real estate financing transactions 	7.2 	225.3
+	RowOther 	(129.2) 	32.2 	(39.8)
+RowNet financing cash 	(1,846.4) 	(1,746.7) 	6,514.1
+RowEffect of exchange rate changes on cash 	(6.0) 	5.9 	(36.3)
+RowNet increase (decrease) in cash and cash equivalents 	6.3 	(48.7) 	(685.6)
+RowCash and cash equivalents at beginning of year 	155.5 	204.2 	889.8
+RowCash and cash equivalents at end of year 	$ 161.8 	$ 155.5 	$ 204.2
+RowTaxes paid on income 	$ 407.5 	$ 292.2 	$ 419.7
+RowInterest paid on debt 	336.1 	368.0 	220.6
+Row	Common
+Stock
+	Other
+Capital
+	Retained
+Earnings
+	Treasury
+Stock
+	Other
+Comprehensive
+Loss 	Total
+RowBalance at January 1, 2017 	$ 116.6 	$ 2,488.5 	$ 4,049.5 	$(4,235.8) 	$ (540.4) 	$ 1,878.4
+RowNet income 			1,727.9 			1,727.9
+RowOther comprehensive income 					155.5 	155.5
+RowStock-based compensation activity 	1.0 	232.4 		(30.6) 		202.8
+RowOther adjustments 		2.3 				2.3
+RowCash dividends -- $3.40 per share 			(319.0) 			(319.0)
+RowBalance at December 31, 2017 	117.6 	2,723.2 	5,458.4 	(4,266.4) 	(384.9) 	3,647.9
+RowNet income 			1,108.7 			1,108.7
+RowOther comprehensive loss 					(242.7) 	(242.7)
+RowAdjustment to initially adopt ASU 2016-01 			2.3 		(2.3) 	—
+RowTreasury stock purchased 				(613.3) 		(613.3)
+RowStock-based compensation activity 	0.8 	172.4 		(21.0) 		152.2
+RowOther adjustments 		0.8 				0.8
+RowCash dividends -- $3.44 per share Balance at December 31, 2018 	118.4 	2,896.4 	(322.9) 6,246.5 	(4,900.7) 	(629.9) 	(322.9)
+3,730.7
+RowNet income 			1,541.3 			1,541.3
+RowOther comprehensive loss 					(41.3) 	(41.3)
+RowAdjustment to initially adopt ASU 2016-02 			(8.4) 			(8.4)
+RowAdjustment to initially adopt ASU 2018-02 			8.3 		(8.3) 	—
+RowTreasury stock purchased 				(778.8) 		(778.8)
+RowTreasury stock transferred from defined
+benefit pension plan 				(131.8) 		(131.8)
+RowStock-based compensation activity 	1.0 	254.5 		(25.2) 		230.3
+RowOther adjustments 		2.1 				2.1
+RowCash dividends -- $4.52 per share 			(420.8) 			(420.8)
+RowBalance at December 31, 2019 	$ 119.4 	$ 3,153.0 	$ 7,366.9 	$ (5,836.5) 	$ (679.5) 	$ 4,123.3
+Row(millions of dollars, except per share data) 	Year 	Ended December 	31,
+Row	2019 	2018 	2017
+RowNet sales $ 	17,900.8 $ 	17,534.5 	$ 14,983.8
+RowCost of goods sold 	9,864.7 	10,115.9 	8,265.0
+RowGross profit 	8,036.1 	7,418.6 	6,718.8
+RowPercent to net sales 	44.9% 	42.3% 	44.8%
+RowSelling, general and administrative expenses 	5,274.9 	5,033.8 	4,797.6
+RowPercent to net sales 	29.5% 	28.7% 	32.0%
+RowOther general expense - net 	39.1 	189.1 	20.9
+RowAmortization 	312.8 	318.1 	206.8
+RowImpairment of trademarks 	122.1 		2.0
+RowInterest expense 	349.3 	366.7 	263.5
+RowInterest and net investment income 	(25.9) 	(5.2) 	(8.6)
+RowCalifornia litigation expense 	(34.7) 	136.3
+	RowOther expense (income) - net 	16.7 	20.1 	(32.7)
+RowIncome from continuing operations before income taxes 	1,981.8 	1,359.7 	1,469.3
+RowIncome tax expense (credit) 	440.5 	251.0 	(300.2)
+RowNet income from continuing operations 	1,541.3 	1,108.7 	1,769.5
+RowLoss from discontinued operations
+			RowIncome taxes 			41.6
+RowNet loss from discontinued operations 	— 	— 	(41.6)
+RowNet income $ 	1,541.3 $ 	1,108.7 	$ 1,727.9
+RowBasic net income per share:
+			RowContinuing operations $ 	16.79 $ 	11.92 	$ 19.04
+RowDiscontinued operations 			(.44)
+RowNet income per share $ 	16.79 $ 	11.92 	$ 18.60
+RowDiluted net income per share
+			RowContinuing operations $ 	16.49 $ 	11.67 	$ 18.64
+RowDiscontinued operations 			(.44)
+RowNet income per share $ 	16.49 $ 	11.67 	$ 18.20
+Row	— 		— 	(41.6)
+Row$ 	1,541.3 	$ 	1,108.7 	$ 1,727.9
+Row	2019 	2018 	2017
+RowNet income 	$ 1,541.3 	$ 1,108.7 	$ 1,727.9
+RowOther comprehensive (loss) income, net of tax:
+			RowForeign currency translation adjustments (1) 	(49.8) 	(254.3) 	148.0
+RowPension and other postretirement benefit adjustments:
+			RowAmounts recognized in Other comprehensive (loss) income (2) 	(5.1) 	(13.5) 	48.0
+RowAmounts reclassified from Other comprehensive (loss) income (3) 	22.3 	31.3 	(7.8)
+Row	17.2 	17.8 	40.2
+RowUnrealized net gains on available-for sale securities:
+			RowAmounts recognized in Other comprehensive (loss) income (4) 			2.1
+RowAmounts reclassified from Other comprehensive (loss) income (5) 			(0.8)
+Row	— 	— 	1.3
+RowUnrealized net (losses) gains on cash flow hedges
+			RowAmounts recognized in Other comprehensive (loss) income (6) 			(30.8)
+RowAmounts reclassified from Other comprehensive (loss) income (7) 	(8.7) 	(6.2) 	(3.2)
+Row	(8.7) 	(6.2) 	(34.0)
+RowOther comprehensive (loss) income, net of tax 	(41.3) 	(242.7) 	155.5
+RowComprehensive income 	$ 1,500.0 	$ 866.0 	$ 1,883.4
+Row(millions of dollars, except share data) 	2019 	December 31,
+2018 	2017
+RowAssets
+			RowCurrent assets:
+Cash and cash equivalents 	$ 161.8 	$ 155.5 	$ 204.2
+RowAccounts receivable, less allowance 	2,088.9 	2,018.8 	2,104.6
+RowInventories:
+			RowFinished goods 	1,509.6 	1,426.4 	1,356.5
+RowWork in process and raw materials 	380.0 	388.9 	386.0
+Row	1,889.6 	1,815.3 	1,742.5
+RowOther current assets 	491.4 	354.9 	355.7
+RowTotal current assets 	4,631.7 	4,344.5 	4,407.0
+RowProperty, plant and equipment:
+			RowLand 	242.1 	244.6 	254.7
+RowBuildings 	1,044.2 	979.1 	962.1
+RowMachinery and equipment 	2,952.1 	2,668.5 	2,573.0
+RowConstruction in progress 	144.0 	147.9 	177.0
+RowLess allowances for depreciation 	4,382.4 2,547.2 	4,040.1 2,263.3 	3,966.8
+2,089.7
+Row	1,835.2 	1,776.8 	1,877.1
+RowGoodwill 	7,004.8 	6,956.7 	6,814.3
+RowIntangible assets 	4,734.5 	5,201.6 	6,002.4
+RowOperating lease right-of-use assets 	1,685.6
+		RowDeferred pension assets 	43.0 	270.7 	296.7
+RowOther assets 	561.4 	584.0 	502.0
+RowTotal Assets 	$ 20,496.2 	$ 19,134.3 	$ 19,899.5
+RowCurrent liabilities:
+			RowShort-term borrowings 	$ 204.7 	$ 328.4 	$ 633.7
+RowAccounts payable 	1,876.3 	1,799.4 	1,791.5
+RowCompensation and taxes withheld 	552.7 	504.5 	508.2
+RowAccrued taxes 	85.7 	80.8 	79.9
+RowCurrent portion of long-term debt 	429.8 	307.2 	1.2
+RowCalifornia litigation accrual 	12.0 	136.3
+	RowCurrent portion of operating lease liabilities 	371.6
+		RowOther accruals 	989.1 	1,141.1 	972.7
+RowTotal current liabilities 	4,521.9 	4,297.7 	3,987.2
+RowLong-term debt 	8,050.7 	8,708.1 	9,885.7
+RowPostretirement benefits other than pensions 	263.0 	257.6 	274.7
+RowDeferred income taxes 	969.9 	1,130.9 	1,419.6
+RowLong-term operating lease liabilities 	1,370.7
+		RowOther long-term liabilities 	1,196.7 	1,009.3 	684.4
+RowShareholders’ equity:
+			RowCommon stock - $1.00 par value:
+			Row92,144,839, 93,116,762 and 93,883,645 shares outstanding
+at December 31, 2019, 2018 and 2017, respectively 	119.4 	118.4 	117.6
+RowOther capital 	3,153.0 	2,896.4 	2,723.2
+RowRetained earnings 	7,366.9 	6,246.5 	5,458.4
+RowTreasury stock, at cost 	(5,836.5) 	(4,900.7) 	(4,266.4)
+RowAccumulated other comprehensive loss 	(679.5) 	(629.9) 	(384.9)
+RowTotal shareholders’ equity 	4,123.3 	3,730.7 	3,647.9
+RowTotal Liabilities and Shareholders’ Equity 	$ 20,496.2 	$ 19,134.3 	$ 19,899.5
+RowOperating Activities
+	2019 	2018 	2017
+RowNet income 	$ 1,541.3 	$ 1,108.7 	$ 1,727.9
+RowAdjustments to reconcile net income to net operating cash:
+			RowLoss from discontinued operations 			41.6
+RowDepreciation 	262.1 	278.2 	285.0
+RowNon-cash lease expense 	370.8
+		RowAmortization of intangible assets 	312.8 	318.1 	206.8
+RowAmortization of inventory purchase accounting adjustments 			113.8
+RowLoss on extinguishment of debt 	14.8
+		RowImpairment of trademarks Amortization of credit facility and debt issuance costs 	122.1 9.2 	12.1 	2.0
+8.3
+RowProvisions for environmental-related matters 	23.0 	176.3 	15.4
+RowProvisions for qualified exit costs 	8.8 	14.9 	50.5
+RowDeferred income taxes 	(131.1) 	(143.4) 	(620.7)
+RowDefined benefit pension plans net cost 	43.1 	36.4 	18.2
+RowStock-based compensation expense 	101.7 	82.6 	90.3
+RowNet decrease in postretirement liability 	(14.4) 	(15.9) 	(17.9)
+RowDecrease in non-traded investments 	82.3 	72.5 	65.7
+RowLoss on sale or disposition of assets 	16.1 	12.8 	5.5
+RowOther 	15.8 	(13.8) 	1.1
+RowChange in working capital accounts:
+(Increase) decrease in accounts receivable 	(73.2) 	18.4 	(49.9)
+Row(Increase) in inventories 	(75.5) 	(119.5) 	(90.0)
+RowIncrease in accounts payable 	36.2 	113.8 	166.7
+RowIncrease (decrease) in accrued taxes 	5.1 	2.7 	(20.9)
+RowIncrease in accrued compensation and taxes withheld 	49.6 	4.6 	11.3
+Row(Increase) decrease in refundable income taxes 	(47.8) 	20.1 	(15.5)
+Row(Decrease) increase in California litigation accrual 	(59.6) 	136.3
+	RowOther 	18.8 	(46.7) 	16.3
+RowChange in operating lease liabilities 	(368.4)
+		RowCosts incurred for environmental-related matters 	(26.1) 	(17.7) 	(13.8)
+RowCosts incurred for qualified exit costs 	(12.8) 	(21.2) 	(45.4)
+RowOther 	96.6 	(86.6) 	(68.3)
+RowNet operating cash 	2,321.3 	1,943.7 	1,884.0
+RowInvesting Activities
+			RowCapital expenditures 	(328.9) 	(251.0) 	(222.8)
+RowAcquisitions of businesses, net of cash acquired 	(77.3) 		(8,810.3)
+RowProceeds from sale of assets 	6.9 	38.4 	47.2
+RowIncrease in other investments 	(63.3) 	(39.0) 	(61.5)
+RowNet investing cash 	(462.6) 	(251.6) 	(9,047.4)
+RowFinancing Activities
+			RowNet (decrease) increase in short-term borrowings 	(122.8) 	(300.9) 	356.3
+RowProceeds from long-term debt 	1,332.8 		8,275.2
+RowPayments of long-term debt 	(1,875.8) 	(852.6) 	(1,852.8)
+RowPayments for credit facility and debt issuance costs 	(13.6) 	(5.2) 	(49.4)
+RowPayments of cash dividends 	(420.8) 	(322.9) 	(319.0)
+RowProceeds from stock options exercised 	154.6 	90.7 	143.6
+RowTreasury stock purchased 	(778.8) 	(613.3)
+	RowProceeds from real estate financing transactions 	7.2 	225.3
+	RowOther 	(129.2) 	32.2 	(39.8)
+RowNet financing cash 	(1,846.4) 	(1,746.7) 	6,514.1
+RowEffect of exchange rate changes on cash 	(6.0) 	5.9 	(36.3)
+RowNet increase (decrease) in cash and cash equivalents 	6.3 	(48.7) 	(685.6)
+RowCash and cash equivalents at beginning of year 	155.5 	204.2 	889.8
+RowCash and cash equivalents at end of year 	$ 161.8 	$ 155.5 	$ 204.2
+RowTaxes paid on income 	$ 407.5 	$ 292.2 	$ 419.7
+RowInterest paid on debt 	336.1 	368.0 	220.6
+Row	Common
+Stock
+	Other
+Capital
+	Retained
+Earnings
+	Treasury
+Stock
+	Other
+Comprehensive
+Loss 	Total
+RowBalance at January 1, 2017 	$ 116.6 	$ 2,488.5 	$ 4,049.5 	$(4,235.8) 	$ (540.4) 	$ 1,878.4
+RowNet income 			1,727.9 			1,727.9
+RowOther comprehensive income 					155.5 	155.5
+RowStock-based compensation activity 	1.0 	232.4 		(30.6) 		202.8
+RowOther adjustments 		2.3 				2.3
+RowCash dividends -- $3.40 per share 			(319.0) 			(319.0)
+RowBalance at December 31, 2017 	117.6 	2,723.2 	5,458.4 	(4,266.4) 	(384.9) 	3,647.9
+RowNet income 			1,108.7 			1,108.7
+RowOther comprehensive loss 					(242.7) 	(242.7)
+RowAdjustment to initially adopt ASU 2016-01 			2.3 		(2.3) 	—
+RowTreasury stock purchased 				(613.3) 		(613.3)
+RowStock-based compensation activity 	0.8 	172.4 		(21.0) 		152.2
+RowOther adjustments 		0.8 				0.8
+RowCash dividends -- $3.44 per share Balance at December 31, 2018 	118.4 	2,896.4 	(322.9) 6,246.5 	(4,900.7) 	(629.9) 	(322.9)
+3,730.7
+RowNet income 			1,541.3 			1,541.3
+RowOther comprehensive loss 					(41.3) 	(41.3)
+RowAdjustment to initially adopt ASU 2016-02 			(8.4) 			(8.4)
+RowAdjustment to initially adopt ASU 2018-02 			8.3 		(8.3) 	—
+RowTreasury stock purchased 				(778.8) 		(778.8)
+RowTreasury stock transferred from defined
+benefit pension plan 				(131.8) 		(131.8)
+RowStock-based compensation activity 	1.0 	254.5 		(25.2) 		230.3
+RowOther adjustments 		2.1 				2.1
+RowCash dividends -- $4.52 per share 			(420.8) 			(420.8)
+RowBalance at December 31, 2019 	$ 119.4 	$ 3,153.0 	$ 7,366.9 	$ (5,836.5) 	$ (679.5) 	$ 4,123.3
+Row(millions of dollars, except per share data) 	Year 	Ended December 	31,
+Row	2019 	2018 	2017
+RowNet sales $ 	17,900.8 $ 	17,534.5 	$ 14,983.8
+RowCost of goods sold 	9,864.7 	10,115.9 	8,265.0
+RowGross profit 	8,036.1 	7,418.6 	6,718.8
+RowPercent to net sales 	44.9% 	42.3% 	44.8%
+RowSelling, general and administrative expenses 	5,274.9 	5,033.8 	4,797.6
+RowPercent to net sales 	29.5% 	28.7% 	32.0%
+RowOther general expense - net 	39.1 	189.1 	20.9
+RowAmortization 	312.8 	318.1 	206.8
+RowImpairment of trademarks 	122.1 		2.0
+RowInterest expense 	349.3 	366.7 	263.5
+RowInterest and net investment income 	(25.9) 	(5.2) 	(8.6)
+RowCalifornia litigation expense 	(34.7) 	136.3
+	RowOther expense (income) - net 	16.7 	20.1 	(32.7)
+RowIncome from continuing operations before income taxes 	1,981.8 	1,359.7 	1,469.3
+RowIncome tax expense (credit) 	440.5 	251.0 	(300.2)
+RowNet income from continuing operations 	1,541.3 	1,108.7 	1,769.5
+RowLoss from discontinued operations
+			RowIncome taxes 			41.6
+RowNet loss from discontinued operations 	— 	— 	(41.6)
+RowNet income $ 	1,541.3 $ 	1,108.7 	$ 1,727.9
+RowBasic net income per share:
+			RowContinuing operations $ 	16.79 $ 	11.92 	$ 19.04
+RowDiscontinued operations 			(.44)
+RowNet income per share $ 	16.79 $ 	11.92 	$ 18.60
+RowDiluted net income per share
+			RowContinuing operations $ 	16.49 $ 	11.67 	$ 18.64
+RowDiscontinued operations 			(.44)
+RowNet income per share $ 	16.49 $ 	11.67 	$ 18.20
+Row	— 		— 	(41.6)
+Row$ 	1,541.3 	$ 	1,108.7 	$ 1,727.9
+Row	2019 	2018 	2017
+RowNet income 	$ 1,541.3 	$ 1,108.7 	$ 1,727.9
+RowOther comprehensive (loss) income, net of tax:
+			RowForeign currency translation adjustments (1) 	(49.8) 	(254.3) 	148.0
+RowPension and other postretirement benefit adjustments:
+			RowAmounts recognized in Other comprehensive (loss) income (2) 	(5.1) 	(13.5) 	48.0
+RowAmounts reclassified from Other comprehensive (loss) income (3) 	22.3 	31.3 	(7.8)
+Row	17.2 	17.8 	40.2
+RowUnrealized net gains on available-for sale securities:
+			RowAmounts recognized in Other comprehensive (loss) income (4) 			2.1
+RowAmounts reclassified from Other comprehensive (loss) income (5) 			(0.8)
+Row	— 	— 	1.3
+RowUnrealized net (losses) gains on cash flow hedges
+			RowAmounts recognized in Other comprehensive (loss) income (6) 			(30.8)
+RowAmounts reclassified from Other comprehensive (loss) income (7) 	(8.7) 	(6.2) 	(3.2)
+Row	(8.7) 	(6.2) 	(34.0)
+RowOther comprehensive (loss) income, net of tax 	(41.3) 	(242.7) 	155.5
+RowComprehensive income 	$ 1,500.0 	$ 866.0 	$ 1,883.4
+Row(millions of dollars, except share data) 	2019 	December 31,
+2018 	2017
+RowAssets
+			RowCurrent assets:
+Cash and cash equivalents 	$ 161.8 	$ 155.5 	$ 204.2
+RowAccounts receivable, less allowance 	2,088.9 	2,018.8 	2,104.6
+RowInventories:
+			RowFinished goods 	1,509.6 	1,426.4 	1,356.5
+RowWork in process and raw materials 	380.0 	388.9 	386.0
+Row	1,889.6 	1,815.3 	1,742.5
+RowOther current assets 	491.4 	354.9 	355.7
+RowTotal current assets 	4,631.7 	4,344.5 	4,407.0
+RowProperty, plant and equipment:
+			RowLand 	242.1 	244.6 	254.7
+RowBuildings 	1,044.2 	979.1 	962.1
+RowMachinery and equipment 	2,952.1 	2,668.5 	2,573.0
+RowConstruction in progress 	144.0 	147.9 	177.0
+RowLess allowances for depreciation 	4,382.4 2,547.2 	4,040.1 2,263.3 	3,966.8
+2,089.7
+Row	1,835.2 	1,776.8 	1,877.1
+RowGoodwill 	7,004.8 	6,956.7 	6,814.3
+RowIntangible assets 	4,734.5 	5,201.6 	6,002.4
+RowOperating lease right-of-use assets 	1,685.6
+		RowDeferred pension assets 	43.0 	270.7 	296.7
+RowOther assets 	561.4 	584.0 	502.0
+RowTotal Assets 	$ 20,496.2 	$ 19,134.3 	$ 19,899.5
+RowCurrent liabilities:
+			RowShort-term borrowings 	$ 204.7 	$ 328.4 	$ 633.7
+RowAccounts payable 	1,876.3 	1,799.4 	1,791.5
+RowCompensation and taxes withheld 	552.7 	504.5 	508.2
+RowAccrued taxes 	85.7 	80.8 	79.9
+RowCurrent portion of long-term debt 	429.8 	307.2 	1.2
+RowCalifornia litigation accrual 	12.0 	136.3
+	RowCurrent portion of operating lease liabilities 	371.6
+		RowOther accruals 	989.1 	1,141.1 	972.7
+RowTotal current liabilities 	4,521.9 	4,297.7 	3,987.2
+RowLong-term debt 	8,050.7 	8,708.1 	9,885.7
+RowPostretirement benefits other than pensions 	263.0 	257.6 	274.7
+RowDeferred income taxes 	969.9 	1,130.9 	1,419.6
+RowLong-term operating lease liabilities 	1,370.7
+		RowOther long-term liabilities 	1,196.7 	1,009.3 	684.4
+RowShareholders’ equity:
+			RowCommon stock - $1.00 par value:
+			Row92,144,839, 93,116,762 and 93,883,645 shares outstanding
+at December 31, 2019, 2018 and 2017, respectively 	119.4 	118.4 	117.6
+RowOther capital 	3,153.0 	2,896.4 	2,723.2
+RowRetained earnings 	7,366.9 	6,246.5 	5,458.4
+RowTreasury stock, at cost 	(5,836.5) 	(4,900.7) 	(4,266.4)
+RowAccumulated other comprehensive loss 	(679.5) 	(629.9) 	(384.9)
+RowTotal shareholders’ equity 	4,123.3 	3,730.7 	3,647.9
+RowTotal Liabilities and Shareholders’ Equity 	$ 20,496.2 	$ 19,134.3 	$ 19,899.5
+RowOperating Activities
+	2019 	2018 	2017
+RowNet income 	$ 1,541.3 	$ 1,108.7 	$ 1,727.9
+RowAdjustments to reconcile net income to net operating cash:
+			RowLoss from discontinued operations 			41.6
+RowDepreciation 	262.1 	278.2 	285.0
+RowNon-cash lease expense 	370.8
+		RowAmortization of intangible assets 	312.8 	318.1 	206.8
+RowAmortization of inventory purchase accounting adjustments 			113.8
+RowLoss on extinguishment of debt 	14.8
+		RowImpairment of trademarks Amortization of credit facility and debt issuance costs 	122.1 9.2 	12.1 	2.0
+8.3
+RowProvisions for environmental-related matters 	23.0 	176.3 	15.4
+RowProvisions for qualified exit costs 	8.8 	14.9 	50.5
+RowDeferred income taxes 	(131.1) 	(143.4) 	(620.7)
+RowDefined benefit pension plans net cost 	43.1 	36.4 	18.2
+RowStock-based compensation expense 	101.7 	82.6 	90.3
+RowNet decrease in postretirement liability 	(14.4) 	(15.9) 	(17.9)
+RowDecrease in non-traded investments 	82.3 	72.5 	65.7
+RowLoss on sale or disposition of assets 	16.1 	12.8 	5.5
+RowOther 	15.8 	(13.8) 	1.1
+RowChange in working capital accounts:
+(Increase) decrease in accounts receivable 	(73.2) 	18.4 	(49.9)
+Row(Increase) in inventories 	(75.5) 	(119.5) 	(90.0)
+RowIncrease in accounts payable 	36.2 	113.8 	166.7
+RowIncrease (decrease) in accrued taxes 	5.1 	2.7 	(20.9)
+RowIncrease in accrued compensation and taxes withheld 	49.6 	4.6 	11.3
+Row(Increase) decrease in refundable income taxes 	(47.8) 	20.1 	(15.5)
+Row(Decrease) increase in California litigation accrual 	(59.6) 	136.3
+	RowOther 	18.8 	(46.7) 	16.3
+RowChange in operating lease liabilities 	(368.4)
+		RowCosts incurred for environmental-related matters 	(26.1) 	(17.7) 	(13.8)
+RowCosts incurred for qualified exit costs 	(12.8) 	(21.2) 	(45.4)
+RowOther 	96.6 	(86.6) 	(68.3)
+RowNet operating cash 	2,321.3 	1,943.7 	1,884.0
+RowInvesting Activities
+			RowCapital expenditures 	(328.9) 	(251.0) 	(222.8)
+RowAcquisitions of businesses, net of cash acquired 	(77.3) 		(8,810.3)
+RowProceeds from sale of assets 	6.9 	38.4 	47.2
+RowIncrease in other investments 	(63.3) 	(39.0) 	(61.5)
+RowNet investing cash 	(462.6) 	(251.6) 	(9,047.4)
+RowFinancing Activities
+			RowNet (decrease) increase in short-term borrowings 	(122.8) 	(300.9) 	356.3
+RowProceeds from long-term debt 	1,332.8 		8,275.2
+RowPayments of long-term debt 	(1,875.8) 	(852.6) 	(1,852.8)
+RowPayments for credit facility and debt issuance costs 	(13.6) 	(5.2) 	(49.4)
+RowPayments of cash dividends 	(420.8) 	(322.9) 	(319.0)
+RowProceeds from stock options exercised 	154.6 	90.7 	143.6
+RowTreasury stock purchased 	(778.8) 	(613.3)
+	RowProceeds from real estate financing transactions 	7.2 	225.3
+	RowOther 	(129.2) 	32.2 	(39.8)
+RowNet financing cash 	(1,846.4) 	(1,746.7) 	6,514.1
+RowEffect of exchange rate changes on cash 	(6.0) 	5.9 	(36.3)
+RowNet increase (decrease) in cash and cash equivalents 	6.3 	(48.7) 	(685.6)
+RowCash and cash equivalents at beginning of year 	155.5 	204.2 	889.8
+RowCash and cash equivalents at end of year 	$ 161.8 	$ 155.5 	$ 204.2
+RowTaxes paid on income 	$ 407.5 	$ 292.2 	$ 419.7
+RowInterest paid on debt 	336.1 	368.0 	220.6
+Row	Common
+Stock
+	Other
+Capital
+	Retained
+Earnings
+	Treasury
+Stock
+	Other
+Comprehensive
+Loss 	Total
+RowBalance at January 1, 2017 	$ 116.6 	$ 2,488.5 	$ 4,049.5 	$(4,235.8) 	$ (540.4) 	$ 1,878.4
+RowNet income 			1,727.9 			1,727.9
+RowOther comprehensive income 					155.5 	155.5
+RowStock-based compensation activity 	1.0 	232.4 		(30.6) 		202.8
+RowOther adjustments 		2.3 				2.3
+RowCash dividends -- $3.40 per share 			(319.0) 			(319.0)
+RowBalance at December 31, 2017 	117.6 	2,723.2 	5,458.4 	(4,266.4) 	(384.9) 	3,647.9
+RowNet income 			1,108.7 			1,108.7
+RowOther comprehensive loss 					(242.7) 	(242.7)
+RowAdjustment to initially adopt ASU 2016-01 			2.3 		(2.3) 	—
+RowTreasury stock purchased 				(613.3) 		(613.3)
+RowStock-based compensation activity 	0.8 	172.4 		(21.0) 		152.2
+RowOther adjustments 		0.8 				0.8
+RowCash dividends -- $3.44 per share Balance at December 31, 2018 	118.4 	2,896.4 	(322.9) 6,246.5 	(4,900.7) 	(629.9) 	(322.9)
+3,730.7
+RowNet income 			1,541.3 			1,541.3
+RowOther comprehensive loss 					(41.3) 	(41.3)
+RowAdjustment to initially adopt ASU 2016-02 			(8.4) 			(8.4)
+RowAdjustment to initially adopt ASU 2018-02 			8.3 		(8.3) 	—
+RowTreasury stock purchased 				(778.8) 		(778.8)
+RowTreasury stock transferred from defined
+benefit pension plan 				(131.8) 		(131.8)
+RowStock-based compensation activity 	1.0 	254.5 		(25.2) 		230.3
+RowOther adjustments 		2.1 				2.1
+RowCash dividends -- $4.52 per share 			(420.8) 			(420.8)
+RowBalance at December 31, 2019 	$ 119.4 	$ 3,153.0 	$ 7,366.9 	$ (5,836.5) 	$ (679.5) 	$ 4,123.3
+Row:(millions of dollars, except per share data) 	Year 	Ended December 	31,
+Row:	2019 	2018 	2017
+Row:Net sales $ 	17,900.8 $ 	17,534.5 	$ 14,983.8
+Row:Cost of goods sold 	9,864.7 	10,115.9 	8,265.0
+Row:Gross profit 	8,036.1 	7,418.6 	6,718.8
+Row:Percent to net sales 	44.9% 	42.3% 	44.8%
+Row:Selling, general and administrative expenses 	5,274.9 	5,033.8 	4,797.6
+Row:Percent to net sales 	29.5% 	28.7% 	32.0%
+Row:Other general expense - net 	39.1 	189.1 	20.9
+Row:Amortization 	312.8 	318.1 	206.8
+Row:Impairment of trademarks 	122.1 		2.0
+Row:Interest expense 	349.3 	366.7 	263.5
+Row:Interest and net investment income 	(25.9) 	(5.2) 	(8.6)
+Row:California litigation expense 	(34.7) 	136.3
+	Row:Other expense (income) - net 	16.7 	20.1 	(32.7)
+Row:Income from continuing operations before income taxes 	1,981.8 	1,359.7 	1,469.3
+Row:Income tax expense (credit) 	440.5 	251.0 	(300.2)
+Row:Net income from continuing operations 	1,541.3 	1,108.7 	1,769.5
+Row:Loss from discontinued operations
+			Row:Income taxes 			41.6
+Row:Net loss from discontinued operations 	— 	— 	(41.6)
+Row:Net income $ 	1,541.3 $ 	1,108.7 	$ 1,727.9
+Row:Basic net income per share:
+			Row:Continuing operations $ 	16.79 $ 	11.92 	$ 19.04
+Row:Discontinued operations 			(.44)
+Row:Net income per share $ 	16.79 $ 	11.92 	$ 18.60
+Row:Diluted net income per share
+			Row:Continuing operations $ 	16.49 $ 	11.67 	$ 18.64
+Row:Discontinued operations 			(.44)
+Row:Net income per share $ 	16.49 $ 	11.67 	$ 18.20
+Row:	— 		— 	(41.6)
+Row:$ 	1,541.3 	$ 	1,108.7 	$ 1,727.9
+Row:	2019 	2018 	2017
+Row:Net income 	$ 1,541.3 	$ 1,108.7 	$ 1,727.9
+Row:Other comprehensive (loss) income, net of tax:
+			Row:Foreign currency translation adjustments (1) 	(49.8) 	(254.3) 	148.0
+Row:Pension and other postretirement benefit adjustments:
+			Row:Amounts recognized in Other comprehensive (loss) income (2) 	(5.1) 	(13.5) 	48.0
+Row:Amounts reclassified from Other comprehensive (loss) income (3) 	22.3 	31.3 	(7.8)
+Row:	17.2 	17.8 	40.2
+Row:Unrealized net gains on available-for sale securities:
+			Row:Amounts recognized in Other comprehensive (loss) income (4) 			2.1
+Row:Amounts reclassified from Other comprehensive (loss) income (5) 			(0.8)
+Row:	— 	— 	1.3
+Row:Unrealized net (losses) gains on cash flow hedges
+			Row:Amounts recognized in Other comprehensive (loss) income (6) 			(30.8)
+Row:Amounts reclassified from Other comprehensive (loss) income (7) 	(8.7) 	(6.2) 	(3.2)
+Row:	(8.7) 	(6.2) 	(34.0)
+Row:Other comprehensive (loss) income, net of tax 	(41.3) 	(242.7) 	155.5
+Row:Comprehensive income 	$ 1,500.0 	$ 866.0 	$ 1,883.4
+Row:(millions of dollars, except share data) 	2019 	December 31,
+2018 	2017
+Row:Assets
+			Row:Current assets:
+Cash and cash equivalents 	$ 161.8 	$ 155.5 	$ 204.2
+Row:Accounts receivable, less allowance 	2,088.9 	2,018.8 	2,104.6
+Row:Inventories:
+			Row:Finished goods 	1,509.6 	1,426.4 	1,356.5
+Row:Work in process and raw materials 	380.0 	388.9 	386.0
+Row:	1,889.6 	1,815.3 	1,742.5
+Row:Other current assets 	491.4 	354.9 	355.7
+Row:Total current assets 	4,631.7 	4,344.5 	4,407.0
+Row:Property, plant and equipment:
+			Row:Land 	242.1 	244.6 	254.7
+Row:Buildings 	1,044.2 	979.1 	962.1
+Row:Machinery and equipment 	2,952.1 	2,668.5 	2,573.0
+Row:Construction in progress 	144.0 	147.9 	177.0
+Row:Less allowances for depreciation 	4,382.4 2,547.2 	4,040.1 2,263.3 	3,966.8
+2,089.7
+Row:	1,835.2 	1,776.8 	1,877.1
+Row:Goodwill 	7,004.8 	6,956.7 	6,814.3
+Row:Intangible assets 	4,734.5 	5,201.6 	6,002.4
+Row:Operating lease right-of-use assets 	1,685.6
+		Row:Deferred pension assets 	43.0 	270.7 	296.7
+Row:Other assets 	561.4 	584.0 	502.0
+Row:Total Assets 	$ 20,496.2 	$ 19,134.3 	$ 19,899.5
+Row:Current liabilities:
+			Row:Short-term borrowings 	$ 204.7 	$ 328.4 	$ 633.7
+Row:Accounts payable 	1,876.3 	1,799.4 	1,791.5
+Row:Compensation and taxes withheld 	552.7 	504.5 	508.2
+Row:Accrued taxes 	85.7 	80.8 	79.9
+Row:Current portion of long-term debt 	429.8 	307.2 	1.2
+Row:California litigation accrual 	12.0 	136.3
+	Row:Current portion of operating lease liabilities 	371.6
+		Row:Other accruals 	989.1 	1,141.1 	972.7
+Row:Total current liabilities 	4,521.9 	4,297.7 	3,987.2
+Row:Long-term debt 	8,050.7 	8,708.1 	9,885.7
+Row:Postretirement benefits other than pensions 	263.0 	257.6 	274.7
+Row:Deferred income taxes 	969.9 	1,130.9 	1,419.6
+Row:Long-term operating lease liabilities 	1,370.7
+		Row:Other long-term liabilities 	1,196.7 	1,009.3 	684.4
+Row:Shareholders’ equity:
+			Row:Common stock - $1.00 par value:
+			Row:92,144,839, 93,116,762 and 93,883,645 shares outstanding
+at December 31, 2019, 2018 and 2017, respectively 	119.4 	118.4 	117.6
+Row:Other capital 	3,153.0 	2,896.4 	2,723.2
+Row:Retained earnings 	7,366.9 	6,246.5 	5,458.4
+Row:Treasury stock, at cost 	(5,836.5) 	(4,900.7) 	(4,266.4)
+Row:Accumulated other comprehensive loss 	(679.5) 	(629.9) 	(384.9)
+Row:Total shareholders’ equity 	4,123.3 	3,730.7 	3,647.9
+Row:Total Liabilities and Shareholders’ Equity 	$ 20,496.2 	$ 19,134.3 	$ 19,899.5
+Row:Operating Activities
+	2019 	2018 	2017
+Row:Net income 	$ 1,541.3 	$ 1,108.7 	$ 1,727.9
+Row:Adjustments to reconcile net income to net operating cash:
+			Row:Loss from discontinued operations 			41.6
+Row:Depreciation 	262.1 	278.2 	285.0
+Row:Non-cash lease expense 	370.8
+		Row:Amortization of intangible assets 	312.8 	318.1 	206.8
+Row:Amortization of inventory purchase accounting adjustments 			113.8
+Row:Loss on extinguishment of debt 	14.8
+		Row:Impairment of trademarks Amortization of credit facility and debt issuance costs 	122.1 9.2 	12.1 	2.0
+8.3
+Row:Provisions for environmental-related matters 	23.0 	176.3 	15.4
+Row:Provisions for qualified exit costs 	8.8 	14.9 	50.5
+Row:Deferred income taxes 	(131.1) 	(143.4) 	(620.7)
+Row:Defined benefit pension plans net cost 	43.1 	36.4 	18.2
+Row:Stock-based compensation expense 	101.7 	82.6 	90.3
+Row:Net decrease in postretirement liability 	(14.4) 	(15.9) 	(17.9)
+Row:Decrease in non-traded investments 	82.3 	72.5 	65.7
+Row:Loss on sale or disposition of assets 	16.1 	12.8 	5.5
+Row:Other 	15.8 	(13.8) 	1.1
+Row:Change in working capital accounts:
+(Increase) decrease in accounts receivable 	(73.2) 	18.4 	(49.9)
+Row:(Increase) in inventories 	(75.5) 	(119.5) 	(90.0)
+Row:Increase in accounts payable 	36.2 	113.8 	166.7
+Row:Increase (decrease) in accrued taxes 	5.1 	2.7 	(20.9)
+Row:Increase in accrued compensation and taxes withheld 	49.6 	4.6 	11.3
+Row:(Increase) decrease in refundable income taxes 	(47.8) 	20.1 	(15.5)
+Row:(Decrease) increase in California litigation accrual 	(59.6) 	136.3
+	Row:Other 	18.8 	(46.7) 	16.3
+Row:Change in operating lease liabilities 	(368.4)
+		Row:Costs incurred for environmental-related matters 	(26.1) 	(17.7) 	(13.8)
+Row:Costs incurred for qualified exit costs 	(12.8) 	(21.2) 	(45.4)
+Row:Other 	96.6 	(86.6) 	(68.3)
+Row:Net operating cash 	2,321.3 	1,943.7 	1,884.0
+Row:Investing Activities
+			Row:Capital expenditures 	(328.9) 	(251.0) 	(222.8)
+Row:Acquisitions of businesses, net of cash acquired 	(77.3) 		(8,810.3)
+Row:Proceeds from sale of assets 	6.9 	38.4 	47.2
+Row:Increase in other investments 	(63.3) 	(39.0) 	(61.5)
+Row:Net investing cash 	(462.6) 	(251.6) 	(9,047.4)
+Row:Financing Activities
+			Row:Net (decrease) increase in short-term borrowings 	(122.8) 	(300.9) 	356.3
+Row:Proceeds from long-term debt 	1,332.8 		8,275.2
+Row:Payments of long-term debt 	(1,875.8) 	(852.6) 	(1,852.8)
+Row:Payments for credit facility and debt issuance costs 	(13.6) 	(5.2) 	(49.4)
+Row:Payments of cash dividends 	(420.8) 	(322.9) 	(319.0)
+Row:Proceeds from stock options exercised 	154.6 	90.7 	143.6
+Row:Treasury stock purchased 	(778.8) 	(613.3)
+	Row:Proceeds from real estate financing transactions 	7.2 	225.3
+	Row:Other 	(129.2) 	32.2 	(39.8)
+Row:Net financing cash 	(1,846.4) 	(1,746.7) 	6,514.1
+Row:Effect of exchange rate changes on cash 	(6.0) 	5.9 	(36.3)
+Row:Net increase (decrease) in cash and cash equivalents 	6.3 	(48.7) 	(685.6)
+Row:Cash and cash equivalents at beginning of year 	155.5 	204.2 	889.8
+Row:Cash and cash equivalents at end of year 	$ 161.8 	$ 155.5 	$ 204.2
+Row:Taxes paid on income 	$ 407.5 	$ 292.2 	$ 419.7
+Row:Interest paid on debt 	336.1 	368.0 	220.6
+Row:	Common
+Stock
+	Other
+Capital
+	Retained
+Earnings
+	Treasury
+Stock
+	Other
+Comprehensive
+Loss 	Total
+Row:Balance at January 1, 2017 	$ 116.6 	$ 2,488.5 	$ 4,049.5 	$(4,235.8) 	$ (540.4) 	$ 1,878.4
+Row:Net income 			1,727.9 			1,727.9
+Row:Other comprehensive income 					155.5 	155.5
+Row:Stock-based compensation activity 	1.0 	232.4 		(30.6) 		202.8
+Row:Other adjustments 		2.3 				2.3
+Row:Cash dividends -- $3.40 per share 			(319.0) 			(319.0)
+Row:Balance at December 31, 2017 	117.6 	2,723.2 	5,458.4 	(4,266.4) 	(384.9) 	3,647.9
+Row:Net income 			1,108.7 			1,108.7
+Row:Other comprehensive loss 					(242.7) 	(242.7)
+Row:Adjustment to initially adopt ASU 2016-01 			2.3 		(2.3) 	—
+Row:Treasury stock purchased 				(613.3) 		(613.3)
+Row:Stock-based compensation activity 	0.8 	172.4 		(21.0) 		152.2
+Row:Other adjustments 		0.8 				0.8
+Row:Cash dividends -- $3.44 per share Balance at December 31, 2018 	118.4 	2,896.4 	(322.9) 6,246.5 	(4,900.7) 	(629.9) 	(322.9)
+3,730.7
+Row:Net income 			1,541.3 			1,541.3
+Row:Other comprehensive loss 					(41.3) 	(41.3)
+Row:Adjustment to initially adopt ASU 2016-02 			(8.4) 			(8.4)
+Row:Adjustment to initially adopt ASU 2018-02 			8.3 		(8.3) 	—
+Row:Treasury stock purchased 				(778.8) 		(778.8)
+Row:Treasury stock transferred from defined
+benefit pension plan 				(131.8) 		(131.8)
+Row:Stock-based compensation activity 	1.0 	254.5 		(25.2) 		230.3
+Row:Other adjustments 		2.1 				2.1
+Row:Cash dividends -- $4.52 per share 			(420.8) 			(420.8)
+Row:Balance at December 31, 2019 	$ 119.4 	$ 3,153.0 	$ 7,366.9 	$ (5,836.5) 	$ (679.5) 	$ 4,123.3

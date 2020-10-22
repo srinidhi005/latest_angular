@@ -1,0 +1,574 @@
+Row(Millions of dollars, except share and per-share amounts) 	2019 	2018 	2017
+RowRevenue 	$ 14,383 	$ 15,784 $ 	14,961
+RowCost of revenue (COR) 	5,219 	5,507 	5,347
+RowGross profit 	9,164 	10,277 	9,614
+RowResearch and development (R&D) 	1,544 	1,559 	1,508
+RowSelling, general and administrative (SG&A) 	1,645 	1,684 	1,694
+RowAcquisition charges 	288 	318 	318
+RowRestructuring charges/other 	(36) 	3 	11
+RowOperating profit 	5,723 	6,713 	6,083
+RowOther income (expense), net (OI&E) 	175 	98 	75
+RowInterest and debt expense 	170 	125 	78
+RowIncome before income taxes 	5,728 	6,686 	6,080
+RowProvision for income taxes 	711 	1,106 	2,398
+RowNet income 	$ 5,017 	$ 5,580 $ 	3,682
+RowEarnings per common share (EPS):
+			RowBasic 	$ 5.33 	$ 5.71 $ 	3.68
+RowDiluted 	$ 5.24 	$ 5.59 $ 	3.61
+RowAverage shares outstanding (millions):
+			RowBasic 	936 	970 	991
+RowDiluted 	952 	990 	1,012
+RowA portion of net income is allocated to unvested restricted stock units (RSUs) on which we pay dividend equivalents. 	Diluted EPS is 	calculated using the 	following:
+RowNet income 	$ 5,017 	$ 5,580 $ 	3,682
+RowIncome allocated to RSUs 	(31) 	(42) 	(33)
+RowIncome allocated to common stock for diluted EPS 	$ 4,986 	$ 5,538 $ 	3,649
+RowSee accompanying notes.
+			Row$ 	5.33 	$ 	5.71 	$ 	3.68
+Row$ 	5.24 	$ 	5.59 	$ 	3.61
+Row936 	970 	991
+Row952 	990 	1,012
+Rowincome 	$ 5,017 	$ 5,580 	$ 	3,682
+Rowallocated to RSUs 	(31) 	(42) 		(33)
+Rowallocated to common stock for diluted EPS 	$ 4,986 	$ 5,538 	$ 	3,649
+Row(Millions of dollars) 	2019 	2018 	2017
+RowNet income 	$ 5,017 $ 	5,580 	$ 3,682
+RowOther comprehensive income (loss)
+			RowNet actuarial losses of defined benefit plans:
+			RowAdjustments, net of tax effect of ($37), $35 and ($26) 	88 	(98) 	92
+RowRecognized within net income, net of tax effect of ($13), ($15) and ($27) 	38 	50 	56
+RowPrior service credit of defined benefit plans:
+			RowAdjustments, net of tax effect of $0, $1 and $1 	— 	(6) 	(2)
+RowRecognized within net income, net of tax effect of $0, $1 and $1 	— 	(3) 	(5)
+RowDerivative instruments:
+			RowChange in fair value, net of tax effect of $0, $1 and $0 	— 	(2) 	—
+RowRecognized within net income, net of tax effect of $0, $0 and $0 	— 	— 	1
+RowOther comprehensive income (loss), net of taxes 	126 	(59) 	142
+RowTotal comprehensive income 	$ 5,143 $ 	5,521 	$ 3,824
+RowSee accompanying notes.
+			Row(Millions of dollars, except share amounts) 	2019 	2018
+RowAssets
+		RowCurrent assets:
+		RowCash and cash equivalents 	$ 2,437 	$ 2,438
+RowShort-term investments 	2,950 	1,795
+RowAccounts receivable, net of allowances of ($8) and ($19) 	1,074 	1,207
+RowRaw materials 	176 	181
+RowWork in process 	916 	1,070
+RowFinished goods 	909 	966
+RowInventories 	2,001 	2,217
+RowPrepaid expenses and other current assets 	299 	440
+RowTotal current assets 	8,761 	8,097
+RowProperty, plant and equipment at cost 	5,740 	5,425
+RowAccumulated depreciation 	(2,437) 	(2,242)
+RowProperty, plant and equipment 	3,303 	3,183
+RowLong-term investments 	300 	251
+RowGoodwill 	4,362 	4,362
+RowAcquisition-related intangibles 	340 	628
+RowDeferred tax assets 	197 	295
+RowCapitalized software licenses 	69 	89
+RowOverfunded retirement plans 	218 	92
+RowOther long-term assets 	468 	140
+RowTotal assets 	$ 18,018 	$ 17,137
+RowLiabilities and stockholders’ equity
+		RowCurrent liabilities:
+		RowCurrent portion of long-term debt 	$ 500 	$ 749
+RowAccounts payable 	388 	478
+RowAccrued compensation 	714 	724
+RowIncome taxes payable 	46 	103
+RowAccrued expenses and other liabilities 	475 	420
+RowTotal current liabilities 	2,123 	2,474
+RowLong-term debt 	5,303 	4,319
+RowUnderfunded retirement plans 	93 	118
+RowDeferred tax liabilities 	78 	42
+RowOther long-term liabilities 	1,514 	1,190
+RowTotal liabilities 	9,111 	8,143
+RowStockholders’ equity:
+		RowPreferred stock, $25 par value. Authorized – 10,000,000 shares
+		RowParticipating cumulative preferred – None issued 	— 	—
+RowCommon stock, $1 par value. Authorized – 2,400,000,000 shares
+		RowShares issued – 1,740,815,939 	1,741 	1,741
+RowPaid-in capital 	2,110 	1,950
+RowRetained earnings 	39,898 	37,906
+RowTreasury common stock at cost
+		RowShares: 2019 – 808,784,381; 2018 – 795,665,646 	(34,495) 	(32,130)
+RowAccumulated other comprehensive income (loss), net of taxes (AOCI) 	(347) 	(473)
+RowTotal stockholders’ equity 	8,907 	8,994
+RowTotal liabilities and stockholders’ equity 	$ 18,018 	$ 17,137
+RowSee accompanying notes.
+		Row(Millions of dollars) 	2019 	2018 	2017
+RowCash flows from operating activities
+			RowNet income 	$ 5,017 $ 	5,580 	$ 3,682
+RowAdjustments to net income:
+			RowDepreciation 	708 	590 	539
+RowAmortization of acquisition-related intangibles 	288 	318 	318
+RowAmortization of capitalized software 	54 	46 	47
+RowStock compensation 	217 	232 	242
+RowGains on sales of assets 	(23) 	(3) 	—
+RowDeferred taxes 	81 	(105) 	112
+RowIncrease (decrease) from changes in:
+			RowAccounts receivable 	133 	71 	(7)
+RowInventories 	216 	(282) 	(167)
+RowPrepaid expenses and other current assets 	265 	669 	76
+RowAccounts payable and accrued expenses 	(93) 	(7) 	51
+RowAccrued compensation 	(15) 	(7) 	(3)
+RowIncome taxes payable 	(193) 	158 	468
+RowChanges in funded status of retirement plans 	29 	36 	21
+RowOther 	(35) 	(107) 	(16)
+RowCash flows from operating activities 	6,649 	7,189 	5,363
+RowCash flows from investing activities
+			RowCapital expenditures 	(847) 	(1,131) 	(695)
+RowProceeds from asset sales 	30 	9 	40
+RowPurchases of short-term investments 	(3,444) 	(5,641) 	(4,555)
+RowProceeds from short-term investments 	2,309 	6,708 	4,095
+RowOther 	32 	(23) 	(12)
+RowCash flows from investing activities 	(1,920) 	(78) 	(1,127)
+RowCash flows from financing activities
+			RowProceeds from issuance of long-term debt 	1,491 	1,500 	1,099
+RowRepayment of debt 	(750) 	(500) 	(625)
+RowDividends paid 	(3,008) 	(2,555) 	(2,104)
+RowStock repurchases 	(2,960) 	(5,100) 	(2,556)
+RowProceeds from common stock transactions 	539 	373 	483
+RowOther 	(42) 	(47) 	(31)
+RowCash flows from financing activities 	(4,730) 	(6,329) 	(3,734)
+RowNet change in cash and cash equivalents 	(1) 	782 	502
+RowCash and cash equivalents at beginning of period 	2,438 	1,656 	1,154
+RowCash and cash equivalents at end of period 	$ 2,437 $ 	2,438 	$ 1,656
+RowSee accompanying notes.
+			RowConsolidated Statements of Stockholders’ Equity
+	Common
+Stock
+	Paid-in
+Capital
+	Retained
+Earnings
+	Common
+Stock 	AOCI
+Row(Millions of dollars, except per-share amounts)
+					RowBalance, December 31, 2016 	$ 1,741 	$ 1,674 	$ 33,107 	$ (25,523) 	$ (526)
+Row2017
+					RowNet income 	— 	— 	3,682 	— 	—
+RowDividends declared and paid ($2.12 per share) 	— 	— 	(2,104) 	— 	—
+RowCommon stock issued for stock-based awards 	— 	(138) 	— 	621 	—
+RowStock repurchases 	— 	— 	— 	(2,556) 	—
+RowStock compensation 	— 	242 	— 	— 	—
+RowOther comprehensive income (loss), net of taxes 	— 	— 	— 	— 	142
+RowDividend equivalents on RSUs 	— 	— 	(17) 	— 	—
+RowOther 	— 	(2) 	(6) 	— 	—
+RowBalance, December 31, 2017 	1,741 	1,776 	34,662 	(27,458) 	(384)
+Row2018
+					RowNet income 	— 	— 	5,580 	— 	—
+RowDividends declared and paid ($2.63 per share) 	— 	— 	(2,555) 	— 	—
+RowCommon stock issued for stock-based awards 	— 	(55) 	— 	428 	—
+RowStock repurchases 	— 	— 	— 	(5,100) 	—
+RowStock compensation 	— 	232 	— 	— 	—
+RowOther comprehensive income (loss), net of taxes 	— 	— 	— 	— 	(59)
+RowDividend equivalents on RSUs 	— 	— 	(17) 	— 	—
+RowCumulative effect of accounting changes 	— 	— 	236 	— 	(30)
+RowOther 	— 	(3) 	— 	— 	—
+RowBalance, December 31, 2018 	1,741 	1,950 	37,906 	(32,130) 	(473)
+Row2019
+					RowNet income 	— 	— 	5,017 	— 	—
+RowDividends declared and paid ($3.21 per share) 	— 	— 	(3,008) 	— 	—
+RowCommon stock issued for stock-based awards 	— 	(55) 	— 	594 	—
+RowStock repurchases 	— 	— 	— 	(2,960) 	—
+RowStock compensation 	— 	217 	— 	— 	—
+RowOther comprehensive income (loss), net of taxes 	— 	— 	— 	— 	126
+RowDividend equivalents on RSUs 	— 	— 	(17) 	— 	—
+RowOther 	— 	(2) 	— 	1 	—
+RowBalance, December 31, 2019
+	$ 1,741 	$ 2,110 	$ 39,898 	$ (34,495) 	$ (347)
+RowSee accompanying notes.
+					Row2019
+		RowNet income — 	— 5,017 	— —
+RowDividends declared and paid ($3.21 per share) — 	— (3,008) 	— —
+RowCommon stock issued for stock-based awards — 	(55) — 	594 —
+RowStock repurchases — 	— — 	(2,960) —
+RowStock compensation — 	217 — 	— —
+RowOther comprehensive income (loss), net of taxes — 	— — 	— 126
+RowDividend equivalents on RSUs — 	— (17) 	— —
+RowOther — 	(2) — 	1 —
+RowBalance, December 31, 2019
+$ 1,741 	$ 2,110 $ 39,898 	$ (34,495) $ (347)
+Rowaccompanying notes.
+		Row(Millions of dollars, except share and per-share amounts) 	2019 	2018 	2017
+RowRevenue 	$ 14,383 	$ 15,784 $ 	14,961
+RowCost of revenue (COR) 	5,219 	5,507 	5,347
+RowGross profit 	9,164 	10,277 	9,614
+RowResearch and development (R&D) 	1,544 	1,559 	1,508
+RowSelling, general and administrative (SG&A) 	1,645 	1,684 	1,694
+RowAcquisition charges 	288 	318 	318
+RowRestructuring charges/other 	(36) 	3 	11
+RowOperating profit 	5,723 	6,713 	6,083
+RowOther income (expense), net (OI&E) 	175 	98 	75
+RowInterest and debt expense 	170 	125 	78
+RowIncome before income taxes 	5,728 	6,686 	6,080
+RowProvision for income taxes 	711 	1,106 	2,398
+RowNet income 	$ 5,017 	$ 5,580 $ 	3,682
+RowEarnings per common share (EPS):
+			RowBasic 	$ 5.33 	$ 5.71 $ 	3.68
+RowDiluted 	$ 5.24 	$ 5.59 $ 	3.61
+RowAverage shares outstanding (millions):
+			RowBasic 	936 	970 	991
+RowDiluted 	952 	990 	1,012
+RowA portion of net income is allocated to unvested restricted stock units (RSUs) on which we pay dividend equivalents. 	Diluted EPS is 	calculated using the 	following:
+RowNet income 	$ 5,017 	$ 5,580 $ 	3,682
+RowIncome allocated to RSUs 	(31) 	(42) 	(33)
+RowIncome allocated to common stock for diluted EPS 	$ 4,986 	$ 5,538 $ 	3,649
+RowSee accompanying notes.
+			Row$ 	5.33 	$ 	5.71 	$ 	3.68
+Row$ 	5.24 	$ 	5.59 	$ 	3.61
+Row936 	970 	991
+Row952 	990 	1,012
+Rowincome 	$ 5,017 	$ 5,580 	$ 	3,682
+Rowallocated to RSUs 	(31) 	(42) 		(33)
+Rowallocated to common stock for diluted EPS 	$ 4,986 	$ 5,538 	$ 	3,649
+Row(Millions of dollars) 	2019 	2018 	2017
+RowNet income 	$ 5,017 $ 	5,580 	$ 3,682
+RowOther comprehensive income (loss)
+			RowNet actuarial losses of defined benefit plans:
+			RowAdjustments, net of tax effect of ($37), $35 and ($26) 	88 	(98) 	92
+RowRecognized within net income, net of tax effect of ($13), ($15) and ($27) 	38 	50 	56
+RowPrior service credit of defined benefit plans:
+			RowAdjustments, net of tax effect of $0, $1 and $1 	— 	(6) 	(2)
+RowRecognized within net income, net of tax effect of $0, $1 and $1 	— 	(3) 	(5)
+RowDerivative instruments:
+			RowChange in fair value, net of tax effect of $0, $1 and $0 	— 	(2) 	—
+RowRecognized within net income, net of tax effect of $0, $0 and $0 	— 	— 	1
+RowOther comprehensive income (loss), net of taxes 	126 	(59) 	142
+RowTotal comprehensive income 	$ 5,143 $ 	5,521 	$ 3,824
+RowSee accompanying notes.
+			Row(Millions of dollars, except share amounts) 	2019 	2018
+RowAssets
+		RowCurrent assets:
+		RowCash and cash equivalents 	$ 2,437 	$ 2,438
+RowShort-term investments 	2,950 	1,795
+RowAccounts receivable, net of allowances of ($8) and ($19) 	1,074 	1,207
+RowRaw materials 	176 	181
+RowWork in process 	916 	1,070
+RowFinished goods 	909 	966
+RowInventories 	2,001 	2,217
+RowPrepaid expenses and other current assets 	299 	440
+RowTotal current assets 	8,761 	8,097
+RowProperty, plant and equipment at cost 	5,740 	5,425
+RowAccumulated depreciation 	(2,437) 	(2,242)
+RowProperty, plant and equipment 	3,303 	3,183
+RowLong-term investments 	300 	251
+RowGoodwill 	4,362 	4,362
+RowAcquisition-related intangibles 	340 	628
+RowDeferred tax assets 	197 	295
+RowCapitalized software licenses 	69 	89
+RowOverfunded retirement plans 	218 	92
+RowOther long-term assets 	468 	140
+RowTotal assets 	$ 18,018 	$ 17,137
+RowLiabilities and stockholders’ equity
+		RowCurrent liabilities:
+		RowCurrent portion of long-term debt 	$ 500 	$ 749
+RowAccounts payable 	388 	478
+RowAccrued compensation 	714 	724
+RowIncome taxes payable 	46 	103
+RowAccrued expenses and other liabilities 	475 	420
+RowTotal current liabilities 	2,123 	2,474
+RowLong-term debt 	5,303 	4,319
+RowUnderfunded retirement plans 	93 	118
+RowDeferred tax liabilities 	78 	42
+RowOther long-term liabilities 	1,514 	1,190
+RowTotal liabilities 	9,111 	8,143
+RowStockholders’ equity:
+		RowPreferred stock, $25 par value. Authorized – 10,000,000 shares
+		RowParticipating cumulative preferred – None issued 	— 	—
+RowCommon stock, $1 par value. Authorized – 2,400,000,000 shares
+		RowShares issued – 1,740,815,939 	1,741 	1,741
+RowPaid-in capital 	2,110 	1,950
+RowRetained earnings 	39,898 	37,906
+RowTreasury common stock at cost
+		RowShares: 2019 – 808,784,381; 2018 – 795,665,646 	(34,495) 	(32,130)
+RowAccumulated other comprehensive income (loss), net of taxes (AOCI) 	(347) 	(473)
+RowTotal stockholders’ equity 	8,907 	8,994
+RowTotal liabilities and stockholders’ equity 	$ 18,018 	$ 17,137
+RowSee accompanying notes.
+		Row(Millions of dollars) 	2019 	2018 	2017
+RowCash flows from operating activities
+			RowNet income 	$ 5,017 $ 	5,580 	$ 3,682
+RowAdjustments to net income:
+			RowDepreciation 	708 	590 	539
+RowAmortization of acquisition-related intangibles 	288 	318 	318
+RowAmortization of capitalized software 	54 	46 	47
+RowStock compensation 	217 	232 	242
+RowGains on sales of assets 	(23) 	(3) 	—
+RowDeferred taxes 	81 	(105) 	112
+RowIncrease (decrease) from changes in:
+			RowAccounts receivable 	133 	71 	(7)
+RowInventories 	216 	(282) 	(167)
+RowPrepaid expenses and other current assets 	265 	669 	76
+RowAccounts payable and accrued expenses 	(93) 	(7) 	51
+RowAccrued compensation 	(15) 	(7) 	(3)
+RowIncome taxes payable 	(193) 	158 	468
+RowChanges in funded status of retirement plans 	29 	36 	21
+RowOther 	(35) 	(107) 	(16)
+RowCash flows from operating activities 	6,649 	7,189 	5,363
+RowCash flows from investing activities
+			RowCapital expenditures 	(847) 	(1,131) 	(695)
+RowProceeds from asset sales 	30 	9 	40
+RowPurchases of short-term investments 	(3,444) 	(5,641) 	(4,555)
+RowProceeds from short-term investments 	2,309 	6,708 	4,095
+RowOther 	32 	(23) 	(12)
+RowCash flows from investing activities 	(1,920) 	(78) 	(1,127)
+RowCash flows from financing activities
+			RowProceeds from issuance of long-term debt 	1,491 	1,500 	1,099
+RowRepayment of debt 	(750) 	(500) 	(625)
+RowDividends paid 	(3,008) 	(2,555) 	(2,104)
+RowStock repurchases 	(2,960) 	(5,100) 	(2,556)
+RowProceeds from common stock transactions 	539 	373 	483
+RowOther 	(42) 	(47) 	(31)
+RowCash flows from financing activities 	(4,730) 	(6,329) 	(3,734)
+RowNet change in cash and cash equivalents 	(1) 	782 	502
+RowCash and cash equivalents at beginning of period 	2,438 	1,656 	1,154
+RowCash and cash equivalents at end of period 	$ 2,437 $ 	2,438 	$ 1,656
+RowSee accompanying notes.
+			RowConsolidated Statements of Stockholders’ Equity
+	Common
+Stock
+	Paid-in
+Capital
+	Retained
+Earnings
+	Common
+Stock 	AOCI
+Row(Millions of dollars, except per-share amounts)
+					RowBalance, December 31, 2016 	$ 1,741 	$ 1,674 	$ 33,107 	$ (25,523) 	$ (526)
+Row2017
+					RowNet income 	— 	— 	3,682 	— 	—
+RowDividends declared and paid ($2.12 per share) 	— 	— 	(2,104) 	— 	—
+RowCommon stock issued for stock-based awards 	— 	(138) 	— 	621 	—
+RowStock repurchases 	— 	— 	— 	(2,556) 	—
+RowStock compensation 	— 	242 	— 	— 	—
+RowOther comprehensive income (loss), net of taxes 	— 	— 	— 	— 	142
+RowDividend equivalents on RSUs 	— 	— 	(17) 	— 	—
+RowOther 	— 	(2) 	(6) 	— 	—
+RowBalance, December 31, 2017 	1,741 	1,776 	34,662 	(27,458) 	(384)
+Row2018
+					RowNet income 	— 	— 	5,580 	— 	—
+RowDividends declared and paid ($2.63 per share) 	— 	— 	(2,555) 	— 	—
+RowCommon stock issued for stock-based awards 	— 	(55) 	— 	428 	—
+RowStock repurchases 	— 	— 	— 	(5,100) 	—
+RowStock compensation 	— 	232 	— 	— 	—
+RowOther comprehensive income (loss), net of taxes 	— 	— 	— 	— 	(59)
+RowDividend equivalents on RSUs 	— 	— 	(17) 	— 	—
+RowCumulative effect of accounting changes 	— 	— 	236 	— 	(30)
+RowOther 	— 	(3) 	— 	— 	—
+RowBalance, December 31, 2018 	1,741 	1,950 	37,906 	(32,130) 	(473)
+Row2019
+					RowNet income 	— 	— 	5,017 	— 	—
+RowDividends declared and paid ($3.21 per share) 	— 	— 	(3,008) 	— 	—
+RowCommon stock issued for stock-based awards 	— 	(55) 	— 	594 	—
+RowStock repurchases 	— 	— 	— 	(2,960) 	—
+RowStock compensation 	— 	217 	— 	— 	—
+RowOther comprehensive income (loss), net of taxes 	— 	— 	— 	— 	126
+RowDividend equivalents on RSUs 	— 	— 	(17) 	— 	—
+RowOther 	— 	(2) 	— 	1 	—
+RowBalance, December 31, 2019
+	$ 1,741 	$ 2,110 	$ 39,898 	$ (34,495) 	$ (347)
+RowSee accompanying notes.
+					Row2019
+		RowNet income — 	— 5,017 	— —
+RowDividends declared and paid ($3.21 per share) — 	— (3,008) 	— —
+RowCommon stock issued for stock-based awards — 	(55) — 	594 —
+RowStock repurchases — 	— — 	(2,960) —
+RowStock compensation — 	217 — 	— —
+RowOther comprehensive income (loss), net of taxes — 	— — 	— 126
+RowDividend equivalents on RSUs — 	— (17) 	— —
+RowOther — 	(2) — 	1 —
+RowBalance, December 31, 2019
+$ 1,741 	$ 2,110 $ 39,898 	$ (34,495) $ (347)
+Rowaccompanying notes.
+		Row(Millions of dollars, except share and per-share amounts) 	2019 	2018 	2017
+RowRevenue 	$ 14,383 	$ 15,784 $ 	14,961
+RowCost of revenue (COR) 	5,219 	5,507 	5,347
+RowGross profit 	9,164 	10,277 	9,614
+RowResearch and development (R&D) 	1,544 	1,559 	1,508
+RowSelling, general and administrative (SG&A) 	1,645 	1,684 	1,694
+RowAcquisition charges 	288 	318 	318
+RowRestructuring charges/other 	(36) 	3 	11
+RowOperating profit 	5,723 	6,713 	6,083
+RowOther income (expense), net (OI&E) 	175 	98 	75
+RowInterest and debt expense 	170 	125 	78
+RowIncome before income taxes 	5,728 	6,686 	6,080
+RowProvision for income taxes 	711 	1,106 	2,398
+RowNet income 	$ 5,017 	$ 5,580 $ 	3,682
+RowEarnings per common share (EPS):
+			RowBasic 	$ 5.33 	$ 5.71 $ 	3.68
+RowDiluted 	$ 5.24 	$ 5.59 $ 	3.61
+RowAverage shares outstanding (millions):
+			RowBasic 	936 	970 	991
+RowDiluted 	952 	990 	1,012
+RowA portion of net income is allocated to unvested restricted stock units (RSUs) on which we pay dividend equivalents. 	Diluted EPS is 	calculated using the 	following:
+RowNet income 	$ 5,017 	$ 5,580 $ 	3,682
+RowIncome allocated to RSUs 	(31) 	(42) 	(33)
+RowIncome allocated to common stock for diluted EPS 	$ 4,986 	$ 5,538 $ 	3,649
+RowSee accompanying notes.
+			Row$ 	5.33 	$ 	5.71 	$ 	3.68
+Row$ 	5.24 	$ 	5.59 	$ 	3.61
+Row936 	970 	991
+Row952 	990 	1,012
+Rowincome 	$ 5,017 	$ 5,580 	$ 	3,682
+Rowallocated to RSUs 	(31) 	(42) 		(33)
+Rowallocated to common stock for diluted EPS 	$ 4,986 	$ 5,538 	$ 	3,649
+Row(Millions of dollars) 	2019 	2018 	2017
+RowNet income 	$ 5,017 $ 	5,580 	$ 3,682
+RowOther comprehensive income (loss)
+			RowNet actuarial losses of defined benefit plans:
+			RowAdjustments, net of tax effect of ($37), $35 and ($26) 	88 	(98) 	92
+RowRecognized within net income, net of tax effect of ($13), ($15) and ($27) 	38 	50 	56
+RowPrior service credit of defined benefit plans:
+			RowAdjustments, net of tax effect of $0, $1 and $1 	— 	(6) 	(2)
+RowRecognized within net income, net of tax effect of $0, $1 and $1 	— 	(3) 	(5)
+RowDerivative instruments:
+			RowChange in fair value, net of tax effect of $0, $1 and $0 	— 	(2) 	—
+RowRecognized within net income, net of tax effect of $0, $0 and $0 	— 	— 	1
+RowOther comprehensive income (loss), net of taxes 	126 	(59) 	142
+RowTotal comprehensive income 	$ 5,143 $ 	5,521 	$ 3,824
+RowSee accompanying notes.
+			Row(Millions of dollars, except share amounts) 	2019 	2018
+RowAssets
+		RowCurrent assets:
+		RowCash and cash equivalents 	$ 2,437 	$ 2,438
+RowShort-term investments 	2,950 	1,795
+RowAccounts receivable, net of allowances of ($8) and ($19) 	1,074 	1,207
+RowRaw materials 	176 	181
+RowWork in process 	916 	1,070
+RowFinished goods 	909 	966
+RowInventories 	2,001 	2,217
+RowPrepaid expenses and other current assets 	299 	440
+RowTotal current assets 	8,761 	8,097
+RowProperty, plant and equipment at cost 	5,740 	5,425
+RowAccumulated depreciation 	(2,437) 	(2,242)
+RowProperty, plant and equipment 	3,303 	3,183
+RowLong-term investments 	300 	251
+RowGoodwill 	4,362 	4,362
+RowAcquisition-related intangibles 	340 	628
+RowDeferred tax assets 	197 	295
+RowCapitalized software licenses 	69 	89
+RowOverfunded retirement plans 	218 	92
+RowOther long-term assets 	468 	140
+RowTotal assets 	$ 18,018 	$ 17,137
+RowLiabilities and stockholders’ equity
+		RowCurrent liabilities:
+		RowCurrent portion of long-term debt 	$ 500 	$ 749
+RowAccounts payable 	388 	478
+RowAccrued compensation 	714 	724
+RowIncome taxes payable 	46 	103
+RowAccrued expenses and other liabilities 	475 	420
+RowTotal current liabilities 	2,123 	2,474
+RowLong-term debt 	5,303 	4,319
+RowUnderfunded retirement plans 	93 	118
+RowDeferred tax liabilities 	78 	42
+RowOther long-term liabilities 	1,514 	1,190
+RowTotal liabilities 	9,111 	8,143
+RowStockholders’ equity:
+		RowPreferred stock, $25 par value. Authorized – 10,000,000 shares
+		RowParticipating cumulative preferred – None issued 	— 	—
+RowCommon stock, $1 par value. Authorized – 2,400,000,000 shares
+		RowShares issued – 1,740,815,939 	1,741 	1,741
+RowPaid-in capital 	2,110 	1,950
+RowRetained earnings 	39,898 	37,906
+RowTreasury common stock at cost
+		RowShares: 2019 – 808,784,381; 2018 – 795,665,646 	(34,495) 	(32,130)
+RowAccumulated other comprehensive income (loss), net of taxes (AOCI) 	(347) 	(473)
+RowTotal stockholders’ equity 	8,907 	8,994
+RowTotal liabilities and stockholders’ equity 	$ 18,018 	$ 17,137
+RowSee accompanying notes.
+		Row(Millions of dollars) 	2019 	2018 	2017
+RowCash flows from operating activities
+			RowNet income 	$ 5,017 $ 	5,580 	$ 3,682
+RowAdjustments to net income:
+			RowDepreciation 	708 	590 	539
+RowAmortization of acquisition-related intangibles 	288 	318 	318
+RowAmortization of capitalized software 	54 	46 	47
+RowStock compensation 	217 	232 	242
+RowGains on sales of assets 	(23) 	(3) 	—
+RowDeferred taxes 	81 	(105) 	112
+RowIncrease (decrease) from changes in:
+			RowAccounts receivable 	133 	71 	(7)
+RowInventories 	216 	(282) 	(167)
+RowPrepaid expenses and other current assets 	265 	669 	76
+RowAccounts payable and accrued expenses 	(93) 	(7) 	51
+RowAccrued compensation 	(15) 	(7) 	(3)
+RowIncome taxes payable 	(193) 	158 	468
+RowChanges in funded status of retirement plans 	29 	36 	21
+RowOther 	(35) 	(107) 	(16)
+RowCash flows from operating activities 	6,649 	7,189 	5,363
+RowCash flows from investing activities
+			RowCapital expenditures 	(847) 	(1,131) 	(695)
+RowProceeds from asset sales 	30 	9 	40
+RowPurchases of short-term investments 	(3,444) 	(5,641) 	(4,555)
+RowProceeds from short-term investments 	2,309 	6,708 	4,095
+RowOther 	32 	(23) 	(12)
+RowCash flows from investing activities 	(1,920) 	(78) 	(1,127)
+RowCash flows from financing activities
+			RowProceeds from issuance of long-term debt 	1,491 	1,500 	1,099
+RowRepayment of debt 	(750) 	(500) 	(625)
+RowDividends paid 	(3,008) 	(2,555) 	(2,104)
+RowStock repurchases 	(2,960) 	(5,100) 	(2,556)
+RowProceeds from common stock transactions 	539 	373 	483
+RowOther 	(42) 	(47) 	(31)
+RowCash flows from financing activities 	(4,730) 	(6,329) 	(3,734)
+RowNet change in cash and cash equivalents 	(1) 	782 	502
+RowCash and cash equivalents at beginning of period 	2,438 	1,656 	1,154
+RowCash and cash equivalents at end of period 	$ 2,437 $ 	2,438 	$ 1,656
+RowSee accompanying notes.
+			RowConsolidated Statements of Stockholders’ Equity
+	Common
+Stock
+	Paid-in
+Capital
+	Retained
+Earnings
+	Common
+Stock 	AOCI
+Row(Millions of dollars, except per-share amounts)
+					RowBalance, December 31, 2016 	$ 1,741 	$ 1,674 	$ 33,107 	$ (25,523) 	$ (526)
+Row2017
+					RowNet income 	— 	— 	3,682 	— 	—
+RowDividends declared and paid ($2.12 per share) 	— 	— 	(2,104) 	— 	—
+RowCommon stock issued for stock-based awards 	— 	(138) 	— 	621 	—
+RowStock repurchases 	— 	— 	— 	(2,556) 	—
+RowStock compensation 	— 	242 	— 	— 	—
+RowOther comprehensive income (loss), net of taxes 	— 	— 	— 	— 	142
+RowDividend equivalents on RSUs 	— 	— 	(17) 	— 	—
+RowOther 	— 	(2) 	(6) 	— 	—
+RowBalance, December 31, 2017 	1,741 	1,776 	34,662 	(27,458) 	(384)
+Row2018
+					RowNet income 	— 	— 	5,580 	— 	—
+RowDividends declared and paid ($2.63 per share) 	— 	— 	(2,555) 	— 	—
+RowCommon stock issued for stock-based awards 	— 	(55) 	— 	428 	—
+RowStock repurchases 	— 	— 	— 	(5,100) 	—
+RowStock compensation 	— 	232 	— 	— 	—
+RowOther comprehensive income (loss), net of taxes 	— 	— 	— 	— 	(59)
+RowDividend equivalents on RSUs 	— 	— 	(17) 	— 	—
+RowCumulative effect of accounting changes 	— 	— 	236 	— 	(30)
+RowOther 	— 	(3) 	— 	— 	—
+RowBalance, December 31, 2018 	1,741 	1,950 	37,906 	(32,130) 	(473)
+Row2019
+					RowNet income 	— 	— 	5,017 	— 	—
+RowDividends declared and paid ($3.21 per share) 	— 	— 	(3,008) 	— 	—
+RowCommon stock issued for stock-based awards 	— 	(55) 	— 	594 	—
+RowStock repurchases 	— 	— 	— 	(2,960) 	—
+RowStock compensation 	— 	217 	— 	— 	—
+RowOther comprehensive income (loss), net of taxes 	— 	— 	— 	— 	126
+RowDividend equivalents on RSUs 	— 	— 	(17) 	— 	—
+RowOther 	— 	(2) 	— 	1 	—
+RowBalance, December 31, 2019
+	$ 1,741 	$ 2,110 	$ 39,898 	$ (34,495) 	$ (347)
+RowSee accompanying notes.
+					Row2019
+		RowNet income — 	— 5,017 	— —
+RowDividends declared and paid ($3.21 per share) — 	— (3,008) 	— —
+RowCommon stock issued for stock-based awards — 	(55) — 	594 —
+RowStock repurchases — 	— — 	(2,960) —
+RowStock compensation — 	217 — 	— —
+RowOther comprehensive income (loss), net of taxes — 	— — 	— 126
+RowDividend equivalents on RSUs — 	— (17) 	— —
+RowOther — 	(2) — 	1 —
+RowBalance, December 31, 2019
+$ 1,741 	$ 2,110 $ 39,898 	$ (34,495) $ (347)
+Rowaccompanying notes.
+		

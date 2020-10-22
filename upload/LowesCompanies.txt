@@ -1,0 +1,330 @@
+Row:Current Earnings 	January Amount 	31, 2020 % Sales 	February Amount 	1, 2019 % Sales 	February Amount 	2, 2018
+% Sales
+Row:Net sales 	$ 72,148 	100.00% 	$ 71,309 	100.00% 	$ 68,619 	100.00%
+Row:Cost of sales 	49,205 	68.20 	48,401 	67.88 	46,185 	67.31
+Row:Gross margin 	22,943 	31.80 	22,908 	32.12 	22,434 	32.69
+Row:Expenses:
+						Row:Selling, general and administrative 	15,367 	21.30 	17,413 	24.41 	14,444 	21.04
+Row:Depreciation and amortization 	1,262 	1.75 	1,477 	2.07 	1,404 	2.05
+Row:Operating income 	6,314 	8.75 	4,018 	5.64 	6,586 	9.60
+Row:Interest - net 	691 	0.96 	624 	0.88 	633 	0.92
+Row:Loss on extinguishment of debt 	— 	— 	— 	— 	464 	0.68
+Row:Pre-tax earnings 	5,623 	7.79 	3,394 	4.76 	5,489 	8.00
+Row:Income tax provision 	1,342 	1.86 	1,080 	1.52 	2,042 	2.98
+Row:Net earnings 	$ 4,281 	5.93% 	$ 2,314 	3.24% 	$ 3,447 	5.02%
+Row:Basic earnings per common share 	$ 5.49 		$ 2.84 		$ 4.09
+	Row:Diluted earnings per common share 	$ 5.49 		$ 2.84 		$ 4.09
+	Row:Cash dividends per share 	$ 2.13 		$ 1.85 		$ 1.58
+	Row:Basic earnings per common share 	$ 	5.49 	$ 	2.84 	$ 	4.09
+Row:Diluted earnings per common share 	$ 	5.49 	$ 	2.84 	$ 	4.09
+Row:Cash dividends per share 	$ 	2.13 	$ 	1.85 	$ 	1.58
+Row:	Amount 	% Sales 	Amount 	% Sales 	Amount 	% Sales
+Row:Net earnings 	$ 4,281 	5.93 % 	$ 2,314 	3.24 % 	$ 3,447 	5.02%
+Row:Foreign currency translation adjustments - net of tax 	94 	0.13 	(221) 	(0.30) 	251 	0.37
+Row:Other 	(21) 	(0.03) 	1 	— 	— 	—
+Row:Other comprehensive income/(loss) 	73 	0.10 	(220) 	(0.30) 	251 	0.37
+Row:Comprehensive income 	$ 4,354 	6.03 % 	$ 2,094 	2.94 % 	$ 3,698 	5.39%
+Row:See accompanying notes to consolidated financial statements.
+						Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 716 $ 	511
+Row:Short-term investments 	160 	218
+Row:Merchandise inventory - net 	13,179 	12,561
+Row:Other current assets 	1,263 	938
+Row:Total current assets 	15,318 	14,228
+Row:Property, less accumulated depreciation 	18,669 	18,432
+Row:Operating lease right-of-use assets 	3,891 	—
+Row:Long-term investments 	372 	256
+Row:Deferred income taxes - net 	216 	294
+Row:Goodwill 	303 	303
+Row:Other assets 	702 	995
+Row:Total assets 	$ 39,471 $ 	34,508
+Row:Liabilities and shareholders’ equity
+		Row:Current liabilities:
+		Row:Short-term borrowings 	$ 1,941 $ 	722
+Row:Current maturities of long-term debt 	597 	1,110
+Row:Current operating lease liabilities 	501 	—
+Row:Accounts payable 	7,659 	8,279
+Row:Accrued compensation and employee benefits 	684 	662
+Row:Deferred revenue 	1,219 	1,299
+Row:Other current liabilities 	2,581 	2,425
+Row:Total current liabilities 	15,182 	14,497
+Row:Long-term debt, excluding current maturities 	16,768 	14,391
+Row:Noncurrent operating lease liabilities 	3,943 	—
+Row:Deferred revenue - extended protection plans 	894 	827
+Row:Other liabilities 	712 	1,149
+Row:Total liabilities 	37,499 	30,864
+Row:Commitments and contingencies
+		Row:Shareholders’ equity:
+		Row:Preferred stock - $5 par value, none issued 	— 	—
+Row:Common stock - $0.50 par value;
+		Row:Shares issued and outstanding
+		Row:January 31, 2020 763
+		Row:February 1, 2019 801 	381 	401
+Row:Capital in excess of par value 	— 	—
+Row:Retained earnings 	1,727 	3,452
+Row:Accumulated other comprehensive loss 	(136) 	(209)
+Row:Total shareholders’ equity 	1,972 	3,644
+Row:Total liabilities and shareholders’ equity 	$ 39,471 $ 	34,508
+Row:See accompanying notes to consolidated financial statements.
+		Row:Shareholders’ equity:
+		Row:Preferred stock - $5 par value, none issued 	— 	—
+Row:Common stock - $0.50 par value;
+		Row:Shares issued and outstanding
+		Row:January 31, 2020 763
+		Row:February 1, 2019 801 	381 	401
+Row:Capital in excess of par value 	— 	—
+Row:Retained earnings 	1,727 	3,452
+Row:Accumulated other comprehensive loss 	(136) 	(209)
+Row:Total shareholders’ equity 	1,972 	3,644
+Row:Total liabilities and shareholders’ equity 	$ 39,471 	$ 34,508
+Row:	Common Shares 	Stock
+Capital in Excess
+Amount
+of Par Value
+	Retained
+Earnings
+	Comprehensive
+Income/(Loss)
+	Shareholders’
+Equity Row:Balance February 3, 2017 	866 	$ 433 $ — $ 	6,241 	$ (240) 	$ 6,434
+Row:Net earnings 			3,447 		3,447
+Row:Other comprehensive income 				251 	251
+Row:Cash dividends declared, $1.58 per share 			(1,324) 		(1,324)
+Row:Share-based payment expense 		99 			99
+Row:Repurchase of common stock 	(40) 	(20) (215) 	(2,939) 		(3,174)
+Row:Issuance of common stock under share-based
+payment plans 	4 	2 138 			140
+Row:Balance February 2, 2018 	830 	$ 415 $ 22 $ 	5,425 	$ 11 	$ 5,873
+Row:Cumulative effect of accounting change 			33 		33
+Row:Net earnings 			2,314 		2,314
+Row:Other comprehensive loss 				(220) 	(220)
+Row:Cash dividends declared, $1.85 per share 			(1,500) 		(1,500)
+Row:Share-based payment expense 		74 			74
+Row:Repurchase of common stock 	(32) 	(16) (209) 	(2,820) 		(3,045)
+Row:Issuance of common stock under share-based
+payment plans 	3 	2 113 			115
+Row:Balance February 1, 2019 	801 	$ 401 $ — $ 	3,452 	$ (209) 	$ 3,644
+Row:Cumulative effect of accounting change 			(263) 		(263)
+Row:Net earnings 			4,281 		4,281
+Row:Other comprehensive income 				73 	73
+Row:Cash dividends declared, $2.13 per share 			(1,653) 		(1,653)
+Row:Share-based payment expense 		98 			98
+Row:Repurchase of common stock 	(41) 	(21) (214) 	(4,090) 		(4,325)
+Row:Issuance of common stock under share-based
+payment plans 	3 	1 116 			117
+Row:Balance January 31, 2020 	763 	$ 381 $ — $ 	1,727 	$ (136) 	$ 1,972
+Row:See accompanying notes to consolidated financial 	statements.
+				Row:	January 31,
+2020
+	February 1,
+2019
+	February 2,
+2018
+Row:Cash flows from operating activities:
+			Row:Net earnings 	$ 4,281 	$ 2,314 	$ 3,447
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities:
+			Row:Depreciation and amortization 	1,410 	1,607 	1,540
+Row:Noncash lease expense 	468 	— 	—
+Row:Deferred income taxes 	177 	(151) 	53
+Row:Loss on property and other assets - net 	117 	630 	40
+Row:Impairment of goodwill 	— 	952 	—
+Row:Loss on extinguishment of debt 	— 	— 	464
+Row:Loss/(gain) on cost method and equity method investments 	12 	9 	(82)
+Row:Share-based payment expense 	98 	74 	99
+Row:Changes in operating assets and liabilities:
+			Row:Merchandise inventory – net 	(600) 	(1,289) 	(791)
+Row:Other operating assets 	(376) 	(110) 	250
+Row:Accounts payable 	(637) 	1,720 	(92)
+Row:Other operating liabilities 	(654) 	437 	137
+Row:Net cash provided by operating activities 	4,296 	6,193 	5,065
+Row:Cash flows from investing activities:
+			Row:Purchases of investments 	(743) 	(1,373) 	(981)
+Row:Proceeds from sale/maturity of investments 	695 	1,393 	1,114
+Row:Capital expenditures 	(1,484) 	(1,174) 	(1,123)
+Row:Proceeds from sale of property and other long-term assets 	163 	76 	45
+Row:Acquisition of business - net 	— 	— 	(509)
+Row:Other – net 	— 	(2) 	13
+Row:Net cash used in investing activities 	(1,369) 	(1,080) 	(1,441)
+Row:Cash flows from financing activities:
+			Row:Net change in commercial paper 	220 	(415) 	625
+Row:Net proceeds from issuance of debt 	3,972 	— 	2,968
+Row:Repayment of long-term debt 	(1,113) 	(326) 	(2,849)
+Row:Proceeds from issuance of common stock under share-based payment plans 	118 	114 	139
+Row:Cash dividend payments 	(1,618) 	(1,455) 	(1,288)
+Row:Repurchase of common stock 	(4,313) 	(3,037) 	(3,192)
+Row:Other – net 	(1) 	(5) 	(10)
+Row:Net cash used in financing activities 	(2,735) 	(5,124) 	(3,607)
+Row:Effect of exchange rate changes on cash 	1 	(12) 	13
+Row:Net increase/(decrease) in cash and cash equivalents, including cash classified within current assets held
+			Row:for sale 	193 	(23) 	30
+Row:Less: Net increase/(decrease) in cash classified within current assets held for sale 	12 	(54) 	—
+Row:Net increase/(decrease) in cash and cash equivalents 	205 	(77) 	30
+Row:Cash and cash equivalents, beginning of year 	511 	588 	558
+Row:Cash and cash equivalents, end of year See accompanying notes to consolidated financial statements.
+	$ 716 	$ 511 	$ 588
+Row:Current Earnings 	January Amount 	31, 2020 % Sales 	February Amount 	1, 2019 % Sales 	February Amount 	2, 2018
+% Sales
+Row:Net sales 	$ 72,148 	100.00% 	$ 71,309 	100.00% 	$ 68,619 	100.00%
+Row:Cost of sales 	49,205 	68.20 	48,401 	67.88 	46,185 	67.31
+Row:Gross margin 	22,943 	31.80 	22,908 	32.12 	22,434 	32.69
+Row:Expenses:
+						Row:Selling, general and administrative 	15,367 	21.30 	17,413 	24.41 	14,444 	21.04
+Row:Depreciation and amortization 	1,262 	1.75 	1,477 	2.07 	1,404 	2.05
+Row:Operating income 	6,314 	8.75 	4,018 	5.64 	6,586 	9.60
+Row:Interest - net 	691 	0.96 	624 	0.88 	633 	0.92
+Row:Loss on extinguishment of debt 	— 	— 	— 	— 	464 	0.68
+Row:Pre-tax earnings 	5,623 	7.79 	3,394 	4.76 	5,489 	8.00
+Row:Income tax provision 	1,342 	1.86 	1,080 	1.52 	2,042 	2.98
+Row:Net earnings 	$ 4,281 	5.93% 	$ 2,314 	3.24% 	$ 3,447 	5.02%
+Row:Basic earnings per common share 	$ 5.49 		$ 2.84 		$ 4.09
+	Row:Diluted earnings per common share 	$ 5.49 		$ 2.84 		$ 4.09
+	Row:Cash dividends per share 	$ 2.13 		$ 1.85 		$ 1.58
+	Row:Basic earnings per common share 	$ 	5.49 	$ 	2.84 	$ 	4.09
+Row:Diluted earnings per common share 	$ 	5.49 	$ 	2.84 	$ 	4.09
+Row:Cash dividends per share 	$ 	2.13 	$ 	1.85 	$ 	1.58
+Row:	Amount 	% Sales 	Amount 	% Sales 	Amount 	% Sales
+Row:Net earnings 	$ 4,281 	5.93 % 	$ 2,314 	3.24 % 	$ 3,447 	5.02%
+Row:Foreign currency translation adjustments - net of tax 	94 	0.13 	(221) 	(0.30) 	251 	0.37
+Row:Other 	(21) 	(0.03) 	1 	— 	— 	—
+Row:Other comprehensive income/(loss) 	73 	0.10 	(220) 	(0.30) 	251 	0.37
+Row:Comprehensive income 	$ 4,354 	6.03 % 	$ 2,094 	2.94 % 	$ 3,698 	5.39%
+Row:See accompanying notes to consolidated financial statements.
+						Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 716 $ 	511
+Row:Short-term investments 	160 	218
+Row:Merchandise inventory - net 	13,179 	12,561
+Row:Other current assets 	1,263 	938
+Row:Total current assets 	15,318 	14,228
+Row:Property, less accumulated depreciation 	18,669 	18,432
+Row:Operating lease right-of-use assets 	3,891 	—
+Row:Long-term investments 	372 	256
+Row:Deferred income taxes - net 	216 	294
+Row:Goodwill 	303 	303
+Row:Other assets 	702 	995
+Row:Total assets 	$ 39,471 $ 	34,508
+Row:Liabilities and shareholders’ equity
+		Row:Current liabilities:
+		Row:Short-term borrowings 	$ 1,941 $ 	722
+Row:Current maturities of long-term debt 	597 	1,110
+Row:Current operating lease liabilities 	501 	—
+Row:Accounts payable 	7,659 	8,279
+Row:Accrued compensation and employee benefits 	684 	662
+Row:Deferred revenue 	1,219 	1,299
+Row:Other current liabilities 	2,581 	2,425
+Row:Total current liabilities 	15,182 	14,497
+Row:Long-term debt, excluding current maturities 	16,768 	14,391
+Row:Noncurrent operating lease liabilities 	3,943 	—
+Row:Deferred revenue - extended protection plans 	894 	827
+Row:Other liabilities 	712 	1,149
+Row:Total liabilities 	37,499 	30,864
+Row:Commitments and contingencies
+		Row:Shareholders’ equity:
+		Row:Preferred stock - $5 par value, none issued 	— 	—
+Row:Common stock - $0.50 par value;
+		Row:Shares issued and outstanding
+		Row:January 31, 2020 763
+		Row:February 1, 2019 801 	381 	401
+Row:Capital in excess of par value 	— 	—
+Row:Retained earnings 	1,727 	3,452
+Row:Accumulated other comprehensive loss 	(136) 	(209)
+Row:Total shareholders’ equity 	1,972 	3,644
+Row:Total liabilities and shareholders’ equity 	$ 39,471 $ 	34,508
+Row:See accompanying notes to consolidated financial statements.
+		Row:Shareholders’ equity:
+		Row:Preferred stock - $5 par value, none issued 	— 	—
+Row:Common stock - $0.50 par value;
+		Row:Shares issued and outstanding
+		Row:January 31, 2020 763
+		Row:February 1, 2019 801 	381 	401
+Row:Capital in excess of par value 	— 	—
+Row:Retained earnings 	1,727 	3,452
+Row:Accumulated other comprehensive loss 	(136) 	(209)
+Row:Total shareholders’ equity 	1,972 	3,644
+Row:Total liabilities and shareholders’ equity 	$ 39,471 	$ 34,508
+Row:	Common Shares 	Stock
+Capital in Excess
+Amount
+of Par Value
+	Retained
+Earnings
+	Comprehensive
+Income/(Loss)
+	Shareholders’
+Equity Row:Balance February 3, 2017 	866 	$ 433 $ — $ 	6,241 	$ (240) 	$ 6,434
+Row:Net earnings 			3,447 		3,447
+Row:Other comprehensive income 				251 	251
+Row:Cash dividends declared, $1.58 per share 			(1,324) 		(1,324)
+Row:Share-based payment expense 		99 			99
+Row:Repurchase of common stock 	(40) 	(20) (215) 	(2,939) 		(3,174)
+Row:Issuance of common stock under share-based
+payment plans 	4 	2 138 			140
+Row:Balance February 2, 2018 	830 	$ 415 $ 22 $ 	5,425 	$ 11 	$ 5,873
+Row:Cumulative effect of accounting change 			33 		33
+Row:Net earnings 			2,314 		2,314
+Row:Other comprehensive loss 				(220) 	(220)
+Row:Cash dividends declared, $1.85 per share 			(1,500) 		(1,500)
+Row:Share-based payment expense 		74 			74
+Row:Repurchase of common stock 	(32) 	(16) (209) 	(2,820) 		(3,045)
+Row:Issuance of common stock under share-based
+payment plans 	3 	2 113 			115
+Row:Balance February 1, 2019 	801 	$ 401 $ — $ 	3,452 	$ (209) 	$ 3,644
+Row:Cumulative effect of accounting change 			(263) 		(263)
+Row:Net earnings 			4,281 		4,281
+Row:Other comprehensive income 				73 	73
+Row:Cash dividends declared, $2.13 per share 			(1,653) 		(1,653)
+Row:Share-based payment expense 		98 			98
+Row:Repurchase of common stock 	(41) 	(21) (214) 	(4,090) 		(4,325)
+Row:Issuance of common stock under share-based
+payment plans 	3 	1 116 			117
+Row:Balance January 31, 2020 	763 	$ 381 $ — $ 	1,727 	$ (136) 	$ 1,972
+Row:See accompanying notes to consolidated financial 	statements.
+				Row:	January 31,
+2020
+	February 1,
+2019
+	February 2,
+2018
+Row:Cash flows from operating activities:
+			Row:Net earnings 	$ 4,281 	$ 2,314 	$ 3,447
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities:
+			Row:Depreciation and amortization 	1,410 	1,607 	1,540
+Row:Noncash lease expense 	468 	— 	—
+Row:Deferred income taxes 	177 	(151) 	53
+Row:Loss on property and other assets - net 	117 	630 	40
+Row:Impairment of goodwill 	— 	952 	—
+Row:Loss on extinguishment of debt 	— 	— 	464
+Row:Loss/(gain) on cost method and equity method investments 	12 	9 	(82)
+Row:Share-based payment expense 	98 	74 	99
+Row:Changes in operating assets and liabilities:
+			Row:Merchandise inventory – net 	(600) 	(1,289) 	(791)
+Row:Other operating assets 	(376) 	(110) 	250
+Row:Accounts payable 	(637) 	1,720 	(92)
+Row:Other operating liabilities 	(654) 	437 	137
+Row:Net cash provided by operating activities 	4,296 	6,193 	5,065
+Row:Cash flows from investing activities:
+			Row:Purchases of investments 	(743) 	(1,373) 	(981)
+Row:Proceeds from sale/maturity of investments 	695 	1,393 	1,114
+Row:Capital expenditures 	(1,484) 	(1,174) 	(1,123)
+Row:Proceeds from sale of property and other long-term assets 	163 	76 	45
+Row:Acquisition of business - net 	— 	— 	(509)
+Row:Other – net 	— 	(2) 	13
+Row:Net cash used in investing activities 	(1,369) 	(1,080) 	(1,441)
+Row:Cash flows from financing activities:
+			Row:Net change in commercial paper 	220 	(415) 	625
+Row:Net proceeds from issuance of debt 	3,972 	— 	2,968
+Row:Repayment of long-term debt 	(1,113) 	(326) 	(2,849)
+Row:Proceeds from issuance of common stock under share-based payment plans 	118 	114 	139
+Row:Cash dividend payments 	(1,618) 	(1,455) 	(1,288)
+Row:Repurchase of common stock 	(4,313) 	(3,037) 	(3,192)
+Row:Other – net 	(1) 	(5) 	(10)
+Row:Net cash used in financing activities 	(2,735) 	(5,124) 	(3,607)
+Row:Effect of exchange rate changes on cash 	1 	(12) 	13
+Row:Net increase/(decrease) in cash and cash equivalents, including cash classified within current assets held
+			Row:for sale 	193 	(23) 	30
+Row:Less: Net increase/(decrease) in cash classified within current assets held for sale 	12 	(54) 	—
+Row:Net increase/(decrease) in cash and cash equivalents 	205 	(77) 	30
+Row:Cash and cash equivalents, beginning of year 	511 	588 	558
+Row:Cash and cash equivalents, end of year See accompanying notes to consolidated financial statements.
+	$ 716 	$ 511 	$ 588

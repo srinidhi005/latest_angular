@@ -1,0 +1,88 @@
+Row:Assets
+	2018
+2017
+Row:Current assets:	Row:$
+Cash and cash equivalents	$
+178.8218.4Row:Receivables, net	776.3733.2Row:Income taxes receivable	5.916.9Row:Inventories, net	711.4682.6Row:Other current assets	35.048.1Row:Total current assets	1,707.41,699.2Row:Property, plant and equipment, net	3,482.13,575.8Row:Deferred income taxes	26.336.4Row:Other assets	1,150.41,208.4Row:Intangible assets, net	511.6578.5Row:Goodwill	2,119.62,120.0Row:$
+Total assets	8,997.4
+9,218.3
+$
+Row:Liabilities and Shareholders' Equity	Row:Current liabilities:	Row:$
+Current installments of long-term debt	$
+125.90.7Row:Accounts payable	636.5669.8Row:Income taxes payable	22.69.4Row:Accrued liabilities	333.3274.4Row:Total current liabilities	1,118.3954.3Row:Long-term debt	3,104.43,611.3Row:Accrued pension liability	674.3635.9Row:Deferred income taxes	518.9511.2Row:Other liabilities	749.3751.9Row:Total liabilities	6,165.2
+6,464.6
+Row:Commitments and contingencies	Row:Shareholders' equity:	Row:Common stock, par value $1 per share:	Row:Authorized, 240.0 shares;	Row:Issued and outstanding, 165.3 shares (167.1 in 2017)	165.3167.1Row:Additional paid-in capital	2,247.42,280.9Row:Accumulated other comprehensive loss	(651.0)(484.6)Row:Retained earnings	1,070.5790.3Row:Total shareholders' equity	2,832.22,753.7Row:Total liabilities and shareholders' equity
+	8,997.4
+9.218.3
+$
+Row:	2018 	2017 	2016
+Row:Sales 	$ 6,946.1 	$ 6,268.4 	$ 5,550.6
+Row:Operating expenses:
+			Row:Cost of goods sold 	5,822.1 	5,554.9 	4,944.5
+Row:Selling and administration 	430.6 	369.8 	347.2
+Row:Restructuring charges 	21.9 	37.6 	112.9
+Row:Acquisition-related costs 	1.0 	12.8 	48.8
+Row:Other operating income 	6.4 	3.3 	10.6
+Row:Operating income 	676.9 	296.6 	107.8
+Row:Earnings (losses) of non-consolidated affiliates 	(19.7) 	1.8 	1.7
+Row:Interest expense 	243.2 	217.4 	191.9
+Row:Interest income 	1.6 	1.8 	3.4
+Row:Non-operating pension income 	21.7 	34.4 	44.8
+Row:Income (loss) before taxes 	437.3 	117.2 	(34.2)
+Row:Income tax provision (benefit) 	109.4 	(432.3) 	(30.3)
+Row:Net income (loss) 	$ 327.9 	$ 549.5 	$ (3.9)
+Row:Net income (loss) per common share:
+			Row:Basic 	$ 1.97 	$ 3.31 	$ (0.02)
+Row:Diluted 	$ 1.95 	$ 3.26 	$ (0.02)
+Row:Average common shares outstanding:
+			Row:Basic 	166.8 	166.2 	165.2
+Row:Diluted 	168.4 	168.5 	165.2
+Row:Operating Activities
+Net income (loss) $ 327.9 	$ 549.5 	$ (3.9)
+Row:Adjustments to reconcile net income (loss) to net cash and cash equivalents provided by (used for)
+operating activities:
+		Row:Losses (earnings) of non-consolidated affiliates 19.7 	(1.8) 	(1.7)
+Row:Losses (gains) on disposition of property, plant and equipment 	2.0 (3.1) 	0.7
+Row:Stock-based compensation 12.0 	9.1 	7.5
+Row:Depreciation and amortization 601.4 	558.9 	533.5
+Row:Deferred income taxes 35.6 	(452.7) 	(32.7)
+Row:Write-off of equipment and facility included in restructuring charges 	2.6 1.4 	76.6
+Row:Qualified pension plan contributions 	(2.6) (1.7) 	(7.3)
+Row:Qualified pension plan income (15.0) 	(26.9) 	(37.5)
+Row:Change in assets and liabilities:
+		Row:Receivables (46.3) 	(49.9) 	38.5
+Row:Income taxes receivable/payable 24.5 	9.6 	10.7
+Row:Inventories (35.5) 	(37.8) 	23.9
+Row:Other current assets 	0.2 (12.1) 	20.9
+Row:Accounts payable and accrued liabilities (14.5) 	100.0 	(13.1)
+Row:Other assets 	(2.6) 5.8 	(4.3)
+Row:Other noncurrent liabilities 	4.3 (5.9) 	(12.1)
+Row:Other operating activities 	(5.9) 6.4 	3.5
+Row:Net operating activities 907.8 	648.8 	603.2
+Row:Investing Activities
+		Row:Capital expenditures (385.2) 	(294.3) 	(278.0)
+Row:Business acquired and related transactions, net of cash acquired 	— — 	(69.5)
+Row:Payments under long-term supply contracts Proceeds from sale/leaseback of equipment Proceeds from disposition of property, plant and equipment 	— (209.4) — — 2.9 5.2 	(175.7)
+40.4
+0.5
+Row:Proceeds from disposition of affiliated companies 	— — 	8.8
+Row:Net investing activities (382.3) 	(498.5) 	(473.5)
+Row:Financing Activities
+		Row:Long-term debt:
+		Row:Borrowings 570.0 	2,035.5 	230.0
+Row:Repayments (946.1) Common stock repurchased and retired (50.0) 	(2,037.9) — 	(435.3)
+—
+Row:Stock options exercised 	3.4 29.8 	0.5
+Row:Excess tax benefits from stock-based compensation 	— — 	0.4
+Row:Dividends paid (133.6) 	(133.0) 	(132.1)
+Row:Debt issuance costs 	(8.5) (11.2) 	(1.0)
+Row:Net financing activities (564.8) 	(116.8) 	(337.5)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(0.3) 0.4 	0.3
+Row:Net (decrease) increase in cash and cash equivalents (39.6) 	33.9 	(207.5)
+Row:Cash and cash equivalents, beginning of year 218.4 	184.5 	392.0
+Row:Cash and cash equivalents, end of year $ 178.8 	$ 218.4 	$ 184.5
+Row:Cash paid for interest and income taxes:
+		Row:Interest, net $ 208.8 Income taxes, net of refunds $ 52.9 	$ 200.9 $ 18.0 	$ 200.8
+$ (2.6)
+Row:The accompanying notes to consolidated financial statements are an integral part of the consolidated financial statements.
+		

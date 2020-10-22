@@ -1,0 +1,268 @@
+Row:(In millions, except par amounts) 	February 2, 2019 	February 3,
+2018
+Row:ASSETS
+		Row:Current assets
+Cash and temporary cash investments 	$ 429 	$ 347
+Row:Store deposits in-transit 	1,181 	1,161
+Row:Receivables 	1,589 	1,637
+Row:FIFO inventory 	8,123 	7,781
+Row:LIFO reserve 	(1,277) 	(1,248)
+Row:Assets held for sale 	166 	604
+Row:Prepaid and other current assets 	592 	835
+Row:Total current assets 	10,803 	11,117
+Row:Property, plant and equipment, net 	21,635 	21,071
+Row:Intangibles, net 	1,258 	1,100
+Row:Goodwill 	3,087 	2,925
+Row:Other assets 	1,335 	984
+Row:Total Assets 	$ 38,118 	$ 37,197
+Row:LIABILITIES
+		Row:Current liabilities
+Current portion of long-term debt including obligations under capital leases and
+		Row:financing obligations 	$ 3,157 	$ 3,560
+Row:Trade accounts payable 	6,059 	5,858
+Row:Accrued salaries and wages 	1,227 	1,099
+Row:Liabilities held for sale 	51 	259
+Row:Other current liabilities 	3,780 	3,421
+Row:Total current liabilities 	14,274 	14,197
+Row:Long-term debt including obligations under capital leases and financing obligations 	12,072 	12,029
+Row:Deferred income taxes 	1,562 	1,568
+Row:Pension and postretirement benefit obligations 	494 	792
+Row:Other long-term liabilities 	1,881 	1,706
+Row:Total Liabilities 	30,283 	30,292
+Row:Commitments and contingencies see Note 13
+		Row:SHAREHOLDERS’ EQUITY
+		Row:Preferred shares, $100 par per share, 5 shares authorized and unissued Common shares, $1 par per share, 2,000 shares authorized; 1,918 shares issued in 2018
+	— 	—
+Row:and 2017 	1,918 	1,918
+Row:Additional paid-in capital 	3,245 	3,161
+Row:Accumulated other comprehensive loss 	(346) 	(471)
+Row:Accumulated earnings 	19,681 	17,007
+Row:Common shares in treasury, at cost, 1,120 shares in 2018 and 1,048 shares in 2017 	(16,612) 	(14,684)
+Row:Total Shareholders’ Equity - The Kroger Co. 	7,886 	6,931
+Row:Noncontrolling interests 	(51) 	(26)
+Row:Total Equity 	7,835 	6,905
+Row:Total Liabilities and Equity 	$ 38,118 	$ 37,197
+Row:(In millions, except per share amounts) 	2018 (52 weeks) 	2017 (53 weeks) 	2016
+(52 weeks)
+Row:Sales 	$ 121,162 	$ 122,662 	$ 115,337
+Row:Operating expenses
+			Row:Merchandise costs, including advertising, warehousing, and
+transportation, excluding items shown separately below 	94,894 	95,662 	89,502
+Row:Operating, general and administrative 	20,305 	21,041 	19,162
+Row:Rent 	884 	911 	881
+Row:Depreciation and amortization 	2,465 	2,436 	2,340
+Row:Operating profit 	2,614 	2,612 	3,452
+Row:Other income (expense)
+			Row:Interest expense 	(620) 	(601) 	(522)
+Row:Non-service component of company-sponsored pension plan costs 	(26) 	(527) 	(16)
+Row:Mark to market gain on Ocado securities 	228 	— 	—
+Row:Gain on sale of business 	1,782 	— 	—
+Row:Net earnings before income tax (benefit) expense 	3,978 	1,484 	2,914
+Row:Income tax (benefit) expense 	900 	(405) 	957
+Row:Net earnings including noncontrolling interests 	3,078 	1,889 	1,957
+Row:Net loss attributable to noncontrolling interests 	(32) 	(18) 	(18)
+Row:Net earnings attributable to The Kroger Co. 	$ 3,110 	$ 1,907 	$ 1,975
+Row:Net earnings attributable to The Kroger Co. per basic common share 	$ 3.80 	$ 2.11 	$ 2.08
+Row:Average number of common shares used in basic calculation 	810 	895 	942
+Row:Net earnings attributable to The Kroger Co. per diluted common share 	$ 3.76 	$ 2.09 	$ 2.05
+Row:Average number of common shares used in diluted calculation 	818 	904 	958
+Row:Years Ended February 2, 2019, February 3, 2018 and January 28, 2017
+	2018
+	2017
+	2016
+Row:(In millions)
+	(52 weeks)
+	(53 weeks)
+	(52 weeks)
+Row:Cash Flows from Operating Activities:
+			Row:Net earnings including noncontrolling interests
+	3,078
+	$
+1,889
+	$
+1,957
+Row:Adjustments to reconcile net earnings including noncontrolling interests to net cash provided by
+operating activities:
+			Row:Depreciation and amortization
+	2,465
+	2,436
+	2,340
+Row:LIFO (credit) charge
+	29
+	(8)
+	19
+Row:Stock-based employee compensation
+	154
+	151
+	141
+Row:Expense for company-sponsored pension plans
+	76
+	591
+	94
+Row:Goodwill impairment charge
+		110
+	Row:Deferred income taxes
+	(45)
+	(694)
+	201
+Row:Gain on sale of business
+	(1,782)
+		Row:Mark to market gain on Ocado securities
+	(228)
+		Row:Other
+	116
+	79
+	(2)
+Row:Changes in operating assets and liabilities net of effects from mergers and disposals of businesses:
+			Row:Store deposits in-transit
+	(20)
+	(265)
+	13
+Row:Receivables
+	(208)
+	61
+	(110)
+Row:Inventories
+	(354)
+	(23)
+	(382)
+Row:Prepaid and other current assets
+	244
+	41
+	(172)
+Row:Trade accounts payable
+	213
+	158
+	16
+Row:Accrued expenses
+	416
+	(40)
+	(118)
+Row:Income taxes receivable and payable
+	289
+	(96)
+	261
+Row:Contribution to company-sponsored pension plans
+	(185)
+	(1,000)
+	Row:Other
+	(94)
+	23
+	14
+Row:Net cash provided by operating activities
+	4,164
+	3,413
+	4,272
+Row:Cash Flows from Investing Activities:
+			Row:Payments for property and equipment, including payments for lease buyouts
+	(2,967)
+	(2,809)
+	(3,699)
+Row:Proceeds from sale of assets
+	85
+	138
+	132
+Row:Proceeds on settlement of financial instrument
+	235
+		Row:Payments for acquisitions, net of cash acquired
+	(197)
+	(16)
+	(401)
+Row:Purchases of stores
+	(44)
+		Row:Net proceeds from sale of business
+	2,169
+		Row:Purchases of Ocado securities
+	(392)
+		Row:Other
+	(75)
+	(20
+	93
+Row:Net cash used by investing activities
+	(1,186)
+	(2,707)
+	(3,875)
+Row:Cash Flows from Financing Activities:
+			Row:Proceeds from issuance of long-term debt
+	2,236
+	1,523
+	2,781
+Row:Payments on long-term debt
+	(1,372)
+	(788)
+	(1,355)
+Row:Net (payments) borrowings on commercial paper
+	(1,321)
+	696
+	435
+Row:Dividends paid
+	(437)
+	(443)
+	(429)
+Row:Proceeds from issuance of capital stock
+	65
+	51
+	68
+Row:Treasury stock purchases
+	(2,010)
+	(1,633)
+	(1,766)
+Row:Other
+	(57)
+	(87)
+	(86)
+Row:Net cash used by financing activities
+	(2,896)
+	(681)
+	(352)
+Row:Net increase in cash and temporary cash investments
+	82
+	25
+	45
+Row:Cash and temporary cash investments:
+			Row:Beginning of year
+	347
+	322
+	277
+Row:End of year
+$
+	429
+	347
+$
+	322
+$
+Row:Reconciliation of capital investments:
+			Row:$
+Payments for property and equipment, including payments for lease buyouts
+	(2,967)
+	$
+(2,809)
+	$
+(3,699)
+Row:Payments for lease buyouts
+	5
+	13
+	5
+Row:Changes in construction-in-progress payables
+	(56
+	(188)
+	72
+Row:Total capital investments, excluding lease buyouts
+	(3,018)
+	(2,984
+$
+	(3,622)
+$
+Row:Disclosure of cash flow information:
+			Row:Cash paid during the year for interest
+	614
+	$
+656
+	$
+505
+Row:Cash paid during the year for income taxes
+	600
+	$
+348
+	$
+557

@@ -1,0 +1,616 @@
+Row(in millions, except per share amounts) 	2019 	2018 	2017
+RowTotal operating revenue 	$ 12,347 	$ 12,657 	$ 12,320
+RowPurchased power and fuel 	4,839 	5,406 	4,873
+RowOperation and maintenance 	3,018 	2,797 	2,844
+RowWildfire-related claims, net of insurance recoveries 	255 	2,669 	—
+RowWildfire insurance fund expense 	152 	— 	—
+RowDepreciation and amortization 	1,730 	1,871 	2,041
+RowProperty and other taxes 	399 	395 	377
+RowImpairment and other 	184 	78 	738
+RowOther operating income 	(5) 	(7) 	(9)
+RowTotal operating expenses 	10,572 	13,209 	10,864
+RowOperating income (loss) 	1,775 	(552) 	1,456
+RowInterest expense 	(841) 	(734) 	(639)
+RowOther income 	193 	197 	132
+RowIncome (loss) from continuing operations before income taxes 	1,127 	(1,089) 	949
+RowIncome tax (benefit) expense 	(278) 	(739) 	281
+RowIncome (loss) from continuing operations 	1,405 	(350) 	668
+RowIncome from discontinued operations, net of tax 	— 	34 	—
+RowNet income (loss) 	1,405 	(316) 	668
+RowPreferred and preference stock dividend requirements of SCE 	121 	121 	124
+RowOther noncontrolling interests 	— 	(14) 	(21)
+RowNet income (loss) attributable to Edison International common shareholders 	$ 1,284 	$ (423) 	$ 565
+RowAmounts attributable to Edison International common shareholders:
+			RowIncome (loss) from continuing operations, net of tax 	$ 1,284 	$ (457) 	$ 565
+RowIncome from discontinued operations, net of tax 	— 	34 	—
+RowNet income (loss) attributable to Edison International common shareholders 	$ 1,284 	$ (423) 	$ 565
+RowBasic earnings (loss) per common share attributable to Edison International common
+shareholders:
+			RowWeighted average shares of common stock outstanding 	340 	326 	326
+RowContinuing operations 	$ 3.78 	$ (1.40) 	$ 1.73
+RowDiscontinued operations 	— 	0.10 	—
+RowTotal 	$ 3.78 	$ (1.30) 	$ 1.73
+RowDiluted earnings (loss) per common share attributable to Edison International common
+shareholders:
+			RowWeighted average shares of common stock outstanding, including effect of dilutive securities 	341 	326 	328
+RowContinuing operations 	$ 3.77 	$ (1.40) 	$ 1.72
+RowDiscontinued operations 	— 	0.10 	—
+RowTotal 	$ 3.77 	$ (1.30) 	$ 1.72
+Row(in millions) 	2019 	2018 	2017
+RowNet income (loss) 	$ 1,405 	$ (316) 	$ 668
+RowOther comprehensive (loss) income, net of tax:
+			RowPension and postretirement benefits other than pensions:
+			RowNet (loss) income arising during period plus amortization of net loss included in net income 	(9) 	(3) 	10
+RowOther 	— 	(4) 	—
+RowOther comprehensive (loss) income, net of tax 	(9) 	(7) 	10
+RowComprehensive income (loss) 	1,396 	(323) 	678
+RowLess: Comprehensive income attributable to noncontrolling interests 	121 	107 	103
+RowComprehensive income (loss) attributable to Edison International 	$ 1,275 	$ (430) 	$ 575
+Row(in millions) 	2019 	2018
+RowASSETS
+		RowCash and cash equivalents $ 	68 	$ 144
+RowReceivables, less allowances of $50 and $52 for uncollectible accounts at respective dates 	788 	730
+RowAccrued unbilled revenue 	488 	482
+RowInventory 	364 	282
+RowIncome tax receivables 	118 	191
+RowPrepaid expenses 	214 	148
+RowDerivative assets 	81 	171
+RowRegulatory assets 	1,009 	1,133
+RowWildfire Insurance Fund contributions 	323 	—
+RowOther current assets 	107 	78
+RowTotal current assets 	3,560 	3,359
+RowNuclear decommissioning trusts 	4,562 	4,120
+RowOther investments 	64 	63
+RowTotal investments 	4,626 	4,183
+RowUtility property, plant and equipment, less accumulated depreciation and amortization of $9,958
+and $9,566 at respective dates 	44,198 	41,269
+RowNonutility property, plant and equipment, less accumulated depreciation of $86 and $82 at respective dates 	87 	79
+RowTotal property, plant and equipment 	44,285 	41,348
+RowRegulatory assets 	6,088 	5,380
+RowWildfire Insurance Fund contributions 	2,767 	—
+RowOperating lease right-of-use assets 	693 	—
+RowOther long-term assets 	2,363 	2,445
+RowTotal long-term assets 	11,911 	7,825
+RowTotal assets $ 	64,382 	$ 56,715
+Row(in millions, except share amounts) 	2019 	2018
+RowLIABILITIES AND EQUITY
+		RowShort-term debt 	$ 550 	$ 720
+RowCurrent portion of long-term debt 	479 	79
+RowAccounts payable 	1,752 	1,511
+RowCustomer deposits 	302 	299
+RowRegulatory liabilities 	972 	1,532
+RowCurrent portion of operating lease liabilities 	80 	—
+RowOther current liabilities 	1,388 	1,254
+RowTotal current liabilities 	5,523 	5,395
+RowLong-term debt 	17,864 	14,632
+RowDeferred income taxes and credits 	5,078 	4,576
+RowPensions and benefits 	674 	869
+RowAsset retirement obligations 	3,029 	3,031
+RowRegulatory liabilities 	8,385 	8,329
+RowOperating lease liabilities 	613 	—
+RowWildfire-related claims 	4,568 	4,669
+RowOther deferred credits and other long-term liabilities 	3,152 	2,562
+RowTotal deferred credits and other liabilities 	25,499 	24,036
+RowTotal liabilities 	48,886 	44,063
+RowCommitments and contingencies (Note 12)
+		RowCommon stock, no par value (800,000,000 shares authorized; 361,985,133 and 325,811,206 shares issued
+and outstanding at respective dates) 	4,990 	2,545
+RowAccumulated other comprehensive loss 	(69) 	(50)
+RowRetained earnings 	8,382 	7,964
+RowTotal Edison International's common shareholders' equity 	13,303 	10,459
+RowNoncontrolling interests – preferred and preference stock of SCE 	2,193 	2,193
+RowTotal equity 	15,496 	12,652
+RowTotal liabilities and equity 	$ 64,382 	$ 56,715
+Row(in millions) 	2019 	2018 	2017
+RowCash flows from operating activities:
+			RowNet income (loss) 	$ 1,405 	$ (316) 	$ 668
+RowLess: Income from discontinued operations 	— 	34 	—
+RowIncome (loss) from continuing operations 	1,405 	(350) 	668
+RowAdjustments to reconcile to net cash provided by operating activities:
+			RowDepreciation and amortization 	1,803 	1,940 	2,115
+RowAllowance for equity during construction 	(101) 	(104) 	(87)
+RowImpairment and other 	184 	78 	738
+RowDeferred income taxes 	(284) 	(527) 	498
+RowWildfire Insurance Fund amortization expense 	152 	— 	—
+RowOther 	29 	35 	34
+RowNuclear decommissioning trusts 	(106) 	(109) 	(197)
+RowContributions to Wildfire Insurance Fund 	(2,457) 	— 	—
+RowChanges in operating assets and liabilities:
+			RowReceivables 	(76) 	(39) 	6
+RowInventory 	(83) 	(49) 	(12)
+RowAccounts payable 	288 	(31) 	50
+RowTax receivables and payables 	88 	32 	(250)
+RowOther current assets and liabilities 	(13) 	(79) 	7
+RowRegulatory assets and liabilities, net 	(1,278) 	(92) 	4
+RowWildfire-related insurance receivable 	285 	(2,000) 	—
+RowWildfire-related claims 	(101) 	4,669 	—
+RowOther noncurrent assets and liabilities 	(42) 	(197) 	23
+RowNet cash (used in) provided by operating activities 	(307) 	3,177 	3,597
+RowCash flows from financing activities:
+			RowLong-term debt issued or remarketed, net of premium, discount and issuance costs of $4, $63 and $2 for
+the respective years 	3,696 	3,237 	2,233
+RowLong-term debt repaid 	(82) 	(654) 	(1,285)
+RowTerm loan issued 	1,750 	— 	—
+RowTerm loan repaid 	(1,750) 	— 	—
+RowCommon stock issued 	2,391 	— 	—
+RowPreference stock issued, net 	— 	— 	462
+RowPreference stock redeemed 	— 	— 	(475)
+RowShort-term debt financing, net 	(172) 	(1,611) 	1,084
+RowPayments for stock-based compensation 	(64) 	(46) 	(393)
+RowReceipts from stock option exercises 	58 	26 	215
+RowDividends and distribution to noncontrolling interests 	(121) 	(121) 	(125)
+RowDividends paid 	(810) 	(788) 	(707)
+RowOther 	7 	39 	(2)
+RowNet cash provided by financing activities 	4,903 	82 	1,007
+RowCash flows from investing activities:
+			RowCapital expenditures 	(4,877) 	(4,509) 	(3,844)
+RowProceeds from sale of nuclear decommissioning trust investments 	4,389 	4,340 	5,239
+RowPurchases of nuclear decommissioning trust investments 	(4,283) 	(4,231) 	(5,042)
+RowProceeds from sale of SoCore Energy, net of cash acquired by buyer 	— 	78 	—
+RowOther 	93 	83 	61
+RowNet cash used in investing activities 	(4,678) 	(4,239) 	(3,586)
+RowNet (decrease) increase in cash, cash equivalents and restricted cash 	(82) 	(980) 	1,018
+RowCash, cash equivalents and restricted cash at beginning of year 	152 	1,132 	114
+RowCash, cash equivalents and restricted cash at end of year 	$ 70 	$ 152 	$ 1,132
+Row(in millions, except per share amounts) 	2019 	2018 	2017
+RowTotal operating revenue 	$ 12,347 	$ 12,657 	$ 12,320
+RowPurchased power and fuel 	4,839 	5,406 	4,873
+RowOperation and maintenance 	3,018 	2,797 	2,844
+RowWildfire-related claims, net of insurance recoveries 	255 	2,669 	—
+RowWildfire insurance fund expense 	152 	— 	—
+RowDepreciation and amortization 	1,730 	1,871 	2,041
+RowProperty and other taxes 	399 	395 	377
+RowImpairment and other 	184 	78 	738
+RowOther operating income 	(5) 	(7) 	(9)
+RowTotal operating expenses 	10,572 	13,209 	10,864
+RowOperating income (loss) 	1,775 	(552) 	1,456
+RowInterest expense 	(841) 	(734) 	(639)
+RowOther income 	193 	197 	132
+RowIncome (loss) from continuing operations before income taxes 	1,127 	(1,089) 	949
+RowIncome tax (benefit) expense 	(278) 	(739) 	281
+RowIncome (loss) from continuing operations 	1,405 	(350) 	668
+RowIncome from discontinued operations, net of tax 	— 	34 	—
+RowNet income (loss) 	1,405 	(316) 	668
+RowPreferred and preference stock dividend requirements of SCE 	121 	121 	124
+RowOther noncontrolling interests 	— 	(14) 	(21)
+RowNet income (loss) attributable to Edison International common shareholders 	$ 1,284 	$ (423) 	$ 565
+RowAmounts attributable to Edison International common shareholders:
+			RowIncome (loss) from continuing operations, net of tax 	$ 1,284 	$ (457) 	$ 565
+RowIncome from discontinued operations, net of tax 	— 	34 	—
+RowNet income (loss) attributable to Edison International common shareholders 	$ 1,284 	$ (423) 	$ 565
+RowBasic earnings (loss) per common share attributable to Edison International common
+shareholders:
+			RowWeighted average shares of common stock outstanding 	340 	326 	326
+RowContinuing operations 	$ 3.78 	$ (1.40) 	$ 1.73
+RowDiscontinued operations 	— 	0.10 	—
+RowTotal 	$ 3.78 	$ (1.30) 	$ 1.73
+RowDiluted earnings (loss) per common share attributable to Edison International common
+shareholders:
+			RowWeighted average shares of common stock outstanding, including effect of dilutive securities 	341 	326 	328
+RowContinuing operations 	$ 3.77 	$ (1.40) 	$ 1.72
+RowDiscontinued operations 	— 	0.10 	—
+RowTotal 	$ 3.77 	$ (1.30) 	$ 1.72
+Row(in millions) 	2019 	2018 	2017
+RowNet income (loss) 	$ 1,405 	$ (316) 	$ 668
+RowOther comprehensive (loss) income, net of tax:
+			RowPension and postretirement benefits other than pensions:
+			RowNet (loss) income arising during period plus amortization of net loss included in net income 	(9) 	(3) 	10
+RowOther 	— 	(4) 	—
+RowOther comprehensive (loss) income, net of tax 	(9) 	(7) 	10
+RowComprehensive income (loss) 	1,396 	(323) 	678
+RowLess: Comprehensive income attributable to noncontrolling interests 	121 	107 	103
+RowComprehensive income (loss) attributable to Edison International 	$ 1,275 	$ (430) 	$ 575
+Row(in millions) 	2019 	2018
+RowASSETS
+		RowCash and cash equivalents $ 	68 	$ 144
+RowReceivables, less allowances of $50 and $52 for uncollectible accounts at respective dates 	788 	730
+RowAccrued unbilled revenue 	488 	482
+RowInventory 	364 	282
+RowIncome tax receivables 	118 	191
+RowPrepaid expenses 	214 	148
+RowDerivative assets 	81 	171
+RowRegulatory assets 	1,009 	1,133
+RowWildfire Insurance Fund contributions 	323 	—
+RowOther current assets 	107 	78
+RowTotal current assets 	3,560 	3,359
+RowNuclear decommissioning trusts 	4,562 	4,120
+RowOther investments 	64 	63
+RowTotal investments 	4,626 	4,183
+RowUtility property, plant and equipment, less accumulated depreciation and amortization of $9,958
+and $9,566 at respective dates 	44,198 	41,269
+RowNonutility property, plant and equipment, less accumulated depreciation of $86 and $82 at respective dates 	87 	79
+RowTotal property, plant and equipment 	44,285 	41,348
+RowRegulatory assets 	6,088 	5,380
+RowWildfire Insurance Fund contributions 	2,767 	—
+RowOperating lease right-of-use assets 	693 	—
+RowOther long-term assets 	2,363 	2,445
+RowTotal long-term assets 	11,911 	7,825
+RowTotal assets $ 	64,382 	$ 56,715
+Row(in millions, except share amounts) 	2019 	2018
+RowLIABILITIES AND EQUITY
+		RowShort-term debt 	$ 550 	$ 720
+RowCurrent portion of long-term debt 	479 	79
+RowAccounts payable 	1,752 	1,511
+RowCustomer deposits 	302 	299
+RowRegulatory liabilities 	972 	1,532
+RowCurrent portion of operating lease liabilities 	80 	—
+RowOther current liabilities 	1,388 	1,254
+RowTotal current liabilities 	5,523 	5,395
+RowLong-term debt 	17,864 	14,632
+RowDeferred income taxes and credits 	5,078 	4,576
+RowPensions and benefits 	674 	869
+RowAsset retirement obligations 	3,029 	3,031
+RowRegulatory liabilities 	8,385 	8,329
+RowOperating lease liabilities 	613 	—
+RowWildfire-related claims 	4,568 	4,669
+RowOther deferred credits and other long-term liabilities 	3,152 	2,562
+RowTotal deferred credits and other liabilities 	25,499 	24,036
+RowTotal liabilities 	48,886 	44,063
+RowCommitments and contingencies (Note 12)
+		RowCommon stock, no par value (800,000,000 shares authorized; 361,985,133 and 325,811,206 shares issued
+and outstanding at respective dates) 	4,990 	2,545
+RowAccumulated other comprehensive loss 	(69) 	(50)
+RowRetained earnings 	8,382 	7,964
+RowTotal Edison International's common shareholders' equity 	13,303 	10,459
+RowNoncontrolling interests – preferred and preference stock of SCE 	2,193 	2,193
+RowTotal equity 	15,496 	12,652
+RowTotal liabilities and equity 	$ 64,382 	$ 56,715
+Row(in millions) 	2019 	2018 	2017
+RowCash flows from operating activities:
+			RowNet income (loss) 	$ 1,405 	$ (316) 	$ 668
+RowLess: Income from discontinued operations 	— 	34 	—
+RowIncome (loss) from continuing operations 	1,405 	(350) 	668
+RowAdjustments to reconcile to net cash provided by operating activities:
+			RowDepreciation and amortization 	1,803 	1,940 	2,115
+RowAllowance for equity during construction 	(101) 	(104) 	(87)
+RowImpairment and other 	184 	78 	738
+RowDeferred income taxes 	(284) 	(527) 	498
+RowWildfire Insurance Fund amortization expense 	152 	— 	—
+RowOther 	29 	35 	34
+RowNuclear decommissioning trusts 	(106) 	(109) 	(197)
+RowContributions to Wildfire Insurance Fund 	(2,457) 	— 	—
+RowChanges in operating assets and liabilities:
+			RowReceivables 	(76) 	(39) 	6
+RowInventory 	(83) 	(49) 	(12)
+RowAccounts payable 	288 	(31) 	50
+RowTax receivables and payables 	88 	32 	(250)
+RowOther current assets and liabilities 	(13) 	(79) 	7
+RowRegulatory assets and liabilities, net 	(1,278) 	(92) 	4
+RowWildfire-related insurance receivable 	285 	(2,000) 	—
+RowWildfire-related claims 	(101) 	4,669 	—
+RowOther noncurrent assets and liabilities 	(42) 	(197) 	23
+RowNet cash (used in) provided by operating activities 	(307) 	3,177 	3,597
+RowCash flows from financing activities:
+			RowLong-term debt issued or remarketed, net of premium, discount and issuance costs of $4, $63 and $2 for
+the respective years 	3,696 	3,237 	2,233
+RowLong-term debt repaid 	(82) 	(654) 	(1,285)
+RowTerm loan issued 	1,750 	— 	—
+RowTerm loan repaid 	(1,750) 	— 	—
+RowCommon stock issued 	2,391 	— 	—
+RowPreference stock issued, net 	— 	— 	462
+RowPreference stock redeemed 	— 	— 	(475)
+RowShort-term debt financing, net 	(172) 	(1,611) 	1,084
+RowPayments for stock-based compensation 	(64) 	(46) 	(393)
+RowReceipts from stock option exercises 	58 	26 	215
+RowDividends and distribution to noncontrolling interests 	(121) 	(121) 	(125)
+RowDividends paid 	(810) 	(788) 	(707)
+RowOther 	7 	39 	(2)
+RowNet cash provided by financing activities 	4,903 	82 	1,007
+RowCash flows from investing activities:
+			RowCapital expenditures 	(4,877) 	(4,509) 	(3,844)
+RowProceeds from sale of nuclear decommissioning trust investments 	4,389 	4,340 	5,239
+RowPurchases of nuclear decommissioning trust investments 	(4,283) 	(4,231) 	(5,042)
+RowProceeds from sale of SoCore Energy, net of cash acquired by buyer 	— 	78 	—
+RowOther 	93 	83 	61
+RowNet cash used in investing activities 	(4,678) 	(4,239) 	(3,586)
+RowNet (decrease) increase in cash, cash equivalents and restricted cash 	(82) 	(980) 	1,018
+RowCash, cash equivalents and restricted cash at beginning of year 	152 	1,132 	114
+RowCash, cash equivalents and restricted cash at end of year 	$ 70 	$ 152 	$ 1,132
+Row(in millions, except per share amounts) 	2019 	2018 	2017
+RowTotal operating revenue 	$ 12,347 	$ 12,657 	$ 12,320
+RowPurchased power and fuel 	4,839 	5,406 	4,873
+RowOperation and maintenance 	3,018 	2,797 	2,844
+RowWildfire-related claims, net of insurance recoveries 	255 	2,669 	—
+RowWildfire insurance fund expense 	152 	— 	—
+RowDepreciation and amortization 	1,730 	1,871 	2,041
+RowProperty and other taxes 	399 	395 	377
+RowImpairment and other 	184 	78 	738
+RowOther operating income 	(5) 	(7) 	(9)
+RowTotal operating expenses 	10,572 	13,209 	10,864
+RowOperating income (loss) 	1,775 	(552) 	1,456
+RowInterest expense 	(841) 	(734) 	(639)
+RowOther income 	193 	197 	132
+RowIncome (loss) from continuing operations before income taxes 	1,127 	(1,089) 	949
+RowIncome tax (benefit) expense 	(278) 	(739) 	281
+RowIncome (loss) from continuing operations 	1,405 	(350) 	668
+RowIncome from discontinued operations, net of tax 	— 	34 	—
+RowNet income (loss) 	1,405 	(316) 	668
+RowPreferred and preference stock dividend requirements of SCE 	121 	121 	124
+RowOther noncontrolling interests 	— 	(14) 	(21)
+RowNet income (loss) attributable to Edison International common shareholders 	$ 1,284 	$ (423) 	$ 565
+RowAmounts attributable to Edison International common shareholders:
+			RowIncome (loss) from continuing operations, net of tax 	$ 1,284 	$ (457) 	$ 565
+RowIncome from discontinued operations, net of tax 	— 	34 	—
+RowNet income (loss) attributable to Edison International common shareholders 	$ 1,284 	$ (423) 	$ 565
+RowBasic earnings (loss) per common share attributable to Edison International common
+shareholders:
+			RowWeighted average shares of common stock outstanding 	340 	326 	326
+RowContinuing operations 	$ 3.78 	$ (1.40) 	$ 1.73
+RowDiscontinued operations 	— 	0.10 	—
+RowTotal 	$ 3.78 	$ (1.30) 	$ 1.73
+RowDiluted earnings (loss) per common share attributable to Edison International common
+shareholders:
+			RowWeighted average shares of common stock outstanding, including effect of dilutive securities 	341 	326 	328
+RowContinuing operations 	$ 3.77 	$ (1.40) 	$ 1.72
+RowDiscontinued operations 	— 	0.10 	—
+RowTotal 	$ 3.77 	$ (1.30) 	$ 1.72
+Row(in millions) 	2019 	2018 	2017
+RowNet income (loss) 	$ 1,405 	$ (316) 	$ 668
+RowOther comprehensive (loss) income, net of tax:
+			RowPension and postretirement benefits other than pensions:
+			RowNet (loss) income arising during period plus amortization of net loss included in net income 	(9) 	(3) 	10
+RowOther 	— 	(4) 	—
+RowOther comprehensive (loss) income, net of tax 	(9) 	(7) 	10
+RowComprehensive income (loss) 	1,396 	(323) 	678
+RowLess: Comprehensive income attributable to noncontrolling interests 	121 	107 	103
+RowComprehensive income (loss) attributable to Edison International 	$ 1,275 	$ (430) 	$ 575
+Row(in millions) 	2019 	2018
+RowASSETS
+		RowCash and cash equivalents $ 	68 	$ 144
+RowReceivables, less allowances of $50 and $52 for uncollectible accounts at respective dates 	788 	730
+RowAccrued unbilled revenue 	488 	482
+RowInventory 	364 	282
+RowIncome tax receivables 	118 	191
+RowPrepaid expenses 	214 	148
+RowDerivative assets 	81 	171
+RowRegulatory assets 	1,009 	1,133
+RowWildfire Insurance Fund contributions 	323 	—
+RowOther current assets 	107 	78
+RowTotal current assets 	3,560 	3,359
+RowNuclear decommissioning trusts 	4,562 	4,120
+RowOther investments 	64 	63
+RowTotal investments 	4,626 	4,183
+RowUtility property, plant and equipment, less accumulated depreciation and amortization of $9,958
+and $9,566 at respective dates 	44,198 	41,269
+RowNonutility property, plant and equipment, less accumulated depreciation of $86 and $82 at respective dates 	87 	79
+RowTotal property, plant and equipment 	44,285 	41,348
+RowRegulatory assets 	6,088 	5,380
+RowWildfire Insurance Fund contributions 	2,767 	—
+RowOperating lease right-of-use assets 	693 	—
+RowOther long-term assets 	2,363 	2,445
+RowTotal long-term assets 	11,911 	7,825
+RowTotal assets $ 	64,382 	$ 56,715
+Row(in millions, except share amounts) 	2019 	2018
+RowLIABILITIES AND EQUITY
+		RowShort-term debt 	$ 550 	$ 720
+RowCurrent portion of long-term debt 	479 	79
+RowAccounts payable 	1,752 	1,511
+RowCustomer deposits 	302 	299
+RowRegulatory liabilities 	972 	1,532
+RowCurrent portion of operating lease liabilities 	80 	—
+RowOther current liabilities 	1,388 	1,254
+RowTotal current liabilities 	5,523 	5,395
+RowLong-term debt 	17,864 	14,632
+RowDeferred income taxes and credits 	5,078 	4,576
+RowPensions and benefits 	674 	869
+RowAsset retirement obligations 	3,029 	3,031
+RowRegulatory liabilities 	8,385 	8,329
+RowOperating lease liabilities 	613 	—
+RowWildfire-related claims 	4,568 	4,669
+RowOther deferred credits and other long-term liabilities 	3,152 	2,562
+RowTotal deferred credits and other liabilities 	25,499 	24,036
+RowTotal liabilities 	48,886 	44,063
+RowCommitments and contingencies (Note 12)
+		RowCommon stock, no par value (800,000,000 shares authorized; 361,985,133 and 325,811,206 shares issued
+and outstanding at respective dates) 	4,990 	2,545
+RowAccumulated other comprehensive loss 	(69) 	(50)
+RowRetained earnings 	8,382 	7,964
+RowTotal Edison International's common shareholders' equity 	13,303 	10,459
+RowNoncontrolling interests – preferred and preference stock of SCE 	2,193 	2,193
+RowTotal equity 	15,496 	12,652
+RowTotal liabilities and equity 	$ 64,382 	$ 56,715
+Row(in millions) 	2019 	2018 	2017
+RowCash flows from operating activities:
+			RowNet income (loss) 	$ 1,405 	$ (316) 	$ 668
+RowLess: Income from discontinued operations 	— 	34 	—
+RowIncome (loss) from continuing operations 	1,405 	(350) 	668
+RowAdjustments to reconcile to net cash provided by operating activities:
+			RowDepreciation and amortization 	1,803 	1,940 	2,115
+RowAllowance for equity during construction 	(101) 	(104) 	(87)
+RowImpairment and other 	184 	78 	738
+RowDeferred income taxes 	(284) 	(527) 	498
+RowWildfire Insurance Fund amortization expense 	152 	— 	—
+RowOther 	29 	35 	34
+RowNuclear decommissioning trusts 	(106) 	(109) 	(197)
+RowContributions to Wildfire Insurance Fund 	(2,457) 	— 	—
+RowChanges in operating assets and liabilities:
+			RowReceivables 	(76) 	(39) 	6
+RowInventory 	(83) 	(49) 	(12)
+RowAccounts payable 	288 	(31) 	50
+RowTax receivables and payables 	88 	32 	(250)
+RowOther current assets and liabilities 	(13) 	(79) 	7
+RowRegulatory assets and liabilities, net 	(1,278) 	(92) 	4
+RowWildfire-related insurance receivable 	285 	(2,000) 	—
+RowWildfire-related claims 	(101) 	4,669 	—
+RowOther noncurrent assets and liabilities 	(42) 	(197) 	23
+RowNet cash (used in) provided by operating activities 	(307) 	3,177 	3,597
+RowCash flows from financing activities:
+			RowLong-term debt issued or remarketed, net of premium, discount and issuance costs of $4, $63 and $2 for
+the respective years 	3,696 	3,237 	2,233
+RowLong-term debt repaid 	(82) 	(654) 	(1,285)
+RowTerm loan issued 	1,750 	— 	—
+RowTerm loan repaid 	(1,750) 	— 	—
+RowCommon stock issued 	2,391 	— 	—
+RowPreference stock issued, net 	— 	— 	462
+RowPreference stock redeemed 	— 	— 	(475)
+RowShort-term debt financing, net 	(172) 	(1,611) 	1,084
+RowPayments for stock-based compensation 	(64) 	(46) 	(393)
+RowReceipts from stock option exercises 	58 	26 	215
+RowDividends and distribution to noncontrolling interests 	(121) 	(121) 	(125)
+RowDividends paid 	(810) 	(788) 	(707)
+RowOther 	7 	39 	(2)
+RowNet cash provided by financing activities 	4,903 	82 	1,007
+RowCash flows from investing activities:
+			RowCapital expenditures 	(4,877) 	(4,509) 	(3,844)
+RowProceeds from sale of nuclear decommissioning trust investments 	4,389 	4,340 	5,239
+RowPurchases of nuclear decommissioning trust investments 	(4,283) 	(4,231) 	(5,042)
+RowProceeds from sale of SoCore Energy, net of cash acquired by buyer 	— 	78 	—
+RowOther 	93 	83 	61
+RowNet cash used in investing activities 	(4,678) 	(4,239) 	(3,586)
+RowNet (decrease) increase in cash, cash equivalents and restricted cash 	(82) 	(980) 	1,018
+RowCash, cash equivalents and restricted cash at beginning of year 	152 	1,132 	114
+RowCash, cash equivalents and restricted cash at end of year 	$ 70 	$ 152 	$ 1,132
+Row:(in millions, except per share amounts) 	2019 	2018 	2017
+Row:Total operating revenue 	$ 12,347 	$ 12,657 	$ 12,320
+Row:Purchased power and fuel 	4,839 	5,406 	4,873
+Row:Operation and maintenance 	3,018 	2,797 	2,844
+Row:Wildfire-related claims, net of insurance recoveries 	255 	2,669 	—
+Row:Wildfire insurance fund expense 	152 	— 	—
+Row:Depreciation and amortization 	1,730 	1,871 	2,041
+Row:Property and other taxes 	399 	395 	377
+Row:Impairment and other 	184 	78 	738
+Row:Other operating income 	(5) 	(7) 	(9)
+Row:Total operating expenses 	10,572 	13,209 	10,864
+Row:Operating income (loss) 	1,775 	(552) 	1,456
+Row:Interest expense 	(841) 	(734) 	(639)
+Row:Other income 	193 	197 	132
+Row:Income (loss) from continuing operations before income taxes 	1,127 	(1,089) 	949
+Row:Income tax (benefit) expense 	(278) 	(739) 	281
+Row:Income (loss) from continuing operations 	1,405 	(350) 	668
+Row:Income from discontinued operations, net of tax 	— 	34 	—
+Row:Net income (loss) 	1,405 	(316) 	668
+Row:Preferred and preference stock dividend requirements of SCE 	121 	121 	124
+Row:Other noncontrolling interests 	— 	(14) 	(21)
+Row:Net income (loss) attributable to Edison International common shareholders 	$ 1,284 	$ (423) 	$ 565
+Row:Amounts attributable to Edison International common shareholders:
+			Row:Income (loss) from continuing operations, net of tax 	$ 1,284 	$ (457) 	$ 565
+Row:Income from discontinued operations, net of tax 	— 	34 	—
+Row:Net income (loss) attributable to Edison International common shareholders 	$ 1,284 	$ (423) 	$ 565
+Row:Basic earnings (loss) per common share attributable to Edison International common
+shareholders:
+			Row:Weighted average shares of common stock outstanding 	340 	326 	326
+Row:Continuing operations 	$ 3.78 	$ (1.40) 	$ 1.73
+Row:Discontinued operations 	— 	0.10 	—
+Row:Total 	$ 3.78 	$ (1.30) 	$ 1.73
+Row:Diluted earnings (loss) per common share attributable to Edison International common
+shareholders:
+			Row:Weighted average shares of common stock outstanding, including effect of dilutive securities 	341 	326 	328
+Row:Continuing operations 	$ 3.77 	$ (1.40) 	$ 1.72
+Row:Discontinued operations 	— 	0.10 	—
+Row:Total 	$ 3.77 	$ (1.30) 	$ 1.72
+Row:(in millions) 	2019 	2018 	2017
+Row:Net income (loss) 	$ 1,405 	$ (316) 	$ 668
+Row:Other comprehensive (loss) income, net of tax:
+			Row:Pension and postretirement benefits other than pensions:
+			Row:Net (loss) income arising during period plus amortization of net loss included in net income 	(9) 	(3) 	10
+Row:Other 	— 	(4) 	—
+Row:Other comprehensive (loss) income, net of tax 	(9) 	(7) 	10
+Row:Comprehensive income (loss) 	1,396 	(323) 	678
+Row:Less: Comprehensive income attributable to noncontrolling interests 	121 	107 	103
+Row:Comprehensive income (loss) attributable to Edison International 	$ 1,275 	$ (430) 	$ 575
+Row:(in millions) 	2019 	2018
+Row:ASSETS
+		Row:Cash and cash equivalents $ 	68 	$ 144
+Row:Receivables, less allowances of $50 and $52 for uncollectible accounts at respective dates 	788 	730
+Row:Accrued unbilled revenue 	488 	482
+Row:Inventory 	364 	282
+Row:Income tax receivables 	118 	191
+Row:Prepaid expenses 	214 	148
+Row:Derivative assets 	81 	171
+Row:Regulatory assets 	1,009 	1,133
+Row:Wildfire Insurance Fund contributions 	323 	—
+Row:Other current assets 	107 	78
+Row:Total current assets 	3,560 	3,359
+Row:Nuclear decommissioning trusts 	4,562 	4,120
+Row:Other investments 	64 	63
+Row:Total investments 	4,626 	4,183
+Row:Utility property, plant and equipment, less accumulated depreciation and amortization of $9,958
+and $9,566 at respective dates 	44,198 	41,269
+Row:Nonutility property, plant and equipment, less accumulated depreciation of $86 and $82 at respective dates 	87 	79
+Row:Total property, plant and equipment 	44,285 	41,348
+Row:Regulatory assets 	6,088 	5,380
+Row:Wildfire Insurance Fund contributions 	2,767 	—
+Row:Operating lease right-of-use assets 	693 	—
+Row:Other long-term assets 	2,363 	2,445
+Row:Total long-term assets 	11,911 	7,825
+Row:Total assets $ 	64,382 	$ 56,715
+Row:(in millions, except share amounts) 	2019 	2018
+Row:LIABILITIES AND EQUITY
+		Row:Short-term debt 	$ 550 	$ 720
+Row:Current portion of long-term debt 	479 	79
+Row:Accounts payable 	1,752 	1,511
+Row:Customer deposits 	302 	299
+Row:Regulatory liabilities 	972 	1,532
+Row:Current portion of operating lease liabilities 	80 	—
+Row:Other current liabilities 	1,388 	1,254
+Row:Total current liabilities 	5,523 	5,395
+Row:Long-term debt 	17,864 	14,632
+Row:Deferred income taxes and credits 	5,078 	4,576
+Row:Pensions and benefits 	674 	869
+Row:Asset retirement obligations 	3,029 	3,031
+Row:Regulatory liabilities 	8,385 	8,329
+Row:Operating lease liabilities 	613 	—
+Row:Wildfire-related claims 	4,568 	4,669
+Row:Other deferred credits and other long-term liabilities 	3,152 	2,562
+Row:Total deferred credits and other liabilities 	25,499 	24,036
+Row:Total liabilities 	48,886 	44,063
+Row:Commitments and contingencies (Note 12)
+		Row:Common stock, no par value (800,000,000 shares authorized; 361,985,133 and 325,811,206 shares issued
+and outstanding at respective dates) 	4,990 	2,545
+Row:Accumulated other comprehensive loss 	(69) 	(50)
+Row:Retained earnings 	8,382 	7,964
+Row:Total Edison International's common shareholders' equity 	13,303 	10,459
+Row:Noncontrolling interests – preferred and preference stock of SCE 	2,193 	2,193
+Row:Total equity 	15,496 	12,652
+Row:Total liabilities and equity 	$ 64,382 	$ 56,715
+Row:(in millions) 	2019 	2018 	2017
+Row:Cash flows from operating activities:
+			Row:Net income (loss) 	$ 1,405 	$ (316) 	$ 668
+Row:Less: Income from discontinued operations 	— 	34 	—
+Row:Income (loss) from continuing operations 	1,405 	(350) 	668
+Row:Adjustments to reconcile to net cash provided by operating activities:
+			Row:Depreciation and amortization 	1,803 	1,940 	2,115
+Row:Allowance for equity during construction 	(101) 	(104) 	(87)
+Row:Impairment and other 	184 	78 	738
+Row:Deferred income taxes 	(284) 	(527) 	498
+Row:Wildfire Insurance Fund amortization expense 	152 	— 	—
+Row:Other 	29 	35 	34
+Row:Nuclear decommissioning trusts 	(106) 	(109) 	(197)
+Row:Contributions to Wildfire Insurance Fund 	(2,457) 	— 	—
+Row:Changes in operating assets and liabilities:
+			Row:Receivables 	(76) 	(39) 	6
+Row:Inventory 	(83) 	(49) 	(12)
+Row:Accounts payable 	288 	(31) 	50
+Row:Tax receivables and payables 	88 	32 	(250)
+Row:Other current assets and liabilities 	(13) 	(79) 	7
+Row:Regulatory assets and liabilities, net 	(1,278) 	(92) 	4
+Row:Wildfire-related insurance receivable 	285 	(2,000) 	—
+Row:Wildfire-related claims 	(101) 	4,669 	—
+Row:Other noncurrent assets and liabilities 	(42) 	(197) 	23
+Row:Net cash (used in) provided by operating activities 	(307) 	3,177 	3,597
+Row:Cash flows from financing activities:
+			Row:Long-term debt issued or remarketed, net of premium, discount and issuance costs of $4, $63 and $2 for
+the respective years 	3,696 	3,237 	2,233
+Row:Long-term debt repaid 	(82) 	(654) 	(1,285)
+Row:Term loan issued 	1,750 	— 	—
+Row:Term loan repaid 	(1,750) 	— 	—
+Row:Common stock issued 	2,391 	— 	—
+Row:Preference stock issued, net 	— 	— 	462
+Row:Preference stock redeemed 	— 	— 	(475)
+Row:Short-term debt financing, net 	(172) 	(1,611) 	1,084
+Row:Payments for stock-based compensation 	(64) 	(46) 	(393)
+Row:Receipts from stock option exercises 	58 	26 	215
+Row:Dividends and distribution to noncontrolling interests 	(121) 	(121) 	(125)
+Row:Dividends paid 	(810) 	(788) 	(707)
+Row:Other 	7 	39 	(2)
+Row:Net cash provided by financing activities 	4,903 	82 	1,007
+Row:Cash flows from investing activities:
+			Row:Capital expenditures 	(4,877) 	(4,509) 	(3,844)
+Row:Proceeds from sale of nuclear decommissioning trust investments 	4,389 	4,340 	5,239
+Row:Purchases of nuclear decommissioning trust investments 	(4,283) 	(4,231) 	(5,042)
+Row:Proceeds from sale of SoCore Energy, net of cash acquired by buyer 	— 	78 	—
+Row:Other 	93 	83 	61
+Row:Net cash used in investing activities 	(4,678) 	(4,239) 	(3,586)
+Row:Net (decrease) increase in cash, cash equivalents and restricted cash 	(82) 	(980) 	1,018
+Row:Cash, cash equivalents and restricted cash at beginning of year 	152 	1,132 	114
+Row:Cash, cash equivalents and restricted cash at end of year 	$ 70 	$ 152 	$ 1,132

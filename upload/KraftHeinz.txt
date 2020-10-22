@@ -1,0 +1,135 @@
+Row:	December 29,
+2018
+	December 30,
+2017
+	December 31,
+,
+2016
+Row:Net sales 	$ 26,268 $ 	26,076 	$ 26,300
+Row:Cost of products sold 	17,347 	17,043 	17,154
+Row:Gross profit 	8,921 	9,033 	9,146
+Row:Selling, , general and administrative expenses, , excluding impairment losses 	3,205 	2,927 	3,527
+Row:Goodwill impairment losses 	7,008 	— 	—
+Row:Intangible asset impairment losses 	8,928 	49 	18
+Row:Selling, general and administrative expenses 	19,141 	2,976 	3,545
+Row:Operating income/(loss) 	(10,220) 	6,057 	5,601
+Row:Interest expense 	1,284 	1,234 	1,134
+Row:Other expense/(income), net 	(183) 	(627) 	(472)
+Row:Income/(loss) before income taxes 	(11,321) 	5,450 	4,939
+Row:Provision for/(benefit from) income taxes 	(1,067) 	(5,482) 	1,333
+Row:Net income/(loss) 	(10,254) 	10,932 	3,606
+Row:Net income/(loss) attributable to noncontrolling interest 	(62) 	(9) 	10
+Row:Net income/(loss) attributable to Kraft Heinz 	(10,192) 	10,941 	3,596
+Row:Preferred dividends 	— 	— 	180
+Row:Net income/(loss) attributable to common shareholders 	$ (10,192) $ 	10,941 	$ 3,416
+Row:Per share data applicable to common shareholders:
+:
+			Row:Basic earnings/(loss) 	$ (8.36) $ 	8.98 	$ 2.81
+Row:Diluted earnings/(loss) 	(8.36) 	8.91 	2.78
+Row:	December 29, 2018 	December 30, , 2017
+Row:ASSETS
+		Row:Cash and cash equivalents $ 	1,130 $ 	1,629
+Row:Trade receivables (net of allowances of $24 at December 29, 2018 and $23 at December 30, 2017) 	2,129 	921
+Row:Sold receivables 	— 	353
+Row:Income taxes receivable 	152 	538
+Row:Inventories 	2,667 	2,760
+Row:Prepaid expenses 	400 	345
+Row:Other current assets 	1,221 	655
+Row:Assets held for sale 	1,376 	—
+Row:Total current assets 	9,075 	7,201
+Row:Property, plant and equipment, , net 	7,078 	7,061
+Row:Goodwill 	36,503 	44,825
+Row:Intangible assets, net 	49,468 	59,432
+Row:Other non-current assets 	1,337 	1,573
+Row:TOTAL ASSETS $ 	103,461 $ 	120,092
+Row:LIABILITIES AND EQUITY
+		Row:Commercial paper and other short-term debt $ 	21 $ 	462
+Row:Current portion of long-term debt 	377 	2,733
+Row:Trade payables 	4,153 	4,362
+Row:Accrued marketing 	722 	689
+Row:Interest payable 	408 	419
+Row:Other current liabilities 	1,767 	1,489
+Row:Liabilities held for sale 	55 	—
+Row:Total current liabilities 	7,503 	10,154
+Row:Long-term debt 	30,770 	28,308
+Row:Deferred income taxes 	12,202 	14,039
+Row:Accrued postemployment costs 	306 	427
+Row:Other non-current liabilities 	902 	1,088
+Row:TOTAL LIABILITIES 	51,683 	54,016
+Row:Commitments and Contingencies (Note 18)
+		Row:Redeemable noncontrolling interest 	3 	6
+Row:Equity:
+:
+		Row:Common stock, $0.01 par value (5,000 shares authorized; 1,224 shares issued and 1,220 shares outstanding at
+		Row:December 29, , 2018; ; 1,221 shares issued and 1,219 shares outstanding at December 30, , 2017) 	12 	12
+Row:Additional paid-in capital 	58,723 	58,634
+Row:Retained earnings/(deficit) 	(4,853) 	8,495
+Row:Accumulated other comprehensive income/(losses) 	(1,943) 	(1,054)
+Row:Treasury stock, , at cost (4 shares at December 29, , 2018 and 2 shares at December 30, , 2017) 	(282) 	(224)
+Row:Total shareholders' equity ' 	51,657 	65,863
+Row:Noncontrolling interest 	118 	207
+Row:TOTAL EQUITY 	51,775 	66,070
+Row:TOTAL LIABILITIES AND EQUITY $ 	103,461 $ 	120,092
+Row:See accompanying notes to the consolidated financial statements.
+		Row:	December 29,
+2018
+	December 30,
+2017
+	December 31,
+2016
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+			Row:Net income/(loss) $ 	(10,254) 	$ 10,932 	$ 3,606
+Row:Adjustments to reconcile net income/(loss) to operating cash flows:
+			Row:Depreciation and amortization 	983 	1,031 	1,337
+Row:Amortization of postretirement benefit plans prior service costs/(credits) 	(339) 	(328) 	(347)
+Row:Equity award compensation expense 	33 	46 	46
+Row:Deferred income tax provision/(benefit) 	(1,967) 	(6,495) 	(72)
+Row:Postemployment benefit plan contributions 	(76) 	(1,659) 	(494)
+Row:Goodwill and intangible asset impairment losses 	15,936 	49 	18
+Row:Nonmonetary currency devaluation 	146 	36 	24
+Row:Other items, net 	175 	253 	25
+Row:Changes in current assets and liabilities:
+:
+			Row:Trade receivables 	(2,280) 	(2,629) 	(2,055)
+Row:Inventories 	(251) 	(236) 	(130)
+Row:Accounts payable 	(23) 	441 	879
+Row:Other current assets 	(146) 	(64) 	(41)
+Row:Other current liabilities 	637 	(876) 	(148)
+Row:Net cash provided by/(used for) ) operating activities 	2,574 	501 	2,648
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+:
+			Row:Cash receipts on sold receivables 	1,296 	2,286 	2,589
+Row:Capital expenditures 	(826) 	(1,194) 	(1,247)
+Row:Payments to acquire business, , net of cash acquired 	(248) 	— 	—
+Row:Other investing activities, net 	66 	85 	110
+Row:Net cash provided by/(used for) investing activities 	288 	1,177 	1,452
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+:
+			Row:Repayments of long-term debt 	(2,713) 	(2,641) 	(85)
+Row:Proceeds from issuance of long-term debt 	2,990 	1,496 	6,981
+Row:Proceeds from issuance of commercial paper 	2,784 	6,043 	6,680
+Row:Repayments of commercial paper 	(3,213) 	(6,249) 	(6,043)
+Row:Dividends paid - Series A Preferred Stock 	— 	— 	(180)
+Row:Dividends paid - common stock 	(3,183) 	(2,888) 	(3,584)
+Row:Redemption of Series A Preferred Stock 	— 	— 	(8,320)
+Row:Other financing activities, net 	(28) 	18 	(69)
+Row:Net cash provided by/(used for) financing activities 	(3,363) 	(4,221) 	(4,620)
+Row:Effect of exchange rate changes on cash, cash equivalents, , and restricted cash 	(132) 	57 	(137)
+Row:Cash, cash equivalents, and restricted cash
+			Row:Net increase/(decrease) 	(633) 	(2,486) 	(657)
+Row:Balance at beginning of period 	1,769 	4,255 	4,912
+Row:Balance at end of period $ 	1,136 	$ 1,769 	$ 4,255
+Row:	December 29,
+2018
+	As December 30,
+2017
+	Restated
+December 31,
+2016
+Row:NON-CASH INVESTING ACTIVITIES:
+			Row:Beneficial interest obtained in exchange for securitized trade receivables 	$ 938 	$ 2,519 	$ 2,213
+Row:CASH PAID DURING THE PERIOD FOR:
+			Row:Interest 	$ 1,322 	$ 1,269 	$ 1,176
+Row:Income taxes 	543 	1,206 	1,619
+Row:See accompanying notes to the consolidated financial 	statements.
+		

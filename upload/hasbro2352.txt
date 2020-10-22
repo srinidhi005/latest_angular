@@ -1,0 +1,91 @@
+Row:ASSETS
+		Row:Current assets
+		Row:Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	4,580,369 	1,182,371
+Row:Accounts receivable, less allowance for doubtful accounts of $17,200 in 2019 and $9,100
+		Row:in 2018 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,410,597 	1,188,052
+Row:Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	446,105 	443,383
+Row:Prepaid expenses and other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	310,450 	268,698
+Row:Total current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	6,747,521 	3,082,504
+Row:Property, plant and equipment, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	382,248 	256,473
+Row:Other assets
+		Row:Goodwill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	494,584 	485,881
+Row:Other intangibles, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	646,305 	693,842
+Row:Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	584,970 	744,288
+Row:Total other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Total assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	1,725,859 8,855,628 	1,924,011
+5,262,988
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row:Accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	343,927 	333,521
+Row:Accrued liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	912,652 	931,063
+Row:Total current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,257,082 	1,274,324
+Row:Long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	4,046,457 	1,695,092
+Row:Other liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	556,559 	539,086
+Row:Total liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	5,860,098 	3,508,502
+Row:Common stock of $0.50 par value. Authorized 600,000,000 shares; issued 220,286,736
+		Row:shares as of 2019 and 209,694,630 shares as of 2018 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	110,143 	104,847
+Row:Additional paid-in capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	2,275,726 	1,275,059
+Row:Retained earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	4,354,619 	4,184,374
+Row:Accumulated other comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(184,220) 	(294,514)
+Row:Treasury stock, at cost, 83,424,129 shares in 2019 and 83,565,598 shares in 2018 . . . . . . . . . . . . 	(3,560,738) 	(3,515,280)
+Row:Total shareholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	2,995,530 	1,754,486
+Row:Total liabilities and shareholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	8,855,628 	5,262,988
+Row:Net revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$4,720,227 	4,579,646 	5,209,782
+Row:Costs and expenses
+			Row:Cost of sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Royalties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,807,849 414,549 	1,850,678 351,660 	2,033,693
+405,488
+Row:Product development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	262,156 	246,165 	269,020
+Row:Advertising . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	413,676 	439,922 	501,813
+Row:Amortization of intangible assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	47,259 	28,703 	28,818
+Row:Program production cost amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	85,585 	43,906 	35,798
+Row:Selling, distribution and administration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,037,103 	1,287,560 	1,124,793
+Row:Total expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	4,068,177 	4,248,594 	4,399,423
+Row:Operating profit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	652,050 	331,052 	810,359
+Row:Non-operating (income) expense
+			Row:Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Interest income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	101,878 (30,107) 	90,826 (22,357) 	98,268
+(22,155)
+Row:Other (income) expense, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(13,931) 	(7,819) 	(51,904)
+Row:Total non-operating expense, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	57,840 	60,650 	24,209
+Row:Earnings before income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	594,210 	270,402 	786,150
+Row:Income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	73,756 	49,968 	389,543
+Row:Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	520,454 	220,434 	396,607
+Row:Per common share
+Net earnings
+			Row:Basic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	4.07 	1.75 	3.17
+Row:Diluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	4.05 	1.74 	3.12
+Row:Cash dividends declared . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	2.72 	2.52 	2.28
+Row:Cost of sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	. . . . . Row:Royalties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	. . . . . Row:Product development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	. . . . . Row:Advertising . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Amortization of intangible assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	. . . . . . . . . . Row:Program production cost amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	. . . . . Row:Selling, distribution and administration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	. . . . . Row:Total expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	. . . . . Row:Basic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	4.07 	1.75 	3.17
+Row:Diluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	4.05 	1.74 	3.12
+Row:Cash dividends declared . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	2.72 	2.52 	2.28
+Row:Cash flows from operating activitiesNet earningsAdjustments to reconcile net earnings to net cash provided by operating activities:Depreciation of property, plant and equipment	2019
+$ 520,454
+133,528
+	2018
+220,434
+139,255	2017
+396,607
+143,018
+Row:Impairment of goodwill.Impairment of intangible assetsPension Settlement	110,962	86,25331,303
+	Row:Amortization of intangible assets	47,259	28,703	28,818Row:Program production cost amortization	85,585	43,906	35,798Row:Deferred income taxes	(14,956)	(11,094)	112,105Row:Stock-based compensationOther non-cash items	28,044(54,184)
+	27,892(18,879)
+	56,032(44,001Row:Changes in operating assets and liabilities, net of acquired and disposed balances:(Increase) decrease in accounts receivableIncrease in inventories .Decrease (increase) in prepaid expenses and other current assets	(211,450)(4,631)18,106	180,113(37,211)(11,929)	(50,376(25,30124,450Row:Program production costs, net of tax rebates received	(33,851)	(131,984)	(48,003Row:Increase (decrease) in accounts payable and accrued liabilities	62,277	107,426	(80,461Row:Net deemed repatriation tax	(14,550)	27,027	181,305Row:Other, including long-term advancesNet cash provided by operating activities	(19,532)653,061
+	(35,218)645,997
+	(5,613724,378
+Row:Cash flows from investing activitiesAdditions to property, plant and equipmentInvestments and acquisitions, net of cash acquiredNet gains on derivative contractsOther	(133,636)(8,761)79,9901,452	(140,426)(155,451)
+9,400	(134,8773,396Row:Net cash utilized by investing activitiesCash flows from financing activitiesNet proceeds from borrowings with maturity greater than three monthsRepayments of borrowings with maturity greater than three monthsNet repayments of other short-term borrowingsPurchases of common stockStock-based compensation transactions	(60,955)
+2,354,957
+(8,828)(61,387)31,786	(286,477)
+(142,357)(250,054)29,999	(131,481493,878(350,000(18,419(151,31129,431Row:Dividends paidPayments related to tax withholding for share-based compensationDeferred acquisition paymentsProceeds from issuance of common stock	(336,604)(13,123)(100,000)975,185	(309,258)(58,344)
+	(276,973(31,994Row:Deferred financing fees paidOtherNet cash provided (utilized) by financing activitiesEffect of exchange rate changes on cash	(26,653)(4,760)2,810,573(4,681)	(7,087)(737,101)(21,282)	(6,785(312,17318,225Row:Increase (decrease) in cash and cash equivalentsCash and cash equivalents at beginning of year	3,397,9981,182,371	(398,863)1,581,234
+	298,9491,282,285
+Row:Cash and cash equivalents at end of year	$4,580,369
+	1,182,371
+	1,581,234
+Row:Supplemental informationInterest paid
+	$
+82,205
+	82,258
+	89,294
+Row:Income taxes paid
+	$
+103,149
+	117,854
+	115,753

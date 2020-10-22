@@ -1,0 +1,124 @@
+Row:Cash and cash equivalents 	$ 221,839 	$ 358,260
+Row:Marketable securities 	211,453 	279,232
+Row:Accounts receivable, net of allowance for doubtful accounts of $880 and $1,499, respectively 	88,288 	80,461
+Row:Inventory 	409,534 	370,507
+Row:Prepaid expenses and other current assets 	122,282 	114,296
+Row:Total current assets 	1,053,396 	1,202,756
+Row:Property and equipment, net 	890,032 	796,029
+Row:Operating lease right-of-use assets 	1,170,531 	—
+Row:Marketable securities 	97,096 	57,292
+Row:Deferred income taxes and other assets 	104,578 	104,438
+Row:Total Assets 	$ 3,315,633 	$ 2,160,515
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 167,871 	$ 144,414
+Row:Current portion of operating lease liabilities 	221,593 	—
+Row:Accrued compensation and benefits 	44,041 	54,799
+Row:Accrued expenses and other current liabilities 	205,265 	187,431
+Row:Total current liabilities 	638,770 	386,644
+Row:Non-current portion of operating lease liabilities 	1,137,495 	—
+Row:Deferred rent and other liabilities 	84,013 	284,773
+Row:Total Liabilities 	1,860,278 	671,417
+Row:Commitments and contingencies (see Note 15)
+		Row:Shareholders’ equity:
+Preferred shares; $.0001 par value, 10,000,000 shares authorized, none issued 	— 	—
+Row:Common shares; $.0001 par value, 200,000,000 shares authorized, 97,976,815 and 105,642,283
+		Row:shares issued and outstanding, respectively 	10 	11
+Row:Additional paid-in-capital 	9,477 	—
+Row:Retained earnings 	1,473,872 	1,516,190
+Row:Accumulated other comprehensive loss 	(28,004) 	(27,103)
+Row:Total Shareholders’ Equity 	1,455,355 	1,489,098
+Row:Total Liabilities and Shareholders’ Equity 	$ 3,315,633 	$ 2,160,515
+Row:	2020 	2019 	2018
+Row:Net sales 	$ 3,983,789 	$ 3,950,623 	$ 3,616,014
+Row:Cost of sales (excluding store impairment) 	2,729,352 	2,600,367 	2,429,097
+Row:Store impairment 	14,611 	3,544 	11,410
+Row:Gross profit 	1,239,826 	1,346,712 	1,175,507
+Row:Selling, general and administrative expenses 	993,990 	965,399 	915,615
+Row:Goodwill impairment 	13,911 	— 	—
+Row:Income from operations 	231,925 	381,313 	259,892
+Row:Interest income 	10,638 	9,530 	4,879
+Row:Other income 	1,438 	1,035 	1,435
+Row:Other expenses 	(4,281) 	(6,325) 	(4,840)
+Row:Income before income taxes 	239,720 	385,553 	261,366
+Row:Income tax expense 	71,624 	87,550 	153,103
+Row:Net income 	$ 168,096 	$ 298,003 	$ 108,263
+Row:Net income per common share:
+			Row:Basic 	$ 1.68 	$ 2.75 	$ 0.97
+Row:Diluted 	$ 1.67 	$ 2.72 	$ 0.96
+Row:Weighted-average common shares outstanding:
+			Row:Basic 	99,833,011 	108,303,594 	111,887,308
+Row:Diluted 	100,588,677 	109,706,007 	112,367,924
+Row:	2020 	2019 	2018
+Row:Net income 	$ 168,096 	$ 298,003 	$ 108,263
+Row:Other comprehensive (loss) income:
+			Row:Foreign currency translation 	(1,403) 	(16,585) 	23,672
+Row:Change in unrealized gains (losses) on marketable securities, net of tax 	502 	133 	(254)
+Row:Total other comprehensive (loss) income 	(901) 	(16,452) 	23,418
+Row:Comprehensive income 	$ 167,195 	$ 281,551 	$ 131,681
+Row:	Number of
+Shares
+Common 	Par
+Value
+Shares
+	Paid-in
+Capital
+	Retained
+Earnings
+	hensive
+Loss 	Total
+Row:Balances as of January 31, 2017 	116,233,781 	$ 12 	$ — 	$ 1,347,141 	$ (34,069) 	$ 1,313,084
+Row:Comprehensive income 	— 	— 	— 	108,263 	23,418 	131,681
+Row:Share-based compensation 	— 	— 	14,517 	— 	— 	14,517
+Row:Share-based awards 	200,148 	— 	— 	— 	— 	—
+Row:Cumulative effect of change in accounting pronouncement 	— 	— 	1,607 	(760) 	— 	847
+Row:Share repurchases 	(8,185,361) 	(1) 	(15,440) 	(143,785) 	— 	(159,226)
+Row:Balances as of January 31, 2018 	108,248,568 	$ 11 	$ 684 	$ 1,310,859 	$ (10,651) 	$ 1,300,903
+Row:Comprehensive income 	— 	— 	— 	298,003 	(16,452) 	281,551
+Row:Share-based compensation 	— 	— 	18,104 	— 	— 	18,104
+Row:Share-based awards 	1,147,896 	— 	13,618 	— 	— 	13,618
+Row:Cumulative effect of change in accounting pronouncement 	— 	— 	— 	6,564 	— 	6,564
+Row:Share repurchases 	(3,754,181) 	— 	(32,406) 	(99,236) 	— 	(131,642)
+Row:Balances as of January 31, 2019 	105,642,283 	$ 11 	$ — 	$ 1,516,190 	$ (27,103) 	$ 1,489,098
+Row:Comprehensive income 	— 	— 	— 	168,096 	(901) 	167,195
+Row:Share-based compensation 	— 	— 	21,109 	— 	— 	21,109
+Row:Share-based awards 	588,158 	— 	974 	— 	— 	974
+Row:Share repurchases 	(8,253,626) 	(1) 	(12,606) 	(210,414) 	— 	(223,021)
+Row:Balances as of January 31, 2020 	97,976,815 	$ 10 	$ 9,477 	$ 1,473,872 	$ (28,004) 	$ 1,455,355
+Row:	2020 	2019 	2018
+Row:Cash flows from operating activities:
+			Row:Net income 	$ 168,096 	$ 298,003 	$ 108,263
+Row:Adjustments to reconcile net income to net cash provided by operating
+activities:
+			Row:Depreciation and amortization 	112,256 	117,986 	128,408
+Row:Non-cash lease expense 	190,652 	— 	—
+Row:Provision (benefit) for deferred income taxes 	1,451 	(11,414) 	8,329
+Row:Share-based compensation expense 	21,109 	18,104 	14,517
+Row:Goodwill impairment 	13,911 	— 	—
+Row:Store impairment 	14,611 	3,544 	11,410
+Row:Loss on disposition of property and equipment, net 	1,643 	3,492 	4,037
+Row:Changes in assets and liabilities:
+			Row:Receivables 	(7,825) 	(4,012) 	(21,744)
+Row:Inventory 	(39,101) 	(21,696) 	(8,644)
+Row:Prepaid expenses and other assets 	(16,308) 	8,605 	12,967
+Row:Payables, accrued expenses and other liabilities 	22,661 	34,012 	45,516
+Row:Operating lease liabilities 	(209,263) 	— 	—
+Row:Net cash provided by operating activities 	273,893 	446,624 	303,059
+Row:Cash flows from investing activities:
+			Row:Cash paid for property and equipment 	(217,433) 	(114,924) 	(83,813)
+Row:Cash paid for marketable securities 	(397,220) 	(396,646) 	(281,385)
+Row:Sales and maturities of marketable securities 	428,508 	267,072 	243,818
+Row:Net cash used in investing activities 	(186,145) 	(244,498) 	(121,380)
+Row:Cash flows from financing activities:
+			Row:Proceeds from the exercise of share-based awards 	974 	13,618 	—
+Row:Share repurchases related to share repurchase program 	(217,421) 	(121,397) 	(157,044)
+Row:Share repurchases related to taxes for share-based awards 	(5,600) 	(10,245) 	(2,182)
+Row:Net cash used in financing activities 	(222,047) 	(118,024) 	(159,226)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(2,122) 	(8,062) 	11,627
+Row:(Decrease) increase in cash and cash equivalents 	(136,421) 	76,040 	34,080
+Row:Cash and cash equivalents at beginning of period 	358,260 	282,220 	248,140
+Row:Cash and cash equivalents at end of period 	$ 221,839 	$ 358,260 	$ 282,220
+Row:Supplemental cash flow information:
+			Row:Cash paid during the year for:
+			Row:Income taxes 	$ 74,429 	$ 102,211 	$ 83,986
+Row:Non-cash investing activities—Accrued capital expenditures 	$ 10,497 	$ 7,193 	$ 10,144

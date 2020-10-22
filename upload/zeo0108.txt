@@ -1,0 +1,111 @@
+Row:(MILLIONS OF DOLLARS AND SHARES, EXCEPT PER SHARE DATA) 	2018 	2017 	2016
+Row:Revenue $ 	5,825 $ 	5,307 $ 	4,888
+Row:Costs and expenses:
+			Row:Cost of sales(a) 	1,911 	1,775 	1,666
+Row:Selling, general and administrative expenses(a) 	1,484 	1,334 	1,364
+Row:Research and development expenses(a) 	432 	382 	376
+Row:Amortization of intangible assets 	117 	91 	85
+Row:Restructuring charges and certain acquisition-related costs 	68 	19 	5
+Row:Interest expense, net of capitalized interest 	206 	175 	166
+Row:Other (income)/deductions––net 	(83) 	6 	(2)
+Row:Income before provision for taxes on income 	1,690 	1,525 	1,228
+Row:Provision for taxes on income 	266 	663 	409
+Row:Net income before allocation to noncontrolling interests 	1,424 	862 	819
+Row:Less: Net loss attributable to noncontrolling interests 	(4) 	(2) 	(2)
+Row:Net income attributable to Zoetis $ 	1,428 $ 	864 $ 	821
+Row:Earnings per share attributable to Zoetis Inc. stockholders:
+			Row:Basic $ 	2.96 $ 	1.76 $ 	1.66
+Row:Diluted $ 	2.93 $ 	1.75 $ 	1.65
+Row:Weighted-average common shares outstanding:
+			Row:Basic 	483.063 	489.918 	495.715
+Row:Diluted 	486.898 	493.161 	498.225
+Row:Dividends declared per common share $ 	0.542 $ 	0.441 $ 	0.390
+Row:(a) 			Row:(MILLIONS OF DOLLARS, EXCEPT PER SHARE DATA) 	December 31, 2018 	December 31,
+2017
+Row:Assets
+		Row:Cash and cash equivalents(a) $ 	1,602 $ 	1,564
+Row:Short-term investments 	99 	—
+Row:Accounts receivable, less allowance for doubtful accounts of $24 in 2018 and $25 in 2017 	1,036 	998
+Row:Inventories 	1,391 	1,427
+Row:Other current assets 	271 	228
+Row:Total current assets Property, plant and equipment, less accumulated depreciation of $1,599 in 2018 and $1,471 in 2017 	4,399 1,658 	4,217
+1,435
+Row:Goodwill Identifiable intangible assets, less accumulated amortization 	2,519 2,046 	1,510
+1,269
+Row:Noncurrent deferred tax assets Other noncurrent assets 	61 94 	80
+75
+Row:Total assets $ 	10,777 $ 	8,586
+Row:Liabilities and Equity
+		Row:Short-term borrowings $ 	9 $ 	—
+Row:Accounts payable 	313 	261
+Row:Dividends payable 	79 	61
+Row:Accrued expenses 	487 	432
+Row:Accrued compensation and related items 	266 	236
+Row:Income taxes payable Other current liabilities 	35 34 	60
+44
+Row:Total current liabilities 	1,223 	1,094
+Row:Long-term debt, net of discount and issuance costs Noncurrent deferred tax liabilities 	6,443 474 	4,953
+380
+Row:Other taxes payable Other noncurrent liabilities 	265 187 	172
+201
+Row:Total liabilities 	8,592 	6,800
+Row:Commitments and contingencies (Note 17)
+Stockholders' equity:
+		Row:Preferred stock, $0.01 par value; 1,000,000,000 authorized, none issued 	— 	—
+Row:Common stock, $0.01 par value: 6,000,000,000 authorized, 501,891,243 and 501,891,243 shares issued;
+479,562,326 and 486,130,461 shares outstanding at December 31, 2018 and 2017, respectively 	5 	5
+Row:Treasury stock, at cost, 22,328,917 and 15,760,782 shares of common stock at December 31, 2018 and 2017,
+respectively 	(1,487) 	(852)
+Row:Additional paid-in capital 	1,026 	1,013
+Row:Retained earnings Accumulated other comprehensive loss 	3,270 (629) 	2,109
+(505)
+Row:Total Zoetis Inc. equity Equity attributable to noncontrolling interests 	2,185 — 	1,770
+16
+Row:Total equity 	2,185 	1,786
+Row:Total liabilities and equity $ 	10,777 $ 	8,586
+Row:(MILLIONS OF DOLLARS) 	Year Ended December 31,
+2018 2017 2016
+Row:Operating Activities
+Net income before allocation to noncontrolling interests $ Adjustments to reconcile net income before noncontrolling interests to net cash
+provided by operating activities:
+Depreciation and amortization expense 	1,424 $ 862 $ 819
+308 242 240
+Row:Share-based compensation expense 	53 44 37
+Row:Asset write-offs and asset impairments 	4 3 5
+Row:Net (gain)/loss on sales of assets 	(42) 11 (26)
+Row:Provision for losses on inventory 	54 54 105
+Row:Deferred taxes(a) 	(112) 127 (55)
+Row:Employee benefit plan contribution from Pfizer Inc. 	3 3 3
+Row:Other non-cash adjustments 	(14) 10 19
+Row:Other changes in assets and liabilities, net of acquisitions and divestitures
+	Row:Accounts receivable Inventories 	(67) (50) 15
+61 19 (101)
+Row:Other assets 	(42) (16) (50)
+Row:Accounts payable 	37 (10) (28)
+Row:Other liabilities 	56 (38) (290)
+Row:Other tax accounts, net 	67 85 20
+Row:Net cash provided by operating activities 	1,790 1,346 713
+Row:Investing Activities
+	Row:Capital expenditures 	(338) (224) (216)
+Row:Acquisition of Abaxis, net of cash acquired 	(1,884) — —
+Row:Other acquisitions 	(114) (82) (88)
+Row:Net proceeds from sales of assets 	56 37 90
+Row:Proceeds from maturities and redemptions of investments 	28 — —
+Row:Other investing activities 	(7) (1) —
+Row:Net cash used in investing activities 	(2,259) (270) (214)
+Row:Financing Activities
+Increase/(decrease) in short-term borrowings, net 	8 — (5)
+Row:Principal payments on long-term debt 	— (750) (400)
+Row:Proceeds from issuance of long-term debt—senior notes, net of discount and fees Payment of contingent consideration related to previously acquired assets 	1,485 1,231 —
+(12) (7) (32)
+Row:Share-based compensation-related proceeds, net of taxes paid on withholding shares and excess tax benefits 	19 24 25
+Row:Purchases of treasury stock 	(698) (500) (300)
+Row:Cash dividends paid 	(243) (206) (188)
+Row:Acquisition of a noncontrolling interest 	(26) (43) —
+Row:Payment of debt issuance costs 	— — (3)
+Row:Net cash provided by/(used in) financing activities 	533 (251) (903)
+Row:Effect of exchange-rate changes on cash and cash equivalents 	(26) 12 (23)
+Row:Net increase/(decrease) in cash and cash equivalents 	38 837 (427)
+Row:Cash and cash equivalents at beginning of period 	1,564 727 1,154
+Row:Cash and cash equivalents at end of period $ 	1,602 $ 1,564 $ 727
+Row:See Notes to Consolidated Financial Statements, which are an integral part of these 	statements.

@@ -1,0 +1,298 @@
+Row:	2020
+	2019
+	2018
+Row:			(53 weeks)
+Row:Net sales 	$ 41,716,977 $ 	38,972,934 $ 	35,864,664
+Row:Cost of sales, including buying and occupancy costs 	29,845,780 	27,831,177 	25,502,167
+Row:Selling, general and administrative expenses 	7,454,988 	6,923,564 	6,375,071
+Row:Impairment of goodwill and other long-lived assets, related to Sierra 	— 	— 	99,250
+Row:Pension settlement charge 	— 	36,122 	—
+Row:Interest expense, net 	10,026 	8,860 	31,588
+Row:Income before provision for income taxes 	4,406,183 	4,173,211 	3,856,588
+Row:Provision for income taxes 	1,133,990 	1,113,413 	1,248,640
+Row:Net income 	$ 3,272,193 $ 	3,059,798 $ 	2,607,948
+Row:Basic earnings per share 	$ 2.71 $ 	2.47 $ 	2.05
+Row:Weighted average common shares – basic 	1,208,163 	1,241,153 	1,273,654
+Row:Diluted earnings per share 	$ 2.67 $ 	2.43 $ 	2.02
+Row:Weighted average common shares – diluted 	1,226,519 	1,259,252 	1,292,209
+Row:	2020
+	2019
+	2018
+(53 weeks)
+Row:Net income $ 	3,272,193 $ 	3,059,798 $ 	2,607,948
+Row:Additions to other comprehensive loss:
+			Row:Foreign currency translation adjustments, net of related tax benefits of $1,189 and $8,233 in
+fiscal 2020 and 2019, respectively, and provision of $36,929 in fiscal 2018 	(3,943) 	(192,664) 	211,752
+Row:Gain on net investment hedges, net of related tax provision of $7,113 in fiscal 2019 	— 	19,538 	—
+Row:Recognition of net gains/losses on benefit obligations, net of related tax benefits of $20,489
+and $19,813 in fiscal 2020 and 2019, respectively, and provision of $8,989 in fiscal 2018 	(56,275) 	(54,420) 	24,691
+Row:Reclassifications from other comprehensive loss to net income:
+			Row:Pension settlement charge, net of related tax provision of $9,641 in fiscal 2019 	— 	26,481 	—
+Row:Amortization of loss on cash flow hedge, net of related tax provisions of $303, $304, and
+$438 in fiscal 2020, 2019 and 2018, respectively 	831 	847 	696
+Row:Amortization of prior service cost and deferred gains/losses, net of related tax provisions of
+$6,019, $4,280, and $9,592, in fiscal 2020, 2019 and 2018, respectively 	16,537 	11,756 	15,228
+Row:Other comprehensive (loss) income, net of tax 	(42,850) 	(188,462) 	252,367
+Row:Total comprehensive income $ 	3,229,343 $ 	2,871,336 $ 	2,860,315
+Row:	2020
+	2019
+Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 3,216,752 $ 	3,030,229
+Row:Accounts receivable, net 	386,261 	346,298
+Row:Merchandise inventories 	4,872,592 	4,579,033
+Row:Prepaid expenses and other current assets 	415,017 	513,662
+Row:Total current assets 	8,890,622 	8,469,222
+Row:Net property at cost 	5,325,048 	5,255,208
+Row:Non-current deferred income taxes, net 	12,132 	6,467
+Row:Operating lease right of use assets 	9,060,332 	—
+Row:Goodwill 	95,546 	97,552
+Row:Other assets 	761,323 	497,580
+Row:TOTAL ASSETS 	$ 24,145,003 $ 	14,326,029
+Row:LIABILITIES
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 2,672,557 $ 	2,644,143
+Row:Accrued expenses and other current liabilities 	3,041,774 	2,733,076
+Row:Current portion of operating lease liabilities 	1,411,216 	—
+Row:Federal, state and foreign income taxes payable 	24,700 	154,155
+Row:Total current liabilities 	7,150,247 	5,531,374
+Row:Other long-term liabilities 	851,116 	1,354,242
+Row:Non-current deferred income taxes, net 	142,170 	158,191
+Row:Long-term operating lease liabilities 	7,816,633 	—
+Row:Long-term debt 	2,236,625 	2,233,616
+Row:Commitments and contingencies (See Note N)
+		Row:SHAREHOLDERS’ EQUITY
+Preferred stock, authorized 5,000,000 shares, par value $1, no shares issued 	— 	—
+Row:Common stock, authorized 1,800,000,000 shares, par value $1, issued and outstanding 1,199,099,768 and
+1,217,182,508, respectively 	1,199,100 	1,217,183
+Row:Additional paid-in capital 	— 	—
+Row:Accumulated other comprehensive (loss) income 	(673,171) 	(630,321)
+Row:Retained earnings 	5,422,283 	4,461,744
+Row:Total shareholders’ equity 	5,948,212 	5,048,606
+Row:	2020
+	2019
+	2018
+(53 weeks)
+Row:Cash flows from operating activities:
+			Row:Net income $ 	3,272,193 	$ 3,059,798 	$ 2,607,948
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+			Row:Depreciation and amortization 	867,303 	819,655 	725,957
+Row:Loss on property disposals and impairment charges 	16,054 	17,653 	8,871
+Row:Deferred income tax (benefit) 	(6,233) 	(88,594) 	(137,440)
+Row:Share-based compensation 	124,957 	103,557 	101,362
+Row:Impairment of goodwill and long-lived assets, related to Sierra 	— 	— 	99,250
+Row:Pension settlement charge 	— 	36,122 	—
+Row:Changes in assets and liabilities:
+			Row:(Increase) in accounts receivable 	(42,998) 	(23,532) 	(62,358)
+Row:(Increase) in merchandise inventories 	(296,541) 	(465,429) 	(450,377)
+Row:(Increase) decrease in prepaid expenses and other current assets 	(51,261) 	236,342 	(317,850)
+Row:Increase in accounts payable 	29,338 	198,212 	205,111
+Row:Increase in accrued expenses and other liabilities 	345,745 	169,418 	334,522
+Row:(Decrease) increase in income taxes payable 	(128,342) 	40,965 	(94,492)
+Row:Other, net 	(63,675) 	(15,708) 	5,120
+Row:Net cash provided by operating activities 	4,066,540 	4,088,459 	3,025,624
+Row:Cash flows from investing activities:
+			Row:Property additions 	(1,223,116) 	(1,125,139) 	(1,057,617)
+Row:Investment in Familia 	(230,156) 	— 	—
+Row:Purchases of investments 	(28,838) 	(161,625) 	(861,256)
+Row:Sales and maturities of investments 	12,720 	636,560 	906,137
+Row:Other 	7,419 	26,652 	—
+Row:Net cash (used in) investing activities 	(1,461,971) 	(623,552) 	(1,012,736)
+Row:Cash flows from financing activities:
+			Row:Cash payments for repurchase of common stock 	(1,551,992) 	(2,406,997) 	(1,644,581)
+Row:Proceeds from issuance of common stock 	232,106 	255,241 	133,687
+Row:Cash payments of employee tax withholdings for performance based stock awards 	(23,423) 	(16,014) 	(19,274)
+Row:Cash dividends paid 	(1,071,562) 	(922,596) 	(764,040)
+Row:Other 	— 	(7,115) 	(3,138)
+Row:Net cash (used in) financing activities 	(2,414,871) 	(3,097,481) 	(2,297,346)
+Row:Effect of exchange rate changes on cash 	(3,175) 	(95,674) 	113,086
+Row:Net increase (decrease) in cash and cash equivalents 	186,523 	271,752 	(171,372)
+Row:Cash and cash equivalents at beginning of year 	3,030,229 	2,758,477 	2,929,849
+Row:Cash and cash equivalents at end of year $ 	3,216,752 	$ 3,030,229 	$ 2,758,477
+Row:The accompanying notes are an integral part of the 	financial statements.
+		Row:Balance, January 28, 2017 	1,292,638 	$ 1,292,638 	$ — 	$ (694,226) 	$ 3,912,187 	$ 4,510,599
+Row:Net income 	— 	— 	— 	— 	2,607,948 	2,607,948
+Row:Other comprehensive income, net of tax 	— 	— 	— 	252,367 	— 	252,367
+Row:Cash dividends declared on common
+stock 	— 	— 	— 	— 	(793,878) 	(793,878)
+Row:Recognition of share-based
+compensation 	— 	— 	101,362 	— 	— 	101,362
+Row:Issuance of common stock under stock
+incentive plan and related tax effect 	7,790 	7,790 	110,597 	— 	(3,895) 	114,492
+Row:Common stock repurchased 	(44,410) 	(44,410) 	(211,959) 	— 	(1,388,212) 	(1,644,581)
+Row:Balance, February 3, 2018 	1,256,018 	1,256,018 	— 	(441,859) 	4,334,150 	5,148,309
+Row:Net income 	— 	— 	— 	— 	3,059,798 	3,059,798
+Row:Cumulative effect of accounting change 	— 	— 	— 	— 	58,712 	58,712
+Row:Other comprehensive (loss), net of tax 	— 	— 	— 	(188,462) 	— 	(188,462)
+Row:Cash dividends declared on common
+stock 	— 	— 	— 	— 	(965,539) 	(965,539)
+Row:Recognition of share-based
+compensation 	— 	— 	103,557 	— 	— 	103,557
+Row:Issuance of common stock under stock
+incentive plan and related tax effect 	11,988 	11,988 	227,240 	— 	— 	239,228
+Row:Common stock repurchased 	(50,823) 	(50,823) 	(330,797) 	— 	(2,025,377) 	(2,406,997)
+Row:Balance, February 2, 2019 	1,217,183 	1,217,183 	— 	(630,321) 	4,461,744 	5,048,606
+Row:Net income 	— 	— 	— 	— 	3,272,193 	3,272,193
+Row:Cumulative effect of accounting change
+(See Note A) 	— 	— 	— 	— 	403 	403
+Row:Other comprehensive (loss), net of tax 	— 	— 	— 	(42,850) 	— 	(42,850)
+Row:Cash dividends declared on common
+stock 	— 	— 	— 	— 	(1,111,788) 	(1,111,788)
+Row:Recognition of share-based
+compensation 	— 	— 	124,957 	— 	— 	124,957
+Row:Issuance of common stock under stock
+incentive plan and related tax effect 	10,067 	10,067 	198,616 	— 	— 	208,683
+Row:Common stock repurchased 	(28,150) 	(28,150) 	(323,573) 	— 	(1,200,269) 	(1,551,992)
+Row:Balance, February 1, 2020 	1,199,100 	$ 1,199,100 	$ — 	$ (673,171) 	$ 5,422,283 	$ 5,948,212
+Row:	The accompanying 	notes are an 	integral part of the 	financial statements.
+		Row:stock repurchased 		(28,150) 	(28,150) 	(323,573) 	— 	(1,200,269) 	(1,551,992)
+Row:February 1, 	2020 	1,199,100 $ 	1,199,100 $ 	— $ (673,171) 	$ 	5,422,283 $ 	5,948,212
+Row:	2020
+	2019
+	2018
+Row:			(53 weeks)
+Row:Net sales 	$ 41,716,977 $ 	38,972,934 $ 	35,864,664
+Row:Cost of sales, including buying and occupancy costs 	29,845,780 	27,831,177 	25,502,167
+Row:Selling, general and administrative expenses 	7,454,988 	6,923,564 	6,375,071
+Row:Impairment of goodwill and other long-lived assets, related to Sierra 	— 	— 	99,250
+Row:Pension settlement charge 	— 	36,122 	—
+Row:Interest expense, net 	10,026 	8,860 	31,588
+Row:Income before provision for income taxes 	4,406,183 	4,173,211 	3,856,588
+Row:Provision for income taxes 	1,133,990 	1,113,413 	1,248,640
+Row:Net income 	$ 3,272,193 $ 	3,059,798 $ 	2,607,948
+Row:Basic earnings per share 	$ 2.71 $ 	2.47 $ 	2.05
+Row:Weighted average common shares – basic 	1,208,163 	1,241,153 	1,273,654
+Row:Diluted earnings per share 	$ 2.67 $ 	2.43 $ 	2.02
+Row:Weighted average common shares – diluted 	1,226,519 	1,259,252 	1,292,209
+Row:	2020
+	2019
+	2018
+(53 weeks)
+Row:Net income $ 	3,272,193 $ 	3,059,798 $ 	2,607,948
+Row:Additions to other comprehensive loss:
+			Row:Foreign currency translation adjustments, net of related tax benefits of $1,189 and $8,233 in
+fiscal 2020 and 2019, respectively, and provision of $36,929 in fiscal 2018 	(3,943) 	(192,664) 	211,752
+Row:Gain on net investment hedges, net of related tax provision of $7,113 in fiscal 2019 	— 	19,538 	—
+Row:Recognition of net gains/losses on benefit obligations, net of related tax benefits of $20,489
+and $19,813 in fiscal 2020 and 2019, respectively, and provision of $8,989 in fiscal 2018 	(56,275) 	(54,420) 	24,691
+Row:Reclassifications from other comprehensive loss to net income:
+			Row:Pension settlement charge, net of related tax provision of $9,641 in fiscal 2019 	— 	26,481 	—
+Row:Amortization of loss on cash flow hedge, net of related tax provisions of $303, $304, and
+$438 in fiscal 2020, 2019 and 2018, respectively 	831 	847 	696
+Row:Amortization of prior service cost and deferred gains/losses, net of related tax provisions of
+$6,019, $4,280, and $9,592, in fiscal 2020, 2019 and 2018, respectively 	16,537 	11,756 	15,228
+Row:Other comprehensive (loss) income, net of tax 	(42,850) 	(188,462) 	252,367
+Row:Total comprehensive income $ 	3,229,343 $ 	2,871,336 $ 	2,860,315
+Row:	2020
+	2019
+Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 3,216,752 $ 	3,030,229
+Row:Accounts receivable, net 	386,261 	346,298
+Row:Merchandise inventories 	4,872,592 	4,579,033
+Row:Prepaid expenses and other current assets 	415,017 	513,662
+Row:Total current assets 	8,890,622 	8,469,222
+Row:Net property at cost 	5,325,048 	5,255,208
+Row:Non-current deferred income taxes, net 	12,132 	6,467
+Row:Operating lease right of use assets 	9,060,332 	—
+Row:Goodwill 	95,546 	97,552
+Row:Other assets 	761,323 	497,580
+Row:TOTAL ASSETS 	$ 24,145,003 $ 	14,326,029
+Row:LIABILITIES
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 2,672,557 $ 	2,644,143
+Row:Accrued expenses and other current liabilities 	3,041,774 	2,733,076
+Row:Current portion of operating lease liabilities 	1,411,216 	—
+Row:Federal, state and foreign income taxes payable 	24,700 	154,155
+Row:Total current liabilities 	7,150,247 	5,531,374
+Row:Other long-term liabilities 	851,116 	1,354,242
+Row:Non-current deferred income taxes, net 	142,170 	158,191
+Row:Long-term operating lease liabilities 	7,816,633 	—
+Row:Long-term debt 	2,236,625 	2,233,616
+Row:Commitments and contingencies (See Note N)
+		Row:SHAREHOLDERS’ EQUITY
+Preferred stock, authorized 5,000,000 shares, par value $1, no shares issued 	— 	—
+Row:Common stock, authorized 1,800,000,000 shares, par value $1, issued and outstanding 1,199,099,768 and
+1,217,182,508, respectively 	1,199,100 	1,217,183
+Row:Additional paid-in capital 	— 	—
+Row:Accumulated other comprehensive (loss) income 	(673,171) 	(630,321)
+Row:Retained earnings 	5,422,283 	4,461,744
+Row:Total shareholders’ equity 	5,948,212 	5,048,606
+Row:	2020
+	2019
+	2018
+(53 weeks)
+Row:Cash flows from operating activities:
+			Row:Net income $ 	3,272,193 	$ 3,059,798 	$ 2,607,948
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+			Row:Depreciation and amortization 	867,303 	819,655 	725,957
+Row:Loss on property disposals and impairment charges 	16,054 	17,653 	8,871
+Row:Deferred income tax (benefit) 	(6,233) 	(88,594) 	(137,440)
+Row:Share-based compensation 	124,957 	103,557 	101,362
+Row:Impairment of goodwill and long-lived assets, related to Sierra 	— 	— 	99,250
+Row:Pension settlement charge 	— 	36,122 	—
+Row:Changes in assets and liabilities:
+			Row:(Increase) in accounts receivable 	(42,998) 	(23,532) 	(62,358)
+Row:(Increase) in merchandise inventories 	(296,541) 	(465,429) 	(450,377)
+Row:(Increase) decrease in prepaid expenses and other current assets 	(51,261) 	236,342 	(317,850)
+Row:Increase in accounts payable 	29,338 	198,212 	205,111
+Row:Increase in accrued expenses and other liabilities 	345,745 	169,418 	334,522
+Row:(Decrease) increase in income taxes payable 	(128,342) 	40,965 	(94,492)
+Row:Other, net 	(63,675) 	(15,708) 	5,120
+Row:Net cash provided by operating activities 	4,066,540 	4,088,459 	3,025,624
+Row:Cash flows from investing activities:
+			Row:Property additions 	(1,223,116) 	(1,125,139) 	(1,057,617)
+Row:Investment in Familia 	(230,156) 	— 	—
+Row:Purchases of investments 	(28,838) 	(161,625) 	(861,256)
+Row:Sales and maturities of investments 	12,720 	636,560 	906,137
+Row:Other 	7,419 	26,652 	—
+Row:Net cash (used in) investing activities 	(1,461,971) 	(623,552) 	(1,012,736)
+Row:Cash flows from financing activities:
+			Row:Cash payments for repurchase of common stock 	(1,551,992) 	(2,406,997) 	(1,644,581)
+Row:Proceeds from issuance of common stock 	232,106 	255,241 	133,687
+Row:Cash payments of employee tax withholdings for performance based stock awards 	(23,423) 	(16,014) 	(19,274)
+Row:Cash dividends paid 	(1,071,562) 	(922,596) 	(764,040)
+Row:Other 	— 	(7,115) 	(3,138)
+Row:Net cash (used in) financing activities 	(2,414,871) 	(3,097,481) 	(2,297,346)
+Row:Effect of exchange rate changes on cash 	(3,175) 	(95,674) 	113,086
+Row:Net increase (decrease) in cash and cash equivalents 	186,523 	271,752 	(171,372)
+Row:Cash and cash equivalents at beginning of year 	3,030,229 	2,758,477 	2,929,849
+Row:Cash and cash equivalents at end of year $ 	3,216,752 	$ 3,030,229 	$ 2,758,477
+Row:The accompanying notes are an integral part of the 	financial statements.
+		Row:Balance, January 28, 2017 	1,292,638 	$ 1,292,638 	$ — 	$ (694,226) 	$ 3,912,187 	$ 4,510,599
+Row:Net income 	— 	— 	— 	— 	2,607,948 	2,607,948
+Row:Other comprehensive income, net of tax 	— 	— 	— 	252,367 	— 	252,367
+Row:Cash dividends declared on common
+stock 	— 	— 	— 	— 	(793,878) 	(793,878)
+Row:Recognition of share-based
+compensation 	— 	— 	101,362 	— 	— 	101,362
+Row:Issuance of common stock under stock
+incentive plan and related tax effect 	7,790 	7,790 	110,597 	— 	(3,895) 	114,492
+Row:Common stock repurchased 	(44,410) 	(44,410) 	(211,959) 	— 	(1,388,212) 	(1,644,581)
+Row:Balance, February 3, 2018 	1,256,018 	1,256,018 	— 	(441,859) 	4,334,150 	5,148,309
+Row:Net income 	— 	— 	— 	— 	3,059,798 	3,059,798
+Row:Cumulative effect of accounting change 	— 	— 	— 	— 	58,712 	58,712
+Row:Other comprehensive (loss), net of tax 	— 	— 	— 	(188,462) 	— 	(188,462)
+Row:Cash dividends declared on common
+stock 	— 	— 	— 	— 	(965,539) 	(965,539)
+Row:Recognition of share-based
+compensation 	— 	— 	103,557 	— 	— 	103,557
+Row:Issuance of common stock under stock
+incentive plan and related tax effect 	11,988 	11,988 	227,240 	— 	— 	239,228
+Row:Common stock repurchased 	(50,823) 	(50,823) 	(330,797) 	— 	(2,025,377) 	(2,406,997)
+Row:Balance, February 2, 2019 	1,217,183 	1,217,183 	— 	(630,321) 	4,461,744 	5,048,606
+Row:Net income 	— 	— 	— 	— 	3,272,193 	3,272,193
+Row:Cumulative effect of accounting change
+(See Note A) 	— 	— 	— 	— 	403 	403
+Row:Other comprehensive (loss), net of tax 	— 	— 	— 	(42,850) 	— 	(42,850)
+Row:Cash dividends declared on common
+stock 	— 	— 	— 	— 	(1,111,788) 	(1,111,788)
+Row:Recognition of share-based
+compensation 	— 	— 	124,957 	— 	— 	124,957
+Row:Issuance of common stock under stock
+incentive plan and related tax effect 	10,067 	10,067 	198,616 	— 	— 	208,683
+Row:Common stock repurchased 	(28,150) 	(28,150) 	(323,573) 	— 	(1,200,269) 	(1,551,992)
+Row:Balance, February 1, 2020 	1,199,100 	$ 1,199,100 	$ — 	$ (673,171) 	$ 5,422,283 	$ 5,948,212
+Row:	The accompanying 	notes are an 	integral part of the 	financial statements.
+		Row:stock repurchased 		(28,150) 	(28,150) 	(323,573) 	— 	(1,200,269) 	(1,551,992)
+Row:February 1, 	2020 	1,199,100 $ 	1,199,100 $ 	— $ (673,171) 	$ 	5,422,283 $ 	5,948,212

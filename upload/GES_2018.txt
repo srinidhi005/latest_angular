@@ -1,0 +1,471 @@
+Row:	2018
+	2017
+Row:$ 	367,441 259,996 428,304 52,964 	$ 396,129
+225,537
+367,381
+54,965
+Row:$ 	1,108,705 294,254 38,481 5,977 68,386 241 139,590 1,655,634 	1,044,012
+243,005
+34,100
+6,504
+82,793
+1,521
+122,550
+$ 1,534,485
+Row:Current assets:
+Row:Cash and cash equivalents ..................................................................................... $ Row:Accounts receivable, net........................................................................................ Row:Inventories ............................................................................................................. Row:Other current assets ............................................................................................... Row:Total current assets ................................................................................................ Row:Property and equipment, net .................................................................................... Row:Goodwill .................................................................................................................. Row:Other intangible assets, net ...................................................................................... Row:Deferred tax assets ................................................................................................... Row:Restricted cash ......................................................................................................... Row:Other assets .............................................................................................................. Row:$ Row:$ 	2,845 264,438 200,562 	$ 	566
+209,616
+135,271
+Row:	467,845 39,196 81,564 127,964 		345,453
+23,482
+80,209
+99,895
+Row:	716,569 5,590 		549,039
+4,452
+Row:813 498,249 1,132,173 (93,062) (621,354) 		841
+480,435
+1,215,079
+(161,389)
+(565,744)
+Row:916,819 		969,222
+Row:16,656 		11,772
+Row:933,475 		980,994
+Row:$ 1,655,634 	$ 	1,534,485
+Row:Year Ended 	Year Ended 	Year Ended
+Row:Feb 3, 2018 	Jan 28, 2017 	Jan 30, 2016
+Row:$ 2,290,999 	$ 2,118,534 	$ 2,100,454
+Row:72,755 	71,919 	84,041
+Row:2,363,754 	2,190,453 	2,184,495
+Row:1,534,906 	1,445,413 	1,397,065
+Row:828,848 	745,040 	787,430
+Row:743,823 	682,559 	666,130
+Row:11,373 	(695) 	(2,337)
+Row:8,479 	34,385 	2,287
+Row:— 	6,083 	—
+Row:65,173 	22,708 	121,350
+Row:(2,431) 	(1,897) 	(1,953)
+Row:4,106 	1,890 	1,045
+Row:3,423 	30,909 	6,837
+Row:5,098 	30,902 	5,929
+Row:70,271 	53,610 	127,279
+Row:74,172 	28,212 	42,464
+Row:(3,901) 	25,398 	84,815
+Row:3,993 	2,637 	2,964
+Row:$ (7,894) 	$ 22,761 	$ 81,851
+Row:Product sales.................................................................................. Row:Net royalties................................................................................... Row:Net revenue.................................................................................... Row:Cost of product sales ..................................................................... Row:Gross profit.................................................................................... Row:Selling, general and administrative expenses................................ Row:Net (gains) losses on lease terminations........................................ Row:Asset impairment charges.............................................................. Row:Restructuring charges .................................................................... Row:Earnings from operations .............................................................. Row:Other income (expense):
+Row:Interest expense........................................................................... Row:Interest income ............................................................................ Row:Other income, net........................................................................ Row:Basic............................................................................................ $ 	(0.11) $ 	0.27 	$ 0.97
+Row:Diluted......................................................................................... $ 	(0.11) $ 	0.27 	$ 0.96
+Row:average common shares outstanding attributable
+			Row:stockholders (Note 18):
+			Row:Basic............................................................................................ 	82,189 	83,666 	84,264
+Row:Diluted......................................................................................... 	82,189 	83,829 	84,525
+Row:declared per common share.......................................... $ 	0.90 $ 	0.90 	$ 0.90
+Row:See accompanying notes to consolidated 	financial statements.
+		Row:Cash flows from operating activities:
+	Year Ended
+Feb 3, 2018
+	Year Ended
+Jan 28, 2017
+	Year Ended
+Jan 30, 2016
+Row:Net earnings (loss)
+	(3,901) 	$
+25,398 	$
+84,815
+Row:Adjustments to reconcile net earnings (loss) to net cash
+provided by operating activities:
+Depreciation and amortization of property and equipment....
+	62,083
+	67,480
+	68,588
+Row:Amortization of intangible assets ....
+	1,505
+	1,839
+	2,096
+Row:Share-based compensation expense
+	18,852
+	16,908
+	18,880
+Row:Unrealized forward contract (gains) losses
+	3,087
+	(3,157)
+	(1,937)
+Row:Deferred income taxes......
+	23,802
+	408
+	723
+Row:Net (gain) loss on disposition of property and equipment
+and long-term assets ....
+	6,891
+	11,809
+	(4,255)
+Row:Other items, net ...
+	(7,832)
+	3,495
+	3,442
+Row:Changes in operating assets and liabilities:
+Accounts receivable
+	(11,656)
+	(10,805)
+	(5,970)
+Row:Inventories....
+	(28,120)
+	(57,096)
+	(2,179)
+Row:Prepaid expenses and other assets..
+	(429)
+	(1,839)
+	(67)
+Row:Accounts payable and accrued expenses.
+	69,299
+	19,054
+	33,510
+Row:Deferred rent and lease incentives
+	1,221
+	3,117
+	(3,384)
+Row:Other long-term liabilities
+	13,568
+	(4,871)
+	(14,594)
+Row:Net cash provided by operating activities
+	148,370
+	71,740
+	179,668
+Row:Cash flows from investing activities:
+Purchases of property and equipment.
+	(84,655)
+	(90,581)
+	(83,844)
+Row:Proceeds from sale of long-term assets.
+Changes in other assets
+	1,052
+753
+	43,399
+	2,614
+Row:Acquisition of businesses, net of cash acquired.
+	(4,850)
+	(2,068)
+	(1,330)
+Row:Net cash settlement of forward contracts.
+Purchases of investments
+	(2,150)
+(497)
+	266
+	9,014
+Row:Net cash used in investing activities
+	(90,347)
+	(48,984)
+	(73,546)
+Row:Cash flows from financing activities:
+Payment of debt issuance costs.
+		(111)
+	(1,072)
+Row:Proceeds from borrowings ..
+	166
+	21,500
+	948
+Row:Repayment of borrowings and capital lease obligations...
+	(1,633)
+	(4,747)
+	(1,518)
+Row:Dividends paid ........
+	(76,057)
+	(76,503)
+	(76,860)
+Row:Purchase of redeemable noncontrolling interest.
+Noncontrolling interest capital contribution
+	962
+	(4,445)
+2,157
+	871
+Row:Noncontrolling interest capital distribution
+	(1,358)
+	(2,759)
+	(4,075)
+Row:Issuance of common stock, net of tax withholdings on vesting
+of stock awards.
+	(690)
+	(594)
+	(2,220)
+Row:Purchase of treasury stock.
+	(50,127)
+	(3,532)
+	(44,053)
+Row:Net cash used in financing activities.
+	(128,737)
+	(69,034)
+	(127,979)
+Row:Effect of exchange rates on cash, cash equivalents and restricted
+cash
+	40,746
+	(2,071)
+	(15,964)
+Row:Net change in cash, cash equivalents and restricted cash.....
+	(29,968)
+	(48,349)
+	(37,821)
+Row:Cash, cash equivalents and restricted cash at the beginning of
+the year
+	397,650
+	445,999
+	483,820
+Row:Cash, cash equivalents and restricted cash at the end of the year
+	367,682 	397,650 $
+	$
+445,999
+Row:Supplemental cash flow data:
+Interest paid........
+	2,078 	$
+1,225 	$
+868
+Row:Income taxes paid..
+	26,907 $
+	$
+24,869 	$
+31,188
+Row:	2,078 $
+	1,225 $
+	868
+Row:$
+	26,907 $
+	24,869 $
+	31,188
+Row:February 3,
+	January 28,
+Row:2018
+	2017
+Row:Current assets:
+Cash and cash equivalents 	..................................................................................... 	$ 367,441 	$ 396,129
+Row:Accounts receivable, 	net........................................................................................ 	259,996 	225,537
+Row:Inventories 	............................................................................................................. 	428,304 	367,381
+Row:Other current assets 	............................................................................................... 	52,964 	54,965
+Row:Total current assets 	................................................................................................ 	1,108,705 	1,044,012
+Row:Property and equipment, net 	.................................................................................... 	294,254 	243,005
+Row:Goodwill 	.................................................................................................................. 	38,481 	34,100
+Row:Other intangible assets, net 	...................................................................................... 	5,977 	6,504
+Row:Deferred tax assets 	................................................................................................... 	68,386 	82,793
+Row:Restricted cash 	......................................................................................................... 	241 	1,521
+Row:Other assets 	.............................................................................................................. 	139,590 $ 1,655,634 	122,550
+$ 1,534,485
+Row:Current liabilities:
+Current portion of capital lease obligations and borrowings................................. 	$ 2,845 	$ 566
+Row:Accounts payable................................................................................................... 	264,438 	209,616
+Row:Accrued expenses .................................................................................................. 	200,562 	135,271
+Row:Total current liabilities........................................................................................... 	467,845 	345,453
+Row:Long-term debt and capital lease obligations .......................................................... 	39,196 	23,482
+Row:Deferred rent and lease incentives ........................................................................... 	81,564 	80,209
+Row:Other long-term liabilities........................................................................................ 	127,964 	99,895
+Row:	716,569 	549,039
+Row:Redeemable noncontrolling interests....................................................................... 	5,590 	4,452
+Row:Stockholders’ equity:
+Preferred stock, $.01 par value. Authorized 10,000,000 shares; no shares issued
+and outstanding...................................................................................................... 	— 	—
+Row:Common stock, $.01 par value. Authorized 150,000,000 shares; issued
+		Row:141,623,687 and 140,509,974 shares, outstanding 81,371,118 and 84,069,492
+shares, as of February 3, 2018 and January 28, 2017, respectively ...................... 	813 	841
+Row:Paid-in capital........................................................................................................ 	498,249 	480,435
+Row:Retained earnings .................................................................................................. 	1,132,173 	1,215,079
+Row:Accumulated other comprehensive loss ................................................................ 	(93,062) 	(161,389)
+Row:Treasury stock, 60,252,569 and 56,440,482 shares as of February 3, 2018 and
+January 28, 2017, respectively .............................................................................. 	(621,354) 	(565,744)
+Row:Guess?, Inc. stockholders’ equity .......................................................................... 	916,819 	969,222
+Row:Nonredeemable noncontrolling interests............................................................... 	16,656 	11,772
+Row:Total stockholders’ equity ........................................................................................ 	933,475 	980,994
+Row:$ 	1,655,634 	$ 1,534,485
+Row:	Year Ended Feb 3, 2018 	Year Ended Jan 28, 2017 	Year Ended
+Jan 30, 2016
+Row:Product sales.................................................................................. $ 	2,290,999 	$ 2,118,534 	$ 2,100,454
+Row:Net royalties................................................................................... 	72,755 	71,919 	84,041
+Row:Net revenue.................................................................................... 	2,363,754 	2,190,453 	2,184,495
+Row:Cost of product sales ..................................................................... 	1,534,906 	1,445,413 	1,397,065
+Row:Gross profit.................................................................................... 	828,848 	745,040 	787,430
+Row:Selling, general and administrative expenses................................ 	743,823 	682,559 	666,130
+Row:Net (gains) losses on lease terminations........................................ 	11,373 	(695) 	(2,337)
+Row:Asset impairment charges.............................................................. 	8,479 	34,385 	2,287
+Row:Restructuring charges .................................................................... 	— 	6,083 	—
+Row:Earnings from operations .............................................................. 	65,173 	22,708 	121,350
+Row:Other income (expense):
+			Row:Interest expense........................................................................... 	(2,431) 	(1,897) 	(1,953)
+Row:Interest income ............................................................................ 	4,106 	1,890 	1,045
+Row:Other income, net........................................................................ 	3,423 	30,909 	6,837
+Row:	5,098 	30,902 	5,929
+Row:Earnings before income tax expense ............................................. 	70,271 	53,610 	127,279
+Row:Income tax expense ....................................................................... 	74,172 	28,212 	42,464
+Row:Net earnings (loss)......................................................................... 	(3,901) 	25,398 	84,815
+Row:Net earnings attributable to noncontrolling interests..................... 	3,993 	2,637 	2,964
+Row:Net earnings (loss) attributable to Guess?, Inc. ............................. $ 	(7,894) 	$ 22,761 	$ 81,851
+Row:Net earnings (loss) per common share attributable to
+common stockholders (Note 18):
+Basic............................................................................................ $ 	(0.11) 	$ 0.27 	$ 0.97
+Row:Diluted......................................................................................... $ 	(0.11) 	$ 0.27 	$ 0.96
+Row:Weighted average common shares outstanding attributable
+to common stockholders (Note 18):
+			Row:Basic............................................................................................ 	82,189 	83,666 	84,264
+Row:Diluted......................................................................................... 	82,189 	83,829 	84,525
+Row:Dividends declared per common share.......................................... $ 	0.90 	$ 0.90 	$ 0.90
+Row:Earnings before income tax expense ............................................. 	70,271 	53,610 	127,279
+Row:Income tax expense ....................................................................... 	74,172 	28,212 	42,464
+Row:Net earnings (loss)......................................................................... 	(3,901) 	25,398 	84,815
+Row:Net earnings attributable to noncontrolling interests..................... 	3,993 	2,637 	2,964
+Row:Net earnings (loss) attributable to Guess?, Inc. ............................. $ 	(7,894) 	$ 22,761 	$ 81,851
+Row:	Year Ended	Year Ended	Year EndedRow:	Feb 3, 2018
+	Jan 28, 2017
+	Jan 30, 2016
+Row:Cash flows from operating activities:Net earnings (loss)Adjustments to reconcile net earnings (loss) to net cashprovided by operating activities:Depreciation and amortization of property and equipment…...Amortization of intangible assets....Share-based compensation expense.Unrealized forward contract (gains) losses.Deferred income taxesNet (gain) loss on disposition of property and equipmentand long-term assets....	$
+(3,901) 62,0831,50518,8523,08723,802
+6,891	$
+25,398 67,4801,83916,908(3,157)408
+11,809	$
+84,815
+68,5882,09618,880(1,937)723
+(4,255)Row:Other items, net ....	(7,832)
+	3,495
+	3,442
+Row:Changes in operating assets and liabilities:Accounts receivableInventories.....	(11,656)(28,120)	(10,805)(57,096)	(5,970)(2,179)Row:Prepaid expenses and other assets..Accounts payable and accrued expenses.Deferred rent and lease incentivesOther long-term liabilities.	(429)69,2991,22113,568	(1,839)19,0543,117(4,871)	(67)33,510(3,384)(14,594)Row:Net cash provided by operating activities.	148,370
+	71,740
+	179,668
+Row:Cash flows from investing activities:Purchases of property and equipment.Proceeds from sale of long-term assets.Changes in other assets	(84,655)1,052753	(90,581)43,399
+	(83,844)
+2,614Row:Acquisition of businesses, net of cash acquired.Net cash settlement of forward contracts.	(4,850)(2,150)	(2,068)266
+	(1,330)9,014
+Row:Purchases of investmentsNet cash used in investing activities.Cash flows from financing activities:	(497)(90,347)
+	(48,984)
+	(73,546)
+Row:Payment of debt issuance costs.Proceeds from borrowings ...Repayment of borrowings and capital lease obligations...Dividends paid …........	166(1,633)(76,057)
+	(111)21,500(4,747)(76,503)	(1,072)948(1,518)(76,860)
+Row:Purchase of redeemable noncontrolling interest.Noncontrolling interest capital contributionNoncontrolling interest capital distributionIssuance of common stock, net of tax withholdings on vestingof stock awards.Purchase of treasury stock..	962(1,358)(690)(50,127)	(4,445)2,157(2,759)(594)(3,532)	871(4,075)(2,220)(44,053)Row:Net cash used in financing activities.Effect of exchange rates on cash, cash equivalents and restrictedcash	(128,737)40,746	(69,034)
+(2,071)	(127,979)(15,964)Row:Net change in cash, cash equivalents and restricted cash.Cash, cash equivalents and restricted cash at the beginning of
+the year.
+	(29,968)
+397,650	(48,349)
+445,999	(37,821)
+483,820Row:Cash, cash equivalents and restricted cash at the end of the year
+	367,682
+	397,650 $
+	$
+445,999
+Row:Supplemental cash flow data:Interest paid.....Income taxes paid...
+	2,078 26,907 $
+	$$
+1,225 24,869 	$$
+86831,188
+Row:February 3,
+	January 28,
+Row:2018
+	2017
+Row:Current assets:
+Cash and cash equivalents 	..................................................................................... 	$ 367,441 	$ 396,129
+Row:Accounts receivable, 	net........................................................................................ 	259,996 	225,537
+Row:Inventories 	............................................................................................................. 	428,304 	367,381
+Row:Other current assets 	............................................................................................... 	52,964 	54,965
+Row:Total current assets 	................................................................................................ 	1,108,705 	1,044,012
+Row:Property and equipment, net 	.................................................................................... 	294,254 	243,005
+Row:Goodwill 	.................................................................................................................. 	38,481 	34,100
+Row:Other intangible assets, net 	...................................................................................... 	5,977 	6,504
+Row:Deferred tax assets 	................................................................................................... 	68,386 	82,793
+Row:Restricted cash 	......................................................................................................... 	241 	1,521
+Row:Other assets 	.............................................................................................................. 	139,590 $ 1,655,634 	122,550
+$ 1,534,485
+Row:Current liabilities:
+Current portion of capital lease obligations and borrowings................................. 	$ 2,845 	$ 566
+Row:Accounts payable................................................................................................... 	264,438 	209,616
+Row:Accrued expenses .................................................................................................. 	200,562 	135,271
+Row:Total current liabilities........................................................................................... 	467,845 	345,453
+Row:Long-term debt and capital lease obligations .......................................................... 	39,196 	23,482
+Row:Deferred rent and lease incentives ........................................................................... 	81,564 	80,209
+Row:Other long-term liabilities........................................................................................ 	127,964 	99,895
+Row:	716,569 	549,039
+Row:Redeemable noncontrolling interests....................................................................... 	5,590 	4,452
+Row:Stockholders’ equity:
+Preferred stock, $.01 par value. Authorized 10,000,000 shares; no shares issued
+and outstanding...................................................................................................... 	— 	—
+Row:Common stock, $.01 par value. Authorized 150,000,000 shares; issued
+		Row:141,623,687 and 140,509,974 shares, outstanding 81,371,118 and 84,069,492
+shares, as of February 3, 2018 and January 28, 2017, respectively ...................... 	813 	841
+Row:Paid-in capital........................................................................................................ 	498,249 	480,435
+Row:Retained earnings .................................................................................................. 	1,132,173 	1,215,079
+Row:Accumulated other comprehensive loss ................................................................ 	(93,062) 	(161,389)
+Row:Treasury stock, 60,252,569 and 56,440,482 shares as of February 3, 2018 and
+January 28, 2017, respectively .............................................................................. 	(621,354) 	(565,744)
+Row:Guess?, Inc. stockholders’ equity .......................................................................... 	916,819 	969,222
+Row:Nonredeemable noncontrolling interests............................................................... 	16,656 	11,772
+Row:Total stockholders’ equity ........................................................................................ 	933,475 	980,994
+Row:$ 	1,655,634 	$ 1,534,485
+Row:	Year Ended Feb 3, 2018 	Year Ended Jan 28, 2017 	Year Ended
+Jan 30, 2016
+Row:Product sales.................................................................................. $ 	2,290,999 	$ 2,118,534 	$ 2,100,454
+Row:Net royalties................................................................................... 	72,755 	71,919 	84,041
+Row:Net revenue.................................................................................... 	2,363,754 	2,190,453 	2,184,495
+Row:Cost of product sales ..................................................................... 	1,534,906 	1,445,413 	1,397,065
+Row:Gross profit.................................................................................... 	828,848 	745,040 	787,430
+Row:Selling, general and administrative expenses................................ 	743,823 	682,559 	666,130
+Row:Net (gains) losses on lease terminations........................................ 	11,373 	(695) 	(2,337)
+Row:Asset impairment charges.............................................................. 	8,479 	34,385 	2,287
+Row:Restructuring charges .................................................................... 	— 	6,083 	—
+Row:Earnings from operations .............................................................. 	65,173 	22,708 	121,350
+Row:Other income (expense):
+			Row:Interest expense........................................................................... 	(2,431) 	(1,897) 	(1,953)
+Row:Interest income ............................................................................ 	4,106 	1,890 	1,045
+Row:Other income, net........................................................................ 	3,423 	30,909 	6,837
+Row:	5,098 	30,902 	5,929
+Row:Earnings before income tax expense ............................................. 	70,271 	53,610 	127,279
+Row:Income tax expense ....................................................................... 	74,172 	28,212 	42,464
+Row:Net earnings (loss)......................................................................... 	(3,901) 	25,398 	84,815
+Row:Net earnings attributable to noncontrolling interests..................... 	3,993 	2,637 	2,964
+Row:Net earnings (loss) attributable to Guess?, Inc. ............................. $ 	(7,894) 	$ 22,761 	$ 81,851
+Row:Net earnings (loss) per common share attributable to
+common stockholders (Note 18):
+Basic............................................................................................ $ 	(0.11) 	$ 0.27 	$ 0.97
+Row:Diluted......................................................................................... $ 	(0.11) 	$ 0.27 	$ 0.96
+Row:Weighted average common shares outstanding attributable
+to common stockholders (Note 18):
+			Row:Basic............................................................................................ 	82,189 	83,666 	84,264
+Row:Diluted......................................................................................... 	82,189 	83,829 	84,525
+Row:Dividends declared per common share.......................................... $ 	0.90 	$ 0.90 	$ 0.90
+Row:Earnings before income tax expense ............................................. 	70,271 	53,610 	127,279
+Row:Income tax expense ....................................................................... 	74,172 	28,212 	42,464
+Row:Net earnings (loss)......................................................................... 	(3,901) 	25,398 	84,815
+Row:Net earnings attributable to noncontrolling interests..................... 	3,993 	2,637 	2,964
+Row:Net earnings (loss) attributable to Guess?, Inc. ............................. $ 	(7,894) 	$ 22,761 	$ 81,851
+Row:	Year Ended	Year Ended	Year EndedRow:	Feb 3, 2018
+	Jan 28, 2017
+	Jan 30, 2016
+Row:Cash flows from operating activities:Net earnings (loss)Adjustments to reconcile net earnings (loss) to net cashprovided by operating activities:Depreciation and amortization of property and equipment…...Amortization of intangible assets....Share-based compensation expense.Unrealized forward contract (gains) losses.Deferred income taxesNet (gain) loss on disposition of property and equipmentand long-term assets....	$
+(3,901) 62,0831,50518,8523,08723,802
+6,891	$
+25,398 67,4801,83916,908(3,157)408
+11,809	$
+84,815
+68,5882,09618,880(1,937)723
+(4,255)Row:Other items, net ....	(7,832)
+	3,495
+	3,442
+Row:Changes in operating assets and liabilities:Accounts receivableInventories.....	(11,656)(28,120)	(10,805)(57,096)	(5,970)(2,179)Row:Prepaid expenses and other assets..Accounts payable and accrued expenses.Deferred rent and lease incentivesOther long-term liabilities.	(429)69,2991,22113,568	(1,839)19,0543,117(4,871)	(67)33,510(3,384)(14,594)Row:Net cash provided by operating activities.	148,370
+	71,740
+	179,668
+Row:Cash flows from investing activities:Purchases of property and equipment.Proceeds from sale of long-term assets.Changes in other assets	(84,655)1,052753	(90,581)43,399
+	(83,844)
+2,614Row:Acquisition of businesses, net of cash acquired.Net cash settlement of forward contracts.	(4,850)(2,150)	(2,068)266
+	(1,330)9,014
+Row:Purchases of investmentsNet cash used in investing activities.Cash flows from financing activities:	(497)(90,347)
+	(48,984)
+	(73,546)
+Row:Payment of debt issuance costs.Proceeds from borrowings ...Repayment of borrowings and capital lease obligations...Dividends paid …........	166(1,633)(76,057)
+	(111)21,500(4,747)(76,503)	(1,072)948(1,518)(76,860)
+Row:Purchase of redeemable noncontrolling interest.Noncontrolling interest capital contributionNoncontrolling interest capital distributionIssuance of common stock, net of tax withholdings on vestingof stock awards.Purchase of treasury stock..	962(1,358)(690)(50,127)	(4,445)2,157(2,759)(594)(3,532)	871(4,075)(2,220)(44,053)Row:Net cash used in financing activities.Effect of exchange rates on cash, cash equivalents and restrictedcash	(128,737)40,746	(69,034)
+(2,071)	(127,979)(15,964)Row:Net change in cash, cash equivalents and restricted cash.Cash, cash equivalents and restricted cash at the beginning of
+the year.
+	(29,968)
+397,650	(48,349)
+445,999	(37,821)
+483,820Row:Cash, cash equivalents and restricted cash at the end of the year
+	367,682
+	397,650 $
+	$
+445,999
+Row:Supplemental cash flow data:Interest paid.....Income taxes paid...
+	2,078 26,907 $
+	$$
+1,225 24,869 	$$
+86831,188

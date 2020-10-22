@@ -1,0 +1,100 @@
+Row:in millions, except per share data
+	2018
+	2017
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 3,595 	$ 2,538
+Row:Receivables, net 	1,952 	2,029
+Row:Merchandise inventories 	12,748 	12,549
+Row:Other current assets 	638 	608
+Row:Total current assets 	18,933 	17,724
+Row:Net property and equipment 	22,075 	21,914
+Row:Goodwill 	2,275 	2,093
+Row:Other assets 	1,246 	1,235
+Row:Total assets 	$ 44,529 	$ 42,966
+Row:Current liabilities:
+		Row:Short-term debt 	$ 1,559 	$ 710
+Row:Accounts payable 	7,244 	7,000
+Row:Accrued salaries and related expenses 	1,640 	1,484
+Row:Sales taxes payable 	520 	508
+Row:Deferred revenue 	1,805 	1,669
+Row:Income taxes payable 	54 	25
+Row:Current installments of long-term debt 	1,202 	542
+Row:Other accrued expenses 	2,170 	2,195
+Row:Total current liabilities 	16,194 	14,133
+Row:Long-term debt, excluding current installments 	24,267 	22,349
+Row:Deferred income taxes 	440 	296
+Row:Other long-term liabilities 	2,174 	1,855
+Row:Total liabilities 	43,075 	38,633
+Row:Common stock, par value $0.05; authorized: 10,000 shares; issued: 1,780 shares at
+January 28, 2018 and 1,776 shares at January 29, 2017 	89 	88
+Row:Paid-in capital 	10,192 	9,787
+Row:Retained earnings 	39,935 	35,519
+Row:Accumulated other comprehensive loss 	(566) 	(867)
+Row:Treasury stock, at cost, 622 shares at January 28, 2018 and 573 shares at January 29,
+		Row:2017 	(48,196) 	(40,194)
+Row:Total stockholders’ equity 	1,454 	4,333
+Row:Total liabilities and stockholders’ equity 	$ 44,529 	$ 42,966
+Row:See accompanying notes to consolidated financial statements.
+		Row:in millions, except per share data
+	Fiscal 2017 	Fiscal 2016 	Fiscal
+2015
+Row:Net sales 	$ 100,904 	$ 94,595 	$ 88,519
+Row:Cost of sales 	66,548 	62,282 	58,254
+Row:Gross profit 	34,356 	32,313 	30,265
+Row:Operating expenses:
+			Row:Selling, general and administrative 	17,864 	17,132 	16,801
+Row:Depreciation and amortization 	1,811 	1,754 	1,690
+Row:Total operating expenses 	19,675 	18,886 	18,491
+Row:Operating income 	14,681 	13,427 	11,774
+Row:Interest and other (income) expense:
+			Row:Interest and investment income 	(74) 	(36) 	(166)
+Row:Interest expense 	1,057 	972 	919
+Row:Interest and other, net 	983 	936 	753
+Row:Earnings before provision for income taxes 	13,698 	12,491 	11,021
+Row:Provision for income taxes 	5,068 	4,534 	4,012
+Row:Net earnings 	$ 8,630 	$ 7,957 	$ 7,009
+Row:Basic weighted average common shares 	1,178 	1,229 	1,277
+Row:Basic earnings per share 	$ 7.33 	$ 6.47 	$ 5.49
+Row:Diluted weighted average common shares 	1,184 	1,234 	1,283
+Row:Diluted earnings per share 	$ 7.29 	$ 6.45 	$ 5.46
+Row:See accompanying notes to consolidated financial statements.
+			Row:in millions 	2017 	2016 	2015
+Row:Cash Flows from Operating Activities:
+			Row:Net earnings 	$ 8,630 	$ 7,957 	$ 7,009
+Row:Reconciliation of net earnings to net cash provided by operating activities:
+			Row:Depreciation and amortization 	2,062 	1,973 	1,863
+Row:Stock-based compensation expense 	273 	267 	244
+Row:Gain on sales of investments 	— 	— 	(144)
+Row:Changes in assets and liabilities, net of acquisition effects:
+			Row:Receivables, net 	139 	(138) 	(181)
+Row:Merchandise inventories 	(84) 	(769) 	(546)
+Row:Other current assets 	(10) 	(48) 	(5)
+Row:Accounts payable and accrued expenses 	352 	446 	888
+Row:Deferred revenue 	128 	99 	109
+Row:Income taxes payable 	29 	109 	154
+Row:Deferred income taxes 	92 	(117) 	15
+Row:Other 	420 	4 	(33)
+Row:Net cash provided by operating activities 	12,031 	9,783 	9,373
+Row:Capital expenditures, net of non-cash capital expenditures 	(1,897) 	(1,621) 	(1,503)
+Row:Proceeds from sales of investments 	— 	— 	144
+Row:Payments for businesses acquired, net 	(374) 	— 	(1,666)
+Row:Proceeds from sales of property and equipment 	47 	38 	43
+Row:Other investing activities 	(4) 	— 	—
+Row:Net cash used in investing activities 	(2,228) 	(1,583) 	(2,982)
+Row:Cash Flows from Financing Activities:
+		Row:Proceeds from short-term debt, net 	850 360 	60
+Row:Proceeds from long-term debt, net of discounts 	2,991 4,959 	3,991
+Row:Repayments of long-term debt 	(543) (3,045) 	(39)
+Row:Repurchases of common stock 	(8,000) (6,880) 	(7,000)
+Row:Proceeds from sales of common stock 	255 218 	228
+Row:Cash dividends 	(4,212) (3,404) 	(3,031)
+Row:Other financing activities 	(211) (78) 	4
+Row:Net cash used in financing activities 	(8,870) (7,870) 	(5,787)
+Row:Change in cash and cash equivalents 	933 330 	604
+Row:Effect of exchange rate changes on cash and cash equivalents 	124 (8) 	(111)
+Row:Cash and cash equivalents at beginning of year 	2,538 2,216 	1,723
+Row:Cash and cash equivalents at end of year 	$ 3,595 $ 2,538 	$ 2,216
+Row:Cash paid for interest, net of interest capitalized 	$ 	991 	$ 924 	$ 874
+Row:Cash paid for income taxes 		4,732 	4,623 	3,853
+Row:Non-cash capital expenditures 		150 	179 	165

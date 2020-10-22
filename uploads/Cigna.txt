@@ -1,0 +1,207 @@
+Row:(In millions, except per share amounts) 	2013 	2012 	2011
+Row:Revenues
+			Row:Premiums and fees 	$ 28,976 	$ 26,187 	$ 18,966
+Row:Net investment income 	1,164 	1,144 	1,146
+Row:Mail order pharmacy revenues 	1,827 	1,623 	1,447
+Row:Other revenues 	200 	121 	244
+Row:Realized investment gains (losses):
+Other-than-temporary impairments on fixed maturities, net 	(11) 	(11) 	(26)
+Row:Other realized investment gains 	224 	55 	88
+Row:Total realized investment gains 	213 	44 	62
+Row:TOTAL REVENUES 	32,380 	29,119 	21,865
+Row:Benefits and Expenses
+			Row:Global Health Care medical claims expense 	15,867 	14,228 	9,125
+Row:Other benefit expenses 	4,998 	3,672 	3,365
+Row:Mail order pharmacy cost of goods sold 	1,509 	1,328 	1,203
+Row:GMIB fair value (gain) loss 	– 	(41) 	234
+Row:Other operating expenses 	7,830 	7,455 	6,062
+Row:TOTAL BENEFITS AND EXPENSES 	30,204 	26,642 	19,989
+Row:Income before Income Taxes 	2,176 	2,477 	1,876
+Row:Income taxes:
+			Row:Current 	501 	719 	398
+Row:Deferred 	197 	134 	217
+Row:TOTAL TAXES 	698 	853 	615
+Row:Net Income 	1,478 	1,624 	1,261
+Row:Less: Net Income Attributable to Noncontrolling Interests 	2 	1 	1
+Row:SHAREHOLDERS’ NET INCOME 	$ 1,476 	$ 1,623 	$ 1,260
+Row:Shareholders’ Net Income Per Share:
+			Row:Basic 	$ 5.28 	$ 5.70 	$ 4.65
+Row:Diluted 	$ 5.18 	$ 5.61 	$ 4.59
+Row:Dividends Declared Per Share 	$ 0.04 	$ 0.04 	$ 0.04
+Row:The accompanying Notes to the Consolidated Financial Statements are an integral part of these statements.
+			Row:(In millions, except per share amounts) 	2013 	2012 	2011
+Row:Shareholders’ net income 	$ 1,476 	$ 1,623 	$ 1,260
+Row:Shareholders’ other comprehensive income (loss):
+			Row:Net unrealized appreciation (depreciation) on securities:
+			Row:Fixed maturities 	(410) 	144 	210
+Row:Equity securities 	– 	3 	(2)
+Row:Net unrealized appreciation (depreciation) on securities 	(410) 	147 	208
+Row:Net unrealized appreciation (depreciation), derivatives 	9 	(5) 	1
+Row:Net translation of foreign currencies 	13 	66 	(22)
+Row:Postretirement benefits liability adjustment 	539 	(92) 	(360)
+Row:Shareholders’ other comprehensive income (loss) 	151 	116 	(173)
+Row:Shareholders’ comprehensive income 	1,627 	1,739 	1,087
+Row:Comprehensive income attributable to noncontrolling interest:
+			Row:Net income attributable to redeemable noncontrolling interest 	2 	1 	–
+Row:Net income attributable to other noncontrolling interest 	– 	– 	1
+Row:Other comprehensive income (loss) attributable to redeemable noncontrolling interest 	(19) 	2 	–
+Row:TOTAL COMPREHENSIVE INCOME 	$ 1,610 	$ 1,742 	$ 1,088
+Row:The accompanying Notes to the Consolidated Financial Statements are an integral part of these statements.
+			Row:As of December 31,
+(In millions, except per share amounts) 	2013 	2012
+Row:ASSETS
+		Row:Investments:
+		Row:Fixed maturities, at fair value (amortized cost, $15,273; $15,481) 	$ 16,486 	$ 17,705
+Row:Equity securities, at fair value (cost, $146; $121) 	141 	111
+Row:Commercial mortgage loans 	2,252 	2,851
+Row:Policy loans 	1,485 	1,501
+Row:Real estate 	97 	83
+Row:Other long-term investments 	1,273 	1,255
+Row:Short-term investments 	631 	154
+Row:Total investments 	22,365 	23,660
+Row:Cash and cash equivalents 	2,795 	2,978
+Row:Accrued investment income 	247 	258
+Row:Premiums, accounts and notes receivable, net 	1,991 	1,777
+Row:Reinsurance recoverables 	7,299 	6,256
+Row:Deferred policy acquisition costs 	1,395 	1,198
+Row:Property and equipment 	1,464 	1,120
+Row:Deferred income taxes, net 	92 	374
+Row:Goodwill 	6,029 	6,001
+Row:Other assets, including other intangibles 	2,407 	2,355
+Row:Separate account assets 	8,252 	7,757
+Row:TOTAL ASSETS 	$ 54,336 	$ 53,734
+Row:LIABILITIES
+		Row:Contractholder deposit funds 	$ 8,470 	$ 8,508
+Row:Future policy benefits 	9,306 	9,265
+Row:Unpaid claims and claim expenses 	4,298 	4,062
+Row:Global Health Care medical claims payable 	2,050 	1,856
+Row:Unearned premiums and fees 	580 	549
+Row:Total insurance and contractholder liabilities 	24,704 	24,240
+Row:Accounts payable, accrued expenses and other liabilities 	5,456 	6,667
+Row:Short-term debt 	233 	201
+Row:Long-term debt 	5,014 	4,986
+Row:Separate account liabilities 	8,252 	7,757
+Row:TOTAL LIABILITIES 	43,659 	43,851
+Row:Contingencies – Note 23
+		Row:Redeemable noncontrolling interest 	96 	114
+Row:SHAREHOLDERS’ EQUITY
+Common stock (par value per share, $0.25; shares issued, 366; authorized, 600) 	92 	92
+Row:Additional paid-in capital 	3,356 	3,295
+Row:Net unrealized appreciation, fixed maturities 	$ 473 	$ 883
+Row:Net unrealized appreciation, equity securities 	4 	4
+Row:Net unrealized depreciation, derivatives 	(19) 	(28)
+Row:Net translation of foreign currencies 	82 	69
+Row:Postretirement benefits liability adjustment 	(1,060) 	(1,599)
+Row:Accumulated other comprehensive loss 	(520) 	(671)
+Row:Retained earnings 	13,676 	12,330
+Row:Less: treasury stock, at cost 	(6,037) 	(5,277)
+Row:TOTAL SHAREHOLDERS’ EQUITY 	10,567 	9,769
+Row:Noncontrolling interest 	14 	–
+Row:Total equity 	10,581 	9,769
+Row:Total liabilities and equity 	$ 54,336 	$ 53,734
+Row:SHAREHOLDERS’ EQUITY PER SHARE 	$ 38.35 	$ 34.18
+Row:The accompanying Notes to the Consolidated Financial Statements are an integral part of these 	statements.
+	Row:(In millions, except per share amounts) 	2013 	2012 	2011
+Row:Revenues
+			Row:Premiums and fees 	$ 28,976 	$ 26,187 	$ 18,966
+Row:Net investment income 	1,164 	1,144 	1,146
+Row:Mail order pharmacy revenues 	1,827 	1,623 	1,447
+Row:Other revenues 	200 	121 	244
+Row:Realized investment gains (losses):
+Other-than-temporary impairments on fixed maturities, net 	(11) 	(11) 	(26)
+Row:Other realized investment gains 	224 	55 	88
+Row:Total realized investment gains 	213 	44 	62
+Row:TOTAL REVENUES 	32,380 	29,119 	21,865
+Row:Benefits and Expenses
+			Row:Global Health Care medical claims expense 	15,867 	14,228 	9,125
+Row:Other benefit expenses 	4,998 	3,672 	3,365
+Row:Mail order pharmacy cost of goods sold 	1,509 	1,328 	1,203
+Row:GMIB fair value (gain) loss 	– 	(41) 	234
+Row:Other operating expenses 	7,830 	7,455 	6,062
+Row:TOTAL BENEFITS AND EXPENSES 	30,204 	26,642 	19,989
+Row:Income before Income Taxes 	2,176 	2,477 	1,876
+Row:Income taxes:
+			Row:Current 	501 	719 	398
+Row:Deferred 	197 	134 	217
+Row:TOTAL TAXES 	698 	853 	615
+Row:Net Income 	1,478 	1,624 	1,261
+Row:Less: Net Income Attributable to Noncontrolling Interests 	2 	1 	1
+Row:SHAREHOLDERS’ NET INCOME 	$ 1,476 	$ 1,623 	$ 1,260
+Row:Shareholders’ Net Income Per Share:
+			Row:Basic 	$ 5.28 	$ 5.70 	$ 4.65
+Row:Diluted 	$ 5.18 	$ 5.61 	$ 4.59
+Row:Dividends Declared Per Share 	$ 0.04 	$ 0.04 	$ 0.04
+Row:The accompanying Notes to the Consolidated Financial Statements are an integral part of these statements.
+			Row:(In millions, except per share amounts) 	2013 	2012 	2011
+Row:Shareholders’ net income 	$ 1,476 	$ 1,623 	$ 1,260
+Row:Shareholders’ other comprehensive income (loss):
+			Row:Net unrealized appreciation (depreciation) on securities:
+			Row:Fixed maturities 	(410) 	144 	210
+Row:Equity securities 	– 	3 	(2)
+Row:Net unrealized appreciation (depreciation) on securities 	(410) 	147 	208
+Row:Net unrealized appreciation (depreciation), derivatives 	9 	(5) 	1
+Row:Net translation of foreign currencies 	13 	66 	(22)
+Row:Postretirement benefits liability adjustment 	539 	(92) 	(360)
+Row:Shareholders’ other comprehensive income (loss) 	151 	116 	(173)
+Row:Shareholders’ comprehensive income 	1,627 	1,739 	1,087
+Row:Comprehensive income attributable to noncontrolling interest:
+			Row:Net income attributable to redeemable noncontrolling interest 	2 	1 	–
+Row:Net income attributable to other noncontrolling interest 	– 	– 	1
+Row:Other comprehensive income (loss) attributable to redeemable noncontrolling interest 	(19) 	2 	–
+Row:TOTAL COMPREHENSIVE INCOME 	$ 1,610 	$ 1,742 	$ 1,088
+Row:The accompanying Notes to the Consolidated Financial Statements are an integral part of these statements.
+			Row:As of December 31,
+(In millions, except per share amounts) 	2013 	2012
+Row:ASSETS
+		Row:Investments:
+		Row:Fixed maturities, at fair value (amortized cost, $15,273; $15,481) 	$ 16,486 	$ 17,705
+Row:Equity securities, at fair value (cost, $146; $121) 	141 	111
+Row:Commercial mortgage loans 	2,252 	2,851
+Row:Policy loans 	1,485 	1,501
+Row:Real estate 	97 	83
+Row:Other long-term investments 	1,273 	1,255
+Row:Short-term investments 	631 	154
+Row:Total investments 	22,365 	23,660
+Row:Cash and cash equivalents 	2,795 	2,978
+Row:Accrued investment income 	247 	258
+Row:Premiums, accounts and notes receivable, net 	1,991 	1,777
+Row:Reinsurance recoverables 	7,299 	6,256
+Row:Deferred policy acquisition costs 	1,395 	1,198
+Row:Property and equipment 	1,464 	1,120
+Row:Deferred income taxes, net 	92 	374
+Row:Goodwill 	6,029 	6,001
+Row:Other assets, including other intangibles 	2,407 	2,355
+Row:Separate account assets 	8,252 	7,757
+Row:TOTAL ASSETS 	$ 54,336 	$ 53,734
+Row:LIABILITIES
+		Row:Contractholder deposit funds 	$ 8,470 	$ 8,508
+Row:Future policy benefits 	9,306 	9,265
+Row:Unpaid claims and claim expenses 	4,298 	4,062
+Row:Global Health Care medical claims payable 	2,050 	1,856
+Row:Unearned premiums and fees 	580 	549
+Row:Total insurance and contractholder liabilities 	24,704 	24,240
+Row:Accounts payable, accrued expenses and other liabilities 	5,456 	6,667
+Row:Short-term debt 	233 	201
+Row:Long-term debt 	5,014 	4,986
+Row:Separate account liabilities 	8,252 	7,757
+Row:TOTAL LIABILITIES 	43,659 	43,851
+Row:Contingencies – Note 23
+		Row:Redeemable noncontrolling interest 	96 	114
+Row:SHAREHOLDERS’ EQUITY
+Common stock (par value per share, $0.25; shares issued, 366; authorized, 600) 	92 	92
+Row:Additional paid-in capital 	3,356 	3,295
+Row:Net unrealized appreciation, fixed maturities 	$ 473 	$ 883
+Row:Net unrealized appreciation, equity securities 	4 	4
+Row:Net unrealized depreciation, derivatives 	(19) 	(28)
+Row:Net translation of foreign currencies 	82 	69
+Row:Postretirement benefits liability adjustment 	(1,060) 	(1,599)
+Row:Accumulated other comprehensive loss 	(520) 	(671)
+Row:Retained earnings 	13,676 	12,330
+Row:Less: treasury stock, at cost 	(6,037) 	(5,277)
+Row:TOTAL SHAREHOLDERS’ EQUITY 	10,567 	9,769
+Row:Noncontrolling interest 	14 	–
+Row:Total equity 	10,581 	9,769
+Row:Total liabilities and equity 	$ 54,336 	$ 53,734
+Row:SHAREHOLDERS’ EQUITY PER SHARE 	$ 38.35 	$ 34.18
+Row:The accompanying Notes to the Consolidated Financial Statements are an integral part of these 	statements.
+	

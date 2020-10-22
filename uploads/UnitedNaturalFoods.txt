@@ -1,0 +1,836 @@
+Row	2019
+	2018
+RowASSETS
+		RowCash and cash equivalents 	$ 42,350 $ 	23,315
+RowAccounts receivable, net 	1,065,699 	579,702
+RowInventories 	2,089,416 	1,135,775
+RowPrepaid expenses and other current assets 	226,727 	50,122
+RowCurrent assets of discontinued operations 	143,729 	—
+RowTotal current assets 	3,567,921 	1,788,914
+RowProperty and equipment, net 	1,639,259 	571,146
+RowGoodwill 	442,256 	362,495
+RowIntangible assets, net 	1,041,058 	193,209
+RowDeferred income taxes 	31,087 	—
+RowOther assets 	107,319 	48,708
+RowLong-term assets of discontinued operations 	352,065 	—
+RowTotal assets 	$ 7,180,965 $ 	2,964,472
+RowLIABILITIES AND STOCKHOLDERS’ EQUITY
+		RowAccounts payable 	$ 1,476,857 $ 	517,125
+RowAccrued expenses and other current liabilities 	249,426 	103,526
+RowAccrued compensation and benefits 	148,296 	66,132
+RowCurrent portion of long-term debt and capital lease obligations 	112,103 	12,441
+RowCurrent liabilities of discontinued operations 	122,265 	—
+RowTotal current liabilities 	2,108,947 	699,224
+RowLong-term debt 	2,819,050 	308,836
+RowLong-term capital lease obligations 	108,208 	31,487
+RowPension and other postretirement benefit obligations 	237,266 	—
+RowDeferred income taxes 	1,042 	44,384
+RowOther long-term liabilities 	393,595 	34,586
+RowLong-term liabilities of discontinued operations 	1,923 	—
+RowTotal liabilities 	5,670,031 	1,118,517
+RowCommitments and contingencies
+		RowStockholders’ equity:
+		RowPreferred stock, $0.01 par value, authorized 5,000 shares; none issued or outstanding 	— 	—
+RowCommon stock, $0.01 par value, authorized 100,000 shares; 53,501 shares issued and 52,886 shares outstanding at August 3,
+2019; 51,025 issued and 50,411 shares outstanding shares at July 28, 2018 	535 	510
+RowAdditional paid-in capital 	530,801 	483,623
+RowTreasury stock at cost 	(24,231) 	(24,231)
+RowAccumulated other comprehensive loss 	(108,953) 	(14,179)
+RowRetained earnings 	1,115,519 	1,400,232
+RowTotal United Natural Foods, Inc. stockholders’ equity 	1,513,671 	1,845,955
+RowNoncontrolling interests 	(2,737) 	—
+RowTotal stockholders' equity 	1,510,934 	1,845,955
+RowTotal liabilities and stockholders’ equity 	$ 7,180,965 $ 	2,964,472
+RowStockholders’ equity:
+		Rowstock, $0.01 par value, authorized 5,000 shares; none issued or outstanding 	— 	—
+Rowstock, $0.01 par value, authorized 100,000 shares; 53,501 shares issued and 52,886 shares outstanding at August 3,
+		Row51,025 issued and 50,411 shares outstanding shares at July 28, 2018 	535 	510
+Rowpaid-in capital 	530,801 	483,623
+Rowstock at cost 	(24,231) 	(24,231)
+RowAccumulated other comprehensive loss 	(108,953) 	(14,179)
+Rowearnings 	1,115,519 	1,400,232
+RowUnited Natural Foods, Inc. stockholders’ equity 	1,513,671 	1,845,955
+RowNoncontrolling interests 	(2,737) 	—
+Rowstockholders' equity 	1,510,934 	1,845,955
+Rowliabilities and stockholders’ equity 	$ 7,180,965 	$ 2,964,472
+RowAugust 3,
+	July 28,
+	July 29,
+Row2019
+	2018
+	2017
+Row$ 21,387,068 	$ 10,226,683 	$ 9,274,471
+Row18,602,058 	8,703,916 	7,845,550
+Row2,785,010 	1,522,767 	1,428,921
+Row2,629,713 	1,274,562 	1,196,032
+Row292,770 	11,242 	—
+Row153,539 	9,738 	6,864
+Row(291,012) 	227,225 	226,025
+Row(34,726) 	— 	—
+Row179,963 	16,025 	16,754
+Row(957) 	(1,545) 	(5,152)
+Row144,280 	14,480 	11,602
+Row(435,292) 	212,745 	214,423
+Row(84,609) 	47,075 	84,268
+Row(350,683) 	165,670 	130,155
+Row65,800 	— 	—
+Row(284,883) 	165,670 	130,155
+Row(107) 	— 	—
+Row$ (284,990) 	$ 165,670 	$ 130,155
+Row	August 3,
+2019
+	July 28,
+2018
+	July 29,
+2017
+RowNet sales 	$ 21,387,068 	$ 10,226,683 	$ RowCost of sales 	18,602,058 	8,703,916 	RowGross profit 	2,785,010 	1,522,767 	RowOperating expenses 	2,629,713 	1,274,562 	RowGoodwill and asset impairment charges 	292,770 	11,242 	RowRestructuring, acquisition and integration related expenses 	153,539 	9,738 	RowOperating (loss) income 	(291,012) 	227,225 	RowOther expense (income):
+			RowNet periodic benefit income, excluding service cost 	(34,726) 	— 	RowInterest expense, net 	179,963 	16,025 	RowOther, net 	(957) 	(1,545) 	RowTotal other expense, net 	144,280 	14,480 	Row(Loss) income from continuing operations before income taxes 	(435,292) 	212,745 	Row(Benefit) provision for income taxes 	(84,609) 	47,075 	RowNet (loss) income from continuing operations 	(350,683) 	165,670 	RowIncome from discontinued operations, net of tax 	65,800 	— 	RowNet (loss) income including noncontrolling interests 	(284,883) 	165,670 	RowLess net (income) loss attributable to noncontrolling interests 	(107) 	— 	RowNet (loss) income attributable to United Natural Foods, Inc. 	$ (284,990) 	$ 165,670 	$ RowBasic (loss) earnings per share:
+			RowContinuing operations 	$ (6.84) 	$ 3.28 	$ RowDiscontinued operations 	$ 1.28 	$ — 	$ RowBasic (loss) income per share 	$ (5.56) 	$ 3.28 	$ RowDiluted (loss) earnings per share:
+			RowContinuing operations 	$ (6.84) 	$ 3.26 	$ RowDiscontinued operations 	$ 1.27 	$ — 	$ RowDiluted (loss) income per share 	$ (5.56) 	$ 3.26 	$ RowWeighted average shares outstanding:
+			RowBasic 	51,245 	50,530 	RowDiluted 	51,537 	50,837 	Row	August 3, 2019
+(53 weeks)
+	July 28, 2018
+(52 weeks)
+	July 29, 2017
+(52 weeks)
+RowNet (loss) income including noncontrolling interests 	$ (284,883) 	$ 165,670 	$ 130,155
+RowOther comprehensive (loss) income:
+			RowRecognition of pension and other postretirement benefit obligations, net of tax(1) 	(32,458) 	— 	—
+RowRecognition of interest rate swap cash flow hedges, net of tax(2) 	(61,287) 	3,575 	4,879
+RowForeign currency translation adjustments 	(1,029) 	(3,791) 	3,537
+RowTotal other comprehensive (loss) income 	(94,774) 	(216) 	8,416
+RowLess comprehensive (income) loss attributable to noncontrolling interests 	(107) 	— 	—
+RowTotal comprehensive (loss) income attributable to United Natural Foods, Inc. 	$ (379,764) 	$ 165,454 	$ 138,571
+Row	Shares Amount Common Stock 	Shares Treasury 	Amount
+Stock
+	Additional
+Paid-in
+Capital
+	Other
+Comprehensive
+Loss
+	Retained
+Earnings
+	Inc.
+Stockholders’
+Equity
+	Noncontrolling
+Interests
+	Total
+Stockholders’
+Equity
+RowBalances at July 30, 2016 	50,383 $ 504 	— $ 	— 	$ 436,167 $ 	(22,379) $ 	1,105,212 	$ 1,519,504 	— 	$ 1,519,504
+RowRestricted stock vestings and stock
+option exercises, net 	239 2 			(1,041) 			(1,039) 		(1,039)
+RowShare-based compensation 				26,205 			26,205 		26,205
+RowTax deficit associated with stock
+plans 				(1,320) 			(1,320) 		(1,320)
+RowOther comprehensive income 					8,416 		8,416 		8,416
+RowNet income 						130,155 	130,155 		130,155
+RowBalances at July 29, 2017 	50,622 $ 506 	— $ 	— 	$ 460,011 $ 	(13,963) $ 	1,235,367 	$ 1,681,921 	$ — 	$ 1,681,921
+RowCumulative effect of change in
+accounting principle 				1,314 		(805) 	509 		509
+RowRestricted stock vestings and stock
+option exercises, net 	403 4 			(3,592) 			(3,588) 		(3,588)
+RowShare-based compensation 				25,890 			25,890 		25,890
+RowRepurchase of common stock 		615 	(24,231) 				(24,231) 		(24,231)
+RowOther comprehensive loss 					(216) 		(216) 		(216)
+RowNet income 						165,670 	165,670 		165,670
+RowBalances at July 28, 2018 	51,025 $ 510 	615 	$(24,231) 	$ 483,623 $ 	(14,179) $ 	1,400,232 	$ 1,845,955 	$ — 	$ 1,845,955
+RowCumulative effect of change in
+accounting principle 						277 	277 		277
+RowRestricted stock vestings and stock
+option exercises, net 	471 5 			(2,613) 			(2,608) 		(2,608)
+RowShare-based compensation 				25,954 			25,954 		25,954
+RowOther comprehensive loss 					(94,774) 		(94,774) 		(94,774)
+RowAcquisition of noncontrolling
+interests 							— 	(1,633) 	(1,633)
+RowDistributions to noncontrolling
+interests 							— 	(1,211) 	(1,211)
+RowProceeds from the issuance of
+common stock, net 	2,005 20 			23,837 			23,857 		23,857
+RowNet (loss) income 						(284,990) 	(284,990) 	107 	(284,883)
+RowBalances at August 3, 2019 	53,501 $ 535 	615 	$(24,231) 	$ 530,801 $ 	(108,953) $ 	1,115,519 	$ 1,513,671 	$ (2,737) 	$ 1,510,934
+Row		See accompanying 	Notes 	to Consolidated 	Financial 	Statements.
+			Row(In thousands)
+	August 3, 2019
+(53 weeks)
+	July 28, 2018
+(52 weeks)
+	July 29, 2017
+(52 weeks)
+RowCASH FLOWS FROM OPERATING ACTIVITIES:
+			RowNet (loss) income including noncontrolling interests 	$ (284,883) 	$ 165,670 	$ 130,155
+RowIncome from discontinued operations, net of tax 	65,800 	— 	—
+RowNet (loss) income from continuing operations 	(350,683) 	165,670 	130,155
+RowAdjustments to reconcile net (loss) income to net cash provided by operating activities:
+			RowDepreciation and amortization 	246,825 	87,631 	86,051
+RowShare-based compensation 	25,551 	25,783 	25,675
+RowLoss on disposal of assets 	2,859 	2,820 	943
+RowGain associated with disposal of investment 	— 	(699) 	(6,106)
+RowClosed property and other restructuring charges 	26,875 	— 	640
+RowGoodwill and asset impairments 	292,770 	11,242 	—
+RowNet pension and other postretirement benefit income 	(34,553) 	— 	—
+RowDeferred income tax benefit 	(60,798) 	(14,819) 	(1,891)
+RowLIFO charge 	24,120 	— 	—
+RowChange in accounting estimate 	— 	(20,909) 	—
+RowProvision for doubtful accounts 	9,749 	12,006 	5,728
+RowLoss on debt extinguishment 	2,903 	— 	—
+RowExcess tax deficit from share-based payment arrangements 	— 	— 	1,320
+RowNon-cash interest expense 	12,751 	275 	175
+RowChanges in operating assets and liabilities, net of acquired businesses
+			RowAccounts receivable 	52,735 	(67,283) 	(38,757)
+RowInventories 	177,094 	(108,795) 	(6,929)
+RowPrepaid expenses and other assets 	(43,167) 	4,473 	(6,383)
+RowAccounts payable 	(40,149) 	3,961 	82,772
+RowAccrued expenses, other liabilities and other 	(169,760) 	7,682 	(62)
+RowNet cash provided by operating activities of continuing operations 	175,122 	109,038 	273,331
+RowNet cash provided by operating activities of discontinued operations 	109,408 	— 	—
+RowNet cash provided by operating activities 	284,530 	109,038 	273,331
+RowCASH FLOWS FROM INVESTING ACTIVITIES:
+			RowCapital expenditures 	(207,817) 	(44,608) 	(56,112)
+RowPurchases of acquired businesses, net of cash acquired 	(2,292,435) 	(39) 	(9,207)
+RowProceeds from dispositions of assets 	173,747 	283 	168
+RowProceeds from disposal of investments 	— 	756 	9,192
+RowPayments for long-term investment 	(110) 	(3,397) 	(2,000)
+RowPayment of company owned life insurance premiums 	(170) 	— 	(2,000)
+RowNet cash used in investing activities of continuing operations 	(2,326,785) 	(47,005) 	(59,959)
+RowNet cash provided by investing activities of discontinued operations 	67,998 	— 	—
+RowNet cash used in investing activities 	(2,258,787) 	(47,005) 	(59,959)
+RowCASH FLOWS FROM FINANCING ACTIVITIES:
+			RowProceeds from borrowings of long-term debt 	1,926,642 	— 	—
+RowProceeds from borrowings under revolving credit line 	3,971,504 	556,061 	215,662
+RowProceeds from issuance of other loans 	22,358 	— 	—
+RowRepayments of borrowings under revolving credit line 	(3,101,679) 	(569,671) 	(418,693)
+RowRepayments of long-term debt and capital lease obligations 	(779,909) 	(12,128) 	(11,546)
+RowRepurchase of common stock 	— 	(24,231) 	—
+RowProceeds from the issuance of common stock and exercise of stock options 	23,975 	975 	274
+RowPayment of employee restricted stock tax withholdings 	(2,727) 	(4,563) 	(1,313)
+RowExcess tax deficit from share-based payment arrangements 	— 	— 	(1,320)
+Row	2019
+	2018
+RowASSETS
+		RowCash and cash equivalents 	$ 42,350 $ 	23,315
+RowAccounts receivable, net 	1,065,699 	579,702
+RowInventories 	2,089,416 	1,135,775
+RowPrepaid expenses and other current assets 	226,727 	50,122
+RowCurrent assets of discontinued operations 	143,729 	—
+RowTotal current assets 	3,567,921 	1,788,914
+RowProperty and equipment, net 	1,639,259 	571,146
+RowGoodwill 	442,256 	362,495
+RowIntangible assets, net 	1,041,058 	193,209
+RowDeferred income taxes 	31,087 	—
+RowOther assets 	107,319 	48,708
+RowLong-term assets of discontinued operations 	352,065 	—
+RowTotal assets 	$ 7,180,965 $ 	2,964,472
+RowLIABILITIES AND STOCKHOLDERS’ EQUITY
+		RowAccounts payable 	$ 1,476,857 $ 	517,125
+RowAccrued expenses and other current liabilities 	249,426 	103,526
+RowAccrued compensation and benefits 	148,296 	66,132
+RowCurrent portion of long-term debt and capital lease obligations 	112,103 	12,441
+RowCurrent liabilities of discontinued operations 	122,265 	—
+RowTotal current liabilities 	2,108,947 	699,224
+RowLong-term debt 	2,819,050 	308,836
+RowLong-term capital lease obligations 	108,208 	31,487
+RowPension and other postretirement benefit obligations 	237,266 	—
+RowDeferred income taxes 	1,042 	44,384
+RowOther long-term liabilities 	393,595 	34,586
+RowLong-term liabilities of discontinued operations 	1,923 	—
+RowTotal liabilities 	5,670,031 	1,118,517
+RowCommitments and contingencies
+		RowStockholders’ equity:
+		RowPreferred stock, $0.01 par value, authorized 5,000 shares; none issued or outstanding 	— 	—
+RowCommon stock, $0.01 par value, authorized 100,000 shares; 53,501 shares issued and 52,886 shares outstanding at August 3,
+2019; 51,025 issued and 50,411 shares outstanding shares at July 28, 2018 	535 	510
+RowAdditional paid-in capital 	530,801 	483,623
+RowTreasury stock at cost 	(24,231) 	(24,231)
+RowAccumulated other comprehensive loss 	(108,953) 	(14,179)
+RowRetained earnings 	1,115,519 	1,400,232
+RowTotal United Natural Foods, Inc. stockholders’ equity 	1,513,671 	1,845,955
+RowNoncontrolling interests 	(2,737) 	—
+RowTotal stockholders' equity 	1,510,934 	1,845,955
+RowTotal liabilities and stockholders’ equity 	$ 7,180,965 $ 	2,964,472
+RowStockholders’ equity:
+		Rowstock, $0.01 par value, authorized 5,000 shares; none issued or outstanding 	— 	—
+Rowstock, $0.01 par value, authorized 100,000 shares; 53,501 shares issued and 52,886 shares outstanding at August 3,
+		Row51,025 issued and 50,411 shares outstanding shares at July 28, 2018 	535 	510
+Rowpaid-in capital 	530,801 	483,623
+Rowstock at cost 	(24,231) 	(24,231)
+RowAccumulated other comprehensive loss 	(108,953) 	(14,179)
+Rowearnings 	1,115,519 	1,400,232
+RowUnited Natural Foods, Inc. stockholders’ equity 	1,513,671 	1,845,955
+RowNoncontrolling interests 	(2,737) 	—
+Rowstockholders' equity 	1,510,934 	1,845,955
+Rowliabilities and stockholders’ equity 	$ 7,180,965 	$ 2,964,472
+RowAugust 3,
+	July 28,
+	July 29,
+Row2019
+	2018
+	2017
+Row$ 21,387,068 	$ 10,226,683 	$ 9,274,471
+Row18,602,058 	8,703,916 	7,845,550
+Row2,785,010 	1,522,767 	1,428,921
+Row2,629,713 	1,274,562 	1,196,032
+Row292,770 	11,242 	—
+Row153,539 	9,738 	6,864
+Row(291,012) 	227,225 	226,025
+Row(34,726) 	— 	—
+Row179,963 	16,025 	16,754
+Row(957) 	(1,545) 	(5,152)
+Row144,280 	14,480 	11,602
+Row(435,292) 	212,745 	214,423
+Row(84,609) 	47,075 	84,268
+Row(350,683) 	165,670 	130,155
+Row65,800 	— 	—
+Row(284,883) 	165,670 	130,155
+Row(107) 	— 	—
+Row$ (284,990) 	$ 165,670 	$ 130,155
+Row	August 3,
+2019
+	July 28,
+2018
+	July 29,
+2017
+RowNet sales 	$ 21,387,068 	$ 10,226,683 	$ RowCost of sales 	18,602,058 	8,703,916 	RowGross profit 	2,785,010 	1,522,767 	RowOperating expenses 	2,629,713 	1,274,562 	RowGoodwill and asset impairment charges 	292,770 	11,242 	RowRestructuring, acquisition and integration related expenses 	153,539 	9,738 	RowOperating (loss) income 	(291,012) 	227,225 	RowOther expense (income):
+			RowNet periodic benefit income, excluding service cost 	(34,726) 	— 	RowInterest expense, net 	179,963 	16,025 	RowOther, net 	(957) 	(1,545) 	RowTotal other expense, net 	144,280 	14,480 	Row(Loss) income from continuing operations before income taxes 	(435,292) 	212,745 	Row(Benefit) provision for income taxes 	(84,609) 	47,075 	RowNet (loss) income from continuing operations 	(350,683) 	165,670 	RowIncome from discontinued operations, net of tax 	65,800 	— 	RowNet (loss) income including noncontrolling interests 	(284,883) 	165,670 	RowLess net (income) loss attributable to noncontrolling interests 	(107) 	— 	RowNet (loss) income attributable to United Natural Foods, Inc. 	$ (284,990) 	$ 165,670 	$ RowBasic (loss) earnings per share:
+			RowContinuing operations 	$ (6.84) 	$ 3.28 	$ RowDiscontinued operations 	$ 1.28 	$ — 	$ RowBasic (loss) income per share 	$ (5.56) 	$ 3.28 	$ RowDiluted (loss) earnings per share:
+			RowContinuing operations 	$ (6.84) 	$ 3.26 	$ RowDiscontinued operations 	$ 1.27 	$ — 	$ RowDiluted (loss) income per share 	$ (5.56) 	$ 3.26 	$ RowWeighted average shares outstanding:
+			RowBasic 	51,245 	50,530 	RowDiluted 	51,537 	50,837 	Row	August 3, 2019
+(53 weeks)
+	July 28, 2018
+(52 weeks)
+	July 29, 2017
+(52 weeks)
+RowNet (loss) income including noncontrolling interests 	$ (284,883) 	$ 165,670 	$ 130,155
+RowOther comprehensive (loss) income:
+			RowRecognition of pension and other postretirement benefit obligations, net of tax(1) 	(32,458) 	— 	—
+RowRecognition of interest rate swap cash flow hedges, net of tax(2) 	(61,287) 	3,575 	4,879
+RowForeign currency translation adjustments 	(1,029) 	(3,791) 	3,537
+RowTotal other comprehensive (loss) income 	(94,774) 	(216) 	8,416
+RowLess comprehensive (income) loss attributable to noncontrolling interests 	(107) 	— 	—
+RowTotal comprehensive (loss) income attributable to United Natural Foods, Inc. 	$ (379,764) 	$ 165,454 	$ 138,571
+Row	Shares Amount Common Stock 	Shares Treasury 	Amount
+Stock
+	Additional
+Paid-in
+Capital
+	Other
+Comprehensive
+Loss
+	Retained
+Earnings
+	Inc.
+Stockholders’
+Equity
+	Noncontrolling
+Interests
+	Total
+Stockholders’
+Equity
+RowBalances at July 30, 2016 	50,383 $ 504 	— $ 	— 	$ 436,167 $ 	(22,379) $ 	1,105,212 	$ 1,519,504 	— 	$ 1,519,504
+RowRestricted stock vestings and stock
+option exercises, net 	239 2 			(1,041) 			(1,039) 		(1,039)
+RowShare-based compensation 				26,205 			26,205 		26,205
+RowTax deficit associated with stock
+plans 				(1,320) 			(1,320) 		(1,320)
+RowOther comprehensive income 					8,416 		8,416 		8,416
+RowNet income 						130,155 	130,155 		130,155
+RowBalances at July 29, 2017 	50,622 $ 506 	— $ 	— 	$ 460,011 $ 	(13,963) $ 	1,235,367 	$ 1,681,921 	$ — 	$ 1,681,921
+RowCumulative effect of change in
+accounting principle 				1,314 		(805) 	509 		509
+RowRestricted stock vestings and stock
+option exercises, net 	403 4 			(3,592) 			(3,588) 		(3,588)
+RowShare-based compensation 				25,890 			25,890 		25,890
+RowRepurchase of common stock 		615 	(24,231) 				(24,231) 		(24,231)
+RowOther comprehensive loss 					(216) 		(216) 		(216)
+RowNet income 						165,670 	165,670 		165,670
+RowBalances at July 28, 2018 	51,025 $ 510 	615 	$(24,231) 	$ 483,623 $ 	(14,179) $ 	1,400,232 	$ 1,845,955 	$ — 	$ 1,845,955
+RowCumulative effect of change in
+accounting principle 						277 	277 		277
+RowRestricted stock vestings and stock
+option exercises, net 	471 5 			(2,613) 			(2,608) 		(2,608)
+RowShare-based compensation 				25,954 			25,954 		25,954
+RowOther comprehensive loss 					(94,774) 		(94,774) 		(94,774)
+RowAcquisition of noncontrolling
+interests 							— 	(1,633) 	(1,633)
+RowDistributions to noncontrolling
+interests 							— 	(1,211) 	(1,211)
+RowProceeds from the issuance of
+common stock, net 	2,005 20 			23,837 			23,857 		23,857
+RowNet (loss) income 						(284,990) 	(284,990) 	107 	(284,883)
+RowBalances at August 3, 2019 	53,501 $ 535 	615 	$(24,231) 	$ 530,801 $ 	(108,953) $ 	1,115,519 	$ 1,513,671 	$ (2,737) 	$ 1,510,934
+Row		See accompanying 	Notes 	to Consolidated 	Financial 	Statements.
+			Row(In thousands)
+	August 3, 2019
+(53 weeks)
+	July 28, 2018
+(52 weeks)
+	July 29, 2017
+(52 weeks)
+RowCASH FLOWS FROM OPERATING ACTIVITIES:
+			RowNet (loss) income including noncontrolling interests 	$ (284,883) 	$ 165,670 	$ 130,155
+RowIncome from discontinued operations, net of tax 	65,800 	— 	—
+RowNet (loss) income from continuing operations 	(350,683) 	165,670 	130,155
+RowAdjustments to reconcile net (loss) income to net cash provided by operating activities:
+			RowDepreciation and amortization 	246,825 	87,631 	86,051
+RowShare-based compensation 	25,551 	25,783 	25,675
+RowLoss on disposal of assets 	2,859 	2,820 	943
+RowGain associated with disposal of investment 	— 	(699) 	(6,106)
+RowClosed property and other restructuring charges 	26,875 	— 	640
+RowGoodwill and asset impairments 	292,770 	11,242 	—
+RowNet pension and other postretirement benefit income 	(34,553) 	— 	—
+RowDeferred income tax benefit 	(60,798) 	(14,819) 	(1,891)
+RowLIFO charge 	24,120 	— 	—
+RowChange in accounting estimate 	— 	(20,909) 	—
+RowProvision for doubtful accounts 	9,749 	12,006 	5,728
+RowLoss on debt extinguishment 	2,903 	— 	—
+RowExcess tax deficit from share-based payment arrangements 	— 	— 	1,320
+RowNon-cash interest expense 	12,751 	275 	175
+RowChanges in operating assets and liabilities, net of acquired businesses
+			RowAccounts receivable 	52,735 	(67,283) 	(38,757)
+RowInventories 	177,094 	(108,795) 	(6,929)
+RowPrepaid expenses and other assets 	(43,167) 	4,473 	(6,383)
+RowAccounts payable 	(40,149) 	3,961 	82,772
+RowAccrued expenses, other liabilities and other 	(169,760) 	7,682 	(62)
+RowNet cash provided by operating activities of continuing operations 	175,122 	109,038 	273,331
+RowNet cash provided by operating activities of discontinued operations 	109,408 	— 	—
+RowNet cash provided by operating activities 	284,530 	109,038 	273,331
+RowCASH FLOWS FROM INVESTING ACTIVITIES:
+			RowCapital expenditures 	(207,817) 	(44,608) 	(56,112)
+RowPurchases of acquired businesses, net of cash acquired 	(2,292,435) 	(39) 	(9,207)
+RowProceeds from dispositions of assets 	173,747 	283 	168
+RowProceeds from disposal of investments 	— 	756 	9,192
+RowPayments for long-term investment 	(110) 	(3,397) 	(2,000)
+RowPayment of company owned life insurance premiums 	(170) 	— 	(2,000)
+RowNet cash used in investing activities of continuing operations 	(2,326,785) 	(47,005) 	(59,959)
+RowNet cash provided by investing activities of discontinued operations 	67,998 	— 	—
+RowNet cash used in investing activities 	(2,258,787) 	(47,005) 	(59,959)
+RowCASH FLOWS FROM FINANCING ACTIVITIES:
+			RowProceeds from borrowings of long-term debt 	1,926,642 	— 	—
+RowProceeds from borrowings under revolving credit line 	3,971,504 	556,061 	215,662
+RowProceeds from issuance of other loans 	22,358 	— 	—
+RowRepayments of borrowings under revolving credit line 	(3,101,679) 	(569,671) 	(418,693)
+RowRepayments of long-term debt and capital lease obligations 	(779,909) 	(12,128) 	(11,546)
+RowRepurchase of common stock 	— 	(24,231) 	—
+RowProceeds from the issuance of common stock and exercise of stock options 	23,975 	975 	274
+RowPayment of employee restricted stock tax withholdings 	(2,727) 	(4,563) 	(1,313)
+RowExcess tax deficit from share-based payment arrangements 	— 	— 	(1,320)
+Row	2019
+	2018
+RowASSETS
+		RowCash and cash equivalents 	$ 42,350 $ 	23,315
+RowAccounts receivable, net 	1,065,699 	579,702
+RowInventories 	2,089,416 	1,135,775
+RowPrepaid expenses and other current assets 	226,727 	50,122
+RowCurrent assets of discontinued operations 	143,729 	—
+RowTotal current assets 	3,567,921 	1,788,914
+RowProperty and equipment, net 	1,639,259 	571,146
+RowGoodwill 	442,256 	362,495
+RowIntangible assets, net 	1,041,058 	193,209
+RowDeferred income taxes 	31,087 	—
+RowOther assets 	107,319 	48,708
+RowLong-term assets of discontinued operations 	352,065 	—
+RowTotal assets 	$ 7,180,965 $ 	2,964,472
+RowLIABILITIES AND STOCKHOLDERS’ EQUITY
+		RowAccounts payable 	$ 1,476,857 $ 	517,125
+RowAccrued expenses and other current liabilities 	249,426 	103,526
+RowAccrued compensation and benefits 	148,296 	66,132
+RowCurrent portion of long-term debt and capital lease obligations 	112,103 	12,441
+RowCurrent liabilities of discontinued operations 	122,265 	—
+RowTotal current liabilities 	2,108,947 	699,224
+RowLong-term debt 	2,819,050 	308,836
+RowLong-term capital lease obligations 	108,208 	31,487
+RowPension and other postretirement benefit obligations 	237,266 	—
+RowDeferred income taxes 	1,042 	44,384
+RowOther long-term liabilities 	393,595 	34,586
+RowLong-term liabilities of discontinued operations 	1,923 	—
+RowTotal liabilities 	5,670,031 	1,118,517
+RowCommitments and contingencies
+		RowStockholders’ equity:
+		RowPreferred stock, $0.01 par value, authorized 5,000 shares; none issued or outstanding 	— 	—
+RowCommon stock, $0.01 par value, authorized 100,000 shares; 53,501 shares issued and 52,886 shares outstanding at August 3,
+2019; 51,025 issued and 50,411 shares outstanding shares at July 28, 2018 	535 	510
+RowAdditional paid-in capital 	530,801 	483,623
+RowTreasury stock at cost 	(24,231) 	(24,231)
+RowAccumulated other comprehensive loss 	(108,953) 	(14,179)
+RowRetained earnings 	1,115,519 	1,400,232
+RowTotal United Natural Foods, Inc. stockholders’ equity 	1,513,671 	1,845,955
+RowNoncontrolling interests 	(2,737) 	—
+RowTotal stockholders' equity 	1,510,934 	1,845,955
+RowTotal liabilities and stockholders’ equity 	$ 7,180,965 $ 	2,964,472
+RowStockholders’ equity:
+		Rowstock, $0.01 par value, authorized 5,000 shares; none issued or outstanding 	— 	—
+Rowstock, $0.01 par value, authorized 100,000 shares; 53,501 shares issued and 52,886 shares outstanding at August 3,
+		Row51,025 issued and 50,411 shares outstanding shares at July 28, 2018 	535 	510
+Rowpaid-in capital 	530,801 	483,623
+Rowstock at cost 	(24,231) 	(24,231)
+RowAccumulated other comprehensive loss 	(108,953) 	(14,179)
+Rowearnings 	1,115,519 	1,400,232
+RowUnited Natural Foods, Inc. stockholders’ equity 	1,513,671 	1,845,955
+RowNoncontrolling interests 	(2,737) 	—
+Rowstockholders' equity 	1,510,934 	1,845,955
+Rowliabilities and stockholders’ equity 	$ 7,180,965 	$ 2,964,472
+RowAugust 3,
+	July 28,
+	July 29,
+Row2019
+	2018
+	2017
+Row$ 21,387,068 	$ 10,226,683 	$ 9,274,471
+Row18,602,058 	8,703,916 	7,845,550
+Row2,785,010 	1,522,767 	1,428,921
+Row2,629,713 	1,274,562 	1,196,032
+Row292,770 	11,242 	—
+Row153,539 	9,738 	6,864
+Row(291,012) 	227,225 	226,025
+Row(34,726) 	— 	—
+Row179,963 	16,025 	16,754
+Row(957) 	(1,545) 	(5,152)
+Row144,280 	14,480 	11,602
+Row(435,292) 	212,745 	214,423
+Row(84,609) 	47,075 	84,268
+Row(350,683) 	165,670 	130,155
+Row65,800 	— 	—
+Row(284,883) 	165,670 	130,155
+Row(107) 	— 	—
+Row$ (284,990) 	$ 165,670 	$ 130,155
+Row	August 3,
+2019
+	July 28,
+2018
+	July 29,
+2017
+RowNet sales 	$ 21,387,068 	$ 10,226,683 	$ RowCost of sales 	18,602,058 	8,703,916 	RowGross profit 	2,785,010 	1,522,767 	RowOperating expenses 	2,629,713 	1,274,562 	RowGoodwill and asset impairment charges 	292,770 	11,242 	RowRestructuring, acquisition and integration related expenses 	153,539 	9,738 	RowOperating (loss) income 	(291,012) 	227,225 	RowOther expense (income):
+			RowNet periodic benefit income, excluding service cost 	(34,726) 	— 	RowInterest expense, net 	179,963 	16,025 	RowOther, net 	(957) 	(1,545) 	RowTotal other expense, net 	144,280 	14,480 	Row(Loss) income from continuing operations before income taxes 	(435,292) 	212,745 	Row(Benefit) provision for income taxes 	(84,609) 	47,075 	RowNet (loss) income from continuing operations 	(350,683) 	165,670 	RowIncome from discontinued operations, net of tax 	65,800 	— 	RowNet (loss) income including noncontrolling interests 	(284,883) 	165,670 	RowLess net (income) loss attributable to noncontrolling interests 	(107) 	— 	RowNet (loss) income attributable to United Natural Foods, Inc. 	$ (284,990) 	$ 165,670 	$ RowBasic (loss) earnings per share:
+			RowContinuing operations 	$ (6.84) 	$ 3.28 	$ RowDiscontinued operations 	$ 1.28 	$ — 	$ RowBasic (loss) income per share 	$ (5.56) 	$ 3.28 	$ RowDiluted (loss) earnings per share:
+			RowContinuing operations 	$ (6.84) 	$ 3.26 	$ RowDiscontinued operations 	$ 1.27 	$ — 	$ RowDiluted (loss) income per share 	$ (5.56) 	$ 3.26 	$ RowWeighted average shares outstanding:
+			RowBasic 	51,245 	50,530 	RowDiluted 	51,537 	50,837 	Row	August 3, 2019
+(53 weeks)
+	July 28, 2018
+(52 weeks)
+	July 29, 2017
+(52 weeks)
+RowNet (loss) income including noncontrolling interests 	$ (284,883) 	$ 165,670 	$ 130,155
+RowOther comprehensive (loss) income:
+			RowRecognition of pension and other postretirement benefit obligations, net of tax(1) 	(32,458) 	— 	—
+RowRecognition of interest rate swap cash flow hedges, net of tax(2) 	(61,287) 	3,575 	4,879
+RowForeign currency translation adjustments 	(1,029) 	(3,791) 	3,537
+RowTotal other comprehensive (loss) income 	(94,774) 	(216) 	8,416
+RowLess comprehensive (income) loss attributable to noncontrolling interests 	(107) 	— 	—
+RowTotal comprehensive (loss) income attributable to United Natural Foods, Inc. 	$ (379,764) 	$ 165,454 	$ 138,571
+Row	Shares Amount Common Stock 	Shares Treasury 	Amount
+Stock
+	Additional
+Paid-in
+Capital
+	Other
+Comprehensive
+Loss
+	Retained
+Earnings
+	Inc.
+Stockholders’
+Equity
+	Noncontrolling
+Interests
+	Total
+Stockholders’
+Equity
+RowBalances at July 30, 2016 	50,383 $ 504 	— $ 	— 	$ 436,167 $ 	(22,379) $ 	1,105,212 	$ 1,519,504 	— 	$ 1,519,504
+RowRestricted stock vestings and stock
+option exercises, net 	239 2 			(1,041) 			(1,039) 		(1,039)
+RowShare-based compensation 				26,205 			26,205 		26,205
+RowTax deficit associated with stock
+plans 				(1,320) 			(1,320) 		(1,320)
+RowOther comprehensive income 					8,416 		8,416 		8,416
+RowNet income 						130,155 	130,155 		130,155
+RowBalances at July 29, 2017 	50,622 $ 506 	— $ 	— 	$ 460,011 $ 	(13,963) $ 	1,235,367 	$ 1,681,921 	$ — 	$ 1,681,921
+RowCumulative effect of change in
+accounting principle 				1,314 		(805) 	509 		509
+RowRestricted stock vestings and stock
+option exercises, net 	403 4 			(3,592) 			(3,588) 		(3,588)
+RowShare-based compensation 				25,890 			25,890 		25,890
+RowRepurchase of common stock 		615 	(24,231) 				(24,231) 		(24,231)
+RowOther comprehensive loss 					(216) 		(216) 		(216)
+RowNet income 						165,670 	165,670 		165,670
+RowBalances at July 28, 2018 	51,025 $ 510 	615 	$(24,231) 	$ 483,623 $ 	(14,179) $ 	1,400,232 	$ 1,845,955 	$ — 	$ 1,845,955
+RowCumulative effect of change in
+accounting principle 						277 	277 		277
+RowRestricted stock vestings and stock
+option exercises, net 	471 5 			(2,613) 			(2,608) 		(2,608)
+RowShare-based compensation 				25,954 			25,954 		25,954
+RowOther comprehensive loss 					(94,774) 		(94,774) 		(94,774)
+RowAcquisition of noncontrolling
+interests 							— 	(1,633) 	(1,633)
+RowDistributions to noncontrolling
+interests 							— 	(1,211) 	(1,211)
+RowProceeds from the issuance of
+common stock, net 	2,005 20 			23,837 			23,857 		23,857
+RowNet (loss) income 						(284,990) 	(284,990) 	107 	(284,883)
+RowBalances at August 3, 2019 	53,501 $ 535 	615 	$(24,231) 	$ 530,801 $ 	(108,953) $ 	1,115,519 	$ 1,513,671 	$ (2,737) 	$ 1,510,934
+Row		See accompanying 	Notes 	to Consolidated 	Financial 	Statements.
+			Row(In thousands)
+	August 3, 2019
+(53 weeks)
+	July 28, 2018
+(52 weeks)
+	July 29, 2017
+(52 weeks)
+RowCASH FLOWS FROM OPERATING ACTIVITIES:
+			RowNet (loss) income including noncontrolling interests 	$ (284,883) 	$ 165,670 	$ 130,155
+RowIncome from discontinued operations, net of tax 	65,800 	— 	—
+RowNet (loss) income from continuing operations 	(350,683) 	165,670 	130,155
+RowAdjustments to reconcile net (loss) income to net cash provided by operating activities:
+			RowDepreciation and amortization 	246,825 	87,631 	86,051
+RowShare-based compensation 	25,551 	25,783 	25,675
+RowLoss on disposal of assets 	2,859 	2,820 	943
+RowGain associated with disposal of investment 	— 	(699) 	(6,106)
+RowClosed property and other restructuring charges 	26,875 	— 	640
+RowGoodwill and asset impairments 	292,770 	11,242 	—
+RowNet pension and other postretirement benefit income 	(34,553) 	— 	—
+RowDeferred income tax benefit 	(60,798) 	(14,819) 	(1,891)
+RowLIFO charge 	24,120 	— 	—
+RowChange in accounting estimate 	— 	(20,909) 	—
+RowProvision for doubtful accounts 	9,749 	12,006 	5,728
+RowLoss on debt extinguishment 	2,903 	— 	—
+RowExcess tax deficit from share-based payment arrangements 	— 	— 	1,320
+RowNon-cash interest expense 	12,751 	275 	175
+RowChanges in operating assets and liabilities, net of acquired businesses
+			RowAccounts receivable 	52,735 	(67,283) 	(38,757)
+RowInventories 	177,094 	(108,795) 	(6,929)
+RowPrepaid expenses and other assets 	(43,167) 	4,473 	(6,383)
+RowAccounts payable 	(40,149) 	3,961 	82,772
+RowAccrued expenses, other liabilities and other 	(169,760) 	7,682 	(62)
+RowNet cash provided by operating activities of continuing operations 	175,122 	109,038 	273,331
+RowNet cash provided by operating activities of discontinued operations 	109,408 	— 	—
+RowNet cash provided by operating activities 	284,530 	109,038 	273,331
+RowCASH FLOWS FROM INVESTING ACTIVITIES:
+			RowCapital expenditures 	(207,817) 	(44,608) 	(56,112)
+RowPurchases of acquired businesses, net of cash acquired 	(2,292,435) 	(39) 	(9,207)
+RowProceeds from dispositions of assets 	173,747 	283 	168
+RowProceeds from disposal of investments 	— 	756 	9,192
+RowPayments for long-term investment 	(110) 	(3,397) 	(2,000)
+RowPayment of company owned life insurance premiums 	(170) 	— 	(2,000)
+RowNet cash used in investing activities of continuing operations 	(2,326,785) 	(47,005) 	(59,959)
+RowNet cash provided by investing activities of discontinued operations 	67,998 	— 	—
+RowNet cash used in investing activities 	(2,258,787) 	(47,005) 	(59,959)
+RowCASH FLOWS FROM FINANCING ACTIVITIES:
+			RowProceeds from borrowings of long-term debt 	1,926,642 	— 	—
+RowProceeds from borrowings under revolving credit line 	3,971,504 	556,061 	215,662
+RowProceeds from issuance of other loans 	22,358 	— 	—
+RowRepayments of borrowings under revolving credit line 	(3,101,679) 	(569,671) 	(418,693)
+RowRepayments of long-term debt and capital lease obligations 	(779,909) 	(12,128) 	(11,546)
+RowRepurchase of common stock 	— 	(24,231) 	—
+RowProceeds from the issuance of common stock and exercise of stock options 	23,975 	975 	274
+RowPayment of employee restricted stock tax withholdings 	(2,727) 	(4,563) 	(1,313)
+RowExcess tax deficit from share-based payment arrangements 	— 	— 	(1,320)
+Row:	2019
+	2018
+Row:ASSETS
+		Row:Cash and cash equivalents 	$ 42,350 $ 	23,315
+Row:Accounts receivable, net 	1,065,699 	579,702
+Row:Inventories 	2,089,416 	1,135,775
+Row:Prepaid expenses and other current assets 	226,727 	50,122
+Row:Current assets of discontinued operations 	143,729 	—
+Row:Total current assets 	3,567,921 	1,788,914
+Row:Property and equipment, net 	1,639,259 	571,146
+Row:Goodwill 	442,256 	362,495
+Row:Intangible assets, net 	1,041,058 	193,209
+Row:Deferred income taxes 	31,087 	—
+Row:Other assets 	107,319 	48,708
+Row:Long-term assets of discontinued operations 	352,065 	—
+Row:Total assets 	$ 7,180,965 $ 	2,964,472
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+		Row:Accounts payable 	$ 1,476,857 $ 	517,125
+Row:Accrued expenses and other current liabilities 	249,426 	103,526
+Row:Accrued compensation and benefits 	148,296 	66,132
+Row:Current portion of long-term debt and capital lease obligations 	112,103 	12,441
+Row:Current liabilities of discontinued operations 	122,265 	—
+Row:Total current liabilities 	2,108,947 	699,224
+Row:Long-term debt 	2,819,050 	308,836
+Row:Long-term capital lease obligations 	108,208 	31,487
+Row:Pension and other postretirement benefit obligations 	237,266 	—
+Row:Deferred income taxes 	1,042 	44,384
+Row:Other long-term liabilities 	393,595 	34,586
+Row:Long-term liabilities of discontinued operations 	1,923 	—
+Row:Total liabilities 	5,670,031 	1,118,517
+Row:Commitments and contingencies
+		Row:Stockholders’ equity:
+		Row:Preferred stock, $0.01 par value, authorized 5,000 shares; none issued or outstanding 	— 	—
+Row:Common stock, $0.01 par value, authorized 100,000 shares; 53,501 shares issued and 52,886 shares outstanding at August 3,
+2019; 51,025 issued and 50,411 shares outstanding shares at July 28, 2018 	535 	510
+Row:Additional paid-in capital 	530,801 	483,623
+Row:Treasury stock at cost 	(24,231) 	(24,231)
+Row:Accumulated other comprehensive loss 	(108,953) 	(14,179)
+Row:Retained earnings 	1,115,519 	1,400,232
+Row:Total United Natural Foods, Inc. stockholders’ equity 	1,513,671 	1,845,955
+Row:Noncontrolling interests 	(2,737) 	—
+Row:Total stockholders' equity 	1,510,934 	1,845,955
+Row:Total liabilities and stockholders’ equity 	$ 7,180,965 $ 	2,964,472
+Row:Stockholders’ equity:
+		Row:stock, $0.01 par value, authorized 5,000 shares; none issued or outstanding 	— 	—
+Row:stock, $0.01 par value, authorized 100,000 shares; 53,501 shares issued and 52,886 shares outstanding at August 3,
+		Row:51,025 issued and 50,411 shares outstanding shares at July 28, 2018 	535 	510
+Row:paid-in capital 	530,801 	483,623
+Row:stock at cost 	(24,231) 	(24,231)
+Row:Accumulated other comprehensive loss 	(108,953) 	(14,179)
+Row:earnings 	1,115,519 	1,400,232
+Row:United Natural Foods, Inc. stockholders’ equity 	1,513,671 	1,845,955
+Row:Noncontrolling interests 	(2,737) 	—
+Row:stockholders' equity 	1,510,934 	1,845,955
+Row:liabilities and stockholders’ equity 	$ 7,180,965 	$ 2,964,472
+Row:August 3,
+	July 28,
+	July 29,
+Row:2019
+	2018
+	2017
+Row:$ 21,387,068 	$ 10,226,683 	$ 9,274,471
+Row:18,602,058 	8,703,916 	7,845,550
+Row:2,785,010 	1,522,767 	1,428,921
+Row:2,629,713 	1,274,562 	1,196,032
+Row:292,770 	11,242 	—
+Row:153,539 	9,738 	6,864
+Row:(291,012) 	227,225 	226,025
+Row:(34,726) 	— 	—
+Row:179,963 	16,025 	16,754
+Row:(957) 	(1,545) 	(5,152)
+Row:144,280 	14,480 	11,602
+Row:(435,292) 	212,745 	214,423
+Row:(84,609) 	47,075 	84,268
+Row:(350,683) 	165,670 	130,155
+Row:65,800 	— 	—
+Row:(284,883) 	165,670 	130,155
+Row:(107) 	— 	—
+Row:$ (284,990) 	$ 165,670 	$ 130,155
+Row:	August 3,
+2019
+	July 28,
+2018
+	July 29,
+2017
+Row:Net sales 	$ 21,387,068 	$ 10,226,683 	$ Row:Cost of sales 	18,602,058 	8,703,916 	Row:Gross profit 	2,785,010 	1,522,767 	Row:Operating expenses 	2,629,713 	1,274,562 	Row:Goodwill and asset impairment charges 	292,770 	11,242 	Row:Restructuring, acquisition and integration related expenses 	153,539 	9,738 	Row:Operating (loss) income 	(291,012) 	227,225 	Row:Other expense (income):
+			Row:Net periodic benefit income, excluding service cost 	(34,726) 	— 	Row:Interest expense, net 	179,963 	16,025 	Row:Other, net 	(957) 	(1,545) 	Row:Total other expense, net 	144,280 	14,480 	Row:(Loss) income from continuing operations before income taxes 	(435,292) 	212,745 	Row:(Benefit) provision for income taxes 	(84,609) 	47,075 	Row:Net (loss) income from continuing operations 	(350,683) 	165,670 	Row:Income from discontinued operations, net of tax 	65,800 	— 	Row:Net (loss) income including noncontrolling interests 	(284,883) 	165,670 	Row:Less net (income) loss attributable to noncontrolling interests 	(107) 	— 	Row:Net (loss) income attributable to United Natural Foods, Inc. 	$ (284,990) 	$ 165,670 	$ Row:Basic (loss) earnings per share:
+			Row:Continuing operations 	$ (6.84) 	$ 3.28 	$ Row:Discontinued operations 	$ 1.28 	$ — 	$ Row:Basic (loss) income per share 	$ (5.56) 	$ 3.28 	$ Row:Diluted (loss) earnings per share:
+			Row:Continuing operations 	$ (6.84) 	$ 3.26 	$ Row:Discontinued operations 	$ 1.27 	$ — 	$ Row:Diluted (loss) income per share 	$ (5.56) 	$ 3.26 	$ Row:Weighted average shares outstanding:
+			Row:Basic 	51,245 	50,530 	Row:Diluted 	51,537 	50,837 	Row:	August 3, 2019
+(53 weeks)
+	July 28, 2018
+(52 weeks)
+	July 29, 2017
+(52 weeks)
+Row:Net (loss) income including noncontrolling interests 	$ (284,883) 	$ 165,670 	$ 130,155
+Row:Other comprehensive (loss) income:
+			Row:Recognition of pension and other postretirement benefit obligations, net of tax(1) 	(32,458) 	— 	—
+Row:Recognition of interest rate swap cash flow hedges, net of tax(2) 	(61,287) 	3,575 	4,879
+Row:Foreign currency translation adjustments 	(1,029) 	(3,791) 	3,537
+Row:Total other comprehensive (loss) income 	(94,774) 	(216) 	8,416
+Row:Less comprehensive (income) loss attributable to noncontrolling interests 	(107) 	— 	—
+Row:Total comprehensive (loss) income attributable to United Natural Foods, Inc. 	$ (379,764) 	$ 165,454 	$ 138,571
+Row:	Shares Amount Common Stock 	Shares Treasury 	Amount
+Stock
+	Additional
+Paid-in
+Capital
+	Other
+Comprehensive
+Loss
+	Retained
+Earnings
+	Inc.
+Stockholders’
+Equity
+	Noncontrolling
+Interests
+	Total
+Stockholders’
+Equity
+Row:Balances at July 30, 2016 	50,383 $ 504 	— $ 	— 	$ 436,167 $ 	(22,379) $ 	1,105,212 	$ 1,519,504 	— 	$ 1,519,504
+Row:Restricted stock vestings and stock
+option exercises, net 	239 2 			(1,041) 			(1,039) 		(1,039)
+Row:Share-based compensation 				26,205 			26,205 		26,205
+Row:Tax deficit associated with stock
+plans 				(1,320) 			(1,320) 		(1,320)
+Row:Other comprehensive income 					8,416 		8,416 		8,416
+Row:Net income 						130,155 	130,155 		130,155
+Row:Balances at July 29, 2017 	50,622 $ 506 	— $ 	— 	$ 460,011 $ 	(13,963) $ 	1,235,367 	$ 1,681,921 	$ — 	$ 1,681,921
+Row:Cumulative effect of change in
+accounting principle 				1,314 		(805) 	509 		509
+Row:Restricted stock vestings and stock
+option exercises, net 	403 4 			(3,592) 			(3,588) 		(3,588)
+Row:Share-based compensation 				25,890 			25,890 		25,890
+Row:Repurchase of common stock 		615 	(24,231) 				(24,231) 		(24,231)
+Row:Other comprehensive loss 					(216) 		(216) 		(216)
+Row:Net income 						165,670 	165,670 		165,670
+Row:Balances at July 28, 2018 	51,025 $ 510 	615 	$(24,231) 	$ 483,623 $ 	(14,179) $ 	1,400,232 	$ 1,845,955 	$ — 	$ 1,845,955
+Row:Cumulative effect of change in
+accounting principle 						277 	277 		277
+Row:Restricted stock vestings and stock
+option exercises, net 	471 5 			(2,613) 			(2,608) 		(2,608)
+Row:Share-based compensation 				25,954 			25,954 		25,954
+Row:Other comprehensive loss 					(94,774) 		(94,774) 		(94,774)
+Row:Acquisition of noncontrolling
+interests 							— 	(1,633) 	(1,633)
+Row:Distributions to noncontrolling
+interests 							— 	(1,211) 	(1,211)
+Row:Proceeds from the issuance of
+common stock, net 	2,005 20 			23,837 			23,857 		23,857
+Row:Net (loss) income 						(284,990) 	(284,990) 	107 	(284,883)
+Row:Balances at August 3, 2019 	53,501 $ 535 	615 	$(24,231) 	$ 530,801 $ 	(108,953) $ 	1,115,519 	$ 1,513,671 	$ (2,737) 	$ 1,510,934
+Row:		See accompanying 	Notes 	to Consolidated 	Financial 	Statements.
+			Row:(In thousands)
+	August 3, 2019
+(53 weeks)
+	July 28, 2018
+(52 weeks)
+	July 29, 2017
+(52 weeks)
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+			Row:Net (loss) income including noncontrolling interests 	$ (284,883) 	$ 165,670 	$ 130,155
+Row:Income from discontinued operations, net of tax 	65,800 	— 	—
+Row:Net (loss) income from continuing operations 	(350,683) 	165,670 	130,155
+Row:Adjustments to reconcile net (loss) income to net cash provided by operating activities:
+			Row:Depreciation and amortization 	246,825 	87,631 	86,051
+Row:Share-based compensation 	25,551 	25,783 	25,675
+Row:Loss on disposal of assets 	2,859 	2,820 	943
+Row:Gain associated with disposal of investment 	— 	(699) 	(6,106)
+Row:Closed property and other restructuring charges 	26,875 	— 	640
+Row:Goodwill and asset impairments 	292,770 	11,242 	—
+Row:Net pension and other postretirement benefit income 	(34,553) 	— 	—
+Row:Deferred income tax benefit 	(60,798) 	(14,819) 	(1,891)
+Row:LIFO charge 	24,120 	— 	—
+Row:Change in accounting estimate 	— 	(20,909) 	—
+Row:Provision for doubtful accounts 	9,749 	12,006 	5,728
+Row:Loss on debt extinguishment 	2,903 	— 	—
+Row:Excess tax deficit from share-based payment arrangements 	— 	— 	1,320
+Row:Non-cash interest expense 	12,751 	275 	175
+Row:Changes in operating assets and liabilities, net of acquired businesses
+			Row:Accounts receivable 	52,735 	(67,283) 	(38,757)
+Row:Inventories 	177,094 	(108,795) 	(6,929)
+Row:Prepaid expenses and other assets 	(43,167) 	4,473 	(6,383)
+Row:Accounts payable 	(40,149) 	3,961 	82,772
+Row:Accrued expenses, other liabilities and other 	(169,760) 	7,682 	(62)
+Row:Net cash provided by operating activities of continuing operations 	175,122 	109,038 	273,331
+Row:Net cash provided by operating activities of discontinued operations 	109,408 	— 	—
+Row:Net cash provided by operating activities 	284,530 	109,038 	273,331
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+			Row:Capital expenditures 	(207,817) 	(44,608) 	(56,112)
+Row:Purchases of acquired businesses, net of cash acquired 	(2,292,435) 	(39) 	(9,207)
+Row:Proceeds from dispositions of assets 	173,747 	283 	168
+Row:Proceeds from disposal of investments 	— 	756 	9,192
+Row:Payments for long-term investment 	(110) 	(3,397) 	(2,000)
+Row:Payment of company owned life insurance premiums 	(170) 	— 	(2,000)
+Row:Net cash used in investing activities of continuing operations 	(2,326,785) 	(47,005) 	(59,959)
+Row:Net cash provided by investing activities of discontinued operations 	67,998 	— 	—
+Row:Net cash used in investing activities 	(2,258,787) 	(47,005) 	(59,959)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+			Row:Proceeds from borrowings of long-term debt 	1,926,642 	— 	—
+Row:Proceeds from borrowings under revolving credit line 	3,971,504 	556,061 	215,662
+Row:Proceeds from issuance of other loans 	22,358 	— 	—
+Row:Repayments of borrowings under revolving credit line 	(3,101,679) 	(569,671) 	(418,693)
+Row:Repayments of long-term debt and capital lease obligations 	(779,909) 	(12,128) 	(11,546)
+Row:Repurchase of common stock 	— 	(24,231) 	—
+Row:Proceeds from the issuance of common stock and exercise of stock options 	23,975 	975 	274
+Row:Payment of employee restricted stock tax withholdings 	(2,727) 	(4,563) 	(1,313)
+Row:Excess tax deficit from share-based payment arrangements 	— 	— 	(1,320)

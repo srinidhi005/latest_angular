@@ -1,0 +1,135 @@
+Row($ and shares in millions except par value)
+)
+	November 3,
+2018
+	February 3,
+2018
+	October 28,
+,
+2017
+RowASSETS
+			RowCurrent assets:
+:
+			RowCash and cash equivalents 	$ 958 $ 	1,783 	$ 1,353
+RowShort-term investments 	296 	— 	—
+RowMerchandise inventory 	2,668 	1,997 	2,476
+RowOther current assets 	792 	788 	654
+RowTotal current assets 	4,714 	4,568 	4,483
+RowProperty and equipment, , net of accumulated depreciation of $6,112, , $5,962, , and $6,041 	2,887 	2,805 	2,686
+RowOther long-term assets 	572 	616 	726
+RowTotal assets 	$ 8,173 $ 	7,989 	$ 7,895
+RowLIABILITIES AND STOCKHOLDERS’ EQUITY
+			RowCurrent liabilities:
+:
+			RowAccounts payable 	$ 1,299 $ 	1,181 	$ 1,330
+RowAccrued expenses and other current liabilities 	1,070 	1,270 	1,132
+RowIncome taxes payable 	24 	10 	134
+RowTotal current liabilities 	2,393 	2,461 	2,596
+RowLong-term liabilities:
+:
+			RowLong-term debt 	1,249 	1,249 	1,248
+RowLease incentives and other long-term liabilities 	1,091 	1,135 	1,027
+RowTotal long-term liabilities 	2,340 	2,384 	2,275
+RowCommitments and contingencies (see Note 11)
+			RowStockholders’ ' equity:
+:
+			RowCommon stock $0.05 par value
+			RowAuthorized 2,300 shares for all periods presented; Issued and Outstanding 382, 389, 389 shares , and
+	19 	19 	19
+RowAdditional paid-in capital 	— 	8 	—
+RowRetained earnings 	3,368 	3,081 	2,965
+RowAccumulated other comprehensive income 	53 	36 	40
+RowTotal stockholders’ equity 	3,440 	3,144 	3,024
+RowTotal liabilities and stockholders’ equity 	$ 8,173 $ 	7,989 	$ 7,895
+Row1,249 	1,249 	1,248
+Row1,091 	1,135 	1,027
+Row2,340 	2,384 	2,275
+RowCommon stock $0.05 par value
+		RowAuthorized 2,300 shares for all periods presented; Issued and Outstanding 382, 389, , and
+		Row389 shares 19 	19 	19
+RowAdditional paid-in capital — 	8 	—
+RowRetained earnings 3,368 	3,081 	2,965
+RowAccumulated other comprehensive income 53 	36 	40
+RowTotal stockholders’ equity 3,440 	3,144 	3,024
+RowTotal liabilities and stockholders’ equity $ 8,173 	$ 7,989 	$ 7,895
+Row	53 	36 	40
+Row	3,440 	3,144 	3,024
+Row$ 	8,173 $ 	7,989 $ 	7,895
+Row($ and shares in millions except per share amounts)
+)
+	November 3,
+2018
+,
+	October 28,
+2017
+	November 3,
+2018
+,
+		October 28,
+,
+2017
+RowNet sales 	$ 4,089 	$ 3,838 	$ 11,957 	$ 	11,077
+RowCost of goods sold and occupancy expenses 	2,466 	2,313 	7,280 		6,770
+RowGross profit 	1,623 	1,525 	4,677 		4,307
+RowOperating expenses 	1,260 	1,147 	3,687 		3,224
+RowOperating income 	363 	378 	990 		1,083
+RowInterest expense 	21 	18 	54 		53
+RowInterest income 	(8) 	(4) 	(21) 		(11)
+RowIncome before income taxes 	350 	364 	957 		1,041
+RowIncome taxes 	84 	135 	230 		398
+RowNet income 	$ 266 	$ 229 	$ 727 	$ 	643
+RowWeighted-average number of shares - basic 	384 	391 	387 		395
+RowWeighted-average number of shares - diluted 	387 	393 	390 		397
+RowEarnings per share - basic 	$ 0.69 	$ 0.59 	$ 1.88 	$ 	1.63
+RowEarnings per share - diluted 	$ 0.69 	$ 0.58 	$ 1.86 	$ 	1.62
+RowCash dividends declared and paid per share 	$ 0.2425 	$ 0.23 	$ 0.7275 	$ 	0.69
+Row($ in millions)
+	November 3,
+2018
+	October 28,
+2017
+RowCash flows from operating activities:
+		RowNet income 	$ 727 	$ 643
+RowAdjustments to reconcile net income to net cash provided by operating activities:
+:
+		RowDepreciation and amortization 	425 	418
+RowAmortization of lease incentives 	(45) 	(46)
+RowShare-based compensation 	72 	60
+RowNon-cash and other items 	10 	26
+RowDeferred income taxes 	33 	(50)
+RowChanges in operating assets and liabilities:
+:
+		RowMerchandise inventory 	(696) 	(636)
+RowOther current assets and other long-term assets 	(64) 	(60)
+RowAccounts payable 	90 	55
+RowAccrued expenses and other current liabilities 	(148) 	(46)
+RowIncome taxes payable, , net of prepaid and other tax-related items 	127 	188
+RowLease incentives and other long-term liabilities 	36 	48
+RowNet cash provided by operating activities 	567 	600
+RowCash flows from investing activities:
+:
+		RowPurchases of property and equipment 	(510) 	(463)
+RowInsurance proceeds related to loss on property and equipment 	— 	60
+RowPurchases of short-term investments 	(408) 	—
+RowSales and maturities of short-term investments 	112 	—
+RowOther 	(7) 	—
+RowNet cash used for investing activities 	(813) 	(403)
+RowCash flows from financing activities:
+:
+		RowPayments of current maturities of debt 	— 	(67)
+RowProceeds from issuances under share-based compensation plans 	40 	23
+RowWithholding tax payments related to vesting of stock units 	(22) 	(15)
+RowRepurchases of common stock 	(300) 	(300)
+RowCash dividends paid 	(281) 	(272)
+RowOther 	(1) 	—
+RowNet cash used for financing activities 	(564) 	(631)
+RowEffect of foreign exchange rate fluctuations on cash, , cash equivalents, , and restricted cash 	(13) 	7
+RowNet decrease in cash, , cash equivalents, , and restricted cash 	(823) 	(427)
+RowCash, , cash equivalents, , and restricted cash at beginning of period 	1,799 	1,797
+RowCash, , cash equivalents, , and restricted cash at end of period 	$ 976 	$ 1,370
+RowSupplemental disclosure of cash flow information:
+:
+		RowCash paid for interest during the period 	$ 77 	$ 76
+RowCash paid for income taxes during the period, , net of refunds 	$ 73 	$ 260
+RowSee Accompanying Notes to Condensed Consolidated Financial Statements
+		

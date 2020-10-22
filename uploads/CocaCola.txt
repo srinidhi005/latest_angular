@@ -1,0 +1,120 @@
+Row 0: (In millions except per share data)
+			Row 1: NET OPERATING REVENUES 	$ 31,856 	$ 35,410 	$ 41,863
+Row 2: Cost of goods sold 	11,770 	13,255 	16,465
+Row 3: GROSS PROFIT 	20,086 	22,155 	25,398
+Row 4: Selling, general and administrative expenses 	10,307 	12,654 	15,370
+Row 5: Other operating charges 	1,079 	1,902 	1,371
+Row 6: OPERATING INCOME 	8,700 	7,599 	8,657
+Row 7: Interest income 	682 	677 	642
+Row 8: Interest expense 	919 	841 	733
+Row 9: Equity income (loss) — net 	1,008 	1,071 	835
+Row 10: Other income (loss) — net 	(1,121) 	(1,764) 	(1,265)
+Row 11: INCOME FROM CONTINUING OPERATIONS BEFORE INCOME TAXES 	8,350 	6,742 	8,136
+Row 12: Income taxes from continuing operations 	1,623 	5,560 	1,586
+Row 13: NET INCOME FROM CONTINUING OPERATIONS 	6,727 	1,182 	6,550
+Row 14: Income (loss) from discontinued operations (net of income taxes of
+			Row 15: $126, $47 and $0, respectively) 	(251) 	101 	—
+Row 16: CONSOLIDATED NET INCOME 	6,476 	1,283 	6,550
+Row 17: Less: Net income attributable to noncontrolling interests 	42 	35 	23
+Row 18: NET INCOME ATTRIBUTABLE TO SHAREOWNERS OF
+			Row 19: THE COCA-COLA COMPANY 	$ 6,434 	$ 1,248 	$ 6,527
+Row 20: Basic net income per share from continuing operations1 	$ 1.58 	$ 0.28 	$ 1.51
+Row 21: Basic net income (loss) per share from discontinued operations2 	(0.07) 	0.02 	—
+Row 22: BASIC NET INCOME PER SHARE 	$ 1.51 	$ 0.293 	$ 1.51
+Row 23: Diluted net income per share from continuing operations1 	$ 1.57 	$ 0.27 	$ 1.49
+Row 24: Diluted net income (loss) per share from discontinued operations2 	(0.07) 	0.02 	—
+Row 25: DILUTED NET INCOME PER SHARE 	$ 1.50 	$ 0.29 	$ 1.49
+Row 26: AVERAGE SHARES OUTSTANDING — BASIC 	4,259 	4,272 	4,317
+Row 27: Effect of dilutive securities 	40 	52 	50
+Row 28: AVERAGE SHARES OUTSTANDING — DILUTED 	4,299 	4,324 	4,367
+Row 29: 1 Calculated based on net income from continuing operations less net income from continuing operations attributable 	to 	noncontrolling interests.
+	Row 0: Short-term investments 	2,025 	9,352
+Row 1: TOTAL CASH, CASH EQUIVALENTS AND SHORT-TERM INVESTMENTS 	10,951 	15,358
+Row 2: Marketable securities 	5,013 	5,317
+Row 3: Trade accounts receivable, less allowances of $489 and $477, respectively 	3,396 	3,667
+Row 4: Inventories 	2,766 	2,655
+Row 5: Prepaid expenses and other assets 	1,962 	2,000
+Row 6: Assets held for sale 	— 	219
+Row 7: Assets held for sale — discontinued operations 	6,546 	7,329
+Row 8: TOTAL CURRENT ASSETS 	30,634 	36,545
+Row 9: EQUITY METHOD INVESTMENTS 	19,407 	20,856
+Row 10: OTHER INVESTMENTS 	867 	1,096
+Row 11: OTHER ASSETS 	4,139 	4,230
+Row 12: DEFERRED INCOME TAX ASSETS 	2,667 	330
+Row 13: PROPERTY, PLANT AND EQUIPMENT — net 	8,232 	8,203
+Row 14: TRADEMARKS WITH INDEFINITE LIVES 	6,682 	6,729
+Row 15: BOTTLERS’ FRANCHISE RIGHTS WITH INDEFINITE LIVES 	51 	138
+Row 16: GOODWILL 	10,263 	9,401
+Row 17: OTHER INTANGIBLE ASSETS 	274 	368
+Row 18: TOTAL ASSETS 	$ 83,216 	$ 87,896
+Row 19: LIABILITIES AND EQUITY
+CURRENT LIABILITIES
+		Row 20: Accounts payable and accrued expenses 	$ 8,932 	$ 8,748
+Row 0: Liabilities held for sale — discontinued operations 	1,722 	1,496
+Row 1: TOTAL CURRENT LIABILITIES 	29,223 	27,194
+Row 2: LONG-TERM DEBT 	25,364 	31,182
+Row 3: OTHER LIABILITIES 	7,638 	8,021
+Row 4: DEFERRED INCOME TAX LIABILITIES 	1,933 	2,522
+Row 5: THE COCA-COLA COMPANY SHAREOWNERS’ EQUITY
+		Row 6: Common stock, $0.25 par value; Authorized — 11,200 shares;
+	1,760 	1,760
+Row 7: Issued — 7,040 and 7,040 shares, respectively
+		Row 8: Capital surplus 	16,520 	15,864
+Row 9: Reinvested earnings 	63,234 	60,430
+Row 10: Accumulated other comprehensive income (loss) 	(12,814) 	(10,305)
+Row 11: Treasury stock, at cost — 2,772 and 2,781 shares, respectively 	(51,719) 	(50,677)
+Row 12: EQUITY ATTRIBUTABLE TO SHAREOWNERS OF THE COCA-COLA COMPANY 	16,981 	17,072
+Row 13: EQUITY ATTRIBUTABLE TO NONCONTROLLING INTERESTS 	2,077 	1,905
+Row 14: TOTAL EQUITY 	19,058 	18,977
+Row 15: TOTAL LIABILITIES AND EQUITY 	$ 83,216 	$ 87,896
+Row 0: LONG-TERM DEBT 		25,364 	31,182
+Row 1: OTHER LIABILITIES DEFERRED INCOME TAX 	LIABILITIES 	7,638 1,933 	8,021
+2,522
+Row 0: (In millions)
+OPERATING ACTIVITIES
+	Row 1: Consolidated net income 	$ 6,476 $ 1,283 $ 6,550
+Row 2: (Income) loss from discontinued operations 	251 (101) —
+Row 3: Net income from continuing operations 	6,727 1,182 6,550
+Row 4: Depreciation and amortization 	1,086 1,260 1,787
+Row 5: Stock-based compensation expense 	225 219 258
+Row 6: Deferred income taxes 	(450) (1,256) (856)
+Row 7: Equity (income) loss — net of dividends 	(457) (628) (449)
+Row 8: Foreign currency adjustments 	(38) 281 158
+Row 9: Significant (gains) losses on sales of assets — net 	189 1,459 1,146
+Row 10: Other operating charges 	558 1,218 647
+Row 11: Other items 	682 (269) (224)
+Row 12: Net change in operating assets and liabilities 	(1,202) 3,464 (225)
+Row 13: Net cash provided by operating activities 	7,320 6,930 8,792
+Row 14: INVESTING ACTIVITIES
+	Row 15: Purchases of investments 	(7,789) (17,296) (16,626)
+Row 16: Proceeds from disposals of investments 	14,977 16,694 17,842
+Row 17: Acquisitions of businesses, equity method investments and nonmarketable securities 	(1,040) (3,809) (838)
+Row 18: Proceeds from disposals of businesses, equity method investments and nonmarketable securities 	1,362 3,821 1,035
+Row 19: Purchases of property, plant and equipment 	(1,347) (1,675) (2,262)
+Row 20: Proceeds from disposals of property, plant and equipment 	245 104 150
+Row 21: Other investing activities 	(60) (93) (305)
+Row 22: Net cash provided by (used in) investing activities 	6,348 (2,254) (1,004)
+Row 23: FINANCING ACTIVITIES
+	Row 24: Issuances of debt 	27,339 29,857 27,281
+Row 25: Payments of debt 	(30,568) (28,768) (25,615)
+Row 26: Issuances of stock 	1,476 1,595 1,434
+Row 27: Purchases of stock for treasury 	(1,912) (3,682) (3,681)
+Row 28: Dividends 	(6,644) (6,320) (6,043)
+Row 29: Other financing activities 	(243) (91) 79
+Row 30: Net cash provided by (used in) financing activities 	(10,552) (7,409) (6,545)
+Row 31: CASH FLOWS FROM DISCONTINUED OPERATIONS
+Net cash provided by (used in) operating activities from discontinued operations 	307 111 —
+Row 32: Net cash provided by (used in) investing activities from discontinued operations 	(421) (58) —
+Row 33: Net cash provided by (used in) financing activities from discontinued operations 	205 (38) —
+Row 34: Net cash provided by (used in) discontinued operations 	91 15 —
+Row 35: EFFECT OF EXCHANGE RATE CHANGES ON CASH, CASH EQUIVALENTS,
+RESTRICTED CASH AND RESTRICTED CASH EQUIVALENTS 	(262) 241 (5)
+Row 36: CASH, CASH EQUIVALENTS, RESTRICTED CASH AND RESTRICTED CASH EQUIVALENTS
+Net increase (decrease) in cash, cash equivalents, restricted cash and restricted cash equivalents
+during the year 	2,945 (2,477) 1,238
+Row 37: Cash, cash equivalents, restricted cash and restricted cash equivalents at beginning of year 	6,373 8,850 7,612
+Row 38: Cash, cash equivalents, restricted cash and restricted cash equivalents at end of year 	9,318 6,373 8,850
+Row 39: Less: Restricted cash and restricted cash equivalents at end of year 	392 367 295
+Row 40: Cash and cash equivalents at end of year 	$ 8,926 $ 6,006 $ 8,555
+Row 41: Refer to Notes to Consolidated Financial Statements.
+	

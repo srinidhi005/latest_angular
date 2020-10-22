@@ -37,7 +37,7 @@ export class BsmetricsComponent implements OnInit {
   'Other Liabilities',
   'Total Shareholders Equity',
   'Total Liabilities and Shareholders Equity',
-  'memocheck'];
+  'Memo Check'];
   displayedColumns: string[]=[];
   displayData: any[];
   constructor(
@@ -79,7 +79,7 @@ export class BsmetricsComponent implements OnInit {
         "otherliabilities":res[j].otherliabilities,
         "totalshareholdersequity":res[j].totalshareholdersequity,
         "totalliabilitiesandequity":res[j].totalliabilitiesandequity,
-        "memocheck":memocheck
+        "Memo Check":memocheck
                 });
         }
     this.apiService.getData(this.urlConfig.getScenarioAPI()+this.companyName).subscribe((res:any)=>{
@@ -118,7 +118,7 @@ export class BsmetricsComponent implements OnInit {
             "otherliabilities":res[j].otherliabilities,
             "totalshareholdersequity":res[j].totalshareholdersequity,
             "totalliabilitiesandequity":res[j].totalliabilitiesandequity,
-            "memocheck":memocheck
+            "Memo Check":memocheck
           });
         }
         this.financialObj.forEach((v,k) => {
@@ -143,7 +143,7 @@ export class BsmetricsComponent implements OnInit {
             "Other Liabilities":v.otherliabilities,
             "Total Shareholders Equity":v.totalshareholdersequity,
             "Total Liabilities and Shareholders Equity":v.totalliabilitiesandequity,
-            "memocheck":memocheck
+            "Memo Check":memocheck
           };
           ELEMENT_D.push(pushData);
       });
@@ -160,8 +160,13 @@ export class BsmetricsComponent implements OnInit {
     for (let i = 0; i < ELEMENT_D.length; ++i) {
       output[ELEMENT_D[i].inMillions] = ELEMENT_D[i][row];
     }
-
     return output;
+  }
+  loadScenario(index:number){
+    if(index != 0){
+      this.scenario = index;
+      this.ngOnInit();
+  }
   }
   exportToXLSX(){}
   exportToPDF(){
@@ -237,6 +242,8 @@ export class BsmetricsComponent implements OnInit {
     autoTable(doc,{
       head: [inMillionsYear],
       body: data,
+      headStyles:{fillColor: [22, 74, 91], textColor:[245, 245, 245]},
+      columnStyles: {0: {fillColor: [22, 74, 91], textColor:[245, 245, 245] }},
       styles: {overflow: 'linebreak',fontSize: 12},
     });
     doc.save(this.companyName +'.pdf');
@@ -264,6 +271,6 @@ export interface PLElement {
   "Other Liabilities":number;
   "Total Shareholders Equity":number;
   "Total Liabilities and Shareholders Equity":number;
-  "memocheck":string;
+  "Memo Check":string;
 }
 const ELEMENT_D: PLElement[] = [];

@@ -1,0 +1,142 @@
+Row:Assets
+		Row:Investments in real estate $ 	11,913,693 	$ 10,298,019
+Row:Investments in unconsolidated real estate joint ventures 	237,507 	110,618
+Row:Cash and cash equivalents 	234,181 	254,381
+Row:Restricted cash 	37,949 	22,805
+Row:Tenant receivables 	9,798 	10,262
+Row:Deferred rent 	530,237 	434,731
+Row:Deferred leasing costs 	239,070 	221,430
+Row:Investments 	892,264 	523,254
+Row:Other assets 	370,257 	228,453
+Row:Total assets $ 	14,464,956 	$ 12,103,953
+Row:Secured notes payable $ 	630,547 	$ 771,061
+Row:Unsecured senior notes payable 	4,292,293 	3,395,804
+Row:Unsecured senior line of credit 	208,000 	50,000
+Row:Unsecured senior bank term loans 	347,415 	547,942
+Row:Accounts payable, accrued expenses, and tenant security deposits 	981,707 	763,832
+Row:Dividends payable 	110,280 	92,145
+Row:Total liabilities 	6,570,242 	5,620,784
+Row:Alexandria Real Estate Equities, Inc.’s stockholders’ equity:
+		Row:7.00% Series D cumulative convertible preferred stock, $0.01 par value per share,
+10,000,000 shares authorized; 2,573,432 and 2,975,432 shares issued and
+		Row:outstanding as of December 31, 2018 and 2017, respectively; $25 liquidation
+value per share 	64,336 	74,386
+Row:Common stock, $0.01 par value per share, 200,000,000 shares authorized as of
+December 31, 2018 and 2017; 111,011,816 and 99,783,686 shares issued and
+outstanding as of December 31, 2018 and 2017, respectively 	1,110 	998
+Row:Additional paid-in capital 	7,286,954 	5,824,258
+Row:Accumulated other comprehensive (loss) income 	(10,435) 	50,024
+Row:Alexandria Real Estate Equities, Inc.’s stockholders’ equity 	7,341,965 	5,949,666
+Row:Noncontrolling interests 	541,963 	521,994
+Row:Total equity 	7,883,928 	6,471,660
+Row:Total liabilities, noncontrolling interests, and equity 	$ 14,464,956 $ 	12,103,953
+Row:	2018 	2017 	2016
+Row:Revenues:
+			Row:Rental $ 	1,010,718 	$ 863,181 	$ 673,820
+Row:Tenant recoveries 	304,063 	259,144 	223,655
+Row:Other income 	12,678 	5,772 	24,231
+Row:Total revenues 	1,327,459 	1,128,097 	921,706
+Row:Expenses:
+			Row:Rental operations 	381,120 	325,609 	278,408
+Row:General and administrative 	90,405 	75,009 	63,884
+Row:Interest 	157,495 	128,645 	106,953
+Row:Depreciation and amortization 	477,661 	416,783 	313,390
+Row:Impairment of real estate 	6,311 	203 	209,261
+Row:Loss on early extinguishment of debt 	1,122 	3,451 	3,230
+Row:Total expenses 	1,114,114 	949,700 	975,126
+Row:Equity in earnings (losses) of unconsolidated real estate joint ventures 	43,981 	15,426 	(184)
+Row:Investment income 	136,763 	— 	—
+Row:Gain on sales of real estate – rental properties 	8,704 	270 	3,715
+Row:Gain on sales of real estate – land parcels 	— 	111 	90
+Row:Net income (loss) 	402,793 	194,204 	(49,799)
+Row:Net income attributable to noncontrolling interests 	(23,481) 	(25,111) 	(16,102)
+Row:Net income (loss) attributable to Alexandria Real Estate Equities, Inc.’s
+stockholders 	379,312 	169,093 	(65,901)
+Row:Dividends on preferred stock 	(5,060) 	(7,666) 	(20,223)
+Row:Preferred stock redemption charge 	(4,240) 	(11,279) 	(61,267)
+Row:Net income attributable to unvested restricted stock awards 	(6,029) 	(4,753) 	(3,750)
+Row:Net income (loss) attributable to Alexandria Real Estate Equities, Inc.’s
+common stockholders $ 	363,983 	$ 145,395 	$ (151,141)
+Row:Net income (loss) per share attributable to Alexandria Real Estate Equities,
+Inc.’s common stockholders:
+			Row:Basic $ 	3.53 	$ 1.59 	$ (1.99)
+Row:Net income (loss) per share attributable to Alexandria Real Estate Equities,
+	Row:Inc.’s common stockholders:
+	Row:Basic 	$ 3.53 Row:Diluted 	$ 3.52 Row:Operating Activities
+			Row:Net income (loss) $ 	402,793 $ 	194,204 $ 	(49,799)
+Row:Adjustments to reconcile net income (loss) to net cash provided by operating
+activities:
+			Row:Depreciation and amortization 	477,661 	416,783 	313,390
+Row:Loss on early extinguishment of debt 	1,122 	3,451 	3,230
+Row:Impairment of real estate 	6,311 	203 	209,261
+Row:Gain on sales of real estate – rental properties 	(8,704) 	(270) 	(3,715)
+Row:Gain on sales of real estate – land parcels 	— 	(111) 	(90)
+Row:Equity in (earnings) losses of unconsolidated real estate joint ventures 	(43,981) 	(15,426) 	184
+Row:Distributions of earnings from unconsolidated real estate joint ventures 	430 	1,618 	406
+Row:Amortization of loan fees 	10,271 	11,149 	11,872
+Row:Amortization of debt premiums 	(2,406) 	(2,512) 	(500)
+Row:Amortization of acquired below-market leases 	(21,938) 	(19,055) 	(5,723)
+Row:Deferred rent 	(93,883) 	(107,643) 	(51,673)
+Row:Stock compensation expense 	35,019 	25,610 	25,433
+Row:Investment income 	(136,763) 	(1,329) 	(17,133)
+Row:Changes in operating assets and liabilities:
+			Row:Tenant receivables 	435 	(502) 	(285)
+Row:Deferred leasing costs 	(57,088) 	(62,639) 	(35,273)
+Row:Other assets 	(20,849) 	(18,222) 	(11,420)
+Row:Accounts payable, accrued expenses, and tenant security deposits 	21,909 	25,573 	5,322
+Row:Net cash provided by operating activities 	570,339 	450,882 	393,487
+Row:Investing Activities
+			Row:Proceeds from sales of real estate 	20,190 	15,432 	123,081
+Row:Additions to real estate 	(927,168) 	(893,685) 	(821,690)
+Row:Purchases of real estate 	(1,037,180) 	(675,584) 	(739,678)
+Row:Deposits for investing activities 	(2,000) 	(2,300) 	(450)
+Row:Acquisitions of interest in unconsolidated real estate joint ventures 	(35,922) 	(60,291) 	—
+Row:Investments in unconsolidated real estate joint ventures 	(116,008) 	(17,876) 	(11,529)
+Row:Investing Activities
+	Row:Proceeds from sales of real estate 	20,190 15,432 123,081
+Row:Additions to real estate 	(927,168) (893,685) (821,690)
+Row:Purchases of real estate 	(1,037,180) (675,584) (739,678)
+Row:Deposits for investing activities 	(2,000) (2,300) (450)
+Row:Acquisitions of interest in unconsolidated real estate joint ventures 	(35,922) (60,291) —
+Row:Investments in unconsolidated real estate joint ventures 	(116,008) (17,876) (11,529)
+Row:Return of capital from unconsolidated real estate joint ventures 	68,592 38,576 —
+Row:Additions to investments 	(235,943) (171,881) (102,284)
+Row:Sales of investments 	103,679 30,483 38,946
+Row:Repayment of notes receivable 	— — 15,198
+Row:Net cash used in investing activities $ 	(2,161,760) $ (1,737,126) $ (1,498,406)
+Row:Financing Activities
+			Row:Borrowings from secured notes payable $ 	17,784 	$ 153,405 $ 	291,400
+Row:Repayments of borrowings from secured notes payable 	(156,888) 	(396,240) 	(310,903)
+Row:Proceeds from issuance of unsecured senior notes payable 	899,321 	1,023,262 	348,604
+Row:Borrowings from unsecured senior line of credit 	4,741,000 	3,858,000 	4,117,000
+Row:Repayments of borrowings from unsecured senior line of credit 	(4,583,000) 	(3,836,000) 	(4,240,000)
+Row:Repayments of borrowings from unsecured senior bank term loan 	(200,000) 	(200,000) 	(200,000)
+Row:Payments of loan fees 	(19,292) 	(10,019) 	(16,681)
+Row:Repurchases of 7.00% Series D cumulative convertible preferred stock 	(13,976) 	(17,934) 	(206,826)
+Row:Redemption of 6.45% Series E cumulative redeemable preferred stock 	— 	(130,350) 	—
+Row:Proceeds from the issuance of common stock 	1,293,301 	1,275,397 	1,432,177
+Row:Dividends on common stock 	(380,632) 	(312,131) 	(240,347)
+Row:Dividends on preferred stock 	(5,207) 	(9,619) 	(22,414)
+Row:Financing costs paid for sales of noncontrolling interests 	— 	— 	(10,044)
+Row:Contributions from and sales of noncontrolling interests 	28,275 	44,931 	221,487
+Row:Distributions to and purchases of noncontrolling interests 	(32,253) 	(22,361) 	(69,678)
+Row:Net cash provided by financing activities 	1,588,433 	1,420,341 	1,093,775
+Row:Effect of foreign exchange rate changes on cash and cash equivalents 	(2,068) 	1,723 	(1,460)
+Row:Net (decrease) increase in cash, cash equivalents, and restricted cash 	(5,056) 	135,820 	(12,604)
+Row:Cash, cash equivalents, and restricted cash as of the beginning of period 	277,186 	141,366 	153,970
+Row:Cash, cash equivalents, and restricted cash as of the end of period $ 	272,130 	$ 277,186 $ 	141,366
+Row:Supplemental Disclosure of Cash Flow Information:
+			Row:Cash paid during the period for interest, net of interest capitalized $ 	127,093 	$ 112,113 	$ 84,907
+Row:Non-Cash Investing Activities:
+Assumption of secured notes payable in connection with purchase of real estate $ 	— 	$ — 	$ (203,000)
+Row:Change in accrued construction $ 	81,177 	$ (11,034) 	$ 76,848
+Row:Payable for purchase of real estate $ 	(65,000) 	$ — 	$ (56,800)
+Row:Distribution of real estate in connection with purchase of remaining 49% interest
+in real estate joint venture with Uber Technologies, Inc. $ 	— 	$ — 	$ (25,546)
+Row:Contribution of real estate to an unconsolidated real estate joint venture $ 	— 	$ 6,998 	$ —
+Row:Consolidation of previously unconsolidated real estate joint venture $ 	— 	$ — 	$ 87,930
+Row:Net investment in direct financing lease $ 	— 	$ — 	$ 36,975
+Row:Contribution of real estate from noncontrolling interests $ 	— 	$ 8,597 	$ —
+Row:Non-Cash Financing Activities:
+			Row:Redemption of redeemable noncontrolling interest $ 	— 	$ — 	$ (5,000)
+Row:Contribution from redeemable noncontrolling interest $ 	— 	$ — 	$ 2,264

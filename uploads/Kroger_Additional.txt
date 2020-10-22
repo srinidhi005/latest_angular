@@ -1,0 +1,143 @@
+Row(In millions, except par amounts) 	2020 	2019
+RowASSETS
+		RowCurrent assets
+		RowCash and temporary cash investments 	$ 399 $ 	429
+RowStore deposits in-transit 	1,179 	1,181
+RowReceivables 	1,706 	1,589
+RowFIFO inventory 	8,464 	8,123
+RowLIFO reserve 	(1,380) 	(1,277)
+RowAssets held for sale 	— 	166
+RowPrepaid and other current assets 	522 	592
+RowTotal current assets 	10,890 	10,803
+RowProperty, plant and equipment, net 	21,871 	21,635
+RowOperating lease assets 	6,814 	—
+RowIntangibles, net 	1,066 	1,258
+RowGoodwill 	3,076 	3,087
+RowOther assets 	1,539 	1,335
+RowTotal Assets 	$ 45,256 $ 	38,118
+RowLIABILITIES
+		RowCurrent liabilities
+Current portion of long-term debt including obligations under finance leases 	$ 1,965 $ 	3,157
+RowCurrent portion of operating lease liabilities 	597 	—
+RowTrade accounts payable 	6,349 	6,059
+RowAccrued salaries and wages 	1,168 	1,227
+RowLiabilities held for sale 	— 	51
+RowOther current liabilities 	4,164 	3,780
+RowTotal current liabilities 	14,243 	14,274
+RowLong-term debt including obligations under finance leases 	12,111 	12,072
+RowNoncurrent operating lease liabilities 	6,505 	—
+RowDeferred income taxes 	1,466 	1,562
+RowPension and postretirement benefit obligations 	608 	494
+RowOther long-term liabilities 	1,750 	1,881
+RowTotal Liabilities 	36,683 	30,283
+RowCommitments and contingencies see Note 13
+		RowSHAREHOLDERS’ EQUITY
+		RowPreferred shares, $100 par per share, 5 shares authorized and unissued 	— 	—
+RowCommon shares, $1 par per share, 2,000 shares authorized; 1,918 shares issued in 2019 and 2018 	1,918 	1,918
+RowAdditional paid-in capital 	3,337 	3,245
+RowAccumulated other comprehensive loss 	(640) 	(346)
+RowAccumulated earnings 	20,978 	19,681
+RowCommon shares in treasury, at cost, 1,130 shares in 2019 and 1,120 shares in 2018 	(16,991) 	(16,612)
+RowTotal Shareholders’ Equity - The Kroger Co. 	8,602 	7,886
+RowNoncontrolling interests 	(29) 	(51)
+RowTotal Equity 	8,573 	7,835
+RowTotal Liabilities and Equity 	$ 45,256 $ 	38,118
+RowThe accompanying notes are an integral part of the consolidated financial 	statements.
+	RowPreferred shares, $100 par per share, 5 shares authorized and unissued 	— 	—
+RowCommon shares, $1 par per share, 2,000 shares authorized; 1,918 shares issued in 2019 and 2018 	1,918 	1,918
+RowAdditional paid-in capital 	3,337 	3,245
+RowAccumulated other comprehensive loss 	(640) 	(346)
+RowAccumulated earnings 	20,978 	19,681
+RowCommon shares in treasury, at cost, 1,130 shares in 2019 and 1,120 shares in 2018 	(16,991) 	(16,612)
+RowTotal Shareholders’ Equity - The Kroger Co. 	8,602 	7,886
+RowNoncontrolling interests 	(29) 	(51)
+RowTotal Equity 	8,573 	7,835
+RowTotal Liabilities and Equity 	$ 45,256 	$ 38,118
+Row(In millions, except per share amounts) 	2019 (52 weeks) 	2018 (52 weeks) 	2017
+(53 weeks)
+RowSales 	$ 122,286 	$ 121,852 $ 	123,280
+RowOperating expenses
+			RowMerchandise costs, including advertising, warehousing, and transportation,
+excluding items shown separately below 	95,294 	95,103 	95,811
+RowOperating, general and administrative 	21,208 	20,786 	21,510
+RowRent 	884 	884 	911
+RowDepreciation and amortization 	2,649 	2,465 	2,436
+RowOperating profit 	2,251 	2,614 	2,612
+RowOther income (expense)
+			RowInterest expense 	(603) 	(620) 	(601)
+RowNon-service component of company-sponsored pension plan costs 	— 	(26) 	(527)
+RowMark to market gain on Ocado securities 	157 	228 	—
+RowGain on sale of businesses 	176 	1,782 	—
+RowNet earnings before income tax (benefit) expense 	1,981 	3,978 	1,484
+RowIncome tax (benefit) expense 	469 	900 	(405)
+RowNet earnings including noncontrolling interests 	1,512 	3,078 	1,889
+RowNet loss attributable to noncontrolling interests 	(147) 	(32) 	(18)
+RowNet earnings attributable to The Kroger Co. 	$ 1,659 	$ 3,110 $ 	1,907
+RowNet earnings attributable to The Kroger Co. per basic common share 	$ 2.05 	$ 3.80 $ 	2.11
+RowAverage number of common shares used in basic calculation 	799 	810 	895
+RowNet earnings attributable to The Kroger Co. per diluted common share 	$ 2.04 	$ 3.76 $ 	2.09
+RowAverage number of common shares used in diluted calculation 	805 	818 	904
+RowThe accompanying notes are an integral part of the consolidated 	financial 	statements.
+	RowYears Ended February 1, 2020, February 2, 2019 and February 3, 2018
+	2019 	2018 	2017
+Row(In millions) 	(52 weeks) 	(52 weeks) 	(53 weeks)
+RowCash Flows from Operating Activities:
+Net earnings including noncontrolling interests $ 	1,512 	$ 3,078 	$ 1,889
+RowAdjustments to reconcile net earnings including noncontrolling interests to net cash provided by operating activities:
+			RowDepreciation and amortization 	2,649 	2,465 	2,436
+RowAsset impairment charge 	120 	56 	71
+RowOperating lease asset amortization 	640 	— 	—
+RowLIFO charge (credit) 	105 	29 	(8)
+RowStock-based employee compensation 	155 	154 	151
+RowExpense for company-sponsored pension plans 	39 	76 	591
+RowGoodwill impairment charge 	— 	— 	110
+RowDeferred income taxes 	(56) 	(45) 	(694)
+RowGain on sale of businesses 	(176) 	(1,782) 	—
+Row(Gain) loss on the sale of assets 	(158) 	2 	(31)
+RowMark to market gain on Ocado securities 	(157) 	(228) 	—
+RowLoss on deconsolidation and impairment of Lucky's Market 	412 	— 	—
+RowOther Changes in operating assets and liabilities net of effects from mergers and disposals of businesses:
+	(109) 	58 	39
+RowStore deposits in-transit 	3 	(20) 	(265)
+RowReceivables 	(36) 	(208) 	61
+RowInventories 	(351) 	(354) 	(23)
+RowPrepaid and other current assets 	(33) 	244 	41
+RowTrade accounts payable 	342 	213 	158
+RowAccrued expenses 	302 	416 	(40)
+RowIncome taxes receivable and payable 	(142) 	289 	(96)
+RowContribution to company-sponsored pension plan 	— 	(185) 	(1,000)
+RowOperating lease liabilities 	(639) 	— 	—
+RowProceeds from contract associated with sale of business 	295 	— 	—
+RowOther 	(53) 	(94) 	23
+RowNet cash provided by operating activities 	4,664 	4,164 	3,413
+RowCash Flows from Investing Activities:
+			RowPayments for property and equipment, including payments for lease buyouts 	(3,128) 	(2,967) 	(2,809)
+RowProceeds from sale of assets 	273 	85 	138
+RowProceeds on settlement of financial instrument 	— 	235 	—
+RowPayments for acquisitions, net of cash acquired 	— 	(197) 	(16)
+RowPurchases of stores 	— 	(44) 	—
+RowNet proceeds from sale of businesses 	327 	2,169 	—
+RowPurchases of Ocado securities 	— 	(392) 	—
+RowOther 	(83) 	(75) 	(20)
+RowNet cash used by investing activities 	(2,611) 	(1,186) 	(2,707)
+RowCash Flows from Financing Activities:
+			RowProceeds from issuance of long-term debt 	813 	2,236 	1,523
+RowPayments on long-term debt including obligations under finance leases 	(2,304) 	(1,372) 	(788)
+RowNet proceeds (payments) on commercial paper 	350 	(1,321) 	696
+RowDividends paid 	(486) 	(437) 	(443)
+RowProceeds from issuance of capital stock 	55 	65 	51
+RowTreasury stock purchases 	(465) 	(2,010) 	(1,633)
+RowOther 	(46) 	(57) 	(87)
+RowNet cash used by financing activities 	(2,083) 	(2,896) 	(681)
+RowNet (decrease) increase in cash and temporary cash investments 	(30) 	82 	25
+RowCash and temporary cash investments:
+			RowBeginning of year 	429 	347 	322
+RowEnd of year $ 	399 	$ 429 	$ 347
+RowReconciliation of capital investments:
+			RowPayments for property and equipment, including payments for lease buyouts $ 	(3,128) 	$ (2,967) 	$ (2,809)
+RowPayments for lease buyouts 	82 	5 	13
+RowChanges in construction-in-progress payables 	2 	(56) 	(188)
+RowTotal capital investments, excluding lease buyouts $ 	(3,044) 	$ (3,018) 	$ (2,984)
+RowDisclosure of cash flow information:
+			RowCash paid during the year for interest $ 	523 	$ 614 	$ 656
+RowCash paid during the year for income taxes $ 	706 	$ 600 	$ 348

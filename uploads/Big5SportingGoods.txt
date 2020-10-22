@@ -1,0 +1,125 @@
+Row 0: ASSETS
+		Row 1: Current assets:
+		Row 2: Cash 	$ 8,223 $ 	6,765
+Row 3: Accounts receivable, net of allowances of $58 and $28, respectively 	13,646 	14,184
+Row 4: Merchandise inventories, net 	309,315 	294,900
+Row 5: Prepaid expenses 	9,680 	9,224
+Row 6: Total current assets 	340,864 	325,073
+Row 7: Operating lease right-of-use assets, net 	262,588 	—
+Row 8: Property and equipment, net 	68,414 	76,488
+Row 9: Deferred income taxes 	13,619 	14,543
+Row 10: Other assets, net of accumulated amortization of $2,043 and $1,772, respectively 	3,315 	3,457
+Row 11: Total assets 	$ 688,800 $ 	419,561
+Row 12: LIABILITIES AND STOCKHOLDERS' EQUITY
+		Row 13: Current liabilities:
+		Row 14: Accounts payable 	$ 83,655 $ 	80,613
+Row 15: Accrued expenses 	64,935 	67,659
+Row 16: Current portion of operating lease liabilities 	71,542 	—
+Row 17: Current portion of finance lease liabilities 	2,678 	2,322
+Row 18: Total current liabilities 	222,810 	150,594
+Row 19: Operating lease liabilities, less current portion 	206,806 	—
+Row 20: Finance lease liabilities, less current portion 	4,787 	4,823
+Row 21: Long-term debt 	66,559 	65,000
+Row 22: Deferred rent, less current portion 	— 	14,615
+Row 23: Other long-term liabilities 	7,466 	9,668
+Row 24: Total liabilities 	508,428 	244,700
+Row 25: Commitments and contingencies
+		Row 26: Stockholders' equity:
+		Row 27: Common stock, $0.01 par value, authorized 50,000,000 shares; issued 25,314,289 and
+		Row 28: 25,074,307 shares, respectively; outstanding 21,664,076 and 21,424,094 shares, respectively 	252 	250
+Row 29: Additional paid-in capital 	120,054 	118,351
+Row 30: Retained earnings 	102,593 	98,787
+Row 31: Less: Treasury stock, at cost; 3,650,213 shares 	(42,527) 	(42,527)
+Row 32: Total stockholders' equity 	180,372 	174,861
+Row 33: Total liabilities and stockholders' equity 	$ 688,800 $ 	419,561
+Row 0: paid-in capital 	120,054 	118,351
+Row 1: earnings 	102,593 	98,787
+Row 2: Treasury stock, at cost; 3,650,213 shares 	(42,527) 	(42,527)
+Row 3: stockholders' equity 	180,372 	174,861
+Row 4: liabilities and stockholders' equity 	$ 688,800 	$ 419,561
+Row 0: $ 996,495 	$ 	987,581
+Row 1: 684,473 		686,732
+Row 2: 312,022 		300,849
+Row 3: 297,193 		302,076
+Row 4: 14,829 		(1,227)
+Row 5: 3,046 		3,374
+Row 6: 11,783 		(4,601)
+Row 7: 3,338 		(1,070)
+Row 8: $ 8,445 	$ 	(3,531)
+Row 9: $ 0.40 	$ 	(0.17)
+Row 10: $ 0.40 	$ 	(0.17)
+Row 11: $ 0.20 	$ 	0.50
+Row 12: 21,103 		20,977
+Row 13: 21,149 		20,977
+Row 0: Gross profit Row 1: Selling and administrative expense Row 2: Operating income (loss) Row 3: Interest expense Row 4: Income (loss) before income taxes Row 5: Income tax expense (benefit) Row 6: Net income (loss) Row 7: Earnings (loss) per share:
+Row 8: Basic Row 9: Diluted Row 10: Dividends per share Row 11: Weighted-average shares of common stock outstanding:
+Row 12: Basic Row 13: Diluted Row 0: Balance as of December 30, 2018 	21,424,094 	$ 250 	$ 118,351 	$ 98,787 	$ (42,527) $ 174,861
+Row 1: Cumulative adjustment from change in
+					Row 2: accounting principle, net of tax 	— 	— 	— 	(339) 	— (339)
+Row 3: Net income 	— 	— 	— 	8,445 	— 8,445
+Row 4: Dividends on common stock ($0.20 per share) 	— 	— 	— 	(4,300) 	— (4,300)
+Row 5: Issuance of nonvested share awards 	308,584 	3 	(3) 	— 	— —
+Row 6: Conversion of vested share units 	29,672 	— 	— 	— 	— —
+Row 7: Share-based compensation 	— 	— 	1,926 	— 	— 1,926
+Row 8: Forfeiture of nonvested share awards 	(39,180) 	— 	— 	— 	— —
+Row 9: Retirement of common stock for payment
+of withholding tax 	(59,094) 	(1) 	(220) 	— 	— (221)
+Row 10: Balance as of December 29, 2019 	21,664,076 	$ 252 	$ 120,054 	$ 102,593 	$ (42,527) $ 180,372
+Row 0: Balance as of December 31, 2017 	21,345,159 	$ 249 	$ 116,495 	$ 112,424 $ 	(42,099) $ 187,069
+Row 1: Cumulative adjustment from change in
+					Row 2: accounting principle, net of tax 	— 	— 	— 	575 	— 575
+Row 3: Net loss 	— 	— 	— 	(3,531) 	— (3,531)
+Row 4: Dividends on common stock ($0.50 per share) 	— 	— 	— 	(10,681) 	— (10,681)
+Row 5: Issuance of nonvested share awards 	213,062 	2 	(2) 	— 	— —
+Row 6: Exercise of share option awards 	6,564 	— 	31 	— 	— 31
+Row 7: Share-based compensation 	— 	— 	2,192 	— 	— 2,192
+Row 8: Forfeiture of nonvested share awards 	(11,600) 	— 	— 	— 	— —
+Row 9: Retirement of common stock for payment
+of withholding tax 	(53,343) 	(1) 	(365) 	— 	— (366)
+Row 10: Purchases of treasury stock 	(75,748) 	— 	— 	— 	(428) (428)
+Row 11: Balance as of December 30, 2018 	21,424,094 	$ 250 	$ 118,351 	$ 98,787 $ 	(42,527) $ 174,861
+Row 0: Cash flows from operating activities:
+		Row 1: Net income (loss) 	$ 8,445 	$ (3,531)
+Row 2: Adjustments to reconcile net income (loss) to net cash
+		Row 3: provided by operating activities:
+		Row 4: Depreciation and amortization 	19,537 	19,538
+Row 5: Impairment of assets 	520 	848
+Row 6: Share-based compensation 	1,926 	2,192
+Row 7: Amortization of other assets 	271 	197
+Row 8: Right-of-use asset gain on disposal 	(110) 	—
+Row 9: Noncash lease expense 	61,244 	—
+Row 10: Proceeds from insurance recovery - lost profit margin, inventory and expenses 	711 	—
+Row 11: Gain on recovery of insurance proceeds - lost profit margin and expenses 	(231) 	—
+Row 12: Gain on recovery of insurance proceeds - property and equipment 	(56) 	—
+Row 13: Deferred income taxes 	1,046 	(578)
+Row 14: Changes in operating assets and liabilities:
+		Row 15: Accounts receivable, net 	1,334 	2,535
+Row 16: Merchandise inventories, net 	(15,202) 	18,525
+Row 17: Prepaid expenses and other assets 	(833) 	4,505
+Row 18: Accounts payable 	1,050 	(16,930)
+Row 19: Operating lease liabilities 	(62,966) 	—
+Row 20: Accrued expenses and other long-term liabilities 	(2,406) 	(2,782)
+Row 21: Net cash provided by operating activities 	14,280 	24,519
+Row 22: Cash flows from investing activities:
+		Row 23: Purchases of property and equipment 	(9,363) 	(15,460)
+Row 24: Proceeds from insurance recovery - property and equipment 	167 	—
+Row 25: Net cash used in investing activities 	(9,196) 	(15,460)
+Row 26: Cash flows from financing activities:
+		Row 27: Principal borrowings under revolving credit facility 	205,088 	211,434
+Row 28: Principal payments under revolving credit facility 	(203,529) 	(191,434)
+Row 29: Changes in book overdraft 	1,981 	(16,008)
+Row 30: Principal payments under finance lease obligations 	(2,547) 	(2,033)
+Row 31: Proceeds from exercise of share option awards 	— 	31
+Row 32: Purchases of treasury stock 	— 	(428)
+Row 33: Tax withholding payments for share-based compensation 	(221) 	(366)
+Row 34: Dividends paid 	(4,398) 	(10,660)
+Row 35: Net cash used in financing activities 	(3,626) 	(9,464)
+Row 36: Net increase (decrease) in cash 	1,458 	(405)
+Row 37: Cash at beginning of year 	6,765 	7,170
+Row 38: Cash at end of year 	$ 8,223 	$ 6,765
+Row 39: Supplemental disclosures of non-cash investing and financing activities:
+		Row 40: Property and equipment acquired under finance leases 	$ 2,988 	$ 4,685
+Row 41: Property and equipment additions unpaid 	$ 918 	$ 758
+Row 42: Supplemental disclosures of cash flow information:
+		Row 43: Interest paid 	$ 2,911 	$ 3,159
+Row 44: Income taxes paid 	$ 2,315 	$ 20

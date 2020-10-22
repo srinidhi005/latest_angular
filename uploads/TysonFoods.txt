@@ -1,0 +1,462 @@
+Row	2019 	2018 	2017
+RowSales 	$ 42,405 	$ 40,052 	$ 38,260
+RowCost of Sales 	37,383 	34,956 	33,198
+RowGross Profit 	5,022 	5,096 	5,062
+RowSelling, General and Administrative 	2,195 	2,064 	2,141
+RowOperating Income 	2,827 	3,032 	2,921
+RowOther (Income) Expense:
+			RowInterest income 	(11) 	(7) 	(7)
+RowInterest expense 	462 	350 	279
+RowOther, net 	(55) 	(56) 	21
+RowTotal Other (Income) Expense 	396 	287 	293
+RowIncome before Income Taxes 	2,431 	2,745 	2,628
+RowIncome Tax Expense (Benefit) 	396 	(282) 	850
+RowNet Income 	2,035 	3,027 	1,778
+RowLess: Net Income Attributable to Noncontrolling Interests 	13 	3 	4
+RowNet Income Attributable to Tyson 	$ 2,022 	$ 3,024 	$ 1,774
+RowWeighted Average Shares Outstanding:
+			RowClass A Basic 	293 	295 	296
+RowClass B Basic 	70 	70 	70
+RowDiluted 	366 	369 	370
+RowNet Income Per Share Attributable to Tyson:
+			RowClass A Basic 	$ 5.67 	$ 8.44 	$ 4.94
+RowClass B Basic 	$ 5.10 	$ 7.59 	$ 4.45
+RowDiluted 	$ 5.52 	$ 8.19 	$ 4.79
+RowSee accompanying notes.
+			Row	2019 	2018
+RowAssets
+		RowCurrent Assets:
+		RowCash and cash equivalents 	$ 484 	$ 270
+RowAccounts receivable, net 	2,173 	1,723
+RowInventories 	4,108 	3,513
+RowOther current assets 	404 	182
+RowTotal Current Assets 	7,169 	5,688
+RowNet Property, Plant and Equipment 	7,282 	6,169
+RowGoodwill 	10,844 	9,739
+RowIntangible Assets, net 	7,037 	6,759
+RowOther Assets 	765 	754
+RowTotal Assets 	$ 33,097 	$ 29,109
+RowCurrent debt 	$ 	2,102 	$ 	1,911
+RowAccounts payable 		1,926 		1,694
+RowOther current liabilities 		1,485 		1,426
+RowTotal Current Liabilities 		5,513 		5,031
+RowLong-Term Debt 		9,830 		7,962
+RowDeferred Income Taxes 		2,356 		2,107
+RowOther Liabilities 		1,172 		1,198
+RowCommitments and Contingencies (Note 20)
+				RowClass A-authorized 900 million shares, issued 378 million shares 	38 	38
+RowConvertible Class B-authorized 900 million shares, issued 70 million shares 	7 	7
+RowCapital in excess of par value 	4,378 	4,387
+RowRetained earnings 	13,787 	12,329
+RowAccumulated other comprehensive gain (loss) 	(117) 	(15)
+RowTreasury stock, at cost – 82 million shares at September 28, 2019 and September 29, 2018 	(4,011) 	(3,943)
+RowTotal Tyson Shareholders’ Equity 	14,082 	12,803
+RowNoncontrolling Interests 	144 	8
+RowTotal Shareholders’ Equity 	14,226 	12,811
+RowTotal Liabilities and Shareholders’ Equity 	$ 33,097 	$ 29,109
+Row		2019 	2018 		2017
+Row	Shares 	Amount 	Shares 	Amount 	Shares Amount
+RowClass A Common Stock:
+					RowBalance at beginning of year 	378 	$ 38 	378 	$ 38 	364 $ 36
+RowIssuance of Class A common stock 	— 	— 	— 	— 	14 2
+RowBalance at end of year 	378 	38 	378 	38 	378 38
+RowClass B Common Stock:
+					RowBalance at beginning and end of year 	70 	7 	70 	7 	70 7
+RowCapital in Excess of Par Value:
+					RowBalance at beginning of year 		4,387 		4,378 	4,355
+RowStock-based compensation 		(9) 		9 	23
+RowBalance at end of year 		4,378 		4,387 	4,378
+RowRetained Earnings:
+					RowBalance at beginning of year 		12,329 		9,776 	8,348
+RowNet income attributable to Tyson 		2,022 		3,024 	1,774
+RowDividends 		(564) 		(458) 	(346)
+RowReclass from Accumulated Other Comprehensive Income (Loss), Net of
+Tax (1) 		— 		(13) 	—
+RowBalance at end of year 		13,787 		12,329 	9,776
+RowAccumulated Other Comprehensive Income (Loss), Net of Tax:
+					RowBalance at beginning of year 		(15) 		16 	(45)
+RowOther Comprehensive Income (Loss) 		(102) 		(44) 	61
+RowReclass to Retained Earnings (1) 		— 		13
+	RowBalance at end of year 		(117) 		(15) 	16
+RowTreasury Stock:
+					RowBalance at beginning of year 	82 	(3,943) 	80 	(3,674) 	73 (3,093)
+RowPurchase of Class A common stock 	4 	(252) 	6 	(427) 	14 (860)
+RowStock-based compensation 	(4) 	184 	(4) 	158 	(7) 279
+RowBalance at end of year 	82 	(4,011) 	82 	(3,943) 	80 (3,674)
+RowTotal Shareholders’ Equity Attributable to Tyson 		$ 14,082 		$ 12,803 	$ 10,541
+RowEquity Attributable to Noncontrolling Interests:
+					RowBalance at beginning of year 		$ 8 		$ 18 	$ 16
+RowNet income attributable to noncontrolling interests 		13 		3 	4
+RowDistributions to noncontrolling interest 		(3) 		(3) 	(2)
+RowBusiness combination and other 		126 		(10) 	—
+RowTotal Equity Attributable to Noncontrolling Interests 		$ 144 		$ 8 	$ 18
+RowTotal Shareholders’ Equity 		$ 14,226 		$ 12,811 	$ 10,559
+Row(1) Reclass from accumulated other comprehensive income to retained earnings for stranded tax effects standard for the fiscal year ended September 29, 2018.
+See accompanying notes.
+	resulting 	from the Tax 	Act, following 	adoption of the 	applicable new accounting
+Row45
+					RowBalance at beginning of year 	4,387 	4,378 	4,355
+RowStock-based compensation 	(9) 	9 	23
+RowBalance at end of year 	4,378 	4,387 	4,378
+RowBalance at beginning of year 	82 	(3,943) 	80 	(3,674) 	73 	(3,093)
+RowPurchase of Class A common stock 	4 	(252) 	6 	(427) 	14 	(860)
+RowStock-based compensation 	(4) 	184 	(4) 	158 	(7) 	279
+RowBalance at end of year 	82 	(4,011) 	82 	(3,943) 	80 	(3,674)
+RowTotal Shareholders’ Equity Attributable to Tyson 		$ 14,082 		$ 12,803 		$ 10,541
+RowBalance at beginning of year 	$ 8 	$ 18 	$ 16
+RowNet income attributable to noncontrolling interests 	13 	3 	4
+RowDistributions to noncontrolling interest 	(3) 	(3) 	(2)
+RowBusiness combination and other 	126 	(10) 	—
+RowTotal Equity Attributable to Noncontrolling Interests 	$ 144 	$ 8 	$ 18
+RowTotal Shareholders’ Equity 	$ 14,226 	$ 12,811 	$ 10,559
+Row	2019 	2018 	2017
+RowCash Flows From Operating Activities:
+			RowNet income 	$ 2,035 	$ 3,027 	$ 1,778
+RowAdjustments to reconcile net income to cash provided by operating activities:
+			RowDepreciation 	819 	723 	642
+RowAmortization 	279 	220 	119
+RowDeferred income taxes 	92 	(865) 	(39)
+RowGain on dispositions of businesses 	(17) 	(42) 	—
+RowImpairment of assets 	94 	175 	214
+RowStock-based compensation expense 	77 	69 	92
+RowOther, net 	(20) 	(58) 	(57)
+Row(Increase) decrease in accounts receivable 	(226) 	(2) 	(55)
+Row(Increase) decrease in inventories 	(214) 	(207) 	(246)
+RowIncrease (decrease) in accounts payable 	(55) 	(44) 	61
+RowIncrease (decrease) in income taxes payable/receivable 	(254) 	111 	55
+RowIncrease (decrease) in interest payable 	47 	(3) 	16
+RowNet changes in other operating assets and liabilities 	(144) 	(141) 	19
+RowCash Provided by Operating Activities 	2,513 	2,963 	2,599
+RowCash Flows From Investing Activities:
+			RowAdditions to property, plant and equipment 	(1,259) 	(1,200) 	(1,069)
+RowPurchases of marketable securities 	(64) 	(42) 	(79)
+RowProceeds from sale of marketable securities 	63 	37 	61
+RowAcquisitions, net of cash acquired 	(2,462) 	(1,474) 	(3,081)
+RowProceeds from sale of businesses 	170 	797 	—
+RowOther, net 	88 	(24) 	4
+RowCash Used for Investing Activities 	(3,464) 	(1,906) 	(4,164)
+RowCash Flows From Financing Activities:
+			RowProceeds from issuance of debt 	4,634 	1,148 	5,444
+RowPayments on debt 	(3,208) 	(1,307) 	(3,159)
+RowBorrowings on revolving credit facility 	1,135 	1,755 	1,810
+RowPayments on revolving credit facility 	(1,065) 	(1,755) 	(2,110)
+RowProceeds from issuance of commercial paper 	17,722 	21,024 	8,138
+RowRepayments of commercial paper 	(17,327) 	(21,197) 	(7,360)
+RowPayment of AdvancePierre TRA liability 	— 	— 	(223)
+RowPurchases of Tyson Class A common stock 	(252) 	(427) 	(860)
+RowDividends 	(537) 	(431) 	(319)
+RowStock options exercised 	99 	102 	154
+RowOther, net 	(30) 	(14) 	15
+RowCash Provided by (Used for) Financing Activities 	1,171 	(1,102) 	1,530
+RowEffect of Exchange Rate Change on Cash 	(6) 	(3) 	4
+RowIncrease (decrease) in Cash and Cash Equivalents 	214 	(48) 	(31)
+RowCash and Cash Equivalents at Beginning of Year 	270 	318 	349
+RowCash and Cash Equivalents at End of Year 	$ 484 	$ 270 	$ 318
+Row	2019 	2018 	2017
+RowSales 	$ 42,405 	$ 40,052 	$ 38,260
+RowCost of Sales 	37,383 	34,956 	33,198
+RowGross Profit 	5,022 	5,096 	5,062
+RowSelling, General and Administrative 	2,195 	2,064 	2,141
+RowOperating Income 	2,827 	3,032 	2,921
+RowOther (Income) Expense:
+			RowInterest income 	(11) 	(7) 	(7)
+RowInterest expense 	462 	350 	279
+RowOther, net 	(55) 	(56) 	21
+RowTotal Other (Income) Expense 	396 	287 	293
+RowIncome before Income Taxes 	2,431 	2,745 	2,628
+RowIncome Tax Expense (Benefit) 	396 	(282) 	850
+RowNet Income 	2,035 	3,027 	1,778
+RowLess: Net Income Attributable to Noncontrolling Interests 	13 	3 	4
+RowNet Income Attributable to Tyson 	$ 2,022 	$ 3,024 	$ 1,774
+RowWeighted Average Shares Outstanding:
+			RowClass A Basic 	293 	295 	296
+RowClass B Basic 	70 	70 	70
+RowDiluted 	366 	369 	370
+RowNet Income Per Share Attributable to Tyson:
+			RowClass A Basic 	$ 5.67 	$ 8.44 	$ 4.94
+RowClass B Basic 	$ 5.10 	$ 7.59 	$ 4.45
+RowDiluted 	$ 5.52 	$ 8.19 	$ 4.79
+RowSee accompanying notes.
+			Row	2019 	2018
+RowAssets
+		RowCurrent Assets:
+		RowCash and cash equivalents 	$ 484 	$ 270
+RowAccounts receivable, net 	2,173 	1,723
+RowInventories 	4,108 	3,513
+RowOther current assets 	404 	182
+RowTotal Current Assets 	7,169 	5,688
+RowNet Property, Plant and Equipment 	7,282 	6,169
+RowGoodwill 	10,844 	9,739
+RowIntangible Assets, net 	7,037 	6,759
+RowOther Assets 	765 	754
+RowTotal Assets 	$ 33,097 	$ 29,109
+RowCurrent debt 	$ 	2,102 	$ 	1,911
+RowAccounts payable 		1,926 		1,694
+RowOther current liabilities 		1,485 		1,426
+RowTotal Current Liabilities 		5,513 		5,031
+RowLong-Term Debt 		9,830 		7,962
+RowDeferred Income Taxes 		2,356 		2,107
+RowOther Liabilities 		1,172 		1,198
+RowCommitments and Contingencies (Note 20)
+				RowClass A-authorized 900 million shares, issued 378 million shares 	38 	38
+RowConvertible Class B-authorized 900 million shares, issued 70 million shares 	7 	7
+RowCapital in excess of par value 	4,378 	4,387
+RowRetained earnings 	13,787 	12,329
+RowAccumulated other comprehensive gain (loss) 	(117) 	(15)
+RowTreasury stock, at cost – 82 million shares at September 28, 2019 and September 29, 2018 	(4,011) 	(3,943)
+RowTotal Tyson Shareholders’ Equity 	14,082 	12,803
+RowNoncontrolling Interests 	144 	8
+RowTotal Shareholders’ Equity 	14,226 	12,811
+RowTotal Liabilities and Shareholders’ Equity 	$ 33,097 	$ 29,109
+Row		2019 	2018 		2017
+Row	Shares 	Amount 	Shares 	Amount 	Shares Amount
+RowClass A Common Stock:
+					RowBalance at beginning of year 	378 	$ 38 	378 	$ 38 	364 $ 36
+RowIssuance of Class A common stock 	— 	— 	— 	— 	14 2
+RowBalance at end of year 	378 	38 	378 	38 	378 38
+RowClass B Common Stock:
+					RowBalance at beginning and end of year 	70 	7 	70 	7 	70 7
+RowCapital in Excess of Par Value:
+					RowBalance at beginning of year 		4,387 		4,378 	4,355
+RowStock-based compensation 		(9) 		9 	23
+RowBalance at end of year 		4,378 		4,387 	4,378
+RowRetained Earnings:
+					RowBalance at beginning of year 		12,329 		9,776 	8,348
+RowNet income attributable to Tyson 		2,022 		3,024 	1,774
+RowDividends 		(564) 		(458) 	(346)
+RowReclass from Accumulated Other Comprehensive Income (Loss), Net of
+Tax (1) 		— 		(13) 	—
+RowBalance at end of year 		13,787 		12,329 	9,776
+RowAccumulated Other Comprehensive Income (Loss), Net of Tax:
+					RowBalance at beginning of year 		(15) 		16 	(45)
+RowOther Comprehensive Income (Loss) 		(102) 		(44) 	61
+RowReclass to Retained Earnings (1) 		— 		13
+	RowBalance at end of year 		(117) 		(15) 	16
+RowTreasury Stock:
+					RowBalance at beginning of year 	82 	(3,943) 	80 	(3,674) 	73 (3,093)
+RowPurchase of Class A common stock 	4 	(252) 	6 	(427) 	14 (860)
+RowStock-based compensation 	(4) 	184 	(4) 	158 	(7) 279
+RowBalance at end of year 	82 	(4,011) 	82 	(3,943) 	80 (3,674)
+RowTotal Shareholders’ Equity Attributable to Tyson 		$ 14,082 		$ 12,803 	$ 10,541
+RowEquity Attributable to Noncontrolling Interests:
+					RowBalance at beginning of year 		$ 8 		$ 18 	$ 16
+RowNet income attributable to noncontrolling interests 		13 		3 	4
+RowDistributions to noncontrolling interest 		(3) 		(3) 	(2)
+RowBusiness combination and other 		126 		(10) 	—
+RowTotal Equity Attributable to Noncontrolling Interests 		$ 144 		$ 8 	$ 18
+RowTotal Shareholders’ Equity 		$ 14,226 		$ 12,811 	$ 10,559
+Row(1) Reclass from accumulated other comprehensive income to retained earnings for stranded tax effects standard for the fiscal year ended September 29, 2018.
+See accompanying notes.
+	resulting 	from the Tax 	Act, following 	adoption of the 	applicable new accounting
+Row45
+					RowBalance at beginning of year 	4,387 	4,378 	4,355
+RowStock-based compensation 	(9) 	9 	23
+RowBalance at end of year 	4,378 	4,387 	4,378
+RowBalance at beginning of year 	82 	(3,943) 	80 	(3,674) 	73 	(3,093)
+RowPurchase of Class A common stock 	4 	(252) 	6 	(427) 	14 	(860)
+RowStock-based compensation 	(4) 	184 	(4) 	158 	(7) 	279
+RowBalance at end of year 	82 	(4,011) 	82 	(3,943) 	80 	(3,674)
+RowTotal Shareholders’ Equity Attributable to Tyson 		$ 14,082 		$ 12,803 		$ 10,541
+RowBalance at beginning of year 	$ 8 	$ 18 	$ 16
+RowNet income attributable to noncontrolling interests 	13 	3 	4
+RowDistributions to noncontrolling interest 	(3) 	(3) 	(2)
+RowBusiness combination and other 	126 	(10) 	—
+RowTotal Equity Attributable to Noncontrolling Interests 	$ 144 	$ 8 	$ 18
+RowTotal Shareholders’ Equity 	$ 14,226 	$ 12,811 	$ 10,559
+Row	2019 	2018 	2017
+RowCash Flows From Operating Activities:
+			RowNet income 	$ 2,035 	$ 3,027 	$ 1,778
+RowAdjustments to reconcile net income to cash provided by operating activities:
+			RowDepreciation 	819 	723 	642
+RowAmortization 	279 	220 	119
+RowDeferred income taxes 	92 	(865) 	(39)
+RowGain on dispositions of businesses 	(17) 	(42) 	—
+RowImpairment of assets 	94 	175 	214
+RowStock-based compensation expense 	77 	69 	92
+RowOther, net 	(20) 	(58) 	(57)
+Row(Increase) decrease in accounts receivable 	(226) 	(2) 	(55)
+Row(Increase) decrease in inventories 	(214) 	(207) 	(246)
+RowIncrease (decrease) in accounts payable 	(55) 	(44) 	61
+RowIncrease (decrease) in income taxes payable/receivable 	(254) 	111 	55
+RowIncrease (decrease) in interest payable 	47 	(3) 	16
+RowNet changes in other operating assets and liabilities 	(144) 	(141) 	19
+RowCash Provided by Operating Activities 	2,513 	2,963 	2,599
+RowCash Flows From Investing Activities:
+			RowAdditions to property, plant and equipment 	(1,259) 	(1,200) 	(1,069)
+RowPurchases of marketable securities 	(64) 	(42) 	(79)
+RowProceeds from sale of marketable securities 	63 	37 	61
+RowAcquisitions, net of cash acquired 	(2,462) 	(1,474) 	(3,081)
+RowProceeds from sale of businesses 	170 	797 	—
+RowOther, net 	88 	(24) 	4
+RowCash Used for Investing Activities 	(3,464) 	(1,906) 	(4,164)
+RowCash Flows From Financing Activities:
+			RowProceeds from issuance of debt 	4,634 	1,148 	5,444
+RowPayments on debt 	(3,208) 	(1,307) 	(3,159)
+RowBorrowings on revolving credit facility 	1,135 	1,755 	1,810
+RowPayments on revolving credit facility 	(1,065) 	(1,755) 	(2,110)
+RowProceeds from issuance of commercial paper 	17,722 	21,024 	8,138
+RowRepayments of commercial paper 	(17,327) 	(21,197) 	(7,360)
+RowPayment of AdvancePierre TRA liability 	— 	— 	(223)
+RowPurchases of Tyson Class A common stock 	(252) 	(427) 	(860)
+RowDividends 	(537) 	(431) 	(319)
+RowStock options exercised 	99 	102 	154
+RowOther, net 	(30) 	(14) 	15
+RowCash Provided by (Used for) Financing Activities 	1,171 	(1,102) 	1,530
+RowEffect of Exchange Rate Change on Cash 	(6) 	(3) 	4
+RowIncrease (decrease) in Cash and Cash Equivalents 	214 	(48) 	(31)
+RowCash and Cash Equivalents at Beginning of Year 	270 	318 	349
+RowCash and Cash Equivalents at End of Year 	$ 484 	$ 270 	$ 318
+Row	2019 	2018 	2017
+RowSales 	$ 42,405 	$ 40,052 	$ 38,260
+RowCost of Sales 	37,383 	34,956 	33,198
+RowGross Profit 	5,022 	5,096 	5,062
+RowSelling, General and Administrative 	2,195 	2,064 	2,141
+RowOperating Income 	2,827 	3,032 	2,921
+RowOther (Income) Expense:
+			RowInterest income 	(11) 	(7) 	(7)
+RowInterest expense 	462 	350 	279
+RowOther, net 	(55) 	(56) 	21
+RowTotal Other (Income) Expense 	396 	287 	293
+RowIncome before Income Taxes 	2,431 	2,745 	2,628
+RowIncome Tax Expense (Benefit) 	396 	(282) 	850
+RowNet Income 	2,035 	3,027 	1,778
+RowLess: Net Income Attributable to Noncontrolling Interests 	13 	3 	4
+RowNet Income Attributable to Tyson 	$ 2,022 	$ 3,024 	$ 1,774
+RowWeighted Average Shares Outstanding:
+			RowClass A Basic 	293 	295 	296
+RowClass B Basic 	70 	70 	70
+RowDiluted 	366 	369 	370
+RowNet Income Per Share Attributable to Tyson:
+			RowClass A Basic 	$ 5.67 	$ 8.44 	$ 4.94
+RowClass B Basic 	$ 5.10 	$ 7.59 	$ 4.45
+RowDiluted 	$ 5.52 	$ 8.19 	$ 4.79
+RowSee accompanying notes.
+			Row	2019 	2018
+RowAssets
+		RowCurrent Assets:
+		RowCash and cash equivalents 	$ 484 	$ 270
+RowAccounts receivable, net 	2,173 	1,723
+RowInventories 	4,108 	3,513
+RowOther current assets 	404 	182
+RowTotal Current Assets 	7,169 	5,688
+RowNet Property, Plant and Equipment 	7,282 	6,169
+RowGoodwill 	10,844 	9,739
+RowIntangible Assets, net 	7,037 	6,759
+RowOther Assets 	765 	754
+RowTotal Assets 	$ 33,097 	$ 29,109
+RowCurrent debt 	$ 	2,102 	$ 	1,911
+RowAccounts payable 		1,926 		1,694
+RowOther current liabilities 		1,485 		1,426
+RowTotal Current Liabilities 		5,513 		5,031
+RowLong-Term Debt 		9,830 		7,962
+RowDeferred Income Taxes 		2,356 		2,107
+RowOther Liabilities 		1,172 		1,198
+RowCommitments and Contingencies (Note 20)
+				RowClass A-authorized 900 million shares, issued 378 million shares 	38 	38
+RowConvertible Class B-authorized 900 million shares, issued 70 million shares 	7 	7
+RowCapital in excess of par value 	4,378 	4,387
+RowRetained earnings 	13,787 	12,329
+RowAccumulated other comprehensive gain (loss) 	(117) 	(15)
+RowTreasury stock, at cost – 82 million shares at September 28, 2019 and September 29, 2018 	(4,011) 	(3,943)
+RowTotal Tyson Shareholders’ Equity 	14,082 	12,803
+RowNoncontrolling Interests 	144 	8
+RowTotal Shareholders’ Equity 	14,226 	12,811
+RowTotal Liabilities and Shareholders’ Equity 	$ 33,097 	$ 29,109
+Row		2019 	2018 		2017
+Row	Shares 	Amount 	Shares 	Amount 	Shares Amount
+RowClass A Common Stock:
+					RowBalance at beginning of year 	378 	$ 38 	378 	$ 38 	364 $ 36
+RowIssuance of Class A common stock 	— 	— 	— 	— 	14 2
+RowBalance at end of year 	378 	38 	378 	38 	378 38
+RowClass B Common Stock:
+					RowBalance at beginning and end of year 	70 	7 	70 	7 	70 7
+RowCapital in Excess of Par Value:
+					RowBalance at beginning of year 		4,387 		4,378 	4,355
+RowStock-based compensation 		(9) 		9 	23
+RowBalance at end of year 		4,378 		4,387 	4,378
+RowRetained Earnings:
+					RowBalance at beginning of year 		12,329 		9,776 	8,348
+RowNet income attributable to Tyson 		2,022 		3,024 	1,774
+RowDividends 		(564) 		(458) 	(346)
+RowReclass from Accumulated Other Comprehensive Income (Loss), Net of
+Tax (1) 		— 		(13) 	—
+RowBalance at end of year 		13,787 		12,329 	9,776
+RowAccumulated Other Comprehensive Income (Loss), Net of Tax:
+					RowBalance at beginning of year 		(15) 		16 	(45)
+RowOther Comprehensive Income (Loss) 		(102) 		(44) 	61
+RowReclass to Retained Earnings (1) 		— 		13
+	RowBalance at end of year 		(117) 		(15) 	16
+RowTreasury Stock:
+					RowBalance at beginning of year 	82 	(3,943) 	80 	(3,674) 	73 (3,093)
+RowPurchase of Class A common stock 	4 	(252) 	6 	(427) 	14 (860)
+RowStock-based compensation 	(4) 	184 	(4) 	158 	(7) 279
+RowBalance at end of year 	82 	(4,011) 	82 	(3,943) 	80 (3,674)
+RowTotal Shareholders’ Equity Attributable to Tyson 		$ 14,082 		$ 12,803 	$ 10,541
+RowEquity Attributable to Noncontrolling Interests:
+					RowBalance at beginning of year 		$ 8 		$ 18 	$ 16
+RowNet income attributable to noncontrolling interests 		13 		3 	4
+RowDistributions to noncontrolling interest 		(3) 		(3) 	(2)
+RowBusiness combination and other 		126 		(10) 	—
+RowTotal Equity Attributable to Noncontrolling Interests 		$ 144 		$ 8 	$ 18
+RowTotal Shareholders’ Equity 		$ 14,226 		$ 12,811 	$ 10,559
+Row(1) Reclass from accumulated other comprehensive income to retained earnings for stranded tax effects standard for the fiscal year ended September 29, 2018.
+See accompanying notes.
+	resulting 	from the Tax 	Act, following 	adoption of the 	applicable new accounting
+Row45
+					RowBalance at beginning of year 	4,387 	4,378 	4,355
+RowStock-based compensation 	(9) 	9 	23
+RowBalance at end of year 	4,378 	4,387 	4,378
+RowBalance at beginning of year 	82 	(3,943) 	80 	(3,674) 	73 	(3,093)
+RowPurchase of Class A common stock 	4 	(252) 	6 	(427) 	14 	(860)
+RowStock-based compensation 	(4) 	184 	(4) 	158 	(7) 	279
+RowBalance at end of year 	82 	(4,011) 	82 	(3,943) 	80 	(3,674)
+RowTotal Shareholders’ Equity Attributable to Tyson 		$ 14,082 		$ 12,803 		$ 10,541
+RowBalance at beginning of year 	$ 8 	$ 18 	$ 16
+RowNet income attributable to noncontrolling interests 	13 	3 	4
+RowDistributions to noncontrolling interest 	(3) 	(3) 	(2)
+RowBusiness combination and other 	126 	(10) 	—
+RowTotal Equity Attributable to Noncontrolling Interests 	$ 144 	$ 8 	$ 18
+RowTotal Shareholders’ Equity 	$ 14,226 	$ 12,811 	$ 10,559
+Row	2019 	2018 	2017
+RowCash Flows From Operating Activities:
+			RowNet income 	$ 2,035 	$ 3,027 	$ 1,778
+RowAdjustments to reconcile net income to cash provided by operating activities:
+			RowDepreciation 	819 	723 	642
+RowAmortization 	279 	220 	119
+RowDeferred income taxes 	92 	(865) 	(39)
+RowGain on dispositions of businesses 	(17) 	(42) 	—
+RowImpairment of assets 	94 	175 	214
+RowStock-based compensation expense 	77 	69 	92
+RowOther, net 	(20) 	(58) 	(57)
+Row(Increase) decrease in accounts receivable 	(226) 	(2) 	(55)
+Row(Increase) decrease in inventories 	(214) 	(207) 	(246)
+RowIncrease (decrease) in accounts payable 	(55) 	(44) 	61
+RowIncrease (decrease) in income taxes payable/receivable 	(254) 	111 	55
+RowIncrease (decrease) in interest payable 	47 	(3) 	16
+RowNet changes in other operating assets and liabilities 	(144) 	(141) 	19
+RowCash Provided by Operating Activities 	2,513 	2,963 	2,599
+RowCash Flows From Investing Activities:
+			RowAdditions to property, plant and equipment 	(1,259) 	(1,200) 	(1,069)
+RowPurchases of marketable securities 	(64) 	(42) 	(79)
+RowProceeds from sale of marketable securities 	63 	37 	61
+RowAcquisitions, net of cash acquired 	(2,462) 	(1,474) 	(3,081)
+RowProceeds from sale of businesses 	170 	797 	—
+RowOther, net 	88 	(24) 	4
+RowCash Used for Investing Activities 	(3,464) 	(1,906) 	(4,164)
+RowCash Flows From Financing Activities:
+			RowProceeds from issuance of debt 	4,634 	1,148 	5,444
+RowPayments on debt 	(3,208) 	(1,307) 	(3,159)
+RowBorrowings on revolving credit facility 	1,135 	1,755 	1,810
+RowPayments on revolving credit facility 	(1,065) 	(1,755) 	(2,110)
+RowProceeds from issuance of commercial paper 	17,722 	21,024 	8,138
+RowRepayments of commercial paper 	(17,327) 	(21,197) 	(7,360)
+RowPayment of AdvancePierre TRA liability 	— 	— 	(223)
+RowPurchases of Tyson Class A common stock 	(252) 	(427) 	(860)
+RowDividends 	(537) 	(431) 	(319)
+RowStock options exercised 	99 	102 	154
+RowOther, net 	(30) 	(14) 	15
+RowCash Provided by (Used for) Financing Activities 	1,171 	(1,102) 	1,530
+RowEffect of Exchange Rate Change on Cash 	(6) 	(3) 	4
+RowIncrease (decrease) in Cash and Cash Equivalents 	214 	(48) 	(31)
+RowCash and Cash Equivalents at Beginning of Year 	270 	318 	349
+RowCash and Cash Equivalents at End of Year 	$ 484 	$ 270 	$ 318

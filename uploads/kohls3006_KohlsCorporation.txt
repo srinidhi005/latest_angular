@@ -1,0 +1,219 @@
+Row:(Dollars in Millions)
+	2020
+	2019
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 723 	$ 934
+Row:Merchandise inventories 	3,537 	3,475
+Row:Other 	389 	426
+Row:Total current assets 	4,649 	4,835
+Row:Property and equipment, net 	7,352 	7,428
+Row:Operating leases 	2,391 	—
+Row:Other assets 	163 	206
+Row:Total assets 	$ 14,555 	$ 12,469
+Row:Liabilities and Shareholders’ Equity
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 1,206 	$ 1,187
+Row:Accrued liabilities 	1,233 	1,364
+Row:Income taxes payable 	48 	64
+Row:Current portion of:
+		Row:Finance lease and financing obligations 	124 	115
+Row:Operating leases 	158 	—
+Row:Total current liabilities 	2,769 	2,730
+Row:Long-term debt 	1,856 	1,861
+Row:Finance lease and financing obligations 	1,367 	1,523
+Row:Operating leases 	2,619 	—
+Row:Deferred income taxes 	260 	184
+Row:Other long-term liabilities 	234 	644
+Row:Shareholders’ equity:
+Common stock - 375 and 374 million shares issued 	4 	4
+Row:Paid-in capital 	3,272 	3,204
+Row:Treasury stock, at cost, 219 and 211 million shares 	(11,571 ) 	(11,076 )
+Row:Retained earnings 	13,745 	13,395
+Row:Total shareholders’ equity 	$ 5,450 	$ 5,527
+Row:Total liabilities and shareholders’ equity 	$ 14,555 	$ 12,469
+Row:(Dollars in Millions, Except per Share Data) 	2019 	2018 	2017
+Row:Net sales 	$ 18,885 	$ 19,167 	$ 19,036
+Row:Other revenue 	1,089 	1,062 	1,048
+Row:Total revenue 	19,974 	20,229 	20,084
+Row:Cost of merchandise sold 	12,140 	12,199 	12,176
+Row:Operating expenses:
+			Row:Selling, general and administrative 	5,705 	5,601 	5,501
+Row:Depreciation and amortization 	917 	964 	991
+Row:Impairments, store closing and other costs 	113 	104 	—
+Row:Operating income 	1,099 	1,361 	1,416
+Row:Interest expense, net 	207 	256 	299
+Row:(Gain) loss on extinguishment of debt 	(9 ) 	63 	—
+Row:Income before income taxes 	901 	1,042 	1,117
+Row:Provision for income taxes 	210 	241 	258
+Row:Net income 	$ 691 	$ 801 	$ 859
+Row:Net income per share:
+			Row:Basic 	$ 4.39 	$ 4.88 	$ 5.14
+Row:Diluted 	$ 4.37 	$ 4.84 	$ 5.12
+Row:(Dollars in Millions, Except per Share Data)
+	2019
+	2018
+	2017
+Row:Common stock
+			Row:Balance, beginning of period
+	4 	$
+4 	$
+Row:Stock options and awards
+			Row:Balance, end of period
+	$
+4 	$
+4 	$
+4
+Row:Paid-in capital
+			Row:Balance, beginning of period
+	3,204 	$
+3,078 	$
+3,003
+Row:Stock options and awards
+	68
+	126
+	75
+Row:Balance, end of period
+	3,272 	$
+3,204 	$
+3,078
+Row:Treasury stock
+			Row:Balance, beginning of period
+	$
+(11,076) 	$
+(10,651)	$
+(10,338)
+Row:Treasury stock purchases
+	(470)
+	(396)
+	(306)
+Row:Stock options and awards
+	(31)
+	(34)
+	(14)
+Row:Dividends paid
+	6
+	5
+	7
+Row:Balance, end of period
+	(11,571) $
+	$
+(11,076) 	$
+(10,651)
+Row:Accumulated other comprehensive loss (a)
+			Row:Balance, beginning of period
+		(11) 	$
+(14)
+Row:Other comprehensive income
+		11
+	3
+Row:Balance, end of period
+		FA
+	(11)
+Row:Retained earnings
+			Row:Balance, beginning of period
+	$
+13,395 	$
+12,999 	$
+12,515
+Row:Change in accounting standard (b)
+	88
+		Row:Net earnings
+	691
+	801
+	859
+Row:Dividends paid
+	(429)
+	(405
+	(375)
+Row:Balance, end of period
+	13,745 $
+	$
+13,395 	$
+12,999
+Row:Total shareholders' equity, end of period
+	$
+5,450 	$
+5,527 	$
+5,419
+Row:Common stock
+			Row:Shares, beginning of period
+	374
+	373
+	371
+Row:Stock options and awards
+	1
+	1
+	2
+Row:Shares, end of period
+	375
+	374
+	373
+Row:Treasury stock
+			Row:Shares, beginning of period
+	(211)
+	(205)
+	(197)
+Row:Treasury stock purchases
+	(8)
+	(6)
+	(8
+Row:Shares, end of period
+	(219)
+	(211)
+	(205)
+Row:Total shares outstanding, end of period
+	156
+	163
+	168
+Row:Dividends paid per common share
+	2.68
+	2.44 	$
+2.20
+Row:a) Includes loss on interest rate derivative and reclassification adjustment for interest $1 million in 2018 and $2 million in 2017.
+	expense included in net 	income. Tax effects of interest 	rate derivatives were
+Row:(Dollars in Millions) 	2019 	2018 	2017
+	Row:Operating activities
+				Row:Net income 	$ 691 	$ 801 	$ 859
+	Row:Adjustments to reconcile net income to net cash provided by
+operating activities:
+				Row:Depreciation and amortization 	917 	964 	991
+	Row:Share-based compensation 	56 	87 	55
+	Row:Deferred income taxes 	51 	(31 ) 	(61 	)
+Row:Impairments, store closing and other costs 	64 	72 	—
+	Row:(Gain) loss on extinguishment of debt 	(9 ) 	63 	—
+	Row:Non-cash lease expense 	150 	— 	—
+	Row:Other non-cash expense 	11 	18 	2
+	Row:Changes in operating assets and liabilities:
+				Row:Merchandise inventories 	(51 ) 	79 	264
+	Row:Other current and long-term assets 	24 	72 	(81 	)
+Row:Accounts payable 	19 	(84 ) 	(236 	)
+Row:Accrued and other long-term liabilities 	(117 ) 	67 	(52 	)
+Row:Income taxes 	7 	(1 ) 	(50 	)
+Row:Operating lease liabilities 	(156 ) 	— 	—
+	Row:Net cash provided by operating activities 	1,657 	2,107 	1,691
+	Row:Investing activities
+				Row:Acquisition of property and equipment 	(855 ) 	(578 ) 	(672 	)
+Row:Other 	18 	6 	23
+	Row:Net cash used in investing activities 	(837 ) 	(572 ) 	(649 	)
+Row:Financing activities
+				Row:Treasury stock purchases 	(470 ) 	(396 ) 	(306 	)
+Row:Shares withheld for taxes on vested restricted shares 	(31 ) 	(34 ) 	(14 	)
+Row:Dividends paid 	(423 ) 	(400 ) 	(368 	)
+Row:Reduction of long-term borrowing 	(6 ) 	(943 ) 	—
+	Row:Premium paid on redemption of debt Finance lease and financing obligation payments 	— (113 ) 	(46 ) (126 ) 	—
+(138 	)
+Row:Proceeds from stock option exercises 	1 	36 	18
+	Row:Proceeds from financing obligations 	11 	— 	—
+	Row:Net cash used in financing activities Net (decrease) increase in cash and cash equivalents 	(1,031 ) (211 ) 	(1,909 ) (374 ) 	(808 234
+	)
+Row:Cash and cash equivalents at beginning of period 	934 	1,308 	1,074
+	Row:Cash and cash equivalents at end of period 	$ 723 	$ 934 	$ 1,308
+	Row:Supplemental information
+				Row:Interest paid, net of capitalized interest 	$ 193 	$ 282 	$ 297
+	Row:Income taxes paid 	172 	308 	272
+	Row:Property and equipment acquired through:
+				Row:Finance lease liabilities 	236 	37 	30
+	Row:Operating lease liabilities 	106 	— 	—
+	Row:Financing obligations 	— 	4 	12
+	

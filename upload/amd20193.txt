@@ -1,0 +1,104 @@
+Row:	December 29,
+December 30,
+2018
+2017
+December 31,
+2016
+Row:	(In millions, except per share amounts)
+Row:Net revenue $ 	6,475 $ 5,253 $ 4,319
+Row:Cost of sales 	4,028 3,466 3,316
+Row:Gross margin 	2,447 1,787 1,003
+Row:Research and development 	1,434 1,196 1,008
+Row:Marketing, general and administrative 	562 516 466
+Row:Restructuring and other special charges, net 	— — (10)
+Row:Licensing gain 	— (52) (88)
+Row:Operating income (loss) 	451 127 (373)
+Row:Interest expense 	(121) (126) (156)
+Row:Other income (expense), net 	— (9) 80
+Row:Income (loss) before income taxes and equity loss 	330 (8) (449)
+Row:Provision (benefit) for income taxes 	(9) 18 39
+Row:Equity loss in investee 	(2) (7) (10)
+Row:Net income (loss) $ 	337 $ (33) $ (498)
+Row:Earnings (loss) per share
+	Row:Basic $ 	0.34 $ (0.03) $ (0.60)
+Row:Diluted $ 	0.32 $ (0.03) $ (0.60)
+Row:Shares used in per share calculation
+	Row:Basic 	982 952 835
+Row:Diluted 	1,064 952 835
+Row:Current assets:
+		Row:Cash and cash equivalents $ 	1,078 $ 	1,185
+Row:Marketable securities 	78 	—
+Row:Accounts receivable, net 	1,235 	454
+Row:Inventories, net 	845 	694
+Row:Prepayment and receivables - related parties 	52 	33
+Row:Prepaid expenses 	57 	77
+Row:Other current assets 	195 	191
+Row:Total current assets 	3,540 	2,634
+Row:Property and equipment, net 	348 	261
+Row:Goodwill 	289 	289
+Row:Investment: equity method 	58 	58
+Row:Other assets 	321 	310
+Row:Total assets $ 	4,556 $ 	3,552
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Short-term debt $ 	136 $ 	70
+Row:Accounts payable 	528 	384
+Row:Payables to related parties 	533 	412
+Row:Accrued liabilities 	763 	555
+Row:Other current liabilities 	24 	92
+Row:Total current liabilities 	1,984 	1,513
+Row:Long-term debt, net 	1,114 	1,325
+Row:Other long-term liabilities 	192 	118
+Row:Commitments and contingencies (see Notes 18 and 19)
+		Row:Stockholders’ equity:
+		Row:Common stock, par value $0.01; 2,250 shares authorized, 1,010 shares issued and 1,005 shares
+	Row:outstanding as of December 29, 2018; 1,500 shares authorized, 979 shares issued and 967 shares
+outstanding as of December 30, 2017 	10 9
+Row:Additional paid-in capital 	8,750 8,464
+Row:Treasury stock, at cost (5 shares as of December 29, 2018 and 12 shares as of December 30, 2017) 	(50) (108)
+Row:Accumulated deficit 	(7,436) (7,775)
+Row:Accumulated other comprehensive income (loss) 	(8) 6
+Row:Total stockholders’ equity 	1,266 596
+Row:Total liabilities and stockholders’ equity $ 	4,556 $ 3,552
+Row:Cash flows from operating activities:
+			Row:Net income (loss) $ 	337 	$ (33) $ 	(498)
+Row:Adjustments to reconcile net income (loss) to net cash used in operating activities:
+Net gain on sale of equity interests in ATMP JV 	— 	(3) 	(146)
+Row:Net loss on disposal of property and equipment 	27 	— 	1
+Row:Impairment of technology licenses 	45 	— 	—
+Row:Depreciation and amortization 	170 	144 	133
+Row:Deferred income taxes Stock-based compensation expense 	(4) 137 	— 97 	11
+86
+Row:Amortization of debt discount and issuance costs 	38 	36 	21
+Row:Loss on debt redemption 	12 	12 	68
+Row:Fair value of warrant issued related to sixth amendment to the WSA 	— 	— 	240
+Row:Other 	(1) 	3 	(7)
+Row:Changes in operating assets and liabilities:
+			Row:Accounts receivable 	(806) 	(103) 	178
+Row:Inventories 	(151) 	(3) 	(48)
+Row:Prepayment and receivables - related parties 	(19) 	(1) 	1
+Row:Prepaid expenses and other assets 	(79) 	(172) 	(163)
+Row:Payables to related parties 	121 	29 	138
+Row:Accounts payable, accrued liabilities and other 	207 	6 	66
+Row:Net cash provided by operating activities 	34 	12 	81
+Row:Cash flows from investing activities:
+			Row:Net proceeds from sale of equity interests in ATMP JV 	— 	1 	342
+Row:Purchases of available-for-sale debt securities 	(123) 	(222) 	—
+Row:Purchases of property and equipment 	(163) 	(113) 	(77)
+Row:Proceeds from maturity of available-for-sale debt securities 	45 	222 	—
+Row:Collection of deferred proceeds on sale of receivables 	71 	60 	10
+Row:Other 	— 	(2) 	2
+Row:Net cash provided by (used in) investing activities 	(170) 	(54) 	277
+Row:Cash flows from financing activities:
+			Row:Proceeds from issuance of common stock, net of issuance costs Proceeds from issuance of convertible senior notes, net of issuance costs Proceeds from issuance of common stock through employee equity incentive plans 	— — 70 	— — 20 	667
+782
+20
+Row:Proceeds from (repayments of) short-term borrowings, net 	— 	70 	(230)
+Row:Repayments of long-term debt 	(41) 	(110) 	(1,113)
+Row:Other 	(1) 	(13) 	(4)
+Row:Net cash provided by (used in) financing activities 	28 	(33) 	122
+Row:Net increase (decrease) in cash and cash equivalents, and restricted cash 	(108) 	(75) 	480
+Row:Cash, cash equivalents, and restricted cash at beginning of year 1,191 		1,266 	786
+Row:Cash, cash equivalents, and restricted cash at end of year $ 1,083 		$ 1,191 $ 	1,266
+Row:52
+			

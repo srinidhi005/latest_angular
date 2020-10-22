@@ -1,0 +1,107 @@
+Row:Operating Revenues
+			Row:Electric 	$ 13,657 	$ 13,658 	$ 12,494
+Row:Natural gas 	3,176 	3,432 	3,104
+Row:Total operating revenues 	16,833 	17,090 	15,598
+Row:Operating Expenses
+			Row:Cost of electricity 	5,099 	5,615 	5,016
+Row:Cost of natural gas 	663 	954 	968
+Row:Operating and maintenance 	6,951 	5,638 	5,775
+Row:Depreciation, amortization, and decommissioning 	2,612 	2,433 	2,077
+Row:Total operating expenses 	15,325 	14,640 	13,836
+Row:Operating Income 	1,508 	2,450 	1,762
+Row:Interest income 	9 	9 	9
+Row:Interest expense 	(773) 	(734) 	(715)
+Row:Other income, net 	117 	70 	40
+Row:Income Before Income Taxes 	861 	1,795 	1,096
+Row:Income tax (benefit) provision 	(27) 	345 	268
+Row:Net Income 	888 	1,450 	828
+Row:Preferred stock dividend requirement of subsidiary 	14 	14 	14
+Row:Income Available for Common Shareholders 	$ 874 	$ 1,436 	$ 814
+Row:Weighted Average Common Shares Outstanding, Basic 	484 	468 	444
+Row:Weighted Average Common Shares Outstanding, Diluted 	487 	470 	445
+Row:Net Earnings Per Common Share, Basic 	$ 1.81 	$ 3.07 	$ 1.83
+Row:Net Earnings Per Common Share, Diluted 	$ 1.79 	$ 3.06 	$ 1.83
+Row:ASSETS
+		Row:Current Assets
+		Row:Cash and cash equivalents 	$ 123 	$ 151
+Row:Restricted cash 	234 	298
+Row:Accounts receivable
+		Row:Customers (net of allowance for doubtful accounts of $54 and $66
+		Row:at respective dates) 	1,106 	960
+Row:Accrued unbilled revenue 	855 	776
+Row:Regulatory balancing accounts 	1,760 	2,266
+Row:Other 	286 	377
+Row:Regulatory assets 	517 	444
+Row:Inventories
+		Row:Gas stored underground and fuel oil 	126 	172
+Row:Materials and supplies 	313 	304
+Row:Income taxes receivable 	155 	198
+Row:Other 	347 	443
+Row:Total current assets 	5,822 	6,389
+Row:Property, Plant, and Equipment
+		Row:Electric 	48,532 	45,162
+Row:Gas 	16,749 	15,678
+Row:Construction work in progress 	2,059 	2,220
+Row:Other 	2 	2
+Row:Total property, plant, and equipment 	67,342 	63,062
+Row:Accumulated depreciation 	(20,619) 	(19,121)
+Row:Net property, plant, and equipment 	46,723 	43,941
+Row:Other Noncurrent Assets
+		Row:Regulatory assets 	7,029 	6,322
+Row:Nuclear decommissioning trusts 	2,470 	2,421
+Row:Income taxes receivable 	135 	91
+Row:Other 	1,160 	963
+Row:Total other noncurrent assets 	10,794 	9,797
+Row:TOTAL ASSETS 	$ 63,339 	$ 60,127
+Row:Cash Flows from Operating Activities
+	2015 	2014 	2013
+Row:Net income 	$ 888 	$ 1,450 	$ 828
+Row:Adjustments to reconcile net income to net cash provided by
+operating activities:
+Depreciation, amortization, and decommissioning 	2,612 	2,433 	2,077
+Row:Allowance for equity funds used during construction 	(107) 	(100) 	(101)
+Row:Deferred income taxes and tax credits, net 	693 	690 	1,075
+Row:Disallowed capital expenditures 	407 	116 	196
+Row:Other 	326 	286 	355
+Row:Effect of changes in operating assets and liabilities:
+			Row:Accounts receivable 	(177) 	13 	(152)
+Row:Inventories 	37 	(22) 	(10)
+Row:Accounts payable 	(55) 	(61) 	113
+Row:Income taxes receivable/payable 	43 	376 	(363)
+Row:Other current assets and liabilities 	(315) 	205 	(469)
+Row:Regulatory assets, liabilities, and balancing accounts, net 	(244) 	(1,642) 	(202)
+Row:Other noncurrent assets and liabilities 	(355) 	(67) 	80
+Row:Net cash provided by operating activities 	3,753 	3,677 	3,427
+Row:Cash Flows from Investing Activities
+			Row:Capital expenditures 	(5,173) 	(4,833) 	(5,207)
+Row:Decrease in restricted cash 	64 	3 	29
+Row:Proceeds from sales and maturities of nuclear decommissioning
+			Row:trust investments 	1,268 	1,336 	1,619
+Row:Purchases of nuclear decommissioning trust investments 	(1,392) 	(1,334) 	(1,604)
+Row:Other 	22 	114 	56
+Row:Net cash used in investing activities 	(5,211) 	(4,714) 	(5,107)
+Row:Cash Flows from Financing Activities
+Borrowings (repayments) under revolving credit facilities Net issuances (repayments) of commercial paper, net of discount
+	- 	(260) 	140
+Row:of $3, $2, and $2 at respective dates 	683 	(583) 	542
+Row:Proceeds from issuance of short-term debt, net of issuance costs 	- 	300 	-
+Row:Short-term debt matured 	(300) 	- 	-
+Row:Proceeds from issuance of long-term debt, net of premium, discount,
+and issuance costs of $27, $17 and $18 at respective dates 	1,123 	2,308 	1,532
+Row:Repayments of long-term debt 	- 	(889) 	(861)
+Row:Common stock issued 	780 	802 	1,045
+Row:Common stock dividends paid 	(856) 	(828) 	(782)
+Row:Other 	- 	42 	(41)
+Row:Net cash provided by financing activities 	1,430 	892 	1,575
+Row:Net change in cash and cash equivalents 	(28) 	(145) 	(105)
+Row:Cash and cash equivalents at January 1 	151 	296 	401
+Row:Cash and cash equivalents at December 31 	$ 123 	$ 151 	$ 296
+Row:Cash received (paid) for:
+	Row:Interest, net of amounts capitalized $ 	(684) $ (633) $ (623)
+Row:Income taxes, net 	77 501 (41)
+Row:Supplemental disclosures of noncash investing and financing
+activities
+	Row:Common stock dividends declared but not yet paid $ 	224 $ 217 $ 208
+Row:Capital expenditures financed through accounts payable 	440 339 322
+Row:Noncash common stock issuances 	21 21 22
+Row:Terminated capital leases 	- 71 -

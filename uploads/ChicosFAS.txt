@@ -1,0 +1,160 @@
+Row	Amount
+February (52 	1, 2020 weeks) % of
+Sales 	February (52 Amount
+	2, 2019 weeks) % of
+Sales 	February (53 Amount
+	% of
+Sales
+3, 2018
+weeks)
+Row$ 	2,037,875 	100.0 % 	$ 2,131,140 	100.0 % 	$ 2,282,379 	100.0 %
+Row	1,335,997 	65.6 	1,367,726 	64.2 	1,417,602 	62.1
+Row	701,878 	34.4 	763,414 	35.8 	864,777 	37.9
+Rowexpenses 	713,951 	35.0 	719,748 	33.8 	719,607 	31.5
+Row	(12,073) 	(0.6) 	43,666 	2.0 	145,170 	6.4
+Row	119 	0.0 	(353) 	0.0 	(1,570) 	(0.1)
+RowTaxes 	(11,954) 	(0.6) 	43,313 	2.0 	143,600 	6.3
+Row	800 	0.0 	7,700 	0.4 	42,600 	1.9
+Row$ 	(12,754) 	(0.6)% 	$ 35,613 	1.6 % 	$ 101,000 	4.4 %
+Rowshare-basic $ 	(0.11) 		$ 0.28 		$ 0.79
+	Rowcommon equivalent share–
+$ 	(0.11) 		$ 0.28 		$ 0.79
+	Rowoutstanding–basic 	114,859 		122,662 		125,341
+	Rowcommon equivalent shares
+	114,859 		122,729 		125,403
+	RowASSETS
+		RowCurrent Assets:
+		RowCash and cash equivalents $ 	63,972 $ 	124,128
+RowMarketable securities, at fair value 	63,893 	61,987
+RowInventories 	246,737 	235,218
+RowPrepaid expenses and other current assets 	48,200 	63,845
+RowTotal Current Assets 	422,802 	485,178
+RowProperty and Equipment, net 	315,382 	370,932
+RowRight of Use Assets 	648,397 	—
+RowOther Assets:
+		RowGoodwill 	96,774 	96,774
+RowOther intangible assets, net 	38,930 	38,930
+RowOther assets, net 	20,374 	15,220
+RowTotal Other Assets 	156,078 	150,924
+Row$ 	1,542,659 $ 	1,007,034
+RowLIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row156,078 		150,924
+Row$ 1,542,659 	$ 	1,007,034
+RowCurrent Liabilities:
+		RowAccounts payable 	$ 134,204 	$ 143,404
+RowCurrent lease liabilities 	157,043 	—
+RowOther current and deferred liabilities 	114,498 	131,820
+RowTotal Current Liabilities 	405,745 	275,224
+RowNoncurrent Liabilities:
+		RowLong-term debt 	42,500 	57,500
+RowLong-term lease liabilities 	555,922 	—
+RowOther noncurrent and deferred liabilities 	8,188 	89,109
+RowDeferred taxes 	212 	5,237
+RowTotal Noncurrent Liabilities 	606,822 	151,846
+RowCommitments and Contingencies: (see Note 12)
+		RowShareholders’ Equity:
+		RowPreferred stock, $.01 par value; 2,500 shares authorized; no shares issued and outstanding 	— 	—
+RowCommon stock, $.01 par value; 400,000 shares authorized; 159,715 and 158,246 shares issued; and 118,418 and
+		Row116,949 shares outstanding, respectively 	1,184 	1,169
+RowAdditional paid-in capital 	492,129 	486,406
+RowTreasury stock, at cost, 41,297 shares and 41,297 shares, respectively 	(494,395) 	(494,395)
+RowRetained earnings 	531,602 	587,145
+RowAccumulated other comprehensive loss 	(428) 	(361)
+RowTotal Shareholders’ Equity 	530,092 	579,964
+Row	$ 1,542,659 	$ 1,007,034
+RowThe accompanying notes are an integral part of these consolidated statements.
+		Row	Shares 	Par Value 	Additional
+Paid-in
+Capital
+	Shares 	Amount
+	Retained
+Earnings 	Other
+Comprehensive
+Loss 	Total
+RowBALANCE, January 28, 2017 	128,753 $ 	1,288 $ 	452,756 	26,417 	$ (386,094) 	$ 541,251 $ 	(28) 	$ 609,173
+RowNet income 	— 	— 	— 	— 	— 	101,000 	— 	101,000
+RowUnrealized loss on marketable
+securities, net of taxes 	— 	— 	— 	— 	— 	— 	(135) 	(135)
+RowForeign currency translation
+adjustment 	— 	— 	— 	— 	— 	— 	119 	119
+RowIssuance of common stock 	1,931 	19 	2,108 	— 	— 	— 	— 	2,127
+RowDividends on common stock ($0.33
+per share) 	— 	— 	— 	— 	— 	(42,441) 	— 	(42,441)
+RowRepurchase of common stock 	(3,213) 	(32) 	(6,735) 	2,697 	(27,371) 	— 	— 	(34,138)
+RowShare-based compensation 	— 	— 	20,677 	— 	— 	— 	— 	20,677
+RowBALANCE, February 3, 2018 	127,471 	1,275 	468,806 	29,114 	(413,465) 	599,810 	(44) 	656,382
+RowCumulative effect of adoption of
+								RowDividends on common stock ($0.33
+per share) 	— 	— 	— 	— 	— 	(42,441) 	— 	(42,441)
+RowRepurchase of common stock 	(3,213) 	(32) 	(6,735) 	2,697 	(27,371) 	— 	— 	(34,138)
+RowShare-based compensation 	— 	— 	20,677 	— 	— 	— 	— 	20,677
+RowBALANCE, February 3, 2018 	127,471 	1,275 	468,806 	29,114 	(413,465) 	599,810 	(44) 	656,382
+RowCumulative effect of adoption of
+ASU 2018-02, ASU 2016-16 and
+ASU 2014-09 	— 	— 	— 	— 	— 	(5,015) 	(39) 	(5,054)
+RowBALANCE, February 3, 2018, as
+adjusted 	127,471 	1,275 	468,806 	29,114 	(413,465) 	594,795 	(83) 	651,328
+RowNet income 	— 	— 	— 	— 	— 	35,613 	— 	35,613
+RowUnrealized gain on marketable
+securities, net of taxes 	— 	— 	— 	— 	— 	— 	189 	189
+RowForeign currency translation
+adjustment 	— 	— 	— 	— 	— 	— 	(467) 	(467)
+RowIssuance of common stock 	2,073 	21 	1,527 	— 	— 	— 	— 	1,548
+RowDividends on common stock ($0.34
+per share) 	— 	— 	— 	— 	— 	(43,263) 	— 	(43,263)
+RowRepurchase of common stock 	(12,595) 	(127) 	(3,710) 	12,183 	(80,930) 	— 	— 	(84,767)
+RowShare-based compensation 	— 	— 	19,783 	— 	— 	— 	— 	19,783
+RowBALANCE, February 2, 2019 	116,949 	1,169 	486,406 	41,297 	(494,395) 	587,145 	(361) 	579,964
+RowCumulative effect of adoption of
+ASU 2016-02 (see Note 1) 	— 	— 	— 	— 	— 	(1,287) 	— 	(1,287)
+RowBALANCE, February 2, 2019, as
+adjusted 	116,949 	1,169 	486,406 	41,297 	(494,395) 	585,858 	(361) 	578,677
+RowNet loss 	— 	— 	— 	— 	— 	(12,754) 	— 	(12,754)
+RowUnrealized gain on marketable
+securities, net of taxes 	— 	— 	— 	— 	— 	— 	200 	200
+RowForeign currency translation
+adjustment 	— 	— 	— 	— 	— 	— 	(267) 	(267)
+RowIssuance of common stock 	1,926 	19 	1,124 	— 	— 	— 	— 	1,143
+RowDividends on common stock ($0.35
+per share) 	— 	— 	— 	— 	— 	(41,502) 	— 	(41,502)
+RowRepurchase of common stock 	(457) 	(4) 	(2,546) 	— 	— 	— 	— 	(2,550)
+RowShare-based compensation 	— 	— 	7,145 	— 	— 	— 	— 	7,145
+RowBALANCE, February 1, 2020 	118,418 	$ 1,184 	$ 492,129 	41,297 	$ (494,395) 	$ 531,602 	$ (428) 	$ 530,092
+Row	(52 weeks) 	(52 weeks) 	(53 weeks)
+RowCash Flows from Operating Activities:
+			RowNet (loss) income $ 	(12,754) 	$ 35,613 	$ 101,000
+RowAdjustments to reconcile net (loss) income to net cash provided by operating activities:
+			RowDepreciation and amortization 	88,411 	91,333 	96,310
+RowNon-cash lease expense 	212,595 	— 	—
+RowLoss on disposal and impairment of long-lived assets, net 	2,343 	13,628 	7,042
+RowDeferred tax benefit 	(3,326) 	(2,100) 	(2,070)
+RowShare-based compensation 	7,145 	19,783 	20,677
+RowDeferred rent and lease credits 	— 	(19,527) 	(19,692)
+RowChanges in assets and liabilities:
+			RowInventories 	(11,519) 	(2,316) 	(1,363)
+RowPrepaid expenses and other assets 	(11,302) 	1,250 	(4,895)
+RowAccounts payable 	(9,525) 	25,097 	1,950
+RowAccrued and other liabilities 	(603) 	(4,687) 	(32,086)
+RowLease liability 	(228,121) 	— 	—
+RowNet cash provided by operating activities 	33,344 	158,074 	166,873
+RowCash Flows from Investing Activities:
+			RowPurchases of marketable securities 	(49,663) 	(38,693) 	(39,794)
+RowProceeds from sale of marketable securities 	47,955 	37,007 	30,045
+RowPurchases of property and equipment 	(33,939) 	(54,187) 	(48,530)
+RowNet cash used in investing activities 	(35,647) 	(55,873) 	(58,279)
+RowCash Flows from Financing Activities:
+			RowProceeds from borrowings 	— 	61,250 	—
+RowPayments on borrowings 	(15,000) 	(72,500) 	(16,250)
+RowProceeds from issuance of common stock 	1,143 	1,548 	2,127
+RowDividends paid 	(41,179) 	(43,208) 	(42,516)
+RowRepurchase of common stock 	— 	(81,052) 	(27,398)
+RowPayments of tax withholdings related to share-based awards 	(2,550) 	(3,715) 	(6,740)
+RowNet cash used in financing activities 	(57,586) 	(137,677) 	(90,777)
+RowEffects of exchange rate changes on cash and cash equivalents 	(267) 	(467) 	119
+RowNet (decrease) increase in cash and cash equivalents 	(60,156) 	(35,943) 	17,936
+RowCash and Cash Equivalents, Beginning of period 	124,128 	160,071 	142,135
+RowCash and Cash Equivalents, End of period $ 	63,972 	$ 124,128 	$ 160,071
+RowSupplemental Disclosures of Cash Flow Information:
+			RowCash paid for interest $ 	2,078 	$ 3,272 	$ 2,546
+RowCash paid for interest 	$ 	2,078 	$ 	3,272 	$ 	2,546
+RowCash (received) paid for income taxes, net 	$ 	(614) 	$ 	22,697 	$ 	49,758

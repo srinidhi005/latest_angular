@@ -1,0 +1,588 @@
+Table 0: Header Row 0: Years Ended (In Millions, Except Per Share Amounts)
+	Dec 28,
+2019
+	Dec Row 0: Net revenue 	$ 71,965 	$ Row 1: Cost of sales 	29,825 	Row 2: Gross margin 	42,140 	Row 3: Research and development 	13,362 	Row 4: Marketing, general and administrative 	6,150 	Row 5: Restructuring and other charges 	393 	Row 6: Amortization of acquisition-related intangibles 	200 	Row 7: Operating expenses 	20,105 	Row 8: Operating income 	22,035 	Row 9: Gains (losses) on equity investments, net 	1,539 	Row 10: Interest and other, net 	484 	Row 11: Income before taxes 	24,058 	Row 12: Provision for taxes 	3,010 	Row 13: Net income 	$ 21,048 	$ Row 14: Earnings per share—Basic 	$ 4.77 	$ Row 15: Earnings per share—Diluted 	$ 4.71 	$ Row 16: Weighted average shares of common stock outstanding:
+Basic 	4,417 	Row 17: Diluted 	4,473 	Row 18: See accompanying notes.
+		Table 1: Header Row 0: Dec 28,
+	Dec 29,
+	Dec 30,
+Row 0: 2019
+	2018
+	2017
+Row 1: $ 71,965 	$ 70,848 	$ 62,761
+Row 2: 29,825 	27,111 	23,663
+Row 3: 42,140 	43,737 	39,098
+Row 4: 13,362 	13,543 	13,035
+Row 5: 6,150 	6,750 	7,452
+Row 6: 393 	(72) 	384
+Row 7: 200 	200 	177
+Row 8: 20,105 	20,421 	21,048
+Row 9: 22,035 	23,316 	18,050
+Row 10: 1,539 	(125) 	2,651
+Row 11: 484 	126 	(349)
+Row 12: 24,058 	23,317 	20,352
+Row 13: 3,010 	2,264 	10,751
+Row 14: $ 21,048 	$ 21,053 	$ 9,601
+Row 15: $ 4.77 	$ 4.57 	$ 2.04
+Row 16: $ 4.71 	$ 4.48 	$ 1.99
+Row 17: 4,417 	4,611 	4,701
+Row 18: 4,473 	4,701 	4,835
+Table 0: Header Row 0: Dec 	28,
+2019
+	Dec 29,
+2018
+	Dec 30,
+2017
+Row 0: $ 	21,048 	$ 21,053 $ 	9,601
+Table 1: Header Row 0: Years Ended (In Millions)
+	Dec 28,
+2019
+	Dec 29,
+2018
+	Dec 30,
+2017
+Row 0: Net income 	$ 21,048 $ 	21,053 $ 	9,601
+Row 1: Changes in other comprehensive income, net of tax:
+			Row 2: Net unrealized holding gains (losses) on available-for-sale equity investments 	— 	— 	(434)
+Row 3: Net unrealized holding gains (losses) on derivatives 	177 	(253) 	365
+Row 4: Actuarial valuation and other pension benefits (expenses), net 	(564) 	210 	317
+Row 5: Translation adjustments and other 	81 	(3) 	508
+Row 6: Other comprehensive income (loss) 	(306) 	(46) 	756
+Row 7: Total comprehensive income 	$ 20,742 $ 	21,007 $ 	10,357
+Row 8: See accompanying notes.
+			Table 0: Header Row 0: (In Millions, Except Par Value)
+	2019
+	2018
+Row 0: Assets
+		Row 1: Current assets:
+		Row 2: Cash and cash equivalents 	$ 4,194 $ 	3,019
+Row 3: Short-term investments 	1,082 	2,788
+Row 4: Trading assets 	7,847 	5,843
+Row 5: Accounts receivable, net of allowance for doubtful accounts 	7,659 	6,722
+Row 6: Inventories 	8,744 	7,253
+Row 7: Other current assets 	1,713 	3,162
+Row 8: Total current assets 	31,239 	28,787
+Row 9: Property, plant and equipment, net 	55,386 	48,976
+Row 10: Equity investments 	3,967 	6,042
+Row 11: Other long-term investments 	3,276 	3,388
+Row 12: Goodwill 	26,276 	24,513
+Row 13: Identified intangible assets, net 	10,827 	11,836
+Row 14: Other long-term assets 	5,553 	4,421
+Row 15: Total assets 	$ 136,524 $ 	127,963
+Row 16: Liabilities, temporary equity, and stockholders’ equity
+		Row 17: Current liabilities:
+		Row 18: Short-term debt 	$ 3,693 $ 	1,261
+Row 19: Accounts payable 	4,128 	3,824
+Row 20: Accrued compensation and benefits 	3,853 	3,622
+Row 21: Other accrued liabilities 	10,636 	7,919
+Row 22: Total current liabilities 	22,310 	16,626
+Row 23: Debt 	25,308 	25,098
+Row 24: Contract liabilities 	1,368 	2,049
+Row 25: Income taxes payable, non-current 	4,919 	4,897
+Row 26: Deferred income taxes 	2,044 	1,665
+Row 27: Other long-term liabilities 	2,916 	2,646
+Row 28: Commitments and Contingencies (Note 20)
+		Row 29: Temporary equity 	155 	419
+Row 30: Stockholders’ equity:
+		Row 31: Preferred stock, $0.001 par value, 50 shares authorized; none issued 	— 	—
+Row 32: Common stock, $0.001 par value, 10,000 shares authorized; 4,290 shares issued and
+outstanding (4,516 issued and outstanding in 2018) and capital in excess of par value 	25,261 	25,365
+Row 33: Accumulated other comprehensive income (loss) 	(1,280) 	(974)
+Row 34: Retained earnings 	53,523 	50,172
+Row 35: Total stockholders’ equity 	77,504 	74,563
+Row 36: Total liabilities, temporary equity, and stockholders’ equity 	$ 136,524 $ 	127,963
+Row 37: See accompanying notes.
+		Table 1: Header Row 0: $ 	4,194 1,082 7,847 7,659 8,744 1,713 	$ 	3,019
+2,788
+5,843
+6,722
+7,253
+3,162
+Row 0: 	31,239 		28,787
+Row 1: 	55,386 3,967 3,276 26,276 10,827 5,553 		48,976
+6,042
+3,388
+24,513
+11,836
+4,421
+Row 2: $ 	136,524 	$ 	127,963
+Table 2: Header Row 0: $ 3,693 4,128 3,853 	$ 	1,261
+3,824
+3,622
+Row 0: 10,636 		7,919
+Row 1: 22,310 		16,626
+Row 2: 25,308 1,368 4,919 2,044 		25,098
+2,049
+4,897
+1,665
+Row 3: 2,916 		2,646
+Row 4: 155 		419
+Row 5: — 		—
+Row 6: 25,261 (1,280) 53,523 		25,365
+(974)
+50,172
+Row 7: 77,504 		74,563
+Row 8: $ 136,524 	$ 	127,963
+Table 3: Header Row 0: 	outstanding (4,516 issued and outstanding in 2018) and capital 	in excess of par value 	25,261 	25,365
+Row 0: Retained 	Accumulated other comprehensive income (loss) earnings 		(1,280) 53,523 	(974)
+50,172
+Row 1: Total 	stockholders’ equity 		77,504 	74,563
+Row 2: Total 	liabilities, temporary equity, and stockholders’ equity 	$ 	136,524 $ 	127,963
+Row 3: See 	accompanying notes.
+			Table 4: Header Row 0: 	25,261 (1,280) 53,523 	25,365
+(974)
+50,172
+Row 0: 	77,504 	74,563
+Row 1: $ 	136,524 	$ 127,963
+Table 0: Header Row 0: Years Ended (In Millions)
+	Dec 28,
+2019
+	Dec 29,
+2018
+	Dec 30,
+2017
+Row 0: Cash and cash equivalents, beginning of period 	$ 3,019 $ 	3,433 $ 	5,560
+Row 1: Cash flows provided by (used for) operating activities:
+Net income Adjustments to reconcile net income to net cash provided by operating
+activities:
+	21,048 	21,053 	9,601
+Row 2: Depreciation 	9,204 	7,520 	6,752
+Row 3: Share-based compensation 	1,705 	1,546 	1,358
+Row 4: Amortization of intangibles 	1,622 	1,565 	1,377
+Row 5: (Gains) losses on equity investments, net 	(892) 	155 	(2,583)
+Row 6: (Gains) losses on divestitures Changes in assets and liabilities:
+	(690) 	(497) 	(387)
+Row 7: Accounts receivable 	(935) 	(1,714) 	(781)
+Row 8: Inventories 	(1,481) 	(214) 	(1,300)
+Row 9: Accounts payable 	696 	211 	191
+Row 10: Accrued compensation and benefits 	91 	(260) 	311
+Row 11: Customer deposits and prepaid supply agreements 	(782) 	1,367 	1,105
+Row 12: Income taxes 	885 	(1,601) 	6,778
+Row 13: Other assets and liabilities 	2,674 	301 	(312)
+Row 14: Total adjustments 	12,097 	8,379 	12,509
+Row 15: Net cash provided by operating activities 	33,145 	29,432 	22,110
+Row 16: Cash flows provided by (used for) investing activities:
+Additions to property, plant and equipment 	(16,213) 	(15,181) 	(11,778)
+Row 17: Acquisitions, net of cash acquired 	(1,958) 	(190) 	(14,499)
+Row 18: Purchases of available-for-sale debt investments 	(2,268) 	(3,843) 	(2,746)
+Row 19: Sales of available-for-sale debt investments 	238 	195 	1,833
+Row 20: Maturities of available-for-sale debt investments 	3,988 	2,968 	3,687
+Row 21: Purchases of trading assets 	(9,162) 	(9,503) 	(13,700)
+Row 22: Maturities and sales of trading assets 	7,178 	12,111 	13,970
+Row 23: Purchases of equity investments 	(522) 	(874) 	(1,619)
+Row 24: Sales of equity investments 	2,688 	2,802 	5,236
+Row 25: Proceeds from divestitures 	911 	548 	3,124
+Row 26: Other investing 	715 	(272) 	730
+Row 27: Net cash used for investing activities 	(14,405) 	(11,239) 	(15,762)
+Row 28: Cash flows provided by (used for) financing activities:
+			Row 29: Issuance of long-term debt, net of issuance costs 	3,392 	423 	7,716
+Row 30: Repayment of debt and debt conversion 	(2,627) 	(3,026) 	(8,080)
+Row 31: Proceeds from sales of common stock through employee equity incentive plans 	750 	555 	770
+Row 32: Repurchase of common stock 	(13,576) 	(10,730) 	(3,615)
+Row 33: Payment of dividends to stockholders 	(5,576) 	(5,541) 	(5,072)
+Row 34: Other financing 	72 	(288) 	(194)
+Row 35: Net cash provided by (used for) financing activities 	(17,565) 	(18,607) 	(8,475)
+Row 36: Net increase (decrease) in cash and cash equivalents 	1,175 	(414) 	(2,127)
+Row 37: Cash and cash equivalents, end of period 	$ 4,194 $ 	3,019 $ 	3,433
+Row 38: Supplemental disclosures:
+Acquisition of property, plant and equipment included in accounts payable and
+			Row 39: accrued liabilities Cash paid during the year for:
+	$ 1,761 $ 	2,340 $ 	1,417
+Row 40: Interest, net of capitalized interest 	$ 469 $ 	448 $ 	624
+Row 41: Income taxes, net of refunds 	$ 2,110 $ 	3,813 $ 	3,824
+Row 42: See accompanying notes.
+			Table 1: Header Row 0: Dec 28,
+	Dec 29,
+	Dec 30,
+Row 0: 2019
+	2018
+	2017
+Row 1: 3,019 $ 	3,433 	$ 5,560
+Row 2: 21,048 	21,053 	9,601
+Row 3: 9,204 	7,520 	6,752
+Row 4: 1,705 	1,546 	1,358
+Row 5: 1,622 	1,565 	1,377
+Row 6: (892) 	155 	(2,583)
+Row 7: (690) 	(497) 	(387)
+Row 8: (935) 	(1,714) 	(781)
+Row 9: (1,481) 	(214) 	(1,300)
+Row 10: 696 	211 	191
+Row 11: 91 	(260) 	311
+Row 12: (782) 	1,367 	1,105
+Row 13: 885 	(1,601) 	6,778
+Row 14: 2,674 	301 	(312)
+Row 15: 12,097 	8,379 	12,509
+Row 16: 33,145 	29,432 	22,110
+Table 2: Header Row 0: (16,213) 	(15,181) 	(11,778)
+Row 0: (1,958) 	(190) 	(14,499)
+Row 1: (2,268) 	(3,843) 	(2,746)
+Row 2: 238 	195 	1,833
+Row 3: 3,988 	2,968 	3,687
+Row 4: (9,162) 	(9,503) 	(13,700)
+Row 5: 7,178 	12,111 	13,970
+Row 6: (522) 	(874) 	(1,619)
+Row 7: 2,688 	2,802 	5,236
+Row 8: 911 	548 	3,124
+Row 9: 715 	(272) 	730
+Row 10: (14,405) 	(11,239) 	(15,762)
+Row 11: 3,392 	423 	7,716
+Row 12: (2,627) 	(3,026) 	(8,080)
+Row 13: 750 	555 	770
+Row 14: (13,576) 	(10,730) 	(3,615)
+Row 15: (5,576) 	(5,541) 	(5,072)
+Row 16: 72 	(288) 	(194)
+Row 17: (17,565) 	(18,607) 	(8,475)
+Row 18: 1,175 	(414) 	(2,127)
+Row 19: $ 4,194 $ 	3,019 	$ 3,433
+Table 3: Header Row 0: $ 	1,761 $ 	2,340 $ 	1,417
+Row 0: $ 	469 $ 	448 $ 	624
+Row 1: $ 	2,110 $ 	3,813 $ 	3,824
+Table 0: Header Row 0: (In Millions, Except Per Share Amounts)
+	Number of
+Shares Common Stock in Excess of 	Amount
+and Capital
+Par Value
+	Accumulated
+Other
+Comprehensive
+Income (Loss)
+	Retained
+Earnings 	Total Row 0: Balance as of December 31, 2016 Components of comprehensive income, net of tax:
+	4,730 	$ 25,373 	$ 106 	$ 40,747 	$ 66,226
+Row 1: Net income 	— 	— 	— 	9,601 	9,601
+Row 2: Other comprehensive income (loss) 	— 	— 	756 	— 	756
+Row 3: Total comprehensive income 					10,357
+Row 4: Employee equity incentive plans and other1 	70 	1,172 	— 	(1) 	1,171
+Row 5: Share-based compensation 	— 	1,296 	— 	— 	1,296
+Row 6: Convertible debt 	— 	(894) 	— 	— 	(894)
+Row 7: Repurchase of common stock 	(101) 	(552) 	— 	(3,057) 	(3,609)
+Row 8: Restricted stock unit withholdings 	(12) 	(321) 	— 	(135) 	(456)
+Row 9: Cash dividends declared ($1.0775 per share of
+common stock) 	— 	— 	— 	(5,072) 	(5,072)
+Row 10: Balance as of December 30, 2017 	4,687 	26,074 	862 	42,083 	69,019
+Row 11: Adjustment to opening balance for change in
+accounting principle 	— 	— 	(1,790) 	2,424 	634
+Row 12: Opening balance as of December 31, 2017 Components of comprehensive income, net of tax:
+	4,687 	26,074 	(928) 	44,507 	69,653
+Row 13: Net income 	— 	— 	— 	21,053 	21,053
+Row 14: Other comprehensive income (loss) 	— 	— 	(46) 	— 	(46)
+Row 15: Total comprehensive income Employee equity incentive plans and other1 	56 	424 	— 	— 	21,007
+424
+Row 16: Share-based compensation 	— 	1,548 	— 	— 	1,548
+Row 17: Temporary equity reduction 	— 	447 		— 	447
+Row 18: Convertible debt 	— 	(1,591) 	— 	— 	(1,591)
+Row 19: Repurchase of common stock 	(217) 	(1,208) 	— 	(9,650) 	(10,858)
+Row 20: Restricted stock unit withholdings 	(10) 	(329) 	— 	(197) 	(526)
+Row 21: Cash dividends declared ($1.20 per share of
+common stock) 	— 	— 	— 	(5,541) 	(5,541)
+Row 22: Balance as of December 29, 2018 Components of comprehensive income, net of tax:
+	4,516 	25,365 	(974) 	50,172 	74,563
+Row 23: Net income 	— 	— 	— 	21,048 	21,048
+Row 24: Other comprehensive income (loss) 	— 	— 	(306) 	— 	(306)
+Row 25: Total comprehensive income 					20,742
+Row 26: Employee equity incentive plans and other 	55 	892 	— 	— 	892
+Row 27: Share-based compensation 	— 	1,705 	— 	— 	1,705
+Row 28: Temporary equity reduction 	— 	265 	— 	— 	265
+Row 29: Convertible debt 	— 	(1,032) 	— 	— 	(1,032)
+Row 30: Repurchase of common stock 	(272) 	(1,592) 	— 	(11,973) 	(13,565)
+Row 31: Restricted stock unit withholdings 	(9) 	(342) 	— 	(146) 	(488)
+Row 32: Cash dividends declared ($1.26 per share of
+common stock) 	— 	— 	— 	(5,578) 	(5,578)
+Row 33: Balance as of December 28, 2019 	4,290 	$ 25,261 	$ (1,280) 	$ 53,523 	$ 77,504
+Row 34: 1 Includes approximately $375 million of non-controlling 2018 due to purchase of remaining shares.
+See accompanying notes.
+	interest activity due 	to our acquisition 	of Mobileye in 	2017, which was 	eliminated in
+Table 0: Header Row 0: Years Ended (In Millions, Except Per Share Amounts)
+	Dec 28,
+2019
+	Dec Row 0: Net revenue 	$ 71,965 	$ Row 1: Cost of sales 	29,825 	Row 2: Gross margin 	42,140 	Row 3: Research and development 	13,362 	Row 4: Marketing, general and administrative 	6,150 	Row 5: Restructuring and other charges 	393 	Row 6: Amortization of acquisition-related intangibles 	200 	Row 7: Operating expenses 	20,105 	Row 8: Operating income 	22,035 	Row 9: Gains (losses) on equity investments, net 	1,539 	Row 10: Interest and other, net 	484 	Row 11: Income before taxes 	24,058 	Row 12: Provision for taxes 	3,010 	Row 13: Net income 	$ 21,048 	$ Row 14: Earnings per share—Basic 	$ 4.77 	$ Row 15: Earnings per share—Diluted 	$ 4.71 	$ Row 16: Weighted average shares of common stock outstanding:
+Basic 	4,417 	Row 17: Diluted 	4,473 	Row 18: See accompanying notes.
+		Table 1: Header Row 0: Dec 28,
+	Dec 29,
+	Dec 30,
+Row 0: 2019
+	2018
+	2017
+Row 1: $ 71,965 	$ 70,848 	$ 62,761
+Row 2: 29,825 	27,111 	23,663
+Row 3: 42,140 	43,737 	39,098
+Row 4: 13,362 	13,543 	13,035
+Row 5: 6,150 	6,750 	7,452
+Row 6: 393 	(72) 	384
+Row 7: 200 	200 	177
+Row 8: 20,105 	20,421 	21,048
+Row 9: 22,035 	23,316 	18,050
+Row 10: 1,539 	(125) 	2,651
+Row 11: 484 	126 	(349)
+Row 12: 24,058 	23,317 	20,352
+Row 13: 3,010 	2,264 	10,751
+Row 14: $ 21,048 	$ 21,053 	$ 9,601
+Row 15: $ 4.77 	$ 4.57 	$ 2.04
+Row 16: $ 4.71 	$ 4.48 	$ 1.99
+Row 17: 4,417 	4,611 	4,701
+Row 18: 4,473 	4,701 	4,835
+Table 0: Header Row 0: Dec 	28,
+2019
+	Dec 29,
+2018
+	Dec 30,
+2017
+Row 0: $ 	21,048 	$ 21,053 $ 	9,601
+Table 1: Header Row 0: Years Ended (In Millions)
+	Dec 28,
+2019
+	Dec 29,
+2018
+	Dec 30,
+2017
+Row 0: Net income 	$ 21,048 $ 	21,053 $ 	9,601
+Row 1: Changes in other comprehensive income, net of tax:
+			Row 2: Net unrealized holding gains (losses) on available-for-sale equity investments 	— 	— 	(434)
+Row 3: Net unrealized holding gains (losses) on derivatives 	177 	(253) 	365
+Row 4: Actuarial valuation and other pension benefits (expenses), net 	(564) 	210 	317
+Row 5: Translation adjustments and other 	81 	(3) 	508
+Row 6: Other comprehensive income (loss) 	(306) 	(46) 	756
+Row 7: Total comprehensive income 	$ 20,742 $ 	21,007 $ 	10,357
+Row 8: See accompanying notes.
+			Table 0: Header Row 0: (In Millions, Except Par Value)
+	2019
+	2018
+Row 0: Assets
+		Row 1: Current assets:
+		Row 2: Cash and cash equivalents 	$ 4,194 $ 	3,019
+Row 3: Short-term investments 	1,082 	2,788
+Row 4: Trading assets 	7,847 	5,843
+Row 5: Accounts receivable, net of allowance for doubtful accounts 	7,659 	6,722
+Row 6: Inventories 	8,744 	7,253
+Row 7: Other current assets 	1,713 	3,162
+Row 8: Total current assets 	31,239 	28,787
+Row 9: Property, plant and equipment, net 	55,386 	48,976
+Row 10: Equity investments 	3,967 	6,042
+Row 11: Other long-term investments 	3,276 	3,388
+Row 12: Goodwill 	26,276 	24,513
+Row 13: Identified intangible assets, net 	10,827 	11,836
+Row 14: Other long-term assets 	5,553 	4,421
+Row 15: Total assets 	$ 136,524 $ 	127,963
+Row 16: Liabilities, temporary equity, and stockholders’ equity
+		Row 17: Current liabilities:
+		Row 18: Short-term debt 	$ 3,693 $ 	1,261
+Row 19: Accounts payable 	4,128 	3,824
+Row 20: Accrued compensation and benefits 	3,853 	3,622
+Row 21: Other accrued liabilities 	10,636 	7,919
+Row 22: Total current liabilities 	22,310 	16,626
+Row 23: Debt 	25,308 	25,098
+Row 24: Contract liabilities 	1,368 	2,049
+Row 25: Income taxes payable, non-current 	4,919 	4,897
+Row 26: Deferred income taxes 	2,044 	1,665
+Row 27: Other long-term liabilities 	2,916 	2,646
+Row 28: Commitments and Contingencies (Note 20)
+		Row 29: Temporary equity 	155 	419
+Row 30: Stockholders’ equity:
+		Row 31: Preferred stock, $0.001 par value, 50 shares authorized; none issued 	— 	—
+Row 32: Common stock, $0.001 par value, 10,000 shares authorized; 4,290 shares issued and
+outstanding (4,516 issued and outstanding in 2018) and capital in excess of par value 	25,261 	25,365
+Row 33: Accumulated other comprehensive income (loss) 	(1,280) 	(974)
+Row 34: Retained earnings 	53,523 	50,172
+Row 35: Total stockholders’ equity 	77,504 	74,563
+Row 36: Total liabilities, temporary equity, and stockholders’ equity 	$ 136,524 $ 	127,963
+Row 37: See accompanying notes.
+		Table 1: Header Row 0: $ 	4,194 1,082 7,847 7,659 8,744 1,713 	$ 	3,019
+2,788
+5,843
+6,722
+7,253
+3,162
+Row 0: 	31,239 		28,787
+Row 1: 	55,386 3,967 3,276 26,276 10,827 5,553 		48,976
+6,042
+3,388
+24,513
+11,836
+4,421
+Row 2: $ 	136,524 	$ 	127,963
+Table 2: Header Row 0: $ 3,693 4,128 3,853 	$ 	1,261
+3,824
+3,622
+Row 0: 10,636 		7,919
+Row 1: 22,310 		16,626
+Row 2: 25,308 1,368 4,919 2,044 		25,098
+2,049
+4,897
+1,665
+Row 3: 2,916 		2,646
+Row 4: 155 		419
+Row 5: — 		—
+Row 6: 25,261 (1,280) 53,523 		25,365
+(974)
+50,172
+Row 7: 77,504 		74,563
+Row 8: $ 136,524 	$ 	127,963
+Table 3: Header Row 0: 	outstanding (4,516 issued and outstanding in 2018) and capital 	in excess of par value 	25,261 	25,365
+Row 0: Retained 	Accumulated other comprehensive income (loss) earnings 		(1,280) 53,523 	(974)
+50,172
+Row 1: Total 	stockholders’ equity 		77,504 	74,563
+Row 2: Total 	liabilities, temporary equity, and stockholders’ equity 	$ 	136,524 $ 	127,963
+Row 3: See 	accompanying notes.
+			Table 4: Header Row 0: 	25,261 (1,280) 53,523 	25,365
+(974)
+50,172
+Row 0: 	77,504 	74,563
+Row 1: $ 	136,524 	$ 127,963
+Table 0: Header Row 0: Years Ended (In Millions)
+	Dec 28,
+2019
+	Dec 29,
+2018
+	Dec 30,
+2017
+Row 0: Cash and cash equivalents, beginning of period 	$ 3,019 $ 	3,433 $ 	5,560
+Row 1: Cash flows provided by (used for) operating activities:
+Net income Adjustments to reconcile net income to net cash provided by operating
+activities:
+	21,048 	21,053 	9,601
+Row 2: Depreciation 	9,204 	7,520 	6,752
+Row 3: Share-based compensation 	1,705 	1,546 	1,358
+Row 4: Amortization of intangibles 	1,622 	1,565 	1,377
+Row 5: (Gains) losses on equity investments, net 	(892) 	155 	(2,583)
+Row 6: (Gains) losses on divestitures Changes in assets and liabilities:
+	(690) 	(497) 	(387)
+Row 7: Accounts receivable 	(935) 	(1,714) 	(781)
+Row 8: Inventories 	(1,481) 	(214) 	(1,300)
+Row 9: Accounts payable 	696 	211 	191
+Row 10: Accrued compensation and benefits 	91 	(260) 	311
+Row 11: Customer deposits and prepaid supply agreements 	(782) 	1,367 	1,105
+Row 12: Income taxes 	885 	(1,601) 	6,778
+Row 13: Other assets and liabilities 	2,674 	301 	(312)
+Row 14: Total adjustments 	12,097 	8,379 	12,509
+Row 15: Net cash provided by operating activities 	33,145 	29,432 	22,110
+Row 16: Cash flows provided by (used for) investing activities:
+Additions to property, plant and equipment 	(16,213) 	(15,181) 	(11,778)
+Row 17: Acquisitions, net of cash acquired 	(1,958) 	(190) 	(14,499)
+Row 18: Purchases of available-for-sale debt investments 	(2,268) 	(3,843) 	(2,746)
+Row 19: Sales of available-for-sale debt investments 	238 	195 	1,833
+Row 20: Maturities of available-for-sale debt investments 	3,988 	2,968 	3,687
+Row 21: Purchases of trading assets 	(9,162) 	(9,503) 	(13,700)
+Row 22: Maturities and sales of trading assets 	7,178 	12,111 	13,970
+Row 23: Purchases of equity investments 	(522) 	(874) 	(1,619)
+Row 24: Sales of equity investments 	2,688 	2,802 	5,236
+Row 25: Proceeds from divestitures 	911 	548 	3,124
+Row 26: Other investing 	715 	(272) 	730
+Row 27: Net cash used for investing activities 	(14,405) 	(11,239) 	(15,762)
+Row 28: Cash flows provided by (used for) financing activities:
+			Row 29: Issuance of long-term debt, net of issuance costs 	3,392 	423 	7,716
+Row 30: Repayment of debt and debt conversion 	(2,627) 	(3,026) 	(8,080)
+Row 31: Proceeds from sales of common stock through employee equity incentive plans 	750 	555 	770
+Row 32: Repurchase of common stock 	(13,576) 	(10,730) 	(3,615)
+Row 33: Payment of dividends to stockholders 	(5,576) 	(5,541) 	(5,072)
+Row 34: Other financing 	72 	(288) 	(194)
+Row 35: Net cash provided by (used for) financing activities 	(17,565) 	(18,607) 	(8,475)
+Row 36: Net increase (decrease) in cash and cash equivalents 	1,175 	(414) 	(2,127)
+Row 37: Cash and cash equivalents, end of period 	$ 4,194 $ 	3,019 $ 	3,433
+Row 38: Supplemental disclosures:
+Acquisition of property, plant and equipment included in accounts payable and
+			Row 39: accrued liabilities Cash paid during the year for:
+	$ 1,761 $ 	2,340 $ 	1,417
+Row 40: Interest, net of capitalized interest 	$ 469 $ 	448 $ 	624
+Row 41: Income taxes, net of refunds 	$ 2,110 $ 	3,813 $ 	3,824
+Row 42: See accompanying notes.
+			Table 1: Header Row 0: Dec 28,
+	Dec 29,
+	Dec 30,
+Row 0: 2019
+	2018
+	2017
+Row 1: 3,019 $ 	3,433 	$ 5,560
+Row 2: 21,048 	21,053 	9,601
+Row 3: 9,204 	7,520 	6,752
+Row 4: 1,705 	1,546 	1,358
+Row 5: 1,622 	1,565 	1,377
+Row 6: (892) 	155 	(2,583)
+Row 7: (690) 	(497) 	(387)
+Row 8: (935) 	(1,714) 	(781)
+Row 9: (1,481) 	(214) 	(1,300)
+Row 10: 696 	211 	191
+Row 11: 91 	(260) 	311
+Row 12: (782) 	1,367 	1,105
+Row 13: 885 	(1,601) 	6,778
+Row 14: 2,674 	301 	(312)
+Row 15: 12,097 	8,379 	12,509
+Row 16: 33,145 	29,432 	22,110
+Table 2: Header Row 0: (16,213) 	(15,181) 	(11,778)
+Row 0: (1,958) 	(190) 	(14,499)
+Row 1: (2,268) 	(3,843) 	(2,746)
+Row 2: 238 	195 	1,833
+Row 3: 3,988 	2,968 	3,687
+Row 4: (9,162) 	(9,503) 	(13,700)
+Row 5: 7,178 	12,111 	13,970
+Row 6: (522) 	(874) 	(1,619)
+Row 7: 2,688 	2,802 	5,236
+Row 8: 911 	548 	3,124
+Row 9: 715 	(272) 	730
+Row 10: (14,405) 	(11,239) 	(15,762)
+Row 11: 3,392 	423 	7,716
+Row 12: (2,627) 	(3,026) 	(8,080)
+Row 13: 750 	555 	770
+Row 14: (13,576) 	(10,730) 	(3,615)
+Row 15: (5,576) 	(5,541) 	(5,072)
+Row 16: 72 	(288) 	(194)
+Row 17: (17,565) 	(18,607) 	(8,475)
+Row 18: 1,175 	(414) 	(2,127)
+Row 19: $ 4,194 $ 	3,019 	$ 3,433
+Table 3: Header Row 0: $ 	1,761 $ 	2,340 $ 	1,417
+Row 0: $ 	469 $ 	448 $ 	624
+Row 1: $ 	2,110 $ 	3,813 $ 	3,824
+Table 0: Header Row 0: (In Millions, Except Per Share Amounts)
+	Number of
+Shares Common Stock in Excess of 	Amount
+and Capital
+Par Value
+	Accumulated
+Other
+Comprehensive
+Income (Loss)
+	Retained
+Earnings 	Total Row 0: Balance as of December 31, 2016 Components of comprehensive income, net of tax:
+	4,730 	$ 25,373 	$ 106 	$ 40,747 	$ 66,226
+Row 1: Net income 	— 	— 	— 	9,601 	9,601
+Row 2: Other comprehensive income (loss) 	— 	— 	756 	— 	756
+Row 3: Total comprehensive income 					10,357
+Row 4: Employee equity incentive plans and other1 	70 	1,172 	— 	(1) 	1,171
+Row 5: Share-based compensation 	— 	1,296 	— 	— 	1,296
+Row 6: Convertible debt 	— 	(894) 	— 	— 	(894)
+Row 7: Repurchase of common stock 	(101) 	(552) 	— 	(3,057) 	(3,609)
+Row 8: Restricted stock unit withholdings 	(12) 	(321) 	— 	(135) 	(456)
+Row 9: Cash dividends declared ($1.0775 per share of
+common stock) 	— 	— 	— 	(5,072) 	(5,072)
+Row 10: Balance as of December 30, 2017 	4,687 	26,074 	862 	42,083 	69,019
+Row 11: Adjustment to opening balance for change in
+accounting principle 	— 	— 	(1,790) 	2,424 	634
+Row 12: Opening balance as of December 31, 2017 Components of comprehensive income, net of tax:
+	4,687 	26,074 	(928) 	44,507 	69,653
+Row 13: Net income 	— 	— 	— 	21,053 	21,053
+Row 14: Other comprehensive income (loss) 	— 	— 	(46) 	— 	(46)
+Row 15: Total comprehensive income Employee equity incentive plans and other1 	56 	424 	— 	— 	21,007
+424
+Row 16: Share-based compensation 	— 	1,548 	— 	— 	1,548
+Row 17: Temporary equity reduction 	— 	447 		— 	447
+Row 18: Convertible debt 	— 	(1,591) 	— 	— 	(1,591)
+Row 19: Repurchase of common stock 	(217) 	(1,208) 	— 	(9,650) 	(10,858)
+Row 20: Restricted stock unit withholdings 	(10) 	(329) 	— 	(197) 	(526)
+Row 21: Cash dividends declared ($1.20 per share of
+common stock) 	— 	— 	— 	(5,541) 	(5,541)
+Row 22: Balance as of December 29, 2018 Components of comprehensive income, net of tax:
+	4,516 	25,365 	(974) 	50,172 	74,563
+Row 23: Net income 	— 	— 	— 	21,048 	21,048
+Row 24: Other comprehensive income (loss) 	— 	— 	(306) 	— 	(306)
+Row 25: Total comprehensive income 					20,742
+Row 26: Employee equity incentive plans and other 	55 	892 	— 	— 	892
+Row 27: Share-based compensation 	— 	1,705 	— 	— 	1,705
+Row 28: Temporary equity reduction 	— 	265 	— 	— 	265
+Row 29: Convertible debt 	— 	(1,032) 	— 	— 	(1,032)
+Row 30: Repurchase of common stock 	(272) 	(1,592) 	— 	(11,973) 	(13,565)
+Row 31: Restricted stock unit withholdings 	(9) 	(342) 	— 	(146) 	(488)
+Row 32: Cash dividends declared ($1.26 per share of
+common stock) 	— 	— 	— 	(5,578) 	(5,578)
+Row 33: Balance as of December 28, 2019 	4,290 	$ 25,261 	$ (1,280) 	$ 53,523 	$ 77,504
+Row 34: 1 Includes approximately $375 million of non-controlling 2018 due to purchase of remaining shares.
+See accompanying notes.
+	interest activity due 	to our acquisition 	of Mobileye in 	2017, which was 	eliminated in

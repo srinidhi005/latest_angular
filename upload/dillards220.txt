@@ -1,0 +1,58 @@
+Row:Land and land improvements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	. . . 	. 	. . 	. 	. . . . 	64,313 	64,313
+Row:Buildings and leasehold improvements . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	. . . 	. 	. . 	. 	. . . . 	3,106,481 	3,106,014
+Row:Furniture, fixtures and equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	. . . 	. 	. . 	. 	. . . . 	1,065,291 	1,130,471
+Row:Buildings under construction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	. . . 	. 	. . 	. 	. . . . 	9,024 	398
+Row:Buildings and equipment under capital leases . . . . . . . . . . . . . . . . . . . 	. . . 	. . . 	. 	. . 	. 	. . . . 	23,648 	23,648
+Row:Less accumulated depreciation and amortization. . . . . . . . . . . . . . . . . 	. . . 	. . . 	. 	. . 	. 	. . . . 	(2,478,490) 	(2,385,012)
+Row:							1,790,267 	1,939,832
+Row:January 28, 2017 	January 30, 2016 	January 31, 2015
+Row:$ 6,256,971 	$ 6,595,626 	$ 6,621,054
+Row:161,038 	158,919 	159,075
+Row:6,418,009 	6,754,545 	6,780,129
+Row:4,166,411 	4,350,805 	4,272,605
+Row:1,655,658 	1,669,916 	1,663,859
+Row:243,657 	250,011 	250,683
+Row:25,954 	26,732 	26,977
+Row:63,059 	60,923 	61,306
+Row:(905) 	(12,626) 	(6,069)
+Row:6,500 	— 	—
+Row:257,675 	408,784 	510,768
+Row:88,500 45 	140,770 1,356 	179,480
+565
+Row:$ 169,220 	$ 269,370 	$ 331,853
+Row:$ 4.93 4.93 	$ 6.91 6.91 	$ 7.79
+7.79
+Row:Service charges and other income. . . . . . . . . . . . . . . . . . . . . . . . . . . . 	161,038 Row:	6,418,009 Row:Cost of sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	4,166,411 Row:Selling, general and administrative expenses . . . . . . . . . . . . . . . . . . . 	1,655,658 Row:Depreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	243,657 Row:Rentals. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	25,954 Row:Interest and debt expense, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	63,059 Row:Gain on disposal of assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(905) Row:Asset impairment and store closing charges . . . . . . . . . . . . . . . . . . . . 	6,500 Row:Income before income taxes and income on and equity in losses of
+joint ventures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	257,675 Row:Income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	88,500 Row:Income on and equity in losses of joint ventures . . . . . . . . . . . . . . . . 	45 Row:Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	169,220 Row:Earnings per common share:. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+	Row:Basic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	4.93 Row:Diluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	4.93 Row:Operating activities:
+	January 28, 2017 	January 30, 2016 	January 31, 2015
+Row:Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 169,220 	$ 269,370 	$ 331,853
+Row:Adjustments to reconcile net income to net cash provided by
+operating activities:
+			Row:Depreciation and amortization of property and other deferred cost . 	245,923 	252,147 	252,334
+Row:Deferred income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(35,703) 	(35,975) 	(30,927)
+Row:Gain on disposal of assets. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(905) 	(12,626) 	(6,069)
+Row:Proceeds from insurance. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	3,173 	— 	—
+Row:Gain from insurance proceeds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1,635) 	— 	—
+Row:Asset impairment and store closing charges. . . . . . . . . . . . . . . . . . . 	6,500 	— 	—
+Row:Changes in operating assets and liabilities:. . . . . . . . . . . . . . . . . . . . .
+			Row:(Increase) decrease in accounts receivable . . . . . . . . . . . . . . . . . . . . 	(1,092) 	9,372 	(25,670)
+Row:Increase in merchandise inventories. . . . . . . . . . . . . . . . . . . . . . . . . 	(33,436) 	(24) 	(29,160)
+Row:Decrease in other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	8,981 	2,911 	1,406
+Row:Decrease in other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	5,844 	2,939 	1,031
+Row:Increase (decrease) in trade accounts payable and accrued
+			Row:expenses and other liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	156,342 	(33,702) 	104,923
+Row:(Decrease) increase in income taxes payable . . . . . . . . . . . . . . . . . . 	(6,205) 	(4,186) 	11,868
+Row:Net cash provided by operating activities . . . . . . . . . . . . . . . . . . . . . . Investing activities:
+	517,007 	450,226 	611,589
+Row:Purchase of property and equipment . . . . . . . . . . . . . . . . . . . . . . . . 	(104,824) 	(165,788) 	(151,888)
+Row:Proceeds from disposal of assets . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,150 	25,503 	14,767
+Row:Proceeds from insurance. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,525 	— 	—
+Row:Decrease (increase) in restricted cash. . . . . . . . . . . . . . . . . . . . . . . . 	— 	7,346 	(7,346)
+Row:Investment in joint venture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(20,000) 	— 	—
+Row:Distribution from joint venture. . . . . . . . . . . . . . . . . . . . . . . . . . . . . Net cash used in investing activities . . . . . . . . . . . . . . . . . . . . . . . . . . 	2,500 (119,649) 	— (132,939) 	1,055
+(143,412)
+Row:Financing activities:
+			Row:Principal payments on long-term debt and capital lease obligations 	(3,284) 	(5,299) 	(784)
+Row:Cash dividends paid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Purchase of treasury stock . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(9,787) (240,171) 	(10,008) (500,000) 	(10,367)
+(290,408)

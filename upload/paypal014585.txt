@@ -1,0 +1,108 @@
+Row:2016 	2015
+Row:(In millions, except par 	value)
+Row:Current assets:
+		Row:Cash and cash equivalents $ 	1,590 $ 	1,393
+Row:Short-term investments 	3,385 	2,018
+Row:Accounts receivable, net 	214 	137
+Row:Loans and interest receivable, net of allowances of $339 in 2016 and $233 in 2015 	5,348 	4,184
+Row:Funds receivable and customer accounts 	14,363 	12,261
+Row:Prepaid expenses and other current assets 	833 	655
+Row:Total current assets 	25,733 	20,648
+Row:Long-term investments 	1,539 	2,348
+Row:Property and equipment, net 	1,482 	1,344
+Row:Goodwill 	4,059 	4,069
+Row:Intangible assets, net 	211 	358
+Row:Other assets 	79 	114
+Row:Total assets $ 	33,103 $ 	28,881
+Row:LIABILITIES AND EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable $ 	192 $ 	145
+Row:Funds payable and amounts due to customers 	15,163 	12,261
+Row:Accrued expenses and other current liabilities 	1,459 	1,179
+Row:Income taxes payable 	64 	32
+Row:Total current liabilities 	16,878 	13,617
+Row:Deferred tax liability and other long-term liabilities 	1,513 	1,505
+Row:Total liabilities 	18,391 	15,122
+Row:Commitments and contingencies (Note 12)
+		Row:Equity:
+		Row:Common stock, $0.0001 par value; 4,000 shares authorized; 1,207 and 1,224 outstanding 	— 	—
+Row:Treasury stock at cost, 27 shares as of December 31, 2016 	(995) 	—
+Row:Additional paid-in-capital 	13,579 	13,100
+Row:Retained earnings 	2,069 	668
+Row:Accumulated other comprehensive income (loss) 	59 	(9)
+Row:Total equity 	14,712 	13,759
+Row:Total liabilities and equity $ 	33,103 $ 	28,881
+Row:The accompanying notes are an integral part of these consolidated financial statements.
+		Row:Common stock, $0.0001 par value; 4,000 shares authorized; 1,207 and 1,224 outstanding 	— —
+Row:Treasury stock at cost, 27 shares as of December 31, 2016 	(995) —
+Row:Additional paid-in-capital 	13,579 13,100
+Row:Retained earnings 	2,069 668
+Row:Accumulated other comprehensive income (loss) 	59 (9)
+Row:Total equity 	14,712 13,759
+Row:Total liabilities and equity $ 	33,103 $ 28,881
+Row:Net revenues $ 	10,842 $ 	9,248 	$ 8,025
+Row:Operating expenses:
+			Row:Transaction expense 	3,346 	2,610 	2,170
+Row:Transaction and loan losses 	1,088 	809 	646
+Row:Customer support and operations 	1,267 	1,110 	991
+Row:Sales and marketing 	969 	937 	954
+Row:Product development 	834 	792 	747
+Row:General and administrative 	1,028 	873 	733
+Row:Depreciation and amortization 	724 	608 	516
+Row:Restructuring 	— 	48 	—
+Row:Total operating expenses 	9,256 	7,787 	6,757
+Row:Operating income 	1,586 	1,461 	1,268
+Row:Other income (expense), net 	45 	27 	(7)
+Row:Income before income taxes 	1,631 	1,488 	1,261
+Row:Income tax expense 	230 	260 	842
+Row:Net income $ 	1,401 $ 	1,228 	$ 419
+Row:Net income per share:
+			Row:Basic $ 	1.16 $ 	1.00 	$ 0.34
+Row:Diluted $ 	1.15 $ 	1.00 	$ 0.34
+Row:Weighted average shares:
+			Row:Basic 	1,210 	1,222 	1,218
+Row:Diluted 	1,218 	1,229 	1,224
+Row:Cash flows from operating activities:
+	(In millions)
+	Row:Net income $ Adjustments:
+	1,401 $ 1,228 	$ 419
+Row:Transaction and loan losses 	1,088 809 	646
+Row:Depreciation and amortization 	724 608 	516
+Row:Stock-based compensation 	438 346 	299
+Row:Deferred income taxes 	52 127 	680
+Row:Excess tax benefits from stock-based compensation Gain on sale of principal loans receivable held for sale, net Changes in assets and liabilities:
+Accounts receivable 	(40) (26) (24) (40) (77) (22) 	(41)
+—
+(13)
+Row:Receivable from eBay 	— 121 	(24)
+Row:Principal loans receivable held for sale, net 	24 14 	—
+Row:Transaction loss allowance for cash losses, net 	(643) (493) 	(414)
+Row:Other current assets and non-current assets 	(145) (384) 	(38)
+Row:Accounts payable 	11 12 	42
+Row:Payable to eBay 	— (217) 	(2)
+Row:Income taxes payable 	69 40 	37
+Row:Other current liabilities and non-current liabilities 	280 423 	113
+Row:Net cash provided by operating activities 	3,158 2,546 	2,220
+Row:Cash flows from investing activities:
+		Row:Purchases of property and equipment Proceeds from sales of property and equipment 	(669) (722) — 26 	(492)
+—
+Row:Changes in principal loans receivable, net 	(1,523) (819) 	(1,023)
+Row:Purchases of investments 	(21,041) (21,626) 	(8,744)
+Row:Maturities and sales of investments 	18,429 16,148 	7,766
+Row:Acquisitions, net of cash acquired 	(19) (1,225) 	(2)
+Row:Funds receivable and customer accounts 	(176) (395) 	(24)
+Row:Notes payable and receivable from eBay 	— 575 	(362)
+Row:Net cash used in investing activities 	(4,999) (8,038) 	(2,881)
+Row:Cash flows from financing activities:
+		Row:Proceeds from issuance of common stock 	109 75 	—
+Row:Purchases of treasury stock 	(995) — 	—
+Row:Excess tax benefits from stock-based compensation 	40 26 	41
+Row:Contribution from (to) eBay 	— 3,858 	(71)
+Row:Tax withholdings related to net share settlements of restricted stock units and restricted stock awards 	(118) (18) 	—
+Row:Borrowings (repayments) under financing arrangements 	(21) (862) 	(21)
+Row:Funds payable and amounts due to customers 	3,023 1,649 	1,335
+Row:Net cash provided by financing activities 	2,038 4,728 	1,284
+Row:Effect of exchange rate changes on cash and cash equivalents Net increase (decrease) in cash and cash equivalents 	— (44) 197 (808) 	(26)
+597
+Row:Cash and cash equivalents at beginning of period 	1,393 2,201 	1,604
+Row:Cash and cash equivalents at end of period $ 	1,590 $ 1,393 	$ 2,201

@@ -1,0 +1,28 @@
+Row:Net sales 	$ 12,349,301 	$ 12,215,757 $ 	12,103,887
+Row:Cost of sales 	7,906,286 	7,639,407 	7,483,577
+Row:Gross profit 	4,443,015 	4,576,350 	4,620,310
+Row:Selling, general and administrative expenses 	3,681,694 	3,441,140 	3,205,407
+Row:Operating profit 	761,321 	1,135,210 	1,414,903
+Row:Interest expense, net 	65,661 	69,555 	87,458
+Row:Earnings before provision for income taxes 	695,660 	1,065,655 	1,327,445
+Row:Provision for income taxes 	270,802 	380,547 	485,956
+Row:Net earnings 	$ 424,858 	$ 685,108 $ 	841,489
+Row:Net earnings per share - Basic 	$ 3.05 	$ 4.61 $ 	5.15
+Row:Net earnings per share - Diluted 	$ 3.04 	$ 4.58 $ 	5.10
+Row:Weighted average shares outstanding - Basic 	139,238 	148,590 	163,257
+Row:Weighted average shares outstanding - Diluted 	139,739 	149,708 	165,016
+Row:Dividends declared per share 	$ 0.60 	$ 0.50 $ 	-
+Row:Net sales 	$ 12,349,301 	$ 12,215,757 $ 	12,103,887
+Row:Cost of sales 	7,906,286 	7,639,407 	7,483,577
+Row:Gross profit 	4,443,015 	4,576,350 	4,620,310
+Row:Selling, general and administrative expenses 	3,681,694 	3,441,140 	3,205,407
+Row:Operating profit 	761,321 	1,135,210 	1,414,903
+Row:Interest expense, net 	65,661 	69,555 	87,458
+Row:Earnings before provision for income taxes 	695,660 	1,065,655 	1,327,445
+Row:Provision for income taxes 	270,802 	380,547 	485,956
+Row:Net earnings 	$ 424,858 	$ 685,108 $ 	841,489
+Row:Net earnings per share - Basic 	$ 3.05 	$ 4.61 $ 	5.15
+Row:Net earnings per share - Diluted 	$ 3.04 	$ 4.58 $ 	5.10
+Row:Weighted average shares outstanding - Basic 	139,238 	148,590 	163,257
+Row:Weighted average shares outstanding - Diluted 	139,739 	149,708 	165,016
+Row:Dividends declared per share 	$ 0.60 	$ 0.50 $ 	-

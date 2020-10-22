@@ -1,0 +1,86 @@
+Row:Cash and cash equivalents 	$ 238,797 	$ 152,580
+Row:Receivables (less allowances: 2017 - $53,416; 2016 - $48,058) 	1,615,993 	1,476,349
+Row:Inventories 	610,732 	587,155
+Row:Prepayments and other current assets 	187,617 	276,487
+Row:Total current assets 	2,653,139 	2,492,571
+Row:Property and Equipment, at cost:
+Land, buildings and improvements 	673,616 	643,347
+Row:Service equipment and fixtures 	2,003,177 	1,890,301
+Row:	2,676,793 	2,533,648
+Row:Less - Accumulated depreciation 	(1,634,762) 	(1,510,565)
+Row:	1,042,031 	1,023,083
+Row:Goodwill 	4,715,511 	4,628,881
+Row:Other Intangible Assets 	1,120,824 	1,111,883
+Row:Other Assets 	1,474,724 	1,325,654
+Row:	$ 11,006,229 	$ 10,582,072
+Row:LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities:
+		Row:Current maturities of long-term borrowings Accounts payable 	$ 78,157 955,925 	$ 46,522
+847,588
+Row:2017—277,111,042 shares and 2016—272,565,923; and
+outstanding: 2017—245,593,961 shares and 2016—244,713,580) 	2,771 	2,726
+Row:Capital surplus 	3,014,546 	2,921,725
+Row:Retained earnings/(accumulated deficit) 	247,050 	(33,778)
+Row:Accumulated other comprehensive loss 	(123,760) 	(180,783)
+Row:Treasury stock (shares held in treasury: 2017—31,517,081 shares and
+2016—27,852,343) 	(681,546) 	(548,884)
+Row:Total stockholders' equity 	2,459,061 	2,161,006
+Row:$ 	11,006,229 	$ 10,582,072
+Row:September 29, 2017 	September 30, 2016 	October 2, 2015
+Row:$ 14,604,412 $ 	14,415,829 	$ 14,329,135
+Row:September 29, 2017 	September 30, 2016 	October 2, 2015
+Row:$ 14,604,412 	$ 14,415,829 	$ 14,329,135
+Row:12,988,973 	12,890,408 	12,880,424
+Row:508,212 	495,765 	504,033
+Row:299,170 	283,342 	316,740
+Row:13,796,355 	13,669,515 	13,701,197
+Row:808,057 	746,314 	627,938
+Row:287,415 	315,383 	285,942
+Row:520,642 	430,931 	341,996
+Row:146,455 	142,699 	105,020
+Row:374,187 	288,232 	236,976
+Row:264 	426 	1,030
+Row:$ 373,923 	$ 287,806 	$ 235,946
+Row:$ 1.53 $ 1.49 	$ 1.19 $ 1.16 	$ 0.99
+$ 0.96
+Row:Cash flows from operating activities:
+	September 29, 2017 	September 30, 2016 	October 2, 2015
+Row:Net income $ Adjustments to reconcile net income to net cash provided by
+operating activities:
+	374,187 	$ 288,232 	$ 236,976
+Row:Depreciation and amortization 	508,212 	495,765 	504,033
+Row:Income taxes deferred 	(37,856) 	52,416 	(4,108)
+Row:Share-based compensation expense 	65,155 	56,942 	66,416
+Row:Changes in operating assets and liabilities:
+			Row:Receivables 	(111,423) 	(32,859) 	81,284
+Row:Inventories 	(21,147) 	(9,625) 	(29,587)
+Row:Prepayments 	95,536 	(64,663) 	9,763
+Row:Accounts payable 	93,965 	4,486 	(46,422)
+Row:Accrued expenses 	26,804 	67,600 	4,474
+Row:Changes in other noncurrent liabilities 	31,959 	(33,711) 	(52,136)
+Row:Changes in other assets 	(9,342) 	(10,189) 	13,595
+Row:Other operating activities 	37,337 	52,920 	17,904
+Row:Net cash provided by operating activities 	1,053,387 	867,314 	802,192
+Row:Cash flows from investing activities:
+Purchases of property and equipment, client contract investments
+and other 	(552,729) 	(512,532) 	(524,384)
+Row:Disposals of property and equipment 	18,906 	26,824 	19,128
+Row:Acquisition of certain businesses:
+			Row:Working capital other than cash acquired 	8,114 	10,226 	(143)
+Row:Property and equipment Additions to goodwill, other intangible assets and other
+assets, net Other investing activities 	(2,273) (147,963) (2,539) 	(32,989) (176,614) 5,340 	—
+(3,234)
+4,299
+Row:Net cash used in investing activities 	(678,484) 	(679,745) 	(504,334)
+Row:Cash flows from financing activities:
+Proceeds from long-term borrowings Payments of long-term borrowings Net change in funding under the Receivables Facility Payments of dividends Proceeds from issuance of common stock 	3,851,417 (3,911,992) (13,800) (100,813) 28,779 	1,399,988 (1,363,534) (82,000) (92,074) 35,705 	71,926
+(209,621)
+—
+(81,898)
+39,946
+Row:Repurchase of common stock Other financing activities Net cash used in financing activities 	(100,000) (42,277) (288,686) 	(749) (54,741) (157,405) 	(50,176)
+(57,309)
+(287,132)
+Row:Increase in cash and cash equivalents Cash and cash equivalents, beginning of period Cash and cash equivalents, end of period $ 	86,217 152,580 238,797 	30,164 122,416 $ 152,580 	10,726
+111,690
+$ 122,416

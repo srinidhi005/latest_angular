@@ -1,0 +1,357 @@
+Row:	December 31, 2017 	December 31, 2016
+Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 54,291 	$ 64,610
+Row:Accounts receivable, net 	140,980 	134,091
+Row:Inventories, net 	604,066 	613,868
+Row:Prepaid expenses and other current assets 	77,816 	68,255
+Row:Total current assets 	877,153 	880,824
+Row:Property, plant and equipment, net 	301,141 	292,904
+Row:Goodwill 	1,619,253 	1,572,568
+Row:Trade names 	568,681 	566,599
+Row:Other intangible assets, net 	75,704 	76,581
+Row:Other assets, net 	12,824 	4,502
+Row:Total assets 	$ 3,454,756 	$ 3,393,978
+Row:Property, plant and equipment, net 	301,141 	292,904
+Row:Goodwill 	1,619,253 	1,572,568
+Row:Trade names 	568,681 	566,599
+Row:Other intangible assets, net 	75,704 	76,581
+Row:Other assets, net 	12,824 	4,502
+Row:Total assets 	$ 3,454,756 	$ 3,393,978
+Row:LIABILITIES, REDEEMABLE SECURITIES AND STOCKHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Loans and notes payable 	$ 286,291 	$ 120,138
+Row:Accounts payable 	160,994 	163,415
+Row:Accrued expenses 	176,609 	149,683
+Row:Income taxes payable 	45,568 	46,675
+Row:Current portion of long-term obligations 	13,059 	13,348
+Row:Total current liabilities 	682,521 	493,259
+Row:Long-term obligations, excluding current portion 	1,532,090 	1,539,604
+Row:Deferred income tax liabilities 	175,836 	278,819
+Row:Deferred rent and other long-term liabilities 	91,929 	65,507
+Row:Total liabilities 	2,482,376 	2,377,189
+Row:Redeemable securities 	3,590 	0
+Row:Commitments and contingencies
+		Row:Stockholders’ equity:
+Common stock (96,380,102 and 119,515,894 shares outstanding and 119,759,669 and
+119,515,894 shares issued at December 31, 2017 and December 31, 2016, respectively) 	1,198 	1,195
+Row:Additional paid-in capital 	917,192 	910,167
+Row:Retained earnings 	372,596 	157,666
+Row:Accumulated other comprehensive loss 	(35,818) 	(52,239)
+Row:Total Party City Holdco Inc. stockholders’ equity before common stock held in treasury 	1,255,168 	1,016,789
+Row:Less: Common stock held in treasury, at cost (23,379,567 shares at December 31, 2017) 	(286,733) 	0
+Row:Total Party City Holdco Inc. stockholders’ equity 	968,435 	1,016,789
+Row:Noncontrolling interests 	355 	0
+Row:Total stockholders’ equity 	968,790 	1,016,789
+Row:Total liabilities, redeemable securities and stockholders’ equity 	$ 3,454,756 	$ 3,393,978
+Row:1,198 	1,195
+Row:917,192 	910,167
+Row:372,596 	157,666
+Row:(35,818) 	(52,239)
+Row:1,255,168 	1,016,789
+Row:(286,733) 	0
+Row:968,435 	1,016,789
+Row:355 	0
+Row:968,790 	1,016,789
+Row:$ 3,454,756 	$ 3,393,978
+Row:	Year Ended
+December 31,
+2017
+	Year Ended
+December 31,
+2016
+	Year Ended
+December 31,
+2015
+Row:Revenues:
+			Row:Net sales 	$ 2,357,986 	$ 2,266,386 	$ 2,275,122
+Row:Royalties and franchise fees 	13,583 	17,005 	19,411
+Row:Total revenues 	2,371,569 	2,283,391 	2,294,533
+Row:Expenses:
+			Row:Cost of sales 	1,395,279 	1,350,387 	1,370,884
+Row:Wholesale selling expenses 	65,356 	59,956 	64,260
+Row:Retail operating expenses 	415,167 	408,583 	401,039
+Row:Franchise expenses 	14,957 	15,213 	14,394
+Row:General and administrative expenses 	168,369 	152,919 	151,097
+Row:Art and development costs 	23,331 	22,249 	20,640
+Row:Development stage expenses 	8,974 	0 	0
+Row:Total expenses 	2,091,433 	2,009,307 	2,022,314
+Row:Income from operations 	280,136 	274,084 	272,219
+Row:Interest expense, net 	87,366 	89,380 	123,361
+Row:Other expense (income), net 	4,626 	(2,010) 	130,990
+Row:Income before income taxes 	188,144 	186,714 	17,868
+Row:Income tax (benefit) expense 	(27,196) 	69,237 	7,409
+Row:Net income 	$ 215,340 	$ 117,477 	$ 10,459
+Row:Net income per common share-basic 	$ 1.81 	$ 0.98 	$ 0.09
+Row:Net income per common share-diluted 	$ 1.79 	$ 0.98 	$ 0.09
+Row:Weighted-average number of common shares-basic 	118,589,421 	119,381,842 	111,917,168
+Row:Weighted-average number of common shares-diluted 	119,894,021 	120,369,672 	112,943,807
+Row:Other comprehensive income (loss), net of tax:
+			Row:Foreign currency adjustments 	$ 17,561 	$ (19,770) 	$ (20,432)
+Row:Cash flow hedges 	(1,140) 	321 	377
+Row:Other comprehensive income (loss), net 	16,421 	(19,449) 	(20,055)
+Row:Comprehensive income (loss) 	$ 231,761 	$ 98,028 	$ (9,596)
+Row:17,561 	$ 	(19,770) 	$ 	(20,432)
+Row:(1,140) 		321 		377
+Row:16,421 		(19,449) 		(20,055)
+Row:231,761 	$ 	98,028 	$ 	(9,596)
+Row:Common
+	Additional
+Paid-in
+Retained
+	Accumulated
+Other
+Comprehensive
+Stockholders
+Equity Before
+Common Stock
+Held In
+	Common Stock
+Held In
+Total Party
+City Holdco
+Inc.
+Stockholders
+	Non-Controlling
+Total
+Stockholders'
+Row:Stock
+	Capital
+Earnings
+	Loss
+Treasury
+	Treasury
+Equity
+	Interests
+Equity
+Row:$
+910
+Balance at December 31, 2014
+	$469,117
+$ 29,934
+	(12,735)
+$
+$ 487,226
+	0
+$ 487,226
+	0
+$ 487,226
+Row:Net income
+	10,459
+	10,459
+	10,459
+	10,459
+Row:Employee equity based compensation
+	3,042
+	3,042
+	3,042
+	3,042
+Row:31
+Adjustment to redeemable securities
+	35,031
+	35,062
+	35,062
+	35,062
+Row:252
+Issuance of common stock
+	396,907
+	397,159
+	397,159
+	397,159
+Row:Exercise of stock options
+	30
+	30
+		30
+30
+Row:Foreign currency adjustments
+		(20,432)
+(20,432	(20,432)
+	)
+(20,432)
+Row:Excess tax benefit from stock options
+	298
+	298
+	298
+	298
+Row:Spin-off of subsidiary
+	(204)
+	(204	(204)
+	)
+(204)
+Row:Impact of foreign exchange contracts
+		377
+377
+	377
+	377
+Row:$ 1,193
+Balance at December 31, 2015
+	$904,425
+$ 40,189
+	(32,790)
+$
+$ 913,017
+	913,017
+A
+$
+0
+	$
+0
+$ 913,017
+Row:Net income
+	117,477
+	117,477
+	117,477
+	117,477
+Row:Employee equity based compensation
+	3,853
+	3,853
+	3,853
+	3,853
+Row:Exercise of stock options
+2
+	1,371
+	1,373
+	1,373
+	1,373
+Row:Foreign currency adjustments
+		(19,770(19,770)
+	(19,770)
+	)
+(19,770)
+Row:Excess tax benefit from stock options
+	518
+	518
+	518
+	518
+Row:Impact of foreign exchange contracts
+		321
+321
+	321
+	321
+Row:Balance at December 31, 2016
+$ 1,195
+	$910,167
+$157,666
+	$ 1,016,789
+(52,239)
+$
+	$
+0
+$ 1,016,789
+	$ 1,016,789
+$
+0
+Row:Net income
+	215,340
+	215,340
+	215,340
+	215,340
+Row:Employee equity based compensation
+	5,309
+	5,309
+	5,309
+	5,309
+Row:Warrant
+	421
+	421
+	421
+	421
+Row:Adjustment to redeemable securities
+	(410)
+	(410	)
+(410	(410)
+)
+Row:Exercise of stock options
+3
+	1,295
+	1,298
+	1.298
+	1,298
+Row:Foreign currency adjustments
+		17,561
+17,561
+	17,561
+	17,561
+Row:Treasury stock purchases
+		0
+	(286,733(286,733)
+	(286,733)
+)
+Row:Acquired noncontrolling interest
+		0
+		355
+0
+355
+Row:Impact of foreign exchange contracts
+		(1,140(1,140)
+	)
+(1,140	(1,140)
+)
+Row:Balance at December 31, 2017
+$ 1,198
+	$917,192
+$372,596
+	$ 1,255,168
+(35,818)
+$
+	$ 968,435
+$
+(286,733)
+	$ 968,790
+$
+355
+Row:	Year Ended
+December 31,
+2017
+	Year Ended
+December 31,
+2016
+	Year Ended
+December 31,
+2015
+Row:Cash flows provided by operating activities:
+			Row:Net income 	$ 215,340 	$ 117,477 	$ 10,459
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+			Row:Depreciation and amortization expense 	85,168 	83,630 	80,515
+Row:Amortization of deferred financing costs 	4,937 	5,818 	40,516
+Row:Provision for doubtful accounts 	560 	781 	223
+Row:Deferred income tax (benefit) expense 	(102,651) 	3,401 	(6,178)
+Row:Deferred rent 	7,287 	18,835 	13,407
+Row:Undistributed (gain) loss in unconsolidated joint ventures 	(194) 	314 	562
+Row:Impairment of intangible assets 	0 	0 	852
+Row:Loss (gain) on disposal of equipment 	475 	14 	(2,593)
+Row:Non-employee equity based compensation 	3,033 	0 	0
+Row:Employee equity based compensation 	5,309 	3,853 	3,042
+Row:Changes in operating assets and liabilities, net of effects of acquired businesses:
+			Row:Decrease (increase) in accounts receivable 	1,153 	(5,898) 	6,868
+Row:Decrease (increase) in inventories 	37,175 	(42,819) 	15,515
+Row:Increase in prepaid expenses and other current assets 	(9,079) 	(14,499) 	(4,683)
+Row:Increase (decrease) in accounts payable, accrued expenses and income taxes payable 	19,408 	86,893 	(78,293)
+Row:Net cash provided by operating activities 	267,921 	257,800 	80,212
+Row:Cash flows used in investing activities:
+Cash paid in connection with acquisitions, net of cash acquired 	(74,710) 	(31,820) 	(22,615)
+Row:Capital expenditures 	(66,970) 	(81,948) 	(78,825)
+Row:Proceeds from disposal of property and equipment 	35 	35 	1,304
+Row:Net cash used in investing activities 	(141,645) 	(113,733) 	(100,136)
+Row:Cash flows (used in) provided by financing activities:
+Repayment of loans, notes payable and long-term obligations 	(234,619) 	(1,521,218) 	(2,561,594)
+Row:Proceeds from loans, notes payable and long-term obligations 	380,092 	1,399,717 	2,198,600
+Row:Cash held in escrow in connection with acquisitions 	0 	0 	(3,832)
+Row:Excess tax benefit from stock options 	0 	518 	298
+Row:Exercise of stock options 	1,298 	1,373 	30
+Row:Treasury stock purchases 	(286,733) 	0 	0
+Row:Issuance of common stock 	0 	0 	397,159
+Row:Debt issuance costs 	0 	(130) 	(11,720)
+Row:Net cash (used in) provided by financing activities 	(139,962) 	(119,740) 	18,941
+Row:Effect of exchange rate changes on cash and cash equivalents 	3,367 	(2,636) 	(3,312)
+Row:Net (decrease) increase in cash and cash equivalents 	(10,319) 	21,691 	(4,295)
+Row:Cash and cash equivalents at beginning of period 	64,610 	42,919 	47,214
+Row:Cash and cash equivalents at end of period 	$ 54,291 	$ 64,610 	$ 42,919
+Row:Supplemental disclosure of cash flow information:
+			Row:Cash paid during the period
+			Row:Interest 	$ 76,171 	$ 86,183 	$ 143,458
+Row:Income taxes, net of refunds 	$ 66,445 	$ 26,883 	$ 40,134
+Row:Supplemental information on non-cash activities:
+			Row:Capital lease obligations of $1,553, $1,623, and $223 were incurred during the years ended 	December 31, 2017, 	December 31, 	2016, and
+Row:December 31, 2015, respectively.
+			

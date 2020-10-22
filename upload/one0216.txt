@@ -1,0 +1,123 @@
+Row:(Thousands Revenues
+	of dollars, except per 	share amounts)
+Row:Commodity sales $ 	11,395,642 $ 9,862,652 $ 	6,858,456
+Row:Services 	1,197,554 2,311,255 	2,062,478
+Row:Total revenues 	12,593,196 12,173,907 	8,920,934
+Row:Cost of sales and fuel (exclusive of items shown separately below) Operations and maintenance 	9,422,708 9,538,045 803,146 724,314 	6,496,124
+658,233
+Row:Depreciation and amortization 	428,557 406,335 	391,585
+Row:Impairment of long-lived assets (Note D) 	— 15,970 	—
+Row:General taxes Gain on sale of assets 	103,922 98,396 (601) (924) 	88,849
+(9,635)
+Row:Operating income 	1,835,464 1,391,771 	1,295,778
+Row:Equity in net earnings from investments (Note M) Impairment of equity investments (Note M) 	158,383 159,278 — (4,270) 	139,690
+—
+Row:Allowance for equity funds used during construction 	7,962 107 	209
+Row:Other income Other expense Interest expense (net of capitalized interest of $28,062, $5,510 and $10,591,
+	674 15,385 (14,928) (35,812) 	6,091
+(14,161)
+Row:respectively) Income before income taxes 	(469,620) (485,658) 1,517,935 1,040,801 	(469,651)
+957,956
+Row:Income taxes (Note L) 	(362,903) (447,282) 	(212,406)
+Row:Income from continuing operations Income (loss) from discontinued operations, net of tax 	1,155,032 593,519 — — 	745,550
+(2,051)
+Row:Net income Less: Net income attributable to noncontrolling interests 	1,155,032 593,519 3,329 205,678 	743,499
+391,460
+Row:Net income attributable to ONEOK Less: Preferred stock dividends 	1,151,703 387,841 1,100 767 	352,039
+—
+Row:Net income available to common shareholders $ 	1,150,603 $ 387,074 $ 	352,039
+Row:Amounts available to common shareholders:
+Income from continuing operations $ Income (loss) from discontinued operations 	1,150,603 $ 387,074 $ — — 	354,090
+(2,051)
+Row:Net income $ 	1,150,603 $ 387,074 $ 	352,039
+Row:Basic earnings per common share:
+Income from continuing operations (Note I) $ Income (loss) from discontinued operations 	2.80 $ 1.30 $ — — 	1.68
+(0.01)
+Row:Net income $ 	2.80 $ 1.30 $ 	1.67
+Row:Diluted earnings per common share:
+Income from continuing operations (Note I) $ Income (loss) from discontinued operations 	2.78 $ 1.29 $ — — 	1.67
+(0.01)
+Row:Net income $ 	2.78 $ 1.29 $ 	1.66
+Row:Average shares (thousands)
+Basic Diluted 	411,485 297,477 414,195 299,780 	211,128
+212,383
+Row:See accompanying Notes to Consolidated Financial Statements.
+		Row:	2018 	2017
+Row:Assets Current assets
+	(Thousands of 	dollars)
+Row:Cash and cash equivalents 	$ 11,975 $ 	37,193
+Row:Accounts receivable, net 	818,958 	1,202,951
+Row:Materials and supplies 	141,174 	90,301
+Row:Natural gas and natural gas liquids in storage 	296,667 	342,293
+Row:Commodity imbalances 	29,050 	38,712
+Row:Other current assets 	100,808 	53,008
+Row:Total current assets 	1,398,632 	1,764,458
+Row:Property, plant and equipment
+Property, plant and equipment Accumulated depreciation and amortization 	18,030,963 3,264,312 	15,559,667
+2,861,541
+Row:Net property, plant and equipment (Note D) 	14,766,651 	12,698,126
+Row:Investments and other assets
+		Row:Investments in unconsolidated affiliates (Note M) 	969,150 	1,003,156
+Row:Goodwill and intangible assets (Note E) 	967,142 	993,460
+Row:Deferred income taxes (Note L) 	— 	205,907
+Row:Other assets 	130,096 	180,830
+Row:Total investments and other assets 	2,066,388 	2,383,353
+Row:Total assets 	$ 18,231,671 $ 	16,845,937
+Row:	2018 	2017
+Row:Liabilities and equity 	(Thousands 	of dollars)
+Row:Current liabilities
+		Row:Current maturities of long-term debt (Note F) 	$ 507,650 	$ 432,650
+Row:Short-term borrowings (Note F) 	— 	614,673
+Row:Accounts payable 	1,118,102 	1,140,571
+Row:Commodity imbalances 	110,197 	164,161
+Row:Accrued interest 	161,377 	135,309
+Row:Other current liabilities 	211,110 	179,971
+Row:Total current liabilities 	2,108,436 	2,667,335
+Row:Long-term debt, excluding current maturities (Note F) 	8,873,334 	8,091,629
+Row:Deferred credits and other liabilities
+		Row:Deferred income taxes (Note L) 	219,731 	52,697
+Row:Other deferred credits 	450,627 	348,924
+Row:Total deferred credits and other liabilities 	670,358 	401,621
+Row:Equity (Note G)
+		Row:ONEOK shareholders’ equity:
+		Row:Preferred stock, $0.01 par value:
+authorized and issued 20,000 shares at December 31, 2018, and at December 31, 2017 Common stock, $0.01 par value:
+authorized 1,200,000,000 shares; issued 445,016,234 shares and outstanding
+411,532,606 shares at December 31, 2018; issued 423,166,234 shares and outstanding
+388,703,543 shares at December 31, 2017 	— 4,450 	—
+4,232
+Row:Paid-in capital 	7,615,138 	6,588,878
+Row:Accumulated other comprehensive loss (Note H) 	(188,239) 	(188,530)
+Row:Retained earnings Treasury stock, at cost: 33,483,628 shares at December 31, 2018, and
+34,462,691 shares at December 31, 2017 	— (851,806) 	—
+(876,713)
+Row:Total ONEOK shareholders’ equity 	6,579,543 	5,527,867
+Row:Noncontrolling interests in consolidated subsidiaries 	— 	157,485
+Row:Total equity 	6,579,543 	5,685,352
+Row:Total liabilities and equity 	$ 18,231,671 $ 	16,845,937
+Row:	2018 	2017 2016
+Row:Operating activities
+Net income 	(Thousands $ 1,155,032 $ 	of dollars)
+593,519 $ 743,499
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+		Row:Depreciation and amortization 	428,557 	406,335 391,585
+Row:Impairment charges 	— 	20,240 —
+Row:Noncash contribution of preferred stock, net of tax 	— 	12,600 —
+Row:Equity in net earnings from investments 	(158,383) 	(159,278) (139,690)
+Row:Distributions received from unconsolidated affiliates 	170,528 	167,372 144,673
+Row:Deferred income taxes 	361,010 	437,917 211,638
+Row:Share-based compensation expense 	31,664 	26,262 40,563
+Row:Pension and postretirement benefit expense, net of contributions 	469 	4,079 11,643
+Row:Allowance for equity funds used during construction 	(7,962) 	(107) (209)
+Row:Gain on sale of assets 	(601) 	(924) (9,635)
+Row:Changes in assets and liabilities:
+		Row:Accounts receivable 	383,993 	(330,521) (285,806)
+Row:Natural gas and natural gas liquids in storage 	38,456 	(202,259) (11,950)
+Row:Accounts payable 	(320,132) 	261,305 287,632
+Row:Commodity imbalances, net 	(44,302) 	43,699 45,971
+Row:Accrued interest 	26,068 	22,795 (16,529)
+Row:Risk-management assets and liabilities 	117,717 	37,617 (78,136)
+Row:Other assets and liabilities, net 	4,605 	(25,239) 17,971
+Row:Cash provided by operating activities 	2,186,719 	1,315,412 1,353,220
+Row:Investing activities
+		

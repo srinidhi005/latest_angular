@@ -1,0 +1,124 @@
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents $ 	36,437 	$ 14,561
+Row:Trade accounts and notes receivable, net of allowances of $9,633 and $9,851, respectively 	346,450 	328,988
+Row:Inventories, net 	239,223 	200,234
+Row:Prepaid expenses and other current assets 	11,726 	11,403
+Row:Total current assets 	633,836 	555,186
+Row:Property and equipment, net of accumulated depreciation of $85,761 and $71,409, respectively 	163,582 	154,465
+Row:Goodwill 	427,645 	423,644
+Row:Intangible assets, net 	222,682 	252,293
+Row:Other assets 	6,766 	7,677
+Row:Total assets $ 	1,454,511 	$ 1,393,265
+Row:Liabilities and Stockholders’ Equity
+		Row:Total assets $ 	1,454,511 	$ 1,393,265
+Row:Liabilities and Stockholders’ Equity
+		Row:Current liabilities:
+		Row:Accounts payable $ 	116,168 	$ 102,688
+Row:Accrued compensation and employee benefits 	56,323 	58,393
+Row:Other accrued expenses and current liabilities 	45,146 	37,891
+Row:Current portion of long-term debt 	16,284 	11,530
+Row:Total current liabilities 	233,921 	210,502
+Row:Non-current liabilities:
+		Row:Long-term debt, less current portion 	579,602 	583,390
+Row:Deferred income taxes, net 	10,742 	26,820
+Row:Other liabilities 	35,088 	35,371
+Row:Liabilities to noncontrolling interest holders, less current portion 	15,707 	22,576
+Row:Total liabilities 	875,060 	878,659
+Row:Commitments and contingencies (See Note 14)
+		Row:Stockholders’ equity:
+Common stock, par value $0.01 per share, 500,000 shares authorized; 41,069 and 40,971
+shares issued and outstanding as of April 30, 2018 and 2017, respectively 	411 	410
+Row:Preferred stock, par value $0.01 per share, 50,000 shares authorized; 0 shares issued and
+		Row:outstanding as of April 30, 2018 and 2017 	— 	—
+Row:Additional paid-in capital 	489,007 	488,459
+Row:Retained earnings 	89,592 	26,621
+Row:Accumulated other comprehensive income (loss) 	441 	(884)
+Row:Total stockholders’ equity 	579,451 	514,606
+Row:Total liabilities and stockholders’ equity $ 	1,454,511 	$ 1,393,265
+Row:The accompanying notes are an integral part of these consolidated financial 	statements.
+	Row:Net sales 	$ 2,511,469 	$ 2,319,146 	$ 1,858,182
+Row:Cost of sales (exclusive of depreciation and amortization shown separately
+below) 	1,692,893 	1,560,575 	1,265,018
+Row:Gross profit 	818,576 	758,571 	593,164
+Row:Operating expenses:
+			Row:Selling, general and administrative 	633,877 	585,078 	470,035
+Row:Depreciation and amortization 	65,530 	69,240 	64,215
+Row:Total operating expenses 	699,407 	654,318 	534,250
+Row:Operating income 	119,169 	104,253 	58,914
+Row:Other (expense) income:
+			Row:Interest expense 	(31,395) 	(29,360) 	(37,418)
+Row:Change in fair value of financial instruments 	(6,125) 	(382) 	(19)
+Row:Write-off of debt discount and deferred financing fees 	(74) 	(7,103) 	—
+Row:Other income, net 	2,279 	4,132 	3,671
+Row:Total other expense, net 	(35,315) 	(32,713) 	(33,766)
+Row:Income before taxes 	83,854 	71,540 	25,148
+Row:Provision for income taxes 	20,883 	22,654 	12,584
+Row:Net income 	$ 62,971 	$ 48,886 	$ 12,564
+Row:Weighted average common shares outstanding:
+			Row:Basic Diluted 	41,015 42,163 	40,260 41,070 	32,799
+33,125
+Row:Net income per share:
+			Row:Basic 	$ 1.54 	$ 1.21 	$ 0.38
+Row:Diluted 	$ 1.49 	$ 1.19 	$ 0.38
+Row:Comprehensive income
+			Row:Net income Changes in other comprehensive income, net of tax 	$ 62,971 1,325 	$ 48,886 264 	$ 12,564
+(1,158)
+Row:Comprehensive income 	$ 64,296 	$ 49,150 	$ 11,406
+Row:The accompanying notes are an integral part of these 	consolidated financial 	statements.
+	Row:Cash 	2018 flows from operating activities:
+		2017 	2016
+Row:Net income Adjustments 	$ to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization 	62,971 65,530 	$ 48,886 69,240 	$ 12,564
+64,215
+Row:	Write-off and amortization of debt discount and debt issuance costs 	2,851 	9,793 	3,438
+Row:	Provision for losses on accounts and notes receivable 	(622) 	(122) 	(1,032)
+Row:	Provision for obsolescence of inventory 	106 	425 	80
+Row:	Increase (decrease) in fair value of contingent consideration 	195 	(1,484) 	—
+Row:	Equity-based compensation 	5,745 	3,142 	4,733
+Row:Gain 	on sale and disposal of assets 	(509) 	(336) 	(645)
+Row:	Change in fair value of financial instruments Changes in assets and liabilities net of effects of acquisitions:
+	6,125 	— 	—
+Row:	Trade accounts and notes receivable 	(11,752) 	(20,400) 	(27,338)
+Row:	Inventories Prepaid expenses and other assets 	(34,774) (1,926) 	(18,390) (412) 	(699)
+(4,682)
+Row:	Accounts payable 	11,365 	(3,763) 	1,055
+Row:	Accrued compensation and employee benefits 	(236) 	4,440 	3,454
+Row:	Other accrued expenses and current liabilities 	4,874 	626 	5,551
+Row:	Deferred income taxes Liabilities to noncontrolling interest holders Income tax receivable / payable 	(16,224) (3,704) (1,399) 	(20,114) 1,133 (5,956) 	(20,499)
+446
+7,106
+Row:	Cash provided by operating activities 	88,616 	66,708 	47,747
+Row:Cash 	flows from investing activities:
+			Row:	Purchases of property and equipment 	(23,741) 	(11,083) 	(7,692)
+Row:	Proceeds from sale of assets Acquisition of businesses, net of cash acquired 	2,865 (28,333) 	3,995 (150,428) 	9,847
+(120,195)
+Row:Cash 	Cash used in investing activities flows from financing activities:
+Repayments on the revolving credit facility (617,230) Borrowings from the revolving credit facility 513,878 	(49,209) 	(157,516) (1,011,925) 1,013,365 	(118,040)
+(697,144)
+782,104
+Row:	Payments of principal on long-term debt Payments of principal on capital lease obligations 	(5,776) (6,132) 	(4,584) (5,208) 	(3,931)
+(4,249)
+Row:	Proceeds from issuance of common stock in initial public offering, net of underwriting
+discounts 	— 	156,941 	—
+Row:	Repayment of term loan 	— 	(160,000) 	—
+Row:	Borrowings from term loan amendments 577,616 Repayment of term loan amendments (477,616) 		481,225 (381,225) 	—
+—
+Row:Debt 	issuance costs Stock repurchases 	(636) — 	(2,637) — 	(391)
+(5,827)
+Row:	Payments for taxes related to net share settlement of equity awards Proceeds from exercises of stock options 	(1,441) 477 	— 345 	—
+6,519
+Row:	Other financing activities 	(671) 	— 	—
+Row:	Cash (used in) provided by financing activities 	(17,531) 	86,297 	77,081
+Row:Increase 	(decrease) in cash and cash equivalents 	21,876 	(4,511) 	6,788
+Row:Cash and Cash and 	cash equivalents, beginning of year cash equivalents, end of year $ 	14,561 36,437 	19,072 $ 14,561 	12,284
+$ 19,072
+Row:Supplemental Cash Cash Supplemental Assets Issuance Increase 	cash flow disclosures:
+paid for income taxes $ paid for interest schedule of noncash activities:
+acquired under capital lease $ of installment notes associated with equity-based compensation liability awards in other liabilities due to transition guidance 	38,954 28,613 9,086 12,433 — 	$ 49,163 26,443 $ 9,410 5,352 — 	$ 26,067
+34,557
+$ 7,542
+1,557
+3,208
+Row:	(Decrease) increase in insurance claims payable and insurance recoverable The accompanying notes are an integral part of these consolidated financial 	(2,362) 	1,876 statements.
+	(25,715)

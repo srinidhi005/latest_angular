@@ -1,0 +1,121 @@
+Row:(in millions, except per share data)
+	February 2,
+2019
+	February 3,
+2018
+	January 28,
+2017
+Row:Net sales 	$ 22,823.3 	$ 22,245.5 	$ 20,719.2
+Row:Cost of sales 	15,875.8 	15,223.6 	14,324.5
+Row:Gross profit 	6,947.5 	7,021.9 	6,394.7
+Row:Selling, general and administrative expenses, excluding Goodwill
+impairment and Receivable impairment 	5,160.0 	5,004.3 	4,689.9
+Row:Goodwill impairment 	2,727.0 	— 	—
+Row:Receivable impairment 	— 	18.5 	—
+Row:Selling, general and administrative expenses 	7,887.0 	5,022.8 	4,689.9
+Row:Operating income (loss) 	(939.5) 	1,999.1 	1,704.8
+Row:Interest expense, net 	370.0 	301.8 	375.5
+Row:Other income, net 	(0.5) 	(6.7) 	(0.1)
+Row:Income (loss) before income taxes 	(1,309.0) 	1,704.0 	1,329.4
+Row:Provision for income taxes 	281.8 	(10.3) 	433.2
+Row:Net income (loss) 	$ (1,590.8) 	$ 1,714.3 	$ 896.2
+Row:Basic net income (loss) per share 	$ (6.69) 	$ 7.24 	$ 3.80
+Row:Diluted net income (loss) per share 	$ (6.66) 	$ 7.21 	$ 3.78
+Row:(in millions, except share and per share data) 	2019 	2018
+Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 422.1 	$ 1,097.8
+Row:Merchandise inventories 	3,536.0 	3,169.3
+Row:Other current assets 	335.2
+	309.2
+Row:Total current assets 	4,293.3 	4,576.3
+Row:Property, plant and equipment, net of accumulated depreciation of $3,690.6 and $3,192.1,
+respectively 	3,445.3 	3,200.7
+Row:Restricted cash 	24.6 	—
+Row:Goodwill 	2,296.6 	5,025.2
+Row:Favorable lease rights, net of accumulated amortization of $287.8 and $230.9, respectively 	288.7 	375.3
+Row:Trade name intangible asset 	3,100.0 	3,100.0
+Row:Other assets 	52.7 	55.3
+Row:Total assets 	$ 13,501.2 	$ 16,332.8
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row:Trade name intangible asset 	3,100.0 	3,100.0
+Row:Other assets 	52.7 	55.3
+Row:Total assets 	$ 13,501.2 	$ 16,332.8
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Current portion of long-term debt 	$ — 	$ 915.9
+Row:Accounts payable 	1,416.4 	1,174.8
+Row:Income taxes payable 	60.0 	31.5
+Row:Other current liabilities 	619.3 	736.9
+Row:Total current liabilities 	2,095.7 	2,859.1
+Row:Long-term debt, net, excluding current portion 	4,265.3 	4,762.1
+Row:Unfavorable lease rights, net of accumulated amortization of $76.9 and $61.1, respectively 	78.8 	100.0
+Row:Deferred income taxes, net 	973.2 	985.2
+Row:Income taxes payable, long-term 	35.4 	43.8
+Row:Other liabilities 	409.9 	400.3
+Row:Total liabilities
+	7,858.3 	9,150.5
+Row:Commitments and contingencies
+		Row:Shareholders’ equity:
+		Row:Common stock, par value $0.01; 600,000,000 shares authorized, 238,081,664 and
+237,325,963 shares issued and outstanding at February 2, 2019 and February 3, 2018,
+respectively 	2.4 	2.4
+Row:Additional paid-in capital 	2,602.7 	2,545.3
+Row:Accumulated other comprehensive loss
+	(38.3)
+	(32.3)
+Row:Retained earnings
+	3,076.1
+	4,666.9
+Row:Total shareholders’ equity
+	5,642.9
+	7,182.3
+Row:	Year Ended
+Row:February 2, 	February 3, January 28,
+Row:2019 	2018 2017
+Row:Cash flows from operating activities:
+			Row:Net income (loss) 	$ (1,590.8) 	$ 1,714.3 	$ 896.2
+Row:Adjustments to reconcile net income (loss) to net cash provided by operating activities:
+			Row:Goodwill impairment
+	2,727.0 	— 	—
+Row:Receivable impairment 	— 	18.5 	—
+Row:Depreciation and amortization 	621.1 	611.2 	637.5
+Row:Provision for deferred income taxes 	(12.1) 	(473.5) 	(124.1)
+Row:Stock-based compensation expense 	63.1 	65.7 	61.6
+Row:Amortization of debt discount and debt-issuance costs 	57.2 	15.4 	55.2
+Row:Other non-cash adjustments to net income (loss) 	7.8 	10.9 	9.4
+Row:Loss on debt extinguishment 	114.7 	— 	—
+Row:Changes in operating assets and liabilities:
+			Row:Merchandise inventories 	(369.2) 	(300.9) 	21.9
+Row:Other current assets 	(20.2) 	(114.6) 	117.2
+Row:Accounts payable 	242.6 	54.5 	(133.8)
+Row:Income taxes payable 	28.5 	(58.5) 	77.1
+Row:Other current liabilities 	(105.4) 	(22.7) 	30.4
+Row:Other liabilities 	1.7 	(10.1) 	24.7
+Row:Net cash provided by operating activities 	1,766.0 	1,510.2 	1,673.3
+Row:Cash flows from investing activities:
+			Row:Capital expenditures 	(817.1) 	(632.2) 	(564.7)
+Row:Purchase of restricted investments 	— 	— 	(36.1)
+Row:Proceeds from sale of restricted and unrestricted investments 	— 	4.0 	118.1
+Row:Proceeds from (payments for) fixed asset disposition 	0.4 	0.3 	(0.9)
+Row:Net cash used in investing activities 	(816.7) 	(627.9) 	(483.6)
+Row:Cash flows from financing activities:
+			Row:Proceeds from long-term debt, net of discount 	4,775.8 	— 	2,962.5
+Row:Principal payments for long-term debt 	(6,214.7) 	(659.1) 	(4,036.2)
+Row:Debt-issuance and debt extinguishment costs 	(155.3) 	— 	(6.1)
+Row:Proceeds from revolving credit facility 	50.0 	— 	140.0
+Row:Repayments of revolving credit facility 	(50.0) 	— 	(140.0)
+Row:Proceeds from stock issued pursuant to stock-based compensation plans 	17.5 	35.0 	41.5
+Row:Cash paid for taxes on exercises/vesting of stock-based compensation 	(23.2) 	(27.4) 	(22.2)
+Row:Net cash used in financing activities 	(1,599.9) 	(651.5) 	(1,060.5)
+Row:Effect of exchange rate changes on cash, cash equivalents and restricted cash 	(0.5) 	0.6 	1.1
+Row:Net increase (decrease) in cash, cash equivalents and restricted cash 	(651.1) 	231.4 	130.3
+Row:Cash, cash equivalents and restricted cash at beginning of year 	1,097.8 	866.4 	736.1
+Row:Cash, cash equivalents and restricted cash at end of year 	$ 446.7 	$ 1,097.8 	$ 866.4
+Row:Supplemental disclosure of cash flow information:
+			Row:Cash paid for:
+			Row:Interest, net of amounts capitalized 	$ 383.4 	$ 286.5 	$ 329.1
+Row:Income taxes 	$ 277.5 	$ 552.4 	$ 501.8
+Row:Non-cash transactions:
+			Row:Accrued capital expenditures
+	$ 43.2 	$ 45.0 	$ 30.3 

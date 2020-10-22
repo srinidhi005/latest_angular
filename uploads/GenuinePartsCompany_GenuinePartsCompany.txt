@@ -1,0 +1,194 @@
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 276,992 	$ 333,547
+Row:Trade accounts receivable, net 	2,635,155 	2,493,636
+Row:Merchandise inventories, net 	3,831,183 	3,609,389
+Row:Prepaid expenses and other current assets 	1,195,286 	1,139,118
+Row:Total current assets 	7,938,616 	7,575,690
+Row:Goodwill 	2,293,519 	2,128,776
+Row:Other intangible assets, net 	1,568,926 	1,411,642
+Row:Deferred tax assets 	54,851 	29,509
+Row:Operating lease assets 	1,075,969 	—
+Row:Other assets 	498,965 	510,192
+Row:Property, plant and equipment, net 	1,214,783 	1,027,231
+Row:Total assets 	$ 14,645,629 	$ 12,683,040
+Row:Liabilities and equity
+		Row:Current liabilities:
+		Row:Trade accounts payable 	$ 4,106,163 	$ 3,995,789
+Row:Current portion of debt 	624,043 	711,147
+Row:Other current liabilities 	1,553,063 	1,088,428
+Row:Dividends payable 	110,851 	105,369
+Row:Total current liabilities 	6,394,120 	5,900,733
+Row:Long-term debt 	2,802,056 	2,432,133
+Row:Operating lease liabilities 	825,567 	—
+Row:Pension and other post-retirement benefit liabilities 	249,832 	235,228
+Row:Deferred tax liabilities 	232,902 	196,843
+Row:Other long-term liabilities 	445,652 	446,112
+Row:Equity:
+		Row:Preferred stock, par value $1 per share — authorized 10,000,000 shares; none issued 	— 	—
+Row:Common stock, par value $1 per share - authorized 450,000,000 shares; issued and outstanding - 2019 -
+145,378,158 shares and 2018 - 145,936,613 shares 	145,378 	145,937
+Row:Additional paid-in capital 	98,777 	78,380
+Row:Accumulated other comprehensive loss 	(1,141,308) 	(1,115,078)
+Row:Retained earnings 	4,571,860 	4,341,212
+Row:Total parent equity 	3,674,707 	3,450,451
+Row:Noncontrolling interests in subsidiaries 	20,793 	21,540
+Row:Total equity 	3,695,500 	3,471,991
+Row:Total liabilities and equity 	$ 14,645,629 	$ 12,683,040
+Row:See accompanying notes.
+		Row:Net sales 	$ 19,392,305 	$ 18,735,073 	$ 16,308,801
+Row:Cost of goods sold 	13,076,036 	12,751,286 	11,402,403
+Row:Gross margin 	6,316,269 	5,983,787 	4,906,398
+Row:Operating expenses:
+			Row:Selling, administrative, and other expenses 	4,934,167 	4,615,290 	3,726,233
+Row:Depreciation and amortization 	270,288 	241,635 	167,691
+Row:Provision for doubtful accounts 	14,905 	17,147 	13,932
+Row:Restructuring costs 	112,184 	— 	—
+Row:Goodwill impairment charge 	81,968 	— 	—
+Row:Total operating expenses 	5,413,512 	4,874,072 	3,907,856
+Row:Non-operating expenses (income):
+			Row:Interest expense 	95,711 	101,925 	41,486
+Row:Other 	(66,011) 	(67,822) 	(52,212)
+Row:Special termination costs 	42,757 	— 	—
+Row:Total non-operating expenses (income) 	72,457 	34,103 	(10,726)
+Row:Income before income taxes 	830,300 	1,075,612 	1,009,268
+Row:Income taxes 	209,215 	265,138 	392,511
+Row:Net income 	$ 621,085 	$ 810,474 	$ 616,757
+Row:Basic net income per common share 	$ 4.26 	$ 5.53 	$ 4.19
+Row:Diluted net income per common share 	$ 4.24 	$ 5.50 	$ 4.18
+Row:Weighted average common shares outstanding 	145,736 	146,657 	147,140
+Row:Dilutive effect of stock options and nonvested restricted stock awards 	681 	584 	561
+Row:Weighted average common shares outstanding — assuming dilution 	146,417 	147,241 	147,701
+Row:Net income 	$ 621,085 	$ 810,474 	$ 616,757
+Row:	209,215 	265,138 	392,511
+Row:$ 	621,085 $ 	810,474 	$ 616,757
+Row:$ 	4.26 $ 	5.53 	$ 4.19
+Row:$ 	4.24 $ 145,736 	5.50 146,657 	$ 4.18
+147,140
+Row:	681 	584 	561
+Row:	146,417 	147,241 	147,701
+Row:Net income 	$ 621,085 $ 	810,474 	$ 616,757
+Row:Other comprehensive income (loss), net of tax:
+			Row:Foreign currency translation adjustment 	38,246 	(233,235) 	137,694
+Row:Net gain (loss) on cash flow and net investment hedges, net of income taxes of 2019 —
+$16,600; 2018 — $10,398; 2017 — $9,711 	13,617 	28,114 	(17,388)
+Row:Pension and postretirement benefit adjustments, net of income taxes of 2019 — $5,036;
+2018 — $21,297; 2017 — $20,539 	44,433 	(57,365) 	40,123
+Row:Other comprehensive income (loss), net of tax 	96,296 	(262,486) 	160,429
+Row:Comprehensive income 	$ 717,381 $ 	547,988 	$ 777,186
+Row:	44,433 	(57,365) 	40,123
+Row:	96,296 	(262,486) 	160,429
+Row:$ 	717,381 $ 	547,988 $ 	777,186
+Row:	Common Shares 	Stock Amount
+	Additional
+Paid-In
+Capital
+	Other
+Comprehensive
+Loss
+	Retained
+Earnings
+	Total
+Parent
+Equity
+	controlling
+Interests in
+Subsidiaries
+	Total
+Equity Row:Balance at January 1, 2017 	148,410,422 	$ 148,410 	$ 56,605 $ 	(1,013,021) 	$ 4,001,734 	$ 3,193,728 	$ 13,628 	$ 3,207,356
+Row:Net income
+	— 	— 	— 	— 	616,757 	616,757 	— 	616,757
+Row:Other comprehensive income, net
+of tax 	— 	— 	— 	160,429 	— 	160,429 	— 	160,429
+Row:Cash dividends declared, $2.70
+per share 	— 	— 	— 	— 	(396,891) 	(396,891) 	— 	(396,891)
+Row:Share-based awards exercised,
+including tax benefit of $3,134 	131,232 	132 	(5,371) 	— 	— 	(5,239) 	— 	(5,239)
+Row:Share-based compensation
+	— 	— 	16,892 	— 	— 	16,892 	— 	16,892
+Row:Purchase of stock
+	(1,889,039) 	(1,889) 	— 	— 	(171,635) 	(173,524) 	— 	(173,524)
+Row:Noncontrolling interest activities
+	— 	— 	— 	— 	— 	— 	38,376 	38,376
+Row:Balance at December 31, 2017
+	146,652,615 	146,653 	68,126 	(852,592) 	4,049,965 	3,412,152 	52,004 	3,464,156
+Row:Net income
+	— 	— 	— 	— 	810,474 	810,474 	— 	810,474
+Row:Other comprehensive loss, net of
+tax 	— 	— 	— 	(262,486) 	— 	(262,486) 	— 	(262,486)
+Row:Cash dividends declared, $2.88
+per share 	— 	— 	— 	— 	(422,352) 	(422,352) 	— 	(422,352)
+Row:Share-based awards exercised,
+including tax benefit of $4,232 	235,058 	235 	(10,462) 	— 	— 	(10,227) 	— 	(10,227)
+Row:Share-based compensation
+	— 	— 	20,716 	— 	— 	20,716 	— 	20,716
+Row:Purchase of stock
+	(951,060) 	(951) 	— 	— 	(91,032) 	(91,983) 	— 	(91,983)
+Row:Cumulative effect from adoption
+of ASU No. 2014-09, net of tax 	— 	— 	— 	— 	(5,843) 	(5,843) 	— 	(5,843)
+Row:Noncontrolling interest activities
+	— 	— 	— 	— 	— 	— 	(30,464) 	(30,464)
+Row:Balance at December 31, 2018
+	145,936,613 	145,937 	78,380 	(1,115,078) 	4,341,212 	3,450,451 	21,540 	3,471,991
+Row:Net income
+	— 	— 	— 	— 	621,085 	621,085 	— 	621,085
+Row:Other comprehensive income, net
+of tax 	— 	— 	— 	96,296 	— 	96,296 	— 	96,296
+Row:Cash dividends declared, $3.05
+per share 	— 	— 	— 	— 	(444,372) 	(444,372) 	— 	(444,372)
+Row:Share-based awards exercised,
+including tax benefit of $4,920 	240,568 	240 	(11,653) 	— 	— 	(11,413) 	— 	(11,413)
+Row:Share-based compensation
+	— 	— 	32,050 	— 	— 	32,050 	— 	32,050
+Row:Purchase of stock
+	(799,023) 	(799) 	— 	— 	(73,388) 	(74,187) 	— 	(74,187)
+Row:Cumulative effect from adoption
+of ASU No. 2018-02 	— 	— 	— 	(122,526) 	122,526 	— 	— 	—
+Row:Cumulative effect from adoption
+of ASU No. 2016-02, net of tax 	— 	— 	— 	— 	4,797 	4,797 	— 	4,797
+Row:Noncontrolling interest activities
+	— 	— 	— 	— 	— 	— 	(747) 	(747)
+Row:Balance at December 31, 2019 	145,378,158 	$ 145,378 	$ 98,777 $ 	(1,141,308) 	$ 4,571,860 	$ 3,674,707 	$ 20,793 	$ 3,695,500
+Row:	2019 	2018 	2017
+Row:Operating activities
+			Row:Net income $ 	621,085 	$ 810,474 	$ 616,757
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+			Row:Depreciation and amortization 	270,288 	241,635 	167,691
+Row:Excess tax benefits from share-based compensation 	(4,920) 	(4,232) 	(3,134)
+Row:Deferred income taxes 	(70,932) 	3,891 	65,990
+Row:Share-based compensation 	32,050 	20,716 	16,892
+Row:Realized currency and other divestiture losses 	41,499 	— 	—
+Row:Gain on equity investment 	(38,663) 	— 	—
+Row:Goodwill impairment charge 	81,968 	— 	—
+Row:Other operating activities 	(13,801) 	1,579 	(18,040)
+Row:Changes in operating assets and liabilities:
+			Row:Trade accounts receivable, net 	(116,145) 	(72,041) 	(19,273)
+Row:Merchandise inventories, net 	(66,202) 	(73,173) 	(9,923)
+Row:Trade accounts payable 	70,679 	364,639 	61,474
+Row:Other short-term assets and liabilities 	10,212 	(97,864) 	(1,544)
+Row:Other long-term assets and liabilities 	74,892 	(50,460) 	(61,847)
+Row:Net cash provided by operating activities 	892,010 	1,145,164 	815,043
+Row:Investing activities
+			Row:Purchases of property, plant and equipment 	(297,869) 	(232,422) 	(156,760)
+Row:Proceeds from sale of property, plant and equipment 	24,772 	14,665 	21,275
+Row:Proceeds from divestitures of businesses 	434,609 	— 	—
+Row:Acquisitions of businesses and other investing activities 	(724,718) 	(278,367) 	(1,494,795)
+Row:Net cash used in investing activities 	(563,206) 	(496,124) 	(1,630,280)
+Row:Financing activities
+			Row:Proceeds from debt 	5,037,168 	5,064,291 	6,630,294
+Row:Payments on debt 	(4,897,769) 	(5,124,265) 	(4,350,222)
+Row:Payments on acquired debt of AAG 	— 	— 	(833,775)
+Row:Share-based awards exercised 	(11,413) 	(10,227) 	(5,239)
+Row:Dividends paid 	(438,890) 	(415,983) 	(395,475)
+Row:Purchase of stock 	(74,187) 	(91,983) 	(173,524)
+Row:Other financing activities 	(871) 	(30,663) 	—
+Row:Net cash (used in) provided by financing activities 	(385,962) 	(608,830) 	872,059
+Row:Effect of exchange rate changes on cash 	603 	(21,562) 	15,198
+Row:Net (decrease) increase in cash and cash equivalents 	(56,555) 	18,648 	72,020
+Row:Cash and cash equivalents at beginning of year 	333,547 	314,899 	242,879
+Row:Cash and cash equivalents at end of year $ 	276,992 	$ 333,547 	$ 314,899
+Row:Supplemental disclosures of cash flow information
+			Row:Cash paid during the year for:
+			Row:Income taxes $ 	303,736 	$ 236,536 	$ 298,827
+Row:Income 	taxes 	$ 303,736 $ 236,536 $ 	298,827
+Row:Interest 		$ 95,281 $ 102,131 $ 	38,401

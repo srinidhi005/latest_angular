@@ -1,0 +1,766 @@
+Row 0: $
+	2019
+51,750
+10,219
+14,350
+	2018
+$
+53,647
+11,248
+14,455
+	$
+	2017
+52,546
+11,228
+14,804
+Row 1: 	8,650
+4,610
+747
+(8,086)
+	8,006
+4,893
+1,044
+		7,683
+4,758
+351
+Row 2: 	3,578
+17,682
+1,384
+16,298
+	2,116
+11,885
+706
+11,179
+		1,416
+12,305
+(9,049)
+21,353
+Row 3: 	4
+4
+	10
+10
+		(1)
+3
+2
+Row 4: $
+	16,302
+29
+16,273
+	11,188
+36
+$
+11,153
+	$
+	21,355
+47
+21,308
+Row 5: $
+	2.92
+	$
+1.90
+	$
+	3.57
+Row 6: $
+	2.92
+	$
+1.90
+	$
+	3.57
+Row 7: $
+	2.87
+	$
+1.86
+	$
+	3.52
+Row 8: $
+	2.87
+5,569
+5,675
+	$
+1.87
+5,872
+5,977
+	$
+	3.52
+5,970
+6,058
+Row 0: Revenues
+	$
+51,750
+Row 1: Costs and expenses:
+	Row 2: Cost of sales(a)
+	10,219
+Row 3: Selling, informational and administrative expenses(a)
+	14,350
+Row 4: Research and development expenses(a)
+	8,650
+Row 5: Amortization of intangible assets
+	4,610
+Row 6: Restructuring charges and certain acquisition-related costs
+	747
+Row 7: (Gain) on completion of Consumer Healthcare JV transaction
+	(8,086)
+Row 8: Other (income)/deductions—net
+	3,578
+Row 9: Income from continuing operations before provision/(benefit) for taxes on income
+	17,682
+Row 10: Provision/(benefit) for taxes on income
+	1,384
+Row 11: Income from continuing operations
+	16,298
+Row 12: Discontinued operations:
+	Row 13: Income from discontinued operations—net of tax
+	4
+Row 14: Gain on disposal of discontinued operations—net of tax
+	Row 15: Discontinued operations-net of tax
+	4
+Row 16: Net income before allocation to noncontrolling interests
+	16,302
+Row 17: Less: Net income attributable to noncontrolling interests
+	29
+Row 18: Net income attributable to Pfizer Inc.
+	$
+16,273
+Row 19: Earnings per common share—basic:
+	Row 20: Income from continuing operations attributable to Pfizer Inc. common shareholders
+	$
+2.92
+Row 21: Discontinued operations--net of tax
+	Row 22: Net income attributable to Pfizer Inc. common shareholders
+	$
+2.92
+Row 23: Earnings per common share—diluted:
+	Row 24: Income from continuing operations attributable to Pfizer Inc. common shareholders
+	$
+2.87
+Row 25: Discontinued operations-net of tax
+	Row 26: Net income attributable to Pfizer Inc. common shareholders
+	$
+2.87
+Row 27: Weighted average shares-basic
+	5,569
+Row 28: Weighted average shares—diluted
+	5,675
+Row 29: (a) Exclusive of amortization of intangible assets, except as disclosed in Note 1L.
+Amounts may not add due to rounding.
+	Row 0: 2019
+	2018
+	2017
+Row 1: $
+16,302
+	$
+11,188
+$
+	21,355
+Row 2: $
+654
+	$
+$
+(799)
+	1,116
+Row 3: (288)
+	(22)
+	162
+Row 4: 366
+	(821)
+	1,278
+Row 5: 476
+	220
+	(10)
+Row 6: (664)
+	27
+	(520)
+Row 7: (188)
+	247
+	(530)
+Row 8: (1)
+	(185)
+	818
+Row 9: 39
+	124
+	(244)
+Row 10: 38
+	(462)
+(522)
+	574
+Row 11: (826)
+	(649)
+	(212)
+Row 12: 241
+	242
+	588
+Row 13: 274
+	142
+	117
+Row 14: 22
+	112
+	(145)
+Row 15: (289)
+	(153)
+	348
+Row 16: (7)
+	(9)
+	(2)
+Row 17: (181)
+	(181)
+	(184)
+Row 18: (2)
+	(19)
+	(18)
+Row 19: 1
+	2
+	Row 20: (189)
+	(207)
+	(203)
+Row 21: (262)
+	(1,457)
+	1,468
+Row 22: 115
+	518
+	(262)
+Row 23: $
+(376)
+	$
+(1,975) $
+	1,730
+Row 24: $ 15,926 	$ 9,214 $ 	23,085
+Row 25: 18
+	16
+	62
+Row 26: $ 15,908 	$ 9,198 $ 	23,023
+Row 27: to our equity method 	investment in the GSK 	Consumer
+Row 0: Net income before allocation to noncontrolling interests
+	$
+16,302
+	$
+Row 1: Foreign currency translation adjustments, net(a)
+	$
+654
+	$
+Row 2: Reclassification adjustments(b)
+	(288)
+366
+	Row 3: Unrealized holding gains/(losses) on derivative financial instruments, net
+	476
+	Row 4: Reclassification adjustments for (gains)/losses included in net income)
+	(664)
+(188)
+	Row 5: Unrealized holding gains/(losses) on available-for-sale securities, net
+	(1)
+	Row 6: Reclassification adjustments for (gains)/losses included in net income)
+	39
+	Row 7: Reclassification adjustments for unrealized gains included in Retained earnings(d)
+	38
+	Row 8: Benefit plans: actuarial losses, net
+	(826)
+	Row 9: Reclassification adjustments related to amortization
+	241
+	Row 10: Reclassification adjustments related to settlements, net
+	274
+	Row 11: Other
+	22
+(289)
+	Row 12: Benefit plans: prior service costs and other, net
+	(7)
+	Row 13: Reclassification adjustments related to amortization of prior service costs and other, net
+	(181)
+	Row 14: Reclassification adjustments related to curtailments of prior service costs and other, net
+	(2)
+	Row 15: Other
+	1
+(189)
+	Row 16: Other comprehensive income/(loss), before tax
+	(262)
+	Row 17: Tax provision/(benefit) on other comprehensive income/(loss)(e)
+	115
+	Row 18: Other comprehensive income/(loss) before allocation to noncontrolling interests
+	$
+(376)
+	$
+Row 19: Comprehensive income before allocation to noncontrolling interests
+	$ 15,926 	$ Row 20: Less: Comprehensive income attributable to noncontrolling interests
+	18
+	Row 21: Comprehensive income attributable to Pfizer Inc.
+	$ 15,908 	$ Row 22: (a) Amounts in 2019 include a gain of approximately $1.3 billion pre-tax ($978 million after-tax) related to foreign currency translation adjustments attributable 	to our equity method 	Row 23: Healthcare joint venture (see Note 2C), partially offset by the strengthening of the U.S. dollar against the euro and the Australian dollar, and the results of 	our net investment 	hedging Row 24: currency translation adjustments, net, primarily reflects the strengthening of the U.S. dollar against the euro, U.K. pound and Chinese renminbi, In 2017, 	Foreign currency 	translation Row 25: reflects the weakening of the U.S. dollar against the euro, U.K. pound and the Canadian dollar.
+b) For the year ended December 31, 2019, the foreign currency translation adjustments are primarily reclassified into (Gain) on completion of Consumer 	Healthcare JV transaction 	in Row 26: income as a result of the contribution of our Consumer Healthcare business to the Consumer Healthcare joint venture with GSK. See Note 2C. For the year 	ended December 	31, 2017Row 27: translation adjustments reclassified into Other (income)/deductions—net in the consolidated statement of income primarily result from the sale of our former former 49%-owned equity method investment in Hisun Pfizer. See Note 2C.
+	40% ownership 	investment Row 28: (c) Reclassified into Other (income)/deductions-net and Cost of sales in the consolidated statements of income. For additional information on amounts reclassified 	into Other (	income) Row 29: sales, see Note 7F.
+(d) For additional information, see Notes to Consolidated Financial Statements—Note 1B. Basis of Presentation and Significant Accounting Policies: Adoption Financial Report.
+(e) For additional information, see Note 5E.
+Amounts may not add due to rounding.
+	of New Accounting 	Standards Row 0: 	2019
+		2018
+Row 1: 	1,305
+8,525
+8,724
+8,283
+3,344
+2,600
+21
+	$
+	1,139
+17,694
+8,025
+7,508
+3,374
+2,461
+9,725
+Row 2: 	32,803
+17,133
+3,014
+13,967
+35,370
+58,653
+2,099
+4,450
+		49,926
+181
+2,586
+13,385
+35,211
+53,411
+1,924
+2,799
+Row 3: $
+	167,489
+	$
+	159,422
+Row 0: Assets
+	Row 1: Cash and cash equivalents
+	Row 2: Short-term investments
+	Row 3: Trade accounts receivable, less allowance for doubtful accounts: 2019–$527, 2018—$541
+	Row 4: Inventories
+	Row 5: Current tax assets
+	Row 6: Other current assets
+	Row 7: Assets held for sale
+	Row 8: Total current assets
+	Row 9: Equity-method investments
+	Row 10: Long-term investments
+	Row 11: Property, plant and equipment, less accumulated depreciation
+	Row 12: Identifiable intangible assets, less accumulated amortization
+	Row 13: Goodwill
+	Row 14: Noncurrent deferred tax assets and other noncurrent tax assets
+	Row 15: Other noncurrent assets
+	Row 16: Total assets
+	$
+Row 17: Liabilities and Equity
+	Row 18: Short-term borrowings, including current portion of long-term debt: 2019—$1,462, 2018—$4,776
+	$
+Row 19: Trade accounts payable
+	Row 20: Dividends payable
+	Row 21: Income taxes payable
+	Row 22: Accrued compensation and related items
+	Row 23: Other current liabilities
+	Row 24: Liabilities held for sale
+	Row 25: Total current liabilities
+	Row 26: Long-term debt
+	Row 27: Pension benefit obligations, net
+	Row 28: Postretirement benefit obligations, net
+	Row 29: Noncurrent deferred tax liabilities
+	Row 30: Other taxes payable
+	Row 31: Other noncurrent liabilities
+	Row 32: Total liabilities
+	Row 33: Commitments and Contingencies
+	Row 34: Preferred stock, no par value, at stated value; 27 shares authorized; issued: 2019-431; 2018—478
+	Row 35: Common stock, $0.05 par value; 12,000 shares authorized; issued: 2019—9,369; 2018–9,332
+Additional paid-in capital
+	Row 36: Treasury stock, shares at cost: 2019—3,835; 2018—3,615
+	Row 37: Retained earnings
+	Row 38: Accumulated other comprehensive loss
+	Row 39: Total Pfizer Inc. shareholders' equity
+	Row 40: Equity attributable to noncontrolling interests
+	Row 41: Total equity
+	Row 42: Total liabilities and equity
+	$
+Row 43: Amounts may not add due to rounding.
+	Row 0: 4,220
+	4,674
+Row 1: 2,104
+	2,047
+Row 2: 980
+	1,265
+Row 3: 2,720
+	2,397
+Row 4: 11,083
+	10,753
+1,890
+Row 5: 37,304
+	31,858
+Row 6: 35,955
+	32,909
+Row 7: 5,638
+	5,272
+Row 8: 1,124
+	1,338
+Row 9: 5,578
+	3,700
+Row 10: 12,126
+	14,737
+Row 11: 6,317
+	5,850
+Row 12: 104,042
+	95,664
+Row 0: 468
+	467
+Row 1: 87,428
+	86,253
+Row 2: (110,801)
+	(101,610)
+Row 3: 97,670
+	89,554
+Row 4: (11,640)
+	(11,275)
+Row 5: 63,143
+	63,407
+Row 6: 303
+	351
+Row 7: 63,447
+	63,758
+Row 8: $
+167,489
+	$
+159,422
+Row 0: Noncontrolling interests
+								(9)
+(9)
+Row 1: Share-based payment transactions(a)
+	45
+	2
+	1,597
+	15
+	(63)
+		1,536
+	1,536
+Row 2: Purchases of common stock
+				(150)
+	(5,000)
+		(5,000)
+	(5,000)
+Row 3: Preferred stock conversions and redemptions
+	(73)
+(3)
+		(3)
+		1
+		(5)
+	(5Row 4: Other
+								Row 5: Balance, December 31, 2017
+	524
+21
+9,275
+	464
+	84,278
+	(3,296)
+	(89,425)
+	85,291
+	(9,321)
+71,308
+	348
+71,656
+Row 6: Net income
+						11,153
+	11,153
+	36
+11,188
+Row 7: Other comprehensive income/loss), net of tax
+							(1,955)
+(1,955)
+	(20)
+(1,975)
+Row 8: Cash dividends declared:
+								Row 9: Common stock
+						(8,060)
+	(8,060)
+	(8,060)
+Row 10: Preferred stock
+						(1)
+	(1)
+	(1Row 11: Noncontrolling interests
+								(12)
+(12Row 12: Share-based payment transactions
+	57
+	3
+	1,977
+	(12)
+	13
+		1,993
+	1,993
+Row 13: Purchases of common stock
+				(307)
+	(12,198)
+		(12,198)
+	(12,198)
+Row 14: Preferred stock conversions and redemptions
+	(46)
+(2)
+		(3)
+				(4)
+	(4)
+Row 15: Otherb)
+						1,172
+	1,172
+	1,172
+Row 16: Balance, December 31, 2018
+	478
+19
+9,332
+	467
+	86,253
+	(3,615)
+	(101,610)
+	89,554
+	(11,275)
+63,407
+	351
+63,758
+Row 17: Net income
+						16,273
+	16,273
+	29
+16,302
+Row 18: Other comprehensive incomel(loss), net of tax
+							(365)
+(365)
+	(11)
+(376Row 19: Cash dividends declared:
+								Row 20: Common stock
+						(8,174)
+	(8,174)
+	(8,174)
+Row 21: Preferred stock
+						(1)
+	(1)
+	(1)
+Row 22: Noncontrolling interests
+								(6)
+(6)
+Row 23: Share-based payment transactions
+	37
+	2
+	1,219
+	(8)
+	(326)
+		894
+	894
+Row 24: Purchases of common stock
+				(213)
+	(8,865)
+		(8,865)
+	(8,865)
+Row 25: Preferred stock conversions and redemptions
+	(47)
+(2)
+		(3)
+		1
+		(4)
+	(4Row 26: Othe
+			(40)
+			19
+	(21)
+	(60)
+(81)
+Row 27: Balance, December 31, 2019
+	431
+$
+17
+9,369
+	$ 468
+	$ 87,428
+	(3,835)
+	$ (110,801)
+	$
+97,670
+	$ (11,640)
+$ 63,143
+	$
+303
+$ 63,447
+Row 28: (a) 2017 treasury shares include the effect of the modification paid in the first quarter of 2018.
+	for a commitment to pay 15.2 million 	common	-share 	equivalents that 	were scheduled 	for near-term 	settlement. These common 	share equivalents were
+Row 0: 				(213)
+	(8,865)
+	(8,865)
+Row 1: (47)
+	(2)
+		(3)
+		1
+	(4)
+Row 2: 			(40)
+		19
+	(21)
+(60)
+Row 3: 431
+$
+	17
+9,369
+$ 	468
+	$ 87,428
+	(3,835)
+	$ (110,801)
+$
+97,670
+	$ (11,640)
+$ 63,143
+$
+303
+$ Row 0: $
+16,302
+	$
+11,188
+	$
+21,355
+Row 1: 6,010
+	6,384
+	6,269
+Row 2: 2,953
+	3,398
+	634
+Row 3: (323)
+	(596)
+	(10,660)
+Row 4: (8,233)
+		Row 5: 614
+	(2,205)
+	(2,410)
+Row 6: 718
+	949
+	840
+Row 7: (336)
+	(1,095)
+	(961)
+Row 8: (1,086)
+	(1,269)
+	399
+Row 9: (742)
+	(644)
+	259
+Row 10: (1,050)
+	(717)
+	(357)
+Row 11: 795
+	(16)
+	7
+Row 12: (564)
+	431
+	46
+Row 13: 267
+	98
+	(67)
+Row 14: (2,737)
+	(78)
+	1,446
+Row 15: 12,588
+	15,827
+	16,802
+Row 0: Operating Activities
+Row 1: Net income before allocation to noncontrolling interests
+Row 2: Adjustments to reconcile net income before allocation to noncontrolling interests to net cash provided by operating activities:
+Row 3: Depreciation and amortization
+Row 4: Asset write-offs and impairments
+Row 5: TCJA impact(a)
+Row 6: Gain on completion of Consumer Healthcare JV transaction, net of cash conveyed(b)
+Row 7: Deferred taxes from continuing operations()
+Row 8: Share-based compensation expense
+Row 9: Benefit plan contributions in excess of expense/income
+Row 10: Other adjustments, net
+Row 11: Other changes in assets and liabilities, net of acquisitions and divestitures:
+Row 12: Trade accounts receivable
+Row 13: Inventories
+Row 14: Other assets
+Row 15: Trade accounts payable
+Row 16: Other liabilities
+Row 17: Other tax accounts, net
+Row 18: Net cash provided by operating activities
+Row 19: Investing Activities
+Row 0: Purchases of property, plant and equipment
+Row 1: Purchases of short-term investments
+Row 2: Proceeds from redemptions/sales of short-term investments
+Row 3: Net (purchases of)/proceeds from redemptions/sales of short-term investments with original maturities of three months or less
+Row 4: Purchases of long-term investments
+Row 5: Proceeds from redemptions/sales of long-term investments
+Row 6: Acquisitions of businesses, net of cash acquired
+Row 7: Acquisitions of intangible assets
+Row 8: Other investing activities, net(b), (d)
+Row 9: Net cash provided by/(used in) investing activities
+Row 10: Financing Activities
+Row 11: Proceeds from short-term borrowings
+Row 12: Principal payments on short-term borrowings
+Row 13: Net (payments on)/proceeds from short-term borrowings with original maturities of three months or less
+Row 14: Proceeds from issuance of long-term debt
+Row 15: Principal payments on long-term debt
+Row 16: Purchases of common stock
+Row 17: Cash dividends paid
+Row 18: Proceeds from exercise of stock options
+Row 19: Other financing activities, net
+Row 20: Net cash used in financing activities
+Row 21: Effect of exchange-rate changes on cash and cash equivalents and restricted cash and cash equivalents
+Row 22: Net increase/(decrease) in cash and cash equivalents and restricted cash and cash equivalents
+Row 23: Cash and cash equivalents and restricted cash and cash equivalents, at beginning of period
+Row 24: Cash and cash equivalents and restricted cash and cash equivalents, at end of period
+Row 25: - Continued -
+Row 0: (6,835)
+	(11,677)
+	(14,596)
+Row 1: 9,183
+	17,581
+	10,302
+Row 2: 6,925
+	(3,917)
+	2,058
+Row 3: (201)
+	(1,797)
+	(3,537)
+Row 4: 232
+	6,244
+	3,579
+Row 5: (10,861)
+		(1,000)
+Row 6: (418)
+	(154)
+	(261)
+Row 7: 205
+	288
+	671
+Row 8: (3,945)
+	4,525
+	(4,740)
+Row 0: (8,378)
+	(4,437)
+	(9,947)
+Row 1: 2,551
+	(1,617)
+	1,422
+Row 2: 4,942
+	4,974
+	5,274
+Row 3: (6,806)
+	(3,566)
+	(6,154)
+Row 4: (8,865)
+	(12,198)
+	(5,000)
+Row 5: (8,043)
+	(7,978)
+	(7,659)
+Row 6: 394
+	1,259
+	862
+Row 7: (736)
+	(588)
+	(611)
+Row 8: (8,485)
+	(20,441)
+	(13,350)
+Row 9: (32)
+	(116)
+	53
+Row 10: 125
+	(205)
+	(1,235)
+Row 11: 1,225
+	1,431
+	2,666
+Row 12: $
+1,350
+	$
+1,225
+	$
+1,431

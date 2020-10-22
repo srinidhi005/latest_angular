@@ -141,6 +141,7 @@ export class VisualsBsComponent implements OnInit {
             ALArray.push((v.accruedliabilitiespercent == undefined)?0: v.accruedliabilitiespercent);
             OCLArray.push((v.othercurrentliabilitiespercent == undefined)?0: v.othercurrentliabilitiespercent);
           });
+
           this.DSOOptions = {
           chart: {type: 'column',animation:false},
           title: {text: 'Days Sales Outstanding'},  
@@ -191,7 +192,7 @@ export class VisualsBsComponent implements OnInit {
                   }
               },
               },
-              column: {stacking: "normal",minPointLength: 2},
+              column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
               line: {cursor: "ns-resize"}},
             tooltip: {split: true,valueSuffix: ' millions'},
             credits: {enabled: false},
@@ -221,7 +222,7 @@ export class VisualsBsComponent implements OnInit {
                   }
               },
               },
-              column: {stacking: "normal",minPointLength: 2},
+              column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
               line: {cursor: "ns-resize"}},
             tooltip: {split: true,valueSuffix: ' millions'},
             credits: {enabled: false},
@@ -251,7 +252,7 @@ export class VisualsBsComponent implements OnInit {
                   }
               },
               },
-              column: {stacking: "normal",minPointLength: 2},
+              column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
               line: {cursor: "ns-resize"}},
             tooltip: {split: true,valueSuffix: ' millions'},
             credits: {enabled: false},
@@ -281,7 +282,7 @@ export class VisualsBsComponent implements OnInit {
                   }
               },
               },
-              column: {stacking: "normal",minPointLength: 2},
+              column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
               line: {cursor: "ns-resize"}},
             tooltip: {split: true,valueSuffix: ' millions'},
             credits: {enabled: false},
@@ -309,7 +310,7 @@ export class VisualsBsComponent implements OnInit {
                   }
               },
               },
-              column: {stacking: "normal",minPointLength: 2},
+              column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
               line: {cursor: "ns-resize"}},
             tooltip: {split: true,valueSuffix: ' millions'},
             credits: {enabled: false},
@@ -372,12 +373,13 @@ HC_exporting(Highcharts);
 
         this.TCAOptions = {
           chart: {type: 'column',animation:false},
-          title: {text: 'Total Revenue'},  
+          title: {text: 'Total Current Assets'},  
           yAxis: {title: { text: 'USD'}},
           xAxis: {categories: this.yearsArray},
+          colors: ['skyblue','skyblue','grey','grey','grey','grey'],
            plotOptions: {
             series: {stickyTracking: false},
-            column: {stacking: "normal",minPointLength: 2},
+            column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
             line: {cursor: "ns-resize"}},
           tooltip: {split: true,valueSuffix: ' millions'},
           credits: {enabled: false},
@@ -387,12 +389,13 @@ HC_exporting(Highcharts);
         };
         this.TAOptions = {
           chart: {type: 'column',animation:false},
-          title: {text: 'Gross Profit'},  
+          title: {text: 'Total Assets'},  
           yAxis: {title: {text: 'USD'}},
           xAxis: {categories: this.yearsArray},
+          colors: ['skyblue','skyblue','grey','grey','grey','grey'],
            plotOptions: {
             series: {stickyTracking: false},
-            column: {stacking: "normal",minPointLength: 2},
+            column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
             line: {cursor: "ns-resize"}},
           tooltip: {split: true,valueSuffix: ' millions'},
           credits: {enabled: false},
@@ -402,12 +405,13 @@ HC_exporting(Highcharts);
         }; 
         this.TCLOptions = {
           chart: {type: 'column',animation:false},
-          title: {text: 'EBIT'},  
+          title: {text: 'Total Current Liabilities'},  
           yAxis: {title: {text: 'USD'}},
           xAxis: {categories: this.yearsArray},
+          colors: ['skyblue','skyblue','grey','grey','grey','grey'],
            plotOptions: {
             series: {stickyTracking: false},
-            column: {stacking: "normal",minPointLength: 2},
+            column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
             line: {cursor: "ns-resize"}},
           tooltip: {split: true,valueSuffix: ' millions'},
           credits: {enabled: false},
@@ -417,12 +421,13 @@ HC_exporting(Highcharts);
         }; 
         this.TLOptions = {
           chart: {type: 'column',animation:false},
-          title: {text: 'EBITDA'},  
+          title: {text: 'Total Liabilities'},  
           yAxis: {title: {text: 'USD'}},
           xAxis: {categories: this.yearsArray},
+          colors: ['skyblue','skyblue','grey','grey','grey','grey'],
            plotOptions: {
             series: {stickyTracking: false},
-            column: {stacking: "normal",minPointLength: 2},
+            column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
             line: {cursor: "ns-resize"}},
           tooltip: {split: true,valueSuffix: ' millions'},
           credits: {enabled: false},
@@ -432,12 +437,13 @@ HC_exporting(Highcharts);
         }; 
         this.TSEOptions = {
           chart: {type: 'column',animation:false},
-          title: {text: 'EBT'},  
+          title: {text: 'Total ShareHolders Equity'},  
           yAxis: {title: {text: 'USD' }},
           xAxis: {categories: this.yearsArray},
+          colors: ['skyblue','skyblue','grey','grey','grey','grey'],
            plotOptions: {
             series: {stickyTracking: false},
-            column: {stacking: "normal",minPointLength: 2},
+            column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
             line: {cursor: "ns-resize"}},
           tooltip: {split: true,valueSuffix: ' millions'},
           credits: {enabled: false},
@@ -447,12 +453,13 @@ HC_exporting(Highcharts);
         }; 
         this.TLSEOptions = {
           chart: {type: 'column',animation:false},
-          title: {text: 'Net Income'},  
+          title: {text: 'Total Liabilities ShareHolders Equity'},  
           yAxis: {title: {text: 'USD'}},
           xAxis: {categories: this.yearsArray},
+          colors: ['skyblue','skyblue','grey','grey','grey','grey'],
            plotOptions: {
             series: {stickyTracking: false},
-            column: {stacking: "normal",minPointLength: 2},
+            column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
             line: {cursor: "ns-resize"}},
           tooltip: {split: true,valueSuffix: ' millions'},
           credits: {enabled: false},
@@ -506,20 +513,7 @@ HC_exporting(Highcharts);
         }
     }
     this.apiService.postData(this.urlConfig.getBsProjectionsAPIPOST()+this.companyName,JSON.stringify(inputArray)).subscribe((res:any)=>{
-      if(true){
-        this._snackBar.openFromComponent(uploadSnackBarComponent, {
-          duration: 5000,
-          horizontalPosition: this.horizontalPosition,
-          verticalPosition: this.verticalPosition
-        });
-        }
-        else{
-          this._snackBar.openFromComponent(uploadFailureSnackBarComponent, {
-            duration: 5000,
-            horizontalPosition: this.horizontalPosition,
-            verticalPosition: this.verticalPosition
-          });
-        }
+      
     });
     this.ngOnInit();
     } 
@@ -539,36 +533,3 @@ HC_exporting(Highcharts);
 }
 
 
-@Component({
-  selector: 'snackBar',
-  templateUrl: 'snackBar.html',
-  styles: [`
-    .snackBar{
-      color: #fff;
-    }
-    b{
-      color:#fff !important;
-    }
-    .material-icons{
-      color:lightgreen;
-    }
-  `],
-})
-export class uploadSnackBarComponent {}
-
-@Component({
-  selector: 'snackBar',
-  templateUrl: 'snackBar.html',
-  styles: [`
-    .snackBar{
-      color: #fff;
-    }
-    b{
-      color:#fff !important;
-    }
-    .material-icons{
-      color:lightgreen;
-    }
-  `],
-})
-export class uploadFailureSnackBarComponent {}

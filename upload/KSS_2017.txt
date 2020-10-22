@@ -1,0 +1,147 @@
+Row:(Dollars in Millions)
+	February 2,
+2019
+	February 3,
+2018
+Row:		As Adjusted (a)
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 934 	$ 1,308
+Row:Merchandise inventories 	3,475 	3,542
+Row:Other 	426 	530
+Row:Total current assets 	4,835 	5,380
+Row:Property and equipment, net 	7,428 	7,773
+Row:Other assets 	206 	236
+Row:Total assets 	$ 12,469 	$ 13,389
+Row:Liabilities and Shareholders’ Equity
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 1,187 	$ 1,271
+Row:Accrued liabilities 	1,364 	1,213
+Row:Income taxes payable 	64 	99
+Row:Current portion of capital lease and financing obligations 	115 	126
+Row:Total current liabilities 	2,730 	2,709
+Row:Long-term debt 	1,861 	2,797
+Row:Capital lease and financing obligations 	1,523 	1,591
+Row:Deferred income taxes 	184 	211
+Row:Other long-term liabilities 	644 	662
+Row:Shareholders’ equity:
+Common stock - 374 and 373 million shares issued 	4 	4
+Row:Paid-in capital 	3,204 	3,078
+Row:Treasury stock, at cost, 211 and 205 million shares 	(11,076) 	(10,651)
+Row:Accumulated other comprehensive loss 	— 	(11)
+Row:Retained earnings 	13,395 	12,999
+Row:Total shareholders’ ' equity 	$ 5,527 	$ 5,419
+Row:Total liabilities and shareholders’ ' equity 	$ 12,469 	$ 13,389
+Row:(a) Refer to Note 2 for details on the adoption of the new revenue recognition accounting standard 	and the impact on previously 	reported results.
+.
+Row:(Dollars in Millions, Except per Share Data)
+	2018
+	2017
+	2016
+Row:		As Adjusted (a) 	As Adjusted (a)
+Row:Net sales
+	$
+19,167 	$ 19,036 	$ 18,636
+Row:Other revenue
+	1,062
+	1,048
+	1,045
+Row:Total revenue
+	20,229
+	20,084
+	19,681
+Row:Cost of merchandise sold
+	12,199
+	12,176
+	11,944
+Row:Operating expenses:
+			Row:Selling, general and administrative
+	5,601
+	5,501
+	5,430
+Row:Depreciation and amortization
+	964
+	991
+	938
+Row:Impairments, store closing and other costs
+	104
+		186
+Row:Operating income
+	1,361
+	1,416
+	1,183
+Row:Interest expense, net
+	256
+	299
+	308
+Row:Loss on extinguishment of debt
+	63
+		Row:Income before income taxes
+	1,042
+	1,117
+	875
+Row:Provision for income taxes
+	241
+	258
+	319
+Row:Net income
+	801
+$
+	859
+$
+	556
+$
+Row:Net income per share:
+			Row:Basic
+	$
+4.88 	$
+5.14 	$
+3.12
+Row:Diluted
+	$
+4.84 	| $
+5.12 	$
+3.11
+Row:(Dollars in Millions) 	2018 	2017 	2016
+Row:Operating activities
+		As Adjusted (a) 	As Adjusted (a)
+Row:Net income 	$ 801 	$ 859 	$ 556
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+			Row:Depreciation and amortization 	964 	991 	938
+Row:Share-based compensation 	87 	55 	41
+Row:Deferred income taxes 	(31) 	(61) 	13
+Row:Impairments, store closing and other costs 	72 	— 	57
+Row:Loss on extinguishment of debt 	63 	— 	—
+Row:Other non-cash revenues and expenses 	18 	2 	30
+Row:Changes in operating assets and liabilities:
+			Row:Merchandise inventories 	79 	264 	249
+Row:Other current and long-term assets 	72 	(81) 	(46)
+Row:Accounts payable 	(84) 	(236) 	256
+Row:Accrued and other long-term liabilities 	67 	(52) 	82
+Row:Income taxes 	(1) (	(50) 	(23)
+()
+Row:Net cash provided by operating activities 	2,107 	1,691 	2,153
+Row:Investing activities
+			Row:Acquisition of property and equipment 	(578) 	(672) 	(768)
+Row:Other 	6 	23 	12
+Row:Net cash used in investing activities 	(572) 	(649) 	(756)
+Row:Financing activities
+			Row:Treasury stock purchases 	(396) 	(306) 	(557)
+Row:Shares withheld for taxes on vested restricted shares 	(34) 	(14) 	(17)
+Row:Dividends paid 	(400) 	(368) 	(358)
+Row:Reduction of long-term borrowing 	(943) 	— 	—
+Row:Premium paid on redemption of debt 	(46) 	— 	—
+Row:Capital lease and financing obligation payments 	(126) 	(138) 	(127)
+Row:Proceeds from stock option exercises 	36 	18 	18
+Row:Proceeds from financing obligations 	— 	— 	11
+Row:Net cash used in financing activities 	(1,909) 	(808) 	(1,030)
+Row:Net increase (decrease) in cash and cash equivalents 	(374) 	234 	367
+Row:Cash and cash equivalents at beginning of period 	1,308 	1,074 	707
+Row:Cash and cash equivalents at end of period 	$ 934 	$ 1,308 	$ 1,074
+Row:Supplemental information
+			Row:Interest paid, net of capitalized interest 	$ 282 	$ 297 	$ 299
+Row:Income taxes paid 	308 	272 	314
+Row:Non-cash investing and financing activities
+Property and equipment acquired through additional liabilities 	$ 41 	$ 42 	$ 54
+Row:Refer to Note 2 for details on the adoption of the new revenue recognition accounting standard and 	the impact on previously 	reported results.
+	

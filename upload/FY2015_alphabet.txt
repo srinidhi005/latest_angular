@@ -1,0 +1,563 @@
+Row:As of
+	As of
+Row:December 31,
+	December 31,
+Row:2014
+	2015
+Row:in thousands, and par value per share amounts)
+	2014
+	2015
+Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 18,347 	$ 16,549
+Row:marketable securities 	46,048 	56,517
+Row:Total cash, cash equivalents, and marketable securities (including securities loaned of $4,058 and $4,531) 	64,395 	73,066
+Row:Accounts receivable, net of allowance of $225 and $296 	9,383 	11,556
+Row:Receivable under reverse repurchase agreements 	875 	450
+Row:Income taxes receivable, net 	591 	1,903
+Row:Prepaid revenue share, expenses and other assets 	3,412 	3,139
+Row:Total current assets 	78,656 	90,114
+Row:Prepaid revenue share, expenses and other assets, non-current 	3,187 	3,181
+Row:Non-marketable investments 	3,079 	5,183
+Row:Deferred income taxes 	176 	251
+Row:Property and equipment, net 	23,883 	29,016
+Row:Intangible assets, net 	4,607 	3,847
+Row:Goodwill 	15,599 	15,869
+Row:Total assets 	$129,187 	$147,461
+Row:Total assets 	$129,187 	$147,461
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 1,715 	$ 1,931
+Row:Short-term debt 	2,009 	3,225
+Row:Accrued compensation and benefits 	3,069 	3,539
+Row:Accrued expenses and other current liabilities 	4,408 	4,768
+Row:Accrued revenue share 	1,952 	2,329
+Row:Securities lending payable 	2,778 	2,428
+Row:Deferred revenue 	752 	788
+Row:Income taxes payable, net 	96 	302
+Row:Total current liabilities 	16,779 	19,310
+Row:Long-term debt 	3,228 	1,995
+Row:Deferred revenue, non-current 	104 	151
+Row:Income taxes payable, non-current 	3,340 	3,663
+Row:Deferred income taxes 	758 	189
+Row:Other long-term liabilities 	1,118 	1,822
+Row:Commitments and contingencies (Note 11)
+		Row:Stockholders’ equity:
+		Row:Convertible preferred stock, $0.001 par value per share, 100,000 shares authorized; no shares issued
+and outstanding 	0 	0
+Row:Class A and Class B common stock, and Class C capital stock and additional paid-in capital, $0.001 par
+value per share: 15,000,000 shares authorized (Class A 9,000,000, Class B 3,000,000, Class C 3,000,000);
+680,172 (Class A 286,560, Class B 53,213, Class C 340,399) and par value of $680 (Class A $287, Class B
+$53, Class C $340) and 687,348 (Class A 292,297, Class B 50,295, Class C 344,756) and par value of
+$687 (Class A $292, Class B $50, Class C $345) shares issued and outstanding 	28,767 	32,982
+Row:Accumulated other comprehensive income (loss) 	27 	(1,874)
+Row:Retained earnings 	75,066 	89,223
+Row:Total stockholders’ equity 	103,860 	120,331
+Row:Total liabilities and stockholders’ equity 	$129,187 	$147,461
+Row:A $292, Class B $50, Class C $345) shares issued and outstanding 	28,767 	32,982
+Row:other comprehensive income (loss) 	27 	(1,874)
+Row:earnings 	75,066 	89,223
+Row:stockholders’ equity 	103,860 	120,331
+Row:and stockholders’ equity 	$129,187 	$147,461
+Row:(In millions, except per share amounts)
+)
+	2013 	2014 	2015
+Row:Revenues 	$55,519 	$66,001 	$74,989
+Row:Costs and expenses:
+:
+			Row:Cost of revenues 	21,993 	25,691 	28,164
+Row:Research and development 	7,137 	9,832 	12,282
+Row:Sales and marketing 	6,554 	8,131 	9,047
+Row:General and administrative 	4,432 	5,851 	6,136
+Row:Total costs and expenses 	40,116 	49,505 	55,629
+Row:Income from operations 	15,403 	16,496 	19,360
+Row:Other income (expense), , net 	496 	763 	291
+Row:Income from continuing operations before income taxes 	15,899 	17,259 	19,651
+Row:Provision for income taxes 	2,739 	3,639 	3,303
+Row:Net income from continuing operations 	$13,160 	$13,620 	$16,348
+Row:Net income (loss) from discontinued operations 	(427) 	516 	0
+Row:Net income 	$12,733 	$14,136 	$16,348
+Row:Less: : Adjustment Payment to Class C capital stockholders 	0 	0 	522
+Row:Net income available to all stockholders 	$12,733 	$14,136 	$15,826
+Row:Basic net income (loss) per share of Class A and B common stock:
+:
+			Row:Continuing operations 	$ 19.77 	$ 20.15 	$ 23.11
+Row:Discontinued operations 	(0.64) )
+	0.76 	0.00
+Row:Basic net income per share of Class A and B common stock 	$ 19.13 	$ 20.91 	$ 23.11
+Row:Basic net income (loss) per share of Class C capital stock:
+			Row:Continuing operations 	$ 19.77 	$ 20.15 	$ 24.63
+Row:Discontinued operations 	(0.64) )
+	0.76 	0.00
+Row:Basic net income per share of Class C capital stock 	$ 19.13 	$ 20.91 	$ 24.63
+Row:Diluted net income (loss) per share of Class A and B common stock:
+			Row:Continuing operations 	$ 19.42 	$ 19.82 	$ 22.84
+Row:Discontinued operations 	(0.63) 	0.75 	0.00
+Row:Diluted net income per share of Class A and B common stock 	$ 18.79 	$ 20.57 	$ 22.84
+Row:Diluted net income (loss) per share of Class C capital stock:
+:
+			Row:Continuing operations 	$ 19.42 	$ 19.82 	$ 24.34
+Row:Discontinued operations 	(0.63) 	0.75 	0.00
+Row:Diluted net income per share of Class C capital stock 	$ 18.79 	$ 20.57 	$ 24.34
+Row:(In millions)
+	2013
+	2014
+	2015
+Row:Net income
+	$12,733
+	$14,136
+	$16,348
+Row:Other comprehensive income (loss):
+			Row:Change in foreign currency translation adjustment
+	89
+	(996)
+	(1,067)
+Row:Available-for-sale investments:
+			Row:Change in net unrealized gains (losses)
+	(392)
+	505
+	(715)
+Row:Less: reclassification adjustment for net (gains) losses included in net income
+	(162)
+	(134)
+	208
+Row:Net change (net of tax effect of $212, $60, and $29)
+	(554)
+	371
+	(507)
+Row:Cash flow hedges:
+			Row:Change in net unrealized gains
+	112
+	651
+	676
+Row:Less: reclassification adjustment for net gains included in net income
+	(60)
+	(124)
+	(1,003)
+Row:Net change (net of tax effect of $30, $196, and $115)
+	52
+	527
+	(327)
+Row:Other comprehensive loss
+	(413)
+	(98)
+	(1,901)
+Row:Comprehensive income
+	$12,320
+	$14,038
+	$14,447
+Row:(In millions)
+	2013
+	2014
+	2015
+Row:Operating activities
+			Row:Net income
+	$ 12,733
+	$ 14,136
+	$ 16,348
+Row:Adjustments:
+			Row:Depreciation and impairment of property and equipment
+	2,781
+	3,523
+	4,132
+Row:Amortization and impairment of intangible assets
+	1,158
+	1,456
+	931
+Row:Stock-based compensation expense
+	3,343
+	4,279
+	5,203
+Row:Excess tax benefits from stock-based award activities
+	(481)
+	(648)
+	(548)
+Row:Deferred income taxes
+	(437)
+	(104)
+	(179)
+Row:Gain on divestiture of business
+	(700)
+	(740)
+	0
+Row:(Gain) loss on marketable and non-marketable investments, net
+	(166)
+	(390)
+	334
+Row:Other
+	272
+	192
+	212
+Row:Changes in assets and liabilities, net of effects of acquisitions:
+			Row:Accounts receivable
+	(1,307)
+	(1,641)
+	(2,094)
+Row:Income taxes, net
+	588
+	591
+	(179)
+Row:Prepaid revenue share, expenses and other assets
+	(930)
+	459
+	(318)
+Row:Accounts payable
+	605
+	436
+	203
+Row:Accrued expenses and other liabilities
+	713
+	757
+	1,597
+Row:Accrued revenue share
+	254
+	245
+	339
+Row:Deferred revenue
+	233
+	(175)
+	43
+Row:Net cash provided by operating activities
+	18,659
+	22,376
+	26,024
+Row:Investing activities
+			Row:Purchases of property and equipment
+	(7,358)
+	(10,959)
+	(9,915)
+Row:Purchases of marketable securities
+	(45,444)
+	(56,310)
+	(74,368)
+Row:Maturities and sales of marketable securities
+	38,314
+	51,315
+	62,905
+Row:Purchases of non-marketable investments
+	(569)
+	(1,227)
+	(2,172)
+Row:Cash collateral related to securities lending
+	(299)
+	1,403
+	(350)
+Row:Investments in reverse repurchase agreements
+	600
+	(775)
+	425
+Row:Proceeds from divestiture of business
+	2,525
+	386
+	0
+Row:Acquisitions, net of cash acquired, and purchases of intangibles and other assets
+	(1,448)
+	(4,888)
+	(236)
+Row:Net cash used in investing activities
+	(13,679)
+	(21,055)
+	(23,711)
+Row:Financing activities
+			Row:Net payments related to stock-based award activities
+	(781)
+	(2,069)
+	(2,375)
+Row:Excess tax benefits from stock-based award activities
+	481
+	648
+	548
+Row:Adjustment Payment to Class C capital stockholders
+	0
+	0
+	(47)
+Row:Repurchases of capital stock
+	0
+	0
+	(1,780)
+Row:Proceeds from issuance of debt, net of costs
+	10,768
+	11,625
+	13,705
+Row:Repayments of debt
+	(11,325)
+	(11,643)
+	(13,728)
+Row:Net cash used in financing activities
+	(857)
+	(1,439)
+	(3,677)
+Row:Effect of exchange rate changes on cash and cash equivalents
+		(433)
+	(434)
+Row:Net increase (decrease) in cash and cash equivalents
+	4,120
+	(551)
+	(1,798)
+Row:Cash and cash equivalents at beginning of period
+	14,778
+	18,898
+	18,347
+Row:Cash and cash equivalents at end of period
+	$ 18,898
+	$ 18,347
+	$ 16,549
+Row:Supplemental disclosures of cash flow information
+			Row:Cash paid for taxes
+	$ 1,932
+	tA
+$ 2,819
+	$ 3,338
+Row:Cash paid for interest
+	$ 72
+	A 86
+	$ 96
+Row:As of
+	As of
+Row:December 31,
+	December 31,
+Row:2014
+	2015
+Row:in thousands, and par value per share amounts)
+	2015
+2014
+Row:ASSETS
+	Row:Current assets:
+	Row:Cash and cash equivalents $ 	18,347 $ 16,549
+Row:marketable securities 	46,048 56,517
+Row:Total cash, cash equivalents, and marketable securities (including securities loaned of $4,058 and $4,531) 	64,395 73,066
+Row:Accounts receivable, net of allowance of $225 and $296 	9,383 11,556
+Row:Receivable under reverse repurchase agreements 	875 450
+Row:Income taxes receivable, net 	591 1,903
+Row:Prepaid revenue share, expenses and other assets 	3,412 3,139
+Row:Total current assets 	78,656 90,114
+Row:Prepaid revenue share, expenses and other assets, non-current 	3,187 3,181
+Row:Non-marketable investments Deferred income taxes 	3,079 5,183
+176 251
+Row:Property and equipment, net 	23,883 29,016
+Row:Intangible assets, net 	4,607 3,847
+Row:Goodwill Total assets 	15,599 15,869
+$129,187 $147,461
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+	Row:Current liabilities:
+	Row:Accounts payable $ 	1,715 $ 1,931
+Row:Short-term debt 	2,009 3,225
+Row:Accrued compensation and benefits 	3,069 3,539
+Row:Accrued expenses and other current liabilities 	4,408 4,768
+Row:Accrued revenue share 	1,952 2,329
+Row:Securities lending payable 	2,778 2,428
+Row:Deferred revenue 	752 788
+Row:Income taxes payable, net 	96 302
+Row:Total current liabilities 	16,779 19,310
+Row:Long-term debt 	3,228 1,995
+Row:Deferred revenue, non-current 	104 151
+Row:Income taxes payable, non-current 	3,340 3,663
+Row:Deferred income taxes 	758 189
+Row:Other long-term liabilities 	1,118 1,822
+Row:Commitments and contingencies (Note 11)
+Stockholders’ equity:
+	Row:Convertible preferred stock, $0.001 par value per share, 100,000 shares authorized; no shares issued
+and outstanding 	0 0
+Row:Class A and Class B common stock, and Class C capital stock and additional paid-in capital, $0.001 par
+value per share: 15,000,000 shares authorized (Class A 9,000,000, Class B 3,000,000, Class C 3,000,000);
+680,172 (Class A 286,560, Class B 53,213, Class C 340,399) and par value of $680 (Class A $287, Class B
+	Row:$53, Class C $340) and 687,348 (Class A 292,297, Class B 50,295, Class C 344,756) and par value of
+$687 (Class A $292, Class B $50, Class C $345) shares issued and outstanding Accumulated other comprehensive income (loss) 	28,767 32,982
+27 (1,874)
+Row:(In millions, except per share amounts)
+	2013 	2014 	2015
+Row:Revenues 	$55,519 	$66,001 	$74,989
+Row:Costs and expenses:
+			Row:Cost of revenues 	21,993 	25,691 	28,164
+Row:Research and development 	7,137 	9,832 	12,282
+Row:Sales and marketing 	6,554 	8,131 	9,047
+Row:General and administrative 	4,432 	5,851 	6,136
+Row:Total costs and expenses 	40,116 	49,505 	55,629
+Row:Income from operations 	15,403 	16,496 	19,360
+Row:Other income (expense), net 	496 	763 	291
+Row:Income from continuing operations before income taxes Provision for income taxes 	15,899 2,739 	17,259 3,639 	19,651
+3,303
+Row:Net income from continuing operations 	$13,160 	$13,620 	$16,348
+Row:Net income (loss) from discontinued operations 	(427) 	516 	0
+Row:Net income 	$12,733 	$14,136 	$16,348
+Row:Less: Adjustment Payment to Class C capital stockholders 	0 	0 	522
+Row:Net income available to all stockholders 	$12,733 	$14,136 	$15,826
+Row:Basic net income (loss) per share of Class A and B common stock:
+			Row:Continuing operations Discontinued operations 	$ 19.77 (0.64) 	$ 20.15 0.76 	$ 23.11
+0.00
+Row:Basic net income per share of Class A and B common stock 	$ 19.13 	$ 20.91 	$ 23.11
+Row:Basic net income (loss) per share of Class C capital stock:
+			Row:Continuing operations Discontinued operations 	$ 19.77 (0.64) 	$ 20.15 0.76 	$ 24.63
+0.00
+Row:Basic net income per share of Class C capital stock 	$ 19.13 	$ 20.91 	$ 24.63
+Row:Diluted net income (loss) per share of Class A A and B common stock:
+			Row:Continuing operations Discontinued operations 	$ 19.42 (0.63) 	$ 19.82 0.75 	$ 22.84
+0.00
+Row:Diluted net income per share of Class A and B common stock 	$ 18.79 	$ 20.57 	$ 22.84
+Row:Diluted net income (loss) per share of Class C capital stock:
+			Row:Continuing operations 	$ 19.42 	$ 19.82 	$ 24.34
+Row:Discontinued operations 	(0.63) 	0.75 	0.00
+Row:Diluted net income per share of Class C capital stock 	$ 18.79 	$ 20.57 	$ 24.34
+Row:See accompanying notes.
+			Row:(In millions)	2013	2014	2015Row:Net income	$12,733	$14,136
+	$16,348
+Row:Other comprehensive income (loss):			Row:Change in foreign currency translation adjustment	89
+	(996)
+	(1,067)
+Row:Available-for-sale investments:			Row:Change in net unrealized gains (losses)	(392)	505	(715)Row:Less: reclassification adjustment for net (gains) losses included in net income	(162)	(134)	208Row:Net change (net of tax effect of $212, $60, and $29)	(554)
+	371
+	(507)
+Row:Cash flow hedges:			Row:Change in net unrealized gains	112	651	676Row:Less: reclassification adjustment for net gains included in net income	(60)	(124)	(1,003)Row:Net change (net of tax effect of $30, $196, and $115)	52	527	(327)Row:Other comprehensive loss	(413)	(98)	(1,901)Row:Comprehensive income
+	$12,320
+	$14,038
+	$14,447
+Row:(In millions)	Year Ended December 31,20132014
+2015
+Row:Operating activities	Row:$ Net incomeAdjustments:	12,733
+$ 14,136
+$ 16,348
+Row:Depreciation and impairment of property and equipment	2,7813,5234,132Row:Amortization and impairment of intangible assets	1,1581,456931Row:Stock-based compensation expense	3,3434,2795,203Row:Excess tax benefits from stock-based award activities	(481)(648)(548)Row:Deferred income taxes	(437)(104)(179)Row:Gain on divestiture of business	(700)(740)0Row:(Gain) loss on marketable and non-marketable investments, netOther	(166)272
+(390)192
+334212
+Row:Changes in assets and liabilities, net of effects of acquisitions:	Row:(Accounts receivable	1,307)(1,641)(2,094)Row:Income taxes, net	588591(179)Row:Prepaid revenue share, expenses and other assets	(930)459(318)Row:Accounts payable	605436203Row:Accrued expenses and other liabilities	7137571,597Row:Accrued revenue share	254245339Row:Deferred revenue	233(175)43Row:Net cash provided by operating activities	18,659
+22,376
+26,024
+Row:Investing activities	Row:Purchases of property and equipment(	7,358)(10,959)(9,915)Row:Purchases of marketable securities(	45,444)(56,310)(74,368)Row:Maturities and sales of marketable securities	38,31451,31562,905Row:Purchases of non-marketable investments	(569)(1,227)(2,172)Row:Cash collateral related to securities lending	(299)1,403(350)Row:Investments in reverse repurchase agreements	600(775)425Row:Proceeds from divestiture of business	2,5253860Row:Acquisitions, net of cash acquired, and purchases of intangibles and other assets(	1,448)(4,888)(236)Row:Net cash used in investing activities(	13,679)
+(21,055)
+(23,711)
+Row:Financing activities	Row:Net payments related to stock-based award activities	(781)(2,069)(2,375)Row:Excess tax benefits from stock-based award activities	481
+648548Row:Adjustment Payment to Class C capital stockholders	0
+0(47)Row:Repurchases of capital stock	0
+0(1,780)Row:Proceeds from issuance of debt, net of costsRepayments of debt(	10,76811,325)11,625(11,643)13,705(13,728)Row:Net cash used in financing activities	(857)(1,439)(3,677)Row:Effect of exchange rate changes on cash and cash equivalents	(3)(433)(434)Row:Net increase (decrease) in cash and cash equivalents	4,120(551)(1,798)Row:Cash and cash equivalents at beginning of periodCash and cash equivalents at end of period$ 	14,77818,898
+18,898$ 18,347
+18,347$ 16,549
+Row:Supplemental disclosures of cash flow information	Row:Cash paid for taxes$ 	1,932$ 2,819$ 3,338Row:Cash paid for interest
+$ 	72
+$ 86
+$ 96
+Row:See accompanying notes.
+	Row:As of
+	As of
+Row:December 31,
+	December 31,
+Row:2014
+	2015
+Row:in thousands, and par value per share amounts)
+	2015
+2014
+Row:ASSETS
+	Row:Current assets:
+	Row:Cash and cash equivalents $ 	18,347 $ 16,549
+Row:marketable securities 	46,048 56,517
+Row:Total cash, cash equivalents, and marketable securities (including securities loaned of $4,058 and $4,531) 	64,395 73,066
+Row:Accounts receivable, net of allowance of $225 and $296 	9,383 11,556
+Row:Receivable under reverse repurchase agreements 	875 450
+Row:Income taxes receivable, net 	591 1,903
+Row:Prepaid revenue share, expenses and other assets 	3,412 3,139
+Row:Total current assets 	78,656 90,114
+Row:Prepaid revenue share, expenses and other assets, non-current 	3,187 3,181
+Row:Non-marketable investments Deferred income taxes 	3,079 5,183
+176 251
+Row:Property and equipment, net 	23,883 29,016
+Row:Intangible assets, net 	4,607 3,847
+Row:Goodwill Total assets 	15,599 15,869
+$129,187 $147,461
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+	Row:Current liabilities:
+	Row:Accounts payable $ 	1,715 $ 1,931
+Row:Short-term debt 	2,009 3,225
+Row:Accrued compensation and benefits 	3,069 3,539
+Row:Accrued expenses and other current liabilities 	4,408 4,768
+Row:Accrued revenue share 	1,952 2,329
+Row:Securities lending payable 	2,778 2,428
+Row:Deferred revenue 	752 788
+Row:Income taxes payable, net 	96 302
+Row:Total current liabilities 	16,779 19,310
+Row:Long-term debt 	3,228 1,995
+Row:Deferred revenue, non-current 	104 151
+Row:Income taxes payable, non-current 	3,340 3,663
+Row:Deferred income taxes 	758 189
+Row:Other long-term liabilities 	1,118 1,822
+Row:Commitments and contingencies (Note 11)
+Stockholders’ equity:
+	Row:Convertible preferred stock, $0.001 par value per share, 100,000 shares authorized; no shares issued
+and outstanding 	0 0
+Row:Class A and Class B common stock, and Class C capital stock and additional paid-in capital, $0.001 par
+value per share: 15,000,000 shares authorized (Class A 9,000,000, Class B 3,000,000, Class C 3,000,000);
+680,172 (Class A 286,560, Class B 53,213, Class C 340,399) and par value of $680 (Class A $287, Class B
+	Row:$53, Class C $340) and 687,348 (Class A 292,297, Class B 50,295, Class C 344,756) and par value of
+$687 (Class A $292, Class B $50, Class C $345) shares issued and outstanding Accumulated other comprehensive income (loss) 	28,767 32,982
+27 (1,874)
+Row:(In millions, except per share amounts)
+	2013 	2014 	2015
+Row:Revenues 	$55,519 	$66,001 	$74,989
+Row:Costs and expenses:
+			Row:Cost of revenues 	21,993 	25,691 	28,164
+Row:Research and development 	7,137 	9,832 	12,282
+Row:Sales and marketing 	6,554 	8,131 	9,047
+Row:General and administrative 	4,432 	5,851 	6,136
+Row:Total costs and expenses 	40,116 	49,505 	55,629
+Row:Income from operations 	15,403 	16,496 	19,360
+Row:Other income (expense), net 	496 	763 	291
+Row:Income from continuing operations before income taxes Provision for income taxes 	15,899 2,739 	17,259 3,639 	19,651
+3,303
+Row:Net income from continuing operations 	$13,160 	$13,620 	$16,348
+Row:Net income (loss) from discontinued operations 	(427) 	516 	0
+Row:Net income 	$12,733 	$14,136 	$16,348
+Row:Less: Adjustment Payment to Class C capital stockholders 	0 	0 	522
+Row:Net income available to all stockholders 	$12,733 	$14,136 	$15,826
+Row:Basic net income (loss) per share of Class A and B common stock:
+			Row:Continuing operations Discontinued operations 	$ 19.77 (0.64) 	$ 20.15 0.76 	$ 23.11
+0.00
+Row:Basic net income per share of Class A and B common stock 	$ 19.13 	$ 20.91 	$ 23.11
+Row:Basic net income (loss) per share of Class C capital stock:
+			Row:Continuing operations Discontinued operations 	$ 19.77 (0.64) 	$ 20.15 0.76 	$ 24.63
+0.00
+Row:Basic net income per share of Class C capital stock 	$ 19.13 	$ 20.91 	$ 24.63
+Row:Diluted net income (loss) per share of Class A A and B common stock:
+			Row:Continuing operations Discontinued operations 	$ 19.42 (0.63) 	$ 19.82 0.75 	$ 22.84
+0.00
+Row:Diluted net income per share of Class A and B common stock 	$ 18.79 	$ 20.57 	$ 22.84
+Row:Diluted net income (loss) per share of Class C capital stock:
+			Row:Continuing operations 	$ 19.42 	$ 19.82 	$ 24.34
+Row:Discontinued operations 	(0.63) 	0.75 	0.00
+Row:Diluted net income per share of Class C capital stock 	$ 18.79 	$ 20.57 	$ 24.34
+Row:See accompanying notes.
+			Row:(In millions)	2013	2014	2015Row:Net income	$12,733	$14,136
+	$16,348
+Row:Other comprehensive income (loss):			Row:Change in foreign currency translation adjustment	89
+	(996)
+	(1,067)
+Row:Available-for-sale investments:			Row:Change in net unrealized gains (losses)	(392)	505	(715)Row:Less: reclassification adjustment for net (gains) losses included in net income	(162)	(134)	208Row:Net change (net of tax effect of $212, $60, and $29)	(554)
+	371
+	(507)
+Row:Cash flow hedges:			Row:Change in net unrealized gains	112	651	676Row:Less: reclassification adjustment for net gains included in net income	(60)	(124)	(1,003)Row:Net change (net of tax effect of $30, $196, and $115)	52	527	(327)Row:Other comprehensive loss	(413)	(98)	(1,901)Row:Comprehensive income
+	$12,320
+	$14,038
+	$14,447
+Row:(In millions)	Year Ended December 31,20132014
+2015
+Row:Operating activities	Row:$ Net incomeAdjustments:	12,733
+$ 14,136
+$ 16,348
+Row:Depreciation and impairment of property and equipment	2,7813,5234,132Row:Amortization and impairment of intangible assets	1,1581,456931Row:Stock-based compensation expense	3,3434,2795,203Row:Excess tax benefits from stock-based award activities	(481)(648)(548)Row:Deferred income taxes	(437)(104)(179)Row:Gain on divestiture of business	(700)(740)0Row:(Gain) loss on marketable and non-marketable investments, netOther	(166)272
+(390)192
+334212
+Row:Changes in assets and liabilities, net of effects of acquisitions:	Row:(Accounts receivable	1,307)(1,641)(2,094)Row:Income taxes, net	588591(179)Row:Prepaid revenue share, expenses and other assets	(930)459(318)Row:Accounts payable	605436203Row:Accrued expenses and other liabilities	7137571,597Row:Accrued revenue share	254245339Row:Deferred revenue	233(175)43Row:Net cash provided by operating activities	18,659
+22,376
+26,024
+Row:Investing activities	Row:Purchases of property and equipment(	7,358)(10,959)(9,915)Row:Purchases of marketable securities(	45,444)(56,310)(74,368)Row:Maturities and sales of marketable securities	38,31451,31562,905Row:Purchases of non-marketable investments	(569)(1,227)(2,172)Row:Cash collateral related to securities lending	(299)1,403(350)Row:Investments in reverse repurchase agreements	600(775)425Row:Proceeds from divestiture of business	2,5253860Row:Acquisitions, net of cash acquired, and purchases of intangibles and other assets(	1,448)(4,888)(236)Row:Net cash used in investing activities(	13,679)
+(21,055)
+(23,711)
+Row:Financing activities	Row:Net payments related to stock-based award activities	(781)(2,069)(2,375)Row:Excess tax benefits from stock-based award activities	481
+648548Row:Adjustment Payment to Class C capital stockholders	0
+0(47)Row:Repurchases of capital stock	0
+0(1,780)Row:Proceeds from issuance of debt, net of costsRepayments of debt(	10,76811,325)11,625(11,643)13,705(13,728)Row:Net cash used in financing activities	(857)(1,439)(3,677)Row:Effect of exchange rate changes on cash and cash equivalents	(3)(433)(434)Row:Net increase (decrease) in cash and cash equivalents	4,120(551)(1,798)Row:Cash and cash equivalents at beginning of periodCash and cash equivalents at end of period$ 	14,77818,898
+18,898$ 18,347
+18,347$ 16,549
+Row:Supplemental disclosures of cash flow information	Row:Cash paid for taxes$ 	1,932$ 2,819$ 3,338Row:Cash paid for interest
+$ 	72
+$ 86
+$ 96
+Row:See accompanying notes.
+	

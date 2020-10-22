@@ -1,0 +1,77 @@
+Row:Assets
+Current assets
+		Row:Cash and cash equivalents 	$ 280.3 	$ 184.5
+Row:Accounts receivable—trade, less allowance for doubtful accounts of
+$1.2 in 2019 and $1.1 in 2018 Inventories, at lower of cost or market Prepaid expenses and other current assets 	172.9 227.6 30.0 	138.8
+221.5
+25.3
+Row:Total current assets 	710.8 	570.1
+Row:Property, plant and equipment, at cost less accumulated depreciation
+		Row:and amortization of $1,079.2 in 2019 and $974.2 in 2018 	1,807.3 	1,748.2
+Row:Other assets Total assets 	169.1 $ 2,687.2 	42.5
+$ 2,360.8
+Row:Liabilities and Stockholders' Equity
+		Row:Current liabilities
+		Row:Current maturities of long-term debt 	$ 38.8 	$ 21.2
+Row:Trade accounts payable and accrued liabilities 	466.2 	456.9
+Row:Total current liabilities 	505.0 	478.1
+Row:Long-term debt, including capitalized lease obligations 	999.3 	842.1
+Row:Deferred income taxes Asset retirement obligations 	216.7 32.8 	192.2
+30.7
+Row:Deferred credits and other liabilities 	130.4 	10.4
+Row:Total liabilities 	1,884.2 	1,553.5
+Row:Stockholders' Equity
+Preferred Stock, par $0.01, (authorized 20,000,000 shares,
+none outstanding) 	— 	—
+Row:Common Stock, par $0.01, (authorized 200,000,000 shares,
+		Row:46,767,164 shares issued at December 31, 2019 and 2018, respectively) 	0.5 	0.5
+Row:Treasury stock (16,307,048 and 14,505,681 shares held at
+		Row:December 31, 2019 and 2018, respectively) 	(1,099.8) 	(940.3)
+Row:Additional paid in capital (APIC) 	538.7 	539.0
+Row:Retained earnings Accumulated other comprehensive income (AOCI) 	1,362.9 0.7 	1,208.1
+—
+Row:Total stockholders' equity 	803.0 	807.3
+Row:Total liabilities and stockholders' equity 	$ 2,687.2 	$ 2,360.8
+Row:(Millions of dollars except per share amounts) 	2019 	Years Ended December 31,
+2018 	2017
+Row:Operating Revenues
+Petroleum product sales 1 	$ 11,373.8 	$ 11,858.4 	$ 10,287.9
+Row:Merchandise sales 	2,620.1 	2,423.0 	2,372.7
+Row:Other operating revenues 	40.7 	81.5 	166.0
+Row:Total operating revenues 	14,034.6 	14,362.9 	12,826.6
+Row:Operating Expenses
+Petroleum product cost of goods sold 1 Merchandise cost of goods sold 	10,707.4 2,200.7 	11,251.1 2,022.5 	9,773.2
+1,991.4
+Row:Station and other operating expenses 	559.3 	541.3 	514.9
+Row:Depreciation and amortization 	152.2 	134.0 	116.9
+Row:Selling, general and administrative 	144.6 	136.2 	141.2
+Row:Accretion of asset retirement obligations 	2.1 	2.0 	1.8
+Row:Total operating expenses 	13,766.3 	14,087.1 	12,539.4
+Row:Net settlement proceeds 	0.1 	50.4 	—
+Row:Gain (loss) on sale of assets 	0.1 	(1.1) 	(3.9)
+Row:Income from operations 	268.5 	325.1 	283.3
+Row:Other income (expense)
+			Row:Interest income Interest expense 	3.2 (54.9) 	1.5 (52.9) 	1.3
+(46.7)
+Row:Loss on early debt extinguishment 	(14.8) 	— 	—
+Row:Other nonoperating income (expense) 	0.4 	0.2 	2.2
+Row:Total other income (expense) 	(66.1) 	(51.2) 	(43.2)
+Row:Income before income taxes 	202.4 	273.9 	240.1
+Row:Income tax expense (benefit) 	47.6 	60.3 	(5.2)
+Row:Net Income 	$ 154.8 	$ 213.6 	$ 245.3
+Row:Basic and Diluted Earnings Per Common Share:
+Basic Diluted 	$ 4.90 $ 4.86 	$ 6.54 $ 6.48 	$ 6.85
+$ 6.78
+Row:Weighted-average shares outstanding (in thousands):
+			Row:Basic 	31,594 	32,674 	35,816
+Row:Diluted 	31,858 	32,983 	36,156
+Row:Supplemental information:
+1 Includes excise taxes of: 	$ 1,933.3 	$ 1,838.9 	$ 1,973.1
+Row:See accompanying notes to consolidated financial statements.
+			Row:equivalents at beginning of period at beginning of period 	$ 184.5 — 	$ 170.0 — 	$ 153.8
+—
+Row:equivalents, and restricted cash at beginning of
+	$ 184.5 	$ 170.0 	$ 153.8
+Row:equivalents at end of period at end of period 	$ 280.3 — 	$ 184.5 — 	$ 170.0
+—
+Row:equivalents, and restricted cash at end of period 	$ 280.3 	$ 184.5 	$ 170.0

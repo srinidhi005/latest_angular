@@ -1,0 +1,115 @@
+Row:for the years ended December 31, 	2019 	2018 	2017
+Row:Revenues including excise taxes 	$ 77,921 	$ 79,823 	$ 78,098
+Row:Excise taxes on products 	48,116 	50,198 	49,350
+Row:Net revenues 	29,805 	29,625 	28,748
+Row:Cost of sales 	10,513 	10,758 	10,432
+Row:Gross profit
+	19,292 	18,867 	18,316
+Row:Marketing, administration and research costs (Notes 18, 21 & 22) 	8,695 	7,408 	6,647
+Row:Amortization of intangibles
+	66 	82 	88
+Row:Operating income
+	10,531 	11,377 	11,581
+Row:Interest expense, net (Note 14)
+	570 	665 	914
+Row:Pension and other employee benefit costs (Note 13)
+	89 	41 	78
+Row:Earnings before income taxes
+	9,872 	10,671 	10,589
+Row:Provision for income taxes (Note 11)
+	2,293 	2,445 	4,307
+Row:Equity investments and securities (income)/loss, net 	(149) 	(60) 	(59)
+Row:Net earnings
+	7,728 	8,286 	6,341
+Row:Net earnings attributable to noncontrolling interests
+	543 	375 	306
+Row:Net earnings attributable to PMI
+	$ 7,185 	$ 7,911 	$ 6,035
+Row:Per share data (Note 10):
+			Row:Basic earnings per share
+	$ 4.61 	$ 5.08 	$ 3.88
+Row:Diluted earnings per share
+	$ 4.61 	$ 5.08 	$ 3.88
+Row:at December 31, 	2019 	2018
+Row:Assets
+		Row:Cash and cash equivalents
+$ 	6,861 	$ 6,593
+Row:Trade receivables (less allowances of $20 in 2019 and $25 in 2018) 	3,080 	2,950
+Row:Other receivables 	637 	614
+Row:Inventories:
+		Row:Leaf tobacco
+	2,052 	2,318
+Row:Other raw materials
+	1,596 	1,405
+Row:Finished product
+	5,587 	5,081
+Row:	9,235 	8,804
+Row:Other current assets
+	701 	481
+Row:Total current assets
+	20,514 	19,442
+Row:Property, plant and equipment, at cost:
+		Row:Land and land improvements
+	566 	600
+Row:Buildings and building equipment
+	4,132 	3,975
+Row:Machinery and equipment
+	9,354 	9,096
+Row:Construction in progress
+	394 	886
+Row:	14,446 	14,557
+Row:Less: accumulated depreciation
+	7,815 	7,356
+Row:	6,631 	7,201
+Row:Goodwill (Note 3) 	5,858 	7,189
+Row:Other intangible assets, net (Note 3) 	2,113 	2,278
+Row:Investments in unconsolidated subsidiaries and equity securities (Notes 4 & 16) 	4,635 	1,269
+Row:Deferred income taxes 	1,153 	977
+Row:Other assets 	1,971 	1,445
+Row:Total Assets
+$ 	42,875 	$ 39,801
+Row:for the years ended December 31, 	2019 	2018 	2017
+Row:CASH PROVIDED BY (USED IN) OPERATING ACTIVITIES
+			Row:Net earnings $ 	7,728 	$ 8,286 	$ 6,341
+Row:Adjustments to reconcile net earnings to operating cash flows:
+			Row:Depreciation and amortization
+	964 	989 	875
+Row:Deferred income tax (benefit) provision 	(141) 	(100) 	(501)
+Row:Asset impairment and exit costs, net of cash paid (Note 21) 	371 	(3) 	(10)
+Row:Cash effects of changes in:
+			Row:Receivables, net
+	(331) 	53 	(92)
+Row:Inventories
+	(548) 	(613) 	730
+Row:Accounts payable
+	451 	(51) 	425
+Row:Accrued liabilities and other current assets
+	1,108 	910 	(554)
+Row:Income taxes
+	75 	(135) 	1,370
+Row:Pension plan contributions
+	(200) 	(110) 	(66)
+Row:Other
+	613
+(1)
+	252 	394
+Row:Net cash provided by operating activities
+	10,090 	9,478 	8,912
+Row:CASH PROVIDED BY (USED IN) INVESTING ACTIVITIES
+			Row:Capital expenditures 	(852) 	(1,436) 	(1,548)
+Row:Investments in unconsolidated subsidiaries and equity securities 	(31) 	(63) 	(111)
+Row:Deconsolidation of RBH (Note 22) 	(1,346)
+(2)
+	— 	—
+Row:Net investment hedges 	386 	416 	(1,527)
+Row:Other 	32 	85 	103
+Row:CASH PROVIDED BY (USED IN) INVESTING ACTIVITIES
+		Row:Capital expenditures 	(852) (1,436) 	(1,548)
+Row:Investments in unconsolidated subsidiaries and equity securities 	(31) (63) 	(111)
+Row:Deconsolidation of RBH (Note 22) 	(1,346)
+(2)
+— 	—
+Row:Net investment hedges 	386 416 	(1,527)
+Row:Other 	32 85 	103
+Row:Net cash used in investing activities
+	(1,811) (998) 	(3,083)

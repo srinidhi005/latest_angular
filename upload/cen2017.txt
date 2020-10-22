@@ -1,0 +1,160 @@
+Row:ASSETSCurrent assets:Cash and cash equivalentsPremium and trade receivables
+	2017
+4,0723,413	2016
+3,9303,215Row:Short-term investments	531	505Row:Other current assets
+	687
+	715Row:Total current assets	8,703	8,365Row:Long-term investments	5,312
+	4,545Row:Restricted deposits	135
+	138Row:Property, software and equipment, net	1,104
+	797Row:Goodwill		4,712Row:Intangible assets, net	1,398	1,545Row:Other long-term assets	454	95Row:Total assets$	21,855
+	20,197
+$
+Row:LIABILITIES, REDEEMABLE NONCONTROLLING INTERESTS AND STOCKHOLDERS' EQUITY		Row:Current liabilities:		Row:Medical claims liability$	4,286	$
+3,929Row:Accounts payable and accrued expenses	4,165	3,763Row:Return of premium payable	549
+	614
+Row:Unearned revenue	328
+	313
+Row:Current portion of long-term debt	4
+	4
+Row:Total current liabilities	9,332	8,623Row:Long-term debt	4,695	4,651
+Row:Other long-term liabilities	952
+	869
+Row:Total liabilities	14,979
+	14,143
+Row:Commitments and contingencies		Row:Redeemable noncontrolling interests	12
+	145
+Row:Stockholders' equity:		Row:Preferred stock, $.001 par value; authorized 10,000 shares; no shares issued or outstanding at December 31, 2017 and December 31, 2016		Row:Common stock, $.001 par value; authorized 400,000 shares; 180,379 issued and 173,437 outstanding at December 31, 2017, and 178,134 issued and 171,919outstanding at December 31, 2016		Row:Additional paid-in capital	4,349
+	4,190Row:Accumulated other comprehensive loss	(3)
+	(36)Row:Retained earnings	2,748	1,920Row:Treasury stock, at cost (6,942 and 6,215 shares, respectively)	(244)
+	(179)Row:Total Centene stockholders' equityNoncontrolling interest	6,850
+14
+	5,895
+14
+Row:Total stockholders' equity	6,864	5,909Row:$Total liabilities, redeemable noncontrolling interests and stockholders' equity	21,855
+	20,197
+$
+Row:The accompanying notes to the consolidated financial statements are an integral part of these statements.
+		Row:	2017 	2016 	2015
+Row:Revenues:
+Premium $ 	43,353 	$ 35,399 	$ 19,389
+Row:Service 	2,267 	2,180 	1,876
+Row:Premium and service revenues 	45,620 	37,579 	21,265
+Row:Premium tax and health insurer fee 	2,762 	3,028 	1,495
+Row:Total revenues 	48,382 	40,607 	22,760
+Row:Expenses:
+			Row:Medical costs 	37,851 	30,636 	17,242
+Row:Cost of services 	1,847 	1,864 	1,621
+Row:Selling, general and administrative expenses 	4,446 	3,676 	1,802
+Row:Amortization of acquired intangible assets 	156 	147 	24
+Row:Premium tax expense 	2,883 	2,563 	1,151
+Row:Health insurer fee expense 	— 	461 	215
+Row:Total operating expenses 	47,183 	39,347 	22,055
+Row:Earnings from operations 	1,199 	1,260 	705
+Row:Other income (expense):
+			Row:Investment and other income 	190 	114 	35
+Row:Interest expense 	(255) 	(217) 	(43)
+Row:Earnings from continuing operations, before income tax expense 	1,134 	1,157 	697
+Row:Income tax expense Earnings from continuing operations, net of income tax expense Discontinued operations, net of income tax expense (benefit) Net earnings 	326 808 — 808 	599 558 3 561 	339
+358
+(1)
+357
+Row:(Earnings) loss attributable to noncontrolling interests Net earnings attributable to Centene Corporation $ 	20 828 	1 $ 562 	(2)
+$ 355
+Row:Amounts attributable to Centene Corporation common shareholders:
+Earnings from continuing operations, net of income tax expense $ 	828 	$ 559 	$ 356
+Row:Discontinued operations, net of income tax expense (benefit) 	— 	3 	(1)
+Row:Net earnings $ 	828 	$ 562 	$ 355
+Row:Net earnings (loss) per common share attributable to Centene Corporation:
+			Row:Basic:
+Continuing operations $ 	4.80 	$ 3.50 	$ 2.99
+Row:Discontinued operations 	— 	0.02 	(0.01)
+Row:Basic earnings per common share $ 	4.80 	$ 3.52 	$ 2.98
+Row:Diluted:
+			Row:Continuing operations $ 	4.69 	$ 3.41 	$ 2.89
+Row:Discontinued operations 	— 	0.02 	(0.01)
+Row:Basic:
+		Row:Continuing operations 	$ 4.80 $ 3.50 	$ 2.99
+Row:Discontinued operations 	— 0.02 	(0.01)
+Row:Basic earnings per common share 	$ 4.80 $ 3.52 	$ 2.98
+Row:Diluted:
+		Row:Continuing operations 	$ 4.69 $ 3.41 	$ 2.89
+Row:Discontinued operations 	— 0.02 	(0.01)
+Row:Diluted earnings per common share 	$ 4.69 $ 3.43 	$ 2.88
+Row:$
+Cash flows from operating activities:Net earnings	808
+$
+561
+	$
+357
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities		Row:Depreciation and amortization	361
+278
+	111
+Row:Stock compensation expense	135
+148
+	71
+Row:Debt extinguishment costs	(7)
+	Row:Deferred income taxes	92
+(108)	(17)Row:Gain on contingent consideration	(1)
+(5)
+	(44)Row:Goodwill and intangible adjustment		38
+Row:Changes in assets and liabilities		Row:Premium and trade receivablesOther assets	74
+(50)(146)
+167
+	(360)(102)Row:Medical claims liabilities	359
+145
+	536
+Row:Unearned revenue	19
+43
+	(27)Row:Accounts payable and accrued expenses	53
+402
+	39
+Row:Other long-term liabilities	68
+(61)	51
+Row:Other operating activities, net	14
+(9)
+	5
+Row:Net cash provided by operating activities	1,489
+1,851
+	658
+Row:Cash flows from investing activities:		Row:Capital expenditures	(306)
+(422)	(150)
+Row:Purchases of investments	(2,704)(2,450)	(1,321)
+Row:Sales and maturities of investments	1,8991,656	669Row:Investments in acquisitions, net of cash acquired	(50)(1,297)
+	(18)
+Row:Other investing activities, net	12
+	7
+Row:Net cash used in investing activities	(1,265)
+(2,397)
+	(813)
+Row:Cash flows from financing activities:		Row:Proceeds from borrowings	1,4008,946	1,925Row:Payment of long-term debt	(1,353)(6,076)	(1,583)Row:Common stock repurchases	(65)(63)	(53)
+Row:Purchase of noncontrolling interest	(66)(14)	Row:Debt issuance costs	(3)(76)
+	(4)Row:Other financing activities, net	5
+	20Row:Net cash (used in) provided by financing activities	(82)
+2,717
+	305
+Row:Effect of exchange rate changes on cash and cash equivalents	(1)	Row:Net increase in cash and cash equivalents	142
+2,170	150
+Row:Cash and cash equivalents, beginning of period	1,7603,930
+	1,610Row:Cash and cash equivalents, end of period$
+	3,930
+4,072
+$
+	1,760
+$
+Row:Supplemental disclosures of cash flow information:		Row:Interest paid$
+	237
+$
+165
+	$
+55
+Row:Income taxes paid$
+	496
+$
+556	$
+328
+Row:Equity issued in connection with acquisitions
+$
+	3,105
+$
+	$
+12

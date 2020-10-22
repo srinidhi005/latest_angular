@@ -1,0 +1,87 @@
+Row:	2017 	2016 	2015
+Row:Net sales 	$ 21,253 	$ 20,718 	$ 20,891
+Row:Expenses
+			Row:Cost of products sold 	17,651 	17,026 	17,231
+Row:Gross margin 	3,602 	3,692 	3,660
+Row:Selling, general and administrative 	2,112 	2,080 	2,143
+Row:Intangible amortization 	79 	71 	74
+Row:Restructuring costs 	275 	173 	201
+Row:Operating profit 	1,136 	1,368 	1,242
+Row:Other (income) expense
+			Row:Interest and sundry (income) expense 	87 	93 	46
+Row:Interest expense 	162 	161 	165
+Row:Earnings before income taxes 	887 	1,114 	1,031
+Row:Income tax expense 	550 	186 	209
+Row:Net earnings 	337 	928 	822
+Row:Less: Net earnings (loss) available to noncontrolling interests 	(13) 	40 	39
+Row:Net earnings available to Whirlpool 	$ 350 	$ 888 	$ 783
+Row:Per share of common stock
+			Row:Basic net earnings available to Whirlpool 	$ 4.78 	$ 11.67 	$ 9.95
+Row:Diluted net earnings available to Whirlpool 	$ 4.70 	$ 11.50 	$ 9.83
+Row:Weighted-average shares outstanding (in millions)
+			Row:Basic 	73.3 	76.1 	78.7
+Row:Diluted 	74.4 	77.2 	79.7
+Row:AssetsCurrent assets		Row:$
+Cash and cash equivalents	1,196	$
+1,085Row:Accounts receivable, net of allowance of $157 and $185, respectively	2,665	2,711Row:Inventories	2,988	2,623Row:Prepaid and other current assets	1,081	920Row:Total current assets	7,930	7,339Row:Property, net of accumulated depreciation of $6,825 and $6,055, respectively	4,033	3,810Row:Goodwill	3,118	2,956Row:Other intangibles, net of accumulated amortization of $476 and $387, respectively	2,591	2,552Row:Deferred income taxes	2,013	2,154Row:Other noncurrent assets	353	342Row:$
+Total assets	20,038
+	19,153
+$
+Row:Liabilities and stockholders' equity		Row:Current liabilities		Row:$
+Accounts payable	4,797	$
+4,416Row:Accrued expenses	674	649Row:Accrued advertising and promotions	853	742Row:Employee compensation	414	390Row:Notes payable	450
+	34Row:Current maturities of long-term debt	376	560Row:Other current liabilities	941	871
+Row:Total current liabilities	8,505
+	7,662
+Row:Noncurrent liabilities		Row:Long-term debt	4,392	3,876Row:Pension benefits	1,029	1,074Row:Postretirement benefits	352	334Row:Other noncurrent liabilities	632	479Row:Total noncurrent liabilities	6,405
+	5,763
+Row:Stockholders' equityCommon stock, $1 par value, 250 million shares authorized, 112 million and 111 million shares issued, and		Row:Common stock, $1 par value, 250 million shares authorized, 112 million and 111 million shares issued, and71 million and 74 million shares outstanding, respectively	112	111Row:Additional paid-in capital	2,739	2,672Row:Retained earnings	7,352	7,314Row:Accumulated other comprehensive loss(	2,331)	(2,400)Row:Treasury stock, 41 million and 37 million shares, respectively(	3,674)	(2,924)Row:Total Whirlpool stockholders' equity	4,198	4,773Row:Noncontrolling interests	930	955
+Row:Total stockholders' equity	5,128	5,728Row:Total liabilities and stockholders' equity
+$
+	20,038
+	19,153
+$
+Row:2017 	2016 	2015
+Row:Operating activities
+		Row:Net earnings $ 	337 $ 928 	$ 822
+Row:Adjustments to reconcile net earnings to cash provided by (used in) operating activities:
+		Row:Depreciation and amortization 	654 655 	668
+Row:Curtailment gain 	— — 	(63)
+Row:Changes in assets and liabilities:
+		Row:Accounts receivable 	160 (291) 	(89)
+Row:Inventories 	(229) (18) 	(141)
+Row:Accounts payable 	180 37 	14
+Row:Accrued advertising and promotions 	76 46 	74
+Row:Accrued expenses and current liabilities 	(230) 46 	(43)
+Row:Taxes deferred and payable, net 	239 (116) 	(42)
+Row:Accrued pension and postretirement benefits 	(58) (43) 	(129)
+Row:Employee compensation Other 	36 (38) 99 (3) 	8
+146
+Row:Cash provided by operating activities 1,264 	1,203 	1,225
+Row:Investing activities
+		Row:Capital expenditures 	(684) (660) 	(689)
+Row:Proceeds from sale of assets and business 	61 63 	37
+Row:Change in restricted cash 	66 24 	47
+Row:Purchase of held to maturity securities 	(173) — 	—
+Row:Proceeds from held to maturity securities Investment in related businesses Other Cash used in investing activities 	113 — (35) (12) (3) (3) (655) (588) 	—
+(70)
+(6)
+(681)
+Row:Financing activities
+		Row:Proceeds from borrowings of long-term debt 	691 1,012 	531
+Row:Repayments of long-term debt Net proceeds from short-term borrowings 	(564) (522) 367 55 	(283)
+(465)
+Row:Dividends paid 	(312) (294) 	(269)
+Row:Repurchase of common stock 	(750) (525) 	(250)
+Row:Purchase of noncontrolling interest shares 	(5) (25) 	—
+Row:Common stock issued 	34 26 	38
+Row:Other 	(14) (5) 	(9)
+Row:Cash used in financing activities 	(553) (278) 	(707)
+Row:Effect of exchange rate changes on cash and cash equivalents Increase (decrease) in cash and cash equivalents 	55 (24) 111 313 	(91)
+(254)
+Row:Cash and cash equivalents at beginning of year 1,085 	772 	1,026
+Row:Cash and cash equivalents at end of year $ 1,196 	$ 1,085 	$ 772
+Row:Supplemental disclosure of cash flow information
+		Row:Cash paid for interest $ 	181 $ 198 	$ 178
+Row:Cash paid for income taxes $ The accompanying notes are an integral part of these Consolidated Financial Statements.
+	311 $ 300 	$ 251

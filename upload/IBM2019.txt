@@ -1,0 +1,150 @@
+Row:($ in millions except per share amounts)
+For the year ended December 31: 	Notes 2019 	2018 2017
+Row:Revenue
+Services 	$47,493 	$49,257 * $48,652 *
+Row:Sales 	28,252 	28,735* 28,772*
+Row:Financing 	1,402 	1,599 1,715
+Row:Total revenue 	C 77,147 	79,591 79,139
+Row:Cost
+Services 	32,491 	33,687* 33,399*
+Row:Sales 	7,263 	7,835* 7,587*
+Row:Financing 	904 	1,132 1,210
+Row:Total cost 	40,659 	42,655 42,196
+Row:Gross profit 	36,488 	36,936 36,943
+Row:Expense and other (income)
+Selling, general and administrative 	20,604 	19,366 19,680
+Row:Research, development and engineering 	F 5,989 	5,379 5,590
+Row:Intellectual property and custom development income 	(648) 	(1,026) (1,466)
+Row:Other (income) and expense 	(968) 	1,152 1,125
+Row:Interest expense 	P&T 1,344 	723 615
+Row:Total expense and other (income) 	26,322 	25,594 25,543
+Row:Income from continuing operations before income taxes 	10,166 	11,342 11,400
+Row:Provision for income taxes 	G 731 	2,619 5,642
+Row:Income from continuing operations 	9,435 	8,723 5,758
+Row:Income/(loss) from discontinued operations, net of tax Net income 	(4) $ 9,431 	5 (5)
+$ 8,728 $ 5,753
+Row:Earnings/(loss) per share of common stock
+Assuming dilution
+		Row:Continuing operations Discontinued operations 	H $ 10.57 H (0.01) 	$ 9.51 $ 6.14
+0.01 0.00
+Row:Total 	H $ 10.56 	$ 9.52 $ 6.14
+Row:Basic
+Continuing operations 	H $ 10.63 	$ 9.56 $ 6.17
+Row:Discontinued operations 	H 0.00 	0.01 0.00
+Row:Total 	H $ 10.63 	$ 9.57 $ 6.17
+Row:Weighted-average number of common shares outstanding
+Assuming dilution 	892,813,376 	916,315,714 937,385,625
+Row:Basic 	887,235,105 	912,048,072 932,828,295
+Row:Continuing operations 	H $ 10.57 	$ 9.51 	$ 6.14
+Row:Discontinued operations 	H (0.01) 	0.01 	0.00
+Row:Total 	H $ 10.56 	$ 9.52 	$ 6.14
+Row:Basic
+			Row:Continuing operations 	H $ 10.63 	$ 9.56 	$ 6.17
+Row:Discontinued operations 	H 0.00 	0.01 	0.00
+Row:Total 	H $ 10.63 	$ 9.57 	$ 6.17
+Row:Weighted-average number of common shares outstanding
+			Row:Assuming dilution 	892,813,376 	916,315,714 	937,385,625
+Row:Basic 	887,235,105 	912,048,072 	932,828,295
+Row:($ in millions except per share amounts)
+		Row:At December 31: 	Notes 2019 	2018
+Row:Assets
+Current assets
+		Row:Cash and cash equivalents Restricted cash 	$ 8,172 141 	$ 11,379
+225
+Row:Marketable securities Notes and accounts receivable—trade (net of allowances of
+$299 in 2019 and $309 in 2018) Short-term financing receivables (net of allowances of $188 in 2019 and $244 in 2018) K 	I 696 7,870 14,192 	618
+7,432
+22,388
+Row:Other accounts receivable (net of allowances of $33 in 2019 and $38 in 2018) Inventory 	1,733 J 1,619 	743
+1,682
+Row:Deferred costs C Prepaid expenses and other current assets 	1,896 2,101 	2,300
+2,378
+Row:Total current assets Property, plant and equipment 	38,420 L 32,028 	49,146
+32,460
+Row:Less: Accumulated depreciation 	L 22,018 	21,668
+Row:Property, plant and equipment—net 	L 10,010 	10,792
+Row:Operating right-of-use assets—net* 	M 4,996 	—
+Row:Long-term financing receivables (net of allowances of $33 in 2019 and $48 in 2018) K Prepaid pension assets V 	8,712 6,865 	9,148
+4,666
+Row:Deferred costs C Deferred taxes 	2,472 G 5,182 	2,676
+5,216
+Row:Goodwill 	N 58,222 	36,265
+Row:Intangible assets—net Investments and sundry assets 	N 15,235 O 2,074 	3,087
+2,386
+Row:Total assets 	$ 152,186 	$ 123,382
+Row:Liabilities and equity
+Current liabilities
+		Row:Taxes Short-term debt I&P 	G $ 2,839 8,797 	$ 3,046
+10,207
+Row:Accounts payable Compensation and benefits 	4,896 3,406 	6,558
+3,310
+Row:Deferred income 	12,026 	11,165
+Row:Operating lease liabilities* Other accrued expenses and liabilities 	M 1,380 4,357 	—
+3,941
+Row:Total current liabilities Long-term debt I&P 	37,701 54,102 	38,227
+35,605
+Row:Retirement and nonpension postretirement benefit obligations V Deferred income 	17,142 3,851 	17,002
+3,445
+Row:Operating lease liabilities* 	M 3,879 	—
+Row:Other liabilities 	Q 14,526 	12,174
+Row:Total liabilities 	131,202 	106,452
+Row:Commitments and Contingencies R
+		Row:Equity S
+IBM stockholders’ equity
+Common stock, par value $.20 per share, and additional paid-in capital Shares authorized: 4,687,500,000
+	55,895 	55,151
+Row:Shares issued (2019—2,237,996,975; 2018—2,233,427,058)
+		Row:Retained earnings Treasury stock, at cost (shares: 2019—1,350,886,521; 2018—1,340,947,648) 	162,954 (169,413) 	159,206
+(168,071)
+Row:Accumulated other comprehensive income/(loss) Total IBM stockholders’ equity 	(28,597) 20,841 	(29,490)
+16,796
+Row:Noncontrolling interests A Total equity 	144 20,985 	134
+16,929
+Row:Total liabilities and equity 	$ 152,186 	$ 123,382
+Row:* Reflects the adoption of the FASB guidance on leases.
+Amounts may not add due to rounding.
+		Row:($ in millions)
+For the year ended December 31: 	2019 2018 2017
+Row:Cash flows from operating activities
+Net income $ 	9,431 $ 8,728 $ 5,753
+Row:Adjustments to reconcile net income to cash provided by operating activities
+Depreciation 	4,209 3,127 3,021
+Row:Amortization of intangibles 	1,850 1,353 1,520
+Row:Stock-based compensation 	679 510 534
+Row:Deferred taxes 	(1,527) 853 (931)
+Row:Net (gain)/loss on asset sales and other 	(1,096) 123 14
+Row:Change in operating assets and liabilities, net of acquisitions/divestitures
+	Row:Receivables (including financing receivables) 	502 1,006 1,297
+Row:Retirement related 	301 1,368 1,014
+Row:Inventory 	67 (127) 18
+Row:Other assets/other liabilities 	858 (1,819) 4,437
+Row:Accounts payable 	(503) 126 47
+Row:Net cash provided by operating activities 	14,770 15,247 16,724
+Row:Cash flows from investing activities
+Payments for property, plant and equipment 	(2,286) (3,395) (3,229)
+Row:Proceeds from disposition of property, plant and equipment Investment in software Purchases of marketable securities and other investments 	537 248 460
+(621) (569) (544)
+(3,693) (7,041) (4,949)
+Row:Proceeds from disposition of marketable securities and other investments Non-operating finance receivables—net 	3,961 6,487 3,910
+6,720 (503) (2,028)
+Row:Acquisition of businesses, net of cash acquired 	(32,630) (139) (496)
+Row:Divestiture of businesses, net of cash transferred 	1,076 — (205)
+Row:Net cash provided by/(used in) investing activities 	(26,936) (4,913) (7,081)
+Row:Cash flows from financing activities
+Proceeds from new debt 	31,825 6,891 9,643
+Row:Payments to settle debt Short-term borrowings/(repayments) less than 90 days—net Common stock repurchases 	(12,944) (8,533) (6,816)
+(2,597) 1,341 620
+(1,361) (4,443) (4,340)
+Row:Common stock repurchases for tax withholdings 	(272) (171) (193)
+Row:Financing—other 	99 111 175
+Row:Cash dividends paid 	(5,707) (5,666) (5,506)
+Row:Net cash provided by/(used in) financing activities 	9,042 (10,469) (6,418)
+Row:Effect of exchange rate changes on cash, cash equivalents and restricted cash 	(167) (495) 937
+Row:Net change in cash, cash equivalents and restricted cash 	(3,290) (630) 4,161
+Row:Cash, cash equivalents and restricted cash at January 1 	11,604 12,234 8,073
+Row:Cash, cash equivalents and restricted cash at December 31 $ 	8,314 $ 11,604 $12,234
+Row:Supplemental data
+	Row:Income taxes paid—net of refunds received $ 	2,091 $ 1,745 $ 1,597
+Row:Interest paid on debt $ 	1,685 $ 1,423 $ 1,208
+Row:Amounts may not add due to rounding.
+	

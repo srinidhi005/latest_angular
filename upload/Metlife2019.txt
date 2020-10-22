@@ -1,0 +1,153 @@
+Row:Assets
+Investments:
+	Row:$
+Fixed maturity securities available-for-sale, at estimated fair value (amortized cost: $297,655 and $286,816, respectively)	327,820
+$
+298,265Row:Equity securities, at estimated fair value	1,440
+1,342
+Row:Contractholder-directed equity securities and fair value option securities, at estimated fair value (includes $3 and $4, respectively, relating tovariable interest entities)	13,102
+12,616
+Row:Mortgage loans (net of valuation allowances of $353 and $342, respectively; includes $188 and $299, respectively, under the fair value optionand $59 and $0, respectively, of mortgage loans held-for-sale)	80,52975,752Row:Policy loans	9,6809,699Row:Real estate and real estate joint ventures (includes $127 and $0, respectively, under the fair value option)Other limited partnership interests	10,7417,7169,698
+6,613
+Row:Short-term investments, principally at estimated fair value	3,850
+3,937
+Row:Other invested assets (includes $2,299 and $2,300, respectively, of leveraged and direct financing leases and $290 and $141, respectively,relating to variable interest entities)	19,015
+18,190Row:Total investments
+	473,795
+436,210Row:Cash and cash equivalents, principally at estimated fair value (includes $12 and $52, respectively, relating to variable interest entities)
+	15,82116,598Row:Accrued investment income
+	3,582
+3,523Row:Premiums, reinsurance and other receivables (includes $4 and $3, respectively, relating to variable interest entities)	20,443
+19,644
+Row:Deferred policy acquisition costs and value of business acquired	17,83318,895Row:Goodwill	9,308
+9,422Row:Other assets (includes $2 and $2, respectively, relating to variable interest entities)	10,518
+8,408Row:Separate account assets	175,556188,445Row:$
+Total assets	687,538
+740,463
+$
+Row:Liabilities and Equity	Row:Liabilities	Row:$
+Future policy benefits	194,909
+$
+186,780Row:Policyholder account balances	192,627183,693Row:Other policy-related balances	17,171
+16,529
+Row:Policyholder dividends payable	681
+677
+Row:Policyholder dividend obligation	428
+2,020Row:Payables for collateral under securities loaned and other transactions	24,794
+26,745Row:Short-term debt	235268
+Row:Long-term debt (includes $5 and $5, respectively, at estimated fair value, relating to variable interest entities)	13,466
+12,829Row:Collateral financing arrangement	993
+1,060Row:Junior subordinated debt securities
+	3,147
+3,150
+Row:Current income tax payable	363
+441
+Row:Deferred income tax liability	9,0975,414Row:Other liabilities (includes $1 and $1, respectively, relating to variable interest entities)	24,179
+22,964
+Row:Separate account liabilities	188,445
+175,556
+Row:Total liabilities	674,081
+634,580
+Row:Contingencies, Commitments and Guarantees (Note 21)	Row:Equity	Row:MetLife, Inc.'s stockholders' equity:	Row:Preferred stock, par value $0.01 per share; $3,405 aggregate liquidation preference	Row:Common stock, par value $0.01 per share; 3,000,000,000 shares authorized; 1,177,680,299 and 1,171,824,242 shares issued, respectively;915,338,098 and 958,613,542 shares outstanding, respectively	12
+12
+Row:Additional paid-in capital	32,680
+32,474Row:Retained earnings	33,07828,926Row:Treasury stock, at cost; 262,342,201 and 213,210,700 shares, respectively	(12,678)(10,393)Row:Accumulated other comprehensive income (loss)	13,052
+1,722Row:Total MetLife, Inc.'s stockholders' equity	52,741
+66,144
+Row:Noncontrolling interests	238
+217
+Row:Common stock, par value $0.01 per share; 3,000,000,000 shares authorized; 1,177,680,299 and 1,171,824,242 shares issued, respectively;915,338,098 and 958,613,542 shares outstanding, respectively	12
+12
+Row:Additional paid-in capital	32,680
+32,474Row:Retained earnings	33,07828,926Row:Treasury stock, at cost; 262,342,201 and 213,210,700 shares, respectively	(12,678)(10,393)Row:Accumulated other comprehensive income (loss)	13,052
+1,722Row:Total MetLife, Inc.'s stockholders' equity	52,741
+66,144
+Row:Noncontrolling interests	238
+217
+Row:Total equity	52,958
+66,382Row:Total liabilities and equity
+$
+	740,463
+$
+687,538
+Row:2019 Revenues
+		2018 	2017
+Row:Premiums $ 	42,235 	$ 43,840 	$ 38,992
+Row:Universal life and investment-type product policy fees 	5,603 	5,502 	5,510
+Row:Net investment income 	18,868 	16,166 	17,363
+Row:Other revenues 	1,842 	1,880 	1,341
+Row:Net investment gains (losses):
+			Row:Other-than-temporary impairments on fixed maturity securities available-for-sale 	(130) 	(40) 	(11)
+Row:Other-than-temporary impairments on fixed maturity securities available-for-sale transferred
+to other comprehensive income (loss) 	— 	— 	1
+Row:Other net investment gains (losses) 	574 	(258) 	(298)
+Row:Total net investment gains (losses) 	444 	(298) 	(308)
+Row:Net derivative gains (losses) 	628 	851 	(590)
+Row:Total revenues 	69,620 	67,941 	62,308
+Row:Expenses
+Policyholder benefits and claims 	41,461 	42,656 	38,313
+Row:Interest credited to policyholder account balances 	6,464 	4,013 	5,607
+Row:Policyholder dividends 	1,211 	1,251 	1,231
+Row:Other expenses 	13,689 	13,714 	13,621
+Row:Total expenses 	62,825 	61,634 	58,772
+Row:Income (loss) from continuing operations before provision for income tax Provision for income tax expense (benefit) 	6,795 886 	6,307 1,179 	3,536
+(1,470)
+Row:Income (loss) from continuing operations, net of income tax 	5,909 	5,128 	5,006
+Row:Income (loss) from discontinued operations, net of income tax 	— 	— 	(986)
+Row:Net income (loss) 	5,909 	5,128 	4,020
+Row:Less: Net income (loss) attributable to noncontrolling interests 	10 	5 	10
+Row:Net income (loss) attributable to MetLife, Inc. 	5,899 	5,123 	4,010
+Row:Less: Preferred stock dividends 	178 	141 	103
+Row:Net income (loss) available to MetLife, Inc.’s common shareholders $ Income (loss) from continuing operations, net of income tax, available to MetLife, Inc.’s
+common shareholders per common share:
+Basic $ 	5,721 6.10 	$ 4,982 $ 4.95 	$ 3,907
+$ 4.57
+Row:Diluted $ 	6.06 	$ 4.91 	$ 4.53
+Row:Net income (loss) available to MetLife, Inc.’s common shareholders per common share:
+Basic $ 	6.10 	$ 4.95 	$ 3.65
+Row:Diluted $ 	6.06 	$ 4.91 	$ 3.62
+Row:See accompanying notes to the consolidated financial statements.
+			Row:Net income (loss) available to MetLife, Inc.’s common shareholders per common share:
+	Row:Basic 	$ 6.10 $ Row:Diluted 	$ 6.06 $ Row:Cash flows from operating activities
+Net income (loss) 	2019 	2018 	2017
+Row:$ Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities:
+Depreciation and amortization expenses 	5,909 630 	$ 5,128 628 	$ 4,020
+795
+Row:Amortization of premiums and accretion of discounts associated with investments, net 	(999) 	(1,013) 	(1,044)
+Row:(Gains) losses on investments and from sales of businesses, net 	(444) 	298 	363
+Row:(Gains) losses on derivatives, net 	(135) 	(207) 	3,610
+Row:(Income) loss from equity method investments, net of dividends or distributions 	254 	251 	194
+Row:Interest credited to policyholder account balances 	6,464 	4,013 	6,260
+Row:Universal life and investment-type product policy fees 	(5,603) 	(5,502) 	(7,708)
+Row:Change in contractholder-directed equity securities and fair value option securities 	(139) 	2,212 	(436)
+Row:Change in accrued investment income Change in premiums, reinsurance and other receivables 	8 (514) 	(121) (1,809) 	(280)
+(991)
+Row:Change in deferred policy acquisition costs and value of business acquired, net Change in income tax 	(463) 233 	(249) 940 	(693)
+(2,796)
+Row:Change in other assets 	426 	260 	691
+Row:Change in insurance-related liabilities and policy-related balances 	7,803 	7,454 	8,511
+Row:Change in other liabilities 	71 	(483) 	1,603
+Row:Other, net 	285 	(62) 	184
+Row:Net cash provided by (used in) operating activities 	13,786 	11,738 	12,283
+Row:Cash flows from investing activities
+Sales, maturities and repayments of:
+			Row:Fixed maturity securities available-for-sale 	77,820 	106,677 	95,945
+Row:Equity securities 	294 	342 	1,433
+Row:Mortgage loans 	12,838 	9,918 	10,353
+Row:Real estate and real estate joint ventures 	1,123 	1,227 	972
+Row:Other limited partnership interests 	625 	675 	1,082
+Row:Purchases and originations of:
+Fixed maturity securities available-for-sale Equity securities 	(87,455) (130) 	(105,401) (235) 	(105,683)
+(920)
+Row:Mortgage loans 	(17,657) 	(17,059) 	(14,374)
+Row:Real estate and real estate joint ventures 	(1,962) 	(1,118) 	(1,446)
+Row:Other limited partnership interests 	(1,674) 	(1,406) 	(1,486)
+Row:Cash received in connection with freestanding derivatives 	2,914 	3,778 	5,315
+Row:Cash paid in connection with freestanding derivatives 	(3,749) 	(4,173) 	(8,696)
+Row:Cash disposed due to distribution of Brighthouse 	— 	— 	(663)
+Row:Purchases of businesses 	(32) 	— 	(211)
+Row:Net change in policy loans 	5 	(37) 	(67)
+Row:Net change in short-term investments 	152 	870 	2,087
+Row:Net change in other invested assets 	(567) 	340 	(171)
+Row:Other, net 	(131) 	(32) 	(346)
+Row:Net cash provided by (used in) investing activities $ 	(17,586) 	$ (5,634) 	$ (16,876)

@@ -5,19 +5,19 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 })
 
 export class UrlConfigService {
-  private statementAPI="http://34.67.197.111:8000/statements";
-  private deleteStatementAPI="http://34.67.197.111:8000/deletestatement?companyname=";
-  private downloadStatementAPI="http://34.67.197.111:8000/download_file?companyname=";
-  private uploadStatementAPI="http://34.67.197.111:8000/upload_file";
-  private isActualsAPI="http://34.67.197.111:8000/actuals?company=";
-  private scenarioAPI="http://34.67.197.111:8000/scenarios?company=";
-  private isProjectionsAPIGET="http://34.67.197.111:8000/projections?company=";
-  private bsActualsAPI="http://34.67.197.111:8000/balance-actuals?company=";
-  private bsProjectionsAPIGET="http://34.67.197.111:8000/balance-projections?company=";
-  private isKPIActuals="http://34.67.197.111:8000/kpi-pnl-actuals?company=";
-  private isKPIProjections="http://34.67.197.111:8000/kpi-pnl-projections?company=";
-  private bsKPIActuals="http://34.67.197.111:8000/kpi-bs-actuals?company=";
-  private bsKPIProjections="http://34.67.197.111:8000/kpi-bs-projections?company=";
+  private statementAPI="https://app.rmiinsights.com:8001/statements";
+  private deleteStatementAPI="https://app.rmiinsights.com:8001/deletestatement?companyname=";
+  private downloadStatementAPI="https://app.rmiinsights.com:8001/download_file?companyname=";
+  private uploadStatementAPI="https://app.rmiinsights.com:8001/upload_file";
+  private isActualsAPI="https://app.rmiinsights.com:8001/actuals?company=";
+  private scenarioAPI="https://app.rmiinsights.com:8001/scenarios?company=";
+  private isProjectionsAPIGET="https://app.rmiinsights.com:8001/projections?company=";
+  private bsActualsAPI="https://app.rmiinsights.com:8001/balance-actuals?company=";
+  private bsProjectionsAPIGET="https://app.rmiinsights.com:8001/balance-projections?company=";
+  private isKPIActuals="https://app.rmiinsights.com:8001/kpi-pnl-actuals?company=";
+  private isKPIProjections="https://app.rmiinsights.com:8001/kpi-pnl-projections?company=";
+  private bsKPIActuals="https://app.rmiinsights.com:8001/kpi-bs-actuals?company=";
+  private bsKPIProjections="https://app.rmiinsights.com:8001/kpi-bs-projections?company=";
 
   constructor(private http:HttpClient) { }
   

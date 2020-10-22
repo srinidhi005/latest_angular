@@ -1,0 +1,128 @@
+RowCurrent assets:
+		RowCash and cash equivalents 	$ 1,023 	$ 785
+RowAccounts receivable, net 	7,226 	6,573
+RowInventories 	9,333 	9,565
+RowOther current assets 	1,118 	923
+RowTotal current assets 	18,700 	17,846
+RowNon-current assets:
+		RowProperty, plant and equipment, net 	13,478 	13,911
+RowGoodwill 	16,560 	16,914
+RowIntangible assets, net 	10,876 	11,783
+RowEquity method investments (see note 5) 	6,851 	6,610
+RowOther non-current assets 	1,133 	1,060
+RowTotal non-current assets 	48,899 	50,278
+RowTotal assets 	$ 67,598 	$ 68,124
+RowLiabilities and equity
+		RowCurrent liabilities:
+		RowShort-term debt 	$ 5,738 	$ 1,966
+RowTrade accounts payable (see note 18) 	14,341 	13,566
+RowAccrued expenses and other liabilities 	5,474 	5,862
+RowIncome taxes 	216 	273
+RowTotal current liabilities 	25,769 	21,667
+RowNon-current liabilities:
+		RowLong-term debt 	11,098 	12,431
+RowDeferred income taxes 	1,785 	1,815
+RowOther non-current liabilities 	4,795 	5,522
+RowTotal non-current liabilities 	17,678 	19,768
+RowCommitments and contingencies (see note 10)
+		RowEquity:
+		RowPreferred stock $.01 par value; authorized 32 million shares, none issued 	— 	—
+RowCommon stock $.01 par value; authorized 3.2 billion shares; issued 1,172,513,618 at August 31, 2019 and 2018 	12 	12
+RowPaid-in capital 	10,639 	10,493
+RowRetained earnings 	35,815 	33,551
+RowAccumulated other comprehensive loss 	(3,897) 	(3,002)
+RowTreasury stock, at cost; 277,126,116 shares at August 31, 2019 and 220,380,200 shares at August 31, 2018 	(19,057) 	(15,047)
+RowTotal Walgreens Boots Alliance, Inc. shareholders’ equity 	23,512 	26,007
+RowNoncontrolling interests 	641 	682
+RowTotal equity 	24,152 	26,689
+RowTotal liabilities and equity 	$ 67,598 	$ 68,124
+RowThe accompanying notes to Consolidated Financial Statements are an integral part of these 	Statements.
+	RowEquity:
+	RowPreferred stock $.01 par value; authorized 32 million shares, none issued 	— —
+RowCommon stock $.01 par value; authorized 3.2 billion shares; issued 1,172,513,618 at August 31, 2019 and 2018 	12 12
+RowPaid-in capital 	10,639 10,493
+RowRetained earnings 	35,815 33,551
+RowAccumulated other comprehensive loss 	(3,897) (3,002)
+RowTreasury stock, at cost; 277,126,116 shares at August 31, 2019 and 220,380,200 shares at August 31, 2018 	(19,057) (15,047)
+RowTotal Walgreens Boots Alliance, Inc. shareholders’ equity 	23,512 26,007
+RowNoncontrolling interests 	641 682
+RowTotal equity 	24,152 26,689
+RowTotal liabilities and equity 	$ 67,598 $ 68,124
+RowSales 	$ 	136,866 	$ 	131,537 	$ 	118,214
+RowCost of sales 		106,790 		100,745 		89,052
+RowGross profit 		30,076 		30,792 		29,162
+RowSelling, general and administrative expenses 		25,242 		24,694 		23,813
+RowEquity earnings in AmerisourceBergen 		164 		191 		135
+RowOperating income 		4,998 		6,289 		5,484
+RowOther income 		233 		302 		62
+RowEarnings before interest and income tax provision 		5,231 		6,591 		5,546
+RowInterest expense, net 		704 		616 		693
+RowEarnings before income tax provision 		4,527 		5,975 		4,853
+RowIncome tax provision 		588 		998 		760
+RowPost tax earnings from other equity method investments 		23 		54 		8
+RowNet earnings attributable to Walgreens Boots Alliance, Inc.
+		3,962 		5,031 		4,101
+RowNet (loss) earnings attributable to noncontrolling interests 		(20) 		7 		23
+RowNet earnings
+	$ 	3,982 	$ 	5,024 	$ 	4,078
+RowNet earnings per common share:
+						RowBasic 	$ 	4.32 	$ 	5.07 	$ 	3.80
+RowDiluted 	$ 	4.31 	$ 	5.05 	$ 	3.78
+RowWeighted average common shares outstanding:
+						RowBasic 		921.5 		991.0 		1,073.5
+RowDiluted 		923.5 		995.0 		1,078.5
+RowThe accompanying notes to Consolidated Financial Statements are an integral 		part of these 	Statements.
+			RowComprehensive income:
+		RowNet earnings $ 	3,962 $ 5,031 	$ 4,101
+RowOther comprehensive income (loss), net of tax:
+		RowPension/postretirement obligations 	(149) 240 	73
+RowUnrealized gain on cash flow hedges 	60 3 	4
+RowUnrecognized (loss) on available-for-sale investments 	— — 	(2)
+RowShare of other comprehensive income (loss) of equity method investments 	(1) 5 	(1)
+RowCurrency translation adjustments 	(820) (198) 	(169)
+RowTotal other comprehensive income (loss) 	(909) 50 	(95)
+RowTotal comprehensive income 	3,053 5,081 	4,006
+RowComprehensive income (loss) attributable to noncontrolling interests 	(33) 8 	(13)
+RowComprehensive income attributable to Walgreens Boots Alliance, Inc. $ 	3,086 $ 5,073 	$ 4,019
+RowThe accompanying notes to Consolidated Financial Statements are an integral part 	of these Statements.
+	RowCash flows from operating activities:
+			RowNet earnings 	$ 3,962 	$ 5,031 	$ 4,101
+RowAdjustments to reconcile net earnings to net cash provided by operating activities:
+			RowDepreciation and amortization 	2,038 	1,770 	1,654
+RowGain on previously held equity interest 	— 	(337) 	—
+RowDeferred income taxes 	100 	(322) 	(434)
+RowStock compensation expense 	119 	130 	91
+RowEquity earnings from equity method investments 	(187) 	(244) 	(143)
+RowOther 	302 	296 	364
+RowChanges in operating assets and liabilities:
+			RowAccounts receivable, net 	(789) 	(391) 	(153)
+RowInventories 	141 	331 	98
+RowOther current assets 	(112) 	(22) 	—
+RowTrade accounts payable 	954 	1,352 	1,684
+RowAccrued expenses and other liabilities 	(374) 	287 	(128)
+RowIncome taxes 	(406) 	694 	44
+RowOther non-current assets and liabilities 	(154) 	(311) 	77
+RowNet cash provided by operating activities 	5,594 	8,263 	7,255
+RowCash flows from investing activities:
+			RowAdditions to property, plant and equipment 	(1,702) 	(1,367) 	(1,351)
+RowProceeds from sale leaseback transactions 	3 	— 	444
+RowProceeds from sale of other assets 	117 	655 	59
+RowBusiness, investment and asset acquisitions, net of cash acquired 	(741) 	(4,793) 	(88)
+RowOther 	16 	4 	93
+RowNet cash used for investing activities 	(2,307) 	(5,501) 	(843)
+RowCash flows from financing activities:
+			RowNet change in short-term debt with maturities of 3 months or less 	536 	586 	33
+RowProceeds from debt 	12,433 	5,900 	—
+RowPayments of debt 	(10,461) 	(4,890) 	(6,196)
+RowStock purchases 	(4,160) 	(5,228) 	(5,220)
+RowProceeds related to employee stock plans 	174 	174 	217
+RowCash dividends paid 	(1,643) 	(1,739) 	(1,723)
+RowOther 	75 	(98) 	(45)
+RowNet cash used for financing activities 	(3,047) 	(5,295) 	(12,934)
+RowEffect of exchange rate changes on cash, cash equivalents and restricted cash 	(9) 	11 	26
+RowChanges in cash, cash equivalents and restricted cash
+			RowNet increase (decrease) in cash, cash equivalents, and restricted cash 	232 	(2,522) 	(6,496)
+RowCash, cash equivalents and restricted cash at beginning of period 	975 	3,496 	9,992
+RowCash, cash equivalents and restricted cash at end of period 	$ 1,207 	$ 975 	$ 3,496
+RowThe accompanying notes to Consolidated Financial Statements are an integral 	part of these 	Statements.
+	

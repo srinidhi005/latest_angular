@@ -1,0 +1,194 @@
+Row(in thousands, , except units)
+	2018
+	2017
+RowASSETS
+		RowCurrent assets:
+:
+		RowCash and cash equivalents 	$ 38,510 $ 	49,239
+RowCredit card receivables 	33,689 	38,836
+RowMerchandise inventories 	1,115,839 	1,153,657
+RowOther current assets 	123,822 	146,439
+RowTotal current assets 	1,311,860 	1,388,171
+RowProperty and equipment, net 	1,569,904 	1,586,961
+RowFavorable lease commitments, net 	879,434 	930,585
+RowOther definite-lived intangible assets, , net 	354,542 	401,081
+RowTradenames 	1,501,327 	1,499,750
+RowGoodwill 	1,883,869 	1,880,894
+RowOther long-term assets 	44,967 	16,074
+RowTotal assets 	$ 7,545,903 $ 	7,703,516
+RowLIABILITIES AND MEMBER EQUITY
+		RowCurrent liabilities:
+:
+		RowAccounts payable 	$ 318,969 $ 	316,830
+RowAccrued liabilities 	511,289 	456,937
+RowCurrent portion of long-term debt 	29,426 	29,426
+RowTotal current liabilities 	859,684 	803,193
+RowLong-term liabilities:
+:
+		RowLong-term debt, net of debt issuance costs 	4,623,152 	4,675,540
+RowDeferred income taxes 	707,554 	1,156,833
+RowDeferred real estate credits and deferred financing obligations 	254,555 	201,892
+RowOther long-term liabilities 	341,777 	399,406
+RowTotal long-term liabilities 	5,927,038 	6,433,671
+RowMembership unit (1 unit issued and outstanding at July 28, 2018 and July 29, , 2017) 	— 	—
+RowMember capital 	1,587,350 	1,587,086
+RowAccumulated other comprehensive loss 	(22,297) 	(63,431)
+RowAccumulated deficit 	(805,872) 	(1,057,003)
+RowTotal member equity 	759,181 	466,652
+RowTotal liabilities and member equity 	$ 7,545,903 $ 	7,703,516
+Row1,587,350 	1,587,086
+Row(22,297) 	(63,431)
+Row(805,872) 	(1,057,003)
+Row759,181 	466,652
+Row$ 7,545,903 	$ 7,703,516
+Row(in thousands)
+	2018
+	2017
+	2016
+RowRevenues 	$ 4,900,444 	$ 4,705,993 $ 	4,949,472
+RowCost of goods sold including buying and occupancy costs (excluding
+			Rowdepreciation) 	3,320,753 	3,220,027 	3,322,508
+RowSelling, , general and administrative expenses (excluding depreciation) 	1,179,641 	1,129,309 	1,117,928
+RowIncome from credit card program 	(46,361) 	(60,082) 	(60,648)
+RowDepreciation expense 	214,452 	225,463 	226,868
+RowAmortization of intangible assets 	46,685 	50,769 	57,011
+RowAmortization of favorable lease commitments 	51,046 	53,262 	54,178
+RowOther expenses 	37,721 	29,730 	27,127
+RowImpairment charges 	— 	510,736 	466,155
+RowOperating earnings (loss) )
+	96,507 	(453,221) 	(261,655)
+RowInterest expense, net 	307,441 	295,668 	285,596
+RowLoss before income taxes 	(210,934) 	(748,889) 	(547,251)
+RowIncome tax benefit 	(462,065) 	(217,130) 	(141,141)
+RowNet earnings (loss) 	$ 251,131 	$ (531,759) $ 	(406,110)
+RowSee Notes to Consolidated Financial Statements.
+			Row(in thousands)
+	2018
+	2017
+	2016
+RowNet earnings (loss) 	$ 251,131 	$ (531,759) 	$ (406,110)
+RowOther comprehensive earnings (loss):
+:
+			RowForeign currency translation adjustments, before tax 	5,488 	9,297 	(2,663)
+RowChange in unrealized gain on financial instruments, , before tax 	27,481 	14,851 	(11,266)
+RowReclassification of realized loss on financial instruments to earnings, before
+tax 	860 	6,070 	576
+RowChange in unrealized loss on unfunded benefit obligations, , before tax 	26,223 	52,832 	(91,828)
+RowTax effect related to items of other comprehensive earnings (loss) 	(18,918) 	(30,640) 	40,568
+RowTotal other comprehensive earnings (loss) )
+	41,134 	52,410 	(64,613)
+RowTotal comprehensive earnings (loss) 	$ 292,265 	$ (479,349) 	$ (470,723)
+RowSee Notes to Consolidated Financial Statements.
+			RowJuly 28,
+	July 29,
+,
+	July 30,
+,
+Row2018
+	2017
+	2016
+RowCASH FLOWS - OPERATING ACTIVITIES
+			RowNet earnings (loss) 	$ 251,131 	$ (531,759) 	$ (406,110)
+RowAdjustments to reconcile net earnings (loss) to net cash provided by operating activities:
+:
+			RowDepreciation and amortization expense 	336,663 	354,004 	362,629
+RowImpairment charges 	— 	510,736 	466,155
+RowDeferred income taxes 	(468,583) 	(171,152) 	(102,841)
+RowPayment-in-kind interest 	41,755 	16,599 	—
+RowOther 	7,323 	(3,244) 	(11,945)
+RowChanges in operating assets and liabilities:
+:
+	168,289 	175,184 	307,888
+RowMerchandise inventories 	39,880 	(25,852) 	29,046
+RowOther current assets 	17,680 	(30,357) 	(20,758)
+RowAccounts payable and accrued liabilities 	46,299 	1,268 	(43,877)
+RowDeferred real estate credits 	50,264 	37,431 	38,293
+RowFunding of defined benefit pension plan 	(25,200) 	(10,700) 	—
+RowNet cash provided by operating activities 	297,212 	146,974 	310,592
+RowCASH FLOWS - INVESTING ACTIVITIES
+			RowCapital expenditures 	(174,596) 	(204,636) 	(301,445)
+RowAcquisition of MyTheresa 	— 	— 	(896)
+RowNet cash used for investing activities 	(174,596) 	(204,636) 	(302,341)
+RowCASH FLOWS - FINANCING ACTIVITIES
+			RowBorrowings under revolving credit facilities 	1,087,915 	889,000 	555,000
+RowRepayment of borrowings under revolving credit facilities 	(1,191,915) 	(791,000) 	(520,000)
+RowRepayment of borrowings under senior secured term loan facility 	(29,426) 	(29,426) 	(29,426)
+RowPayment of contingent earn-out obligation 	— 	(22,857) 	(27,185)
+RowDebt issuance costs paid 	— 	(5,359) 	—
+RowRepurchase of stock 	(266) 	— 	—
+RowShares withheld for remittance of employee taxes 	(332) 	— 	—
+RowNet cash provided by (used for) financing activities 	(134,024) 	40,358 	(21,611)
+RowEffect of exchange rate changes on cash and cash equivalents 	679 	4,700 	2,229
+RowCASH AND CASH EQUIVALENTS
+			RowDecrease during the period 	(10,729) 	(12,604) 	(11,131)
+RowBeginning balance 	49,239 	61,843 	72,974
+RowEnding balance 	$ 38,510 	$ 49,239 	$ 61,843
+RowSupplemental Schedule of Cash Flow Information
+			RowCash paid (received) ) during the period for:
+:
+			RowInterest 	$ 231,181 	$ 286,746 	$ 268,657
+RowIncome taxes 	$ 263 	$ (42,264) 	$ (19,207)
+RowNon-cash - investing and financing activities:
+:
+			RowProperty and equipment acquired through developer financing obligations 	$ 13,077 	$ 50,799 	$ 46,124
+RowIssuance of PIK Toggle Notes 	$ 58,354 	$ — 	$ —
+RowSee Notes to Consolidated Financial Statements.
+F-7
+			Row(174,596) 	(204,636) 	(301,445)
+Row— 	— 	(896)
+Row(174,596) 	(204,636) 	(302,341)
+Row(10,729) 	(12,604) 	(11,131)
+Row49,239 	61,843 	72,974
+Row$ 38,510 $ 	49,239 	$ 61,843
+RowInterest 	$ 	231,181 	$ 	286,746 	$ 	268,657
+RowIncome taxes 	$ 	263 	$ 	(42,264) 	$ 	(19,207)
+RowNon-cash - investing and financing activities:
+:
+						RowProperty and equipment acquired through developer financing obligations 	$ 	13,077 	$ 	50,799 	$ 	46,124
+RowIssuance of PIK Toggle Notes 	$ 	58,354 	$ 	— 	$ 	—
+Row(in thousands)
+	Member
+capital
+	comprehensive
+earnings (loss)
+)
+	earnings
+(deficit)
+	Total member
+equity
+RowBalance at August 1, , 2015 	$ 1,584,106 	$ (51,228) $ 	(119,134) 	$ 1,413,744
+RowStock option exercises and other 	110 	— 	— 	110
+RowComprehensive loss:
+:
+				RowNet loss 	— 	— 	(406,110) 	(406,110)
+RowForeign currency translation adjustments, , net of tax of ($381) 	— 	(2,282) 	— 	(2,282)
+RowAdjustments for fluctuations in fair market value of financial
+				Rowinstruments, , net of tax of ($4,416) 	— 	(6,850) 	— 	(6,850)
+RowReclassification to earnings, , net of tax of $226 	— 	350 	— 	350
+RowChange in unfunded benefit obligations, net of tax of ($35,997) 	— 	(55,831) 	— 	(55,831)
+RowTotal comprehensive loss 				(470,723)
+RowBalance at July 30, , 2016 	1,584,216 	(115,841) 	(525,244) 	943,131
+RowStock option exercises and other 	2,870 	— 	— 	2,870
+RowComprehensive loss:
+:
+				RowNet loss 	— 	— 	(531,759) 	(531,759)
+RowForeign currency translation adjustments, , net of tax of $1,729 	— 	7,568 	— 	7,568
+RowAdjustments for fluctuations in fair market value of financial
+instruments, , net of tax of $5,822 	— 	9,029 	— 	9,029
+RowReclassification to earnings, net of tax of $2,379 	— 	3,691 	— 	3,691
+RowChange in unfunded benefit obligations, , net of tax of $20,710 	— 	32,122 	— 	32,122
+RowTotal comprehensive loss 				(479,349)
+RowBalance at July 29, , 2017 	1,587,086 	(63,431) 	(1,057,003) 	466,652
+RowStock option exercises and other 	264 	— 	— 	264
+RowComprehensive earnings:
+:
+				RowNet earnings 	— 	— 	251,131 	251,131
+RowForeign currency translation adjustments, , net of tax of $1,044 	— 	4,444 	— 	4,444
+RowAdjustments for fluctuations in fair market value of financial
+instruments, , net of tax of $9,058 	— 	18,423 	— 	18,423
+RowReclassification to earnings, net of tax of $424 	— 	436 	— 	436
+RowChange in unfunded benefit obligations, net of tax of $8,392 	— 	17,831 	— 	17,831
+RowTotal comprehensive earnings 				292,265
+RowBalance at July 28, 2018 	$ 1,587,350 	$ (22,297) $ 	(805,872) 	$ 759,181
+RowSee Notes to Consolidated Financial Statements.
+				

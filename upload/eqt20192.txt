@@ -1,0 +1,120 @@
+Row:	(Thousands, 	except per share amounts)
+Row:Operating revenues:
+		Row:Sales of natural gas, natural gas liquids and oil $ 	3,791,414 $ 	4,695,519 $ 2,651,318
+Row:Gain (loss) on derivatives not designated as hedges 	616,634 	(178,591) 390,021
+Row:Net marketing services and other 	8,436 	40,940 49,681
+Row:Total operating revenues Operating expenses:
+Transportation and processing 	4,416,484 1,752,752 	4,557,868 3,091,020
+1,697,001 1,164,783
+Row:Production 	153,785 	195,775 181,349
+Row:Exploration 	7,223 	6,765 17,565
+Row:Selling, general and administrative 	253,006 	284,220 208,986
+Row:Depreciation and depletion 	1,538,745 	1,569,038 970,985
+Row:Amortization of intangible assets 	35,916 	41,367 5,400
+Row:Impairment/loss on sale/exchange of long-lived assets 	1,138,287 	2,709,976 —
+Row:Impairment of intangible assets Impairment of goodwill 	15,411 — 	— —
+530,811 —
+Row:Impairment and expiration of leases 	556,424 	279,708 7,552
+Row:Proxy, transaction and reorganization 	117,045 	26,331 152,188
+Row:Total operating expenses 	5,568,594 	7,340,992 2,708,808
+Row:Operating (loss) income 	(1,152,110) 	(2,783,124) 382,212
+Row:Unrealized loss on investment in Equitrans Midstream Corporation 	336,993 	72,366 —
+Row:Dividend and other (income) expense 	(91,483) 	(7,017) 2,987
+Row:Loss on debt extinguishment 	— 	— 12,641
+Row:Interest expense 	199,851 	228,958 167,971
+Row:(Loss) income from continuing operations before income taxes 	(1,597,471) 	(3,077,431) 198,613
+Row:Income tax benefit 	(375,776) 	(696,511) (1,188,416)
+Row:(Loss) income from continuing operations 	(1,221,695) 	(2,380,920) 1,387,029
+Row:Income from discontinued operations, net of tax 	— 	373,762 471,113
+Row:Net (loss) income 	(1,221,695) 	(2,007,158) 1,858,142
+Row:Less: Net income from discontinued operations attributable to noncontrolling interests 	— 	237,410 349,613
+Row:Net (loss) income attributable to EQT Corporation $ 	(1,221,695) $ 	(2,244,568) $ 1,508,529
+Row:Amounts attributable to EQT Corporation:
+		Row:(Loss) income from continuing operations $ 	(1,221,695) $ 	(2,380,920) $ 1,387,029
+Row:Income from discontinued operations, net of tax 	— 	136,352 121,500
+Row:Net (loss) income $ 	(1,221,695) $ 	(2,244,568) $ 1,508,529
+Row:(Loss) income from continuing operations 	$ (1,221,695) 	$ (2,380,920) 	$ 1,387,029
+Row:Income from discontinued operations, net of tax 	— 	136,352 	121,500
+Row:Net (loss) income 	$ (1,221,695) 	$ (2,244,568) 	$ 1,508,529
+Row:Basic:
+			Row:Weighted average common stock outstanding 	255,141 	260,932 	187,380
+Row:(Loss) income from continuing operations $ 	(4.79) 	$ (9.12) $ 	7.40
+Row:Income from discontinued operations 	— 	0.52 	0.65
+Row:Net (loss) income $ 	(4.79) 	$ (8.60) $ 	8.05
+Row:Diluted:
+			Row:Weighted average common stock outstanding 	255,141 	260,932 	187,727
+Row:(Loss) income from continuing operations 	$ (4.79) 	$ (9.12) $ 	7.39
+Row:Income from discontinued operations 	— 	0.52 	0.65
+Row:Net (loss) income 	$ (4.79) 	$ (8.60) $ 	8.04
+Row:Cash flows from operating activities:
+		(Thousands)
+	Row:Net (loss) income $ 	(1,221,695) $ 	(2,007,158) $ 	1,858,142
+Row:Adjustments to reconcile net (loss) income to net cash provided by operating activities:
+			Row:Deferred income tax benefit 	(275,063) 	(510,405) 	(1,050,612)
+Row:Depreciation and depletion 	1,538,745 	1,729,739 	1,077,559
+Row:Amortization of intangible assets 	35,916 	77,374 	10,940
+Row:Impairment of long-lived assets and leases and exploratory well costs 	1,710,122 	2,989,684 	20,327
+Row:Impairment of goodwill Unrealized loss on investment in Equitrans Midstream Corporation 	— 336,993 	798,689 72,366 	—
+—
+Row:Loss on debt extinguishment 	— 	— 	12,641
+Row:Amortization, accretion and other 	23,296 	(33,039) 	(25,934)
+Row:Share-based compensation expense 	31,233 	25,189 	94,592
+Row:(Gain) loss on derivatives not designated as hedges 	(616,634) 	178,591 	(390,021)
+Row:Cash settlements received (paid) on derivatives not designated as hedges 	246,639 	(225,279) 	40,728
+Row:Net premiums received on derivative instruments 	22,616 	— 	—
+Row:Changes in other assets and liabilities:
+			Row:Accounts receivable 	432,323 	(439,062) 	(8,979)
+Row:Accounts payable 	(238,674) 	457,113 	(16,680)
+Row:Tax receivable 	(167,281) 	(117,188) 	(12,285)
+Row:Other items, net 	(6,832) 	(20,358) 	27,280
+Row:Net cash provided by operating activities 	1,851,704 	2,976,256 	1,637,698
+Row:Cash flows from investing activities:
+			Row:Capital expenditures 	(1,602,454) 	(2,999,037) 	(1,559,051)
+Row:Cash paid for Rice Merger and other acquisitions (see Note 8), net of cash acquired 	— 	— 	(2,379,229)
+Row:Capital expenditures for discontinued operations 	— 	(732,727) 	(380,151)
+Row:Net sales of trading securities 	— 	— 	283,758
+Row:Exploratory dry hole costs 	— 	— 	(11,420)
+Row:Capital contributions to Mountain Valley Pipeline, LLC 	— 	(820,943) 	(159,550)
+Row:Proceeds from sale of assets 	— 	583,381 	3,573
+Row:Other investing activities 	1,312 	(9,778) 	—
+Row:Net cash used in investing activities 	(1,601,142) 	(3,979,104) 	(4,202,070)
+Row:Cash flows from financing activities:
+			Row:	(Thousands)
+	Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents $ 	4,596 $ 	3,487
+Row:Accounts receivable (less provision for doubtful accounts: $6,861 and $8,648) 	610,088 	1,241,843
+Row:Derivative instruments, at fair value 	812,664 	481,654
+Row:Tax receivable 	298,854 	131,573
+Row:Prepaid expenses and other 	28,653 	111,107
+Row:Total current assets 	1,754,855 	1,969,664
+Row:Property, plant and equipment 	21,655,351 	22,148,012
+Row:Less: Accumulated depreciation and depletion 	5,499,861 	4,755,505
+Row:Net property, plant and equipment 	16,155,490 	17,392,507
+Row:Intangible assets, net 	26,006 	77,333
+Row:Investment in Equitrans Midstream Corporation 	676,009 	1,013,002
+Row:Other assets 	196,867 	268,838
+Row:Total assets $ 	18,809,227 $ 	20,721,344
+Row:LIABILITIES AND SHAREHOLDERS' EQUITY
+		Row:Current liabilities:
+		Row:Current portion of debt $ 	16,204 $ 	704,390
+Row:LIABILITIES AND SHAREHOLDERS' EQUITY
+		Row:Current liabilities:
+		Row:Current portion of debt 	$ 16,204 	$ 704,390
+Row:Accounts payable 	796,438 	1,059,873
+Row:Derivative instruments, at fair value 	312,696 	336,051
+Row:Other current liabilities 	220,564 	254,687
+Row:Total current liabilities 	1,345,902 	2,355,001
+Row:Credit facility borrowings 	294,000 	800,000
+Row:Term loan facility borrowings 	999,353 	—
+Row:Senior notes 	3,878,366 	3,882,932
+Row:Note payable to EQM Midstream Partners, LP 	105,056 	110,059
+Row:Deferred income taxes 	1,485,814 	1,823,381
+Row:Other liabilities and credits 	897,148 	791,742
+Row:Total liabilities 	9,005,639 	9,763,115
+Row:Common stock, no par value, shares authorized: 320,000, shares issued: 257,003 and 257,225 	7,818,205 	7,828,554
+Row:Treasury stock, shares at cost: 1,832 and 2,753 	(32,507) 	(49,194)
+Row:Retained earnings 	2,023,089 	3,184,275
+Row:Accumulated other comprehensive loss 	(5,199) 	(5,406)
+Row:Total shareholders' equity 	9,803,588 	10,958,229
+Row:Total liabilities and shareholders' equity $ 	18,809,227 	$ 20,721,344

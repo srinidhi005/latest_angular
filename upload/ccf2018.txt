@@ -1,0 +1,171 @@
+Row:Current assets:
+		Row:Cash and cash equivalents $ 	58,416 	$ 26,578
+Row:Accounts receivable 	25,619 	20,928
+Row:Income taxes receivable 	4,626 	—
+Row:Other receivables 	64,683 	68,193
+Row:Inventories 	47,225 	38,886
+Row:Prepaid expenses 	43,946 	40,645
+Row:Total current assets 	244,515 	195,230
+Row:Property and equipment, net 	831,599 	913,275
+Row:Other assets:
+		Row:Intangible assets, net 	437,207 	26,209
+Row:Prepaid rent 	— 	34,961
+Row:Operating lease assets 	1,240,976 	—
+Row:Investments in unconsolidated affiliates 	— 	79,767
+Row:Other 	86,296 	64,691
+Row:Total other assets 	1,764,479 	205,628
+Row:Total assets $ 	2,840,593 	$ 1,314,133
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable $ 	61,946 	$ 49,071
+Row:Income taxes payable 	— 	712
+Row:Gift card liabilities 	187,978 	172,336
+Row:Operating lease liabilities 	128,081 	—
+Row:Other accrued expenses 	236,582 	194,381
+Row:Total current liabilities 	614,587 	416,500
+Row:Deferred income taxes 	33,847 	52,123
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable $ 	61,946 $ 	49,071
+Row:Income taxes payable 	— 	712
+Row:Gift card liabilities 	187,978 	172,336
+Row:Operating lease liabilities 	128,081 	—
+Row:Other accrued expenses 	236,582 	194,381
+Row:Total current liabilities 	614,587 	416,500
+Row:Deferred income taxes 	33,847 	52,123
+Row:Deferred rent liabilities 	— 	79,697
+Row:Deemed landlord financing liabilities 	— 	113,095
+Row:Long-term debt 	290,000 	10,000
+Row:Operating lease liabilities 	1,189,869 	—
+Row:Other noncurrent liabilities 	140,548 	71,659
+Row:Commitments and contingencies (Note 14)
+		Row:Stockholders’ equity:
+		Row:Preferred stock, $.01 par value, 5,000,000 shares authorized; none issued 	— 	—
+Row:Common stock, $.01 par value, 250,000,000 shares authorized; 97,685,178 and 96,621,990 shares issued
+		Row:at December 31, 2019 and January 1, 2019, respectively 	977 	967
+Row:Additional paid-in capital 	855,989 	828,676
+Row:Retained earnings 	1,408,333 	1,384,494
+Row:Treasury stock, 52,916,434 and 51,791,941 shares at cost at December 31, 2019 and January 1, 2019,
+respectively 	(1,693,122) 	(1,642,140)
+Row:Accumulated other comprehensive loss 	(435) 	(938)
+Row:Total stockholders’ equity 	571,742 	571,059
+Row:Total liabilities and stockholders’ equity $ 	2,840,593 $ 	1,314,133
+Row:	2019 	2018 	2017
+Row:Revenues $ 	2,482,692 $ 	2,332,331 	$ 2,260,502
+Row:Costs and expenses:
+			Row:Cost of sales 	561,783 	532,880 	519,388
+Row:Labor expenses 	899,667 	834,134 	777,595
+Row:Other operating costs and expenses 	631,613 	566,825 	552,791
+Row:General and administrative expenses 	160,199 	154,770 	141,533
+Row:Depreciation and amortization expenses 	88,133 	95,976 	92,729
+Row:Impairment of assets and lease terminations 	18,247 	17,861 	10,343
+Row:Acquisition-related costs 	5,270 	— 	—
+Row:Acquisition-related contingent consideration, compensation and amortization expenses 	1,033 	— 	—
+Row:Preopening costs 	13,149 	10,937 	13,278
+Row:Total costs and expenses 	2,379,094 	2,213,383 	2,107,657
+Row:Income from operations 	103,598 	118,948 	152,845
+Row:Gain/(loss) on investments in unconsolidated affiliates 	39,233 	(4,754) 	(479)
+Row:Interest and other expense, net 	(2,497) 	(6,783) 	(5,900)
+Row:Income before income taxes 	140,334 	107,411 	146,466
+Row:Income tax provision/(benefit) 	13,041 	8,376 	(10,926)
+Row:Net income $ 	127,293 $ 	99,035 	$ 157,392
+Row:Net income per share:
+			Row:Basic $ 	2.90 $ 	2.19 	$ 3.35
+Row:Diluted $ 	2.86 $ 	2.14 	$ 3.27
+Row:Weighted average shares outstanding:
+			Row:Basic 	43,949 	45,263 	46,930
+Row:Diluted 	44,545 	46,215 	48,152
+Row:	2019 	2018 	2017
+Row:Net income 	$ 127,293 	$ 99,035 	$ 157,392
+Row:Other comprehensive gain/(loss):
+			Row:Foreign currency translation adjustment 	503 	(850) 	(88)
+Row:Other comprehensive gain/(loss) 	503 	(850) 	(88)
+Row:Total comprehensive income 	$ 127,796 	$ 98,185 	$ 157,304
+Row:Shares 	of 		Additional 			Other
+	Row:Common 		Common 	Paid-in 	Retained 	Treasury 	Comprehensive
+	Row:Stock 		Stock 	Capital 	Earnings 	Stock 	Loss 	Total
+Row:Balance, January 3, 2017 	94,672 	$ 947 	$ 774,137 	$ 1,238,012 	$ (1,409,889) 	$ — 	$ 603,207
+Row:Net income 	— 	— 	— 	157,392 	— 	— 	157,392
+Row:Foreign currency translation adjustment 	— 	— 	— 	— 	— 	(88) 	(88)
+Row:Cash dividends declared Common stock, $1.06 per share 	— 	— 	— 	(49,738) 	— 	— 	(49,738)
+Row:Stock-based compensation 	— 	— 	16,696 	— 	— 	— 	16,696
+Row:Common stock issued under stock-based compensation plans 	740 	7 	9,029 	— 	— 	— 	9,036
+Row:Treasury stock purchases 	— 	— 	— 	— 	(122,975) 	— 	(122,975)
+Row:Balance, January 2, 2018 	95,412 	954 	799,862 	1,345,666 	(1,532,864) 	(88) 	613,530
+Row:Cumulative effect of adopting the pronouncement related to
+revenue recognition, net of tax 	— 	— 	— 	(3,560) 	— 	— 	(3,560)
+Row:Balance, January 2, 2018, as adjusted 	95,412 	954 	799,862 	1,342,106 	(1,532,864) 	(88) 	609,970
+Row:Net income 	— 	— 	— 	99,035 	— 	— 	99,035
+Row:Foreign currency translation adjustment 	— 	— 	— 	— 	— 	(850) 	(850)
+Row:Cash dividends declared Common stock, $1.24 per share 	— 	— 	— 	(56,647) 	— 	— 	(56,647)
+Row:Stock-based compensation 	554 	6 	20,245 	— 	— 	— 	20,251
+Row:Common stock issued under stock-based compensation plans 	656 	7 	8,569 	— 	— 	— 	8,576
+Row:Treasury stock purchases 	— 	— 	— 	— 	(109,276) 	— 	(109,276)
+Row:Balance, January 1, 2019 	96,622 	967 	828,676 	1,384,494 	(1,642,140) 	(938) 	571,059
+Row:Cumulative effect of adopting the pronouncement related to
+							Row:lease accounting, net of tax Balance, January 1, 2019, as adjusted 	— 96,622 	— 967 	— 828,676 	(41,466) 1,343,028 	— (1,642,140) 	— (938) 	(41,466)
+529,593
+Row:Net income 	— 	— 	— 	127,293 	— 	— 	127,293
+Row:Foreign currency translation adjustment 	— 	— 	— 	— 	— 	503 	503
+Row:Cash dividends declared Common stock, $1.38 per share 	— 	— 	— 	(61,988) 	— 	— 	(61,988)
+Row:Stock-based compensation 	476 	4 	19,595 	— 	— 	— 	19,599
+Row:Common stock issued under stock-based compensation plans 	587 	6 	7,718 	— 	— 	— 	7,724
+Row:Treasury stock purchases 	— 	— 	— 	— 	(50,982) 	— 	(50,982)
+Row:Balance, December 31, 2019 	97,685 	$ 977 	$ 855,989 	$ 1,408,333 	$ (1,693,122) 	$ (435) 	$ 571,742
+Row:Cash flows from operating activities:
+Net income $ 	2019 2018 2017
+127,293 $ 99,035 $ 157,392
+Row:Adjustments to reconcile net income to cash provided by operating activities:
+Depreciation and amortization expenses Deferred income taxes Impairment of assets and lease terminations Stock-based compensation (Gain)/loss from investments in unconsolidated affiliates 	88,133 95,976 92,729
+(2,197) (5,510) (25,180)
+16,223 16,411 10,586
+19,373 19,988 16,457
+(39,233) 4,754 479
+Row:Changes in assets and liabilities, net of acquired amounts:
+Accounts and other receivables Income taxes receivable/payable Inventories 	3,777 3,680 (7,188)
+(5,338) 15,729 (17,315)
+(5,766) 3,667 (7,634)
+Row:Prepaid expenses Operating lease assets/liabilities Other assets Accounts payable Gift card liabilities Other accrued expenses 	(4,133) 6,262 (5,227)
+5,019 — —
+(11,989) 7,406 (9,034)
+2,326 5,601 3,771
+9,695 8,395 10,200
+15,578 9,921 18,760
+Row:Cash provided by operating activities 	218,761 291,315 238,796
+Row:Cash flows from investing activities:
+Additions to property and equipment 	(73,765) (102,909) (120,779)
+Row:Additions to intangible assets Acquisition, net of cash acquired Investments in unconsolidated affiliates 	(2,100) (3,020) (1,654)
+(261,695) — —
+(3,000) (25,000) (18,000)
+Row:Loans made to unconsolidated affiliates Proceeds from variable life insurance contract 	(22,500) — —
+— 540 —
+Row:Cash used in investing activities 	(363,060) (130,389) (140,433)
+Row:Cash flows from financing activities:
+Deemed landlord financing proceeds 	— 21,788 12,128
+Row:Deemed landlord financing payments Borrowings on credit facility Repayments on credit facility Proceeds from exercise of stock options Cash dividends paid Treasury stock purchases 	— (5,128) (4,391)
+335,000 70,000 85,000
+(55,000) (70,000) (75,000)
+7,724 8,576 9,036
+(60,722) (56,251) (49,889)
+(50,982) (109,276) (122,975)
+Row:Cash provided by/(used in) financing activities 	176,020 (140,291) (146,091)
+Row:Foreign currency translation adjustment Net change in cash and cash equivalents 	117 (65) (103)
+31,838 20,570 (47,831)
+Row:Cash and cash equivalents at beginning of period 	26,578 6,008 53,839
+Row:Cash and cash equivalents at end of period $ 	58,416 $ 26,578 $ 6,008
+Row:Supplemental disclosures:
+Interest paid $ 	1,646 $ 8,156 $ 7,128
+Row:Income taxes paid $ 	20,778 $ 10,149 $ 31,582
+Row:Construction payable $ 	6,504 $ 4,585 $ 12,145
+Row:Non-cash operating:
+Settlement of sale-leaseback accounting $ Non-cash investing:
+	— $ 11,863 $ —
+Row:Settlement of landlord sale-leaseback accounting $ Acquisition-related deferred consideration and compensation $ Fair value of previously-held equity investments $ Loans repaid by unconsolidated affiliates as a reduction of acquisition cash $ Loan to unconsolidated affiliate assumed in acquisition $ Non-cash financing:
+Settlement of landlord financing obligation for sale-leaseback leases $ Deemed landlord financing proceeds $ See the accompanying notes to the consolidated financial statements.
+	— $ 6,824 $ —
+(66,257) $ — $ —
+(122,000) $ — $ —
+12,500 $ — $ —
+10,000 $ — $ —
+— $ (18,687) $ —
+— $ 13,748 $ —

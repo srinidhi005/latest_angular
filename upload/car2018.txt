@@ -1,0 +1,131 @@
+Row:(in millions, except per share amounts) 	2018 2017 	2016
+Row:Revenues 	$ 4,479.5 $ 3,750.8 	$ 3,425.2
+Row:Cost of goods sold 	3,304.8 2,702.5 	2,338.8
+Row:Selling and administrative expenses 	625.4 532.9 	495.4
+Row:Research and development expenses 	55.1 51.3 	45.4
+Row:Impairment charges 	— — 	141.5
+Row:Other operating (income) expense, net 	(14.8 ) 0.1 	(0.1 )
+Row:Operating income 	509.0 464.0 	404.2
+Row:Interest expense, net 	53.5 33.5 	30.6
+Row:Other non-operating (income) expense, net 	9.6 1.5 	(5.6 )
+Row:Income from continuing operations before income taxes 	445.9 429.0 	379.2
+Row:Provision for income taxes 	87.3 88.4 	148.1
+Row:Income from continuing operations 	358.6 340.6 	231.1
+Row:Discontinued operations:
+		Row:Income before income taxes 	300.1 39.6 	30.2
+Row:Provision for income taxes 	47.6 14.7 	11.2
+Row:Income from discontinued operations 	252.5 24.9 	19.0
+Row:Net income 	$ 611.1 $ 365.5 	$ 250.1
+Row:Basic earnings per share attributable to common shares:
+		Row:Income from continuing operations 	$ 5.92 $ 5.36 	$ 3.57
+Row:Income from discontinued operations 	4.17 0.39 	0.29
+Row:Basic earnings per share 	$ 10.09 $ 5.75 	$ 3.86
+Row:Diluted earnings per share attributable to common shares:
+		Row:Income from continuing operations 	$ 5.88 $ 5.32 	$ 3.53
+Row:Income from discontinued operations 	4.14 0.39 	0.29
+Row:Diluted earnings per share 	$ 10.02 $ 5.71 	$ 3.82
+Row:Discontinued operations:
+		Row:Income before income taxes 	300.1 39.6 	30.2
+Row:Provision for income taxes 	47.6 14.7 	11.2
+Row:Income from discontinued operations 	252.5 24.9 	19.0
+Row:Net income $ 	611.1 $ 365.5 	$ 250.1
+Row:Comprehensive income:
+			Row:Net income $ 	611.1 	$ 365.5 	$ 250.1
+Row:Other comprehensive income (loss):
+			Row:Foreign currency (losses) gains 	(30.3 ) 	46.6 	(36.7 )
+Row:Amortization of unrecognized net periodic benefit costs, net of tax 	(0.4 ) 	(5.2 ) 	1.0
+Row:Other, net of tax 	0.8 	(4.9 ) 	0.6
+Row:Other comprehensive income (loss) 	(29.9 ) 	36.5 	(35.1 )
+Row:Comprehensive income $ 	581.2 	$ 402.0 	$ 215.0
+Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 803.6 	$ 378.3
+Row:Receivables, net 	698.3 	625.7
+Row:Inventories, net 	457.5 	448.8
+Row:Prepaid expenses 	22.0 	21.7
+Row:Other current assets 	75.3 	73.6
+Row:Discontinued operations 	— 	96.5
+Row:Total current assets 	2,056.7 	1,644.6
+Row:Property, plant and equipment, net 	760.1 	731.1
+Row:Goodwill, net 	1,441.8 	1,452.1
+Row:Other intangible assets, net 	967.7 	1,065.0
+Row:Other long-term assets 	22.9 	34.9
+Row:Discontinued operations 	— 	372.1
+Row:Total assets 	$ 5,249.2 	$ 5,299.8
+Row:LIABILITIES AND EQUITY
+		Row:Current liabilities:
+Accounts payable 	$ 312.1 	$ 332.1
+Row:Accrued expenses 	258.0 	257.8
+Row:Deferred revenue 	25.5 	27.8
+Row:Discontinued operations 	— 	40.9
+Row:Total current liabilities 	595.6 	658.6
+Row:Long-term liabilities:
+		Row:Long-term debt 	1,587.8 	1,586.2
+Row:Deferred revenue 	201.9 	188.0
+Row:Other long-term liabilities 	266.5 	288.7
+Row:Discontinued operations 	— 	50.0
+Row:Total long-term liabilities 	2,056.2 	2,112.9
+Row:Commitments and contingencies (see Note 17)
+		Row:Long-term liabilities:
+Long-term debt 	1,587.8 	1,586.2
+Row:Deferred revenue 	201.9 	188.0
+Row:Other long-term liabilities 	266.5 	288.7
+Row:Discontinued operations 	— 	50.0
+Row:Total long-term liabilities 	2,056.2 	2,112.9
+Row:Shareholders' equity:
+	Row:Preferred stock, $1 par value per share (5,000,000 shares authorized and unissued) Common stock, $1 par value per share (200,000,000 shares authorized; 57,957,912 and
+61,839,734 shares outstanding, respectively) 	— —
+78.7 78.7
+Row:Additional paid-in capital 	383.8 353.7
+Row:Deferred compensation equity 	8.0 10.4
+Row:Treasury shares, at cost (20,534,652 and 16,613,193 shares, respectively) 	(1,102.4 ) (649.6 )
+Row:Accumulated other comprehensive loss 	(122.1 ) (85.7 )
+Row:Retained earnings 	3,351.4 2,820.8
+Row:Total shareholders' equity 	2,597.4 2,528.3
+Row:Total liabilities and equity $ 	5,249.2 $ 5,299.8
+Row:(in millions) 	2018 2017 	2016
+Row:Operating activities:
+		Row:Net income $ 	611.1 $ 365.5 	$ 250.1
+Row:Reconciliation of net income to cash flows provided by operating activities:
+		Row:Depreciation 	86.4 84.9 	75.1
+Row:Amortization 	104.2 84.2 	62.7
+Row:Impairment charges 	— — 	141.5
+Row:Stock-based compensation, net of tax benefit 	23.9 13.2 	(2.6 )
+Row:Deferred taxes 	(0.8 ) (58.5 ) 	(25.0 )
+Row:Gain on sale of discontinued operations, net of tax 	(250.4 ) — 	—
+Row:Other operating activities, net 	(18.8 ) 13.9 	(6.0 )
+Row:Changes in assets and liabilities, excluding effects of acquisitions:
+		Row:Receivables 	(54.5 ) (53.9 ) 	0.3
+Row:Inventories 	(29.0 ) (48.5 ) 	(12.2 )
+Row:Prepaid expenses and other assets 	(2.0 ) (20.1 ) 	(9.2 )
+Row:Accounts payable 	(39.5 ) 42.7 	21.6
+Row:Accrued expenses 	(99.9 ) 20.6 	23.1
+Row:Deferred revenues 	11.8 19.3 	11.7
+Row:Other long-term liabilities 	(3.3 ) (4.6 ) 	0.1
+Row:Net cash provided by operating activities 	339.2 458.7 	531.2
+Row:Investing activities:
+		Row:Proceeds from sale of discontinued operation 	758.0 — 	—
+Row:Acquisitions, net of cash acquired 	(19.5 ) (934.3 ) 	(185.5 )
+Row:Capital expenditures 	(120.7 ) (159.9 ) 	(108.8 )
+Row:Investing activities:
+		Row:Proceeds from sale of discontinued operation 	758.0 — 	—
+Row:Acquisitions, net of cash acquired 	(19.5 ) (934.3 ) 	(185.5 )
+Row:Capital expenditures 	(120.7 ) (159.9 ) 	(108.8 )
+Row:Other investing activities, net 	11.4 (0.1 ) 	0.9
+Row:Net cash provided by (used in) investing activities 	629.2 (1,094.3 ) 	(293.4 )
+Row:Financing activities:
+	Row:Proceeds from revolving credit facility 	— 1,189.0 —
+Row:Repayments of revolving credit facility 	— (1,189.0 ) —
+Row:Proceeds from notes 	— 997.2 —
+Row:Repayments of notes 	— — (150.0 )
+Row:Repurchases of common stock 	(459.8 ) (268.4 ) (75.0 )
+Row:Dividends paid 	(93.5 ) (92.1 ) (84.5 )
+Row:Financing costs 	— (8.3 ) —
+Row:Proceeds from exercise of stock options, net 	12.6 (1.2 ) 48.4
+Row:Net cash (used in) provided by financing activities 	(540.7 ) 627.2 (261.1 )
+Row:Effect of foreign currency exchange rate changes on cash and cash
+equivalents 	(1.1 ) 2.7 (2.1 )
+Row:Change in cash and cash equivalents 	426.6 (5.7 ) (25.4 )
+Row:Less: change in cash and cash equivalents of discontinued operations 	1.3 1.0 0.3
+Row:Cash and cash equivalents at beginning of period 	378.3 385.0 410.7
+Row:Cash and cash equivalents at end of period $ 	803.6 $ 378.3 $ 385.0

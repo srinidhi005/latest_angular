@@ -1,0 +1,127 @@
+Row:April 28,
+	April 29,
+Row:2017
+	2016
+Row:(In millions, 	except par value)
+Row:Current assets:
+Cash and cash equivalents $ 	2,444 	$ 2,868
+Row:Short-term investments 	2,477 	2,435
+Row:Accounts receivable 	731 	813
+Row:Inventories 	163 	98
+Row:Other current assets 	383 	234
+Row:Total current assets 	6,198 	6,448
+Row:Property and equipment, net 	799 	937
+Row:Goodwill 	1,684 	1,676
+Row:Other intangible assets, net 	131 	180
+Row:Other non-current assets 	681 	796
+Row:Total assets $ 	9,493 	$ 10,037
+Row:Current liabilities:
+	Row:Accounts payable $ 	347 $ 254
+Row:Accrued expenses 	782 765
+Row:Commercial paper notes 	500 —
+Row:Short-term loan 	— 849
+Row:Current portion of long-term debt 	749 —
+Row:Short-term deferred revenue and financed unearned services revenue 	1,744 1,794
+Row:Total current liabilities 	4,122 3,662
+Row:Long-term debt 	744 1,490
+Row:Other long-term liabilities 	249 413
+Row:Long-term deferred revenue and financed unearned services revenue 	1,598 1,591
+Row:Total liabilities 	6,713 7,156
+Row:or outstanding as of April 28, 2017 or April 29, 2016 	— 	—
+Row:Common stock and additional paid-in capital, $0.001 par value, 885 shares
+		Row:authorized; 269 and 281 shares issued and outstanding as of April 28, 2017
+		Row:and April 29, 2016, respectively 	2,769 	2,912
+Row:Retained earnings 	40 	—
+Row:Accumulated other comprehensive loss 	(29) 	(31)
+Row:Total stockholders' equity 	2,780 	2,881
+Row:Total liabilities and stockholders' equity $ 	9,493 	$ 10,037
+Row:April 28,
+	April 29,
+	April 24,
+Row:2017
+	2016
+	2015
+Row:Revenues:
+	(In millions, 	except per share 	amounts)
+Row:Product $ 	3,006 	$ 2,986 	$ 3,655
+Row:Software maintenance 	965 	949 	899
+Row:Hardware maintenance and other services 	1,548 	1,611 	1,569
+Row:Net revenues 	5,519 	5,546 	6,123
+Row:Cost of revenues:
+			Row:Cost of product 	1,614 	1,558 	1,657
+Row:Cost of software maintenance 	28 	37 	36
+Row:Cost of hardware maintenance and other services 	487 	578 	597
+Row:Total cost of revenues 	2,129 	2,173 	2,290
+Row:Gross profit 	3,390 	3,373 	3,833
+Row:Operating expenses:
+			Row:Sales and marketing 	1,633 	1,792 	1,913
+Row:Research and development 	779 	861 	920
+Row:General and administrative 	271 	307 	284
+Row:Restructuring charges 	52 	108 	—
+Row:Acquisition-related expense 	— 	8 	—
+Row:Gain on sale of properties 	(10) 	(51) 	—
+Row:Total operating expenses 	2,725 	3,025 	3,117
+Row:Income from operations 	665 	348 	716
+Row:Other expense, net 	— 	(3) 	(3)
+Row:Income before income taxes 	665 	345 	713
+Row:Provision for income taxes 	156 	116 	153
+Row:Net income $ 	509 	$ 229 	$ 560
+Row:Net income per share:
+			Row:Basic $ 	1.85 	$ 0.78 	$ 1.77
+Row:Diluted $ 	1.81 	$ 0.77 	$ 1.75
+Row:Shares used in net income per share calculations:
+			Row:Basic 	275 	294 	316
+Row:Diluted 	281 	297 	321
+Row:		April 24,
+2015
+Year Ended
+April 28,
+2017
+April 29,
+2016
+Row:Cash 	flows from operating activities:
+	(In millions)
+Row:Net 	income $ Adjustments to reconcile net income to net cash provided by
+operating activities:
+	509 $ 229 $ 560
+Row:	Depreciation and amortization 	226 279 307
+Row:	Stock-based compensation 	195 260 259
+Row:	Deferred income taxes 	90 (113) (3)
+Row:	Excess tax benefit from stock-based compensation 	— (5) (55)
+Row:	Gain on sale of properties 	(10) (51) —
+Row:	Other items, net 	(6) 75 35
+Row:	Changes in assets and liabilities, net of acquisitions of businesses:
+	Row:	Accounts receivable 	81 (16) 75
+Row:	Inventories 	(65) 49 (24)
+Row:	Other operating assets 	1 109 13
+Row:	Accounts payable 	94 (53) 39
+Row:	Accrued expenses 	(86) 30 (67)
+Row:	Deferred revenue and financed unearned services revenue 	(37) 186 122
+Row:	Other operating liabilities 	(6) (5) 7
+Row:	Net cash provided by operating activities 	986 974 1,268
+Row:Cash 	flows from investing activities:
+	Row:	Purchases of investments 	(1,977) (1,589) (2,597)
+Row:	Maturities, sales and collections of investments 	1,934 2,571 1,952
+Row:	Purchases of property and equipment 	(175) (160) (175)
+Row:	Proceeds from sale of properties Acquisitions of businesses, net of cash acquired 	— 102 —
+(8) (842) (85)
+Row:	Other investing activities, net 	6 3 2
+Row:	Net cash provided by (used in) investing activities 	(220) 85 (903)
+Row:Cash 	flows from financing activities:
+	Row:	Proceeds from issuance of common stock under employee stock
+award plans, net of tax withholdings 	92 70 157
+Row:	Repurchase of common stock 	(705) (960) (1,165)
+Row:	Proceeds from issuance of commercial paper notes, net 	499 — —
+Row:	Excess tax benefit from stock-based compensation 	— 5 55
+Row:	Proceeds from sale-leaseback financing transactions 	— 148 —
+Row:	Proceeds from short-term loan 	— 870 —
+Row:	Issuance of long-term debt, net 	— — 495
+Row:	Repayment of short-term loan 	(850) (20) —
+Row:	Dividends paid 	(208) (210) (208)
+Row:	Other financing activities, net 	(7) (12) (9)
+Row:	Net cash used in financing activities 	(1,179) (109) (675)
+Row:Effect Net 	of exchange rate changes on cash and cash equivalents increase (decrease) in cash and cash equivalents 	(11) (4) (59)
+(424) 946 (369)
+Row:Cash 	and cash equivalents:
+	Row:	Beginning of period 	2,868 1,922 2,291
+Row:End 	of period $ 	2,444 $ 2,868 $ 1,922

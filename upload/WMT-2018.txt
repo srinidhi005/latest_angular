@@ -1,0 +1,130 @@
+Row:2018 	2017 	2016
+Row:$ 495,761 	$ 481,317 	$ 478,614
+Row:4,582 	4,556 	3,516
+Row:500,343 	485,873 	482,130
+Row:373,396 	361,256 	360,984
+Row:106,510 	101,853 	97,041
+Row:20,437 	22,764 	24,105
+Row:1,978 	2,044 	2,027
+Row:352 	323 	521
+Row:(152) 	(100) 	(81)
+Row:2,178 	2,267 	2,467
+Row:3,136 	— 	—
+Row:15,123 	20,497 	21,638
+Row:4,600 	6,204 	6,558
+Row:10,523 	14,293 	15,080
+Row:(661) 	(650) 	(386)
+Row:$ 9,862 	$ 13,643 	$ 14,694
+Row:(Amounts in millions, except per share data) 	2018 	2017 	2016
+Row:Revenues:
+			Row:Net sales 	$ 495,761 	$ 481,317 	$ 478,614
+Row:Membership and other income 	4,582 	4,556 	3,516
+Row:Total revenues 	500,343 	485,873 	482,130
+Row:Costs and expenses:
+			Row:Cost of sales 	373,396 	361,256 	360,984
+Row:Operating, selling, general and administrative expenses 	106,510 	101,853 	97,041
+Row:Operating income 	20,437 	22,764 	24,105
+Row:Interest:
+			Row:Debt 	1,978 	2,044 	2,027
+Row:Capital lease and financing obligations 	352 	323 	521
+Row:Interest income 	(152) 	(100) 	(81)
+Row:Interest, net 	2,178 	2,267 	2,467
+Row:Loss on extinguishment of debt 	3,136 	— 	—
+Row:Income before income taxes 	15,123 	20,497 	21,638
+Row:Provision for income taxes 	4,600 	6,204 	6,558
+Row:Consolidated net income 	10,523 	14,293 	15,080
+Row:Consolidated net income attributable to noncontrolling interest 	(661) 	(650) 	(386)
+Row:Consolidated net income attributable to Walmart 	$ 9,862 	$ 13,643 	$ 14,694
+Row:Net income per common share:
+			Row:Basic net income per common share attributable to Walmart 	$ 3.29 	$ 4.40 	$ 4.58
+Row:Diluted net income per common share attributable to Walmart 	3.28 	4.38 	4.57
+Row:Weighted-average common shares outstanding:
+			Row:Basic 	2,995 	3,101 	3,207
+Row:Diluted 	3,010 	3,112 	3,217
+Row:Dividends declared per common share 	$ 2.04 	$ 2.00 	$ 1.96
+Row:See accompanying notes.
+			Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 6,756 	$ 6,867
+Row:Receivables, net 	5,614 	5,835
+Row:Inventories 	43,783 	43,046
+Row:Prepaid expenses and other 	3,511 	1,941
+Row:Total current assets 	59,664 	57,689
+Row:Property and equipment:
+		Row:Property and equipment 	185,154 	179,492
+Row:Less accumulated depreciation 	(77,479) 	(71,782)
+Row:Property and equipment, net 	107,675 	107,710
+Row:Property under capital lease and financing obligations:
+		Row:Property under capital lease and financing obligations 	12,703 	11,637
+Row:Less accumulated amortization 	(5,560) 	(5,169)
+Row:Property under capital lease and financing obligations, net 	7,143 	6,468
+Row:Goodwill 	18,242 	17,037
+Row:Other assets and deferred charges 	11,798 	9,921
+Row:Total assets 	$ 204,522 	$ 198,825
+Row:LIABILITIES AND EQUITY
+		Row:Current liabilities:
+		Row:Short-term borrowings 	$ 5,257 	$ 1,099
+Row:Accounts payable 	46,092 	41,433
+Row:Accrued liabilities 	22,122 	20,654
+Row:Accrued income taxes 	645 	921
+Row:Long-term debt due within one year 	3,738 	2,256
+Row:Capital lease and financing obligations due within one year 	667 	565
+Row:Total current liabilities 	78,521 	66,928
+Row:Long-term debt 	30,045 	36,015
+Row:Long-term capital lease and financing obligations 	6,780 	6,003
+Row:Deferred income taxes and other 	8,354 	9,344
+Row:Commitments and contingencies
+		Row:Equity:
+		Row:Common stock 	295 	305
+Row:Capital in excess of par value 	2,648 	2,371
+Row:Retained earnings 	85,107 	89,354
+Row:Accumulated other comprehensive loss 	(10,181) 	(14,232)
+Row:Total Walmart shareholders' equity 	77,869 	77,798
+Row:Noncontrolling interest 	2,953 	2,737
+Row:Total equity 	80,822 	80,535
+Row:Total liabilities and equity 	$ 204,522 	$ 198,825
+Row:See accompanying notes.
+		Row:(Amounts in millions) 	2018 	2017 	2016
+Row:Cash flows from operating activities:
+			Row:Consolidated net income $ 	10,523 	$ 14,293 	$ 15,080
+Row:Adjustments to reconcile consolidated net income to net cash provided by operating
+activities:
+			Row:Depreciation and amortization 	10,529 	10,080 	9,454
+Row:Deferred income taxes 	(304) 	761 	(672)
+Row:Loss on extinguishment of debt 	3,136 	— 	—
+Row:Other operating activities 	1,210 	206 	1,410
+Row:Changes in certain assets and liabilities, net of effects of acquisitions:
+			Row:Receivables, net 	(1,074) 	(402) 	(19)
+Row:Inventories 	(140) 	1,021 	(703)
+Row:Accounts payable 	4,086 	3,942 	2,008
+Row:Accrued liabilities 	928 	1,280 	1,466
+Row:Accrued income taxes 	(557) 	492 	(472)
+Row:Net cash provided by operating activities 	28,337 	31,673 	27,552
+Row:Cash flows from investing activities:
+			Row:Payments for property and equipment 	(10,051) 	(10,619) 	(11,477)
+Row:Proceeds from the disposal of property and equipment 	378 	456 	635
+Row:Proceeds from the disposal of certain operations 	1,046 	662 	246
+Row:Purchase of available for sale securities 	— 	(1,901) 	—
+Row:Business acquisitions, net of cash acquired 	(375) 	(2,463) 	—
+Row:Other investing activities 	(58) 	(122) 	(79)
+Row:Net cash used in investing activities 	(9,060) 	(13,987) 	(10,675)
+Row:Cash flows from financing activities:
+			Row:Net change in short-term borrowings 	4,148 	(1,673) 	1,235
+Row:Proceeds from issuance of long-term debt 	7,476 	137 	39
+Row:Repayments of long-term debt 	(13,061) 	(2,055) 	(4,432)
+Row:Premiums paid to extinguish debt 	(3,059) 	— 	—
+Row:Dividends paid 	(6,124) 	(6,216) 	(6,294)
+Row:Purchase of Company stock 	(8,296) 	(8,298) 	(4,112)
+Row:Dividends paid to noncontrolling interest 	(690) 	(479) 	(719)
+Row:Purchase of noncontrolling interest 	(8) 	(90) 	(1,326)
+Row:Other financing activities 	(261) 	(398) 	(676)
+Row:Net cash used in financing activities 	(19,875) 	(19,072) 	(16,285)
+Row:Effect of exchange rates on cash and cash equivalents 	487 	(452) 	(1,022)
+Row:Net increase (decrease) in cash and cash equivalents 	(111) 	(1,838) 	(430)
+Row:Cash and cash equivalents at beginning of year 	6,867 	8,705 	9,135
+Row:Cash and cash equivalents at end of year $ 	6,756 	$ 6,867 	$ 8,705
+Row:Supplemental disclosure of cash flow information:
+			Row:Income taxes paid 	6,179 	4,507 	8,111
+Row:Interest paid 	2,450 	2,351 	2,540
+Row:See accompanying notes.
+			

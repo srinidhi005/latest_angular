@@ -1,0 +1,134 @@
+Row:March 28, 	March 30,
+Row:2020 	2019
+Row:Assets
+Current assets:
+		Row:Cash and cash equivalents $ 	69,563 $ 	16,614
+Row:Accounts receivable, net 	12,087 	8,095
+Row:Inventories 	288,717 	240,734
+Row:Prepaid expenses and other current assets 	14,284 	11,900
+Row:Total current assets 	384,651 	277,343
+Row:Property and equipment, net 	109,603 	98,663
+Row:Right-of-use assets, net 	170,243 	—
+Row:Goodwill 	197,502 	195,858
+Row:Intangible assets, net 	60,974 	62,845
+Row:Other assets 	1,738 	1,366
+Row:Total assets $ 	924,711 $ 	636,075
+Row:Liabilities and stockholders’ equity
+		Row:Current liabilities:
+		Row:Line of credit $ 	129,900 $ 	—
+Row:Accounts payable 	95,334 	104,955
+Row:Accrued expenses and other current liabilities 	52,612 	46,988
+Row:Short-term lease liabilities 	34,779 	—
+Row:Total current liabilities 	312,625 	151,943
+Row:Deferred taxes 	19,801 	17,202
+Row:Long-term portion of notes payable, net 	109,022 	174,264
+Row:Capital lease obligations 	— 	6,746
+Row:Long-term lease liabilities 	160,935 	—
+Row:Other liabilities 	635 	21,756
+Row:Total liabilities 	603,018 	371,911
+Row:Commitments and contingencies (Note 10)
+		Row:Common stock, $0.0001 par value; March 28, 2020 - 100,000 shares authorized, 28,880 shares
+issued; March 30, 2019 - 100,000 shares authorized, 28,399 shares issued 	3 	3
+Row:Preferred stock, $0.0001 par value; 10,000 shares authorized, no shares issued or outstanding 	— 	—
+Row:Additional paid-in capital 	169,249 	159,137
+Row:Retained earnings Less: Common stock held in treasury, at cost, 71 and 51 shares at March 28, 2020 and March 30,
+	153,641 	105,692
+Row:2019, respectively 	(1,200) 	(668)
+Row:Total stockholders’ equity 	321,693 	264,164
+Row:Total liabilities and stockholders’ equity $ 	924,711 	$ 636,075
+Row:	2020 	2019 	2018
+Row:Net sales 	$ 845,575 	$ 776,854 	$ 677,949
+Row:Cost of goods sold 	569,084 	525,420 	470,034
+Row:Gross profit 	276,491 	251,434 	207,915
+Row:Selling, general and administrative expenses 	202,823 	187,112 	161,660
+Row:Income from operations 	73,668 	64,322 	46,255
+Row:Interest expense, net 	13,310 	16,331 	15,076
+Row:Other (loss)/income, net 	(45) 	5 	—
+Row:Income before income taxes 	60,313 	47,996 	31,179
+Row:Income tax expense 	12,364 	8,974 	2,300
+Row:Net income 	$ 47,949 	$ 39,022 	$ 28,879
+Row:Earnings per share:
+			Row:Basic shares 	$ 1.68 	$ 1.39 	$ 1.08
+Row:Diluted shares 	$ 1.64 	$ 1.35 	$ 1.05
+Row:Weighted average shares outstanding:
+			Row:Basic shares 	28,583 	28,092 	26,744
+Row:Diluted shares 	29,220 	28,813 	27,528
+Row:Common Stock 	Paid-In 	Retained 	Treasury 	Shares
+	Row:Shares Amount 	Capital 	Earnings 	Shares 	Amount 	Total
+Row:	Shares 	Amount Capital 	Earnings 	Shares 	Amount 	Total
+Row:Balance at April 1, 2017 	26,575 $ 	3 $ 142,184 	$ 37,791 	(14) 	$ (69) 	$ 179,909
+Row:Net income 	— 	— — 	28,879 	— 	— 	28,879
+Row:Issuance of common stock
+						Row:related to stock-based
+						Row:compensation 	756 	— 3,695 	— 	(4) 	— 	3,695
+Row:Tax withholding for net share
+settlement 	— 	— — 	— 	(13) 	(125) 	(125)
+Row:Stock-based compensation
+expense 	— 	— 2,248 	— 	— 	— 	2,248
+Row:Balance at March 31, 2018 	27,331 $ 	3 $ 148,127 	$ 66,670 	(31) 	$ (194) 	$ 214,606
+Row:Net income 	— 	— — 	39,022 	— 	— 	39,022
+Row:Issuance of common stock
+						Row:related to stock-based
+compensation 	1,068 	— 8,137 	— 	— 	— 	8,137
+Row:Tax withholding for net share
+settlement 	— 	— — 	— 	(20) 	(474) 	(474)
+Row:Stock-based compensation
+expense 	— 	— 2,873 	— 	— 	— 	2,873
+Row:Balance at March 30, 2019 	28,399 $ 	3 $ 159,137 	$ 105,692 	(51) 	$ (668) 	$ 264,164
+Row:Net income 	— 	— — 	47,949 	— 	— 	47,949
+Row:Issuance of common stock
+related to stock-based
+						Row:compensation 	481 	— 5,204 	— 	— 	— 	5,204
+Row:Tax withholding for net share
+settlement 	— 	— — 	— 	(20) 	(532) 	(532)
+Row:Stock-based compensation
+expense 	— 	— 4,908 	— 	— 	— 	4,908
+Row:Balance at March 28, 2020 	28,880 $ 	3 $ 169,249 	$ 153,641 	(71) 	$ (1,200) 	$ 321,693
+Row:March 28, 	March 30, 	March 31,
+Row:2020 	2019 	2018
+Row:Cash flows from operating activities
+Net income Adjustments to reconcile net income to net cash provided by operating
+activities:
+	$ 47,949 	$ 39,022 	$ 28,879
+Row:Depreciation 	21,211 	18,256 	16,000
+Row:Stock-based compensation 	4,908 	2,873 	2,248
+Row:Amortization of intangible assets 	172 	646 	1,128
+Row:Amortization of right-of-use assets 	31,091 	— 	—
+Row:Amortization of debt issuance fees and debt discount 	946 	1,235 	1,199
+Row:Loss on disposal of property and equipment 	417 	23 	252
+Row:Gain on adjustment of right-of-use assets and lease liabilities 	(186) 	— 	—
+Row:Damaged asset write-off 	— 	312 	2,357
+Row:Store impairment charge 	191 	455 	83
+Row:Accretion of above market leases 	— 	(28) 	(2)
+Row:Deferred taxes 	2,599 	4,172 	1,860
+Row:Changes in operating assets and liabilities, net of acquisition:
+			Row:Accounts receivable, net 	5,721 	(3,706) 	(35)
+Row:Inventories 	(45,622) 	(27,702) 	(24,598)
+Row:Prepaid expenses and other current assets 	(2,351) 	4,179 	(3,281)
+Row:Other assets 	(548) 	(254) 	(167)
+Row:Accounts payable 	(13,810) 	14,191 	13,062
+Row:Accrued expenses and other current liabilities 	6,310 	6,882 	3,977
+Row:Other liabilities 	(3,611) 	2,704 	1,238
+Row:Operating leases 	(30,070) 	— 	—
+Row:Net cash provided by operating activities 	$ 25,317 	$ 63,260 	$ 44,200
+Row:Cash flows from investing activities
+			Row:Purchases of property and equipment 	(37,195) 	(27,525) 	(24,418)
+Row:Insurance recoveries for property and equipment 	717 	184 	865
+Row:Acquisition of business, net of cash acquired 	(3,688) 	(4,424) 	—
+Row:Net cash used in investing activities 	$ (40,166) 	$ (31,765) 	$ (23,553)
+Row:Cash flows from financing activities
+			Row:Borrowings/(payments) on line of credit - net 	129,900 	(21,006) 	(12,268)
+Row:Repayments on debt and finance lease obligations 	(65,553) 	(10,554) 	(10,448)
+Row:Debt issuance fees paid 	(1,221) 	— 	(520)
+Row:Tax withholding payments for net share settlement 	(532) 	(474) 	(125)
+Row:Proceeds from the exercise of stock options 	5,204 	8,137 	3,695
+Row:Net cash provided by/(used in) financing activities 	$ 67,798 	$ (23,897) 	$ (19,666)
+Row:Net increase in cash and cash equivalents 	52,949 	7,598 	981
+Row:Cash and cash equivalents, beginning of period Cash and cash equivalents, end of period 	16,614 $ 69,563 	9,016 $ 16,614 	8,035
+$ 9,016
+Row:Supplemental disclosures of cash flow information:
+Cash paid for income taxes 	$ 13,391 	$ 649 	$ 614
+Row:Cash paid for interest 	$ 11,958 	$ 14,947 	$ 13,743
+Row:Supplemental disclosure of non-cash activities:
+			Row:Unpaid purchases of property and equipment 	$ 6,066 	$ 1,877 	$ 1,315
+Row:Equipment acquired through capital lease 	$ — 	$ 171 	$ —

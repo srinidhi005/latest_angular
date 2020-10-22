@@ -1,0 +1,895 @@
+RowCash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$ 1,179 	$ 1,005
+RowAccounts receivable and other receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	3,537 	5,845
+RowInventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	91,541 	84,827
+RowPrepaids and other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	2,142 	4,929
+RowTotal current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	98,399 	96,606
+RowProperty and equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	29,727 	19,426
+RowLong-term receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	1,266 	365
+RowIntangible assets and other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	4,403 	3,878
+RowTotal non-current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	35,396 	23,669
+RowTotal assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$133,795 	$120,275
+RowLiabilities and Stockholders’ Equity
+Current liabilities:
+			RowBank indebtedness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$ 47,021 	$ 36,925
+RowAccounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	33,264 	26,364
+RowAccrued liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	9,657 	7,496
+RowCurrent portion of long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	993 	3,372
+RowTotal current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	90,935 	74,157
+RowLong-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	16,111 	4,838
+RowOther long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	12,966 	8,803
+RowTotal long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	29,077 	13,641
+RowStockholders’ equity:
+Class A common stock—no par value, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. .
+		Rowunlimited shares authorized, issued and outstanding 10,242,911 . . . . . . . . . . . 	. . 	35,593 	35,593
+RowClass B common stock—no par value, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. .
+		Rowunlimited shares authorized, issued and outstanding 7,717,970 . . . . . . . . . . . . 	. . 	57,755 	57,755
+RowPreferred stock—no par value, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. .
+		Rowunlimited shares authorized, none issued . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	— 	—
+RowAdditional paid-in capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	19,120 	19,042
+RowAccumulated deficit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	(98,473) 	(79,787)
+RowAccumulated other comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	(212) 	(126)
+RowTotal stockholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	13,783 	32,477
+RowTotal liabilities and stockholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$133,795 	$120,275
+Row(*) Recast (refer to note 1)
+			Row$ 1,179 	$ 	1,005
+Row3,537 91,541 		5,845
+84,827
+Row2,142 		4,929
+Row98,399 		96,606
+Row29,727 		19,426
+Row1,266 4,403 35,396 $133,795 		365
+3,878
+23,669
+$120,275
+Row33,264 	26,364
+Row9,657 	7,496
+Row993 	3,372
+Row90,935 	74,157
+Row16,111 	4,838
+Row12,966 	8,803
+Row29,077 	13,641
+Row35,593 	35,593
+Row57,755 	57,755
+Row— 	—
+Row19,120 	19,042
+Row(98,473) 	(79,787)
+Row(212) 	(126)
+Row13,783 	32,477
+Row$133,795 	$120,275
+Row19,120 	19,042
+Row(98,473) 	(79,787)
+Row(212) 	(126)
+Row13,783 	32,477
+Row$133,795 	$120,275
+RowMarch 30, 2019 	March 31, 2018* 		March 25, 2017*
+Row(In thousands, $151,049 	except per $146,608 	share 	amounts)
+$152,992
+Row92,472 	90,915 		91,460
+Row58,577 	55,693 		61,532
+Row67,106 	66,754 		61,599
+Row1,182 	894 		897
+Row3,859 	3,264 		3,428
+Row46 	2,788 		—
+Row72,193 	73,700 		65,924
+Row(13,616) 	(18,007) 		(4,392)
+Row4,689 	3,988 		4,467
+Row(18,305) — 	(21,995) — 		(8,859)
+—
+Row(18,305) 	(21,995) 		(8,859)
+Row(381) 	(1,592) 		15,934
+Row— 	37,682 		—
+Row(381) 	36,090 		15,934
+Row$ (18,686) 	$ 14,095 		$ 7,075
+RowNet sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$151,049 	$146,608 RowCost of sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	92,472 	90,915 RowGross profit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	58,577 	55,693 RowSelling, general and administrative expenses . . . . . . . . . . . . . . . . 	67,106 	66,754 RowRestructuring charges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,182 	894 RowDepreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . 	3,859 	3,264 RowImpairment of long-lived assets . . . . . . . . . . . . . . . . . . . . . . . . . . 	46 	2,788 RowTotal operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	72,193 	73,700 RowOperating loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(13,616) 	(18,007) RowInterest and other financial costs . . . . . . . . . . . . . . . . . . . . . . . . . 	4,689 	3,988 RowLoss from continuing operations . . . . . . . . . . . . . . . . . . . . . . . . . 	(18,305) 	(21,995) RowIncome taxes (benefits) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	— RowNet loss from continuing operations . . . . . . . . . . . . . . . . . . . . . . 	(18,305) 	(21,995) RowDiscontinued operations: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+		Row(Loss) income from discontinued operations, net of tax . . . . . . . 	(381) 	(1,592) RowGain on disposal of discontinued operations . . . . . . . . . . . . . . . . 	— 	37,682 RowNet (loss) income from discontinued operations, net of tax . . . . 	(381) 	36,090 RowNet (loss) income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (18,686) 	$ 14,095 RowWeighted average common shares outstanding:
+		RowBasic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	17,961 	17,961 RowDiluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	17,961 	18,393 RowNet (loss) income per common share:
+		RowBasic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (1.04) 	$ 0.78 RowDiluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1.04) 	0.77 RowNet (loss) income from continuing operations per common
+share:
+		RowBasic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (1.02) 	$ (1.22) RowDiluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1.02) 	(1.20) Row(*) Recast (refer to note 1)
+		RowMarch 30, 2019 	March 31, 2018* 	March 25, 2017*
+Row	(In thousands)
+	Row$(18,686) 	$14,095 	$7,075
+Row(86) 	907 	10
+Row$(18,772) 	$15,002 	$7,085
+RowBalance at March 26, 2016* . . . . . . . . 	17,960,881 Voting common
+stock
+outstanding
+	93,348 Voting
+common
+stock
+	$18,855 Additional
+paid-in capital
+	$(100,957) Accumulated
+deficit
+	$(1,043) other
+comprehensive
+loss 	$ 10,203
+Total
+RowNet income . . . . . . . . . . . . . . . . . . . . . Cumulative translation
+	— 	— 	— 	7,075 	— 	7,075
+Rowadjustment(1) . . . . . . . . . . . . . . . . . . 	— 	— 	— 	— 	10 	10
+RowTotal comprehensive loss . . . . . . . . . . Compensation expense resulting from
+	— 	— 	— 	— 	— 	7,085
+Rowstock options granted to
+Management . . . . . . . . . . . . . . . . . . 	— 	— 	205 	— 	— 	205
+RowBalance at March 25, 2017* . . . . . . . . 	17,960,881 	$93,348 	$19,060 	$ (93,882) 	$(1,033) 	$ 17,493
+RowNet income . . . . . . . . . . . . . . . . . . . . . Cumulative translation
+	— 	— 	— 	14,095 	— 	14,095
+Rowadjustment(1) . . . . . . . . . . . . . . . . . . 	— 	— 	— 	— 	907 	907
+RowTotal comprehensive income . . . . . . . Re-classification to Net income from
+discontinued operations . . . . . . . . . . Compensation expense resulting from
+stock options granted to
+	— 	— 	— (193) 	— 	— 	15,002
+(193)
+RowManagement . . . . . . . . . . . . . . . . . . 	— 	— 	175 	— 	— 	175
+RowBalance at March 31, 2018* . . . . . . . . 	17,960,881 	$93,348 	$19,042 	$ (79,787) 	$ (126) 	$ 32,477
+RowNet loss . . . . . . . . . . . . . . . . . . . . . . . . Cumulative translation
+	— 	— 	— 	(18,686) 	— 	(18,686)
+Rowadjustment(1) . . . . . . . . . . . . . . . . . . 	— 	— 	— 	— 	(86) 	(86)
+RowTotal comprehensive loss . . . . . . . . . . Compensation expense resulting from
+	— 	— 	— 	— 	— 	(18,772)
+Rowstock options and stock
+appreciation rights granted to
+Management . . . . . . . . . . . . . . . . . . 	— 	— 	78 	— 	— 	78
+RowBalance at March 30, 2019 . . . . . . . . . 	17,960,881 	$93,348 	$19,120 	$ (98,473) 	$ (212) 	$ 13,783
+Row. 	— 	— 	175 	— 	— 	175
+Row. 	17,960,881 	$93,348 	$19,042 	$ (79,787) 	$ (126) 	$ 32,477
+Row. 	— 	— 	— 	(18,686) 	— 	(18,686)
+Row. 	— 	— 	— 	— 	(86) 	(86)
+Row. 	— 	— 	— 	— 	— 	(18,772)
+RowMarch 30, 2019 	March 31, 2018* 	March 25, 2017*
+Row	(In thousands)
+	Row$(18,686) 	$ 14,095 	$ 7,075
+Row(381) 	36,090 	15,934
+Row(18,305) 	(21,995) 	(8,859)
+Row3,859 	3,275 	3,476
+Row46 	2,770 	—
+Row332 	298 	394
+Row364 	(89) 	1,043
+Row1,407 	(2,907) 	(715)
+Row(6,714) 	130 	1,062
+Row2,787 	(3,100) 	4
+Row5,562 	770 	(749)
+Row6,322 	1,100 	(29)
+Row(4,340) 	(19,748) 	(4,373)
+Row(381) 	(18,508) 	13,922
+Row(4,721) 	(38,256) 	9,549
+Row(11,580) 	(6,538) 	(5,745)
+Row(2,031) 	(2,169) 	(16)
+Row(13,611) 	(8,707) 	(5,761)
+Row— 	137,299 	(895)
+Row(13,611) 	128,592 	(6,656)
+Row10,096 	(20,802) 	13,647
+Row12,500 	3,830 	—
+Row(3,121) 	(7,396) 	(3,316)
+Row(269) 	(3,782) 	(639)
+Row(591) 	(794) 	(486)
+Row(109) 	(182) 	(66)
+Row— 	3,212 	—
+Row— 	3,810 	493
+Row18,506 	(22,104) 	9,633
+Row— 	(69,262) 	(13,028)
+Row18,506 	(91,366) 	(3,395)
+Row— 	(565) 	(8)
+Row174 	(1,595) 	(510)
+Row1,005 	2,600 	3,110
+Row$ 1,179 	$ 1,005 	$ 2,600
+Row$ 3,654 	$ 4,604 	$ 4,501
+Row$ — 	$ 1,398 	$ 492
+Row$ 4,300 	$ 3,133 	$ 1,342
+RowCash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$ 1,179 	$ 1,005
+RowAccounts receivable and other receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	3,537 	5,845
+RowInventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	91,541 	84,827
+RowPrepaids and other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	2,142 	4,929
+RowTotal current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	98,399 	96,606
+RowProperty and equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	29,727 	19,426
+RowLong-term receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	1,266 	365
+RowIntangible assets and other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	4,403 	3,878
+RowTotal non-current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	35,396 	23,669
+RowTotal assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$133,795 	$120,275
+RowLiabilities and Stockholders’ Equity
+Current liabilities:
+			RowBank indebtedness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$ 47,021 	$ 36,925
+RowAccounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	33,264 	26,364
+RowAccrued liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	9,657 	7,496
+RowCurrent portion of long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	993 	3,372
+RowTotal current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	90,935 	74,157
+RowLong-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	16,111 	4,838
+RowOther long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	12,966 	8,803
+RowTotal long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	29,077 	13,641
+RowStockholders’ equity:
+Class A common stock—no par value, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. .
+		Rowunlimited shares authorized, issued and outstanding 10,242,911 . . . . . . . . . . . 	. . 	35,593 	35,593
+RowClass B common stock—no par value, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. .
+		Rowunlimited shares authorized, issued and outstanding 7,717,970 . . . . . . . . . . . . 	. . 	57,755 	57,755
+RowPreferred stock—no par value, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. .
+		Rowunlimited shares authorized, none issued . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	— 	—
+RowAdditional paid-in capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	19,120 	19,042
+RowAccumulated deficit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	(98,473) 	(79,787)
+RowAccumulated other comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	(212) 	(126)
+RowTotal stockholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	13,783 	32,477
+RowTotal liabilities and stockholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$133,795 	$120,275
+Row(*) Recast (refer to note 1)
+			Row$ 1,179 	$ 	1,005
+Row3,537 91,541 		5,845
+84,827
+Row2,142 		4,929
+Row98,399 		96,606
+Row29,727 		19,426
+Row1,266 4,403 35,396 $133,795 		365
+3,878
+23,669
+$120,275
+Row33,264 	26,364
+Row9,657 	7,496
+Row993 	3,372
+Row90,935 	74,157
+Row16,111 	4,838
+Row12,966 	8,803
+Row29,077 	13,641
+Row35,593 	35,593
+Row57,755 	57,755
+Row— 	—
+Row19,120 	19,042
+Row(98,473) 	(79,787)
+Row(212) 	(126)
+Row13,783 	32,477
+Row$133,795 	$120,275
+Row19,120 	19,042
+Row(98,473) 	(79,787)
+Row(212) 	(126)
+Row13,783 	32,477
+Row$133,795 	$120,275
+RowMarch 30, 2019 	March 31, 2018* 		March 25, 2017*
+Row(In thousands, $151,049 	except per $146,608 	share 	amounts)
+$152,992
+Row92,472 	90,915 		91,460
+Row58,577 	55,693 		61,532
+Row67,106 	66,754 		61,599
+Row1,182 	894 		897
+Row3,859 	3,264 		3,428
+Row46 	2,788 		—
+Row72,193 	73,700 		65,924
+Row(13,616) 	(18,007) 		(4,392)
+Row4,689 	3,988 		4,467
+Row(18,305) — 	(21,995) — 		(8,859)
+—
+Row(18,305) 	(21,995) 		(8,859)
+Row(381) 	(1,592) 		15,934
+Row— 	37,682 		—
+Row(381) 	36,090 		15,934
+Row$ (18,686) 	$ 14,095 		$ 7,075
+RowNet sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$151,049 	$146,608 RowCost of sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	92,472 	90,915 RowGross profit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	58,577 	55,693 RowSelling, general and administrative expenses . . . . . . . . . . . . . . . . 	67,106 	66,754 RowRestructuring charges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,182 	894 RowDepreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . 	3,859 	3,264 RowImpairment of long-lived assets . . . . . . . . . . . . . . . . . . . . . . . . . . 	46 	2,788 RowTotal operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	72,193 	73,700 RowOperating loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(13,616) 	(18,007) RowInterest and other financial costs . . . . . . . . . . . . . . . . . . . . . . . . . 	4,689 	3,988 RowLoss from continuing operations . . . . . . . . . . . . . . . . . . . . . . . . . 	(18,305) 	(21,995) RowIncome taxes (benefits) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	— RowNet loss from continuing operations . . . . . . . . . . . . . . . . . . . . . . 	(18,305) 	(21,995) RowDiscontinued operations: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+		Row(Loss) income from discontinued operations, net of tax . . . . . . . 	(381) 	(1,592) RowGain on disposal of discontinued operations . . . . . . . . . . . . . . . . 	— 	37,682 RowNet (loss) income from discontinued operations, net of tax . . . . 	(381) 	36,090 RowNet (loss) income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (18,686) 	$ 14,095 RowWeighted average common shares outstanding:
+		RowBasic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	17,961 	17,961 RowDiluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	17,961 	18,393 RowNet (loss) income per common share:
+		RowBasic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (1.04) 	$ 0.78 RowDiluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1.04) 	0.77 RowNet (loss) income from continuing operations per common
+share:
+		RowBasic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (1.02) 	$ (1.22) RowDiluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1.02) 	(1.20) Row(*) Recast (refer to note 1)
+		RowMarch 30, 2019 	March 31, 2018* 	March 25, 2017*
+Row	(In thousands)
+	Row$(18,686) 	$14,095 	$7,075
+Row(86) 	907 	10
+Row$(18,772) 	$15,002 	$7,085
+RowBalance at March 26, 2016* . . . . . . . . 	17,960,881 Voting common
+stock
+outstanding
+	93,348 Voting
+common
+stock
+	$18,855 Additional
+paid-in capital
+	$(100,957) Accumulated
+deficit
+	$(1,043) other
+comprehensive
+loss 	$ 10,203
+Total
+RowNet income . . . . . . . . . . . . . . . . . . . . . Cumulative translation
+	— 	— 	— 	7,075 	— 	7,075
+Rowadjustment(1) . . . . . . . . . . . . . . . . . . 	— 	— 	— 	— 	10 	10
+RowTotal comprehensive loss . . . . . . . . . . Compensation expense resulting from
+	— 	— 	— 	— 	— 	7,085
+Rowstock options granted to
+Management . . . . . . . . . . . . . . . . . . 	— 	— 	205 	— 	— 	205
+RowBalance at March 25, 2017* . . . . . . . . 	17,960,881 	$93,348 	$19,060 	$ (93,882) 	$(1,033) 	$ 17,493
+RowNet income . . . . . . . . . . . . . . . . . . . . . Cumulative translation
+	— 	— 	— 	14,095 	— 	14,095
+Rowadjustment(1) . . . . . . . . . . . . . . . . . . 	— 	— 	— 	— 	907 	907
+RowTotal comprehensive income . . . . . . . Re-classification to Net income from
+discontinued operations . . . . . . . . . . Compensation expense resulting from
+stock options granted to
+	— 	— 	— (193) 	— 	— 	15,002
+(193)
+RowManagement . . . . . . . . . . . . . . . . . . 	— 	— 	175 	— 	— 	175
+RowBalance at March 31, 2018* . . . . . . . . 	17,960,881 	$93,348 	$19,042 	$ (79,787) 	$ (126) 	$ 32,477
+RowNet loss . . . . . . . . . . . . . . . . . . . . . . . . Cumulative translation
+	— 	— 	— 	(18,686) 	— 	(18,686)
+Rowadjustment(1) . . . . . . . . . . . . . . . . . . 	— 	— 	— 	— 	(86) 	(86)
+RowTotal comprehensive loss . . . . . . . . . . Compensation expense resulting from
+	— 	— 	— 	— 	— 	(18,772)
+Rowstock options and stock
+appreciation rights granted to
+Management . . . . . . . . . . . . . . . . . . 	— 	— 	78 	— 	— 	78
+RowBalance at March 30, 2019 . . . . . . . . . 	17,960,881 	$93,348 	$19,120 	$ (98,473) 	$ (212) 	$ 13,783
+Row. 	— 	— 	175 	— 	— 	175
+Row. 	17,960,881 	$93,348 	$19,042 	$ (79,787) 	$ (126) 	$ 32,477
+Row. 	— 	— 	— 	(18,686) 	— 	(18,686)
+Row. 	— 	— 	— 	— 	(86) 	(86)
+Row. 	— 	— 	— 	— 	— 	(18,772)
+RowMarch 30, 2019 	March 31, 2018* 	March 25, 2017*
+Row	(In thousands)
+	Row$(18,686) 	$ 14,095 	$ 7,075
+Row(381) 	36,090 	15,934
+Row(18,305) 	(21,995) 	(8,859)
+Row3,859 	3,275 	3,476
+Row46 	2,770 	—
+Row332 	298 	394
+Row364 	(89) 	1,043
+Row1,407 	(2,907) 	(715)
+Row(6,714) 	130 	1,062
+Row2,787 	(3,100) 	4
+Row5,562 	770 	(749)
+Row6,322 	1,100 	(29)
+Row(4,340) 	(19,748) 	(4,373)
+Row(381) 	(18,508) 	13,922
+Row(4,721) 	(38,256) 	9,549
+Row(11,580) 	(6,538) 	(5,745)
+Row(2,031) 	(2,169) 	(16)
+Row(13,611) 	(8,707) 	(5,761)
+Row— 	137,299 	(895)
+Row(13,611) 	128,592 	(6,656)
+Row10,096 	(20,802) 	13,647
+Row12,500 	3,830 	—
+Row(3,121) 	(7,396) 	(3,316)
+Row(269) 	(3,782) 	(639)
+Row(591) 	(794) 	(486)
+Row(109) 	(182) 	(66)
+Row— 	3,212 	—
+Row— 	3,810 	493
+Row18,506 	(22,104) 	9,633
+Row— 	(69,262) 	(13,028)
+Row18,506 	(91,366) 	(3,395)
+Row— 	(565) 	(8)
+Row174 	(1,595) 	(510)
+Row1,005 	2,600 	3,110
+Row$ 1,179 	$ 1,005 	$ 2,600
+Row$ 3,654 	$ 4,604 	$ 4,501
+Row$ — 	$ 1,398 	$ 492
+Row$ 4,300 	$ 3,133 	$ 1,342
+RowCash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$ 1,179 	$ 1,005
+RowAccounts receivable and other receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	3,537 	5,845
+RowInventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	91,541 	84,827
+RowPrepaids and other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	2,142 	4,929
+RowTotal current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	98,399 	96,606
+RowProperty and equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	29,727 	19,426
+RowLong-term receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	1,266 	365
+RowIntangible assets and other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	4,403 	3,878
+RowTotal non-current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	35,396 	23,669
+RowTotal assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$133,795 	$120,275
+RowLiabilities and Stockholders’ Equity
+Current liabilities:
+			RowBank indebtedness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$ 47,021 	$ 36,925
+RowAccounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	33,264 	26,364
+RowAccrued liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	9,657 	7,496
+RowCurrent portion of long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	993 	3,372
+RowTotal current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	90,935 	74,157
+RowLong-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	16,111 	4,838
+RowOther long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	12,966 	8,803
+RowTotal long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	29,077 	13,641
+RowStockholders’ equity:
+Class A common stock—no par value, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. .
+		Rowunlimited shares authorized, issued and outstanding 10,242,911 . . . . . . . . . . . 	. . 	35,593 	35,593
+RowClass B common stock—no par value, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. .
+		Rowunlimited shares authorized, issued and outstanding 7,717,970 . . . . . . . . . . . . 	. . 	57,755 	57,755
+RowPreferred stock—no par value, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. .
+		Rowunlimited shares authorized, none issued . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	— 	—
+RowAdditional paid-in capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	19,120 	19,042
+RowAccumulated deficit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	(98,473) 	(79,787)
+RowAccumulated other comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	(212) 	(126)
+RowTotal stockholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	13,783 	32,477
+RowTotal liabilities and stockholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$133,795 	$120,275
+Row(*) Recast (refer to note 1)
+			Row$ 1,179 	$ 	1,005
+Row3,537 91,541 		5,845
+84,827
+Row2,142 		4,929
+Row98,399 		96,606
+Row29,727 		19,426
+Row1,266 4,403 35,396 $133,795 		365
+3,878
+23,669
+$120,275
+Row33,264 	26,364
+Row9,657 	7,496
+Row993 	3,372
+Row90,935 	74,157
+Row16,111 	4,838
+Row12,966 	8,803
+Row29,077 	13,641
+Row35,593 	35,593
+Row57,755 	57,755
+Row— 	—
+Row19,120 	19,042
+Row(98,473) 	(79,787)
+Row(212) 	(126)
+Row13,783 	32,477
+Row$133,795 	$120,275
+Row19,120 	19,042
+Row(98,473) 	(79,787)
+Row(212) 	(126)
+Row13,783 	32,477
+Row$133,795 	$120,275
+RowMarch 30, 2019 	March 31, 2018* 		March 25, 2017*
+Row(In thousands, $151,049 	except per $146,608 	share 	amounts)
+$152,992
+Row92,472 	90,915 		91,460
+Row58,577 	55,693 		61,532
+Row67,106 	66,754 		61,599
+Row1,182 	894 		897
+Row3,859 	3,264 		3,428
+Row46 	2,788 		—
+Row72,193 	73,700 		65,924
+Row(13,616) 	(18,007) 		(4,392)
+Row4,689 	3,988 		4,467
+Row(18,305) — 	(21,995) — 		(8,859)
+—
+Row(18,305) 	(21,995) 		(8,859)
+Row(381) 	(1,592) 		15,934
+Row— 	37,682 		—
+Row(381) 	36,090 		15,934
+Row$ (18,686) 	$ 14,095 		$ 7,075
+RowNet sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$151,049 	$146,608 RowCost of sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	92,472 	90,915 RowGross profit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	58,577 	55,693 RowSelling, general and administrative expenses . . . . . . . . . . . . . . . . 	67,106 	66,754 RowRestructuring charges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,182 	894 RowDepreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . 	3,859 	3,264 RowImpairment of long-lived assets . . . . . . . . . . . . . . . . . . . . . . . . . . 	46 	2,788 RowTotal operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	72,193 	73,700 RowOperating loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(13,616) 	(18,007) RowInterest and other financial costs . . . . . . . . . . . . . . . . . . . . . . . . . 	4,689 	3,988 RowLoss from continuing operations . . . . . . . . . . . . . . . . . . . . . . . . . 	(18,305) 	(21,995) RowIncome taxes (benefits) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	— RowNet loss from continuing operations . . . . . . . . . . . . . . . . . . . . . . 	(18,305) 	(21,995) RowDiscontinued operations: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+		Row(Loss) income from discontinued operations, net of tax . . . . . . . 	(381) 	(1,592) RowGain on disposal of discontinued operations . . . . . . . . . . . . . . . . 	— 	37,682 RowNet (loss) income from discontinued operations, net of tax . . . . 	(381) 	36,090 RowNet (loss) income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (18,686) 	$ 14,095 RowWeighted average common shares outstanding:
+		RowBasic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	17,961 	17,961 RowDiluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	17,961 	18,393 RowNet (loss) income per common share:
+		RowBasic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (1.04) 	$ 0.78 RowDiluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1.04) 	0.77 RowNet (loss) income from continuing operations per common
+share:
+		RowBasic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (1.02) 	$ (1.22) RowDiluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1.02) 	(1.20) Row(*) Recast (refer to note 1)
+		RowMarch 30, 2019 	March 31, 2018* 	March 25, 2017*
+Row	(In thousands)
+	Row$(18,686) 	$14,095 	$7,075
+Row(86) 	907 	10
+Row$(18,772) 	$15,002 	$7,085
+RowBalance at March 26, 2016* . . . . . . . . 	17,960,881 Voting common
+stock
+outstanding
+	93,348 Voting
+common
+stock
+	$18,855 Additional
+paid-in capital
+	$(100,957) Accumulated
+deficit
+	$(1,043) other
+comprehensive
+loss 	$ 10,203
+Total
+RowNet income . . . . . . . . . . . . . . . . . . . . . Cumulative translation
+	— 	— 	— 	7,075 	— 	7,075
+Rowadjustment(1) . . . . . . . . . . . . . . . . . . 	— 	— 	— 	— 	10 	10
+RowTotal comprehensive loss . . . . . . . . . . Compensation expense resulting from
+	— 	— 	— 	— 	— 	7,085
+Rowstock options granted to
+Management . . . . . . . . . . . . . . . . . . 	— 	— 	205 	— 	— 	205
+RowBalance at March 25, 2017* . . . . . . . . 	17,960,881 	$93,348 	$19,060 	$ (93,882) 	$(1,033) 	$ 17,493
+RowNet income . . . . . . . . . . . . . . . . . . . . . Cumulative translation
+	— 	— 	— 	14,095 	— 	14,095
+Rowadjustment(1) . . . . . . . . . . . . . . . . . . 	— 	— 	— 	— 	907 	907
+RowTotal comprehensive income . . . . . . . Re-classification to Net income from
+discontinued operations . . . . . . . . . . Compensation expense resulting from
+stock options granted to
+	— 	— 	— (193) 	— 	— 	15,002
+(193)
+RowManagement . . . . . . . . . . . . . . . . . . 	— 	— 	175 	— 	— 	175
+RowBalance at March 31, 2018* . . . . . . . . 	17,960,881 	$93,348 	$19,042 	$ (79,787) 	$ (126) 	$ 32,477
+RowNet loss . . . . . . . . . . . . . . . . . . . . . . . . Cumulative translation
+	— 	— 	— 	(18,686) 	— 	(18,686)
+Rowadjustment(1) . . . . . . . . . . . . . . . . . . 	— 	— 	— 	— 	(86) 	(86)
+RowTotal comprehensive loss . . . . . . . . . . Compensation expense resulting from
+	— 	— 	— 	— 	— 	(18,772)
+Rowstock options and stock
+appreciation rights granted to
+Management . . . . . . . . . . . . . . . . . . 	— 	— 	78 	— 	— 	78
+RowBalance at March 30, 2019 . . . . . . . . . 	17,960,881 	$93,348 	$19,120 	$ (98,473) 	$ (212) 	$ 13,783
+Row. 	— 	— 	175 	— 	— 	175
+Row. 	17,960,881 	$93,348 	$19,042 	$ (79,787) 	$ (126) 	$ 32,477
+Row. 	— 	— 	— 	(18,686) 	— 	(18,686)
+Row. 	— 	— 	— 	— 	(86) 	(86)
+Row. 	— 	— 	— 	— 	— 	(18,772)
+RowMarch 30, 2019 	March 31, 2018* 	March 25, 2017*
+Row	(In thousands)
+	Row$(18,686) 	$ 14,095 	$ 7,075
+Row(381) 	36,090 	15,934
+Row(18,305) 	(21,995) 	(8,859)
+Row3,859 	3,275 	3,476
+Row46 	2,770 	—
+Row332 	298 	394
+Row364 	(89) 	1,043
+Row1,407 	(2,907) 	(715)
+Row(6,714) 	130 	1,062
+Row2,787 	(3,100) 	4
+Row5,562 	770 	(749)
+Row6,322 	1,100 	(29)
+Row(4,340) 	(19,748) 	(4,373)
+Row(381) 	(18,508) 	13,922
+Row(4,721) 	(38,256) 	9,549
+Row(11,580) 	(6,538) 	(5,745)
+Row(2,031) 	(2,169) 	(16)
+Row(13,611) 	(8,707) 	(5,761)
+Row— 	137,299 	(895)
+Row(13,611) 	128,592 	(6,656)
+Row10,096 	(20,802) 	13,647
+Row12,500 	3,830 	—
+Row(3,121) 	(7,396) 	(3,316)
+Row(269) 	(3,782) 	(639)
+Row(591) 	(794) 	(486)
+Row(109) 	(182) 	(66)
+Row— 	3,212 	—
+Row— 	3,810 	493
+Row18,506 	(22,104) 	9,633
+Row— 	(69,262) 	(13,028)
+Row18,506 	(91,366) 	(3,395)
+Row— 	(565) 	(8)
+Row174 	(1,595) 	(510)
+Row1,005 	2,600 	3,110
+Row$ 1,179 	$ 1,005 	$ 2,600
+Row$ 3,654 	$ 4,604 	$ 4,501
+Row$ — 	$ 1,398 	$ 492
+Row$ 4,300 	$ 3,133 	$ 1,342
+RowCash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$ 1,179 	$ 1,005
+RowAccounts receivable and other receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	3,537 	5,845
+RowInventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	91,541 	84,827
+RowPrepaids and other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	2,142 	4,929
+RowTotal current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	98,399 	96,606
+RowProperty and equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	29,727 	19,426
+RowLong-term receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	1,266 	365
+RowIntangible assets and other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	4,403 	3,878
+RowTotal non-current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	35,396 	23,669
+RowTotal assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$133,795 	$120,275
+RowLiabilities and Stockholders’ Equity
+Current liabilities:
+			RowBank indebtedness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$ 47,021 	$ 36,925
+RowAccounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	33,264 	26,364
+RowAccrued liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	9,657 	7,496
+RowCurrent portion of long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	993 	3,372
+RowTotal current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	90,935 	74,157
+RowLong-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	16,111 	4,838
+RowOther long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	12,966 	8,803
+RowTotal long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	29,077 	13,641
+RowStockholders’ equity:
+Class A common stock—no par value, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. .
+		Rowunlimited shares authorized, issued and outstanding 10,242,911 . . . . . . . . . . . 	. . 	35,593 	35,593
+RowClass B common stock—no par value, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. .
+		Rowunlimited shares authorized, issued and outstanding 7,717,970 . . . . . . . . . . . . 	. . 	57,755 	57,755
+RowPreferred stock—no par value, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. .
+		Rowunlimited shares authorized, none issued . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	— 	—
+RowAdditional paid-in capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	19,120 	19,042
+RowAccumulated deficit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	(98,473) 	(79,787)
+RowAccumulated other comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	(212) 	(126)
+RowTotal stockholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	13,783 	32,477
+RowTotal liabilities and stockholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$133,795 	$120,275
+Row(*) Recast (refer to note 1)
+			Row$ 1,179 	$ 	1,005
+Row3,537 91,541 		5,845
+84,827
+Row2,142 		4,929
+Row98,399 		96,606
+Row29,727 		19,426
+Row1,266 4,403 35,396 $133,795 		365
+3,878
+23,669
+$120,275
+Row33,264 	26,364
+Row9,657 	7,496
+Row993 	3,372
+Row90,935 	74,157
+Row16,111 	4,838
+Row12,966 	8,803
+Row29,077 	13,641
+Row35,593 	35,593
+Row57,755 	57,755
+Row— 	—
+Row19,120 	19,042
+Row(98,473) 	(79,787)
+Row(212) 	(126)
+Row13,783 	32,477
+Row$133,795 	$120,275
+Row19,120 	19,042
+Row(98,473) 	(79,787)
+Row(212) 	(126)
+Row13,783 	32,477
+Row$133,795 	$120,275
+RowMarch 30, 2019 	March 31, 2018* 		March 25, 2017*
+Row(In thousands, $151,049 	except per $146,608 	share 	amounts)
+$152,992
+Row92,472 	90,915 		91,460
+Row58,577 	55,693 		61,532
+Row67,106 	66,754 		61,599
+Row1,182 	894 		897
+Row3,859 	3,264 		3,428
+Row46 	2,788 		—
+Row72,193 	73,700 		65,924
+Row(13,616) 	(18,007) 		(4,392)
+Row4,689 	3,988 		4,467
+Row(18,305) — 	(21,995) — 		(8,859)
+—
+Row(18,305) 	(21,995) 		(8,859)
+Row(381) 	(1,592) 		15,934
+Row— 	37,682 		—
+Row(381) 	36,090 		15,934
+Row$ (18,686) 	$ 14,095 		$ 7,075
+RowNet sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$151,049 	$146,608 RowCost of sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	92,472 	90,915 RowGross profit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	58,577 	55,693 RowSelling, general and administrative expenses . . . . . . . . . . . . . . . . 	67,106 	66,754 RowRestructuring charges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,182 	894 RowDepreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . 	3,859 	3,264 RowImpairment of long-lived assets . . . . . . . . . . . . . . . . . . . . . . . . . . 	46 	2,788 RowTotal operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	72,193 	73,700 RowOperating loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(13,616) 	(18,007) RowInterest and other financial costs . . . . . . . . . . . . . . . . . . . . . . . . . 	4,689 	3,988 RowLoss from continuing operations . . . . . . . . . . . . . . . . . . . . . . . . . 	(18,305) 	(21,995) RowIncome taxes (benefits) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	— RowNet loss from continuing operations . . . . . . . . . . . . . . . . . . . . . . 	(18,305) 	(21,995) RowDiscontinued operations: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+		Row(Loss) income from discontinued operations, net of tax . . . . . . . 	(381) 	(1,592) RowGain on disposal of discontinued operations . . . . . . . . . . . . . . . . 	— 	37,682 RowNet (loss) income from discontinued operations, net of tax . . . . 	(381) 	36,090 RowNet (loss) income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (18,686) 	$ 14,095 RowWeighted average common shares outstanding:
+		RowBasic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	17,961 	17,961 RowDiluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	17,961 	18,393 RowNet (loss) income per common share:
+		RowBasic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (1.04) 	$ 0.78 RowDiluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1.04) 	0.77 RowNet (loss) income from continuing operations per common
+share:
+		RowBasic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (1.02) 	$ (1.22) RowDiluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1.02) 	(1.20) Row(*) Recast (refer to note 1)
+		RowMarch 30, 2019 	March 31, 2018* 	March 25, 2017*
+Row	(In thousands)
+	Row$(18,686) 	$14,095 	$7,075
+Row(86) 	907 	10
+Row$(18,772) 	$15,002 	$7,085
+RowBalance at March 26, 2016* . . . . . . . . 	17,960,881 Voting common
+stock
+outstanding
+	93,348 Voting
+common
+stock
+	$18,855 Additional
+paid-in capital
+	$(100,957) Accumulated
+deficit
+	$(1,043) other
+comprehensive
+loss 	$ 10,203
+Total
+RowNet income . . . . . . . . . . . . . . . . . . . . . Cumulative translation
+	— 	— 	— 	7,075 	— 	7,075
+Rowadjustment(1) . . . . . . . . . . . . . . . . . . 	— 	— 	— 	— 	10 	10
+RowTotal comprehensive loss . . . . . . . . . . Compensation expense resulting from
+	— 	— 	— 	— 	— 	7,085
+Rowstock options granted to
+Management . . . . . . . . . . . . . . . . . . 	— 	— 	205 	— 	— 	205
+RowBalance at March 25, 2017* . . . . . . . . 	17,960,881 	$93,348 	$19,060 	$ (93,882) 	$(1,033) 	$ 17,493
+RowNet income . . . . . . . . . . . . . . . . . . . . . Cumulative translation
+	— 	— 	— 	14,095 	— 	14,095
+Rowadjustment(1) . . . . . . . . . . . . . . . . . . 	— 	— 	— 	— 	907 	907
+RowTotal comprehensive income . . . . . . . Re-classification to Net income from
+discontinued operations . . . . . . . . . . Compensation expense resulting from
+stock options granted to
+	— 	— 	— (193) 	— 	— 	15,002
+(193)
+RowManagement . . . . . . . . . . . . . . . . . . 	— 	— 	175 	— 	— 	175
+RowBalance at March 31, 2018* . . . . . . . . 	17,960,881 	$93,348 	$19,042 	$ (79,787) 	$ (126) 	$ 32,477
+RowNet loss . . . . . . . . . . . . . . . . . . . . . . . . Cumulative translation
+	— 	— 	— 	(18,686) 	— 	(18,686)
+Rowadjustment(1) . . . . . . . . . . . . . . . . . . 	— 	— 	— 	— 	(86) 	(86)
+RowTotal comprehensive loss . . . . . . . . . . Compensation expense resulting from
+	— 	— 	— 	— 	— 	(18,772)
+Rowstock options and stock
+appreciation rights granted to
+Management . . . . . . . . . . . . . . . . . . 	— 	— 	78 	— 	— 	78
+RowBalance at March 30, 2019 . . . . . . . . . 	17,960,881 	$93,348 	$19,120 	$ (98,473) 	$ (212) 	$ 13,783
+Row. 	— 	— 	175 	— 	— 	175
+Row. 	17,960,881 	$93,348 	$19,042 	$ (79,787) 	$ (126) 	$ 32,477
+Row. 	— 	— 	— 	(18,686) 	— 	(18,686)
+Row. 	— 	— 	— 	— 	(86) 	(86)
+Row. 	— 	— 	— 	— 	— 	(18,772)
+RowMarch 30, 2019 	March 31, 2018* 	March 25, 2017*
+Row	(In thousands)
+	Row$(18,686) 	$ 14,095 	$ 7,075
+Row(381) 	36,090 	15,934
+Row(18,305) 	(21,995) 	(8,859)
+Row3,859 	3,275 	3,476
+Row46 	2,770 	—
+Row332 	298 	394
+Row364 	(89) 	1,043
+Row1,407 	(2,907) 	(715)
+Row(6,714) 	130 	1,062
+Row2,787 	(3,100) 	4
+Row5,562 	770 	(749)
+Row6,322 	1,100 	(29)
+Row(4,340) 	(19,748) 	(4,373)
+Row(381) 	(18,508) 	13,922
+Row(4,721) 	(38,256) 	9,549
+Row(11,580) 	(6,538) 	(5,745)
+Row(2,031) 	(2,169) 	(16)
+Row(13,611) 	(8,707) 	(5,761)
+Row— 	137,299 	(895)
+Row(13,611) 	128,592 	(6,656)
+Row10,096 	(20,802) 	13,647
+Row12,500 	3,830 	—
+Row(3,121) 	(7,396) 	(3,316)
+Row(269) 	(3,782) 	(639)
+Row(591) 	(794) 	(486)
+Row(109) 	(182) 	(66)
+Row— 	3,212 	—
+Row— 	3,810 	493
+Row18,506 	(22,104) 	9,633
+Row— 	(69,262) 	(13,028)
+Row18,506 	(91,366) 	(3,395)
+Row— 	(565) 	(8)
+Row174 	(1,595) 	(510)
+Row1,005 	2,600 	3,110
+Row$ 1,179 	$ 1,005 	$ 2,600
+Row$ 3,654 	$ 4,604 	$ 4,501
+Row$ — 	$ 1,398 	$ 492
+Row$ 4,300 	$ 3,133 	$ 1,342
+RowCash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$ 1,179 	$ 1,005
+RowAccounts receivable and other receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	3,537 	5,845
+RowInventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	91,541 	84,827
+RowPrepaids and other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	2,142 	4,929
+RowTotal current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	98,399 	96,606
+RowProperty and equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	29,727 	19,426
+RowLong-term receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	1,266 	365
+RowIntangible assets and other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	4,403 	3,878
+RowTotal non-current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	35,396 	23,669
+RowTotal assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$133,795 	$120,275
+RowLiabilities and Stockholders’ Equity
+Current liabilities:
+			RowBank indebtedness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$ 47,021 	$ 36,925
+RowAccounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	33,264 	26,364
+RowAccrued liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	9,657 	7,496
+RowCurrent portion of long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	993 	3,372
+RowTotal current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	90,935 	74,157
+RowLong-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	16,111 	4,838
+RowOther long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	12,966 	8,803
+RowTotal long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	29,077 	13,641
+RowStockholders’ equity:
+Class A common stock—no par value, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. .
+		Rowunlimited shares authorized, issued and outstanding 10,242,911 . . . . . . . . . . . 	. . 	35,593 	35,593
+RowClass B common stock—no par value, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. .
+		Rowunlimited shares authorized, issued and outstanding 7,717,970 . . . . . . . . . . . . 	. . 	57,755 	57,755
+RowPreferred stock—no par value, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. .
+		Rowunlimited shares authorized, none issued . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	— 	—
+RowAdditional paid-in capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	19,120 	19,042
+RowAccumulated deficit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	(98,473) 	(79,787)
+RowAccumulated other comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	(212) 	(126)
+RowTotal stockholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	13,783 	32,477
+RowTotal liabilities and stockholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	$133,795 	$120,275
+Row(*) Recast (refer to note 1)
+			Row$ 1,179 	$ 	1,005
+Row3,537 91,541 		5,845
+84,827
+Row2,142 		4,929
+Row98,399 		96,606
+Row29,727 		19,426
+Row1,266 4,403 35,396 $133,795 		365
+3,878
+23,669
+$120,275
+Row33,264 	26,364
+Row9,657 	7,496
+Row993 	3,372
+Row90,935 	74,157
+Row16,111 	4,838
+Row12,966 	8,803
+Row29,077 	13,641
+Row35,593 	35,593
+Row57,755 	57,755
+Row— 	—
+Row19,120 	19,042
+Row(98,473) 	(79,787)
+Row(212) 	(126)
+Row13,783 	32,477
+Row$133,795 	$120,275
+Row19,120 	19,042
+Row(98,473) 	(79,787)
+Row(212) 	(126)
+Row13,783 	32,477
+Row$133,795 	$120,275
+RowMarch 30, 2019 	March 31, 2018* 		March 25, 2017*
+Row(In thousands, $151,049 	except per $146,608 	share 	amounts)
+$152,992
+Row92,472 	90,915 		91,460
+Row58,577 	55,693 		61,532
+Row67,106 	66,754 		61,599
+Row1,182 	894 		897
+Row3,859 	3,264 		3,428
+Row46 	2,788 		—
+Row72,193 	73,700 		65,924
+Row(13,616) 	(18,007) 		(4,392)
+Row4,689 	3,988 		4,467
+Row(18,305) — 	(21,995) — 		(8,859)
+—
+Row(18,305) 	(21,995) 		(8,859)
+Row(381) 	(1,592) 		15,934
+Row— 	37,682 		—
+Row(381) 	36,090 		15,934
+Row$ (18,686) 	$ 14,095 		$ 7,075
+RowNet sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$151,049 	$146,608 RowCost of sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	92,472 	90,915 RowGross profit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	58,577 	55,693 RowSelling, general and administrative expenses . . . . . . . . . . . . . . . . 	67,106 	66,754 RowRestructuring charges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,182 	894 RowDepreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . 	3,859 	3,264 RowImpairment of long-lived assets . . . . . . . . . . . . . . . . . . . . . . . . . . 	46 	2,788 RowTotal operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	72,193 	73,700 RowOperating loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(13,616) 	(18,007) RowInterest and other financial costs . . . . . . . . . . . . . . . . . . . . . . . . . 	4,689 	3,988 RowLoss from continuing operations . . . . . . . . . . . . . . . . . . . . . . . . . 	(18,305) 	(21,995) RowIncome taxes (benefits) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	— RowNet loss from continuing operations . . . . . . . . . . . . . . . . . . . . . . 	(18,305) 	(21,995) RowDiscontinued operations: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+		Row(Loss) income from discontinued operations, net of tax . . . . . . . 	(381) 	(1,592) RowGain on disposal of discontinued operations . . . . . . . . . . . . . . . . 	— 	37,682 RowNet (loss) income from discontinued operations, net of tax . . . . 	(381) 	36,090 RowNet (loss) income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (18,686) 	$ 14,095 RowWeighted average common shares outstanding:
+		RowBasic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	17,961 	17,961 RowDiluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	17,961 	18,393 RowNet (loss) income per common share:
+		RowBasic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (1.04) 	$ 0.78 RowDiluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1.04) 	0.77 RowNet (loss) income from continuing operations per common
+share:
+		RowBasic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (1.02) 	$ (1.22) RowDiluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1.02) 	(1.20) Row(*) Recast (refer to note 1)
+		RowMarch 30, 2019 	March 31, 2018* 	March 25, 2017*
+Row	(In thousands)
+	Row$(18,686) 	$14,095 	$7,075
+Row(86) 	907 	10
+Row$(18,772) 	$15,002 	$7,085
+RowBalance at March 26, 2016* . . . . . . . . 	17,960,881 Voting common
+stock
+outstanding
+	93,348 Voting
+common
+stock
+	$18,855 Additional
+paid-in capital
+	$(100,957) Accumulated
+deficit
+	$(1,043) other
+comprehensive
+loss 	$ 10,203
+Total
+RowNet income . . . . . . . . . . . . . . . . . . . . . Cumulative translation
+	— 	— 	— 	7,075 	— 	7,075
+Rowadjustment(1) . . . . . . . . . . . . . . . . . . 	— 	— 	— 	— 	10 	10
+RowTotal comprehensive loss . . . . . . . . . . Compensation expense resulting from
+	— 	— 	— 	— 	— 	7,085
+Rowstock options granted to
+Management . . . . . . . . . . . . . . . . . . 	— 	— 	205 	— 	— 	205
+RowBalance at March 25, 2017* . . . . . . . . 	17,960,881 	$93,348 	$19,060 	$ (93,882) 	$(1,033) 	$ 17,493
+RowNet income . . . . . . . . . . . . . . . . . . . . . Cumulative translation
+	— 	— 	— 	14,095 	— 	14,095
+Rowadjustment(1) . . . . . . . . . . . . . . . . . . 	— 	— 	— 	— 	907 	907
+RowTotal comprehensive income . . . . . . . Re-classification to Net income from
+discontinued operations . . . . . . . . . . Compensation expense resulting from
+stock options granted to
+	— 	— 	— (193) 	— 	— 	15,002
+(193)
+RowManagement . . . . . . . . . . . . . . . . . . 	— 	— 	175 	— 	— 	175
+RowBalance at March 31, 2018* . . . . . . . . 	17,960,881 	$93,348 	$19,042 	$ (79,787) 	$ (126) 	$ 32,477
+RowNet loss . . . . . . . . . . . . . . . . . . . . . . . . Cumulative translation
+	— 	— 	— 	(18,686) 	— 	(18,686)
+Rowadjustment(1) . . . . . . . . . . . . . . . . . . 	— 	— 	— 	— 	(86) 	(86)
+RowTotal comprehensive loss . . . . . . . . . . Compensation expense resulting from
+	— 	— 	— 	— 	— 	(18,772)
+Rowstock options and stock
+appreciation rights granted to
+Management . . . . . . . . . . . . . . . . . . 	— 	— 	78 	— 	— 	78
+RowBalance at March 30, 2019 . . . . . . . . . 	17,960,881 	$93,348 	$19,120 	$ (98,473) 	$ (212) 	$ 13,783
+Row. 	— 	— 	175 	— 	— 	175
+Row. 	17,960,881 	$93,348 	$19,042 	$ (79,787) 	$ (126) 	$ 32,477
+Row. 	— 	— 	— 	(18,686) 	— 	(18,686)
+Row. 	— 	— 	— 	— 	(86) 	(86)
+Row. 	— 	— 	— 	— 	— 	(18,772)
+RowMarch 30, 2019 	March 31, 2018* 	March 25, 2017*
+Row	(In thousands)
+	Row$(18,686) 	$ 14,095 	$ 7,075
+Row(381) 	36,090 	15,934
+Row(18,305) 	(21,995) 	(8,859)
+Row3,859 	3,275 	3,476
+Row46 	2,770 	—
+Row332 	298 	394
+Row364 	(89) 	1,043
+Row1,407 	(2,907) 	(715)
+Row(6,714) 	130 	1,062
+Row2,787 	(3,100) 	4
+Row5,562 	770 	(749)
+Row6,322 	1,100 	(29)
+Row(4,340) 	(19,748) 	(4,373)
+Row(381) 	(18,508) 	13,922
+Row(4,721) 	(38,256) 	9,549
+Row(11,580) 	(6,538) 	(5,745)
+Row(2,031) 	(2,169) 	(16)
+Row(13,611) 	(8,707) 	(5,761)
+Row— 	137,299 	(895)
+Row(13,611) 	128,592 	(6,656)
+Row10,096 	(20,802) 	13,647
+Row12,500 	3,830 	—
+Row(3,121) 	(7,396) 	(3,316)
+Row(269) 	(3,782) 	(639)
+Row(591) 	(794) 	(486)
+Row(109) 	(182) 	(66)
+Row— 	3,212 	—
+Row— 	3,810 	493
+Row18,506 	(22,104) 	9,633
+Row— 	(69,262) 	(13,028)
+Row18,506 	(91,366) 	(3,395)
+Row— 	(565) 	(8)
+Row174 	(1,595) 	(510)
+Row1,005 	2,600 	3,110
+Row$ 1,179 	$ 1,005 	$ 2,600
+Row$ 3,654 	$ 4,604 	$ 4,501
+Row$ — 	$ 1,398 	$ 492
+Row$ 4,300 	$ 3,133 	$ 1,342

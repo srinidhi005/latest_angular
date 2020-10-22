@@ -1,0 +1,106 @@
+Row:Cash 	6,048,668 $
+Row:Accounts receivable, net of estimated allowance for
+	Row:uncollectible accounts of $9,719,275 at December 31, 2018 	4,357,566
+Row:Prepaid expenses and other assets 	706,724
+Row:Total current assets 	11,112,958
+Row:Property and equipment:
+Leasehold improvements 	1,187,763
+Row:Office furniture and equipment 	2,609,777
+Row:Construction in process 	215,151
+Row:Total property and equipment 	4,012,691
+Row:Less: accumulated depreciation 	1,768,073
+Row:Property and equipment, net 	2,244,618
+Row:Other assets:
+Deposits 	167,271
+Row:Goodwill 	80,790,923
+Row:Total other assets 	80,958,194
+Row:Total assets 	94,315,770 $
+Row:Deposits 	167,271
+Row:Goodwill 	80,790,923
+Row:Total other assets 	80,958,194
+Row:Total assets 	94,315,770 $
+Row:Current liabilities:
+Accounts payable 	175,050 $
+Row:Current portion of notes payable 	695,000
+Row:Accrued expenses 	5,452,771
+Row:Total current liabilities Long-term liabilities:
+Phantom equity accrual, net of current portion Deferred rent 	6,322,821
+354,339
+936,531
+Row:Notes payable, net of current portion 	40,577,384
+Row:Other long-term liabilities 	351,399
+Row:Total long-term liabilities 	42,219,653
+Row:Total liabilities 	48,542,474
+Row:Equity:
+Additional paid-in capital 	56,193,454
+Row:Membersʼ capital 	(6,732,352)
+Row:Total TVG-Medulla Holdings, LLC equity 	49,461,102
+Row:Noncontrolling interest - clinics 	(3,687,806)
+Row:Total equity 	45,773,296
+Row:Total liabilities and equity 	94,315,770 $
+Row:Patient revenues 	51,024,817 $
+Row:Cost of revenues:
+Direct labor 	16,950,184
+Row:COGS - products and other 	1,047,250
+Row:Total cost of revenues 	17,997,434
+Row:Gross profit 	33,027,383
+Row:Operating expenses:
+Salaries and employee benefits 	12,617,890
+Row:Selling and marketing 	1,727,239
+Row:Rent, CAM, tax 	3,570,747
+Row:Professional services 	1,346,159
+Row:Travel 	238,018
+Row:Other services 	2,887,658
+Row:Depreciation 	490,374
+Row:Goodwill amortization 	8,972,154
+Row:Interest expense 	3,901,687
+Row:Total operating expenses 	35,751,926
+Row:Loss from operations 	(2,724,543)
+Row:Nonoperating income:
+Other non-operating income Net other income 	6,566
+6,566
+Row:Consolidated net loss 	(2,717,977)
+Row:Less net loss attributed to noncontrolling interest Net income attributed to TVG-Medulla Holdings, LLC 	(6,004,085)
+3,286,108 $
+Row:See accompanying notes to consolidated financial statements.
+	Row:	Common 	Common 	Equity 	Capital 	Clinics 	Receivable 	Total
+Row:Balance at December 31, 2017 - as adjusted $ Net income 	26,848,150 	28,059,710 $ – 	915,594 $ – – 	(7,128,198) $ 3,286,108 	2,316,279 $ – 	(54,854) $ – 	50,956,681 $
+3,286,108
+Row:Net loss - noncontrolling interest 		– 	– – 	– 	(6,004,085) 	– 	(6,004,085)
+Row:Tax distribution 		– 	– – 	(2,595,000) 	– 	– 	(2,595,000)
+Row:Accrued interest 		– 	– – 	– 	– 	(1,578) 	(1,578)
+Row:Principal payments 		– 	– – 	– 	– 	7,686 	7,686
+Row:Redemptions and distributions 	– 		– (430,000) 	(295,262) 	– 	48,746 	(676,516)
+Row:Issuance of Class B common 	– 	800,000 	– 	– 	– 	– 	800,000
+Row:Balance at December 31, 2018 $ 	26,848,150 	28,859,710 $ 	485,594 $ 	(6,732,352) $ 	(3,687,806) $ 	– $ 	45,773,296 $
+Row:Net loss 	(2,717,977) $
+Row:Adjustments to reconcile net loss to net cash
+	Row:provided by operating activities:
+	Row:Depreciation 	490,374
+Row:Amortization of goodwill 	8,972,154
+Row:Amortization of deferred financing costs 	208,154
+Row:Changes in operating assets and liabilities:
+	Row:Accounts receivable 	(127,679)
+Row:Prepaid expenses and other assets 	(196,922)
+Row:Deposits 	(3,801)
+Row:Accounts payable 	(138,083)
+Row:Accrued expenses 	2,330,118
+Row:Phantom equity accrual 	158,017
+Row:Deferred rent Net cash provided by operating activities Investing activities
+	(76,110)
+8,898,245
+Row:Cash paid for business acquisition, net of cash acquired 	(346,950)
+Row:Purchase of property and equipment 	(632,832)
+Row:Net cash used in investing activities 	(979,782)
+Row:Financing activities
+Proceeds from issuance of notes payable 	456,728
+Row:Principal payments on debt Payments received on subscriptions receivable, net Issuance of Class B Common 	(770,000)
+54,854
+800,000
+Row:Purchase of clinic director equity 	(725,262)
+Row:Tax distribution 	(2,595,000)
+Row:Net cash used in financing activities 	(2,778,680)
+Row:Net increase in cash and cash equivalents 	5,139,783
+Row:Cash – beginning of year Cash – end of year Supplemental disclosures of
+	908,885
+6,048,668 $

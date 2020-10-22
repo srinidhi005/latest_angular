@@ -1,0 +1,372 @@
+Row:(In millions, except per share data)
+	2017
+	2016
+	2015
+Row:Revenues
+	$
+34,350 	$ 32,376 	$
+30,601
+Row:Cost of sales
+	19,038
+	17,405
+	16,534
+Row:Gross profit
+	15,312
+	14,971
+	14,067
+Row:Demand creation expense
+	3,341
+	3,278
+	3,213
+Row:Operating overhead expense
+	7,222
+	7,191
+	6,679
+Row:Total selling and administrative expense
+	10,563
+	10,469
+	9,892
+Row:Interest expense (income), net
+	59
+	19
+	28
+Row:Other (income) expense, net
+	(196)
+	(140)
+	(58)
+Row:Income before income taxes
+	4,886
+	4,623
+	4,205
+Row:Income tax expense
+	646
+	863
+	932
+Row:NET INCOME
+	4,240 $
+	$
+3,760 	$
+3,273
+Row:Earnings per common share:
+			Row:Basic
+	$
+2.56 	$
+2.21 	$
+1.90
+Row:Diluted
+	$
+2.51 	$
+2.16 	$
+1.85
+Row:Dividends declared per common share
+	$
+0.70 	$
+0.62
+	$
+0.54
+Row:The accompanying Notes to the Consolidated Financial Statements are an integral part of this statement.
+			Row:(In millions)
+	May 2017
+	31,
+2016
+Row:ASSETS
+		Row:Current assets:
+		Row:Cash and equivalents
+	$
+3,808 	$
+3,138
+Row:Short-term investments
+	2,371
+	2,319
+Row:Accounts receivable, net
+	3,677
+	3,241
+Row:Inventories
+	5,055
+	4,838
+Row:Prepaid expenses and other current assets
+	1,150
+	1,489
+Row:Total current assets
+	16,061
+	15,025
+Row:Property, plant and equipment, net
+	3,989
+	3,520
+Row:Identifiable intangible assets, net
+	283
+	281
+Row:Goodwill
+	139
+	131
+Row:Deferred income taxes and other assets
+	2,787
+	2,422
+Row:TOTAL ASSETS
+	23,259 $
+	$
+21,379
+Row:LIABILITIES AND SHAREHOLDERS' EQUITY
+		Row:Current liabilities:
+		Row:Current portion of long-term debt
+	$
+6 	44
+$
+Row:Notes payable
+	325
+	1
+Row:Accounts payable
+	2,048
+	2,191
+Row:Accrued liabilities
+	3,011
+	3,037
+Row:Income taxes payable
+	84
+	85
+Row:Total current liabilities
+	5,474
+	5,358
+Row:Long-term debt
+	3,471
+	1,993
+Row:Deferred income taxes and other liabilities
+	1,907
+	1,770
+Row:Commitments and contingencies
+		Row:Redeemable preferred stock
+		Row:Shareholders' equity:
+		Row:Common stock at stated value:
+		Row:Class A convertible – 329 and 353 shares outstanding
+		Row:Class B – 1,314 and 1,329 shares outstanding
+	3
+	3
+Row:Capital in excess of stated value
+	8,638
+	7,786
+Row:Accumulated other comprehensive (loss) income
+	(213)
+	318
+Row:Retained earnings
+	3,979
+	4,151
+Row:Total shareholders' equity
+	12,407
+	12,258
+Row:TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY
+	23,259 $
+	$
+21,379
+Row:The accompanying Notes to the Consolidated Financial Statements are an integral part of this statement.
+		Row:(In millions)
+	2017
+	2016
+	2015
+Row:Cash provided by operations:
+			Row:Net income
+	$
+4,240 	$
+3,760 	$
+3,273
+Row:Income charges (credits) not affecting cash:
+			Row:Depreciation
+	706
+	649
+	606
+Row:Deferred income taxes
+	(273)
+	(80)
+	(113)
+Row:Stock-based compensation
+	215
+	236
+	191
+Row:Amortization and other
+	10
+	13
+	43
+Row:Net foreign currency adjustments
+	(117)
+	98
+	424
+Row:Changes in certain working capital components and other assets and liabilities:
+			Row:(Increase) decrease in accounts receivable
+	(426)
+	60
+	(216)
+Row:(Increase) in inventories
+	(231)
+	(590)
+	(621)
+Row:(Increase) in prepaid expenses and other current assets
+	(120)
+	(161)
+	(144)
+Row:(Decrease increase in accounts payable, accrued liabilities and income taxes payable
+	(364)
+	(889
+	1,237
+Row:Cash provided by operations
+	3,640
+	3,096
+	4,680
+Row:Cash used by investing activities:
+			Row:Purchases of short-term investments
+	(5,928)
+	(5,367)
+	(4,936)
+Row:Maturities of short-term investments
+	3,623
+	2,924
+	3,655
+Row:Sales of short-term investments
+	2,423
+	2,386
+	2,216
+Row:Investments in reverse repurchase agreements
+		150
+	(150)
+Row:Additions to property, plant and equipment
+	(1,105)
+	(1,143)
+	(963)
+Row:Disposals of property, plant and equipment
+	13
+	10
+	3
+Row:Other investing activities
+	(34)
+	6
+	Row:Cash used by investing activities
+	(1,008)
+	(1,034)
+	(175)
+Row:Cash used by financing activities:
+			Row:Net proceeds from long-term debt issuance
+	1,482
+	981
+	Row:Long-term debt payments, including current portion
+	(44)
+	(106)
+	(7)
+Row:Increase (decrease) in notes payable
+	327
+	(67)
+	(63)
+Row:Payments on capital lease and other financing obligations
+	(17)
+	(7)
+	(19)
+Row:Proceeds from exercise of stock options and other stock issuances
+	489
+	507
+	514
+Row:Excess tax benefits from share-based payment arrangements
+	177
+	281
+	218
+Row:Repurchase of common stock
+	(3,223)
+	(3,238)
+	(2,534)
+Row:Dividends – common and preferred
+	(1,133)
+	(1,022)
+	(899)
+Row:Cash used by financing activities
+	(1,942)
+	(2,671)
+	(2,790)
+Row:Effect of exchange rate changes on cash and equivalents
+	(20)
+	(105)
+	(83)
+Row:Net increase (decrease) in cash and equivalents
+	670
+	(714)
+	1,632
+Row:Cash and equivalents, beginning of year
+	3,138
+	3,852
+	2,220
+Row:CASH AND EQUIVALENTS, END OF YEAR
+	3,808 $
+	$
+3,138 	$
+3,852
+Row:Supplemental disclosure of cash flow information:
+			Row:Cash paid during the year for:
+			Row:Interest, net of capitalized interest
+	$
+98 	$
+70 	$
+53
+Row:Income taxes
+	703
+	748
+	1,262
+Row:Non-cash additions to property, plant and equipment
+	266
+	252
+	206
+Row:Dividends declared and not paid
+	300
+	271
+	240
+Row:(In millions, except per share data)	2017	2016	2015Row:Revenues	$
+34,350 	$ 32,376 $	30,601Row:Cost of sales	19,038	17,405	16,534Row:Gross profit	15,312	14,971	14,067Row:Demand creation expense	3,341	3,278	3,213Row:Operating overhead expense	7,222	7,191	6,679Row:Total selling and administrative expense	10,563	10,469	9,892Row:Interest expense (income), net	59	19	28Row:Other (income) expense, net	(196)	(140)	(58)Row:Income before income taxes	4,886	4,623	4,205Row:Income tax expense	646	863	932Row:NET INCOME
+	4,240 $
+	$3,760 $
+	3,273
+Row:Earnings per common share:			Row:Basic	$2.56 	$2.21 $	1.90Row:Diluted
+	$
+2.51 	$
+2.16 $
+	1.85
+Row:Dividends declared per common share
+	$
+0.70 	$
+0.62
+$
+	0.54
+Row:(In millions)	2017
+	2016
+Row:ASSETS		Row:Current assets:		Row:$
+Cash and equivalents	3,808 	$3,138Row:Short-term investments	2,371	2,319Row:Accounts receivable, net	3,677	3,241Row:InventoriesPrepaid expenses and other current assets	5,0551,150	4,8381,489Row:Total current assets	16,061	15,025Row:Property, plant and equipment, net	3,989	3,520Row:Identifiable intangible assets, net	283	281Row:Goodwill	139	131Row:Deferred income taxes and other assets	2,787	2,422Row:$
+TOTAL ASSETS	23,259 	$
+21,379
+Row:LIABILITIES AND SHAREHOLDERS' EQUITY		Row:Current liabilities:		Row:$
+Current portion of long-term debt	6 	$44Row:Notes payable	325	1Row:Accounts payable	2,048	2,191Row:Accrued liabilities	3,011	3,037Row:Income taxes payable	84	85Row:Total current liabilities	5,474	5,358Row:Long-term debt	3,471	1,993Row:Deferred income taxes and other liabilities	1,907
+	1,770
+Row:Commitments and contingencies		Row:Redeemable preferred stock		Row:Shareholders' equity:		Row:Common stock at stated value:		Row:Class A convertible - 329 and 353 shares outstanding		Row:Class B – 1,314 and 1,329 shares outstanding	3	3Row:Capital in excess of stated value	8,638	7,786Row:Accumulated other comprehensive (loss) income	(213)	318Row:Retained earnings	3,979	4,151Row:Total shareholders' equity	12,407	12,258Row:TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY
+$
+	23,259 	$
+21,379
+Row:(In millions)Cash provided by operations:	2017
+	2016
+	2015
+Row:$
+Net income	4,240 	$
+3,760 $
+	3,273
+Row:Income charges (credits) not affecting cash:			Row:DepreciationDeferred income taxes	706(273)	649(80)	606(113)Row:Stock-based compensation	215	236	191Row:Amortization and other	10	13	43Row:Net foreign currency adjustments	(117)
+	98
+	424
+Row:Changes in certain working capital components and other assets and liabilities:			Row:(Increase) decrease in accounts receivable	(426)	60	(216)Row:(Increase) in inventories	(231)	(590)	(621)Row:(Increase) in prepaid expenses and other current assets	(120)	(161)	(144)Row:(Decrease) increase in accounts payable, accrued liabilities and income taxes payableCash provided by operations	(364)3,640
+	(889)3,096
+	1,2374,680
+Row:Cash used by investing activities:			Row:Purchases of short-term investments	(5,928)	(5,367)	(4,936)Row:Maturities of short-term investments	3,623	2,924	3,655Row:Sales of short-term investments	2,423
+	2,386	2,216Row:Investments in reverse repurchase agreements		150	(150)Row:Additions to property, plant and equipment	(1,105)	(1,143)	(963)Row:Disposals of property, plant and equipment	13	10	3
+Row:Other investing activitiesCash used by investing activities	(34)(1,008)
+	6(1,034)
+	(175)
+Row:Cash used by financing activities:			Row:Net proceeds from long-term debt issuance	1,482	981	Row:Long-term debt payments, including current portion	(44)	(106)	(7)Row:Increase (decrease) in notes payable	327	(67)	(63)Row:Payments on capital lease and other financing obligations	(17)	(7)	(19)Row:Proceeds from exercise of stock options and other stock issuances	489	507	514Row:Excess tax benefits from share-based payment arrangements	77	281	21Row:Repurchase of common stock	(3,223)	(3,238)	(2,534)Row:Dividends common and preferred	(1,133)	(1,022)	(899)Row:Cash used by financing activities	(1,942)	(2,671)	(2,790)Row:Effect of exchange rate changes on cash and equivalents	(20)	(105)	(83)Row:Net increase (decrease) in cash and equivalents	670	(714)	1,632Row:Cash and equivalents, beginning of year	3,138	3,852	2,220Row:CASH AND EQUIVALENTS, END OF YEAR$
+	3,808 	$
+3,138 $
+	3,852
+Row:Supplemental disclosure of cash flow information:			Row:Cash paid during the year for:			Row:Interest, net of capitalized interest$
+	98 	$70 $	53Row:Income taxes	703	748	1,262Row:Non-cash additions to property, plant and equipmentDividends declared and not paid
+	266
+300
+	252271
+	206240

@@ -1,0 +1,133 @@
+Row:Revenues
+	(Millions Except Share and Per Share 	Amounts)
+Row:Net sales and operating revenues $ 	7,363 $ 7,205 	$ 5,937
+Row:Costs and expenses
+		Row:Cost of sales (exclusive of depreciation and amortization shown below) 	6,170 6,037 	4,900
+Row:Goodwill impairment charge 	— 11 	—
+Row:Engineering, research, and development 	126 133 	117
+Row:Selling, general, and administrative 	427 428 	417
+Row:Depreciation and amortization of other intangibles 	205 207 	216
+Row:	6,928 6 ,816 	5,650
+Row:Other income (expense)
+		Row:Loss on sale of receivables 	(4) (5) 	(3)
+Row:Other expense 	(3) (5) 	(3)
+Row:	(7) (10) 	(6)
+Row:Earnings before interest expense, income taxes, and noncontrolling
+interests 	428 379 	281
+Row:Interest expense (net of interest capitalized of $4 million each for 2012, 2011
+and 2010, respectively) 	105 108 	149
+Row:Earnings before income taxes and noncontrolling interests 	323 271 	132
+Row:Income tax expense 	19 88 	6 9
+Row:Net income 	304 183 	63
+Row:Less: Net income attributable to noncontrolling interests 	29 26 	24
+Row:Net income attributable to Tenneco Inc. $ 	275 $ 157 	$ 39
+Row:Earnings per share
+Weighted average shares of common stock outstanding —
+–
+		Row:Basic 	59,985,677 59,884,139 	59,208,103
+Row:Diluted 	61,083,510 61,520,160 	60,998,694
+Row:Basic earnings per share of common stock $ 	4.58 $ 2.62 	$ 0.65
+Row:Diluted earnings per share of common stock $ 	4.50 $ 2.55 	$ 0.63
+Row:The accompanying notes to consolidated financial 	statements are an integral
+	Row:Basic 	59,985,677 	59,884,139 	59,208,103
+Row:Diluted 	61,083,510 	61,520,160 	60,998,694
+Row:Basic earnings per share of common stock 	$ 4.58 	$ 2.62 	$ 0.65
+Row:Diluted earnings per share of common stock 	$ 4.50 	$ 2.55 	$ 0.63
+Row:Current assets:
+	Row:Cash and cash equivalents 	$ 223 $ 214
+Row:Receivables —
+	Row:Customer notes and accounts, net 	9 6 6 936
+Row:Other 	20 44
+Row:Inventories 	66 7 592
+Row:Deferred income taxes 	72 40
+Row:Prepayments and other 	176 153
+Row:Total current assets 	2,124 1,979
+Row:Other assets:
+	Row:Long-term receivables, net 	4 10
+Row:Goodwill 	72 74
+Row:Intangibles, net 	35 32
+Row:Deferred income taxes 	116 92
+Row:Other 	135 103
+Row:	362 311
+Row:Plant, property, and equipment, at cost 	3,365 3,153
+Row:Less — – Accumulated depreciation and amortization 	(2,243) (2,106)
+Row:	1,122 1,047
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+	Row:Current liabilities:
+	Row:Short-term debt (including current maturities of long-term debt) 	$ 113 $ 6 6
+Row:Trade payables 	1,186 1,171
+Row:Accrued taxes 	50 44
+Row:Accrued interest 	10 13
+Row:Accrued liabilities 	239 226
+Row:Other 	5 1 50
+Row:Total current liabilities 	1,649 1,570
+Row:Long-term debt 	1,067 1,158
+Row:Deferred income taxes 	27 51
+Row:Postretirement benefits 	407 385
+Row:Deferred credits and other liabilities 	152 118
+Row:Commitments and contingencies
+	Row:Total liabilities 	3,302 3,282
+Row:Redeemable noncontrolling interests 	1 5 12
+Row:Tenneco Inc. Shareholders’ equity:
+	Row:Common stock 	1 1
+Row:Premium on common stock and other capital surplus 	3,031 3,016
+Row:Accumulated other comprehensive loss 	(408) (382)
+Row:Retained earnings (accumulated deficit) 	(2,104) (2,379)
+Row:	520 256
+Row:Less — – Shares held as treasury stock, at cost 	274 256
+Row:Total Tenneco Inc. shareholders’ equity 	246 —
+Row:Noncontrolling interests 	45 43
+Row:Total equity 	291 43
+Row:Total liabilities, redeemable noncontrolling interests and equity 	$ 3,608 $ 3,337
+Row:Operating Activities
+Net income 	$ 304 	(Millions)
+$ 183 	$ 63
+Row:Adjustments to reconcile net income to cash provided by operating activities -
+—
+			Row:Goodwill impairment charge 	— 	11 	—
+Row:Depreciation and amortization of other intangibles 	205 	207 	216
+Row:Deferred income taxes 	(65) 	(5) 	4
+Row:Stock-based compensation 	11 	8 	9
+Row:Loss on sale of assets 	4 	4 	3
+Row:Changes in components of working capital —
+			Row:Increase in receivables Increase in inventories 	(9) (72) 	(183) (64) 	(231)
+(122)
+Row:(Increase) decrease in prepayments and other current assets Increase in payables 	(21) 12 	(13) 144 	20
+238
+Row:Increase (decrease) in accrued taxes 	7 	(7) 	12
+Row:Decrease in accrued interest 	(3) 	— 	(8)
+Row:Increase (decrease) in other current liabilities 	10 	(7) 	20
+Row:Change in long-term assets 	14 	1 	12
+Row:Change in long-term liabilities 	(37) 5 	(41) 7 	6
+2
+Row:Other Net cash provided by operating activities Investing Activities
+	365 	245 	244
+Row:Proceeds from sale of assets Cash payments for plant, property, and equipment 	3 (256) 	4 (213) 	3
+(151)
+Row:Cash payments for software related intangible assets 	(13) 	(15) 	(12)
+Row:Cash payments for net assets purchased Other 	(7) — 	— — 	—
+3
+Row:Net cash used by investing activities 	(273) 	(224) 	(157)
+Row:Financing Activities
+			Row:Retirement of long-term debt Issuance of long-term debt 	(411) 250 	(24) 5 	(864)
+880
+Row:Debt issuance costs of long-term debt 	(13) 	(1) 	(24)
+Row:Purchase of common stock under the share repurchase program Issuance of common stock 	(18) 5 	(16) — 	—
+—
+Row:Increase in bank overdrafts Net increase (decrease) in revolver borrowings and short-term debt excluding current maturities of long-term debt Net increase in short-term borrowings secured by accounts receivable 	5 6 7 50 	3 30 — 	2
+(10)
+—
+Row:Capital contribution from noncontrolling interest partner 	5 	1 	—
+Row:Purchase of additional noncontrolling equity interest Distribution to noncontrolling interests partners 	— (29) 	(4) (20) 	—
+(14)
+Row:Net cash used by financing activities 	(89) 	(26) 	(30)
+Row:Effect of foreign exchange rate changes on cash and cash equivalents 	6 	(14) 	9
+Row:Increase (decrease) in cash and cash equivalents 	9 	(19) 	6 6
+Row:Cash and cash equivalents, January 1 	214 	233 	167
+Row:Cash and cash equivalents, December 31 (Note) 	$ 223 	$ 214 	$ 233
+Row:Supplemental Cash Flow Information
+Cash paid during the year for interest Cash paid during the year for income taxes (net of refunds) 	$ 100 80 	$ 106 85 	$ 149
+53
+Row:Non-cash Investing and Financing Activities
+			Row:Period end balance of trade payables for plant, property, and equipment Note:Cash and cash equivalents include highly liquid investments with a maturity of three months or less at the date of 	$ 42 purchase.
+	$ 35 	$ 29

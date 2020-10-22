@@ -1,0 +1,238 @@
+Row:	For the Year
+	Row:($ in millions, except per share amounts) 	2017 2016 	2015
+Row:Net sales 	$14,750 $14,270 	$14,241
+Row:Cost of sales, exclusive of depreciation and amortization 	8,204 7,693 	7,786
+Row:Selling, general and administrative 	3,570 3,581 	3,584
+Row:Depreciation 	331 319 	314
+Row:Amortization 	129 121 	132
+Row:Research and development, net 	453 459 	466
+Row:Interest expense 	105 125 	125
+Row:Interest income 	(20) (26) 	(39)
+Row:Asbestos settlement, net 	— 5 	12
+Row:Business restructuring 	— 195 	136
+Row:Pension settlement charges 	60 968 	—
+Row:Other charges 	64 175 	90
+Row:Other income 	(154) (131) 	(110)
+Row:Income before income taxes 	$2,008 $786 	$1,745
+Row:Income tax expense 	616 217 	413
+Row:Income from continuing operations 	$1,392 $569 	$1,332
+Row:Income from discontinued operations, net of tax Net income attributable to the controlling and noncontrolling interests 	220 330 $1,612 $899 	95
+$1,427
+Row:Less: net income attributable to noncontrolling interests 	21 22 	21
+Row:Net income (attributable to PPG) 	$1,591 $877 	$1,406
+Row:Amounts Attributable to PPG
+		Row:Continuing operations 	$1,371 $547 	$1,311
+Row:Discontinued operations 	220 330 	95
+Row:Net income 	$1,591 $877 	$1,406
+Row:Earnings per common share
+		Row:Continuing operations 	$5.35 $2.06 	$4.83
+Row:Discontinued operations 	0.86 1.24 	0.35
+Row:Net income (attributable to PPG) 	$6.21 $3.30 	$5.18
+Row:Earnings per common share - assuming dilution
+		Row:Continuing operations 	$5.32 $2.05 	$4.79
+Row:Discontinued operations 	0.85 1.23 	0.35
+Row:Net income (attributable to PPG) 	$6.17 $3.28 	$5.14
+Row:	For the Year
+	Row:($ in millions) 	2017 2016 	2015
+Row:Net income attributable to the controlling and noncontrolling interests 	$1,612 $899 	$1,427
+Row:Unrealized foreign currency translation gains/(losses) 	248 (476) 	(717)
+Row:Defined benefit pension and other postretirement benefit adjustments 	78 808 	113
+Row:Unrealized (losses)/gains – derivative financial instruments 	(10) 4 	5
+Row:Other comprehensive income/(loss), net of tax 	316 336 	(599)
+Row:Total comprehensive income 	$1,928 $1,235 	$828
+Row:Less: amounts attributable to noncontrolling interests:
+		Row:Net income 	(21) (22) 	(21)
+Row:Unrealized foreign currency translation (losses)/gains 	(17) 10 	13
+Row:Comprehensive income attributable to PPG 	$1,890 $1,223 	$820
+Row:Current assets
+	Row:Cash and cash equivalents 	$1,436 $1,820
+Row:Short-term investments 	55 43
+Row:Receivables 	2,903 2,654
+Row:Inventories 	1,730 1,514
+Row:Assets held for sale 	— 223
+Row:Other 	353 320
+Row:Total current assets 	$6,477 $6,574
+Row:Property, plant and equipment, net 	2,824 2,608
+Row:Goodwill 	3,942 3,572
+Row:Identifiable intangible assets, net 	2,045 1,983
+Row:Deferred income taxes 	305 184
+Row:Investments 	268 179
+Row:Other assets 	677 669
+Row:Total 	$16,538 $15,769
+Row:Liabilities and Shareholders’ Equity
+Current liabilities
+	Row:Accounts payable and accrued liabilities 	$3,780 $3,460
+Row:Restructuring reserves 	102 100
+Row:Short-term debt and current portion of long-term debt 	12 629
+Row:Liabilities held for sale 	— 64
+Row:Total current liabilities 	$3,894 $4,253
+Row:Long-term debt 	4,134 3,787
+Row:Accrued pensions 	729 740
+Row:Other postretirement benefits 	699 724
+Row:Deferred income taxes 	442 417
+Row:Other liabilities 	967 935
+Row:Total liabilities 	$10,865 $10,856
+Row:Commitments and contingent liabilities (See Note 13)
+	Row:Shareholders’ equity
+	Row:Common stock 	$969 $969
+Row:Additional paid-in capital 	756 701
+Row:Retained earnings 	17,141 15,984
+Row:Treasury stock, at cost 	(11,251) (10,472)
+Row:Accumulated other comprehensive loss 	(2,057) (2,356)
+Row:Total PPG shareholders’ equity 	$5,558 $4,826
+Row:Noncontrolling interests 	115 87
+Row:Total shareholders’ equity 	$5,673 $4,913
+Row:Total 	$16,538 $15,769
+Row:($ in millions)	For the Year2016
+2017
+	2015
+Row:Operating activities		Row:Net income attributable to the controlling and noncontrolling interests	$1,612$899	$1,427
+Row:Less: Income from discontinued operationsIncome from continuing operations	220$1,392
+330$569
+	95
+$1,332
+Row:Adjustments to reconcile to cash from operations:		Row:Depreciation and amortization	460440	446Row:Defined benefit pension expense	6585	88
+Row:Pension settlement charge	60
+968	Row:Business restructuring charge	195	136
+Row:Environmental remediation charge	82	Row:Stock-based compensation expense	4238	54
+Row:Net gain, from sale of businesses	(25)
+(39)	Row:Equity affiliate (income)/loss, net of dividends	(6)	66
+Row:Deferred income taxes	17436	Row:Contributions to pension plans	(188)(87)	(263)Row:Restructuring payments	(76)(49)
+	(47)
+Row:Funding of asbestos settlement trust	(813)
+	Row:Change in certain asset and liability accounts (net of acquisitions):		Row:ReceivablesInventoriesOther current assets	(76)(116)(43)(68)5621	(125)37(81)Row:Accounts payable and accrued liabilities	186169	152Row:Noncurrent assets and liabilities, net	(170)(53)	79Row:Taxes and interest payable	(124)(270)	(96)Row:Other	9(66)	(19)Row:Cash from operating activities - continuing operations	$1,556$1,218	$1,759Row:Cash from operating activities - discontinued operationsCash from operating activities	12$1,568
+133$1,351
+	136$1,895
+Row:Investing activities		Row:Capital expenditures	($380)($360)	($430)Row:Business acquisitions, net of cash balances acquired	(349)
+(225)	(320)
+Row:Payments for acquisition of equity investment	(100)	Row:Net proceeds from the sale of businesses	593
+1,094	47Row:Proceeds from maturity of short-term investments	92
+	402Row:Purchase of short-term investmentsPayments for the settlement of cross currency swap contractsProceeds from the settlement of cross currency swap contracts(Payments on) / Proceeds from net investment hedges	(1)(34)37
+(36)37(13)	(97)(34)3719Row:OtherCash (used for)/from investing activities - continuing operationsCash used for investing activities - discontinued operations	27$472(36)27($63)(4)	27($349)(46)Row:Cash (used for)/from investing activities	$436
+($67)
+	($395)
+Row:Financing activitiesNet change in borrowings with maturities of three months or less	($7)
+($15)	($32)Row:Net payments on commercial paper and short-term debt	(93)
+(361)	(528)Row:Net proceeds from the issuance of long-term debt (net of discount and issuance costs)Repayment of long-term debt	(588)988(379)	1,242(340)Row:Payments related to tax withholding on stock-based compensation awards	(28)(26)	(58)Row:Purchase of treasury stock	(813)(1,050)	(751)Row:Issuance of treasury stock	5231	53Row:Dividends paid on PPG common stockOtherCash used for financing activities	(434)(43)($1,954)(414)16($1,210)	(383)(15)($812)Row:Effect of currency exchange rate changes on cash and cash equivalentsNet increase in cash and cash equivalentsCash and cash equivalents, beginning of yearCash and cash equivalents, end of year
+Supplemental disclosures of cash flow information:	69($384)$1,820$1,436
+(68)$509$1,311$1,820
+	(63)$625$686$1,311
+Row:	For the Year
+	Row:($ in millions, except per share amounts) 	2017 2016 	2015
+Row:Net sales 	$14,750 $14,270 	$14,241
+Row:Cost of sales, exclusive of depreciation and amortization 	8,204 7,693 	7,786
+Row:Selling, general and administrative 	3,570 3,581 	3,584
+Row:Depreciation 	331 319 	314
+Row:Amortization 	129 121 	132
+Row:Research and development, net 	453 459 	466
+Row:Interest expense 	105 125 	125
+Row:Interest income 	(20) (26) 	(39)
+Row:Asbestos settlement, net 	— 5 	12
+Row:Business restructuring 	— 195 	136
+Row:Pension settlement charges 	60 968 	—
+Row:Other charges 	64 175 	90
+Row:Other income 	(154) (131) 	(110)
+Row:Income before income taxes 	$2,008 $786 	$1,745
+Row:Income tax expense 	616 217 	413
+Row:Income from continuing operations 	$1,392 $569 	$1,332
+Row:Income from discontinued operations, net of tax Net income attributable to the controlling and noncontrolling interests 	220 330 $1,612 $899 	95
+$1,427
+Row:Less: net income attributable to noncontrolling interests 	21 22 	21
+Row:Net income (attributable to PPG) 	$1,591 $877 	$1,406
+Row:Amounts Attributable to PPG
+		Row:Continuing operations 	$1,371 $547 	$1,311
+Row:Discontinued operations 	220 330 	95
+Row:Net income 	$1,591 $877 	$1,406
+Row:Earnings per common share
+		Row:Continuing operations 	$5.35 $2.06 	$4.83
+Row:Discontinued operations 	0.86 1.24 	0.35
+Row:Net income (attributable to PPG) 	$6.21 $3.30 	$5.18
+Row:Earnings per common share - assuming dilution
+		Row:Continuing operations 	$5.32 $2.05 	$4.79
+Row:Discontinued operations 	0.85 1.23 	0.35
+Row:Net income (attributable to PPG) 	$6.17 $3.28 	$5.14
+Row:	For the Year
+	Row:($ in millions) 	2017 2016 	2015
+Row:Net income attributable to the controlling and noncontrolling interests 	$1,612 $899 	$1,427
+Row:Unrealized foreign currency translation gains/(losses) 	248 (476) 	(717)
+Row:Defined benefit pension and other postretirement benefit adjustments 	78 808 	113
+Row:Unrealized (losses)/gains – derivative financial instruments 	(10) 4 	5
+Row:Other comprehensive income/(loss), net of tax 	316 336 	(599)
+Row:Total comprehensive income 	$1,928 $1,235 	$828
+Row:Less: amounts attributable to noncontrolling interests:
+		Row:Net income 	(21) (22) 	(21)
+Row:Unrealized foreign currency translation (losses)/gains 	(17) 10 	13
+Row:Comprehensive income attributable to PPG 	$1,890 $1,223 	$820
+Row:Current assets
+	Row:Cash and cash equivalents 	$1,436 $1,820
+Row:Short-term investments 	55 43
+Row:Receivables 	2,903 2,654
+Row:Inventories 	1,730 1,514
+Row:Assets held for sale 	— 223
+Row:Other 	353 320
+Row:Total current assets 	$6,477 $6,574
+Row:Property, plant and equipment, net 	2,824 2,608
+Row:Goodwill 	3,942 3,572
+Row:Identifiable intangible assets, net 	2,045 1,983
+Row:Deferred income taxes 	305 184
+Row:Investments 	268 179
+Row:Other assets 	677 669
+Row:Total 	$16,538 $15,769
+Row:Liabilities and Shareholders’ Equity
+Current liabilities
+	Row:Accounts payable and accrued liabilities 	$3,780 $3,460
+Row:Restructuring reserves 	102 100
+Row:Short-term debt and current portion of long-term debt 	12 629
+Row:Liabilities held for sale 	— 64
+Row:Total current liabilities 	$3,894 $4,253
+Row:Long-term debt 	4,134 3,787
+Row:Accrued pensions 	729 740
+Row:Other postretirement benefits 	699 724
+Row:Deferred income taxes 	442 417
+Row:Other liabilities 	967 935
+Row:Total liabilities 	$10,865 $10,856
+Row:Commitments and contingent liabilities (See Note 13)
+	Row:Shareholders’ equity
+	Row:Common stock 	$969 $969
+Row:Additional paid-in capital 	756 701
+Row:Retained earnings 	17,141 15,984
+Row:Treasury stock, at cost 	(11,251) (10,472)
+Row:Accumulated other comprehensive loss 	(2,057) (2,356)
+Row:Total PPG shareholders’ equity 	$5,558 $4,826
+Row:Noncontrolling interests 	115 87
+Row:Total shareholders’ equity 	$5,673 $4,913
+Row:Total 	$16,538 $15,769
+Row:($ in millions)	For the Year2016
+2017
+	2015
+Row:Operating activities		Row:Net income attributable to the controlling and noncontrolling interests	$1,612$899	$1,427
+Row:Less: Income from discontinued operationsIncome from continuing operations	220$1,392
+330$569
+	95
+$1,332
+Row:Adjustments to reconcile to cash from operations:		Row:Depreciation and amortization	460440	446Row:Defined benefit pension expense	6585	88
+Row:Pension settlement charge	60
+968	Row:Business restructuring charge	195	136
+Row:Environmental remediation charge	82	Row:Stock-based compensation expense	4238	54
+Row:Net gain, from sale of businesses	(25)
+(39)	Row:Equity affiliate (income)/loss, net of dividends	(6)	66
+Row:Deferred income taxes	17436	Row:Contributions to pension plans	(188)(87)	(263)Row:Restructuring payments	(76)(49)
+	(47)
+Row:Funding of asbestos settlement trust	(813)
+	Row:Change in certain asset and liability accounts (net of acquisitions):		Row:ReceivablesInventoriesOther current assets	(76)(116)(43)(68)5621	(125)37(81)Row:Accounts payable and accrued liabilities	186169	152Row:Noncurrent assets and liabilities, net	(170)(53)	79Row:Taxes and interest payable	(124)(270)	(96)Row:Other	9(66)	(19)Row:Cash from operating activities - continuing operations	$1,556$1,218	$1,759Row:Cash from operating activities - discontinued operationsCash from operating activities	12$1,568
+133$1,351
+	136$1,895
+Row:Investing activities		Row:Capital expenditures	($380)($360)	($430)Row:Business acquisitions, net of cash balances acquired	(349)
+(225)	(320)
+Row:Payments for acquisition of equity investment	(100)	Row:Net proceeds from the sale of businesses	593
+1,094	47Row:Proceeds from maturity of short-term investments	92
+	402Row:Purchase of short-term investmentsPayments for the settlement of cross currency swap contractsProceeds from the settlement of cross currency swap contracts(Payments on) / Proceeds from net investment hedges	(1)(34)37
+(36)37(13)	(97)(34)3719Row:OtherCash (used for)/from investing activities - continuing operationsCash used for investing activities - discontinued operations	27$472(36)27($63)(4)	27($349)(46)Row:Cash (used for)/from investing activities	$436
+($67)
+	($395)
+Row:Financing activitiesNet change in borrowings with maturities of three months or less	($7)
+($15)	($32)Row:Net payments on commercial paper and short-term debt	(93)
+(361)	(528)Row:Net proceeds from the issuance of long-term debt (net of discount and issuance costs)Repayment of long-term debt	(588)988(379)	1,242(340)Row:Payments related to tax withholding on stock-based compensation awards	(28)(26)	(58)Row:Purchase of treasury stock	(813)(1,050)	(751)Row:Issuance of treasury stock	5231	53Row:Dividends paid on PPG common stockOtherCash used for financing activities	(434)(43)($1,954)(414)16($1,210)	(383)(15)($812)Row:Effect of currency exchange rate changes on cash and cash equivalentsNet increase in cash and cash equivalentsCash and cash equivalents, beginning of yearCash and cash equivalents, end of year
+Supplemental disclosures of cash flow information:	69($384)$1,820$1,436
+(68)$509$1,311$1,820
+	(63)$625$686$1,311

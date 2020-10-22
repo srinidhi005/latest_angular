@@ -1,0 +1,93 @@
+Row:September 30,
+	October 1,
+Row:2017
+	2016
+Row:Current assets:
+Cash and cash equivalents $ 	406,661 	$ 398,288
+Row:Accounts receivable, net of allowances of $14,334 and $15,081 as of September 30, 2017 and October 1, 2016,
+respectively 	1,110,334 	973,680
+Row:Inventories 	1,051,669 	946,239
+Row:Prepaid expenses and other current assets 	47,586 	57,445
+Row:Total current assets 	2,616,250 	2,375,652
+Row:Property, plant and equipment, net 	640,275 	617,524
+Row:Deferred income tax assets, net 	476,554 	514,314
+Row:Other 	114,284 	117,732
+Row:Total assets $ 	3,847,363 	$ 3,625,222
+Row:Stockholders' equity:
+	Row:Preferred stock, $.01 par value, authorized 5,000 shares, none issued and outstanding 	— —
+Row:Common stock, $.01 par value, authorized 166,667 shares; 101,672 and 98,141 shares issued and 71,664 and
+	Row:73,031 shares outstanding as of September 30, 2017 and October 1, 2016, respectively 	717 730
+Row:Treasury stock, 30,008 and 25,110 shares as of September 30, 2017 and October 1, 2016, respectively, at cost 	(633,740) (456,796)
+Row:Additional paid-in capital 6,184,371 	6,119,779
+Row:Accumulated other comprehensive income 	76,794 65,381
+Row:Accumulated deficit (3,980,458) 	(4,119,291)
+Row:Total stockholders' equity 1,647,684 	1,609,803
+Row:Total liabilities and stockholders' equity $ 3,847,363 	$ 3,625,222
+Row:September 30,
+	October 1,
+	October 3,
+Row:2017
+	2016
+	2015
+Row:Net sales $ 	6,868,619 $ 	6,481,181 $ 	6,374,541
+Row:Cost of sales 	6,348,708 	5,966,899 	5,890,685
+Row:Gross profit 	519,911 	514,282 	483,856
+Row:Operating expenses:
+			Row:Selling, general and administrative 	251,568 	244,604 	239,288
+Row:Research and development 	33,716 	37,746 	33,083
+Row:Other 	8,160 	7,147 	8,384
+Row:Total operating expenses 	293,444 	289,497 	280,755
+Row:Operating income 	226,467 	224,785 	203,101
+Row:Interest income 	1,265 	680 	1,096
+Row:Interest expense 	(21,934) 	(24,911) 	(25,011)
+Row:Other income, net 	7,682 	4,063 	767
+Row:Loss on extinguishments of debt 	— 	— 	(3,760)
+Row:Interest and other, net 	(12,987) 	(20,168) 	(26,908)
+Row:Income before income taxes 	213,480 	204,617 	176,193
+Row:Provision for (benefit from) income taxes 	74,647 	16,779 	(201,068)
+Row:Net income $ 	138,833 $ 	187,838 $ 	377,261
+Row:Net income per share:
+			Row:Basic $ 	1.86 $ 	2.50 $ 	4.61
+Row:Diluted $ 	1.78 $ 	2.38 $ 	4.41
+Row:Weighted-average shares used in computing per share amounts:
+			Row:Basic 	74,481 	75,094 	81,818
+Row:Diluted 	78,128 	78,787 	85,641
+Row:Weighted-average shares used in computing per share amounts:
+	Row:Basic 74,481 	75,094 81,818
+Row:Diluted 78,128 	78,787 85,641
+Row:CASH FLOWS PROVIDED BY (USED IN) OPERATING ACTIVITIES:
+		(In thousands)
+	Row:Net income $ 	138,833 	$ 187,838 	$ 377,261
+Row:Adjustments to reconcile net income to cash provided by operating activities:
+			Row:Depreciation and amortization 	118,751 	111,910 	100,567
+Row:Stock-based compensation expense 	37,920 	26,907 	20,653
+Row:Deferred income taxes 	37,892 	(16,829) 	(242,274)
+Row:Other, net 	4,188 	1,587 	280
+Row:Changes in operating assets and liabilities, net of acquisitions:
+			Row:Accounts receivable Inventories 	(136,072) (104,468) 	(36,913) 5,614 	40,207
+(13,726)
+Row:Prepaid expenses and other assets 	12,303 	68 	11,117
+Row:Accounts payable 	130,648 	95,193 	(116,899)
+Row:Accrued liabilities 	10,966 	14,741 	(2,290)
+Row:Cash provided by operating activities 	250,961 	390,116 	174,896
+Row:CASH FLOWS PROVIDED BY (USED IN) INVESTING ACTIVITIES:
+			Row:Purchases of property, plant and equipment 	(111,833) 	(120,400) 	(119,097)
+Row:Proceeds from sales of property, plant and equipment 	3,935 	4,740 	30,561
+Row:Cash paid for business combinations, net of cash acquired 	— 	(58,878) 	(13,887)
+Row:Cash used in investing activities 	(107,898) 	(174,538) 	(102,423)
+Row:CASH FLOWS PROVIDED BY (USED IN) FINANCING ACTIVITIES:
+			Row:Repayments of short-term borrowings (1) 	— 	(18,014) 	(10,221)
+Row:Proceeds from revolving credit facility borrowings 	932,770 	2,962,450 	2,692,900
+Row:Repayments of revolving credit facility borrowings 	(872,770) 	(3,047,450) 	(2,582,900)
+Row:Repayments of long-term debt 	(43,416) 	(4,382) 	(123,994)
+Row:Net proceeds from stock issuances 	27,129 	18,221 	18,724
+Row:Repurchases of common stock Other, net 	(176,944) (2,262) 	(142,246) — 	(122,762)
+1,492
+Row:Cash used in financing activities 	(135,493) 	(231,421) 	(126,761)
+Row:Effect of exchange rate changes Increase (decrease) in cash and cash equivalents 	803 8,373 	1,878 (13,965) 	(66)
+(54,354)
+Row:Cash and cash equivalents at beginning of year 	398,288 	412,253 	466,607
+Row:Cash and cash equivalents at end of year $ 	406,661 	$ 398,288 	$ 412,253
+Row:Interest, net of capitalized interest 	$ 	17,983 	$ 21,316 	$ 	18,746
+Row:Income taxes, net of refunds 	$ 	20,417 	$ 29,342 	$ 	44,751
+Row:Unpaid purchases of property, plant and equipment at end of period 	$ 	49,831 	$ 22,072 	$ 	31,913

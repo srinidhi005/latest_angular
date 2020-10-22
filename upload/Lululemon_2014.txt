@@ -1,0 +1,106 @@
+Row:	(Amounts in except per share 	thousands,
+amounts)
+Row:ASSETS
+		Row:Current assets
+		Row:Cash and cash equivalents $ 	698,649 	$ 590,179
+Row:Accounts receivable 	11,903 	6,351
+Row:Inventories 	186,090 	155,222
+Row:Prepaid expenses and other current assets 	46,197 	35,301
+Row:	942,839 	787,053
+Row:Property and equipment, net 	255,603 	214,639
+Row:Goodwill and intangible assets, net 	28,201 	30,201
+Row:Deferred income tax asset 	18,300 	15,033
+Row:Other non-current assets 	4,745 	4,152
+Row:$ 	1,249,688 	$ 1,051,078
+Row:LIABILITIES AND STOCKHOLDERS' EQUITY
+		Row:Current liabilities
+		Row:Accounts payable $ 	12,647 	$ 1,045
+Row:Accrued liabilities 	42,310 	30,032
+Row:Accrued compensation and related expenses 	19,445 	27,530
+Row:Income taxes payable 	769 	39,637
+Row:Unredeemed gift card liability 	38,343 	35,113
+Row:	113,514 	133,357
+Row:Non-current liabilities 	39,492 	30,422
+Row:	153,006 	163,779
+Row:Stockholders' equity
+		Row:Undesignated preferred stock, $0.01 par value, , 5,000 shares authorized, , none issued and outstanding 	— 	—
+Row:Exchangeable stock, no par value, , 60,000 shares authorized, , issued and outstanding 29,955 and 32,065 	— 	—
+Row:Special voting stock, $0.000005 par value, 60,000 shares authorized, issued and outstanding 29,955 and
+32,065 , , , 	— 	—
+Row:Common stock, , $0.005 par value, 400,000 shares authorized, issued and outstanding 115,342 and 112,371 	577 	562
+Row:Additional paid-in capital 	240,351 	221,372
+Row:Retained earnings 	923,822 	644,275
+Row:Accumulated other comprehensive (loss) income 	(68,068 ) 	21,090
+Row:	1,096,682 	887,299
+Row:$ 	1,249,688 	$ 1,051,078
+Row:Common stock, , $0.005 par value, 400,000 shares authorized, issued and 	outstanding 115,342 and 	112,371 	577 	562
+Row:Additional paid-in capital 			240,351 	221,372
+Row:Retained earnings 			923,822 	644,275
+Row:Accumulated other comprehensive (loss) income 			(68,068 ) 	21,090
+Row:			1,096,682 	887,299
+Row:			$ 1,249,688 	$ 1,051,078
+Row:	except 	per share amounts)
+	Row:Net revenue 	$ 1,591,188 $ 	1,370,358 $ 	1,000,839
+Row:Cost of goods sold 	751,112 	607,532 	431,488
+Row:Gross profit 	840,076 	762,826 	569,351
+Row:Selling, , general and administrative expenses 	448,718 	386,387 	282,393
+Row:Income from operations 	391,358 	376,439 	286,958
+Row:Other income (expense), net 	5,768 	4,957 	2,500
+Row:Income before provision for income taxes 	397,126 	381,396 	289,458
+Row:Provision for income taxes 	117,579 	109,965 	104,494
+Row:Net income 	279,547 	271,431 	184,964
+Row:Net income attributable to non-controlling interest 	— 	875 	901
+Row:Net income attributable to lululemon athletica inc. .
+	$ 279,547 $ 	270,556 $ 	184,063
+Row:Basic earnings per share 	$ 1.93 $ 	1.88 $ 	1.29
+Row:Diluted earnings per share 	$ 1.91 $ 	1.85 $ 	1.27
+Row:Basic weighted-average number of shares outstanding 	144,913 	144,000 	143,196
+Row:Diluted weighted-average number of shares outstanding 	146,043 	145,806 	145,278
+Row:Other comprehensive (loss) income:
+			Row:Foreign currency translation adjustment 	(89,158 ) 	(459 ) 	1,220
+Row:Comprehensive income 	$ 190,389 $ 	270,097 $ 	185,283
+Row:	(89,158 ) 	(459 ) 	1,220
+Row:$ 	190,389 $ 	270,097 $ 	185,283
+Row:	(Amounts in thousands)
+)
+	Row:Cash flows from operating activities
+		Row:Net income 	$ 279,547 $ 271,431 $ 	184,964
+Row:Items not affecting cash
+		Row:Depreciation and amortization 	49,068 43,000 	30,259
+Row:Stock-based compensation 	10,087 15,637 	10,340
+Row:Derecognition of unredeemed gift card liability 	(4,654 ) (1,351 ) 	(1,775 )
+Row:Deferred income taxes 	820 (6,445 ) 	(693 )
+Row:Excess tax benefits from stock-based compensation 	(6,457 ) (9,901 ) 	(5,750 )
+Row:Other, , including net changes in other non-cash balances
+		Row:Prepaid tax installments 	3,067 (7,812 ) 	(4,030 )
+Row:Other prepaid expenses and other current assets 	(14,408 ) (10,492 ) 	5,374
+Row:Inventories 	(37,407 ) (51,022 ) 	(46,072 )
+Row:Accounts payable 	11,627 (13,481 ) 	7,861
+Row:Accrued liabilities 	13,722 (208 ) 	1,027
+Row:Sales tax collected 	161 (4,232 ) 	8,232
+Row:Income taxes payable 	(35,075 ) 30,951 	(3,951 )
+Row:Accrued compensation and related expenses 	(6,282 ) 4,695 	5,976
+Row:Deferred gift card revenue 	9,306 13,711 	6,110
+Row:Other non-cash balances 	5,217 5,632 	5,743
+Row:Net cash provided by operating activities 	278,339 280,113 	203,615
+Row:Cash flows from investing activities
+		Row:Purchase of property and equipment 	(106,408 ) (93,229 ) 	(116,657 )
+Row:Acquisition of franchises 	— — 	(5,654 )
+Row:Net cash used in investing activities 	(106,408 ) (93,229 ) 	(122,311 )
+Row:Cash flows from financing activities
+		Row:Proceeds from exercise of stock options 	8,171 11,014 	9,614
+Row:Excess tax benefits from stock-based compensation 	6,457 9,901 	5,750
+Row:Registration fees associated with shelf registration statement 	— (393 ) 	—
+Row:Purchase of non-controlling interest 	— (26,013 ) 	—
+Row:Taxes paid related to net share settlement of equity awards 	(5,721 ) — 	—
+Row:Net cash provided by (used in) financing activities 	8,907 (5,491 ) 	15,364
+Row:Effect of exchange rate changes on cash 	(72,368 ) (651 ) 	(3,517 )
+Row:Increase in cash and cash equivalents 	108,470 180,742 	93,151
+Row:Cash and cash equivalents, , beginning of period 	$ 590,179 $ 409,437 $ 	316,286
+Row:Cash and cash equivalents, , end of period
+	$ 698,649 $ 590,179 $ 	409,437
+Row:	8,907 (72,368 ) 108,470 	(5,491 ) (651 ) 180,742 	15,364
+(3,517 )
+93,151
+Row:$ 	590,179 	$ 409,437 $ 	316,286
+Row:$ 	698,649 	$ 590,179 $ 	409,437

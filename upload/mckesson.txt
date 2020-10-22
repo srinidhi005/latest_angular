@@ -1,0 +1,168 @@
+Row:	2018 	2017 	2016
+Row:Revenues 	$ 208,357 	$ 198,533 	$ 190,884
+Row:Cost of Sales 	(197,173) 	(187,262) 	(179,468)
+Row:Gross Profit 	11,184 	11,271 	11,416
+Row:Operating Expenses
+			Row:Selling, distribution and administrative expenses 	(8,138) 	(7,460) 	(7,379)
+Row:Research and development 	(125) 	(341) 	(392)
+Row:Goodwill impairment charges 	(1,738) 	(290) 	—
+Row:Restructuring and asset impairment charges 	(567) 	(18) 	(203)
+Row:Gains from sales of businesses 	109 	— 	103
+Row:Gain on healthcare technology net asset exchange, net 	37 	3,947 	—
+Row:Total Operating Expenses 	(10,422) 	(4,162) 	(7,871)
+Row:Operating Income 	762 	7,109 	3,545
+Row:Other Income, Net 	130 	90 	58
+Row:Loss from Equity Method Investment in Change Healthcare 	(248) 	— 	—
+Row:Loss on Debt Extinguishment 	(122) 	— 	—
+Row:Interest Expense 	(283) 	(308) 	(353)
+Row:Income from Continuing Operations Before Income Taxes 	239 	6,891 	3,250
+Row:Income Tax Benefit (Expense) 	53 	(1,614) 	(908)
+Row:Income from Continuing Operations 	292 	5,277 	2,342
+Row:Income (Loss) from Discontinued Operations, Net of Tax 	5 	(124) 	(32)
+Row:Net Income 	297 	5,153 	2,310
+Row:Net Income Attributable to Noncontrolling Interests 	(230) 	(83) 	(52)
+Row:Net Income Attributable to McKesson Corporation 	$ 67 	$ 5,070 	$ 2,258
+Row:Continuing operations 	$ 	0.30 	$ 	23.28 	$ 9.84
+Row:Discontinued operations 		0.02 		(0.55) 	(0.14)
+Row:Total 	$ 	0.32 	$ 	22.73 	$ 9.70
+Row:Basic
+					Row:Continuing operations 	$ 	0.30 	$ 	23.50 	$ 9.96
+Row:Discontinued operations 		0.02 		(0.55) 	(0.14)
+Row:Total 	$ 	0.32 	$ 	22.95 	$ 9.82
+Row:Weighted Average Common Shares
+					Row:Diluted 		209 		223 	233
+Row:Weighted Average 	Common Shares
+Row:Diluted 	209 223 233
+Row:Net Income 	$ 297 $ 	5,153 	$ 2,310
+Row:Other Comprehensive Income (Loss), Net of Tax
+			Row:Foreign currency translation adjustments arising during the period 	624 	(632) 	113
+Row:Unrealized gains (losses) on cash flow hedges arising during the period 	(30) 	(19) 	9
+Row:Retirement-related benefit plans 	15 	(8) 	50
+Row:Other Comprehensive Income (Loss), Net of Tax 	609 	(659) 	172
+Row:Comprehensive Income 	906 	4,494 	2,482
+Row:Comprehensive (Income) Attributable to Noncontrolling Interests 	(415) 	(4) 	(72)
+Row:Comprehensive Income Attributable to McKesson Corporation 	$ 491 $ 	4,490 	$ 2,410
+Row:ASSETS
+		Row:Current Assets
+		Row:Cash and cash equivalents 	$ 2,672 	$ 2,783
+Row:Receivables, net 	17,711 	18,215
+Row:Inventories, net 	16,310 	15,278
+Row:Prepaid expenses and other 	443 	672
+Row:Total Current Assets 	37,136 	36,948
+Row:Property, Plant and Equipment, Net 	2,464 	2,292
+Row:Goodwill 	10,924 	10,586
+Row:Intangible Assets, Net 	4,102 	3,665
+Row:Equity Method Investment in Change Healthcare 	3,728 	4,063
+Row:Other Noncurrent Assets 	2,027 	3,415
+Row:Total Assets 	$ 60,381 	$ 60,969
+Row:LIABILITIES, REDEEMABLE NONCONTROLLING INTERESTS AND EQUITY
+		Row:Total Assets 	$ 60,381 	$ 60,969
+Row:LIABILITIES, REDEEMABLE NONCONTROLLING INTERESTS AND EQUITY
+		Row:Current Liabilities
+		Row:Drafts and accounts payable 	$ 32,177 	$ 31,022
+Row:Short-term borrowings 	— 	183
+Row:Deferred revenue 	63 	346
+Row:Current portion of long-term debt 	1,129 	1,057
+Row:Other accrued liabilities 	3,316 	3,004
+Row:Total Current Liabilities 	36,685 	35,612
+Row:Long-Term Debt 	6,751 	7,305
+Row:Long-Term Deferred Tax Liabilities 	2,804 	3,678
+Row:Other Noncurrent Liabilities 	2,625 	1,774
+Row:Commitments and Contingent Liabilities (Note 24)
+		Row:Redeemable Noncontrolling Interests 	1,459 	1,327
+Row:McKesson Corporation Stockholders’ Equity
+		Row:Preferred stock, $0.01 par value, 100 shares authorized, no shares issued or outstanding 	— 	—
+Row:Common stock, $0.01 par value, 800 shares authorized at March 31, 2018 and 2017, 275 and
+273 shares issued at March 31, 2018 and 2017 	3 	3
+Row:Additional Paid-in Capital 	6,188 	6,028
+Row:Retained Earnings 	12,986 	13,189
+Row:Accumulated Other Comprehensive Loss 	(1,717) 	(2,141)
+Row:Other 	(1) 	(2)
+Row:Treasury Stock, at Cost, 73 and 62 shares at March 31, 2018 and 2017 	(7,655) 	(5,982)
+Row:Total McKesson Corporation Stockholders’ Equity 	9,804 	11,095
+Row:Noncontrolling Interests 	253 	178
+Row:Total Equity 	10,057 	11,273
+Row:	2018 	2017 	2016
+Row:Revenues 	$ 208,357 	$ 198,533 	$ 190,884
+Row:Cost of Sales 	(197,173) 	(187,262) 	(179,468)
+Row:Gross Profit 	11,184 	11,271 	11,416
+Row:Operating Expenses
+			Row:Selling, distribution and administrative expenses 	(8,138) 	(7,460) 	(7,379)
+Row:Research and development 	(125) 	(341) 	(392)
+Row:Goodwill impairment charges 	(1,738) 	(290) 	—
+Row:Restructuring and asset impairment charges 	(567) 	(18) 	(203)
+Row:Gains from sales of businesses 	109 	— 	103
+Row:Gain on healthcare technology net asset exchange, net 	37 	3,947 	—
+Row:Total Operating Expenses 	(10,422) 	(4,162) 	(7,871)
+Row:Operating Income 	762 	7,109 	3,545
+Row:Other Income, Net 	130 	90 	58
+Row:Loss from Equity Method Investment in Change Healthcare 	(248) 	— 	—
+Row:Loss on Debt Extinguishment 	(122) 	— 	—
+Row:Interest Expense 	(283) 	(308) 	(353)
+Row:Income from Continuing Operations Before Income Taxes 	239 	6,891 	3,250
+Row:Income Tax Benefit (Expense) 	53 	(1,614) 	(908)
+Row:Income from Continuing Operations 	292 	5,277 	2,342
+Row:Income (Loss) from Discontinued Operations, Net of Tax 	5 	(124) 	(32)
+Row:Net Income 	297 	5,153 	2,310
+Row:Net Income Attributable to Noncontrolling Interests 	(230) 	(83) 	(52)
+Row:Net Income Attributable to McKesson Corporation 	$ 67 	$ 5,070 	$ 2,258
+Row:Continuing operations 	$ 	0.30 	$ 	23.28 	$ 9.84
+Row:Discontinued operations 		0.02 		(0.55) 	(0.14)
+Row:Total 	$ 	0.32 	$ 	22.73 	$ 9.70
+Row:Basic
+					Row:Continuing operations 	$ 	0.30 	$ 	23.50 	$ 9.96
+Row:Discontinued operations 		0.02 		(0.55) 	(0.14)
+Row:Total 	$ 	0.32 	$ 	22.95 	$ 9.82
+Row:Weighted Average Common Shares
+					Row:Diluted 		209 		223 	233
+Row:Weighted Average 	Common Shares
+Row:Diluted 	209 223 233
+Row:Net Income 	$ 297 $ 	5,153 	$ 2,310
+Row:Other Comprehensive Income (Loss), Net of Tax
+			Row:Foreign currency translation adjustments arising during the period 	624 	(632) 	113
+Row:Unrealized gains (losses) on cash flow hedges arising during the period 	(30) 	(19) 	9
+Row:Retirement-related benefit plans 	15 	(8) 	50
+Row:Other Comprehensive Income (Loss), Net of Tax 	609 	(659) 	172
+Row:Comprehensive Income 	906 	4,494 	2,482
+Row:Comprehensive (Income) Attributable to Noncontrolling Interests 	(415) 	(4) 	(72)
+Row:Comprehensive Income Attributable to McKesson Corporation 	$ 491 $ 	4,490 	$ 2,410
+Row:ASSETS
+		Row:Current Assets
+		Row:Cash and cash equivalents 	$ 2,672 	$ 2,783
+Row:Receivables, net 	17,711 	18,215
+Row:Inventories, net 	16,310 	15,278
+Row:Prepaid expenses and other 	443 	672
+Row:Total Current Assets 	37,136 	36,948
+Row:Property, Plant and Equipment, Net 	2,464 	2,292
+Row:Goodwill 	10,924 	10,586
+Row:Intangible Assets, Net 	4,102 	3,665
+Row:Equity Method Investment in Change Healthcare 	3,728 	4,063
+Row:Other Noncurrent Assets 	2,027 	3,415
+Row:Total Assets 	$ 60,381 	$ 60,969
+Row:LIABILITIES, REDEEMABLE NONCONTROLLING INTERESTS AND EQUITY
+		Row:Total Assets 	$ 60,381 	$ 60,969
+Row:LIABILITIES, REDEEMABLE NONCONTROLLING INTERESTS AND EQUITY
+		Row:Current Liabilities
+		Row:Drafts and accounts payable 	$ 32,177 	$ 31,022
+Row:Short-term borrowings 	— 	183
+Row:Deferred revenue 	63 	346
+Row:Current portion of long-term debt 	1,129 	1,057
+Row:Other accrued liabilities 	3,316 	3,004
+Row:Total Current Liabilities 	36,685 	35,612
+Row:Long-Term Debt 	6,751 	7,305
+Row:Long-Term Deferred Tax Liabilities 	2,804 	3,678
+Row:Other Noncurrent Liabilities 	2,625 	1,774
+Row:Commitments and Contingent Liabilities (Note 24)
+		Row:Redeemable Noncontrolling Interests 	1,459 	1,327
+Row:McKesson Corporation Stockholders’ Equity
+		Row:Preferred stock, $0.01 par value, 100 shares authorized, no shares issued or outstanding 	— 	—
+Row:Common stock, $0.01 par value, 800 shares authorized at March 31, 2018 and 2017, 275 and
+273 shares issued at March 31, 2018 and 2017 	3 	3
+Row:Additional Paid-in Capital 	6,188 	6,028
+Row:Retained Earnings 	12,986 	13,189
+Row:Accumulated Other Comprehensive Loss 	(1,717) 	(2,141)
+Row:Other 	(1) 	(2)
+Row:Treasury Stock, at Cost, 73 and 62 shares at March 31, 2018 and 2017 	(7,655) 	(5,982)
+Row:Total McKesson Corporation Stockholders’ Equity 	9,804 	11,095
+Row:Noncontrolling Interests 	253 	178
+Row:Total Equity 	10,057 	11,273

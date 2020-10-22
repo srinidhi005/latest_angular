@@ -1,0 +1,75 @@
+Row:(in millions, except per share data)
+	2019
+	2018
+Row:ASSETS
+		Row:Current assets:		Row:$
+Cash and cash equivalents	20,514	21,620Row:Marketable curities	17,313
+	45,641
+Row:Trade receivables, net of allowances for doubtful accounts of $371 and $370 as of May 31, 2019 and May 31, 2018,respectively	5,134	5,136Row:Prepaid expenses and other current assets	3,425	3,762Row:Total current assets	46,386
+	76,159
+Row:Non-current assets:		Row:Property, plant and equipment, net	6,252	5,897Row:Intangible assets, net	5,279	6,670Row:Goodwill, net	43,779	43,755Row:Deferred tax assets	2,696	1,395Row:Other non-current assets	4,317	3,975Row:Total non-current assets	62,323	61,692Row:$
+Total assets	108,709
+	137,851
+$
+Row:LIABILITIES AND EQUITY		Row:Current liabilities:		Row:$
+Notes payable and other borrowings, current	4,494	$
+4,491Row:Accounts payable	580	529Row:Accrued compensation and related benefits	1,628	1,806Row:Deferred revenues	8,374	8,341Row:Other current liabilities	3,554	3,957Row:Total current liabilities	18,630
+	19,124
+Row:Non-current liabilities:		Row:Notes payable and other borrowings, non-current	51,673	56,128Row:Income taxes payableOther non-current liabilities	13,2952,748	13,4292,297Row:Common stock, $0.01 par value and additional paid in capital-authorized: 11,000 shares; outstanding: 3,359 sharesand 3,997 shares as of May 31, 2019 and May 31, 2018, respectively	26,90928,950Row:(Accumulated deficit) retained earnings	(3,496)19,111Row:Accumulated other comprehensive loss	(1,628)(1,689)Row:Total Oracle Corporation stockholders' equity	21,78546,372Row:Noncontrolling interests	578501Row:Total equity	22,36346,873Row:Total liabilities and equity
+$
+	108,709
+137,851
+$
+Row:(in millions)	Year Ended May 31,2018
+2019
+	2017
+	Row:Cash flows from operating activities:			Row:$
+Net income	11,083
+$
+3,587
+	$
+9,452
+	Row:Adjustments to reconcile net income to net cash provided by operating activities:			Row:Depreciation	1,2301,165	1,000	Row:Amortization of intangible assets	1,6891,620	1,451	Row:Allowances for doubtful accounts receivable	190146	129	Row:Deferred income taxes	(1,191)(847)	(440	)Row:Stock-based compensation	1,6531,607	1,350	Row:Other, net	157
+(27)
+	126
+	Row:Changes in operating assets and liabilities, net of effects from acquisitions:(Increase) decrease in trade receivables, net	(272)267	(67	)Row:Decrease (increase) in prepaid expenses and other assets	261(258)	(384	)Row:(Decrease) increase in accounts payable and other liabilities	(102)(260)	230	Row:(Decrease) increase in income taxes payable	(453)8,150	732	Row:Increase in deferred revenues	306236	547	Row:Net cash provided by operating activities	14,551
+15,386
+	14,126
+	Row:Cash flows from investing activities:			Row:Purchases of marketable securities and other investments	(1,400)(25,282)	(25,867	)Row:Proceeds from maturities of marketable securities and other investments	12,68120,372	15,186	Row:Proceeds from sales of marketable securities	17,2992,745	2,429	Row:Acquisitions, net of cash acquired	(363)(1,724)	(11,221	)Row:Capital expenditures	(1,660)(1,736)	(2,021	)Row:Net cash provided by (used for) investing activities	26,557
+(5,625)
+	(21,494	)
+Row:Cash flows from financing activities:			Row:Payments for repurchases of common stock	(36,140)(11,347)	(3,561	)Row:Proceeds from issuances of common stock	2,1552,402	2,181	Row:Shares repurchased for tax withholdings upon vesting of restricted stock-based awards	(503)(506)	(283	)Row:Payments of dividends to stockholders	(2,932)
+(3,140)	(2,631	)Row:Proceeds from borrowings, net of issuance costs	12,443	17,732	Row:Repayments of borrowings	(4,500)(9,800)	(4,094	)Row:Other, net	(136)(34)	(258	)Row:Net cash (used for provided by financing activities	(42,056)(9,982)	9,086	Row:Effect of exchange rate changes on cash and cash equivalents	(158)57	(86	)Row:Net (decrease) increase in cash and cash equivalents	(1,106)(164)	1,632	Row:Cash and cash equivalents at beginning of period	21,62021,784	20,152	Row:Cash and cash equivalents at end of period$
+	20,514
+21,620
+$
+	21,784
+$
+	Row:Non-cash investing and financing transactions:			Row:Fair values of restricted stock-based awards and stock options assumed in connection with acquisitionsChange in unsettled repurchases of common stock$$	8(140)
+$$3154	$$90(69	)Row:Change in unsettled investment purchases$
+	$
+(303)
+	$
+73
+	Row:Supplemental schedule of cash flow data:			Row:Cash paid for income taxes$
+	OF
+2,9011,562	$
+1,983	Row:Cash paid for interest
+	2,059
+1,910
+$
+	1,612
+	Row:Non-	cash investing and financing transactions:		Row:	Fair values of restricted stock-based awards and stock options assumed in connection with acquisitions$	8$3	$90Row:	Change in unsettled repurchases of common stock$	(140)
+$154	$(69Row:	Change in unsettled investment purchases$
+	$
+(303)
+	$
+73
+Row:	Supplemental schedule of cash flow data:		Row:	Cash paid for income taxes$
+	OF
+2,9011,562	$
+1,983Row:	Cash paid for interest
+	2,059
+1,910
+$
+	1,612

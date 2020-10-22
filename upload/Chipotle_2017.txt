@@ -1,0 +1,135 @@
+Row:	2017 	2016
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 184,569 	$ 87,880
+Row:Accounts receivable, net of allowance for doubtful accounts of $0 and $259 as of
+December 31, 2017 and 2016, respectively 	40,453 	40,451
+Row:Inventory 	19,860 	15,019
+Row:Prepaid expenses and other current assets 	50,918 	44,080
+Row:Income tax receivable 	9,353 	5,108
+Row:Investments 	324,382 	329,836
+Row:Total current assets 	629,535 	522,374
+Row:Leasehold improvements, property and equipment, net 	1,338,366 	1,303,558
+Row:Long term investments 	— 	125,055
+Row:Other assets 	55,852 	53,177
+Row:Goodwill 	21,939 	21,939
+Row:Total assets 	$ 2,045,692 	$ 2,026,103
+Row:Liabilities and shareholders’ equity
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 82,028 	$ 78,363
+Row:Accrued payroll and benefits 	82,541 	76,301
+Row:Accrued liabilities 	159,324 	127,129
+Row:Total current liabilities 	323,893 	281,793
+Row:Deferred rent 	316,498 	288,927
+Row:Deferred income tax liability 	814 	18,944
+Row:Other liabilities 	40,042 	33,946
+Row:Total liabilities 	681,247 	623,610
+Row:Shareholders’ equity:
+		Row:Preferred stock, $0.01 par value, 600,000 shares authorized, no shares issued as of
+December 31, 2017 and 2016, respectively 	— 	—
+Row:Common stock $0.01 par value, 230,000 shares authorized, and 35,852 and 35,833
+shares issued as of December 31, 2017 and 2016, respectively 	359 	358
+Row:Additional paid-in capital 	1,305,090 	1,238,875
+Row:Treasury stock, at cost, 7,826 and 7,019 common shares at December 31, 2017 and 2016,
+respectively 	(2,334,409) 	(2,049,389)
+Row:Accumulated other comprehensive income (loss) 	(3,659) 	(8,162)
+Row:Retained earnings 	2,397,064 	2,220,811
+Row:Liabilities and shareholders’ equity
+	Row:Current liabilities:
+	Row:Accounts payable $ 	82,028 $ 78,363
+Row:Accrued payroll and benefits 	82,541 76,301
+Row:Accrued liabilities 	159,324 127,129
+Row:Total current liabilities 	323,893 281,793
+Row:Deferred rent 	316,498 288,927
+Row:Deferred income tax liability 	814 18,944
+Row:Other liabilities 	40,042 33,946
+Row:Total liabilities 	681,247 623,610
+Row:Shareholders’ equity:
+	Row:Preferred stock, $0.01 par value, 600,000 shares authorized, no shares issued as of
+December 31, 2017 and 2016, respectively 	— 	—
+Row:Common stock $0.01 par value, 230,000 shares authorized, and 35,852 and 35,833
+		Row:shares issued as of December 31, 2017 and 2016, respectively 	359 	358
+Row:Additional paid-in capital 	1,305,090 	1,238,875
+Row:Treasury stock, at cost, 7,826 and 7,019 common shares at December 31, 2017 and 2016,
+respectively 	(2,334,409) 	(2,049,389)
+Row:Accumulated other comprehensive income (loss) 	(3,659) 	(8,162)
+Row:Retained earnings 	2,397,064 	2,220,811
+Row:Total shareholders’ equity 	1,364,445 	1,402,493
+Row:Total liabilities and shareholders’ equity 	$ 2,045,692 	$ 2,026,103
+Row:	Year 2017 	ended December 2016 	31,
+2015
+Row:Revenue 	$ 4,476,412 	$3,904,384 	$ 4,501,223
+Row:Restaurant operating costs (exclusive of depreciation and amortization shown
+separately below):
+			Row:Food, beverage and packaging 	1,535,428 	1,365,580 	1,503,835
+Row:Labor 	1,205,992 	1,105,001 	1,045,726
+Row:Occupancy 	327,132 	293,636 	262,412
+Row:Other operating costs 	651,644 	641,953 	514,963
+Row:General and administrative expenses 	296,388 	276,240 	250,214
+Row:Depreciation and amortization 	163,348 	146,368 	130,368
+Row:Pre-opening costs 	12,341 	17,162 	16,922
+Row:Loss on disposal and impairment of assets 	13,345 	23,877 	13,194
+Row:Total operating expenses 	4,205,618 	3,869,817 	3,737,634
+Row:Income from operations 	270,794 	34,567 	763,589
+Row:Interest and other income, net 	4,949 	4,172 	6,278
+Row:Income before income taxes 	275,743 	38,739 	769,867
+Row:Provision for income taxes 	(99,490) 	(15,801) 	(294,265)
+Row:Net income 	$ 176,253 	$ 22,938 	$ 475,602
+Row:Earnings per share:
+			Row:Basic 	$ 6.19 	$ 0.78 	$ 15.30
+Row:Diluted 	$ 6.17 	$ 0.77 	$ 15.10
+Row:Weighted average common shares outstanding:
+			Row:Basic 	28,491 	29,265 	31,092
+Row:Diluted 	28,561 	29,770 	31,494
+Row:	Year 2017 	ended December 2016 	31,
+2015
+Row:Net income 	$ 176,253 	$22,938 	$475,602
+Row:Other comprehensive income (loss), net of income taxes:
+			Row:Foreign currency translation adjustments 	4,689 	(1,291) 	(6,322)
+Row:Unrealized gain (loss) on available-for-sale securities 	(274) 	2,251 	(2,468)
+Row:Tax benefit (expense) 	88 	(849) 	946
+Row:Other comprehensive income (loss), net of income taxes 	4,503 	111 	(7,844)
+Row:Comprehensive income 	$180,756 	$23,049 	$467,758
+Row:	Year ended December 2017 2016 	31,
+2015
+Row:Operating activities
+		Row:Net income 	$ 176,253 $ 22,938 $ 	475,602
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+		Row:Depreciation and amortization 	163,348 146,368 	130,368
+Row:Deferred income tax (benefit) provision 	(18,026) (14,207) 	11,666
+Row:Loss on disposal and impairment of assets 	13,345 23,877 	13,194
+Row:Bad debt allowance 	214 (262) 	(23)
+Row:Stock-based compensation expense 	65,255 64,166 	57,911
+Row:Excess tax benefit on stock-based compensation 	— (1,320) 	(74,442)
+Row:Other 	(218) (604) 	582
+Row:Changes in operating assets and liabilities:
+		Row:Accounts receivable 	(140) (1,923) 	(3,504)
+Row:Inventory 	(5,250) (91) 	262
+Row:Prepaid expenses and other current assets 	(6,710) (4,259) 	(5,259)
+Row:Other assets 	(2,587) (4,855) 	(5,619)
+Row:Accounts payable 	10,908 (6,734) 	19,525
+Row:Accrued liabilities 	38,574 33,491 	(7,440)
+Row:Income tax payable/receivable 	(4,173) 54,340 	32,756
+Row:Deferred rent 	29,996 37,030 	32,911
+Row:Other long-term liabilities 	6,316 1,287 	4,826
+Row:Net cash provided by operating activities 	467,105 349,242 	683,316
+Row:Investing activities
+		Row:Purchases of leasehold improvements, property and equipment 	(216,777) (258,842) 	(257,418)
+Row:Purchases of investments 	(199,801) — 	(559,372)
+Row:Maturities of investments 	330,000 45,000 	352,650
+Row:Proceeds from sale of investments 	— 540,648 	—
+Row:Net cash provided by (used in) investing activities 	(86,578) 326,806 	(464,140)
+Row:Financing activities
+		Row:Acquisition of treasury stock 	(285,920) (837,655) 	(460,675)
+Row:Excess tax benefit on stock-based compensation 	— 1,320 	74,442
+Row:Stock plan transactions and other financing activities 	26 52 	(207)
+Row:Net cash used in financing activities 	(285,894) (836,283) 	(386,440)
+Row:Effect of exchange rate changes on cash and cash equivalents 	2,056 110 	(4,196)
+Row:Net change in cash and cash equivalents 	96,689 (160,125) 	(171,460)
+Row:Cash and cash equivalents at beginning of year 	87,880 248,005 	419,465
+Row:Cash and cash equivalents at end of year 	$ 184,569 $ 87,880 $ 	248,005
+Row:Supplemental disclosures of cash flow information
+		Row:Income taxes paid 	$ 119,787 $ 23,862 $ 	248,547
+Row:Increase (decrease) in purchases of leasehold improvements, property, and equipment accrued
+in accounts payable and accrued liabilities 	$ (7,690) $ (1,781) $ 	(2,870)
+Row:Increase (decrease) in acquisition of treasury stock accrued in accrued liabilities 	$ (900) $ (22,778) $ 	25,178

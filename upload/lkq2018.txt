@@ -1,0 +1,116 @@
+Row:	2018 2017 	2016
+Row:Revenue 	$ 11,876,674 $ 9,736,909 $ 	8,584,031
+Row:Cost of goods sold 	7,301,817 5,937,286 	5,232,328
+Row:Gross margin 	4,574,857 3,799,623 	3,351,703
+Row:Selling, general and administrative expenses (1), (2) 	3,352,731 2,715,407 	2,359,110
+Row:Restructuring and acquisition related expenses 	32,428 19,672 	37,762
+Row:Impairment of goodwill 	33,244 — 	—
+Row:Depreciation and amortization 	274,213 219,546 	191,433
+Row:Operating income 	882,241 844,998 	763,398
+Row:Other expense (income):
+		Row:Interest expense 	146,377 101,640 	88,263
+Row:Loss on debt extinguishment 	1,350 456 	26,650
+Row:Gains on foreign exchange contracts - acquisition related 	— — 	(18,342)
+Row:Gains on bargain purchases 	(2,418) (3,870) 	(8,207)
+Row:Interest income and other income, net (2) 	(6,499) (19,855) 	(2,247)
+Row:Total other expense, net 	138,810 78,371 	86,117
+Row:Income from continuing operations before provision for income taxes 	743,431 766,627 	677,281
+Row:Provision for income taxes 	191,395 235,560 	220,566
+Row:Equity in (losses) earnings of unconsolidated subsidiaries 	(64,471) 5,907 	(592)
+Row:Income from continuing operations 	487,565 536,974 	456,123
+Row:Net (loss) income from discontinued operations 	(4,397) (6,746) 	7,852
+Row:Net income 	483,168 530,228 	463,975
+Row:Less: net income (loss) attributable to noncontrolling interest 	3,050 (3,516) 	—
+Row:Net income attributable to LKQ stockholders 	$ 480,118 $ 533,744 $ 	463,975
+Row:Basic earnings per share: (3)
+		Row:Income from continuing operations 	$ 1.55 $ 1.74 $ 	1.49
+Row:Net (loss) income from discontinued operations 	(0.01) (0.02) 	0.03
+Row:Net income Less: net income (loss) attributable to noncontrolling interest 	1.54 1.72 0.01 (0.01) 	1.51
+—
+Row:Net income attributable to LKQ stockholders 	$ 1.53 $ 1.73 $ 	1.51
+Row:Diluted earnings per share: (3)
+		Row:Income from continuing operations Net (loss) income from discontinued operations 	$ 1.54 $ 1.73 $ (0.01) (0.02) 	1.47
+0.03
+Row:Net income 	1.53 1.71 	1.50
+Row:Less: net income (loss) attributable to noncontrolling interest Net income attributable to LKQ stockholders 	0.01 (0.01) $ 1.52 $ 1.72 $ 	—
+1.50
+Row:(1) Selling, general and administrative expenses contain facility and warehouse expenses separately.
+	and distribution expenses that were 	previously shown
+Row:Current liabilities:
+	Row:Accounts payable $ 	942,398 $ 788,613
+Row:Accrued expenses:
+	Row:Accrued payroll-related liabilities 	172,005 143,424
+Row:Other accrued expenses 	288,425 218,600
+Row:Refund liability 	104,585 —
+Row:Other current liabilities 	61,109 45,727
+Row:Current portion of long-term obligations 	121,826 126,360
+Row:Total current liabilities 	1,690,348 1,322,724
+Row:Long-term obligations, excluding current portion 	4,188,674 3,277,620
+Row:Deferred income taxes 	311,434 252,359
+Row:Other noncurrent liabilities 	364,194 307,516
+Row:Common stock, $0.01 par value, 1,000,000,000 shares authorized, 318,417,821 shares
+issued and 316,146,114 shares outstanding at December 31, 2018; 309,126,386 shares
+issued and outstanding at December 31, 2017 	3,184 	3,091
+Row:Additional paid-in capital 	1,415,188 	1,141,451
+Row:Retained earnings 	3,598,876 	3,124,103
+Row:Accumulated other comprehensive loss 	(174,950) 	(70,476)
+Row:Treasury stock, at cost; 2,271,707 shares at December 31, 2018 	(60,000) 	—
+Row:Total Company stockholders' equity 	4,782,298 	4,198,169
+Row:Noncontrolling interest 	56,454 	8,484
+Row:Total stockholders' equity 	4,838,752 	4,206,653
+Row:Total liabilities and stockholders’ equity $ 	11,393,402 	$ 9,366,872
+Row:(In thousands)
+2018 CASH FLOWS FROM OPERATING ACTIVITIES:
+	Year Ended December 31,
+2017 	2016
+Row:Net income $ 483,168 Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization 294,077 	$ 530,228 $ 230,203 	463,975
+206,086
+Row:Impairment on Mekonomen equity method investment 70,895 Impairment of goodwill 33,244 	— — 	—
+—
+Row:Stock-based compensation expense 22,760 	22,832 	22,472
+Row:Loss on debt extinguishment 1,350 	456 	26,650
+Row:Loss on sale of business — Impairment on net assets of discontinued operations — 	10,796 — 	—
+26,677
+Row:Gains on foreign exchange contracts - acquisition related — 	— 	(18,342)
+Row:Gains on bargain purchases (2,418) Deferred income taxes (2,180) 	(3,870) (46,537) 	(8,207)
+(16,162)
+Row:Other 9,534 Changes in operating assets and liabilities, net of effects from acquisitions and
+dispositions:
+	1,301 	19,550
+Row:Receivables, net 241 	(55,979) 	(50,801)
+Row:Inventories (127,153) Prepaid income taxes/income taxes payable (2,125) 	(203,857) 8,376 	(64,114)
+14,944
+Row:Accounts payable (77,621) 	45,136 	18,577
+Row:Other operating assets and liabilities 6,967 	(20,185) 	(6,291)
+Row:Net cash provided by operating activities 710,739 	518,900 	635,014
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+		Row:Purchases of property, plant and equipment (250,027) Proceeds from disposals of property, plant and equipment 27,659 	(179,090) 8,707 	(207,074)
+3,510
+Row:Acquisitions, net of cash and restricted cash acquired (1,214,995) 	(513,088) 	(1,349,339)
+Row:Proceeds from disposals of business/investment — 	301,297 	10,304
+Row:Investments in unconsolidated subsidiaries (60,300) 	(7,664) 	(185,671)
+Row:Proceeds from foreign exchange contracts — 	— 	18,342
+Row:Receipts of deferred purchase price on receivables under factoring arrangements 36,991 	— 	—
+Row:Other investing activities, net 1,733 	5,243 	—
+Row:Net cash used in investing activities (1,458,939) 	(384,595) 	(1,709,928)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+		Row:Proceeds from exercise of stock options 5,303 	7,470 	7,963
+Row:Taxes paid related to net share settlements of stock-based compensation awards (5,567) 	(5,525) 	(4,438)
+Row:Debt issuance costs (21,128) 	(4,267) 	(16,554)
+Row:Proceeds from issuance of Euro Notes (2024) — 	— 	563,450
+Row:Proceeds from issuance of Euro Notes (2026/28) 1,232,100 	— 	—
+Row:Purchase of treasury stock (60,000) 	— 	—
+Row:Borrowings under revolving credit facilities 1,667,325 	839,171 	2,636,596
+Row:Repayments under revolving credit facilities (1,528,970) 	(946,477) 	(1,748,664)
+Row:Borrowings under term loans — 	— 	582,115
+Row:Repayments under term loans (354,800) 	(27,884) 	(255,792)
+Row:Borrowings under receivables securitization facility 10,120 	11,245 	106,400
+Row:Repayments under receivables securitization facility (120) 	(11,245) 	(69,400)
+Row:Payment of assumed debt and notes issued from acquisitions (54,888) 	— 	—
+Row:(Repayments) borrowings of other debt, net (11,730) 	19,706 	(31,156)
+Row:Payments of Rhiag debt and related payments — 	— 	(543,347)
+Row:Other financing activities, net 5,350 	5,239 	(1,436)
+Row:Net cash provided by (used in) financing activities 882,995 Effect of exchange rate changes on cash, cash equivalents and restricted cash (77,311) 	(112,567) 23,512 	1,225,737
+(3,704)
+Row:Net increase in cash, cash equivalents and restricted cash 57,484 	45,250 	147,119

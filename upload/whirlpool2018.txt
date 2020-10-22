@@ -1,0 +1,133 @@
+Row:	2018 	2017 	2016
+Row:Net sales $ 	21,037 	$ 21,253 	$ 20,718
+Row:Expenses
+			Row:Cost of products sold 	17,500 	17,651 	17,026
+Row:Gross margin 	3,537 	3,602 	3,692
+Row:Selling, general and administrative 	2,189 	2,112 	2,080
+Row:Intangible amortization 	75 	79 	71
+Row:Restructuring costs 	247 	275 	173
+Row:Impairment of goodwill and other intangibles 	747 	— 	—
+Row:Operating profit 	279 	1,136 	1,368
+Row:Other (income) expense
+			Row:Interest and sundry (income) expense 	108 	87 	93
+Row:Interest expense 	192 	162 	161
+Row:Earnings (loss) before income taxes 	(21) 	887 	1,114
+Row:Income tax expense 	138 	550 	186
+Row:Net earnings (loss) 	(159) 	337 	928
+Row:Less: Net earnings (loss) available to noncontrolling interests 	24 	(13) 	40
+Row:Net earnings (loss) available to Whirlpool $ 	(183) 	$ 350 	$ 888
+Row:Per share of common stock
+			Row:Basic net earnings (loss) available to Whirlpool $ 	(2.72) 	$ 4.78 	$ 11.67
+Row:Diluted net earnings (loss) available to Whirlpool $ 	(2.72) 	$ 4.70 	$ 11.50
+Row:Weighted-average shares outstanding (in millions)
+			Row:Basic 	67.2 	73.3 	76.1
+Row:Diluted 	67.2 	74.4 	77.2
+Row:Assets
+	Row:Current assets
+	Row:Cash and cash equivalents $ 	1,498 $ 1,196
+Row:Accounts receivable, net of allowance of $136 and $157, respectively 	2,210 2,665
+Row:Inventories 	2,533 2,988
+Row:Prepaid and other current assets 	839 1,081
+Row:Assets held for sale 	818 —
+Row:Total current assets 	7,898 7,930
+Row:Property, net of accumulated depreciation of $6,190 and $6,825, respectively Goodwill 	3,414 4,033
+2,451 3,118
+Row:Other intangibles, net of accumulated amortization of $527 and $476, respectively 	2,296 2,591
+Row:Deferred income taxes 	1,989 2,013
+Row:Other noncurrent assets 	299 353
+Row:Total assets $ 	18,347 $ 20,038
+Row:Liabilities and stockholders' equity
+	Row:Current liabilities
+	Row:Accounts payable $ 	4,487 $ 4,797
+Row:Accrued expenses 	690 674
+Row:Accrued advertising and promotions 	827 853
+Row:Employee compensation 	393 414
+Row:Notes payable 	1,034 450
+Row:Current maturities of long-term debt 	947 376
+Row:Other current liabilities 	811 941
+Row:Liabilities held for sale 	489 —
+Row:Total current liabilities 	9,678 8,505
+Row:Noncurrent liabilities
+	Row:Long-term debt 	4,046 4,392
+Row:Pension benefits 	637 1,029
+Row:Postretirement benefits 	318 352
+Row:Other noncurrent liabilities 	463 632
+Row:Total noncurrent liabilities 	5,464 6,405
+Row:Stockholders' equity
+	Row:Common stock, $1 par value, 250 million shares authorized, 112 million shares
+issued, and 64 million and 71 million shares outstanding, respectively 	112 112
+Row:Additional paid-in capital 	2,768 2,739
+Row:Retained earnings 	6,933 7,352
+Row:Accumulated other comprehensive loss 	(2,695) (2,331)
+Row:Treasury stock, 48 million and 41 million shares, respectively 	(4,827) (3,674)
+Row:Total Whirlpool stockholders' equity 	2,291 4,198
+Row:Noncontrolling interests 	914 930
+Row:Total stockholders' equity 	3,205 5,128
+Row:Total liabilities and stockholders' equity $ 	18,347 $ 20,038
+Row:The accompanying notes are an integral part of these Consolidated Financial Statements.
+	Row:Accounts payable $ 	4,487 	$ 4,797
+Row:Accrued expenses 	690 	674
+Row:Accrued advertising and promotions 	827 	853
+Row:Employee compensation 	393 	414
+Row:Notes payable 	1,034 	450
+Row:Current maturities of long-term debt 	947 	376
+Row:Other current liabilities 	811 	941
+Row:Liabilities held for sale 	489 	—
+Row:Total current liabilities 	9,678 	8,505
+Row:Common stock, $1 par value, 250 million shares authorized, 112 million shares
+	Row:issued, and 64 million and 71 million shares outstanding, respectively 	112 112
+Row:Additional paid-in capital 	2,768 2,739
+Row:Retained earnings 	6,933 7,352
+Row:Accumulated other comprehensive loss 	(2,695) (2,331)
+Row:Treasury stock, 48 million and 41 million shares, respectively 	(4,827) (3,674)
+Row:Total Whirlpool stockholders' equity 	2,291 4,198
+Row:Noncontrolling interests 	914 930
+Row:Total stockholders' equity 	3,205 5,128
+Row:Total liabilities and stockholders' equity $ 	18,347 $ 20,038
+Row:Year Ended December 31,
+(Millions of dollars)
+		Row:2018 Operating activities
+Net earnings (loss) $ (159) Adjustments to reconcile net earnings (loss) to cash provided by (used in)
+operating activities:
+	2017 $ 337 	2016
+$ 928
+Row:Depreciation and amortization 645 	654 	655
+Row:Impairment of goodwill and other intangibles 747 Changes in assets and liabilities:
+Accounts receivable 79 	— 160 	—
+(291)
+Row:Inventories 73 	(229) 	(18)
+Row:Accounts payable 210 	180 	37
+Row:Accrued advertising and promotions 12 	76 	46
+Row:Accrued expenses and current liabilities 162 	(230) 	46
+Row:Taxes deferred and payable, net (67) 	239 	(116)
+Row:Accrued pension and postretirement benefits (434) 	(58) 	(43)
+Row:Employee compensation 44 	36 	(38)
+Row:Other (83) 	99 	(3)
+Row:Cash provided by operating activities 1,229 	1,264 	1,203
+Row:Investing activities
+Capital expenditures (590) Proceeds from sale of assets and business 160 	(684) 61 	(660)
+63
+Row:Purchase of held-to-maturity securities — 	(173) 	—
+Row:Proceeds from held-to-maturity securities 60 	113 	—
+Row:Investment in related businesses (25) Other (4) 	(35) (3) 	(12)
+(3)
+Row:Cash used in investing activities (399) 	(721) 	(612)
+Row:Financing activities
+		Row:Proceeds from borrowings of long-term debt 705 Repayments of long-term debt (386) 	691 (564) 	1,012
+(522)
+Row:Net proceeds from short-term borrowings 653 	367 	55
+Row:Dividends paid (306) 	(312) 	(294)
+Row:Repurchase of common stock (1,153) 	(750) 	(525)
+Row:Purchase of noncontrolling interest shares (41) Common stock issued 17 	(5) 34 	(25)
+26
+Row:Other (7) 	(14) 	(5)
+Row:Cash used in financing activities (518) 	(553) 	(278)
+Row:Effect of exchange rate changes on cash, cash equivalents and restricted cash (67) 	63 	(36)
+Row:Increase in cash, cash equivalents and restricted cash 245 	53 	277
+Row:Cash, cash equivalents and restricted cash at beginning of year 1,293 	1,240 	963
+Row:Cash, cash equivalents and restricted cash at end of year $ 1,538 Supplemental disclosure of cash flow information
+Cash paid for interest $ 183 Cash paid for income taxes $ 206 	$ 1,293 $ 181 $ 311 	$ 1,240
+$ 198
+$ 300
+Row:The accompanying notes are an integral part of these Consolidated Financial Statements.
+		

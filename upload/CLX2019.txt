@@ -1,0 +1,110 @@
+Row:Dollars in millions, except share and per share data
+	2019 	2018 	2017
+Row:Net sales Cost of products sold 	$ 6,214 3,486 	$ 6,124 3,449 	$ 5,973
+$ 3,302
+Row:Gross profit 	2,728 	2,675 	2,671
+Row:Selling and administrative expenses 	856 	837 	810
+Row:Advertising costs 	612 	570 	599
+Row:Research and development costs 	136 	132 	135
+Row:Interest expense Other (income) expense, net 	97 3 	85 (3) 	88
+6
+Row:Earnings from continuing operations before income taxes Income taxes on continuing operations 	1,024 204 	1,054 231 	1,033
+330
+Row:Earnings from continuing operations Losses from discontinued operations, net of tax 	820 — 	823 — 	703
+(2)
+Row:Net earnings 	$ 820 	$ 823 	$ 701
+Row:Net earnings (losses) per share
+Basic
+Continuing operations Discontinued operations 	$ 6.42 — 	$ 6.37 — 	$ 5.45
+(0.02)
+Row:Basic net earnings per share 	$ 6.42 	$ 6.37 	$ 5.43
+Row:Diluted
+Continuing operations Discontinued operations 	$ 6.32 — 	$ 6.26 — 	$ 5.35
+(0.02)
+Row:Diluted net earnings per share 	$ 6.32 	$ 6.26 	$ 5.33
+Row:Weighted average shares outstanding (in thousands)
+Basic Diluted 	127,734 129,792 	129,293 131,581 	128,953
+131,566
+Row:As of June 30
+Dollars in millions, except share and per share data
+	2019 	2018
+Row:ASSETS
+		Row:Current assets
+Cash and cash equivalents Receivables, net Inventories, net Prepaid expenses and other current assets 	$ 111 631 512 51 	$ 131
+600
+506
+74
+Row:Total current assets 	1,305 	1,311
+Row:Property, plant and equipment, net Goodwill Trademarks, net Other intangible assets, net Other assets 	1,034 v 1,591 791 121 274 	996
+1,602
+795
+134
+222
+Row:Total assets 	$ 5,116 	XXXX$ 5,060
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities
+Notes and loans payable Accounts payable and accrued liabilities Income taxes payable 	$ 396 1,035 9 	$ 199
+1,001
+—
+Row:Total current liabilities Long-term debt Other liabilities Deferred income taxes 	1,440 2,287 780 50 	1,200
+2,284
+778
+72
+Row:Total liabilities 	4,557 	4,334
+Row:Commitments and contingencies
+Stockholders’ equity
+		Row:Preferred stock: $1.00 par value; 5,000,000 shares authorized; none issued or outstanding Common stock: $1.00 par value; 750,000,000 shares authorized; 158,741,461 shares issued
+	— 	—
+Row:as of June 30, 2019 and 2018; and 125,686,325 and 127,982,767 shares outstanding as of
+		Row:June 30, 2019 and 2018, respectively 	159 	159
+Row:Additional paid-in capital 	1,046 	975
+Row:Retained earnings Treasury shares, at cost: 33,055,136 and 30,758,694 shares as of June 30, 2019 and 2018, respectively Accumulated other comprehensive net (loss) income 	3,150 (3,194) (602) 	2,797
+(2,658)
+(547)
+Row:Stockholders’ equity 	559 	726
+Row:Total liabilities and stockholders’ equity 	$ 5,116 	$ 5,060
+Row:Dollars in millions
+	2019 	2018 	2017
+Row:Operating activities:
+		(As Adjusted*) 	(As Adjusted*)
+Row:Net earnings 	$ 820 	$ 823 	$ 701
+Row:Deduct: Losses from discontinued operations, net of tax 	— 	— 	(2)
+Row:Earnings from continuing operations Adjustments to reconcile earnings from continuing operations to net cash
+provided by continuing operations:
+	820 	823 	703
+Row:Depreciation and amortization 	180 	166 	163
+Row:Stock-based compensation 	43 	53 	51
+Row:Deferred income taxes 	(20) 	(23) 	(35)
+Row:Other 	(29) 	44 	33
+Row:Changes in:
+			Row:Receivables, net 	(32) 	(24) 	(1)
+Row:Inventories, net 	(7) 	(21) 	(19)
+Row:Prepaid expenses and other current assets 	(6) 	4 	(5)
+Row:Accounts payable and accrued liabilities Income taxes payable/receivable, net 	17 26 	(47) 1 	(34)
+12
+Row:Net cash provided by continuing operations Net cash used for discontinued operations 	992 — 	976 — 	868
+(3)
+Row:Net cash provided by operations 	992 	976 	865
+Row:Investing activities:
+			Row:Capital expenditures 	(206) 	(194) 	(231)
+Row:Businesses acquired, net of cash acquired Other 	— 10 	(681) 16 	—
+26
+Row:Net cash used for investing activities 	(196) 	(859) 	(205)
+Row:Financing activities:
+Notes and loans payable, net 	189 	(214) 	(125)
+Row:Long-term debt borrowings, net of issuance costs Long-term debt repayments 	— — 	891 (400) 	—
+—
+Row:Treasury stock purchased Cash dividends paid 	(661) (490) 	(271) (450) 	(183)
+(412)
+Row:Issuance of common stock for employee stock plans and other 	147 	45 	75
+Row:Net cash used for financing activities 	(815) 	(399) 	(645)
+Row:Effect of exchange rate changes on cash, cash equivalents and restricted cash Net increase (decrease) in cash, cash equivalents and restricted cash Cash, cash equivalents and restricted cash:
+Beginning of year 	(2) (21) 134 	(3) (285) 419 	(1)
+14
+405
+Row:End of year 	$ 113 	$ 134 	$ 419
+Row:Supplemental cash flow information:
+Interest paid Income taxes paid, net of refunds Non-cash financing activities:
+	$ 87 207 	$ 75 245 	$ 78
+347
+Row:Cash dividends declared and accrued, but not paid 	133 	123 	108

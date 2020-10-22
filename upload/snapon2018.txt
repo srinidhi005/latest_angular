@@ -1,0 +1,96 @@
+Row:(Amounts in millions, except per share data) 	2017 	2016 	2015
+Row:Net sales 	$ 3,686.9 	$ 3,430.4 	$ 3,352.8
+Row:Cost of goods sold 	(1,862.0) 	(1,720.8) 	(1,704.5)
+Row:Gross profit 	1,824.9 	1,709.6 	1,648.3
+Row:Operating expenses 	(1,160.9) 	(1,054.1) 	(1,053.7)
+Row:Operating earnings before financial services 	664.0 	655.5 	594.6
+Row:Financial services revenue 	313.4 	281.4 	240.3
+Row:Financial services expenses 	(95.9) 	(82.7) 	(70.1)
+Row:Operating earnings from financial services 	217.5 	198.7 	170.2
+Row:Operating earnings 	881.5 	854.2 	764.8
+Row:Interest expense 	(52.4) 	(52.2) 	(51.9)
+Row:Other income (expense) – net 	(7.2) 	(0.6) 	(2.4)
+Row:Earnings before income taxes and equity earnings 	821.9 	801.4 	710.5
+Row:Income tax expense 	(250.9) 	(244.3) 	(221.2)
+Row:Earnings before equity earnings 	571.0 	557.1 	489.3
+Row:Equity earnings, net of tax 	1.2 	2.5 	1.3
+Row:Net earnings 	572.2 	559.6 	490.6
+Row:Net earnings attributable to noncontrolling interests 	(14.5) 	(13.2) 	(11.9)
+Row:Net earnings attributable to Snap-on Incorporated 	$ 557.7 	$ 546.4 	$ 478.7
+Row:Net earnings per share attributable to
+Snap-on Incorporated:
+			Row:Basic Diluted 	$ 9.72 9.52 	$ 9.40 9.20 	$ 8.24
+8.10
+Row:Weighted-average shares outstanding:
+			Row:Basic 	57.4 	58.1 	58.1
+Row:Effect of dilutive securities 	1.2 	1.3 	1.0
+Row:Diluted 	58.6 	59.4 	59.1
+Row:(Amounts in millions, except share data)	2017
+	2016
+Row:ASSETS		Row:Current assets:		Row:Cash and cash equivalents	$
+92.0	77.6Row:Trade and other accounts receivable – net	675.6	598.8Row:Finance receivables - net	505.4	472.5Row:Contract receivables - net	96.8	88.1Row:Inventories - net	638.8	530.5Row:Prepaid expenses and other assets	110.7	116.5Row:Total current assets	2,119.3	1,884.0Row:Property and equipment - net	484.4	425.2Row:Deferred income tax assets	52.0	72.8Row:Long-term finance receivables - net	1,039.2	934.5Row:Long-term contract receivables - net	322.6	286.7Row:Goodwill	924.1	895.5Row:Other intangibles - net	253.7	184.6Row:Other assets	53.8	39.9Row:Total assets
+	5,249.1
+$
+	4,723.2
+$
+Row:Current liabilities:		Row:Notes payable and current maturities of long-term debt	433.2	301.4Row:Accounts payable	178.2	170.9Row:Accrued benefits	55.8	52.8Row:Accrued compensation	71.5	89.8Row:Franchisee deposits	66.5	66.7Row:Other accrued liabilities	388.1	307.9Row:Total current liabilities	1,193.3	989.5Row:Long-term debt	753.6	708.8Row:Deferred income tax liabilities	28.4	13.1Row:Retiree health care benefits	36.0	36.7Row:Pension liabilities	158.9	246.5Row:Other long-term liabilities	106.6	93.4Row:Total liabilities
+	2,276.8
+	2,088.0
+Row:outstanding)Common stock (authorized 250,000,000 shares of $1 par value; issued		Row:67,407,704 and 67,400,250 shares, respectively)	67.4	67.4Row:Additional paid-in capital	343.2	317.3Row:Retained earnings	3,772.3	3,384.9Row:Accumulated other comprehensive loss	(329.0)	(498.5)Row:Treasury stock at cost (10,717,455 and 9,450,393 shares, respectively)	(900.0)	(653.9)Row:Total shareholders' equity attributable to Snap-on Incorporated	2,953.9	2,617.2Row:Noncontrolling interests	18.4	18.0Row:Total equity	2,972.3	2,635.2Row:Total liabilities and equity
+	5,249.1
+$
+	4,723.2
+$
+Row:(Amounts in millions)	2017
+	2016
+	2015
+Row:Operating activities:			Row:Net earningsAdjustments to reconcile net earnings to net cash provided (used) by	$ 572.2
+	$ 559.6
+	$ 490.6
+Row:operating activities:			Row:Depreciation	65.6	61.4	57.8
+Row:Amortization of other intangibles	27.6	24.2	24.7Row:Provision for losses on finance receivables	54.6	44.0	31.6Row:Provision for losses on non-finance receivables	10.5	7.5	13.6
+Row:Stock-based compensation expense	30.3
+	31.0
+	39.8Row:Excess tax benefits from stock-based compensation			(18.3)Row:Deferred income tax provision (benefit)	12.3	1.3	(5.1)Row:Loss (gain) on sales of assets	(0.2)	0.2
+	(2.1)
+Row:Settlement of treasury lock	14.9
+	-
+	Row:Changes in operating assets and liabilities, net of effects of acquisitions:			Row:Increase in trade and other accounts receivable	(55.5)	(41.0)	(44.7)Row:Increase in contract receivables	(41.8)	(31.9)	(34.6)Row:Increase in inventories	(76.0)	(32.7)	(43.3)Row:Increase in prepaid and other assets	(10.0)	(11.9)	(28.2)Row:Increase (decrease) in accounts payable	(2.2)	16.3	4.7
+Row:Increase (decrease) in accruals and other liabilities	6.2
+	(51.9)	20.7
+Row:Net cash provided by operating activities
+	608.5
+	576.1
+	507.2
+Row:Investing activities:			Row:Additions to finance receivables	(892.0)	(915.0)	(844.2)Row:Collections of finance receivables	712.7	671.7	624.8Row:Capital expenditures	(82.0)	(74.3)	(80.4)Row:Acquisitions of businesses, net of cash acquired	(82.9)	(160.4)	(11.8)Row:Disposals of property and equipment	1.5	2.2
+	3.5Row:Other	1.3	2.4
+	1.7Row:Net cash used by investing activities
+	(341.4)
+	(473.4)
+	(306.4)
+Row:Financing activities:			Row:Proceeds from issuance of long-term debt	297.8		Row:Repayment of long-term debt	(150.0)		Row:Proceeds from notes payable	16.8	4.5	7.1
+Row:Repayments of notes payable	(4.5)	(5.3)	(6.3)Row:Net increase (decrease) in other short-term borrowings	18.3	135.0	(34.8)Row:Cash dividends paid	(169.4)	(147.5)	(127.9)Row:Purchases of treasury stock	(287.9)	(120.4)	(110.4)Row:Proceeds from stock purchase and option plans	46.2
+	41.8
+	41.6Row:Excess tax benefits from stock-based compensation			18.3Row:Other	(23.4)	(24.1)	(24.3)Row:Net cash used by financing activities
+	(256.1)
+	(116.0)
+	(236.7)
+Row:Effect of exchange rate changes on cash and cash equivalents	3.4
+	(1.9)	(4.2)Row:Increase (decrease) in cash and cash equivalents	14.4
+	(15.2)	(40.1)Row:Cash and cash equivalents at beginning of year	77.6	92.8
+	132.9Row:Cash and cash equivalents at end of year
+	92.0
+$
+	$
+77.6
+	92.8
+$
+Row:Supplemental cash flow disclosures:			Row:Cash paid for interest	$ (51.2)	$ (51.0)	$ (50.8)Row:Net cash paid for income taxes
+	(228.1)	(247.3)
+	(191.9)
+Row:Investing activities:Additions to finance receivables	(892.0)(915.0)	(844.2)Row:Collections of finance receivables	712.7671.7	624.8Row:Capital expenditures	(82.0)(74.3)	(80.4)Row:Acquisitions of businesses, net of cash acquired	(82.9)(160.4)	(11.8)Row:Disposals of property and equipment	1.52.2
+	3.5Row:Other	1.32.4
+	1.7Row:Net cash used by investing activities
+	(341.4)
+(473.4)
+	(306.4)

@@ -1,0 +1,131 @@
+Row:	2018 Years Ended 	2017 December 31,
+	2016 Seven Months
+Ended
+December 31,
+	Year Ended
+May 31,
+2016
+Row:Revenues 	$3,366,366 	$3,975,163 	$2,202,896 	$2,898,150
+Row:Operating expenses:
+				Row:Cost of service 	1,095,014 	1,928,037 	1,094,593 	1,147,639
+Row:Selling, general and administrative 	1,534,297 	1,488,258 	870,352 	1,325,567
+Row:	2,629,311 	3,416,295 	1,964,945 	2,473,206
+Row:Operating income 	737,055 	558,868 	237,951 	424,944
+Row:Interest and other income 	20,719 	8,662 	44,382 	5,284
+Row:Interest and other expense 	(195,619) 	(174,847) 	(108,989) 	(69,316)
+Row:	(174,900) 	(166,185) 	(64,607) 	(64,032)
+Row:Income before income taxes 	562,155 	392,683 	173,344 	360,912
+Row:Income tax (provision) benefit 	(77,488) 	101,387 	(35,661) 	(70,695)
+Row:Net income 	484,667 	494,070 	137,683 	290,217
+Row:Less: Net income attributable to noncontrolling
+interests 	(32,614) 	(25,645) 	(12,752) 	(18,551)
+Row:Net income attributable to Global Payments 	$ 452,053 	$ 468,425 	$ 124,931 	$ 271,666
+Row:Earnings per share attributable to Global Payments:
+				Row:Basic earnings per share 	$ 2.85 	$ 3.03 	$ 0.81 	$ 2.05
+Row:Diluted earnings per share 	$ 2.84 	$ 3.01 	$ 0.81 	$ 2.04
+Row:Basic earnings per share 	$ 	2.85 	$ 3.03 	$ 0.81 	$ 2.05
+Row:Diluted earnings per share 	$ 	2.84 	$ 3.01 	$ 0.81 	$ 2.04
+Row:ASSETS
+Current assets:
+	Row:$ Cash and cash equivalents	1,210,878
+$ 1,335,855
+Row:Accounts receivable, net of allowances for doubtful accounts of $3,164 and $1,827, respectively	348,400
+301,887
+Row:Settlement processing assets	1,600,222
+2,459,292
+Row:Prepaid expenses and other current assets	216,708
+206,545
+Row:Total current assets
+	3,376,208
+4,303,579Row:Goodwill
+	5,703,9926,341,355Row:Other intangible assets, net	2,181,707
+2,488,618Row:Property and equipment, net	653,542
+588,348
+Row:Deferred income taxes
+	8,128
+13,146
+Row:Other noncurrent assets
+	362,923
+207,297
+Row:Total assets
+$	13,230,774
+$12,998,069
+Row:LIABILITIES AND EQUITY
+	Row:Current liabilities:
+	Row:$
+Settlement lines of credit	700,486
+$
+635,166
+Row:Current portion of long-term debt	115,075
+100,308Row:Accounts payable and accrued liabilities	1,039,607
+1,176,703Row:Settlement processing obligations	2,040,509
+1,276,356Row:Total current liabilities	3,268,6203,815,590Row:Long-term debt
+	5,015,1684,559,408Row:Current portion of long-term debt	115,075
+	100,308Row:Accounts payable and accrued liabilities	1,176,703	1,039,607
+Row:Settlement processing obligations	1,276,356	2,040,509
+Row:Total current liabilities	3,268,620	3,815,590Row:Long-term debt
+	5,015,168	4,559,408Row:Deferred income taxes
+	585,025	436,879
+Row:Other noncurrent liabilities
+	175,618
+	220,961
+Row:Total liabilities
+	9,044,431
+	9,032,838
+Row:Commitments and contingencies		Row:Preferred stock, no par value; 5,000,000 shares authorized and none issued	Row:Common stock, no par value; 200,000,000 shares authorized; 157,961,982 issued and outstanding atDecember 31, 2018 and 159,180,317 issued and outstanding at December 31, 2017	Row:Paid-in capital	2,379,774
+2,235,167Row:Retained earnings	2,066,415
+1,597,897
+Row:Accumulated other comprehensive loss	(310,175)
+(183,144)
+Row:Total Global Payments shareholders' equity	3,991,407
+3,794,527
+Row:Noncontrolling interests	194,936
+170,704
+Row:Total equity	3,965,231
+4,186,343Row:Total liabilities and equity
+$	13,230,774
+$12,998,069
+Row:Cash flows from operating activities:
+	2018 	2017 	2016 	2016
+Row:Net income $ Adjustments to reconcile net income to net cash provided by operating
+activities:
+	484,667 	$ 494,070 	$ 137,683 	$ 290,217
+Row:Depreciation and amortization of property and equipment 	145,128 	113,273 	53,242 	74,192
+Row:Amortization of acquired intangibles 	377,685 	337,878 	194,329 	113,689
+Row:Share-based compensation expense 	57,826 	39,095 	18,707 	30,809
+Row:Provision for operating losses and bad debts 	43,237 	48,443 	24,074 	27,202
+Row:Amortization of capitalized customer acquisition costs 	51,541 	45,098 	14,982 	1,776
+Row:Deferred income taxes 	(1,451) 	(250,670) 	(33,523) 	(18,162)
+Row:Gain on sale of investments Other, net 	— (8,025) 	— 44,070 	(41,150) 32,718 	—
+15,370
+Row:Changes in operating assets and liabilities, net of the effects of business
+combinations:
+				Row:Accounts receivable 	(33,386) 	(14,096) 	2,189 	(14,542)
+Row:Settlement processing assets and obligations, net 	83,478 	(361,673) 	35,599 	218,061
+Row:Prepaid expenses and other assets 	(160,800) 	(129,427) 	(44,164) 	(64,216)
+Row:Accounts payable and other liabilities Net cash provided by operating activities 	66,182 1,106,082 	146,327 512,388 	121,140 515,826 	(81,506)
+592,890
+Row:Cash flows from investing activities:
+				Row:Business combinations and other acquisitions, net of cash acquired 	(1,259,692) 	(562,688) 	(33,865) 	(2,034,406)
+Row:Capital expenditures 	(213,290) 	(181,905) 	(88,913) 	(91,591)
+Row:Net proceeds from sale of investments 	— 	— 	37,717 	—
+Row:Net proceeds from sales of property and equipment 	— 	37,565 	— 	—
+Row:Other, net Net cash used in investing activities 	(3,305) (1,476,287) 	(28,997) (736,025) 	(1,622) (86,683) 	(1,251)
+(2,127,248)
+Row:Cash flows from financing activities:
+Net proceeds from (repayments of) settlement lines of credit 	70,783 	221,532 	20,582 	(206,009)
+Row:Proceeds from long-term debt Repayments of long-term debt Payment of debt issuance costs 	2,774,214 (2,304,314) (16,345) 	1,994,324 (1,781,541) (9,520) 	1,299,000 (1,381,161) (9,279) 	6,078,230
+(3,691,608)
+(63,382)
+Row:Repurchase of common stock Proceeds from stock issued under share-based compensation plans 	(208,198) 14,318 	(34,811) 10,115 	(178,165) 6,093 	(135,954)
+8,480
+Row:Common stock repurchased — share-based compensation plans 	(31,510) 	(31,761) 	(20,390) 	(12,236)
+Row:Purchase of subsidiary shares from noncontrolling interest Proceeds from sale of subsidiary shares to noncontrolling interest 	— — 	— — 	— — 	(7,550)
+16,374
+Row:Distributions to noncontrolling interests 	(5,686) 	(9,301) 	(12,365) 	(23,308)
+Row:Dividends paid 	(6,332) 	(6,732) 	(3,069) 	(5,439)
+Row:Net cash provided by (used in) financing activities Effect of exchange rate changes on cash 	286,930 (41,702) 	352,305 44,408 	(278,754) (32,338) 	1,957,598
+(29,251)
+Row:Increase (decrease) in cash and cash equivalents 	(124,977) 	173,076 	118,051 	393,989
+Row:Cash and cash equivalents, beginning of the period 	1,335,855 	1,162,779 	1,044,728 	650,739
+Row:Cash and cash equivalents, end of the period $ 	1,210,878 	$ 1,335,855 	$ 1,162,779 	$ 1,044,728

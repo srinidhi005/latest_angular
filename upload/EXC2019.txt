@@ -1,0 +1,658 @@
+Row:2019
+(In millions)	2018
+	2017
+Row:Cash flows from operating activities
+		Row:Net income	3,028
+$
+2,079
+	$
+3,869
+Row:Adjustments to reconcile net income to net cash flows provided by operating activities:		Row:Depreciation, amortization and accretion, including nuclear fuel and energy contract amortization	5,780
+5,971
+	5,427
+Row:Asset impairments
+	201
+50
+	573
+Row:Gain on sales of assets and businesses
+	(27)
+(56)
+	(3)
+Row:Bargain purchase gain
+		(233)
+Row:Gain on deconsolidation of business
+		(213)
+Row:Deferred income taxes and amortization of investment tax credits
+	681
+(108)
+	(362)
+Row:Net fair value changes related to derivatives	222
+294
+	151
+Row:Net realized and unrealized (gains) losses on NDT funds
+	(663)
+303
+	(616)
+Row:Other non-cash operating activities
+	613
+1,131
+	728
+Row:Changes in assets and liabilities:
+		Row:Accounts receivable
+	(243)
+(565)	(470)Row:Inventories
+	(37)
+(87)
+	(72)
+Row:Accounts payable and accrued expenses
+	551
+(425)	(388)
+Row:Option premiums (paid) received, net
+	(29)
+(43)
+	28
+Row:Collateral (posted) received, net
+	(438)
+82
+	(158)
+Row:Income taxes
+	(64)
+340
+	299
+Row:Pension and non-pension postretirement benefit contributions
+	(408)
+(383)
+	(405)
+Row:Other assets and liabilities
+	(1,482)(965)	(675)Row:Net cash flows provided by operating activities	6,659
+8,644
+	7,480
+Row:Cash flows from investing activities
+		Row:Capital expenditures
+	(7,248)
+(7,594)	(7,584)
+Row:Proceeds from NDT fund sales
+	8,762
+10,051
+	7,845
+Row:Investment in NDT funds
+Reduction of restricted cash from deconsolidation of business
+	(10,087)
+(8,997)
+	(8,113)
+(87)
+Row:Acquisitions of assets and businesses, net
+	(41)
+(154)
+	(208)
+Row:Proceeds from sales of assets and businesses
+	53
+91
+	219
+Row:Other investing activities
+	12
+58
+	(43)Row:Net cash flows used in investing activities	(7,260)
+(7,834)
+	(7,971)
+Row:Cash flows from financing activities
+		Row:Changes in short-term borrowings	781
+(338)
+	(261)
+Row:Proceeds from short-term borrowings with maturities greater than 90 days	-
+126
+	621
+Row:Repayments on short-term borrowings with maturities greater than 90 days	(125)
+(1)
+	(700)
+Row:Issuance of long-term debt
+	1,951
+3,115
+	3,470
+Row:Retirement of long-term debt
+	(1,287)
+(1,786)
+	(2,490)
+Row:Retirement of long-term debt to financing trust
+		(250)
+Row:Common stock issued from treasury stock
+		1,150
+Row:Dividends paid on common stock
+	(1,408)
+(1,332)
+	(1,236)
+Row:Proceeds from employee stock plans	112
+105
+	150
+Row:Sale of noncontrolling interests		396
+Row:Other financing activities	(82)(108)	(83)
+Row:Net cash flows (used in) provided by financing activities	(58)
+(219)
+	767
+Row:(Decrease) increase in cash, cash equivalents and restricted cash	(659)
+591
+	276
+Row:Cash, cash equivalents and restricted cash at beginning of period	1,781
+1,190
+	914
+Row:Cash, cash equivalents and restricted cash at end of period
+$
+	1,122
+$
+1,781
+	$
+1,190
+Row:Supplemental cash flow information
+		Row:Current assets	Row:$
+Cash and cash equivalents	587
+$
+1,349
+Row:Restricted cash and cash equivalents	358
+247
+Row:Accounts receivable, net	Row:Customer (net of allowance for uncollectible accounts of $243 and $283 as of December 31, 2019 and2018, respectively)
+	4,592
+4,607
+Row:Other (net of allowance for uncollectible accounts of $48 and $36 as of December 31, 2019 and 2018,respectively)	1,583
+1,256
+Row:Mark-to-market derivative assets	679
+804
+Row:Unamortized energy contract assets	47
+48
+Row:Inventories, net	Row:Fossil fuel and emission allowances	312
+334
+Row:Materials and supplies	1,4561,351Row:Regulatory assets	1,170
+1,190Row:Assets held for sale	904
+Row:Other	1,253
+1,238Row:Total current assets	13,328
+12,037
+Row:Property, plant and equipment (net of accumulated depreciation and amortization of $23,979 and $22,902as of December 31, 2019 and 2018, respectively)	80,233
+76,707
+Row:Deferred debits and other assets	Row:Regulatory assets	8,3358,237Row:Nuclear decommissioning trust funds	13,19011,661Row:Investments
+	464625
+Row:Goodwill
+	6,6776,677
+Row:Mark-to-market derivative assets
+	508
+452
+Row:Unamortized energy contract assets	336
+372
+Row:Other	3,1971,575Row:Total deferred debits and other assets
+	32,707
+29,599
+Row:Total assets(a)
+$
+	124,977
+$
+119,634
+Row:(In millions)
+	For the 2019
+	Years Ended December 2018
+	31,
+2017
+Row:Cash flows from operating activities
+			Row:Net income
+	1,217
+	$
+443
+	$
+2,798
+Row:Adjustments to reconcile net income to net cash flows provided by operating activities:			Row:Depreciation, amortization and accretion, including nuclear fuel and energy contract amortization
+	3,063
+	3,415
+	3,056
+Row:Asset impairments
+	201
+	50
+	510
+Row:Gain on sales of assets and businesses
+	(27)
+	(48)
+	(2)
+Row:Bargain purchase gain
+			(233)
+Row:Gain on deconsolidation of business
+			(213)Row:Deferred income taxes and amortization of investment tax credits
+Net fair value changes related to derivatives	361
+228
+	(451)
+307
+	(2,023)
+167
+Row:Net realized and unrealized (gains) losses on NDT fund investments
+	(663)
+	303
+	(616)
+Row:Other non-cash operating activities	(124)
+	298
+	112
+Row:Changes in assets and liabilities:
+			Row:Accounts receivable
+	(186)
+	(359)
+	(320)
+Row:Receivables from and payables to affiliates, net
+	(52)
+	8
+	(7)
+Row:Inventories
+	(47)	(12)
+	(29)
+Row:Accounts payable and accrued expenses	(248)
+	376
+	4
+Row:Option premiums (paid) received, net	(29)	(43)
+	28
+Row:Collateral (posted) received, net
+	(481)
+	64
+	(129)
+Row:Income taxes
+	302
+	(193)
+	496
+Row:Pension and non-pension postretirement benefit contributions
+	(175)
+	(139)
+	(148)
+Row:Other assets and liabilities
+	(467)	(158)	(152)Row:Net cash flows provided by operating activities
+	2,873
+	3,861
+	3,299
+Row:Cash flows from investing activities
+			Row:Capital expenditures
+	(1,845)
+	(2,242)
+	(2,259)
+Row:Proceeds from NDT fund sales
+	10,051
+	8,762
+	7,845
+Row:Investment in NDT funds	(10,087)
+	(8,997)
+	(8,113)
+Row:Reduction of restricted cash from deconsolidation of business
+			(87)
+Row:Proceeds from sales of assets and businesses
+	52
+	90
+	218
+Row:Acquisitions of assets and businesses, net	(41)
+	(154)
+	(208)
+Row:Other investing activities	3
+	10
+	(58)Row:Net cash flows used in investing activities
+	(1,867)
+	(2,531)
+	(2,662)
+Row:Cash flows from financing activities			Row:Change in short-term borrowings	320
+		(620)
+Row:Proceeds from short-term borrowings with maturities greater than 90 days			121
+Row:Repayments of short-term borrowings with maturities greater than 90 days
+			(200)
+Row:Issuance of long-term debt
+	42
+	15
+	1,645
+Row:Retirement of long-term debt
+	(813)	(141)
+	(1,261)
+Row:Changes in Exelon intercompany money pool
+	(100)
+	46
+	(1)
+Row:Distributions to member
+	(899)
+	(1,001)
+	(659)
+Row:Contributions from member
+	41
+	155
+	102
+Row:Sale of noncontrolling interests			396
+Row:Other financing activities	(51)	(55)	(54)Row:Net cash flows used in financing activities	(1,460)
+	(981)
+	(531)
+Row:(Decrease) increase in cash, cash equivalents and restricted cash	(454)
+	349
+	106
+Row:Cash, cash equivalents and restricted cash at beginning of period	903
+	554
+	448
+Row:Cash, cash equivalents and restricted cash at end of period
+$
+	449
+	$
+903
+	$
+554
+Row:2019
+(In millions)	2018
+	2017
+Row:Cash flows from operating activities
+		Row:Net income	3,028
+$
+2,079
+	$
+3,869
+Row:Adjustments to reconcile net income to net cash flows provided by operating activities:		Row:Depreciation, amortization and accretion, including nuclear fuel and energy contract amortization	5,780
+5,971
+	5,427
+Row:Asset impairments
+	201
+50
+	573
+Row:Gain on sales of assets and businesses
+	(27)
+(56)
+	(3)
+Row:Bargain purchase gain
+		(233)
+Row:Gain on deconsolidation of business
+		(213)
+Row:Deferred income taxes and amortization of investment tax credits
+	681
+(108)
+	(362)
+Row:Net fair value changes related to derivatives	222
+294
+	151
+Row:Net realized and unrealized (gains) losses on NDT funds
+	(663)
+303
+	(616)
+Row:Other non-cash operating activities
+	613
+1,131
+	728
+Row:Changes in assets and liabilities:
+		Row:Accounts receivable
+	(243)
+(565)	(470)Row:Inventories
+	(37)
+(87)
+	(72)
+Row:Accounts payable and accrued expenses
+	551
+(425)	(388)
+Row:Option premiums (paid) received, net
+	(29)
+(43)
+	28
+Row:Collateral (posted) received, net
+	(438)
+82
+	(158)
+Row:Income taxes
+	(64)
+340
+	299
+Row:Pension and non-pension postretirement benefit contributions
+	(408)
+(383)
+	(405)
+Row:Other assets and liabilities
+	(1,482)(965)	(675)Row:Net cash flows provided by operating activities	6,659
+8,644
+	7,480
+Row:Cash flows from investing activities
+		Row:Capital expenditures
+	(7,248)
+(7,594)	(7,584)
+Row:Proceeds from NDT fund sales
+	8,762
+10,051
+	7,845
+Row:Investment in NDT funds
+Reduction of restricted cash from deconsolidation of business
+	(10,087)
+(8,997)
+	(8,113)
+(87)
+Row:Acquisitions of assets and businesses, net
+	(41)
+(154)
+	(208)
+Row:Proceeds from sales of assets and businesses
+	53
+91
+	219
+Row:Other investing activities
+	12
+58
+	(43)Row:Net cash flows used in investing activities	(7,260)
+(7,834)
+	(7,971)
+Row:Cash flows from financing activities
+		Row:Changes in short-term borrowings	781
+(338)
+	(261)
+Row:Proceeds from short-term borrowings with maturities greater than 90 days	-
+126
+	621
+Row:Repayments on short-term borrowings with maturities greater than 90 days	(125)
+(1)
+	(700)
+Row:Issuance of long-term debt
+	1,951
+3,115
+	3,470
+Row:Retirement of long-term debt
+	(1,287)
+(1,786)
+	(2,490)
+Row:Retirement of long-term debt to financing trust
+		(250)
+Row:Common stock issued from treasury stock
+		1,150
+Row:Dividends paid on common stock
+	(1,408)
+(1,332)
+	(1,236)
+Row:Proceeds from employee stock plans	112
+105
+	150
+Row:Sale of noncontrolling interests		396
+Row:Other financing activities	(82)(108)	(83)
+Row:Net cash flows (used in) provided by financing activities	(58)
+(219)
+	767
+Row:(Decrease) increase in cash, cash equivalents and restricted cash	(659)
+591
+	276
+Row:Cash, cash equivalents and restricted cash at beginning of period	1,781
+1,190
+	914
+Row:Cash, cash equivalents and restricted cash at end of period
+$
+	1,122
+$
+1,781
+	$
+1,190
+Row:Supplemental cash flow information
+		Row:Current assets	Row:$
+Cash and cash equivalents	587
+$
+1,349
+Row:Restricted cash and cash equivalents	358
+247
+Row:Accounts receivable, net	Row:Customer (net of allowance for uncollectible accounts of $243 and $283 as of December 31, 2019 and2018, respectively)
+	4,592
+4,607
+Row:Other (net of allowance for uncollectible accounts of $48 and $36 as of December 31, 2019 and 2018,respectively)	1,583
+1,256
+Row:Mark-to-market derivative assets	679
+804
+Row:Unamortized energy contract assets	47
+48
+Row:Inventories, net	Row:Fossil fuel and emission allowances	312
+334
+Row:Materials and supplies	1,4561,351Row:Regulatory assets	1,170
+1,190Row:Assets held for sale	904
+Row:Other	1,253
+1,238Row:Total current assets	13,328
+12,037
+Row:Property, plant and equipment (net of accumulated depreciation and amortization of $23,979 and $22,902as of December 31, 2019 and 2018, respectively)	80,233
+76,707
+Row:Deferred debits and other assets	Row:Regulatory assets	8,3358,237Row:Nuclear decommissioning trust funds	13,19011,661Row:Investments
+	464625
+Row:Goodwill
+	6,6776,677
+Row:Mark-to-market derivative assets
+	508
+452
+Row:Unamortized energy contract assets	336
+372
+Row:Other	3,1971,575Row:Total deferred debits and other assets
+	32,707
+29,599
+Row:Total assets(a)
+$
+	124,977
+$
+119,634
+Row:(In millions)
+	For the 2019
+	Years Ended December 2018
+	31,
+2017
+Row:Cash flows from operating activities
+			Row:Net income
+	1,217
+	$
+443
+	$
+2,798
+Row:Adjustments to reconcile net income to net cash flows provided by operating activities:			Row:Depreciation, amortization and accretion, including nuclear fuel and energy contract amortization
+	3,063
+	3,415
+	3,056
+Row:Asset impairments
+	201
+	50
+	510
+Row:Gain on sales of assets and businesses
+	(27)
+	(48)
+	(2)
+Row:Bargain purchase gain
+			(233)
+Row:Gain on deconsolidation of business
+			(213)Row:Deferred income taxes and amortization of investment tax credits
+Net fair value changes related to derivatives	361
+228
+	(451)
+307
+	(2,023)
+167
+Row:Net realized and unrealized (gains) losses on NDT fund investments
+	(663)
+	303
+	(616)
+Row:Other non-cash operating activities	(124)
+	298
+	112
+Row:Changes in assets and liabilities:
+			Row:Accounts receivable
+	(186)
+	(359)
+	(320)
+Row:Receivables from and payables to affiliates, net
+	(52)
+	8
+	(7)
+Row:Inventories
+	(47)	(12)
+	(29)
+Row:Accounts payable and accrued expenses	(248)
+	376
+	4
+Row:Option premiums (paid) received, net	(29)	(43)
+	28
+Row:Collateral (posted) received, net
+	(481)
+	64
+	(129)
+Row:Income taxes
+	302
+	(193)
+	496
+Row:Pension and non-pension postretirement benefit contributions
+	(175)
+	(139)
+	(148)
+Row:Other assets and liabilities
+	(467)	(158)	(152)Row:Net cash flows provided by operating activities
+	2,873
+	3,861
+	3,299
+Row:Cash flows from investing activities
+			Row:Capital expenditures
+	(1,845)
+	(2,242)
+	(2,259)
+Row:Proceeds from NDT fund sales
+	10,051
+	8,762
+	7,845
+Row:Investment in NDT funds	(10,087)
+	(8,997)
+	(8,113)
+Row:Reduction of restricted cash from deconsolidation of business
+			(87)
+Row:Proceeds from sales of assets and businesses
+	52
+	90
+	218
+Row:Acquisitions of assets and businesses, net	(41)
+	(154)
+	(208)
+Row:Other investing activities	3
+	10
+	(58)Row:Net cash flows used in investing activities
+	(1,867)
+	(2,531)
+	(2,662)
+Row:Cash flows from financing activities			Row:Change in short-term borrowings	320
+		(620)
+Row:Proceeds from short-term borrowings with maturities greater than 90 days			121
+Row:Repayments of short-term borrowings with maturities greater than 90 days
+			(200)
+Row:Issuance of long-term debt
+	42
+	15
+	1,645
+Row:Retirement of long-term debt
+	(813)	(141)
+	(1,261)
+Row:Changes in Exelon intercompany money pool
+	(100)
+	46
+	(1)
+Row:Distributions to member
+	(899)
+	(1,001)
+	(659)
+Row:Contributions from member
+	41
+	155
+	102
+Row:Sale of noncontrolling interests			396
+Row:Other financing activities	(51)	(55)	(54)Row:Net cash flows used in financing activities	(1,460)
+	(981)
+	(531)
+Row:(Decrease) increase in cash, cash equivalents and restricted cash	(454)
+	349
+	106
+Row:Cash, cash equivalents and restricted cash at beginning of period	903
+	554
+	448
+Row:Cash, cash equivalents and restricted cash at end of period
+$
+	449
+	$
+903
+	$
+554

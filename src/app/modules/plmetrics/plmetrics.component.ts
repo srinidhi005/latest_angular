@@ -44,9 +44,8 @@ export class PLMetricsComponent implements OnInit {
   ) { }
 
   ngOnInit() {
-   
       this.progressBar=true;
-  var previousAmount;
+      var previousAmount;
     this.apiService.getData(this.urlConfig.getIsActualsAPI()+this.companyName).subscribe((res:any)=>{
       for (let j=0; j<res.length; j++) {
         if( res[j].latest === 0){
@@ -74,12 +73,7 @@ export class PLMetricsComponent implements OnInit {
         }
     this.apiService.getData(this.urlConfig.getScenarioAPI()+this.companyName).subscribe((res:any)=>{
       this.scenarioArray=res.scenarios;
-     this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
-      let scenarioNumber=0;
-      if(res.scenarios.includes(this.scenario)){
-        scenarioNumber=this.scenario;
-      }
-      this.apiService.getData(this.urlConfig.getIsProjectionsAPIGET()+this.companyName+"&scenario="+scenarioNumber).subscribe((res:any)=>{
+      this.apiService.getData(this.urlConfig.getIsProjectionsAPIGET()+this.companyName+"&scenario="+this.scenario).subscribe((res:any)=>{
         let totalRevenue=0;  
         for (let j=0; j<res.length; j++) {
           if(j == 0){
@@ -143,9 +137,15 @@ export class PLMetricsComponent implements OnInit {
     for (let i = 0; i < ELEMENT_D.length; ++i) {
       output[ELEMENT_D[i].inMillions] = ELEMENT_D[i][row];
     }
-
     return output;
   }
+  loadScenario(index:number){
+    if(index != 0){
+      this.scenario = index;
+      this.ngOnInit();
+  }
+  }
+
   exportToXLSX(){}
   exportToPDF(){
     let doc = new jsPDF('l','pt'); 
@@ -209,7 +209,9 @@ export class PLMetricsComponent implements OnInit {
   data.push(totalRevenue,revenueGrowthRate,COGS,grossProfit,grossMargin,SGA,EBIT,EBITMargin,DA,EBITDA,EBITDAMargin,NIE,EBT,EBTMargin,taxes,netIncome,netIncomeMargin);
     autoTable(doc,{
       head: [inMillionsYear],
-      body: data,
+      body: data,     
+      headStyles:{fillColor: [22, 74, 91], textColor:[245, 245, 245]},
+      columnStyles: {0: {fillColor: [22, 74, 91], textColor:[245, 245, 245] }},
       styles: {overflow: 'linebreak',fontSize: 12},
     });
     doc.save(this.companyName +'.pdf');

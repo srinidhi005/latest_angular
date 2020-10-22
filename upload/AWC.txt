@@ -1,0 +1,45 @@
+Row:REVENUES 	- $ 2017 	- $
+2016
+Row:EXPENSES:
+		Row:Project Development
+		Row:Engineering and Design Regulatory and Legal 	10,631 9,970 	-
+-
+Row:Total Project Development 	20,601 	-
+Row:General and administrative:
+		Row:General and administrative 	207,322 	228,080
+Row:Salaries and wages 	191,192 	180,683
+Row:Rent and office expense 	16,791 	17,678
+Row:Management fee—AGD 	255,833 	230,417
+Row:Total general and administrative expenses 	671,139 	656,858
+Row:Total expenses 	691,740 	656,858
+Row:NET LOSS 	(691,740) $ 	(656,858) $
+Row:REVENUES 	- $ 2017 	- $
+2016
+Row:EXPENSES:
+		Row:Project Development
+		Row:Engineering and Design Regulatory and Legal 	10,631 9,970 	-
+-
+Row:Total Project Development 	20,601 	-
+Row:General and administrative:
+		Row:General and administrative 	207,322 	228,080
+Row:Salaries and wages 	191,192 	180,683
+Row:Rent and office expense 	16,791 	17,678
+Row:Management fee—AGD 	255,833 	230,417
+Row:Total general and administrative expenses 	671,139 	656,858
+Row:Total expenses 	691,740 	656,858
+Row:NET LOSS 	(691,740) $ 	(656,858) $
+Row:REVENUES 	- $ 2017 	- $
+2016
+Row:EXPENSES:
+		Row:Project Development
+		Row:Engineering and Design Regulatory and Legal 	10,631 9,970 	-
+-
+Row:Total Project Development 	20,601 	-
+Row:General and administrative:
+		Row:General and administrative 	207,322 	228,080
+Row:Salaries and wages 	191,192 	180,683
+Row:Rent and office expense 	16,791 	17,678
+Row:Management fee—AGD 	255,833 	230,417
+Row:Total general and administrative expenses 	671,139 	656,858
+Row:Total expenses 	691,740 	656,858
+Row:NET LOSS 	(691,740) $ 	(656,858) $

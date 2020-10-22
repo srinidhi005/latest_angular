@@ -1,0 +1,107 @@
+Row:Revenues
+	2016 2017 	2018
+Row:Automotive 	$ 141,546 $ 145,653 	$ 148,294
+Row:Ford Credit 	10,253 11,113 	12,018
+Row:Mobility 	1 10 	26
+Row:Total revenues (Note 4) 	151,800 156,776 	160,338
+Row:Costs and expenses
+		Row:Cost of sales 	126,195 131,321 	136,269
+Row:Selling, administrative, and other expenses 	10,972 11,527 	11,403
+Row:Ford Credit interest, operating, and other expenses 	8,847 9,047 	9,463
+Row:Total costs and expenses 	146,014 151,895 	157,135
+Row:Interest expense on Automotive debt 	894 1,133 	1,171
+Row:Interest expense on Other debt 	57 57 	57
+Row:Other income/(loss), net (Note 5) 	169 3,267 	2,247
+Row:Equity in net income of affiliated companies 	1,780 1,201 	123
+Row:Income before income taxes 	6,784 8,159 	4,345
+Row:Provision for/(Benefit from) income taxes (Note 7) 	2,184 402 	650
+Row:Net income 	4,600 7,757 	3,695
+Row:Less: Income/(Loss) attributable to noncontrolling interests 	11 26 	18
+Row:Net income attributable to Ford Motor Company 	$ 4,589 $ 7,731 	$ 3,677
+Row:EARNINGS PER SHARE ATTRIBUTABLE TO FORD MOTOR COMPANY COMMONAND 	CLASS B STOCK (Note 8)
+	Row:Other comprehensive income/(loss), net of tax (Note 21)
+			Row:Foreign currency translation 	(1,024) 	314 	(523)
+Row:Marketable securities 	(8) 	(34) 	(11)
+Row:Derivative instruments 	219 	(265) 	183
+Row:Pension and other postretirement benefits 	56 	37 	(56)
+Row:Total other comprehensive income/(loss), net of tax 	(757) 	52 	(407)
+Row:Comprehensive income 	3,843 	7,809 	3,288
+Row:Less: Comprehensive income/(loss) attributable to noncontrolling interests 	10 	24 	18
+Row:Comprehensive income attributable to Ford Motor Company 	$ 3,833 	$ 7,785 	$ 3,270
+Row:December 31,	December 31,Row:2017
+	2018
+Row:ASSETS	2017
+	2018
+Row:$
+Cash and cash equivalents (Note 9)	18,492	$
+16,718Row:Marketable securities (Note 9)	20,435	17,233Row:Ford Credit finance receivables, net (Note 10)	52,210	54,353Row:Trade and other receivables, less allowances of $412 and $94	10,599	11,195Row:Inventories (Note 12)	11,176	11,220Row:Other assets	3,889	3,930Row:Total current assets
+	116,801
+	114,649
+Row:Ford Credit finance receivables, net (Note 10)	56,182	55,544Row:Net investment in operating leases (Note 13)	28,235	29,119Row:Net property (Note 14)	35,327	36,178Row:Equity in net assets of affiliated companies (Note 15)	3,085	2,709Row:Deferred income taxes (Note 7)	10,762	10,412Row:Other assets	8,104	7,929Row:Total assets
+$
+	258,496
+	256,540
+$
+Row:LIABILITIES		Row:$
+Payables	23,282	$
+21,520Row:Other liabilities and deferred revenue (Note 16)	19,697	20,556Row:Automotive debt payable within one year (Note 18)	3,356	2,314Row:Ford Credit debt payable within one year (Note 18)	48,265	51,179Row:Total current liabilities
+	94,600
+	95,569
+Row:Other liabilities and deferred revenue (Note 16)	24,711	23,588Row:Automotive long-term debt (Note 18)	12,575	11,233Row:Ford Credit long-term debt (Note 18)Other long-term debt (Note 18)	89,492599	88,887600
+Row:Deferred income taxes (Note 7)	815	597
+Row:Total liabilities
+	222,792
+	220,474
+Row:Redeemable noncontrolling interest (Note 20)
+	98
+	100
+Row:EQUITY		Row:Common Stock, par value $.01 per share (4,000 million shares issued of 6 billion authorized)	40
+	40Row:EQUITYCommon Stock, par value $.01 per share (4,000 million shares issued of 6 billion authorized)	40
+40Row:Class B Stock, par value $.01 per share (71 million shares issued of 530 million authorized)	1
+1
+Row:Capital in excess of par value of stock	21,84322,006Row:Retained earnings	21,90622,668Row:Accumulated other comprehensive income/(loss) (Note 21)	(6,959)(7,366Row:Treasury stock	(1,253)(1,417Row:Total equity attributable to Ford Motor Company	35,57835,932Row:Equity attributable to noncontrolling interests	2834Row:Total equity	35,60635,966Row:Total liabilities and equity
+$
+	258,496
+256,540
+$
+Row:ASSETS		Row:Cash and cash equivalents	$
+3,479	$
+2,728Row:Ford Credit finance receivables, net	56,250	58,662Row:Net investment in operating leases	11,503	16,332Row:Other assets	64
+	27
+Row:LIABILITIES		Row:Other liabilities and deferred revenue	$
+2
+	24Row:Debt	46,437
+	53,269
+Row:Net income $ 	4,600 $ 	7,757 $ 	3,695
+Row:Depreciation and tooling amortization 	9,023 	9,122 	9,280
+Row:Other amortization 	(306) 	(669) 	(972)
+Row:Provision for credit and insurance losses 	672 	717 	609
+Row:Pension and otherpostretirement employee benefits (“OPEB”) expense/(income) 	2,667 	(608) 	400
+Row:Equity investment (earnings)/losses in excess of dividends received 	(178) 	240 	206
+Row:Foreign currency adjustments 	283 	(403) 	529
+Row:Net (gain)/loss on changes in investments in affiliates 	(139) 	(7) 	(42)
+Row:Stock compensation 	210 	246 	191
+Row:Net change in wholesale and other receivables 	(1,449) 	(836) 	(2,408)
+Row:Provision for deferred income taxes 	1,473 	(350) 	(197)
+Row:Decrease/(Increase) in accounts receivable and other assets 	(2,855) 	(2,297) 	(2,239)
+Row:Decrease/(Increase) in inventory 	(803) 	(970) 	(828)
+Row:Increase/(Decrease) in accounts payable and accrued and other liabilities 	6,595 	6,089 	6,781
+Row:Other 	57 	65 	17
+Row:Net cash provided by/(used in) operating activities 	19,850 	18,096 	15,022
+Row:Cash flows from investing activities
+			Row:Capital spending 	(6,992) 	(7,049) 	(7,785)
+Row:Acquisitions of finance receivables and operating leases 	(56,007) 	(59,354) 	(62,924)
+Row:Collections of finance receivables and operating leases 	38,834 	44,641 	50,880
+Row:Purchases of marketable and other securities 	(31,428) 	(27,567) 	(17,140)
+Row:Cash dividends 	(3,376) (2,584) 	(2,905)
+Row:Purchases of common stock 	(145) (131) 	(164)
+Row:Net changes in short-term debt 	3,864 1,229 	(2,819)
+Row:Proceeds from issuance of long-termdebt 	45,961 45,801 	50,130
+Row:Principal payments on long-term debt 	(38,797) (40,770) 	(44,172)
+Row:Other 	(107) (151) 	(192)
+Row:Net cash provided by/(used in)financing activities 	7,400 3,394 	(122)
+Row:Effect of exchange rate changes on cash, cash equivalents, and restricted cash 	(265) 489 	(370)
+Row:Net increase/(decrease) in cash, cash equivalents, and restricted cash $ 	1,683 $ 2,619 	$ (1,731)
+Row:Cash, cash equivalents, and restricted cash at January 1 (Note 9) $ 	14,336 $ 16,019 	$ 18,638
+Row:Net increase/(decrease) in cash, cash equivalents, and restricted cash 	1,683 2,619 	(1,731)
+Row:Cash, cash equivalents, and restricted cash at December 31 (Note 9) $ 	16,019 $ 18,638 	$ 16,907

@@ -1,0 +1,127 @@
+Row:Assets	2019
+2018
+Row:$
+FFELP Loans (net of allowance for losses of $64 and $76, respectively)Private Education Loans (net of allowance for losses of $1,048 and $1,201,respectively)Investments	64,575
+72,253
+22,245
+22,245
+Row:Held-to-maturity	19Row:Other	192226Row:Total investments	211226Row:Cash and cash equivalents	1,2331,286Row:Restricted cash and cash equivalents	2,5483,976Row:Goodwill and acquired intangible assets, net	757786Row:Other assets	3,3343,404Row:$
+Total assets	94,903
+104,176
+$
+Row:Liabilities	Row:Short-term borrowings	$
+8,4835,422Row:Long-term borrowings	81,71593,519Row:Other liabilities	1,3561,688Row:Total liabilities	91,554
+100,629
+Row:Commitments and contingencies	Row:Equity	Row:Common stock, par value $0.01 per share; 1.125 billion shares authorized:451 million and 445 million shares issued, respectively	44Row:Additional paid-in capital	3,198
+3,145
+Row:Accumulated other comprehensive income (net of tax (benefit) expense of$(30) and $35, respectively)	(91)113Row:Retained earnings	3,6643,218Row:Total Navient Corporation stockholders' equity before treasury stock	6,775
+6,480
+Row:Less: Common stock held in treasury at cost: 236 million and 198 millionshares, respectivelyTotal Navient Corporation stockholders' equity	(2,961)3,519
+(3,439)3,336Row:Noncontrolling interest	1328
+Row:Total equity	3,3493,547Row:Total liabilities and equity
+$
+	94,903
+104,176
+$
+Row:	December 31,	December 31,Row:	2019	2018Row:FFELP Loans	$
+64,255	$
+71,921Row:Private Education Loans	19,609	19,698Row:Restricted cash	2,506	3,928Row:Other assets, net	1,089	956Row:Short-term borrowings	7,089	4,341Row:Long-term borrowings	72,856	82,738Row:Net assets of consolidated variable interest entities
+	7,514
+$
+	9,424
+Row:	2019 2018 	2017
+Row:Interest income:
+		Row:FFELP Loans $ 	2,847 $ 3,027 	$ 2,693
+Row:Private Education Loans 	1,731 1,778 	1,634
+Row:Other loans 	2 6 	13
+Row:Cash and investments 	93 97 	43
+Row:Total interest income 	4,673 4,908 	4,383
+Row:Total interest expense 	3,488 3,668 	2,971
+Row:Net interest income 	1,185 1,240 	1,412
+Row:Less: provisions for loan losses 	258 370 	426
+Row:Net interest income after provisions for loan losses 	927 870 	986
+Row:Other income (loss):
+		Row:Servicing revenue 	240 274 	290
+Row:Asset recovery and business processing revenue 	488 430 	475
+Row:Other income 	45 17 	9
+Row:Gains on sales of loans 	16 — 	3
+Row:Gains (losses) on debt repurchases 	45 19 	(3 )
+Row:Gains (losses) on derivative and hedging activities, net 	22 (38 ) 	22
+Row:Total other income 	856 702 	796
+Row:Expenses:
+		Row:Salaries and benefits 	488 507 	519
+Row:Other operating expenses 	496 477 	447
+Row:Total operating expenses 	984 984 	966
+Row:Goodwill and acquired intangible asset impairment and
+amortization expense 	30 47 	23
+Row:Restructuring/other reorganization expenses 	6 13 	29
+Row:Total expenses 	1,020 1,044 	1,018
+Row:Income before income tax expense 	763 528 	764
+Row:Income tax expense 	166 133 	472
+Row:Net income $ 	597 $ 395 	$ 292
+Row:Basic earnings per common share $ 	2.59 $ 1.52 	$ 1.06
+Row:Average common shares outstanding 	230 260 	275
+Row:Diluted earnings per common share $ 	2.56 $ 1.49 	$ 1.04
+Row:Average common and common equivalent shares outstanding 	233 264 	281
+Row:Dividends per common share $ 	.64 $ .64 	$ .64
+Row:2019 Operating activities
+Net income $ Adjustments to reconcile net income to net cash provided by operating activities:
+	2018 2017
+597 $ 395 $ 292
+Row:(Gains) on sale of education loans 	(16 ) — —
+Row:(Gains) losses on debt repurchases 	(45 ) (19 ) 3
+Row:Goodwill and acquired intangible asset impairment and amortization expense Stock-based compensation expense 	30 47 23
+25 25 35
+Row:Mark-to-market (gains)/losses on derivative and hedging activities, net Provisions for loan losses 	130 37 (83 )
+258 370 426
+Row:Decrease (increase) in accrued interest receivable (Decrease) increase in accrued interest payable 	78 (125 ) (29 )
+(96 ) 58 11
+Row:Decrease in other assets 	191 321 485
+Row:(Decrease) increase in other liabilities 	(133 ) 31 (5 )
+Row:Total adjustments 	422 745 866
+Row:Total net cash provided by operating activities 	1,019 1,140 1,158
+Row:Investing activities
+Education loans acquired (5,411 	) (3,652 ) (7,371 )
+Row:Principal payments on education loans 12,472 	13,973 14,738
+Row:Proceeds from sales of education loans 	408 — —
+Row:Other investing activities, net 	9 (76 ) (88 )
+Row:Proceeds from sales and maturities of other securities 	7 115 23
+Row:Purchase of subsidiaries, net of cash and restricted cash acquired 	— — (184 )
+Row:Total net cash provided by investing activities 	7,485 10,360 7,118
+Row:Financing activities
+Borrowings collateralized by loans in trust - issued 	7,919 9,006 8,440
+Row:Borrowings collateralized by loans in trust - repaid (14,271 	) (14,057 ) (13,919 )
+Row:Asset-backed commercial paper conduits, net 	(907 ) (2,833 ) (2,363 )
+Row:Long-term notes issued 	— 495 1,613
+Row:Long-term notes repaid (1,950 	) (2,947 ) (1,464 )
+Row:Other financing activities, net 	(189 ) (162 ) (33 )
+Row:Common stock repurchased 	(440 ) (220 ) (440 )
+Row:Common dividends paid 	(147 ) (166 ) (176 )
+Row:Total net cash used in financing activities (9,985 	) (10,884 ) (8,342 )
+Row:Net (decrease) increase in cash, cash equivalents, restricted cash and restricted
+cash equivalents (1,481 	) 616 (66 )
+Row:Cash, cash equivalents, restricted cash and restricted cash equivalents at
+beginning
+of period 	5,262 4,646 4,712
+Row:Cash, cash equivalents, restricted cash and restricted cash equivalents at
+end
+of period $ 	3,781 $ 5,262 $ 4,646
+Row:Cash disbursements made (refunds received) for:
+	Row:Interest $ Income taxes paid $ 	3,479 $ 3,460 $ 2,872
+93 $ 57 $ 157
+Row:Income taxes received $ 	(4 ) $ (6 ) $ (1 )
+Row:Reconciliation of the Consolidated Statements of Cash Flows to
+the Consolidated Balance Sheets:
+	Row:Cash and cash equivalents $ Restricted cash and restricted cash equivalents 	1,233 $ 1,286 $ 1,518
+2,548 3,976 3,128
+Row:Total cash, cash equivalents, restricted cash and restricted cash equivalents at
+end of period $ 	3,781 $ 5,262 $ 4,646
+Row:Supplemental cash flow information:
+	Row:Non-cash activities
+Investing activity - Education loans $ Investing activity - Held-to-maturity asset backed securities retained related to
+sales of education loans 	— $ — $ 1,746
+22 — —
+Row:Operating activity - Other assets acquired and other liabilities assumed, net 	— — 137
+Row:Operating activity - Servicing assets recognized upon sales of education loans 	3 — —
+Row:Financing activity - Borrowings assumed in acquisition of education loans 	— — 1,883
+Row:See accompanying notes to consolidated financial 	statements.

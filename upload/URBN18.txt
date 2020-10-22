@@ -1,0 +1,85 @@
+Row:ASSETS
+	Row:Current assets:
+	Row:Cash and cash equivalents $ 	282,220 $ 248,140
+Row:Marketable securities 	165,125 111,067
+Row:Accounts receivable, net of allowance for doubtful accounts of $1,326 and $588, respectively 	76,962 54,505
+Row:Inventory 	351,395 338,590
+Row:Prepaid expenses and other current assets 	103,055 129,095
+Row:Total current assets 	978,757 881,397
+Row:Property and equipment, net 	813,768 867,786
+Row:Marketable securities 	58,688 44,288
+Row:Deferred income taxes and other assets 	101,567 109,166
+Row:Total Assets $ 	1,952,780 $ 1,902,637
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+	Row:Current liabilities:
+	Row:Accounts payable $ 	128,246 $ 119,537
+Row:Accrued compensation and benefits 	36,058 58,782
+Row:Accrued expenses and other current liabilities 	195,910 174,609
+Row:Total current liabilities 	360,214 352,928
+Row:Long-term debt 	— —
+Row:Deferred rent and other liabilities 	291,663 236,625
+Row:Total Liabilities 	651,877 589,553
+Row:Commitments and contingencies (see Note 14)
+	Row:Shareholders’ equity:
+	Row:Preferred shares; $.0001 par value, 10,000,000 shares authorized, none issued 	— —
+Row:Common shares; $.0001 par value, 200,000,000 shares authorized, 108,248,568 and 116,233,781
+shares issued and outstanding, respectively 	11 12
+Row:Additional paid-in-capital 	684 —
+Row:Retained earnings 	1,310,859 1,347,141
+Row:Accumulated other comprehensive loss 	(10,651 ) (34,069 )
+Row:Total Shareholders’ Equity 	1,300,903 1,313,084
+Row:Total Liabilities and Shareholders’ Equity $ 	1,952,780 $ 1,902,637
+Row:	2018 	2017 	2016
+Row:Net sales 	$ 3,616,014 	$ 3,545,794 	$ 3,445,134
+Row:Cost of sales 	2,440,507 	2,301,181 	2,243,232
+Row:Gross profit 	1,175,507 	1,244,613 	1,201,902
+Row:Selling, general and administrative expenses 	915,615 	906,086 	848,323
+Row:Income from operations 	259,892 	338,527 	353,579
+Row:Interest income 	4,879 	1,879 	943
+Row:Other income 	1,435 	2,280 	958
+Row:Other expenses 	(4,840) 	(4,587) 	(5,449)
+Row:Income before income taxes 	261,366 	338,099 	350,031
+Row:Income tax expense 	153,103 	119,979 	125,542
+Row:Net income 	$ 108,263 	$ 218,120 	$ 224,489
+Row:Net income per common share:
+			Row:Basic 	$ 0.97 	$ 1.87 	$ 1.79
+Row:Diluted 	$ 0.96 	$ 1.86 	$ 1.78
+Row:Weighted-average common shares outstanding:
+			Row:Basic 	111,887,308 	116,873,023 	125,232,499
+Row:Diluted 	112,367,924 	117,291,117 	126,013,414
+Row:Cash flows from operating activities:
+		Row:Net income $ 	108,263 $ 218,120 	$ 224,489
+Row:Adjustments to reconcile net income to net cash provided by operating
+activities:
+		Row:Depreciation and amortization 	128,408 135,330 	142,722
+Row:Provision (benefit) for deferred income taxes 	8,329 (4,801) 	13,662
+Row:Share-based compensation expense Impairment 	14,517 18,291 11,410 4,341 	15,623
+8,928
+Row:Loss on disposition of property and equipment, net 	4,037 3,667 	1,400
+Row:Changes in assets and liabilities:
+		Row:Receivables 	(21,744) 20,934 	(13,820)
+Row:Inventory 	(8,644) (9,963) 	26,739
+Row:Prepaid expenses and other assets 	12,967 (10,359) 	3,811
+Row:Payables, accrued expenses and other liabilities 	45,516 39,692 	(3,940)
+Row:Net cash provided by operating activities 	303,059 415,252 	419,614
+Row:Cash flows from investing activities:
+		Row:Cash paid for property and equipment 	(83,813) (143,714) 	(134,950)
+Row:Cash paid for marketable securities 	(281,385) (318,742) 	(265,872)
+Row:Sales and maturities of marketable securities 	243,818 243,159 	374,057
+Row:Acquisition of business 	— (15,325) 	—
+Row:Net cash used in investing activities 	(121,380) (234,622) 	(26,765)
+Row:Cash flows from financing activities:
+		Row:Borrowings under long-term debt 	— — 	291,612
+Row:Repayments of long-term debt 	— (150,000) 	(141,612)
+Row:Proceeds from the exercise of share-based awards 	— 4,096 	46,400
+Row:Share repurchases related to share repurchase program 	(157,044) (45,787) 	(465,304)
+Row:Share repurchases related to taxes for share-based awards 	(2,182) (2,052) 	(10,120)
+Row:Net cash used in financing activities 	(159,226) (193,743) 	(279,024)
+Row:Effect of exchange rate changes on cash and cash equivalents 	11,627 (4,023) 	(3,107)
+Row:Increase (decrease) in cash and cash equivalents 	34,080 (17,136) 	110,718
+Row:Cash and cash equivalents at beginning of period 	248,140 265,276 	154,558
+Row:Cash and cash equivalents at end of period $ 	282,220 $ 248,140 	$ 265,276
+Row:Supplemental cash flow information:
+		Row:Cash paid during the year for:
+		Row:Income taxes $ 	83,986 $ 111,958 	$ 99,359
+Row:Non-cash investing activities—Accrued capital expenditures $ 	10,144 $ 17,020 	$ 11,607

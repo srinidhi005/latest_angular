@@ -1,0 +1,105 @@
+Row:Revenues 	$ 4,913 	$ 4,171 	$ 4,268
+Row:Cost of revenues 	(4,457) 	(3,829) 	(4,156)
+Row:Gross profit 	456 	342 	112
+Row:Equity in earnings of unconsolidated affiliates 	81 	72 	91
+Row:General and administrative expenses 	(166) 	(147) 	(133)
+Row:Acquisition and integration costs 	(7) 	— 	(10)
+Row:Asset impairment and restructuring charges 	— 	(6) 	(39)
+Row:(Loss) gain on disposition of assets 	(2) 	5 	7
+Row:Gain on consolidation of Aspire entities 	108 	— 	—
+Row:Operating income 	470 	266 	28
+Row:Interest expense 	(66) 	(21) 	(13)
+Row:Other non-operating (loss) income 	(6) 	4 	18
+Row:Income before income taxes and noncontrolling interests 	398 	249 	33
+Row:(Provision) benefit for income taxes 	(88) 	193 	(84)
+Row:Net income (loss) 	310 	442 	(51)
+Row:Net income attributable to noncontrolling interests 	(29) 	(8) 	(10)
+Row:Net income (loss) attributable to KBR 	$ 281 	$ 434 	$ (61)
+Row:Net income (loss) attributable to KBR per share:
+			Row:Basic 	$ 1.99 	$ 3.06 	$ (0.43)
+Row:Diluted 	$ 1.99 	$ 3.06 	$ (0.43)
+Row:Basic weighted average common shares outstanding 	140 	141 	142
+Row:Diluted weighted average common shares outstanding 	141 	141 	142
+Row:Cash dividends declared per share 	$ 0.32 	$ 0.32 	$ 0.32
+Row:Assets
+Current assets:
+	Row:Cash and equivalents $ 739 	$ 439
+Row:Accounts receivable, net of allowance for doubtful accounts of $9 and $12 927 Contract assets 185 	510
+383
+Row:Other current assets 108 	93
+Row:Total current assets 1,959 	1,425
+Row:Claims and accounts receivable 98 Property, plant, and equipment, net of accumulated depreciation of $355 and $329 (including net
+PPE of $35 and $34 owned by a variable interest entity) 121 	101
+130
+Row:Goodwill 1,265 	968
+Row:Intangible assets, net of accumulated amortization of $151 and $122 516 Equity in and advances to unconsolidated affiliates 744 	239
+387
+Row:Deferred income taxes 222 	300
+Row:Other assets 147 	124
+Row:Total assets $ 5,072 	$ 3,674
+Row:Liabilities and Shareholders’ Equity
+Current liabilities:
+	Row:Accounts payable $ 546 	$ 350
+Row:Contract liabilities 463 	368
+Row:Accrued salaries, wages and benefits 221 	186
+Row:Nonrecourse project debt 10 	10
+Row:Other current liabilities 179 	157
+Row:Total current liabilities 1,419 	1,071
+Row:Pension obligations 250 	391
+Row:Employee compensation and benefits 109 	118
+Row:Income tax payable 84 	85
+Row:Deferred income taxes 27 	18
+Row:Nonrecourse project debt 17 	28
+Row:Long term debt 1,226 	470
+Row:Deferred income from unconsolidated affiliates — 	101
+Row:Other liabilities 202 	171
+Row:Total liabilities 3,334 	2,453
+Row:KBR shareholders’ equity:
+	Row:Preferred stock, $0.001 par value, 50,000,000 shares authorized, 0 shares issued and outstanding — 	—
+Row:Common stock, $0.001 par value 300,000,000 shares authorized, 177,383,302 and 176,638,882
+shares issued, and 140,900,032 and 140,166,589 shares outstanding — 	—
+Row:PIC 2,190 	2,091
+Row:AOCL (913) 	(921)
+Row:Retained earnings 1,258 	877
+Row:Treasury stock, 36,483,270 shares and 36,472,293 shares, at cost (817) 	(818)
+Row:Total KBR shareholders’ equity 1,718 	1,229
+Row:Noncontrolling interests 20 	(8)
+Row:Total shareholders’ equity 1,738 Total liabilities and shareholders’ equity $ 5,072 	1,221
+$ 3,674
+Row:See accompanying notes to consolidated financial statements.
+	Row:Cash flows from operating activities:
+2018 	2017 2016
+Row:Net income (loss) $ 	310 $ 442 $ (51)
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization 	63 48 45
+Row:Equity in earnings of unconsolidated affiliates 	(81) (72) (91)
+Row:Deferred income tax (benefit) expense 	28 (322) 18
+Row:Loss (Gain) on disposition of assets 	2 (5) (7)
+Row:Gain on consolidation of Aspire entities 	(108) — —
+Row:Asset impairment 	— — 16
+Row:Other Changes in operating assets and liabilities, net of acquired businesses:
+	24 29 3
+Row:Accounts receivable, net of allowance for doubtful accounts 	(203) 92 121
+Row:Contract assets 	25 40 8
+Row:Claims receivable 	— 400 —
+Row:Accounts payable Contract liabilities Accrued salaries, wages and benefits 	112 (193) (6)
+(60) (198) 33
+11 14 (50)
+Row:Reserve for loss on uncompleted contracts Payments from (advances to) unconsolidated affiliates, net 	(9) (48) (5)
+12 11 (1)
+Row:Distributions of earnings from unconsolidated affiliates 	75 62 56
+Row:Income taxes payable 	43 — (52)
+Row:Pension funding 	(41) (37) (41)
+Row:Retainage payable 	2 (16) (2)
+Row:Subcontractor advances 	(3) — 8
+Row:Net settlement of derivative contracts 	(7) 3 (9)
+Row:Other assets and liabilities 	(30) (57) 68
+Row:Total cash flows provided by operating activities 	165 193 61
+Row:Cash flows from investing activities:
+	Row:Purchases of property, plant and equipment 	(17) (8) (11)
+Row:Investments in equity method joint ventures 	(344) — (61)
+Row:Proceeds from sale of assets or investments 	25 2 2
+Row:Acquisitions of businesses, net of cash acquired 	(354) (4) (911)
+Row:Adjustments to cash due to consolidation of Aspire entities 	197 — —
+Row:Other 	2 (2) —
+Row:Total cash flows used in investing activities $ 	(491) $ (12) $ (981)

@@ -1,0 +1,218 @@
+Row:Assets
+Current assets:
+		Row:Cash and cash equivalents $ 	452,030 	$ 461,329
+Row:Short-term investments 	59,901 	—
+Row:Restricted cash 	22,131 	13,537
+Row:Settlements receivable 	321,102 	142,727
+Row:Customer funds held 	43,574 	9,446
+Row:Loans held for sale 	42,144 	604
+Row:Merchant cash advance receivable, net 	4,212 	36,473
+Row:Other current assets 	56,331 	41,447
+Row:Total current assets 	1,001,425 	705,563
+Row:Property and equipment, net 	88,328 	87,222
+Row:Goodwill 	57,173 	56,699
+Row:Acquired intangible assets, net 	19,292 	26,776
+Row:Long-term investments 	27,366 	—
+Row:Restricted cash 	14,584 	14,686
+Row:Other assets 	3,194 	3,826
+Row:Total assets $ 	1,211,362 	$ 894,772
+Row:Liabilities and Stockholders’ Equity
+		Row:Current liabilities:
+		Row:Accounts payable $ 	12,602 	$ 18,869
+Row:Customers payable 	388,058 	215,365
+Row:Customer funds obligation 	43,574 	9,446
+Row:Accrued transaction losses 	20,064 	17,176
+Row:Accrued expenses 	39,543 	44,401
+Row:Other current liabilities 	73,623 	28,945
+Row:Total current liabilities 	577,464 	334,202
+Row:Debt (Note 11) 	— 	—
+Row:Other liabilities 	57,745 	52,522
+Row:Total liabilities 	635,209 	386,724
+Row:Stockholders’ equity:
+Preferred stock, $0.0000001 par value: 100,000,000 shares authorized at December 31, 2016 and December 31, 2015. None
+	Row:issued and outstanding at December 31, 2016 and December 31, 2015. 	— —
+Row:Class A common stock, $0.0000001 par value: 1,000,000,000 shares authorized at December 31, 2016 and December 31, 2015;
+198,746,620 and 31,717,133 issued and outstanding at December 31, 2016 and December 31, 2015, respectively. 	— —
+Row:Class B common stock, $0.0000001 par value: 500,000,000 shares authorized at December 31, 2016 and December 31, 2015;
+165,800,756 and 303,232,312 issued and outstanding at December 31, 2016 and December 31, 2015, respectively. 	— —
+Row:Additional paid-in capital 	1,357,381 1,116,882
+Row:Accumulated other comprehensive loss 	(1,989) (1,185)
+Row:Accumulated deficit 	(779,239) (607,649)
+Row:Total stockholders’ equity 	576,153 508,048
+Row:Total liabilities and stockholders’ equity $ 	1,211,362 $ 894,772
+Row:2016 		2015 	2014
+Row:Revenue:
+			Row:Transaction-based revenue $ 	1,456,160 	$ 1,050,445 	$ 707,799
+Row:Starbucks transaction-based revenue 	78,903 	142,283 	123,024
+Row:Subscription and services-based revenue 	129,351 	58,013 	12,046
+Row:Hardware revenue 	44,307 	16,377 	7,323
+Row:Total net revenue 	1,708,721 	1,267,118 	850,192
+Row:Cost of revenue:
+			Row:Transaction-based costs 	943,200 	672,667 	450,858
+Row:Starbucks transaction-based costs 	69,761 	165,438 	150,955
+Row:Subscription and services-based costs 	43,132 	22,470 	2,973
+Row:Hardware costs 	68,562 	30,874 	18,330
+Row:Amortization of acquired technology 	8,028 	5,639 	1,002
+Row:Total cost of revenue 	1,132,683 	897,088 	624,118
+Row:Gross profit 	576,038 	370,030 	226,074
+Row:Operating expenses:
+			Row:Product development 	268,537 	199,638 	144,637
+Row:Sales and marketing 	173,876 	145,618 	112,577
+Row:General and administrative 	251,993 	143,466 	94,220
+Row:Transaction, loan and advance losses 	51,235 	54,009 	24,081
+Row:Amortization of acquired customer assets 	850 	1,757 	1,050
+Row:Total operating expenses 	746,491 	544,488 	376,565
+Row:Operating loss 	(170,453) 	(174,458) 	(150,491)
+Row:Interest and other (income) expense, net 	(780) 	1,613 	2,162
+Row:Loss before income tax 	(169,673) 	(176,071) 	(152,653)
+Row:Provision for income taxes Net loss 	1,917 (171,590) 	3,746 (179,817) 	1,440
+(154,093)
+Row:Deemed dividend on Series E preferred stock 	— 	(32,200) 	—
+Row:Net loss attributable to common stockholders $ 	(171,590) 	$ (212,017) 	$ (154,093)
+Row:Net loss per share attributable to common stockholders:
+			Row:Basic $ 	(0.50) 	$ (1.24) 	$ (1.08)
+Row:Diluted $ 	(0.50) 	$ (1.24) 	$ (1.08)
+Row:Weighted-average shares used to compute net loss per share attributable to common
+stockholders:
+Basic 	341,555 	170,498 	142,042
+Row:Diluted See accompanying notes to consolidated financial statements.
+	341,555 	170,498 	142,042
+Row:Basic 	341,555 	170,498 Row:Diluted 	341,555 	170,498 Row:Cash flows from operating activities:
+		Row:Net loss $ (171,590) 	$ (179,817) 	$ (154,093)
+Row:Adjustments to reconcile net loss to net cash (used in) provided by operating activities:
+		Row:Depreciation and amortization 	37,745 27,626 	18,586
+Row:Share-based compensation 138,786 	82,292 	36,100
+Row:Excess tax benefit from share-based payment activity 	— (1,101) 	(1,348)
+Row:Provision for transaction losses 	50,819 43,379 	18,478
+Row:Provision for uncollectible receivables related to merchant cash advances 	1,159 6,240 	2,431
+Row:Deferred provision for income taxes 	58 26 	(2,664)
+Row:(Gain) loss on disposal of property and equipment 	(49) 270 	133
+Row:Changes in operating assets and liabilities:
+		Row:Settlements receivable (178,405) 	(27,420) 	(50,361)
+Row:Customer funds held 	(34,128) (6,462) 	(2,985)
+Row:Purchase of loans held for sale (668,976) 	(816) 	—
+Row:Proceeds from sales and principal payments of loans held for sale 627,627 	21 	—
+Row:Merchant cash advance receivable 	31,102 (13,411) 	(31,733)
+Row:Other current assets 	(14,986) (12,430) 	(14,323)
+Row:Other assets 	631 1,220 	(636)
+Row:Accounts payable 	(2,147) 7,831 	179
+Row:Customers payable 172,446 	69,547 	49,971
+Row:Customer funds obligation 	34,128 6,462 	2,985
+Row:Charge-offs and recoveries to accrued transaction losses 	(47,931) (34,655) 	(17,514)
+Row:Accrued expenses 	(409) 21,450 	8,113
+Row:Other current liabilities 	44,102 19,760 	3,007
+Row:Other liabilities 	3,149 11,111 	23,295
+Row:Net cash (used in) provided by operating activities 	23,131 21,123 	(112,379)
+Row:Cash flows from investing activities:
+		Row:Purchase of marketable securities (164,766) 	— 	—
+Row:Maturities of marketable securities 	43,200 — 	—
+Row:Sales of marketable securities 	34,222 — 	—
+Row:Assets
+Current assets:
+		Row:Cash and cash equivalents $ 	452,030 	$ 461,329
+Row:Short-term investments 	59,901 	—
+Row:Restricted cash 	22,131 	13,537
+Row:Settlements receivable 	321,102 	142,727
+Row:Customer funds held 	43,574 	9,446
+Row:Loans held for sale 	42,144 	604
+Row:Merchant cash advance receivable, net 	4,212 	36,473
+Row:Other current assets 	56,331 	41,447
+Row:Total current assets 	1,001,425 	705,563
+Row:Property and equipment, net 	88,328 	87,222
+Row:Goodwill 	57,173 	56,699
+Row:Acquired intangible assets, net 	19,292 	26,776
+Row:Long-term investments 	27,366 	—
+Row:Restricted cash 	14,584 	14,686
+Row:Other assets 	3,194 	3,826
+Row:Total assets $ 	1,211,362 	$ 894,772
+Row:Liabilities and Stockholders’ Equity
+		Row:Current liabilities:
+		Row:Accounts payable $ 	12,602 	$ 18,869
+Row:Customers payable 	388,058 	215,365
+Row:Customer funds obligation 	43,574 	9,446
+Row:Accrued transaction losses 	20,064 	17,176
+Row:Accrued expenses 	39,543 	44,401
+Row:Other current liabilities 	73,623 	28,945
+Row:Total current liabilities 	577,464 	334,202
+Row:Debt (Note 11) 	— 	—
+Row:Other liabilities 	57,745 	52,522
+Row:Total liabilities 	635,209 	386,724
+Row:Stockholders’ equity:
+Preferred stock, $0.0000001 par value: 100,000,000 shares authorized at December 31, 2016 and December 31, 2015. None
+	Row:issued and outstanding at December 31, 2016 and December 31, 2015. 	— —
+Row:Class A common stock, $0.0000001 par value: 1,000,000,000 shares authorized at December 31, 2016 and December 31, 2015;
+198,746,620 and 31,717,133 issued and outstanding at December 31, 2016 and December 31, 2015, respectively. 	— —
+Row:Class B common stock, $0.0000001 par value: 500,000,000 shares authorized at December 31, 2016 and December 31, 2015;
+165,800,756 and 303,232,312 issued and outstanding at December 31, 2016 and December 31, 2015, respectively. 	— —
+Row:Additional paid-in capital 	1,357,381 1,116,882
+Row:Accumulated other comprehensive loss 	(1,989) (1,185)
+Row:Accumulated deficit 	(779,239) (607,649)
+Row:Total stockholders’ equity 	576,153 508,048
+Row:Total liabilities and stockholders’ equity $ 	1,211,362 $ 894,772
+Row:2016 		2015 	2014
+Row:Revenue:
+			Row:Transaction-based revenue $ 	1,456,160 	$ 1,050,445 	$ 707,799
+Row:Starbucks transaction-based revenue 	78,903 	142,283 	123,024
+Row:Subscription and services-based revenue 	129,351 	58,013 	12,046
+Row:Hardware revenue 	44,307 	16,377 	7,323
+Row:Total net revenue 	1,708,721 	1,267,118 	850,192
+Row:Cost of revenue:
+			Row:Transaction-based costs 	943,200 	672,667 	450,858
+Row:Starbucks transaction-based costs 	69,761 	165,438 	150,955
+Row:Subscription and services-based costs 	43,132 	22,470 	2,973
+Row:Hardware costs 	68,562 	30,874 	18,330
+Row:Amortization of acquired technology 	8,028 	5,639 	1,002
+Row:Total cost of revenue 	1,132,683 	897,088 	624,118
+Row:Gross profit 	576,038 	370,030 	226,074
+Row:Operating expenses:
+			Row:Product development 	268,537 	199,638 	144,637
+Row:Sales and marketing 	173,876 	145,618 	112,577
+Row:General and administrative 	251,993 	143,466 	94,220
+Row:Transaction, loan and advance losses 	51,235 	54,009 	24,081
+Row:Amortization of acquired customer assets 	850 	1,757 	1,050
+Row:Total operating expenses 	746,491 	544,488 	376,565
+Row:Operating loss 	(170,453) 	(174,458) 	(150,491)
+Row:Interest and other (income) expense, net 	(780) 	1,613 	2,162
+Row:Loss before income tax 	(169,673) 	(176,071) 	(152,653)
+Row:Provision for income taxes Net loss 	1,917 (171,590) 	3,746 (179,817) 	1,440
+(154,093)
+Row:Deemed dividend on Series E preferred stock 	— 	(32,200) 	—
+Row:Net loss attributable to common stockholders $ 	(171,590) 	$ (212,017) 	$ (154,093)
+Row:Net loss per share attributable to common stockholders:
+			Row:Basic $ 	(0.50) 	$ (1.24) 	$ (1.08)
+Row:Diluted $ 	(0.50) 	$ (1.24) 	$ (1.08)
+Row:Weighted-average shares used to compute net loss per share attributable to common
+stockholders:
+Basic 	341,555 	170,498 	142,042
+Row:Diluted See accompanying notes to consolidated financial statements.
+	341,555 	170,498 	142,042
+Row:Basic 	341,555 	170,498 Row:Diluted 	341,555 	170,498 Row:Cash flows from operating activities:
+		Row:Net loss $ (171,590) 	$ (179,817) 	$ (154,093)
+Row:Adjustments to reconcile net loss to net cash (used in) provided by operating activities:
+		Row:Depreciation and amortization 	37,745 27,626 	18,586
+Row:Share-based compensation 138,786 	82,292 	36,100
+Row:Excess tax benefit from share-based payment activity 	— (1,101) 	(1,348)
+Row:Provision for transaction losses 	50,819 43,379 	18,478
+Row:Provision for uncollectible receivables related to merchant cash advances 	1,159 6,240 	2,431
+Row:Deferred provision for income taxes 	58 26 	(2,664)
+Row:(Gain) loss on disposal of property and equipment 	(49) 270 	133
+Row:Changes in operating assets and liabilities:
+		Row:Settlements receivable (178,405) 	(27,420) 	(50,361)
+Row:Customer funds held 	(34,128) (6,462) 	(2,985)
+Row:Purchase of loans held for sale (668,976) 	(816) 	—
+Row:Proceeds from sales and principal payments of loans held for sale 627,627 	21 	—
+Row:Merchant cash advance receivable 	31,102 (13,411) 	(31,733)
+Row:Other current assets 	(14,986) (12,430) 	(14,323)
+Row:Other assets 	631 1,220 	(636)
+Row:Accounts payable 	(2,147) 7,831 	179
+Row:Customers payable 172,446 	69,547 	49,971
+Row:Customer funds obligation 	34,128 6,462 	2,985
+Row:Charge-offs and recoveries to accrued transaction losses 	(47,931) (34,655) 	(17,514)
+Row:Accrued expenses 	(409) 21,450 	8,113
+Row:Other current liabilities 	44,102 19,760 	3,007
+Row:Other liabilities 	3,149 11,111 	23,295
+Row:Net cash (used in) provided by operating activities 	23,131 21,123 	(112,379)
+Row:Cash flows from investing activities:
+		Row:Purchase of marketable securities (164,766) 	— 	—
+Row:Maturities of marketable securities 	43,200 — 	—
+Row:Sales of marketable securities 	34,222 — 	—

@@ -1,0 +1,487 @@
+Row:	2019
+	2018
+Row:ASSETS
+		Row:CURRENT ASSETS
+		Row:Cash and cash equivalents 	$ 8,384 	$ 6,055
+Row:Short-term investments 	1,060 	1,204
+Row:Receivables, net 	1,535 	1,669
+Row:Merchandise inventories 	11,395 	11,040
+Row:Other current assets 	1,111 	321
+Row:Total current assets 	23,485 	20,289
+Row:PROPERTY AND EQUIPMENT
+		Row:Land 	6,417 	6,193
+Row:Buildings and improvements 	17,136 	16,107
+Row:Equipment and fixtures 	7,801 	7,274
+Row:Construction in progress 	1,272 	1,140
+Row:	32,626 	30,714
+Row:Less accumulated depreciation and amortization 	(11,736) )
+	(11,033)
+)
+Row:Net property and equipment 	20,890 	19,681
+Row:OTHER ASSETS 	1,025 	860
+Row:TOTAL ASSETS 	$ 45,400 	$ 40,830
+Row:LIABILITIES AND EQUITY
+		Row:TOTAL ASSETS 	$ 45,400 	$ 40,830
+Row:LIABILITIES AND EQUITY
+		Row:CURRENT LIABILITIES
+		Row:Accounts payable 	$ 11,679 	$ 11,237
+Row:Accrued salaries and benefits 	3,176 	2,994
+Row:Accrued member rewards 	1,180 	1,057
+Row:Deferred membership fees 	1,711 	1,624
+Row:Current portion of long-term debt 	1,699 	90
+Row:Other current liabilities 	3,792 	2,924
+Row:Total current liabilities 	23,237 	19,926
+Row:LONG-TERM DEBT, excluding current portion 	5,124 	6,487
+Row:OTHER LIABILITIES 	1,455 	1,314
+Row:Total liabilities 	29,816 	27,727
+Row:COMMITMENTS AND CONTINGENCIES
+		Row:EQUITY
+		Row:Preferred stock $0.01 par value; ; 100,000,000 shares authorized; ; no shares issued and outstanding 	0 	0
+Row:Common stock $0.01 par value; 900,000,000 shares authorized; ; 439,625,000 and 438,189,000 shares
+		Row:issued and outstanding 	4 	4
+Row:Additional paid-in capital 	6,417 	6,107
+Row:Accumulated other comprehensive loss 	(1,436) 	(1,199)
+Row:Retained earnings 	10,258 	7,887
+Row:Total Costco stockholders’ equity 	15,243 	12,799
+Row:Noncontrolling interests 	341 	304
+Row:Total equity 	15,584 	13,103
+Row:TOTAL LIABILITIES AND EQUITY 	$ 45,400 	$ 40,830
+Row:	September 1,
+2019
+	September 2,
+2018
+	September 3,
+2017
+Row:REVENUE
+			Row:Net sales 	$ 149,351 	$ 138,434 	$ 126,172
+Row:Membership fees 	3,352 	3,142 	2,853
+Row:Total revenue 	152,703 	141,576 	129,025
+Row:OPERATING EXPENSES
+			Row:Merchandise costs 	132,886 	123,152 	111,882
+Row:Selling, , general and administrative 	14,994 	13,876 	12,950
+Row:Preopening expenses 	86 	68 	82
+Row:Operating income 	4,737 	4,480 	4,111
+Row:OTHER INCOME (EXPENSE)
+			Row:Interest expense 	(150) 	(159) 	(134)
+)
+Row:Interest income and other, , net 	178 	121 	62
+Row:INCOME BEFORE INCOME TAXES 	4,765 	4,442 	4,039
+Row:Provision for income taxes 	1,061 	1,263 	1,325
+Row:Net income including noncontrolling interests 	3,704 	3,179 	2,714
+Row:Net income attributable to noncontrolling interests 	(45) 	(45) 	(35)
+Row:NET INCOME ATTRIBUTABLE TO COSTCO 	$ 3,659 	$ 3,134 	$ 2,679
+Row:NET INCOME PER COMMON SHARE ATTRIBUTABLE TO
+COSTCO:
+			Row:Basic 	$ 8.32 	$ 7.15 	$ 6.11
+Row:Diluted 	$ 8.26 	$ 7.09 	$ 6.08
+Row:Shares used in calculation (000’s)
+)
+			Row:Basic 	439,755 	438,515 	438,437
+Row:Diluted 	442,923 	441,834 	440,937
+Row:Shares used in calculation (000’s)
+)
+	Row:Basic 439,755 	438,515 438,437
+Row:Diluted 442,923 	441,834 440,937
+Row:	September 1,
+2019
+	September 2,
+2018
+	September 3,
+2017
+Row:CASH FLOWS FROM OPERATING ACTIVITIES
+			Row:$
+Net income including noncontrolling interests
+	3,704
+	$
+3,179
+	$
+2,714
+Row:Adjustments to reconcile net income including noncontrolling interests to net cash provided by
+operating activities:
+			Row:Depreciation and amortization
+	1,492
+	1,437
+	1,370
+Row:Stock-based compensation
+	595
+	544
+	514
+Row:Other non-cash operating activities, net
+	9
+	(6)
+	(14)
+Row:Deferred income taxes
+	147
+	(49)
+	(29)
+Row:Changes in operating assets and liabilities:
+			Row:Merchandise inventories
+	(536)
+	(1,313)
+	(894)
+Row:Accounts payable
+	322
+	1,561
+	2,258
+Row:Other operating assets and liabilities, net
+	623
+	421
+	807
+Row:Net cash provided by operating activities
+	6,356
+	5,774
+	6,726
+Row:CASH FLOWS FROM INVESTING ACTIVITIES
+			Row:Purchases of short-term investments
+	(1,094)
+	(1,060)
+	(1,279)
+Row:Maturities and sales of short-term investments
+	1,231
+	1,078
+	1,385
+Row:Additions to property and equipment
+	(2,998)
+	(2,969)
+	(2,502)
+Row:Other investing activities, net
+	(4)
+	4
+	30
+Row:Net cash used in investing activities
+	(2,865)
+	(2,947)
+	(2,366)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES
+			Row:Change in bank payments outstanding
+	210
+	80
+	(236)
+Row:Proceeds from issuance of long-term debt
+	298
+		3,782
+Row:Repayments of long-term debt
+	(89)
+	(86)
+	(2,200)
+Row:Tax withholdings on stock-based awards
+	(272)
+	(217)
+	(202)
+Row:Repurchases of common stock
+	(247)
+	(328)
+	(469)
+Row:Cash dividend payments
+	(1,038)
+	(689)
+	(3,904)
+Row:Other financing activities, net
+	(9)
+	(41)
+	11
+Row:Net cash used in financing activities
+	(1,147)
+	(1,281)
+	(3,218)
+Row:EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS
+	(15)
+	(37)
+	25
+Row:Net change in cash and cash equivalents
+	2,329
+	1,509
+	1,167
+Row:CASH AND CASH EQUIVALENTS BEGINNING OF YEAR
+	6.055
+	4,546
+	3,379
+Row:CASH AND CASH EQUIVALENTS END OF YEAR
+$
+	8,384
+	$
+6,055
+	4,546
+$
+Row:SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+			Row:Cash paid during the year for:
+			Row:Interest
+$
+	141 	143
+$
+	$
+131
+Row:Income taxes, net
+$
+	1,187 	1,204
+$
+	$
+1,185
+Row:SUPPLEMENTAL DISCLOSURE OF NON-CASH INVESTING AND FINANCING ACTIVITIES:
+			Row:Cash dividend declared, but not yet paid
+$
+	286 	$
+250
+	$
+Row:Interest
+	$
+	141 	$
+	143
+$
+	131
+Row:Income taxes, net
+	$
+	1,187 	$
+	1,204
+$
+	1,185
+Row:SUPPLEMENTAL DISCLOSURE OF NON-CASH INVESTING AND FINANCING ACTIVITIES:
+					Row:Cash dividend declared, but not yet paid
+	$
+	286 	$
+	250
+$
+	Row:	2019
+	2018
+Row:ASSETS
+		Row:CURRENT ASSETS
+		Row:Cash and cash equivalents 	$ 8,384 	$ 6,055
+Row:Short-term investments 	1,060 	1,204
+Row:Receivables, net 	1,535 	1,669
+Row:Merchandise inventories 	11,395 	11,040
+Row:Other current assets 	1,111 	321
+Row:Total current assets 	23,485 	20,289
+Row:PROPERTY AND EQUIPMENT
+		Row:Land 	6,417 	6,193
+Row:Buildings and improvements 	17,136 	16,107
+Row:Equipment and fixtures 	7,801 	7,274
+Row:Construction in progress 	1,272 	1,140
+Row:	32,626 	30,714
+Row:Less accumulated depreciation and amortization 	(11,736) )
+	(11,033)
+)
+Row:Net property and equipment 	20,890 	19,681
+Row:OTHER ASSETS 	1,025 	860
+Row:TOTAL ASSETS 	$ 45,400 	$ 40,830
+Row:LIABILITIES AND EQUITY
+		Row:TOTAL ASSETS 	$ 45,400 	$ 40,830
+Row:LIABILITIES AND EQUITY
+		Row:CURRENT LIABILITIES
+		Row:Accounts payable 	$ 11,679 	$ 11,237
+Row:Accrued salaries and benefits 	3,176 	2,994
+Row:Accrued member rewards 	1,180 	1,057
+Row:Deferred membership fees 	1,711 	1,624
+Row:Current portion of long-term debt 	1,699 	90
+Row:Other current liabilities 	3,792 	2,924
+Row:Total current liabilities 	23,237 	19,926
+Row:LONG-TERM DEBT, excluding current portion 	5,124 	6,487
+Row:OTHER LIABILITIES 	1,455 	1,314
+Row:Total liabilities 	29,816 	27,727
+Row:COMMITMENTS AND CONTINGENCIES
+		Row:EQUITY
+		Row:Preferred stock $0.01 par value; ; 100,000,000 shares authorized; ; no shares issued and outstanding 	0 	0
+Row:Common stock $0.01 par value; 900,000,000 shares authorized; ; 439,625,000 and 438,189,000 shares
+		Row:issued and outstanding 	4 	4
+Row:Additional paid-in capital 	6,417 	6,107
+Row:Accumulated other comprehensive loss 	(1,436) 	(1,199)
+Row:Retained earnings 	10,258 	7,887
+Row:Total Costco stockholders’ equity 	15,243 	12,799
+Row:Noncontrolling interests 	341 	304
+Row:Total equity 	15,584 	13,103
+Row:TOTAL LIABILITIES AND EQUITY 	$ 45,400 	$ 40,830
+Row:	September 1,
+2019
+	September 2,
+2018
+	September 3,
+2017
+Row:REVENUE
+			Row:Net sales 	$ 149,351 	$ 138,434 	$ 126,172
+Row:Membership fees 	3,352 	3,142 	2,853
+Row:Total revenue 	152,703 	141,576 	129,025
+Row:OPERATING EXPENSES
+			Row:Merchandise costs 	132,886 	123,152 	111,882
+Row:Selling, , general and administrative 	14,994 	13,876 	12,950
+Row:Preopening expenses 	86 	68 	82
+Row:Operating income 	4,737 	4,480 	4,111
+Row:OTHER INCOME (EXPENSE)
+			Row:Interest expense 	(150) 	(159) 	(134)
+)
+Row:Interest income and other, , net 	178 	121 	62
+Row:INCOME BEFORE INCOME TAXES 	4,765 	4,442 	4,039
+Row:Provision for income taxes 	1,061 	1,263 	1,325
+Row:Net income including noncontrolling interests 	3,704 	3,179 	2,714
+Row:Net income attributable to noncontrolling interests 	(45) 	(45) 	(35)
+Row:NET INCOME ATTRIBUTABLE TO COSTCO 	$ 3,659 	$ 3,134 	$ 2,679
+Row:NET INCOME PER COMMON SHARE ATTRIBUTABLE TO
+COSTCO:
+			Row:Basic 	$ 8.32 	$ 7.15 	$ 6.11
+Row:Diluted 	$ 8.26 	$ 7.09 	$ 6.08
+Row:Shares used in calculation (000’s)
+)
+			Row:Basic 	439,755 	438,515 	438,437
+Row:Diluted 	442,923 	441,834 	440,937
+Row:Shares used in calculation (000’s)
+)
+	Row:Basic 439,755 	438,515 438,437
+Row:Diluted 442,923 	441,834 440,937
+Row:	September 1,
+2019
+	September 2,
+2018
+	September 3,
+2017
+Row:CASH FLOWS FROM OPERATING ACTIVITIES
+			Row:$
+Net income including noncontrolling interests
+	3,704
+	$
+3,179
+	$
+2,714
+Row:Adjustments to reconcile net income including noncontrolling interests to net cash provided by
+operating activities:
+			Row:Depreciation and amortization
+	1,492
+	1,437
+	1,370
+Row:Stock-based compensation
+	595
+	544
+	514
+Row:Other non-cash operating activities, net
+	9
+	(6)
+	(14)
+Row:Deferred income taxes
+	147
+	(49)
+	(29)
+Row:Changes in operating assets and liabilities:
+			Row:Merchandise inventories
+	(536)
+	(1,313)
+	(894)
+Row:Accounts payable
+	322
+	1,561
+	2,258
+Row:Other operating assets and liabilities, net
+	623
+	421
+	807
+Row:Net cash provided by operating activities
+	6,356
+	5,774
+	6,726
+Row:CASH FLOWS FROM INVESTING ACTIVITIES
+			Row:Purchases of short-term investments
+	(1,094)
+	(1,060)
+	(1,279)
+Row:Maturities and sales of short-term investments
+	1,231
+	1,078
+	1,385
+Row:Additions to property and equipment
+	(2,998)
+	(2,969)
+	(2,502)
+Row:Other investing activities, net
+	(4)
+	4
+	30
+Row:Net cash used in investing activities
+	(2,865)
+	(2,947)
+	(2,366)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES
+			Row:Change in bank payments outstanding
+	210
+	80
+	(236)
+Row:Proceeds from issuance of long-term debt
+	298
+		3,782
+Row:Repayments of long-term debt
+	(89)
+	(86)
+	(2,200)
+Row:Tax withholdings on stock-based awards
+	(272)
+	(217)
+	(202)
+Row:Repurchases of common stock
+	(247)
+	(328)
+	(469)
+Row:Cash dividend payments
+	(1,038)
+	(689)
+	(3,904)
+Row:Other financing activities, net
+	(9)
+	(41)
+	11
+Row:Net cash used in financing activities
+	(1,147)
+	(1,281)
+	(3,218)
+Row:EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS
+	(15)
+	(37)
+	25
+Row:Net change in cash and cash equivalents
+	2,329
+	1,509
+	1,167
+Row:CASH AND CASH EQUIVALENTS BEGINNING OF YEAR
+	6.055
+	4,546
+	3,379
+Row:CASH AND CASH EQUIVALENTS END OF YEAR
+$
+	8,384
+	$
+6,055
+	4,546
+$
+Row:SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+			Row:Cash paid during the year for:
+			Row:Interest
+$
+	141 	143
+$
+	$
+131
+Row:Income taxes, net
+$
+	1,187 	1,204
+$
+	$
+1,185
+Row:SUPPLEMENTAL DISCLOSURE OF NON-CASH INVESTING AND FINANCING ACTIVITIES:
+			Row:Cash dividend declared, but not yet paid
+$
+	286 	$
+250
+	$
+Row:Interest
+	$
+	141 	$
+	143
+$
+	131
+Row:Income taxes, net
+	$
+	1,187 	$
+	1,204
+$
+	1,185
+Row:SUPPLEMENTAL DISCLOSURE OF NON-CASH INVESTING AND FINANCING ACTIVITIES:
+					Row:Cash dividend declared, but not yet paid
+	$
+	286 	$
+	250
+$
+	

@@ -1,0 +1,497 @@
+Row 0: Assets
+		Row 1: Cash and due from banks
+	$
+2,753
+	$
+2,243
+Row 2: Interest-bearing deposits with banks
+	984
+	343
+Row 3: Cash equivalents
+	143
+	127
+Row 4: Restricted cash
+	107
+	370
+Row 5: AFS securities at fair value
+	25,038
+	24,547
+Row 6: HTM securities (fair value of $20,047 and $22,837 at December 31, 2018 and 2017, respectively)
+	20,552
+	23,027
+Row 7: LHFS at fair value
+	988
+	1,099
+Row 8: Loans and leases
+	149,013
+	143,701
+Row 9: ALLL
+	(1,558)
+	(1,490)
+Row 10: Loans and leases, net of ALLL
+	147,455
+	142,211
+Row 11: Premises and equipment
+	2,118
+	2,055
+Row 12: Goodwill
+	9,818
+	9,618
+Row 13: CDI and other intangible assets
+	758
+	711
+Row 14: MSRs at fair value
+	1,108
+	1,056
+Row 15: Other assets
+	13,875
+	14,235
+Row 16: Total assets
+	225,697
+$
+	221,642
+$
+Row 17: Liabilities
+		Row 18: Deposits
+	$
+161,199
+	$
+157,371
+Row 19: Short-term borrowings
+	5,178
+	4,938
+Row 20: Long-term debt
+	23,709
+	23,648
+Row 21: Accounts payable and other liabilities
+	5,433
+	5,990
+Row 22: Total liabilities
+	195,519
+	191,947
+Row 23: Commitments and contingencies (Note 13)
+		Row 24: Shareholders' Equity
+		Row 25: Preferred stock, $5 par, liquidation preference of $25,000 per share
+	3,053
+	3,053
+Row 26: Common stock, $5 par
+	3,817
+	3,910
+Row 27: Additional paid-in capital
+	6,849
+	7,893
+Row 28: Retained earnings
+	18,118
+	16,259
+Row 29: AOCI, net of deferred income taxes
+	(1,715)
+	(1,467)
+Row 30: Noncontrolling interests
+	56
+	47
+Row 31: Total shareholders' equity
+	30,178
+	29,695
+Row 32: Total liabilities and shareholders' equity
+	$
+225,697
+	221,642
+$
+Row 33: Common shares outstanding
+	763,326
+	782,006
+Row 34: Common shares authorized
+	2,000,000
+	2,000,000
+Row 35: Preferred shares outstanding
+	126
+	126
+Row 36: Preferred shares authorized
+	5,000
+	5,000
+Row 0: Source: BB&T CORP, 10-K, 	February 26, 2019
+Powered 	by Morningstar Document Research
+SM
+Row 1: The information contained herein except to the extent such damages 	may not be copied, adapted or distributed and is not warranted to be accurate, complete or timely. The user assumes all risks for any damages or losses or losses cannot be limited or excluded by applicable law. Past financial performance is no guarantee of future results.
+	arising from any use of this information,
+Row 0: Interest Income
+			Row 1: Interest and fees on loans and leases
+	$
+6,894
+	$
+6,230
+	$
+5,985
+Row 2: Interest and dividends on securities
+	1,160
+	1,092
+	1,029
+Row 3: Interest on other earning assets
+	66
+	52
+	52
+Row 4: Total interest income
+	8,120
+	7,374
+	7,066
+Row 5: Interest Expense
+			Row 6: Interest on deposits
+	644
+	344
+	251
+Row 7: Interest on short-term borrowings
+	111
+	41
+	9
+Row 8: Interest on long-term debt
+	683
+	454
+	485
+Row 9: Total interest expense
+	1,438
+	839
+	745
+Row 10: Net Interest Income
+	6,682
+	6,535
+	6,321
+Row 11: Provision for credit losses
+	566
+	547
+	572
+Row 12: Net Interest Income After Provision for Credit Losses
+	6,116
+	5,988
+	5,749
+Row 13: Noninterest Income
+			Row 14: Insurance income
+	1,852
+	1,754
+	1,713
+Row 15: Service charges on deposits
+	712
+	706
+	664
+Row 16: Investment banking and brokerage fees and commissions
+	477
+	410
+	408
+Row 17: Mortgage banking income
+	358
+	415
+	463
+Row 18: Trust and investment advisory revenues
+	285
+	278
+	266
+Row 19: Bankcard fees and merchant discounts
+	287
+	271
+	237
+Row 20: Checkcard fees
+	221
+	214
+	195
+Row 21: Operating lease income
+	145
+	146
+	137
+Row 22: Income from bank-owned life insurance
+	116
+	122
+	123
+Row 23: Other income
+	420
+	467
+	220
+Row 24: Securities gains (losses), net
+			Row 25: Gross realized gains
+	4
+	17
+	46
+Row 26: Gross realized losses
+	(1)
+	(18)
+	Row 27: Total securities gains (losses), net
+	3
+	(1)
+	46
+Row 28: Total noninterest income
+	4,876
+	4,782
+	4,472
+Row 29: Noninterest Expense
+			Row 30: Personnel expense
+	4,313
+	4,226
+	4,029
+Row 31: Occupancy and equipment expense
+	758
+	784
+	786
+Row 32: Software expense
+	272
+	242
+	224
+Row 33: Outside IT services
+	132
+	160
+	186
+Row 34: Regulatory charges
+	134
+	153
+	145
+Row 35: Amortization of intangibles
+	131
+	142
+	150
+Row 36: Loan-related expense
+	108
+	130
+	95
+Row 37: Professional services
+	138
+	123
+	102
+Row 38: Merger-related and restructuring charges, net
+	146
+	115
+	171
+Row 39: Loss (gain) on early extinguishment of debt
+		392
+	(1)
+Row 40: Other expense
+	800
+	977
+	834
+Row 41: Total noninterest expense
+	6,932
+	7,444
+	6,721
+Row 42: Earnings
+			Row 43: Income before income taxes
+	4,060
+	3,326
+	3,500
+Row 44: Provision for income taxes
+	803
+	911
+	1,058
+Row 45: Net income
+	3,257
+	2,415
+	2,442
+Row 46: Noncontrolling interests
+	20
+	21
+	16
+Row 47: Dividends on preferred stock
+	174
+	174
+	167
+Row 48: Net income available to common shareholders
+	$
+3,063
+	$
+2,220
+	$
+2,259
+Row 49: Basic EPS
+	$
+3.96
+	$
+2.78
+	$
+2.81
+Row 50: Diluted EPS
+	$
+3.91
+	$
+2.74
+	$
+2.77
+Row 51: Basic weighted average shares outstanding
+	772,963
+	799,217
+	804,680
+Row 52: Diluted weighted average shares outstanding
+	783,484
+	810,977
+	814,916
+Row 53: Source: BB&T CORP, 10-K, February 26, 2019
+	Powered 	by Morningstar 	SM
+Document Research
+Row 54: The information contained herein may not be copied, adapted or distributed and is not warranted to be accurate, complete or timely. The user assumes all risks except to the extent such damages or losses cannot be limited or excluded by applicable law. Past financial performance is no guarantee of future results.
+	for any damages or losses 	arising from any use 	of this information,
+Row 0: Cash Flows From Operating Activities:
+			Row 1: Net income
+	$
+3,257
+	$
+2,415
+	$
+2,442
+Row 2: Adjustments to reconcile net income to net cash from operating activities:
+			Row 3: Provision for credit losses
+	566
+	547
+	572
+Row 4: Depreciation
+	424
+	408
+	405
+Row 5: Loss (gain) on early extinguishment of debt
+		392
+	(1)
+Row 6: Amortization of intangibles
+	131
+	142
+	150
+Row 7: Equity-based compensation expense
+	141
+	132
+	115
+Row 8: (Gain) loss on securities, net
+	(3)
+	1
+	(46)
+Row 9: Net change in operating assets and liabilities:
+			Row 10: LHFS
+	188
+	618
+	(644)
+Row 11: Trading and equity securities
+	(134)
+	115
+	432
+Row 12: Other assets, accounts payable and other liabilities
+	(19)
+	(15)
+	(18)
+Row 13: Other, net
+	(202)
+	(120)
+	(292)
+Row 14: Net cash from operating activities
+	4,349
+	4,635
+	3,115
+Row 15: Cash Flows From Investing Activities:
+			Row 16: Proceeds from sales of AFS securities
+	383
+	4,934
+	4,612
+Row 17: Proceeds from maturities, calls and paydowns of AFS securities
+	3,674
+	4,800
+	5,888
+Row 18: Purchases of AFS securities
+	(4,722)
+	(7,397)
+	(10,033)
+Row 19: Proceeds from maturities, calls and paydowns of HTM securities
+	2,442
+	2,580
+	7,022
+Row 20: Purchases of HTM securities
+	(39)
+	(8,965)
+	(5,124)
+Row 21: Originations and purchases of loans and leases, net of principal collected
+	(6,266)
+	(1,230)
+	(2,986)
+Row 22: Net cash received (paid) for acquisitions and divestitures
+	(296)
+		(726)
+Row 23: Other, net
+	(123)
+	(149)
+	371
+Row 24: Net cash from investing activities
+	(4,947)
+	(5,427)
+	(976)
+Row 25: Cash Flows From Financing Activities:
+			Row 26: Net change in deposits
+	3,838
+	(2,842)
+	4,507
+Row 27: Net change in short-term borrowings
+	240
+	3,532
+	(3,581)
+Row 28: Proceeds from issuance of long-term debt
+	2,769
+	8,883
+	3,878
+Row 29: Repayment of long-term debt
+	(2,533)
+	(7,453)
+	(5,849)
+Row 30: Repurchase of common stock
+	(1,205)
+	(1,613)
+	(520)
+Row 31: Net proceeds from preferred stock issued
+			450
+Row 32: Cash dividends paid on common stock
+	(1,204)
+	(1,005)
+	(925)
+Row 33: Cash dividends paid on preferred stock
+	(174)
+	(174)
+	(167)
+Row 34: Other, net
+	(229)
+	123
+	325
+Row 35: Net cash from financing activities
+	1,502
+	(549)
+	(1,882)
+Row 36: Net Change in Cash, Cash Equivalents and Restricted Cash
+	904
+	(1,341)
+	257
+Row 37: Cash, Cash Equivalents and Restricted Cash, January 1
+	3,083
+	4,424
+	4,167
+Row 38: Cash, Cash Equivalents and Restricted Cash, December 31
+	3,987
+$
+	$
+3,083
+	$
+4,424
+Row 39: Supplemental Disclosure of Cash Flow Information:
+			Row 40: Net cash paid (received) during the period for:
+			Row 41: Interest expense
+	$
+1,408
+	$
+819
+	775
+Row 42: Income taxes
+	99
+	429
+	844
+Row 43: Noncash investing activities:
+			Row 44: Transfers of loans to foreclosed assets
+	247
+247
+	260
+	258
+Row 45: Transfer of loans HFI to LHFS
+	77
+	1,050
+	263
+Row 46: Stock issued in business combinations
+			1,063
+Row 47: The accompanying notes are an integral part of these consolidated 	financial statements	.
+	Row 0: Source: BB&T CORP, 10-K, February 26, 2019
+Powered by Morningstar Document Research
+Row 1: The information contained herein may not be copied, adapted or distributed and is not warranted to be accurate, complete or timely. The user assumes all risks for any damages or losses arising from any use of this information,
+except to the extent such damages or losses cannot be limited or excluded by applicable law. Past financial performance is no guarantee of future results.

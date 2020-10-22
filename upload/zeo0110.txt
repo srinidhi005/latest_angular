@@ -1,0 +1,116 @@
+Row:(MILLIONS OF DOLLARS AND SHARES, EXCEPT PER SHARE DATA) 	2017 	2016 	2015
+Row:Revenue $ 	5,307 $ 	4,888 $ 	4,765
+Row:Costs and expenses:
+			Row:Cost of sales(a) 	1,775 	1,666 	1,738
+Row:Selling, general and administrative expenses(a) 	1,334 	1,364 	1,532
+Row:Research and development expenses(a) 	382 	376 	364
+Row:Amortization of intangible assets 	91 	85 	61
+Row:Restructuring charges and certain acquisition-related costs 	19 	5 	320
+Row:Interest expense, net of capitalized interest 	175 	166 	124
+Row:Other (income)/deductions––net 	6 	(2) 	81
+Row:Income before provision for taxes on income 	1,525 	1,228 	545
+Row:Provision for taxes on income 	663 	409 	206
+Row:Net income before allocation to noncontrolling interests 	862 	819 	339
+Row:Less: Net loss attributable to noncontrolling interests 	(2) 	(2) 	—
+Row:Net income attributable to Zoetis $ 	864 $ 	821 $ 	339
+Row:Earnings per share attributable to Zoetis Inc. stockholders:
+			Row:Basic $ 	1.76 $ 	1.66 $ 	0.68
+Row:Diluted $ 	1.75 $ 	1.65 $ 	0.68
+Row:Weighted-average common shares outstanding:
+			Row:Basic 	489.918 	495.715 	499.707
+Row:Diluted 	493.161 	498.225 	502.019
+Row:Dividends declared per common share $ 	0.441 $ 	0.390 $ 	0.344
+Row:(MILLIONS OF DOLLARS, EXCEPT PER SHARE DATA) 	December 31, 2017 	December 31,
+2016
+Row:Assets
+		Row:Cash and cash equivalents(a) $ 	1,564 	$ 727
+Row:Accounts receivable, less allowance for doubtful accounts of $25 in 2017 and $30 in 2016 	998 	913
+Row:Inventories 	1,427 	1,502
+Row:Other current assets 	228 	248
+Row:Total current assets 	4,217 	3,390
+Row:Property, plant and equipment, less accumulated depreciation of $1,471 in 2017 and $1,358 in 2016 Goodwill 	1,435 1,510 	1,381
+1,481
+Row:Identifiable intangible assets, less accumulated amortization Noncurrent deferred tax assets Other noncurrent assets 	1,269 80 75 	1,228
+96
+73
+Row:Total assets $ 	8,586 	$ 7,649
+Row:Liabilities and Equity
+		Row:Accounts payable $ 	261 	$ 265
+Row:Dividends payable 	61 	52
+Row:Accrued expenses 	432 	464
+Row:Accrued compensation and related items 	236 	224
+Row:Income taxes payable 	60 	71
+Row:Other current liabilities 	44 	41
+Row:Total current liabilities 	1,094 	1,117
+Row:Long-term debt, net of discount and issuance costs 	4,953 	4,468
+Row:Noncurrent deferred tax liabilities 	380 	244
+Row:Other taxes payable 	172 	73
+Row:Other noncurrent liabilities 	201 	248
+Row:Total liabilities 	6,800 	6,150
+Row:Commitments and contingencies (Note 17)
+		Row:Stockholders' equity:
+Preferred stock, $0.01 par value; 1,000,000,000 authorized, none issued 	— 	—
+Row:Common stock, $0.01 par value: 6,000,000,000 authorized, 501,891,243 and 501,891,243 shares issued;
+486,130,461 and 492,855,297 shares outstanding at December 31, 2017 and 2016, respectively 	5 	5
+Row:Treasury stock, at cost, 15,760,782 and 9,035,946 shares of common stock at December 31, 2017 and 2016,
+respectively 	(852) 	(421)
+Row:Additional paid-in capital 	1,013 	1,024
+Row:Retained earnings 	2,109 	1,477
+Row:Accumulated other comprehensive loss 	(505) 	(598)
+Row:Total Zoetis Inc. equity Equity attributable to noncontrolling interests 	1,770 	1,487
+Row:	16 	12
+Row:Total equity 	1,786 	1,499
+Row:Total liabilities and equity $ 	8,586 	$ 7,649
+Row:(MILLIONS OF DOLLARS) 	Year Ended December 2017 2016 	31,
+2015
+Row:Operating Activities
+		Row:Net income before allocation to noncontrolling interests $ Adjustments to reconcile net income before noncontrolling interests to net cash
+provided by operating activities:
+Depreciation and amortization expense 	862 $ 819 242 240 	$ 339
+199
+Row:Share-based compensation expense 	44 37 	43
+Row:Restructuring 	19 5 	203
+Row:Asset write-offs and asset impairments 	3 5 	60
+Row:Loss/(gain) on sales of assets Provision for losses on inventory 	11 (26) 54 105 	—
+94
+Row:Deferred taxes 	127 (55) 	(85)
+Row:Foreign currency loss related to Venezuela Revaluation, excluding impact on cash 	— — 	6
+Row:Employee benefit plan contribution from Pfizer Inc. 	3 3 	3
+Row:Other non-cash adjustments 	10 19 	10
+Row:Other changes in assets and liabilities, net of acquisitions and divestitures and transfers with Pfizer Inc.
+		Row:Accounts receivable 	(50) 15 	(58)
+Row:Inventories 	19 (101) 	(262)
+Row:Other assets 	(16) (50) 	(9)
+Row:Accounts payable 	(10) (28) 	17
+Row:Other liabilities 	(57) (295) 	70
+Row:Other tax accounts, net 	85 20 	34
+Row:Net cash provided by operating activities 	1,346 713 	664
+Row:Investing Activities
+Capital expenditures 	(224) (216) 	(224)
+Row:Acquisitions 	(82) (88) 	(883)
+Row:Net proceeds from sales of assets 	37 90 	2
+Row:Other investing activities 	(1) — 	(10)
+Row:Net cash used in investing activities 	(270) (214) 	(1,115)
+Row:Financing Activities
+		Row:Decrease in short-term borrowings, net 	— (5) 	(2)
+Row:Principal payments on long-term debt 	(750) (400) 	—
+Row:Proceeds from issuance of long-term debt—senior notes, net of discount and fees 	1,231 — 	1,236
+Row:Payment of contingent consideration related to previously acquired assets 	(7) (32) 	—
+Row:Share-based compensation-related proceeds, net of taxes paid on withholding shares and excess tax benefits(a) 	24 25 	11
+Row:Purchases of treasury stock(b) 	(500) (300) 	(203)
+Row:Cash dividends paid 	(206) (188) 	(168)
+Row:Cash paid to settle Pharmaq debt 	— — 	(119)
+Row:Acquisition of noncontrolling interest 	(43) — 	—
+Row:Payment of debt issuance costs 	— (3) 	—
+Row:Net cash (used in)/provided by financing activities 	(251) (903) 	755
+Row:Effect of exchange-rate changes on cash and cash equivalents 	12 (23) 	(32)
+Row:Net increase/(decrease) in cash and cash equivalents 	837 (427) 	272
+Row:Cash and cash equivalents at beginning of period 	727 1,154 	882
+Row:Cash and cash equivalents at end of period $ 	1,564 $ 727 	$ 1,154
+Row:See Notes to Consolidated Financial Statements, which are an integral part of these 	statements.
+	Row:Income taxes 	$ 455 $ 	408 $ 224
+Row:Interest, net of capitalized interest 	167 	165 117
+Row:Non-cash transactions:
+		Row:Capital expenditures 	$ 5 	8 11
+Row:Contingent purchase price consideration(c) 	29 	27 23
+Row:Dividends declared, not paid 	61 	52 47

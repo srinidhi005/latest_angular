@@ -1,0 +1,180 @@
+Row:Net Revenue 	2015 $ 63,056 	2014 $ 66,683 	2013
+$ 66,415
+Row:Cost of sales 	28,384 	30,884 	31,243
+Row:Gross profit 	34,672 	35,799 	35,172
+Row:Selling, general and administrative expenses 	24,885 	26,126 	25,357
+Row:Venezuela impairment charges 	1,359 	— 	—
+Row:Amortization of intangible assets 	75 	92 	110
+Row:Operating Profit 	8,353 	9,581 	9,705
+Row:Interest expense 	(970) 	(909) 	(911)
+Row:Interest income and other 	59 	85 	97
+Row:Income before income taxes 	7,442 	8,757 	8,891
+Row:Provision for income taxes 	1,941 	2,199 	2,104
+Row:Net income 	5,501 	6,558 	6,787
+Row:Less: Net income attributable to noncontrolling interests 	49 	45 	47
+Row:Net Income Attributable to PepsiCo 	$ 5,452 	$ 6,513 	$ 6,740
+Row:Net Income Attributable to PepsiCo per Common Share
+			Row:Basic 	$ 3.71 	$ 4.31 	$ 4.37
+Row:Diluted 	$ 3.67 	$ 4.27 	$ 4.32
+Row:Weighted-average common shares outstanding
+			Row:Basic 	1,469 	1,509 	1,541
+Row:Diluted 	1,485 	1,527 	1,560
+Row:Cash dividends declared per common share 	$ 2.7625 	$ 2.5325 	$ 2.24
+Row:Fiscal years ended December 26, 2015, December 27, 2014 and December 28, (in millions)
+	2013
+2015 2014 	2013
+Row:Operating Activities
+		Row:Net income $ 	5,501 $ 6,558 $ 	6,787
+Row:Depreciation and amortization 	2,416 2,625 	2,663
+Row:Share-based compensation expense Merger and integration charges Cash payments for merger and integration charges Restructuring and impairment charges Cash payments for restructuring charges Charge related to the transaction with Tingyi Cash payments for restructuring and other charges related to the transaction with Tingyi Venezuela impairment charges Venezuela remeasurement charges Excess tax benefits from share-based payment arrangements 	295 297 — — — — 230 418 (208) (266) 73 — — — 1,359 — — 105 (133) (114) 	303
+10
+(25)
+163
+(133)
+—
+(26)
+—
+111
+(117)
+Row:Pension and retiree medical plan expenses Pension and retiree medical plan contributions Deferred income taxes and other tax charges and credits Change in assets and liabilities:
+Accounts and notes receivable 	467 667 (205) (655) 78 (19) (461) (343) 	663
+(262)
+(1,058)
+(88)
+Row:Inventories 	(244) (111) 	4
+Row:Prepaid expenses and other current assets Accounts payable and other current liabilities 	(50) 80 1,692 1,162 	(51)
+1,007
+Row:Income taxes payable Other, net Net Cash Provided by Operating Activities 	55 371 (285) (269) 10,580 10,506 	86
+(349)
+9,688
+Row:Investing Activities
+		Row:Capital spending 	(2,758) (2,859) 	(2,795)
+Row:Sales of property, plant and equipment 	86 115 	109
+Row:Acquisitions and investments in noncontrolled affiliates 	(86) (88) 	(109)
+Row:Reduction of cash due to Venezuela deconsolidation 	(568) — 	—
+Row:Divestitures 	76 203 	130
+Row:Short-term investments, by original maturity
+		Row:More than three months - purchases 	(4,428) (6,305) 	—
+Row:More than three months - maturities 	4,111 3,891 	—
+Row:Three months or less, net 	3 116 	61
+Row:Other investing, net 	(5) (10) 	(21)
+Row:Capital spending 	(2,758) (2,859) 	(2,795)
+Row:Sales of property, plant and equipment 	86 115 	109
+Row:Acquisitions and investments in noncontrolled affiliates 	(86) (88) 	(109)
+Row:Reduction of cash due to Venezuela deconsolidation 	(568) — 	—
+Row:Divestitures 	76 203 	130
+Row:More than three months - purchases (4,428) 	(6,305) 	—
+Row:More than three months - maturities 4,111 	3,891 	—
+Row:Three months or less, net 	3 116 	61
+Row:Other investing, net 	(5) (10) 	(21)
+Row:Net Cash Used for Investing Activities (3,569) 	(4,937) 	(2,625)
+Row:	2015 2014 	2013
+Row:Financing Activities
+		Row:Proceeds from issuances of long-term debt $ 	8,702 $ 3,855 	$ 4,195
+Row:Payments of long-term debt 	(4,095) (2,189) 	(3,894)
+Row:Short-term borrowings, by original maturity
+		Row:More than three months - proceeds 	15 50 	23
+Row:More than three months - payments 	(43) (10) 	(492)
+Row:Three months or less, net 	53 (2,037) 	1,634
+Row:Cash dividends paid 	(4,040) (3,730) 	(3,434)
+Row:Share repurchases - common 	(5,000) (5,012) 	(3,001)
+Row:Share repurchases - preferred 	(5) (10) 	(7)
+Row:Proceeds from exercises of stock options 	504 755 	1,123
+Row:Excess tax benefits from share-based payment arrangements 	133 114 	117
+Row:Acquisition of noncontrolling interests 	— — 	(20)
+Row:Other financing 	(52) (50) 	(33)
+Row:Net Cash Used for Financing Activities 	(3,828) (8,264) 	(3,789)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(221) (546) 	(196)
+Row:Net Increase/(Decrease) in Cash and Cash Equivalents 	2,962 (3,241) 	3,078
+Row:Cash and Cash Equivalents, Beginning of Year 	6,134 9,375 	6,297
+Row:Cash and Cash Equivalents, End of Year $ 	9,096 $ 6,134 	$ 9,375
+Row:Net Revenue 	2015 $ 63,056 	2014 $ 66,683 	2013
+$ 66,415
+Row:Cost of sales 	28,384 	30,884 	31,243
+Row:Gross profit 	34,672 	35,799 	35,172
+Row:Selling, general and administrative expenses 	24,885 	26,126 	25,357
+Row:Venezuela impairment charges 	1,359 	— 	—
+Row:Amortization of intangible assets 	75 	92 	110
+Row:Operating Profit 	8,353 	9,581 	9,705
+Row:Interest expense 	(970) 	(909) 	(911)
+Row:Interest income and other 	59 	85 	97
+Row:Income before income taxes 	7,442 	8,757 	8,891
+Row:Provision for income taxes 	1,941 	2,199 	2,104
+Row:Net income 	5,501 	6,558 	6,787
+Row:Less: Net income attributable to noncontrolling interests 	49 	45 	47
+Row:Net Income Attributable to PepsiCo 	$ 5,452 	$ 6,513 	$ 6,740
+Row:Net Income Attributable to PepsiCo per Common Share
+			Row:Basic 	$ 3.71 	$ 4.31 	$ 4.37
+Row:Diluted 	$ 3.67 	$ 4.27 	$ 4.32
+Row:Weighted-average common shares outstanding
+			Row:Basic 	1,469 	1,509 	1,541
+Row:Diluted 	1,485 	1,527 	1,560
+Row:Cash dividends declared per common share 	$ 2.7625 	$ 2.5325 	$ 2.24
+Row:Fiscal years ended December 26, 2015, December 27, 2014 and December 28, (in millions)
+	2013
+2015 2014 	2013
+Row:Operating Activities
+		Row:Net income $ 	5,501 $ 6,558 $ 	6,787
+Row:Depreciation and amortization 	2,416 2,625 	2,663
+Row:Share-based compensation expense Merger and integration charges Cash payments for merger and integration charges Restructuring and impairment charges Cash payments for restructuring charges Charge related to the transaction with Tingyi Cash payments for restructuring and other charges related to the transaction with Tingyi Venezuela impairment charges Venezuela remeasurement charges Excess tax benefits from share-based payment arrangements 	295 297 — — — — 230 418 (208) (266) 73 — — — 1,359 — — 105 (133) (114) 	303
+10
+(25)
+163
+(133)
+—
+(26)
+—
+111
+(117)
+Row:Pension and retiree medical plan expenses Pension and retiree medical plan contributions Deferred income taxes and other tax charges and credits Change in assets and liabilities:
+Accounts and notes receivable 	467 667 (205) (655) 78 (19) (461) (343) 	663
+(262)
+(1,058)
+(88)
+Row:Inventories 	(244) (111) 	4
+Row:Prepaid expenses and other current assets Accounts payable and other current liabilities 	(50) 80 1,692 1,162 	(51)
+1,007
+Row:Income taxes payable Other, net Net Cash Provided by Operating Activities 	55 371 (285) (269) 10,580 10,506 	86
+(349)
+9,688
+Row:Investing Activities
+		Row:Capital spending 	(2,758) (2,859) 	(2,795)
+Row:Sales of property, plant and equipment 	86 115 	109
+Row:Acquisitions and investments in noncontrolled affiliates 	(86) (88) 	(109)
+Row:Reduction of cash due to Venezuela deconsolidation 	(568) — 	—
+Row:Divestitures 	76 203 	130
+Row:Short-term investments, by original maturity
+		Row:More than three months - purchases 	(4,428) (6,305) 	—
+Row:More than three months - maturities 	4,111 3,891 	—
+Row:Three months or less, net 	3 116 	61
+Row:Other investing, net 	(5) (10) 	(21)
+Row:Capital spending 	(2,758) (2,859) 	(2,795)
+Row:Sales of property, plant and equipment 	86 115 	109
+Row:Acquisitions and investments in noncontrolled affiliates 	(86) (88) 	(109)
+Row:Reduction of cash due to Venezuela deconsolidation 	(568) — 	—
+Row:Divestitures 	76 203 	130
+Row:More than three months - purchases (4,428) 	(6,305) 	—
+Row:More than three months - maturities 4,111 	3,891 	—
+Row:Three months or less, net 	3 116 	61
+Row:Other investing, net 	(5) (10) 	(21)
+Row:Net Cash Used for Investing Activities (3,569) 	(4,937) 	(2,625)
+Row:	2015 2014 	2013
+Row:Financing Activities
+		Row:Proceeds from issuances of long-term debt $ 	8,702 $ 3,855 	$ 4,195
+Row:Payments of long-term debt 	(4,095) (2,189) 	(3,894)
+Row:Short-term borrowings, by original maturity
+		Row:More than three months - proceeds 	15 50 	23
+Row:More than three months - payments 	(43) (10) 	(492)
+Row:Three months or less, net 	53 (2,037) 	1,634
+Row:Cash dividends paid 	(4,040) (3,730) 	(3,434)
+Row:Share repurchases - common 	(5,000) (5,012) 	(3,001)
+Row:Share repurchases - preferred 	(5) (10) 	(7)
+Row:Proceeds from exercises of stock options 	504 755 	1,123
+Row:Excess tax benefits from share-based payment arrangements 	133 114 	117
+Row:Acquisition of noncontrolling interests 	— — 	(20)
+Row:Other financing 	(52) (50) 	(33)
+Row:Net Cash Used for Financing Activities 	(3,828) (8,264) 	(3,789)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(221) (546) 	(196)
+Row:Net Increase/(Decrease) in Cash and Cash Equivalents 	2,962 (3,241) 	3,078
+Row:Cash and Cash Equivalents, Beginning of Year 	6,134 9,375 	6,297
+Row:Cash and Cash Equivalents, End of Year $ 	9,096 $ 6,134 	$ 9,375

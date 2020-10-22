@@ -1,0 +1,162 @@
+Row:	2019 	2018 	2017
+Row:REVENUES:
+			Row:Owned and leased hotels $ 	1,848 	$ 1,918 	$ 2,184
+Row:Management, franchise, and other fees 	608 	552 	498
+Row:Amortization of management and franchise agreement assets constituting payments to customers 	(22) 	(20) 	(18)
+Row:Net management, franchise, and other fees 	586 	532 	480
+Row:Other revenues 	125 	48 	36
+Row:Revenues for the reimbursement of costs incurred on behalf of managed and franchised properties 	2,461 	1,956 	1,762
+Row:Total revenues 	5,020 	4,454 	4,462
+Row:DIRECT AND SELLING, GENERAL, AND ADMINISTRATIVE EXPENSES:
+			Row:Owned and leased hotels 	1,424 	1,446 	1,664
+Row:Depreciation and amortization 	329 	327 	348
+Row:Other direct costs 	133 	48 	31
+Row:Selling, general, and administrative Costs incurred on behalf of managed and franchised properties 	417 2,520 	320 1,981 	377
+1,782
+Row:Direct and selling, general, and administrative expenses 	4,823 	4,122 	4,202
+Row:Net gains (losses) and interest income from marketable securities held to fund rabbi trusts 	62 	(11) 	45
+Row:Equity earnings (losses) from unconsolidated hospitality ventures 	(10) 	8 	219
+Row:Interest expense 	(75) 	(76) 	(80)
+Row:Gains on sales of real estate 	723 	772 	236
+Row:Asset impairments 	(18) 	(25) 	—
+Row:Other income (loss), net 	127 	(49) 	42
+Row:INCOME BEFORE INCOME TAXES 	1,006 	951 	722
+Row:PROVISION FOR INCOME TAXES 	(240) 	(182) 	(332)
+Row:NET INCOME NET INCOME AND ACCRETION ATTRIBUTABLE TO NONCONTROLLING INTERESTS 	766 — 	769 — 	390
+(1)
+Row:NET INCOME ATTRIBUTABLE TO HYATT HOTELS CORPORATION $ 	766 	$ 769 	$ 389
+Row:EARNINGS PER SHARE—Basic
+			Row:Net income $ 	7.33 	$ 6.79 	$ 3.13
+Row:Net income attributable to Hyatt Hotels Corporation $ EARNINGS PER SHARE—Diluted
+	7.33 	$ 6.79 	$ 3.12
+Row:Net income $ 	7.21 	$ 6.68 	$ 3.09
+Row:Net income attributable to Hyatt Hotels Corporation $ 	7.21 	$ 6.68 	$ 3.08
+Row:ASSETS
+		Row:CURRENT ASSETS:
+		Row:Cash and cash equivalents $ 	893 	$ 570
+Row:Restricted cash 	150 	33
+Row:Short-term investments Receivables, net of allowances of $32 and $26 at December 31, 2019 and December 31, 2018, respectively 	68 421 	116
+427
+Row:Inventories 	12 	14
+Row:Prepaids and other assets 	134 	149
+Row:Prepaid income taxes Total current assets 	28 1,706 	36
+1,345
+Row:Equity method investments 	232 	233
+Row:Property and equipment, net 	3,456 	3,608
+Row:Financing receivables, net of allowances 	35 	13
+Row:Operating lease right-of-use assets Goodwill 	493 326 	—
+283
+Row:Intangibles, net 	437 	628
+Row:Deferred tax assets 	144 	180
+Row:Other assets 	1,588 	1,353
+Row:TOTAL ASSETS $ 	8,417 	$ 7,643
+Row:LIABILITIES AND EQUITY
+		Row:CURRENT LIABILITIES:
+		Row:Current maturities of long-term debt $ 	11 	$ 11
+Row:Accounts payable Accrued expenses and other current liabilities 	150 304 	151
+361
+Row:Current contract liabilities 	445 	388
+Row:Accrued compensation and benefits 	144 	150
+Row:Current operating lease liabilities 	32 	—
+Row:Total current liabilities 	1,086 	1,061
+Row:Long-term debt 	1,612 	1,623
+Row:Long-term contract liabilities 	475 	442
+Row:Long-term operating lease liabilities Other long-term liabilities 	393 884 	—
+840
+Row:Total liabilities 	4,450 	3,966
+Row:Commitments and contingencies (see Note 15)
+		Row:EQUITY:
+		Row:Preferred stock, $0.01 par value per share, 10,000,000 shares authorized and none outstanding as of December 31,
+		Row:Preferred stock, $0.01 par value per share, 10,000,000 shares authorized and none outstanding as of December 31,
+2019 and December 31, 2018 	— —
+Row:Class A common stock, $0.01 par value per share, 1,000,000,000 shares authorized, 36,109,179 issued and
+outstanding at December 31, 2019, and Class B common stock, $0.01 par value per share, 397,457,686 shares
+authorized, 65,463,274 shares issued and outstanding at December 31, 2019. Class A common stock, $0.01 par value
+per share, 1,000,000,000 shares authorized, 39,507,817 issued and outstanding at December 31, 2018, and Class B
+common stock, $0.01 par value per share, 399,110,240 shares authorized, 67,115,828 shares issued and outstanding
+at December 31, 2018 	1 1
+Row:Additional paid-in capital 	— 50
+Row:Retained earnings 	4,170 3,819
+Row:Accumulated other comprehensive loss 	(209) (200)
+Row:Total stockholders' equity 	3,962 3,670
+Row:Noncontrolling interests in consolidated subsidiaries 	5 7
+Row:Total equity 	3,967 3,677
+Row:TOTAL LIABILITIES AND EQUITY $ 	8,417 $ 7,643
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+	Row:Net income $ 	766 $ 769 $ 390
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+	Row:Gains on sales of real estate 	(723) (772) (236)
+Row:Depreciation and amortization 	329 327 348
+Row:Release of contingent consideration liability 	(30) — —
+Row:Amortization of share awards 	35 28 32
+Row:Amortization of operating lease right-of-use assets 	35 — —
+Row:Deferred income taxes 	28 (33) 56
+Row:Asset impairments 	18 47 —
+Row:Equity (earnings) losses from unconsolidated hospitality ventures 	10 (8) (219)
+Row:Amortization of management and franchise agreement assets constituting payments to
+customers 	22 20 18
+Row:Gain on sale of contractual right 	(16) — —
+Row:Realized (gains) losses, net 	(2) 3 41
+Row:Unrealized (gains) losses, net 	(26) 47 (1)
+Row:Distributions from unconsolidated hospitality ventures 	13 17 29
+Row:Other 	(55) (25) 4
+Row:Increase (decrease) in cash attributable to changes in assets and liabilities and other
+	Row:Receivables, net 	(29) 14 (37)
+Row:Inventories 	1 — 12
+Row:Prepaid income taxes 	10 (5) 14
+Row:Accounts payable, accrued expenses, and other current liabilities 	26 (80) 102
+Row:Operating lease liabilities 	(34) — —
+Row:Accrued compensation and benefits 	(1) 6 22
+Row:Other long-term liabilities 	73 51 53
+Row:Other, net 	(54) (65) (41)
+Row:Net cash provided by operating activities 	396 341 587
+Row:	(Continued)
+Row:	2019 		2018 	2017
+Row:CASH 	FLOWS FROM INVESTING ACTIVITIES:
+			Row:	Purchases of marketable securities and short-term investments $ 	(350) 	$ (665) 	$ (469)
+Row:	Proceeds from marketable securities and short-term investments 	349 	624 	480
+Row:	Contributions to equity method and other investments 	(48) 	(60) 	(89)
+Row:	Return of equity method and other investments 	28 	51 	425
+Row:	Acquisitions, net of cash acquired 	(18) 	(678) 	(259)
+Row:	Capital expenditures 	(369) 	(297) 	(298)
+Row:	Issuance of financing receivables 	(18) 	(2) 	—
+Row:	Proceeds from financing receivables 	46 	— 	—
+Row:	Proceeds from sales of real estate, net of cash disposed 	940 	1,382 	663
+Row:	Proceeds from sale of contractual right 	21 	— 	—
+Row:	Pre-condemnation proceeds 	— 	7 	15
+Row:	Other investing activities 	4 	12 	(11)
+Row:	Net cash provided by investing activities 	585 	374 	457
+Row:CASH 	FLOWS FROM FINANCING ACTIVITIES:
+			Row:	Proceeds from long-term debt, net of issuance costs of $-, $4, and $-, respectively 	400 	416 	670
+Row:	Repayments of debt 	(409) 	(231) 	(782)
+Row:	Repurchase of common stock 	(421) 	(946) 	(743)
+Row:	Contingent consideration paid 	(24) 	— 	—
+Row:	Proceeds from redeemable noncontrolling interest in preferred shares in a subsidiary 	— 	— 	9
+Row:	Repayments of redeemable noncontrolling interest in preferred shares in a subsidiary 	— 	(10) 	—
+Row:	Dividends paid 	(80) 	(68) 	—
+Row:	Other financing activities 	(7) 	(11) 	(12)
+Row:	Net cash used in financing activities 	(541) 	(850) 	(858)
+Row:EFFECT 	OF EXCHANGE RATE CHANGES ON CASH 	1 	5 	(7)
+Row:NET 	INCREASE (DECREASE) IN CASH, CASH EQUIVALENTS, AND RESTRICTED CASH 	441 	(130) 	179
+Row:CASH, 	CASH EQUIVALENTS, AND RESTRICTED CASH—BEGINNING OF YEAR 	622 	752 	573
+Row:CASH, 	CASH EQUIVALENTS, AND RESTRICTED CASH—END OF PERIOD $ 	1,063 	$ 622 	$ 752
+Row:				(Continued)
+Row:EFFECT OF EXCHANGE RATE CHANGES ON CASH 	1 Row:NET INCREASE (DECREASE) IN CASH, CASH EQUIVALENTS, AND RESTRICTED CASH 	441 Row:CASH, CASH EQUIVALENTS, AND RESTRICTED CASH—BEGINNING OF YEAR 	622 Row:CASH, CASH EQUIVALENTS, AND RESTRICTED CASH—END OF PERIOD $ 	1,063 $ Row:	2019 2018 	2017
+Row:Cash and cash equivalents 	$ 893 $ 570 	$ 503
+Row:Restricted cash (see Note 2) 	150 33 	234
+Row:Restricted cash included in other assets (see Note 2) 	20 19 	15
+Row:Total cash, cash equivalents, and restricted cash 	$ 1,063 $ 622 	$ 752
+Row:	2019 2018 	2017
+Row:Cash paid during the period for interest 	$ 79 $ 73 	$ 80
+Row:Cash paid during the period for income taxes 	$ 175 $ 292 	$ 175
+Row:Cash paid for amounts included in the measurement of operating lease liabilities 	$ 50 $ — 	$ —
+Row:Non-cash investing and financing activities are as follows:
+		Row:Non-cash contributions to equity method investments (see Note 4, Note 15) 	$ 9 $ 61 	$ 5
+Row:Non-cash issuance of financing receivables (see Note 6, Note 7) 	$ 1 $ 45 	$ —
+Row:Change in accrued capital expenditures 	$ (7) $ 13 	$ 9
+Row:Non-cash right-of-use assets obtained in exchange for operating lease liabilities 	$ 8 $ — 	$ —
+Row:Contingent liability (see Note 7) 	$ — $ 57 	$ —
+Row:Cash and cash equivalents $ 	893 $ 570 	$ 503
+Row:Restricted cash (see Note 2) 	150 33 	234
+Row:Restricted cash included in other assets (see Note 2) 	20 19 	15
+Row:Total cash, cash equivalents, and restricted cash $ 	1,063 $ 622 	$ 752

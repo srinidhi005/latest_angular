@@ -1,0 +1,141 @@
+Row:Sales 	(in millions, except per share $ 7,782 $ 7,766 $ 	amounts)
+7,412
+Row:Cost of sales 	5,326 5,130 	4,907
+Row:Selling, general and administrative expenses 	1,501 1,472 	1,415
+Row:Depreciation and amortization 	173 158 	148
+Row:Litigation and other charges 	211 6 	105
+Row:Income from operations 	571 1,000 	837
+Row:Interest (income) / expense, net 	(2) 2 	4
+Row:Other income 	(5) (6) 	(4)
+Row:Income before income taxes 	578 1,004 	837
+Row:Income tax expense 	294 340 	296
+Row:Net income 	$ 284 $ 664 $ 	541
+Row:Basic earnings per share 	$ 2.23 $ 4.95 $ 	3.89
+Row:Weighted-average shares outstanding 	127.2 134.0 	139.1
+Row:Diluted earnings per share 	$ 2.22 $ 4.91 $ 	3.84
+Row:Weighted-average shares outstanding, assuming dilution 	127.9 135.1 	140.8
+Row:Current assets:
+		Row:Cash and cash equivalents 	$ 849 	$ 1,046
+Row:Merchandise inventories 	1,278 	1,307
+Row:Other current assets 	424 	280
+Row:	2,551 	2,633
+Row:Property and equipment, net 	866 	765
+Row:Deferred taxes 	48 	161
+Row:Goodwill 	160 	155
+Row:Other intangible assets, net 	46 	42
+Row:Other assets 	290 	84
+Row:	$ 3,961 	$ 3,840
+Row:Accounts payable 	$ 258 	$ 249
+Row:Accrued and other liabilities 	358 	363
+Row:	616 	612
+Row:Long-term debt 	125 	127
+Row:Other liabilities 	701 	391
+Row:Total liabilities 	1,442 	1,130
+Row:Shareholders’ equity 	2,519 	2,710
+Row:	$ 3,961 	$ 3,840
+Row:2017 From operating activities:
+	2016 * 2015 *
+($ in millions)
+Row:Net income $ 284 	$ 664 $ 541
+Row:Adjustments to reconcile net income to net cash provided by
+operating activities:
+	Row:Non-cash impairment charges 	20 6 5
+Row:Depreciation and amortization 173 Deferred income taxes 105 	158 148
+(1) (6)
+Row:Share-based compensation expense 	15 22 22
+Row:Qualified pension plan contributions (25) 	(36) (4)
+Row:Change in assets and liabilities:
+	Row:Merchandise inventories 	69 (25) (49)
+Row:Accounts payable 	— (31) (17)
+Row:Accrued and other liabilities (30) 	27 —
+Row:Pension litigation accrual 178 Other, net 	— 100
+24 60 51
+Row:Net cash provided by operating activities 813 	844 791
+Row:From investing activities:
+Capital expenditures (274) 	(266) (228)
+Row:Cash paid for a cost method investment (15) 	— —
+Row:Purchase of business, net of cash acquired Net cash used in investing activities (289) 	— — (2)
+(266) (230)
+Row:From financing activities:
+	Row:Purchase of treasury shares (467) 	(432) (419)
+Row:Dividends paid on common stock (157) 	(147) (139)
+Row:Proceeds from exercise of stock options 	13 29 64
+Row:Treasury stock reissued under employee stock plan Shares of common stock repurchased to satisfy tax withholding
+obligations
+(10) Payment of revolving credit agreement costs 	5 4 5
+(7) (9)
+— (2) —
+Row:Reduction in obligations under capital leases 	— (1) (2)
+Row:Net cash used in financing activities (616) 	(556) (500)
+Row:Effect of exchange rate fluctuations on cash, cash equivalents, and
+	Row:Sales 	(in millions, except per share $ 7,782 $ 7,766 $ 	amounts)
+7,412
+Row:Cost of sales 	5,326 5,130 	4,907
+Row:Selling, general and administrative expenses 	1,501 1,472 	1,415
+Row:Depreciation and amortization 	173 158 	148
+Row:Litigation and other charges 	211 6 	105
+Row:Income from operations 	571 1,000 	837
+Row:Interest (income) / expense, net 	(2) 2 	4
+Row:Other income 	(5) (6) 	(4)
+Row:Income before income taxes 	578 1,004 	837
+Row:Income tax expense 	294 340 	296
+Row:Net income 	$ 284 $ 664 $ 	541
+Row:Basic earnings per share 	$ 2.23 $ 4.95 $ 	3.89
+Row:Weighted-average shares outstanding 	127.2 134.0 	139.1
+Row:Diluted earnings per share 	$ 2.22 $ 4.91 $ 	3.84
+Row:Weighted-average shares outstanding, assuming dilution 	127.9 135.1 	140.8
+Row:Current assets:
+		Row:Cash and cash equivalents 	$ 849 	$ 1,046
+Row:Merchandise inventories 	1,278 	1,307
+Row:Other current assets 	424 	280
+Row:	2,551 	2,633
+Row:Property and equipment, net 	866 	765
+Row:Deferred taxes 	48 	161
+Row:Goodwill 	160 	155
+Row:Other intangible assets, net 	46 	42
+Row:Other assets 	290 	84
+Row:	$ 3,961 	$ 3,840
+Row:Accounts payable 	$ 258 	$ 249
+Row:Accrued and other liabilities 	358 	363
+Row:	616 	612
+Row:Long-term debt 	125 	127
+Row:Other liabilities 	701 	391
+Row:Total liabilities 	1,442 	1,130
+Row:Shareholders’ equity 	2,519 	2,710
+Row:	$ 3,961 	$ 3,840
+Row:2017 From operating activities:
+	2016 * 2015 *
+($ in millions)
+Row:Net income $ 284 	$ 664 $ 541
+Row:Adjustments to reconcile net income to net cash provided by
+operating activities:
+	Row:Non-cash impairment charges 	20 6 5
+Row:Depreciation and amortization 173 Deferred income taxes 105 	158 148
+(1) (6)
+Row:Share-based compensation expense 	15 22 22
+Row:Qualified pension plan contributions (25) 	(36) (4)
+Row:Change in assets and liabilities:
+	Row:Merchandise inventories 	69 (25) (49)
+Row:Accounts payable 	— (31) (17)
+Row:Accrued and other liabilities (30) 	27 —
+Row:Pension litigation accrual 178 Other, net 	— 100
+24 60 51
+Row:Net cash provided by operating activities 813 	844 791
+Row:From investing activities:
+Capital expenditures (274) 	(266) (228)
+Row:Cash paid for a cost method investment (15) 	— —
+Row:Purchase of business, net of cash acquired Net cash used in investing activities (289) 	— — (2)
+(266) (230)
+Row:From financing activities:
+	Row:Purchase of treasury shares (467) 	(432) (419)
+Row:Dividends paid on common stock (157) 	(147) (139)
+Row:Proceeds from exercise of stock options 	13 29 64
+Row:Treasury stock reissued under employee stock plan Shares of common stock repurchased to satisfy tax withholding
+obligations
+(10) Payment of revolving credit agreement costs 	5 4 5
+(7) (9)
+— (2) —
+Row:Reduction in obligations under capital leases 	— (1) (2)
+Row:Net cash used in financing activities (616) 	(556) (500)
+Row:Effect of exchange rate fluctuations on cash, cash equivalents, and
+	

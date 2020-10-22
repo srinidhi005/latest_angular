@@ -1,0 +1,96 @@
+Row:ASSETS
+	Row:Current assets
+Cash and cash equivalents 	$ 470.7 $ 926.1
+Row:Receivables, net 	525.3 586.2
+Row:Inventories, net 	4,352.5 4,332.8
+Row:Prepaid assets 	255.0 316.2
+Row:Other current assets 	127.8 88.7
+Row:Total current assets 	5,731.3 6,250.0
+Row:Property and equipment, net 	9,211.9 9,861.3
+Row:Operating lease right-of-use assets 	5,867.4 —
+Row:Intangible assets, net 	2,087.2 2,834.5
+Row:Goodwill 	1,183.3 1,183.3
+Row:Other assets 	654.0 647.5
+Row:TOTAL ASSETS 	$ 24,735.1 $ 20,776.6
+Row:LIABILITIES
+	Row:Accounts payable $ 2,891.1 	$ 2,918.7
+Row:Accrued salaries and wages 1,126.0 	1,054.7
+Row:Current maturities of long-term debt and finance lease obligations 	221.4 148.8
+Row:Current operating lease obligations 	563.1 —
+Row:Current portion of self-insurance liability 	308.9 306.8
+Row:Taxes other than income taxes 	318.1 309.0
+Row:Other current liabilities 	475.7 414.7
+Row:Total current liabilities 5,904.3 	5,152.7
+Row:Long-term debt and finance lease obligations 8,493.3 	10,437.6
+Row:Long-term operating lease obligations 5,402.8 	—
+Row:Deferred income taxes 	613.8 561.4
+Row:Long-term self-insurance liability 	838.5 839.5
+Row:Other long-term liabilities 1,204.3 	2,334.7
+Row:Preferred stock, $0.01 par value; 30,000,000 shares authorized, no shares issued and
+outstanding as of February 29, 2020 and February 23, 2019, respectively 	— —
+Row:Common stock, $0.01 par value; 1,000,000,000 shares authorized, 279,597,312 and
+277,882,010 shares issued and outstanding as of February 29, 2020 and February 23,
+2019, respectively 	2.8 2.8
+Row:Additional paid-in capital 	1,827.3 1,814.2
+Row:Treasury stock, at cost, 1,772,018 shares held as of February 29, 2020 and February 23,
+2019, respectively 	(25.8 ) (25.8 )
+Row:Accumulated other comprehensive (loss) income 	(118.5 ) 91.3
+Row:Retained earnings (accumulated deficit) 	592.3 (431.8 )
+Row:Total stockholders' equity 	2,278.1 1,450.7
+Row:TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY $ 	24,735.1 $ 20,776.6
+Row:	February 29, 2020
+	February 23, 2019
+	February 24, 2018
+Row:Net sales and other revenue $ 	62,455.1 	$ 60,534.5 $ 	59,924.6
+Row:Cost of sales 	44,860.9 	43,639.9 	43,563.5
+Row:Gross profit 	17,594.2 	16,894.6 	16,361.1
+Row:Selling and administrative expenses 	16,641.9 	16,272.3 	16,208.7
+Row:(Gain) loss on property dispositions and impairment losses,
+net 	(484.8) 	(165.0) 	66.7
+Row:Goodwill impairment 	— 	— 	142.3
+Row:Operating income (loss) 	1,437.1 	787.3 	(56.6)
+Row:Interest expense, net 	698.0 	830.8 	874.8
+Row:Loss (gain) on debt extinguishment 	111.4 	8.7 	(4.7)
+Row:Other expense (income), net 	28.5 	(104.4) 	(9.2)
+Row:Income (loss) before income taxes 	599.2 	52.2 	(917.5)
+Row:Income tax expense (benefit) 	132.8 	(78.9) 	(963.8)
+Row:Net income $ 	466.4 	$ 131.1 $ 	46.3
+Row:Other comprehensive income (loss), net of tax:
+			Row:(Loss) gain on interest rate swaps 	(3.4) 	(15.5) 	47.0
+Row:Recognition of pension (loss) gain 	(210.5) 	(83.1) 	92.2
+Row:Foreign currency translation adjustment 	0.3 	(0.3) 	65.0
+Row:Other 	3.8 	(0.9) 	(0.3)
+Row:Other comprehensive (loss) income $ 	(209.8) 	$ (99.8) $ 	203.9
+Row:Comprehensive income $ 	256.6 	$ 31.3 $ 	250.2
+Row:Net income per common share:
+			Row:Basic net income per common share $ 	1.67 	$ 0.47 $ 	0.17
+Row:Diluted net income per common share Weighted average common shares outstanding:
+	1.67 	0.47 	0.17
+Row:Basic 	279.6 	280.1 	279.7
+Row:Diluted 	280.1 	280.2 	279.7
+Row:Cash flows from operating activities:
+	Row:Net income $ 	466.4 $ 131.1 $ 46.3
+Row:Adjustments to reconcile net income to net cash provided by
+operating activities:
+	Row:(Gain) loss on property dispositions and impairment losses, net 	(484.8 ) (165.0 ) 66.7
+Row:Goodwill impairment 	— — 142.3
+Row:Depreciation and amortization 	1,691.3 1,738.8 1,898.1
+Row:Operating lease right-of-use assets amortization 	570.3 — —
+Row:LIFO expense 	18.4 8.0 3.0
+Row:Deferred income tax 	(5.9 ) (81.5 ) (1,094.1 Row:Pension and post-retirement benefits (income) expense 	(2.0 ) 24.5 (0.9 Row:Contributions to pension and post-retirement benefit plans 	(11.0 ) (199.3 ) (21.9 Row:Loss (gain) on interest rate swaps and commodity hedges, net 	50.6 (1.3 ) (6.2 Row:Amortization and write-off of deferred financing costs 	39.8 42.7 56.1
+Row:Loss (gain) on debt extinguishment 	111.4 8.7 (4.7 Row:Equity-based compensation expense 	32.8 47.7 45.9
+Row:Other operating activities 	2.5 (42.7 ) 110.3
+Row:Changes in operating assets and liabilities, net of effects of
+acquisition of businesses:
+	Row:Receivables, net 	60.8 28.8 21.7
+Row:Inventories, net 	(38.1 ) 80.3 45.6
+Row:Accounts payable, accrued salaries and wages and other
+accrued liabilities 	85.3 98.4 (158.2 Row:Operating lease liabilities 	(584.4 ) — —
+Row:Self-insurance assets and liabilities 	(4.0 ) (48.7 ) (55.3 Row:Other operating assets and liabilities 	(95.5 ) 17.4 (75.9 Row:Net cash provided by operating activities 	1,903.9 1,687.9 1,018.8
+Row:Business acquisitions, net of cash acquired 	— 	— 	(148.8 )
+Row:Payments for property, equipment and intangibles, including
+payments for lease buyouts 	(1,475.1 ) 	(1,362.6 ) 	(1,547.0 )
+Row:Proceeds from sale of assets 	1,096.7 	1,252.0 	939.2
+Row:Proceeds from sale of Casa Ley 	— 	— 	344.2
+Row:Other investing activities 	(0.1 ) 	23.8 	(56.6 )
+Row:Net cash used in investing activities 	(378.5 ) 	(86.8 ) 	(469.0 )

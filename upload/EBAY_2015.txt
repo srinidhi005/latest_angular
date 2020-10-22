@@ -1,0 +1,145 @@
+Page#1
+PARTII:FINANCIALINFORMATION
+Item8: FinancialStatements
+eBayInc.
+CONSOLIDATEDBALANCESHEET
+December31, December31,
+2015 2014
+(Inmillions,exceptparvalueamounts)
+ASSETS
+Currentassets:
+Cashandcashequivalents $ 1,832 $ 4,105
+Short-terminvestments 4,299 3,730
+Accountsreceivable,net 619 600
+Othercurrentassets 1,154 1,048
+Currentassetsofdiscontinuedoperations — 17,048
+Totalcurrentassets 7,904 26,531
+Long-terminvestments 3,391 5,736
+Propertyandequipment,net 1,554 1,486
+Goodwill 4,451 4,671
+Intangibleassets,net 90 133
+Otherassets 395 207
+Long-termassetsofdiscontinuedoperations — 6,368
+Totalassets $ 17,785 $ 45,132
+LIABILITIESANDSTOCKHOLDERS’EQUITY
+Currentliabilities:
+Short-termdebt $ — $ 850
+Accountspayable 349 107
+Accruedexpensesandothercurrentliabilities 1,736 3,830
+Deferredrevenue 106 108
+Incometaxespayable 72 125
+Currentliabilitiesofdiscontinuedoperations — 12,511
+Totalcurrentliabilities 2,263 17,531
+Deferredandothertaxliabilities,net 2,092 522
+Long-termdebt 6,779 6,777
+Otherliabilities 75 79
+Long-termliabilitiesofdiscontinuedoperations — 317
+Totalliabilities 11,209 25,226
+Commitmentsandcontingencies(Note13)
+Stockholders’equity:
+Commonstock,$0.001parvalue;3,580sharesauthorized;1,184and1,224
+sharesoutstanding 2 2
+Additionalpaid-incapital 14,538 13,887
+Treasurystockatcost,443and384shares (16,203) (14,054)
+Retainedearnings 7,713 18,900
+Accumulatedothercomprehensiveincome 526 1,171
+Totalstockholders’equity 6,576 19,906
+Totalliabilitiesandstockholders’equity $ 17,785 $ 45,132
+Theaccompanyingnotesareanintegralpartoftheseconsolidatedfinancialstatements.
+F-2
+Page#2
+eBayInc.
+CONSOLIDATEDSTATEMENTOFINCOME
+YearEndedDecember31,
+2015 2014 2013
+(Inmillions,exceptpershareamounts)
+Netrevenues $8,592 $ 8,790 $8,257
+Costofnetrevenues 1,771 1,663 1,492
+Grossprofit 6,821 7,127 6,765
+Operatingexpenses:
+Salesandmarketing 2,267 2,442 2,144
+Productdevelopment 923 983 915
+Generalandadministrative 1,122 889 880
+Provisionfortransactionlosses 271 262 236
+Amortizationofacquiredintangibleassets 41 75 136
+Totaloperatingexpenses 4,624 4,651 4,311
+Incomefromoperations 2,197 2,476 2,454
+Interestandother,net 209 39 117
+Incomefromcontinuingoperationsbeforeincometaxes 2,406 2,515 2,571
+Provisionforincometaxes (459) (3,380) (504)
+Income(loss)fromcontinuingoperations $1,947 $ (865) $2,067
+Income(loss)fromdiscontinuedoperations,netofincometaxes (222) 911 789
+Netincome $1,725 $ 46 $2,856
+Income(loss)pershare—basic:
+Continuingoperations $ 1.61 $ (0.69) $ 1.60
+Discontinuedoperations (0.18) 0.73 0.60
+Netincomepershare—basic $ 1.43 $ 0.04 $ 2.20
+Income(loss)pershare—diluted:
+Continuingoperations $ 1.60 $ (0.69) $ 1.58
+Discontinuedoperations (0.18) 0.73 0.60
+Netincomepershare—diluted $ 1.42 $ 0.04 $ 2.18
+Weightedaverageshares:
+Basic 1,208 1,251 1,295
+Diluted 1,220 1,251 1,313
+Theaccompanyingnotesareanintegralpartoftheseconsolidatedfinancialstatements.
+F-3
+Page#3
+eBayInc.
+CONSOLIDATEDSTATEMENTOFCASHFLOWS
+YearEndedDecember31,
+2015 2014 2013
+(Inmillions)
+Cashflowsfromoperatingactivities:
+Netincome $1,725 $ 46 $2,856
+(Income)lossfromdiscontinuedoperations,netofincometaxes 222 (911) (789)
+Adjustments:
+Provisionfortransactionlosses 271 262 236
+Depreciationandamortization 687 682 660
+Stock-basedcompensation 379 344 298
+Gainonsaleofinvestments (195) (12) (75)
+Deferredincometaxes (32) 2,744 (33)
+Excesstaxbenefitsfromstock-basedcompensation (74) (75) (112)
+Changesinassetsandliabilities,netofacquisitioneffects
+Accountsreceivable (105) 51 (89)
+Othercurrentassets (143) (36) (367)
+Othernon-currentassets 143 (3) (105)
+Accountspayable 226 81 (13)
+Accruedexpensesandotherliabilities (202) (81) 274
+Deferredrevenue 9 4 2
+Incometaxespayableandothertaxliabilities (34) 132 189
+Netcashprovidedbycontinuingoperatingactivities 2,877 3,228 2,932
+Netcashprovidedbydiscontinuedoperatingactivities 1,156 2,449 2,063
+Netcashprovidedbyoperatingactivities 4,033 5,677 4,995
+Cashflowsfrominvestingactivities:
+Purchasesofpropertyandequipment (668) (622) (678)
+Purchasesofinvestments (6,744) (8,752) (6,889)
+Maturitiesandsalesofinvestments 6,781 8,115 3,622
+Acquisitions,netofcashacquired (24) (55) (138)
+Repaymentofnotereceivableandsaleofrelatedequityinvestments — — 485
+Other (18) (11) (22)
+Netcashusedincontinuinginvestingactivities (673) (1,325) (3,620)
+Netcashusedindiscontinuedinvestingactivities (2,938) (1,348) (2,392)
+Netcashusedininvestingactivities (3,611) (2,673) (6,012)
+Cashflowsfromfinancingactivities:
+Proceedsfromissuanceofcommonstock 221 300 437
+Repurchasesofcommonstock (2,149) (4,658) (1,343)
+Excesstaxbenefitsfromstock-basedcompensation 74 75 112
+Taxwithholdingsrelatedtonetsharesettlementsofrestrictedstockawardsandunits (245) (252) (267)
+Proceedsfromissuanceoflong-termdebt,net — 3,482 —
+Repaymentofdebt (850) — (400)
+Other (11) 6 30
+Netcashusedincontinuingfinancingactivities (2,960) (1,047) (1,431)
+Netcashprovidedby(usedin)discontinuedfinancingactivities (1,594) 25 77
+Netcashusedinfinancingactivities (4,554) (1,022) (1,354)
+Effectofexchangeratechangesoncashandcashequivalents (364) (148) 48
+Netincrease(decrease)incashandcashequivalents (4,496) 1,834 (2,323)
+Cashandcashequivalentsatbeginningofperiod 6,328 4,494 6,817
+Cashandcashequivalentsatendofperiod $1,832 $6,328 $4,494
+Less:Cashandcashequivalentsofdiscontinuedoperations—Enterprise — 29 47
+Less:Cashandcashequivalentsofdiscontinuedoperations—PayPal — 2,194 1,599
+Cashandcashequivalentsofcontinuingoperationsatendofperiod $1,832 $4,105 $2,848
+Supplementalcashflowdisclosures:
+Cashpaidforinterest $ 175 $ 99 $ 99
+Cashpaidforincometaxes $ 256 $ 343 $ 466
+Theaccompanyingnotesareanintegralpartoftheseconsolidatedfinancialstatements.
+F-6

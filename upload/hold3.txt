@@ -1,0 +1,18 @@
+Row:	2019 2018 	2017
+Row:Net sales
+	100 120 	150
+Row:Cost of sales
+	50 60 	75
+Row:Gross Profit
+	50 60 	75
+Row:Selling, general and administrative
+	20 22 	24
+Row:Total operating expenses
+	30 38 	51
+Row:Interest expense 	5 5 	5
+Row:Income before income taxes
+	25 33 	46
+Row:Provision for income taxes
+	3 4 	5
+Row:Net income
+	22 29 	41

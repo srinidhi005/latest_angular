@@ -1,0 +1,137 @@
+Row:2016 		2015 	2014
+Row:Revenue $ 8,584,031 		$ 7,192,633 	$ 6,740,064
+Row:Cost of goods sold 5,232,328 		4,359,104 	4,088,151
+Row:Gross margin 3,351,703 		2,833,529 	2,651,913
+Row:Facility and warehouse expenses 	688,918 	556,041 	526,291
+Row:Distribution expenses 	683,812 	602,897 	577,341
+Row:Selling, general and administrative expenses 	986,380 	828,333 	762,888
+Row:Restructuring and acquisition related expenses 	37,762 	19,511 	14,806
+Row:Depreciation and amortization 	191,433 	122,120 	120,719
+Row:Operating income 	763,398 	704,627 	649,868
+Row:Other expense (income):
+			Row:Interest expense 	88,263 	57,860 	64,542
+Row:Loss on debt extinguishment 	26,650 	— 	324
+Row:Gain on foreign exchange contracts - acquisition related 	(18,342) 	— 	—
+Row:Gain on bargain purchase 	(8,207) 	— 	—
+Row:Interest and other income, net 	(2,247) 	(2,263) 	(2,886)
+Row:Total other expense, net 	86,117 	55,597 	61,980
+Row:Income from continuing operations before provision for income taxes 	677,281 	649,030 	587,888
+Row:Provision for income taxes 	220,566 	219,703 	204,264
+Row:Equity in earnings (loss) of unconsolidated subsidiaries 	(592) 	(6,104) 	(2,105)
+Row:Income from continuing operations 	456,123 	423,223 	381,519
+Row:Income from discontinued operations, net of tax 	7,852 	— 	—
+Row:Net income $ 	463,975 	$ 423,223 	$ 381,519
+Row:Basic earnings per share:
+			Row:Income from continuing operations $ 	1.49 	$ 1.39 	$ 1.26
+Row:Income from discontinued operations 	0.03 	— 	—
+Row:Net income (1) $ 	1.51 	$ 1.39 	$ 1.26
+Row:Diluted earnings per share:
+			Row:Income from continuing operations $ 	1.47 	$ 1.38 	$ 1.25
+Row:Income from discontinued operations 	0.03 	— 	—
+Row:Net income (1) $ (1) The sum of the individual earnings per share amounts may not equal the total due to rounding.
+	1.50 	$ 1.38 	$ 1.25
+Row:	2016 	2015 	2014
+Row:Net income 	$ 463,975 	$ 423,223 	$ 381,519
+Row:Other comprehensive (loss) income:
+			Row:Foreign currency translation 	(175,639) 	(69,817) 	(51,979)
+Row:Net change in unrecognized gains/losses on derivative instruments, net of 	tax 9,023 	2,469 	2,195
+Row:Net change in unrealized gains/losses on pension plans, net of tax 	4,911 	2,103 	(10,452)
+Row:Total other comprehensive loss 	(161,705) 	(65,245) 	(60,236)
+Row:Total comprehensive income 	$ 302,270 	$ 357,978 	$ 321,283
+Row:Current Assets:
+	Row:Cash and equivalents 	$ 227,400 $ 87,397
+Row:Receivables, net 	860,549 590,160
+Row:Inventories 	1,935,237 1,556,552
+Row:Prepaid expenses and other current assets 	87,768 106,603
+Row:Assets of discontinued operations 	456,640 —
+Row:Total Current Assets 	3,567,594 2,340,712
+Row:Property and Equipment, net 	811,576 696,567
+Row:Intangible Assets:
+	Row:Goodwill 	3,054,769 2,319,246
+Row:Other intangibles, net 	584,231 215,117
+Row:Equity Method Investments 	183,467 2,755
+Row:Other Assets 	101,562 73,440
+Row:Total Assets 	$ 8,303,199 $ 5,647,837
+Row:Liabilities and Stockholders’ Equity
+Current Liabilities:
+	Row:Current Liabilities:
+Accounts payable $ 	633,773 $ 415,588
+Row:Accrued expenses:
+	Row:Accrued payroll-related liabilities 	118,755 86,527
+Row:Self-insurance reserves 	39,548 37,759
+Row:Other accrued expenses 	169,553 124,466
+Row:Other current liabilities 	37,943 31,596
+Row:Current portion of long-term obligations 	66,109 56,034
+Row:Liabilities of discontinued operations 	145,104 —
+Row:Total Current Liabilities 	1,210,785 751,970
+Row:Long-Term Obligations, Excluding Current Portion 	3,275,662 1,528,668
+Row:Deferred Income Taxes 	199,657 127,239
+Row:Other Noncurrent Liabilities 	174,146 125,278
+Row:Common stock, $0.01 par value, 1,000,000,000 shares authorized, 307,544,759 and
+305,574,384 shares issued and outstanding at December 31, 2016 and 2015,
+respectively 	3,075 	3,055
+Row:Additional paid-in capital 	1,116,690 	1,090,713
+Row:Retained earnings 	2,590,359 	2,126,384
+Row:Accumulated other comprehensive loss 	(267,175) 	(105,470)
+Row:Total Stockholders' Equity 	3,442,949 	3,114,682
+Row:Total Liabilities and Stockholders’ Equity 	$ 8,303,199 	$ 5,647,837
+Row:LKQ CORPORATION AND SUBSIDIARIES
+Consolidated Statements of Cash Flows
+(In thousands)
+	Year 	Ended December 	31,
+Row:2016 CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income $ 463,975 Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization 206,086 		2015 $ 423,223 128,192 	2014
+$ 381,519
+125,437
+Row:Stock-based compensation expense 22,472 Loss on debt extinguishment 26,650 		21,336 — 	22,021
+324
+Row:Impairment on net assets of discontinued operations 26,677 Gain on foreign exchange contracts - acquisition related (18,342) 		— — 	—
+—
+Row:Gain on bargain purchase (8,207) 		— 	—
+Row:Deferred income taxes (16,162) 		22,388 	6,242
+Row:Other 19,550 Changes in operating assets and liabilities, net of effects from acquisitions:
+Receivables, net (50,801) 		7,348 14,704 	6,269
+(61,739)
+Row:Inventories (64,114) Prepaid income taxes/income taxes payable 14,944 Accounts payable 18,577 Other operating assets and liabilities (6,291) 		(83,188) 17,474 (4,222) (2,973) 	(122,590)
+18,428
+(5,474)
+18,274
+Row:Net cash provided by operating activities 635,014 		544,282 	388,711
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchases of property and equipment (207,074) Acquisitions, net of cash acquired (1,349,339) 		(170,490) (160,517) 	(140,950)
+(775,921)
+Row:Investments in unconsolidated subsidiaries (185,671) 		(9,682) 	(2,240)
+Row:Proceeds from foreign exchange contracts 18,342 		— 	—
+Row:Other investing activities, net 13,814 		10,696 	(1,883)
+Row:Net cash used in investing activities (1,709,928) 		(329,993) 	(920,994)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from exercise of stock options 7,963 		8,168 	9,324
+Row:Taxes paid related to net share settlements of stock-based compensation awards (4,438) Debt issuance costs (16,554) 		(7,581) (97) 	(443)
+(3,750)
+Row:Proceeds from issuance of Euro notes 563,450 Borrowings under revolving credit facilities 2,636,596 		— 313,142 	—
+1,587,644
+Row:Repayments under revolving credit facilities (1,748,664) Borrowings under term loans 582,115 		(445,282) — 	(1,098,518)
+11,250
+Row:Repayments under term loans (255,792) 		(22,500) 	(16,875)
+Row:Borrowings under receivables securitization facility 106,400 Repayments under receivables securitization facility (69,400) Repayments of other debt, net (31,156) 		3,858 (35,758) (29,696) 	95,050
+(150)
+(40,051)
+Row:Payments of Rhiag debt and related payments (543,347) 		— 	—
+Row:Payments of other obligations (1,436) Other financing activities, net 	— 	(22,791) — 	(41,992)
+(300)
+Row:Net cash provided by (used in) financing activities 1,225,737 		(238,537) 	501,189
+Row:Effect of exchange rate changes on cash and equivalents (3,704) 		(2,960) 	(4,789)
+Row:Net increase (decrease) in cash and equivalents 147,119 Cash and equivalents, beginning of period 87,397 		(27,208) 114,605 	(35,883)
+150,488
+Row:Cash and equivalents of continuing and discontinued operations, end of period 234,516 		87,397 	114,605
+Row:Less: Cash and equivalents of discontinued operations, end of period (7,116) Cash and equivalents, end of period $ 227,400 		— $ 87,397 	—
+$ 114,605
+Row:Supplemental disclosure of cash paid for:
+			Row:Income taxes, net of refunds $ 230,036 Interest 86,021 		$ 180,126 54,917 	$ 176,955
+59,678
+Row:Supplemental disclosure of noncash investing and financing activities:
+			Row:Notes payable and other financing obligations, including notes issued and debt
+assumed in connection with business acquisitions 568,032 		$ 28,348 	$ 96,258
+Row:Non-cash property and equipment additions 10,715 Contingent consideration liabilities 	— 	8,846 — 	2,293
+5,854

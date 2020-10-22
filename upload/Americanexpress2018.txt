@@ -1,0 +1,118 @@
+Row:Year Ended December 31 (Millions, except per share amounts) 	2019 	2018 	2017
+Row:Revenues
+Non-interest revenues
+Discount revenue 	$ 26,167 	$ 24,721 	$ 22,890
+Row:Net card fees Other fees and commissions Other Total non-interest revenues 	4,042 3,297 1,430 34,936 	3,441 3,153 1,360 32,675 	3,090
+2,990
+1,457
+30,427
+Row:Interest income
+Interest on loans Interest and dividends on investment securities Deposits with banks and other 	11,308 188 588 	9,941 118 547 	8,148
+89
+326
+Row:Total interest income 	12,084 	10,606 	8,563
+Row:Interest expense
+Deposits Long-term debt and other 	1,559 1,905 	1,287 1,656 	779
+1,333
+Row:Total interest expense 	3,464 	2,943 	2,112
+Row:Net interest income 	8,620 	7,663 	6,451
+Row:Total revenues net of interest expense 	43,556 	40,338 	36,878
+Row:Provisions for losses
+Charge card 	963 	937 	795
+Row:Card Member loans Other Total provisions for losses 	2,462 148 3,573 	2,266 149 3,352 	1,868
+97
+2,760
+Row:Total revenues net of interest expense after provisions for losses 	39,983 	36,986 	34,118
+Row:Expenses
+Marketing and business development 	7,114 	6,470 	5,722
+Row:Card Member rewards 	10,439 	9,696 	8,687
+Row:Card Member services 	2,222 	1,777 	1,392
+Row:Salaries and employee benefits Other, net Total expenses 	5,911 5,868 31,554 	5,250 5,671 28,864 	5,258
+5,634
+26,693
+Row:Pretax income Income tax provision 	8,429 1,670 	8,122 1,201 	7,425
+4,677
+Row:Net income 	$ 6,759 	$ 6,921 	$ 2,748
+Row:Earnings per Common Share — (Note 21)(a)
+Basic Diluted 	$ 8.00 $ 7.99 	$ 7.93 $ 7.91 	$ 3.00
+$ 2.99
+Row:Average common shares outstanding for earnings per common share:
+Basic Diluted 	828 830 	856 859 	883
+886
+Row:(a) Represents net income less (i) earnings allocated to participating share awards 	of $47 million, 	$54 million and $21 	million for the
+Row:December 31 (Millions, except share data) 	2019 	2018
+Row:Assets
+Cash and cash equivalents
+		Row:Cash and due from banks $ 	3,402 	$ 3,253
+Row:Interest-bearing deposits in other banks (includes securities purchased under resale
+		Row:agreements: 2019, $87; 2018, $64) Short-term investment securities 	20,392 138 	24,026
+166
+Row:Total cash and cash equivalents Card Member receivables (includes gross receivables available to settle obligations of a
+	23,932 	27,445
+Row:consolidated variable interest entity: 2019, $8,284; 2018, $8,539), less reserves: 2019, $619;
+2018, $573 	56,794 	55,320
+Row:Card Member loans (includes gross loans available to settle obligations of a consolidated variable
+interest entity: 2019, $32,230; 2018, $33,194), less reserves: 2019, $2,383; 2018, $2,134 	84,998 	79,720
+Row:Other loans, less reserves: 2019, $152; 2018, $124 	4,626 	3,676
+Row:Investment securities 	8,406 	4,647
+Row:Premises and equipment, less accumulated depreciation and amortization: 2019, $6,562; 2018,
+$6,015 	4,834 	4,416
+Row:Other assets (includes restricted cash of consolidated variable interest entities: 2019, $85; 2018,
+$70) 	14,731 	13,378
+Row:Total assets $ 	198,321 	$ 188,602
+Row:Liabilities and Shareholders’ Equity
+Liabilities
+		Row:Customer deposits $ 	73,287 	$ 69,960
+Row:Accounts payable Short-term borrowings 	12,738 6,442 	12,255
+3,100
+Row:Long-term debt (includes debt issued by consolidated variable interest entities: 2019, $19,668;
+		Row:2018, $19,509) Other liabilities 	57,835 24,948 	58,423
+22,574
+Row:Total liabilities $ 	175,250 	$ 166,312
+Row:Contingencies and Commitments (Note 12)
+Shareholders’ Equity
+Preferred shares, $1.662/3 par value, authorized 20 million shares; issued and outstanding 1,600
+shares as of December 31, 2019 and 2018 (Note 16) 	— 	—
+Row:Common shares, $0.20 par value, authorized 3.6 billion shares; issued and outstanding 810
+million shares as of December 31, 2019 and 847 million shares as of December 31, 2018 	163 	170
+Row:Years Ended December 31 (Millions) 	2019 	2018 	2017
+Row:Cash Flows from Operating Activities
+			Row:Net income $ 	6,759 	$ 6,921 	$ 2,748
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+Provisions for losses 	3,573 	3,352 	2,760
+Row:Depreciation and amortization 	1,188 	1,293 	1,321
+Row:Deferred taxes and other Stock-based compensation Changes in operating assets and liabilities, net of effects of acquisitions and
+dispositions:
+	426 283 	455 283 	782
+282
+Row:Other assets Accounts payable & other liabilities Net cash provided by operating activities 	(368) 1,771 13,632 	991 (4,365) 8,930 	398
+5,249
+13,540
+Row:Cash Flows from Investing Activities
+Sale of available-for-sale investment securities 	22 	4 	2
+Row:Maturities and redemptions of investment securities 	7,329 	3,499 	2,494
+Row:Purchase of investments 	(11,166) 	(5,434) 	(2,612)
+Row:Net increase in Card Member loans and receivables, and other loans 	(11,047) 	(15,854) 	(16,853)
+Row:Purchase of premises and equipment, net of sales: 2019, $43; 2018, $1; 2017, $1 	(1,645) 	(1,310) 	(1,062)
+Row:Acquisitions/dispositions, net of cash acquired Other investing activities 	(352) 152 	(520) — 	(211)
+—
+Row:Net cash used in investing activities 	(16,707) 	(19,615) 	(18,242)
+Row:Cash Flows from Financing Activities
+Net increase in customer deposits 	3,330 	5,542 	11,385
+Row:Net increase (decrease) in short-term borrowings 	3,316 	(148) 	(2,300)
+Row:Proceeds from long-term debt Payments of long-term debt Issuance of American Express common shares Repurchase of American Express common shares and other Dividends paid Net cash (used in) provided by financing activities 	12,706 (13,850) 86 (4,685) (1,422) (519) 	21,524 (18,895) 87 (1,685) (1,324) 5,101 	32,764
+(24,082)
+129
+(4,400)
+(1,251)
+12,245
+Row:Effect of foreign currency exchange rates on cash, cash equivalents and restricted
+cash 	232 	129 	226
+Row:Net (decrease) increase in cash, cash equivalents and restricted cash Cash, cash equivalents and restricted cash at beginning of year Cash, cash equivalents and restricted cash at end of year $ 	(3,362) 27,808 24,446 	(5,455) 33,263 $ 27,808 	7,769
+25,494
+$ 33,263
+Row:Supplemental cash flow information
+			Row:Cash, cash equivalents and restricted cash reconciliation 	Dec-19 	Dec-18 	Dec-17
+Row:Cash and cash equivalents per Consolidated Balance Sheets $ 	23,932 	$ 27,445 	$ 32,927
+Row:Restricted cash included in Other assets per Consolidated Balance Sheets 	514 	363 	336
+Row:Total cash, cash equivalents and restricted cash $ 	24,446 	$ 27,808 	$ 33,263

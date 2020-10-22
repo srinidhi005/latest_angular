@@ -1,0 +1,129 @@
+Row:Revenues 	$ 12,416.0 	$ 10,262.7 	$ 8,843.2
+Row:Operating expenses:
+Cost of revenues (exclusive of depreciation and amortization expense
+shown separately below) 	7,440.2 	6,141.1 	5,265.5
+Row:Selling, general and administrative expenses 	2,508.6 	2,037.0 	1,727.6
+Row:Depreciation and amortization expense 	325.2 	199.7 	172.2
+Row:Income from operations 	2,142.0 	1,884.9 	1,677.9
+Row:Other income (expense), net:
+			Row:Interest income 	83.7 	62.4 	48.9
+Row:Interest expense 	(17.7) 	(2.5) 	—
+Row:Foreign currency exchange gains (losses), net 	(42.6) 	(20.4) 	(41.1)
+Row:Other, net 	(1.8) 	(0.4) 	2.2
+Row:Total other income (expense), net 	21.6 	39.1 	10.0
+Row:Income before provision for income taxes 	2,163.6 	1,924.0 	1,687.9
+Row:Provision for income taxes 	540.0 	484.7 	459.3
+Row:Net income 	$ 1,623.6 	$ 1,439.3 	$ 1,228.6
+Row:Basic earnings per share 	$ 2.67 	$ 2.37 	$ 2.03
+Row:Diluted earnings per share 	$ 2.65 	$ 2.35 	$ 2.02
+Row:Weighted average number of common shares outstanding—Basic 	609.1 	608.1 	604.0
+Row:Dilutive effect of shares issuable under stock-based compensation plans 	4.2 	4.4 	5.7
+Row:Weighted average number of common shares outstanding—Diluted 	613.3 	612.5 	609.7
+Row:	2015 	Year Ended December 2014 	31,
+2013
+Row:Cash flows from operating activities:
+			Row:Net income 	$ 1,623.6 	$ 1,439.3 	$ 1,228.6
+Row:Adjustments to reconcile net income to net cash provided by operating
+activities:
+			Row:Depreciation and amortization 	330.0 	208.1 	179.9
+Row:Provision for doubtful accounts 	10.2 	4.7 	3.6
+Row:Deferred income taxes 	(126.1) 	(99.6) 	(88.2)
+Row:Stock-based compensation expense 	192.0 	134.8 	118.8
+Row:Excess tax benefits on stock-based compensation plans 	(33.7) 	(23.6) 	(30.6)
+Row:Other 	48.6 	30.3 	52.6
+Row:Changes in assets and liabilities:
+			Row:Trade accounts receivable 	(322.4) 	(259.3) 	(258.5)
+Row:Other current assets 	(32.5) 	(118.6) 	(74.7)
+Row:Other noncurrent assets 	(38.6) 	19.1 	(24.3)
+Row:Accounts payable 	19.4 	25.7 	(12.1)
+Row:Deferred revenues, current and noncurrent 	49.7 	70.6 	15.2
+Row:Other current and noncurrent liabilities 	433.1 	41.5 	313.5
+Row:Net cash provided by operating activities 	2,153.3 	1,473.0 	1,423.8
+Row:Cash flows from investing activities:
+			Row:Purchases of property and equipment 	(272.8) 	(212.2) 	(261.6)
+Row:Purchases of investments 	(3,003.7) 	(2,497.3) 	(1,848.8)
+Row:Proceeds from maturity or sale of investments 	1,907.6 	2,240.2 	1,573.4
+Row:Business combinations, net of cash acquired 	(1.7) 	(2,691.4) 	(193.8)
+Row:Net cash (used in) investing activities 	(1,370.6) 	(3,160.7) 	(730.8)
+Row:Cash flows from financing activities:
+Issuance of common stock under stock-based compensation plans 	131.6 	101.4 	117.5
+Row:Excess tax benefits on stock-based compensation plans 	33.7 	23.6 	30.6
+Row:Repurchases of common stock 	(460.0) 	(248.3) 	(179.0)
+Row:Proceeds from term loan borrowings 	— 	1,000.0 	—
+Row:Debt issuance costs 	— 	(9.1) 	—
+Row:Repayment of term loan borrowings and capital lease obligations 	(53.4) 	(14.2) 	—
+Row:Net change in notes outstanding under the revolving credit facility 	(300.0) 	650.0 	—
+Row:Net cash (used in) provided by financing activities 	(648.1) 	1,503.4 	(30.9)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(19.5) 	(18.6) 	(19.2)
+Row:Increase (decrease) in cash and cash equivalents 	115.1 	(202.9) 	642.9
+Row:Cash and cash equivalents, beginning of year 	2,010.1 	2,213.0 	1,570.1
+Row:Cash and cash equivalents, end of period 	$ 2,125.2 	$ 2,010.1 	$ 2,213.0
+Row:Supplemental information:
+			Row:Cash paid for income taxes during the year 	$ 578.6 	$ 558.6 	$ 481.0
+Row:Cash interest paid during the year 	$ 14.4 	$ 0.1 	$ —
+Row:The accompanying notes are an integral part of the 	consolidated 	financial statements.
+	Row:Revenues 	$ 12,416.0 	$ 10,262.7 	$ 8,843.2
+Row:Operating expenses:
+			Row:Cost of revenues (exclusive of depreciation and amortization expense
+shown separately below) 	7,440.2 	6,141.1 	5,265.5
+Row:Selling, general and administrative expenses 	2,508.6 	2,037.0 	1,727.6
+Row:Depreciation and amortization expense 	325.2 	199.7 	172.2
+Row:Income from operations 	2,142.0 	1,884.9 	1,677.9
+Row:Other income (expense), net:
+			Row:Interest income 	83.7 	62.4 	48.9
+Row:Interest expense 	(17.7) 	(2.5) 	—
+Row:Foreign currency exchange gains (losses), net 	(42.6) 	(20.4) 	(41.1)
+Row:Other, net 	(1.8) 	(0.4) 	2.2
+Row:Total other income (expense), net 	21.6 	39.1 	10.0
+Row:Income before provision for income taxes 	2,163.6 	1,924.0 	1,687.9
+Row:Provision for income taxes 	540.0 	484.7 	459.3
+Row:Net income 	$ 1,623.6 	$ 1,439.3 	$ 1,228.6
+Row:Basic earnings per share 	$ 2.67 	$ 2.37 	$ 2.03
+Row:Diluted earnings per share 	$ 2.65 	$ 2.35 	$ 2.02
+Row:Weighted average number of common shares outstanding—Basic 	609.1 	608.1 	604.0
+Row:Dilutive effect of shares issuable under stock-based compensation plans 	4.2 	4.4 	5.7
+Row:Weighted average number of common shares outstanding—Diluted 	613.3 	612.5 	609.7
+Row:Cash 	flows from operating activities:
+	2015 	2014 	2013
+Row:Net 	income $ Adjustments to reconcile net income to net cash provided by operating
+activities:
+Depreciation and amortization 	1,623.6 330.0 	$ 1,439.3 208.1 	$ 1,228.6
+179.9
+Row:	Provision for doubtful accounts 	10.2 	4.7 	3.6
+Row:	Deferred income taxes Stock-based compensation expense Excess tax benefits on stock-based compensation plans 	(126.1) 192.0 (33.7) 	(99.6) 134.8 (23.6) 	(88.2)
+118.8
+(30.6)
+Row:	Other 	48.6 	30.3 	52.6
+Row:	Changes in assets and liabilities:
+			Row:	Trade accounts receivable 	(322.4) 	(259.3) 	(258.5)
+Row:	Other current assets 	(32.5) 	(118.6) 	(74.7)
+Row:	Other noncurrent assets 	(38.6) 	19.1 	(24.3)
+Row:	Accounts payable 	19.4 	25.7 	(12.1)
+Row:	Deferred revenues, current and noncurrent 	49.7 	70.6 	15.2
+Row:	Other current and noncurrent liabilities 	433.1 	41.5 	313.5
+Row:Net 	cash provided by operating activities 	2,153.3 	1,473.0 	1,423.8
+Row:Cash 	flows from investing activities:
+Purchases of property and equipment Purchases of investments 	(272.8) (3,003.7) 	(212.2) (2,497.3) 	(261.6)
+(1,848.8)
+Row:	Proceeds from maturity or sale of investments 	1,907.6 	2,240.2 	1,573.4
+Row:	Business combinations, net of cash acquired 	(1.7) 	(2,691.4) 	(193.8)
+Row:Net 	cash (used in) investing activities 	(1,370.6) 	(3,160.7) 	(730.8)
+Row:Cash 	flows from financing activities:
+			Row:	Issuance of common stock under stock-based compensation plans 	131.6 	101.4 	117.5
+Row:	Excess tax benefits on stock-based compensation plans 	33.7 	23.6 	30.6
+Row:	Repurchases of common stock 	(460.0) 	(248.3) 	(179.0)
+Row:	Proceeds from term loan borrowings 	— 	1,000.0 	—
+Row:	Debt issuance costs 	— 	(9.1) 	—
+Row:	Repayment of term loan borrowings and capital lease obligations 	(53.4) 	(14.2) 	—
+Row:	Net change in notes outstanding under the revolving credit facility 	(300.0) 	650.0 	—
+Row:Net 	cash (used in) provided by financing activities 	(648.1) 	1,503.4 	(30.9)
+Row:Effect Increase 	of exchange rate changes on cash and cash equivalents (decrease) in cash and cash equivalents 	(19.5) 115.1 	(18.6) (202.9) 	(19.2)
+642.9
+Row:Cash 	and cash equivalents, beginning of year 	2,010.1 	2,213.0 	1,570.1
+Row:Cash 	and cash equivalents, end of period $ 	2,125.2 	$ 2,010.1 	$ 2,213.0
+Row:Cash 	Supplemental information:
+paid for income taxes during the year $ 	578.6 	$ 558.6 	$ 481.0
+Row:Cash 	interest paid during the year $ 	14.4 	$ 0.1 	$ —
+Row:	The accompanying notes are an integral part of the consolidated F-7
+	financial 	statements.
+	

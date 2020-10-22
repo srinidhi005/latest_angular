@@ -1,0 +1,120 @@
+Row:2019 		2018 	2017
+Row:$ 22,204 	$ 	22,533 	$ 21,795
+Row:1,158 		1,214 	1,054
+Row:23,362 		23,747 	22,849
+Row:Revenues:
+			Row:Product sales 	$ 22,204 $ 	22,533 	$ 21,795
+Row:Other revenues 	1,158 	1,214 	1,054
+Row:Total revenues 	23,362 	23,747 	22,849
+Row:Operating expenses:
+			Row:Cost of sales 	4,356 	4,101 	4,069
+Row:Research and development 	4,116 	3,737 	3,562
+Row:Selling, general and administrative 	5,150 	5,332 	4,870
+Row:Other 	66 	314 	375
+Row:Total operating expenses 	13,688 	13,484 	12,876
+Row:Operating income 	9,674 	10,263 	9,973
+Row:Interest expense, net 	1,289 	1,392 	1,304
+Row:Interest and other income, net 	753 	674 	928
+Row:Income before income taxes 	9,138 	9,545 	9,597
+Row:Provision for income taxes 	1,296 	1,151 	7,618
+Row:Net income 	$ 7,842 $ 	8,394 	$ 1,979
+Row:Earnings per share:
+			Row:Basic 	$ 12.96 $ 	12.70 	$ 2.71
+Row:Diluted 	$ 12.88 $ 	12.62 	$ 2.69
+Row:Shares used in the calculation of earnings per share:
+			Row:Basic 	605 	661 	731
+Row:Diluted 	609 	665 	735
+Row:See accompanying 	notes.
+		Row:	2019 	2018 	2017
+Row:Net income 	$ 7,842 	$ 8,394 	$ 1,979
+Row:Other comprehensive income (loss), net of reclassification adjustments and taxes:
+			Row:(Losses) gains on foreign currency translation 	(48) 	(141) 	81
+Row:(Losses) gains on cash flow hedges 	(66) 	247 	(288)
+Row:Gains (losses) on available-for-sale securities 	360 	(185) 	(6)
+Row:Other (losses) gains 	(5) 	(2) 	5
+Row:Other comprehensive income (loss), net of taxes 	241 	(81) 	(208)
+Row:Comprehensive income 	$ 8,083 	$ 8,313 	$ 1,771
+Row:	AMGEN CONSOLIDATED 	INC.
+BALANCE SHEETS
+Row:	December 31, 	2019 and 2018
+Row:(In 	millions, except 	per-share data)
+Row:ASSETS
+			Row:Current assets:
+			Row:Cash and cash equivalents 	$ 	6,037 $ 	6,945
+Row:Marketable securities 		2,874 	22,359
+Row:Trade receivables, net 		4,057 	3,580
+Row:Inventories 		3,584 	2,940
+Row:Other current assets 		1,888 	1,794
+Row:Total current assets 		18,440 	37,618
+Row:Property, plant and equipment, net 		4,928 	4,958
+Row:Intangible assets, net 		19,413 	7,443
+Row:Goodwill 		14,703 	14,699
+Row:Other assets 		2,223 	1,698
+Row:Total assets 	$ 	59,707 $ 	66,416
+Row:Current liabilities:
+		Row:Accounts payable 	$ 1,371 	$ 1,207
+Row:Accrued liabilities 	8,511 	7,862
+Row:Current portion of long-term debt 	2,953 	4,419
+Row:Total current liabilities 	12,835 	13,488
+Row:Long-term debt 	26,950 	29,510
+Row:Long-term deferred tax liabilities 	606 	864
+Row:Long-term tax liabilities 	8,037 	8,770
+Row:Other noncurrent liabilities 	1,606 	1,284
+Row:Contingencies and commitments
+		Row:Stockholders’ equity:
+		Row:Common stock and additional paid-in capital; $0.0001 par value per share; 2,750.0 shares authorized;
+		Row:outstanding—591.4 shares in 2019 and 629.6 shares in 2018 	31,531 	31,246
+Row:Accumulated deficit 	(21,330) 	(17,977)
+Row:Accumulated other comprehensive loss 	(528) 	(769)
+Row:Total stockholders’ equity 	9,673 	12,500
+Row:Total liabilities and stockholders’ equity 	$ 59,707 	$ 66,416
+Row:Common stock and additional paid-in capital; $0.0001 par value per share; 2,750.0 shares authorized;
+outstanding—591.4 shares in 2019 and 629.6 shares in 2018 	31,531 	31,246
+Row:Accumulated deficit 	(21,330) 	(17,977)
+Row:Accumulated other comprehensive loss 	(528) 	(769)
+Row:Total stockholders’ equity 	9,673 	12,500
+Row:Total liabilities and stockholders’ equity 	$ 59,707 $ 	66,416
+Row:31,531 	31,246
+Row:(21,330) 	(17,977)
+Row:(528) 	(769)
+Row:9,673 	12,500
+Row:$ 59,707 $ 	66,416
+Row:AMGEN INC.
+CONSOLIDATED STATEMENTS 	OF CASH FLOWS
+Row:Years ended December 31, 2019, 	2018 and 2017
+Row:(In millions)
+	Row:	2019 	2018 	2017
+Row:Cash flows from operating activities:
+			Row:Net income 	$ 7,842 	$ 8,394 	$ 1,979
+Row:Depreciation, amortization and other 	2,206 	1,946 	1,955
+Row:Stock-based compensation expense 	308 	311 	329
+Row:Deferred income taxes 	(289) 	(363) 	(1,330)
+Row:Other items, net 	(186) 	386 	334
+Row:Changes in operating assets and liabilities, net of acquisitions:
+			Row:Trade receivables, net 	(504) 	(378) 	(58)
+Row:Inventories 	(66) 	(3) 	133
+Row:Other assets 	10 	35 	(24)
+Row:Accounts payable 	164 	(143) 	424
+Row:Accrued income taxes, net 	(585) 	(361) 	523
+Row:Long-term tax liabilities 	(146) 	258 	6,681
+Row:Other liabilities 	396 	1,214 	231
+Row:Net cash provided by operating activities 	9,150 	11,296 	11,177
+Row:Cash flows from investing activities:
+			Row:Purchases of marketable securities 	(9,394) 	(18,741) 	(33,607)
+Row:Proceeds from sales of marketable securities 	8,842 	28,356 	24,240
+Row:Proceeds from maturities of marketable securities 	20,548 	5,412 	6,174
+Row:Purchases of property, plant and equipment 	(618) 	(738) 	(664)
+Row:Cash paid for acquisitions, net of cash acquired 	(13,617) 	195 	(19)
+Row:Other 	(52) 	(145) 	(148)
+Row:Net cash provided by (used in) investing activities 	5,709 	14,339 	(4,024)
+Row:Cash flows from financing activities:
+			Row:Net proceeds from issuance of debt 	— 	— 	4,476
+Row:Repayment of debt 	(4,514) 	(1,121) 	(4,405)
+Row:Repurchases of common stock 	(7,702) 	(17,794) 	(3,160)
+Row:Dividends paid 	(3,509) 	(3,507) 	(3,365)
+Row:Withholding taxes arising from shares withheld for share-based payments 	(137) 	(126) 	(191)
+Row:Other 	95 	58 	51
+Row:Net cash used in financing activities 	(15,767) 	(22,490) 	(6,594)
+Row:(Decrease) increase in cash and cash equivalents 	(908) 	3,145 	559
+Row:Cash and cash equivalents at beginning of year 	6,945 	3,800 	3,241
+Row:Cash and cash equivalents at end of year 	$ 6,037 	$ 6,945 	$ 3,800

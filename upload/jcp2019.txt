@@ -1,0 +1,314 @@
+Row:(In millions, except per share data) 	2019 	2018 	2017
+Row:Total net sales 	$ 10,716 	$ 11,664 	$ 12,554
+Row:Credit income and other 	451 	355 	319
+Row:Total revenues 	11,167 	12,019 	12,873
+Row:Costs and expenses/(income):
+			Row:Cost of goods sold (exclusive of depreciation and amortization shown separately below) 	7,013 	7,870 	8,208
+Row:Selling, general and administrative (SG&A) 	3,585 	3,596 	3,845
+Row:Depreciation and amortization 	544 	556 	570
+Row:Real estate and other, net 	(15) 	(19) 	(146 )
+Row:Restructuring and management transition 	48 	22 	184
+Row:Total costs and expenses 	11,175 	12,025 	12,661
+Row:Operating income/(loss) 	(8 ) 	(6) 	212
+Row:Other components of net periodic pension and postretirement benefit cost/(income) 	(35) 	(71) 	98
+Row:(Gain)/loss on extinguishment of debt 	(1 ) 	23 	33
+Row:Net interest expense 	293 	313 	325
+Row:Income/(loss) before income taxes 	(265 ) 	(271) 	(244 )
+Row:Income tax expense/(benefit) 	3 	(16) 	(126 )
+Row:Net income/(loss) 	$ (268) 	$ (255) 	$ (118)
+Row:Earnings/(loss) per share:
+			Row:Basic 	$ (0.84) 	$ (0.81) 	$ (0.38)
+Row:Diluted 	(0.84 ) 	(0.81) 	(0.38 )
+Row:Weighted average shares – basic 	320.2 	315.7 	311.1
+Row:Weighted average shares – diluted 	320.2 	315.7 	311.1
+Row:See the accompanying notes to the Consolidated Financial Statements.
+			Row:($ in millions)
+	2019
+	2018
+	2017
+Row:Net income/(loss)
+	(268)
+	$
+(255)
+	$
+(118)
+Row:Other comprehensive income/loss), net of tax:
+			Row:Retirement benefit plans
+			Row:Net actuarial gain/(loss) arising during the period (1)
+	(84)
+	38
+	67
+Row:Reclassification of net actuarial (gain)/loss from a settlement (2)
+	8
+	4
+	8
+Row:Reclassification for net actuarial (gain)/loss (3)
+	10
+	(2)
+	16
+Row:Reclassification for amortization of prior service (credit)/cost (4)
+	7
+	4
+	4
+Row:Reclassification of prior service (credit)/cost from a curtailment (5)
+			3
+Row:Cash flow hedges
+			Row:Gain/(loss) on interest rate swaps (6)
+	(48)
+	(9)
+	6
+Row:Reclassification for periodic settlements (7)
+	(5)
+	(2)
+	7
+Row:Foreign currency translation
+			Row:Unrealized gain/(loss)
+		(1)
+	2.
+Row:Total other comprehensive income/(loss), net of tax
+	(112)
+	32
+	113
+Row:Total comprehensive income/(loss), net of tax
+	(380)
+$
+	(223)
+$
+	$
+(5
+Row:(1) 	Net of $22 million of tax in 2019 offset by a deferred tax valuation allowance of $(22) million, $(10) million of tax in 2018 and $(36) million of tax in 2017. For 2017, the amount
+Row:(2) 	includes a $27 million pre-tax gain related to curtailment.
+Net of $(2) million of tax in 2019 offset by a deferred tax valuation allowance of $2 million, $(3) million of tax in 2018 and $(5) million of tax in 2017. Pre-tax amounts of $8 million, $7
+Row:(3) 	million and $13 million were recognized in Other components of net periodic pension and postretirement benefit cost/(income) in the Consolidated Statement of Operations in 2019,
+2018 and 2017, respectively.
+Net of $(2) million of tax in 2019 offset by a deferred tax valuation allowance of $2 million, $1 million of tax in 2018 and $(9) million of tax in 2017. Pre-tax amounts of $10 million in
+2019, $(3) million in 2018 and $25 million in 2017 were recognized in Other components of net periodic pension and postretirement benefit cost/(income) in the Consolidated
+Statement of Operations.
+Row:(4) 	Net of $(3) million of tax in 2019 offset by a deferred tax valuation allowance of $3 million, $(3) million of tax in 2018 and $(3) million of tax in 2017. Pre-tax amounts of $7 million in
+2019, 2018 and 2017 were recognized in Other components of net periodic pension and postretirement benefit cost/income) in the Consolidated Statement of Operations.
+Row:(5) 	Net of $(1) million of tax in 2017. Pre-tax prior service cost of $5 million related to the curtailment is included in Other components of net periodic pension and postretirement benefit
+cost/(income) in the Consolidated Statements of Operations in 2017.
+Row:(6) 	Net of $12 million of tax in 2019 offset by a deferred tax valuation allowance of $(12) million, $4 million of tax in 2018 and $(3) million of tax in
+2017.
+Row:(7) 	Net of $1 million of tax in 2019 offset by a deferred tax valuation allowance of $(1) million, $0 million of tax in 2018 and $(3) million of tax in 2017. Pre-tax amounts of $(5) million in
+2019, $(2) million in 2018 and $10 million in 2017 were recognized in Net interest expense in the Consolidated Statement of Operations.
+Row:See 	the accompanying notes to the Consolidated Financial Statements
+56
+Row:($ in millions, except per share data) 	2019 	2018
+Row:Assets
+		Row:Current assets:
+		Row:Cash in banks and in transit 	$ 108 $ 	109
+Row:Cash short-term investments 	278 	224
+Row:Cash and cash equivalents 	386 	333
+Row:Merchandise inventory 	2,166 	2,437
+Row:Prepaid expenses and other 	174 	189
+Row:Total current assets 	2,726 	2,959
+Row:Property and equipment, net 	3,488 	3,938
+Row:Operating lease assets 	998 	—
+Row:Prepaid pension 	120 	147
+Row:Other assets 	657 	677
+Row:Total Assets 	$ 7,989 $ 	7,721
+Row:Liabilities and Stockholders’ Equity
+		Row:Current liabilities:
+		Row:Merchandise accounts payable 	$ 786 $ 	847
+Row:Other accounts payable and accrued expenses 	931 	995
+Row:Current operating lease liabilities 	67 	—
+Row:Current portion of finance leases and note payable 	1 	8
+Row:Current maturities of long-term debt 	147 	92
+Row:Total current liabilities 	1,932 	1,942
+Row:Noncurrent operating lease liabilities 	1,108 	—
+Row:Long-term finance leases and note payable 	— 	204
+Row:Long-term debt 	3,574 	3,716
+Row:Deferred taxes 	116 	131
+Row:Other liabilities 	430 	558
+Row:Total Liabilities 	7,160 	6,551
+Row:Stockholders' Equity
+		Row:Common stock (1) 	160 	158
+Row:Additional paid-in capital 	4,723 	4,713
+Row:Reinvested earnings/(accumulated deficit) 	(3,667) 	(3,373)
+Row:Accumulated other comprehensive income/(loss) 	(387 ) 	(328 )
+Row:Total Stockholders’ Equity 	829 	1,170
+Row:Total Liabilities and Stockholders’ Equity 	$ 7,989 $ 	7,721
+Row:(1) 1.25 billion shares of common stock are authorized with a par value of $0.50 per share. The total shares issued and outstanding were 2020 and February 2, 2019, respectively.
+	320.5 million and 316.1 	million as of February 1,
+Row:See the accompanying notes to the Consolidated Financial Statements.
+		Row:(in millions)
+	Number of
+Common
+Shares
+	Common
+Stock
+	Additional
+Paid-in Capital
+	Earnings/
+(Accumulated
+Deficit)
+	Accumulated Other
+Comprehensive
+Income/(Loss)
+	Total Stockholders'
+Equity
+Row:January 28, 2017 	308.3 $ 	154 	$ 4,679 $ 	(3,000) $ 	(473) $ 	1,360
+Row:Net income/(loss) 	— 	— 	— 	(118) 	— 	(118)
+Row:Other comprehensive income/(loss) 	— 	— 	— 	— 	113 	113
+Row:Stock-based compensation 	3.7 	2 	26 	— 	— 	28
+Row:February 3, 2018 	312.0 $ 	156 	$ 4,705 $ 	(3,118) $ 	(360) $ 	1,383
+Row:Net income/(loss) 	— 	— 	— 	(255) 	— 	(255)
+Row:Other comprehensive income/(loss) 	— 	— 	— 	— 	32 	32
+Row:Stock-based compensation and other 	4.1 	2 	8 	— 	— 	10
+Row:February 2, 2019 	316.1 $ 	158 	$ 4,713 $ 	(3,373) $ 	(328) $ 	1,170
+Row:ASU 2016-02 (Leases) and ASU 2018-02
+(Stranded Taxes) adoption (See Note 3) 	— 	— 	— 	(26) 	53 	27
+Row:Net income/(loss) 	— 	— 	— 	(268) 	— 	(268)
+Row:Other comprehensive income/(loss) 	— 	— 	— 	— 	(112) 	(112)
+Row:Stock-based compensation and other 	4.4 	2 	10 	— 	— 	12
+Row:February 1, 2020 	320.5 $ 	160 	$ 4,723 $ 	(3,667) $ 	(387) $ 	829
+Row:($ in millions) 	2019 	2018 	2017
+Row:Cash flows from operating activities
+			Row:Net income/(loss) $ 	(268) 	$ (255) 	$ (118)
+Row:Adjustments to reconcile net income/(loss) to net cash provided by/(used in) operating activities:
+			Row:Restructuring and management transition 	23 	(3) 	74
+Row:Asset impairments and other charges 	— 	56 	6
+Row:Net gain on sale of non-operating assets 	(1) 	— 	—
+Row:Net gain on sale of operating assets 	(8) 	(67) 	(119)
+Row:(Gain)/loss on extinguishment of debt 	(1) 	23 	33
+Row:Depreciation and amortization 	544 	556 	570
+Row:Benefit plans 	(37) 	(65) 	106
+Row:Stock-based compensation 	11 	10 	25
+Row:Other comprehensive income tax benefits 	— 	(11) 	(60)
+Row:Deferred taxes 	(6) 	(13) 	(63)
+Row:Change in cash from:
+			Row:Inventory 	271 	366 	93
+Row:Prepaid expenses and other assets 	(9) 	1 	(15)
+Row:Merchandise accounts payable 	(61) 	(126) 	(4)
+Row:Income taxes 	— 	— 	(12)
+Row:Accrued expenses and other 	(30) 	(113) 	(62)
+Row:Net cash provided by/(used in) operating activities 	428 	359 	454
+Row:Cash flows from investing activities
+			Row:Capital expenditures 	(309) 	(392) 	(395)
+Row:Proceeds from sale of non-operating assets 	1 	— 	—
+Row:Proceeds from sale of operating assets 	26 	144 	154
+Row:Joint venture return of investment 	— 	3 	9
+Row:Insurance proceeds received for damage to property and equipment 	6 	1 	3
+Row:Net cash provided by/(used in) investing activities 	(276) 	(244) 	(229)
+Row:Cash flows from financing activities
+			Row:Proceeds from issuance of long-term debt 	— 	400 	—
+Row:Proceeds from borrowings under the credit facility 	2,645 	3,895 	804
+Row:Payments of borrowings under the credit facility 	(2,645) 	(3,895) 	(804)
+Row:Premium on early retirement of debt 	— 	(20) 	(30)
+Row:Payments of finance leases and note payable 	(3) 	(6) 	(16)
+Row:Payments of long-term debt 	(97) 	(607) 	(599)
+Row:Financing costs 	— 	(7) 	(9)
+Row:Proceeds from stock issued under stock plans 	2 	3 	5
+Row:Tax withholding payments for vested restricted stock 	(1) 	(3) 	(5)
+Row:Net cash provided by/(used in) financing activities 	(99) 	(240) 	(654)
+Row:Net increase/(decrease) in cash and cash equivalents 	53 	(125) 	(429)
+Row:Cash and cash equivalents at beginning of period 	333 	458 	887
+Row:Cash and cash equivalents at end of period $ 	386 	$ 333 	$ 458
+Row:See the accompanying notes to the Consolidated Financial Statements.
+			Row:(In millions, except per share data) 	2019 	2018 	2017
+Row:Total net sales 	$ 10,716 	$ 11,664 	$ 12,554
+Row:Credit income and other 	451 	355 	319
+Row:Total revenues 	11,167 	12,019 	12,873
+Row:Costs and expenses/(income):
+			Row:Cost of goods sold (exclusive of depreciation and amortization shown separately below) 	7,013 	7,870 	8,208
+Row:Selling, general and administrative (SG&A) 	3,585 	3,596 	3,845
+Row:Depreciation and amortization 	544 	556 	570
+Row:Real estate and other, net 	(15) 	(19) 	(146 )
+Row:Restructuring and management transition 	48 	22 	184
+Row:Total costs and expenses 	11,175 	12,025 	12,661
+Row:Operating income/(loss) 	(8 ) 	(6) 	212
+Row:Other components of net periodic pension and postretirement benefit cost/(income) 	(35) 	(71) 	98
+Row:(Gain)/loss on extinguishment of debt 	(1 ) 	23 	33
+Row:Net interest expense 	293 	313 	325
+Row:Income/(loss) before income taxes 	(265 ) 	(271) 	(244 )
+Row:Income tax expense/(benefit) 	3 	(16) 	(126 )
+Row:Net income/(loss) 	$ (268) 	$ (255) 	$ (118)
+Row:Earnings/(loss) per share:
+			Row:Basic 	$ (0.84) 	$ (0.81) 	$ (0.38)
+Row:Diluted 	(0.84 ) 	(0.81) 	(0.38 )
+Row:Weighted average shares – basic 	320.2 	315.7 	311.1
+Row:Weighted average shares – diluted 	320.2 	315.7 	311.1
+Row:See the accompanying notes to the Consolidated Financial Statements.
+			Row:($ in millions, except per share data) 	2019 	2018
+Row:Assets
+		Row:Current assets:
+		Row:Cash in banks and in transit 	$ 108 $ 	109
+Row:Cash short-term investments 	278 	224
+Row:Cash and cash equivalents 	386 	333
+Row:Merchandise inventory 	2,166 	2,437
+Row:Prepaid expenses and other 	174 	189
+Row:Total current assets 	2,726 	2,959
+Row:Property and equipment, net 	3,488 	3,938
+Row:Operating lease assets 	998 	—
+Row:Prepaid pension 	120 	147
+Row:Other assets 	657 	677
+Row:Total Assets 	$ 7,989 $ 	7,721
+Row:Liabilities and Stockholders’ Equity
+		Row:Current liabilities:
+		Row:Merchandise accounts payable 	$ 786 $ 	847
+Row:Other accounts payable and accrued expenses 	931 	995
+Row:Current operating lease liabilities 	67 	—
+Row:Current portion of finance leases and note payable 	1 	8
+Row:Current maturities of long-term debt 	147 	92
+Row:Total current liabilities 	1,932 	1,942
+Row:Noncurrent operating lease liabilities 	1,108 	—
+Row:Long-term finance leases and note payable 	— 	204
+Row:Long-term debt 	3,574 	3,716
+Row:Deferred taxes 	116 	131
+Row:Other liabilities 	430 	558
+Row:Total Liabilities 	7,160 	6,551
+Row:Stockholders' Equity
+		Row:Common stock (1) 	160 	158
+Row:Additional paid-in capital 	4,723 	4,713
+Row:Reinvested earnings/(accumulated deficit) 	(3,667) 	(3,373)
+Row:Accumulated other comprehensive income/(loss) 	(387 ) 	(328 )
+Row:Total Stockholders’ Equity 	829 	1,170
+Row:Total Liabilities and Stockholders’ Equity 	$ 7,989 $ 	7,721
+Row:(1) 1.25 billion shares of common stock are authorized with a par value of $0.50 per share. The total shares issued and outstanding were 2020 and February 2, 2019, respectively.
+	320.5 million and 316.1 	million as of February 1,
+Row:See the accompanying notes to the Consolidated Financial Statements.
+		Row:($ in millions) 	2019 	2018 	2017
+Row:Cash flows from operating activities
+			Row:Net income/(loss) $ 	(268) 	$ (255) 	$ (118)
+Row:Adjustments to reconcile net income/(loss) to net cash provided by/(used in) operating activities:
+			Row:Restructuring and management transition 	23 	(3) 	74
+Row:Asset impairments and other charges 	— 	56 	6
+Row:Net gain on sale of non-operating assets 	(1) 	— 	—
+Row:Net gain on sale of operating assets 	(8) 	(67) 	(119)
+Row:(Gain)/loss on extinguishment of debt 	(1) 	23 	33
+Row:Depreciation and amortization 	544 	556 	570
+Row:Benefit plans 	(37) 	(65) 	106
+Row:Stock-based compensation 	11 	10 	25
+Row:Other comprehensive income tax benefits 	— 	(11) 	(60)
+Row:Deferred taxes 	(6) 	(13) 	(63)
+Row:Change in cash from:
+			Row:Inventory 	271 	366 	93
+Row:Prepaid expenses and other assets 	(9) 	1 	(15)
+Row:Merchandise accounts payable 	(61) 	(126) 	(4)
+Row:Income taxes 	— 	— 	(12)
+Row:Accrued expenses and other 	(30) 	(113) 	(62)
+Row:Net cash provided by/(used in) operating activities 	428 	359 	454
+Row:Cash flows from investing activities
+			Row:Capital expenditures 	(309) 	(392) 	(395)
+Row:Proceeds from sale of non-operating assets 	1 	— 	—
+Row:Proceeds from sale of operating assets 	26 	144 	154
+Row:Joint venture return of investment 	— 	3 	9
+Row:Insurance proceeds received for damage to property and equipment 	6 	1 	3
+Row:Net cash provided by/(used in) investing activities 	(276) 	(244) 	(229)
+Row:Cash flows from financing activities
+			Row:Proceeds from issuance of long-term debt 	— 	400 	—
+Row:Proceeds from borrowings under the credit facility 	2,645 	3,895 	804
+Row:Payments of borrowings under the credit facility 	(2,645) 	(3,895) 	(804)
+Row:Premium on early retirement of debt 	— 	(20) 	(30)
+Row:Payments of finance leases and note payable 	(3) 	(6) 	(16)
+Row:Payments of long-term debt 	(97) 	(607) 	(599)
+Row:Financing costs 	— 	(7) 	(9)
+Row:Proceeds from stock issued under stock plans 	2 	3 	5
+Row:Tax withholding payments for vested restricted stock 	(1) 	(3) 	(5)
+Row:Net cash provided by/(used in) financing activities 	(99) 	(240) 	(654)
+Row:Net increase/(decrease) in cash and cash equivalents 	53 	(125) 	(429)
+Row:Cash and cash equivalents at beginning of period 	333 	458 	887
+Row:Cash and cash equivalents at end of period $ 	386 	$ 333 	$ 458
+Row:See the accompanying notes to the Consolidated Financial Statements.
+			

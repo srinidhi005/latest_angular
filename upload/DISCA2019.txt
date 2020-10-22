@@ -1,0 +1,132 @@
+Row:Current assets:
+	Row:Cash and cash equivalents $ 	1,552 $ 986
+Row:Receivables, net 	2,633 2,620
+Row:Content rights, net 	579 313
+Row:Prepaid expenses and other current assets 	453 312
+Row:Total current assets 	5,217 4,231
+Row:Noncurrent content rights, net 	3,129 3,069
+Row:Property and equipment, net 	951 800
+Row:Goodwill 	13,050 13,006
+Row:Intangible assets, net 	8,667 9,674
+Row:Equity method investments, including note receivable 	568 935
+Row:Other noncurrent assets 	2,153 835
+Row:Total assets $ 	33,735 $ 32,550
+Row:LIABILITIES AND EQUITY
+	Row:Current liabilities:
+		Row:Accounts payable $ 	463 	$ 325
+Row:Accrued liabilities 	1,678 	1,604
+Row:Deferred revenues 	489 	249
+Row:Current portion of debt 	609 	1,819
+Row:Total current liabilities 	3,239 	3,997
+Row:Noncurrent portion of debt 	14,810 	14,974
+Row:Deferred income taxes 	1,691 	1,811
+Row:Other noncurrent liabilities 	2,029 	1,251
+Row:Total liabilities 	21,769 	22,033
+Row:Commitments and contingencies (See Note 22)
+		Row:Discovery, Inc. stockholders’ equity:
+	Row:Series A-1 convertible preferred stock: $0.01 par value; 8 shares authorized, issued, and
+outstanding 	— —
+Row:Series C-1 convertible preferred stock: $0.01 par value; 6 shares authorized; 5 and 6 shares
+issued and outstanding 	— —
+Row:Series A common stock: $0.01 par value; 1,700 shares authorized; 161 and 160 shares issued;
+and 158 and 157 shares outstanding 	2 2
+Row:Series B convertible common stock: $0.01 par value; 100 shares authorized; 7 shares issued
+and outstanding 	— —
+Row:Series C common stock: $0.01 par value; 2,000 shares authorized; 547 and 524 shares
+issued; and 360 shares outstanding 	5 5
+Row:Additional paid-in capital 	10,747 10,647
+Row:Treasury stock, at cost: 190 and 167 shares 	(7,374) (6,737)
+Row:Retained earnings 	7,333 5,254
+Row:Accumulated other comprehensive loss 	(822) (785)
+Row:Total Discovery, Inc. stockholders’ equity 	9,891 8,386
+Row:Noncontrolling interests 	1,633 1,716
+Row:Total equity 	11,524 10,102
+Row:Total liabilities and equity $ 	33,735 $ 32,550
+Row:		2019 	Year Ended December 31,
+2018 	2017
+Row:	Revenues:
+			Row:	Advertising $ 	6,044 	$ 5,514 	$ 3,073
+Row:	Distribution 	4,835 	4,538 	3,474
+Row:	Other 	265 	501 	326
+Row:Total 	revenues 	11,144 	10,553 	6,873
+Row:Costs 	and expenses:
+			Row:	Costs of revenues, excluding depreciation and amortization 	3,819 	3,935 	2,656
+Row:	Selling, general and administrative 	2,788 	2,620 	1,768
+Row:	Depreciation and amortization 	1,347 	1,398 	330
+Row:	Impairment of goodwill 	155 	— 	1,327
+Row:	Restructuring and other charges 	26 	750 	75
+Row:	(Gain) loss on disposition 	— 	(84) 	4
+Row:Total 	costs and expenses 	8,135 	8,619 	6,160
+Row:Operating 	income 	3,009 	1,934 	713
+Row:Interest Loss 	expense, net on extinguishment of debt 	(677) (28) 	(729) — 	(475)
+(54)
+Row:Loss 	from equity investees, net 	(2) 	(63) 	(211)
+Row:Other 	expense, net 	(8) 	(120) 	(110)
+Row:Income 	(loss) before income taxes 	2,294 	1,022 	(137)
+Row:Income 	tax expense 	(81) 	(341) 	(176)
+Row:Net 	income (loss) 	2,213 	681 	(313)
+Row:Net 	income attributable to noncontrolling interests 	(128) 	(67) 	—
+Row:Net 	income attributable to redeemable noncontrolling interests 	(16) 	(20) 	(24)
+Row:Net 	income (loss) available to Discovery, Inc. $ 	2,069 	$ 594 	$ (337)
+Row:Net 	income (loss) per share available to Discovery, Inc. Series A, B
+and C common stockholders:
+			Row:	Basic $ 	2.90 	$ 0.86 	$ (0.59)
+Row:Weighted 	Diluted $ average shares outstanding:
+Basic 	2.88 529 	$ 0.86 498 	$ (0.59)
+384
+Row:	Diluted 	711 	688 	576
+Row:The 	accompanying notes are an integral part of these consolidated financial 	statements.
+		Row:2019 	2018 	2017
+Row:Operating Activities
+		Row:Net income (loss) $ Adjustments to reconcile net income (loss) to cash provided by operating activities:
+	2,213 $ 681 $ 	(313)
+Row:Content rights amortization and impairment 	2,853 3,288 	1,910
+Row:Depreciation and amortization 	1,347 1,398 	330
+Row:Deferred income taxes 	(504) (131) 	(199)
+Row:Impairment of goodwill 	155 — 	1,327
+Row:Share-based compensation expense 	142 80 	39
+Row:Equity in losses of equity method investee companies, net of cash distributions Unrealized loss (gain) from derivative instruments, net Loss on extinguishment of debt 	62 138 62 (15) 28 — 	223
+—
+54
+Row:Remeasurement gain on previously held equity interests 	(14) — 	(34)
+Row:Realized (gain) loss from derivative instruments, net 	(14) — 	98
+Row:(Gain) loss on disposition 	— (84) 	4
+Row:Other, net Changes in operating assets and liabilities, net of acquisitions and dispositions:
+Receivables, net Content rights and payables, net 	42 141 (7) (84) (3,060) (2,883) 	85
+(258)
+(1,947)
+Row:Accounts payable and accrued liabilities 	122 (74) 	265
+Row:Prepaid income taxes and income taxes receivable 	4 57 	20
+Row:Foreign currency and other, net 	(32) 64 	25
+Row:Cash provided by operating activities Investing Activities
+	3,399 2,576 	1,629
+Row:Business acquisitions, net of cash acquired 	(73) (8,565) 	(60)
+Row:Investments in and advances to equity investments 	(254) (61) 	(444)
+Row:Purchases of property and equipment 	(289) (147) 	(135)
+Row:Proceeds from dissolution of joint venture and sale of investments 	125 — 	—
+Row:Proceeds from (payments for) derivative instruments, net 	54 (2) 	(101)
+Row:Proceeds from sale of assets 	4 68 	—
+Row:Proceeds from dispositions, net of cash disposed 	— 107 	29
+Row:Distributions from equity method investees 	— 1 	77
+Row:Other investing activities, net 	(5) 6 	1
+Row:Cash used in investing activities 	(438) (8,593) 	(633)
+Row:Financing Activities
+		Row:Principal repayments of debt, including discount payment and premiums to par value 	(2,658) (16) 	(650)
+Row:Borrowings from debt, net of discount and including premiums 	1,479 — 	7,488
+Row:Borrowings under term loan facilities 	— 2,000 	—
+Row:Principal repayments of term loans 	— (2,000) 	—
+Row:Repurchases of stock 	(633) — 	(603)
+Row:Distributions to noncontrolling interests and redeemable noncontrolling interests 	(250) (76) 	(30)
+Row:Principal repayments of revolving credit facility 	(225) (200) 	(475)
+Row:Principal repayments of finance lease obligations 	(44) (50) 	(33)
+Row:Hedge of borrowings from debt instruments 	(18) — 	—
+Row:(Repayments) borrowings under program financing line of credit, net 	(12) 22 	—
+Row:Share-based plan (payments) proceeds, net 	(2) 54 	16
+Row:Commercial paper repayments, net 	— (5) 	(48)
+Row:Borrowings under revolving credit facility Other financing activities, net 	— — 6 (12) 	350
+(64)
+Row:Cash (used in) provided by financing activities Effect of exchange rate changes on cash and cash equivalents 	(2,357) (283) (38) (23) 	5,951
+62
+Row:Net change in cash and cash equivalents 	566 (6,323) 	7,009
+Row:Cash and cash equivalents, beginning of period 	986 7,309 	300
+Row:Cash and cash equivalents, end of period $ 	1,552 $ 986 $ 	7,309

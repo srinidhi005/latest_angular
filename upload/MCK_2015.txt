@@ -1,0 +1,260 @@
+Row:	Years 2015 	Ended March 2014 	31,
+2013
+Row:Revenues 	$ 179,045 	$ 137,392 	$ 122,196
+Row:Cost of Sales 	(167,634) 	(129,040) 	(115,315)
+Row:Gross Profit 	11,411 	8,352 	6,881
+Row:Operating Expenses
+			Row:Selling, distribution and administrative expenses 	(7,901) 	(5,388) 	(4,110)
+Row:Research and development 	(392) 	(457) 	(433)
+Row:Claim and litigation charges 	(150) 	(68) 	(72)
+Row:Gain on business combination 	— 	— 	81
+Row:Total Operating Expenses 	(8,443) 	(5,913) 	(4,534)
+Row:Operating Income 	2,968 	2,439 	2,347
+Row:Other Income, Net 	63 	32 	34
+Row:Impairment of an Equity Investment 	— 	— 	(191)
+Row:Interest Expense 	(374) 	(300) 	(240)
+Row:Income from Continuing Operations Before Income Taxes 	2,657 	2,171 	1,950
+Row:Income Tax Expense 	(815) 	(757) 	(587)
+Row:Income from Continuing Operations 	1,842 	1,414 	1,363
+Row:Loss from Discontinued Operations, Net of Tax 	(299) 	(156) 	(25)
+Row:Net Income 	1,543 	1,258 	1,338
+Row:Net Loss (Income) Attributable to Noncontrolling Interests 	(67) 	5 	—
+Row:Net Income Attributable to McKesson Corporation 	$ 1,476 	$ 1,263 	$ 1,338
+Row:Earnings (Loss) Per Common Share Attributable to McKesson
+Corporation
+			Row:Diluted
+			Row:Continuing operations 	$ 7.54 	$ 6.08 	$ 5.69
+Row:Discontinued operations 	(1.27) 	(0.67) 	(0.10)
+Row:Total 	$ 6.27 	$ 5.41 	$ 5.59
+Row:Basic
+			Row:Continuing operations 	$ 7.66 	$ 6.19 	$ 5.81
+Row:Discontinued operations 	(1.29) 	(0.68) 	(0.10)
+Row:Total 	$ 6.37 	$ 5.51 	$ 5.71
+Row:Weighted Average Common Shares
+			Row:Diluted Basic 	235 232 	233 229 	239
+235
+Row:See Financial Notes
+			Row:Diluted 	235 233 	239
+Row:Basic 	232 229 	235
+Row:	2015 	2014
+Row:ASSETS
+		Row:Current Assets
+		Row:Cash and cash equivalents 	$ 5,341 	$ 4,193
+Row:Receivables, net 	15,914 	13,780
+Row:Inventories, net 	14,296 	12,986
+Row:Prepaid expenses and other 	1,119 	1,877
+Row:Total Current Assets 	36,670 	32,836
+Row:Property, Plant and Equipment, Net 	2,045 	2,196
+Row:Goodwill 	9,817 	9,927
+Row:Intangible Assets, Net 	3,441 	4,871
+Row:Other Assets 	1,897 	1,929
+Row:Total Assets 	$53,870 	$51,759
+Row:STOCKHOLDERS’ EQUITY
+		Row:Current Liabilities
+		Row:Drafts and accounts payable 	$25,166 	$21,128
+Row:Short-term borrowings 	135 	248
+Row:Deferred revenue 	1,078 	1,236
+Row:Deferred tax liabilities 	1,820 	1,588
+Row:Current portion of long-term debt 	1,529 	1,417
+Row:Other accrued liabilities 	3,769 	3,998
+Row:Total Current Liabilities 	33,497 	29,615
+Row:Long-Term Debt 	8,180 	8,929
+Row:Other Noncurrent Liabilities 	2,722 	2,897
+Row:Other Commitments and Contingent Liabilities (Note 23)
+		Row:Redeemable Noncontrolling Interests 	1,386 	—
+Row:McKesson Corporation Stockholders’ Equity
+Preferred stock, $0.01 par value, 100 shares authorized, no shares issued or
+outstanding 	— 	—
+Row:Common stock, $0.01 par value, 800 shares authorized at March 31, 2015 and
+2014, 384 and 381 shares issued at March 31, 2015 and 2014 	4 	4
+Row:Additional Paid-in Capital 	6,968 	6,552
+Row:Retained Earnings 	12,705 	11,453
+Row:Accumulated Other Comprehensive Loss 	(1,713) 	(3)
+Row:Other Treasury Shares, at Cost, 152 and 150 at March 31, 2015 and 2014 	(7) (9,956) 	23
+(9,507)
+Row:Total McKesson Corporation Stockholders’ Equity Noncontrolling Interests 	8,001 84 	8,522
+1,796
+Row:Total Equity 	8,085 	10,318
+Row:Total Liabilities, Redeemable Noncontrolling Interests and Equity 	$53,870 	$51,759
+Row:	Years 2015 	Ended March 2014 	31,
+2013
+Row:Operating Activities
+			Row:Net income 	$ 1,543 	$ 1,258 	$ 1,338
+Row:Adjustments to reconcile to net cash provided by operating activities:
+Depreciation 	306 	185 	143
+Row:Amortization 	711 	550 	438
+Row:Deferred taxes 	171 	17 	615
+Row:Share-based compensation expense 	174 	160 	167
+Row:Gain on business combination 	— 	— 	(81)
+Row:Impairment charges and impairment of equity investment 	241 	80 	191
+Row:Charges associated with last-in-first-out inventory method 	337 	311 	13
+Row:Other non-cash items 	47 	130 	90
+Row:Changes in operating assets and liabilities, net of acquisitions:
+			Row:Receivables 	(2,821) 	(868) 	318
+Row:Inventories 	(2,144) 	(1,182) 	(60)
+Row:Drafts and accounts payable 	4,718 	2,412 	(125)
+Row:Deferred revenue 	(141) 	(81) 	(44)
+Row:Taxes 	(222) 	218 	(98)
+Row:Claim and litigation charges 	150 	68 	72
+Row:Litigation settlement payments 	— 	(105) 	(483)
+Row:Other 	42 	(17) 	(11)
+Row:Net cash provided by operating activities 	3,112 	3,136 	2,483
+Row:Investing Activities
+			Row:Property acquisitions 	(376) 	(278) 	(241)
+Row:Capitalized software expenditures 	(169) 	(141) 	(159)
+Row:Acquisitions, net of cash and cash equivalents acquired 	(170) 	(4,634) 	(1,873)
+Row:Proceeds from sale of businesses and equity investment 	15 	97 	—
+Row:Other 	23 	(90) 	64
+Row:Net cash used in investing activities 	(677) 	(5,046) 	(2,209)
+Row:Financing Activities
+			Row:Proceeds from short-term borrowings 	3,100 	6,080 	2,225
+Row:Repayments of short-term borrowings 	(3,152) 	(6,132) 	(2,625)
+Row:Proceeds from issuances of long-term debt 	3 	4,124 	1,798
+Row:Repayments of long-term debt 	(353) 	(348) 	(1,143)
+Row:Common stock transactions:
+			Row:Issuances 	152 	177 	166
+Row:Share repurchases, including shares surrendered for tax withholding 	(450) 	(130) 	(1,214)
+Row:Dividends paid 	(227) 	(214) 	(194)
+Row:Other Net cash provided by (used in) financing activities 	(41) (968) 	62 3,619 	31
+(956)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(319) 	28 	(11)
+Row:Net increase (decrease) in cash and cash equivalents Cash and cash equivalents at beginning of year 	1,148 4,193 	1,737 2,456 	(693)
+3,149
+Row:Cash and cash equivalents at end of year 	$ 5,341 	$ 4,193 	$ 2,456
+Row:Supplemental Cash Flow Information
+			Row:Cash paid for:
+			Row:Interest 	$ 359 	$ 255 	$ 207
+Row:Income taxes, net of refunds 	$ 866 	$ 508 	$ 55
+Row:Non-cash item:
+			Row:Fair value of debt assumed on acquisitions 	$ — 	$(2,312) 	$ (635)
+Row:Conversion of Celesio’s convertible bonds to equity 	$ — 	$ 313 	$ —
+Row:See Financial Notes
+			Row:Revenues 	Years 2015 $ 179,045 	Ended March 2014 $ 137,392 	31,
+2013
+$ 122,196
+Row:Cost of Sales 	(167,634) 	(129,040) 	(115,315)
+Row:Gross Profit 	11,411 	8,352 	6,881
+Row:Operating Expenses
+			Row:Selling, distribution and administrative expenses 	(7,901) 	(5,388) 	(4,110)
+Row:Research and development 	(392) 	(457) 	(433)
+Row:Claim and litigation charges 	(150) 	(68) 	(72)
+Row:Gain on business combination 	— 	— 	81
+Row:Total Operating Expenses 	(8,443) 	(5,913) 	(4,534)
+Row:Operating Income 	2,968 	2,439 	2,347
+Row:Other Income, Net 	63 	32 	34
+Row:Impairment of an Equity Investment 	— 	— 	(191)
+Row:Interest Expense 	(374) 	(300) 	(240)
+Row:Income from Continuing Operations Before Income Taxes 	2,657 	2,171 	1,950
+Row:Income Tax Expense 	(815) 	(757) 	(587)
+Row:Income from Continuing Operations 	1,842 	1,414 	1,363
+Row:Loss from Discontinued Operations, Net of Tax 	(299) 	(156) 	(25)
+Row:Net Income 	1,543 	1,258 	1,338
+Row:Net Loss (Income) Attributable to Noncontrolling Interests 	(67) 	5 	—
+Row:Net Income Attributable to McKesson Corporation 	$ 1,476 	$ 1,263 	$ 1,338
+Row:Earnings (Loss) Per Common Share Attributable to McKesson
+Corporation
+Diluted
+			Row:Continuing operations 	$ 7.54 	$ 6.08 	$ 5.69
+Row:Discontinued operations Total 	(1.27) $ 6.27 	(0.67) $ 5.41 	(0.10)
+$ 5.59
+Row:Basic
+			Row:Continuing operations Discontinued operations 	$ 7.66 (1.29) 	$ 6.19 (0.68) 	$ 5.81
+(0.10)
+Row:Total 	$ 6.37 	$ 5.51 	$ 5.71
+Row:Weighted Average Common Shares
+Diluted 	235 	233 	239
+Row:Basic See Financial Notes
+62
+	232 	229 	235
+Row:March 	31,
+Row:2015 	2014
+Row:Current Assets
+Cash and cash equivalents 	$ 5,341 	$ 4,193
+Row:Receivables, net 	15,914 	13,780
+Row:Inventories, net 	14,296 	12,986
+Row:Prepaid expenses and other 	1,119 	1,877
+Row:Total Current Assets 	36,670 	32,836
+Row:Property, Plant and Equipment, Net 	2,045 	2,196
+Row:Goodwill 	9,817 	9,927
+Row:Intangible Assets, Net 	3,441 	4,871
+Row:Other Assets 	1,897 	1,929
+Row:Total Assets 	$53,870 	$51,759
+Row:Current Liabilities
+	Row:Drafts and accounts payable 	$25,166 $21,128
+Row:Short-term borrowings 	135 248
+Row:Deferred revenue 	1,078 1,236
+Row:Deferred tax liabilities 	1,820 1,588
+Row:Current portion of long-term debt 	1,529 1,417
+Row:Other accrued liabilities 	3,769 3,998
+Row:Total Current Liabilities 	33,497 29,615
+Row:Long-Term Debt 	8,180 8,929
+Row:Other Noncurrent Liabilities 	2,722 2,897
+Row:Other Commitments and Contingent Liabilities (Note 23)
+	Row:Redeemable Noncontrolling Interests 	1,386 —
+Row:McKesson Corporation Stockholders’ Equity
+	Row:Preferred stock, $0.01 par value, 100 shares authorized, no shares issued or
+outstanding 	— —
+Row:Common stock, $0.01 par value, 800 shares authorized at March 31, 2015 and
+2014, 384 and 381 shares issued at March 31, 2015 and 2014 Additional Paid-in Capital 	4 4
+6,968 6,552
+Row:Retained Earnings Accumulated Other Comprehensive Loss 	12,705 11,453
+(1,713) (3)
+Row:Other 	(7) 23
+Row:Treasury Shares, at Cost, 152 and 150 at March 31, 2015 and 2014 	(9,956) (9,507)
+Row:Total McKesson Corporation Stockholders’ Equity 	8,001 8,522
+Row:Noncontrolling Interests 	84 1,796
+Row:Total Equity 	8,085 10,318
+Row:Total Liabilities, Redeemable Noncontrolling Interests and Equity 	$53,870 $51,759
+Row:See Financial Notes
+	Row:2015 	2014 	2013
+Row:Operating Activities
+		Row:Net income $ 1,543 Adjustments to reconcile to net cash provided by operating activities:
+Depreciation 306 	$ 1,258 185 	$ 1,338
+143
+Row:Amortization 711 Deferred taxes 171 	550 17 	438
+615
+Row:Share-based compensation expense 174 	160 	167
+Row:Gain on business combination — Impairment charges and impairment of equity investment 241 	— 80 	(81)
+191
+Row:Charges associated with last-in-first-out inventory method 337 Other non-cash items 47 	311 130 	13
+90
+Row:Changes in operating assets and liabilities, net of acquisitions:
+		Row:Receivables (2,821) 	(868) 	318
+Row:Inventories (2,144) 	(1,182) 	(60)
+Row:Drafts and accounts payable 4,718 	2,412 	(125)
+Row:Deferred revenue (141) 	(81) 	(44)
+Row:Taxes (222) 	218 	(98)
+Row:Claim and litigation charges 150 	68 	72
+Row:Litigation settlement payments — 	(105) 	(483)
+Row:Other 42 	(17) 	(11)
+Row:Net cash provided by operating activities 3,112 	3,136 	2,483
+Row:Investing Activities
+		Row:Property acquisitions (376) 	(278) 	(241)
+Row:Capitalized software expenditures (169) 	(141) 	(159)
+Row:Acquisitions, net of cash and cash equivalents acquired (170) 	(4,634) 	(1,873)
+Row:Proceeds from sale of businesses and equity investment 15 Other 23 	97 (90) 	—
+64
+Row:Net cash used in investing activities (677) 	(5,046) 	(2,209)
+Row:Financing Activities
+Proceeds from short-term borrowings 3,100 Repayments of short-term borrowings (3,152) 	6,080 (6,132) 	2,225
+(2,625)
+Row:Proceeds from issuances of long-term debt 3 	4,124 	1,798
+Row:Repayments of long-term debt (353) 	(348) 	(1,143)
+Row:Common stock transactions:
+Issuances 152 Share repurchases, including shares surrendered for tax withholding (450) Dividends paid (227) Other (41) Net cash provided by (used in) financing activities (968) Effect of exchange rate changes on cash and cash equivalents (319) Net increase (decrease) in cash and cash equivalents 1,148 Cash and cash equivalents at beginning of year 4,193 Cash and cash equivalents at end of year $ 5,341 Supplemental Cash Flow Information
+	177 (130) (214) 62 3,619 28 1,737 2,456 $ 4,193 	166
+(1,214)
+(194)
+31
+(956)
+(11)
+(693)
+3,149
+$ 2,456
+Row:Cash paid for:
+		Row:Interest $ 359 Income taxes, net of refunds $ 866 Non-cash item:
+Fair value of debt assumed on acquisitions $ — 	$ 255 $ 508 $(2,312) 	$ 207
+$ 55
+$ (635)
+Row:Conversion of Celesio’s convertible bonds to equity $ — See Financial Notes
+	$ 313 	$ —

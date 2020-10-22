@@ -1,0 +1,131 @@
+Row:Net sales $ 	6,060 $ 6,617 $ 6,769
+Row:Costs and expenses
+	Row:Cost of sales 	5,211 5,672 5,849
+Row:Selling, general and administrative expenses 	391 411 410
+Row:Amortization of intangibles 	14 42 74
+Row:Restructuring charges, net 	15 21 24
+Row:Impairment of long-lived assets 	(36)
+Row:Loss on disposal group held for sale 	(80)
+Row:Pension settlement charges 	(42)
+Row:Loss on extinguishment of debt 	(2) (19)
+Row:Other income, net 	14 48 55
+Row:Income from continuing operations before interest expense and income taxes 	405 378 467
+Row:Interest expense 	113 118 99
+Row:Income from continuing operations before income taxes 	292 260 368
+Row:Income tax expense (benefit) 	82 (70) 119
+Row:Equity in earnings (losses) of affiliates 	(34) 13 12
+Row:Income from continuing operations 	176 343 261
+Row:Income (loss) from discontinued operations 	4 (15) (1)
+Row:Net income 	180 328 260
+Row:Less: Noncontrolling interests net income 	21 9 16
+Row:Net income attributable to the parent company 	159 319 244
+Row:Preferred stock dividend requirements 	7 25
+Row:Preferred stock redemption premium 	232
+Row:Net income (loss) available to common stockholders $ 	159 $ 312 $ (13)
+Row:Net income (loss) available to common stockholders 	$ 	159 	$ 	312 	$ (13)
+Row:Net income (loss) per share available to parent company common stockholders:
+					Row:Basic:
+					Row:Income (loss) from continuing operations 	$ 	0.98 	$ 	2.07 	$ (0.08)
+Row:Income (loss) from discontinued operations 	$ 	0.02 	$ 	(0.10) 	$ (0.01)
+Row:Net income (loss) 	$ 	1.00 	$ 	1.97 	$ (0.09)
+Row:Diluted:
+					Row:Income (loss) from continuing operations 	$ 	0.97 	$ 	1.93 	$ (0.08)
+Row:Income (loss) from discontinued operations 	$ 	0.02 	$ 	(0.09) 	$ (0.01)
+Row:Net income (loss) 	$ 	0.99 	$ 	1.84 	$ (0.09)
+Row:Weighted-average common shares outstanding
+					Row:Basic 		159.0 		158.0 	146.4
+Row:Diluted 		160.0 		173.5 	146.4
+Row:Dividends declared per common share 	$ 	0.23 	$ 	0.20 	$ 0.20
+Row:Income (loss) from continuing operations 	$ 0.97 	$ 	1.93 $ 	(0.08)
+Row:Income (loss) from discontinued operations 	$ 0.02 	$ 	(0.09) $ 	(0.01)
+Row:Net income (loss) 	$ 0.99 	$ 	1.84 $ 	(0.09)
+Row:Assets
+Current assets
+		Row:Cash and cash equivalents $ 	791 $ 	1,121
+Row:Marketable securities 	162 	169
+Row:Accounts receivable
+		Row:Trade, less allowance for doubtful accounts of $5 in 2015 and $6 in 2014 	673 	755
+Row:Other 	115 	117
+Row:Inventories 	625 	654
+Row:Other current assets 	108 	111
+Row:Current assets of disposal group held for sale 		27
+Row:Total current assets 	2,474 	2,954
+Row:Goodwill 	80 	90
+Row:Intangibles 	102 	169
+Row:Other noncurrent assets 	353 	312
+Row:Investments in affiliates 	150 	204
+Row:Property, plant and equipment, net 	1,167 	1,176
+Row:Total assets $ 	4,326 $ 	4,905
+Row:Current liabilities
+		Row:Notes payable, including current portion of long-term debt 	$ 22 	$ 65
+Row:Accounts payable 	712 	791
+Row:Accrued payroll and employee benefits 	145 	158
+Row:Taxes on income 	19 	32
+Row:Other accrued liabilities 	193 	194
+Row:Current liabilities of disposal group held for sale 		21
+Row:Total current liabilities 	1,091 	1,261
+Row:Long-term debt, less debt issuance costs of $21 in 2015 and $25 in 2014 	1,553 	1,588
+Row:Pension and postretirement obligations 	521 	580
+Row:Other noncurrent liabilities 	330 	279
+Row:Noncurrent liabilities of disposal group held for sale 		17
+Row:Total liabilities 	3,495 	3,725
+Row:Commitments and contingencies (Note 14)
+		Row:Preferred stock, 50,000,000 shares authorized, $0.01 par value, no shares outstanding 	— 	—
+Row:Common stock, 450,000,000 shares authorized, $0.01 par value, 150,068,040 and 166,070,057 shares outstanding 	2 	2
+Row:Additional paid-in capital 	2,311 	2,640
+Row:Accumulated deficit 	(410) 	(532)
+Row:Treasury stock, at cost (23,963 and 1,588,990 shares) 	(1) 	(33)
+Row:Accumulated other comprehensive loss 	(1,174) 	(997)
+Row:Total parent company stockholders' equity 	728 	1,080
+Row:Noncontrolling equity 	103 	100
+Row:Total equity 	831 	1,180
+Row:Total liabilities and equity $ 	4,326 	$ 4,905
+Row:2015 	2014 2013
+Row:Operating activities
+	Row:Net income $ 180 	$ 328 $ 260
+Row:Depreciation 158 	164 175
+Row:Amortization of intangibles 16 	49 87
+Row:Amortization of deferred financing charges 5 	5 5
+Row:Call premium on senior notes 2 Write off of deferred financing costs 1 Earnings of affiliates, net of dividends received 12 	15
+4 4
+4 (2)
+Row:Stock compensation expense 14 	16 16
+Row:Deferred income taxes (10) 	(199) (10)
+Row:Pension expense (contributions), net (18) 	30 (60)
+Row:Impairment of long-lived assets 36
+	Row:Impairment of equity affiliate 39
+	Row:Loss on disposal group held for sale 	78
+Row:Interest payment received on payment-in-kind note receivable 	40 26
+Row:Change in working capital (41) Change in other noncurrent assets and liabilities (7) 	(39) 104
+(16) (3)
+Row:Other, net 19 	31 (25)
+Row:Net cash provided by operating activities 406 	510 577
+Row:Investing activities
+	Row:Purchases of property, plant and equipment (260) 	(234) (209)
+Row:Principal payment received on payment-in-kind note receivable 	35 33
+Row:Purchases of marketable securities (43) 	(84) (84)
+Row:Proceeds from sales of marketable securities 17 	7 28
+Row:Proceeds from maturities of marketable securities 30 	21 8
+Row:Proceeds from sale of businesses 	9 1
+Row:Other (2) 	1
+Row:Net cash used in investing activities (258) 	(246) (222)
+Row:Financing activities
+	Row:Net change in short-term debt (5) 	(8) (14)
+Row:Proceeds from letters of credit 	12
+Row:Repayment of letters of credit (4) 	(8)
+Row:Proceeds from long-term debt 18 	448 817
+Row:Repayment of long-term debt (60) 	(372) (57)
+Row:Call premium on senior notes (2) 	(15)
+Row:Deferred financing payments 	(7) (17)
+Row:Preferred stock redemption 	(474)
+Row:Dividends paid to preferred stockholders 	(8) (28)
+Row:Dividends paid to common stockholders (37) 	(32) (30)
+Row:Distributions to noncontrolling interests (9) 	(9) (11)
+Row:Repurchases of common stock (311) 	(260) (337)
+Row:Other 7 	5 1
+Row:Net cash used in financing activities (403) 	(254) (150)
+Row:Net increase (decrease) in cash and cash equivalents (255) 	10 205
+Row:Cash and cash equivalents - beginning of period 1,121 	1,256 1,059
+Row:Effect of exchange rate changes on cash balances (75) 	(118) (8)
+Row:Less: cash of disposal group held for sale 	(27)
+Row:Cash and cash equivalents - end of period $ 791 	$ 1,121 $ 1,256

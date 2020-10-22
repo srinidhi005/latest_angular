@@ -1,0 +1,477 @@
+Row:	December 26,
+2015
+	December 27,
+2014
+	December 28,
+2013
+Row:Net revenue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(In millions, $3,991 	except per share $5,506 	amounts)
+$5,299
+Row:Cost of sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	2,911 	3,667 	3,321
+Row:Gross margin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,080 	1,839 	1,978
+Row:Research and development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	947 	1,072 	1,201
+Row:Marketing, general and administrative . . . . . . . . . . . . . . . . . . . . . . . . . . 	482 	604 	674
+Row:Amortization of acquired intangible assets . . . . . . . . . . . . . . . . . . . . . . . 	3 	14 	18
+Row:Restructuring and other special charges, net . . . . . . . . . . . . . . . . . . . . . . 	129 	71 	30
+Row:Goodwill impairment charge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	233 	—
+Row:Legal settlements, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	— 	(48)
+Row:Operating income (loss) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(481) 	(155) 	103
+Row:Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(160) 	(177) 	(177)
+Row:Other expense, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(5) 	(66) 	—
+Row:Loss before income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(646) 	(398) 	(74)
+Row:Provision for income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	14 	5 	9
+Row:Net loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (660) 	$ (403) 	$ (83)
+Row:Net loss per share
+			Row:Basic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (0.84) 	$ (0.53) 	$ (0.11)
+Row:Diluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (0.84) 	$ (0.53) 	$ (0.11)
+Row:Shares used in per share calculation
+			Row:Basic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	783 	768 	754
+Row:Diluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	783 	768 	754
+Row:	December 26,
+2015
+	Year Ended
+December 27,
+2014
+	December 28,
+2013
+Row:Net loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$(660) 	(In millions)
+$(403) 	$ (83)
+Row:Other comprehensive income (loss):
+Unrealized gains (losses) on available-for-sale securities:
+Unrealized gains (losses) arising during period, net of tax
+effect of $0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(2) 	— 	(1)
+Row:Reclassification adjustment for (gains) losses realized and
+included in net loss, net of tax effect of $0 . . . . . . . . . . . . . 	— 	— 	2
+Row:Total change in unrealized gains (losses) on available-for-
+sale securities, net of tax . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(2) 	— 	1
+Row:Unrealized gains (losses) on cash flow hedges:
+Unrealized gains (losses) arising during period, net of tax
+effect of $0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(22) 	(9) 	(6)
+Row:Reclassification adjustment for (gains) losses realized and
+included in net loss, net of tax effect of $0, $0 and $3 . . . . 	21 	6 	6
+Row:Total change in unrealized gains (losses) on cash flow
+hedges, net of tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1) 	(3) 	—
+Row:Total other comprehensive income (loss) . . . . . . . . . . . . . . . . 	(3) 	(3) 	1
+Row:Total comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$(663) 	$(406) 	$ (82)
+Row:		2015
+	2014
+Row:ASSETS
+	(In 	millions, except par amounts)
+	value
+Row:Current assets:
+			Row:Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . $ 	785 $ 	805
+Row:Marketable securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	— 	235
+Row:Accounts receivable, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	533 	818
+Row:Inventories, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	678 	685
+Row:Prepayments and other—GLOBALFOUNDRIES . . . . . . . . . . . . . . . . 	. . . . . . . . 	33 	113
+Row:Prepaid expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	43 	32
+Row:Other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	248 	48
+Row:Total current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	2,320 	2,736
+Row:Property, plant and equipment, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	188 	302
+Row:Acquisition related intangible assets, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	— 	65
+Row:Goodwill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	278 	320
+Row:Other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	323 	344
+Row:Total assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . $ 	3,109 $ 	3,767
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY (DEFICIT)
+			Row:Total assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 3,109 	$ 3,767
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY (DEFICIT)
+		Row:Current liabilities:
+		Row:Short-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 230 	$ 177
+Row:Accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	279 	415
+Row:Payable to GLOBALFOUNDRIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	245 	218
+Row:Accrued liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	472 	518
+Row:Other current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	124 	40
+Row:Deferred income on shipments to distributors . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	53 	72
+Row:Total current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,403 	1,440
+Row:Long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	2,032 	2,035
+Row:Other long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	86 	105
+Row:Commitments and contingencies (see Notes 15 and 16)
+Stockholders’ equity:
+Capital stock: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Common stock, par value $0.01; 1,500 shares authorized on December 26,
+2015 and December 27, 2014; shares issued: 806 shares on
+December 26, 2015 and 788 shares on December 27, 2014; shares
+outstanding: 792 shares on December 26, 2015 and 776 shares on
+		Row:December 27, 2014 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	8 	8
+Row:Additional paid-in capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	7,017 	6,949
+Row:Treasury stock, at cost (14 shares on December 26, 2015 and 12 shares on
+		Row:December 27, 2014 ) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(123) 	(119)
+Row:Accumulated deficit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(7,306) 	(6,646)
+Row:Accumulated other comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(8) 	(5)
+Row:Total stockholders’ equity (deficit) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(412) 	187
+Row:Total liabilities and stockholders’ equity (deficit) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 3,109 	$ 3,767
+Row:Short-term 	debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . $ 230 	$ 177
+Row:Accounts 	payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 279 	415
+Row:Payable Accrued 	to GLOBALFOUNDRIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 245 . . 472 	218
+518
+Row:Other 	current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 124 	40
+Row:Deferred 	income on shipments to distributors . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 53 	72
+Row:Long-term 	Total current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 1,403 . . 2,032 	1,440
+2,035
+Row:Other long-term 	liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 86 	105
+Row:December 27, 	2014 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	8 	8
+Row:Additional paid-in capital Treasury stock, at cost 	. (14 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . shares on December 26, 2015 and 12 shares on
+	. 	7,017 	6,949
+Row:December 27, 2014 	) . . . 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	(123) 	(119)
+Row:Accumulated deficit . . 	. . . . 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	(7,306) 	(6,646)
+Row:Accumulated other 	comprehensive 	loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	(8) 	(5)
+Row:Total stockholders’ 		equity (deficit) . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	(412) 	187
+Row:liabilities and stockholders’ 		equity (deficit) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	$ 3,109 	$ 3,767
+Row:December 26,
+	December 28,
+Year Ended
+December 27,
+Row:2015
+	2013
+2014
+Row:Cash flows from operating activities:
+	(In millions)
+Row:Net loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $(660) 	$ (403) $ (83)
+Row:Adjustments to reconcile net loss to net cash used in operating activities:
+	Row:Depreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167 	203 236
+Row:Net loss on disposal of property, plant and equipment . . . . . . . . . . . . — 	— 31
+Row:Stock-based compensation expense . . . . . . . . . . . . . . . . . . . . . . . . . . . 63 	81 91
+Row:Non-cash interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 	17 25
+Row:Goodwill impairment charge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . — 	233 —
+Row:Restructuring and other special charges, net . . . . . . . . . . . . . . . . . . . . 83 	14 —
+Row:Net loss on debt redemptions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . — 	61 1
+Row:Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (3) 	(13) (1)
+Row:Changes in operating assets and liabilities:
+	Row:Accounts receivable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 280 	7 (200)
+Row:Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (11) 	199 (322)
+Row:Prepayments and other—GLOBALFOUNDRIES . . . . . . . . . . . . . . . 84 	(113) —
+Row:Prepaid expenses and other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . (111) 	(7) (103)
+Row:Accounts payables, accrued liabilities and other . . . . . . . . . . . . . . . . . (156) 	(231) 266
+Row:Payable to GLOBALFOUNDRIES . . . . . . . . . . . . . . . . . . . . . . . . . . . 27 	(146) (89)
+Row:Net cash used in operating activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (226) 	(98) (148)
+Row:Cash flows from investing activities:
+	Row:Purchases of available-for-sale securities (227) 	(790) (1,043)
+Row:Purchases of property, plant and equipment (96) 	(95) (84)
+Row:Proceeds from sales and maturities of available-for-sale securities . . . . . . 462 	873 1,344
+Row:Proceeds from sale of property, plant and equipment . . . . . . . . . . . . . . . . . 8 	— 238
+Row:Net cash provided by (used in) investing activities . . . . . . . . . . . . . . . . . . . . . . . 147 	(12) 455
+Row:Cash flows from financing activities:
+	Row:Proceeds from borrowings, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100 	1,155 55
+Row:Proceeds from issuance of common stock . . . . . . . . . . . . . . . . . . . . . . . . . . 5 	4 3
+Row:Repayments of long-term debt and capital lease obligations . . . . . . . . . . . . (44) 	(1,115) (55)
+Row:Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (2) 	2 10
+Row:Net cash provided by financing activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59 	46 13
+Row:Net increase (decrease) in cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . (20) 	(64) 320
+Row:Cash and cash equivalents at beginning of year . . . . . . . . . . . . . . . . . . . . . . . . . 805 	869 549
+Row:Cash and cash equivalents at end of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 785 	$ 805 $ 869
+Row:Supplemental disclosures of cash flow information:
+	Row:Cash paid during the year for: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+	Row:Interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 149 	$ 138 $ 152
+Row:Income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 3 	$ 7 $ 9
+Row:	December 26,
+2015
+	December 27,
+2014
+	December 28,
+2013
+Row:Net revenue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(In millions, $3,991 	except per share $5,506 	amounts)
+$5,299
+Row:Cost of sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	2,911 	3,667 	3,321
+Row:Gross margin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,080 	1,839 	1,978
+Row:Research and development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	947 	1,072 	1,201
+Row:Marketing, general and administrative . . . . . . . . . . . . . . . . . . . . . . . . . . 	482 	604 	674
+Row:Amortization of acquired intangible assets . . . . . . . . . . . . . . . . . . . . . . . 	3 	14 	18
+Row:Restructuring and other special charges, net . . . . . . . . . . . . . . . . . . . . . . 	129 	71 	30
+Row:Goodwill impairment charge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	233 	—
+Row:Legal settlements, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	— 	(48)
+Row:Operating income (loss) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(481) 	(155) 	103
+Row:Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(160) 	(177) 	(177)
+Row:Other expense, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(5) 	(66) 	—
+Row:Loss before income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(646) 	(398) 	(74)
+Row:Provision for income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	14 	5 	9
+Row:Net loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (660) 	$ (403) 	$ (83)
+Row:Net loss per share
+			Row:Basic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (0.84) 	$ (0.53) 	$ (0.11)
+Row:Diluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ (0.84) 	$ (0.53) 	$ (0.11)
+Row:Shares used in per share calculation
+			Row:Basic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	783 	768 	754
+Row:Diluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	783 	768 	754
+Row:	December 26,
+2015
+	Year Ended
+December 27,
+2014
+	December 28,
+2013
+Row:Net loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$(660) 	(In millions)
+$(403) 	$ (83)
+Row:Other comprehensive income (loss):
+Unrealized gains (losses) on available-for-sale securities:
+Unrealized gains (losses) arising during period, net of tax
+effect of $0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(2) 	— 	(1)
+Row:Reclassification adjustment for (gains) losses realized and
+included in net loss, net of tax effect of $0 . . . . . . . . . . . . . 	— 	— 	2
+Row:Total change in unrealized gains (losses) on available-for-
+sale securities, net of tax . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(2) 	— 	1
+Row:Unrealized gains (losses) on cash flow hedges:
+Unrealized gains (losses) arising during period, net of tax
+effect of $0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(22) 	(9) 	(6)
+Row:Reclassification adjustment for (gains) losses realized and
+included in net loss, net of tax effect of $0, $0 and $3 . . . . 	21 	6 	6
+Row:Total change in unrealized gains (losses) on cash flow
+hedges, net of tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1) 	(3) 	—
+Row:Total other comprehensive income (loss) . . . . . . . . . . . . . . . . 	(3) 	(3) 	1
+Row:Total comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$(663) 	$(406) 	$ (82)
+Row:		2015
+	2014
+Row:ASSETS
+	(In 	millions, except par amounts)
+	value
+Row:Current assets:
+			Row:Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . $ 	785 $ 	805
+Row:Marketable securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	— 	235
+Row:Accounts receivable, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	533 	818
+Row:Inventories, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	678 	685
+Row:Prepayments and other—GLOBALFOUNDRIES . . . . . . . . . . . . . . . . 	. . . . . . . . 	33 	113
+Row:Prepaid expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	43 	32
+Row:Other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	248 	48
+Row:Total current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	2,320 	2,736
+Row:Property, plant and equipment, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	188 	302
+Row:Acquisition related intangible assets, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	— 	65
+Row:Goodwill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	278 	320
+Row:Other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . 	323 	344
+Row:Total assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . $ 	3,109 $ 	3,767
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY (DEFICIT)
+			Row:Total assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 3,109 	$ 3,767
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY (DEFICIT)
+		Row:Current liabilities:
+		Row:Short-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 230 	$ 177
+Row:Accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	279 	415
+Row:Payable to GLOBALFOUNDRIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	245 	218
+Row:Accrued liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	472 	518
+Row:Other current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	124 	40
+Row:Deferred income on shipments to distributors . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	53 	72
+Row:Total current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,403 	1,440
+Row:Long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	2,032 	2,035
+Row:Other long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	86 	105
+Row:Commitments and contingencies (see Notes 15 and 16)
+Stockholders’ equity:
+Capital stock: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Common stock, par value $0.01; 1,500 shares authorized on December 26,
+2015 and December 27, 2014; shares issued: 806 shares on
+December 26, 2015 and 788 shares on December 27, 2014; shares
+outstanding: 792 shares on December 26, 2015 and 776 shares on
+		Row:December 27, 2014 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	8 	8
+Row:Additional paid-in capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	7,017 	6,949
+Row:Treasury stock, at cost (14 shares on December 26, 2015 and 12 shares on
+		Row:December 27, 2014 ) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(123) 	(119)
+Row:Accumulated deficit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(7,306) 	(6,646)
+Row:Accumulated other comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(8) 	(5)
+Row:Total stockholders’ equity (deficit) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(412) 	187
+Row:Total liabilities and stockholders’ equity (deficit) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 3,109 	$ 3,767
+Row:Short-term 	debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . $ 230 	$ 177
+Row:Accounts 	payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 279 	415
+Row:Payable Accrued 	to GLOBALFOUNDRIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 245 . . 472 	218
+518
+Row:Other 	current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 124 	40
+Row:Deferred 	income on shipments to distributors . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 53 	72
+Row:Long-term 	Total current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 1,403 . . 2,032 	1,440
+2,035
+Row:Other long-term 	liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 86 	105
+Row:December 27, 	2014 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	8 	8
+Row:Additional paid-in capital Treasury stock, at cost 	. (14 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . shares on December 26, 2015 and 12 shares on
+	. 	7,017 	6,949
+Row:December 27, 2014 	) . . . 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	(123) 	(119)
+Row:Accumulated deficit . . 	. . . . 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	(7,306) 	(6,646)
+Row:Accumulated other 	comprehensive 	loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	(8) 	(5)
+Row:Total stockholders’ 		equity (deficit) . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	(412) 	187
+Row:liabilities and stockholders’ 		equity (deficit) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 	$ 3,109 	$ 3,767
+Row:December 26,
+	December 28,
+Year Ended
+December 27,
+Row:2015
+	2013
+2014
+Row:Cash flows from operating activities:
+	(In millions)
+Row:Net loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $(660) 	$ (403) $ (83)
+Row:Adjustments to reconcile net loss to net cash used in operating activities:
+	Row:Depreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167 	203 236
+Row:Net loss on disposal of property, plant and equipment . . . . . . . . . . . . — 	— 31
+Row:Stock-based compensation expense . . . . . . . . . . . . . . . . . . . . . . . . . . . 63 	81 91
+Row:Non-cash interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 	17 25
+Row:Goodwill impairment charge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . — 	233 —
+Row:Restructuring and other special charges, net . . . . . . . . . . . . . . . . . . . . 83 	14 —
+Row:Net loss on debt redemptions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . — 	61 1
+Row:Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (3) 	(13) (1)
+Row:Changes in operating assets and liabilities:
+	Row:Accounts receivable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 280 	7 (200)
+Row:Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (11) 	199 (322)
+Row:Prepayments and other—GLOBALFOUNDRIES . . . . . . . . . . . . . . . 84 	(113) —
+Row:Prepaid expenses and other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . (111) 	(7) (103)
+Row:Accounts payables, accrued liabilities and other . . . . . . . . . . . . . . . . . (156) 	(231) 266
+Row:Payable to GLOBALFOUNDRIES . . . . . . . . . . . . . . . . . . . . . . . . . . . 27 	(146) (89)
+Row:Net cash used in operating activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (226) 	(98) (148)
+Row:Cash flows from investing activities:
+	Row:Purchases of available-for-sale securities (227) 	(790) (1,043)
+Row:Purchases of property, plant and equipment (96) 	(95) (84)
+Row:Proceeds from sales and maturities of available-for-sale securities . . . . . . 462 	873 1,344
+Row:Proceeds from sale of property, plant and equipment . . . . . . . . . . . . . . . . . 8 	— 238
+Row:Net cash provided by (used in) investing activities . . . . . . . . . . . . . . . . . . . . . . . 147 	(12) 455
+Row:Cash flows from financing activities:
+	Row:Proceeds from borrowings, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100 	1,155 55
+Row:Proceeds from issuance of common stock . . . . . . . . . . . . . . . . . . . . . . . . . . 5 	4 3
+Row:Repayments of long-term debt and capital lease obligations . . . . . . . . . . . . (44) 	(1,115) (55)
+Row:Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (2) 	2 10
+Row:Net cash provided by financing activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59 	46 13
+Row:Net increase (decrease) in cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . (20) 	(64) 320
+Row:Cash and cash equivalents at beginning of year . . . . . . . . . . . . . . . . . . . . . . . . . 805 	869 549
+Row:Cash and cash equivalents at end of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 785 	$ 805 $ 869
+Row:Supplemental disclosures of cash flow information:
+	Row:Cash paid during the year for: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+	Row:Interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 149 	$ 138 $ 152
+Row:Income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 3 	$ 7 $ 9
+Row:	December 26,
+2015
+	December 27,
+2014
+	December 28,
+2013
+Row:Net revenue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(In millions, $3,991 	except per share $5,506 	amounts)
+$5,299
+Row:Cost of sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Gross margin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	2,911 1,080 	3,667 1,839 	3,321
+1,978
+Row:Research and development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	947 	1,072 	1,201
+Row:Marketing, general and administrative . . . . . . . . . . . . . . . . . . . . . . . . . . 	482 	604 	674
+Row:Amortization of acquired intangible assets . . . . . . . . . . . . . . . . . . . . . . . 	3 	14 	18
+Row:Restructuring and other special charges, net . . . . . . . . . . . . . . . . . . . . . . 	129 	71 	30
+Row:Goodwill impairment charge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	233 	—
+Row:Legal settlements, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	— 	(48)
+Row:Operating income (loss) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Other expense, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(481) (160) (5) 	(155) (177) (66) 	103
+(177)
+—
+Row:Loss before income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Provision for income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(646) 14 	(398) 5 	(74)
+9
+Row:Net loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	(660) 	$ (403) 	$ (83)
+Row:Net loss per share
+			Row:Basic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	(0.84) 	$ (0.53) 	$ (0.11)
+Row:Diluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ Shares used in per share calculation
+	(0.84) 	$ (0.53) 	$ (0.11)
+Row:Basic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	783 	768 	754
+Row:Diluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	783 	768 	754
+Row:December 	26,
+2015
+	December 27,
+2014
+	December 28,
+2013
+Row:		(In millions)
+	Row:Net loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$(660) 	$(403) 	$ (83)
+Row:Other comprehensive income (loss):
+			Row:Unrealized gains (losses) on available-for-sale securities:
+			Row:Unrealized gains (losses) arising during period, net of tax
+			Row:effect of $0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Reclassification adjustment for (gains) losses realized and
+	(2) 	— 	(1)
+Row:included in net loss, net of tax effect of $0 . . . . . . . . . . . . . 	— 	— 	2
+Row:Total change in unrealized gains (losses) on available-for-
+sale securities, net of tax . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(2) 	— 	1
+Row:Unrealized gains (losses) on cash flow hedges:
+Unrealized gains (losses) arising during period, net of tax
+			Row:effect of $0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(22) 	(9) 	(6)
+Row:Reclassification adjustment for (gains) losses realized and
+			Row:included in net loss, net of tax effect of $0, $0 and $3 . . . . 	21 	6 	6
+Row:Total change in unrealized gains (losses) on cash flow
+hedges, net of tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1) 	(3) 	—
+Row:Total other comprehensive income (loss) . . . . . . . . . . . . . . . . 	(3) 	(3) 	1
+Row:Total comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$(663) 	$(406) 	$ (82)
+Row:December 26,
+	December 27,
+Row:2015
+	2014
+Row:Current assets:
+		Row:Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	785 	$ 805
+Row:Marketable securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	235
+Row:Accounts receivable, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	533 	818
+Row:Inventories, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	678 	685
+Row:Prepayments and other—GLOBALFOUNDRIES . . . . . . . . . . . . . . . . . . . . . . . . 	33 	113
+Row:Prepaid expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Total current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Property, plant and equipment, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	43 248 2,320 188 	32
+48
+2,736
+302
+Row:Acquisition related intangible assets, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	65
+Row:Goodwill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	278 	320
+Row:Other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	323 	344
+Row:Total assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	3,109 	$ 3,767
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY (DEFICIT)
+		Row:Current liabilities:
+		Row:Short-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	230 	$ 177
+Row:Accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	279 	415
+Row:Payable to GLOBALFOUNDRIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	245 	218
+Row:Accrued liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	472 	518
+Row:Other current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	124 	40
+Row:Deferred income on shipments to distributors . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	53 	72
+Row:Short-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 230 	$ 177
+Row:Accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Payable to GLOBALFOUNDRIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	279 245 	415
+218
+Row:Accrued liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	472 	518
+Row:Other current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	124 	40
+Row:Deferred income on shipments to distributors . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	53 	72
+Row:Total current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,403 	1,440
+Row:Long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	2,032 	2,035
+Row:Other long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	86 	105
+Row:Other current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Deferred income on shipments to distributors . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	124 53 	40
+72
+Row:Total current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,403 2,032 	1,440
+2,035
+Row:Other long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	86 	105
+Row:Commitments and contingencies (see Notes 15 and 16)
+		Row:Stockholders’ equity:
+		Row:Capital stock: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Common stock, par value $0.01; 1,500 shares authorized on December 26,
+		Row:2015 and December 27, 2014; shares issued: 806 shares on
+		Row:December 26, 2015 and 788 shares on December 27, 2014; shares
+		Row:outstanding: 792 shares on December 26, 2015 and 776 shares on
+		Row:December 27, 2014 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	8 	8
+Row:Additional paid-in capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	7,017 	6,949
+Row:Treasury stock, at cost (14 shares on December 26, 2015 and 12 shares on
+		Row:December 27, 2014 ) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(123) 	(119)
+Row:Accumulated deficit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Accumulated other comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(7,306) (8) 	(6,646)
+(5)
+Row:Total stockholders’ equity (deficit) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(412) 	187
+Row:Total liabilities and stockholders’ equity (deficit) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	3,109 	$ 3,767
+Row:Cash flows from operating activities:
+	2015
+	(In millions)
+2014
+	2013
+Row:Net loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Adjustments to reconcile net loss to net cash used in operating activities:
+Depreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$(660) 167 	$ (403) 203 	$ (83)
+236
+Row:Net loss on disposal of property, plant and equipment . . . . . . . . . . . . Stock-based compensation expense . . . . . . . . . . . . . . . . . . . . . . . . . . . Non-cash interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Goodwill impairment charge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Restructuring and other special charges, net . . . . . . . . . . . . . . . . . . . . Net loss on debt redemptions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 63 11 — 83 — 	— 81 17 233 14 61 	31
+91
+25
+—
+—
+1
+Row:Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(3) 	(13) 	(1)
+Row:Changes in operating assets and liabilities:
+			Row:Accounts receivable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	280 	7 	(200)
+Row:Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Prepayments and other—GLOBALFOUNDRIES . . . . . . . . . . . . . . . 	(11) 84 	199 (113) 	(322)
+—
+Row:Prepaid expenses and other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(111) 	(7) 	(103)
+Row:Accounts payables, accrued liabilities and other . . . . . . . . . . . . . . . . . Payable to GLOBALFOUNDRIES . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(156) 27 	(231) (146) 	266
+(89)
+Row:Net cash used in operating activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(226) 	(98) 	(148)
+Row:Cash flows from investing activities:
+			Row:Purchases of available-for-sale securities Purchases of property, plant and equipment Proceeds from sales and maturities of available-for-sale securities . . . . . . Proceeds from sale of property, plant and equipment . . . . . . . . . . . . . . . . . 	(227) (96) 462 8 	(790) (95) 873 — 	(1,043)
+(84)
+1,344
+238
+Row:Net cash provided by (used in) investing activities . . . . . . . . . . . . . . . . . . . . . . . 	147 	(12) 	455
+Row:Cash flows from financing activities:
+			Row:Proceeds from borrowings, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Proceeds from issuance of common stock . . . . . . . . . . . . . . . . . . . . . . . . . . Repayments of long-term debt and capital lease obligations . . . . . . . . . . . . Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	100 5 (44) (2) 	1,155 4 (1,115) 2 	55
+3
+(55)
+10
+Row:Net cash provided by financing activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	59 	46 	13
+Row:Net increase (decrease) in cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . 	(20) 	(64) 	320
+Row:Cash and cash equivalents at beginning of year . . . . . . . . . . . . . . . . . . . . . . . . . 	805 	869 	549
+Row:Cash and cash equivalents at end of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 785 	$ 805 	$ 869
+Row:Supplemental disclosures of cash flow information:
+Cash paid during the year for: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+			

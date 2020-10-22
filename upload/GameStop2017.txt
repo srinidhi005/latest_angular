@@ -1,0 +1,350 @@
+Row:2018
+	2017
+Row:$
+864.4
+	$
+669.4
+Row:182.7
+	220.9
+Row:1,366.7
+	1,121.5
+Row:124.9
+	128.9
+Row:2,538.7
+	2,140.7
+Row:19.9
+	18.6
+Row:769.8
+	724.5
+Row:973.5
+	931.4
+Row:1,763.2
+	1,674.5
+Row:1,330.0
+	1,203.5
+Row:433.2
+	471.0
+Row:158.2
+	59.0
+Row:1,667.3
+	1,725.2
+Row:169.5
+	507.2
+Row:74.7
+	72.8
+Row:2,502.9
+	2,835.2
+Row:5,041.6
+$
+	4,975.9
+$
+Row:Current assets:
+Row:Cash and cash equivalents
+Row:Receivables, net
+Row:Merchandise inventories, net
+Row:Prepaid expenses and other current assets
+Row:Total current assets
+Row:Property and equipment:
+Row:Land
+Row:Buildings and leasehold improvements
+Row:Fixtures and equipment
+Row:Total property and equipment
+Row:Less accumulated depreciation.
+Row:Property and equipment, net
+Row:Deferred income taxes
+Row:Goodwill
+Row:Other intangible assets, net
+Row:Other noncurrent assets
+Row:Total noncurrent assets
+Row:Total assets
+Row:Current liabilities:
+Row:Accounts payable
+Row:Accrued liabilities
+Row:Income taxes payable
+Row:Total current liabilities
+Row:Deferred income taxes
+Row:Long-term debt, net
+Row:Other long-term liabilities
+Row:Total long-term liabilities
+Row:Total liabilities
+Row:Commitments and contingencies (Notes 7, 10 and 11)
+Row:Stockholders' equity:
+Row:Class A common stock — $.001 par value; authorized 300.0 shares; 101.3 and
+101.0 shares issued, 101.3 and 101.0 shares outstanding, respectively
+Row:Additional paid-in capital
+Row:Accumulated other comprehensive income (loss).
+Row:Retained earnings
+Row:Total stockholders' equity.
+Row:Total liabilities and stockholders' equity.
+Row:$
+902.0
+	$
+616.6
+Row:976.1
+	1,090.9
+Row:37.5
+	54.0
+Row:1,915.6
+	1,761.5
+Row:5.0
+	23.0
+Row:817.9
+	815.0
+Row:88.6
+	122.3
+Row:911.5
+	960.3
+Row:2,827.1
+	2,721.8
+Row:0.1
+		0.1
+Row:22.1
+		Row:12.2
+		(47.3)
+Row:2,180.1
+		2,301.3
+Row:2,214.5
+		2,254.1
+Row:5,041.6 	$
+	4,975.9
+Row:	2017
+	2016
+	2015
+Row:	9,224.6 6,184.5
+3,040.1
+2,363.0
+	$
+8,607.9 5,598.6
+3,009.3
+2,252.6
+	$
+9,363.8
+6,445.5
+2,918.3
+2,108.9
+Row:	150.7
+32.8
+358.0
+	165.2
+33.8
+	156.6
+4.6
+Row:	135.6
+(1.5)
+56.8
+	557.7
+(0.8)
+53.8
+	648.2
+(0.4)
+23.4
+Row:$
+	80.3
+45.6
+34.7
+	504.7
+151.5
+$
+353.2 	625.2
+222.4
+402.8
+$
+Row:Net sales
+Row:Cost of sales.
+Row:Gross profit
+Row:Selling, general and administrative expenses
+Row:Depreciation and amortization
+Row:Goodwill impairments
+Row:Asset impairments.
+Row:Operating earnings
+Row:Interest income
+Row:Interest expense
+Row:Earnings before income tax expense
+Row:Income tax expense
+Row:Net income
+Row:Earnings per share:
+Row:Basic
+Row:Diluted
+Row:Weighted average shares outstanding:
+Row:Basic
+Row:Diluted
+Row:0.34
+$
+A 	3.42 $
+	3.80
+Row:A
+0.34
+$
+	3.40 $
+	3.78
+Row:0.34
+$
+	3.42 	$
+	3.80
+Row:0.34
+$
+	3.40 	$
+	3.78
+Row:101.4
+	103.4
+		106.0
+Row:101.5
+	103.8
+		106.7
+Row:	Fiscal Year
+	Row:2017
+	2016
+	2015
+Row:$
+34.7
+	$
+353.2
+	$
+402.8
+Row:151.9
+	166.7
+	158.2
+Row:395.1
+	33.8
+	4.6
+Row:25.6
+	17.8
+	29.9
+Row:(107.9)
+	(37.2)
+	(1.5)
+Row:8.5
+	0.8
+10.4
+	(4.4)
+3.6
+Row:(6.4)
+		Row:24.9
+	15.5
+	(4.6)
+Row:35.7
+	(43.9)
+	(58.1)
+Row:(256.3)
+	14.7
+	(49.2)
+Row:(1.2)
+	(11.4)
+	(6.0)
+Row:(24.7)
+	(49.1)
+	95.9
+Row:169.8
+	64.1
+	91.4
+Row:(14.8)
+	1.7
+	(5.8)
+Row:434.9
+	537.1
+	656.8
+Row:(113.4)
+	(142.7)
+	(173.2)
+Row:(8.5)
+	(441.2)
+	(267.5)
+Row:55.0
+		Row:3.2
+	5.9
+	(3.9)
+Row:(63.7)
+	(578.0)
+	(444.6)
+Row:(21.8)
+	(0.4)
+	(2.2)
+Row:(22.0)
+	(63.1)
+	(194.3)
+Row:(155.2)
+	(155.5)
+475.0
+	(154.1)
+Row:373.0
+	545.0
+	463.0
+Row:(373.0)
+	(545.0)
+(8.1)
+	(463.0)
+Row:(3.5)
+	(8.4)
+(0.8)
+	4.4
+Row:(202.5)
+	238.7
+	(346.2)
+Row:26.3
+	21.2
+	(25.7)
+Row:195.0
+	219.0
+	(159.7)
+Row:669.4
+	450.4
+	610.1
+Row:$
+864.4
+	$
+669.4
+	$
+450.4
+Row:Cash flows from operating activities:
+Row:Net income
+Row:Adjustments to reconcile net income to net cash flows provided by operating
+activities:
+Row:Depreciation and amortization (including amounts in cost of sales).
+Row:Goodwill and asset impairments..
+Row:Stock-based compensation expense.
+Row:Deferred income taxes
+Row:Excess tax benefits related to stock-based awards
+Row:Loss on disposal of property and equipment.
+Row:Gain on divestiture.
+Row:Other
+Row:Changes in operating assets and liabilities:
+Row:Receivables, net
+Row:Merchandise inventories.
+Row:Prepaid expenses and other current assets
+Row:Prepaid income taxes and income taxes payable
+Row:Accounts payable and accrued liabilities.
+Row:Changes in other long-term liabilities.
+Row:Net cash flows provided by operating activities
+Row:Cash flows from investing activities:
+Row:Purchase of property and equipment
+Row:Acquisitions, net of cash acquired of $0.0, $0.1, and $13.9, respectively
+Row:Proceeds from divestiture
+Row:Other
+Row:Net cash flows used in investing activities.
+Row:Cash flows from financing activities:
+Row:Repayment of acquisition-related debt.
+Row:Repurchase of common shares
+Row:Dividends paid
+Row:Proceeds from senior notes.
+Row:Borrowings from the revolver
+Row:Repayments of revolver borrowings
+Row:Payments of financing costs
+Row:Issuance of common stock, net of share repurchases for withholding taxes
+Row:Excess tax benefits related to stock-based awards.
+Row:Net cash flows (used in) provided by financing activities
+Row:Exchange rate effect on cash and cash equivalents
+Row:Increase (decrease) in cash and cash equivalents
+Row:Cash and cash equivalents at beginning of period
+Row:Cash and cash equivalents at end of period
+Row:SUPPLEMENTAL CASH FLOW INFORMATION:
+Row:Interest paid
+Row:Income taxes paid
+Row:	14.0
+		23.3 	$
+	21.8
+Row:$
+	168.3
+	$
+	230.1
+	$
+	122.2

@@ -1,0 +1,161 @@
+Row:Common stock $.01 par value; authorized 3.2 billion shares; issued 1,172,513,618 at August 31,
+	Row:2019 and 2018 	12 12
+Row:Paid-in capital 	10,639 10,493
+Row:Retained earnings 	35,815 33,551
+Row:Accumulated other comprehensive loss 	(3,897) (3,002)
+Row:Treasury stock, at cost; 277,126,116 shares at August 31, 2019 and 220,380,200 shares at
+	Row:August 31, 2018 	(19,057) (15,047)
+Row:Total Walgreens Boots Alliance, Inc. shareholders’ equity 	23,512 26,007
+Row:Noncontrolling interests 	641 682
+Row:Total equity 	24,152 26,689
+Row:liabilities and equity 	$ 67,598 $ 68,124
+Row:	Common stock
+shares
+	Common
+stock
+amount
+	Treasury
+stock
+amount
+	Paid-in
+capital
+	stock
+loan
+receivable
+	other
+comprehensive
+income (loss)
+	Retained
+earnings
+	Noncontrolling
+interests
+	Total
+equity
+Row:August 31, 2016 	1,082,986,591 	$12 	$ (4,934) 	$10,111 	$ (1) 	$(2,992) 	$27,684 	$ 401 	$30,281
+Row:Net earnings Other comprehensive
+income (loss), net of
+tax Dividends declared and
+	— — 	— — 	— — 	— — 	— — 	— (59) 	4,078 — 	23 (36) 	4,101
+(95)
+Row:distributions Treasury stock
+purchases Employee stock
+	— (64,589,677) 	— — 	— (5,220) 	— — 	— — 	— — 	(1,625) — 	(98) — 	(1,723)
+(5,220)
+Row:purchase and option
+plans Stock-based
+	5,452,156 	— 	183 	34 	1 	— 	— 	— 	218
+Row:compensation Noncontrolling interests
+acquired and arising
+on business
+combinations 	— — 	— 	— — 	91 103 	— — 	— — 	— — 	— 518 	91
+621
+Row:August 31, 2017 	1,023,849,070 	$12 	$ (9,971) 	$10,339 	$— 	$(3,051) 	$30,137 	$ 808 	$28,274
+Row:Net earnings Other comprehensive
+	— 	— 	— 	— 	— 	— 	5,024 	7 	5,031
+Row:income (loss), net of
+tax Dividends declared and
+	— 	— 	— 	— 	— 	49 	— 	1 	50
+Row:distributions 	— 	— 	— 	— 	— 	— 	(1,610) 	(138) 	(1,748)
+Row:Treasury stock
+purchases 	(76,069,557) 	— 	(5,228) 	— 	— 	— 	— 	— 	(5,228)
+Row:Employee stock
+purchase and option
+plans 	4,353,905 	— 	152 	22 	— 	— 	— 	— 	174
+Row:Stock-based
+compensation 	— 	— 	— 	130 	— 	— 	— 	— 	130
+Row:Noncontrolling interests
+contribution and other 	— 	— 	— 	2 	— 	— 	— 	4 	6
+Row:August 31, 2018 	952,133,418 	$12 	$ (15,047) 	$10,493 	$— 	$(3,002) 	$33,551 	$ 682 	$26,689
+Row:Net earnings Other comprehensive
+income (loss), net of
+tax 	— — 	— — 	— — 	— — 	— — 	— (896) 	3,982 — 	(20) (13) 	3,962
+(909)
+Row:Dividends declared and
+distributions 	— 	— 	— 	— 	— 	— 	(1,629) 	(3) 	(1,632)
+Row:Treasury stock
+purchases 	(61,723,456) 	— 	(4,160) 	— 	— 	— 	— 	— 	(4,160)
+Row:Employee stock
+purchase and option
+plans 	4,977,540 	— 	150 	24 	— 	— 	— 	— 	174
+Row:Stock-based
+compensation Adoption of new
+accounting standards 	— — 	— — 	— — 	119 — 	— — 	— — 	— (88) 	— — 	119
+(88)
+Row:Noncontrolling interests
+contribution and other 	— 	— 	— 	3 	— 	— 	(1) 	(5) 	(3)
+Row:August 31, 2019 	895,387,502 	$12 	$(19,057) 	$10,639 	$— 	$(3,897) 	$35,815 	$ 641 	$24,152
+Row:	2019 	2018 	2017
+Row:Sales 	$136,866 	$131,537 	$118,214
+Row:Cost of sales 	106,790 	100,745 	89,052
+Row:Gross profit 	30,076 	30,792 	29,162
+Row:Selling, general and administrative expenses 	25,242 	24,694 	23,813
+Row:Equity earnings in AmerisourceBergen 	164 	191 	135
+Row:Operating income 	4,998 	6,289 	5,484
+Row:Other income 	233 	302 	62
+Row:Earnings before interest and income tax provision 	5,231 	6,591 	5,546
+Row:Interest expense, net 	704 	616 	693
+Row:Earnings before income tax provision 	4,527 	5,975 	4,853
+Row:Income tax provision 	588 	998 	760
+Row:Post tax earnings from other equity method investments 	23 	54 	8
+Row:Net earnings 	3,962 	5,031 	4,101
+Row:Net (loss) earnings attributable to noncontrolling interests 	(20) 	7 	23
+Row:Net earnings attributable to Walgreens Boots Alliance, Inc. 	$ 3,982 	$ 5,024 	$ 4,078
+Row:Net earnings per common share:
+Basic Diluted 	$ 4.32 $ 4.31 	$ 5.07 $ 5.05 	$ 3.80
+$ 3.78
+Row:Weighted average common shares outstanding:
+			Row:Basic 	921.5 	991.0 	1,073.5
+Row:Diluted 	923.5 	995.0 	1,078.5
+Row:	2019 2018 	2017
+Row:Comprehensive income:
+		Row:Net earnings 	$3,962 $5,031 	$4,101
+Row:Other comprehensive income (loss), net of tax:
+		Row:Pension/postretirement obligations 	(149) 240 	73
+Row:Unrealized gain on cash flow hedges 	60 3 	4
+Row:Unrecognized (loss) on available-for-sale investments 	— — 	(2)
+Row:Share of other comprehensive income (loss) of equity method investments 	(1) 5 	(1)
+Row:Currency translation adjustments 	(820) (198) 	(169)
+Row:Total other comprehensive income (loss) 	(909) 50 	(95)
+Row:Total comprehensive income 	3,053 5,081 	4,006
+Row:Comprehensive income (loss) attributable to noncontrolling interests 	(33) 8 	(13)
+Row:Comprehensive income attributable to Walgreens Boots Alliance, Inc. 	$3,086 $5,073 	$4,019
+Row:	2019 	2018 	2017
+Row:Cash flows from operating activities:
+			Row:Net earnings $ 	3,962 	$ 5,031 	$ 4,101
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities:
+			Row:Depreciation and amortization 	2,038 	1,770 	1,654
+Row:Gain on previously held equity interest 	— 	(337) 	—
+Row:Deferred income taxes 	100 	(322) 	(434)
+Row:Stock compensation expense 	119 	130 	91
+Row:Equity earnings from equity method investments 	(187) 	(244) 	(143)
+Row:Other 	302 	296 	364
+Row:Changes in operating assets and liabilities:
+			Row:Accounts receivable, net Inventories Other current assets 	(789) 141 (112) 	(391) 331 (22) 	(153)
+98
+—
+Row:Trade accounts payable 	954 	1,352 	1,684
+Row:Accrued expenses and other liabilities 	(374) 	287 	(128)
+Row:Income taxes 	(406) 	694 	44
+Row:Other non-current assets and liabilities 	(154) 	(311) 	77
+Row:Net cash provided by operating activities 	5,594 	8,263 	7,255
+Row:Cash flows from investing activities:
+			Row:Additions to property, plant and equipment 	(1,702) 	(1,367) 	(1,351)
+Row:Proceeds from sale leaseback transactions 	3 	— 	444
+Row:Proceeds from sale of other assets 	117 	655 	59
+Row:Business, investment and asset acquisitions, net of cash acquired Other Net cash used for investing activities 	(741) 16 (2,307) 	(4,793) 4 (5,501) 	(88)
+93
+(843)
+Row:Cash flows from financing activities:
+			Row:Net change in short-term debt with maturities of 3 months or less 	536 	586 	33
+Row:Proceeds from debt 	12,433 	5,900 	—
+Row:Payments of debt 	(10,461) 	(4,890) 	(6,196)
+Row:Stock purchases 	(4,160) 	(5,228) 	(5,220)
+Row:Proceeds related to employee stock plans 	174 	174 	217
+Row:Cash dividends paid 	(1,643) 	(1,739) 	(1,723)
+Row:Other Net cash used for financing activities 	75 (3,047) 	(98) (5,295) 	(45)
+(12,934)
+Row:Effect of exchange rate changes on cash, cash equivalents and restricted cash 	(9) 	11 	26
+Row:Changes in cash, cash equivalents and restricted cash
+			Row:Net increase (decrease) in cash, cash equivalents, and restricted cash 	232 	(2,522) 	(6,496)
+Row:Cash, cash equivalents and restricted cash at beginning of period 	975 	3,496 	9,992
+Row:Cash, cash equivalents and restricted cash at end of period $ 	1,207 	$ 975 	$ 3,496

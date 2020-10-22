@@ -1,0 +1,109 @@
+Row:Fiscal year 	2016 	2015 	2014
+Row:Net sales 	$14,498 	$14,095 	$13,110
+Row:Credit card revenues, net 	259 	342 	396
+Row:Total revenues 	14,757 	14,437 	13,506
+Row:Cost of sales and related buying and occupancy costs 	(9,440) 	(9,168) 	(8,406)
+Row:Selling, general and administrative expenses 	(4,315) 	(4,168) 	(3,777)
+Row:Goodwill impairment 	(197) 	— 	—
+Row:Earnings before interest and income taxes 	805 	1,101 	1,323
+Row:Interest expense, net 	(121) 	(125) 	(138)
+Row:Earnings before income taxes 	684 	976 	1,185
+Row:Income tax expense 	(330) 	(376) 	(465)
+Row:Net earnings 	$354 	$600 	$720
+Row:Earnings per share:
+			Row:Basic 	$2.05 	$3.22 	$3.79
+Row:Diluted 	$2.02 	$3.15 	$3.72
+Row:Weighted-average shares outstanding:
+			Row:Basic 	173.2 	186.3 	190.0
+Row:Diluted 	175.6 	190.1 	193.6
+Row:Fiscal year 	2016 	2015 	2014
+Row:Net earnings 	$354 	$600 	$720
+Row:Postretirement plan adjustments, net of tax of ($1), ($15) and $7 	1 	24 	(11)
+Row:Foreign currency translation adjustment 	14 	(18) 	(14)
+Row:Comprehensive net earnings 	$369 	$606 	$695
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$1,007 	$595
+Row:Accounts receivable, net 	199 	196
+Row:Merchandise inventories 	1,896 	1,945
+Row:Prepaid expenses and other 	140 	278
+Row:Total current assets 	3,242 	3,014
+Row:Land, property and equipment, net 	3,897 	3,735
+Row:Goodwill 	238 	435
+Row:Other assets 	481 	514
+Row:Total assets 	$7,858 	$7,698
+Row:Total assets 	$7,858 	$7,698
+Row:Liabilities and Shareholders’ Equity
+		Row:Current liabilities:
+		Row:Accounts payable 	$1,340 	$1,324
+Row:Accrued salaries, wages and related benefits 	455 	416
+Row:Other current liabilities 	1,223 	1,161
+Row:Current portion of long-term debt 	11 	10
+Row:Total current liabilities 	3,029 	2,911
+Row:Long-term debt, net 	2,763 	2,795
+Row:Deferred property incentives, net 	521 	540
+Row:Other liabilities 	675 	581
+Row:Commitments and contingencies (Note 10)
+		Row:Shareholders’ equity:
+		Row:Common stock, no par value: 1,000 shares authorized; 170.0 and 173.5 shares issued and
+outstanding 	2,707 	2,539
+Row:Accumulated deficit 	(1,794) 	(1,610)
+Row:Accumulated other comprehensive loss 	(43) 	(58)
+Row:Total shareholders’ equity 	870 	871
+Row:Total liabilities and shareholders’ equity 	$7,858 	$7,698
+Row:Fiscal year 	2016 	2015 	2014
+Row:Operating Activities
+			Row:Net earnings 	$354 	$600 	$720
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities:
+			Row:Depreciation and amortization expenses 	645 	576 	508
+Row:Goodwill impairment 	197 	— 	—
+Row:Amortization of deferred property incentives and other, net 	(75) 	(79) 	(76)
+Row:Deferred income taxes, net 	(15) 	142 	7
+Row:Stock-based compensation expense 	91 	70 	68
+Row:Tax (deficiency) benefit from stock-based compensation 	(1) 	15 	20
+Row:Excess tax benefit from stock-based compensation 	(5) 	(15) 	(22)
+Row:Bad debt expense 	— 	26 	41
+Row:Change in operating assets and liabilities:
+			Row:Accounts receivable 	(3) 	(56) 	(161)
+Row:Proceeds from sale of credit card receivables originated at Nordstrom 	— 	1,297 	—
+Row:Merchandise inventories 	31 	(203) 	(176)
+Row:Prepaid expenses and other assets 	100 	(126) 	(4)
+Row:Accounts payable 	16 	(2) 	15
+Row:Accrued salaries, wages and related benefits 	33 	(2) 	18
+Row:Other current liabilities 	181 	50 	155
+Row:Deferred property incentives 	65 	156 	110
+Row:Other liabilities 	34 	2 	(3)
+Row:Net cash provided by operating activities 	1,648 	2,451 	1,220
+Row:Investing Activities
+			Row:Capital expenditures 	(846) 	(1,082) 	(861)
+Row:Change in credit card receivables originated at third parties 	— 	34 	(8)
+Row:Proceeds from sale of credit card receivables originated at third parties 	— 	890 	—
+Row:Other, net 	55 	14 	(20)
+Row:Net cash used in investing activities 	(791) 	(144) 	(889)
+Row:Financing Activities
+			Row:Proceeds from long-term borrowings, net of discounts 	— 	16 	34
+Row:Principal payments on long-term borrowings 	(10) 	(8) 	(7)
+Row:Defeasance of long-term debt 	— 	(339) 	—
+Row:Increase (decrease) in cash book overdrafts 	4 	23 	(4)
+Row:Cash dividends paid 	(256) 	(1,185) 	(251)
+Row:Payments for repurchase of common stock 	(277) 	(1,192) 	(610)
+Row:Proceeds from issuances under stock compensation plans 	83 	94 	141
+Row:Excess tax benefit from stock-based compensation 	5 	15 	22
+Row:Other, net 	6 	37 	(23)
+Row:Net cash used in financing activities 	(445) 	(2,539) 	(698)
+Row:Net increase (decrease) in cash and cash equivalents 	412 	(232) 	(367)
+Row:Cash and cash equivalents at beginning of year 	595 	827 	1,194
+Row:Cash and cash equivalents at end of year 	$1,007 	$595 	$827
+Row:Supplemental Cash Flow Information
+			Row:Cash paid during the year for:
+			Row:Income taxes, net of refunds 	$112 	$383 	$391
+Row:Interest, net of capitalized interest 	134 	136 	152
+Row:Non-cash investing and financing activities:
+			Row:Beneficial interest asset acquired from the sale of credit card receivables 	— 	62 	—
+Row:Issuance of common stock for Trunk Club acquisition 	— 	23 	280
+Row:Investing Activities
+	Row:Capital expenditures 	(846) (1,082) (861)
+Row:Change in credit card receivables originated at third parties 	— 34 (8)
+Row:Proceeds from sale of credit card receivables originated at third parties 	— 890 —
+Row:Other, net 	55 14 (20)
+Row:Net cash used in investing activities 	(791) (144) (889)

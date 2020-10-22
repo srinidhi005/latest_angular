@@ -1,0 +1,120 @@
+Row:In thousands, except per share amounts 	Fiscal 2015 	Fiscal 2014 	Fiscal 2013
+Row:E-commerce net revenues 	$ 2,522,580 	$ 2,370,694 	$ 2,115,022
+Row:Retail net revenues 	2,453,510 	2,328,025 	2,272,867
+Row:Net revenues 	4,976,090 	4,698,719 	4,387,889
+Row:Cost of goods sold 	3,131,876 	2,898,215 	2,683,673
+Row:Gross profit 	1,844,214 	1,800,504 	1,704,216
+Row:Selling, general and administrative expenses 	1,355,580 	1,298,239 	1,252,118
+Row:Operating income 	488,634 	502,265 	452,098
+Row:Interest (income) expense, net 	627 	62 	(584)
+Row:Earnings before income taxes 	488,007 	502,203 	452,682
+Row:Income taxes 	177,939 	193,349 	173,780
+Row:Net earnings 	$ 310,068 	$ 308,854 	$ 278,902
+Row:Basic earnings per share 	$ 3.42 	$3.30 	$ 2.89
+Row:Diluted earnings per share 	$ 3.37 	$3.24 	$ 2.82
+Row:Shares used in calculation of earnings per share:
+			Row:Basic 	90,787 	93,634 	96,669
+Row:Diluted 	92,102 	95,200 	98,765
+Row:In thousands 	Fiscal 2015 	Fiscal 2014 	Fiscal 2013
+Row:Net earnings 	$ 310,068 	$ 308,854 	$ 278,902
+Row:Other comprehensive income (loss), net of tax:
+			Row:Foreign currency translation adjustments 	(7,958) 	(9,305) 	(7,850)
+Row:Change in fair value of derivative financial instruments 	1,074 	806 	870
+Row:Reclassification adjustment for realized gains on derivative
+			Row:financial instruments 	(1,184) 	(573) 	(129)
+Row:Comprehensive income 	$ 302,000 	$ 299,782 	$ 271,793
+Row:ASSETS
+Current assets
+Cash and cash equivalents 	$ 193,647 	$ 222,927
+Row:Accounts receivable, net 	79,304 	67,465
+Row:Merchandise inventories, net 	978,138 	887,701
+Row:Prepaid catalog expenses 	28,919 	33,942
+Row:Prepaid expenses 	44,654 	36,265
+Row:Deferred income taxes, net 	— 	130,618
+Row:Other assets 	11,438 	13,005
+Row:Total current assets 	1,336,100 	1,391,923
+Row:Property and equipment, net 	886,813 	883,012
+Row:Non-current deferred income taxes, net 	141,784 	4,265
+Row:Other assets, net 	52,730 	51,077
+Row:Totalassets 	$ 2,417,427 	$ 2,330,277
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+		Row:Current liabilities
+		Row:Accounts payable 	$ 447,412 	$ 397,037
+Row:Accrued salaries, benefits and other 	127,122 	136,012
+Row:Customer deposits 	296,827 	261,679
+Row:Income taxes payable 	67,052 	32,488
+Row:Current portion of long-term debt 	— 	1,968
+Row:Other liabilities 	58,014 	46,764
+Row:Total current liabilities 	996,427 	875,948
+Row:Deferred rent and lease incentives 	173,061 	166,925
+Row:Other long-term obligations 	49,713 	62,698
+Row:Total liabilities 	1,219,201 	1,105,571
+Row:Commitments and contingencies – See Note J
+		Row:Commitments and contingencies – See Note J
+		Row:Stockholders’ equity
+		Row:Preferred stock: $.01 par value; 7,500 shares authorized; none issued 	— 	—
+Row:Common stock: $.01 par value; 253,125 shares authorized;
+		Row:89,563 and 91,891 shares issued and outstanding at
+		Row:January 31, 2016 and February 1, 2015, respectively 	896 	919
+Row:Additional paid-in capital 	541,307 	527,261
+Row:Retained earnings 	668,545 	701,214
+Row:Accumulated other comprehensive loss 	(10,616) 	(2,548)
+Row:Treasury stock – at cost: 29 and 35 shares as of January 31, 2016 and
+		Row:February 1, 2015, respectively 	(1,906) 	(2,140)
+Row:Total stockholders’ equity 	1,198,226 	1,224,706
+Row:Total liabilities and stockholders’ equity 	$ 2,417,427 	$ 2,330,277
+Row:See Notes to Consolidated Financial Statements.
+		Row:896 	919
+Row:541,307 	527,261
+Row:668,545 	701,214
+Row:(10,616) 	(2,548)
+Row:In thousands 	Fiscal2015 	Fiscal2014 	Fiscal2013
+Row:Cash flows from operating activities:
+Net earnings 	$ 310,068 	$ 308,854 	$ 278,902
+Row:Adjustments to reconcile net earnings to net cash provided by (used in) operating
+			Row:activities:
+Depreciation and amortization 	167,760 	162,273 	149,795
+Row:Loss on disposal/impairment of assets 	4,339 	2,410 	2,764
+Row:Amortization of deferred lease incentives 	(24,721) 	(24,419) 	(25,382)
+Row:Deferred income taxes 	(7,436) 	(248) 	(28,344)
+Row:Tax benefit related to stock-based awards 	14,592 	26,952 	8,817
+Row:Excess tax benefit related to stock-based awards 	(14,494) 	(26,560) 	(8,743)
+Row:Stock-based compensation expense 	41,357 	44,632 	38,788
+Row:Other Changes in:
+	149 	595 	—
+Row:Accounts receivable 	(12,849) 	(9,366) 	786
+Row:Merchandise inventories 	(92,647) 	(76,964) 	(174,664)
+Row:Prepaid catalog expenses 	5,022 	(386) 	3,675
+Row:Prepaid expenses and other assets 	(9,245) 	(61) 	(13,649)
+Row:Accounts payable 	60,507 	4,455 	135,095
+Row:Accrued salaries, benefits and other current and long-term liabilities 	(135) 	8,867 	43,635
+Row:Customer deposits 	35,877 	34,400 	21,578
+Row:Deferred rent and lease incentives 	31,334 	23,297 	13,238
+Row:Income taxes payable 	34,548 	(17,034) 	7,478
+Row:Net cash provided by operating activities 	544,026 	461,697 	453,769
+Row:Cash flows from investing activities:
+			Row:Purchases of property and equipment 	(202,935) 	(204,800) 	(193,953)
+Row:Restricted cash receipts 	— 	14,289 	1,766
+Row:Proceeds from insurance reimbursements 	683 	1,644 	1,518
+Row:Other 	86 	267 	45
+Row:Net cash used in investing activities 	(202,166) 	(188,600) 	(190,624)
+Row:Cash flows from financing activities:
+			Row:Repurchase of common stock 	(224,995) 	(224,377) 	(239,274)
+Row:Payment of dividends 	(127,636) 	(125,758) 	(111,581)
+Row:Borrowings under revolving line of credit 	200,000 	90,000 	—
+Row:Repayments of borrowings under revolving line of credit 	(200,000) 	(90,000) 	—
+Row:Tax withholdings related to stock-based awards 	(31,790) 	(56,977) 	(18,096)
+Row:Excess tax benefit related to stock-based awards 	14,494 	26,560 	8,743
+Row:Net proceeds related to stock-based awards 	2,647 	4,077 	6,614
+Row:Repayments of long-term obligations 	(1,968) 	(1,785) 	(1,724)
+Row:Other 	(135) 	(760) 	(58)
+Row:Net cash used in financing activities 	(369,383) 	(379,020) 	(355,376)
+Row:Effect of exchange rates on cash and cash equivalents 	(1,757) 	(1,271) 	(2,203)
+Row:Net decrease in cash and cash equivalents 	(29,280) 	(107,194) 	(94,434)
+Row:Cash and cash equivalents at beginning of year 	222,927 	330,121 	424,555
+Row:Cash and cash equivalents at end of year 	$ 193,647 	$ 222,927 	$ 330,121
+Row:Supplemental disclosure of cash flow information:
+Cash paid during the year for interest 	$ 1,989 	$ 1,269 	$ 1,270
+Row:Cash paid during the year for income taxes, net of refunds 	$ 134,478 	$ 172,305 	$ 186,968
+Row:Non-cash investing activities:
+			Row:Purchases of property and equipment not yet paid for at end of period 	$ 2,715 	$ 4,808 	$ 9,034

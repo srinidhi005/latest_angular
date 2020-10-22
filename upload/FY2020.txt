@@ -1,0 +1,137 @@
+Row:(In thousands, except share amounts)
+ASSETS
+	March 2020 	March 2019
+Row:Current assets
+		Row:Cash and equivalents 	$ 1,369,028 	$ 402,226
+Row:Accounts receivable, less allowance for doubtful accounts of: March 2020 -
+$37,099; March 2019 - $19,009 	1,308,051 	1,372,625
+Row:Inventories 	1,293,912 	1,173,102
+Row:Other current assets 	444,886 	425,612
+Row:Current assets of discontinued operations 	611,139 	1,299,892
+Row:Total current assets 	5,027,016 	4,673,457
+Row:Property, plant and equipment, net 	954,406 	876,093
+Row:Intangible assets, net 	1,854,545 	1,907,457
+Row:Goodwill 	1,156,019 	1,491,684
+Row:Operating lease right-of-use assets 	1,273,514 	—
+Row:Other assets 	867,751 	768,482
+Row:Other assets of discontinued operations 	— 	639,612
+Row:TOTAL ASSETS 	$ 11,133,251 	$ 10,356,785
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+		Row:Current liabilities
+Short-term borrowings 	$ 1,228,812 	$ 659,060
+Row:Current portion of long-term debt 	1,018 	5,263
+Row:Accounts payable 	407,021 	489,600
+Row:Accrued liabilities 	1,260,252 	1,125,242
+Row:Current liabilities of discontinued operations 	126,781 	382,439
+Row:Total current liabilities 	3,023,884 	2,661,604
+Row:Long-term debt 	2,608,269 	2,115,884
+Row:Operating lease liabilities 	1,020,651 	—
+Row:Other liabilities 	1,123,113 	1,234,881
+Row:Other liabilities of discontinued operations 	— 	45,900
+Row:Commitments and contingencies
+		Row:Total liabilities 	7,775,917 	6,058,269
+Row:Stockholders' equity
+		Row:Preferred Stock, par value $1; shares authorized, 25,000,000; no shares
+outstanding at March 2020 or March 2019 	— 	—
+Row:Common Stock, stated value $0.25; shares authorized, 1,200,000,000; shares
+outstanding at March 2020 - 388,812,158; March 2019 - 396,824,662 	97,203 	99,206
+Row:Additional paid-in capital 	4,183,780 	3,921,784
+Row:Accumulated other comprehensive income (loss) 	(930,958) 	(902,075)
+Row:Retained earnings 	7,309 	1,179,601
+Row:Total stockholders’ equity 	3,357,334 	4,298,516
+Row:TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY 	$ 11,133,251 	$ 10,356,785
+Row:Three Months
+	Year Ended
+Row:Ended March
+	Row:(Transition Period)
+	December
+Row:(In thousands, except per share amounts)
+	2020 	2019 	2018 	2017
+Row:Net revenues 	$ 10,488,556 	$ 10,266,887 $ 	2,181,546 	$ 8,394,684
+Row:Costs and operating expenses
+				Row:Cost of goods sold 	4,690,520 	4,656,326 	1,008,641 	3,849,248
+Row:Selling, general and administrative expenses 	4,547,008 	4,420,379 	1,025,353 	3,662,062
+Row:Impairment of goodwill 	323,223 	— 	— 	—
+Row:Total costs and operating expenses 	9,560,751 	9,076,705 	2,033,994 	7,511,310
+Row:Operating income 	927,805 	1,190,182 	147,552 	883,374
+Row:Interest income 	19,867 	15,008 	1,533 	13,002
+Row:Interest expense 	(92,042) 	(107,738) 	(24,115) 	(101,974)
+Row:Loss on debt extinguishment 	(59,772) 	— 	— 	—
+Row:Other income (expense), net 	(68,650) 	(59,139) 	6,346 	(6,523)
+Row:Income from continuing operations before income taxes 	727,208 	1,038,313 	131,316 	787,879
+Row:Income taxes 	98,062 	167,887 	2,341 	519,809
+Row:Income from continuing operations 	629,146 	870,426 	128,975 	268,070
+Row:Income from discontinued operations, net of tax 	50,303 	389,366 	123,818 	346,853
+Row:Net income 	$ 679,449 	$ 1,259,792 $ 	252,793 	$ 614,923
+Row:Earnings per common share - basic
+				Row:Continuing operations 	$ 1.59 	$ 2.20 $ 	0.33 	$ 0.67
+Row:Discontinued operations 	0.13 	0.99 	0.31 	0.87
+Row:Total earnings per common share - basic 	$ 1.72 	$ 3.19 $ 	0.64 	$ 1.54
+Row:Earnings per common share - diluted
+				Row:Continuing operations 	$ 1.57 	$ 2.17 $ 	0.32 	$ 0.66
+Row:Discontinued operations 	0.13 	0.97 	0.31 	0.86
+Row:Total earnings per common share - diluted 	$ 1.70 	$ 3.15 $ 	0.63 	$ 1.52
+Row:Weighted average shares outstanding
+				Row:Basic 	395,411 	395,189 	395,253 	399,223
+Row:Diluted 	399,936 	400,496 	401,276 	403,559
+Row:Three Months
+	Year Ended
+Row:Ended March
+	Row:(Transition Period)
+	December
+Row:	Year Ended 	March
+(Transition Period)
+	December
+Row:(In thousands) 	2020 	2019 2018 	2017
+Row:OPERATING ACTIVITIES
+			Row:Net income 	$ 679,449 	$ 1,259,792 $ 252,793 $ 	614,923
+Row:Income from discontinued operations, net of tax 	50,303 	389,366 123,818 	346,853
+Row:Income from continuing operations, net of tax 	629,146 	870,426 128,975 	268,070
+Row:Adjustments to reconcile net income to cash provided (used) by
+operating activities:
+			Row:Impairment of goodwill 	323,223 	— — 	—
+Row:Depreciation and amortization Reduction in the carrying amount of right-of-use assets Stock-based compensation 	267,619 392,707 68,205 	255,729 59,594 — — 84,285 19,822 	238,320
+—
+63,888
+Row:Provision for doubtful accounts 	32,927 	16,280 2,264 	16,798
+Row:Pension expense in excess of (less than) contributions 	(2,787) 	(1,850) 1,413 	25,022
+Row:Deferred income taxes 	(74,499) 	(47,983) 3,935 	(80,644)
+Row:Loss on extinguishment of debt 	59,772 	— — 	—
+Row:Loss on sale of businesses, net of tax 	— 	33,648 — 	—
+Row:Other, net 	89,603 	(39,322) (205) 	(11,454)
+Row:Changes in operating assets and liabilities:
+			Row:Accounts receivable Inventories 	(5,947) (140,744) 	(310,898) 33,340 (58,700) (83,529) 	(39,242)
+38,633
+Row:Accounts payable 	(73,674) 	68,082 (140,562) 	41,876
+Row:Income taxes 	(61,737) 	(28,371) (65,328) 	460,558
+Row:Accrued liabilities 	(327,512) 	406,599 (143,810) 	16,057
+Row:Operating lease right-of-use assets and liabilities 	(388,244) 	— — 	—
+Row:Other assets and liabilities 	12,388 	(7,880) (69,311) 	(20,010)
+Row:Cash provided (used) by operating activities - continuing
+operations 	800,446 	1,240,045 (253,402) 	1,017,872
+Row:Cash provided by operating activities - discontinued
+operations 	74,081 	424,178 10,179 	456,788
+Row:Cash provided (used) by operating activities INVESTING ACTIVITIES
+	874,527 	1,664,223 (243,223) 	1,474,660
+Row:Business acquisitions, net of cash received 	— 	(320,405) — 	(740,541)
+Row:Proceeds from sale of businesses, net of cash sold 	— 	430,286 — 	214,968
+Row:Capital expenditures 	(288,189) 	(215,776) (45,501) 	(140,185)
+Row:Software purchases 	(45,647) 	(53,226) (18,663) 	(63,633)
+Row:Other, net 	48,529 	(18,245) 17,916 	(7,451)
+Row:Cash used by investing activities - continuing operations 	(285,307) 	(177,366) (46,248) 	(736,842)
+Row:Cash used by investing activities - discontinued operations 	(16,740) 	(43,266) (9,742) 	(39,409)
+Row:Cash used by investing activities 	(302,047) 	(220,632) (55,990) 	(776,251)
+Row:FINANCING ACTIVITIES
+			Row:Net increase (decrease) in short-term borrowings 	576,560 	(864,177) 795,908 	686,453
+Row:Payments on long-term debt 	(649,054) 	(6,264) (1,484) 	(254,314)
+Row:Payment of debt issuance costs 	(7,274) 	(2,123) — 	—
+Row:Proceeds from long-term debt Share repurchases Cash dividends paid 	1,076,632 (1,000,007) (748,663) 	— — (150,676) (250,282) (767,061) (181,373) 	—
+(1,200,356)
+(684,679)
+Row:Cash received from Kontoor Brands, net of cash transferred of
+$126.8 million 	906,148 	— — 	—
+Row:Proceeds from issuance of Common Stock, net of shares
+withheld for taxes 	155,390 	199,296 44,017 	89,893
+Row:Cash provided (used) by financing activities 	$ 309,732 	$ (1,591,005) $ 406,786 $ 	(1,363,003)
+Row:Continued on 	next page.
+		

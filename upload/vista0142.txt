@@ -1,0 +1,105 @@
+Row:Consolidated Balance Sheets
+December 31, 2019 and 2018
+	2019 	2018
+Row:	Assets
+	Row:Current Assets
+Cash and cash equivalents 	$ 502,435 	$ 697,663
+Row:Accounts receivable, net 	3,150,919 	1,983,756
+Row:Inventories, net 	3,062,210 	1,773,462
+Row:Prepaid expenses and other current 	assets 569,198 	1,803,447
+Row:Due from seller 	5,579,411 	-
+Row:Total current assets 	12,864,173 	6,258,328
+Row:Property and Equipment 	2,032,960 	1,711,413
+Row:Other Assets
+Goodwill, net Intangible assets, net 	26,642,856 7,425,550 	25,770,896
+3,638,179
+Row:Deferred income taxes, net 	- 	1,076,136
+Row:Total other assets 	34,068,406 	30,485,211
+Row:Total assets 	$ 48,965,539 	$ 38,454,952
+Row:Liabilities and 	Stockholder's Equity
+	Row:Current Liabilities
+		Row:Current maturities of long-term debt 	$ 1,655,000 	$ 105,000
+Row:Accounts payable 	1,672,177 	1,107,162
+Row:Accrued expenses 	1,295,388 	1,296,504
+Row:Total current liabilities 	4,622,565 	2,508,666
+Row:Long-term Liabilities
+Long-term debt, net Other long-term liabilities 	13,210,205 847,050 	9,943,123
+730,159
+Row:Total liabilities 	18,679,820 	13,181,948
+Row:Stockholder's Equity
+Common stock, $.001 par value per share 1,000 shares authorized
+	1 	1
+Row:1,000 shares issued and outstanding
+		Row:Additional paid-in capital 	39,265,979 	28,883,690
+Row:Accumulated other comprehensive income (loss) 	(1,023) 	4,428
+Row:Accumulated deficit 	(9,209,267) 	(3,713,692)
+Row:Total Intermed Intermediate Holdings, Inc. Stockholder's Equity 	30,055,690 	25,174,427
+Row:Noncontrolling interest in subsidiary 	230,029 	98,577
+Row:Total stockholder's equity 	30,285,719 	25,273,004
+Row:Total liabilities and stockholder's equity 	$ 48,965,539 	$ 38,454,952
+Row:Accumulated deficit 	(9,209,267) 	(3,713,692)
+Row:Total Intermed Intermediate Holdings, Inc. Stockholder's Equity 	30,055,690 	25,174,427
+Row:Noncontrolling interest in subsidiary 	230,029 	98,577
+Row:Total stockholder's equity 	30,285,719 	25,273,004
+Row:Total liabilities and stockholder's equity 	$ 48,965,539 	$ 38,454,952
+Row:	2019 	2018
+Row:Net Sales 	$ 17,065,583 	$ 6,140,506
+Row:Cost of Goods Sold 	5,420,144 	1,924,667
+Row:Gross profit 	11,645,439 	4,215,839
+Row:Operating Expenses
+Selling, general, and administrative expenses Transaction costs 	13,406,080 732,280 	5,853,401
+1,669,548
+Row:Total operating expenses 	14,138,360 	7,522,949
+Row:Operating loss 	(2,492,921) 	(3,307,110)
+Row:Other Expense (Income)
+Interest expense 	1,513,616 	572,226
+Row:Other income 	(49,475) 	(50,111)
+Row:Total other expense 	1,464,141 	522,115
+Row:Loss before income taxes 	(3,957,062) 	(3,829,225)
+Row:Income Tax Expense/(Benefit) 	1,401,824 	(124,397)
+Row:Net loss 	(5,358,886) 	(3,704,828)
+Row:Net Income attributable to noncontrolling interest Net loss attributable to Intermed Intermediate Holdings, Inc.
+Stockholder 	136,689 $ (5,495,575) 	8,864
+$ (3,713,692)
+Row:		2019 	2018
+Row:Cash Flows 	From Operating Activities
+		Row:Net loss 		$ (5,358,886) 	$ (3,704,828)
+Row:Adjustments 	to reconcile net loss to net cash flows from operating activities:
+		Row:Depreciation 		108,493 	45,396
+Row:Goodwill 	amortization 	2,632,031 	1,391,613
+Row:Intangible 	amortization 	668,900 	111,480
+Row:Valuation 	allowance 	1,870,274 	-
+Row:Deferred 	income taxes 	(610,257) 	(186,843)
+Row:Deferred 	financing costs amortization 	117,082 	45,595
+Row:Changes 	in assets and liabilities:
+		Row:Accounts 	receivable 	(1,103,511) 	(601,958)
+Row:Inventory 		(1,086,971) 	187,170
+Row:Prepaid 	expenses and other current assets 	1,039,268 	(1,562,402)
+Row:Accounts 	payable 	572,071 	(263,547)
+Row:Accrued 	expenses 	(76,249) 	96,672
+Row:Other 	long-term liabilities 	101,303 	51,032
+Row:Net 	cash flows from operating activities 	(1,126,452) 	(4,390,620)
+Row:Cash Flows Purchases Due from 	From Investing Activities
+of property and equipment seller 	(422,149) 263,000 	(83,654)
+-
+Row:Acquisition Net 	of business, net of cash acquired cash flows from investing activities 	(13,190,807) (13,349,956) 	(32,908,510)
+(32,992,164)
+Row:Cash Flows 	From Financing Activities
+		Row:Proceeds 	from long-term debt 	5,000,000 	10,500,000
+Row:Principal 	payments on long-term debt 	(155,000) 	(52,500)
+Row:Payments 	for deferred financing costs 	(145,000) 	(444,972)
+Row:Issuance of 	stock and contribution from stockholder 	9,582,289 	28,083,691
+Row:Net 	cash flows from financing activities 	14,282,289 	38,086,219
+Row:Effect 	of foreign exchange rate changes on cash and cash equivalents 	(1,109) 	(5,772)
+Row:Cash and Net 	Cash Equivalents, Beginning change in cash and cash equivalents 	697,663 (195,228) 	-
+697,663
+Row:Cash and 	Cash Equivalents, Ending 	$ 502,435 	$ 697,663
+Row:Supplementary 	Cash Flow Disclosures
+		Row:Cash paid Cash paid Noncash 	for interest for income taxes Investing and Financing Activities
+	$ 1,457,434 $ 19,379 	$ 526,631
+$ -
+Row:Contribution Due from 	of common stock from parent for business acquisition seller from acquisition of business 	$ 800,000 $ 5,579,411 	$ 800,000
+$ -
+Row:	See notes to consolidated financial statements
+5
+		

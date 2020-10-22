@@ -1,0 +1,270 @@
+Row:	2017 	2016 	2015
+Row:Sales 	$10,240 	$11,021 	$11,727
+Row:Cost of goods sold and occupancy costs 	7,779 	8,313 	8,864
+Row:Gross profit 	2,461 	2,708 	2,863
+Row:Selling, , general and administrative expenses 	2,022 	2,242 	2,425
+Row:Asset impairments 	4 	15 	13
+Row:Merger and restructuring expenses (income), net 	94 	(80) 	242
+Row:Operating income 	341 	531 	183
+Row:Other income (expense):
+			Row:Interest income 	22 	22 	22
+Row:Interest expense 	(62) 	(80) 	(91)
+Row:Loss on extinguishment of debt 	— 	(15) 	—
+Row:Other income (expense), net 	(2) 	1 	1
+Row:Income from continuing operations before income taxes 	299 	459 	115
+Row:Income tax expense (benefit) 	153 	(220) 	23
+Row:Net income from continuing operations 	146 	679 	92
+Row:Discontinued operations, net of tax 	35 	(150) 	(84)
+Row:Net income 	$ 181 	$ 529 	$ 8
+Row:Basic earnings (loss) per common share
+			Row:Continuing operations 	$ 0.28 	$ 1.26 	$ 0.17
+Row:Discontinued operations 	0.07 	(0.28) 	(0.15)
+Row:Net basic earnings per common share 	$ 0.35 	$ 0.98 	$ 0.01
+Row:Diluted earnings (loss) per common share
+			Row:Continuing operations 	$ 0.27 	$ 1.24 	$ 0.16
+Row:Discontinued operations 	0.06 	(0.27) 	(0.15)
+Row:Net diluted earnings per common share 	$ 0.34 	$ 0.96 	$ 0.01
+Row:Dividends per common share 	$ 0.10 	$ 0.05 	$ —
+Row:	December 30,
+2017
+	December 31,
+2016
+Row:ASSETS
+		Row:Current assets:
+:
+		Row:Cash and cash equivalents 	$ 622 	$ 763
+Row:Receivables, net 	931 	687
+Row:Inventories 	1,093 	1,279
+Row:Prepaid expenses and other current assets 	86 	102
+Row:Current assets of discontinued operations 	139 	142
+Row:Total current assets 	2,871 	2,973
+Row:Property and equipment, net 	725 	601
+Row:Goodwill 	851 	363
+Row:Other intangible assets, net 	448 	33
+Row:Timber notes receivable 	863 	885
+Row:Deferred income taxes 	305 	466
+Row:Other assets 	260 	219
+Row:Total assets 	$ 6,323 	$ 5,540
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Trade accounts payable 	$ 892 	$ 893
+Row:Accrued expenses and other current liabilities 	986 	1,002
+Row:Income taxes payable 	5 	3
+Row:Short-term borrowings and current maturities of long-term debt 	96 	29
+Row:Current liabilities of discontinued operations 	67 	104
+Row:Total current liabilities 	2,046 	2,031
+Row:Deferred income taxes and other long-term liabilities 	336 	361
+Row:Pension and postretirement obligations, net 	91 	140
+Row:Long-term debt, net of current maturities 	936 	358
+Row:Non-recourse debt 	776 	798
+Row:Total liabilities 	4,185 	3,688
+Row:Commitments and contingencies
+		Row:Redeemable noncontrolling interest 	18 	—
+Row:Stockholders’ equity:
+Common stock :
+— authorized 800,000,000 shares of $.01 par value; issued shares — 610,353,994 at
+		Row:December 30, 2017 and 557,892,568 at December 31, 2016 	6 	6
+Row:Additional paid-in capital 	2,711 	2,618
+Row:Accumulated other comprehensive loss 	(78) 	(129)
+Row:Accumulated deficit Treasury stock, at cost — 56,369,637 shares at December 30, 2017 and 42,802,998 shares at
+	(273) 	(453)
+Row:December 31, 2016 	(246) 	(190)
+Row:Total stockholders’ equity 	2,120 	1,852
+Row:Total liabilities, redeemable noncontrolling interest and stockholders’ equity 	$ 6,323 	$ 5,540
+Row:The accompanying notes to consolidated financial statements are an integral part of these statements.
+		Row:	2017 	2016 	2015
+Row:Cash flows from operating activities of continuing operations:
+			Row:Net income 	$ 181 	$ 529 	$ 8
+Row:Income (Loss) from discontinued operations, net of tax 	35 	(150) 	(84)
+Row:Net income from continuing operations 	146 	679 	92
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+			Row:Depreciation and amortization 	159 	181 	253
+Row:Charges for losses on inventories and receivables 	70 	78 	53
+Row:Asset impairments 	4 	15 	13
+Row:Compensation expense for share-based payments 	28 	40 	41
+Row:Loss on extinguishment of debt 	— 	15 	—
+Row:Deferred income taxes and deferred tax asset valuation allowances 	137 	(231) 	1
+Row:Gain on disposition of assets 	(4) 	(9) 	(36)
+Row:Other 	2 	3 	24
+Row:Changes in assets and liabilities:
+			Row:Decrease in receivables 	15 	55 	55
+Row:Decrease (increase) in inventories 	160 	56 	(99)
+Row:Net decrease (increase) in prepaid expenses and other assets Net decrease in trade accounts payable, accrued expenses and other current and other long-term
+	2 	(51) 	20
+Row:liabilities 	(252) 	(339) 	(279)
+Row:Total adjustments 	321 	(187) 	46
+Row:Net cash provided by operating activities of continuing operations 	467 	492 	138
+Row:Cash flows from investing activities of continuing operations:
+			Row:Capital expenditures 	(141) 	(111) 	(144)
+Row:Purchase of leased head office facility 	(42) 	— 	—
+Row:Businesses acquired, net of cash acquired 	(875) 	— 	(9)
+Row:Proceeds from disposition of assets and other 	25 	27 	95
+Row:Net cash used in investing activities of continuing operations 	(1,033) 	(84) 	(58)
+[Row:Cash flows from financing activities of continuing operations:
+Share purchases for taxes, , net of proceeds from employee share-based transactions 	(17) 	— 	7
+Row:Payment to extinguish capital lease obligation 	(92) 	— 	—
+Row:Debt retirement 	— 	(250) 	—
+Row:Debt related fees 	(12) 	(6) 	(1)
+Row:Cash used in extinguishment of debt 	— 	(12) 	—
+Row:Cash dividends on common stock 	(53) 	(26) 	—
+Row:Debt issuance 	728 	— 	—
+Row:Proceeds from issuance of borrowings 	4 	— 	—
+Row:Net payments on long and short-term borrowings 	(31) 	(49) 	(32)
+Row:Repurchase of common stock for treasury 	(56) 	(132) 	—
+Row:Other financing activities 	2 	— 	—
+Row:Net cash provided by (used in) financing activities of continuing operations 	473 	(475) 	(26)
+Row:Cash flows from discontinued operations:
+			Row:Operating activities of discontinued operations 	(9) 	(122) 	(12)
+Row:Investing activities of discontinued operations 	(68) 	(70) 	(16)
+Row:Financing activities of discontinued operations 	(8) 	5 	1
+Row:Net cash used in discontinued operations 	(85) 	(187) 	(27)
+Row:Effect of exchange rate changes on cash and cash equivalents 	7 	(8) 	(29)
+Row:Net decrease in cash and cash equivalents 	(171) 	(262) 	(2)
+Row:Cash and cash equivalents at beginning of period 	807 	1,069 	1,071
+Row:Cash and cash equivalents at end of period 	636 	807 	1,069
+Row:Cash and cash equivalents of discontinued operations 	(14) 	(44) 	(209)
+Row:Cash and cash equivalents at the end of period — continuing operations
+	$ 622 	$ 763 	$ 860
+Row:Supplemental information on operating, investing, and financing activities
+			Row:Cash interest paid, net of amounts capitalized and Timber notes/Non-recourse debt 	$ 34 	$ 63 	$ 67
+Row:Cash taxes paid (refunded) 	$ 18 	$ 48 	$ —
+Row:Non-cash asset additions under capital leases 	$ 5 	$ 9 	$ 25
+Row:The accompanying notes to consolidated financial statements are an integral part of these statements.
+			Row:	2017 	2016 2015
+Row:Sales 	$10,240 	$11,021 $11,727
+Row:Cost of goods sold and occupancy costs 	7,779 	8,313 8,864
+Row:Gross profit 	2,461 	2,708 2,863
+Row:Selling, general and administrative expenses 	2,022 	2,242 2,425
+Row:Asset impairments Merger and restructuring expenses (income), net 	4 94 	15 13
+(80) 242
+Row:Operating income 	341 	531 183
+Row:Other income (expense):
+		Row:Interest income 	22 	22 22
+Row:Interest expense 	(62) 	(80) (91)
+Row:Loss on extinguishment of debt 	— 	(15) —
+Row:Other income (expense), net 	(2) 	1 1
+Row:Income from continuing operations before income taxes 	299 	459 115
+Row:Income tax expense (benefit) 	153 	(220) 23
+Row:Net income from continuing operations 	146 	679 92
+Row:Discontinued operations, net of tax 	35 	(150) (84)
+Row:Net income $ 	181 	$ 529 $ 8
+Row:Basic earnings (loss) per common share
+		Row:Continuing operations $ 	0.28 	$ 1.26 $ 0.17
+Row:Discontinued operations 	0.07 	(0.28) (0.15)
+Row:Net basic earnings per common share $ 	0.35 	$ 0.98 $ 0.01
+Row:Diluted earnings (loss) per common share
+		Row:Continuing operations $ Discontinued operations 	0.27 0.06 	$ 1.24 $ 0.16
+(0.27) (0.15)
+Row:Net diluted earnings per common share $ 	0.34 	$ 0.96 $ 0.01
+Row:Dividends per common share $ 	0.10 	$ 0.05 $ —
+Row:ASSETS
+	December 30,
+2017
+December 31,
+2016
+Row:Current assets:
+	Row:Cash and cash equivalents 	$ 622 $ 763
+Row:Receivables, net 	931 687
+Row:Inventories 	1,093 1,279
+Row:Prepaid expenses and other current assets 	86 102
+Row:Current assets of discontinued operations 	139 142
+Row:Total current assets 	2,871 2,973
+Row:Property and equipment, net 	725 601
+Row:Goodwill 	851 363
+Row:Other intangible assets, net 	448 33
+Row:Timber notes receivable Deferred income taxes 	863 885
+305 466
+Row:Other assets 	260 219
+Row:Total assets 	$ 6,323 $ 5,540
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+	Row:Trade accounts payable 	$ 892 $ 893
+Row:Accrued expenses and other current liabilities Income taxes payable Short-term borrowings and current maturities of long-term debt 	986 1,002
+5 3
+96 29
+Row:Current liabilities of discontinued operations 	67 104
+Row:Total current liabilities 	2,046 2,031
+Row:Deferred income taxes and other long-term liabilities Pension and postretirement obligations, net Long-term debt, net of current maturities 	336 361
+91 140
+936 358
+Row:Non-recourse debt 	776 798
+Row:Total liabilities 	4,185 3,688
+Row:Commitments and contingencies
+Redeemable noncontrolling interest 	18 —
+Row:Stockholders’ equity:
+Common stock — authorized 800,000,000 shares of $.01 par value; issued shares — 610,353,994 at
+December 30, 2017 and 557,892,568 at December 31, 2016 Additional paid-in capital Accumulated other comprehensive loss 	6 6
+2,711 2,618
+(78) (129)
+Row:Accumulated deficit 	(273) (453)
+Row:Treasury stock, at cost — 56,369,637 shares at December 30, 2017 and 42,802,998 shares at
+December 31, 2016 	(246) (190)
+Row:Total stockholders’ equity 	2,120 1,852
+Row:Total liabilities, redeemable noncontrolling interest and stockholders’ equity 	$ 6,323 $ 5,540
+Row:Stockholders’ equity:
+Common stock — authorized 800,000,000 shares of $.01 par value; issued shares — 610,353,994 at
+December 30, 2017 and 557,892,568 at December 31, 2016 	6 6
+Row:Additional paid-in capital 	2,711 2,618
+Row:Accumulated other comprehensive loss 	(78) (129)
+Row:Accumulated deficit Treasury stock, at cost — 56,369,637 shares at December 30, 2017 and 42,802,998 shares at
+December 31, 2016 	(273) (453)
+(246) (190)
+Row:Total stockholders’ equity 	2,120 1,852
+Row:Total liabilities, redeemable noncontrolling interest and stockholders’ equity $ 	6,323 $ 5,540
+Row:Cash flows from operating activities of continuing operations:
+Net income Income (Loss) from discontinued operations, net of tax 	2017 $ 181 35 	2016 $ 529 (150) 	2015
+$ 8
+(84)
+Row:Net income from continuing operations 	146 	679 	92
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization 	159 	181 	253
+Row:Charges for losses on inventories and receivables Asset impairments 	70 4 	78 15 	53
+13
+Row:Compensation expense for share-based payments Loss on extinguishment of debt Deferred income taxes and deferred tax asset valuation allowances 	28 — 137 	40 15 (231) 	41
+—
+1
+Row:Gain on disposition of assets 	(4) 	(9) 	(36)
+Row:Other Changes in assets and liabilities:
+	2 	3 	24
+Row:Decrease in receivables Decrease (increase) in inventories Net decrease (increase) in prepaid expenses and other assets 	15 160 2 	55 56 (51) 	55
+(99)
+20
+Row:Net decrease in trade accounts payable, accrued expenses and other current and other long-term
+liabilities 	(252) 	(339) 	(279)
+Row:Total adjustments 	321 	(187) 	46
+Row:Net cash provided by operating activities of continuing operations 	467 	492 	138
+Row:Cash flows from investing activities of continuing operations:
+Capital expenditures Purchase of leased head office facility 	(141) (42) 	(111) — 	(144)
+—
+Row:Businesses acquired, net of cash acquired 	(875) 	— 	(9)
+Row:Proceeds from disposition of assets and other 	25 	27 	95
+Row:Net cash used in investing activities of continuing operations 	(1,033) 	(84) 	(58)
+Row:Cash flows from financing activities of continuing operations:
+			Row:Share purchases for taxes, net of proceeds from employee share-based transactions 	(17) 	— 	7
+Row:Payment to extinguish capital lease obligation 	(92) 	— 	—
+Row:Debt retirement 	— 	(250) 	—
+Row:Debt related fees Cash used in extinguishment of debt 	(12) — 	(6) (12) 	(1)
+—
+Row:Cash dividends on common stock 	(53) 	(26) 	—
+Row:Debt issuance Proceeds from issuance of borrowings 	728 4 	— — 	—
+—
+Row:Net payments on long and short-term borrowings 	(31) 	(49) 	(32)
+Row:Repurchase of common stock for treasury 	(56) 	(132) 	—
+Row:Other financing activities Net cash provided by (used in) financing activities of continuing operations 	2 473 	— (475) 	—
+(26)
+Row:Cash flows from discontinued operations:
+			Row:Operating activities of discontinued operations 	(9) 	(122) 	(12)
+Row:Investing activities of discontinued operations 	(68) 	(70) 	(16)
+Row:Financing activities of discontinued operations 	(8) 	5 	1
+Row:Net cash used in discontinued operations Effect of exchange rate changes on cash and cash equivalents 	(85) 7 	(187) (8) 	(27)
+(29)
+Row:Net decrease in cash and cash equivalents 	(171) 	(262) 	(2)
+Row:Cash and cash equivalents at beginning of period 	807 	1,069 	1,071
+Row:Cash and cash equivalents at end of period Cash and cash equivalents of discontinued operations 	636 (14) 	807 (44) 	1,069
+(209)
+Row:Cash and cash equivalents at the end of period — – continuing operations
+	$ 622 	$ 763 	$ 860
+Row:Supplemental information on operating, investing, and financing activities
+Cash interest paid, net of amounts capitalized and Timber notes/Non-recourse debt 	$ 34 	$ 63 	$ 67
+Row:Cash taxes paid (refunded) Non-cash asset additions under capital leases 	$ 18 $ 5 	$ 48 $ 9 	$ —
+$ 25

@@ -1,0 +1,202 @@
+Row:	2018 	2017 	2016
+Row:Net Sales 	$ 13,237 	$ 12,632 	$ 12,574
+Row:Costs of Goods Sold, Buying and Occupancy 	(8,338) 	(7,673) 	(7,449)
+Row:Gross Profit 	4,899 	4,959 	5,125
+Row:General, Administrative and Store Operating Expenses 	(3,563) 	(3,231) 	(3,122)
+Row:Loss on Divestiture of La Senza 	(99) 	— 	—
+Row:Operating Income 	1,237 	1,728 	2,003
+Row:Interest Expense 	(385) 	(406) 	(394)
+Row:Other Income (Loss) )
+	5 	(10) 	87
+Row:Income Before Income Taxes 	857 	1,312 	1,696
+Row:Provision for Income Taxes 	213 	329 	538
+Row:Net Income 	$ 644 	$ 983 	$ 1,158
+Row:Net Income Per Basic Share 	$ 2.33 	$ 3.46 	$ 4.04
+Row:Net Income Per Diluted Share 	$ 2.31 	$ 3.42 	$ 3.98
+Row:	2018 	2017 	2016
+Row:Net Income 	$ 644 	$ 983 	$ 1,158
+Row:Other Comprehensive Income (Loss), , Net of Tax:
+:
+			Row:Foreign Currency Translation 	(20) 	23 	(19)
+Row:Reclassification of Foreign Currency Translation to Earnings 	45 	— 	—
+Row:Unrealized Gain (Loss) on Cash Flow Hedges 	10 	(20) 	(8)
+Row:Reclassification of Cash Flow Hedges to Earnings 	2 	7 	7
+Row:Unrealized Gain (Loss) on Marketable Securities 	— 	2 	(5)
+Row:Reclassification of Gain on Marketable Securities to Earnings 	— 	— 	(3)
+Row:Total Other Comprehensive Income (Loss), Net of Tax 	37 	12 	(28)
+Row:Total Comprehensive Income 	$ 681 	$ 995 	$ 1,130
+Row:	2019
+	2018
+Row:ASSETS
+		Row:Current Assets:
+		Row:Cash and Cash Equivalents 	$ 1,413 	$ 1,515
+Row:Accounts Receivable, Net 	367 	310
+Row:Inventories 	1,248 	1,240
+Row:Other 	232 	228
+Row:Total Current Assets 	3,260 	3,293
+Row:Property and Equipment, , Net 	2,818 	2,893
+Row:Goodwill 	1,348 	1,348
+Row:Trade Names 	411 	411
+Row:Deferred Income Taxes 	62 	14
+Row:Other Assets 	191 	190
+Row:Total Assets 	$ 8,090 	$ 8,149
+Row:LIABILITIES AND EQUITY (DEFICIT)
+		Row:Current Liabilities:
+		Row:Accounts Payable 	$ 711 	$ 717
+Row:Accrued Expenses and Other 	1,082 	1,029
+Row:Current Debt 	72 	87
+Row:Income Taxes 	121 	198
+Row:Total Current Liabilities 	1,986 	2,031
+Row:Deferred Income Taxes 	226 	238
+Row:Long-term Debt 	5,739 	5,707
+Row:Other Long-term Liabilities 	1,004 	924
+Row:Shareholders’ Equity (Deficit):
+:
+		Row:Preferred Stock—$1.00 par value; ; 10 shares authorized; ; none issued 	— 	—
+Row:Common Stock—$0.50 par value; 1,000 shares authorized; 283 and 283 shares issued; 275 and 280 shares
+; ; 		Row:outstanding, , respectively 	141 	141
+Row:Paid-in Capital 	771 	678
+Row:Accumulated Other Comprehensive Income 	59 	24
+Row:Retained Earnings (Deficit) 	(1,482) 	(1,434)
+Row:Less: : Treasury Stock, at Average Cost; ; 8 and 3 shares, respectively 	(358) 	(162)
+Row:Total L Brands, Inc. Shareholders’ Equity (Deficit) 	(869) 	(753)
+Row:Noncontrolling Interest 	4 	2
+Row:Total Equity (Deficit) 	(865) 	(751)
+Row:Total Liabilities and Equity (Deficit) 	$ 8,090 	$ 8,149
+Row:	Shares
+Outstanding
+		Par
+Value
+	Paid-In
+Capital
+	Other
+Comprehensive
+Income
+	Earnings
+(Accumulated
+Deficit)
+)
+	Stock, at
+Average
+Cost
+	Noncontrolling
+Interest
+	Total
+Equity
+(Deficit)
+Row:Balance, , January 30, 2016 		290 $ 	156 	$ 	545 $ 40 	$ 315 	$ (1,315) 	)
+$ 1 1
+$ 	(258)
+)
+Row:Net Income 		— 	— 		— — 	1,158 	— 	— 	1,158
+Row:Other Comprehensive Income
+(Loss) )
+		— 	— 		— (28) )
+	— 	— 	— 	)
+(28)
+Row:Total Comprehensive Income 		— 	— 		— (28) 	1,158 	— 	— 	1,130
+Row:Cash Dividends ($4.40 per
+share) 		— 	— 		— — 	(1,268) 	— 	— 	(1,268)
+)
+Row:Repurchase of Common Stock 		(6) 	— 		— — 	— 	(438) 	)
+— 	(438)
+)
+Row:Share-based Compensation and
+Other 		2 	1 1
+		105 — 	— 	— 	1 1
+	107
+Row:Balance, , January 28, 2017 		286 $ 	157 	$ 	650 $ 12 	$ 205 	$ (1,753) 	)
+$ 2 $ 	(727)
+)
+Row:Net Income 		— 	— 		— — 	983 	— 	— 	983
+Row:Other Comprehensive Income
+(Loss) )
+		— 	— 		— 12 	— 	— 	— 	12
+Row:Total Comprehensive Income 		— 	— 		— 12 	983 	— 	— 	995
+Row:Cash Dividends ($2.40 per
+share) 		— 	— 		— — 	(686) 	— 	— 	(686)
+)
+Row:Repurchase of Common Stock 		(9) 	— 		— — 	— 	(445) 	)
+— 	(445)
+)
+Row:Treasury Share Retirement 		— 	(18) 		(82) )
+— 	(1,936) 	2,036 	— 	—
+Row:Share-based Compensation and
+Other 		3 	2 		110 — 	— 	— 	— 	112
+Row:Balance, , February 3, 2018 		280 $ 	141 	$ 	678 $ 24 	$ (1,434) 	$ (162) 	)
+$ $
+2 2
+$ 	(751)
+)
+Row:Cumulative Effect of
+Accounting Changes 		— 	— 		— (2) )
+	(26) 	— 	— 	(28)
+)
+Row:Balance, , February 4, , 2018 		280 	141 		678 22 	(1,460) 	(162) 	)
+2 	(779)
+)
+Row:Net Income 		— 	— 		— — 	644 	— 	— 	644
+Row:Other Comprehensive Income
+(Loss) )
+		— 	— 		— 37 	— 	— 	— 	37
+Row:Total Comprehensive Income 		— 	— 		— 37 	644 	— 	— 	681
+Row:Cash Dividends ($2.40 per
+share) 		— 	— 		— — 	(666) 	— 	— 	(666)
+)
+Row:Repurchase of Common Stock 		(5) 	— 		— — 	— 	(196) 	— 	(196)
+)
+Row:Share-based Compensation and
+Other 		— 	— 		93 — 	— 	— 	2 	95
+Row:Balance, , February 2, 2019 		275 $ 	141 	$ 	771 $ 59 	$ (1,482) 	$ (358) 	)
+$ 4 $ 	(865)
+)
+Row:	2018 	2017 	2016
+Row:Operating Activities
+			Row:Net Income $ 	644 	$ 983 $ 	1,158
+Row:Adjustments to Reconcile Net Income to Net Cash Provided by (Used for) Operating Activities:
+			Row:Depreciation of Long-lived Assets 	590 	571 	518
+Row:Amortization of Landlord Allowances 	(43) 	(47) 	(46)
+Row:Long-lived Store Asset Impairment Charges 	101 	— 	—
+Row:Loss on Divestiture of La Senza 	99 	— 	—
+Row:Deferred Income Taxes 	(52) 	(108) 	110
+Row:Share-based Compensation Expense 	97 	102 	96
+Row:Gains on Distributions from Easton Investments 	(8) 	(20) 	(112)
+Row:Unrealized Losses on Marketable Equity Securities 	6 	— 	—
+Row:Loss on Extinguishment of Debt 	— 	45 	36
+Row:Gain on Sale of Marketable Equity Securities 	— 	— 	(4)
+Row:Changes in Assets and Liabilities, , Net of Assets and Liabilities related to Divestiture and Acquisition:
+			Row:Accounts Receivable 	(63) 	(13) 	(44)
+Row:Inventories 	(40) 	(137) 	30
+Row:Accounts Payable, Accrued Expenses and Other 	29 	50 	31
+Row:Income Taxes Payable 	(113) 	(40) 	117
+Row:Other Assets and Liabilities 	130 	20 	100
+Row:Net Cash Provided by Operating Activities 	1,377 	1,406 	1,990
+Row:Investing Activities
+			Row:Capital Expenditures 	(629) 	(707) 	(990)
+Row:Return of Capital from Easton Investments 	16 	29 	119
+Row:Purchase of Marketable Securities 	— 	(10) 	—
+Row:Proceeds from Sale of Assets 	— 	— 	53
+Row:Proceeds from Sale of Marketable Equity Securities 	— 	— 	10
+Row:Acquisition, Net of Cash Acquired of $1 	— 	— 	(33)
+Row:Other Investing Activities 	4 	(10) 	8
+Row:Net Cash Used for Investing Activities 	(609) 	(698) 	(833)
+Row:Financing Activities
+			Row:Proceeds from Issuance of Long-term Debt, , Net of Issuance Costs 	— 	495 	692
+Row:Payment of Long-term Debt 	(52) 	(540) 	(742)
+Row:Borrowings from Secured Revolving Facility 	92 	— 	—
+Row:Repayments of Secured Revolving Facility 	(92) 	— 	—
+Row:Borrowings from Foreign Facilities 	172 	96 	35
+Row:Repayments of Foreign Facilities 	(109) 	(44) 	(6)
+Row:Dividends Paid 	(666) 	(686) 	(1,268)
+Row:Repurchases of Common Stock 	(198) 	(446) 	(435)
+Row:Tax Payments related to Share-based Awards 	(13) 	(32) 	(58)
+Row:Proceeds from Exercise of Stock Options 	1 	38 	20
+Row:Financing Costs and Other 	(7) 	(8) 	(3)
+Row:Net Cash Used for Financing Activities 	(872) 	(1,127) 	(1,765)
+Row:Effects of Exchange Rate Changes on Cash 	2 	— 	(6)
+Row:Net Decrease in Cash and Cash Equivalents 	(102) 	(419) 	(614)
+Row:Cash and Cash Equivalents, , Beginning of Year 	1,515 	1,934 	2,548
+Row:Cash and Cash Equivalents, End of Year $ 	1,413 	$ 1,515 $ 	1,934
+Row:The accompanying Notes are an integral part of these Consolidated 	Financial Statements.
+	.
+	

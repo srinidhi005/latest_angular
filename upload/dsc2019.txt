@@ -1,0 +1,200 @@
+Row:	February 1,
+2020
+	February 2,
+2019
+	February 3,
+2018
+Row:Net sales 	$ 8,750,743 $ 	8,436,570 $ 	8,590,472
+Row:Cost of goods sold, including occupancy and distribution costs 	6,196,185 	5,998,788 	6,101,412
+Row:GROSS PROFIT 	2,554,558 	2,437,782 	2,489,060
+Row:Selling, general and administrative expenses 	2,173,677 	1,986,576 	1,982,363
+Row:Pre-opening expenses 	5,268 	6,473 	29,123
+Row:INCOME FROM OPERATIONS 	375,613 	444,733 	477,574
+Row:Gain on sale of subsidiaries 	(33,779) 	— 	—
+Row:Interest expense 	17,012 	10,248 	8,047
+Row:Other (income) expense 	(15,324) 	2,565 	(31,810)
+Row:INCOME BEFORE INCOME TAXES 	407,704 	431,920 	501,337
+Row:Provision for income taxes 	110,242 	112,056 	177,892
+Row:NET INCOME 	$ 297,462 $ 	319,864 $ 	323,445
+Row:EARNINGS PER COMMON SHARE:
+			Row:Basic 	$ 3.40 $ 	3.27 $ 	3.02
+Row:Diluted 	$ 3.34 $ 	3.24 $ 	3.01
+Row:WEIGHTED AVERAGE COMMON SHARES OUTSTANDING:
+			Row:Basic 	87,502 	97,743 	106,977
+Row:Diluted 	89,066 	98,781 	107,586
+Row:	February 1,
+2020
+	February 2,
+2019
+	February 3,
+2018
+Row:NET INCOME 	$ 297,462 $ 	319,864 	$ 323,445
+Row:OTHER COMPREHENSIVE (LOSS) INCOME:
+			Row:Foreign currency translation adjustment, net of tax 	— 	(42) 	54
+Row:TOTAL OTHER COMPREHENSIVE (LOSS) INCOME 	— 	(42) 	54
+Row:COMPREHENSIVE INCOME 	$ 297,462 $ 	319,822 	$ 323,499
+Row:	— 		(42) 	54
+Row:$ 	297,462 	$ 	319,822 $ 	323,499
+Row:	2020
+	2019
+Row:ASSETS
+		Row:CURRENT ASSETS:
+		Row:Cash and cash equivalents 	$ 69,334 $ 	113,653
+Row:Accounts receivable, net 	53,173 	37,970
+Row:Income taxes receivable 	5,762 	6,135
+Row:Inventories, net 	2,202,275 	1,824,696
+Row:Prepaid expenses and other current assets 	79,472 	139,944
+Row:Total current assets 	2,410,016 	2,122,398
+Row:Property and equipment, net 	1,415,728 	1,565,271
+Row:Operating lease assets 	2,313,846 	—
+Row:Intangible assets, net 	94,768 	130,166
+Row:Goodwill 	245,857 	250,476
+Row:OTHER ASSETS:
+		Row:Deferred income taxes 	14,412 	13,243
+Row:Other 	133,933 	105,595
+Row:Total other assets 	148,345 	118,838
+Row:TOTAL ASSETS
+	$ 6,628,560 $ 	4,187,149
+Row:LIABILITIES AND STOCKHOLDERS' EQUITY
+		Row:CURRENT LIABILITIES:
+		Row:Accounts payable 	$ 1,001,589 $ 	889,908
+Row:Accrued expenses 	415,501 	364,342
+Row:Operating lease liabilities 	422,970 	—
+Row:Income taxes payable 	10,455 	20,142
+Row:Deferred revenue and other liabilities 	225,959 	230,247
+Row:Total current liabilities 	2,076,474 	1,504,639
+Row:LONG-TERM LIABILITIES:
+		Row:Revolving credit borrowings 	224,100 	—
+Row:Long-term operating lease liabilities 	2,453,346 	—
+Row:Deferred income taxes 	9,187 	11,776
+Row:Other long-term liabilities 	133,855 	766,573
+Row:Total long-term liabilities 	2,820,488 	778,349
+Row:Commitments and contingencies
+		Row:STOCKHOLDERS' EQUITY:
+		Row:Preferred stock, par value $0.01 per share; 5,000,000 shares authorized; none issued and outstanding 	— 	—
+Row:Common stock, par value $0.01 per share, authorized shares 200,000,000; 111,736,741 issued and 59,255,731 outstanding
+at February 1, 2020; 110,734,156 issued and 69,304,874 outstanding at February 2, 2019 	593 	693
+Row:Class B common stock, par value $0.01 per share, authorized shares 40,000,000; 24,291,123 issued and outstanding at
+February 1, 2020; 24,541,123 issued and outstanding at February 2, 2019 	243 	245
+Row:Additional paid-in capital 	1,253,867 	1,214,287
+Row:Retained earnings 	2,645,281 	2,455,192
+Row:Accumulated other comprehensive loss 	(120) 	(120)
+Row:Treasury stock, at cost, 52,481,010 and 41,429,482 at February 1, 2020 and February 2, 2019, respectively 	(2,168,266) 	(1,766,136)
+Row:Total stockholders' equity 	1,731,598 	1,904,161
+Row:TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY
+	$ 6,628,560 $ 	4,187,149
+Row:133,933 	105,595
+Row:148,345 	118,838
+Row:$ 6,628,560 $ 	4,187,149
+Row:BALANCE, January 28, 2017 	Shares 85,620 	Amount $ 856 	Shares 24,711 	Amount
+$ 247 	$ 1,130,830 Paid-In
+Capital
+	$ 1,956,066 Retained
+Earnings
+	$ (132) Comprehensive
+Loss
+	Treasury
+Stock $ (1,158,378) 	Total $ 1,929,489
+Row:Adjustment for cumulative effect
+from change in accounting
+principle (ASU 2016-16) 	— 	— 	— 	— 	— 	(1,744) 	— 	— 	(1,744)
+Row:Exercise of stock options 	582 	6 	— 	— 	16,552 	— 	— 	— 	16,558
+Row:Restricted stock vested 	360 	3 	— 	— 	(3) 	— 	— 	— 	—
+Row:Minimum tax withholding
+requirements 	(122) 	(1) 	— 	— 	(5,840) 	— 	— 	— 	(5,841)
+Row:Net income 	— 	— 	— 	— 	— 	323,445 	— 	— 	323,445
+Row:Stock-based compensation 	— 	— 	— 	— 	36,239 	— 	— 	— 	36,239
+Row:Foreign currency translation
+adjustment, net of taxes of $30 	— 	— 	— 	— 	— 	— 	54 	— 	54
+Row:Purchase of shares for treasury 	(8,122) 	(81) 	— 	— 	— 	— 	— 	(284,502) 	(284,583)
+Row:Cash dividends declared, $0.68 per
+common share 	— 	— 	— 	— 	— 	(72,116) 	— 	— 	(72,116)
+Row:BALANCE, February 3, 2018 	78,318 	$ 783 	24,711 	$ 247 	$ 1,177,778 	$ 2,205,651 	$ (78) 	$ (1,442,880) 	$ 1,941,501
+Row:Adjustment for cumulative effect
+from change in accounting
+									Row:adjustment, net of taxes of $30 	— 	— 	— 	— 	— 	— 54 	— 	54
+Row:Purchase of shares for treasury 	(8,122) 	(81) 	— 	— 	— 	— — 	(284,502) 	(284,583)
+Row:Cash dividends declared, $0.68 per
+common share 	— 	— 	— 	— 	— 	(72,116) — 	— 	(72,116)
+Row:BALANCE, February 3, 2018 	78,318 	$ 783 	24,711 $ 	247 	$ 1,177,778 	$ 2,205,651 $ (78) 	$ (1,442,880) 	$ 1,941,501
+Row:Adjustment for cumulative effect
+from change in accounting
+principle (ASU 2014-09) 	— 	— 	— 	— 	— 	20,488 — 	— 	20,488
+Row:Exchange of Class B common
+stock for common stock 	170 	2 	(170) 	(2) 	— 	— — 	— 	—
+Row:Restricted stock vested 	549 	5 	— 	— 	(5) 	— — 	— 	—
+Row:Minimum tax withholding
+								Row:requirements 	(160) 	(1) 	— 	— 	(5,427) 	— — 	— 	(5,428)
+Row:Net income 	— 	— 	— 	— 	— 	319,864 — 	— 	319,864
+Row:Stock-based compensation 	— 	— 	— 	— 	41,941 	— — 	— 	41,941
+Row:Foreign currency translation
+adjustment, net of taxes of $13 	— 	— 	— 	— 	— 	— (42) 	— 	(42)
+Row:Purchase of shares for treasury 	(9,572) 	(96) 	— 	— 	— 	— — 	(323,256) 	(323,352)
+Row:Cash dividends declared, $0.90 per
+common share 	— 	— 	— 	— 	— 	(90,811) — 	— 	(90,811)
+Row:BALANCE, February 2, 2019 	69,305 	$ 693 	24,541 $ 	245 	$ 1,214,287 	$ 2,455,192 $ (120) 	$ (1,766,136) 	$ 1,904,161
+Row:Adjustment for cumulative effect
+from change in accounting
+principle (ASU 2016-02) 	— 	— 	— 	— 	— 	(7,953) — 	— 	(7,953)
+Row:Exchange of Class B common
+stock for common stock 	250 	2 	(250) 	(2) 	— 	— — 	— 	—
+Row:Exercise of stock options 	144 	1 	— 	— 	5,564 	— — 	— 	5,565
+Row:Restricted stock vested 	853 	9 	— 	— 	(9) 	— — 	— 	—
+Row:Minimum tax withholding
+requirements 	(244) 	(2) 	— 	— 	(9,468) 	— — 	— 	(9,470)
+Row:Net income 	— 	— 	— 	— 	— 	297,462 — 	— 	297,462
+Row:Stock-based compensation 	— 	— 	— 	— 	43,493 	— — 	— 	43,493
+Row:Purchase of shares for treasury 	(11,052) 	(110) 	— 	— 	— 	— — 	(402,130) 	(402,240)
+Row:Cash dividends declared, $1.10 per
+common share 	— 	— 	— 	— 	— 	(99,420) — 	— 	(99,420)
+Row:BALANCE, February 1, 2020 	59,256 	$ 593 	24,291 $ 	243 	$ 1,253,867 	$ 2,645,281 $ (120) 	$ (2,168,266) 	$ 1,731,598
+Row:	February 1,
+2020
+	February 2,
+2019
+	February 3,
+2018
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+			Row:Net income 	$ 297,462 	$ 319,864 	$ 323,445
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+			Row:Depreciation, amortization, and other 	270,448 	244,764 	242,978
+Row:Impairment of trademark 	28,296 	— 	—
+Row:Deferred income taxes 	(1,160) 	(5,258) 	42,453
+Row:Stock-based compensation 	43,493 	41,941 	36,239
+Row:Gain on sale of subsidiaries 	(33,779) 	— 	—
+Row:Changes in assets and liabilities:
+			Row:Accounts receivable 	400 	16,215 	(208)
+Row:Inventories 	(377,579) 	(94,131) 	(71,751)
+Row:Prepaid expenses and other assets 	6,401 	10,980 	(29,072)
+Row:Accounts payable 	94,202 	125,632 	124,628
+Row:Accrued expenses 	37,826 	21,372 	13,597
+Row:Income taxes payable / receivable 	(9,314) 	7,964 	(39,347)
+Row:Deferred construction allowances 	37,959 	27,730 	101,712
+Row:Deferred revenue and other liabilities 	9,957 	(4,318) 	1,636
+Row:Net cash provided by operating activities 	404,612 	712,755 	746,310
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+			Row:Capital expenditures 	(217,461) 	(198,219) 	(474,347)
+Row:Proceeds from sales of other assets 	49,103 	— 	—
+Row:Proceeds from sale of subsidiaries, net of cash sold 	40,387 	— 	—
+Row:Acquisitions, net of cash acquired 	— 	— 	(8,957)
+Row:Deposits and purchases of other assets 	(1,300) 	— 	(2,344)
+Row:Net cash used in investing activities 	(129,271) 	(198,219) 	(485,648)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+			Row:Revolving credit borrowings 	2,263,550 	1,875,400 	2,742,800
+Row:Revolving credit repayments 	(2,039,450) 	(1,875,400) 	(2,742,800)
+Row:Proceeds from term loan 	— 	— 	62,492
+Row:Payments on other long-term debt and finance lease obligations 	(56,851) 	(5,242) 	(2,531)
+Row:Proceeds from exercise of stock options 	5,565 	— 	16,558
+Row:Minimum tax withholding requirements 	(9,470) 	(5,428) 	(5,841)
+Row:Cash paid for treasury stock 	(402,240) 	(323,352) 	(284,583)
+Row:Cash dividends paid to stockholders 	(98,312) 	(89,273) 	(73,099)
+Row:Increase (decrease) in bank overdraft 	17,548 	(78,799) 	(37,236)
+Row:Net cash used in financing activities 	(319,660) 	(502,094) 	(324,240)
+Row:EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS 	— 	(42) 	54
+Row:NET (DECREASE) INCREASE IN CASH AND CASH EQUIVALENTS 	(44,319) 	12,400 	(63,524)
+Row:CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD 	113,653 	101,253 	164,777
+Row:CASH AND CASH EQUIVALENTS, END OF PERIOD 	$ 69,334 	$ 113,653 	$ 101,253
+Row:Supplemental disclosure of cash flow information:
+			Row:Accrued property and equipment 	$ 32,746 	$ 18,937 	$ 29,834
+Row:Cash paid during the fiscal year for interest 	$ 16,362 	$ 9,317 	$ 8,598
+Row:Cash paid during the fiscal year for income taxes 	$ 123,698 	$ 114,018 	$ 185,798

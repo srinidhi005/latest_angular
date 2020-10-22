@@ -1,0 +1,117 @@
+Row:Assets
+	Row:Current assets:
+	Row:Cash and cash equivalents $ Accounts receivable, net of allowance for doubtful accounts of $6.2 and $5.9, respectively 	144.2 $ 263.7
+2,320.5 2,168.6
+Row:Merchandise inventory 	449.5 452.0
+Row:Miscellaneous receivables 	336.5 234.9
+Row:Prepaid expenses and other 	127.4 118.9
+Row:Total current assets 	3,378.1 3,238.1
+Row:Property and equipment, net 	161.1 163.7
+Row:Goodwill 	2,479.6 2,455.0
+Row:Other intangible assets, net 	897.0 1,055.6
+Row:Other assets 	40.8 36.0
+Row:Total Assets $ 	6,956.6 $ 6,948.4
+Row:Liabilities and Stockholders’ Equity
+	Row:Current liabilities:
+	Row:Accounts payable-trade $ 	1,317.7 $ 1,072.9
+Row:Accounts payable-inventory financing 	498.0 580.4
+Row:Current maturities of long-term debt 	25.5 18.5
+Row:Deferred revenue 	194.0 172.6
+Row:Accrued expenses and other current liabilities:
+Compensation 	129.5 167.6
+Row:Interest 	21.6 25.1
+Row:Sales taxes 	43.8 38.0
+Row:Advertising 	89.2 55.8
+Row:Income taxes 	15.1 2.6
+Row:Other 	180.2 147.2
+Row:Total current liabilities 	2,514.6 2,280.7
+Row:Long-term liabilities:
+	Row:Debt 	3,210.0 3,215.9
+Row:Deferred income taxes 	196.3 369.2
+Row:Other liabilities 	52.8 37.1
+Row:Total long-term liabilities 	3,459.1 3,622.2
+Row:Debt 	3,210.0 3,215.9
+Row:Deferred income taxes 	196.3 369.2
+Row:Other liabilities 	52.8 37.1
+Row:Total long-term liabilities 	3,459.1 3,622.2
+Row:Stockholders’ equity:
+	Row:Preferred stock, $0.01 par value, 100.0 shares authorized; no shares issued or outstanding for both periods 	— —
+Row:Common stock, $0.01 par value, 1,000.0 shares authorized; 153.1 and 160.3 shares issued, respectively 	1.5 1.6
+Row:Less: treasury stock, $0.01 par value, 0.1 and 0 shares held, respectively 	— —
+Row:Outstanding common stock, $0.01 par value, 153.0 and 160.3 shares outstanding, respectively Paid-in capital 	1.5 1.6
+2,911.6 2,857.3
+Row:Accumulated deficit 	(1,834.3) (1,673.8)
+Row:Accumulated other comprehensive loss 	(95.9) (139.6)
+Row:Total stockholders’ equity 	982.9 1,045.5
+Row:Total Liabilities and Stockholders’ Equity $ 	6,956.6 $ 6,948.4
+Row:	2017 	2016 	2015
+Row:Net sales 	$15,191.5 	$13,981.9 	$ 12,988.7
+Row:Cost of sales 	12,741.6 	11,654.7 	10,872.9
+Row:Gross profit 	2,449.9 	2,327.2 	2,115.8
+Row:Selling and administrative expenses 	1,410.1 	1,345.1 	1,226.0
+Row:Advertising expense 	173.7 	162.9 	147.8
+Row:Income from operations 	866.1 	819.2 	742.0
+Row:Interest expense, net 	(150.5) 	(146.5) 	(159.5)
+Row:Net loss on extinguishments of long-term debt 	(57.4) 	(2.1) 	(24.3)
+Row:Gain on remeasurement of equity investment 	— 	— 	98.1
+Row:Other income (expense), net 	2.1 	1.8 	(9.3)
+Row:Income before income taxes 	660.3 	672.4 	647.0
+Row:Income tax expense 	(137.3) 	(248.0) 	(243.9)
+Row:Net income $ 	523.0 	$ 424.4 	$ 403.1
+Row:Net income per common share:
+			Row:Basic $ 	3.37 	$ 2.59 	$ 2.37
+Row:Diluted $ 	3.31 	$ 2.56 	$ 2.35
+Row:Weighted-average common shares outstanding:
+			Row:Basic 	155.4 	163.6 	170.3
+Row:Diluted 	158.2 	166.0 	171.8
+Row:Cash dividends declared per common share $ 	0.6900 	$ 0.4825 	$ 0.3100
+Row:Cash flows from operating activities:
+	2017 2016 	2015
+Row:Net income $ 	523.0 $ 424.4 	$ 403.1
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+		Row:Depreciation and amortization 	260.9 254.5 	227.4
+Row:Equity-based compensation expense 	43.7 39.2 	31.2
+Row:Deferred income taxes 	(172.7) (97.2) 	(54.5)
+Row:Amortization of deferred financing costs, debt premium and debt discount, net 	5.2 6.5 	6.4
+Row:Net loss on extinguishments of long-term debt Loss from equity investments 	57.4 2.1 — — 	24.3
+11.2
+Row:Gain on remeasurement of equity investment 	— — 	(98.1)
+Row:Mark-to-market (gain) loss on interest rate cap agreements 	(0.5) (2.6) 	2.1
+Row:Other 	0.4 0.4 	0.3
+Row:Changes in assets and liabilities:
+		Row:Accounts receivable 	(128.4) (179.9) 	(342.6)
+Row:Merchandise inventory 	8.5 (68.5) 	(31.5)
+Row:Other assets 	(116.4) (50.1) 	(71.2)
+Row:Accounts payable-trade 	231.5 225.1 	100.5
+Row:Other current liabilities 	51.4 80.2 	47.5
+Row:Long-term liabilities 	13.7 (30.1) 	21.4
+Row:Net cash provided by operating activities 	777.7 604.0 	277.5
+Row:Cash flows used in investing activities:
+Capital expenditures 	(81.1) (63.5) 	(90.1)
+Row:Premium payments on interest rate cap agreements 	— (2.4) 	(0.5)
+Row:Acquisition of business, net of cash acquired 	— — 	(263.8)
+Row:Net cash used in investing activities 	(81.1) (65.9) 	(354.4)
+Row:Cash flows used in financing activities:
+		Row:Proceeds from borrowings under revolving credit facility 	1,560.7 338.8 	314.5
+Row:Repayments of borrowings under revolving credit facility 	(1,560.7) (338.8) 	(314.5)
+Row:Repayments of long-term debt 	(14.9) (20.6) 	(32.8)
+Row:Proceeds from issuance of long-term debt 	2,083.0 1,483.0 	525.0
+Row:Payments to extinguish long-term debt 	(2,121.3) (1,490.4) 	(525.3)
+Row:Net change in other long-term obligation 	(3.8) 15.7 	—
+Row:Payments of debt financing costs 	(9.6) (5.9) 	(6.8)
+Row:Net change in accounts payable-inventory financing 	(84.0) 143.6 	95.9
+Row:Effective portion of interest rate cap agreements 	0.4 — 	—
+Row:Proceeds from stock option exercises 	13.0 7.4 	2.4
+Row:Proceeds from Coworker Stock Purchase Plan 	10.3 9.3 	8.7
+Row:Repurchases of common stock 	(534.0) (367.4) 	(241.3)
+Row:Payment of incentive compensation plan withholding taxes 	(49.6) — 	0.6
+Row:Dividends Principal payments under capital lease obligations 	(106.9) (78.7) (1.3) (0.6) 	(52.9)
+—
+Row:Net cash used in financing activities 	(818.7) (304.6) 	(226.5)
+Row:Effect of exchange rate changes on cash and cash equivalents 	2.6 (7.4) 	(3.5)
+Row:Net (decrease) increase in cash and cash equivalents 	(119.5) 226.1 	(306.9)
+Row:Cash and cash equivalents – beginning of period Cash and cash equivalents – end of period $ 	263.7 37.6 144.2 $ 263.7 	344.5
+$ 37.6
+Row:Supplementary disclosure of cash flow information:
+		Row:Interest paid $ 	(148.5) $ (144.3) 	$ (154.6)
+Row:Taxes paid, net $ 	(275.7) $ (329.2) 	$ (300.2)

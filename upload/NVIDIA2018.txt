@@ -1,0 +1,118 @@
+Row:	January 28,
+2018
+	January 29,
+2017
+	January 31,
+2016
+Row:Revenue 	$ 9,714 	$ 6,910 	$ 5,010
+Row:Cost of revenue 	3,892 	2,847 	2,199
+Row:Gross profit 	5,822 	4,063 	2,811
+Row:Operating expenses
+			Row:Research and development 	1,797 	1,463 	1,331
+Row:Sales, general and administrative 	815 	663 	602
+Row:Restructuring and other charges 	— 	3 	131
+Row:Total operating expenses 	2,612 	2,129 	2,064
+Row:Income from operations 	3,210 	1,934 	747
+Row:Interest income 	69 	54 	39
+Row:Interest expense 	(61) 	(58) 	(47)
+Row:Other, net 	(22) 	(25) 	4
+Row:Total other income (expense) 	(14) 	(29) 	(4)
+Row:Income before income tax 	3,196 	1,905 	743
+Row:Income tax expense 	149 	239 	129
+Row:Net income 	$ 3,047 	$ 1,666 	$ 614
+Row:Net income per share:
+			Row:Basic 	$ 5.09 	$ 3.08 	$ 1.13
+Row:Diluted 	$ 4.82 	$ 2.57 	$ 1.08
+Row:Weighted average shares used in per share computation:
+			Row:Basic 	599 	541 	543
+Row:Diluted 	632 	649 	569
+Row:Cash dividends declared and paid per common share 	$ 0.570 	$ 0.485 	$ 0.395
+Row:Basic 	$ 5.09 $ 3.08 $ 	1.13
+Row:Diluted 	$ 4.82 $ 2.57 $ 	1.08
+Row:January 28,
+	January 29,
+Row:2018
+	2017
+Row:Current assets:
+		Row:Cash and cash equivalents $ 	4,002 	$ 1,766
+Row:Marketable securities 	3,106 	5,032
+Row:Accounts receivable, less allowances of $13 as of January 28, 2018 and January
+29, 2017 	1,265 	826
+Row:Inventories 	796 	794
+Row:Prepaid expenses and other current assets 	86 	118
+Row:Total current assets 	9,255 	8,536
+Row:Property and equipment, net 	997 	521
+Row:Goodwill 	618 	618
+Row:Intangible assets, net 	52 	104
+Row:Other assets 	319 	62
+Row:Total assets $ 	11,241 	$ 9,841
+Row:Current liabilities:
+		Row:Accounts payable 	$ 596 	$ 485
+Row:Accrued and other current liabilities 	542 	507
+Row:Convertible short-term debt 	15 	796
+Row:Total current liabilities 	1,153 	1,788
+Row:Long-term debt 	1,985 	1,983
+Row:Other long-term liabilities 	632 	277
+Row:Total liabilities 	3,770 	4,048
+Row:Commitments and contingencies - see Note 12
+		Row:Convertible debt conversion obligation 	— 	31
+Row:Shareholders’ equity:
+		Row:Preferred stock, $.001 par value; 2 shares authorized; none issued 	— 	—
+Row:Common stock, $.001 par value; 2,000 shares authorized; 932 shares issued and
+606 outstanding as of January 28, 2018; 868 shares issued and 585 outstanding
+as of January 29, 2017 	1 	1
+Row:Additional paid-in capital 	5,351 	4,708
+Row:Treasury stock, at cost (326 shares in 2018 and 283 shares in 2017) 	(6,650) 	(5,039)
+Row:Accumulated other comprehensive loss 	(18) 	(16)
+Row:Retained earnings 	8,787 	6,108
+Row:Total shareholders' equity 	7,471 	5,762
+Row:Total liabilities, convertible debt conversion obligation and shareholders' equity $ 	11,241 	$ 9,841
+Row:January 28,
+	January 29,
+	January 31,
+Row:2018
+	2017
+	2016
+Row:Cash flows from operating activities:
+		Row:Net income $ 	3,047 $ 1,666 	$ 614
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+		Row:Stock-based compensation expense 	391 247 	204
+Row:Depreciation and amortization 	199 187 	197
+Row:Loss on early debt conversions 	19 21 	—
+Row:Amortization of debt discount 	3 25 	29
+Row:Deferred income taxes 	(359) 197 	134
+Row:Net gain on sale and disposal of long-lived assets and investments 	(1) (3) 	(6)
+Row:Restructuring and other charges 	— — 	45
+Row:Tax benefit from stock-based compensation 	— — 	(10)
+Row:Other 	18 11 	19
+Row:Changes in operating assets and liabilities:
+		Row:Accounts receivable 	(440) (321) 	(32)
+Row:Inventories 	— (375) 	66
+Row:Prepaid expenses and other assets 	21 (18) 	(16)
+Row:Accounts payable 	90 184 	(11)
+Row:Accrued and other current liabilities 	33 (135) 	39
+Row:Other long-term liabilities 	481 (14) 	(97)
+Row:Net cash provided by operating activities 	3,502 1,672 	1,175
+Row:Cash flows from investing activities:
+		Row:Proceeds from sales of marketable securities 	863 1,546 	2,102
+Row:Proceeds from maturities of marketable securities 	1,078 969 	1,036
+Row:Proceeds from sale of long-lived assets and investments 	2 7 	7
+Row:Purchases of marketable securities Purchases of property and equipment and intangible assets 	(36) (3,134) (593) (176) 	(3,477)
+(86)
+Row:Reimbursement of building development costs from banks 	— — 	24
+Row:Investment in non-affiliates 	(36) (5) 	(6)
+Row:Net cash provided by (used in) investing activities 	1,278 (793) 	(400)
+Row:Cash flows from financing activities:
+		Row:Proceeds from issuance of debt 	— 1,988 	—
+Row:Payments related to repurchases of common stock 	(909) (739) 	(587)
+Row:Repayment of Convertible Notes 	(812) (673) 	—
+Row:Dividends paid 	(341) (261) 	(213)
+Row:Proceeds related to employee stock plans Payments related to tax on restricted stock units 	139 167 (612) (176) 	186
+(66)
+Row:Payments for debt issuance costs 	— (8) 	—
+Row:Tax benefit from stock-based compensation Other 	— — (9) (7) 	10
+(6)
+Row:Net cash provided by (used in) financing activities 	(2,544) 291 	(676)
+Row:Change in cash and cash equivalents 	2,236 1,170 	99
+Row:Cash and cash equivalents at beginning of period 	1,766 596 	497
+Row:Cash and cash equivalents at end of period $ 	4,002 $ 1,766 	$ 596

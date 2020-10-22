@@ -1,0 +1,106 @@
+Row:September 3,
+	August 28,
+Row:2017
+	2016
+Row:Cash and cash equivalents . . . 	. . . 	. . 	. 	. 	. 	. 	. 	. 	. . 	. 	. 	. 	. 	. 	. . 	. . 	. 	. 	. 	. 	. 	. 	. 	. 	. . 	. 	. 	. 	. $ 	4,546 	$ 3,379
+Row:Short-term investments . . . . . . 	. . . 	. . 	. 	. 	. 	. 	. 	. 	. . 	. 	. 	. 	. 	. 	. . 	. . 	. 	. 	. 	. 	. 	. 	. 	. 	. . 	. 	. 	. 	. 	1,233 	1,350
+Row:Receivables, net . . . . . . . . . . . 	. . . 	. . 	. 	. 	. 	. 	. 	. 	. . 	. 	. 	. 	. 	. 	. . 	. . 	. 	. 	. 	. 	. 	. 	. 	. 	. . 	. 	. 	. 	. 	1,432 	1,252
+Row:Merchandise inventories . . . . . 	. . . 	. . 	. 	. 	. 	. 	. 	. 	. . 	. 	. 	. 	. 	. 	. . 	. . 	. 	. 	. 	. 	. 	. 	. 	. 	. . 	. 	. 	. 	. 	9,834 	8,969
+Row:Other current assets . . . . . . . . 	. . . 	. . 	. 	. 	. 	. 	. 	. 	. . 	. 	. 	. 	. 	. 	. . 	. . 	. 	. 	. 	. 	. 	. 	. 	. 	. . 	. 	. 	. 	. 	272 	268
+Row:Total current assets . . . . . 	. . . 	. . 	. 	. 	. 	. 	. 	. 	. . 	. 	. 	. 	. 	. 	. . 	. . 	. 	. 	. 	. 	. 	. 	. 	. 	. . 	. 	. 	. 	. 	17,317 	15,218
+Row:Net property and equipment . . . . . . . . 	. . 	. . 	. . 	. . 	. . . . 	. . . 	. . 	. . 	. 	. 	. 	. 	. 	. . . 18,161 Row:ASSETS . . . . . . . . . . . . . . . . . . . . . . . 	. . 	. . 	. . 	. . 	. . . . 	. . . 	. . 	. . 	. 	. 	. 	. 	. 	. . . 869 Row:TOTAL ASSETS . . . . . . . . . . . . . . . . 	. . 	. . 	. . 	. . 	. . . . 	. . . 	. . 	. . 	. 	. 	. 	. 	. 	. . . $ 36,347 Row:Accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ Row:Current portion of long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:Accrued salaries and benefits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:Accrued member rewards . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:Deferred membership fees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:Other current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:Total current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:LONG-TERM DEBT, excluding current portion . . . . . . . . . . . . . . . . . . . . . . . . . Row:OTHER LIABILITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:Total liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:Common stock $.01 par value; 900,000,000 shares authorized;
+437,204,000 and 437,524,000 shares issued and outstanding . . . . . . . . . . 	4 	2
+Row:Additional paid-in capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	5,800 	5,490
+Row:Accumulated other comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1,014) 	(1,099)
+Row:Retained earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	5,988 	7,686
+Row:Total Costco stockholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	10,778 	12,079
+Row:Noncontrolling interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	301 	253
+Row:Total equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	11,079 	12,332
+Row:TOTAL LIABILITIES AND EQUITY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	36,347 	$ 33,163
+Row:53 Weeks Ended 	52 Weeks Ended 	52 Weeks Ended
+Row:September 3,
+	August 28,
+	August 30,
+Row:2017
+	2016
+	2015
+Row:Net sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	126,172 	$ 116,073 	$ 113,666
+Row:Membership fees . . . . . . . . . . . . . . . . . . . . . . . 	2,853 	2,646 	2,533
+Row:Total revenue . . . . . . . . . . . . . . . . . . . . . . . 	129,025 	118,719 	116,199
+Row:OPERATING EXPENSES
+			Row:Merchandise costs . . . . . . . . . . . . . . . . . . . . . . 	111,882 	102,901 	101,065
+Row:Selling, general and administrative . . . . . . . . . . 	12,950 	12,068 	11,445
+Row:Preopening expenses . . . . . . . . . . . . . . . . . . . . 	82 	78 	65
+Row:Operating income . . . . . . . . . . . . . . . . . . . 	4,111 	3,672 	3,624
+Row:OTHER INCOME (EXPENSE)
+			Row:Interest expense . . . . . . . . . . . . . . . . . . . . . . . . 	(134) 	(133) 	(124)
+Row:Interest income and other, net . . . . . . . . . . . . . 	62 	80 	104
+Row:INCOME BEFORE INCOME TAXES. . . . . . . . . . . . 	4,039 	3,619 	3,604
+Row:Provision for income taxes . . . . . . . . . . . . . . . . 	1,325 	1,243 	1,195
+Row:Net income including noncontrolling interests. . 	2,714 	2,376 	2,409
+Row:Net income attributable to noncontrolling
+interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . NET INCOME ATTRIBUTABLE TO COSTCO . . . . $ 	(35) 2,679 	(26) $ 2,350 	(32)
+$ 2,377
+Row:NET INCOME PER COMMON SHARE
+ATTRIBUTABLE TO COSTCO:
+			Row:Basic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	6.11 	$ 5.36 	$ 5.41
+Row:Diluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	6.08 	$ 5.33 	$ 5.37
+Row:Shares used in calculation (000’s)
+			Row:Basic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	438,437 	438,585 	439,455
+Row:Diluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	440,937 	441,263 	442,716
+Row:CASH DIVIDENDS DECLARED PER COMMON
+SHARE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	8.90 	$ 1.70 	$ 6.51
+Row:53 Weeks
+	52 Weeks
+	52 Weeks
+Row:Ended
+	Ended
+	Ended
+Row:CASH FLOWS FROM OPERATING ACTIVITIES
+Net income including noncontrolling interests Adjustments to reconcile net income including to net cash provided by operating activities:
+	. . . . 	. . . . . . . . . . . . . . . . . . noncontrolling interests
+	2017
+. $ 2,714 	2016
+$ 2,376 	2015
+$ 2,409
+Row:Depreciation and amortization . . . . . . . . . . . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. 1,370 	1,255 	1,127
+Row:Stock-based compensation . . . . . . . . . . . . . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. 514 	459 	394
+Row:Excess tax benefits on stock-based awards Other non-cash operating activities, net. . . . 	. . . . . . . . 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. (38) . 24 	(74) 17 	(86)
+(5)
+Row:Deferred income taxes . . . . . . . . . . . . . . . . . Changes in operating assets and liabilities:
+	. . . . 	. . . . . . . . . . . . . . . . . . 	. (29) 	269 	(101)
+Row:Merchandise inventories. . . . . . . . . . . . . . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. (894) 	(25) 	(890)
+Row:Accounts payable . . . . . . . . . . . . . . . . . . . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. 2,258 	(1,532) 	880
+Row:Other operating assets and liabilities, net. 	. . . . 	. . . . . . . . . . . . . . . . . . 	. 807 	547 	557
+Row:Net cash provided by operating activities . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. 6,726 	3,292 	4,285
+Row:CASH FLOWS FROM INVESTING ACTIVITIES
+Purchases of short-term investments. . . . . . . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. (1,279) 	(1,432) 	(1,501)
+Row:Maturities and sales of short-term investments 	. . . 	. . . . . . . . . . . . . . . . . . 	. 1,385 	1,709 	1,434
+Row:Additions to property and equipment . . . . . . . Other investing activities, net . . . . . . . . . . . . . 	. . . . . . . . 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. (2,502) . 30 	(2,649) 27 	(2,393)
+(20)
+Row:Net cash used in investing activities . . . . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. (2,366) 	(2,345) 	(2,480)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES
+Change in bank checks outstanding . . . . . . . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. (236) 	81 	(45)
+Row:Repayments of short-term borrowings . . . . . . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. 0 	(106) 	(51)
+Row:Proceeds from short-term borrowings . . . . . . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. 0 	106 	51
+Row:Proceeds from issuance of long-term debt. . . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. 3,782 	185 	1,125
+Row:Repayments of long-term debt. . . . . . . . . . . . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. (2,200) 	(1,288) 	(1)
+Row:Minimum tax withholdings on stock-based 	awards 	. . . . . . . . . . . . . . . . . . 	. (202) 	(220) 	(178)
+Row:Excess tax benefits on stock-based awards . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. 38 	74 	86
+Row:Repurchases of common stock . . . . . . . . . . . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. (469) 	(486) 	(481)
+Row:Cash dividend payments . . . . . . . . . . . . . . . . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. (3,904) 	(746) 	(2,865)
+Row:Other financing activities, net . . . . . . . . . . . . . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. (27) 	(19) 	35
+Row:Net cash used in financing activities . . . . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. (3,218) 	(2,419) 	(2,324)
+Row:EFFECT EQUIVALENTS. OF EXCHANGE . . . . . . RATE . . . . . CHANGES . . . . . . . . . . ON . 	. . . . 	CASH . . . AND . . . . . CASH
+. . . . . . . . . . 	. 25 	50 	(418)
+Row:Net change in cash and cash equivalents . . . CASH AND CASH EQUIVALENTS BEGINNING CASH AND CASH EQUIVALENTS END OF 	. . . . OF YEAR 	. . . . . . . . . . . . . . . . . . YEAR. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 1,167 . 3,379 . $ 4,546 	(1,422) 4,801 $ 3,379 	(937)
+5,738
+$ 4,801
+Row:SUPPLEMENTAL DISCLOSURE OF CASH 	FLOW 	INFORMATION:
+			Row:Cash paid during the year for:
+					Row:Interest (reduced by $16, $19, and $14, 2016, and 2015, respectively). . . . . . . . 	interest . . . . 	capitalized in 2017,
+. . . . . . . . . . . . . . . . . . 	. $ 131 	$ 123 	$ 117
+Row:Income taxes, net . . . . . . . . . . . . . . . . . . . 	. . . . 	. . . . . . . . . . . . . . . . . . 	. $ 1,185 	$ 953 	$ 1,186
+Row:SUPPLEMENTAL DISCLOSURE OF NON-CASH FINANCING ACTIVITIES:
+		INVESTING AND
+			Row:Property acquired under build-to-suit and capital 		leases . . . . . . . . . . . . . . 	. $ 17 	$ 15 	$ 109

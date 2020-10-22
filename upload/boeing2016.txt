@@ -1,0 +1,117 @@
+Row:Years ended December 31, 	2016 	2015 	2014
+Row:Sales of products 	$84,399 	$85,255 	$80,688
+Row:Sales of services 	10,172 	10,859 	10,074
+Row:Total revenues 	94,571 	96,114 	90,762
+Row:Cost of products 	(72,713) 	(73,446) 	(68,551)
+Row:Cost of services 	(8,018) 	(8,578) 	(8,132)
+Row:Boeing Capital interest expense 	(59) 	(64) 	(69)
+Row:Total costs and expenses 	(80,790) 	(82,088) 	(76,752)
+Row:	13,781 	14,026 	14,010
+Row:Income from operating investments, net 	303 	274 	287
+Row:General and administrative expense 	(3,616) 	(3,525) 	(3,767)
+Row:Research and development expense, net 	(4,627) 	(3,331) 	(3,047)
+Row:Loss on dispositions, net 	(7) 	(1) 	(10)
+Row:Earnings from operations 	5,834 	7,443 	7,473
+Row:Other income/(loss), net 	40 	(13) 	(3)
+Row:Interest and debt expense 	(306) 	(275) 	(333)
+Row:Earnings before income taxes 	5,568 	7,155 	7,137
+Row:Income tax expense 	(673) 	(1,979) 	(1,691)
+Row:Net earnings 	$4,895 	$5,176 	$5,446
+Row:Basic earnings per share 	$7.70 	$7.52 	$7.47
+Row:Diluted earnings per share 	$7.61 	$7.44 	$7.38
+Row:(Dollars in millions, except per share data)
+December 31, Assets
+	2016 2015
+Row:Cash and cash equivalents 	$8,801 $11,302
+Row:Short-term and other investments Accounts receivable, net Current portion of customer financing, net 	1,228 750
+8,832 8,713
+428 212
+Row:Inventories, net of advances and progress billings 	43,199 47,257
+Row:Total current assets Customer financing, net Property, plant and equipment, net 	62,488 68,234
+3,773 3,358
+12,807 12,076
+Row:Goodwill 	5,324 5,126
+Row:Acquired intangible assets, net 	2,540 2,657
+Row:Deferred income taxes Investments 	332 265
+1,317 1,284
+Row:Other assets, net of accumulated amortization of $497 and $451 	1,416 1,408
+Row:Total assets 	$89,997 $94,408
+Row:Liabilities and equity
+Accounts payable Accrued liabilities 	$11,190 $10,800
+14,691 14,014
+Row:Advances and billings in excess of related costs Short-term debt and current portion of long-term debt 	23,869 24,364
+384 1,234
+Row:Total current liabilities 	50,134 50,412
+Row:Deferred income taxes Accrued retiree health care 	1,338 2,392
+5,916 6,616
+Row:Accrued pension plan liability, net 	19,943 17,783
+Row:Other long-term liabilities 	2,221 2,078
+Row:Long-term debt 	9,568 8,730
+Row:Shareholders’ equity:
+	Row:Common stock, par value $5.00 – 1,200,000,000 shares authorized;
+1,012,261,159 shares issued 	5,061 5,061
+Row:Additional paid-in capital 	4,762 4,834
+Row:Treasury stock, at cost 	(36,097) (29,568)
+Row:Retained earnings 	40,714 38,756
+Row:Accumulated other comprehensive loss 	(13,623) (12,748)
+Row:Total shareholders’ equity Noncontrolling interests Total equity 	817 6,335
+60 62
+877 6,397
+Row:Total liabilities and equity 	$89,997 $94,408
+Row:See Notes to the Consolidated Financial Statements on pages 55 – 106.
+	Row:Total shareholders’ equity 	817 	6,335
+Row:Noncontrolling interests 	60 	62
+Row:Total equity 	877 	6,397
+Row:Total liabilities and equity 	$89,997 	$94,408
+Row:(Dollars in millions)
+Years ended December 31, 	2016 2015 	2014
+Row:Cash flows – operating activities:
+Net earnings 	$4,895 $5,176 	$5,446
+Row:Adjustments to reconcile net earnings to net cash provided by operating
+activities:
+Non-cash items –
+		Row:Share-based plans expense 	190 189 	195
+Row:Depreciation and amortization 	1,910 1,833 	1,906
+Row:Investment/asset impairment charges, net 	90 167 	229
+Row:Customer financing valuation benefit 	(7) (5) 	(28)
+Row:Loss on dispositions, net 	7 1 	10
+Row:Other charges and credits, net 	369 364 	317
+Row:Excess tax benefits from share-based payment arrangements 	(157) 	(114)
+Row:Changes in assets and liabilities –
+		Row:Accounts receivable 	112 (1,069) 	(1,328)
+Row:Inventories, net of advances and progress billings 	3,755 (1,110) 	(4,330)
+Row:Accounts payable 	622 (238) 	1,339
+Row:Accrued liabilities 	726 2 	(1,088)
+Row:Advances and billings in excess of related costs 	(493) 1,192 	3,145
+Row:Income taxes receivable, payable and deferred 	(810) 477 	1,325
+Row:Other long-term liabilities 	(68) 46 	36
+Row:Pension and other postretirement plans 	153 2,470 	1,186
+Row:Customer financing, net 	(696) 167 	578
+Row:Other 	(256) (142) 	34
+Row:Net cash provided by operating activities 	10,499 9,363 	8,858
+Row:Cash flows – investing activities:
+Property, plant and equipment additions Property, plant and equipment reductions Acquisitions, net of cash acquired 	(2,613) (2,450) 38 42 (297) (31) 	(2,236)
+34
+(163)
+Row:Contributions to investments 	(1,719) (2,036) 	(8,617)
+Row:Proceeds from investments Other 	1,209 2,590 2 39 	13,416
+33
+Row:Net cash (used)/provided by investing activities 	(3,380) (1,846) 	2,467
+Row:Cash flows – financing activities:
+New borrowings 	1,325 1,746 	962
+Row:Debt repayments Repayments of distribution rights and other asset financing Stock options exercised Excess tax benefits from share-based payment arrangements 	(1,359) (885) (24) 321 399 157 	(1,601)
+(185)
+343
+114
+Row:Employee taxes on certain share-based payment arrangements 	(93) (96) 	(98)
+Row:Common shares repurchased 	(7,001) (6,751) 	(6,001)
+Row:Dividends paid Other 	(2,756) (2,490) 	(2,115)
+(12)
+Row:Net cash used by financing activities 	(9,587) (7,920) 	(8,593)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(33) (28) 	(87)
+Row:Net (decrease)/increase in cash and cash equivalents 	(2,501) (431) 	2,645
+Row:Net cash used by financing activities (9,587) 	(7,920) 	(8,593)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(33) (28) 	(87)
+Row:Net (decrease)/increase in cash and cash equivalents (2,501) 	(431) 	2,645
+Row:Cash and cash equivalents at beginning of year 11,302 	11,733 	9,088
+Row:Cash and cash equivalents at end of year $8,801 	$11,302 	$11,733

@@ -1,0 +1,92 @@
+Row:Revenue:
+			Row:Motorcycles and Related Products 	$ 4,915,027 	$ 5,271,376 	$ 5,308,744
+Row:Financial Services 	732,197 	725,082 	686,658
+Row:Total revenue 	5,647,224 	5,996,458 	5,995,402
+Row:Costs and expenses:
+			Row:Motorcycles and Related Products cost of goods sold 	3,261,683 	3,419,710 	3,356,284
+Row:Financial Services interest expense 	180,193 	173,756 	161,983
+Row:Financial Services provision for credit losses 	132,444 	136,617 	101,345
+Row:Selling, administrative and engineering expense 	1,181,641 	1,217,439 	1,220,095
+Row:Total costs and expenses 	4,755,961 	4,947,522 	4,839,707
+Row:Operating income 	891,263 	1,048,936 	1,155,695
+Row:Investment income 	3,580 	4,645 	6,585
+Row:Interest expense 	31,004 	29,670 	12,117
+Row:Income before provision for income taxes 	863,839 	1,023,911 	1,150,163
+Row:Provision for income taxes 	342,080 	331,747 	397,956
+Row:Net income 	$ 521,759 	$ 692,164 	$ 752,207
+Row:Earnings per common share:
+			Row:Basic 	$ 3.03 	$ 3.85 	$ 3.71
+Row:Diluted 	$ 3.02 	$ 3.83 	$ 3.69
+Row:Cash dividends per common share 	$ 1.46 	$ 1.40 	$ 1.24
+Row:ASSETS
+		Row:Current assets:
+Cash and cash equivalents $ 	687,521 $ 	759,984
+Row:Marketable securities 	— 	5,519
+Row:Accounts receivable, net 	329,986 	285,106
+Row:Finance receivables, net 	2,105,662 	2,076,261
+Row:Inventories 	538,202 	499,917
+Row:Restricted cash 	47,518 	52,574
+Row:Other current assets 	175,853 	174,491
+Row:Total current assets 	3,884,742 	3,853,852
+Row:Finance receivables, net 	4,859,424 	4,759,197
+Row:Property, plant and equipment, net 	967,781 	981,593
+Row:Prepaid pension costs 	19,816 	—
+Row:Goodwill 	55,947 	53,391
+Row:Deferred income taxes 	109,073 	167,729
+Row:Other long-term assets 	75,889 	74,478
+Row:$ 	9,972,672 $ 	9,890,240
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Current liabilities:
+		Row:Accounts payable $ 	227,597 	$ 235,318
+Row:Accrued liabilities 	529,822 	486,652
+Row:Short-term debt 	1,273,482 	1,055,708
+Row:Current portion of long-term debt, net 	1,127,269 	1,084,884
+Row:Total current liabilities 	3,158,170 	2,862,562
+Row:Long-term debt, net 	4,587,258 	4,666,975
+Row:Pension liability 	54,606 	84,442
+Row:Postretirement healthcare liability 	118,753 	173,267
+Row:Other long-term liabilities 	209,608 	182,836
+Row:Commitments and contingencies (Note 14)
+		Row:Shareholders’ equity:
+		Row:Preferred stock, none issued 	— 	—
+Row:Preferred stock, none issued 	— 	—
+Row:Common stock, 181,286,547 and 180,595,054 shares issued, respectively 	1,813 	1,806
+Row:Additional paid-in-capital 	1,422,808 	1,381,862
+Row:Retained earnings 	1,607,570 	1,337,673
+Row:Accumulated other comprehensive loss 	(500,049) 	(565,381)
+Row:Treasury stock (13,195,731 and 4,647,345 shares, respectively), at cost 	(687,865) 	(235,802)
+Row:Total shareholders’ equity 	1,844,277 	1,920,158
+Row:$ 	9,972,672 	$ 9,890,240
+Row:2017 Net cash provided by operating activities (Note 2) $ 1,005,061 	2016 $ 1,174,339 	2015
+$ 1,100,118
+Row:Cash flows from investing activities:
+		Row:Capital expenditures (206,294) 	(256,263) 	(259,974)
+Row:Origination of finance receivables (3,591,948) 	(3,664,495) 	(3,751,830)
+Row:Collections on finance receivables 3,228,311 	3,175,031 	3,136,885
+Row:Proceeds from finance receivables sold 	— 312,571 	—
+Row:Sales and redemptions of marketable securities 	6,916 40,014 	11,507
+Row:Acquisition of business 	— — 	(59,910)
+Row:Other 	547 411 	7,474
+Row:Net cash used by investing activities (562,468) 	(392,731) 	(915,848)
+Row:Cash flows from financing activities:
+		Row:Proceeds from issuance of medium-term notes 893,668 	1,193,396 	595,386
+Row:Repayments of medium-term notes (800,000) 	(451,336) 	(610,331)
+Row:Proceeds from issuance of senior unsecured notes 	— — 	740,385
+Row:Proceeds from securitization debt 	— — 	1,195,668
+Row:Repayments of securitization debt (444,671) 	(665,400) 	(1,008,135)
+Row:Borrowings of asset-backed commercial paper 469,932 	62,396 	87,442
+Row:Repayments of asset-backed commercial paper (176,227) 	(71,500) 	(72,727)
+Row:Net increase (decrease) in credit facilities and unsecured commercial paper 212,809 	(145,812) 	469,473
+Row:Net change in restricted cash 	8,458 43,495 	11,410
+Row:Dividends paid (251,862) 	(252,321) 	(249,262)
+Row:Purchase of common stock for treasury (465,263) 	(465,341) 	(1,537,020)
+Row:Excess tax benefits from share-based payments Issuance of common stock under employee stock option plans 	— 2,251 11,353 15,782 	3,468
+20,179
+Row:Net cash used by financing activities (541,803) 	(734,390) 	(354,064)
+Row:Effect of exchange rate changes on cash and cash equivalents 	26,747 (9,443) 	(14,677)
+Row:Net (decrease) increase in cash and cash equivalents $ 	(72,463) $ 37,775 	$ (184,471)
+Row:Cash and cash equivalents:
+		Row:Cash and cash equivalents—beginning of period $ 759,984 	$ 722,209 	$ 906,680
+Row:Net (decrease) increase in cash and cash equivalents 	(72,463) 37,775 	(184,471)
+Row:Cash and cash equivalents—end of period $ 687,521 	$ 759,984 	$ 722,209

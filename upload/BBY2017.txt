@@ -1,0 +1,1296 @@
+Row:Assets
+		Row:Current Assets
+		Row:Cash and cash equivalents 	$ 2,240 	$ 1,976
+Row:Short-term investments 	1,681 	1,305
+Row:Receivables, net 	1,347 	1,162
+Row:Merchandise inventories 	4,864 	5,051
+Row:Other current assets 	384 	392
+Row:Total current assets 	10,516 	9,886
+Row:Property and Equipment
+		Row:Land and buildings 	618 	613
+Row:Leasehold improvements 	2,227 	2,220
+Row:Fixtures and equipment 	4,998 	5,002
+Row:Property under capital and financing leases 	300 	272
+Row:	8,143 	8,107
+Row:Less accumulated depreciation 	5,850 	5,761
+Row:Net property and equipment 	2,293 	2,346
+Row:Goodwill 	425 	425
+Row:Other Assets 	622 	831
+Row:Non-current assets held for sale 	— 	31
+Row:Total Assets 	$ 13,856 	$ 13,519
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Leasehold improvements 	2,227 	2,220
+Row:Fixtures and equipment 	4,998 	5,002
+Row:Property under capital and financing leases 	300 	272
+Row:	8,143 	8,107
+Row:Less accumulated depreciation 	5,850 	5,761
+Row:Net property and equipment 	2,293 	2,346
+Row:Goodwill 	425 	425
+Row:Other Assets 	622 	831
+Row:Non-current assets held for sale 	— 	31
+Row:Total Assets 	$ 13,856 	$ 13,519
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Accounts payable 	$ 4,984 	$ 4,450
+Row:Unredeemed gift card liabilities 	427 	409
+Row:Deferred revenue 	418 	357
+Row:Accrued compensation and related expenses 	358 	384
+Row:Accrued liabilities 	865 	802
+Row:Accrued income taxes 	26 	128
+Row:Current portion of long-term debt 	44 	395
+Row:Total current liabilities 	7,122 	6,925
+Row:Long-Term Liabilities 	704 	877
+Row:Long-Term Debt 	1,321 	1,339
+Row:Contingencies and Commitments (Note 12)
+		Row:Equity
+		Row:Best Buy Co., Inc. Shareholders' Equity
+		Row:Preferred stock, $1.00 par value: Authorized — 400,000 shares; Issued and outstanding — none 	— 	—
+Row:Common stock, $0.10 par value: Authorized — 1.0 billion shares; Issued and outstanding —
+311,108,000 and 323,779,000 shares, respectively 	31 	32
+Row:Prepaid share repurchase 	— 	(55)
+Row:Additional paid-in capital 	— 	—
+Row:Retained earnings 	4,399 	4,130
+Row:Accumulated other comprehensive income 	279 	271
+Row:Total equity 	4,709 	4,378
+Row:Total Liabilities and Equity 	$ 13,856 	$ 13,519
+Row:See Notes to Consolidated Financial Statements.
+		Row:279 	271
+Row:4,709 	4,378
+Row:$ 13,856 	$ 13,519
+Row:Fiscal Years Ended
+	2017
+	2016
+	2015
+Row:Revenue 	$ 39,403 	$ 39,528 	$ 40,339
+Row:Cost of goods sold 	29,963 	30,334 	31,292
+Row:Restructuring charges — cost of goods sold 	— 	3 	—
+Row:Gross profit 	9,440 	9,191 	9,047
+Row:Selling, general and administrative expenses 	7,547 	7,618 	7,592
+Row:Restructuring charges 	39 	198 	5
+Row:Operating income 	1,854 	1,375 	1,450
+Row:Other income (expense)
+			Row:Gain on sale of investments 	3 	2 	13
+Row:Investment income and other 	31 	13 	14
+Row:Interest expense 	(72) 	(80) 	(90)
+Row:Earnings from continuing operations before income tax expense 	1,816 	1,310 	1,387
+Row:Income tax expense 	609 	503 	141
+Row:Net earnings from continuing operations 	1,207 	807 	1,246
+Row:Gain (loss) from discontinued operations (Note 2), net of tax expense of $7, $1
+and $0 	21 	90 	(11)
+Row:Net earnings including noncontrolling interests 	1,228 	897 	1,235
+Row:Net earnings from discontinued operations attributable to noncontrolling
+interests 	— 	— 	(2)
+Row:Net earnings attributable to Best Buy Co., Inc. shareholders 	$ 1,228 	$ 897 	$ 1,233
+Row:Basic earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+			Row:Continuing operations 	$ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Basic earnings per share 	$ 3.86 	$ 2.59 	$ 3.53
+Row:Diluted earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+			Row:Continuing operations 	$ 3.74 	$ 2.30 	$ 3.53
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Diluted earnings per share 	$ 3.81 	$ 2.56 	$ 3.49
+Row:Basic earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+		Row:Continuing operations $ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 0.07 	0.26 	(0.04)
+Row:Basic earnings per share $ 3.86 	$ 2.59 	$ 3.53
+Row:Diluted earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+		Row:Continuing operations $ 3.74 	$ 2.30 	$ 3.53
+Row:Discontinued operations 0.07 	0.26 	(0.04)
+Row:Diluted earnings per share $ 3.81 	$ 2.56 	$ 3.49
+Row:Weighted-average common shares outstanding
+		Row:Basic 318.5 	346.5 	349.5
+Row:Diluted 322.6 	350.7 	353.6
+Row:See Notes to Consolidated Financial Statements.
+		Row:Continuing operations 	$ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Basic earnings per share 	$ 3.86 	$ 2.59 	$ 3.53
+Row:$ 	3.74 	$ 	2.30 	$ 	3.53
+Row:	0.07 		0.26 		(0.04)
+Row:$ 	3.81 	$ 	2.56 	$ 	3.49
+Row:Fiscal Years Ended
+	2017
+	2016
+	2015
+Row:Operating Activities
+			Row:Net earnings including noncontrolling interests 	$ 1,228 	$ 897 	$ 1,235
+Row:Adjustments to reconcile net earnings to total cash provided by operating
+activities:
+			Row:Depreciation 	654 	657 	656
+Row:Restructuring charges 	39 	201 	23
+Row:Gain on sale of business 	— 	(99) 	(1)
+Row:Stock-based compensation 	108 	104 	87
+Row:Deferred income taxes 	201 	49 	(297)
+Row:Other, net 	(31) 	38 	8
+Row:Changes in operating assets and liabilities:
+			Row:Receivables 	(185) 	123 	(19)
+Row:Merchandise inventories 	193 	86 	(141)
+Row:Other assets 	10 	36 	29
+Row:Accounts payable 	518 	(536) 	434
+Row:Other liabilities 	23 	(140) 	(164)
+Row:Income taxes 	(213) 	(94) 	85
+Row:Total cash provided by operating activities 	2,545 	1,322 	1,935
+Row:Investing Activities
+Additions to property and equipment, net of $48, $92 and $14 of non-
+cash capital expenditures
+	(582) 	(649) 	(561)
+Row:Purchases of investments 	(3,045) 	(2,281) 	(2,804)
+Row:Sales of investments 	2,689 	2,427 	1,580
+Row:Proceeds from sale of business, net of cash transferred 	— 	103 	39
+Row:Proceeds from property disposition 	56 	— 	—
+Row:Change in restricted assets 	(8) 	(47) 	29
+Row:Other, net 	3 	28 	5
+Row:Total cash used in investing activities 	(887) 	(419) 	(1,712)
+Row:Financing Activities
+			Row:Repurchase of common stock 	(698) 	(1,000) 	—
+Row:Prepayment of accelerated share repurchase 	— 	(55) 	—
+Row:Issuance of common stock 	171 	47 	50
+Row:Dividends paid 	(505) 	(499) 	(251)
+Row:Repayments of debt 	(394) 	(28) 	(24)
+Row:Other, net 	22 	20 	2
+Row:Total cash used in financing activities 	(1,404) 	(1,515) 	(223)
+Row:Effect of Exchange Rate Changes on Cash 	10 	(38) 	(52)
+Row:Increase (Decrease) in Cash and Cash Equivalents 	264 	(650) 	(52)
+Row:Cash and Cash Equivalents at Beginning of Period, excluding held for
+sale 	1,976 	2,432 	2,678
+Row:Cash and Cash Equivalents at Beginning of Period - held for sale 	— 	194 	—
+Row:Cash and Cash Equivalents at End of Period 	2,240 	1,976 	2,626
+Row:Cash and Cash Equivalents at End of Period - held for sale 	— 	— 	(194)
+Row:Cash and Cash Equivalents at End of Period, excluding held for sale 	$ 2,240 	$ 1,976 	$ 2,432
+Row:Supplemental Disclosure of Cash Flow Information
+			Row:Income taxes paid 	$ 628 	$ 550 	$ 355
+Row:Interest paid 	76 	77 	81
+Row:Investing Activities
+			Row:Additions to property and equipment, net of $48, $92 and $14 of non-
+cash capital expenditures
+	(582) 	(649) 	(561)
+Row:Purchases of investments 	(3,045) 	(2,281) 	(2,804)
+Row:Sales of investments 	2,689 	2,427 	1,580
+Row:Proceeds from sale of business, net of cash transferred 	— 	103 	39
+Row:Proceeds from property disposition 	56 	— 	—
+Row:Change in restricted assets 	(8) 	(47) 	29
+Row:Other, net 	3 	28 	5
+Row:Total cash used in investing activities 	(887) 	(419) 	(1,712)
+Row:Financing Activities
+			Row:Repurchase of common stock 	(698) 	(1,000) 	—
+Row:Prepayment of accelerated share repurchase 	— 	(55) 	—
+Row:Issuance of common stock 	171 	47 	50
+Row:Dividends paid 	(505) 	(499) 	(251)
+Row:— 	194 	—
+Row:2,240 	1,976 	2,626
+Row:— 	— 	(194)
+Row:$ 2,240 	$ 1,976 	$ 2,432
+Row:Income taxes paid 	$ 628 $ 550 	$ 355
+Row:Interest paid 	76 77 	81
+Row:See Notes to Consolidated Financial Statements.
+		Row:Assets
+		Row:Current Assets
+		Row:Cash and cash equivalents 	$ 2,240 	$ 1,976
+Row:Short-term investments 	1,681 	1,305
+Row:Receivables, net 	1,347 	1,162
+Row:Merchandise inventories 	4,864 	5,051
+Row:Other current assets 	384 	392
+Row:Total current assets 	10,516 	9,886
+Row:Property and Equipment
+		Row:Land and buildings 	618 	613
+Row:Leasehold improvements 	2,227 	2,220
+Row:Fixtures and equipment 	4,998 	5,002
+Row:Property under capital and financing leases 	300 	272
+Row:	8,143 	8,107
+Row:Less accumulated depreciation 	5,850 	5,761
+Row:Net property and equipment 	2,293 	2,346
+Row:Goodwill 	425 	425
+Row:Other Assets 	622 	831
+Row:Non-current assets held for sale 	— 	31
+Row:Total Assets 	$ 13,856 	$ 13,519
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Leasehold improvements 	2,227 	2,220
+Row:Fixtures and equipment 	4,998 	5,002
+Row:Property under capital and financing leases 	300 	272
+Row:	8,143 	8,107
+Row:Less accumulated depreciation 	5,850 	5,761
+Row:Net property and equipment 	2,293 	2,346
+Row:Goodwill 	425 	425
+Row:Other Assets 	622 	831
+Row:Non-current assets held for sale 	— 	31
+Row:Total Assets 	$ 13,856 	$ 13,519
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Accounts payable 	$ 4,984 	$ 4,450
+Row:Unredeemed gift card liabilities 	427 	409
+Row:Deferred revenue 	418 	357
+Row:Accrued compensation and related expenses 	358 	384
+Row:Accrued liabilities 	865 	802
+Row:Accrued income taxes 	26 	128
+Row:Current portion of long-term debt 	44 	395
+Row:Total current liabilities 	7,122 	6,925
+Row:Long-Term Liabilities 	704 	877
+Row:Long-Term Debt 	1,321 	1,339
+Row:Contingencies and Commitments (Note 12)
+		Row:Equity
+		Row:Best Buy Co., Inc. Shareholders' Equity
+		Row:Preferred stock, $1.00 par value: Authorized — 400,000 shares; Issued and outstanding — none 	— 	—
+Row:Common stock, $0.10 par value: Authorized — 1.0 billion shares; Issued and outstanding —
+311,108,000 and 323,779,000 shares, respectively 	31 	32
+Row:Prepaid share repurchase 	— 	(55)
+Row:Additional paid-in capital 	— 	—
+Row:Retained earnings 	4,399 	4,130
+Row:Accumulated other comprehensive income 	279 	271
+Row:Total equity 	4,709 	4,378
+Row:Total Liabilities and Equity 	$ 13,856 	$ 13,519
+Row:See Notes to Consolidated Financial Statements.
+		Row:279 	271
+Row:4,709 	4,378
+Row:$ 13,856 	$ 13,519
+Row:Fiscal Years Ended
+	2017
+	2016
+	2015
+Row:Revenue 	$ 39,403 	$ 39,528 	$ 40,339
+Row:Cost of goods sold 	29,963 	30,334 	31,292
+Row:Restructuring charges — cost of goods sold 	— 	3 	—
+Row:Gross profit 	9,440 	9,191 	9,047
+Row:Selling, general and administrative expenses 	7,547 	7,618 	7,592
+Row:Restructuring charges 	39 	198 	5
+Row:Operating income 	1,854 	1,375 	1,450
+Row:Other income (expense)
+			Row:Gain on sale of investments 	3 	2 	13
+Row:Investment income and other 	31 	13 	14
+Row:Interest expense 	(72) 	(80) 	(90)
+Row:Earnings from continuing operations before income tax expense 	1,816 	1,310 	1,387
+Row:Income tax expense 	609 	503 	141
+Row:Net earnings from continuing operations 	1,207 	807 	1,246
+Row:Gain (loss) from discontinued operations (Note 2), net of tax expense of $7, $1
+and $0 	21 	90 	(11)
+Row:Net earnings including noncontrolling interests 	1,228 	897 	1,235
+Row:Net earnings from discontinued operations attributable to noncontrolling
+interests 	— 	— 	(2)
+Row:Net earnings attributable to Best Buy Co., Inc. shareholders 	$ 1,228 	$ 897 	$ 1,233
+Row:Basic earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+			Row:Continuing operations 	$ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Basic earnings per share 	$ 3.86 	$ 2.59 	$ 3.53
+Row:Diluted earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+			Row:Continuing operations 	$ 3.74 	$ 2.30 	$ 3.53
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Diluted earnings per share 	$ 3.81 	$ 2.56 	$ 3.49
+Row:Basic earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+		Row:Continuing operations $ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 0.07 	0.26 	(0.04)
+Row:Basic earnings per share $ 3.86 	$ 2.59 	$ 3.53
+Row:Diluted earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+		Row:Continuing operations $ 3.74 	$ 2.30 	$ 3.53
+Row:Discontinued operations 0.07 	0.26 	(0.04)
+Row:Diluted earnings per share $ 3.81 	$ 2.56 	$ 3.49
+Row:Weighted-average common shares outstanding
+		Row:Basic 318.5 	346.5 	349.5
+Row:Diluted 322.6 	350.7 	353.6
+Row:See Notes to Consolidated Financial Statements.
+		Row:Continuing operations 	$ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Basic earnings per share 	$ 3.86 	$ 2.59 	$ 3.53
+Row:$ 	3.74 	$ 	2.30 	$ 	3.53
+Row:	0.07 		0.26 		(0.04)
+Row:$ 	3.81 	$ 	2.56 	$ 	3.49
+Row:Fiscal Years Ended
+	2017
+	2016
+	2015
+Row:Operating Activities
+			Row:Net earnings including noncontrolling interests 	$ 1,228 	$ 897 	$ 1,235
+Row:Adjustments to reconcile net earnings to total cash provided by operating
+activities:
+			Row:Depreciation 	654 	657 	656
+Row:Restructuring charges 	39 	201 	23
+Row:Gain on sale of business 	— 	(99) 	(1)
+Row:Stock-based compensation 	108 	104 	87
+Row:Deferred income taxes 	201 	49 	(297)
+Row:Other, net 	(31) 	38 	8
+Row:Changes in operating assets and liabilities:
+			Row:Receivables 	(185) 	123 	(19)
+Row:Merchandise inventories 	193 	86 	(141)
+Row:Other assets 	10 	36 	29
+Row:Accounts payable 	518 	(536) 	434
+Row:Other liabilities 	23 	(140) 	(164)
+Row:Income taxes 	(213) 	(94) 	85
+Row:Total cash provided by operating activities 	2,545 	1,322 	1,935
+Row:Investing Activities
+Additions to property and equipment, net of $48, $92 and $14 of non-
+cash capital expenditures
+	(582) 	(649) 	(561)
+Row:Purchases of investments 	(3,045) 	(2,281) 	(2,804)
+Row:Sales of investments 	2,689 	2,427 	1,580
+Row:Proceeds from sale of business, net of cash transferred 	— 	103 	39
+Row:Proceeds from property disposition 	56 	— 	—
+Row:Change in restricted assets 	(8) 	(47) 	29
+Row:Other, net 	3 	28 	5
+Row:Total cash used in investing activities 	(887) 	(419) 	(1,712)
+Row:Financing Activities
+			Row:Repurchase of common stock 	(698) 	(1,000) 	—
+Row:Prepayment of accelerated share repurchase 	— 	(55) 	—
+Row:Issuance of common stock 	171 	47 	50
+Row:Dividends paid 	(505) 	(499) 	(251)
+Row:Repayments of debt 	(394) 	(28) 	(24)
+Row:Other, net 	22 	20 	2
+Row:Total cash used in financing activities 	(1,404) 	(1,515) 	(223)
+Row:Effect of Exchange Rate Changes on Cash 	10 	(38) 	(52)
+Row:Increase (Decrease) in Cash and Cash Equivalents 	264 	(650) 	(52)
+Row:Cash and Cash Equivalents at Beginning of Period, excluding held for
+sale 	1,976 	2,432 	2,678
+Row:Cash and Cash Equivalents at Beginning of Period - held for sale 	— 	194 	—
+Row:Cash and Cash Equivalents at End of Period 	2,240 	1,976 	2,626
+Row:Cash and Cash Equivalents at End of Period - held for sale 	— 	— 	(194)
+Row:Cash and Cash Equivalents at End of Period, excluding held for sale 	$ 2,240 	$ 1,976 	$ 2,432
+Row:Supplemental Disclosure of Cash Flow Information
+			Row:Income taxes paid 	$ 628 	$ 550 	$ 355
+Row:Interest paid 	76 	77 	81
+Row:Investing Activities
+			Row:Additions to property and equipment, net of $48, $92 and $14 of non-
+cash capital expenditures
+	(582) 	(649) 	(561)
+Row:Purchases of investments 	(3,045) 	(2,281) 	(2,804)
+Row:Sales of investments 	2,689 	2,427 	1,580
+Row:Proceeds from sale of business, net of cash transferred 	— 	103 	39
+Row:Proceeds from property disposition 	56 	— 	—
+Row:Change in restricted assets 	(8) 	(47) 	29
+Row:Other, net 	3 	28 	5
+Row:Total cash used in investing activities 	(887) 	(419) 	(1,712)
+Row:Financing Activities
+			Row:Repurchase of common stock 	(698) 	(1,000) 	—
+Row:Prepayment of accelerated share repurchase 	— 	(55) 	—
+Row:Issuance of common stock 	171 	47 	50
+Row:Dividends paid 	(505) 	(499) 	(251)
+Row:— 	194 	—
+Row:2,240 	1,976 	2,626
+Row:— 	— 	(194)
+Row:$ 2,240 	$ 1,976 	$ 2,432
+Row:Income taxes paid 	$ 628 $ 550 	$ 355
+Row:Interest paid 	76 77 	81
+Row:See Notes to Consolidated Financial Statements.
+		Row:Assets
+		Row:Current Assets
+		Row:Cash and cash equivalents 	$ 2,240 	$ 1,976
+Row:Short-term investments 	1,681 	1,305
+Row:Receivables, net 	1,347 	1,162
+Row:Merchandise inventories 	4,864 	5,051
+Row:Other current assets 	384 	392
+Row:Total current assets 	10,516 	9,886
+Row:Property and Equipment
+		Row:Land and buildings 	618 	613
+Row:Leasehold improvements 	2,227 	2,220
+Row:Fixtures and equipment 	4,998 	5,002
+Row:Property under capital and financing leases 	300 	272
+Row:	8,143 	8,107
+Row:Less accumulated depreciation 	5,850 	5,761
+Row:Net property and equipment 	2,293 	2,346
+Row:Goodwill 	425 	425
+Row:Other Assets 	622 	831
+Row:Non-current assets held for sale 	— 	31
+Row:Total Assets 	$ 13,856 	$ 13,519
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Leasehold improvements 	2,227 	2,220
+Row:Fixtures and equipment 	4,998 	5,002
+Row:Property under capital and financing leases 	300 	272
+Row:	8,143 	8,107
+Row:Less accumulated depreciation 	5,850 	5,761
+Row:Net property and equipment 	2,293 	2,346
+Row:Goodwill 	425 	425
+Row:Other Assets 	622 	831
+Row:Non-current assets held for sale 	— 	31
+Row:Total Assets 	$ 13,856 	$ 13,519
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Accounts payable 	$ 4,984 	$ 4,450
+Row:Unredeemed gift card liabilities 	427 	409
+Row:Deferred revenue 	418 	357
+Row:Accrued compensation and related expenses 	358 	384
+Row:Accrued liabilities 	865 	802
+Row:Accrued income taxes 	26 	128
+Row:Current portion of long-term debt 	44 	395
+Row:Total current liabilities 	7,122 	6,925
+Row:Long-Term Liabilities 	704 	877
+Row:Long-Term Debt 	1,321 	1,339
+Row:Contingencies and Commitments (Note 12)
+		Row:Equity
+		Row:Best Buy Co., Inc. Shareholders' Equity
+		Row:Preferred stock, $1.00 par value: Authorized — 400,000 shares; Issued and outstanding — none 	— 	—
+Row:Common stock, $0.10 par value: Authorized — 1.0 billion shares; Issued and outstanding —
+311,108,000 and 323,779,000 shares, respectively 	31 	32
+Row:Prepaid share repurchase 	— 	(55)
+Row:Additional paid-in capital 	— 	—
+Row:Retained earnings 	4,399 	4,130
+Row:Accumulated other comprehensive income 	279 	271
+Row:Total equity 	4,709 	4,378
+Row:Total Liabilities and Equity 	$ 13,856 	$ 13,519
+Row:See Notes to Consolidated Financial Statements.
+		Row:279 	271
+Row:4,709 	4,378
+Row:$ 13,856 	$ 13,519
+Row:Fiscal Years Ended
+	2017
+	2016
+	2015
+Row:Revenue 	$ 39,403 	$ 39,528 	$ 40,339
+Row:Cost of goods sold 	29,963 	30,334 	31,292
+Row:Restructuring charges — cost of goods sold 	— 	3 	—
+Row:Gross profit 	9,440 	9,191 	9,047
+Row:Selling, general and administrative expenses 	7,547 	7,618 	7,592
+Row:Restructuring charges 	39 	198 	5
+Row:Operating income 	1,854 	1,375 	1,450
+Row:Other income (expense)
+			Row:Gain on sale of investments 	3 	2 	13
+Row:Investment income and other 	31 	13 	14
+Row:Interest expense 	(72) 	(80) 	(90)
+Row:Earnings from continuing operations before income tax expense 	1,816 	1,310 	1,387
+Row:Income tax expense 	609 	503 	141
+Row:Net earnings from continuing operations 	1,207 	807 	1,246
+Row:Gain (loss) from discontinued operations (Note 2), net of tax expense of $7, $1
+and $0 	21 	90 	(11)
+Row:Net earnings including noncontrolling interests 	1,228 	897 	1,235
+Row:Net earnings from discontinued operations attributable to noncontrolling
+interests 	— 	— 	(2)
+Row:Net earnings attributable to Best Buy Co., Inc. shareholders 	$ 1,228 	$ 897 	$ 1,233
+Row:Basic earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+			Row:Continuing operations 	$ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Basic earnings per share 	$ 3.86 	$ 2.59 	$ 3.53
+Row:Diluted earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+			Row:Continuing operations 	$ 3.74 	$ 2.30 	$ 3.53
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Diluted earnings per share 	$ 3.81 	$ 2.56 	$ 3.49
+Row:Basic earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+		Row:Continuing operations $ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 0.07 	0.26 	(0.04)
+Row:Basic earnings per share $ 3.86 	$ 2.59 	$ 3.53
+Row:Diluted earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+		Row:Continuing operations $ 3.74 	$ 2.30 	$ 3.53
+Row:Discontinued operations 0.07 	0.26 	(0.04)
+Row:Diluted earnings per share $ 3.81 	$ 2.56 	$ 3.49
+Row:Weighted-average common shares outstanding
+		Row:Basic 318.5 	346.5 	349.5
+Row:Diluted 322.6 	350.7 	353.6
+Row:See Notes to Consolidated Financial Statements.
+		Row:Continuing operations 	$ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Basic earnings per share 	$ 3.86 	$ 2.59 	$ 3.53
+Row:$ 	3.74 	$ 	2.30 	$ 	3.53
+Row:	0.07 		0.26 		(0.04)
+Row:$ 	3.81 	$ 	2.56 	$ 	3.49
+Row:Fiscal Years Ended
+	2017
+	2016
+	2015
+Row:Operating Activities
+			Row:Net earnings including noncontrolling interests 	$ 1,228 	$ 897 	$ 1,235
+Row:Adjustments to reconcile net earnings to total cash provided by operating
+activities:
+			Row:Depreciation 	654 	657 	656
+Row:Restructuring charges 	39 	201 	23
+Row:Gain on sale of business 	— 	(99) 	(1)
+Row:Stock-based compensation 	108 	104 	87
+Row:Deferred income taxes 	201 	49 	(297)
+Row:Other, net 	(31) 	38 	8
+Row:Changes in operating assets and liabilities:
+			Row:Receivables 	(185) 	123 	(19)
+Row:Merchandise inventories 	193 	86 	(141)
+Row:Other assets 	10 	36 	29
+Row:Accounts payable 	518 	(536) 	434
+Row:Other liabilities 	23 	(140) 	(164)
+Row:Income taxes 	(213) 	(94) 	85
+Row:Total cash provided by operating activities 	2,545 	1,322 	1,935
+Row:Investing Activities
+Additions to property and equipment, net of $48, $92 and $14 of non-
+cash capital expenditures
+	(582) 	(649) 	(561)
+Row:Purchases of investments 	(3,045) 	(2,281) 	(2,804)
+Row:Sales of investments 	2,689 	2,427 	1,580
+Row:Proceeds from sale of business, net of cash transferred 	— 	103 	39
+Row:Proceeds from property disposition 	56 	— 	—
+Row:Change in restricted assets 	(8) 	(47) 	29
+Row:Other, net 	3 	28 	5
+Row:Total cash used in investing activities 	(887) 	(419) 	(1,712)
+Row:Financing Activities
+			Row:Repurchase of common stock 	(698) 	(1,000) 	—
+Row:Prepayment of accelerated share repurchase 	— 	(55) 	—
+Row:Issuance of common stock 	171 	47 	50
+Row:Dividends paid 	(505) 	(499) 	(251)
+Row:Repayments of debt 	(394) 	(28) 	(24)
+Row:Other, net 	22 	20 	2
+Row:Total cash used in financing activities 	(1,404) 	(1,515) 	(223)
+Row:Effect of Exchange Rate Changes on Cash 	10 	(38) 	(52)
+Row:Increase (Decrease) in Cash and Cash Equivalents 	264 	(650) 	(52)
+Row:Cash and Cash Equivalents at Beginning of Period, excluding held for
+sale 	1,976 	2,432 	2,678
+Row:Cash and Cash Equivalents at Beginning of Period - held for sale 	— 	194 	—
+Row:Cash and Cash Equivalents at End of Period 	2,240 	1,976 	2,626
+Row:Cash and Cash Equivalents at End of Period - held for sale 	— 	— 	(194)
+Row:Cash and Cash Equivalents at End of Period, excluding held for sale 	$ 2,240 	$ 1,976 	$ 2,432
+Row:Supplemental Disclosure of Cash Flow Information
+			Row:Income taxes paid 	$ 628 	$ 550 	$ 355
+Row:Interest paid 	76 	77 	81
+Row:Investing Activities
+			Row:Additions to property and equipment, net of $48, $92 and $14 of non-
+cash capital expenditures
+	(582) 	(649) 	(561)
+Row:Purchases of investments 	(3,045) 	(2,281) 	(2,804)
+Row:Sales of investments 	2,689 	2,427 	1,580
+Row:Proceeds from sale of business, net of cash transferred 	— 	103 	39
+Row:Proceeds from property disposition 	56 	— 	—
+Row:Change in restricted assets 	(8) 	(47) 	29
+Row:Other, net 	3 	28 	5
+Row:Total cash used in investing activities 	(887) 	(419) 	(1,712)
+Row:Financing Activities
+			Row:Repurchase of common stock 	(698) 	(1,000) 	—
+Row:Prepayment of accelerated share repurchase 	— 	(55) 	—
+Row:Issuance of common stock 	171 	47 	50
+Row:Dividends paid 	(505) 	(499) 	(251)
+Row:— 	194 	—
+Row:2,240 	1,976 	2,626
+Row:— 	— 	(194)
+Row:$ 2,240 	$ 1,976 	$ 2,432
+Row:Income taxes paid 	$ 628 $ 550 	$ 355
+Row:Interest paid 	76 77 	81
+Row:See Notes to Consolidated Financial Statements.
+		Row:Assets
+		Row:Current Assets
+		Row:Cash and cash equivalents 	$ 2,240 	$ 1,976
+Row:Short-term investments 	1,681 	1,305
+Row:Receivables, net 	1,347 	1,162
+Row:Merchandise inventories 	4,864 	5,051
+Row:Other current assets 	384 	392
+Row:Total current assets 	10,516 	9,886
+Row:Property and Equipment
+		Row:Land and buildings 	618 	613
+Row:Leasehold improvements 	2,227 	2,220
+Row:Fixtures and equipment 	4,998 	5,002
+Row:Property under capital and financing leases 	300 	272
+Row:	8,143 	8,107
+Row:Less accumulated depreciation 	5,850 	5,761
+Row:Net property and equipment 	2,293 	2,346
+Row:Goodwill 	425 	425
+Row:Other Assets 	622 	831
+Row:Non-current assets held for sale 	— 	31
+Row:Total Assets 	$ 13,856 	$ 13,519
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Leasehold improvements 	2,227 	2,220
+Row:Fixtures and equipment 	4,998 	5,002
+Row:Property under capital and financing leases 	300 	272
+Row:	8,143 	8,107
+Row:Less accumulated depreciation 	5,850 	5,761
+Row:Net property and equipment 	2,293 	2,346
+Row:Goodwill 	425 	425
+Row:Other Assets 	622 	831
+Row:Non-current assets held for sale 	— 	31
+Row:Total Assets 	$ 13,856 	$ 13,519
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Accounts payable 	$ 4,984 	$ 4,450
+Row:Unredeemed gift card liabilities 	427 	409
+Row:Deferred revenue 	418 	357
+Row:Accrued compensation and related expenses 	358 	384
+Row:Accrued liabilities 	865 	802
+Row:Accrued income taxes 	26 	128
+Row:Current portion of long-term debt 	44 	395
+Row:Total current liabilities 	7,122 	6,925
+Row:Long-Term Liabilities 	704 	877
+Row:Long-Term Debt 	1,321 	1,339
+Row:Contingencies and Commitments (Note 12)
+		Row:Equity
+		Row:Best Buy Co., Inc. Shareholders' Equity
+		Row:Preferred stock, $1.00 par value: Authorized — 400,000 shares; Issued and outstanding — none 	— 	—
+Row:Common stock, $0.10 par value: Authorized — 1.0 billion shares; Issued and outstanding —
+311,108,000 and 323,779,000 shares, respectively 	31 	32
+Row:Prepaid share repurchase 	— 	(55)
+Row:Additional paid-in capital 	— 	—
+Row:Retained earnings 	4,399 	4,130
+Row:Accumulated other comprehensive income 	279 	271
+Row:Total equity 	4,709 	4,378
+Row:Total Liabilities and Equity 	$ 13,856 	$ 13,519
+Row:See Notes to Consolidated Financial Statements.
+		Row:279 	271
+Row:4,709 	4,378
+Row:$ 13,856 	$ 13,519
+Row:Fiscal Years Ended
+	2017
+	2016
+	2015
+Row:Revenue 	$ 39,403 	$ 39,528 	$ 40,339
+Row:Cost of goods sold 	29,963 	30,334 	31,292
+Row:Restructuring charges — cost of goods sold 	— 	3 	—
+Row:Gross profit 	9,440 	9,191 	9,047
+Row:Selling, general and administrative expenses 	7,547 	7,618 	7,592
+Row:Restructuring charges 	39 	198 	5
+Row:Operating income 	1,854 	1,375 	1,450
+Row:Other income (expense)
+			Row:Gain on sale of investments 	3 	2 	13
+Row:Investment income and other 	31 	13 	14
+Row:Interest expense 	(72) 	(80) 	(90)
+Row:Earnings from continuing operations before income tax expense 	1,816 	1,310 	1,387
+Row:Income tax expense 	609 	503 	141
+Row:Net earnings from continuing operations 	1,207 	807 	1,246
+Row:Gain (loss) from discontinued operations (Note 2), net of tax expense of $7, $1
+and $0 	21 	90 	(11)
+Row:Net earnings including noncontrolling interests 	1,228 	897 	1,235
+Row:Net earnings from discontinued operations attributable to noncontrolling
+interests 	— 	— 	(2)
+Row:Net earnings attributable to Best Buy Co., Inc. shareholders 	$ 1,228 	$ 897 	$ 1,233
+Row:Basic earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+			Row:Continuing operations 	$ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Basic earnings per share 	$ 3.86 	$ 2.59 	$ 3.53
+Row:Diluted earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+			Row:Continuing operations 	$ 3.74 	$ 2.30 	$ 3.53
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Diluted earnings per share 	$ 3.81 	$ 2.56 	$ 3.49
+Row:Basic earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+		Row:Continuing operations $ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 0.07 	0.26 	(0.04)
+Row:Basic earnings per share $ 3.86 	$ 2.59 	$ 3.53
+Row:Diluted earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+		Row:Continuing operations $ 3.74 	$ 2.30 	$ 3.53
+Row:Discontinued operations 0.07 	0.26 	(0.04)
+Row:Diluted earnings per share $ 3.81 	$ 2.56 	$ 3.49
+Row:Weighted-average common shares outstanding
+		Row:Basic 318.5 	346.5 	349.5
+Row:Diluted 322.6 	350.7 	353.6
+Row:See Notes to Consolidated Financial Statements.
+		Row:Continuing operations 	$ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Basic earnings per share 	$ 3.86 	$ 2.59 	$ 3.53
+Row:$ 	3.74 	$ 	2.30 	$ 	3.53
+Row:	0.07 		0.26 		(0.04)
+Row:$ 	3.81 	$ 	2.56 	$ 	3.49
+Row:Fiscal Years Ended
+	2017
+	2016
+	2015
+Row:Operating Activities
+			Row:Net earnings including noncontrolling interests 	$ 1,228 	$ 897 	$ 1,235
+Row:Adjustments to reconcile net earnings to total cash provided by operating
+activities:
+			Row:Depreciation 	654 	657 	656
+Row:Restructuring charges 	39 	201 	23
+Row:Gain on sale of business 	— 	(99) 	(1)
+Row:Stock-based compensation 	108 	104 	87
+Row:Deferred income taxes 	201 	49 	(297)
+Row:Other, net 	(31) 	38 	8
+Row:Changes in operating assets and liabilities:
+			Row:Receivables 	(185) 	123 	(19)
+Row:Merchandise inventories 	193 	86 	(141)
+Row:Other assets 	10 	36 	29
+Row:Accounts payable 	518 	(536) 	434
+Row:Other liabilities 	23 	(140) 	(164)
+Row:Income taxes 	(213) 	(94) 	85
+Row:Total cash provided by operating activities 	2,545 	1,322 	1,935
+Row:Investing Activities
+Additions to property and equipment, net of $48, $92 and $14 of non-
+cash capital expenditures
+	(582) 	(649) 	(561)
+Row:Purchases of investments 	(3,045) 	(2,281) 	(2,804)
+Row:Sales of investments 	2,689 	2,427 	1,580
+Row:Proceeds from sale of business, net of cash transferred 	— 	103 	39
+Row:Proceeds from property disposition 	56 	— 	—
+Row:Change in restricted assets 	(8) 	(47) 	29
+Row:Other, net 	3 	28 	5
+Row:Total cash used in investing activities 	(887) 	(419) 	(1,712)
+Row:Financing Activities
+			Row:Repurchase of common stock 	(698) 	(1,000) 	—
+Row:Prepayment of accelerated share repurchase 	— 	(55) 	—
+Row:Issuance of common stock 	171 	47 	50
+Row:Dividends paid 	(505) 	(499) 	(251)
+Row:Repayments of debt 	(394) 	(28) 	(24)
+Row:Other, net 	22 	20 	2
+Row:Total cash used in financing activities 	(1,404) 	(1,515) 	(223)
+Row:Effect of Exchange Rate Changes on Cash 	10 	(38) 	(52)
+Row:Increase (Decrease) in Cash and Cash Equivalents 	264 	(650) 	(52)
+Row:Cash and Cash Equivalents at Beginning of Period, excluding held for
+sale 	1,976 	2,432 	2,678
+Row:Cash and Cash Equivalents at Beginning of Period - held for sale 	— 	194 	—
+Row:Cash and Cash Equivalents at End of Period 	2,240 	1,976 	2,626
+Row:Cash and Cash Equivalents at End of Period - held for sale 	— 	— 	(194)
+Row:Cash and Cash Equivalents at End of Period, excluding held for sale 	$ 2,240 	$ 1,976 	$ 2,432
+Row:Supplemental Disclosure of Cash Flow Information
+			Row:Income taxes paid 	$ 628 	$ 550 	$ 355
+Row:Interest paid 	76 	77 	81
+Row:Investing Activities
+			Row:Additions to property and equipment, net of $48, $92 and $14 of non-
+cash capital expenditures
+	(582) 	(649) 	(561)
+Row:Purchases of investments 	(3,045) 	(2,281) 	(2,804)
+Row:Sales of investments 	2,689 	2,427 	1,580
+Row:Proceeds from sale of business, net of cash transferred 	— 	103 	39
+Row:Proceeds from property disposition 	56 	— 	—
+Row:Change in restricted assets 	(8) 	(47) 	29
+Row:Other, net 	3 	28 	5
+Row:Total cash used in investing activities 	(887) 	(419) 	(1,712)
+Row:Financing Activities
+			Row:Repurchase of common stock 	(698) 	(1,000) 	—
+Row:Prepayment of accelerated share repurchase 	— 	(55) 	—
+Row:Issuance of common stock 	171 	47 	50
+Row:Dividends paid 	(505) 	(499) 	(251)
+Row:— 	194 	—
+Row:2,240 	1,976 	2,626
+Row:— 	— 	(194)
+Row:$ 2,240 	$ 1,976 	$ 2,432
+Row:Income taxes paid 	$ 628 $ 550 	$ 355
+Row:Interest paid 	76 77 	81
+Row:See Notes to Consolidated Financial Statements.
+		Row:Assets
+		Row:Current Assets
+		Row:Cash and cash equivalents 	$ 2,240 	$ 1,976
+Row:Short-term investments 	1,681 	1,305
+Row:Receivables, net 	1,347 	1,162
+Row:Merchandise inventories 	4,864 	5,051
+Row:Other current assets 	384 	392
+Row:Total current assets 	10,516 	9,886
+Row:Property and Equipment
+		Row:Land and buildings 	618 	613
+Row:Leasehold improvements 	2,227 	2,220
+Row:Fixtures and equipment 	4,998 	5,002
+Row:Property under capital and financing leases 	300 	272
+Row:	8,143 	8,107
+Row:Less accumulated depreciation 	5,850 	5,761
+Row:Net property and equipment 	2,293 	2,346
+Row:Goodwill 	425 	425
+Row:Other Assets 	622 	831
+Row:Non-current assets held for sale 	— 	31
+Row:Total Assets 	$ 13,856 	$ 13,519
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Leasehold improvements 	2,227 	2,220
+Row:Fixtures and equipment 	4,998 	5,002
+Row:Property under capital and financing leases 	300 	272
+Row:	8,143 	8,107
+Row:Less accumulated depreciation 	5,850 	5,761
+Row:Net property and equipment 	2,293 	2,346
+Row:Goodwill 	425 	425
+Row:Other Assets 	622 	831
+Row:Non-current assets held for sale 	— 	31
+Row:Total Assets 	$ 13,856 	$ 13,519
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Accounts payable 	$ 4,984 	$ 4,450
+Row:Unredeemed gift card liabilities 	427 	409
+Row:Deferred revenue 	418 	357
+Row:Accrued compensation and related expenses 	358 	384
+Row:Accrued liabilities 	865 	802
+Row:Accrued income taxes 	26 	128
+Row:Current portion of long-term debt 	44 	395
+Row:Total current liabilities 	7,122 	6,925
+Row:Long-Term Liabilities 	704 	877
+Row:Long-Term Debt 	1,321 	1,339
+Row:Contingencies and Commitments (Note 12)
+		Row:Equity
+		Row:Best Buy Co., Inc. Shareholders' Equity
+		Row:Preferred stock, $1.00 par value: Authorized — 400,000 shares; Issued and outstanding — none 	— 	—
+Row:Common stock, $0.10 par value: Authorized — 1.0 billion shares; Issued and outstanding —
+311,108,000 and 323,779,000 shares, respectively 	31 	32
+Row:Prepaid share repurchase 	— 	(55)
+Row:Additional paid-in capital 	— 	—
+Row:Retained earnings 	4,399 	4,130
+Row:Accumulated other comprehensive income 	279 	271
+Row:Total equity 	4,709 	4,378
+Row:Total Liabilities and Equity 	$ 13,856 	$ 13,519
+Row:See Notes to Consolidated Financial Statements.
+		Row:279 	271
+Row:4,709 	4,378
+Row:$ 13,856 	$ 13,519
+Row:Fiscal Years Ended
+	2017
+	2016
+	2015
+Row:Revenue 	$ 39,403 	$ 39,528 	$ 40,339
+Row:Cost of goods sold 	29,963 	30,334 	31,292
+Row:Restructuring charges — cost of goods sold 	— 	3 	—
+Row:Gross profit 	9,440 	9,191 	9,047
+Row:Selling, general and administrative expenses 	7,547 	7,618 	7,592
+Row:Restructuring charges 	39 	198 	5
+Row:Operating income 	1,854 	1,375 	1,450
+Row:Other income (expense)
+			Row:Gain on sale of investments 	3 	2 	13
+Row:Investment income and other 	31 	13 	14
+Row:Interest expense 	(72) 	(80) 	(90)
+Row:Earnings from continuing operations before income tax expense 	1,816 	1,310 	1,387
+Row:Income tax expense 	609 	503 	141
+Row:Net earnings from continuing operations 	1,207 	807 	1,246
+Row:Gain (loss) from discontinued operations (Note 2), net of tax expense of $7, $1
+and $0 	21 	90 	(11)
+Row:Net earnings including noncontrolling interests 	1,228 	897 	1,235
+Row:Net earnings from discontinued operations attributable to noncontrolling
+interests 	— 	— 	(2)
+Row:Net earnings attributable to Best Buy Co., Inc. shareholders 	$ 1,228 	$ 897 	$ 1,233
+Row:Basic earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+			Row:Continuing operations 	$ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Basic earnings per share 	$ 3.86 	$ 2.59 	$ 3.53
+Row:Diluted earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+			Row:Continuing operations 	$ 3.74 	$ 2.30 	$ 3.53
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Diluted earnings per share 	$ 3.81 	$ 2.56 	$ 3.49
+Row:Basic earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+		Row:Continuing operations $ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 0.07 	0.26 	(0.04)
+Row:Basic earnings per share $ 3.86 	$ 2.59 	$ 3.53
+Row:Diluted earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+		Row:Continuing operations $ 3.74 	$ 2.30 	$ 3.53
+Row:Discontinued operations 0.07 	0.26 	(0.04)
+Row:Diluted earnings per share $ 3.81 	$ 2.56 	$ 3.49
+Row:Weighted-average common shares outstanding
+		Row:Basic 318.5 	346.5 	349.5
+Row:Diluted 322.6 	350.7 	353.6
+Row:See Notes to Consolidated Financial Statements.
+		Row:Continuing operations 	$ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Basic earnings per share 	$ 3.86 	$ 2.59 	$ 3.53
+Row:$ 	3.74 	$ 	2.30 	$ 	3.53
+Row:	0.07 		0.26 		(0.04)
+Row:$ 	3.81 	$ 	2.56 	$ 	3.49
+Row:Fiscal Years Ended
+	2017
+	2016
+	2015
+Row:Operating Activities
+			Row:Net earnings including noncontrolling interests 	$ 1,228 	$ 897 	$ 1,235
+Row:Adjustments to reconcile net earnings to total cash provided by operating
+activities:
+			Row:Depreciation 	654 	657 	656
+Row:Restructuring charges 	39 	201 	23
+Row:Gain on sale of business 	— 	(99) 	(1)
+Row:Stock-based compensation 	108 	104 	87
+Row:Deferred income taxes 	201 	49 	(297)
+Row:Other, net 	(31) 	38 	8
+Row:Changes in operating assets and liabilities:
+			Row:Receivables 	(185) 	123 	(19)
+Row:Merchandise inventories 	193 	86 	(141)
+Row:Other assets 	10 	36 	29
+Row:Accounts payable 	518 	(536) 	434
+Row:Other liabilities 	23 	(140) 	(164)
+Row:Income taxes 	(213) 	(94) 	85
+Row:Total cash provided by operating activities 	2,545 	1,322 	1,935
+Row:Investing Activities
+Additions to property and equipment, net of $48, $92 and $14 of non-
+cash capital expenditures
+	(582) 	(649) 	(561)
+Row:Purchases of investments 	(3,045) 	(2,281) 	(2,804)
+Row:Sales of investments 	2,689 	2,427 	1,580
+Row:Proceeds from sale of business, net of cash transferred 	— 	103 	39
+Row:Proceeds from property disposition 	56 	— 	—
+Row:Change in restricted assets 	(8) 	(47) 	29
+Row:Other, net 	3 	28 	5
+Row:Total cash used in investing activities 	(887) 	(419) 	(1,712)
+Row:Financing Activities
+			Row:Repurchase of common stock 	(698) 	(1,000) 	—
+Row:Prepayment of accelerated share repurchase 	— 	(55) 	—
+Row:Issuance of common stock 	171 	47 	50
+Row:Dividends paid 	(505) 	(499) 	(251)
+Row:Repayments of debt 	(394) 	(28) 	(24)
+Row:Other, net 	22 	20 	2
+Row:Total cash used in financing activities 	(1,404) 	(1,515) 	(223)
+Row:Effect of Exchange Rate Changes on Cash 	10 	(38) 	(52)
+Row:Increase (Decrease) in Cash and Cash Equivalents 	264 	(650) 	(52)
+Row:Cash and Cash Equivalents at Beginning of Period, excluding held for
+sale 	1,976 	2,432 	2,678
+Row:Cash and Cash Equivalents at Beginning of Period - held for sale 	— 	194 	—
+Row:Cash and Cash Equivalents at End of Period 	2,240 	1,976 	2,626
+Row:Cash and Cash Equivalents at End of Period - held for sale 	— 	— 	(194)
+Row:Cash and Cash Equivalents at End of Period, excluding held for sale 	$ 2,240 	$ 1,976 	$ 2,432
+Row:Supplemental Disclosure of Cash Flow Information
+			Row:Income taxes paid 	$ 628 	$ 550 	$ 355
+Row:Interest paid 	76 	77 	81
+Row:Investing Activities
+			Row:Additions to property and equipment, net of $48, $92 and $14 of non-
+cash capital expenditures
+	(582) 	(649) 	(561)
+Row:Purchases of investments 	(3,045) 	(2,281) 	(2,804)
+Row:Sales of investments 	2,689 	2,427 	1,580
+Row:Proceeds from sale of business, net of cash transferred 	— 	103 	39
+Row:Proceeds from property disposition 	56 	— 	—
+Row:Change in restricted assets 	(8) 	(47) 	29
+Row:Other, net 	3 	28 	5
+Row:Total cash used in investing activities 	(887) 	(419) 	(1,712)
+Row:Financing Activities
+			Row:Repurchase of common stock 	(698) 	(1,000) 	—
+Row:Prepayment of accelerated share repurchase 	— 	(55) 	—
+Row:Issuance of common stock 	171 	47 	50
+Row:Dividends paid 	(505) 	(499) 	(251)
+Row:— 	194 	—
+Row:2,240 	1,976 	2,626
+Row:— 	— 	(194)
+Row:$ 2,240 	$ 1,976 	$ 2,432
+Row:Income taxes paid 	$ 628 $ 550 	$ 355
+Row:Interest paid 	76 77 	81
+Row:See Notes to Consolidated Financial Statements.
+		Row:Assets
+		Row:Current Assets
+		Row:Cash and cash equivalents 	$ 2,240 	$ 1,976
+Row:Short-term investments 	1,681 	1,305
+Row:Receivables, net 	1,347 	1,162
+Row:Merchandise inventories 	4,864 	5,051
+Row:Other current assets 	384 	392
+Row:Total current assets 	10,516 	9,886
+Row:Property and Equipment
+		Row:Land and buildings 	618 	613
+Row:Leasehold improvements 	2,227 	2,220
+Row:Fixtures and equipment 	4,998 	5,002
+Row:Property under capital and financing leases 	300 	272
+Row:	8,143 	8,107
+Row:Less accumulated depreciation 	5,850 	5,761
+Row:Net property and equipment 	2,293 	2,346
+Row:Goodwill 	425 	425
+Row:Other Assets 	622 	831
+Row:Non-current assets held for sale 	— 	31
+Row:Total Assets 	$ 13,856 	$ 13,519
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Leasehold improvements 	2,227 	2,220
+Row:Fixtures and equipment 	4,998 	5,002
+Row:Property under capital and financing leases 	300 	272
+Row:	8,143 	8,107
+Row:Less accumulated depreciation 	5,850 	5,761
+Row:Net property and equipment 	2,293 	2,346
+Row:Goodwill 	425 	425
+Row:Other Assets 	622 	831
+Row:Non-current assets held for sale 	— 	31
+Row:Total Assets 	$ 13,856 	$ 13,519
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Accounts payable 	$ 4,984 	$ 4,450
+Row:Unredeemed gift card liabilities 	427 	409
+Row:Deferred revenue 	418 	357
+Row:Accrued compensation and related expenses 	358 	384
+Row:Accrued liabilities 	865 	802
+Row:Accrued income taxes 	26 	128
+Row:Current portion of long-term debt 	44 	395
+Row:Total current liabilities 	7,122 	6,925
+Row:Long-Term Liabilities 	704 	877
+Row:Long-Term Debt 	1,321 	1,339
+Row:Contingencies and Commitments (Note 12)
+		Row:Equity
+		Row:Best Buy Co., Inc. Shareholders' Equity
+		Row:Preferred stock, $1.00 par value: Authorized — 400,000 shares; Issued and outstanding — none 	— 	—
+Row:Common stock, $0.10 par value: Authorized — 1.0 billion shares; Issued and outstanding —
+311,108,000 and 323,779,000 shares, respectively 	31 	32
+Row:Prepaid share repurchase 	— 	(55)
+Row:Additional paid-in capital 	— 	—
+Row:Retained earnings 	4,399 	4,130
+Row:Accumulated other comprehensive income 	279 	271
+Row:Total equity 	4,709 	4,378
+Row:Total Liabilities and Equity 	$ 13,856 	$ 13,519
+Row:See Notes to Consolidated Financial Statements.
+		Row:279 	271
+Row:4,709 	4,378
+Row:$ 13,856 	$ 13,519
+Row:Fiscal Years Ended
+	2017
+	2016
+	2015
+Row:Revenue 	$ 39,403 	$ 39,528 	$ 40,339
+Row:Cost of goods sold 	29,963 	30,334 	31,292
+Row:Restructuring charges — cost of goods sold 	— 	3 	—
+Row:Gross profit 	9,440 	9,191 	9,047
+Row:Selling, general and administrative expenses 	7,547 	7,618 	7,592
+Row:Restructuring charges 	39 	198 	5
+Row:Operating income 	1,854 	1,375 	1,450
+Row:Other income (expense)
+			Row:Gain on sale of investments 	3 	2 	13
+Row:Investment income and other 	31 	13 	14
+Row:Interest expense 	(72) 	(80) 	(90)
+Row:Earnings from continuing operations before income tax expense 	1,816 	1,310 	1,387
+Row:Income tax expense 	609 	503 	141
+Row:Net earnings from continuing operations 	1,207 	807 	1,246
+Row:Gain (loss) from discontinued operations (Note 2), net of tax expense of $7, $1
+and $0 	21 	90 	(11)
+Row:Net earnings including noncontrolling interests 	1,228 	897 	1,235
+Row:Net earnings from discontinued operations attributable to noncontrolling
+interests 	— 	— 	(2)
+Row:Net earnings attributable to Best Buy Co., Inc. shareholders 	$ 1,228 	$ 897 	$ 1,233
+Row:Basic earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+			Row:Continuing operations 	$ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Basic earnings per share 	$ 3.86 	$ 2.59 	$ 3.53
+Row:Diluted earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+			Row:Continuing operations 	$ 3.74 	$ 2.30 	$ 3.53
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Diluted earnings per share 	$ 3.81 	$ 2.56 	$ 3.49
+Row:Basic earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+		Row:Continuing operations $ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 0.07 	0.26 	(0.04)
+Row:Basic earnings per share $ 3.86 	$ 2.59 	$ 3.53
+Row:Diluted earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+		Row:Continuing operations $ 3.74 	$ 2.30 	$ 3.53
+Row:Discontinued operations 0.07 	0.26 	(0.04)
+Row:Diluted earnings per share $ 3.81 	$ 2.56 	$ 3.49
+Row:Weighted-average common shares outstanding
+		Row:Basic 318.5 	346.5 	349.5
+Row:Diluted 322.6 	350.7 	353.6
+Row:See Notes to Consolidated Financial Statements.
+		Row:Continuing operations 	$ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Basic earnings per share 	$ 3.86 	$ 2.59 	$ 3.53
+Row:$ 	3.74 	$ 	2.30 	$ 	3.53
+Row:	0.07 		0.26 		(0.04)
+Row:$ 	3.81 	$ 	2.56 	$ 	3.49
+Row:Fiscal Years Ended
+	2017
+	2016
+	2015
+Row:Operating Activities
+			Row:Net earnings including noncontrolling interests 	$ 1,228 	$ 897 	$ 1,235
+Row:Adjustments to reconcile net earnings to total cash provided by operating
+activities:
+			Row:Depreciation 	654 	657 	656
+Row:Restructuring charges 	39 	201 	23
+Row:Gain on sale of business 	— 	(99) 	(1)
+Row:Stock-based compensation 	108 	104 	87
+Row:Deferred income taxes 	201 	49 	(297)
+Row:Other, net 	(31) 	38 	8
+Row:Changes in operating assets and liabilities:
+			Row:Receivables 	(185) 	123 	(19)
+Row:Merchandise inventories 	193 	86 	(141)
+Row:Other assets 	10 	36 	29
+Row:Accounts payable 	518 	(536) 	434
+Row:Other liabilities 	23 	(140) 	(164)
+Row:Income taxes 	(213) 	(94) 	85
+Row:Total cash provided by operating activities 	2,545 	1,322 	1,935
+Row:Investing Activities
+Additions to property and equipment, net of $48, $92 and $14 of non-
+cash capital expenditures
+	(582) 	(649) 	(561)
+Row:Purchases of investments 	(3,045) 	(2,281) 	(2,804)
+Row:Sales of investments 	2,689 	2,427 	1,580
+Row:Proceeds from sale of business, net of cash transferred 	— 	103 	39
+Row:Proceeds from property disposition 	56 	— 	—
+Row:Change in restricted assets 	(8) 	(47) 	29
+Row:Other, net 	3 	28 	5
+Row:Total cash used in investing activities 	(887) 	(419) 	(1,712)
+Row:Financing Activities
+			Row:Repurchase of common stock 	(698) 	(1,000) 	—
+Row:Prepayment of accelerated share repurchase 	— 	(55) 	—
+Row:Issuance of common stock 	171 	47 	50
+Row:Dividends paid 	(505) 	(499) 	(251)
+Row:Repayments of debt 	(394) 	(28) 	(24)
+Row:Other, net 	22 	20 	2
+Row:Total cash used in financing activities 	(1,404) 	(1,515) 	(223)
+Row:Effect of Exchange Rate Changes on Cash 	10 	(38) 	(52)
+Row:Increase (Decrease) in Cash and Cash Equivalents 	264 	(650) 	(52)
+Row:Cash and Cash Equivalents at Beginning of Period, excluding held for
+sale 	1,976 	2,432 	2,678
+Row:Cash and Cash Equivalents at Beginning of Period - held for sale 	— 	194 	—
+Row:Cash and Cash Equivalents at End of Period 	2,240 	1,976 	2,626
+Row:Cash and Cash Equivalents at End of Period - held for sale 	— 	— 	(194)
+Row:Cash and Cash Equivalents at End of Period, excluding held for sale 	$ 2,240 	$ 1,976 	$ 2,432
+Row:Supplemental Disclosure of Cash Flow Information
+			Row:Income taxes paid 	$ 628 	$ 550 	$ 355
+Row:Interest paid 	76 	77 	81
+Row:Investing Activities
+			Row:Additions to property and equipment, net of $48, $92 and $14 of non-
+cash capital expenditures
+	(582) 	(649) 	(561)
+Row:Purchases of investments 	(3,045) 	(2,281) 	(2,804)
+Row:Sales of investments 	2,689 	2,427 	1,580
+Row:Proceeds from sale of business, net of cash transferred 	— 	103 	39
+Row:Proceeds from property disposition 	56 	— 	—
+Row:Change in restricted assets 	(8) 	(47) 	29
+Row:Other, net 	3 	28 	5
+Row:Total cash used in investing activities 	(887) 	(419) 	(1,712)
+Row:Financing Activities
+			Row:Repurchase of common stock 	(698) 	(1,000) 	—
+Row:Prepayment of accelerated share repurchase 	— 	(55) 	—
+Row:Issuance of common stock 	171 	47 	50
+Row:Dividends paid 	(505) 	(499) 	(251)
+Row:— 	194 	—
+Row:2,240 	1,976 	2,626
+Row:— 	— 	(194)
+Row:$ 2,240 	$ 1,976 	$ 2,432
+Row:Income taxes paid 	$ 628 $ 550 	$ 355
+Row:Interest paid 	76 77 	81
+Row:See Notes to Consolidated Financial Statements.
+		Row:Assets
+		Row:Current Assets
+		Row:Cash and cash equivalents 	$ 2,240 	$ 1,976
+Row:Short-term investments 	1,681 	1,305
+Row:Receivables, net 	1,347 	1,162
+Row:Merchandise inventories 	4,864 	5,051
+Row:Other current assets 	384 	392
+Row:Total current assets 	10,516 	9,886
+Row:Property and Equipment
+		Row:Land and buildings 	618 	613
+Row:Leasehold improvements 	2,227 	2,220
+Row:Fixtures and equipment 	4,998 	5,002
+Row:Property under capital and financing leases 	300 	272
+Row:	8,143 	8,107
+Row:Less accumulated depreciation 	5,850 	5,761
+Row:Net property and equipment 	2,293 	2,346
+Row:Goodwill 	425 	425
+Row:Other Assets 	622 	831
+Row:Non-current assets held for sale 	— 	31
+Row:Total Assets 	$ 13,856 	$ 13,519
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Leasehold improvements 	2,227 	2,220
+Row:Fixtures and equipment 	4,998 	5,002
+Row:Property under capital and financing leases 	300 	272
+Row:	8,143 	8,107
+Row:Less accumulated depreciation 	5,850 	5,761
+Row:Net property and equipment 	2,293 	2,346
+Row:Goodwill 	425 	425
+Row:Other Assets 	622 	831
+Row:Non-current assets held for sale 	— 	31
+Row:Total Assets 	$ 13,856 	$ 13,519
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Accounts payable 	$ 4,984 	$ 4,450
+Row:Unredeemed gift card liabilities 	427 	409
+Row:Deferred revenue 	418 	357
+Row:Accrued compensation and related expenses 	358 	384
+Row:Accrued liabilities 	865 	802
+Row:Accrued income taxes 	26 	128
+Row:Current portion of long-term debt 	44 	395
+Row:Total current liabilities 	7,122 	6,925
+Row:Long-Term Liabilities 	704 	877
+Row:Long-Term Debt 	1,321 	1,339
+Row:Contingencies and Commitments (Note 12)
+		Row:Equity
+		Row:Best Buy Co., Inc. Shareholders' Equity
+		Row:Preferred stock, $1.00 par value: Authorized — 400,000 shares; Issued and outstanding — none 	— 	—
+Row:Common stock, $0.10 par value: Authorized — 1.0 billion shares; Issued and outstanding —
+311,108,000 and 323,779,000 shares, respectively 	31 	32
+Row:Prepaid share repurchase 	— 	(55)
+Row:Additional paid-in capital 	— 	—
+Row:Retained earnings 	4,399 	4,130
+Row:Accumulated other comprehensive income 	279 	271
+Row:Total equity 	4,709 	4,378
+Row:Total Liabilities and Equity 	$ 13,856 	$ 13,519
+Row:See Notes to Consolidated Financial Statements.
+		Row:279 	271
+Row:4,709 	4,378
+Row:$ 13,856 	$ 13,519
+Row:Fiscal Years Ended
+	2017
+	2016
+	2015
+Row:Revenue 	$ 39,403 	$ 39,528 	$ 40,339
+Row:Cost of goods sold 	29,963 	30,334 	31,292
+Row:Restructuring charges — cost of goods sold 	— 	3 	—
+Row:Gross profit 	9,440 	9,191 	9,047
+Row:Selling, general and administrative expenses 	7,547 	7,618 	7,592
+Row:Restructuring charges 	39 	198 	5
+Row:Operating income 	1,854 	1,375 	1,450
+Row:Other income (expense)
+			Row:Gain on sale of investments 	3 	2 	13
+Row:Investment income and other 	31 	13 	14
+Row:Interest expense 	(72) 	(80) 	(90)
+Row:Earnings from continuing operations before income tax expense 	1,816 	1,310 	1,387
+Row:Income tax expense 	609 	503 	141
+Row:Net earnings from continuing operations 	1,207 	807 	1,246
+Row:Gain (loss) from discontinued operations (Note 2), net of tax expense of $7, $1
+and $0 	21 	90 	(11)
+Row:Net earnings including noncontrolling interests 	1,228 	897 	1,235
+Row:Net earnings from discontinued operations attributable to noncontrolling
+interests 	— 	— 	(2)
+Row:Net earnings attributable to Best Buy Co., Inc. shareholders 	$ 1,228 	$ 897 	$ 1,233
+Row:Basic earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+			Row:Continuing operations 	$ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Basic earnings per share 	$ 3.86 	$ 2.59 	$ 3.53
+Row:Diluted earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+			Row:Continuing operations 	$ 3.74 	$ 2.30 	$ 3.53
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Diluted earnings per share 	$ 3.81 	$ 2.56 	$ 3.49
+Row:Basic earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+		Row:Continuing operations $ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 0.07 	0.26 	(0.04)
+Row:Basic earnings per share $ 3.86 	$ 2.59 	$ 3.53
+Row:Diluted earnings (loss) per share attributable to Best Buy Co., Inc. shareholders
+		Row:Continuing operations $ 3.74 	$ 2.30 	$ 3.53
+Row:Discontinued operations 0.07 	0.26 	(0.04)
+Row:Diluted earnings per share $ 3.81 	$ 2.56 	$ 3.49
+Row:Weighted-average common shares outstanding
+		Row:Basic 318.5 	346.5 	349.5
+Row:Diluted 322.6 	350.7 	353.6
+Row:See Notes to Consolidated Financial Statements.
+		Row:Continuing operations 	$ 3.79 	$ 2.33 	$ 3.57
+Row:Discontinued operations 	0.07 	0.26 	(0.04)
+Row:Basic earnings per share 	$ 3.86 	$ 2.59 	$ 3.53
+Row:$ 	3.74 	$ 	2.30 	$ 	3.53
+Row:	0.07 		0.26 		(0.04)
+Row:$ 	3.81 	$ 	2.56 	$ 	3.49
+Row:Fiscal Years Ended
+	2017
+	2016
+	2015
+Row:Operating Activities
+			Row:Net earnings including noncontrolling interests 	$ 1,228 	$ 897 	$ 1,235
+Row:Adjustments to reconcile net earnings to total cash provided by operating
+activities:
+			Row:Depreciation 	654 	657 	656
+Row:Restructuring charges 	39 	201 	23
+Row:Gain on sale of business 	— 	(99) 	(1)
+Row:Stock-based compensation 	108 	104 	87
+Row:Deferred income taxes 	201 	49 	(297)
+Row:Other, net 	(31) 	38 	8
+Row:Changes in operating assets and liabilities:
+			Row:Receivables 	(185) 	123 	(19)
+Row:Merchandise inventories 	193 	86 	(141)
+Row:Other assets 	10 	36 	29
+Row:Accounts payable 	518 	(536) 	434
+Row:Other liabilities 	23 	(140) 	(164)
+Row:Income taxes 	(213) 	(94) 	85
+Row:Total cash provided by operating activities 	2,545 	1,322 	1,935
+Row:Investing Activities
+Additions to property and equipment, net of $48, $92 and $14 of non-
+cash capital expenditures
+	(582) 	(649) 	(561)
+Row:Purchases of investments 	(3,045) 	(2,281) 	(2,804)
+Row:Sales of investments 	2,689 	2,427 	1,580
+Row:Proceeds from sale of business, net of cash transferred 	— 	103 	39
+Row:Proceeds from property disposition 	56 	— 	—
+Row:Change in restricted assets 	(8) 	(47) 	29
+Row:Other, net 	3 	28 	5
+Row:Total cash used in investing activities 	(887) 	(419) 	(1,712)
+Row:Financing Activities
+			Row:Repurchase of common stock 	(698) 	(1,000) 	—
+Row:Prepayment of accelerated share repurchase 	— 	(55) 	—
+Row:Issuance of common stock 	171 	47 	50
+Row:Dividends paid 	(505) 	(499) 	(251)
+Row:Repayments of debt 	(394) 	(28) 	(24)
+Row:Other, net 	22 	20 	2
+Row:Total cash used in financing activities 	(1,404) 	(1,515) 	(223)
+Row:Effect of Exchange Rate Changes on Cash 	10 	(38) 	(52)
+Row:Increase (Decrease) in Cash and Cash Equivalents 	264 	(650) 	(52)
+Row:Cash and Cash Equivalents at Beginning of Period, excluding held for
+sale 	1,976 	2,432 	2,678
+Row:Cash and Cash Equivalents at Beginning of Period - held for sale 	— 	194 	—
+Row:Cash and Cash Equivalents at End of Period 	2,240 	1,976 	2,626
+Row:Cash and Cash Equivalents at End of Period - held for sale 	— 	— 	(194)
+Row:Cash and Cash Equivalents at End of Period, excluding held for sale 	$ 2,240 	$ 1,976 	$ 2,432
+Row:Supplemental Disclosure of Cash Flow Information
+			Row:Income taxes paid 	$ 628 	$ 550 	$ 355
+Row:Interest paid 	76 	77 	81
+Row:Investing Activities
+			Row:Additions to property and equipment, net of $48, $92 and $14 of non-
+cash capital expenditures
+	(582) 	(649) 	(561)
+Row:Purchases of investments 	(3,045) 	(2,281) 	(2,804)
+Row:Sales of investments 	2,689 	2,427 	1,580
+Row:Proceeds from sale of business, net of cash transferred 	— 	103 	39
+Row:Proceeds from property disposition 	56 	— 	—
+Row:Change in restricted assets 	(8) 	(47) 	29
+Row:Other, net 	3 	28 	5
+Row:Total cash used in investing activities 	(887) 	(419) 	(1,712)
+Row:Financing Activities
+			Row:Repurchase of common stock 	(698) 	(1,000) 	—
+Row:Prepayment of accelerated share repurchase 	— 	(55) 	—
+Row:Issuance of common stock 	171 	47 	50
+Row:Dividends paid 	(505) 	(499) 	(251)
+Row:— 	194 	—
+Row:2,240 	1,976 	2,626
+Row:— 	— 	(194)
+Row:$ 2,240 	$ 1,976 	$ 2,432
+Row:Income taxes paid 	$ 628 $ 550 	$ 355
+Row:Interest paid 	76 77 	81
+Row:See Notes to Consolidated Financial Statements.
+		

@@ -1,0 +1,145 @@
+Row:	March 2, 2019 	March 	3, 2018 	February 	25, 2017
+Row:Net sales 	$ 1,552,938 	$ 	1,798,522 	$ 	1,828,446
+Row:Cost of sales 	1,102,035 		1,140,372 		1,131,138
+Row:Gross profit 	450,903 		658,150 		697,308
+Row:Selling, general and administrative expenses 	587,459 		575,953 		581,770
+Row:Depreciation 	51,529 		53,603 		54,603
+Row:Operating income (loss) 	(188,085) 		28,594 		60,935
+Row:Nonoperating (income) and expenses:
+					Row:Interest, investment income and other 	(2,000) 		(1,665) 		3,603
+Row:Interest expense 	15,294 		12,362 		12,073
+Row:	13,294 		10,697 		15,676
+Row:Income (loss) before income taxes 	(201,379) 		17,897 		45,259
+Row:Income tax provision (benefit) 	(2,546) 		6,271 		15,130
+Row:Net income (loss) 	$ (198,833) 	$ 	11,626 	$ 	30,129
+Row:Earnings (loss) per share:
+					Row:Basic 	$ (2.46) 	$ 	0.14 	$ 	0.37
+Row:Diluted 	$ (2.46) 	$ 	0.14 	$ 	0.37
+Row:Dividends declared per share: 	$ — 	$ 	0.28 	$ 	0.28
+Row:Average shares outstanding during period:
+					Row:Basic 	80,708 		80,223 		80,919
+Row:Diluted 	80,708 		80,254 		80,984
+Row:	March 	2, 2019 	March 3, 	2018 	February 	25, 2017
+Row:Net income (loss) 	$ 	(198,833) 	$ 	11,626 	$ 	30,129
+Row:Other comprehensive income (loss), net of tax
+						Row:Foreign currency translation adjustments,
+net of taxes of $0, $(167) and $60, respectively 		(1,096) 		396 		1,274
+Row:Pension adjustments, net of taxes of $0, $293 and $(1,243), respectively 		712 		(459) 		1,949
+Row:Other comprehensive income (loss) 		(384) 		(63) 		3,223
+Row:Comprehensive income (loss) 	$ 	(199,217) 	$ 	11,563 	$ 	33,352
+Row:The accompanying notes are an integral part of these financial statements.
+						Row:	2019
+	2018
+Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents, including temporary investments of $49,532 and $115,456, respectively 	$ 54,878 	$ 135,379
+Row:Accounts receivable, net of allowance for doubtful accounts of $251 and $236, respectively 	21,189 	22,149
+Row:Inventories 	347,584 	347,440
+Row:Prepaid expenses and other current assets 	49,876 	48,794
+Row:Total current assets 	473,527 	553,762
+Row:Properties and equipment, net 	149,356 	178,767
+Row:Other noncurrent assets 	33,407 $ 656,290 	39,790
+$ 772,319
+Row:LIABILITIES AND SHAREHOLDERS' EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 121,969 	$ 71,279
+Row:Gift cards and other deferred revenue 	37,655 	55,281
+Row:Accrued income taxes payable 	302 	2,301
+Row:Current portion of long-term debt 	2,000 	2,000
+Row:Other accrued liabilities 	107,539 	106,268
+Row:Total current liabilities 	269,465 	237,129
+Row:Long-term debt 	245,624 	197,906
+Row:Other noncurrent liabilities 	51,672 	59,714
+Row:Commitments and contingencies
+		Row:Shareholders' equity:
+		Row:Common stock, $0.001 par, 500,000,000 shares authorized, 125,232,000 issued 	125 	125
+Row:Paid-in capital 	138,350 	168,424
+Row:Retained earnings 	534,419 	726,232
+Row:Cumulative other comprehensive loss 	(7,861) 	(7,477)
+Row:Less — 39,618,000 and 41,974,000 common shares in treasury, at cost, respectively 	(575,504) 	(609,734)
+Row:Total shareholders' equity 	89,529 $ 656,290 	277,570
+$ 772,319
+Row:CONSOLIDATED STATEMENTS OF CASH FLOWS
+Row:Pier 1 Imports, Inc.
+Row:CONSOLIDATED STATEMENTS OF CASH FLOWS
+Row:(in thousands)
+Row:	March 2, 2019 	March 3, 2018 	February 25, 2017
+Row:Cash flows from operating activities:
+			Row:Net income (loss) 	$ (198,833) 	$ 11,626 	$ 30,129
+Row:Adjustments to reconcile to net cash provided by (used in) operating activities:
+			Row:Depreciation 	59,523 	61,430 	60,504
+Row:Stock-based compensation expense 	2,756 	3,809 	8,228
+Row:Deferred compensation, net 	4,169 	2,414 	8,438
+Row:Deferred income taxes 	(3,071) 	6,012 	(19,645)
+Row:Excess tax benefit from stock-based awards 	— 	— 	(312)
+Row:Other 	3,615 	2,111 	8,301
+Row:Changes in cash from:
+			Row:Inventories 	(540) 	53,536 	4,883
+Row:Prepaid expenses and other assets 	3,348 	(17,546) 	863
+Row:Accounts payable and other liabilities 	32,249 	(33,829) 	(5,697)
+Row:Accrued income taxes payable, net of payments 	(2,014) 	(23,757) 	20,046
+Row:Net cash provided by (used in) operating activities 	(98,798) 	65,806 	115,738
+Row:Cash flows from investing activities:
+			Row:Capital expenditures 	(36,444 ) 	(53,249 ) 	(44,181 )
+Row:Proceeds from disposition of properties 	2,058 	160 	74
+Row:Proceeds from sale of restricted investments 	12,063 	27,562 	3,409
+Row:Purchase of restricted investments 	(6,927) 	(26,082) 	(2,375)
+Row:Net cash used in investing activities 	(29,250) 	(51,609) 	(43,073)
+Row:Cash flows from financing activities:
+			Row:Cash dividends 	— 	(22,294) 	(22,501)
+Row:Purchases of treasury stock 	— 	(10,000) 	(10,566)
+Row:Stock purchase plan and other, net 	1,400 	2,307 	1,329
+Row:Excess tax benefit from stock-based awards 	— 	— 	312
+Row:Repayments of long-term debt 	(2,000) 	(2,000) 	(2,000)
+Row:Debt issuance costs 	(1,170) 	(1,291) 	—
+Row:Borrowings under revolving line of credit 	— 	8,000 	38,000
+Row:Repayments of borrowings under revolving line of credit 	— 	(8,000) 	(38,000)
+Row:Borrowings under FILO/ABL Term Loan 	50,000 	— 	—
+Row:Net cash provided by (used in) financing activities 	48,230 	(33,278) 	(33,426)
+Row:Effect of exchange rate changes on cash 	(683) 	— 	—
+Row:Change in cash and cash equivalents 	(80,501) 	(19,081) 	39,239
+Row:Cash and cash equivalents at beginning of period 	135,379 	154,460 	115,221
+Row:Cash and cash equivalents at end of period 	$ 54,878 	$ 135,379 	$ 154,460
+Row:Supplemental cash flow information:
+			Row:Interest paid 	$ 14,668 	$ 11,750 	$ 12,219
+Row:Income taxes paid, net of refunds 	$ 2,864 	$ 24,388 	$ 13,077
+Row:The accompanying notes are an integral part of these financial statements.
+			Row:CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ 	EQUITY
+Row:Pier 1 Imports, Inc.
+	Row:CONSOLIDATED STATEMENTS 	OF
+Row:SHAREHOLDERS' EQUITY
+	Row:(in thousands)
+	Row:	Outstanding
+Shares 	Amount
+Paid-in
+Capital
+	Retained
+Earnings
+	Comprehensive
+Income (Loss)
+	Treasury
+Stock
+	Shareholders'
+Equity
+Row:Balance February 27, 2016 	83,472 	$ 125 $211,019 	$ 729,537 	$ (10,637) 	$(645,287) 	$ 284,757
+Row:Net income 	— 	— — 	30,129 	— 	— 	30,129
+Row:Other comprehensive income 	— 	— — 	— 	3,223 	— 	3,223
+Row:Purchases of treasury stock 	(1,794) 	— — 	— 	— 	(10,566) 	(10,566)
+Row:Stock-based compensation expense 	1,302 	— (12,077) 	— 	— 	20,305 	8,228
+Row:Exercise of stock options, stock
+						Row:purchase plan, and other 	202 	— (7,441) 	— 	— 	6,199 	(1,242)
+Row:Cash dividends ($0.28 per share) 	— 	— — 	(22,501) 	— 	— 	(22,501)
+Row:Balance February 25, 2017 	83,182 	$ 125 $191,501 	$ 737,165 	$ (7,414) 	$(629,349) 	$ 292,028
+Row:Net income 	— 	— — 	11,626 	— 	— 	11,626
+Row:Other comprehensive loss 	— 	— — 	— 	(63) 	— 	(63)
+Row:Purchases of treasury stock 	(1,927) 	— — 	— 	— 	(10,000) 	(10,000)
+Row:Stock-based compensation expense 	1,648 	— (19,845) 	— 	— 	23,654 	3,809
+Row:Stock purchase plan and other 	355 	— (3,232) 	(265) 	— 	5,961 	2,464
+Row:Cash dividends ($0.28 per share) 	— 	— — 	(22,294) 	— 	— 	(22,294)
+Row:Balance March 3, 2018 	83,258 	$ 125 $168,424 	$ 726,232 	$ (7,477) 	$(609,734) 	$ 277,570
+Row:Net loss 	— 	— — 	(198,833) 	— 	— 	(198,833)
+Row:Cumulative effect of accounting change 	— 	— — 	7,020 	— 	— 	7,020
+Row:Other comprehensive loss 	— 	— — 	— 	(384) 	— 	(384)
+Row:Stock-based compensation expense 	1,309 	— (14,591) 	— 	— 	17,347 	2,756
+Row:Stock purchase plan and other 	1,047 	— (15,483) 	— 	— 	16,883 	1,400
+Row:Balance March 2, 2019 	85,614 	$ 125 $138,350 	$ 534,419 	$ (7,861) 	$(575,504) 	$ 89,529

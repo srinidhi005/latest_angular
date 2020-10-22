@@ -1,0 +1,181 @@
+Row:(	Thousands except per share 	amounts)
+Row:Operating revenues:		Row:$
+Sales of natural gas, oil and NGLS4,695,519	$
+2,651,318	$
+1,594,997Row:Net marketing services and other	40,94049,681	41,048Row:(Loss) gain on derivatives not designated as hedges(	178,591)390,021	(248,991)Row:Total operating revenues
+4,557,868
+	3,091,020
+	1,387,054
+Row:Operating expenses:		Row:Transportation and processing	1,164,783
+1,697,001	880,191Row:Production	181,349195,775	174,170Row:Exploration	17,5656,765	4,663Row:Selling, general and administrative	208,986284,220	218,946Row:Depreciation and depletion	970,985
+1,569,038	856,451
+Row:Impairment/loss on sale of long-lived assets2,709,976		Row:Impairment of goodwill	530,811	Row:Lease impairments and expirations	279,7087,552	15,686
+Row:Transaction costsAmortization of intangible assets	26,33141,367152,1885,400	Row:Total operating expenses
+	7,340,992
+2,708,808
+	2,150,107
+Row:Gain on sale of assets		8,025Row:Operating (loss) income
+(2,783,124	)
+382,212
+	(755,028)
+Row:Other expense
+	65,349
+2,987
+	8,075
+Row:Loss on debt extinguishmentInterest expense	228,95812,641167,971	131,159Row:(Loss) income from continuing operations before income taxes(	3,077,431)198,613	(894,262)Row:Income tax (benefit)(	696,511)(1,188,416)	(362,769)Row:(Loss) income from continuing operations(	2,380,920)1,387,029	(531,493)Row:Income from discontinued operations, net of tax (see Note 2)	373,762471,113	400,430Row:Net (loss) income(2,007,158	)1,858,142	(131,063)Row:Less: Net income from discontinued operations attributable to noncontrolling interests	237,410349,613	321,920Row:Net (loss) income attributable to EQT Corporation
+($
+	2,244,568)
+1,508,529
+$
+	(452,983)
+$
+Row:Amounts attributable to EQT Corporation:		Row:(Loss) income from continuing operations	$
+$
+(2,380,920)	1,387,029	$
+(531,493Row:Income from discontinued operations, net of tax	136,352	121,500	78,510Row:Net (loss) income attributable to EQT Corporation
+	(2,244,568)
+$
+$
+	1,508,529
+	(452,983$
+Row:Weighted average common stock outstanding	260,932
+	187,380	166,978Row:(Loss) income from continuing operations$
+	(9.12)
+	7.40
+	$
+(3.18Row:Income from discontinued operations
+	0.52
+	0.65
+	0.47
+Row:Net (loss) income
+$
+	(8.60)
+	$
+8.05
+	$
+(2.71Row:Cash flows from operating activities:Net (loss) income	2018
+2017
+(Thousands)
+	2016
+Row:$
+Adjustments to reconcile net income (loss) to net cash provided by operating activities:	(2,007,158)
+$
+1,858,142
+$
+	(131,063)
+Row:Deferred income taxes (benefit)	(510,405)(1,050,612)	(180,261)Row:Depreciation and depletion	1,729,7391,077,559
+	927,920
+Row:Amortization of intangibles assets	77,374
+10,940
+	Row:Amortization of financing costs and accretion expense	17.914
+	Row:Asset and lease impairments and exploratory well costs	20,327
+2,989,684	75,434
+Row:Goodwill impairment	798,689
+	Row:Gain on sale of assets		(8,025)
+Row:Loss on debt extinguishment	12,641
+	Row:Provision for (recoveries of) losses on accounts receivable	3,078
+(979)	3,856
+Row:Non-cash other expense (income)	18,335
+(24,955)	(31,693)Row:Share-based compensation expense	25,189
+94,592	44,605
+Row:Loss (gain) on derivatives not designated as hedges	(390,021)178,591
+	248,991
+Row:Cash settlements (paid) received on derivatives not designated as hedges	40,728
+(225,279)
+	279,425
+Row:Pension settlement charge		9,403
+Row:Changes in other assets and liabilities:		Row:Accounts receivable	(439,062)
+(8,979)
+	(165,507)Row:Accounts payable	457,113
+(16,680)	40,548Row:Tax receivable	(12,285)
+(117,188)	34,880Row:Other items, net	(20,358)
+27,280
+	(84,193)Row:Net cash provided by operating activities	2,976,256
+1,637,698
+	1,064,320
+Row:Cash flows from investing activities:		Row:Capital expenditures	(2,964,924)
+(1,549,351)	(942,810)
+Row:Cash payments for Rice Merger (as defined in Note 3), net of cash acquired	(1,560,272)	Row:Capital expenditures for other acquisitions	(34,113)(828,657)	(1,061,735)Row:Capital expenditures from discontinued operations	(732,727)
+(380,151)	(584,819)Row:Net sales of (investments in) trading securities
+	283,758	(284,882)Row:Proceeds from sale of assets
+	3,573
+583,381
+	75,000Row:Exploratory dry hole costs	(11,420)	(1,369)Row:Capital contributions to Mountain Valley Pipeline, LLC, net of sales of interest (Note 2)Other investing activities	(159,550)
+(820,943)(9,778)	(85,866)
+Row:Net cash used in investing activities	(3,979,104)
+(4,202,070)
+	(2,886,481)
+Row:Cash flows from financing activities:		Row:Net proceeds from the issuance of common shares of EQT Corporation		1,225,999Row:Net proceeds from the issuance of common units of EQM Midstream Partners, LP		217,102Row:Proceeds from issuance of debt	2,500,0003,000,000	500,000Row:Increase in borrowings on credit facilities	8,637,5002,063,000	740,000Row:Repayment of borrowings on credit facilities	(8,953,500)(1,076,500)	(1,039,000)Row:Dividends paid	(31,375)(20,827)
+	(20,156)Row:Distributions to noncontrolling interests	(380,651)
+(236,123)
+	(189,981)
+Row:Net cash transferred at Separation and Distribution (Note 2)
+	(129,008)
+	Row:Contribution to Strike Force Midstream LLC by minority owner, net of distribution	6,738
+	Row:Acquisition of 25% of Strike Force Midstream LLC	(175,000)	Row:Repayments and retirements of debt	(2,000,000)
+(8,376)	(5,119)
+Row:Proceeds and excess tax benefits from awards under employee compensation plans	1,946244
+	6,165
+Row:Cash paid for taxes related to net settlement of share-based incentive awards	(22,647)(72,116)	(26,931)Row:Debt issuance costs and revolving credit facility origination feesPremiums paid on debt extinguishment	(40,966)
+(41,876)
+(89,363)
+	(8,580)
+Row:Repurchase and retirement of common stock	(538,876)	Row:Repurchase of common stock
+Source: EQT Corp, 10-K, February 14, 2019	(27)
+(30)
+Powered by Morningstar® 	(30)
+SM
+Document ResearchRow:Net cash provided by financing activities	859,020	1,533,147
+	1,399,469Row:Net change in cash and cash equivalents	(143,828)	(1,031,225)	(422,692)Row:Cash, cash equivalents and restricted cash at beginning of year	147,315	1,178,540	1,601,232Row:Cash, cash equivalents and restricted cash at end of year$	3,487	147,315
+$
+	1,178,540
+$
+Row:Cash paid (received) during the year for:			Row:Interest, net of amount capitalized$ 	260,959	$
+189,371
+	$
+144,657
+Row:Income taxes, net$ 	(3,675)	$
+3,637
+	$
+(41,142)
+Row:Current assets:		Row:$
+Cash and cash equivalents	3,487	$
+26,311Row:Accounts receivable (less accumulated provision for doubtful accounts: $8,648 in 2018; $7,780 in 2017)	1,241,843	664,685Row:Derivative instruments, at fair value	481,654	241,952Row:Tax receivable	131,573	14,385Row:Prepaid expenses and other	111,107
+	59,462Row:Current assets of discontinued operations		156,260Row:Total current assets
+	1,969,664
+	1,163,055
+Row:Property, plant and equipment	22,148,012	25,396,026Row:Less: accumulated depreciation and depletion	4,755,505	5,666,018Row:Net property, plant and equipment
+	17,392,507
+	19,730,008
+Row:Intangible assets, net	77,333
+	118,700Row:Goodwill		470,849
+Row:Investment in Equitrans Midstream Corporation	1,013,002	Row:Other assets	268,838
+	250,734Row:Noncurrent assets of discontinued operations		7,789,258Row:Total assets
+$
+	20,721,344
+	29,522,604
+$
+Row:$
+Cash and cash equivalents	$
+3,48726,311Row:Accounts receivable (less accumulated provision for doubtful accounts: $8,648 in 2018; $7,780 in 2017)	1,241,843664,685Row:Derivative instruments, at fair value	481,654241,952Row:Tax receivable	131,57314,385Row:Prepaid expenses and other	111,107
+59,462Row:Current assets of discontinued operations	156,260Row:Property, plant and equipment	22,148,012	25,396,026Row:Less: accumulated depreciation and depletion	4,755,505	5,666,018Row:Net property, plant and equipment
+	17,392,507
+	19,730,008
+Row:$
+Current portion of debt	704,390	$
+12,406Row:Accounts payable	1,059,873	726,433Row:Derivative instruments, at fair value	336,051	139,089Row:Other current liabilities	254,687
+	274,276Row:Current liabilities of discontinued operations		80,033Row:Total current liabilities
+	2,355,001
+	1,232,237
+Row:Credit facility borrowings	800,000	1,295,000Row:Senior Notes	3,882,932	4,575,203Row:Notes payable to EQM Midstream Partners, LP	110,059	114,720Row:Deferred income taxes	1,823,381	1,889,962Row:Other liabilities and credits	791,742
+	752,837Row:Noncurrent liabilities of discontinued operations		1,248,032Row:Total liabilities
+	9,763,115
+	11,107,991
+Row:Shareholders' Equity:		Row:Common stock, no par value, authorized 320,000 shares, shares issued: 257,225 in 2018 and 267,871 in 2017	7,828,554
+	9,388,903
+Row:Treasury stock, shares at cost: 2,753 in 2018 (no shares held in rabbi trust) and 3,551 in 2017 (including 253held in rabbi trust)	(49,194)	(63,602)Row:Retained earnings	3,184,275	3,996,775Row:Accumulated other comprehensive loss	(5,406)	(2,458)Row:Total common shareholders' equity	10,958,229
+	13,319,618Row:Noncontrolling interests in discontinued operations		5,094,995Row:Total shareholder's equity	10,958,229	18,414,613Row:Total liabilities and shareholders' equity
+$
+	20,721,344
+	29,522,604
+$

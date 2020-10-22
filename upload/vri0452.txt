@@ -1,0 +1,73 @@
+Row:	2019 	2018
+Row:CURRENT ASSETS:
+		Row:Cash 	$ 892,916 	$
+1,210,903 Row:Accounts Receivable, Net of Allowances of $2,148,183
+		Row:and $1,926,073, at December 31, 2019 and 2018 	6,078,243 	5,924,168
+Row:Inventories 	506,887 	691,984
+Row:Prepaid Expenses 	416,220 	366,523
+Row:Other 	136,931 	171,736
+Row:Total Current Assets 	8,031,197 	8,365,314
+Row:PROPERTY AND EQUIPMENT, NET 	11,186,114 	11,330,589
+Row:OTHER ASSETS:
+		Row:Goodwill, Net of Accumulated Amortization of $59,893,864
+		Row:and $49,138,888, at December 31, 2019 and 2018 	47,655,897 	58,410,873
+Row:Intangibles, Net of Accumulated Amortization of $2,074,582
+		Row:and $1,615,203, at December 31, 2019 and 2018 	7,739,628 	4,653,489
+Row:Revolving Loan Issuance Costs, Net of Accumulated Amortization
+		Row:of $1,356,663 and $1,071,331 at December 31, 2019 and 2018 	23,776 	309,108
+Row:Other 	363,498 	684,179
+Row:Total Other Assets 	55,782,799 	64,057,649
+Row:TOTAL ASSETS 	$ 75,000,110 	$
+83,753,552 
+Row:	2019 	2018
+Row:CURRENT LIABILITIES:
+		Row:Accounts Payable 	1,319,154 $ 	1,920,331 $
+Row:Accrued Expenses 	3,076,767 	2,453,702
+Row:Current Portion of Mortgage 	26,288 	-
+Row:Current Portion of Capital Lease Obligations 	36,918 	72,885
+Row:Deferred Revenue 	75,327 	159,352
+Row:Contingent Consideration
+	2,085,255 	-
+Row:Other 	3,722 	14,725
+Row:Total Current Liabilities NONCURRENT LIABILITIES:
+Long-term Debt, Exclusive of Current Maturities:
+	6,623,431 	4,620,995
+Row:Revolving Loan 	44,600,000 	46,300,000
+Row:Term Note 	18,000,000 	18,000,000
+Row:Term Note Issuance Costs, Net of Accumulated Amortization
+		Row:of $287,456 and $168,003, at December 31, 2019 and 2018 	(99,544) 	(218,997)
+Row:Mortgage 	1,197,229 	-
+Row:Capital Lease Obligations 	33,742 	73,836
+Row:Total Long-term Debt 	63,731,427 	64,154,839
+Row:Total Noncurrent Liabilities 	63,731,427 	64,154,839
+Row:MEMBERS' EQUITY:
+Class A Units Class B Units 	74,745,844 1,279,010 	73,445,844
+1,279,010
+Row:Accumulated Deficit 	(71,379,602) 	(59,747,136)
+Row:Total Members' Equity 	4,645,252 	14,977,718
+Row:TOTAL LIABILITIES AND MEMBERS’ EQUITY 	75,000,110 $ 	83,753,552 $
+Row:	2019 	2018
+Row:REVENUES:
+		Row:Monitoring Services 	45,812,147 $ 	51,895,399 $
+Row:Equipment Sales 	536,789 	300,505
+Row:Other 	551,731 	316,400
+Row:Total Revenues 	46,900,667 	52,512,304
+Row:OPERATING EXPENSES:
+Personnel 	17,693,442 	19,385,303
+Row:Contract Labor 	3,221,120 	3,664,217
+Row:Monitoring Services 	4,932,807 	7,006,641
+Row:Sales of Equipment 	253,911 	166,438
+Row:Professional Fees 	475,796 	607,933
+Row:Communications and Shipping 	1,782,079 	2,013,333
+Row:Bad Debt Expense 	1,853,963 	2,204,137
+Row:Travel 	739,322 	721,044
+Row:Facilities 	544,180 	701,294
+Row:Amortization 	11,215,128 	11,132,146
+Row:Depreciation 	7,691,643 	12,724,993
+Row:Other 	2,488,725 	2,401,393
+Row:	52,892,116 	62,728,872
+Row:LOSS FROM OPERATIONS 	(5,991,449) 	(10,216,568)
+Row:INTEREST EXPENSE 	5,429,047 	5,504,742
+Row:LOSS BEFORE INCOME TAXES 	(11,420,496) 	(15,721,310)
+Row:INCOME TAX EXPENSE 	211,970 	-
+Row:NET LOSS 	(11,632,466) $ 	(15,721,310) $

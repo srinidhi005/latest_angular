@@ -1,0 +1,277 @@
+Row		Period Ended
+		Month 	Ended
+	Row	Actual
+	Budget
+	Variance
+	Actual
+	Budget
+	Variance
+RowRevenue:
+						RowOil and gas sales
+	3,456,455
+	3,614,679
+	(158,224)
+	363,687
+	477,046
+	(113,359)
+RowRoyalties
+	152,379
+	224,647
+	72,268
+	22,993
+	25,045
+	2,052
+RowPurchased gas
+	3,304,076
+(142,869)
+	3,390,032
+(39,722)
+	(85,955)
+(103,147)
+	340,694
+(43,042)
+	452,001
+52,600
+	(111,307)
+(95,642)
+RowHedge gain (loss)
+	64,567
+	25,234
+	39,332
+	26,924
+	(15,500)
+	42,424
+RowPetroleum and natural gas sales, net
+	3,225,774
+	3,375,544
+	(149,770)
+	324,576
+	489,101
+	(164,525)
+RowOther income
+	1,095
+		1,095
+			Row	3,226,869
+	3,375,544
+	(148,675)
+	324,576
+	489,101
+	(164,525)
+RowCost of operations:
+						RowProduction and operating
+	2,922,390
+	1,924,672
+	(997,719)
+	297,872
+	379,750
+	81,878
+RowTransportaion
+	478,587
+	498,578
+	19,990
+	74,800
+	78,618
+	3,818
+RowDeletion, depreciation and amortization
+	2,754,804
+	1,909,235
+	(845,569)
+	1,314,798
+	286,302
+	(1,028,496)
+RowGeneral and administrative
+	1,394,195
+	1,444,650
+	50,455
+	152,100
+	160,373
+	8,273
+RowFinance expenses
+	264,565
+7,814,541
+	268,123
+6,045,258
+	3,558
+(1,769,285)
+	75,070
+1,914,640
+	43,287
+948,330
+	(31,783)
+(966,310)
+RowNet earnings (loss) for the period
+	(4,587,671)
+	(2,669,714)
+	(1,917,957)
+	(1,590,064)
+	(459,229)
+	(1,130,835)
+RowPrior period earnings (loss)
+	(6,872,631)
+	(6,377,760)
+	(494,871)
+	(9,870,238)
+(	8,588,245)
+	(1,281,993)
+RowAccumulated earnings (loss)
+	(11,460,302)
+	(9,047,474)
+	(2,412,828)
+	(11,460,302)
+(	9,047,474)
+	(2,412,828)
+RowProduction and operating
+	2,922,390
+	1,924,672
+	(997,719)
+	297,872
+	379,750
+	81,878
+RowTransportaion
+	478,587
+	498,578
+	19,990
+	74,800
+	78,618
+	3,818
+RowDeletion, depreciation and amortization
+	2,754,804
+	1,909,235
+	(845,569)
+	1,314,798
+	286,302
+	(1,028,496RowGeneral and administrative
+	1,394,195
+	1,444,650
+	50,455
+	152,100
+	160,373
+	8,273
+RowFinance expenses
+	264,565
+	268,123
+	3,558
+	75,070
+	43,287
+	(31,783RowAssets
+		2018
+	2017
+Row	Restricted Cash equivalent
+Accounts receivable
+	179,705
+382,644
+	2,625,000
+1,237,050
+Row	Deposits and prepaid expenses
+	156,287
+718,636
+	85,337
+3,947,387
+Row	Property, plant and equipment
+Evaluation and exploration assets
+	85,101,816
+33,517,011
+	68,691,767
+33,172,977
+RowTotal 	assets
+	118,618,827
+119,337,463
+	101,864,744
+105,812,131
+Row	Accounts payable and accrued liabilities
+Bregal loan
+Bank debt
+	1,413,300
+12,000,000
+13,241,993
+	21,077,782
+3,743,155
+Row	Decommissioning liabilites
+	26,655,293
+2,009,385
+	24,820,937
+1,215,738
+RowTotal 	liabilities
+	28,664,678
+	26,036,675
+RowEquity
+	Parnter's equity - Class A
+Parnter's equity - Class B
+	100,000,000
+2,000,000
+	84,818,627
+1,696,373
+Row	Parnter's equity - Class C
+Contributed surplus
+Accumulated deficit
+	16,407
+116,680
+(11,460,302	16,407
+)
+116,680
+(6,872,631RowTotal 	equity
+	90,672,785
+	79,775,456
+RowTotal 	liabilities and partner's equity
+	119,337,463
+	105,812,131
+RowAccounts payable and accrued liabilities
+	1,413,300
+	21,077,782
+RowBregal loan
+	12,000,000
+	RowBank debt
+	13,241,993
+	3,743,155
+Row	26,655,293
+	24,820,937
+RowOperating Activities
+Net earnings for the period
+	(4,587,671)
+	(1,590,064)
+RowItems not affecting cash:
+		RowDepletion, depreciation and amortization
+	2,754,804
+	1,314,798
+RowAccretion expense
+	35,660
+	20,813
+RowChanges in non-cash working capital
+	450,976
+	(303,405)
+RowNet cash provided by (used in) operating activities
+	(1,346,231)
+	(557,858)
+RowBank debt
+	9,498,838
+	(69,388RowBregal loan
+	12,000,000
+	1,000,000
+RowPartner's equity - class A
+	15,181,373
+	RowPartner's equity - class B
+	303,627
+	RowNet cash provided by (used in) investing activities
+	36,983,838
+	930,612
+RowInvesting Activities
+Additions to exploration and evaluation assets
+	(493,871)
+	(66,946RowDisposition of exploration and evaluation assets
+	150,400
+	RowAdditions to oil and gas properties
+	(18,284,183)
+	(48,069RowAdditions to office assets
+	(122,756)
+	RowChange in non-cash working capital
+	(19,332,492)
+	(257,740RowNet cash provided by (used in) investing activities
+	(38,082,902)
+	(372,754RowChange in cash during the period
+	(2,445,295)
+	RowCash, beginning of the period
+	2,625,000
+	179,705
+RowCash, end of the period
+	179,705
+	179,705

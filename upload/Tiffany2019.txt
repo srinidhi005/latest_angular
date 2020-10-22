@@ -1,0 +1,281 @@
+Row:(in millions, except per share amounts) 	2020 2019
+Row:ASSETS
+	Row:Current assets:
+	Row:Cash and cash equivalents $ 	874.7 $ 792.6
+Row:Short-term investments 	22.7 62.7
+Row:Accounts receivable, net 	240.0 245.4
+Row:Inventories, net 	2,463.9 2,428.0
+Row:Prepaid expenses and other current assets 	274.2 230.8
+Row:Total current assets 	3,875.5 3,759.5
+Row:Operating lease right-of-use assets Property, plant and equipment, net Deferred income taxes 	1,102.7 —
+1,098.8 1,026.7
+225.2 215.8
+Row:Other assets, net 	357.9 331.0
+Row:$ 	6,660.1 $ 5,333.0
+Row:LIABILITIES AND STOCKHOLDERS' EQUITY
+	Row:Current liabilities:
+	Row:Short-term borrowings $ 	147.9 $ 113.4
+Row:Accounts payable and accrued liabilities 	541.5 513.4
+Row:Current portion of operating lease liabilities 	202.8 —
+Row:Income taxes payable 	16.4 21.4
+Row:Merchandise credits and deferred revenue 	61.8 69.9
+Row:Total current liabilities 	970.4 718.1
+Row:Long-term debt 	884.1 883.4
+Row:Pension/postretirement benefit obligations 	374.5 312.4
+Row:Deferred gains on sale-leasebacks 	— 31.1
+Row:Long-term portion of operating lease liabilities Other long-term liabilities Commitments and contingencies
+	1,008.4 —
+87.3 257.1
+Row:Stockholders' equity:
+Preferred Stock, $0.01 par value; authorized 2.0 shares, none issued and outstanding Common Stock, $0.01 par value; authorized 240.0 shares, issued and outstanding 121.2 and
+121.5 	— —
+1.2 1.2
+Row:Additional paid-in capital 	1,387.3 1,275.4
+Row:Retained earnings Accumulated other comprehensive loss, net of tax 	2,207.6 2,045.6
+(273.2) (204.8)
+Row:Total Tiffany & Co. stockholders' equity Non-controlling interests Total stockholders' equity 	3,322.9 3,117.4
+12.5 13.5
+3,335.4 3,130.9
+Row:$ 	6,660.1 $ 5,333.0
+Row:See notes to consolidated financial statements.
+	Row:(in millions, except per share amounts)
+	2020 	2019 	2018
+Row:Net sales 	$ 4,424.0 $ 	4,442.1 $ 	4,169.8
+Row:Cost of sales 	1,662.1 	1,631.1 	1,559.1
+Row:Gross profit 	2,761.9 	2,811.0 	2,610.7
+Row:Selling, general and administrative expenses 	2,029.3 	2,020.7 	1,801.3
+Row:Earnings from operations 	732.6 	790.3 	809.4
+Row:Interest expense and financing costs 	38.5 	39.7 	42.0
+Row:Other expense, net 	3.8 	7.1 	6.9
+Row:Earnings from operations before income taxes 	690.3 	743.5 	760.5
+Row:Provision for income taxes 	149.2 	157.1 	390.4
+Row:Net earnings 	$ 541.1 $ 	586.4 $ 	370.1
+Row:Net earnings per share:
+			Row:Basic 	$ 4.47 $ 	4.77 $ 	2.97
+Row:Diluted 	$ 4.45 $ 	4.75 $ 	2.96
+Row:Weighted-average number of common shares:
+			Row:Basic 	121.1 	122.9 	124.5
+Row:Diluted 	121.6 	123.5 	125.1
+Row:See notes to consolidated financial statements.
+			Row:(in millions)
+	2020 2019 2018
+Row:Net earnings 	$ 541.1 $ 586.4 $ 370.1
+Row:Other comprehensive (loss) earnings, net of tax
+	Row:Foreign currency translation adjustments 	(22.4) (60.2) 95.7
+Row:Unrealized loss on marketable securities 	— — (2.6)
+Row:Unrealized gain (loss) on hedging instruments 	34.7 (1.6) (6.8)
+Row:Unrealized (loss) gain on benefit plans 	(54.7) (6.8) 31.9
+Row:Total other comprehensive (loss) earnings, net of tax 	(42.4) (68.6) 118.2
+Row:Comprehensive earnings 	$ 498.7 $ 517.8 $ 488.3
+Row:(in millions) 	Total
+Stockholders'
+Equity
+	Shares Retained
+Earnings
+Other
+Comprehensive
+Loss
+	Non-
+Controlling
+Amount
+Interests Additional
+Paid-In
+Capital
+Row:Balance at January 31, 2017
+$ 	3,028.4 $ 	2,078.3 $ (256.2) 	124.5 $ 1.2 $ 1,190.2 $ 14.9
+Row:Exercise of stock options and vesting of
+restricted stock units ("RSUs") 	54.6 	— — 	1.1 — 54.6 —
+Row:Shares withheld related to net share
+settlement of share-based
+compensation 	(8.6) 	— — 	(0.1) — (8.6) —
+Row:Share-based compensation expense
+	28.2 	— — 	— — 28.2 —
+Row:Purchase and retirement of Common
+Stock
+	(99.2) 	(90.8) — 	(1.0) — (8.4) —
+Row:Cash dividends on Common Stock
+	(242.6) 	(242.6) — 	— — — —
+Row:Accrued dividends on share-based
+awards
+	(0.8) 	(0.8) — 	— — — —
+Row:Other comprehensive earnings, net of
+tax Net earnings
+	118.2 370.1 	— 118.2 370.1 — 	— — — —
+— — — —
+Row:Non-controlling interests 	(0.1) 	— — 	— — — (0.1)
+Row:Balance at January 31, 2018
+Exercise of stock options and vesting of
+RSUs 	3,248.2 23.1 	2,114.2 (138.0) — — 	124.5 1.2 1,256.0 14.8
+0.6 — 23.1 —
+Row:Shares withheld related to net share
+settlement of share-based
+compensation 	(8.6) 	— — 	(0.1) — (8.6) —
+Row:Share-based compensation expense
+	34.1 	— — 	— — 34.1 —
+Row:Purchase and retirement of Common
+Stock Cash dividends on Common Stock 	(421.4) (263.8) 	(392.1) — (263.8) — 	(3.5) — (29.3) —
+— — — —
+Row:Accrued dividends on share-based
+awards 	(1.1) 	(1.2) — 	— — 0.1 —
+Row:Cumulative effect adjustment from
+adoption of new accounting standards Other comprehensive loss, net of tax
+Net earnings 	3.9 (68.6) 586.4 	2.1 1.8
+— (68.6) 586.4 — 	— — — —
+— — — —
+Row:Non-controlling interests
+	(1.3) 	— — 	— — — (1.3)
+Row:Balance at January 31, 2019
+	3,130.9 	2,045.6 (204.8) 	121.5 1.2 1,275.4 13.5
+Row:Exercise of stock options and vesting of
+RSUs Shares withheld related to net share
+settlement of share-based
+compensation
+	108.4 (15.2) 	— — — — 	1.6 — 108.4 —
+(0.1) — (15.2) —
+Row:Share-based compensation expense 	33.4 	— — 	— — 33.4 —
+Row:Purchase and retirement of Common
+Stock 	(163.4) 	(148.0) — 	(1.8) — (15.4) —
+Row:Cash dividends on Common Stock
+Accrued dividends on share-based
+awards
+	(276.3) (1.9) 	(276.3) — (2.6) — 	— — — —
+— — 0.7 —
+Row:Cumulative effect adjustment from
+adoption of new accounting standards
+	21.8 	47.8 (26.0) 	— — — —
+Row:Other comprehensive loss, net of tax 	(42.4) 	— (42.4) 	— — — —
+Row:Net earnings
+	541.1 	541.1 — 	— — — —
+Row:Non-controlling interests 	(1.0) 	— — 	— — — (1.0)
+Row:Balance at January 31, 2020
+$ 	3,335.4 $ 	2,207.6 $ (273.2) 	121.2 $ 1.2 $ 1,387.3 $ 12.5
+Row:See notes to consolidated financial statements.
+			Row:(in millions)	2020
+	Years Ended 2019
+	January 31,
+2018
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+			Row:Net earnings	$
+541.1
+$
+	586.4
+$
+	370.1
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities:			Row:Depreciation and amortization	259.7
+	229.0
+	206.9
+Row:Amortization of gain on sale-leasebacks
+		(8.4)
+	(8.2)
+Row:Provision for inventories
+	21.6
+	54.4
+	28.9
+Row:Deferred income taxes
+	6.6
+	(21.3)
+	96.8
+Row:Provision for pension/postretirement benefits	29.4
+	35.7
+	35.0
+Row:Share-based compensation expense	33.2
+	34.1
+	28.0
+Row:Loan impairment charges			3.0
+Row:Asset impairment charges			10.0
+Row:(Gains) losses on sales of marketable securities	(2.6)
+	2.3
+	(3.5)
+Row:Changes in assets and liabilities:
+			Row:Accounts receivable
+	3.7
+	(30.8)	7.0
+Row:Inventories
+	(72.7)
+	(270.5)
+	(52.9)
+Row:Prepaid expenses and other current assets
+	(36.3)	(11.3)	(28.8)Row:Other assets, net
+	(35.6)	(22.2)
+	(3.7)
+Row:Accounts payable and accrued liabilities	33.0
+	53.7
+	98.8
+Row:Income taxes payable
+	(90.9)	(104.6)	149.7
+Row:Merchandise credits and deferred revenue
+	(7.3)
+	(1.0)
+	6.2
+Row:Other long-term liabilities	(12.0)
+	6.3
+	(11.1)
+Row:Net cash provided by operating activities
+	670.9
+	531.8
+	932.2
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+			Row:Purchases of marketable securities and short-term investments
+	(53.0)
+	(154.1)
+	(598.0)
+Row:Proceeds from sales of marketable securities and short-term investments
+	90.0
+	394.1
+	351.4
+Row:Capital expenditures	(320.6)
+	(282.1)
+	(239.3)
+Row:Other, net
+	4.3
+	12.2
+	4.8
+Row:Net cash used in investing activities
+	(279.3)
+	(29.9)
+	(481.1)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+			Row:Proceeds from (repayment of credit facility borrowings, net	1.5
+	(18.4)
+	(67.8)
+Row:Proceeds from other credit facility borrowings	133.1
+	49.3
+	39.2
+Row:Repayment of other credit facility borrowings	(96.1)	(32.0)
+	(96.1)Row:Repurchase of Common Stock	(163.4)
+	(421.4)
+	(99.2)
+Row:Proceeds from exercised stock options	108.4
+	23.1
+	54.6
+Row:Payments related to tax withholding for share-based payment arrangements	(15.1)
+	(8.6)
+	(8.7)
+Row:Cash dividends on Common Stock
+	(276.3)
+	(263.8)	(242.6)Row:Distribution to non-controlling interestFinancing fees		(0.3)
+(2.2)
+	(0.5)
+Row:Net cash used in financing activities	(307.9)
+	(674.3)
+	(421.1)
+Row:Effect of exchange rate changes on cash and cash equivalents
+	(1.6)
+	(5.7)
+	12.7
+Row:Net increase (decrease) in cash and cash equivalents
+	82.1
+	(178.1)
+	42.7
+Row:Cash and cash equivalents at beginning of year	792.6
+	970.7
+	928.0
+Row:Cash and cash equivalents at end of year
+	$
+874.7
+$
+	792.6
+$
+	970.7
+Row:See notes to consolidated financial statements.
+			

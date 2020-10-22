@@ -1,0 +1,745 @@
+RowAssets
+		RowCurrent:
+		RowCash and cash equivalents $ 	66,871 $ 	37,808
+RowMarketable securities 	63,538 	54,298
+RowSERP investment 	18,935 	14,686
+RowAccounts receivable, net 	55,764 	57,285
+RowInventories 	279,806 	280,756
+RowPrepaid expenses and other current assets 	23,378 	24,289
+RowTotal current assets 	508,292 	469,122
+RowProperty and equipment, net 	886,928 	887,608
+RowOperating lease right-to-use 	210,196 	-
+RowGoodwill 	52,330 	52,330
+RowIntangible and other assets, net 	17,816 	22,951
+RowTotal assets $ 	1,675,562 $ 	1,432,011
+RowLiabilities
+		RowCurrent:
+		RowAccounts payable $ 	180,718 $ 	191,099
+RowAccrued expenses 	39,528 	45,354
+RowOperating leases 	39,114 	-
+RowAccrued self-insurance 	15,719 	15,516
+RowDeferred revenue, net 	8,662 	7,961
+RowIncome taxes payable 	8,197 	7,283
+RowTotal current liabilities 	291,938 	267,213
+RowPostretirement benefit obligations 	22,143 	18,110
+RowAccrued self-insurance 	17,625 	17,795
+RowOperating leases 	179,654 	-
+RowDeferred income taxes 	97,041 	90,793
+RowOther 	8,416 	15,201
+RowTotal liabilities 	616,817 	409,112
+RowShareholders’ Equity
+Common stock, no par value, 100,800,000 shares authorized, 33,047,807 shares issued,
+		Row26,898,443 shares outstanding 	9,949 	9,949
+RowRetained earnings 	1,198,173 	1,163,545
+RowAccumulated other comprehensive income
+		Row(Net of deferred taxes of $593 in 2019 and $110 in 2018) 	1,480
+	262
+RowTreasury stock at cost, 6,149,364 shares 	1,209,602 (150,857) 	1,173,756
+(150,857)
+RowTotal shareholders’ equity 	1,058,745 	1,022,899
+RowTotal liabilities and shareholders’ equity $ 	1,675,562 $ 	1,432,011
+RowSee accompanying notes to Consolidated Financial Statements.
+		RowFor the Fiscal Years Ended December 28, 2019, 	2019 (52 weeks) 	2018 (52 weeks) 	2017
+(52 weeks)
+RowDecember 29, 2018 and December 30, 2017 			RowNet sales 	$ 3,543,299 $ 	3,509,270 $ 	3,466,807
+RowCost of sales, including advertising, warehousing and distribution expenses 	2,605,105 	2,574,269 	2,554,284
+RowGross profit on sales 	938,194 	935,001 	912,523
+RowOperating, general and administrative expenses 	853,555 	852,330 	834,004
+RowIncome from operations 	84,639 	82,671 	78,519
+RowInvestment income (loss) and interest expense 	7,054 	(1,454) 	2,598
+RowOther income (expense) 	(3,049) 	919 	(2,094)
+RowIncome before provision for income taxes 	88,644 	82,136 	79,023
+RowProvision for income taxes 	20,661 	19,398 	(19,391)
+RowNet income 	$ 67,983 $ 	62,738 $ 	98,414
+RowWeighted-average shares outstanding, basic and diluted 	26,898,443 	26,898,443 	26,898,443
+RowCash dividends per share 	$ 1.24 $ 	1.21 $ 	1.20
+RowBasic and diluted earnings per share 	$ 2.53 $ 	2.33 $ 	3.66
+RowFor the Fiscal Years Ended December 28, 2019, 	2019 	2018 	2017
+RowDecember 29, 2018 and December 30, 2017 	(52 weeks) 	(52 weeks) 	(52 weeks)
+RowNet income 	$ 67,983 	$ 62,738 $ 	98,414
+RowOther comprehensive income (loss) by component, net of tax:
+			RowAvailable-for-sale marketable securities
+			RowUnrealized holding gains (losses) arising during period
+			Row(Net of deferred taxes of $498, $62 and $19, respectively) 	1,255 	(177) 	(43)
+RowAccumulated change in effective tax rate 	- 	- 	1,042
+RowReclassification adjustment for (gains) losses included in net income
+			Row(Net of deferred taxes of $14, $14 and $11, respectively) 	(37) 	40 	29
+RowOther comprehensive income (loss), net of tax 	1,218 	(137) 	1,028
+RowComprehensive income, net of tax 	$ 69,201 	$ 62,601 $ 	99,442
+Row(dollars in thousands, except shares)
+		Other
+		Total
+RowFor the Fiscal Years Ended December 28, 2019,
+Common 	Stock
+Retained
+	Comprehensive
+	Treasury Stock
+	Shareholders’
+RowDecember 29, 2018 and December 30, 2017
+Shares 	Amount
+Earnings
+Income 		(Loss)
+Shares Amount
+	Equity
+RowBalance at December 31, 2016 33,047,807 	$ 9,949 $ 1,062,778 $ 		4,852 6,149,364 $ (150,857) 	$ 926,722
+RowNet income — 	— 98,414 		— — — 	98,414
+RowOther comprehensive income tax reform
+adjustment
+— 	— (1,042) 		1,042 — — 	—
+RowOther comprehensive income, net of
+				Rowreclassification adjustments and tax — 	— — 		(14) — — 	(14)
+RowDividends paid — Balance at December 30, 2017 33,047,807 	— (32,278) $ 9,949 $ 1,127,872 $ 		— — — 5,880 6,149,364 $ (150,857) 	(32,278)
+$ 992,844
+RowNet Income — 	— 62,738 		— — — 	62,738
+RowCumulative effect of accounting principle
+adoption of ASU 2016-01
+— 	— 5,481 		(5,481) — — 	—
+RowOther comprehensive loss, net of
+reclassification adjustments and tax — 	— — 		(137) — — 	(137)
+RowBalance at December 29, 2018 33,047,807 Dividends paid — 	$ 9,949 $ 1,163,545 $ — (32,546) 		262 6,149,364 $ (150,857) — — — 	$ 1,022,899
+(32,546)
+RowNet Income — 	— 67,983 		— — — 	67,983
+RowOther comprehensive loss, net of
+				Rowreclassification adjustments and tax — 	— — 		1,218 — — 	1,218
+RowDividends paid — 	— (33,354) 		— — — 	(33,354)
+RowBalance at December 28, 2019 33,047,807 	$ 9,949 $ 1,198,173 $ 		1,480 6,149,364 $ (150,857) 	$ 1,058,745
+RowSee accompanying notes to Consolidated Financial Statements.
+				Row(dollars in thousands)
+	2019
+	2018
+	2017
+RowCash flows from operating activities:
+			RowNet income
+	$ 67,983
+$ 	62,738 	$
+98,414
+RowAdjustments to reconcile net income to
+			Rownet cash provided by operating activities:
+			RowDepreciation and amortization 	93,706 	93,567 	85,415
+Row(Gain) Loss on disposition of fixed assets 	782 	1,274 	(700)
+RowImpairment of fixed assets 	- 	1,532 	-
+Row(Gain) Loss on sale of marketable securities 	(51) 	54
+	40
+RowUnrealized (gain) loss in value of equity securities 	(1,975) 	1,606 	-
+RowDeferred income taxes 	5,765 	3,418 	(31,993)
+RowUnrealized (gain) loss in SERP 	(135) 	1,883 	(1,114)
+RowChanges in operating assets and liabilities:
+			RowInventories 	950 	(1,247) 	(2,726)
+RowAccounts receivable and prepaid expenses 	2,431 	(5,874) 	4,045
+RowAccounts payable and other liabilities 	(505) 	(18,583) 	7,742
+RowIncome taxes 	913 	9,330 	(422)
+RowOther 	1,822 	565 	446
+RowNet cash provided by operating activities 	171,686 	150,263 	159,147
+RowCash flows from investing activities:
+			RowPurchase of property and equipment 	(101,456) 	(95,696) 	(95,857)
+RowProceeds from the sale of property and equipment 	4,245 	1,734 	2,246
+RowPurchase of marketable securities 	(13,620) 	(5,627) 	(12,612)
+RowProceeds from maturities of marketable securities 	5,985 	6,550 	8,442
+RowProceeds from the sale of marketable securities 	1,180 	5,834 	7,272
+RowPurchase of intangible assets 	(1,489) 	(3,540) 	(3,565)
+RowChange in SERP investment 	(4,114) 	(2,093) 	(2,208)
+RowNet cash used in investing activities 	(109,269) 	(92,838) 	(96,282)
+RowCash flows from financing activities:
+			RowPayments on long-term debt 	- 	(34,988) 	(29,488)
+RowDividends paid 	(33,354) 	(32,546) 	(32,278)
+RowNet cash used in financing activities 	(33,354) 	(67,534) 	(61,766)
+RowNet increase (decrease) in cash and cash equivalents 	29,063 	(10,109) 	1,099
+RowCash and cash equivalents at beginning of year 	37,808 	47,917 	46,818
+RowCash and cash equivalents at end of period 	$ 66,871 $ 	37,808 	$ 47,917
+RowSee accompanying notes to Consolidated Financial Statements. Cash paid for income taxes 	was $14.1 million, $6.5 	million and $13.0 million 	in 2019, 2018 and 2017,
+RowAssets
+		RowCurrent:
+		RowCash and cash equivalents $ 	66,871 $ 	37,808
+RowMarketable securities 	63,538 	54,298
+RowSERP investment 	18,935 	14,686
+RowAccounts receivable, net 	55,764 	57,285
+RowInventories 	279,806 	280,756
+RowPrepaid expenses and other current assets 	23,378 	24,289
+RowTotal current assets 	508,292 	469,122
+RowProperty and equipment, net 	886,928 	887,608
+RowOperating lease right-to-use 	210,196 	-
+RowGoodwill 	52,330 	52,330
+RowIntangible and other assets, net 	17,816 	22,951
+RowTotal assets $ 	1,675,562 $ 	1,432,011
+RowLiabilities
+		RowCurrent:
+		RowAccounts payable $ 	180,718 $ 	191,099
+RowAccrued expenses 	39,528 	45,354
+RowOperating leases 	39,114 	-
+RowAccrued self-insurance 	15,719 	15,516
+RowDeferred revenue, net 	8,662 	7,961
+RowIncome taxes payable 	8,197 	7,283
+RowTotal current liabilities 	291,938 	267,213
+RowPostretirement benefit obligations 	22,143 	18,110
+RowAccrued self-insurance 	17,625 	17,795
+RowOperating leases 	179,654 	-
+RowDeferred income taxes 	97,041 	90,793
+RowOther 	8,416 	15,201
+RowTotal liabilities 	616,817 	409,112
+RowShareholders’ Equity
+Common stock, no par value, 100,800,000 shares authorized, 33,047,807 shares issued,
+		Row26,898,443 shares outstanding 	9,949 	9,949
+RowRetained earnings 	1,198,173 	1,163,545
+RowAccumulated other comprehensive income
+		Row(Net of deferred taxes of $593 in 2019 and $110 in 2018) 	1,480
+	262
+RowTreasury stock at cost, 6,149,364 shares 	1,209,602 (150,857) 	1,173,756
+(150,857)
+RowTotal shareholders’ equity 	1,058,745 	1,022,899
+RowTotal liabilities and shareholders’ equity $ 	1,675,562 $ 	1,432,011
+RowSee accompanying notes to Consolidated Financial Statements.
+		RowFor the Fiscal Years Ended December 28, 2019, 	2019 (52 weeks) 	2018 (52 weeks) 	2017
+(52 weeks)
+RowDecember 29, 2018 and December 30, 2017 			RowNet sales 	$ 3,543,299 $ 	3,509,270 $ 	3,466,807
+RowCost of sales, including advertising, warehousing and distribution expenses 	2,605,105 	2,574,269 	2,554,284
+RowGross profit on sales 	938,194 	935,001 	912,523
+RowOperating, general and administrative expenses 	853,555 	852,330 	834,004
+RowIncome from operations 	84,639 	82,671 	78,519
+RowInvestment income (loss) and interest expense 	7,054 	(1,454) 	2,598
+RowOther income (expense) 	(3,049) 	919 	(2,094)
+RowIncome before provision for income taxes 	88,644 	82,136 	79,023
+RowProvision for income taxes 	20,661 	19,398 	(19,391)
+RowNet income 	$ 67,983 $ 	62,738 $ 	98,414
+RowWeighted-average shares outstanding, basic and diluted 	26,898,443 	26,898,443 	26,898,443
+RowCash dividends per share 	$ 1.24 $ 	1.21 $ 	1.20
+RowBasic and diluted earnings per share 	$ 2.53 $ 	2.33 $ 	3.66
+RowFor the Fiscal Years Ended December 28, 2019, 	2019 	2018 	2017
+RowDecember 29, 2018 and December 30, 2017 	(52 weeks) 	(52 weeks) 	(52 weeks)
+RowNet income 	$ 67,983 	$ 62,738 $ 	98,414
+RowOther comprehensive income (loss) by component, net of tax:
+			RowAvailable-for-sale marketable securities
+			RowUnrealized holding gains (losses) arising during period
+			Row(Net of deferred taxes of $498, $62 and $19, respectively) 	1,255 	(177) 	(43)
+RowAccumulated change in effective tax rate 	- 	- 	1,042
+RowReclassification adjustment for (gains) losses included in net income
+			Row(Net of deferred taxes of $14, $14 and $11, respectively) 	(37) 	40 	29
+RowOther comprehensive income (loss), net of tax 	1,218 	(137) 	1,028
+RowComprehensive income, net of tax 	$ 69,201 	$ 62,601 $ 	99,442
+Row(dollars in thousands, except shares)
+		Other
+		Total
+RowFor the Fiscal Years Ended December 28, 2019,
+Common 	Stock
+Retained
+	Comprehensive
+	Treasury Stock
+	Shareholders’
+RowDecember 29, 2018 and December 30, 2017
+Shares 	Amount
+Earnings
+Income 		(Loss)
+Shares Amount
+	Equity
+RowBalance at December 31, 2016 33,047,807 	$ 9,949 $ 1,062,778 $ 		4,852 6,149,364 $ (150,857) 	$ 926,722
+RowNet income — 	— 98,414 		— — — 	98,414
+RowOther comprehensive income tax reform
+adjustment
+— 	— (1,042) 		1,042 — — 	—
+RowOther comprehensive income, net of
+				Rowreclassification adjustments and tax — 	— — 		(14) — — 	(14)
+RowDividends paid — Balance at December 30, 2017 33,047,807 	— (32,278) $ 9,949 $ 1,127,872 $ 		— — — 5,880 6,149,364 $ (150,857) 	(32,278)
+$ 992,844
+RowNet Income — 	— 62,738 		— — — 	62,738
+RowCumulative effect of accounting principle
+adoption of ASU 2016-01
+— 	— 5,481 		(5,481) — — 	—
+RowOther comprehensive loss, net of
+reclassification adjustments and tax — 	— — 		(137) — — 	(137)
+RowBalance at December 29, 2018 33,047,807 Dividends paid — 	$ 9,949 $ 1,163,545 $ — (32,546) 		262 6,149,364 $ (150,857) — — — 	$ 1,022,899
+(32,546)
+RowNet Income — 	— 67,983 		— — — 	67,983
+RowOther comprehensive loss, net of
+				Rowreclassification adjustments and tax — 	— — 		1,218 — — 	1,218
+RowDividends paid — 	— (33,354) 		— — — 	(33,354)
+RowBalance at December 28, 2019 33,047,807 	$ 9,949 $ 1,198,173 $ 		1,480 6,149,364 $ (150,857) 	$ 1,058,745
+RowSee accompanying notes to Consolidated Financial Statements.
+				Row(dollars in thousands)
+	2019
+	2018
+	2017
+RowCash flows from operating activities:
+			RowNet income
+	$ 67,983
+$ 	62,738 	$
+98,414
+RowAdjustments to reconcile net income to
+			Rownet cash provided by operating activities:
+			RowDepreciation and amortization 	93,706 	93,567 	85,415
+Row(Gain) Loss on disposition of fixed assets 	782 	1,274 	(700)
+RowImpairment of fixed assets 	- 	1,532 	-
+Row(Gain) Loss on sale of marketable securities 	(51) 	54
+	40
+RowUnrealized (gain) loss in value of equity securities 	(1,975) 	1,606 	-
+RowDeferred income taxes 	5,765 	3,418 	(31,993)
+RowUnrealized (gain) loss in SERP 	(135) 	1,883 	(1,114)
+RowChanges in operating assets and liabilities:
+			RowInventories 	950 	(1,247) 	(2,726)
+RowAccounts receivable and prepaid expenses 	2,431 	(5,874) 	4,045
+RowAccounts payable and other liabilities 	(505) 	(18,583) 	7,742
+RowIncome taxes 	913 	9,330 	(422)
+RowOther 	1,822 	565 	446
+RowNet cash provided by operating activities 	171,686 	150,263 	159,147
+RowCash flows from investing activities:
+			RowPurchase of property and equipment 	(101,456) 	(95,696) 	(95,857)
+RowProceeds from the sale of property and equipment 	4,245 	1,734 	2,246
+RowPurchase of marketable securities 	(13,620) 	(5,627) 	(12,612)
+RowProceeds from maturities of marketable securities 	5,985 	6,550 	8,442
+RowProceeds from the sale of marketable securities 	1,180 	5,834 	7,272
+RowPurchase of intangible assets 	(1,489) 	(3,540) 	(3,565)
+RowChange in SERP investment 	(4,114) 	(2,093) 	(2,208)
+RowNet cash used in investing activities 	(109,269) 	(92,838) 	(96,282)
+RowCash flows from financing activities:
+			RowPayments on long-term debt 	- 	(34,988) 	(29,488)
+RowDividends paid 	(33,354) 	(32,546) 	(32,278)
+RowNet cash used in financing activities 	(33,354) 	(67,534) 	(61,766)
+RowNet increase (decrease) in cash and cash equivalents 	29,063 	(10,109) 	1,099
+RowCash and cash equivalents at beginning of year 	37,808 	47,917 	46,818
+RowCash and cash equivalents at end of period 	$ 66,871 $ 	37,808 	$ 47,917
+RowSee accompanying notes to Consolidated Financial Statements. Cash paid for income taxes 	was $14.1 million, $6.5 	million and $13.0 million 	in 2019, 2018 and 2017,
+RowAssets
+		RowCurrent:
+		RowCash and cash equivalents $ 	66,871 $ 	37,808
+RowMarketable securities 	63,538 	54,298
+RowSERP investment 	18,935 	14,686
+RowAccounts receivable, net 	55,764 	57,285
+RowInventories 	279,806 	280,756
+RowPrepaid expenses and other current assets 	23,378 	24,289
+RowTotal current assets 	508,292 	469,122
+RowProperty and equipment, net 	886,928 	887,608
+RowOperating lease right-to-use 	210,196 	-
+RowGoodwill 	52,330 	52,330
+RowIntangible and other assets, net 	17,816 	22,951
+RowTotal assets $ 	1,675,562 $ 	1,432,011
+RowLiabilities
+		RowCurrent:
+		RowAccounts payable $ 	180,718 $ 	191,099
+RowAccrued expenses 	39,528 	45,354
+RowOperating leases 	39,114 	-
+RowAccrued self-insurance 	15,719 	15,516
+RowDeferred revenue, net 	8,662 	7,961
+RowIncome taxes payable 	8,197 	7,283
+RowTotal current liabilities 	291,938 	267,213
+RowPostretirement benefit obligations 	22,143 	18,110
+RowAccrued self-insurance 	17,625 	17,795
+RowOperating leases 	179,654 	-
+RowDeferred income taxes 	97,041 	90,793
+RowOther 	8,416 	15,201
+RowTotal liabilities 	616,817 	409,112
+RowShareholders’ Equity
+Common stock, no par value, 100,800,000 shares authorized, 33,047,807 shares issued,
+		Row26,898,443 shares outstanding 	9,949 	9,949
+RowRetained earnings 	1,198,173 	1,163,545
+RowAccumulated other comprehensive income
+		Row(Net of deferred taxes of $593 in 2019 and $110 in 2018) 	1,480
+	262
+RowTreasury stock at cost, 6,149,364 shares 	1,209,602 (150,857) 	1,173,756
+(150,857)
+RowTotal shareholders’ equity 	1,058,745 	1,022,899
+RowTotal liabilities and shareholders’ equity $ 	1,675,562 $ 	1,432,011
+RowSee accompanying notes to Consolidated Financial Statements.
+		RowFor the Fiscal Years Ended December 28, 2019, 	2019 (52 weeks) 	2018 (52 weeks) 	2017
+(52 weeks)
+RowDecember 29, 2018 and December 30, 2017 			RowNet sales 	$ 3,543,299 $ 	3,509,270 $ 	3,466,807
+RowCost of sales, including advertising, warehousing and distribution expenses 	2,605,105 	2,574,269 	2,554,284
+RowGross profit on sales 	938,194 	935,001 	912,523
+RowOperating, general and administrative expenses 	853,555 	852,330 	834,004
+RowIncome from operations 	84,639 	82,671 	78,519
+RowInvestment income (loss) and interest expense 	7,054 	(1,454) 	2,598
+RowOther income (expense) 	(3,049) 	919 	(2,094)
+RowIncome before provision for income taxes 	88,644 	82,136 	79,023
+RowProvision for income taxes 	20,661 	19,398 	(19,391)
+RowNet income 	$ 67,983 $ 	62,738 $ 	98,414
+RowWeighted-average shares outstanding, basic and diluted 	26,898,443 	26,898,443 	26,898,443
+RowCash dividends per share 	$ 1.24 $ 	1.21 $ 	1.20
+RowBasic and diluted earnings per share 	$ 2.53 $ 	2.33 $ 	3.66
+RowFor the Fiscal Years Ended December 28, 2019, 	2019 	2018 	2017
+RowDecember 29, 2018 and December 30, 2017 	(52 weeks) 	(52 weeks) 	(52 weeks)
+RowNet income 	$ 67,983 	$ 62,738 $ 	98,414
+RowOther comprehensive income (loss) by component, net of tax:
+			RowAvailable-for-sale marketable securities
+			RowUnrealized holding gains (losses) arising during period
+			Row(Net of deferred taxes of $498, $62 and $19, respectively) 	1,255 	(177) 	(43)
+RowAccumulated change in effective tax rate 	- 	- 	1,042
+RowReclassification adjustment for (gains) losses included in net income
+			Row(Net of deferred taxes of $14, $14 and $11, respectively) 	(37) 	40 	29
+RowOther comprehensive income (loss), net of tax 	1,218 	(137) 	1,028
+RowComprehensive income, net of tax 	$ 69,201 	$ 62,601 $ 	99,442
+Row(dollars in thousands, except shares)
+		Other
+		Total
+RowFor the Fiscal Years Ended December 28, 2019,
+Common 	Stock
+Retained
+	Comprehensive
+	Treasury Stock
+	Shareholders’
+RowDecember 29, 2018 and December 30, 2017
+Shares 	Amount
+Earnings
+Income 		(Loss)
+Shares Amount
+	Equity
+RowBalance at December 31, 2016 33,047,807 	$ 9,949 $ 1,062,778 $ 		4,852 6,149,364 $ (150,857) 	$ 926,722
+RowNet income — 	— 98,414 		— — — 	98,414
+RowOther comprehensive income tax reform
+adjustment
+— 	— (1,042) 		1,042 — — 	—
+RowOther comprehensive income, net of
+				Rowreclassification adjustments and tax — 	— — 		(14) — — 	(14)
+RowDividends paid — Balance at December 30, 2017 33,047,807 	— (32,278) $ 9,949 $ 1,127,872 $ 		— — — 5,880 6,149,364 $ (150,857) 	(32,278)
+$ 992,844
+RowNet Income — 	— 62,738 		— — — 	62,738
+RowCumulative effect of accounting principle
+adoption of ASU 2016-01
+— 	— 5,481 		(5,481) — — 	—
+RowOther comprehensive loss, net of
+reclassification adjustments and tax — 	— — 		(137) — — 	(137)
+RowBalance at December 29, 2018 33,047,807 Dividends paid — 	$ 9,949 $ 1,163,545 $ — (32,546) 		262 6,149,364 $ (150,857) — — — 	$ 1,022,899
+(32,546)
+RowNet Income — 	— 67,983 		— — — 	67,983
+RowOther comprehensive loss, net of
+				Rowreclassification adjustments and tax — 	— — 		1,218 — — 	1,218
+RowDividends paid — 	— (33,354) 		— — — 	(33,354)
+RowBalance at December 28, 2019 33,047,807 	$ 9,949 $ 1,198,173 $ 		1,480 6,149,364 $ (150,857) 	$ 1,058,745
+RowSee accompanying notes to Consolidated Financial Statements.
+				Row(dollars in thousands)
+	2019
+	2018
+	2017
+RowCash flows from operating activities:
+			RowNet income
+	$ 67,983
+$ 	62,738 	$
+98,414
+RowAdjustments to reconcile net income to
+			Rownet cash provided by operating activities:
+			RowDepreciation and amortization 	93,706 	93,567 	85,415
+Row(Gain) Loss on disposition of fixed assets 	782 	1,274 	(700)
+RowImpairment of fixed assets 	- 	1,532 	-
+Row(Gain) Loss on sale of marketable securities 	(51) 	54
+	40
+RowUnrealized (gain) loss in value of equity securities 	(1,975) 	1,606 	-
+RowDeferred income taxes 	5,765 	3,418 	(31,993)
+RowUnrealized (gain) loss in SERP 	(135) 	1,883 	(1,114)
+RowChanges in operating assets and liabilities:
+			RowInventories 	950 	(1,247) 	(2,726)
+RowAccounts receivable and prepaid expenses 	2,431 	(5,874) 	4,045
+RowAccounts payable and other liabilities 	(505) 	(18,583) 	7,742
+RowIncome taxes 	913 	9,330 	(422)
+RowOther 	1,822 	565 	446
+RowNet cash provided by operating activities 	171,686 	150,263 	159,147
+RowCash flows from investing activities:
+			RowPurchase of property and equipment 	(101,456) 	(95,696) 	(95,857)
+RowProceeds from the sale of property and equipment 	4,245 	1,734 	2,246
+RowPurchase of marketable securities 	(13,620) 	(5,627) 	(12,612)
+RowProceeds from maturities of marketable securities 	5,985 	6,550 	8,442
+RowProceeds from the sale of marketable securities 	1,180 	5,834 	7,272
+RowPurchase of intangible assets 	(1,489) 	(3,540) 	(3,565)
+RowChange in SERP investment 	(4,114) 	(2,093) 	(2,208)
+RowNet cash used in investing activities 	(109,269) 	(92,838) 	(96,282)
+RowCash flows from financing activities:
+			RowPayments on long-term debt 	- 	(34,988) 	(29,488)
+RowDividends paid 	(33,354) 	(32,546) 	(32,278)
+RowNet cash used in financing activities 	(33,354) 	(67,534) 	(61,766)
+RowNet increase (decrease) in cash and cash equivalents 	29,063 	(10,109) 	1,099
+RowCash and cash equivalents at beginning of year 	37,808 	47,917 	46,818
+RowCash and cash equivalents at end of period 	$ 66,871 $ 	37,808 	$ 47,917
+RowSee accompanying notes to Consolidated Financial Statements. Cash paid for income taxes 	was $14.1 million, $6.5 	million and $13.0 million 	in 2019, 2018 and 2017,
+RowAssets
+		RowCurrent:
+		RowCash and cash equivalents $ 	66,871 $ 	37,808
+RowMarketable securities 	63,538 	54,298
+RowSERP investment 	18,935 	14,686
+RowAccounts receivable, net 	55,764 	57,285
+RowInventories 	279,806 	280,756
+RowPrepaid expenses and other current assets 	23,378 	24,289
+RowTotal current assets 	508,292 	469,122
+RowProperty and equipment, net 	886,928 	887,608
+RowOperating lease right-to-use 	210,196 	-
+RowGoodwill 	52,330 	52,330
+RowIntangible and other assets, net 	17,816 	22,951
+RowTotal assets $ 	1,675,562 $ 	1,432,011
+RowLiabilities
+		RowCurrent:
+		RowAccounts payable $ 	180,718 $ 	191,099
+RowAccrued expenses 	39,528 	45,354
+RowOperating leases 	39,114 	-
+RowAccrued self-insurance 	15,719 	15,516
+RowDeferred revenue, net 	8,662 	7,961
+RowIncome taxes payable 	8,197 	7,283
+RowTotal current liabilities 	291,938 	267,213
+RowPostretirement benefit obligations 	22,143 	18,110
+RowAccrued self-insurance 	17,625 	17,795
+RowOperating leases 	179,654 	-
+RowDeferred income taxes 	97,041 	90,793
+RowOther 	8,416 	15,201
+RowTotal liabilities 	616,817 	409,112
+RowShareholders’ Equity
+Common stock, no par value, 100,800,000 shares authorized, 33,047,807 shares issued,
+		Row26,898,443 shares outstanding 	9,949 	9,949
+RowRetained earnings 	1,198,173 	1,163,545
+RowAccumulated other comprehensive income
+		Row(Net of deferred taxes of $593 in 2019 and $110 in 2018) 	1,480
+	262
+RowTreasury stock at cost, 6,149,364 shares 	1,209,602 (150,857) 	1,173,756
+(150,857)
+RowTotal shareholders’ equity 	1,058,745 	1,022,899
+RowTotal liabilities and shareholders’ equity $ 	1,675,562 $ 	1,432,011
+RowSee accompanying notes to Consolidated Financial Statements.
+		RowFor the Fiscal Years Ended December 28, 2019, 	2019 (52 weeks) 	2018 (52 weeks) 	2017
+(52 weeks)
+RowDecember 29, 2018 and December 30, 2017 			RowNet sales 	$ 3,543,299 $ 	3,509,270 $ 	3,466,807
+RowCost of sales, including advertising, warehousing and distribution expenses 	2,605,105 	2,574,269 	2,554,284
+RowGross profit on sales 	938,194 	935,001 	912,523
+RowOperating, general and administrative expenses 	853,555 	852,330 	834,004
+RowIncome from operations 	84,639 	82,671 	78,519
+RowInvestment income (loss) and interest expense 	7,054 	(1,454) 	2,598
+RowOther income (expense) 	(3,049) 	919 	(2,094)
+RowIncome before provision for income taxes 	88,644 	82,136 	79,023
+RowProvision for income taxes 	20,661 	19,398 	(19,391)
+RowNet income 	$ 67,983 $ 	62,738 $ 	98,414
+RowWeighted-average shares outstanding, basic and diluted 	26,898,443 	26,898,443 	26,898,443
+RowCash dividends per share 	$ 1.24 $ 	1.21 $ 	1.20
+RowBasic and diluted earnings per share 	$ 2.53 $ 	2.33 $ 	3.66
+RowFor the Fiscal Years Ended December 28, 2019, 	2019 	2018 	2017
+RowDecember 29, 2018 and December 30, 2017 	(52 weeks) 	(52 weeks) 	(52 weeks)
+RowNet income 	$ 67,983 	$ 62,738 $ 	98,414
+RowOther comprehensive income (loss) by component, net of tax:
+			RowAvailable-for-sale marketable securities
+			RowUnrealized holding gains (losses) arising during period
+			Row(Net of deferred taxes of $498, $62 and $19, respectively) 	1,255 	(177) 	(43)
+RowAccumulated change in effective tax rate 	- 	- 	1,042
+RowReclassification adjustment for (gains) losses included in net income
+			Row(Net of deferred taxes of $14, $14 and $11, respectively) 	(37) 	40 	29
+RowOther comprehensive income (loss), net of tax 	1,218 	(137) 	1,028
+RowComprehensive income, net of tax 	$ 69,201 	$ 62,601 $ 	99,442
+Row(dollars in thousands, except shares)
+		Other
+		Total
+RowFor the Fiscal Years Ended December 28, 2019,
+Common 	Stock
+Retained
+	Comprehensive
+	Treasury Stock
+	Shareholders’
+RowDecember 29, 2018 and December 30, 2017
+Shares 	Amount
+Earnings
+Income 		(Loss)
+Shares Amount
+	Equity
+RowBalance at December 31, 2016 33,047,807 	$ 9,949 $ 1,062,778 $ 		4,852 6,149,364 $ (150,857) 	$ 926,722
+RowNet income — 	— 98,414 		— — — 	98,414
+RowOther comprehensive income tax reform
+adjustment
+— 	— (1,042) 		1,042 — — 	—
+RowOther comprehensive income, net of
+				Rowreclassification adjustments and tax — 	— — 		(14) — — 	(14)
+RowDividends paid — Balance at December 30, 2017 33,047,807 	— (32,278) $ 9,949 $ 1,127,872 $ 		— — — 5,880 6,149,364 $ (150,857) 	(32,278)
+$ 992,844
+RowNet Income — 	— 62,738 		— — — 	62,738
+RowCumulative effect of accounting principle
+adoption of ASU 2016-01
+— 	— 5,481 		(5,481) — — 	—
+RowOther comprehensive loss, net of
+reclassification adjustments and tax — 	— — 		(137) — — 	(137)
+RowBalance at December 29, 2018 33,047,807 Dividends paid — 	$ 9,949 $ 1,163,545 $ — (32,546) 		262 6,149,364 $ (150,857) — — — 	$ 1,022,899
+(32,546)
+RowNet Income — 	— 67,983 		— — — 	67,983
+RowOther comprehensive loss, net of
+				Rowreclassification adjustments and tax — 	— — 		1,218 — — 	1,218
+RowDividends paid — 	— (33,354) 		— — — 	(33,354)
+RowBalance at December 28, 2019 33,047,807 	$ 9,949 $ 1,198,173 $ 		1,480 6,149,364 $ (150,857) 	$ 1,058,745
+RowSee accompanying notes to Consolidated Financial Statements.
+				Row(dollars in thousands)
+	2019
+	2018
+	2017
+RowCash flows from operating activities:
+			RowNet income
+	$ 67,983
+$ 	62,738 	$
+98,414
+RowAdjustments to reconcile net income to
+			Rownet cash provided by operating activities:
+			RowDepreciation and amortization 	93,706 	93,567 	85,415
+Row(Gain) Loss on disposition of fixed assets 	782 	1,274 	(700)
+RowImpairment of fixed assets 	- 	1,532 	-
+Row(Gain) Loss on sale of marketable securities 	(51) 	54
+	40
+RowUnrealized (gain) loss in value of equity securities 	(1,975) 	1,606 	-
+RowDeferred income taxes 	5,765 	3,418 	(31,993)
+RowUnrealized (gain) loss in SERP 	(135) 	1,883 	(1,114)
+RowChanges in operating assets and liabilities:
+			RowInventories 	950 	(1,247) 	(2,726)
+RowAccounts receivable and prepaid expenses 	2,431 	(5,874) 	4,045
+RowAccounts payable and other liabilities 	(505) 	(18,583) 	7,742
+RowIncome taxes 	913 	9,330 	(422)
+RowOther 	1,822 	565 	446
+RowNet cash provided by operating activities 	171,686 	150,263 	159,147
+RowCash flows from investing activities:
+			RowPurchase of property and equipment 	(101,456) 	(95,696) 	(95,857)
+RowProceeds from the sale of property and equipment 	4,245 	1,734 	2,246
+RowPurchase of marketable securities 	(13,620) 	(5,627) 	(12,612)
+RowProceeds from maturities of marketable securities 	5,985 	6,550 	8,442
+RowProceeds from the sale of marketable securities 	1,180 	5,834 	7,272
+RowPurchase of intangible assets 	(1,489) 	(3,540) 	(3,565)
+RowChange in SERP investment 	(4,114) 	(2,093) 	(2,208)
+RowNet cash used in investing activities 	(109,269) 	(92,838) 	(96,282)
+RowCash flows from financing activities:
+			RowPayments on long-term debt 	- 	(34,988) 	(29,488)
+RowDividends paid 	(33,354) 	(32,546) 	(32,278)
+RowNet cash used in financing activities 	(33,354) 	(67,534) 	(61,766)
+RowNet increase (decrease) in cash and cash equivalents 	29,063 	(10,109) 	1,099
+RowCash and cash equivalents at beginning of year 	37,808 	47,917 	46,818
+RowCash and cash equivalents at end of period 	$ 66,871 $ 	37,808 	$ 47,917
+RowSee accompanying notes to Consolidated Financial Statements. Cash paid for income taxes 	was $14.1 million, $6.5 	million and $13.0 million 	in 2019, 2018 and 2017,
+RowAssets
+		RowCurrent:
+		RowCash and cash equivalents $ 	66,871 $ 	37,808
+RowMarketable securities 	63,538 	54,298
+RowSERP investment 	18,935 	14,686
+RowAccounts receivable, net 	55,764 	57,285
+RowInventories 	279,806 	280,756
+RowPrepaid expenses and other current assets 	23,378 	24,289
+RowTotal current assets 	508,292 	469,122
+RowProperty and equipment, net 	886,928 	887,608
+RowOperating lease right-to-use 	210,196 	-
+RowGoodwill 	52,330 	52,330
+RowIntangible and other assets, net 	17,816 	22,951
+RowTotal assets $ 	1,675,562 $ 	1,432,011
+RowLiabilities
+		RowCurrent:
+		RowAccounts payable $ 	180,718 $ 	191,099
+RowAccrued expenses 	39,528 	45,354
+RowOperating leases 	39,114 	-
+RowAccrued self-insurance 	15,719 	15,516
+RowDeferred revenue, net 	8,662 	7,961
+RowIncome taxes payable 	8,197 	7,283
+RowTotal current liabilities 	291,938 	267,213
+RowPostretirement benefit obligations 	22,143 	18,110
+RowAccrued self-insurance 	17,625 	17,795
+RowOperating leases 	179,654 	-
+RowDeferred income taxes 	97,041 	90,793
+RowOther 	8,416 	15,201
+RowTotal liabilities 	616,817 	409,112
+RowShareholders’ Equity
+Common stock, no par value, 100,800,000 shares authorized, 33,047,807 shares issued,
+		Row26,898,443 shares outstanding 	9,949 	9,949
+RowRetained earnings 	1,198,173 	1,163,545
+RowAccumulated other comprehensive income
+		Row(Net of deferred taxes of $593 in 2019 and $110 in 2018) 	1,480
+	262
+RowTreasury stock at cost, 6,149,364 shares 	1,209,602 (150,857) 	1,173,756
+(150,857)
+RowTotal shareholders’ equity 	1,058,745 	1,022,899
+RowTotal liabilities and shareholders’ equity $ 	1,675,562 $ 	1,432,011
+RowSee accompanying notes to Consolidated Financial Statements.
+		RowFor the Fiscal Years Ended December 28, 2019, 	2019 (52 weeks) 	2018 (52 weeks) 	2017
+(52 weeks)
+RowDecember 29, 2018 and December 30, 2017 			RowNet sales 	$ 3,543,299 $ 	3,509,270 $ 	3,466,807
+RowCost of sales, including advertising, warehousing and distribution expenses 	2,605,105 	2,574,269 	2,554,284
+RowGross profit on sales 	938,194 	935,001 	912,523
+RowOperating, general and administrative expenses 	853,555 	852,330 	834,004
+RowIncome from operations 	84,639 	82,671 	78,519
+RowInvestment income (loss) and interest expense 	7,054 	(1,454) 	2,598
+RowOther income (expense) 	(3,049) 	919 	(2,094)
+RowIncome before provision for income taxes 	88,644 	82,136 	79,023
+RowProvision for income taxes 	20,661 	19,398 	(19,391)
+RowNet income 	$ 67,983 $ 	62,738 $ 	98,414
+RowWeighted-average shares outstanding, basic and diluted 	26,898,443 	26,898,443 	26,898,443
+RowCash dividends per share 	$ 1.24 $ 	1.21 $ 	1.20
+RowBasic and diluted earnings per share 	$ 2.53 $ 	2.33 $ 	3.66
+RowFor the Fiscal Years Ended December 28, 2019, 	2019 	2018 	2017
+RowDecember 29, 2018 and December 30, 2017 	(52 weeks) 	(52 weeks) 	(52 weeks)
+RowNet income 	$ 67,983 	$ 62,738 $ 	98,414
+RowOther comprehensive income (loss) by component, net of tax:
+			RowAvailable-for-sale marketable securities
+			RowUnrealized holding gains (losses) arising during period
+			Row(Net of deferred taxes of $498, $62 and $19, respectively) 	1,255 	(177) 	(43)
+RowAccumulated change in effective tax rate 	- 	- 	1,042
+RowReclassification adjustment for (gains) losses included in net income
+			Row(Net of deferred taxes of $14, $14 and $11, respectively) 	(37) 	40 	29
+RowOther comprehensive income (loss), net of tax 	1,218 	(137) 	1,028
+RowComprehensive income, net of tax 	$ 69,201 	$ 62,601 $ 	99,442
+Row(dollars in thousands, except shares)
+		Other
+		Total
+RowFor the Fiscal Years Ended December 28, 2019,
+Common 	Stock
+Retained
+	Comprehensive
+	Treasury Stock
+	Shareholders’
+RowDecember 29, 2018 and December 30, 2017
+Shares 	Amount
+Earnings
+Income 		(Loss)
+Shares Amount
+	Equity
+RowBalance at December 31, 2016 33,047,807 	$ 9,949 $ 1,062,778 $ 		4,852 6,149,364 $ (150,857) 	$ 926,722
+RowNet income — 	— 98,414 		— — — 	98,414
+RowOther comprehensive income tax reform
+adjustment
+— 	— (1,042) 		1,042 — — 	—
+RowOther comprehensive income, net of
+				Rowreclassification adjustments and tax — 	— — 		(14) — — 	(14)
+RowDividends paid — Balance at December 30, 2017 33,047,807 	— (32,278) $ 9,949 $ 1,127,872 $ 		— — — 5,880 6,149,364 $ (150,857) 	(32,278)
+$ 992,844
+RowNet Income — 	— 62,738 		— — — 	62,738
+RowCumulative effect of accounting principle
+adoption of ASU 2016-01
+— 	— 5,481 		(5,481) — — 	—
+RowOther comprehensive loss, net of
+reclassification adjustments and tax — 	— — 		(137) — — 	(137)
+RowBalance at December 29, 2018 33,047,807 Dividends paid — 	$ 9,949 $ 1,163,545 $ — (32,546) 		262 6,149,364 $ (150,857) — — — 	$ 1,022,899
+(32,546)
+RowNet Income — 	— 67,983 		— — — 	67,983
+RowOther comprehensive loss, net of
+				Rowreclassification adjustments and tax — 	— — 		1,218 — — 	1,218
+RowDividends paid — 	— (33,354) 		— — — 	(33,354)
+RowBalance at December 28, 2019 33,047,807 	$ 9,949 $ 1,198,173 $ 		1,480 6,149,364 $ (150,857) 	$ 1,058,745
+RowSee accompanying notes to Consolidated Financial Statements.
+				Row(dollars in thousands)
+	2019
+	2018
+	2017
+RowCash flows from operating activities:
+			RowNet income
+	$ 67,983
+$ 	62,738 	$
+98,414
+RowAdjustments to reconcile net income to
+			Rownet cash provided by operating activities:
+			RowDepreciation and amortization 	93,706 	93,567 	85,415
+Row(Gain) Loss on disposition of fixed assets 	782 	1,274 	(700)
+RowImpairment of fixed assets 	- 	1,532 	-
+Row(Gain) Loss on sale of marketable securities 	(51) 	54
+	40
+RowUnrealized (gain) loss in value of equity securities 	(1,975) 	1,606 	-
+RowDeferred income taxes 	5,765 	3,418 	(31,993)
+RowUnrealized (gain) loss in SERP 	(135) 	1,883 	(1,114)
+RowChanges in operating assets and liabilities:
+			RowInventories 	950 	(1,247) 	(2,726)
+RowAccounts receivable and prepaid expenses 	2,431 	(5,874) 	4,045
+RowAccounts payable and other liabilities 	(505) 	(18,583) 	7,742
+RowIncome taxes 	913 	9,330 	(422)
+RowOther 	1,822 	565 	446
+RowNet cash provided by operating activities 	171,686 	150,263 	159,147
+RowCash flows from investing activities:
+			RowPurchase of property and equipment 	(101,456) 	(95,696) 	(95,857)
+RowProceeds from the sale of property and equipment 	4,245 	1,734 	2,246
+RowPurchase of marketable securities 	(13,620) 	(5,627) 	(12,612)
+RowProceeds from maturities of marketable securities 	5,985 	6,550 	8,442
+RowProceeds from the sale of marketable securities 	1,180 	5,834 	7,272
+RowPurchase of intangible assets 	(1,489) 	(3,540) 	(3,565)
+RowChange in SERP investment 	(4,114) 	(2,093) 	(2,208)
+RowNet cash used in investing activities 	(109,269) 	(92,838) 	(96,282)
+RowCash flows from financing activities:
+			RowPayments on long-term debt 	- 	(34,988) 	(29,488)
+RowDividends paid 	(33,354) 	(32,546) 	(32,278)
+RowNet cash used in financing activities 	(33,354) 	(67,534) 	(61,766)
+RowNet increase (decrease) in cash and cash equivalents 	29,063 	(10,109) 	1,099
+RowCash and cash equivalents at beginning of year 	37,808 	47,917 	46,818
+RowCash and cash equivalents at end of period 	$ 66,871 $ 	37,808 	$ 47,917
+RowSee accompanying notes to Consolidated Financial Statements. Cash paid for income taxes 	was $14.1 million, $6.5 	million and $13.0 million 	in 2019, 2018 and 2017,

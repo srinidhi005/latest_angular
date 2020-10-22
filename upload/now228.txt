@@ -1,0 +1,85 @@
+Row:ASSETS
+Current assets:
+		Row:Cash and cash equivalents $ 	116 $ 98
+	Row:Receivables, net 	482 423
+	Row:Inventories, net Prepaid and other current assets 	602 590
+19 18
+	Row:Total current assets 	1,219 1,129
+	Row:Property, plant and equipment, net 	106 119
+	Row:Deferred income taxes 	2 2
+	Row:Goodwill 	314 328
+	Row:Intangibles, net 	144 166
+	Row:Other assets 	10 5
+	Row:Total assets $ 	1,795 $ 1,749
+	Row:LIABILITIES AND STOCKHOLDERS' EQUITY
+		Row:Current liabilities:
+Accounts payable $ 	329 $ 290
+	Row:Accrued liabilities Other current liabilities 	110 103
+2 1
+	Row:Total current liabilities 	441 394
+	Row:Long-term debt 	132 162
+	Row:Deferred income taxes 	6 7
+	Row:Other long-term liabilities 	2 1
+	Row:Total liabilities 	581 564
+	Row:Commitments and contingencies
+		Row:Stockholders' equity:
+		Row:Preferred stock—par value $0.01; 20 million shares authorized; no shares issued
+and outstanding 	— —
+	Row:Common stock - par value $0.01; 330 million shares authorized; 108,426,962 and 108,030,438 shares
+issued and outstanding at December 31, 2018 and 2017, respectively 	1 1
+	Row:Additional paid-in capital 	2,034 2,019
+	Row:Accumulated deficit Accumulated other comprehensive loss 	(678) (730 (143) (105 	)
+)
+Row:Total stockholders' equity 	1,214 1,185
+	Row:Total liabilities and stockholders' equity $ 	1,795 $ 1,749
+	Row:	2018 	2017 	2016
+Row:Revenue 	$ 3,127 	$ 2,648 	$ 2,107
+Row:Operating expenses:
+			Row:Cost of products 	2,497 	2,147 	1,762
+Row:Warehousing, selling and administrative 	557 	542 	567
+Row:Operating profit (loss) 	73 	(41) 	(222)
+Row:Other expense 	(15) 	(11) 	(8)
+Row:Income (loss) before income taxes 	58 	(52) 	(230)
+Row:Income tax provision (benefit) 	6 	— 	4
+Row:Net income (loss) 	$ 52 	$ (52) 	$ (234)
+Row:Earnings (loss) per share:
+			Row:Basic earnings (loss) per common share 	$ 0.47 	$ (0.48) 	$ (2.18)
+Row:Diluted earnings (loss) per common share 	$ 0.47 	$ (0.48) 	$ (2.18)
+Row:Weighted-average common shares outstanding, basic 	108 	108 	107
+Row:Weighted-average common shares outstanding, diluted 	109 	108 	107
+Row:Cash 	flows from operating activities:
+	Row:Net 	income (loss) $ 	52 $ (52) $ (234 )
+Row:	Adjustments to reconcile net income (loss) to net cash provided by (used in) operating
+activities:
+	Row:	Depreciation and amortization 	41 50 53
+Row:	Deferred income taxes 	(1) (1) (2 )
+Row:	Stock-based compensation 	16 20 23
+Row:	Provision for doubtful accounts Provision for inventory 	2 3 17
+8 11 36
+Row:	Other, net 	1 (11) —
+Row:Change 	in operating assets and liabilities, net of acquisitions:
+	Row:	Receivables 	(69) (64) 102
+Row:	Inventories 	(30) (110) 190
+Row:	Prepaid and other current assets 	(1) (2) 4
+Row:	Accounts payable and accrued liabilities 	54 43 22
+Row:	Income taxes receivable, net 	— — 25
+Row:	Other assets / liabilities, net 	— (2) (1 )
+Row:	Net cash provided by (used in) operating activities 	73 (115) 235
+Row:Cash 	flows from investing activities:
+	Row:	Purchases of property, plant and equipment 	(11) (4) (4 )
+Row:	Business acquisitions, net of cash acquired Purchases of intangible assets Proceeds from disposal of assets, and other 	— (4) (175 )
+— — (7 )
+2 16 3
+Row:Cash 	Net cash provided by (used in) investing activities flows from financing activities:
+	(9) 8 (183 )
+Row:	Borrowing under the revolving credit facility 	503 359 253
+Row:	Repayments under the revolving credit facility 	(533) (262) (296 )
+Row:	Other, net 	(7) (3) (4 )
+Row:	Net cash provided by (used in) financing activities 	(37) 94 (47 )
+Row:Effect 	of exchange rates on cash and cash equivalents 	(9) 5 11
+Row:Net 	change in cash and cash equivalents 	18 (8) 16
+Row:	Cash and cash equivalents, beginning of period 	98 106 90
+Row:	Cash and cash equivalents, end of period $ 	116 $ 98 $ 106
+Row:Supplemental 	disclosures of cash flow information:
+	Row:	Income taxes paid (refunded), net $ 	6 $ 2 $ (23 )
+Row:	Interest paid $ 	9 $ 6 $ 4

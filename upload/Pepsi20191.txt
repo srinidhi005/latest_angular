@@ -1,0 +1,84 @@
+Row:	2018 	2017 	2016
+Row:Net Revenue $ 	64,661 	$ 63,525 	$ 62,799
+Row:Cost of sales 	29,381 	28,796 	28,222
+Row:Gross profit 	35,280 	34,729 	34,577
+Row:Selling, general and administrative expenses 	25,170 	24,453 	24,773
+Row:Operating Profit 	10,110 	10,276 	9,804
+Row:Other pension and retiree medical benefits income/(expense) 	298 	233 	(19)
+Row:Interest expense 	(1,525) 	(1,151) 	(1,342)
+Row:Interest income and other 	306 	244 	110
+Row:Income before income taxes 	9,189 	9,602 	8,553
+Row:(Benefit from)/provision for income taxes (See Note 5) 	(3,370) 	4,694 	2,174
+Row:Net income 	12,559 	4,908 	6,379
+Row:Less: Net income attributable to noncontrolling interests 	44 	51 	50
+Row:Net Income Attributable to PepsiCo $ 	12,515 	$ 4,857 	$ 6,329
+Row:Net Income Attributable to PepsiCo per Common Share
+			Row:Basic $ 	8.84 	$ 3.40 	$ 4.39
+Row:Diluted $ 	8.78 	$ 3.38 	$ 4.36
+Row:Weighted-average common shares outstanding
+			Row:Basic 	1,415 	1,425 	1,439
+Row:Diluted 	1,425 	1,438 	1,452
+Row:	2018 2017 	2016
+Row:Operating Activities
+		Row:Net income $ 12,559 	$ 4,908 	$ 6,379
+Row:Depreciation and amortization 	2,399 2,369 	2,368
+Row:Share-based compensation expense 	256 292 	284
+Row:Restructuring and impairment charges 	308 295 	160
+Row:Cash payments for restructuring charges 	(255) (113) 	(125)
+Row:Charge related to the transaction with Tingyi 	— — 	373
+Row:Pension and retiree medical plan expenses 	221 221 	501
+Row:Pension and retiree medical plan contributions 	(1,708) (220) 	(695)
+Row:Deferred income taxes and other tax charges and credits 	(531) 619 	452
+Row:Other net tax benefits related to international reorganizations 	(4,347) — 	—
+Row:Net tax (benefit)/expense related to the TCJ Act 	(28) 2,451 	—
+Row:Change in assets and liabilities:
+		Row:Accounts and notes receivable 	(253) (202) 	(349)
+Row:Inventories 	(174) (168) 	(75)
+Row:Prepaid expenses and other current assets 	9 20 	10
+Row:Accounts payable and other current liabilities 	882 201 	981
+Row:Income taxes payable 	333 (338) 	329
+Row:Other, net 	(256) (305) 	70
+Row:Net Cash Provided by Operating Activities 	9,415 10,030 	10,663
+Row:Investing Activities
+		Row:Capital spending 	(3,282) (2,969) 	(3,040)
+Row:Sales of property, plant and equipment 	134 180 	99
+Row:Acquisition of SodaStream, net of cash and cash equivalents acquired 	(1,197) — 	—
+Row:Other acquisitions and investments in noncontrolled affiliates 	(299) (61) 	(212)
+Row:Divestitures 	505 267 	85
+Row:Short-term investments, by original maturity:
+		Row:More than three months - purchases 	(5,637) (18,385) 	(12,504)
+Row:More than three months - maturities 12,824 	15,744 	8,399
+Row:Proceeds from issuances of long-term debt 	— 	7,509 	7,818
+Row:Payments of long-term debt 	(4,007) 	(4,406) 	(3,105)
+Row:Cash tender and exchange offers/debt redemptions 	(1,589) 	— 	(2,504)
+Row:Short-term borrowings, by original maturity:
+			Row:More than three months - proceeds 	3 	91 	59
+Row:More than three months - payments 	(17) 	(128) 	(27)
+Row:Three months or less, net 	(1,352) 	(1,016) 	1,505
+Row:Cash dividends paid 	(4,930) 	(4,472) 	(4,227)
+Row:Share repurchases - common 	(2,000) 	(2,000) 	(3,000)
+Row:Share repurchases - preferred 	(2) 	(5) 	(7)
+Row:Proceeds from exercises of stock options 	281 	462 	465
+Row:Withholding tax payments on RSUs, PSUs and PEPunits converted 	(103) 	(145) 	(130)
+Row:Other financing 	(53) 	(76) 	(58)
+Row:Net Cash Used for Financing Activities 	(13,769) 	(4,186) 	(3,211)
+Row:Effect of exchange rate changes on cash and cash equivalents and restricted cash 	(98) 	47 	(252)
+Row:Net Increase in Cash and Cash Equivalents and Restricted Cash 	112 	1,488 	50
+Row:ASSETS
+	Row:Current Assets
+Cash and cash equivalents 	$ 8,721 $ 10,610
+Row:Short-term investments 	272 8,900
+Row:Restricted cash 	1,997 —
+Row:Accounts and notes receivable, net 	7,142 7,024
+Row:Inventories 	3,128 2,947
+Row:Prepaid expenses and other current assets 	633 1,546
+Row:Total Current Assets 	21,893 31,027
+Row:Property, Plant and Equipment, net 	17,589 17,240
+Row:Amortizable Intangible Assets, net 	1,644 1,268
+Row:Goodwill 	14,808 14,744
+Row:Other indefinite-lived intangible assets 	14,181 12,570
+Row:Indefinite-Lived Intangible Assets 	28,989 27,314
+Row:Investments in Noncontrolled Affiliates 	2,409 2,042
+Row:Deferred Income Taxes 	4,364 —
+Row:Other Assets 	760 913
+Row:Total Assets 	$ 77,648 $ 79,804

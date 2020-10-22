@@ -1,0 +1,115 @@
+Row:Assets
+		Row:Real estate investments, , net 	$ 7,331,460 	$ 3,662,045
+Row:Land rights, , net 	673,207 	640,148
+Row:Property and equipment, , used in operations, net 	100,884 	108,293
+Row:Mortgage loans receivable 	303,684 	—
+Row:Investment in direct financing lease, , net 	— 	2,637,639
+Row:Cash and cash equivalents 	25,783 	29,054
+Row:Prepaid expenses 	30,967 	8,452
+Row:Goodwill 	16,067 	75,521
+Row:Other intangible assets 	9,577 	9,577
+Row:Loan receivable 	13,000 	13,000
+Row:Deferred tax assets 	5,178 	4,478
+Row:Other assets 	67,486 	58,675
+Row:Total assets 	$ 8,577,293 	$ 7,246,882
+Row:Accounts payable 	$ 2,511 	$ 715
+Row:Accrued expenses 	30,297 	7,913
+Row:Accrued interest 	45,261 	33,241
+Row:Accrued salaries and wages 	17,010 	10,809
+Row:Gaming, property, and other taxes 	42,879 	35,399
+Row:Long-term debt, , net of unamortized debt issuance costs, bond premiums and original issuance discounts 	5,853,497 	4,442,880
+Row:Deferred rental revenue 	293,911 	232,023
+Row:Deferred tax liabilities 	261 	244
+Row:Other liabilities 	26,059 	25,411
+Row:Total liabilities 	6,311,686 	4,788,635
+Row:Common stock ($.01 par value, 500,000,000 shares authorized, 214,211,932 	and 212,717,549 shares issued 	and
+Row:outstanding at December 31, 2018 and December 31, 2017, , respectively) 		2,142 2,127
+Row:Additional paid-in capital 		3,952,503 3,933,829
+Row:Accumulated deficit 		(1,689,038) (1,477,709)
+Row:Total shareholders’ ' equity 		2,265,607 2,458,247
+Row:Total liabilities and shareholders’ equity 		$ 8,577,293 $ 7,246,882
+Row:2,142 	2,127
+Row:3,952,503 	3,933,829
+Row:(1,689,038) 	(1,477,709)
+Row:2,265,607 	2,458,247
+Row:$ 8,577,293 $ 	7,246,882
+Row:Year ended December 31, ,
+	2018 	2017 	2016
+Row:Revenues
+			Row:Rental income 	$ 747,654 	$ 671,190 	$ 567,444
+Row:Income from direct financing lease 	81,119 	74,333 	48,917
+Row:Interest income from mortgaged real estate 	6,943 	— 	—
+Row:Real estate taxes paid by tenants 	87,466 	83,698 	67,843
+Row:Total income from real estate 	923,182 	829,221 	684,204
+Row:Gaming, , food, beverage and other 	132,545 	142,086 	144,051
+Row:Total revenues 	1,055,727 	971,307 	828,255
+Row:Operating expenses
+			Row:Gaming, , food, beverage and other 	77,127 	80,487 	82,463
+Row:Real estate taxes 	88,757 	84,666 	69,448
+Row:Land rights and ground lease expense 	28,358 	24,005 	14,799
+Row:General and administrative 	71,128 	63,151 	71,368
+Row:Depreciation 	137,093 	113,480 	109,554
+Row:Goodwill impairment charges 	59,454 	— 	—
+Row:Total operating expenses 	461,917 	365,789 	347,632
+Row:Income from operations 	593,810 	605,518 	480,623
+Row:Other income (expenses)
+			Row:Interest expense 	(247,684) 	(217,068) 	(185,896)
+Row:Interest income 	1,827 	1,935 	2,123
+Row:Losses on debt extinguishment 	(3,473) 	— 	—
+Row:Total other expenses 	(249,330) 	(215,133) 	(183,773)
+Row:Income before income taxes 	344,480 	390,385 	296,850
+Row:Income tax expense 	4,964 	9,787 	7,545
+Row:Net income 	$ 339,516 	$ 380,598 	$ 289,305
+Row:Earnings per common share:
+			Row:Basic earnings per common share 	$ 1.59 	$ 1.80 	$ 1.62
+Row:Diluted earnings per common share 	$ 1.58 	$ 1.79 	$ 1.60
+Row:Year ended December 31, 	2018 	2017 	2016
+Row:Operating activities
+			Row:Net income $ 	339,516 	$ 380,598 	$ 289,305
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+:
+			Row:Depreciation and amortization 	148,365 	123,835 	115,717
+Row:Amortization of debt issuance costs, bond premiums and original issuance discounts 	12,167 	13,026 	15,146
+Row:Losses (gains) ) on dispositions of property 	309 	530 	(455)
+Row:Deferred income taxes 	(522) 	(561) 	(1,535)
+Row:Stock-based compensation 	11,152 	15,636 	18,312
+Row:Straight-line rent adjustments 	61,888 	65,971 	58,673
+Row:Losses on debt extinguishment 	3,473 	— 	—
+Row:Goodwill impairment charges 	59,454 	— 	—
+Row:(Increase) decrease,
+,
+			Row:Prepaid expenses and other assets 	(673) 	(5,332) 	7,565
+Row:(Decrease), , increase
+			Row:Accounts payable 	1,796 	(421) 	506
+Row:Accrued expenses 	(126) 	411 	(4,672)
+Row:Accrued interest 	12,020 	(502) )
+	16,120
+Row:Accrued salaries and wages 	6,201 	190 	(3,100)
+Row:Gaming, property and other taxes 	(149) 	(517) 	913
+Row:Other liabilities 	(438) 	5,847 	1,875
+Row:Net cash provided by operating activities 	654,433 	598,711 	514,370
+Row:Investing activities
+			Row:Capital project expenditures 	(20) 	(78) 	(330)
+Row:Capital maintenance expenditures 	(4,284) 	(3,178) 	(3,111)
+Row:Proceeds from sale of property and equipment 	3,211 	934 	1,134
+Row:Principal payments on loan receivable 	— 	13,200 	3,150
+Row:Acquisition of real estate assets 	(1,243,466) 	(83,252) 	(3,267,992)
+Row:Originations of mortgage loans receivable 	(303,684) 	— 	—
+Row:Collections of principal payments on investment in direct financing lease 	38,459 	73,072 	48,533
+Row:Net cash (used in) provided by investing activities 	(1,509,784) 	698 	(3,218,616)
+Row:Financing activities
+			Row:Dividends paid 	(550,435) 	(529,370) 	(428,352)
+Row:Proceeds from exercise of options, net of taxes paid related to shares withheld for tax
+purposes on restricted stock award vestings 	7,537 	18,157 	113,484
+Row:Proceeds from issuance of common stock, net of issuance costs 	— 	139,414 	870,810
+Row:Proceeds from issuance of long-term debt 	2,593,405 	100,000 	2,552,000
+Row:Financing costs 	(32,426) 	— 	(31,911)
+Row:Repayments of long-term debt 	(1,164,117) 	(335,112) 	(377,104)
+Row:Premium and related costs paid on tender of senior unsecured notes 	(1,884) 	— 	—
+Row:Net cash provided by (used in) ) financing activities 	852,080 	(606,911) 	2,698,927
+Row:Net decrease in cash and cash equivalents 	(3,271) 	(7,502) )
+	(5,319)
+Row:Cash and cash equivalents at beginning of period 	29,054 	36,556 	41,875
+Row:Cash and cash equivalents at end of period $ 	25,783 	$ 29,054 	$ 36,556
+Row:See Note 18 for supplemental cash flow information and noncash 	investing and financing 	activities.
+	

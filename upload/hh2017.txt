@@ -1,0 +1,105 @@
+Row:	2017 	2016 	2015
+Row:REVENUES:
+			Row:Owned and leased hotels . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 2,192 	$ 2,108 	$ 2,079
+Row:Management and franchise fees. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	505 	448 	427
+Row:Other revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	70 	40 	36
+Row:Other revenues from managed and franchised properties . . . . . . . . . . . . . . . . . . . . . . . . . 	1,918 	1,833 	1,786
+Row:Total revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	4,685 	4,429 	4,328
+Row:DIRECT AND SELLING, GENERAL, AND ADMINISTRATIVE EXPENSES:
+			Row:Owned and leased hotels . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,674 	1,610 	1,562
+Row:Depreciation and amortization. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	366 	342 	320
+Row:Other direct costs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	46 	30 	29
+Row:Selling, general, and administrative. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	379 	315 	308
+Row:Other costs from managed and franchised properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,918 	1,833 	1,786
+Row:Direct and selling, general, and administrative expenses . . . . . . . . . . . . . . . . . . . . . 	4,383 	4,130 	4,005
+Row:Net gains and interest income from marketable securities held to fund operating programs . . 	47 	19 	4
+Row:Equity earnings (losses) from unconsolidated hospitality ventures. . . . . . . . . . . . . . . . . . . . . . 	220 	68 	(64)
+Row:Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(80) 	(76) 	(68)
+Row:Gains (losses) on sales of real estate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	51 	(23) 	9
+Row:Asset impairments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	— 	(5)
+Row:Other income (loss), net. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	33 	2 	(5)
+Row:INCOME BEFORE INCOME TAXES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	573 	289 	194
+Row:PROVISION FOR INCOME TAXES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(323) 	(85) 	(70)
+Row:NET INCOME. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	250 	204 	124
+Row:NET INCOME AND ACCRETION ATTRIBUTABLE TO NONCONTROLLING
+INTERESTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1) 	— 	—
+Row:NET INCOME ATTRIBUTABLE TO HYATT HOTELS CORPORATION . . . . . . . . . . 	$ 249 	$ 204 	$ 124
+Row:EARNINGS PER SHARE—Basic
+			Row:Net income. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 2.00 	$ 1.53 	$ 0.87
+Row:Net income attributable to Hyatt Hotels Corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 1.99 	$ 1.53 	$ 0.87
+Row:EARNINGS PER SHARE—Diluted
+			Row:Net income. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 1.98 	$ 1.52 	$ 0.86
+Row:Net income attributable to Hyatt Hotels Corporation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 1.97 	$ 1.52 	$ 0.86
+Row:Current maturities of long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	11 	$ 119
+Row:Accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	175 	162
+Row:Accrued expenses and other current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	635 	514
+Row:Accrued compensation and benefits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	145 	129
+Row:Total current liabilities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	966 	924
+Row:Long-term debt. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,440 	1,445
+Row:Other long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,725 	1,472
+Row:Total liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Commitments and contingencies (see Note 14)
+	4,131 	3,841
+Row:per share, 1,000,000,000 shares authorized, 39,952,061 issued and outstanding at December 31, 2016, and Class B
+common stock, $0.01 par value per share, 422,857,621 shares authorized, 90,863,209 shares issued and outstanding
+at December 31, 2016 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1 	1
+Row:Additional paid-in capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	967 	1,686
+Row:Retained earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	2,742 	2,493
+Row:Accumulated other comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(185) 	(277)
+Row:Total stockholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	3,525 	3,903
+Row:Noncontrolling interests in consolidated subsidiaries. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	6 	5
+Row:Total equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	3,531 	3,908
+Row:TOTAL LIABILITIES, REDEEMABLE NONCONTROLLING INTEREST, AND EQUITY . . . . . . . . . . . . . . . . . . . . . . . $ 	7,672 	$ 7,749
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+			Row:Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	250 $ 	204 	$ 124
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+			Row:Depreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	366 	342 	320
+Row:Amortization of share awards. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	32 	26 	26
+Row:Deferred income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	47 	(3) 	(103)
+Row:Equity (earnings) losses from unconsolidated hospitality ventures . . . . . . . . . . . . . . . . . . . . . . 	(220) 	(68) 	64
+Row:(Gains) losses on sales of real estate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(51) 	23 	(9)
+Row:Realized losses from marketable securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	40 	6 	—
+Row:Distributions from unconsolidated hospitality ventures. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	29 	35 	36
+Row:Other. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1 	(44) 	55
+Row:Increase (decrease) in cash attributable to changes in assets and liabilities
+			Row:Restricted cash . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	13 	(4) 	78
+Row:Receivables, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(37) 	(14) 	29
+Row:Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	12 	2 	1
+Row:Prepaid income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	14 	21 	(16)
+Row:Accounts payable, accrued expenses, and other current liabilities . . . . . . . . . . . . . . . . 	95 	7 	(7)
+Row:Accrued compensation and benefits. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	22 	7 	5
+Row:Other long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	24 	10 	1
+Row:Other, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(17) 	(61) 	(66)
+Row:Net cash provided by operating activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	620 	489 	538
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+			Row:Purchases of marketable securities and short-term investments . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. $ (469) 	$ (464) 	$ (530)
+Row:Proceeds from marketable securities and short-term investments . . . . . . . . . . . . . . . . . . . . . . . . . 	. 480 	457 	521
+Row:Contributions to investments. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. (89) 	(107) 	(37)
+Row:Return of investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 425 	132 	19
+Row:Acquisitions, net of cash acquired. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. (259) 	(492) 	(3)
+Row:Capital expenditures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. (298) 	(211) 	(269)
+Row:Issuance of financing receivables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Proceeds from financing receivables. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. — . — 	(38) 38 	(8)
+28
+Row:Proceeds from sales of real estate, net of cash disposed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 663 	289 	88
+Row:Sales proceeds transferred to escrow as restricted cash . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. (474) 	— 	—
+Row:Sales proceeds transferred from escrow to cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . 	. 300 	29 	143
+Row:Pre-condemnation proceeds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 15 	— 	—
+Row:Other investing activities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Net cash provided by (used in) investing activities . . . . . . . . . . . . . . . . . . . . . . . . . . 	. (28) . 266 	(13) (380) 	1
+(47)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+			Row:Proceeds from debt, net of issuance costs of $-, $4, and $-, respectively . . . . . . . . . . . . . . . . . . . . 	. 670 	620 	12
+Row:Repayments of debt. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. (782) 	(438) 	(5)
+Row:Repurchase of common stock . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Proceeds from redeemable noncontrolling interest in preferred shares in a subsidiary . . . . . . . . . 	. (743) . 9 	(272) — 	(715)
+—
+Row:Other financing activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. (12) 	(6) 	(7)
+Row:Net cash used in financing activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. (858) 	(96) 	(715)
+Row:EFFECT OF EXCHANGE RATE CHANGES ON CASH. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. (7) 	12 	(4)
+Row:NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS. . . . . . . . . . . . . . . . . . . . . . 	. 21 	25 	(228)
+Row:CASH AND CASH EQUIVALENTS—BEGINNING OF YEAR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . CASH AND CASH EQUIVALENTS—END OF PERIOD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. 482 . $ 503 	457 $ 482 	685
+$ 457
+Row:SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+			Row:Cash paid during the period for interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. $ 80 	$ 75 	$ 69
+Row:Cash paid during the period for income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. $ 175 	$ 95 	$ 145
+Row:Non-cash investing and financing activities are as follows:
+			Row:Non-cash contributions to investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. $ 5 	$ 13 	$ 17
+Row:Non-cash management and franchise agreement intangibles. . . . . . . . . . . . . . . . . . . 	. $ 3 	$ 47 	$ 3
+Row:Change in accrued capital expenditures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. $ 9 	$ 2 	$ 6

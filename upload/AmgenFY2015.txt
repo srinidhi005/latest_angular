@@ -1,0 +1,118 @@
+Row:Product sales $ 	20,944 	$ 19,327 	$ 	18,192
+Row:Other revenues 	718 	736 		484
+Row:Total revenues 	21,662 	20,063 		18,676
+Row:Operating expenses:
+				Row:Cost of sales 	4,227 	4,422 		3,346
+Row:Research and development 	4,070 	4,297 		4,083
+Row:Selling, general and administrative 	4,846 	4,699 		5,184
+Row:Other 	49 	454 		196
+Row:Total operating expenses 	13,192 	13,872 		12,809
+Row:Operating income 	8,470 	6,191 		5,867
+Row:Interest expense, net 	1,095 	1,071 		1,022
+Row:Interest and other income, net 	603 	465 		420
+Row:Income before income taxes 	7,978 	5,585 		5,265
+Row:Provision for income taxes 	1,039 	427 		184
+Row:Net income $ 	6,939 	$ 5,158 	$ 	5,081
+Row:Earnings per share:
+				Row:Basic $ 	9.15 	$ 6.80 	$ 	6.75
+Row:Diluted $ 	9.06 	$ 6.70 	$ 	6.64
+Row:Shares used in the calculation of earnings per share:
+				Row:Basic 	758 	759 		753
+Row:Diluted 	766 	770 		765
+Row:	2015 	2014 	2013
+Row:Net income 	$ 6,939 	$ 5,158 	$ 5,081
+Row:Other comprehensive (loss) income, net of reclassification adjustments and taxes:
+			Row:Foreign currency translation losses 	(247) 	(196) 	(80)
+Row:Effective portion of cash flow hedges 	7 	323 	2
+Row:Net unrealized (losses) gains on available-for-sale securities 	(241) 	24 	(226)
+Row:Other 	9 	2 	(3)
+Row:Other comprehensive (loss) income, net of tax 	(472) 	153 	(307)
+Row:Comprehensive income 	$ 6,467 	$ 5,311 	$ 4,774
+Row:	AMGEN CONSOLIDATED 	INC.
+BALANCE 	SHEETS
+Row:	December 31, 	2015 and 	2014
+Row:(In 	millions, except 	per share 	data)
+Row:ASSETS
+			Row:Current assets:
+			Row:Cash and cash equivalents 	$ 	4,144 	$ 3,731
+Row:Marketable securities 		27,238 	23,295
+Row:Trade receivables, net 		2,995 	2,546
+Row:Inventories 		2,435 	2,647
+Row:Other current assets 		1,706 	2,494
+Row:Total current assets 		38,518 	34,713
+Row:Property, plant and equipment, net 		4,907 	5,223
+Row:Intangible assets, net 		11,641 	12,693
+Row:Goodwill 		14,787 	14,788
+Row:Other assets 		1,723 	1,592
+Row:Total assets 	$ 	71,576 	$ 69,009
+Row:Current liabilities:
+		Row:Accounts payable 	$ 965 	$ 995
+Row:Accrued liabilities 	5,452 	5,513
+Row:Current portion of long-term debt 	2,250 	500
+Row:Total current liabilities 	8,667 	7,008
+Row:Long-term debt 	29,306 	30,215
+Row:Long-term deferred tax liability 	2,239 	3,461
+Row:Other noncurrent liabilities 	3,281 	2,547
+Row:Contingencies and commitments
+		Row:Stockholders’ equity:
+		Row:Common stock and additional paid-in capital; $0.0001 par value; 2,750.0 shares authorized; outstanding
+		Row:— 754.0 shares in 2015 and 760.4 shares in 2014 	30,649 	30,410
+Row:Accumulated deficit 	(2,086) 	(4,624)
+Row:Accumulated other comprehensive loss 	(480) 	(8)
+Row:Total stockholders’ equity 	28,083 	25,778
+Row:Total liabilities and stockholders’ equity 	$ 71,576 	$ 69,009
+Row:— 754.0 shares in 2015 and 760.4 shares in 2014 	30,649 	30,410
+Row:Accumulated deficit 	(2,086) 	(4,624)
+Row:Accumulated other comprehensive loss 	(480) 	(8)
+Row:Total stockholders’ equity 	28,083 	25,778
+Row:Total liabilities and stockholders’ equity 	$ 71,576 	$ 69,009
+Row:30,649 	30,410
+Row:(2,086) 	(4,624)
+Row:(480) 	(8)
+Row:28,083 	25,778
+Row:$ 71,576 $ 	69,009
+Row:AMGEN INC.
+CONSOLIDATED STATEMENTS 	OF CASH FLOWS
+Row:Years ended December 31, 2015, 	2014 and 2013
+Row:(In millions)
+	Row:	2015 	2014 	2013
+Row:Cash flows from operating activities:
+			Row:Net income 	$ 6,939 	$ 5,158 	$ 5,081
+Row:Depreciation and amortization 	2,108 	2,092 	1,286
+Row:Stock-based compensation expense 	322 	408 	403
+Row:Deferred income taxes 	(607) 	(108) 	(189)
+Row:Other items, net 	(399) 	(116) 	103
+Row:Changes in operating assets and liabilities, net of acquisitions:
+			Row:Trade receivables, net 	(420) 	136 	(38)
+Row:Inventories 	481 	327 	(7)
+Row:Other assets 	155 	(1) 	(59)
+Row:Accounts payable 	(12) 	228 	60
+Row:Accrued income taxes 	509 	(103) 	(326)
+Row:Other liabilities 	1 	534 	(23)
+Row:Net cash provided by operating activities 	9,077 	8,555 	6,291
+Row:Cash flows from investing activities:
+			Row:Purchases of property, plant and equipment 	(594) 	(718) 	(693)
+Row:Cash paid for acquisitions, net of cash acquired 	(359) 	(165) 	(9,434)
+Row:Purchases of intangible assets 	(55) 	(285) 	—
+Row:Purchases of marketable securities 	(25,977) 	(25,878) 	(21,965)
+Row:Proceeds from sales of marketable securities 	18,029 	16,697 	19,123
+Row:Proceeds from maturities of marketable securities 	3,527 	4,199 	5,090
+Row:Proceeds from sale of property, plant and equipment 	274 	3 	20
+Row:Change in restricted investments, net 	— 	533 	(520)
+Row:Other 	(392) 	(138) 	(90)
+Row:Net cash used in investing activities 	(5,547) 	(5,752) 	(8,469)
+Row:Cash flows from financing activities:
+			Row:Net proceeds from issuance of debt 	3,465 	4,476 	8,054
+Row:Repayment of debt 	(2,400) 	(5,605) 	(3,371)
+Row:Repurchases of common stock 	(1,867) 	(138) 	(832)
+Row:Dividends paid 	(2,396) 	(1,851) 	(1,415)
+Row:Net proceeds from issuance of common stock in connection with the Company’s
+equity award programs 	82 	186 	296
+Row:Settlement of contingent consideration obligations 	(253) 	(92) 	—
+Row:Other 	252 	147 	(6)
+Row:Net cash (used in) provided by financing activities 	(3,117) 	(2,877) 	2,726
+Row:Increase (decrease) in cash and cash equivalents 	413 	(74) 	548
+Row:Cash and cash equivalents at beginning of period 	3,731 	3,805 	3,257
+Row:Cash and cash equivalents at end of period 	$ 4,144 	$ 3,731 	$ 3,805
+Row:See accompanying 	notes.
+		

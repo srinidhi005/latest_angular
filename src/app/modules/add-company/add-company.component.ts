@@ -47,11 +47,21 @@ export class AddCompanyComponent implements OnInit {
       markAllAsDirty(this.form);
       return;
     }
+    if(this.form.value.period == "Yearly"){
+      this.form.value.period ="Y";
+    } 
+    else if(this.form.value.period == "Quarterly"){
+      this.form.value.period ="Q";
+    }
+    else{
+      this.form.value.period ="M";
+    }
     var postForm = new FormData();
     postForm.append("file", this.form.value.file);
     postForm.append("statementtype", this.form.value.statementtype);
     postForm.append("companyname", this.form.value.companyname);
     postForm.append("createdby", "admin");
+    
     postForm.append("period", this.form.value.period);
     postForm.append("industry", this.form.value.industry);
     console.log(JSON.stringify(postForm));
@@ -63,7 +73,6 @@ export class AddCompanyComponent implements OnInit {
     this.inprogress = true;
     this.RMIAPIsService.uploadData(this.UrlConfigService.getuploadStatementAPI(),postForm)
     .subscribe((res:any)=>{
-      console.log(res);
       if(res.Result == "File Uploaded Successfully"){
       this.inprogress = false;
       this._snackBar.openFromComponent(uploadSnackBarComponent, {

@@ -1,0 +1,127 @@
+Row:	2018 	2017
+Row:Assets
+		Row:Current assets
+		Row:Cash and cash equivalents (Notes 1 and 2) 	$ 18,107 	17,824
+Row:Marketable securities (Notes 1 and 2) 	1,580 	472
+Row:Accounts receivable trade, less allowances for doubtful accounts $248 (2017, $291) 	14,098 	13,490
+Row:Inventories (Notes 1 and 3) 	8,599 	8,765
+Row:Prepaid expenses and other receivables 	2,699 	2,537
+Row:Assets held for sale (Note 20) 	950 	—
+Row:Total current assets 	46,033 	43,088
+Row:Property, plant and equipment, net (Notes 1 and 4) 	17,035 	17,005
+Row:Intangible assets, net (Notes 1 and 5) 	47,611 	53,228
+Row:Goodwill (Notes 1 and 5) 	30,453 	31,906
+Row:Deferred taxes on income (Note 8)
+Type your text
+	7,640 	7,105
+Row:Other assets 	4,182 	4,971
+Row:Total assets 	$ 152,954 	157,303
+Row:Liabilities and Shareholders’ Equity
+		Row:Current liabilities
+		Row:Loans and notes payable (Note 7) 	$ 2,796 	3,906
+Row:Accounts payable 	7,537 	7,310
+Row:Accrued liabilities 	7,601 	7,304
+Row:Accrued rebates, returns and promotions 	9,380 	7,210
+Row:Accrued compensation and employee related obligations 	3,098 	2,953
+Row:Accrued taxes on income (Note 8) 	818 	1,854
+Row:Total current liabilities 	31,230 	30,537
+Row:Long-term debt (Note 7) 	27,684 	30,675
+Row:Deferred taxes on income (Note 8) 	7,506 	8,368
+Row:Employee related obligations (Notes 9 and 10) 	9,951 	10,074
+Row:Long-term taxes payable (Note 8) 	8,242 	8,472
+Row:Other liabilities 	8,589 	9,017
+Row:Total liabilities 	93,202 	97,143
+Row:Shareholders’ equity
+		Row:Preferred stock — without par value (authorized and unissued 2,000,000 shares) 	— 	—
+Row:Common stock — par value $1.00 per share (Note 12) (authorized 4,320,000,000 shares; issued
+		Row:3,119,843,000 shares) 	3,120 	3,120
+Row:Accumulated other comprehensive income (loss) (Note 13) 	(15,222) 	(13,199)
+Row:Retained earnings 	106,216 	101,793
+Row:	94,114 	91,714
+Row:Less: common stock held in treasury, at cost (Note 12) (457,519,000 shares and 437,318,000 shares) 	34,362 	31,554
+Row:Total shareholders’ equity 	59,752 	60,160
+Row:Total liabilities and shareholders’ equity 	$ 152,954 	157,303
+Row:See Notes to Consolidated Financial Statements
+		Row:Preferred 	stock — without par value (authorized and unissued 2,000,000 	shares) 	— 	—
+Row:Common 3,119,843,000 	stock — par value $1.00 per share (Note 12) (authorized shares) 	4,320,000,000 shares; issued
+	3,120 	3,120
+Row:Accumulated 	other comprehensive income (loss) (Note 13) 		(15,222) 	(13,199)
+Row:Retained 	earnings 		106,216 	101,793
+Row:			94,114 	91,714
+Row:Less: common 	stock held in treasury, at cost (Note 12) (457,519,000 shares 	and 437,318,000 shares) 	34,362 	31,554
+Row:Total 	shareholders’ equity 		59,752 	60,160
+Row:Total liabilities 	and shareholders’ equity 	$ 	152,954 	157,303
+Row:Sales to customers 	2018 $ 81,581 	2017 76,450 	2016
+71,890
+Row:Cost of products sold 	27,091 	25,439 	21,789
+Row:Gross profit 	54,490 	51,011 	50,101
+Row:Selling, marketing and administrative expenses 	22,540 	21,520 	20,067
+Row:Research and development expense 	10,775 	10,594 	9,143
+Row:In-process research and development 	1,126 	408 	29
+Row:Interest income 	(611) 	(385) 	(368)
+Row:Interest expense, net of portion capitalized
+, 	1,005 	934 	726
+Row:Other (income) expense, net 	1,405 	(42) 	210
+Row:Restructuring (Note 22) 	251 	309 	491
+Row:Earnings before provision for taxes on income 	17,999 	17,673 	19,803
+Row:Provision for taxes on income
+	2,702 	16,373 	3,263
+Row:Net earnings 	$ 15,297 	1,300 	16,540
+Row:Net earnings per share (Notes 1 and 15)
+			Row:Basic 	$ 5.70 	0.48 	6.04
+Row:Diluted 	$ 5.61 	0.47 	5.93
+Row:Average shares outstanding (Notes 1 and 15)
+			Row:Basic 	2,681.5 	2,692.0 	2,737.3
+Row:Diluted 	2,728.7 	2,745.3 	2,788.9
+Row:*Prior years amounts were reclassified to conform to current year presentation (adoption of ASU 2017-07)
+			Row:Net earnings per share (Notes 1 and 15)
+	Row:Basic 	$ 5.70 0.48 6.04
+Row:Diluted 	$ 5.61 0.47 5.93
+Row:Average shares outstanding (Notes 1 and 15)
+	Row:Basic 	2,681.5 2,692.0 2,737.3
+Row:Diluted 	2,728.7 2,745.3 2,788.9
+Row:	2018 	2017 	2016
+Row:Cash flows from operating activities
+			Row:Net earnings 	$ 15,297 	1,300 	16,540
+Row:Adjustments to reconcile net earnings to cash flows from operating activities:
+			Row:Depreciation and amortization of property and intangibles 	6,929 	5,642 	3,754
+Row:Stock based compensation 	978 	962 	878
+Row:Asset write-downs 	1,258 	795 	283
+Row:Gain on sale of assets/businesses 	(1,217) 	(1,307) 	(563)
+Row:Deferred tax provision 	(1,016) 	2,406 	(341)
+Row:Accounts receivable allowances 	(31) 	17 	(11)
+Row:Changes in assets and liabilities, net of effects from acquisitions and divestitures:
+:
+			Row:Increase in accounts receivable 	(1,185) 	(633) 	(1,065)
+Row:(Increase)/Decrease in inventories 	(644) 	581 	(249)
+Row:Increase in accounts payable and accrued liabilities 	3,951 	2,725 	656
+Row:Increase in other current and non-current assets 	(275) 	(411) 	(529)
+Row:(Decrease)/Increase in other current and non-current liabilities 	(1,844) 	8,979 	(586)
+Row:Net cash flows from operating activities 	22,201 	21,056 	18,767
+Row:Cash flows from investing activities
+			Row:Additions to property, plant and equipment 	(3,670) 	(3,279) 	(3,226)
+Row:Proceeds from the disposal of assets/businesses, net 	3,203 	1,832 	1,267
+Row:Acquisitions, net of cash acquired (Note 20) 	(899) 	(35,151) 	(4,509)
+Row:Purchases of investments 	(5,626) 	(6,153) 	(33,950)
+Row:Sales of investments 	4,289 	28,117 	35,780
+Row:Other (primarily intangibles) 	(464) 	(234) 	(123)
+Row:Net cash used by investing activities 	(3,167) 	(14,868) 	(4,761)
+Row:Cash flows from financing activities
+			Row:Dividends to shareholders 	(9,494) 	(8,943) 	(8,621)
+Row:Repurchase of common stock 	(5,868) 	(6,358) 	(8,979)
+Row:Proceeds from short-term debt 	80 	869 	111
+Row:Retirement of short-term debt 	(2,479) 	(1,330) 	(2,017)
+Row:Proceeds from long-term debt, net of issuance costs 	5 	8,992 	12,004
+Row:Retirement of long-term debt 	(1,555) 	(1,777) 	(2,223)
+Row:Proceeds from the exercise of stock options/employee withholding tax on stock awards, net 	949 	1,062 	1,189
+Row:Other 	(148) 	(188) 	(15)
+Row:Net cash used by financing activities 	(18,510) 	(7,673) 	(8,551)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(241) 	337 	(215)
+Row:Increase/(Decrease) in cash and cash equivalents 	283 	(1,148) 	5,240
+Row:Cash and cash equivalents, beginning of year (Note 1) 	17,824 	18,972 	13,732
+Row:Cash and cash equivalents, end of year (Note 1) 	$ 18,107 	17,824 	18,972
+Row:Supplemental cash flow data
+			Row:Cash paid during the year for:
+			Row:Interest 	$ 1,049 	960 	730
+Row:Interest, net of amount capitalized 	963 	866 	628
+Row:Income taxes 	4,570 	3,312 	2,843

@@ -1,0 +1,330 @@
+Row	2020
+	2019
+RowASSETS
+		RowCurrent assets:
+		RowCash and cash equivalents 	$ 499.4 	$ 1,624.4
+RowReceivables, net 	141.9 	134.2
+RowMerchandise inventories, net 	859.7 	1,250.5
+RowPrepaid expenses and other current assets 	120.9 	118.6
+RowAssets held for sale 	11.8 	—
+RowTotal current assets 	1,633.7 	3,127.7
+RowProperty and equipment, net 	275.9 	321.3
+RowOperating lease right-of-use assets 	767.0 	—
+RowDeferred income taxes 	83.0 	147.3
+RowGoodwill 	— 	363.9
+RowOther noncurrent assets 	60.1 	84.1
+RowTotal assets 	$ 2,819.7 	$ 4,044.3
+RowLIABILITIES AND STOCKHOLDERS’ EQUITY
+		RowCurrent liabilities:
+		RowAccounts payable 	$ 380.8 	$ 1,051.9
+RowAccrued liabilities and other current liabilities 	617.5 	780.0
+RowCurrent portion of operating lease liabilities 	239.4 	—
+RowCurrent portion of debt, net 	— 	349.2
+RowTotal current liabilities 	1,237.7 	2,181.1
+RowLong-term debt, net 	419.8 	471.6
+RowOperating lease liabilities 	529.3 	—
+RowOther long-term liabilities 	21.4 	55.4
+RowTotal liabilities 	2,208.2 	2,708.1
+RowCommitments and contingencies (Note 12)
+		RowStockholders’ equity:
+		RowClass A common stock — $.001 par value; authorized 300.0 shares; 64.3 and
+102.0 shares issued, 64.3 and 102.0 shares outstanding, respectively 	0.1 	0.1
+RowAdditional paid-in capital 	— 	27.7
+RowAccumulated other comprehensive loss 	(78.8) 	(54.3)
+RowRetained earnings 	690.2 	1,362.7
+RowTotal stockholders' equity 	611.5 	1,336.2
+Row(78.8) 	(54.3)
+Row690.2 	1,362.7
+Row611.5 	1,336.2
+Row$ 2,819.7 	$ 4,044.3
+Row2019 	2018 	2017
+Row$ 6,466.0 	$ 8,285.3 	$ 8,547.1
+Row4,557.3 	5,977.2 	6,062.2
+Row1,908.7 	2,308.1 	2,484.9
+Row1,922.7 	1,994.2 	2,031.9
+Row363.9 	970.7 	—
+Row21.7 	45.2 	13.8
+Row(399.6) 	(702.0) 	439.2
+Row(11.3) 	(5.7) 	(1.5)
+Row38.5 	56.8 	56.8
+Row(426.8) 	(753.1) 	383.9
+Row37.6 	41.7 	153.5
+Row(464.4) 	(794.8) 	230.4
+Row(6.5) 	121.8 	(195.7)
+Row$ (470.9) 	$ (673.0) 	$ 34.7
+RowNet sales 	$ 6,466.0 $ 	8,285.3 	$ 8,547.1
+RowCost of sales 	4,557.3 	5,977.2 	6,062.2
+RowGross profit 	1,908.7 	2,308.1 	2,484.9
+RowSelling, general and administrative expenses 	1,922.7 	1,994.2 	2,031.9
+RowGoodwill impairments 	363.9 	970.7 	—
+RowAsset impairments 	21.7 	45.2 	13.8
+RowOperating (loss) earnings 	(399.6) 	(702.0) 	439.2
+RowInterest income 	(11.3) 	(5.7) 	(1.5)
+RowInterest expense 	38.5 	56.8 	56.8
+Row(Loss) earnings from continuing operations before income taxes 	(426.8) 	(753.1) 	383.9
+RowIncome tax expense 	37.6 	41.7 	153.5
+RowNet (loss) income from continuing operations 	(464.4) 	(794.8) 	230.4
+Row(Loss) income from discontinued operations, net of tax 	(6.5) 	121.8 	(195.7)
+RowNet (loss) income 	$ (470.9) $ 	(673.0) 	$ 34.7
+RowBasic (loss) earnings per share:
+			RowContinuing operations 	$ (5.31) $ 	(7.79) 	$ 2.27
+RowDiscontinued operations 	(0.08) 	1.19 	(1.93)
+RowBasic (loss) earnings per share 	$ (5.38) $ 	(6.59) 	$ 0.34
+RowDiluted (loss) earnings per share:
+			RowContinuing operations 	$ (5.31) $ 	(7.79) 	$ 2.27
+RowDiscontinued operations 	(0.08) 	1.19 	(1.93)
+RowDiluted (loss) earnings per share 	$ (5.38) $ 	(6.59) 	$ 0.34
+RowWeighted-average shares outstanding:
+			RowBasic 	87.5 	102.1 	101.4
+RowDiluted 	87.5 	102.1 	101.5
+Row$ 	(5.31) 	$ 	(7.79) 	$ 	2.27
+Row	(0.08) 		1.19 		(1.93)
+Row$ 	(5.38) 	$ 	(6.59) 	$ 	0.34
+Row$ 	(5.31) $ 	(7.79) 	$ 	2.27
+Row$ 	(0.08) (5.38) $ 	1.19 (6.59) 	$ 	(1.93)
+0.34
+Row87.5 	102.1 	101.4
+Row87.5 	102.1 	101.5
+Row	2019 	2018 	2017
+RowNet (loss) income 	$ (470.9) 	$ (673.0) 	$ 34.7
+RowOther comprehensive income (loss):
+			RowForeign currency translation adjustments 	(24.5) 	(63.4) 	59.5
+RowReclassification of realized gain on foreign currency translation
+adjustments, net of tax of $0 	— 	(3.1) 	—
+RowTotal comprehensive (loss) income 	$ (495.4) 	$ (739.5) 	$ 94.2
+RowBalance at January 28, 2017 	Shares 101.0 	Amount
+$ 0.1 	$ — Paid-in
+Capital
+	$ (47.3) Comprehensive
+Income (Loss)
+	$ 2,301.3 Retained
+Earnings
+	Stockholders'
+Equity $ 2,254.1
+RowNet income 	— 	— 	— 	— 	34.7 	34.7
+RowForeign currency translation 	— 	— 	— 	59.5 	— 	59.5
+RowDividends declared, $1.52 per common share 	— 	— 	— 	— 	(155.9) 	(155.9)
+RowStock-based compensation expense 	— 	— 	25.6 	— 	— 	25.6
+RowSettlement of stock-based awards 	0.3 	— 	(3.5) 	— 	— 	(3.5)
+RowBalance at February 3, 2018 	101.3 	0.1 	22.1 	12.2 	2,180.1 	2,214.5
+RowAdoption of ASU 2014-09 (Note 1) 	— 	— 	— 	— 	11.5 	11.5
+RowNet loss 	— 	— 	— 	— 	(673.0) 	(673.0)
+RowForeign currency translation 	— 	— 	— 	(66.5) 	— 	(66.5)
+RowDividends declared, $1.52 per common share 	— 	— 	— 	— 	(155.9) 	(155.9)
+RowStock-based compensation expense 	— 	— 	10.7 	— 	— 	10.7
+RowSettlement of stock-based awards 	0.7 	— 	(5.1) 	— 	— 	(5.1)
+RowBalance at February 2, 2019 	102.0 	0.1 	27.7 	(54.3) 	1,362.7 	1,336.2
+RowNet loss 	— 	— 	— 	— 	(470.9) 	(470.9)
+RowForeign currency translation 	— 	— 	— 	(24.5) 	— 	(24.5)
+RowDividends declared, $0.38 per common share 	— 	— 	— 	— 	(38.5) 	(38.5)
+RowStock-based compensation expense 	— 	— 	8.9 	— 	— 	8.9
+RowRepurchase of common shares 	(38.1) 	— 	(35.6) 	— 	(163.1) 	(198.7)
+RowSettlement of stock-based awards 	0.4 	— 	(1.0) 	— 	— 	(1.0)
+RowBalance at February 1, 2020 	64.3 	$ 0.1 	$ — 	$ (78.8) 	$ 690.2 	$ 611.5
+Row	2019 	2018 	2017
+RowCash flows from operating activities:
+			RowNet (loss) income 	$ (470.9) 	$ (673.0) 	$ 34.7
+RowAdjustments to reconcile net (loss) income to net cash flows from operating
+activities:
+			RowDepreciation and amortization (including amounts in cost of sales) 	96.2 	126.9 	151.9
+RowGoodwill and asset impairments 	385.6 	1,015.9 	395.1
+RowStock-based compensation expense 	8.9 	10.7 	25.6
+RowDeferred income taxes 	61.4 	(4.1) 	(107.9)
+RowLoss on disposal of property and equipment 	1.9 	2.0 	8.5
+RowLoss (gain) on divestiture 	9.1 	(100.8) 	(6.4)
+RowOther 	4.1 	6.9 	(10.5)
+RowChanges in operating assets and liabilities:
+			RowReceivables, net 	(10.9) 	(34.4) 	35.7
+RowMerchandise inventories 	361.1 	12.6 	(197.2)
+RowPrepaid expenses and other current assets 	3.6 	2.2 	(1.2)
+RowPrepaid income taxes and income taxes payable 	(75.9) 	(18.7) 	(24.7)
+RowAccounts payable and accrued liabilities 	(792.8) 	(26.0) 	146.1
+RowOperating lease right-of-use assets and lease liabilities 	4.1 	— 	—
+RowChanges in other long-term liabilities 	— 	4.9 	(14.8)
+RowNet cash flows (used in) provided by operating activities 	(414.5) 	325.1 	434.9
+RowCash flows from investing activities:
+			RowPurchase of property and equipment 	(78.5) 	(93.7) 	(113.4)
+RowProceeds from divestiture, net of cash sold 	5.2 	727.9 	58.5
+RowProceeds from company-owned life insurance, net 	12.0 	— 	—
+RowAcquisitions, net of cash acquired 	— 	— 	(8.5)
+RowOther 	0.4 	1.3 	2.8
+RowNet cash flows (used in) provided by investing activities 	(60.9) 	635.5 	(60.6)
+RowCash flows from financing activities:
+			RowRepayments of senior notes 	(404.5) 	— 	—
+RowRepurchase of common shares 	(198.7) 	— 	(22.0)
+RowDividends paid 	(40.5) 	(157.4) 	(155.2)
+RowBorrowings from the revolver 	— 	154.0 	373.0
+RowRepayments of revolver borrowings 	— 	(154.0) 	(373.0)
+RowRepayment of acquisition-related debt 	— 	(12.2) 	(21.8)
+RowTax withholdings on share-based awards 	(1.0) 	(5.1) 	(3.5)
+RowNet cash flows used in financing activities 	(644.7) 	(174.7) 	(202.5)
+RowExchange rate effect on cash and cash equivalents and restricted cash 	(6.9) 	(24.7) 	28.0
+RowDecrease (increase) in cash held for sale 	— 	10.2 	(5.4)
+Row(Decrease) increase in cash and cash equivalents 	(1,127.0) 	771.4 	194.4
+RowCash and cash equivalents and restricted cash at beginning of period 	1,640.5 	869.1 	674.7
+RowCash and cash equivalents and restricted cash at end of period 	$ 513.5 	$ 1,640.5 	$ 869.1
+Row	2020
+	2019
+RowASSETS
+		RowCurrent assets:
+		RowCash and cash equivalents 	$ 499.4 	$ 1,624.4
+RowReceivables, net 	141.9 	134.2
+RowMerchandise inventories, net 	859.7 	1,250.5
+RowPrepaid expenses and other current assets 	120.9 	118.6
+RowAssets held for sale 	11.8 	—
+RowTotal current assets 	1,633.7 	3,127.7
+RowProperty and equipment, net 	275.9 	321.3
+RowOperating lease right-of-use assets 	767.0 	—
+RowDeferred income taxes 	83.0 	147.3
+RowGoodwill 	— 	363.9
+RowOther noncurrent assets 	60.1 	84.1
+RowTotal assets 	$ 2,819.7 	$ 4,044.3
+RowLIABILITIES AND STOCKHOLDERS’ EQUITY
+		RowCurrent liabilities:
+		RowAccounts payable 	$ 380.8 	$ 1,051.9
+RowAccrued liabilities and other current liabilities 	617.5 	780.0
+RowCurrent portion of operating lease liabilities 	239.4 	—
+RowCurrent portion of debt, net 	— 	349.2
+RowTotal current liabilities 	1,237.7 	2,181.1
+RowLong-term debt, net 	419.8 	471.6
+RowOperating lease liabilities 	529.3 	—
+RowOther long-term liabilities 	21.4 	55.4
+RowTotal liabilities 	2,208.2 	2,708.1
+RowCommitments and contingencies (Note 12)
+		RowStockholders’ equity:
+		RowClass A common stock — $.001 par value; authorized 300.0 shares; 64.3 and
+102.0 shares issued, 64.3 and 102.0 shares outstanding, respectively 	0.1 	0.1
+RowAdditional paid-in capital 	— 	27.7
+RowAccumulated other comprehensive loss 	(78.8) 	(54.3)
+RowRetained earnings 	690.2 	1,362.7
+RowTotal stockholders' equity 	611.5 	1,336.2
+Row(78.8) 	(54.3)
+Row690.2 	1,362.7
+Row611.5 	1,336.2
+Row$ 2,819.7 	$ 4,044.3
+Row2019 	2018 	2017
+Row$ 6,466.0 	$ 8,285.3 	$ 8,547.1
+Row4,557.3 	5,977.2 	6,062.2
+Row1,908.7 	2,308.1 	2,484.9
+Row1,922.7 	1,994.2 	2,031.9
+Row363.9 	970.7 	—
+Row21.7 	45.2 	13.8
+Row(399.6) 	(702.0) 	439.2
+Row(11.3) 	(5.7) 	(1.5)
+Row38.5 	56.8 	56.8
+Row(426.8) 	(753.1) 	383.9
+Row37.6 	41.7 	153.5
+Row(464.4) 	(794.8) 	230.4
+Row(6.5) 	121.8 	(195.7)
+Row$ (470.9) 	$ (673.0) 	$ 34.7
+RowNet sales 	$ 6,466.0 $ 	8,285.3 	$ 8,547.1
+RowCost of sales 	4,557.3 	5,977.2 	6,062.2
+RowGross profit 	1,908.7 	2,308.1 	2,484.9
+RowSelling, general and administrative expenses 	1,922.7 	1,994.2 	2,031.9
+RowGoodwill impairments 	363.9 	970.7 	—
+RowAsset impairments 	21.7 	45.2 	13.8
+RowOperating (loss) earnings 	(399.6) 	(702.0) 	439.2
+RowInterest income 	(11.3) 	(5.7) 	(1.5)
+RowInterest expense 	38.5 	56.8 	56.8
+Row(Loss) earnings from continuing operations before income taxes 	(426.8) 	(753.1) 	383.9
+RowIncome tax expense 	37.6 	41.7 	153.5
+RowNet (loss) income from continuing operations 	(464.4) 	(794.8) 	230.4
+Row(Loss) income from discontinued operations, net of tax 	(6.5) 	121.8 	(195.7)
+RowNet (loss) income 	$ (470.9) $ 	(673.0) 	$ 34.7
+RowBasic (loss) earnings per share:
+			RowContinuing operations 	$ (5.31) $ 	(7.79) 	$ 2.27
+RowDiscontinued operations 	(0.08) 	1.19 	(1.93)
+RowBasic (loss) earnings per share 	$ (5.38) $ 	(6.59) 	$ 0.34
+RowDiluted (loss) earnings per share:
+			RowContinuing operations 	$ (5.31) $ 	(7.79) 	$ 2.27
+RowDiscontinued operations 	(0.08) 	1.19 	(1.93)
+RowDiluted (loss) earnings per share 	$ (5.38) $ 	(6.59) 	$ 0.34
+RowWeighted-average shares outstanding:
+			RowBasic 	87.5 	102.1 	101.4
+RowDiluted 	87.5 	102.1 	101.5
+Row$ 	(5.31) 	$ 	(7.79) 	$ 	2.27
+Row	(0.08) 		1.19 		(1.93)
+Row$ 	(5.38) 	$ 	(6.59) 	$ 	0.34
+Row$ 	(5.31) $ 	(7.79) 	$ 	2.27
+Row$ 	(0.08) (5.38) $ 	1.19 (6.59) 	$ 	(1.93)
+0.34
+Row87.5 	102.1 	101.4
+Row87.5 	102.1 	101.5
+Row	2019 	2018 	2017
+RowNet (loss) income 	$ (470.9) 	$ (673.0) 	$ 34.7
+RowOther comprehensive income (loss):
+			RowForeign currency translation adjustments 	(24.5) 	(63.4) 	59.5
+RowReclassification of realized gain on foreign currency translation
+adjustments, net of tax of $0 	— 	(3.1) 	—
+RowTotal comprehensive (loss) income 	$ (495.4) 	$ (739.5) 	$ 94.2
+RowBalance at January 28, 2017 	Shares 101.0 	Amount
+$ 0.1 	$ — Paid-in
+Capital
+	$ (47.3) Comprehensive
+Income (Loss)
+	$ 2,301.3 Retained
+Earnings
+	Stockholders'
+Equity $ 2,254.1
+RowNet income 	— 	— 	— 	— 	34.7 	34.7
+RowForeign currency translation 	— 	— 	— 	59.5 	— 	59.5
+RowDividends declared, $1.52 per common share 	— 	— 	— 	— 	(155.9) 	(155.9)
+RowStock-based compensation expense 	— 	— 	25.6 	— 	— 	25.6
+RowSettlement of stock-based awards 	0.3 	— 	(3.5) 	— 	— 	(3.5)
+RowBalance at February 3, 2018 	101.3 	0.1 	22.1 	12.2 	2,180.1 	2,214.5
+RowAdoption of ASU 2014-09 (Note 1) 	— 	— 	— 	— 	11.5 	11.5
+RowNet loss 	— 	— 	— 	— 	(673.0) 	(673.0)
+RowForeign currency translation 	— 	— 	— 	(66.5) 	— 	(66.5)
+RowDividends declared, $1.52 per common share 	— 	— 	— 	— 	(155.9) 	(155.9)
+RowStock-based compensation expense 	— 	— 	10.7 	— 	— 	10.7
+RowSettlement of stock-based awards 	0.7 	— 	(5.1) 	— 	— 	(5.1)
+RowBalance at February 2, 2019 	102.0 	0.1 	27.7 	(54.3) 	1,362.7 	1,336.2
+RowNet loss 	— 	— 	— 	— 	(470.9) 	(470.9)
+RowForeign currency translation 	— 	— 	— 	(24.5) 	— 	(24.5)
+RowDividends declared, $0.38 per common share 	— 	— 	— 	— 	(38.5) 	(38.5)
+RowStock-based compensation expense 	— 	— 	8.9 	— 	— 	8.9
+RowRepurchase of common shares 	(38.1) 	— 	(35.6) 	— 	(163.1) 	(198.7)
+RowSettlement of stock-based awards 	0.4 	— 	(1.0) 	— 	— 	(1.0)
+RowBalance at February 1, 2020 	64.3 	$ 0.1 	$ — 	$ (78.8) 	$ 690.2 	$ 611.5
+Row	2019 	2018 	2017
+RowCash flows from operating activities:
+			RowNet (loss) income 	$ (470.9) 	$ (673.0) 	$ 34.7
+RowAdjustments to reconcile net (loss) income to net cash flows from operating
+activities:
+			RowDepreciation and amortization (including amounts in cost of sales) 	96.2 	126.9 	151.9
+RowGoodwill and asset impairments 	385.6 	1,015.9 	395.1
+RowStock-based compensation expense 	8.9 	10.7 	25.6
+RowDeferred income taxes 	61.4 	(4.1) 	(107.9)
+RowLoss on disposal of property and equipment 	1.9 	2.0 	8.5
+RowLoss (gain) on divestiture 	9.1 	(100.8) 	(6.4)
+RowOther 	4.1 	6.9 	(10.5)
+RowChanges in operating assets and liabilities:
+			RowReceivables, net 	(10.9) 	(34.4) 	35.7
+RowMerchandise inventories 	361.1 	12.6 	(197.2)
+RowPrepaid expenses and other current assets 	3.6 	2.2 	(1.2)
+RowPrepaid income taxes and income taxes payable 	(75.9) 	(18.7) 	(24.7)
+RowAccounts payable and accrued liabilities 	(792.8) 	(26.0) 	146.1
+RowOperating lease right-of-use assets and lease liabilities 	4.1 	— 	—
+RowChanges in other long-term liabilities 	— 	4.9 	(14.8)
+RowNet cash flows (used in) provided by operating activities 	(414.5) 	325.1 	434.9
+RowCash flows from investing activities:
+			RowPurchase of property and equipment 	(78.5) 	(93.7) 	(113.4)
+RowProceeds from divestiture, net of cash sold 	5.2 	727.9 	58.5
+RowProceeds from company-owned life insurance, net 	12.0 	— 	—
+RowAcquisitions, net of cash acquired 	— 	— 	(8.5)
+RowOther 	0.4 	1.3 	2.8
+RowNet cash flows (used in) provided by investing activities 	(60.9) 	635.5 	(60.6)
+RowCash flows from financing activities:
+			RowRepayments of senior notes 	(404.5) 	— 	—
+RowRepurchase of common shares 	(198.7) 	— 	(22.0)
+RowDividends paid 	(40.5) 	(157.4) 	(155.2)
+RowBorrowings from the revolver 	— 	154.0 	373.0
+RowRepayments of revolver borrowings 	— 	(154.0) 	(373.0)
+RowRepayment of acquisition-related debt 	— 	(12.2) 	(21.8)
+RowTax withholdings on share-based awards 	(1.0) 	(5.1) 	(3.5)
+RowNet cash flows used in financing activities 	(644.7) 	(174.7) 	(202.5)
+RowExchange rate effect on cash and cash equivalents and restricted cash 	(6.9) 	(24.7) 	28.0
+RowDecrease (increase) in cash held for sale 	— 	10.2 	(5.4)
+Row(Decrease) increase in cash and cash equivalents 	(1,127.0) 	771.4 	194.4
+RowCash and cash equivalents and restricted cash at beginning of period 	1,640.5 	869.1 	674.7
+RowCash and cash equivalents and restricted cash at end of period 	$ 513.5 	$ 1,640.5 	$ 869.1

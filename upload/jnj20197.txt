@@ -1,0 +1,138 @@
+Row:	2019 	2018
+Row:Assets
+		Row:Current assets
+		Row:Cash and cash equivalents (Notes 1 and 2) 	$17,305 	18,107
+Row:Marketable securities (Notes 1 and 2) 	1,982 	1,580
+Row:Accounts receivable trade, less allowances for doubtful accounts $226 (2018, $248) 	14,481 	14,098
+Row:Inventories (Notes 1 and 3) 	9,020 	8,599
+Row:Prepaid expenses and other receivables 	2,392 	2,699
+Row:Assets held for sale (Note 20) Total current assets 	94 45,274 	950
+46,033
+Row:Property, plant and equipment, net (Notes 1 and 4) 	17,658 	17,035
+Row:Intangible assets, net (Notes 1 and 5) 	47,643 	47,611
+Row:Goodwill (Notes 1 and 5) 	33,639 	30,453
+Row:Deferred taxes on income (Note 8) 	7,819 	7,640
+Row:Other assets 	5,695 	4,182
+Row:Total assets 	$157,728 	152,954
+Row:Liabilities and Shareholders’ Equity
+		Row:Current liabilities
+		Row:Loans and notes payable (Note 7) 	$1,202 	2,796
+Row:Accounts payable 	8,544 	7,537
+Row:Accrued liabilities 	9,715 	7,601
+Row:Accrued rebates, returns and promotions 	10,883 	9,380
+Row:Accrued compensation and employee related obligations 	3,354 	3,098
+Row:Accrued taxes on income (Note 8) 	2,266 	818
+Row:Total current liabilities 	35,964 	31,230
+Row:Long-term debt (Note 7) 	26,494 	27,684
+Row:Deferred taxes on income (Note 8) Employee related obligations (Notes 9 and 10) 	5,958 10,663 	7,506
+9,951
+Row:Long-term taxes payable (Note 8) 	7,444 	8,242
+Row:Other liabilities 	11,734 	8,589
+Row:Total liabilities 	98,257 	93,202
+Row:Commitments and Contingencies (Note 21)
+		Row:Shareholders’ equity
+		Row:Preferred stock — without par value (authorized and unissued 2,000,000 shares) 	— 	—
+Row:Common stock — par value $1.00 per share (Note 12) (authorized 4,320,000,000 shares; issued
+3,119,843,000 shares) 	3,120 	3,120
+Row:Accumulated other comprehensive income (loss) (Note 13) 	(15,891) 	(15,222)
+Row:Retained earnings 	110,659 	106,216
+Row:Less: common stock held in treasury, at cost (Note 12) (487,336,000 shares and 457,519,000 shares) 	97,888 38,417 	94,114
+34,362
+Row:Total shareholders’ equity 	59,471 	59,752
+Row:Total liabilities and shareholders’ equity 	$157,728 	152,954
+Row:	2019
+	2018
+	2017
+Row:Sales to customers
+	$82,059
+	81,581
+	76,450
+Row:Cost of products sold	27,556
+	27,091
+	25,439
+Row:Gross profit	54,503
+	54,490
+	51,011
+Row:Selling, marketing and administrative expenses	22,178
+	22,540
+	21,520
+Row:Research and development expense	11,355
+	10,775
+	10,594
+Row:In-process research and development (Note 5)
+	890
+	1,126
+	408
+Row:Interest income
+	(357)
+	(611)
+	(385)
+Row:Interest expense, net of portion capitalized (Note 4)	318
+	1,005
+	934
+Row:Other (income) expense, net	2,525
+	1,405
+	(42)
+Row:Restructuring (N 22)	266
+	251
+	309
+Row:Earnings before provision for taxes on income	17,328
+	17,999
+	17,673
+Row:Provision for taxes on income (Note 8)	2,209
+	2,702
+	16,373
+Row:Net earnings
+	$15,119
+	15,297
+	1,300
+Row:Net earnings per share (Notes 1 and 15)			Row:Basic
+	$5.72
+	5.70
+	0.48
+Row:Diluted
+	$5.63
+	5.61
+	0.47
+Row:Average shares outstanding (Notes 1 and 15)			Row:Basic
+	2,645.1
+	2,681.5
+	2,692.0
+Row:Diluted
+	2,684.3
+	2,728.7
+	2,745.3
+Row:2019
+		2018
+	2017
+Row:Cash flows from operating activities			Row:$15,119
+Net earnings		15,297
+	1,300
+Row:Adjustments to reconcile net earnings to cash flows from operating activities:			Row:Depreciation and amortization of property and intangibles	7,009	6,929	5,642Row:Stock based compensation	977	978	962Row:Asset write-downs	1,096	1,258	795Row:(Gain on sale of assets/businesses	2,154)	(1,217)	(1,307)Row:(Deferred tax provision	2,476)	(1,016)	2,406Row:Accounts receivable allowances	(20)
+	(31)
+	17
+Row:Changes in assets and liabilities, net of effects from acquisitions and divestitures:			Row:(Increase in accounts receivable	289)	(1,185)	(633)Row:((Increase)/Decrease in inventories	277)	(644)	581Row:Increase in accounts payable and accrued liabilities	4,060	3,951	2,725Row:(Increase in other current and non-current assets	1,054)	(275)	(411)Row:Increase/(Decrease) in other current and non-current liabilities	1,425	(1,844)	8,979Row:23,416
+Net cash flows from operating activities		22,201
+	21,056
+Row:Cash flows from investing activities			Row:(Additions to property, plant and equipment	3,498)	(3,670)	(3,279)Row:Proceeds from the disposal of assets/businesses, net	3,265	3,203	1,832Row:(Acquisitions, net of cash acquired (Note 20)	5,810)	(899)	(35,151)Row:(Purchases of investments	3,920)	(5,626)	(6,153)Row:Sales of investments	3,387	4,289
+	28,117
+Row:Proceeds from credit support agreementsOther	33844	(464)	(234)Row:(Net cash used by investing activities	6,194)
+	(3,167)
+	(14,868)
+Row:Cash flows from financing activities			Row:Dividends to shareholders(	9,917)	(9,494)	(8,943)Row:Repurchase of common stock(	6,746)	(5,868)	(6,358)Row:Proceeds from short-term debt	39	80	869Row:Repayment of short-term debt(	100)	(2,479)	(1,330)Row:Proceeds from long-term debt, net of issuance costs	3	5	8,992Row:Repayment of long-term debt(	2,823)	(1,555)	(1,777)Row:Proceeds from the exercise of stock options/employee withholding tax on stock awards, net	954	949	1,062Row:Other	575	(148)	(188)Row:Net cash used by financing activities(18,015	)	(18,510)	(7,673)Row:Effect of exchange rate changes on cash and cash equivalents	(9)	(241)	337Row:(Decrease)/Increase in cash and cash equivalents(	802)	283	(1,148)Row:Cash and cash equivalents, beginning of year (Note 1)18,107		17,824	18,972Row:Cash and cash equivalents, end of year (Note 1)$17,305
+		18,107
+	17,824
+Row:Supplemental cash flow data			Row:Cash paid during the year for:			Row:InterestInterest, net of amount capitalized$	995925	1,049963	960866Row:Income taxes	4,191
+	4,570
+	3,312
+Row:Supplemental schedule of non-cash investing and financing activities			Row:Treasury stock issued for employee compensation and stock option plans, net of cash proceeds/ employeewithholding tax on stock awards$	1,736
+	2,095	2,062Row:Conversion of debt
+	1
+	6
+	16
+Row:Acquisitions			Row:Fair value of assets acquiredFair value of liabilities assumed and noncontrolling interests$(	7,2281,418)	1,047(148)	36,937(1,786)Row:Net cash paid for acquisitions (Note 20)
+$	5,810
+	899
+	35,151
+Row:See Notes to Consolidated Financial Statements
+			

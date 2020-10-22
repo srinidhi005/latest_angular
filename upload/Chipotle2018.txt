@@ -1,0 +1,796 @@
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents
+	$
+249,953
+	$
+184,569
+Row:Accounts receivable
+	62,312
+	40,453
+Row:Inventory
+	21,555
+	19,860
+Row:Prepaid expenses and other current assets
+	54,129
+	50,918
+Row:Income tax receivable
+		9,353
+Row:Investments
+	426,845
+	324,382
+Row:Total current assets
+	814,794
+	629,535
+Row:Leasehold improvements, property and equipment, net
+	1,379,254
+	1,338,366
+Row:Restricted cash
+	30,199
+	29,601
+Row:Other assets
+	19,332
+	26,251
+Row:Goodwill
+	21,939
+	21,939
+Row:Total assets
+	2,265,518 $
+	$
+2,045,692
+Row:Liabilities and shareholders' equity
+		Row:Current liabilities:
+		Row:Accounts payable
+	$
+113,071
+	$
+82,028
+Row:Accrued payroll and benefits
+	113,467
+	82,541
+Row:Accrued liabilities
+	147,849
+	95,679
+Row:Unearned revenue
+	70,474
+	63,645
+Row:Income tax payable
+	5,129
+	Row:Total current liabilities
+	449,990
+	323,893
+Row:Commitments and contingencies (Note 13)
+		Row:Deferred rent
+	330,985
+	316,498
+Row:Deferred income tax liability
+	11,566
+	814
+Row:Other liabilities
+	31,638
+	40,042
+Row:Total liabilities
+	824,179
+	681,247
+Row:Shareholders' equity:
+		Row:Preferred stock, $0.01 par value, 600,000 shares authorized, no shares issued as of December 31,
+2018 and 2017, respectively
+		Row:Common stock, $0.01 par value, 230,000 shares authorized, 35,973 and 35,852 shares issued as of
+		Row:December 31, 2018 and 2017, respectively
+	360
+	359
+Row:Additional paid-in capital
+	1,374,154
+	1,305,090
+Row:Treasury stock, at cost, 8,276 and 7,826 common shares at December 31, 2018 and 2017,
+		Row:respectively
+	(2,500,556)
+	(2,334,409)
+Row:Accumulated other comprehensive income (loss)
+	(6,236)
+	(3,659)
+Row:Retained earnings
+	2,573,617
+	2,397,064
+Row:Total shareholders' equity
+	1,441,339
+	1,364,445
+Row:Total liabilities and shareholders' equity
+	2,265,518
+$
+	2,045,692
+$
+Row:December 31, 2018 and 2017, respectively
+	360
+	359
+Row:Additional paid-in capital
+	1,374,154
+	1,305,090
+Row:Treasury stock, at cost, 8,276 and 7,826 common shares at December 31, 2018 and 2017,
+respectively
+	(2,500,556	)
+(2,334,409)
+Row:Accumulated other comprehensive income (loss)
+	(6,236	)
+(3,659)
+Row:Retained earnings
+	2,573,617
+	2,397,064
+Row:shareholders' equity
+	1,441,339
+	1,364,445
+Row:liabilities and shareholders' equity
+	2,265,518
+$
+	2,045,692
+$
+Row:	43
+Row:: CHIPOTLE MEXICAN GRILL INC	, 10-K, February 08, 2019
+Powered by Morningstar Document Research
+Row:information contained herein may not to the extent such damages or losses 	be copied, adapted or distributed and is not warranted to be accurate, complete or timely. The user assumes all risks for any damages or losses arising from any use of this information,
+cannot be limited or excluded by applicable law. Past financial performance is no guarantee of future results.
+Row:	2018
+	2017
+	2016
+Row:Revenue
+	4,864,985 $ $
+	4,476,412 	$
+3,904,384
+Row:Restaurant operating costs (exclusive of depreciation and amortization shown
+			Row:separately below):
+			Row:Food, beverage and packaging
+	1,600,760
+	1,535,428
+	1,365,580
+Row:Labor
+	1,326,079
+	1,205,992
+	1,105,001
+Row:Occupancy
+	347,123
+	327,132
+	293,636
+Row:Other operating costs
+	680,031
+	651,644
+	641,953
+Row:General and administrative expenses
+	375,460
+	296,388
+	276,240
+Row:Depreciation and amortization
+	201,979
+	163,348
+	146,368
+Row:Pre-opening costs
+	8,546
+	12,341
+	17,162
+Row:Impairment, closure costs, and asset disposals
+	66,639
+	13,345
+	23,877
+Row:Total operating expenses
+	4,606,617
+	4,205,618
+	3,869,817
+Row:Income from operations
+	258,368
+	270,794
+	34,567
+Row:Interest and other income, net
+	10,068
+	4,949
+	4,172
+Row:Income before income taxes
+	268,436
+	275,743
+	38,739
+Row:Provision for income taxes
+	(91,883)
+	(99,490)
+	(15,801)
+Row:Net income
+	176,553
+$
+$
+	176,253
+	22,938
+$
+Row:Earnings per share:
+			Row:Basic
+	$
+$
+6.35
+	6.19
+$
+	0.78
+Row:Diluted
+	$
+6.31
+$
+	6.17
+	$
+0.77
+Row:Weighted-average common shares outstanding:
+			Row:Basic
+	27,823
+	28,491
+	29,265
+Row:Diluted
+	27,962
+	28,561
+	29,770
+Row:2018
+	2017
+	2016
+Row:176,553 	$
+176,253 $
+	22,938
+Row:(2,736)
+	4,689
+	(1,291)
+Row:291
+	(274)
+	2,251
+Row:(132)
+	88
+	(849)
+Row:(2,577)
+	4,503
+	111
+Row:173,976
+	180,756
+$
+$
+	23,049
+Row:	(as
+adjusted)"	(as
+) adjusted)")
+Row:Operating activities
+		Row:$
+Net income
+	176,553 $
+176,253 	$
+22,938
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+		Row:Depreciation and amortization
+	201,979
+163,348
+	146,368
+Row:Deferred income tax (benefit) provision
+	10,585
+(18,026	)
+(14,207)
+Row:Impairment, closure costs, and asset disposals
+	61,987
+13,345
+	23,877
+Row:Bad debt allowance
+	125
+214
+	(262)
+Row:Stock-based compensation expense
+	69,164
+65,255
+	64,166
+Row:Other
+	(2,918)
+(218	)
+(1,924)
+Row:Changes in operating assets and liabilities:
+		Row:Accounts receivable
+	(8,298)
+(140	)
+(1,923)
+Row:Inventory
+	(1,722)
+(5,250	)
+(91)
+Row:Prepaid expenses and other current assets
+	(3,811)
+(6,710	)
+(4,259)
+Row:Other assets
+	(2,005)
+(1,476	)
+1,063
+Row:Accounts payable
+	32,080
+10,908
+	(6,734)
+Row:Accrued payroll and benefits
+	29,568
+6,188
+	11,416
+Row:Accrued liabilities
+	14,831
+28,179
+	13,692
+Row:Unearned revenue
+	6,829
+4,207
+	8,383
+Row:Income tax payable/receivable
+	14,439
+(4,173	)
+54,340
+Row:Deferred rent
+	21,297
+29,996
+	37,030
+Row:Other long-term liabilities
+	869
+6,316
+	1,287
+Row:Net cash provided by operating activities
+	621,552
+468,216
+	355,160
+Row:Investing activities
+		Row:Purchases of leasehold improvements, property and equipment
+	(287,390)
+(216,777	(258,842)
+)
+Row:Purchases of investments
+	(485,188)
+(199,801	)
+Row:Maturities of investments
+	385,000
+330,000
+	45,000
+Row:Proceeds from sale of investments
+		540,648
+Row:Net cash provided by (used in) investing activities
+	(387,578
+(86,578	326,806
+)
+Row:Financing activities
+		Row:Acquisition of treasury stock
+	(160,937)
+(285,218	)
+(836,760)
+Row:Tax withholding on share-based compensation awards
+	(5,411)
+(702	)
+(895)
+Row:Stock plan transactions and other financing activities
+	(187)
+26
+	1,372
+Row:Net cash used in financing activities
+	(166,535)
+(285,894	)
+(836,283
+Row:Effect of exchange rate changes on cash and cash equivalents and restricted cash
+	(1,457)
+2,056
+	110
+Row:Net change in cash, cash equivalents, and restricted cash
+	65,982
+97,800
+	(154,207)
+Row:Cash, cash equivalents, and restricted cash at beginning of period
+	214,170
+116,370
+	270,577
+Row:Cash, cash equivalents, and restricted cash at end of period
+$
+	280,152 $
+214,170 	$
+116,370
+Row:Supplemental disclosures of cash flow information
+		Row:Income taxes paid
+$
+	67,053 $
+119,787 	$
+23,862
+Row:Increase (decrease) in purchases of leasehold improvements, property, and equipment accrued
+in accounts payable and accrued liabilities
+$
+	(936) $
+(7,690	) $
+(1,781)
+Row:Increase (decrease) in acquisition of treasury stock accrued in accrued liabilities
+$
+	200 $
+(900	) $
+(22,778)
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents
+	$
+249,953
+	$
+184,569
+Row:Accounts receivable
+	62,312
+	40,453
+Row:Inventory
+	21,555
+	19,860
+Row:Prepaid expenses and other current assets
+	54,129
+	50,918
+Row:Income tax receivable
+		9,353
+Row:Investments
+	426,845
+	324,382
+Row:Total current assets
+	814,794
+	629,535
+Row:Leasehold improvements, property and equipment, net
+	1,379,254
+	1,338,366
+Row:Restricted cash
+	30,199
+	29,601
+Row:Other assets
+	19,332
+	26,251
+Row:Goodwill
+	21,939
+	21,939
+Row:Total assets
+	2,265,518 $
+	$
+2,045,692
+Row:Liabilities and shareholders' equity
+		Row:Current liabilities:
+		Row:Accounts payable
+	$
+113,071
+	$
+82,028
+Row:Accrued payroll and benefits
+	113,467
+	82,541
+Row:Accrued liabilities
+	147,849
+	95,679
+Row:Unearned revenue
+	70,474
+	63,645
+Row:Income tax payable
+	5,129
+	Row:Total current liabilities
+	449,990
+	323,893
+Row:Commitments and contingencies (Note 13)
+		Row:Deferred rent
+	330,985
+	316,498
+Row:Deferred income tax liability
+	11,566
+	814
+Row:Other liabilities
+	31,638
+	40,042
+Row:Total liabilities
+	824,179
+	681,247
+Row:Shareholders' equity:
+		Row:Preferred stock, $0.01 par value, 600,000 shares authorized, no shares issued as of December 31,
+2018 and 2017, respectively
+		Row:Common stock, $0.01 par value, 230,000 shares authorized, 35,973 and 35,852 shares issued as of
+		Row:December 31, 2018 and 2017, respectively
+	360
+	359
+Row:Additional paid-in capital
+	1,374,154
+	1,305,090
+Row:Treasury stock, at cost, 8,276 and 7,826 common shares at December 31, 2018 and 2017,
+		Row:respectively
+	(2,500,556)
+	(2,334,409)
+Row:Accumulated other comprehensive income (loss)
+	(6,236)
+	(3,659)
+Row:Retained earnings
+	2,573,617
+	2,397,064
+Row:Total shareholders' equity
+	1,441,339
+	1,364,445
+Row:Total liabilities and shareholders' equity
+	2,265,518
+$
+	2,045,692
+$
+Row:December 31, 2018 and 2017, respectively
+	360
+	359
+Row:Additional paid-in capital
+	1,374,154
+	1,305,090
+Row:Treasury stock, at cost, 8,276 and 7,826 common shares at December 31, 2018 and 2017,
+respectively
+	(2,500,556	)
+(2,334,409)
+Row:Accumulated other comprehensive income (loss)
+	(6,236	)
+(3,659)
+Row:Retained earnings
+	2,573,617
+	2,397,064
+Row:shareholders' equity
+	1,441,339
+	1,364,445
+Row:liabilities and shareholders' equity
+	2,265,518
+$
+	2,045,692
+$
+Row:	43
+Row:: CHIPOTLE MEXICAN GRILL INC	, 10-K, February 08, 2019
+Powered by Morningstar Document Research
+Row:information contained herein may not to the extent such damages or losses 	be copied, adapted or distributed and is not warranted to be accurate, complete or timely. The user assumes all risks for any damages or losses arising from any use of this information,
+cannot be limited or excluded by applicable law. Past financial performance is no guarantee of future results.
+Row:	2018
+	2017
+	2016
+Row:Revenue
+	4,864,985 $ $
+	4,476,412 	$
+3,904,384
+Row:Restaurant operating costs (exclusive of depreciation and amortization shown
+			Row:separately below):
+			Row:Food, beverage and packaging
+	1,600,760
+	1,535,428
+	1,365,580
+Row:Labor
+	1,326,079
+	1,205,992
+	1,105,001
+Row:Occupancy
+	347,123
+	327,132
+	293,636
+Row:Other operating costs
+	680,031
+	651,644
+	641,953
+Row:General and administrative expenses
+	375,460
+	296,388
+	276,240
+Row:Depreciation and amortization
+	201,979
+	163,348
+	146,368
+Row:Pre-opening costs
+	8,546
+	12,341
+	17,162
+Row:Impairment, closure costs, and asset disposals
+	66,639
+	13,345
+	23,877
+Row:Total operating expenses
+	4,606,617
+	4,205,618
+	3,869,817
+Row:Income from operations
+	258,368
+	270,794
+	34,567
+Row:Interest and other income, net
+	10,068
+	4,949
+	4,172
+Row:Income before income taxes
+	268,436
+	275,743
+	38,739
+Row:Provision for income taxes
+	(91,883)
+	(99,490)
+	(15,801)
+Row:Net income
+	176,553
+$
+$
+	176,253
+	22,938
+$
+Row:Earnings per share:
+			Row:Basic
+	$
+$
+6.35
+	6.19
+$
+	0.78
+Row:Diluted
+	$
+6.31
+$
+	6.17
+	$
+0.77
+Row:Weighted-average common shares outstanding:
+			Row:Basic
+	27,823
+	28,491
+	29,265
+Row:Diluted
+	27,962
+	28,561
+	29,770
+Row:2018
+	2017
+	2016
+Row:176,553 	$
+176,253 $
+	22,938
+Row:(2,736)
+	4,689
+	(1,291)
+Row:291
+	(274)
+	2,251
+Row:(132)
+	88
+	(849)
+Row:(2,577)
+	4,503
+	111
+Row:173,976
+	180,756
+$
+$
+	23,049
+Row:	(as
+adjusted)"	(as
+) adjusted)")
+Row:Operating activities
+		Row:$
+Net income
+	176,553 $
+176,253 	$
+22,938
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+		Row:Depreciation and amortization
+	201,979
+163,348
+	146,368
+Row:Deferred income tax (benefit) provision
+	10,585
+(18,026	)
+(14,207)
+Row:Impairment, closure costs, and asset disposals
+	61,987
+13,345
+	23,877
+Row:Bad debt allowance
+	125
+214
+	(262)
+Row:Stock-based compensation expense
+	69,164
+65,255
+	64,166
+Row:Other
+	(2,918)
+(218	)
+(1,924)
+Row:Changes in operating assets and liabilities:
+		Row:Accounts receivable
+	(8,298)
+(140	)
+(1,923)
+Row:Inventory
+	(1,722)
+(5,250	)
+(91)
+Row:Prepaid expenses and other current assets
+	(3,811)
+(6,710	)
+(4,259)
+Row:Other assets
+	(2,005)
+(1,476	)
+1,063
+Row:Accounts payable
+	32,080
+10,908
+	(6,734)
+Row:Accrued payroll and benefits
+	29,568
+6,188
+	11,416
+Row:Accrued liabilities
+	14,831
+28,179
+	13,692
+Row:Unearned revenue
+	6,829
+4,207
+	8,383
+Row:Income tax payable/receivable
+	14,439
+(4,173	)
+54,340
+Row:Deferred rent
+	21,297
+29,996
+	37,030
+Row:Other long-term liabilities
+	869
+6,316
+	1,287
+Row:Net cash provided by operating activities
+	621,552
+468,216
+	355,160
+Row:Investing activities
+		Row:Purchases of leasehold improvements, property and equipment
+	(287,390)
+(216,777	(258,842)
+)
+Row:Purchases of investments
+	(485,188)
+(199,801	)
+Row:Maturities of investments
+	385,000
+330,000
+	45,000
+Row:Proceeds from sale of investments
+		540,648
+Row:Net cash provided by (used in) investing activities
+	(387,578
+(86,578	326,806
+)
+Row:Financing activities
+		Row:Acquisition of treasury stock
+	(160,937)
+(285,218	)
+(836,760)
+Row:Tax withholding on share-based compensation awards
+	(5,411)
+(702	)
+(895)
+Row:Stock plan transactions and other financing activities
+	(187)
+26
+	1,372
+Row:Net cash used in financing activities
+	(166,535)
+(285,894	)
+(836,283
+Row:Effect of exchange rate changes on cash and cash equivalents and restricted cash
+	(1,457)
+2,056
+	110
+Row:Net change in cash, cash equivalents, and restricted cash
+	65,982
+97,800
+	(154,207)
+Row:Cash, cash equivalents, and restricted cash at beginning of period
+	214,170
+116,370
+	270,577
+Row:Cash, cash equivalents, and restricted cash at end of period
+$
+	280,152 $
+214,170 	$
+116,370
+Row:Supplemental disclosures of cash flow information
+		Row:Income taxes paid
+$
+	67,053 $
+119,787 	$
+23,862
+Row:Increase (decrease) in purchases of leasehold improvements, property, and equipment accrued
+in accounts payable and accrued liabilities
+$
+	(936) $
+(7,690	) $
+(1,781)
+Row:Increase (decrease) in acquisition of treasury stock accrued in accrued liabilities
+$
+	200 $
+(900	) $
+(22,778)

@@ -1,0 +1,324 @@
+Row:Consolidated Statements of Income
+	2019 	2018 	2017
+Row:Operating Revenues
+			Row:Service 	$ 163,499 	$ 152,345 	$ 145,597
+Row:Equipment 	17,694 	18,411 	14,949
+Row:Total operating revenues 	181,193 	170,756 	160,546
+Row:Operating Expenses
+			Row:Cost of revenues
+			Row:Equipment 	18,653 	19,786 	18,709
+Row:Broadcast, programming and operations 	31,132 	26,727 	21,159
+Row:Other cost of revenues (exclusive of depreciation
+and amortization shown separately below) 	34,356 	32,906 	37,942
+Row:Selling, general and administrative 	39,422 	36,765 	35,465
+Row:Asset abandonments and impairments 	1,458 	46 	2,914
+Row:Depreciation and amortization 	28,217 	28,430 	24,387
+Row:Total operating expenses 	153,238 	144,660 	140,576
+Row:Operating Income 	27,955 	26,096 	19,970
+Row:Other Income (Expense)
+			Row:Interest expense 	(8,422) 	(7,957) 	(6,300)
+Row:Equity in net income (loss) of affiliates 	6 	(48) 	(128)
+Row:Other income (expense) – net 	(1,071) 	6,782 	1,597
+Row:Total other income (expense) 	(9,487) 	(1,223) 	(4,831)
+Row:Income Before Income Taxes 	18,468 	24,873 	15,139
+Row:Income tax (benefit) expense 	3,493 	4,920 	(14,708)
+Row:Net Income 	14,975 	19,953 	29,847
+Row:Less: Net Income Attributable to Noncontrolling Interest 	(1,072) 	(583) 	(397)
+Row:Net Income Attributable to AT&T 	$ 13,903 	$ 19,370 	$ 29,450
+Row:Less: Preferred Stock Dividends 	(3) 	- 	-
+Row:Net Income Attributable to Common Stock 	$ 13,900 	$ 19,370 	$ 29,450
+Row:Basic Earnings Per Share Attributable to Common Stock 	$ 1.90 	$ 2.85 	$ 4.77
+Row:Diluted Earnings Per Share Attributable to Common Stock 	$ 1.89 	$ 2.85 	$ 4.76
+Row:The accompanying notes are an integral part of the consolidated financial statements.
+62
+			Row:Consolidated Statements of Comprehensive Income
+	2019
+	2018
+	2017
+Row:Net income
+	S
+14,975
+	$
+19,953
+	S
+29,847
+Row:Other comprehensive income, net of tax:
+			Row:Foreign Currency:
+			Row:Translation adjustment (includes $(9), $(32) and $(5) attributable to
+			Row:noncontrolling interest), net of taxes of $18, $(45) and $123
+	19
+	(1,062)
+	15
+Row:Securities:
+			Row:Net unrealized gains (losses), net of taxes of $17, $(1) and $109
+	50
+	(4)
+	187
+Row:Reclassification adjustment included in net income, net of taxes of $0, $0
+and $(117)
+			(185)
+Row:Derivative Instruments:
+			Row:Net unrealized gains (losses), net of taxes of $(240), $(156) and $200
+	(900)
+	(597)
+	371
+Row:Reclassification adjustment included in net income, net of taxes of $12, $6
+			Row:and $21
+	45
+	13
+	39
+Row:Defined benefit postretirement plans:
+			Row:Net prior service credit arising during period, net of taxes of $1,134, $271
+			Row:and $675
+	3,457
+	830
+	1,083
+Row:Amortization of net prior service credit included in net income, net of taxes of
+			Row:$(475), $(431) and $(604)
+	(1,459)
+	(1,322)
+	(988)
+Row:Other comprehensive income (loss)
+	1,212
+	(2,142)
+	522
+Row:Total comprehensive income
+	16,187
+	17,811
+	30,369
+Row:Less: Total comprehensive income attributable to noncontrolling interest
+	(1,063)
+	(551)
+	(392)
+Row:Total Comprehensive Income Attributable to AT&T
+	15,124
+$
+	17,260
+$
+	29,977
+$
+Row:The accompanying notes are an integral part of the consolidated financial statements.
+			Row:Assets
+	2019 	2018
+Row:Current Assets
+		Row:Cash and cash equivalents $ 	12,130 	$ 5,204
+Row:Accounts receivable - net of allowances for doubtful accounts of $1,235 and $907 	22,636 	26,472
+Row:Prepaid expenses 	1,631 	2,047
+Row:Other current assets 	18,364 	17,704
+Row:Total current assets 	54,761 	51,427
+Row:Noncurrent inventories and theatrical film and television production costs 	12,434 	7,713
+Row:Property, Plant and Equipment – Net 	130,128 	131,473
+Row:Goodwill 	146,241 	146,370
+Row:Licenses – Net 	97,907 	96,144
+Row:Trademarks and Trade Names – Net 	23,567 	24,345
+Row:Distribution Networks – Net 	15,345 	17,069
+Row:Other Intangible Assets – Net 	20,798 	26,269
+Row:Investments in and Advances to Equity Affiliates 	3,695 	6,245
+Row:Operating lease right-of-use assets 	24,039 	-
+Row:Other Assets 	22,754 	24,809
+Row:Total Assets $ 	551,669 	$ 531,864
+Row:Liabilities and Stockholders’ Equity
+		Row:Current Liabilities
+		Row:Debt maturing within one year $ 	11,838 	$ 10,255
+Row:Accounts payable and accrued liabilities 	45,956 	43,184
+Row:Advanced billings and customer deposits 	6,124 	5,948
+Row:Accrued taxes 	1,212 	1,179
+Row:Dividends payable 	3,781 	3,854
+Row:Total current liabilities 	68,911 	64,420
+Row:Long-Term Debt 	151,309 	166,250
+Row:Deferred Credits and Other Noncurrent Liabilities
+		Row:Deferred income taxes 	59,502 	57,859
+Row:Postemployment benefit obligation 	18,788 	19,218
+Row:Operating lease liabilities 	21,804 	-
+Row:Other noncurrent liabilities 	29,421 	30,233
+Row:Total deferred credits and other noncurrent liabilities 	129,515 	107,310
+Row:Stockholders’ Equity
+		Row:Preferred stock ($1 par value, 5% cumulative, 10,000,000 authorized, 48,000 shares issued
+and outstanding at December 31, 2019 and 0 issued and outstanding at December 31, 2018) 	- 	-
+Row:Common stock ($1 par value, 14,000,000,000 authorized at December 31, 2019 and
+December 31, 2018: issued 7,620,748,598 at December 31, 2019 and at December 31, 2018) 	7,621 	7,621
+Row:Additional paid-in capital 	126,279 	125,525
+Row:Retained earnings 	57,936 	58,753
+Row:Treasury stock (366,193,458 at December 31, 2019 and 339,120,073 at December 31, 2018,
+		Row:at cost) 	(13,085) 	(12,059)
+Row:Accumulated other comprehensive income 	5,470 	4,249
+Row:Noncontrolling interest 	17,713 	9,795
+Row:Total stockholders’ equity 	201,934 	193,884
+Row:Total Liabilities and Stockholders’ Equity $ 	551,669 	$ 531,864
+Row:The accompanying notes are an integral part of the consolidated financial statements.
+		Row:Consolidated Statements of Cash Flows
+	2019
+	2018
+	2017
+Row:Operating Activities
+			Row:Net income
+	S
+14,975 	$
+19,953 	$
+29,847
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+			Row:Depreciation and amortization
+	28,217
+	28,430
+	24,387
+Row:Amortization of film and television costs
+	9,587
+	3,772
+	Row:Undistributed earnings from investments in equity affiliates
+	295
+	292
+	174
+Row:Provision for uncollectible accounts
+	2,575
+	1,791
+	1,642
+Row:Deferred income tax expense (benefit)
+	1,806
+	4,931
+	(15,265)
+Row:Net (gain) loss from sale of investments, net of impairments
+	(1,218)
+	(739)
+	(282)
+Row:Pension and postretirement benefit expense (credit)
+	(2,002)
+	(1,148)
+	(1,031)
+Row:Actuarial (gain) loss on pension and postretirement benefits
+	5,171
+	(3,412)
+	1,258
+Row:Asset abandonments and impairments
+	1,458
+	46
+	2,914
+Row:Changes in operating assets and liabilities:
+			Row:Receivables
+	2,812
+	(1,580)
+	(986)
+Row:Other current assets, inventories and theatrical film and television
+			Row:production costs
+	(12,852)
+	(6,442)
+	(778)
+Row:Accounts payable and other accrued liabilities
+	(1,524)
+	1,602
+	816
+Row:Equipment installment receivables and related sales
+	548
+	(490)
+	(1,239)
+Row:Deferred customer contract acquisition and fulfillment costs
+	(910)
+	(3,458)
+	(1,422)
+Row:Postretirement claims and contributions
+	(1,008)
+	(936)
+	(2,064)
+Row:Other - net
+	738
+	990
+	39
+Row:Total adjustments
+	33,693
+	23,649
+	8,163
+Row:Net Cash Provided by Operating Activities
+	48,668
+	43,602
+	38,010
+Row:Investing Activities
+			Row:Capital expenditures:
+			Row:Purchase of property and equipment
+	(19,435)
+	(20,758)
+	(20,647)
+Row:Interest during construction
+	(200)
+	(493)
+	(903)
+Row:Acquisitions, net of cash acquired
+	(1,809)
+	(43,309)
+	1,123
+Row:Dispositions
+	4,684
+	2,148
+	59
+Row:(Purchases), sales and settlement of securities and investments, net
+	435
+	(183)
+	449
+Row:Advances to and investments in equity affiliates
+	(365)
+	(1,050)
+	Row:Cash collections of deferred purchase price
+		500
+	976
+Row:Net Cash Used in Investing Activities
+	(16,690)
+	(63,145)
+	(18,943)
+Row:Financing Activities
+			Row:Net change in short-term borrowings with original maturities of
+			Row:three months or less
+	(276)
+	(821)
+	(2)
+Row:Issuance of other short-term borrowings
+	4,012
+	4,898
+	Row:Repayment of other short-term borrowings
+	(6,904)
+	(2,098)
+	Row:Issuance of long-term debt
+	17,039
+	41,875
+	48,793
+Row:Repayment of long-term debt
+	(27,592)
+	(52,643)
+	(12,339)
+Row:Payment of vendor financing
+	(3,050)
+	(560)
+	(572)
+Row:Issuance of preferred stock
+	1,164
+		Row:Purchase of treasury stock
+	(2,417)
+	(609)
+	(463)
+Row:Issuance of treasury stock
+	631
+	745
+	33
+Row:Issuance of preferred interests in subsidiary
+	7,876
+		Row:Dividends paid
+	(14,888)
+	(13,410)
+	(12,038)
+Row:Other
+	(678)
+	(3,366)
+	2,518
+Row:Net Cash (Used in) Provided by Financing Activities
+	(25,083)
+	(25,989)
+	25,930
+Row:Net increase (decrease) in cash and cash equivalents and restricted cash
+	6,895
+	(45,532)
+	44,997
+Row:Cash and cash equivalents and restricted cash beginning of year
+	5,400
+	50,932
+	5,935
+Row:Cash and Cash Equivalents and Restricted Cash 	End of Year $ 12,295 $ 	5,400 $ 	50,932
+Row:The accompanying notes are an integral part of the 	consolidated financial statements.
+		Row:	66
+		

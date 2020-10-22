@@ -1,0 +1,120 @@
+Row:	2017 	2016 	2015
+Row:Net Revenue 	$ 63,525 	$ 62,799 	$ 63,056
+Row:Cost of sales 	28,785 	28,209 	28,731
+Row:Gross profit 	34,740 	34,590 	34,325
+Row:Selling, general and administrative expenses 	24,231 	24,805 	24,613
+Row:Venezuela impairment charges 	— 	— 	1,359
+Row:Operating Profit 	10,509 	9,785 	8,353
+Row:Interest expense 	(1,151) 	(1,342) 	(970)
+Row:Interest income and other 	244 	110 	59
+Row:Income before income taxes 	9,602 	8,553 	7,442
+Row:Provision for income taxes (See Note 5) 	4,694 	2,174 	1,941
+Row:Net income 	4,908 	6,379 	5,501
+Row:Less: Net income attributable to noncontrolling interests 	51 	50 	49
+Row:Net Income Attributable to PepsiCo 	$ 4,857 	$ 6,329 	$ 5,452
+Row:Net Income Attributable to PepsiCo per Common Share
+			Row:Basic 	$ 3.40 	$ 4.39 	$ 3.71
+Row:Diluted 	$ 3.38 	$ 4.36 	$ 3.67
+Row:Weighted-average common shares outstanding
+			Row:Basic 	1,425 	1,439 	1,469
+Row:Diluted 	1,438 	1,452 	1,485
+Row:Cash dividends declared per common share 	$ 3.1675 	$ 2.96 	$ 2.7625
+Row:2017 	2016 	2015
+Row:Operating Activities
+		Row:Net income $ 4,908 	$ 6,379 	$ 5,501
+Row:Depreciation and amortization 2,369 	2,368 	2,416
+Row:Share-based compensation expense 292 	284 	295
+Row:Restructuring and impairment charges 295 	160 	230
+Row:Cash payments for restructuring charges (113) 	(125) 	(208)
+Row:Charges related to the transaction with Tingyi — Venezuela impairment charges — Pension and retiree medical plan expenses 221 Pension and retiree medical plan contributions (220) 	373 — 501 (695) 	73
+1,359
+467
+(205)
+Row:Deferred income taxes and other tax charges and credits 619 	452 	78
+Row:Provisional net tax expense related to the TCJ Act 2,451 	— 	—
+Row:Change in assets and liabilities:
+		Row:Accounts and notes receivable (202) 	(349) 	(461)
+Row:Inventories (168) 	(75) 	(244)
+Row:Prepaid expenses and other current assets 20 	10 	(50)
+Row:Accounts payable and other current liabilities 201 	997 	1,692
+Row:Income taxes payable (338) 	329 	55
+Row:Other, net (341) 	64 	(134)
+Row:Net Cash Provided by Operating Activities 9,994 	10,673 	10,864
+Row:Investing Activities
+		Row:Capital spending (2,969) 	(3,040) 	(2,758)
+Row:Sales of property, plant and equipment 180 	99 	86
+Row:Acquisitions and investments in noncontrolled affiliates (61) 	(212) 	(86)
+Row:Reduction of cash due to Venezuela deconsolidation — 	— 	(568)
+Row:Divestitures 267 	85 	76
+Row:Short-term investments, by original maturity:
+More than three months - purchases (18,385) More than three months - maturities 15,744 	(12,504) 8,399 	(4,428)
+4,111
+Row:More than three months - sales 790 	— 	—
+Row:Three months or less, net 2 	16 	3
+Row:Other investing, net 29 	9 	(5)
+Row:Net Cash Used for Investing Activities (4,403) Financing Activities
+Proceeds from issuances of long-term debt 7,509 	(7,148) 7,818 	(3,569)
+8,702
+Row:Payments of long-term debt (4,406) 	(3,105) 	(4,095)
+Row:Debt redemptions — Short-term borrowings, by original maturity:
+	(2,504) 	—
+Row:Financing Activities
+		Row:Proceeds from issuances of long-term debt 7,509 	7,818 	8,702
+Row:Payments of long-term debt (4,406) 	(3,105) 	(4,095)
+Row:Debt redemptions — 	(2,504) 	—
+Row:Short-term borrowings, by original maturity:
+		Row:More than three months - proceeds 91 	59 	15
+Row:More than three months - payments (128) 	(27) 	(43)
+Row:Three months or less, net (1,016) 	1,505 	53
+Row:Cash dividends paid (4,472) 	(4,227) 	(4,040)
+Row:Share repurchases - common (2,000) 	(3,000) 	(5,000)
+Row:Share repurchases - preferred (5) 	(7) 	(5)
+Row:Proceeds from exercises of stock options 462 	465 	504
+Row:Withholding tax payments on RSUs, PSUs and PEPunits converted (145) 	(130) 	(151)
+Row:Other financing (76) 	(58) 	(52)
+Row:Net Cash Used for Financing Activities (4,186) 	(3,211) 	(4,112)
+Row:Effect of exchange rate changes on cash and cash equivalents 47 	(252) 	(221)
+Row:Net Increase in Cash and Cash Equivalents 1,452 	62 	2,962
+Row:Cash and Cash Equivalents, Beginning of Year 9,158 	9,096 	6,134
+Row:Cash and Cash Equivalents, End of Year $ 10,610 	$ 9,158 	$ 9,096
+Row:ASSETS
+	Row:Current Assets
+	Row:Cash and cash equivalents $ 	10,610 $ 9,158
+Row:Short-term investments 	8,900 6,967
+Row:Accounts and notes receivable, net 	7,024 6,694
+Row:Inventories 	2,947 2,723
+Row:Prepaid expenses and other current assets 	1,546 908
+Row:Total Current Assets 	31,027 26,450
+Row:Property, Plant and Equipment, net 	17,240 16,591
+Row:Amortizable Intangible Assets, net 	1,268 1,237
+Row:Goodwill 	14,744 14,430
+Row:Other nonamortizable intangible assets 	12,570 12,196
+Row:Nonamortizable Intangible Assets 	27,314 26,626
+Row:Investments in Noncontrolled Affiliates 	2,042 1,950
+Row:Other Assets 	913 636
+Row:Total Assets $ 	79,804 $ 73,490
+Row:LIABILITIES AND EQUITY
+		Row:Current Liabilities
+		Row:Short-term debt obligations $ 	5,485 	$ 6,892
+Row:Accounts payable and other current liabilities 	15,017 	14,243
+Row:Total Current Liabilities 	20,502 	21,135
+Row:Long-Term Debt Obligations 	33,796 	30,053
+Row:Other Liabilities 	11,283 	6,669
+Row:Deferred Income Taxes 	3,242 	4,434
+Row:Total Liabilities 	68,823 	62,291
+Row:Commitments and contingencies
+		Row:Preferred Stock, no par value 	41 	41
+Row:Repurchased Preferred Stock 	(197) 	(192)
+Row:PepsiCo Common Shareholders’ Equity
+		Row:Common common stock, stock par at par value value: 12/
+3
+¢ 1,420 per share and 1,428 (authorized shares, 3,600 respectively) shares, issued, net of repurchased
+	24 	24
+Row:Capital in excess of par value 	3,996 	4,091
+Row:Retained earnings 	52,839 	52,518
+Row:Accumulated other comprehensive loss 	(13,057) 	(13,919)
+Row:Repurchased common stock, in excess of par value (446 and 438 shares, respectively) 	(32,757) 	(31,468)
+Row:Total PepsiCo Common Shareholders’ Equity 	11,045 	11,246
+Row:Noncontrolling interests 	92 	104
+Row:Total Equity 	10,981 	11,199
+Row:Total Liabilities and Equity $ 	79,804 	$ 73,490

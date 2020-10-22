@@ -1,0 +1,153 @@
+Row:	2019 	2018 	2017
+Row:Net sales 	$ 4,353.1 	$ 4,517.2 	$ 3,793.7
+Row:Cost of goods sold 	(3,465.3) 	(3,555.3) 	(3,026.4)
+Row:Gross profit 	887.8 	961.9 	767.3
+Row:Selling, general and administrative expenses 	(552.8) 	(549.4) 	(539.1)
+Row:Income (loss) from operations 	335.0 	412.5 	228.2
+Row:Other income (expense)
+			Row:Interest income 	6.5 	8.7 	6.3
+Row:Interest expense 	(87.9) 	(72.8) 	(67.2)
+Row:Loss on early extinguishment of debt 	— 	(0.7) 	(52.6)
+Row:Other income (expense) – net 	(6.1) 	(60.6) 	48.7
+Row:Income (loss) from continuing operations before income taxes 	247.5 	287.1 	163.4
+Row:(Provision for) benefit from income taxes 	(37.8) 	(45.4) 	(52.4)
+Row:Income (loss) from continuing operations 	209.7 	241.7 	111.0
+Row:Income (loss) from discontinued operations – net of tax 	(155.4) 	(130.4) 	(49.6)
+Row:Gain (loss) on disposition of discontinued operations – net of tax 	0.1 	2.4 	67.3
+Row:Net income (loss) 	$ 54.4 	$ 113.7 	$ 128.7
+Row:Basic earnings (loss) per share:
+			Row:Income (loss) from continuing operations 	$ 2.95 	$ 3.21 	$ 1.20
+Row:Income (loss) from discontinued operations – net of tax 	(2.18) 	(1.73) 	(0.53)
+Row:Gain (loss) on disposition of discontinued operations – net of tax 	— 	0.03 	0.72
+Row:Net income (loss) 	$ 0.77 	$ 1.51 	$ 1.39
+Row:Basic earnings (loss) per share:
+			Row:Income (loss) from continuing operations 	$ 2.95 	$ 3.21 	$ 1.20
+Row:Income (loss) from discontinued operations – net of tax 	(2.18) 	(1.73) 	(0.53)
+Row:Gain (loss) on disposition of discontinued operations – net of tax 	— 	0.03 	0.72
+Row:Net income (loss) 	$ 0.77 	$ 1.51 	$ 1.39
+Row:Diluted earnings (loss) per share:
+			Row:Income (loss) from continuing operations 	$ 2.92 	$ 3.14 	$ 1.17
+Row:Income (loss) from discontinued operations – net of tax 	(2.16) 	(1.69) 	(0.52)
+Row:Gain (loss) on disposition of discontinued operations – net of tax 	— 	0.03 	0.71
+Row:Net income (loss) 	$ 0.76 	$ 1.48 	$ 1.36
+Row:Weighted average number of shares outstanding in per share calculation
+			Row:Basic 	71.1 	75.4 	92.8
+Row:Diluted 	71.8 	76.9 	94.9
+Row:2019 	2018
+Row:Assets
+Current assets
+	Row:Cash and cash equivalents $ 535.1 	$ 339.5
+Row:Trade receivables (net of allowance of $9.9 and $9.1 at December 31, 2019 and 2018, respectively) 401.9 	535.0
+Row:Inventories 847.7 	918.9
+Row:Prepaid and other current assets 225.8 	170.1
+Row:Current assets held for sale 	9.2 459.5
+Row:Total current assets 2,019.7 	2,423.0
+Row:Non-current assets
+	Row:Property, plant and equipment – net 389.4 	317.3
+Row:Goodwill 269.9 	265.2
+Row:Intangible assets – net 	9.7 11.4
+Row:Other assets 506.3 	400.6
+Row:Non-current assets held for sale 	0.6 68.4
+Row:Total assets $ 3,195.6 	$ 3,485.9
+Row:Liabilities and Stockholders’ Equity
+	Row:Current liabilities
+	Row:Current portion of long-term debt $ 	6.9 $ 4.1
+Row:Trade accounts payable 508.1 	687.2
+Row:Accrued compensation and benefits 100.3 	123.1
+Row:Other current liabilities 248.7 	220.8
+Row:Current liabilities held for sale Total current liabilities 872.4 	8.4 179.5
+1,214.7
+Row:Non-current liabilities
+	Row:Long-term debt, less current portion 1,168.8 	1,210.6
+Row:Other non-current liabilities 220.9 	113.1
+Row:Non-current liabilities held for sale 	1.2 86.5
+Row:Total liabilities 2,263.3 	2,624.9
+Row:Commitments and contingencies
+	Row:Stockholders’ equity
+Common stock, $.01 par value – authorized 300.0 shares; issued 82.2 and 81.3 shares at December
+31, 2019 and 2018, respectively 	0.8 0.8
+Row:Additional paid-in capital 824.4 	797.3
+Row:Retained earnings 771.4 	749.0
+Row:Accumulated other comprehensive income (loss) (257.5) 	(284.8)
+Row:Less cost of shares of common stock in treasury – 11.8 and 11.7 shares at December 31, 2019 and
+2018, respectively (406.8) 	(401.8)
+Row:Total Terex Corporation stockholders’ equity 932.3 	860.5
+Row:Noncontrolling interest 	— 0.5
+Row:Total stockholders’ equity 932.3 	861.0
+Row:Total liabilities and stockholders’ equity $ 3,195.6 The accompanying notes are an integral part of these consolidated financial statements.
+	$ 3,485.9
+Row:Current assets
+	Row:Cash and cash equivalents $ 	535.1 $ 339.5
+Row:Trade receivables (net of allowance of $9.9 and $9.1 at December 31, 2019 and 2018, respectively) 	401.9 535.0
+Row:Inventories 	847.7 918.9
+Row:Prepaid and other current assets 	225.8 170.1
+Row:Current assets held for sale 	9.2 459.5
+Row:Total current assets 	2,019.7 2,423.0
+Row:Non-current assets
+	Row:Property, plant and equipment – net 	389.4 317.3
+Row:Goodwill 	269.9 265.2
+Row:Intangible assets – net 	9.7 11.4
+Row:Other assets 	506.3 400.6
+Row:Non-current assets held for sale 	0.6 68.4
+Row:Total assets $ 	3,195.6 $ 3,485.9
+Row:Current liabilities
+		Row:Current portion of long-term debt 	$ 6.9 	$ 4.1
+Row:Trade accounts payable 	508.1 	687.2
+Row:Accrued compensation and benefits 	100.3 	123.1
+Row:Other current liabilities 	248.7 	220.8
+Row:Current liabilities held for sale 	8.4 	179.5
+Row:Total current liabilities 	872.4 	1,214.7
+Row:Common stock, $.01 par value – authorized 300.0 shares; issued 82.2 and 81.3 shares at December
+31, 2019 and 2018, respectively 	0.8 0.8
+Row:Additional paid-in capital 	824.4 797.3
+Row:Retained earnings 	771.4 749.0
+Row:Accumulated other comprehensive income (loss) 	(257.5) (284.8)
+Row:Less cost of shares of common stock in treasury – 11.8 and 11.7 shares at December 31, 2019 and
+2018, respectively 	(406.8) (401.8)
+Row:Total Terex Corporation stockholders’ equity 	932.3 860.5
+Row:Noncontrolling interest 	— 0.5
+Row:Total stockholders’ equity 	932.3 861.0
+Row:Total liabilities and stockholders’ equity $ 	3,195.6 $ 3,485.9
+Row:Noncontrolling interest 	— Row:Total stockholders’ equity 	932.3 Row:Total liabilities and stockholders’ equity 	$ 3,195.6 Row:Operating 	2019 Activities
+		2018 	2017
+Row:Net 	income (loss) $ 54.4 		$ 113.7 	$ 128.7
+Row:	Adjustments to reconcile net income (loss) to net cash provided by (used in) operating
+activities:
+			Row:	Depreciation and amortization 49.6 		59.7 	66.5
+Row:	(Gain) loss on disposition of discontinued operations 	(0.1) 	(2.4) 	(68.7)
+Row:	Deferred taxes (17.6) 		(9.1) 	37.6
+Row:	Impairments 83.6 		9.0 	6.8
+Row:	(Gain) loss on sale of assets 	(9.8) 	(1.9) 	(58.0)
+Row:	Loss on early extinguishment of debt 	— 	0.7 	52.6
+Row:	Stock-based compensation expense 43.1 		36.7 	38.5
+Row:Changes 	Pension plan settlements Inventory and other non-cash charges 47.6 in operating assets and liabilities (net of effects of acquisitions and
+divestitures):
+	— 	67.8 30.3 	1.5
+34.0
+Row:	Trade receivables 176.1 		(107.9) 	(0.5)
+Row:	Inventories 20.3 		(284.2) 	(33.5)
+Row:	Trade accounts payable (220.1) 		213.2 	25.0
+Row:	Other assets and liabilities (57.0) 		(25.1) 	(46.0)
+Row:Foreign 	exchange and other operating activities, net 	3.3 	(6.3) 	(31.5)
+Row:	Net cash provided by (used in) operating activities 173.4 		94.2 	153.0
+Row:Investing 	Activities
+			Row:	Capital expenditures (108.9) 		(103.8) 	(43.5)
+Row:	Proceeds from sale of capital assets 	4.3 	2.8 	20.2
+Row:	Proceeds from disposition of investments 30.7 		19.3 	783.2
+Row:	Proceeds (payments) from disposition of discontinued operations 177.7 		2.5 	775.7
+Row:	Other investing activities, net 	— 	(6.7) 	—
+Row:	Net cash provided by (used in) investing activities 103.8 		(85.9) 	1,535.6
+Row:Financing 	Activities
+Repayments of debt (1,660.5) 		(1,150.1) 	(1,594.1)
+Row:	Proceeds from issuance of debt 1,616.6 		1,382.3 	1,010.7
+Row:	Payment of debt extinguishment costs 	— 	(0.5) 	(36.4)
+Row:	Share repurchases 	(7.4) 	(427.5) 	(924.9)
+Row:	Dividends paid (31.4) 		(30.0) 	(29.5)
+Row:	Other financing activities, net (21.0) 		(19.1) 	(32.3)
+Row:	Net cash provided by (used in) financing activities (103.7) 		(244.9) 	(1,606.5)
+Row:Effect of Net 	Exchange Rate Changes on Cash and Cash Equivalents Increase (Decrease) in Cash and Cash Equivalents 168.0 	(5.5) 	(21.4) (258.0) 	46.1
+128.2
+Row:Cash and 	Cash Equivalents at Beginning of Period 372.1 		630.1 	501.9
+Row:Cash and 	Cash Equivalents at End of Period $ 540.1 		$ 372.1 	$ 630.1
+Row:	The accompanying notes are an integral part of these consolidated financial 		statements.
+	

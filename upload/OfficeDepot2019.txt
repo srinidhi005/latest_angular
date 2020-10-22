@@ -1,0 +1,224 @@
+Row:	2019 	2018 	2017
+Row:Sales:
+			Row:Products 	$ 9,034 	$ 9,322 	$ 9,320
+Row:Services 	1,613 	1,693 	920
+Row:Total sales 	10,647 	11,015 	10,240
+Row:Cost of goods sold and occupancy costs:
+			Row:Products 	7,088 	7,313 	7,236
+Row:Services 	1,095 	1,151 	543
+Row:Total cost of goods sold and occupancy costs 	8,183 	8,464 	7,779
+Row:Gross profit 	2,464 	2,551 	2,461
+Row:Selling, general and administrative expenses 	2,101 	2,193 	2,036
+Row:Asset impairments 	56 	7 	4
+Row:Merger and restructuring expenses, net 	116 	72 	94
+Row:Legal expense accrual 	— 	25 	—
+Row:Operating income 	191 	254 	327
+Row:Other income (expense):
+			Row:Interest income 	23 	25 	22
+Row:Interest expense 	(89) 	(121) 	(62)
+Row:Loss on extinguishment and modification of debt 	— 	(15) 	—
+Row:Other income, net 	21 	15 	12
+Row:Income from continuing operations before income taxes 	146 	158 	299
+Row:Income tax expense 	47 	59 	153
+Row:Net income from continuing operations 	99 	99 	146
+Row:Discontinued operations, net of tax 	— 	5 	35
+Row:Net income 	$ 99 	$ 104 	$ 181
+Row:Basic earnings per common share
+			Row:Continuing operations 	$ 0.18 	$ 0.18 	$ 0.28
+Row:Discontinued operations 	— 	0.01 	0.07
+Row:Net basic earnings per common share 	$ 0.18 	$ 0.19 	$ 0.35
+Row:Diluted earnings per common share
+			Row:Continuing operations 	$ 0.18 	$ 0.18 	$ 0.27
+Row:Discontinued operations 	— 	0.01 	0.06
+Row:Net diluted earnings per common share 	$ 0.18 	$ 0.19 	$ 0.34
+Row:The accompanying notes to Consolidated Financial Statements are an integral part of these 	statements.
+		Row:	2019 	2018 	2017
+Row:Net income 	$ 99 	$ 104 	$ 181
+Row:Other comprehensive income (loss), net of tax, where applicable:
+			Row:Foreign currency translation adjustments 	21 	(36) 	25
+Row:Reclassification of foreign currency translation adjustments realized
+upon disposal of businesses 	— 	29 	(1)
+Row:Change in deferred pension, net of $6 million, $9 million and $15
+million of deferred income taxes in 2019, 2018 and 2017, respectively 	12 	(14) 	28
+Row:Other 	— 	— 	(1)
+Row:Total other comprehensive income (loss), net of tax, where applicable 	33 	(21) 	51
+Row:Comprehensive income 	$ 132 	$ 83 	$ 232
+Row:The accompanying notes to Consolidated Financial Statements are an integral part of these 	statements.
+		Row:	2019 	2018
+Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 698 	$ 658
+Row:Receivables, net 	823 	885
+Row:Inventories 	1,032 	1,065
+Row:Prepaid expenses and other current assets 	75 	75
+Row:Timber notes receivable, current maturities 	819 	—
+Row:Total current assets 	3,447 	2,683
+Row:Property and equipment, net 	679 	763
+Row:Operating lease right-of-use assets 	1,413 	—
+Row:Goodwill 	944 	914
+Row:Other intangible assets, net 	388 	422
+Row:Timber notes receivable 	— 	842
+Row:Deferred income taxes 	183 	284
+Row:Other assets 	257 	258
+Row:Total assets 	$ 7,311 	$ 6,166
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Trade accounts payable 	$ 1,026 	$ 1,110
+Row:Accrued expenses and other current liabilities 	1,219 	978
+Row:Income taxes payable 	8 	2
+Row:Short-term borrowings and current maturities of long-term debt 	106 	95
+Row:Non-recourse debt, current maturities 	735 	—
+Row:Total current liabilities 	3,094 	2,185
+Row:Deferred income taxes and other long-term liabilities 	176 	300
+Row:Pension and postretirement obligations, net 	85 	111
+Row:Long-term debt, net of current maturities 	575 	690
+Row:Operating lease liabilities 	1,208 	—
+Row:Non-recourse debt 	— 	754
+Row:Total liabilities 	5,138 	4,040
+Row:Commitments and contingencies
+		Row:Stockholders’ equity:
+		Row:Common stock — authorized 800,000,000 shares of $0.01 par value; issued shares —
+620,424,775 at December 28, 2019 and 614,170,704 at December 29, 2018;
+outstanding shares — 535,182,317 at December 28, 2019 and 543,833,428
+at December 29, 2018 	6 	6
+Row:Additional paid-in capital 	2,647 	2,677
+Row:Accumulated other comprehensive loss 	(66) 	(99)
+Row:Accumulated deficit 	(89) 	(173)
+Row:Treasury stock, at cost — 85,242,458 shares at December 28, 2019 and 70,337,276
+shares at December 29, 2018 	(325) 	(285)
+Row:Total stockholders’ equity 	2,173 	2,126
+Row:Total liabilities and stockholders’ equity 	$ 7,311 	$ 6,166
+Row:The accompanying notes to Consolidated Financial Statements are an integral part of these statements.
+		Row:57
+		Row:December 29, 2018 	6 	6
+Row:Additional paid-in capital 	2,647 	2,677
+Row:Accumulated other comprehensive loss 	(66) 	(99)
+Row:Accumulated deficit 	(89) 	(173)
+Row:Treasury stock, at cost — 85,242,458 shares at December 28, 2019 and 70,337,276
+shares at December 29, 2018 	(325) 	(285)
+Row:Total stockholders’ equity 	2,173 	2,126
+Row:Total liabilities and stockholders’ equity 	$ 7,311 	$ 6,166
+Row:	2019 	2018 	2017
+Row:Cash flows from operating activities of continuing operations:
+			Row:Net income $ 	99 	$ 104 	$ 181
+Row:Income from discontinued operations, net of tax 	— 	5 	35
+Row:Net income from continuing operations 	99 	99 	146
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+			Row:Depreciation and amortization 	204 	192 	159
+Row:Amortization of debt discount and issuance costs 	8 	10 	3
+Row:Charges for losses on receivables and inventories 	26 	37 	70
+Row:Asset impairments 	56 	7 	4
+Row:Gain on disposition of assets, net 	(23) 	(5) 	(4)
+Row:Loss on extinguishment and modification of debt 	— 	15 	—
+Row:Compensation expense for share-based payments 	33 	27 	28
+Row:Deferred income taxes and deferred tax asset valuation allowances 	100 	40 	137
+Row:Contingent consideration payments in excess of acquisition-date liability 	(11) 	— 	—
+Row:Changes in assets and liabilities:
+			Row:Decrease in receivables 	63 	43 	15
+Row:Decrease (increase) in inventories 	19 	(2) 	160
+Row:Net decrease in prepaid expenses, operating lease right-of-use assets, and other
+assets 	321 	4 	2
+Row:Net increase (decrease) in trade accounts payable, accrued expenses, operating
+lease liabilities, and other current and other long-term liabilities 	(532) 	140 	(252)
+Row:Other operating activities 	3 	9 	(1)
+Row:Total adjustments 	267 	517 	321
+Row:Net cash provided by operating activities of continuing operations 	366 	616 	467
+Row:Cash flows from investing activities of continuing operations:
+			Row:Capital expenditures 	(150) 	(187) 	(141)
+Row:Businesses acquired, net of cash acquired 	(22) 	(81) 	(872)
+Row:Proceeds from disposition of assets 	50 	15 	30
+Row:Purchase of leased head office facility 	— 	— 	(42)
+Row:Other investing activities 	3 	4 	(5)
+Row:Net cash used in investing activities of continuing operations 	(119) 	(249) 	(1,030)
+Row:Cash flows from financing activities of continuing operations:
+			Row:Net payments on long and short-term borrowings 	(98) 	(97) 	(31)
+Row:Cash used in extinguishment and modification of debt 	— 	(7) 	—
+Row:Debt retirement 	(735) 	(194) 	—
+Row:Debt issuance 	736 	— 	728
+Row:Cash dividends on common stock 	(55) 	(55) 	(53)
+Row:Share purchases for taxes, net of proceeds from employee share-based transactions 	(9) 	(3) 	(17)
+Row:Repurchase of common stock for treasury 	(40) 	(39) 	(56)
+Row:Contingent consideration payments up to amount of acquisition-date liability 	(12) 	— 	—
+Row:Acquisition of non-controlling interest 	— 	(18) 	—
+Row:Payment to extinguish finance lease obligation 	— 	— 	(92)
+Row:Other financing activities 	1 	(1) 	(6)
+Row:Net cash provided by (used in) financing activities of continuing operations 	(212) 	(414) 	473
+Row:Cash flows from discontinued operations:
+			Row:Operating activities of discontinued operations 	— 	11 	(9)
+Row:Investing activities of discontinued operations 	— 	66 	(68)
+Row:Financing activities of discontinued operations 	— 	— 	(8)
+Row:Net cash provided by (used in) discontinued operations 	— 	77 	(85)
+Row:Effect of exchange rate changes on cash and cash equivalents 	5 	(9) 	7
+Row:Net increase (decrease) in cash, cash equivalents and restricted cash 	40 	21 	(168)
+Row:Cash, cash equivalents and restricted cash at beginning of period 	660 	639 	807
+Row:Cash, cash equivalents and restricted cash at end of period 	700 	660 	639
+Row:Cash and cash equivalents of discontinued operations 	— 	— 	14
+Row:Cash, cash equivalents and restricted cash at end of period — continuing operations $ 	700 	$ 660 	$ 625
+Row:Supplemental information on operating, investing, and financing activities
+			Row:Cash interest paid, net of amounts capitalized and Timber notes/Non-recourse debt $ 	61 	$ 93 	$ 34
+Row:Cash taxes paid (refunded), net $ 	(43) 	$ (5) 	$ 18
+Row:Non-cash asset additions under finance leases $ 	27 	$ 24 	$ 5
+Row:The accompanying notes to Consolidated Financial Statements are an integral part of these statements.
+			Row:	Common
+Stock
+Shares
+	Common
+Stock
+Amount
+Additional
+Paid-in
+Capital
+	Other
+Comprehensive
+Income (Loss)
+	Accumulated
+Deficit
+	Treasury
+Stock
+	Total
+Equity
+Row:Balance at December 31, 2016 	557,892,568 	$ 6 $ 2,618 	$ (129) 	$ (453) 	$ (190) 	$ 1,852
+Row:Net income 	— 	— — 	— 	181 	— 	181
+Row:Other comprehensive income 	— 	— — 	51 	— 	— 	51
+Row:Exercise and release of incentive stock
+(including income tax benefits and
+						Row:withholding) 	8,702,452 	— (17) 	— 	— 	— 	(17)
+Row:Amortization of long-term incentive stock
+						Row:grants 	— 	— 29 	— 	— 	— 	29
+Row:Dividends paid on common stock
+						Row:($0.10 per share) 	— 	— (53) 	— 	— 	— 	(53)
+Row:Adjustment for adoption of accounting standard 	— 	— 1 	— 	(1) 	— 	—
+Row:Common stock issuance related to the
+CompuCom acquisition 	43,758,974 	— 135 	— 	— 	— 	135
+Row:Noncontrolling interest redemption value
+						Row:adjustment 	— 	— (2) 	— 	— 	— 	(2)
+Row:Repurchase of common stock 	— 	— — 	— 	— 	(56) 	(56)
+Row:Balance at December 30, 2017 	610,353,994 	$ 6 $ 2,711 	$ (78) 	$ (273) 	$ (246) 	$ 2,120
+Row:Net income 	— 	— — 	— 	104 	— 	104
+Row:Other comprehensive income 	— 	— — 	(21) 	— 	— 	(21)
+Row:Exercise and release of incentive stock
+						Row:(including income tax benefits and
+withholding) 	4,064,910 	— (3) 	— 	— 	— 	(3)
+Row:Amortization of long-term incentive stock
+grants 	— 	— 27 	— 	— 	— 	27
+Row:Dividends paid on common stock
+($0.10 per share) 	— 	— (55) 	— 	— 	— 	(55)
+Row:Adjustment for adoption of accounting standard 	— 	— — 	— 	(4) 	— 	(4)
+Row:Acquisition escrow shares returned 	(248,200) 	— (1) 	— 	— 	— 	(1)
+Row:Repurchase of common stock 	— 	— — 	— 	— 	(39) 	(39)
+Row:Other 	— 	— (2) 	— 	— 	— 	(2)
+Row:Balance at December 29, 2018 	614,170,704 	$ 6 $ 2,677 	$ (99) 	$ (173) 	$ (285) 	$ 2,126
+Row:Net income 	— 	— — 	— 	99 	— 	99
+Row:Other comprehensive loss 	— 	— — 	33 	— 	— 	33
+Row:Exercise and release of incentive stock
+(including income tax benefits and
+						Row:withholding) 	6,254,071 	— (8) 	— 	— 	— 	(8)
+Row:Amortization of long-term incentive stock
+						Row:grants 	— 	— 33 	— 	— 	— 	33
+Row:Dividends paid on common stock
+						Row:($0.10 per share) 	— 	— (55) 	— 	— 	— 	(55)
+Row:Adjustment for adoption of accounting standard 	— 	— — 	— 	(15) 	— 	(15)
+Row:Repurchase of common stock 	— 	— — 	— 	— 	(40) 	(40)
+Row:Balance at December 28, 2019 	620,424,775 	$ 6 $ 2,647 	$ (66) 	$ (89) 	$ (325) 	$ 2,173
+Row:The accompanying notes to Consolidated Financial 	Statements are an 	integral part of these statements.
+				

@@ -1,0 +1,177 @@
+Row2019 	2018 	2017
+Row1,312,151 $ 	1,007,257 	$ 683,067
+Row675,471 	454,321 	269,453
+Row310,299 	214,290 	150,730
+Row115,297 	82,278 	56,263
+Row101,918 	85,465 	65,023
+Row115,449 	85,940 	51,848
+Row1,318,434 	922,294 	593,317
+Row(6,283) 	84,963 	89,750
+Row20,493 	3,530 	102
+Row(26,776) 	81,433 	89,648
+Row(8,210) 	2,952 	(9,335)
+Row(18,566) $ 	78,481 	$ 98,983
+Row	2019 	2018 	2017
+RowRevenues 	$ 1,312,151 	$ 1,007,257 	$ 683,067
+RowCosts and expenses:
+			RowOperations and support 	675,471 	454,321 	269,453
+RowSales and marketing 	310,299 	214,290 	150,730
+Rowtechnology (exclusive of amortization) 	115,297 	82,278 	56,263
+RowGeneral and administrative 	101,918 	85,465 	65,023
+RowDepreciation and amortization 	115,449 	85,940 	51,848
+RowTotal costs and expenses 	1,318,434 	922,294 	593,317
+RowIncome (loss) from operations 	(6,283) 	84,963 	89,750
+Rowinterest expense - net 	20,493 	3,530 	102
+RowIncome (loss) before provision for income taxes 	(26,776) 	81,433 	89,648
+Rowincome tax (benefit) expense 	(8,210) 	2,952 	(9,335)
+RowNet income (loss) attributable to common stockholders 	$ (18,566) 	$ 78,481 	$ 98,983
+RowNet income (loss) per share attributable to common stockholders:
+			RowBasic 	$ (0.20) 	$ 0.88 	$ 1.15
+RowDiluted 	$ (0.20) 	$ 0.85 	$ 1.12
+RowWeighted-average shares used to compute net income (loss) per share attributable to common
+stockholders:
+			RowBasic 	91,247 	89,447 	86,297
+RowDiluted 	91,247 	92,354 	88,182
+Row	2019 	2018 		2017
+RowNet income (loss) 	$ (18,566) 	$ 78,481 	$ 	98,983
+RowOTHER COMPREHENSIVE INCOME (LOSS)
+Foreign currency translation adjustments 	263 	(663) 		850
+RowCOmPReHenSiVe inCOme (lOSS) 	$ (18,303) 	$ 77,818 	$ 	99,833
+Row(See notes to Consolidated Financial Statements)
+				Row41
+				RowNet income (loss) 	$ (18,566) 	$ 78,481 	$ 98,983
+RowOTHER COMPREHENSIVE INCOME (LOSS)
+			RowForeign currency translation adjustments 	263 	(663) 	850
+RowCOmPReHenSiVe inCOme (lOSS) 	$ (18,303) 	$ 77,818 	$ 99,833
+RowASSETS
+		RowCURRent aSSetS:
+		RowCash and cash equivalents 	$ 375,909 $ 	211,245
+RowShort-term investments 	49,275 	14,084
+Rowaccounts receivable, less allowances for doubtful accounts 	119,658 	110,855
+Rowincome tax receivable 	3,960 	9,949
+RowPrepaid expenses and other current assets 	17,515 	17,642
+Rowtotal current assets 	566,317 	363,775
+RowPROPeRty anD eQUiPment:
+		RowProperty and equipment, net of depreciation and amortization 	172,744 	119,495
+RowOtHeR aSSetS:
+		RowOther assets 	26,836 	14,186
+RowOperating lease right-of-use asset 	100,632 	—
+RowGoodwill 	1,007,968 	1,019,239
+Rowacquired intangible assets, net of amortization 	500,481 	549,013
+Rowtotal other assets 	1,635,917 	1,582,438
+RowtOtal aSSetS 	$ 2,374,978 $ 	2,065,708
+RowLIABILITIES AND STOCKHOLDERS’ EQUITY
+		RowCURRent liaBilitieS:
+		RowRestaurant food liability 	$ 131,753 $ 	127,344
+Rowaccounts payable 	26,748 	26,656
+Rowaccrued payroll 	19,982 	18,173
+RowCurrent portion of long-term debt 	— 	6,250
+RowCurrent operating lease liability 	9,376 	—
+RowOther accruals 	61,504 	44,745
+Rowtotal current liabilities 	249,363 	223,168
+RowlOnG-teRm liaBilitieS:
+		RowDeferred taxes, non-current 	27,163 	46,383
+Rownoncurrent operating lease liability 	111,056 	—
+Rowlong-term debt 	493,009 	335,548
+RowOther accruals 	817 	18,270
+Rowtotal long-term liabilities 	632,045 	400,201
+RowCommitments and contingencies
+		RowStOCKHOlDeRS’ eQUity:
+Preferred Stock, $0.0001 par value. authorized: 25,000,000 shares as of December 31, 2019 and
+		RowDecember 31, 2018; issued and outstanding: no shares as of December 31, 2019 and December 31, 2018. 	— 	—
+RowCommon stock, $0.0001 par value. authorized: 500,000,000 shares at December 31, 2019 and December 31, 2018;
+issued and outstanding: 91,576,060 and 90,756,548 shares as of December 31, 2019 and December 31, 2018,
+		Rowrespectively 	9 	9
+Rowaccumulated other comprehensive loss 	(1,628) 	(1,891)
+Rowadditional paid-in capital 	1,164,400 	1,094,866
+Rowaccumulated other comprehensive loss 	(1,628) 	(1,891)
+Rowadditional paid-in capital 	1,164,400 	1,094,866
+RowRetained earnings 	330,789 	349,355
+Rowtotal stockholders’ equity 	$ 1,493,570 	$ 1,442,339
+RowtOtal liaBilitieS anD StOCKHOlDeRS’ eQUity 	$ 2,374,978 	$ 2,065,708
+Row	2019 	Year Ended December 31,
+2018 	2017
+RowCaSH FlOWS FROm OPeRatinG aCtiVitieS
+			Rownet income (loss) 	$ (18,566) 	$ 78,481 	$ 98,983
+Rowadjustments to reconcile net income (loss) to net cash from operating activities:
+			RowDepreciation 	30,237 	21,647 	11,775
+Rowamortization of intangible assets and developed software 	85,212 	64,293 	40,073
+RowStock-based compensation 	72,879 	55,261 	32,748
+RowDeferred taxes 	(7,726) 	1,724 	(31,179)
+RowOther 	8,531 	5,552 	2,457
+RowChange in assets and liabilities, net of the effects of business acquisitions:
+			Rowaccounts receivable 	(11,591) 	(6,092) 	(26,236)
+Rowincome taxes receivable 	5,989 	(1,356) 	(1,597)
+RowPrepaid expenses and other assets 	(13,854) 	(16,270) 	5,516
+RowRestaurant food liability 	4,380 	2,921 	8,576
+Rowaccounts payable 	1,978 	11,160 	(4,244)
+Rowaccrued payroll 	1,804 	3,621 	5,537
+RowOther accruals 	23,349 	4,585 	11,735
+Rownet cash provided by operating activities 	182,622 	225,527 	154,144
+RowCaSH FlOWS FROm inVeStinG aCtiVitieS
+			RowPurchases of investments 	(85,989) 	(57,197) 	(154,758)
+RowProceeds from maturity of investments 	51,366 	67,166 	215,983
+RowCapitalized website and development costs 	(48,524) 	(31,180) 	(21,325)
+RowPurchases of property and equipment 	(55,167) 	(43,033) 	(18,971)
+Rowacquisition of other intangible assets 	(9,980) 	(11,851) 	(25,147)
+Rowacquisitions of businesses, net of cash acquired 	127 	(517,909) 	(333,301)
+RowOther cash flows from investing activities 	(250) 	— 	557
+Rownet cash used in investing activities 	(148,417) 	(594,004) 	(336,962)
+RowCaSH FlOWS FROm FinanCinG aCtiVitieS
+			RowProceeds from the issuance of long-term debt 	500,000 	222,000 	200,000
+RowRepayments of borrowings under the credit facility 	(342,313) 	(53,906) 	(25,781)
+RowProceeds from the issuance of common stock 	— 	200,000 	—
+Rowtaxes paid related to net settlement of stock-based compensation awards 	(23,753) 	(35,599) 	(10,556)
+RowProceeds from exercise of stock options 	4,469 	14,190 	16,375
+RowPayments for debt issuance costs 	(9,136) 	— 	(1,979)
+Rownet cash provided by financing activities 	129,267 	346,685 	178,059
+Rownet change in cash, cash equivalents, and restricted cash 	163,472 	(21,792) 	(4,759)
+Roweffect of exchange rates on cash, cash equivalents and restricted cash 	320 	(645) 	784
+RowCash, cash equivalents, and restricted cash at beginning of year 	215,802 	238,239 	242,214
+RowCash, cash equivalents, and restricted cash at end of the period 	$ 379,594 	$ 215,802 	$ 238,239
+RowSUPPlemental DiSClOSURe OF nOn-CaSH itemS
+			RowCash paid for income taxes 	$ 1,163 	$ 7,895 	$ 19,148
+RowCapitalized property, equipment and website and development costs in accounts payable at
+			Rowperiod end 	5,627 	7,463 	2,960
+Rownet working capital adjustment receivable 	— 	127 	737
+RowFair value of equity awards assumed on acquisition 	— 	2,966 	274
+RowReCOnCiliatiOn OF CaSH, CaSH eQUiValentS, anD ReStRiCteD CaSH
+			RowCash and cash equivalents 	$ 375,909 	$ 211,245 	$ 234,090
+RowRestricted cash included in prepaid expenses and other current assets 	501 	1,398 	—
+RowRestricted cash included in other assets 	3,184 	3,159 	4,149
+Rowtotal cash, cash equivalents, and restricted cash 	$ 379,594 	$ 215,802 	$ 238,239
+Row(See notes to Consolidated Financial 	Statements)
+		Row	Shares Common 	Amount stock
+	APIC 	Income (Loss) Comprehensive 	Earnings Retained
+	Stockholders'
+Equity
+RowBalance at December 31, 2016 	85,692,333 	$ 9 	$ 805,731 	$ (2,078) $ 	168,457 	$ 972,119
+Rownet income 	— 	— 	— 	— 	98,983 	98,983
+RowCumulative effect adjustment upon adoption of aSU 2016-09 	— 	— 	— 	— 	2,552 	2,552
+RowCurrency translation 	— 	— 	— 	850 	— 	850
+RowStock-based compensation 	— 	— 	37,219 	— 	— 	37,219
+RowStock option exercises and vesting of restricted stock units, net of
+withholdings and other 	1,331,083 	— 	16,375 	— 	— 	16,375
+Rowissuance of common stock, acquisitions 	— 	— 	274 	— 	— 	274
+RowShares repurchased and retired to satisfy tax withholding upon
+vesting 	(232,792) 	— 	(10,556) 	— 	— 	(10,556)
+RowBalance at December 31, 2017 	86,790,624 	9 	849,043 	(1,228) 	269,992 	1,117,816
+Rownet income 	— 	— 	— 	— 	78,481 	78,481
+RowCumulative effect adjustment upon adoption of aSU 2014-09 	— 	— 	— 	— 	882 	882
+RowCurrency translation 	— 	— 	— 	(663) 	— 	(663)
+RowStock-based compensation 	— 	— 	64,266 	— 	— 	64,266
+RowStock option exercises and vesting of restricted stock units, net of
+withholdings and other 	1,512,426 	— 	14,190 	— 	— 	14,190
+Rowissuance of common stock, investments 	2,820,464 	— 	200,000 	— 	— 	200,000
+Rowissuance of common stock, acquisitions 	— 	— 	2,966 			2,966
+RowShares repurchased and retired to satisfy tax withholding upon
+vesting 	(366,966) 	— 	(35,599) 	— 	— 	(35,599)
+RowBalance at December 31, 2018 	90,756,548 	9 	1,094,866 	(1,891) 	349,355 	1,442,339
+Rownet loss 	— 	— 	— 	— 	(18,566) 	(18,566)
+RowCurrency translation 	— 	— 	— 	263 	— 	263
+RowStock-based compensation 	— 	— 	88,818 	— 	— 	88,818
+RowStock option exercises and vesting of restricted stock units, net of
+withholdings and other 	1,174,002 	— 	4,469 	— 	— 	4,469
+RowShares repurchased and retired to satisfy tax withholding upon
+vesting 	(354,490) 	— 	(23,753) 	— 	— 	(23,753)
+RowBalance at December 31, 2019 	91,576,060 	$ 9 	$ 1,164,400 	$ (1,628) $ 	330,789 	$ 1,493,570

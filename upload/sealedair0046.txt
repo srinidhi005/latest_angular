@@ -1,0 +1,165 @@
+Row:Current assets:
+	Row:Cash and cash equivalents
+$ 	271.7 $ 594.0
+Row:Trade receivables, net of allowance for doubtful accounts of $9.1 in 2018 and $6.5 in 2017
+	473.4 552.4
+Row:Income tax receivables
+	58.4 85.1
+Row:Other receivables
+	81.3 90.2
+Row:Inventories, net of inventory reserves of $18.1 in 2018 and $15.5 in 2017
+	544.9 506.8
+Row:Assets held for sale
+	0.6 4.0
+Row:Prepaid expenses and other current assets
+	124.5 33.9
+Row:Total current assets
+	1,554.8 1,866.4
+Row:Property and equipment, net 	1,036.2 998.4
+Row:Goodwill
+	1,947.6 1,939.8
+Row:Identifiable intangible assets, net
+	101.7 83.6
+Row:Deferred taxes
+	170.5 176.2
+Row:Other non-current assets 	239.4 215.9
+Row:Total assets
+$ 	5,050.2 $ 5,280.3
+Row:LIABILITIES AND STOCKHOLDERS’ (DEFICIT) EQUITY
+	Row:Short-term borrowings
+$ 	232.8 $ 25.3
+Row:Current portion of long-term debt
+	4.9 2.2
+Row:Accounts payable
+	765.0 723.8
+Row:Current liabilities held for sale
+	— 2.2
+Row:Accrued restructuring costs
+	33.5 15.4
+Row:Income tax payable
+	23.5 47.3
+Row:Other current liabilities
+	428.9 562.0
+Row:Total current liabilities
+	1,488.6 1,378.2
+Row:Long-term debt, less current portion 	3,236.5 3,230.5
+Row:Deferred taxes
+	20.4 28.5
+Row:Other non-current liabilities 	653.3 490.8
+Row:Total liabilities
+	5,398.8 5,128.0
+Row:Stockholders’ (deficit) equity:
+	Row:Preferred stock, $0.10 par value per share, 50,000,000 shares authorized; no shares issued in 2018 and 2017
+	— —
+Row:Common stock, $0.10 par value per share, 400,000,000 shares authorized; shares issued: 231,619,037 in 2018 and
+230,080,944 in 2017; shares outstanding: 155,654,370 in 2018 and 168,595,521 in 2017 	23.2 23.0
+Row:Additional paid-in capital
+	2,049.6 1,939.6
+Row:Retained earnings
+	1,835.5 1,735.2
+Row:Common stock in treasury, 75,964,667 shares in 2018 and 61,485,423 shares in 2017
+	(3,336.5) (2,700.6)
+Row:Accumulated other comprehensive loss, net of taxes:
+	Row:Unrecognized pension items
+	(136.4) (103.4)
+Row:Cumulative translation adjustment
+	(744.8) (694.4)
+Row:Unrealized net loss on net investment hedges
+	(41.9) (46.8)
+Row:Unrealized net gain (loss) on cash flow hedges
+	2.7 (0.3)
+Row:Total accumulated other comprehensive loss, net of taxes
+	(920.4) (844.9)
+Row:Total stockholders’ (deficit) equity
+	(348.6) 152.3
+Row:Total liabilities and stockholders’ (deficit) equity
+$ 	5,050.2 $ 5,280.3
+Row:(In millions, except per share data) 	2018 	2017 	2016
+Row:Net sales 	$ 4,732.7 	$ 4,461.6 	$ 4,211.3
+Row:Cost of sales(1)(2) 	3,230.6 	3,049.5 	2,810.3
+Row:Gross profit 	1,502.1 	1,412.1 	1,401.0
+Row:Selling, general and administrative expenses 	782.3 	815.6 	754.3
+Row:Amortization expense of intangible assets acquired 	15.7 	13.1 	15.0
+Row:Restructuring and other charges 	47.8 	12.1 	2.8
+Row:Operating profit 	656.3 	571.3 	628.9
+Row:Interest expense, net 	(177.9) 	(184.2) 	(191.9)
+Row:Foreign currency exchange loss due to highly inflationary economies 	(2.5) 	— 	(1.7)
+Row:Charge related to Venezuelan subsidiaries(3) 	— 	— 	(47.3)
+Row:Other (expense) income, net(1)(2) 	(18.1) 	6.2 	(0.1)
+Row:Earnings before income tax provision 	457.8 	393.3 	387.9
+Row:Income tax provision 	307.5 	330.5 	95.6
+Row:Net earnings from continuing operations 	150.3 	62.8 	292.3
+Row:Gain on sale of discontinued operations, net of tax 	42.8 	640.7 	—
+Row:Net earnings from discontinued operations, net of tax 	— 	111.4 	194.1
+Row:Net earnings 	$ 193.1 	$ 814.9 	$ 486.4
+Row:Basic:
+			Row:Continuing operations 	$ 0.94 	$ 0.34 	1.50
+Row:Discontinued operations 	0.27 	3.99 	0.99
+Row:Net earnings per common share - basic 	$ 1.21 	$ 4.33 	$ 2.49
+Row:Diluted:
+			Row:Continuing operations 	$ 0.94 	$ 0.33 	$ 1.48
+Row:Discontinued operations 	0.26 	3.96 	0.98
+Row:Net earnings per common share - diluted 	$ 1.20 	$ 4.29 	$ 2.46
+Row:Dividends per common share 	$ 0.64 	$ 0.64 	$ 0.61
+Row:Weighted average number of common shares outstanding:
+			Row:Basic 	159.4 	186.9 	194.3
+Row:Diluted 	160.2 	188.9 	197.2
+Row:(In millions) 	2018 2017 		2016
+Row:Net earnings $ 	193.1 $ 814.9 		$ 486.4
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities
+			Row:Depreciation and amortization 	131.2 149.3 		214.0
+Row:Share-based incentive compensation 	29.2 	44.9 	59.9
+Row:Profit sharing expense 	21.6 	23.2 	24.6
+Row:Charges related to Venezuelan subsidiaries 	— 	— 	46.0
+Row:Provisions for bad debt 	2.3 	2.9 	4.3
+Row:Provisions for inventory obsolescence 	4.8 	3.6 	6.4
+Row:Deferred taxes, net 	10.9 121.0 		(61.7)
+Row:Net (gain) loss on sale of businesses 	(42.5) 	(641.2) 	1.9
+Row:Foreign currency losses (gains) 	13.7 	29.9 	(4.9)
+Row:Other non-cash items 	11.1 	11.1 	0.9
+Row:Changes in operating assets and liabilities:
+			Row:Trade receivables, net Inventories 	(0.9) (61.2) 	(81.4) (55.4) 	(33.9)
+(17.1)
+Row:Accounts payable 	42.6 154.1 		228.0
+Row:Income tax receivable/payable 	(16.4) 	(207.1) 	7.3
+Row:Other assets and liabilities 	88.5 	54.6 	(55.2)
+Row:Net cash provided by operating activities $ 	428.0 $ 424.4 		$ 906.9
+Row:Cash flows from investing activities:
+			Row:Capital expenditures $ 	(168.6) $ 	(183.8) 	$ (275.7)
+Row:Proceeds from sale of business 	6.8 	1.0 	7.8
+Row:Businesses acquired in purchase transactions, net of cash acquired 	(68.4) 	(119.2) 	(5.8)
+Row:Proceeds from sales of property, equipment and other assets 	— 	1.7 	4.9
+Row:Loss from settlement of cross currency swaps 	— 	(61.8) 	—
+Row:Investment in equity investments 	(7.5) 	— 	—
+Row:Impact of sale of Diversey 	(15.3) 2,156.9 		—
+Row:Settlement of foreign currency forward contracts 	(11.1) 	(8.7) 	(46.0)
+Row:Other investing activities 	(2.6) 	— 	—
+Row:Net cash (used in) provided by investing activities $ 	(266.7) $ 1,786.1 		$ (314.8)
+Row:Cash flows from financing activities:
+Net proceeds (payments) from short-term borrowings $ 	224.0 $ 	(93.7) 	$ (154.2)
+Row:Proceeds from cross currency swap 	— 	17.4 	—
+Row:Payments of long-term debt(1) 	(1.6) 	(369.5) 	(27.1)
+Row:Dividends paid on common stock 	(104.1) 	(119.7) 	(121.6)
+Row:Repurchases of common stock(2) 	(582.6) (1,302.1) 		(217.0)
+Row:Payments for debt modification/extinguishment costs 	(6.1) 	— 	(0.1)
+Row:Acquisition of common stock for tax withholding Other financing activities 	(7.9) — 	(22.1) — 	(30.7)
+6.2
+Row:Net cash used in financing activities $ 	(478.3) $ (1,889.7) 		$ (544.5)
+Row:Effect of foreign currency exchange rate changes on cash and cash equivalents $ 	(5.3) $ 	(113.4) 	$ (39.2)
+Row:Cash Reconciliation(3):
+			Row:Cash and cash equivalents 	594.0 333.7 		321.7
+Row:Restricted cash and cash equivalents(4) 	— 	52.9 	56.5
+Row:Balance, beginning of period $ 	594.0 $ 386.6 		$ 378.2
+Row:Net change during the period 	(322.3) 207.4 		8.4
+Row:Cash and cash equivalents 	271.7 594.0 		333.7
+Row:Restricted cash and cash equivalents(4) 	— 	— 	52.9
+Row:Balance, end of period $ 	271.7 $ 594.0 		$ 386.6
+Row:(In millions) 	2018 2017 	2016
+Row:Supplemental Cash Flow Information:
+		Row:Interest payments, net of amounts capitalized 	$ 191.4 $ 210.8 	$ 215.1
+Row:Income tax payments 	$ 155.0 $ 161.7 	$ 125.8
+Row:Payments related to sale of Diversey 	$ 51.6 $ 180.8 	$ —
+Row:Restructuring payments including associated costs 	$ 12.1 $ 49.3 	$ 66.1
+Row:Non-cash items:
+		Row:Transfers of shares of our common stock from treasury for our 2017, 2016 and 2015 profit-sharing plan
+contributions 	$ 23.5 $ 22.3 	$ 37.6

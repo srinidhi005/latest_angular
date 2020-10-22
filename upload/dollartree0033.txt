@@ -1,0 +1,103 @@
+Row:(in millions, except per share data) 	2018 	2017 	2016
+Row:Net sales 	$ 22,245.5 	$ 20,719.2 $ 	15,498.4
+Row:Cost of sales 	15,223.6 	14,324.5 	10,841.7
+Row:Gross profit 	7,021.9 	6,394.7 	4,656.7
+Row:Selling, general and administrative expenses, excluding Receivable
+impairment 	5,004.3 	4,689.9 	3,607.0
+Row:Receivable impairment 	18.5 	— 	—
+Row:Selling, general and administrative expenses 	5,022.8 	4,689.9 	3,607.0
+Row:Operating income 	1,999.1 	1,704.8 	1,049.7
+Row:Interest expense, net 	301.8 	375.5 	599.4
+Row:Other (income) expense, net 	(6.7) 	(0.1) 	2.1
+Row:Income before income taxes 	1,704.0 	1,329.4 	448.2
+Row:Provision for income taxes 	(10.3) 	433.2 	165.8
+Row:Net income 	$ 1,714.3 	$ 896.2 $ 	282.4
+Row:Basic net income per share 	$ 7.24 	$ 3.80 $ 	1.27
+Row:Diluted net income per share 	$ 7.21 	$ 3.78 $ 	1.26
+Row:February 3,
+	January 28,
+Row:2018
+	2017
+Row:Current assets:
+Cash and cash equivalents $ 	1,097.8 $ 	866.4
+Row:Short-term investments 	— 	4.0
+Row:Merchandise inventories, net 	3,169.3 	2,865.8
+Row:Other current assets 	309.2 	201.8
+Row:Total current assets 	4,576.3 	3,938.0
+Row:Property, plant and equipment, net of accumulated depreciation of $3,192.1 and $2,694.5,
+respectively 	3,200.7 	3,115.8
+Row:Assets available for sale 	8.0 	9.0
+Row:Goodwill 	5,025.2 	5,023.5
+Row:Favorable lease rights, net of accumulated amortization of $230.9 and $159.3, respectively 	375.3 	468.6
+Row:Tradename intangible asset 	3,100.0 	3,100.0
+Row:Other intangible assets, net 	4.8 	5.1
+Row:Other assets 	42.5 	41.6
+Row:Total assets $ 	16,332.8 $ 	15,701.6
+Row:LIABILITIES AND SHAREHOLDERS' EQUITY
+		Row:Current portion of long-term debt $ 	915.9 	$ 152.1
+Row:Accounts payable 	1,174.8 	1,119.6
+Row:Income taxes payable 	31.5 	90.0
+Row:Other current liabilities 	736.9 	744.2
+Row:Total current liabilities 	2,859.1 	2,105.9
+Row:Long-term debt, net, excluding current portion 	4,762.1 	6,169.7
+Row:Unfavorable lease rights, net of accumulated amortization of $61.1 and $39.6, respectively 	100.0 	124.0
+Row:Deferred tax liabilities, net 	985.2 	1,458.9
+Row:Income taxes payable, long-term 	43.8 	71.2
+Row:Other liabilities 	400.3 	382.4
+Row:Total liabilities Commitments and contingencies
+	9,150.5 	10,312.1
+Row:Common stock, par value $0.01; 600,000,000 shares authorized, 237,325,963 and
+236,136,439 shares issued and outstanding at February 3, 2018 and January 28, 2017,
+		Row:respectively 	2.4 	2.4
+Row:Additional paid-in capital 	2,545.3 	2,472.1
+Row:Accumulated other comprehensive loss Retained earnings 	(32.3) 4,666.9 	(37.6)
+2,952.6
+Row:Total shareholders' equity 	7,182.3 	5,389.5
+Row:Total liabilities and shareholders' equity 	$ 16,332.8 $ 	15,701.6
+Row:(in millions) 2018 Cash flows from operating activities:
+	2017 	2016
+Row:Net income $ 1,714.3 Adjustments to reconcile net income to net cash provided by operating activities:
+	$ 896.2 $ 	282.4
+Row:Depreciation and amortization 611.2 	637.5 	487.6
+Row:Provision for deferred income taxes (473.5) 	(124.1) 	25.6
+Row:Stock-based compensation expense 65.7 	61.6 	53.2
+Row:Amortization of debt discount and debt-issuance costs 15.4 	55.2 	64.7
+Row:Receivable impairment 18.5 	— 	—
+Row:Other non-cash adjustments to net income 10.9 	9.4 	7.7
+Row:Changes in assets and liabilities increasing (decreasing) cash and cash equivalents:
+		Row:Merchandise inventories (300.9) 	21.9 	(87.8)
+Row:Prepaids and other current assets (114.6) 	117.2 	(63.5)
+Row:Accounts payable 54.5 	(133.8) 	183.9
+Row:Income taxes payable (58.5) 	77.1 	3.1
+Row:Other current liabilities (22.7) 	30.4 	(164.1)
+Row:Other liabilities (10.1) 	24.7 	9.7
+Row:Net cash provided by operating activities 1,510.2 	1,673.3 	802.5
+Row:Cash flows from investing activities:
+		Row:Capital expenditures (632.2) 	(564.7) 	(480.5)
+Row:Acquisition of Family Dollar, net of common stock issued, equity compensation and cash
+acquired — 	— 	(6,527.7)
+Row:Purchase of restricted cash and investments — 	(36.1) 	(23.7)
+Row:Proceeds from sale of restricted and unrestricted investments 4.0 Proceeds from (payments for) fixed asset disposition 0.3 	118.1 (0.9) 	53.0
+0.5
+Row:Net cash used in investing activities (627.9) Cash flows from financing activities:
+Principal payments for long-term debt (659.1) 	(483.6) (4,036.2) 	(6,978.4)
+(5,926.7)
+Row:Proceeds from long-term debt, net of discount — 	2,962.5 	12,130.2
+Row:Debt-issuance costs — Repayments of revolving credit facility — 	(6.1) (140.0) 	(159.8)
+—
+Row:Proceeds from revolving credit facility — 	140.0 	—
+Row:Proceeds from stock issued pursuant to stock-based compensation plans 35.0 	41.5 	13.9
+Row:Cash paid for taxes on exercises/vesting of stock-based compensation (27.4) 	(22.2) 	(21.6)
+Row:Tax benefit of exercises/vesting of stock-based compensation — Net cash provided by (used in) financing activities (651.5) 	— (1,060.5) 	12.8
+6,048.8
+Row:Effect of exchange rate changes on cash and cash equivalents 0.6 	1.1 	(0.9)
+Row:Net increase (decrease) in cash and cash equivalents 231.4 	130.3 	(128.0)
+Row:Cash and cash equivalents at beginning of year 866.4 	736.1 	864.1
+Row:Cash and cash equivalents at end of year $ 1,097.8 Supplemental disclosure of cash flow information:
+	$ 866.4 $ 	736.1
+Row:Cash paid for:
+		Row:net of amounts capitalized taxes 	$ 286.5 $ $ 552.4 $ 	329.1 $ 501.8 $ 	487.0
+138.4
+Row:transactions:
+			Row:capital expenditures 	$ 45.0 $ 	30.3 $ 	72.4
+Row:cost paid in common stock and equity compensation 	$ — $ 	— $ 	2,290.1

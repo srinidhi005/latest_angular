@@ -1,0 +1,97 @@
+Row:December 31, 2016 and December 26, 2015 	2016 	2015
+Row:Assets
+		Row:Current:
+		Row:Cash and cash equivalents 	$ 14,653 	$ 17,596
+Row:Marketable securities 	67,171 	91,629
+Row:SERP investment 	11,154 	9,079
+Row:Accounts receivable, net 	96,170 	88,083
+Row:Inventories 	276,783 	229,399
+Row:Prepaid expenses and other current assets 	16,310 	17,198
+Row:Income taxes recoverable 	1,625 	1,666
+Row:Total current assets 	483,866 	454,650
+Row:Property and equipment, net 	878,195 	738,985
+Row:Goodwill 	52,330 	35,162
+Row:Intangible and other assets, net 	16,913 	7,162
+Row:Total assets 	$ 1,431,304 	$ 1,235,959
+Row:Liabilities
+		Row:Current:
+		Row:Accounts payable 	$ 199,159 	$ 160,441
+Row:Accrued expenses 	50,947 	37,819
+Row:Accrued self-insurance 	19,330 	16,770
+Row:Deferred revenue, net 	6,730 	6,898
+Row:Total current liabilities 	276,166 	221,928
+Row:Postretirement benefit obligations 	15,277 	14,368
+Row:Accrued self-insurance 	21,353 	22,761
+Row:Deferred income taxes 	119,445 	97,020
+Row:Long-term debt 	64,476 	-
+Row:Other 	7,865 	8,135
+Row:Total liabilities 	504,582 	364,212
+Row:Shareholders’ Equity
+		Row:Common stock, no par value, 100,800,000 shares authorized, 33,047,807 shares issued,
+		Row:26,898,443 shares outstanding 	9,949 	9,949
+Row:Retained earnings 	1,062,778 	1,007,894
+Row:Accumulated other comprehensive income, net 	4,852 	4,761
+Row:	1,077,579 	1,022,604
+Row:Treasury stock at cost, 6,149,364 shares 	(150,857) 	(150,857)
+Row:Total shareholders’ equity 	926,722 	871,747
+Row:Total liabilities and shareholders’ equity 	$ 1,431,304 	$ 1,235,959
+Row:See accompanying notes to Consolidated Financial Statements.
+		Row:For the Fiscal Years Ended December 31, 2016, 	2016 	2015 	2014
+Row:December 26, 2015 and December 27, 2014 	(53 weeks) 	(52 weeks) 	(52 weeks)
+Row:Net sales 	$ 3,136,720 	$ 2,876,748 	$ 2,776,683
+Row:Cost of sales, including warehousing and distribution expenses 	2,264,565 	2,090,016 	2,023,721
+Row:Gross profit on sales 	872,155 	786,732 	752,962
+Row:Operating, general and administrative expenses 	773,830 	695,953 	671,587
+Row:Income from operations 	98,325 	90,779 	81,375
+Row:Investment income and interest expense 	2,457 	1,552 	2,287
+Row:Gain on bargain purchase 	23,879 	- 	-
+Row:Income before provision for income taxes 	124,661 	92,331 	83,662
+Row:Provision for income taxes 	37,499 	33,001 	29,281
+Row:Net income 	$ 87,162 	$ 59,330 	$ 54,381
+Row:Weighted-average shares outstanding, basic and diluted 	26,898,443 	26,898,443 	26,898,443
+Row:Cash dividends per share 	$ 1.20 	$ 1.20 	$ 1.20
+Row:Basic and diluted earnings per share 	$ 3.24 	$ 2.21 	$ 2.02
+Row:See accompanying notes to Consolidated Financial Statements.
+			Row:Cash dividends per share 	$ 	1.20 	$ 	1.20 	$ 1.20
+Row:Basic and diluted earnings per share 	$ 	3.24 	$ 	2.21 	$ 2.02
+Row:See accompanying notes to Consolidated Financial Statements.
+					Row:For the Fiscal Years Ended December 31, 2016, 	2016 	2015 	2014
+Row:December 26, 2015 and December 27, 2014 	(53 weeks) 	(52 weeks) 	(52 weeks)
+Row:Cash flows from operating activities:
+			Row:Net income 	$ 87,162 	$ 59,330 	$ 54,381
+Row:Adjustments to reconcile net income to
+			Row:net cash provided by operating activities:
+			Row:Depreciation 	66,496 	61,834 	59,004
+Row:Amortization 	10,366 	8,280 	7,865
+Row:Loss (gain) on disposition of fixed assets 	1,353 	(54) 	(2,630)
+Row:Impairment of fixed assets 	894 	- 	-
+Row:Gain on sale of marketable securities 	(437) 	(27) 	(63)
+Row:Gain on sale of intangible assets 	(200) 	- 	-
+Row:Gain on acquisition of business 	(23,879) 	- 	-
+Row:Deferred income taxes 	5,703 	(212) 	3,235
+Row:Changes in operating assets and liabilities:
+			Row:Inventories 	(38,102) 	10,242 	811
+Row:Accounts receivable and prepaid expenses 	(5,096) 	(17,127) 	(13,588)
+Row:Income taxes recoverable 	41 	(1,054) 	(612)
+Row:Accounts payable and other liabilities 	46,131 	14,403 	17,230
+Row:Income taxes payable 	- 	- 	(1,628)
+Row:Other 	1,161 	1,118 	(895)
+Row:Net cash provided by operating activities 	151,593 	136,733 	123,110
+Row:Cash flows from investing activities:
+			Row:Purchase of property and equipment 	(142,144) 	(90,210) 	(79,177)
+Row:Proceeds from the sale of property and equipment 	442 	1,929 	3,614
+Row:Purchase of marketable securities 	(40,858) 	(31,329) 	(20,118)
+Row:Proceeds from maturities of marketable securities 	1,335 	3,201 	4,050
+Row:Proceeds from the sale of marketable securities 	62,566 	9,171 	7,668
+Row:Acquisition of business 	(63,632) 	- 	-
+Row:Purchase of intangible assets 	(2,568) 	(2,649) 	(1,479)
+Row:Proceeds from sale of intangible assets 	200 	- 	-
+Row:Change in SERP investment 	(2,075) 	42 	(369)
+Row:Net cash used in investing activities 	(186,734) 	(109,845) 	(85,811)
+Row:Cash flows from financing activities:
+			Row:Proceeds from long-term debt 	64,476 	- 	-
+Row:Dividends paid 	(32,278) 	(32,278) 	(32,278)
+Row:Net cash provided by (used in) financing activities 	32,198 	(32,278) 	(32,278)
+Row:Net (decrease) increase in cash and cash equivalents 	(2,943) 	(5,390) 	5,021
+Row:Cash and cash equivalents at beginning of year 	17,596 	22,986 	17,965
+Row:Cash and cash equivalents at end of year 	$ 14,653 	$ 17,596 	$ 22,986

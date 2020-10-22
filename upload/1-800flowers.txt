@@ -1,0 +1,148 @@
+Row:	July 2, 2017 	July 3, 2016
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 149,732 	$ 27,826
+Row:Trade receivables, net 	14,073 	19,123
+Row:Inventories 	75,862 	103,328
+Row:Prepaid and other 	17,735 	16,382
+Row:Total current assets 	257,402 	166,659
+Row:Property, plant and equipment, net 	161,381 	171,362
+Row:Goodwill 	62,590 	77,667
+Row:Other intangibles, net 	61,090 	79,000
+Row:Other assets 	10,007 	8,253
+Row:Total assets 	$ 552,470 	$ 502,941
+Row:Liabilities and Stockholders' Equity
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 27,781 	$ 35,201
+Row:Accrued expenses 	90,206 	66,066
+Row:Current maturities of long -term debt 	7,188 	19,594
+Row:Total current liabilities 	125,175 	120,861
+Row:Long-term debt 	101,377 	94,396
+Row:Deferred tax liabilities 	33,868 	35,517
+Row:Other liabilities 	9,811 	9,581
+Row:Total liabilities 	270,231 	260,355
+Row:Commitments and contingencies (Note 16)
+		Row:Stockholders' equity:
+		Row:Preferred stock, $.01 par value, 10,000,000 shares authorized, none issued 	– 	–
+Row:Class A common stock, $.01 par value, 200,000,000 shares authorized, 51,227,779 and 48,846,449 shares issued in 2017
+		Row:and 2016, respectively Class B common stock, $.01 par value, 200,000,000 shares authorized, 33,901,603 and 35,263,004 shares issued in 2017
+	513 	488
+Row:and 2016, respectively 	339 	353
+Row:Additional paid -in capital 	337,726 	331,349
+Row:Retained earnings (deficit) 	32,638 	(11,403)
+Row:Accumulated other comprehensive loss Treasury stock, at cost, 14,709,731 and 13,589,025 Class A shares in 2017 and 2016, respectively, and 5,280,000 Class B
+	(187) 	(146)
+Row:shares in 2017 and 2016 	(88,790) 	(78,055)
+Row:Total equity 	282,239 	242,586
+Row:Total liabilities and equity 	$ 552,470 	$ 502,941
+Row:See accompanying Notes to Consolidated Financial Statements .
+		Row:F-2
+		Row:(88,790) 	(78,055)
+Row:282,239 	242,586
+Row:$ 552,470 	$ 502,941
+Row:	July 2, 2017 	July 3, 2016 	June 28, 2015
+Row:Net revenues 	$ 1,193,625 	$ 1,173,024 	$ 1,121,506
+Row:Cost of revenues 	673,344 	655,566 	634,311
+Row:Gross profit 	520,281 	517,458 	487,195
+Row:Operating expenses:
+			Row:Marketing and sales 	317,527 	318,175 	299,801
+Row:Technology and development 	38,903 	39,234 	34,745
+Row:General and administrative 	84,116 	84,383 	85,908
+Row:Depreciation and amortization 	33,376 	32,384 	29,124
+Row:Total operating expenses 	473,922 	474,176 	449,578
+Row:Operating income 	46,359 	43,282 	37,617
+Row:Interest expense, net 	5,821 	6,674 	5,753
+Row:Other (income) expense, net 	(15,471) 	(14,839) 	1,550
+Row:Income before income taxes 	56,009 	51,447 	30,314
+Row:Income tax expense 	11,968 	15,579 	10,930
+Row:Net Income 	$ 44,041 	35,868 	19,384
+Row:Less: Net loss attributable to noncontrolling interest 	- 	(1,007) 	(903)
+Row:Net income attributable to 1-800-FLOWERS.COM, Inc. 	$ 44,041 	$ 36,875 	$ 20,287
+Row:Basic net income per common share attributable to 1-800-FLOWERS.COM, Inc. 	$ 0.68 	$ 0.57 	$ 0.31
+Row:Diluted net income per common share attributable to 1-800-FLOWERS.COM, Inc. 	$ 0.65 	$ 0.55 	$ 0.30
+Row:Weighted average shares used in the calculation of net income per common share:
+			Row:Basic 	65,191 	64,896 	64,976
+Row:Diluted 	67,735 	67,083 	67,602
+Row:See accompanying Notes to Consolidated Financial Statements .
+			Row:	July 2, 2017 	July 3, 2016 	June 28, 2015
+Row:Net income 	$ 44,041 $ 	35,868 $ 	19,384
+Row:Other comprehensive income/(loss) (currency translation) 	(41) 	252 	(505)
+Row:Comprehensive income 	44,000 	36,120 	18,879
+Row:Less:
+			Row:Net loss attributable to noncontrolling interest 	- 	(1,007) 	(903)
+Row:Other comprehensive income (loss) (currency translation) attributable to noncontrolling interest 	- 	87 	(180)
+Row:Comprehensive net loss attributable to noncontrolling interest 	- 	(920) 	(1,083)
+Row:Comprehensive income attributable to 1-800-FLOWERS.COM, Inc. 	$ 44,000 $ 	37,040 $ 	19,962
+Row:See accompanying Notes to Consolidated Financial Statements .
+			Row:	Class Shares 	A Amount Common 	Class Shares Stock 	B Amount 	Paid-in Capital Additional 	Earnings (Deficit) Retained 	Comprehensive Loss Other
+	Treasury Shares 	Stock
+Amount 	Stockholders
+’ Equity 1-800-
+FLOWERS.
+COM, Inc.
+	Noncontrolling Interest 	Total
+Equity
+Row:Balance at
+June 29, 2014 	38,119,398 	$ 381 	42,058,594 	$ 420 	$ 305,510 	$ (68,565) 	$ (46) 	16,098,437 	$(54,472) $ 	183,228 	$ 2,890 	$186,118
+Row:Net income 	- 	- 	- 	- 	- 	20,287 	- 	- 	- 	20,287 	(903) 	19,384
+Row:Translation
+												Row:adjustment 	- 	- 	- 	- 	- 	- 	(325) 	- 	- 	(325) 	(180) 	(505)
+Row:Conversion of
+												Row:Class B stock
+into Class A
+stock 	2,748,550 	27 	(2,748,550) 	(27) 	- 	- 	- 	- 	- 	- 	- 	-
+Row:Stock-based
+compensation 	1,154,173 	12 	- 	- 	5,950 	- 	- 	- 	- 	5,962 	- 	5,962
+Row:Exercise of
+												Row:stock options 	853,170 	9 			5,533 					5,542 	- 	5,542
+Row:Excess tax
+benefit from
+stock-based
+												Row:compensation 	- 	- 	- 	- 	2,115 	- 	- 	- 	- 	2,115 	- 	2,115
+Row:Acquisition of
+Class A
+												Row:treasury stock 	- 	- 	- 	- 	- 	- 	- 	1,056,038 	(8,360) 	(8,360) 	- 	(8,360)
+Row:Balance at
+June 28, 2015 	42,875,291 	429 	39,310,044 	393 $ 	319,108 	(48,278) 	(371) 	17,154,475 	(62,832) 	208,449 	1,807 	210,256
+Row:Net income 	- 	- 	- 	- 	- 	36,875 	- 	- 	- 	36,875 	(1,007) 	35,868
+Row:Translation
+												Row:adjustment 	- 	- 	- 	- 	- 	- 	165 	- 	- 	165 	87 	252
+Row:Noncontrolling
+interest write-
+												Row:off 							60 			60 	(887) 	(827)
+Row:Conversion of
+Class B stock
+into Class A
+												Row:stock 	4,047,040 	40 	(4,047,040) 	(40) 	- 	- 	- 	- 	- 	- 	- 	-
+Row:Stock-based
+compensation 	879,863 	9 	- 	- 	6,334 	- 	- 	- 	- 	6,343 	- 	6,343
+Row:Exercise of
+												Row:stock options 	1,044,255 	10 			3,507 					3,517 	- 	3,517
+Row:Excess tax
+												Row:benefit from
+stock-based
+												Row:compensation 	- 	- 	- 	- 	2,400 	- 	- 	- 	- 	2,400 	- 	2,400
+Row:Acquisition of
+Class A
+treasury stock 	- 	- 	- 	- 	- 	- 	- 	1,714,550 	(15,223) 	(15,223) 	- 	(15,223)
+Row:Balance at July
+3, 2016 	48,846,449 	488 	35,263,004 	353 	331,349 	(11,403) 	(146) 	18,869,025 	(78,055) 	242,586 	- 	242,586
+Row:Net income 	- 	- 	- 	- 	- 	44,041 	- 	- 	- 	44,041 	- 	44,041
+Row:Translation
+adjustment 	- 	- 	- 	- 	- 	- 	(41) 	- 	- 	(41) 	- 	(41)
+Row:Conversion of
+												Row:Class B stock
+into Class A
+stock 	1,361,401 	14 	(1,361,401) 	(14) 	- 	- 	- 	- 	- 	- 	- 	-
+Row:Stock-based
+												Row:compensation 	965,429 	10 	- 	- 	6,092 	- 	- 	- 	- 	6,102 	- 	6,102
+Row:Exercise of
+stock options 	54,500 	1 	- 	- 	285 	- 	- 	- 	- 	286 	- 	286
+Row:Acquisition of
+												Row:Class A
+treasury stock 	- 	- 	- 	- 	- 	- 	- 	1,120,706 	(10,735) 	(10,735) 	- 	(10,735)
+Row:Balance at July
+2, 2017 See accompanying 	51,227,779 Notes to 	$ 513 Consolidated 	33,901,603 Financial 	$ 339 $ Statements .
+	337,726 	$ 32,638 	$ (187) 	19,989,731 	$(88,790) $ 	282,239 	- 	$282,239
+Row:						F-5
+						

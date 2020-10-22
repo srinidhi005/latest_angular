@@ -1,0 +1,109 @@
+Row:Assets
+Current assets:
+	Row:Cash and cash equivalents $ 	583,173 $ 696,474
+Row:Short-term investments 	540,991 169,576
+Row:Restricted cash 	33,838 28,805
+Row:Settlements receivable 	364,946 620,523
+Row:Customer funds 	334,017 103,042
+Row:Loans held for sale 	89,974 73,420
+Row:Other current assets 	164,966 86,454
+Row:Total current assets 	2,111,905 1,778,294
+Row:Property and equipment, net 	142,402 91,496
+Row:Goodwill 	261,705 58,327
+Row:Acquired intangible assets, net 	77,102 14,334
+Row:Long-term investments 	464,680 203,667
+Row:Restricted cash 	15,836 9,802
+Row:Build-to-suit lease asset 	149,000 —
+Row:Other non-current assets 	58,393 31,350
+Row:Total assets $ 	3,281,023 $ 2,187,270
+Row:Liabilities and Stockholders’ Equity
+	Row:Liabilities and Stockholders’ Equity
+		Row:Current liabilities:
+		Row:Customers payable 	749,215 	733,736
+Row:Settlements payable 	54,137 	114,788
+Row:Accrued transaction losses 	33,682 	26,893
+Row:Accrued expenses 	82,354 	52,280
+Row:Other current liabilities 	99,153 	45,130
+Row:Total current liabilities 	1,018,541 	972,827
+Row:Long-term debt (Note 12) 	899,695 	358,572
+Row:Build-to-suit lease liability 	149,000 	—
+Row:Other non-current liabilities 	93,286 	69,538
+Row:Total liabilities 	2,160,522 	1,400,937
+Row:Commitments and contingencies (Note 17)
+		Row:Additional paid-in capital 	2,012,328 	1,630,386
+Row:Accumulated other comprehensive loss 	(6,053) 	(1,318)
+Row:Accumulated deficit 	(885,774) 	(842,735)
+Row:Total stockholders’ equity 	1,120,501 	786,333
+Row:Total liabilities and stockholders’ equity 	$ 3,281,023 	$ 2,187,270
+Row:	2018 	2017 	2016
+Row:Revenue:
+Transaction-based revenue $ 	2,471,451 $ 	1,920,174 $ 	1,456,160
+Row:Starbucks transaction-based revenue Subscription and services-based revenue 	— 591,706 	— 252,664 	78,903
+129,351
+Row:Hardware revenue 	68,503 	41,415 	44,307
+Row:Bitcoin revenue 	166,517 	— 	—
+Row:Total net revenue 	3,298,177 	2,214,253 	1,708,721
+Row:Cost of revenue:
+			Row:Transaction-based costs 	1,558,562 	1,230,290 	943,200
+Row:Starbucks transaction-based costs 	— 	— 	69,761
+Row:Subscription and services-based costs 	169,884 	75,720 	43,132
+Row:Hardware costs 	94,114 	62,393 	68,562
+Row:Bitcoin costs 	164,827 	— 	—
+Row:Amortization of acquired technology 	7,090 	6,544 	8,028
+Row:Total cost of revenue 	1,994,477 	1,374,947 	1,132,683
+Row:Gross profit 	1,303,700 	839,306 	576,038
+Row:Operating expenses:
+			Row:Product development 	497,479 	321,888 	268,537
+Row:Sales and marketing 	411,151 	253,170 	173,876
+Row:General and administrative 	339,245 	250,553 	251,993
+Row:Transaction, loan and advance losses 	88,077 	67,018 	51,235
+Row:Amortization of acquired customer assets Total operating expenses Operating loss 	4,362 1,340,314 (36,614) 	883 893,512 (54,206) 	850
+746,491
+(170,453)
+Row:Interest expense, net 	17,982 	10,053 	(533)
+Row:Other income, net 	(18,469) 	(1,595) 	(247)
+Row:Loss before income tax 	(36,127) 	(62,664) 	(169,673)
+Row:Provision for income taxes 	2,326 	149 	1,917
+Row:Net loss $ 	(38,453) $ 	(62,813) $ 	(171,590)
+Row:Net loss per share:
+			Row:Basic $ 	(0.09) $ 	(0.17) $ 	(0.50)
+Row:Diluted $ Weighted-average shares used to compute net loss per share:
+Basic 	(0.09) $ 405,731 	(0.17) $ 379,344 	(0.50)
+341,555
+Row:Diluted 	405,731 	379,344 	341,555
+Row:See accompanying notes to consolidated financial 	statements.
+		Row:Cash flows from operating activities:
+		Row:Net loss $ (38,453) Adjustments to reconcile net loss to net cash provided by operating activities:
+	$ (62,813) 	$ (171,590)
+Row:Depreciation and amortization 60,961 	37,279 	37,745
+Row:Non-cash interest and other expense 31,257 	14,421 	(49)
+Row:Loss on extinguishment of long-term debt 5,047 	— 	—
+Row:Share-based compensation 216,881 	155,836 	138,786
+Row:Replacement stock awards issued in connection with acquisition 	899 — 	—
+Row:Gain on revaluation of equity investment (20,342) 	— 	—
+Row:Recovery of common stock in connection with indemnification settlement agreement (2,745) 	— 	—
+Row:Transaction, loan and advance losses 88,077 	67,018 	51,235
+Row:Change in deferred income taxes 	(646) (1,385) 	58
+Row:Changes in operating assets and liabilities:
+		Row:Settlements receivable 245,795 	(305,831) 	(177,662)
+Row:Customer funds (131,004) 	(59,468) 	(34,128)
+Row:Purchase of loans held for sale (1,609,611) 	(1,184,630) 	(668,976)
+Row:Sales and principal payments of loans held for sale 1,579,834 	1,145,314 	627,627
+Row:Other current assets (77,405) 	(26,119) 	16,116
+Row:Other non-current assets (6,641) 	(3,274) 	631
+Row:Customers payable 15,597 	301,778 	206,574
+Row:Settlements payable (60,651) 	63,637 	38,046
+Row:Charge-offs to accrued transaction losses (58,192) 	(46,148) 	(47,931)
+Row:Accrued expenses 7,190 	12,207 	(409)
+Row:Other current liabilities 35,294 	8,198 	3,909
+Row:Other non-current liabilities 13,938 	11,691 	3,149
+Row:Net cash provided by operating activities 295,080 	127,711 	23,131
+Row:Cash flows from investing activities:
+		Row:Purchase of marketable debt securities (1,000,346) 	(544,910) 	(164,766)
+Row:Proceeds from maturities of marketable debt securities 197,454 	168,224 	43,200
+Row:Proceeds from sale of marketable debt securities 171,992 	89,087 	34,222
+Row:Purchase of marketable debt securities from customer funds (148,096) 	— 	—
+Row:Proceeds from sale of marketable debt securities from customer funds 48,334 	— 	—
+Row:Purchase of property and equipment (61,203) 	(26,097) 	(25,433)
+Row:Proceeds from sale of property and equipment 	— — 	296
+Row:Purchase of equity investment 	— (25,000) 	—

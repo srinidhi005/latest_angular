@@ -1,0 +1,291 @@
+Row:(In millions, except share data)
+		Row:Assets
+		Row:Current assets:
+:
+		Row:Cash and cash equivalents 	$ 3,934 	$ 3,609
+Row:Fixed maturity securities, current (amortized cost of $16,894 and $17,055) 	16,692 	17,377
+Row:Equity securities, current 	1,493 	3,599
+Row:Other invested assets, current 	21 	17
+Row:Accrued investment income 	162 	163
+Row:Premium receivables 	4,465 	3,605
+Row:Self-funded receivables 	2,278 	2,580
+Row:Other receivables 	2,558 	2,267
+Row:Income taxes receivable 	10 	342
+Row:Securities lending collateral 	604 	455
+Row:Other current assets 	2,104 	2,249
+Row:Total current assets 	34,321 	36,263
+Row:Long-term investments:
+:
+		Row:Fixed maturity securities (amortized cost of $486 and $555) 	487 	561
+Row:Equity securities 	33 	33
+Row:Other invested assets 	3,726 	3,344
+Row:Property and equipment, , net 	2,735 	2,175
+Row:Goodwill 	20,504 	19,231
+Row:Other intangible assets 	9,007 	8,368
+Row:Other noncurrent assets 	758 	565
+Row:Total assets 	$ 71,571 	$ 70,540
+Row:Liabilities and shareholders’ ' equity
+		Row:Liabilities
+		Row:Current liabilities:
+:
+		Row:Policy liabilities:
+		Row:Medical claims payable 	$ 7,454 	$ 7,992
+Row:Reserves for future policy benefits 	75 	70
+Row:Other policyholder liabilities 	2,590 	2,950
+Row:Total policy liabilities 	10,119 	11,012
+Row:Unearned income 	902 	860
+Row:Accounts payable and accrued expenses 	4,959 	5,024
+Row:Security trades pending payable 	197 	113
+Row:Securities lending payable 	604 	454
+Row:Short-term borrowings 	1,145 	1,275
+Row:Current portion of long-term debt 	849 	1,275
+Row:Other current liabilities 	3,190 	3,343
+Row:Total current liabilities 	21,965 	23,356
+Row:Long-term debt, less current portion 	17,217 	17,382
+Row:Reserves for future policy benefits, , noncurrent 	706 	647
+Row:Deferred tax liabilities, net 	1,960 	1,727
+Row:Other noncurrent liabilities 	1,182 	925
+Row:Total liabilities 	43,030 	44,037
+Row:Commitments and contingencies—Note 13
+		Row:Shareholders’ ' equity
+		Row:Preferred stock, without par value, , shares authorized - - 100,000,000; ; shares issued and outstanding - - none 	— 	—
+Row:Common stock, par value $0.01, , shares authorized - - 900,000,000; shares issued and outstanding - 257,395,577 and 256,084,913 	3 	3
+Row:Additional paid-in capital 	9,536 	8,547
+Row:Retained earnings 	19,988 	18,054
+Row:Shareholders’ ' equity
+		Row:Preferred stock, without par value, , shares authorized - - 100,000,000; ; shares issued and outstanding - - 	none — 	—
+Row:Common stock, par value $0.01, , shares authorized - - 900,000,000; shares issued and outstanding - 	257,395,577 and 256,084,913 3 	3
+Row:Additional paid-in capital 	9,536 	8,547
+Row:Retained earnings 	19,988 	18,054
+Row:Accumulated other comprehensive loss 	(986) 	(101)
+Row:	28,541 		26,503
+Row:$ 	71,571 	$ 	70,540
+Row:(In millions, except per share data) 	2018 	2017 	2016
+Row:Revenues
+			Row:Premiums 	$ 85,421 $ 	83,648 $ 	78,860
+Row:Administrative fees and other revenue 	5,920 	5,413 	5,334
+Row:Total operating revenue 	91,341 	89,061 	84,194
+Row:Net investment income 	970 	867 	779
+Row:Net realized (losses) ) gains on financial instruments 	(180) 	145 	5
+Row:Other-than-temporary impairment losses on investments:
+			Row:Total other-than-temporary impairment losses on investments 	(29) 	(35) 	(147)
+Row:Portion of other-than-temporary impairment losses recognized in other comprehensive
+(loss) income 	3 	2 	32
+Row:Other-than-temporary impairment losses recognized in income 	(26) 	(33) 	(115)
+Row:Total revenues 	92,105 	90,040 	84,863
+Row:Expenses
+			Row:Benefit expense 	71,895 	72,236 	66,834
+Row:Selling, general and administrative expense 	14,020 	12,650 	12,559
+Row:Interest expense 	753 	739 	723
+Row:Amortization of other intangible assets 	358 	169 	192
+Row:Loss on extinguishment of debt 	11 	282 	—
+Row:Total expenses 	87,037 	86,076 	80,308
+Row:Income before income tax expense 	5,068 	3,964 	4,555
+Row:Income tax expense 	1,318 	121 	2,085
+Row:Net income 	$ 3,750 $ 	3,843 $ 	2,470
+Row:Net income per share
+			Row:Basic 	$ 14.53 $ 	14.70 $ 	9.39
+Row:Diluted 	$ 14.19 $ 	14.35 $ 	9.21
+Row:Dividends per share 	$ 3.00 $ 	2.70 $ 	2.60
+Row:(In millions)
+	2018
+	2017
+	2016
+Row:Operating activities
+			Row:Net income
+	3,750
+	$
+3,843
+	$
+2.470
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+			Row:Net realized losses (gains) on financial instruments
+	180
+	(145)
+	(5)
+Row:Other-than-temporary impairment losses recognized in income
+	26
+	33
+	115
+Row:Loss on extinguishment of debt
+	11
+	282
+	Row:Loss on disposal of assets
+	8
+	13
+	5
+Row:Deferred income taxes
+	91
+	(1,272)
+	127
+Row:Amortization, net of accretion
+	1,008
+	780
+	808
+Row:Depreciation expense
+	124
+	111
+	104
+Row:Impairment of property and equipment
+	5
+	2
+	45
+Row:Share-based compensation
+	226
+	170
+	165
+Row:Excess tax benefits from share-based compensation
+			(54)
+Row:Changes in operating assets and liabilities:
+			Row:Receivables, net
+	(695)
+	(22)
+	(1,381)
+Row:Other invested assets
+	(1)
+	(36)
+	(19)
+Row:Other assets
+	(26)
+	(629)
+	(128)
+Row:Policy liabilities
+	(1,059)
+	732
+	322
+Row:Unearned income
+	(36)
+	(120)
+	(174)
+Row:Accounts payable and accrued expenses
+	122
+	922
+	182
+Row:Other liabilities
+	(25)
+	(120)
+	606
+Row:Income taxes
+	323
+	(194)
+	179
+Row:Other, net
+	(205)
+	(165)
+	(97)
+Row:Net cash provided by operating activities
+	3,827
+	4,185
+	3,270
+Row:Investing activities
+			Row:Purchases of fixed maturity securities
+	(8,244)
+	(9,795)
+	(10,158)
+Row:Proceeds from fixed maturity securities:
+			Row:Sales
+	6,442
+	7,932
+	8,636
+Row:Maturities, calls and redemptions
+	1,938
+	1,848
+	1,419
+Row:Purchases of equity securities
+	(896)
+	(5,416)
+	(1,476)
+Row:Proceeds from sales of equity securities
+	2,809
+	3,463
+	1,593
+Row:Purchases of other invested assets
+	(531)
+	(1,164)
+	(433)
+Row:Proceeds from sales of other invested assets
+	411
+	219
+	305
+Row:Changes in collateral and settlement of non-hedging derivatives
+		65
+	(35)
+Row:Changes in securities lending collateral
+	(149)
+	625
+	222
+Row:Purchases of subsidiaries, net of cash acquired
+	(1,760)
+	(2,080)
+	Row:Purchases of property and equipment
+	(1,208)
+	(800)
+	(584)
+Row:Proceeds from sales of property and equipment
+		9
+	Row:Other, net
+	(71)
+	12
+	(3)
+Row:Net cash used in investing activities
+	(1,259)
+	(5,082)
+	(514)
+Row:Financing activities
+			Row:Net (repayments of) proceeds from commercial paper borrowings
+	(107)
+	175
+	(53)
+Row:Proceeds from long-term borrowings
+	835
+	5,458
+	Row:Repayments of long-term borrowings
+	(1,684)
+	(2,815)
+	Row:Proceeds from short-term borrowings
+	9,120
+	5,835
+	2,400
+Row:Repayments of short-term borrowings
+	(9,250)
+	(5,000)
+	(2,500)
+Row:Changes in securities lending payable
+	150
+	(625)
+	(222)
+Row:Changes in bank overdrafts
+	(210)
+	71
+	513
+Row:Proceeds from sale of put options
+	1
+		Row:Proceeds from issuance of common stock under Equity Units stock purchase contracts
+	1.250
+		Row:Repurchase and retirement of common stock
+	(1,685)
+	(1,998)
+	Row:Change in collateral and settlements of debt-related derivatives
+	23
+	(149)
+	(360)
+Row:Cash dividends
+	(776)
+	(705)
+	(684)
+Row:Proceeds from issuance of common stock under employee stock plans
+	173
+	225
+	120
+Row:Taxes paid through withholding of common stock under employee stock plans 	(81) )
+	(46) 	(67)
+Row:Excess tax benefits from share-based compensation 	— 	— 	54
+Row:Net cash (used in) provided by financing activities 	(2,241) 	427 	(799)
+)
+Row:Effect of foreign exchange rates on cash and cash equivalents 	(2) )
+	4 	5
+Row:Change in cash and cash equivalents 	325 	(466) 	1,962
+Row:Cash and cash equivalents at beginning of year 	3,609 	4,075 	2,113
+Row:Cash and cash equivalents at end of year 	$ 3,934 	$ 3,609 	$ 4,075
+Row:See accompanying notes.
+			

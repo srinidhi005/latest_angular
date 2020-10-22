@@ -1,0 +1,122 @@
+Row:ASSETS
+	(millions)
+	Row:Current assets:
+		Row:Cash and cash equivalents $ 	668.3 $ 	456.3
+Row:Short-term investments 	684.7 	629.4
+Row:Accounts receivable, net of allowances of $214.4 million and $254.2 million 	450.2 	516.5
+Row:Inventories 	791.5 	1,124.6
+Row:Income tax receivable 	79.4 	57.8
+Row:Prepaid expenses and other current assets 	280.4 	268.1
+Row:Total current assets 	2,954.5 	3,052.7
+Row:Property and equipment, net 	1,316.0 	1,583.2
+Row:Deferred tax assets 	125.9 	118.7
+Row:Goodwill 	904.6 	917.9
+Row:Intangible assets, net 	219.8 	243.9
+Row:Other non-current assets 	131.2 	296.7
+Row:Total assets $ 	5,652.0 $ 	6,213.1
+Row:LIABILITIES AND EQUITY
+		Row:Current liabilities:
+		Row:Short-term debt $ 	— $ 	116.1
+Row:Accounts payable 	147.7 	151.0
+Row:Income tax payable 	29.5 	33.0
+Row:Accrued expenses and other current liabilities 	982.7 	898.2
+Row:Total current liabilities 	1,159.9 	1,198.3
+Row:Long-term debt 	588.2 	597.0
+Row:Non-current liability for unrecognized tax benefits Other non-current liabilities 	62.7 541.6 	80.6
+593.7
+Row:Commitments and contingencies (Note 15)
+Total liabilities 	2,352.4 	2,469.6
+Row:Equity:
+		Row:Class A common stock, par value $.01 per share; 101.5 million and 101.0 million shares issued;
+55.1 million and 57.0 million shares outstanding 	1.2 	1.2
+Row:Class B common stock, par value $.01 per share; 25.9 million shares issued and outstanding Additional paid-in-capital 	— 2,308.8 	—
+2,257.5
+Row:Retained earnings 	5,751.9 	6,015.0
+Row:Treasury stock, Class A, at cost; 46.4 million and 44.0 million shares Accumulated other comprehensive loss Total equity 	(4,563.9) (198.4) 3,299.6 	(4,348.7)
+(181.5)
+3,743.5
+Row:Total liabilities and equity $ See accompanying notes.
+	5,652.0 $ 	6,213.1
+Row:	2017
+	2016
+(millions, except per share data)
+	2015
+Row:Net revenues $ 	6,652.8 	$ 7,405.2 	$ 7,620.3
+Row:Cost of goods sold(a) 	(3,001.7) 	(3,218.5) 	(3,242.4)
+Row:Gross profit 	3,651.1 	4,186.7 	4,377.9
+Row:Selling, general, and administrative expenses(a) 	(3,149.4) 	(3,389.7) 	(3,300.3)
+Row:Amortization of intangible assets 	(24.1) 	(23.7) 	(25.2)
+Row:Impairment of assets 	(253.8) 	(48.8) 	(6.9)
+Row:Restructuring and other charges 	(318.6) 	(142.6) 	(10.1)
+Row:Total other operating expenses, net 	(3,745.9) 	(3,604.8) 	(3,342.5)
+Row:Operating income (loss) 	(94.8) 	581.9 	1,035.4
+Row:Foreign currency gains (losses) 	1.1 	(3.8) 	(25.9)
+Row:Interest expense 	(12.4) 	(21.0) 	(16.7)
+Row:Interest and other income, net 	6.4 	5.6 	6.1
+Row:Equity in losses of equity-method investees 	(5.2) 	(10.9) 	(11.5)
+Row:Income (loss) before income taxes 	(104.9) 	551.8 	987.4
+Row:Income tax benefit (provision) 	5.6 	(155.4) 	(285.2)
+Row:Net income (loss) $ 	(99.3) 	$ 396.4 	$ 702.2
+Row:Net income (loss) per common share:
+			Row:Basic $ 	(1.20) 	$ 4.65 	$ 7.96
+Row:Diluted $ 	(1.20) 	$ 4.62 	$ 7.88
+Row:Weighted average common shares outstanding:
+			Row:Basic 	82.7 	85.2 	88.2
+Row:Diluted 	82.7 	85.9 	89.1
+Row:Dividends declared per share $ 	2.00 	$ 2.00 	$ 1.85
+Row:(a) Includes total depreciation expense of: $ 	(283.4) 	$ (285.7) 	$ (269.2)
+Row:See accompanying 	notes.
+		Row:April 1,
+	April 2,
+	March 28,
+Row:2017
+	2016
+	2015
+Row:2017
+Cash flows from operating activities:
+	2016
+2015
+(millions)
+Row:Net income (loss) $ 	(99.3) $ 396.4 $ 702.2
+Row:Adjustments to reconcile net income (loss) to net cash provided by operating activities:
+Depreciation and amortization expense 	307.5 309.4 294.4
+Row:Deferred income tax expense (benefit) 	(38.9) (7.9) 10.5
+Row:Equity in losses of equity-method investees 	5.2 10.9 11.5
+Row:Non-cash stock-based compensation expense 	63.6 97.0 80.5
+Row:Non-cash impairment of assets 	253.8 48.8 6.9
+Row:Non-cash restructuring-related inventory charges 	197.9 20.4 —
+Row:Excess tax benefits from stock-based compensation arrangements 	(0.3) (10.2) (7.7)
+Row:Other non-cash charges (benefits) 	29.2 19.7 (24.6)
+Row:Changes in operating assets and liabilities:
+	Row:Accounts receivable 	54.1 129.4 (95.6)
+Row:Inventories 	120.4 (90.9) (97.5)
+Row:Prepaid expenses and other current assets 	(27.8) 30.2 (96.5)
+Row:Accounts payable and accrued liabilities 	112.9 90.1 50.3
+Row:Income tax receivables and payables 	(34.0) (14.6) (22.2)
+Row:Deferred income 	(20.7) (7.9) (21.1)
+Row:Other balance sheet changes 	28.7 (14.3) 102.2
+Row:Net cash provided by operating activities 	952.3 1,006.5 893.3
+Row:Cash flows from investing activities:
+	Row:Capital expenditures 	(284.0) (417.7) (391.2)
+Row:Purchases of investments 	(860.4) (1,085.0) (1,397.7)
+Row:Proceeds from sales and maturities of investments 	942.4 942.7 1,112.8
+Row:Acquisitions and ventures 	(6.1) (16.3) (11.7)
+Row:Change in restricted cash deposits 	0.3 (6.0) (0.9)
+Row:Net cash used in investing activities 	(207.8) (582.3) (688.7)
+Row:Cash flows from financing activities:
+	Row:Proceeds from issuance of short-term debt 	3,735.2 4,343.9 2,807.7
+Row:Repayments of short-term debt 	(3,851.3) (4,462.6) (2,573.8)
+Row:Proceeds from issuance of long-term debt 	— 299.4 —
+Row:Payments of capital lease obligations 	(27.3) (24.3) (23.9)
+Row:Payments of dividends 	(164.8) (170.3) (158.2)
+Row:Repurchases of common stock, including shares surrendered for tax withholdings 	(215.2) (500.4) (531.6)
+Row:Proceeds from exercise of stock options 	5.0 33.2 52.5
+Row:Excess tax benefits from stock-based compensation arrangements 	0.3 10.2 7.7
+Row:Other financing activities 	— (1.9) (1.0)
+Row:Net cash used in financing activities 	(518.1) (472.8) (420.6)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(14.4) 5.2 (81.7)
+Row:Net increase (decrease) in cash and cash equivalents 	212.0 (43.4) (297.7)
+Row:Cash and cash equivalents at beginning of period 	456.3 499.7 797.4
+Row:Cash and cash equivalents at end of period $ 	668.3 $ 456.3 $ 499.7
+Row:See accompanying notes.
+	

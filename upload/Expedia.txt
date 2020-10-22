@@ -1,0 +1,153 @@
+Row:	(In 	millions, except for per share 	data)
+)
+Row:Revenue 	$ 11,223 	$ 10,060 	$ 8,774
+Row:Costs and expenses:
+:
+			Row:Cost of revenue (1) 	1,965 	1,757 	1,597
+Row:Selling and marketing (1) )
+	5,767 	5,298 	4,367
+Row:Technology and content (1) )
+	1,617 	1,387 	1,235
+Row:General and administrative (1) )
+	808 	676 	678
+Row:Amortization of intangible assets 	283 	275 	317
+Row:Impairment of goodwill 	86 	— 	—
+Row:Impairment of intangible assets 	42 	— 	35
+Row:Legal reserves, , occupancy tax and other 	(59) 	25 	27
+Row:Restructuring and related reorganization charges (1) 	— 	17 	56
+Row:Operating income 	714 	625 	462
+Row:Other income (expense):
+:
+			Row:Interest income 	71 	34 	20
+Row:Interest expense 	(190) 	(182) 	(173)
+Row:Other, net 	(110) 	(60) 	(32)
+Row:Total other expense, , net 	(229) )
+	(208) 	(185)
+Row:Income before income taxes 	485 	417 	277
+Row:Provision for income taxes 	(87) 	(45) 	(16)
+Row:Net income 	398 	372 	261
+Row:Net loss attributable to non-controlling interests 	8 	6 	21
+Row:Net income attributable to Expedia Group, , Inc. 	$ 406 	$ 378 	$ 282
+Row:Basic 	$ 2.71 	$ 	2.49 	$ 1.87
+Row:Diluted 	2.65 		2.42 	1.82
+Row:Shares used in computing earnings per share (000's):
+				Row:Basic 	149,961 		151,619 	150,367
+Row:Diluted 	152,889 		156,385 	154,517
+Row:(1) Includes stock-based compensation as follows:
+				Row:Cost of revenue 	$ 11 	$ 	10 	$ 11
+Row:Selling and marketing 	44 		40 	47
+Row:Technology and content 	61 		55 	63
+Row:General and administrative 	87 		44 	108
+Row:Restructuring and related reorganization charges 	— 		— 	13
+Row:		2018 (In millions, except 	2017
+per share data)
+Row:	ASSETS
+		Row:Current assets:
+			Row:Cash and cash equivalents 	$ 	2,443 	$ 2,847
+Row:Restricted cash and cash equivalents 		259 	69
+Row:Short-term investments 		28 	468
+Row:Accounts receivable, net of allowance of $34 and $31 		2,151 	1,866
+Row:Income taxes receivable 		24 	21
+Row:Prepaid expenses and other current assets 		292 	269
+Row:Total current assets 		5,197 	5,540
+Row:Property and equipment, net 		1,877 	1,575
+Row:Long-term investments and other assets 		778 	845
+Row:Deferred income taxes 		69 	18
+Row:Intangible assets, net 		1,992 	2,309
+Row:Goodwill 		8,120 	8,229
+Row:TOTAL ASSETS 	$ 	18,033 	$ 18,516
+Row:Current liabilities:
+		Row:Accounts payable, merchant 	$ 1,699 $ 	1,838
+Row:Accounts payable, other 	788 	698
+Row:Deferred merchant bookings 	4,327 	3,219
+Row:Deferred revenue 	364 	326
+Row:Income taxes payable 	74 	33
+Row:Accrued expenses and other current liabilities 	808 	1,265
+Row:Current maturities of long-term debt 	— 	500
+Row:Total current liabilities 	8,060 	7,879
+Row:Long-term debt, excluding current maturities 	3,717 	3,749
+Row:Deferred income taxes 	69 	329
+Row:Other long-term liabilities 	506 	408
+Row:Commitments and contingencies
+		Row:Redeemable non-controlling interests 	30 	22
+Row:Stockholders’ equity:
+		Row:Common stock $.0001 par value 	— 	—
+Row:Authorized shares: 1,600,000
+		Row:Shares issued: 231,493 and 228,467
+		Row:Shares outstanding: 134,334 and 138,939
+		Row:Class B common stock $.0001 par value 	— 	—
+Row:Authorized shares: 400,000
+		Row:Shares issued and outstanding: 12,800 and 12,800
+		Row:Additional paid-in capital 	9,549 	9,163
+Row:Treasury stock — Common stock, at cost 	(5,742) 	(4,822)
+Row:Shares: 97,159 and 89,528
+		Row:Retained earnings 	517 	331
+Row:Accumulated other comprehensive income (loss) 	(220) 	(149)
+Row:Total Expedia Group, Inc. stockholders’ equity 	4,104 	4,523
+Row:Non-redeemable non-controlling interests 	1,547 	1,606
+Row:Total stockholders’ equity 	5,651 	6,129
+Row:TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY 	$ 18,033 $ 	18,516
+Row:See notes to consolidated financial statements.
+		Row:9,549 	9,163
+Row:(5,742) 	(4,822)
+Row:517 	331
+Row:(220) 	(149)
+Row:4,104 	4,523
+Row:1,547 	1,606
+Row:5,651 	6,129
+Row:$ 18,033 	$ 18,516
+Row:	2018 	2017 (In millions)
+)
+	2016
+Row:Operating activities:
+			Row:Net income 	$ 398 	$ 372 	$ 261
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+:
+			Row:Depreciation of property and equipment, including internal-use software and website development 	676 	614 	477
+Row:Amortization of stock-based compensation 	203 	149 	242
+Row:Amortization and impairment of intangible assets 	325 	275 	352
+Row:Impairment of goodwill 	86 	— 	—
+Row:Deferred income taxes 	(308) 	(103) 	(14)
+)
+Row:Foreign exchange (gain) loss on cash, restricted cash and short-term investments, , net 	111 	(79) 	16
+Row:Realized (gain) loss on foreign currency forwards 	(31) 	(6) 	53
+Row:Loss on minority equity investments, , net 	111 	14 	12
+Row:Other 	22 	(30) )
+	(4)
+Row:Changes in operating assets and liabilities, , net of effects from acquisitions:
+			Row:Accounts receivable 	(282) 	(456) 	(276)
+Row:Prepaid expenses and other assets 	(29) 	(71) 	(45)
+Row:Accounts payable, merchant 	(134) 	316 	184
+Row:Accounts payable, other, , accrued expenses and other current liabilities 	196 	257 	79
+Row:Tax payable/receivable, , net 	102 	(30) 	(100)
+Row:Deferred merchant bookings 	489 	593 	261
+Row:Deferred revenue 	40 	30 	51
+Row:Net cash provided by operating activities 	1,975 	1,845 	1,549
+Row:Investing activities:
+			Row:Capital expenditures, including internal-use software and website development 	(878) 	(710) 	(749)
+Row:Purchases of investments 	(1,803) 	(1,811) 	(45)
+Row:Sales and maturities of investments 	2,137 	1,096 	61
+Row:Acquisitions, net of cash and restricted cash acquired 	(53) 	(169) 	(1)
+Row:Other, net 	38 	13 	16
+Row:Net cash used in investing activities 	(559) 	(1,581) 	(718)
+Row:Financing activities:
+			Row:Payment of long-term debt 	(500) 	— 	—
+Row:Proceeds from issuance of long-term debt, , net of issuance costs 	— 	990 	(2)
+Row:Payment of HomeAway Convertible Notes 	— 	— 	(401)
+Row:Purchases of treasury stock 	(923) )
+	(312) 	(456)
+Row:Proceeds from issuance of treasury stock 	31 	— 	—
+Row:Payment of dividends to stockholders 	(186) 	(176) 	(150)
+Row:Proceeds from exercise of equity awards and employee stock purchase plan 	166 	229 	141
+Row:Changes in controlled subsidiaries, , net 	(62) 	(18) 	208
+Row:Other, , net 	(15) 	(25) 	(31)
+Row:Net cash provided by (used in) financing activities 	(1,489) 	688 	(691)
+Row:Effect of exchange rate changes on cash, , cash equivalents and restricted cash and cash equivalents 	(139) 	147 	(35)
+Row:Net increase (decrease) in cash, cash equivalents and restricted cash and cash equivalents 	(212) 	1,099 	105
+Row:Cash, cash equivalents and restricted cash and cash equivalents
+, 			Row:at beginning of year 	2,917 	1,818 	1,713
+Row:Cash, , cash equivalents and restricted cash and cash equivalents at end of year 	$ 2,705 	$ 2,917 	$ 1,818
+Row:Supplemental cash flow information
+			Row:Cash paid for interest 	$ 196 	$ 163 	$ 154
+Row:Income tax payments, , net See notes to consolidated financial statements.
+	282 	174 	124

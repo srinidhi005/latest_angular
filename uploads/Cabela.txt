@@ -1,0 +1,184 @@
+RowRevenue:
+	2016 	2015 	2014
+RowMerchandise sales 	$ 3,558,019 $ 	3,481,375 	$ 3,200,219
+RowFinancial Services revenue 	543,061 	502,543 	430,385
+RowOther revenue 	28,279 	13,784 	17,046
+RowTotal revenue 	4,129,359 	3,997,702 	3,647,650
+RowCost of revenue:
+:
+			RowMerchandise costs (exclusive of depreciation and amortization) 	2,413,850 	2,286,554 	2,058,891
+RowCost of other revenue 	13,135 	378 	1,398
+RowTotal cost of revenue (exclusive of depreciation and amortization) 	2,426,985 	2,286,932 	2,060,289
+RowSelling, , distribution, , and administrative expenses 	1,414,312 	1,387,647 	1,251,325
+RowImpairment and restructuring charges 	14,122 	15,331 	641
+RowOperating income 	273,940 	307,792 	335,395
+RowInterest expense, net 	(31,481) 	(22,882) 	(21,842)
+RowOther non-operating income, , net 	5,141 	9,717 	4,924
+RowIncome before provision for income taxes 	247,600 	294,627 	318,477
+RowProvision for income taxes 	100,653 	105,297 	116,762
+RowNet income 	$ 146,947 $ 	189,330 	$ 201,715
+RowEarnings per basic share 	$ 2.15 $ 	2.70 	$ 2.84
+RowEarnings per diluted share 	$ 2.13 $ 	2.67 	$ 2.81
+RowBasic weighted average shares outstanding 	68,323,540 	70,102,715 	70,987,168
+RowDiluted weighted average shares outstanding 	68,996,664 	70,968,913 	71,877,856
+Row$ 2.15 	$ 	2.70 $ 	2.84
+Row$ 2.13 	$ 	2.67 $ 	2.81
+Row68,323,540 70,102,715 	70,987,168
+Row68,996,664 70,968,913 	71,877,856
+RowNet income 	$ 146,947 	$ 	189,330 	$ 201,715
+RowOther comprehensive income (loss):
+:
+				RowForeign currency translation adjustments 	6,986 		(39,784) 	(14,821)
+RowUnrealized gain (loss) ) on economic development bonds, , net of taxes of $(1,051),
+$500, and $2,938 ,
+, 	(1,994) 		576 	4,839
+RowTotal other comprehensive income (loss) 	4,992 		(39,208) 	(9,982)
+RowComprehensive income 	$ 151,939 	$ 	150,122 	$ 191,733
+Row	(1,994) 	576 	4,839
+Row	4,992 	(39,208) 	(9,982)
+Row$ 	151,939 	$ 150,122 	$ 191,733
+RowASSETS
+	December 31,
+2016 	January 2, 2016
+RowCURRENT
+		RowCash and cash equivalents 	$ 263,825 	$ 315,066
+RowRestricted cash of the Trust 	48,697 	40,983
+RowAccounts receivable, , net 	76,140 	79,330
+RowCredit card loans (includes restricted credit card loans of the Trust of $5,661,101 and $5,066,660), net of allowance for loan
+losses of $118,343 and $75,911 	5,579,575 	5,035,267
+RowInventories 	860,360 	819,271
+RowPrepaid expenses and other current assets 	132,250 	117,330
+RowIncome taxes receivable 	75,731 	77,698
+RowTotal current assets 	7,036,578 	6,484,945
+RowProperty and equipment, net 	1,807,209 	1,811,302
+RowDeferred income taxes 	— 	28,042
+RowOther assets 	127,037 	138,715
+RowTotal assets 	$ 8,970,824 	$ 8,463,004
+RowTotal current assets 	7,036,578 	6,484,945
+RowProperty and equipment, net 	1,807,209 	1,811,302
+RowDeferred income taxes 	— 	28,042
+RowOther assets 	127,037 	138,715
+RowTotal assets 	$ 8,970,824 	$ 8,463,004
+RowLIABILITIES AND STOCKHOLDERS’ EQUITY
+		RowCURRENT
+		RowAccounts payable, including unpresented checks of $41,132 and $23,580 	$ 347,784 	$ 281,985
+RowGift instruments, credit card rewards, and loyalty rewards programs 	387,865 	365,427
+RowAccrued expenses and other liabilities 	172,744 	224,733
+RowTime deposits 	177,015 	215,306
+RowCurrent maturities of secured variable funding obligations of the Trust 	420,000 	655,000
+RowCurrent maturities of secured long-term obligations of the Trust, net 	1,104,685 	509,673
+RowCurrent maturities of long-term debt, net 	79,677 	223,452
+RowTotal current liabilities 	2,689,770 	2,475,576
+RowLong-term time deposits 	991,842 	664,593
+RowSecured long-term obligations of the Trust, , less current maturities, net 	2,466,576 	2,721,259
+RowLong-term debt, less current maturities, , net 	671,509 	635,898
+RowDeferred income taxes 	7,288 	—
+RowOther long-term liabilities 	132,240 	137,035
+RowCOMMITMENTS AND CONTINGENCIES
+		RowSTOCKHOLDERS’ EQUITY
+		RowPreferred stock, $0.01 par value; Authorized – 10,000,000 shares; ; Issued – none 	— 	—
+RowCommon stock, $0.01 par value:
+:
+		RowClass A Voting, , Authorized – 245,000,000 shares
+		RowIssued – 71,595,020 and 71,595,020 shares
+		RowOutstanding – 68,502,256 and 67,818,715 shares 	716 	716
+RowAdditional paid-in capital 	384,353 	389,754
+RowRetained earnings 	1,798,809 	1,651,862
+RowAccumulated other comprehensive loss 	(45,922) 	(50,914)
+RowTreasury stock, at cost – 3,092,764 and 3,776,305 shares 	(126,357) 	(162,775)
+RowTotal stockholders’ equity 	2,011,599 	1,828,643
+RowTotal liabilities and stockholders’ equity 	$ 8,970,824 	$ 8,463,004
+RowCASH FLOWS FROM OPERATING ACTIVITIES:
+	Fiscal Years
+2016 2015 	2014
+RowNet income 	$ 146,947 $ 189,330 	$ 201,715
+RowAdjustments to reconcile net income to net cash flows by operating activities:
+:
+		RowDepreciation and amortization 	150,163 132,696 	113,097
+RowImpairment and restructuring charges 	15,878 12,532 	641
+RowStock-based compensation 	24,758 21,615 	17,498
+RowDeferred income taxes 	36,381 (20,188) 	(11,562)
+RowProvision for loan losses 	147,661 85,120 	61,922
+RowOther, , net 	(16,870) (1,517) 	139
+RowChanges in operating assets and liabilities, , net:
+:
+		RowAccounts receivable 	2,420 (18,065) 	(19,468)
+RowCredit card loans originated from internal operations, , net 	(6,830) (39,292) 	(26,436)
+RowInventories 	(38,921) (70,207) 	(119,751)
+RowPrepaid expenses, other current assets, and other assets 	(8,971) (21,778) 	(2,220)
+RowAccounts payable and accrued expenses and other liabilities 	(8,687) 29,118 	58,531
+RowGift instruments, credit card rewards, and loyalty rewards programs 	22,212 27,280 	49,064
+RowOther long-term liabilities 	(2,707) (24,944) 	415
+RowIncome taxes receivable 	1,966 30,239 	(62,855)
+RowNet cash provided by operating activities 	465,400 331,939 	260,730
+RowCASH FLOWS FROM INVESTING ACTIVITIES:
+		RowProperty and equipment additions 	(150,948) (412,716) 	(440,891)
+RowProceeds from sale of other property 	10,000 — 	—
+RowChange in credit card loans originated externally, , net 	(685,139) (659,910) 	(518,041)
+RowChange in restricted cash of the Trust, , net 	(7,714) 293,829 	(311,621)
+RowOther investing changes, net 	4,930 134 	4,251
+RowNet cash used in investing activities 	(828,871) (778,663) 	(1,266,302)
+RowCASH FLOWS FROM FINANCING ACTIVITIES:
+:
+		RowChange in unpresented checks net of bank balance 	17,552 (15,210) 	16,073
+RowChange in time deposits, net 	288,958 73,843 	(263,306)
+RowBorrowings on secured obligations of the Trust 	4,005,000 3,098,750 	1,380,000
+RowRepayments on secured obligations of the Trust 	(3,900,000) (2,732,500) 	(355,000)
+RowBorrowings on revolving credit facilities and inventory financing 	1,346,865 1,517,068 	1,616,189
+RowRepayments on revolving credit facilities and inventory financing 	(1,227,342) (1,689,083) 	(1,431,332)
+RowIssuance of long-term debt 	— 550,000 	—
+RowPayments on long-term debt 	(223,452) (8,434) 	(8,418)
+RowExercise of employee stock options and tax withholdings on share-based payment awards 	1,163 (938) 	(4,982)
+RowExcess tax benefits from exercise of employee stock options, , net 	5,564 15,038 	7,551
+RowCommon stock repurchased 	— (174,124) 	—
+RowDebt issuance costs paid 	(3,130) (4,948) 	(2,751)
+RowNet cash provided by financing activities 	311,178 629,462 	954,024
+RowEffect of exchange rates on cash and cash equivalents 	1,052 (10,430) 	(4,766)
+RowNet change in cash and cash equivalents 	(51,241) 172,308 	(56,314)
+RowCash and cash equivalents, , at beginning of year 	315,066 142,758 	199,072
+RowCash and cash equivalents, , at end of year 	$ 263,825 $ 315,066 	$ 142,758
+RowRefer to notes to consolidated financial statements.
+	.
+	Row	Common
+Stock Shares
+	Common
+Stock
+	Paid-In
+Capital
+	Retained
+Earnings
+	Comprehensive
+Income (Loss)
+	Treasury
+Stock 	Total
+RowBALANCE, beginning of 2014 	70,630,866 	$ 706 	$ 346,535 	$ 1,260,817 $ 	(1,724) 	$ — 	$ 1,606,334
+RowNet income 	— 	— 	— 	201,715 	— 	— 	201,715
+RowOther comprehensive loss 	— 	— 	— 	— 	(9,982) 	— 	(9,982)
+RowStock-based compensation 	— 	— 	16,874 	— 	— 	— 	16,874
+RowExercise of employee stock options and tax
+withholdings on share-based payment
+awards 	462,350 	5 	(4,987) 	— 	— 	— 	(4,982)
+RowExcess tax benefit on employee stock option
+exercises 	— 	— 	7,551 	— 	— 	— 	7,551
+RowBALANCE, end of 2014 	71,093,216 	711 	365,973 	1,462,532 	(11,706) 	— 	1,817,510
+RowNet income 	— 	— 	— 	189,330 	— 	— 	189,330
+RowOther comprehensive loss 	— 	— 	— 	— 	(39,208) 	— 	(39,208)
+RowCommon stock repurchased 	— 	— 	— 	— 	— 	(174,124) 	(174,124)
+RowStock-based compensation 	— 	— 	21,035 	— 	— 	— 	21,035
+RowExercise of employee stock options and tax
+withholdings on share-based payment
+awards 	501,804 	5 	(12,292) 	— 	— 	11,349 	(938)
+RowExcess tax benefit on employee stock option
+exercises, net of stock related income tax
+adjustments 	— 	— 	15,038 	— 	— 	— 	15,038
+RowBALANCE, end of 2015 	71,595,020 	716 	389,754 	1,651,862 	(50,914) 	(162,775) 	1,828,643
+RowNet income 	— 	— 	— 	146,947 	— 	— 	146,947
+RowOther comprehensive income 	— 	— 	— 	— 	4,992 	— 	4,992
+RowStock-based compensation 	— 	— 	24,290 	— 	— 	— 	24,290
+RowExercise of employee stock options and tax
+withholdings on share-based payment
+awards 	— 	— 	(35,255) 	— 	— 	36,418 	1,163
+RowExcess tax benefit on employee stock option
+exercises, , net of stock related income tax
+adjustments 	— 	— 	5,564 	— 	— 	— 	5,564
+RowBALANCE, end of 2016 	71,595,020 	$ 716 	$ 384,353 	$ 1,798,809 $ 	(45,922) 	$ (126,357) 	$ 2,011,599

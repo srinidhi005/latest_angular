@@ -1,0 +1,74 @@
+Row:(in thousands, except per common share amounts) 	Year Ended December 2019 2018 	31,
+2017
+Row:REVENUE 	$ 4,450,832 $ 4,454,662 	$ 4,757,208
+Row:COST OF OPERATIONS 	(4,209,060) (4,000,209) 	(4,302,803)
+Row:GROSS PROFIT 	241,772 454,453 	454,405
+Row:General and administrative expenses 	(226,916) (262,577) 	(274,928)
+Row:Goodwill impairment 	(379,863) — 	—
+Row:INCOME (LOSS) FROM CONSTRUCTION OPERATIONS 	(365,007) 191,876 	179,477
+Row:Other income, net 	6,667 4,256 	43,882
+Row:Interest expense 	(67,494) (63,519) 	(69,384)
+Row:INCOME (LOSS) BEFORE INCOME TAXES 	(425,834) 132,613 	153,975
+Row:Income tax benefit (expense) 	65,609 (34,832) 	569
+Row:NET INCOME (LOSS) 	(360,225) 97,781 	154,544
+Row:LESS: NET INCOME ATTRIBUTABLE TO NONCONTROLLING
+INTERESTS 	27,465 14,345 	6,162
+Row:NET INCOME (LOSS) ATTRIBUTABLE TO TUTOR PERINI
+CORPORATION 	$ (387,690) $ 83,436 	$ 148,382
+Row:BASIC EARNINGS (LOSS) PER COMMON SHARE 	$ (7.72) $ 1.67 	$ 2.99
+Row:DILUTED EARNINGS (LOSS) PER COMMON SHARE 	$ (7.72) $ 1.66 	$ 2.92
+Row:WEIGHTED-AVERAGE COMMON SHARES OUTSTANDING:
+BASIC 	50,220 49,952 	49,647
+Row:DILUTED 	50,220 50,301 	50,759
+Row:BASIC 	50,220 49,952 	49,647
+Row:DILUTED 	50,220 50,301 	50,759
+Row:Stockholders' equity:
+		Row:Preferred stock – authorized 1,000,000 shares ($1 par value), none issued 	— 	—
+Row:Common stock – authorized 75,000,000 shares ($1 par value), issued and outstanding 50,278,816 and
+		Row:50,025,996 shares 	50,279 	50,026
+Row:Additional paid-in capital 	1,117,972 	1,102,919
+Row:Retained earnings 	313,991 	701,681
+Row:Accumulated other comprehensive loss 	(42,100) 	(45,449)
+Row:Total stockholders' equity 	1,440,142 	1,809,177
+Row:Noncontrolling interests 	(9,617) 	(21,288)
+Row:TOTAL EQUITY 	1,430,525 	1,787,889
+Row:TOTAL LIABILITIES AND EQUITY $ 	4,485,777 	$ 4,387,752
+Row:(in thousands) 	2019 2018 	2017
+Row:Cash Flows from Operating Activities:
+		Row:Net income (loss) $ 	(360,225) $ 97,781 	$ 154,544
+Row:Adjustments to reconcile net income (loss) to net cash provided by operating
+activities:
+		Row:Goodwill impairment 	379,863 — 	—
+Row:Depreciation 	58,818 43,724 	48,387
+Row:Amortization of intangible assets 	6,226 3,543 	3,543
+Row:Share-based compensation expense 	19,143 22,782 	21,174
+Row:Change in debt discount and deferred debt issuance costs 	13,207 12,072 	17,595
+Row:Deferred income taxes 	(71,609) (449) 	(23,096)
+Row:Gain on remeasurement of investment in joint venture 	(37,792) — 	—
+Row:(Gain) loss on sale of property and equipment 	(4,688) 402 	1,131
+Row:Changes in other components of working capital, net of balances acquired 	131,257 (156,844) 	(60,214)
+Row:Other long-term liabilities 	1,863 (2,007) 	3,656
+Row:Other, net 	467 398 	(3,170)
+Row:NET CASH PROVIDED BY OPERATING ACTIVITIES 	136,530 21,402 	163,550
+Row:Cash Flows from Investing Activities:
+		Row:Other, net 	467 	398 	(3,170)
+Row:NET CASH PROVIDED BY OPERATING ACTIVITIES 	136,530 	21,402 	163,550
+Row:Cash Flows from Investing Activities:
+			Row:Business acquisition, cash balance acquired net of cash paid 	6,607 	— 	—
+Row:Acquisition of property and equipment 	(84,196) 	(77,069) 	(30,280)
+Row:Proceeds from sale of property and equipment 	12,581 	6,387 	2,744
+Row:Investments in securities 	(35,167) 	(20,848) 	(60,967)
+Row:Proceeds from maturities and sales of investments in securities 	24,120 	21,322 	1,370
+Row:NET CASH USED IN INVESTING ACTIVITIES 	(76,055) 	(70,208) 	(87,133)
+Row:Cash Flows from Financing Activities:
+			Row:Proceeds from debt 	931,594 	1,753,160 	2,161,384
+Row:Repayment of debt 	(870,277) 	(1,738,314) 	(2,195,068)
+Row:Business acquisition related payment 	— 	(15,951) 	—
+Row:Cash payments related to share-based compensation 	(2,363) 	(2,671) 	(11,769)
+Row:Distributions paid to noncontrolling interests 	(46,500) 	(29,000) 	(17,499)
+Row:Contributions from noncontrolling interests 	9,813 	3,797 	2,842
+Row:Debt issuance and extinguishment costs 	(504) 	— 	(15,266)
+Row:NET CASH PROVIDED BY (USED IN) FINANCING ACTIVITIES 	21,763 	(28,979) 	(75,376)
+Row:Net increase (decrease) in cash, cash equivalents and restricted cash 	82,238 	(77,785) 	1,041
+Row:Cash, cash equivalents and restricted cash at beginning of year 	119,863 	197,648 	196,607
+Row:Cash, cash equivalents and restricted cash at end of year $ 	202,101 $ 	119,863 $ 	197,648

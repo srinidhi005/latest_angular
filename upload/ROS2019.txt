@@ -1,0 +1,82 @@
+Row:($000, except per share data) February 	Year Ended 2, 2019 	Year Ended February 3, 2018 	Year Ended
+January 28, 2017
+Row:Sales $ 	14,983,541 $ 	14,134,732 $ 	12,866,757
+Row:Costs and Expenses
+			Row:Cost of goods sold 	10,726,277 	10,042,638 	9,173,705
+Row:Selling, general and administrative 	2,216,550 	2,043,698 	1,890,408
+Row:Interest (income) expense, net 	(10,162 ) 	7,676 	16,488
+Row:Total costs and expenses 	12,932,665 	12,094,012 	11,080,601
+Row:Earnings before taxes Provision for taxes on earnings 	2,050,876 463,419 	2,040,720 677,967 	1,786,156
+668,502
+Row:Net earnings $ 	1,587,457 $ 	1,362,753 $ 	1,117,654
+Row:Earnings per share
+			Row:Basic $ 	4.30 $ 	3.58 $ 	2.85
+Row:Diluted $ 	4.26 $ 	3.55 $ 	2.83
+Row:Weighted average shares outstanding (000)
+			Row:Basic Diluted 	369,533 372,678 	381,174 384,329 	392,124
+394,958
+Row:The accompanying notes are an integral part of these consolidated financial statements.
+			Row:($000) 	Year Ended February 2, 2019 	Year Ended February 3, 2018 	Year Ended
+January 28, 2017
+Row:Net earnings 	$ 1,587,457 	$ 1,362,753 	$ 1,117,654
+Row:Other comprehensive income (loss):
+			Row:Change in unrealized loss on investments, net of tax 	(27 ) 	(64 ) 	(91 )
+Row:Comprehensive income 	$ 1,587,430 	$ 1,362,689 	$ 1,117,563
+Row:($000, except share data) 	February 2, 2019 	February 3, 2018
+Row:Assets
+Current Assets
+		Row:Cash and cash equivalents $ 	1,412,912 $ 	1,290,294
+Row:Short-term investments 	— 	512
+Row:Accounts receivable 	96,711 	87,868
+Row:Merchandise inventory 	1,750,442 	1,641,735
+Row:Prepaid expenses and other 	143,954 	130,748
+Row:Total current assets 	3,404,019 	3,151,157
+Row:Property and Equipment
+Land and buildings Fixtures and equipment 	1,126,051 2,783,198 	1,109,173
+2,603,318
+Row:Leasehold improvements 	1,175,921 	1,093,634
+Row:Construction-in-progress 	171,538 	102,054
+Row:Less accumulated depreciation and amortization 	5,256,708 2,781,507 	4,908,179
+2,525,715
+Row:Property and equipment, net 	2,475,201 	2,382,464
+Row:Long-term investments Other long-term assets 	125 194,346 	712
+187,718
+Row:Total assets $ 	6,073,691 $ 	5,722,051
+Row:Liabilities and Stockholders’ Equity
+Current Liabilities
+		Row:Accounts payable $ 	1,177,104 $ 	1,059,844
+Row:Accrued expenses and other 	431,596 	431,706
+Row:Accrued payroll and benefits Income taxes payable 	363,035 37,749 	349,879
+—
+Row:($000) 	Year Ended February 2, 2019 	Year Ended February 3, 2018 1 	Year Ended
+January 28, 2017 Row:Cash Flows From Operating Activities
+			Row:Net earnings 	$ 1,587,457 $ 	1,362,753 $ 	1,117,654
+Row:Adjustments to reconcile net earnings to net cash provided by
+operating activities:
+			Row:Depreciation and amortization 	330,357 	313,163 	302,515
+Row:Stock-based compensation 	95,585 	87,417 	74,554
+Row:Gain on sale of assets 	— 	(6,328 ) 	—
+Row:Deferred income taxes 	31,777 	(34,903 ) 	(8,703 Row:Change in assets and liabilities:
+			Row:Merchandise inventory 	(108,707 ) 	(128,849 ) 	(93,782 Row:Other current assets 	(22,044 ) 	(31,796 ) 	(928 Row:Accounts payable 	110,483 	41,322 	83,085
+Row:Other current liabilities 	74,829 	49,068 	76,676
+Row:Other long-term, net 	(33,060 ) 	29,491 	7,830
+Row:Net cash provided by operating activities 	2,066,677 	1,681,338 	1,558,901
+Row:Other current liabilities 	74,829 	49,068 	76,676
+Row:Other long-term, net 	(33,060 ) 	29,491 	7,830
+Row:Net cash provided by operating activities 	2,066,677 	1,681,338 	1,558,901
+Row:Cash Flows From Investing Activities
+			Row:Additions to property and equipment Proceeds from sale of property and equipment Proceeds from investments 	(413,898 ) — 3,489 	(371,423 ) 15,981 687 	(297,880 —
+1,700
+Row:Net cash used in investing activities 	(410,409 ) 	(354,755 ) 	(296,180 Row:Cash Flows From Financing Activities
+			Row:Payment of long-term debt Excess tax benefit from stock-based compensation 	(85,000 ) — 	— — 	—
+23,331
+Row:Issuance of common stock related to stock plans Treasury stock purchased Repurchase of common stock 	20,112 (54,384 ) (1,075,000 ) 	18,468 (45,433 ) (875,000 ) 	18,539
+(43,321 (700,000 Row:Dividends paid 	(337,189 ) 	(247,526 ) 	(214,640 Row:Net cash used in financing activities 	(1,531,461 ) 	(1,149,491 ) 	(916,091 Row:Net increase in cash, cash equivalents, and restricted cash and
+cash equivalents 	124,807 	177,092 	346,630
+Row:Cash and cash equivalents, and restricted cash and cash
+equivalents:
+			Row:Beginning of year 1 	1,353,272 	1,176,180 	829,550
+Row:End of year 	$ 1,478,079 $ 	1,353,272 $ 	1,176,180
+Row:Supplemental Cash Flow Disclosures
+			Row:Interest paid Income taxes paid 	$ 18,105 $ $ 427,930 $ 	18,105 $ 714,566 $ 	18,105
+628,441

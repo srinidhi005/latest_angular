@@ -1,0 +1,125 @@
+Row:Cash and cash equivalents 	$ 	9,302 	$ 9,676
+Row:Accounts receivable, net 		12,484 	12,371
+Row:Short-term financing receivables, net 		4,895 	4,398
+Row:Inventories, net 		3,281 	3,649
+Row:Other current assets 		6,906 	6,044
+Row:Total current assets 		36,868 	36,138
+Row:Property, plant, and equipment, net 		6,055 	5,259
+Row:Long-term investments 		864 	1,005
+Row:Long-term financing receivables, net 		4,848 	4,224
+Row:Goodwill 		41,691 	40,089
+Row:Intangible assets, net 		18,107 	22,270
+Row:Other non-current assets 		10,428 	2,835
+Row:Total assets 	$ 	118,861 	$ 111,820
+Row:LIABILITIES, REDEEMABLE SHARES, AND STOCKHOLDERS’ 	EQUITY 	(DEFICIT)
+	Row:Current liabilities:
+			Row:Short-term debt 	$ 	7,737 	$ 4,320
+Row:Accounts payable 		20,065 	19,213
+Row:Accrued and other 		9,773 	8,495
+Row:Short-term deferred revenue 		14,881 	12,944
+Row:Total current liabilities 		52,456 	44,972
+Row:Long-term debt 		44,319 	49,201
+Row:Long-term deferred revenue 		12,919 	11,066
+Row:Other non-current liabilities 		5,383 	6,327
+Row:Total liabilities 		115,077 	111,566
+Row:Commitments and contingencies (Note 10)
+			Row:Redeemable shares (Note 17) 		629 	1,196
+Row:Stockholders’ equity (deficit):
+			Row:Common stock and capital in excess of $0.01 par value (Note 14) 		16,091 	16,114
+Row:Treasury stock at cost 		(65) 	(63)
+Row:Accumulated deficit 		(16,891) 	(21,349)
+Row:Accumulated other comprehensive loss 		(709) 	(467)
+Row:Total Dell Technologies Inc. stockholders’ deficit 		(1,574) 	(5,765)
+Row:Non-controlling interests 		4,729 	4,823
+Row:Total stockholders’ equity (deficit) 		3,155 	(942)
+Row:January 31, 2020 	February 1, 2019 	February 2, 2018
+Row:$ 69,918 	$ 70,707 	$ 60,898
+Row:22,236 	19,914 	18,142
+Row:92,154 	90,621 	79,040
+Row:54,525 	57,889 	51,433
+Row:8,696 	7,679 	7,070
+Row:63,221 	65,568 	58,503
+Row:28,933 	25,053 	20,537
+Row:21,319 	20,640 	18,569
+Row:4,992 	4,604 	4,384
+Row:26,311 	25,244 	22,953
+Row:2,622 	(191) 	(2,416)
+Row:(2,626) 	(2,170) 	(2,353)
+Row:(4) 	(2,361) 	(4,769)
+Row:(5,533) 	(180) 	(1,843)
+Row:5,529 	(2,181) 	(2,926)
+Row:913 	129 	(77)
+Row:$ 4,616 	$ (2,310) 	$ (2,849)
+Row:Net revenue:
+		Row:Products 	$ 69,918 	$ Row:Services 	22,236 	Row:Total net revenue 	92,154 	Row:Cost of net revenue:
+		Row:Products 	54,525 	Row:Services 	8,696 	Row:Total cost of net revenue 	63,221 	Row:Gross margin 	28,933 	Row:Operating expenses:
+		Row:Selling, general, and administrative 	21,319 	Row:Research and development 	4,992 	Row:Total operating expenses 	26,311 	Row:Operating income (loss) 	2,622 	Row:Interest and other, net 	(2,626) 	Row:Loss before income taxes 	(4) 	Row:Income tax benefit 	(5,533) 	Row:Net income (loss) 	5,529 	Row:Less: Net income (loss) attributable to non-controlling interests 	913 	Row:Net income (loss) attributable to Dell Technologies Inc. 	$ 4,616 	$ Row:Earnings (loss) per share attributable to Dell Technologies Inc. — basic:
+		Row:Dell Technologies Common Stock 	$ 6.38
+	Row:Class V Common Stock 		$ Row:DHI Group 		$ Row:Earnings (loss) per share attributable to Dell Technologies Inc. — diluted:
+		Row:Earnings (loss) per share attributable to Dell Technologies Inc. — basic:
+		Row:Dell Technologies Common Stock $ 	6.38
+	Row:Class V Common Stock 	$ 	6.01 $ 1.63
+Row:DHI Group 	$ 	(6.02) $ (5.61)
+Row:Earnings (loss) per share attributable to Dell Technologies Inc. — diluted:
+		Row:Dell Technologies Common Stock $ 	6.03
+	Row:Class V Common Stock 	$ 	5.91 $ 1.61
+Row:DHI Group 	$ 	(6.04) $ (5.62)
+Row:	January 31, 2020 	February 1, 2019 	February 2, 2018
+Row:Net income (loss) 	$ 5,529 $ 	(2,181) $ 	(2,926)
+Row:Other comprehensive income (loss), net of tax
+			Row:Foreign currency translation adjustments 	(226) 	(631) 	791
+Row:Available-for-sale investments:
+			Row:Change in unrealized gains 	— 	2 	31
+Row:Reclassification adjustment for net losses realized in net income (loss) 	— 	43 	2
+Row:Net change in market value of investments 	— 	45 	33
+Row:Cash flow hedges:
+			Row:Change in unrealized gains (losses) 	269 	299 	(248)
+Row:Reclassification adjustment for net (gains) losses included in net
+income (loss) 	(226) 	(225) 	134
+Row:Net change in cash flow hedges 	43 	74 	(114)
+Row:Pension and other postretirement plans:
+			Row:Recognition of actuarial net gains (losses) from pension and other
+postretirement plans 	(60) 	(21) 	13
+Row:Reclassification adjustments for net losses from pension and other 	1 	— 	—
+Row:Net change in actuarial net gains (losses) from pension and other
+postretirement plans 	(59) 	(21) 	13
+Row:Total other comprehensive income (loss), net of tax expense (benefit) of
+			Row:$(14), $14, and $12, respectively 	(242) 	(533) 	723
+Row:Comprehensive income (loss), net of tax 	5,287 	(2,714) 	(2,203)
+Row:Less: Net income (loss) attributable to non-controlling interests 	913 	129 	(77)
+Row:Less: Other comprehensive income (loss) attributable to non-
+controlling interests 	— 	6 	(2)
+Row:Comprehensive income (loss) attributable to Dell Technologies Inc. 	$ 4,374 $ 	(2,849) $ 	(2,124)
+Row:	January 31, 2020 	February 1, 2019 	February 2, 2018
+Row:Cash flows from operating activities:
+			Row:Net income (loss) 	$ 5,529 	$ (2,181) 	$ (2,926)
+Row:Adjustments to reconcile net income (loss) to net cash provided by
+operating activities:
+			Row:Depreciation and amortization 	6,143 	7,746 	8,634
+Row:Stock-based compensation expense 	1,262 	918 	835
+Row:Deferred income taxes 	(6,339) 	(1,331) 	(2,605)
+Row:Provision for doubtful accounts — including financing receivables 	178 	172 	164
+Row:Impairments 	619 	190 	—
+Row:Other 	141 	394 	590
+Row:Changes in assets and liabilities, net of effects from acquisitions and
+dispositions:
+			Row:Accounts receivable 	(286) 	(1,104) 	(1,590)
+Row:Financing receivables 	(1,329) 	(1,302) 	(1,653)
+Row:Inventories 	311 	(1,445) 	(325)
+Row:Other assets 	(1,435) 	(534) 	(1,395)
+Row:Accounts payable 	894 	952 	3,779
+Row:Deferred revenue 	3,727 	3,418 	2,748
+Row:Accrued and other liabilities 	(124) 	1,098 	587
+Row:Change in cash from operating activities 	9,291 	6,991 	6,843
+Row:Cash flows from investing activities:
+			Row:Investments:
+			Row:Purchases 	(181) 	(925) 	(4,389)
+Row:Maturities and sales 	497 	6,612 	3,878
+Row:Capital expenditures 	(2,241) 	(1,158) 	(1,212)
+Row:Capitalized software development costs 	(335) 	(339) 	(369)
+Row:Acquisition of businesses, net 	(2,455) 	(912) 	(658)
+Row:Divestitures of businesses, net 	— 	142 	—
+Row:Asset acquisitions, net 	(8) 	(59) 	(96)
+Row:Asset dispositions, net 	(3) 	(12) 	(59)
+Row:Other 	40 	40 	30
+Row:Change in cash from investing activities 	(4,686) 	3,389 	(2,875)

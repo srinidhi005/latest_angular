@@ -1,0 +1,318 @@
+Row:Assets
+	2016
+	2015
+Row:Current assets:
+		Row:Cash and cash equivalents 	$ 707 $ 	1,407
+Row:Merchandise inventories 	4,038 	3,814
+Row:Other 	331 	359
+Row:Total current assets 	5,076 	5,580
+Row:Property and equipment, net 	8,308 	8,515
+Row:Other assets 	222 	238
+Row:Total assets 	$ 13,606 $ 	14,333
+Row:Liabilities and Shareholders’ Equity
+		Row:Current liabilities:
+:
+		Row:Accounts payable 	$ 1,251 $ 	1,511
+Row:Accrued liabilities 	1,206 	1,160
+Row:Income taxes payable 	130 	78
+Row:Current portion of capital lease and financing obligations 	127 	110
+Row:Total current liabilities 	2,714 	2,859
+Row:Long-term debt 	2,792 	2,780
+Row:Capital lease and financing obligations 	1,789 	1,858
+Row:Deferred income taxes 	257 	298
+Row:Other long-term liabilities 	563 	547
+Row:Shareholders’ equity:
+		Row:Common stock - 370 and 367 million shares issued 	4 	4
+Row:Paid-in capital 	2,944 	2,743
+Row:Treasury stock, at cost, 184 and 166 million shares 	(9,769) 	(8,744)
+Row:Accumulated other comprehensive loss 	(17) 	(20)
+Row:Retained earnings 	12,329 	12,008
+Row:Total shareholders’ equity 	5,491 	5,991
+Row:Total liabilities and shareholders’ equity 	$ 13,606 $ 	14,333
+Row:Net sales 	$ 	2015 19,204 	$ 	2014 19,023 	$ 	2013
+19,031
+Row:Cost of merchandise sold 		12,265 		12,098 		12,087
+Row:Gross margin 		6,939 		6,925 		6,944
+Row:Operating expenses:
+						Row:Selling, general and administrative 		4,452 		4,350 		4,313
+Row:Depreciation and amortization 		934 		886 		889
+Row:Operating income 		1,553 		1,689 		1,742
+Row:Interest expense, net 		327 		340 		338
+Row:Loss on extinguishment of debt 		169 		— 		—
+Row:Income before income taxes 		1,057 		1,349 		1,404
+Row:Provision for income taxes 		384 		482 		515
+Row:Net income 	$ 	673 	$ 	867 	$ 	889
+Row:Net income per share:
+						Row:Basic 	$ 	3.48 	$ 	4.28 	$ 	4.08
+Row:Diluted 	$ 	3.46 	$ 	4.24 	$ 	4.05
+Row:Dividends declared and paid per share 	$ 	1.80 	$ 	1.56 	$ 	1.40
+Row:2015 	2014 	2013
+Row:$ 	673 $ 867 	$ 889
+Row:Other comprehensive income, net of tax:
+		Row:Reclassification adjustment for interest expense on interest rate
+derivatives included in net income 	3 3 	3
+Row:Unrealized gains on investments 	— 11 	8
+Row:Other comprehensive income 	3 14 	11
+Row:Comprehensive income 	$ 676 $ 881 	$ 900
+Row:	— 	11 	8
+Row:	3 	14 	11
+Row:$ 	676 $ 	881 	$ 900
+Row:	2015 	2014 	2013
+Row:Operating activities
+			Row:Net income 	$ 673 $ 	867 	$ 889
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+			Row:Depreciation and amortization 	934 	886 	889
+Row:Share-based compensation 	48 	48 	55
+Row:Excess tax benefits from share-based compensation 	(10) 	(3) 	(3)
+Row:Deferred income taxes 	(38) 	49 	(4)
+Row:Other non-cash expenses, net 	24 	31 	43
+Row:Loss on extinguishment of debt 	169 	— 	—
+Row:Changes in operating assets and liabilities:
+			Row:Merchandise inventories 	(215) 	68 	(116)
+Row:Other current and long-term assets 	43 	(30) 	(7)
+Row:Accounts payable 	(260) 	146 	58
+Row:Accrued and other long-term liabilities 	53 	30 	142
+Row:Income taxes 	53 	(68) 	(62)
+Row:Net cash provided by operating activities 	1,474 	2,024 	1,884
+Row:Investing activities
+			Row:Acquisition of property and equipment 	(690) 	(682) 	(643)
+Row:Sales of investments in auction rate securities 	— 	82 	1
+Row:Other 	9 	7 	19
+Row:Net cash used in investing activities 	(681) 	(593) 	(623)
+Row:Financing activities
+			Row:Treasury stock purchases 	(1,001) 	(677) 	(799)
+Row:Shares withheld for taxes on vested restricted shares 	(27) 	(19) 	(13)
+Row:Dividends paid 	(349) 	(317) 	(302)
+Row:Proceeds from issuance of debt 	1,098 	— 	300
+Row:Deferred financing costs 	(10) 	— 	(4)
+Row:Reduction of long-term borrowings 	(1,085) 	— 	—
+Row:Premium paid on redemption of debt 	(163) 	— 	—
+Row:Capital lease and financing obligation payments 	(114) 	(114) 	(115)
+Row:Proceeds from stock option exercises 	147 	123 	102
+Row:Excess tax benefits from share-based compensation 	10 	3 	3
+Row:Proceeds from financing obligations 	1 	6 	1
+Row:Net cash used in financing activities 	(1,493) 	(995) 	(827)
+Row:Net (decrease) increase in cash and cash equivalents 	(700) 	436 	434
+Row:Cash and cash equivalents at beginning of period 	1,407 	971 	537
+Row:Cash and cash equivalents at end of period 	$ 707 $ 	1,407 	$ 971
+Row:Supplemental information:
+			Row:Interest paid, net of capitalized interest 	$ 318 $ 	329 	$ 326
+Row:Income taxes paid 	372 	502 	561
+Row:Non-Cash Investing and Financing Activities
+			Row:Property and equipment acquired through capital lease and financing obligations 	$ 63 $ 	41 	$ 121
+Row:See accompanying Notes to Consolidated Financial Statements
+F-6
+			Row:January 30,
+	January 31,
+Row:2016
+	2015
+Row:Assets
+	Row:Current assets:
+	Row:Cash and cash equivalents 	$ 707 $ 1,407
+Row:Merchandise inventories 	4,038 3,814
+Row:Other 	331 359
+Row:Total current assets 	5,076 5,580
+Row:Property and equipment, net 	8,308 8,515
+Row:Other assets 	222 238
+Row:Total assets 	$ 13,606 $ 14,333
+Row:Liabilities and Shareholders’ Equity
+	Row:Current liabilities:
+	Row:Accounts payable 	$ 1,251 $ 1,511
+Row:Accrued liabilities 	1,206 1,160
+Row:Income taxes payable 	130 78
+Row:Current portion of capital lease and financing obligations 	127 110
+Row:Total current liabilities 	2,714 2,859
+Row:Long-term debt Capital lease and financing obligations 	2,792 2,780
+1,789 1,858
+Row:Deferred income taxes 	257 298
+Row:Other long-term liabilities 	563 547
+Row:Shareholders’ equity:
+	Row:Common stock - 370 and 367 million shares issued 	4 4
+Row:Paid-in capital 	2,944 2,743
+Row:Treasury stock, at cost, 184 and 166 million shares 	(9,769) (8,744)
+Row:Accumulated other comprehensive loss 	(17) (20)
+Row:Retained earnings 	12,329 12,008
+Row:Total shareholders’ equity 	5,491 5,991
+Row:Total liabilities and shareholders’ equity 	$ 13,606 $ 14,333
+Row:See accompanying Notes to Consolidated Financial Statements
+	Row:Current assets:
+	Row:Cash and cash equivalents $ 	707 $ 1,407
+Row:Merchandise inventories 	4,038 3,814
+Row:Other 	331 359
+Row:Total current assets 	5,076 5,580
+Row:Property and equipment, net 	8,308 8,515
+Row:Other assets 	222 238
+Row:Total assets $ 	13,606 $ 14,333
+Row:	2015 	2014 	2013
+Row:Net sales $ 	19,204 	$ 19,023 	$ 19,031
+Row:Cost of merchandise sold 	12,265 	12,098 	12,087
+Row:Gross margin 	6,939 	6,925 	6,944
+Row:Operating expenses:
+			Row:Selling, general and administrative 	4,452 	4,350 	4,313
+Row:Depreciation and amortization 	934 	886 	889
+Row:Operating income 	1,553 	1,689 	1,742
+Row:Interest expense, net 	327 	340 	338
+Row:Loss on extinguishment of debt 	169 	— 	—
+Row:Income before income taxes 	1,057 	1,349 	1,404
+Row:Provision for income taxes 	384 	482 	515
+Row:Net income $ 	673 	$ 867 	$ 889
+Row:Net income per share:
+			Row:Basic $ 	3.48 	$ 4.28 	$ 4.08
+Row:Diluted $ 	3.46 	$ 4.24 	$ 4.05
+Row:Dividends declared and paid per share $ 	1.80 	$ 1.56 	$ 1.40
+Row:Other comprehensive income, net of tax:
+			Row:Reclassification adjustment for interest expense on interest rate
+derivatives included in net income 	3 	3 	3
+Row:Unrealized gains on investments 	— 	11 	8
+Row:Other comprehensive income 	3 	14 	11
+Row:Comprehensive income 	$ 676 	$ 881 	$ 900
+Row:Operating activities
+		Row:Net income $ 	673 $ 867 	$ 889
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization 	934 886 	889
+Row:Share-based compensation Excess tax benefits from share-based compensation 	48 48 (10) (3) 	55
+(3)
+Row:Deferred income taxes 	(38) 49 	(4)
+Row:Other non-cash expenses, net 	24 31 	43
+Row:Loss on extinguishment of debt Changes in operating assets and liabilities:
+	169 — 	—
+Row:Merchandise inventories 	(215) 68 	(116)
+Row:Other current and long-term assets 	43 (30) 	(7)
+Row:Accounts payable 	(260) 146 	58
+Row:Accrued and other long-term liabilities 	53 30 	142
+Row:Income taxes Net cash provided by operating activities Investing activities
+	53 (68) 1,474 2,024 	(62)
+1,884
+Row:Acquisition of property and equipment 	(690) (682) 	(643)
+Row:Sales of investments in auction rate securities 	— 82 	1
+Row:Other Net cash used in investing activities 	9 7 (681) (593) 	19
+(623)
+Row:Financing activities
+		Row:Treasury stock purchases 	(1,001) (677) 	(799)
+Row:Shares withheld for taxes on vested restricted shares 	(27) (19) 	(13)
+Row:Dividends paid Proceeds from issuance of debt 	(349) (317) 1,098 — 	(302)
+300
+Row:Deferred financing costs 	(10) — 	(4)
+Row:Reduction of long-term borrowings 	(1,085) — 	—
+Row:Premium paid on redemption of debt Capital lease and financing obligation payments 	(163) — (114) (114) 	—
+(115)
+Row:Proceeds from stock option exercises 	147 123 	102
+Row:Excess tax benefits from share-based compensation 	10 3 	3
+Row:Proceeds from financing obligations 	1 6 	1
+Row:Net cash used in financing activities 	(1,493) (995) 	(827)
+Row:Net (decrease) increase in cash and cash equivalents 	(700) 436 	434
+Row:Cash and cash equivalents at beginning of period 	1,407 971 	537
+Row:Cash and cash equivalents at end of period $ Supplemental information:
+	707 $ 1,407 	$ 971
+Row:Interest paid, net of capitalized interest $ Income taxes paid 	318 $ 329 372 502 	$ 326
+561
+Row:Non-Cash Investing and Financing Activities
+Property and equipment acquired through capital lease and financing obligations $ See accompanying Notes to Consolidated Financial Statements
+	63 $ 41 	$ 121
+Row:January 30,
+	January 31,
+Row:2016
+	2015
+Row:Assets
+	Row:Current assets:
+	Row:Cash and cash equivalents 	$ 707 $ 1,407
+Row:Merchandise inventories 	4,038 3,814
+Row:Other 	331 359
+Row:Total current assets 	5,076 5,580
+Row:Property and equipment, net 	8,308 8,515
+Row:Other assets 	222 238
+Row:Total assets 	$ 13,606 $ 14,333
+Row:Liabilities and Shareholders’ Equity
+	Row:Current liabilities:
+	Row:Accounts payable 	$ 1,251 $ 1,511
+Row:Accrued liabilities 	1,206 1,160
+Row:Income taxes payable 	130 78
+Row:Current portion of capital lease and financing obligations 	127 110
+Row:Total current liabilities 	2,714 2,859
+Row:Long-term debt Capital lease and financing obligations 	2,792 2,780
+1,789 1,858
+Row:Deferred income taxes 	257 298
+Row:Other long-term liabilities 	563 547
+Row:Shareholders’ equity:
+	Row:Common stock - 370 and 367 million shares issued 	4 4
+Row:Paid-in capital 	2,944 2,743
+Row:Treasury stock, at cost, 184 and 166 million shares 	(9,769) (8,744)
+Row:Accumulated other comprehensive loss 	(17) (20)
+Row:Retained earnings 	12,329 12,008
+Row:Total shareholders’ equity 	5,491 5,991
+Row:Total liabilities and shareholders’ equity 	$ 13,606 $ 14,333
+Row:See accompanying Notes to Consolidated Financial Statements
+	Row:Current assets:
+	Row:Cash and cash equivalents $ 	707 $ 1,407
+Row:Merchandise inventories 	4,038 3,814
+Row:Other 	331 359
+Row:Total current assets 	5,076 5,580
+Row:Property and equipment, net 	8,308 8,515
+Row:Other assets 	222 238
+Row:Total assets $ 	13,606 $ 14,333
+Row:	2015 	2014 	2013
+Row:Net sales $ 	19,204 	$ 19,023 	$ 19,031
+Row:Cost of merchandise sold 	12,265 	12,098 	12,087
+Row:Gross margin 	6,939 	6,925 	6,944
+Row:Operating expenses:
+			Row:Selling, general and administrative 	4,452 	4,350 	4,313
+Row:Depreciation and amortization 	934 	886 	889
+Row:Operating income 	1,553 	1,689 	1,742
+Row:Interest expense, net 	327 	340 	338
+Row:Loss on extinguishment of debt 	169 	— 	—
+Row:Income before income taxes 	1,057 	1,349 	1,404
+Row:Provision for income taxes 	384 	482 	515
+Row:Net income $ 	673 	$ 867 	$ 889
+Row:Net income per share:
+			Row:Basic $ 	3.48 	$ 4.28 	$ 4.08
+Row:Diluted $ 	3.46 	$ 4.24 	$ 4.05
+Row:Dividends declared and paid per share $ 	1.80 	$ 1.56 	$ 1.40
+Row:Other comprehensive income, net of tax:
+			Row:Reclassification adjustment for interest expense on interest rate
+derivatives included in net income 	3 	3 	3
+Row:Unrealized gains on investments 	— 	11 	8
+Row:Other comprehensive income 	3 	14 	11
+Row:Comprehensive income 	$ 676 	$ 881 	$ 900
+Row:Operating activities
+		Row:Net income $ 	673 $ 867 	$ 889
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization 	934 886 	889
+Row:Share-based compensation Excess tax benefits from share-based compensation 	48 48 (10) (3) 	55
+(3)
+Row:Deferred income taxes 	(38) 49 	(4)
+Row:Other non-cash expenses, net 	24 31 	43
+Row:Loss on extinguishment of debt Changes in operating assets and liabilities:
+	169 — 	—
+Row:Merchandise inventories 	(215) 68 	(116)
+Row:Other current and long-term assets 	43 (30) 	(7)
+Row:Accounts payable 	(260) 146 	58
+Row:Accrued and other long-term liabilities 	53 30 	142
+Row:Income taxes Net cash provided by operating activities Investing activities
+	53 (68) 1,474 2,024 	(62)
+1,884
+Row:Acquisition of property and equipment 	(690) (682) 	(643)
+Row:Sales of investments in auction rate securities 	— 82 	1
+Row:Other Net cash used in investing activities 	9 7 (681) (593) 	19
+(623)
+Row:Financing activities
+		Row:Treasury stock purchases 	(1,001) (677) 	(799)
+Row:Shares withheld for taxes on vested restricted shares 	(27) (19) 	(13)
+Row:Dividends paid Proceeds from issuance of debt 	(349) (317) 1,098 — 	(302)
+300
+Row:Deferred financing costs 	(10) — 	(4)
+Row:Reduction of long-term borrowings 	(1,085) — 	—
+Row:Premium paid on redemption of debt Capital lease and financing obligation payments 	(163) — (114) (114) 	—
+(115)
+Row:Proceeds from stock option exercises 	147 123 	102
+Row:Excess tax benefits from share-based compensation 	10 3 	3
+Row:Proceeds from financing obligations 	1 6 	1
+Row:Net cash used in financing activities 	(1,493) (995) 	(827)
+Row:Net (decrease) increase in cash and cash equivalents 	(700) 436 	434
+Row:Cash and cash equivalents at beginning of period 	1,407 971 	537
+Row:Cash and cash equivalents at end of period $ Supplemental information:
+	707 $ 1,407 	$ 971
+Row:Interest paid, net of capitalized interest $ Income taxes paid 	318 $ 329 372 502 	$ 326
+561
+Row:Non-Cash Investing and Financing Activities
+Property and equipment acquired through capital lease and financing obligations $ See accompanying Notes to Consolidated Financial Statements
+	63 $ 41 	$ 121

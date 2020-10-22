@@ -10,14 +10,24 @@ import { VisualsBsComponent } from './modules/visuals-bs/visuals-bs.component';
 import { BsmetricsComponent } from './modules/bsmetrics/bsmetrics.component';
 import { KpiIsComponent } from './modules/kpi-is/kpi-is.component';
 import { KpiBsComponent } from './modules/kpi-bs/kpi-bs.component';
+import { LoginComponent } from './modules/login/login.component';
+import { AppComponent } from './app.component';
 
-const routes: Routes = [{
-  path: '',
-  component: DefaultComponent,
-  children: [{
+const routes: Routes = [
+  {
+      path: '',
+      redirectTo: "/login",
+      pathMatch:"full"
+    },
+    {
+      path: 'login',
+      component:LoginComponent
+    },
+  {
     path: '',
-    component: DashboardComponent
-  }, {
+    component:DefaultComponent,
+  children: [
+   {
     path: 'statement',
     component: StatementComponent
   },
@@ -48,9 +58,9 @@ const routes: Routes = [{
     path:'KPIBalanceSheet',
     component:KpiBsComponent
   }
-  
-  
 ]
+  
+
 }];
 
 @NgModule({
@@ -58,3 +68,7 @@ const routes: Routes = [{
   exports: [RouterModule]
 })
 export class AppRoutingModule { }
+
+
+
+

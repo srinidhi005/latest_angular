@@ -1,0 +1,143 @@
+Row:Year ended December 31, (in millions, except per share data) Revenue
+	2019 	2018 	2017
+Row:Investment banking fees Principal transactions 	$ 7,501 $ 14,018 	7,550 $ 12,059 	7,412
+11,347
+Row:Lending- and deposit-related fees Asset management, administration and commissions 	6,369 17,165 	6,052 17,118 	5,933
+16,287
+Row:Investment securities gains/(losses) 	258 	(395) 	(66)
+Row:Mortgage fees and related income 	2,036 	1,254 	1,616
+Row:Card income 	5,304 	4,989 	4,433
+Row:Other income Noninterest revenue 	5,731 58,382 	5,343 53,970 	3,646
+50,608
+Row:Interest income(a) Interest expense(a) 	84,040 26,795 	76,100 21,041 	63,971
+13,874
+Row:Net interest income 	57,245 	55,059 	50,097
+Row:Total net revenue 	115,627 	109,029 	100,705
+Row:Provision for credit losses 	5,585 	4,871 	5,290
+Row:Noninterest expense
+Compensation expense Occupancy expense 	34,155 4,322 	33,117 3,952 	31,208
+3,723
+Row:Technology, communications and equipment expense 	9,821 	8,802 	7,715
+Row:Professional and outside services 	8,533 	8,502 	7,890
+Row:Marketing Other expense 	3,579 5,087 	3,290 5,731 	2,900
+6,079
+Row:Total noninterest expense 	65,497 	63,394 	59,515
+Row:Income before income tax expense Income tax expense 	44,545 8,114 	40,764 8,290 	35,900
+11,459
+Row:Net income 	$ 36,431 $ 	32,474 $ 	24,441
+Row:Net income applicable to common stockholders 	$ 34,642 $ 	30,709 $ 	22,567
+Row:Net income per common share data
+Basic earnings per share 	$ 10.75 $ 	9.04 $ 	6.35
+Row:Diluted earnings per share 	10.72 	9.00 	6.31
+Row:Weighted-average basic shares 	3,221.5 	3,396.4 	3,551.6
+Row:Weighted-average diluted shares 	3,230.4 	3,414.0 	3,576.8
+Row:Assets
+Cash and due from banks $ 	21,704 $ 	22,324
+Row:Deposits with banks 	241,927 	256,469
+Row:Federal funds sold and securities purchased under resale agreements (included $14,561 and $13,235 at fair value) 	249,157 	321,588
+Row:Securities borrowed (included $6,237 and $5,105 at fair value) 	139,758 	111,995
+Row:Trading assets (included assets pledged of $111,522 and $89,073) 	411,103 	413,714
+Row:Investment securities (included $350,699 and $230,394 at fair value and assets pledged of $10,325 and $11,432) Loans (included $7,104 and $3,151 at fair value) Allowance for loan losses 	398,239 959,769 (13,123) 	261,828
+984,554
+(13,445)
+Row:Loans, net of allowance for loan losses Accrued interest and accounts receivable Premises and equipment 	946,646 72,861 25,813 	971,109
+73,200
+14,934
+Row:Goodwill, MSRs and other intangible assets 	53,341 	54,349
+Row:Other assets (included $9,111 and $9,630 at fair value and assets pledged of $3,349 and $3,457) 	126,830 	121,022
+Row:Total assets(a) $ 	2,687,379 $ 	2,622,532
+Row:Liabilities
+		Row:Deposits (included $28,589 and $23,217 at fair value) $ Federal funds purchased and securities loaned or sold under repurchase agreements (included $549 and $935 at fair
+value) 	1,562,431 $ 183,675 	1,470,666
+182,320
+Row:Short-term borrowings (included $5,920 and $7,130 at fair value) 	40,920 	69,276
+Row:Trading liabilities Accounts payable and other liabilities (included $3,728 and $3,269 at fair value) 	119,277 210,407 	144,773
+196,710
+Row:Beneficial interests issued by consolidated VIEs (included $36 and $28 at fair value) 	17,841 	20,241
+Row:Long-term debt (included $75,745 and $54,886 at fair value) 	291,498 	282,031
+Row:Total liabilities(a) 	2,426,049 	2,366,017
+Row:Commitments and contingencies (refer to Notes 28, 29 and 30)
+Stockholders’ equity
+		Row:Preferred stock ($1 par value; authorized 200,000,000 shares: issued 2,699,250 and 2,606,750 shares) 	26,993 	26,068
+Row:Common stock ($1 par value; authorized 9,000,000,000 shares; issued 4,104,933,895 shares) 	4,105 	4,105
+Row:Additional paid-in capital 	88,522 	89,162
+Row:Retained earnings Accumulated other comprehensive income/loss Shares held in restricted stock units (“RSU”) trust, at cost (472,953 shares) 	223,211 1,569 (21) 	199,202
+(1,507)
+(21)
+Row:Treasury stock, at cost (1,020,912,567 and 829,167,674 shares) 	(83,049) 	(60,494)
+Row:Total stockholders’ equity 	261,330 	256,515
+Row:Total liabilities and stockholders’ equity $ 	2,687,379 $ 	2,622,532
+Row:December 31, (in millions) Assets
+	2019 	2018
+Row:Trading assets 	$ 2,633 $ 	1,966
+Row:Loans 	42,931 	59,456
+Row:All other assets 	881 	1,013
+Row:Total assets 	$ 46,445 $ 	62,435
+Row:Liabilities
+		Row:Beneficial interests issued by consolidated VIEs 	$ 17,841 $ 	20,241
+Row:All other liabilities 	447 	312
+Row:Total liabilities 	$ 18,288 $ 	20,553
+Row:Year ended December 31, (in millions) Operating activities
+	2019 	2018 	2017
+Row:Net income Adjustments to reconcile net income to net cash provided by/(used in) operating activities:
+	$ 36,431 $ 	32,474 $ 	24,441
+Row:Provision for credit losses 	5,585 	4,871 	5,290
+Row:Depreciation and amortization 	8,368 	7,791 	6,179
+Row:Deferred tax expense 	949 	1,721 	2,312
+Row:Other Originations and purchases of loans held-for-sale 	1,996 (70,980) 	2,717 (102,141) 	2,136
+(94,628)
+Row:Proceeds from sales, securitizations and paydowns of loans held-for-sale 	79,182 	93,453 	93,270
+Row:Net change in:
+Trading assets Securities borrowed 	(652) (27,631) 	(38,371) (6,861) 	5,673
+(8,653)
+Row:Accrued interest and accounts receivable 	(78) 	(5,849) 	(15,868)
+Row:Other assets Trading liabilities 	(17,949) (14,516) 	(8,833) 18,290 	3,982
+(26,256)
+Row:Accounts payable and other liabilities 	(352) 	14,630 	(16,508)
+Row:Other operating adjustments 	5,693 	295 	7,803
+Row:Net cash provided by/(used in) operating activities 	6,046 	14,187 	(10,827)
+Row:Investing activities
+			Row:Net change in:
+Federal funds sold and securities purchased under resale agreements 	72,396 	(123,201) 	31,448
+Row:Held-to-maturity securities:
+Proceeds from paydowns and maturities 	3,423 	2,945 	4,563
+Row:Purchases 	(13,427) 	(9,368) 	(2,349)
+Row:Available-for-sale securities:
+			Row:Proceeds from paydowns and maturities 	52,200 	37,401 	56,117
+Row:Proceeds from sales 	70,181 	46,067 	90,201
+Row:Purchases 	(242,149) 	(95,091) 	(105,309)
+Row:Proceeds from sales and securitizations of loans held-for-investment 	62,095 	29,826 	15,791
+Row:Other changes in loans, net 	(53,697) 	(81,586) 	(61,650)
+Row:All other investing activities, net 	(5,035) 	(4,986) 	(563)
+Row:Federal funds sold and securities purchased under resale agreements Held-to-maturity securities:
+	72,396 	(123,201) 	31,448
+Row:Proceeds from paydowns and maturities 	3,423 	2,945 	4,563
+Row:Purchases Available-for-sale securities:
+	(13,427) 	(9,368) 	(2,349)
+Row:Proceeds from paydowns and maturities 	52,200 	37,401 	56,117
+Row:Proceeds from sales 	70,181 	46,067 	90,201
+Row:Purchases 	(242,149) 	(95,091) 	(105,309)
+Row:Proceeds from sales and securitizations of loans held-for-investment 	62,095 	29,826 	15,791
+Row:Other changes in loans, net All other investing activities, net 	(53,697) (5,035) 	(81,586) (4,986) 	(61,650)
+(563)
+Row:Net cash provided by/(used in) investing activities 	(54,013) 	(197,993) 	28,249
+Row:Financing activities
+Net change in:
+Deposits 	101,002 	26,728 	57,022
+Row:Federal funds purchased and securities loaned or sold under repurchase agreements 	1,347 	23,415 	(6,739)
+Row:Short-term borrowings Beneficial interests issued by consolidated VIEs 	(28,561) 4,289 	18,476 1,712 	16,540
+(1,377)
+Row:Proceeds from long-term borrowings 	61,085 	71,662 	56,271
+Row:Payments of long-term borrowings 	(69,610) 	(76,313) 	(83,079)
+Row:Proceeds from issuance of preferred stock 	5,000 	1,696 	1,258
+Row:Redemption of preferred stock 	(4,075) 	(1,696) 	(1,258)
+Row:Treasury stock repurchased Dividends paid 	(24,001) (12,343) 	(19,983) (10,109) 	(15,410)
+(8,993)
+Row:All other financing activities, net 	(1,146) 	(1,430) 	407
+Row:Net cash provided by financing activities 	32,987 	34,158 	14,642
+Row:Effect of exchange rate changes on cash and due from banks and deposits with banks 	(182) 	(2,863) 	8,086
+Row:Net increase/(decrease) in cash and due from banks and deposits with banks Cash and due from banks and deposits with banks at the beginning of the period 	(15,162) 278,793 	(152,511) 431,304 	40,150
+391,154
+Row:Cash and due from banks and deposits with banks at the end of the period 	$ 263,631 $ 	278,793 $ 	431,304
+Row:Cash interest paid 	$ 29,918 $ 	21,152 $ 	14,153
+Row:Cash income taxes paid, net 	5,624 	3,542 	4,325

@@ -1,0 +1,94 @@
+Row:Current assets:
+Cashandcashequivalents 	$ 7,575 $ 2,883
+Row:Short-term investments 	1,534 2,812
+Row:Accounts receivable, net 	313 283
+Row:Loans and interest receivable, net of allowances of $172 in 2018 and $129 in 2017 	2,532 1,314
+Row:Loans and interest receivable, held for sale 	— 6,398
+Row:Funds receivable and customer accounts 	20,062 18,242
+Row:Prepaid expenses and other current assets 	947 713
+Row:Total current assets 	32,963 32,645
+Row:Long-term investments 	971 1,961
+Row:Property and equipment, net 	1,724 1,528
+Row:Goodwill 	6,284 4,339
+Row:Intangible assets, net 	825 168
+Row:Other assets 	565 133
+Row:Total assets 	$ 43,332 $40,774
+Row:LIABILITIES AND EQUITY
+	Row:	2018 2017 (In millions, except share amounts)
+	2016
+for per
+Row:Net revenues 	$15,451 $13,094 	$10,842
+Row:Operating expenses:
+		Row:Transaction expense 	5,581 4,419 	3,346
+Row:Transaction and loan losses 	1,274 1,011 	1,088
+Row:Customer support and operations 	1,482 1,364 	1,267
+Row:Sales and marketing 	1,313 1,128 	969
+Row:Product development 	1,071 953 	834
+Row:General and administrative 	1,451 1,155 	1,028
+Row:Depreciation and amortization 	776 805 	724
+Row:Restructuring and other charges 	309 132 	—
+Row:Total operating expenses 	13,257 10,967 	9,256
+Row:Operating income 	2,194 2,127 	1,586
+Row:Other income (expense), net 	182 73 	45
+Row:Income before income taxes 	2,376 2,200 	1,631
+Row:Income tax expense 	319 405 	230
+Row:Netincome 	$2,057 $ 1,795 	$ 1,401
+Row:Net income per share:
+		Row:Basic 	$ 1.74 $ 1.49 	$ 1.16
+Row:Diluted 	$ 1.71 $ 1.47 	$ 1.15
+Row:Weighted average shares:
+		Row:Basic 	1,184 1,203 	1,210
+Row:Diluted 	1,203 1,221 	1,218
+Row:Cash 	flows from operating activities:
+Netincome $ 	2018 2017 (In millions)
+2,057 $ 1,795 $ 	2016
+1,401
+Row:	Adjustments:
+		Row:	Transaction and loan losses Depreciation and amortization 	1,274 1,011 776 805 	1,088
+724
+Row:	Stock-based compensation 	853 733 	438
+Row:	Deferred income taxes Excess tax benefits from stock-based compensation 	(171) (1,299) — — 	52
+(40)
+Row:	Cost basis adjustments to loans and interest receivable held for sale Other 	244 92 (172) (25) 	—
+(24)
+Row:	Changes in assets and liabilities:
+		Row:	Accounts receivable 	(59) 12 	(77)
+Row:	Changes in loans and interest receivable held for sale, net 	1,407 (1,308) 	24
+Row:	Transaction loss allowance for cash losses, net 	(1,046) (817) 	(643)
+Row:	Other current assets and non-current assets 	(112) (188) 	(145)
+Row:	Accounts payable Income taxes payable 	26 62 (44) 19 	11
+69
+Row:	Other current liabilities and non-current liabilities 	450 1,639 	280
+Row:Net Cash 	cash provided by operating activities flows from investing activities:
+	5,483 2,531 	3,158
+Row:	Purchases of property and equipment 	(823) (667) 	(669)
+Row:	Proceeds from sales of property and equipment 	3 — 	—
+Row:	Changes in principal loans receivable, net 	3,121 (920) 	(1,523)
+Row:	Purchasesofinvestments 	(22,381) (19,418) 	(21,041)
+Row:	Maturities and sales of investments 	21,898 18,448 	18,429
+Row:	Acquisitions, net of cash and restricted cash acquired 	(2,124) (323) 	(19)
+Row:Funds Net 	receivable cash provided by (used in) investing activities 	1,146 (1,605) 840 (4,485) 	(1,081)
+(5,904)
+Row:Cash 	flows from financing activities:
+		Row:	Proceeds from issuance of common stock 	144 144 	109
+Row:	Purchases of treasury stock 	(3,520) (1,006) 	(995)
+Row:Excess 	tax benefits from stock-based compensation 	— — 	40
+Row:Tax 	withholdings related to net share settlements of restricted stock units and restricted stock awards 	(419) (166) 	(118)
+Row:	Borrowings under financing arrangements 	2,075 1,800 	—
+Row:	Repayments under financing arrangements 	(1,115) (980) 	(21)
+Row:Funds 	payable and amounts due to customers 	1,573 4,292 	3,023
+Row:Net Effect 	cash (used in) provided by financing activities of exchange rate changes on cash, cash equivalents, and restricted cash 	(1,262) 4,084 (113) 36 	2,038
+—
+Row:Net Cash, 	change in cash, cash equivalents, and restricted cash cash equivalents, and restricted cash at beginning of period 	4,948 2,166 8,285 6,119 	(708)
+6,827
+Row:Cash, 	cash equivalents, and restricted cash at end of period $ 	13,233 $ 8,285 $ 	6,119
+Row:Cash 	Supplemental cash flow disclosures:
+paid for interest $ 	69 $ 6 $ 	4
+Row:Cash The 	paid for income taxes, net $ below table reconciles cash, cash equivalents, and restricted cash as reported in the consolidated
+balance sheets to the total of the same amounts shown in the consolidated statements of cash flows:
+	328 $ 117 $ 	48
+Row:Short 	Cashandcashequivalents $ term investments 	7,575 $ 2,883 $ 16 15 	1,590
+17
+Row:The Funds Total 	accompanying notes are an integral part of these consolidated financial statements.
+receivable and customer accounts cash, cash equivalents, and restricted cash shown in the consolidated statements of cash flows $ 	5,642 5,387 13,233 $ 8,285 $ 	4,512
+6,119

@@ -1,0 +1,141 @@
+Row:2018 	2017 	2016
+Row:$ 55,838 	$ 40,653 	$ 27,638
+Row:9,355 	5,454 	3,789
+Row:10,273 	7,754 	5,919
+Row:7,846 	4,725 	3,772
+Row:3,451 	2,517 	1,731
+Row:30,925 	20,450 	15,211
+Row:24,913 	20,203 	12,427
+Row:448 	391 	91
+Row:25,361 	20,594 	12,518
+Row:3,249 	4,660 	2,301
+Row:$ 22,112 	$ 15,934 	$ 10,217
+Row:1 	14 	29
+Row:$ 22,111 	$ 15,920 	$ 10,188
+Row:$ 7.65 	$ 5.49 	$ 3.56
+Row:$ 7.57 	$ 5.39 	$ 3.49
+Row:	2018 	2017 	2016
+Row:Revenue 	$ 55,838 	$ 40,653 	$ 27,638
+Row:Costs and expenses:
+			Row:Cost of revenue 	9,355 	5,454 	3,789
+Row:Research and development 	10,273 	7,754 	5,919
+Row:Marketing and sales 	7,846 	4,725 	3,772
+Row:General and administrative 	3,451 	2,517 	1,731
+Row:Total costs and expenses 	30,925 	20,450 	15,211
+Row:Income from operations 	24,913 	20,203 	12,427
+Row:Interest and other income (expense), net 	448 	391 	91
+Row:Income before provision for income taxes 	25,361 	20,594 	12,518
+Row:Provision for income taxes 	3,249 	4,660 	2,301
+Row:Net income 	$ 22,112 	$ 15,934 	$ 10,217
+Row:Less: Net income attributable to participating securities 	1 	14 	29
+Row:Net income attributable to Class A and Class B common stockholders 	$ 22,111 	$ 15,920 	$ 10,188
+Row:Earnings per share attributable to Class A and Class B common stockholders:
+			Row:Basic 	$ 7.65 	$ 5.49 	$ 3.56
+Row:Diluted 	$ 7.57 	$ 5.39 	$ 3.49
+Row:Weighted average shares used to compute earnings per share attributable to Class A and
+Class B common stockholders:
+			Row:Basic 	2,890 	2,901 	2,863
+Row:Diluted 	2,921 	2,956 	2,925
+Row:Share-based compensation expense included in costs and expenses:
+			Row:Cost of revenue 	$ 284 	$ 178 	$ 113
+Row:Research and development 	3,022 	2,820 	2,494
+Row:Marketing and sales 	511 	436 	368
+Row:General and administrative 	335 	289 	243
+Row:Total share-based compensation expense 	$ 4,152 	$ 3,723 	$ 3,218
+Row:See Accompanying Notes to Consolidated Financial 	Statements.
+		Row:2,890 2,901 	2,863
+Row:2,921 2,956 	2,925
+Row:2018 	2017 	2016
+Row:$ 55,838 	$ 40,653 	$ 27,638
+Row:9,355 	5,454 	3,789
+Row:10,273 	7,754 	5,919
+Row:7,846 	4,725 	3,772
+Row:3,451 	2,517 	1,731
+Row:30,925 	20,450 	15,211
+Row:24,913 	20,203 	12,427
+Row:448 	391 	91
+Row:25,361 	20,594 	12,518
+Row:3,249 	4,660 	2,301
+Row:$ 22,112 	$ 15,934 	$ 10,217
+Row:1 	14 	29
+Row:$ 22,111 	$ 15,920 	$ 10,188
+Row:$ 7.65 	$ 5.49 	$ 3.56
+Row:$ 7.57 	$ 5.39 	$ 3.49
+Row:	2018 	2017 	2016
+Row:Revenue 	$ 55,838 	$ 40,653 	$ 27,638
+Row:Costs and expenses:
+			Row:Cost of revenue 	9,355 	5,454 	3,789
+Row:Research and development 	10,273 	7,754 	5,919
+Row:Marketing and sales 	7,846 	4,725 	3,772
+Row:General and administrative 	3,451 	2,517 	1,731
+Row:Total costs and expenses 	30,925 	20,450 	15,211
+Row:Income from operations 	24,913 	20,203 	12,427
+Row:Interest and other income (expense), net 	448 	391 	91
+Row:Income before provision for income taxes 	25,361 	20,594 	12,518
+Row:Provision for income taxes 	3,249 	4,660 	2,301
+Row:Net income 	$ 22,112 	$ 15,934 	$ 10,217
+Row:Less: Net income attributable to participating securities 	1 	14 	29
+Row:Net income attributable to Class A and Class B common stockholders 	$ 22,111 	$ 15,920 	$ 10,188
+Row:Earnings per share attributable to Class A and Class B common stockholders:
+			Row:Basic 	$ 7.65 	$ 5.49 	$ 3.56
+Row:Diluted 	$ 7.57 	$ 5.39 	$ 3.49
+Row:Weighted average shares used to compute earnings per share attributable to Class A and
+Class B common stockholders:
+			Row:Basic 	2,890 	2,901 	2,863
+Row:Diluted 	2,921 	2,956 	2,925
+Row:Share-based compensation expense included in costs and expenses:
+			Row:Cost of revenue 	$ 284 	$ 178 	$ 113
+Row:Research and development 	3,022 	2,820 	2,494
+Row:Marketing and sales 	511 	436 	368
+Row:General and administrative 	335 	289 	243
+Row:Total share-based compensation expense 	$ 4,152 	$ 3,723 	$ 3,218
+Row:See Accompanying Notes to Consolidated Financial 	Statements.
+		Row:2,890 2,901 	2,863
+Row:2,921 2,956 	2,925
+Row:2018 	2017 	2016
+Row:$ 55,838 	$ 40,653 	$ 27,638
+Row:9,355 	5,454 	3,789
+Row:10,273 	7,754 	5,919
+Row:7,846 	4,725 	3,772
+Row:3,451 	2,517 	1,731
+Row:30,925 	20,450 	15,211
+Row:24,913 	20,203 	12,427
+Row:448 	391 	91
+Row:25,361 	20,594 	12,518
+Row:3,249 	4,660 	2,301
+Row:$ 22,112 	$ 15,934 	$ 10,217
+Row:1 	14 	29
+Row:$ 22,111 	$ 15,920 	$ 10,188
+Row:$ 7.65 	$ 5.49 	$ 3.56
+Row:$ 7.57 	$ 5.39 	$ 3.49
+Row:	2018 	2017 	2016
+Row:Revenue 	$ 55,838 	$ 40,653 	$ 27,638
+Row:Costs and expenses:
+			Row:Cost of revenue 	9,355 	5,454 	3,789
+Row:Research and development 	10,273 	7,754 	5,919
+Row:Marketing and sales 	7,846 	4,725 	3,772
+Row:General and administrative 	3,451 	2,517 	1,731
+Row:Total costs and expenses 	30,925 	20,450 	15,211
+Row:Income from operations 	24,913 	20,203 	12,427
+Row:Interest and other income (expense), net 	448 	391 	91
+Row:Income before provision for income taxes 	25,361 	20,594 	12,518
+Row:Provision for income taxes 	3,249 	4,660 	2,301
+Row:Net income 	$ 22,112 	$ 15,934 	$ 10,217
+Row:Less: Net income attributable to participating securities 	1 	14 	29
+Row:Net income attributable to Class A and Class B common stockholders 	$ 22,111 	$ 15,920 	$ 10,188
+Row:Earnings per share attributable to Class A and Class B common stockholders:
+			Row:Basic 	$ 7.65 	$ 5.49 	$ 3.56
+Row:Diluted 	$ 7.57 	$ 5.39 	$ 3.49
+Row:Weighted average shares used to compute earnings per share attributable to Class A and
+Class B common stockholders:
+			Row:Basic 	2,890 	2,901 	2,863
+Row:Diluted 	2,921 	2,956 	2,925
+Row:Share-based compensation expense included in costs and expenses:
+			Row:Cost of revenue 	$ 284 	$ 178 	$ 113
+Row:Research and development 	3,022 	2,820 	2,494
+Row:Marketing and sales 	511 	436 	368
+Row:General and administrative 	335 	289 	243
+Row:Total share-based compensation expense 	$ 4,152 	$ 3,723 	$ 3,218
+Row:See Accompanying Notes to Consolidated Financial 	Statements.
+		Row:2,890 2,901 	2,863
+Row:2,921 2,956 	2,925

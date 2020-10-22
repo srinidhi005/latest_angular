@@ -1,0 +1,47 @@
+Row:Year Ended December 31, 	2019 	2018 	2017
+Row:Net Operating Revenues 	$ 37,266 	$ 34,300 	$ 36,212
+Row:Cost of goods sold 	14,619 	13,067 	13,721
+Row:Gross Profit 	22,647 	21,233 	22,491
+Row:Selling, general and administrative expenses 	12,103 	11,002 	12,834
+Row:Other operating charges 	458 	1,079 	1,902
+Row:Operating Income 	10,086 	9,152 	7,755
+Row:Interest income 	563 	689 	679
+Row:Interest expense 	946 	950 	853
+Row:Equity income (loss) — net 	1,049 	1,008 	1,072
+Row:Other income (loss) — net 	34 	(1,674) 	(1,763)
+Row:Income Before Income Taxes 	10,786 	8,225 	6,890
+Row:Income taxes 	1,801 	1,749 	5,607
+Row:Consolidated Net Income 	8,985 	6,476 	1,283
+Row:Less: Net income (loss) attributable to noncontrolling interests 	65 	42 	35
+Row:Net Income Attributable to Shareowners of The Coca-Cola Company 	$ 8,920 	$ 6,434 	$ 1,248
+Row:Basic Net Income Per Share1 	$ 2.09 	$ 1.51 	$ 0.29
+Row:Diluted Net Income Per Share1 	$ 2.07 	$ 1.50 	$ 0.29
+Row:Average Shares Outstanding — Basic 	4,276 	4,259 	4,272
+Row:Effect of dilutive securities 	38 	40 	52
+Row:Average Shares Outstanding — Diluted 	4,314 	4,299 	4,324
+Row:1Calculated based on net income attributable to shareowners of The Coca-Cola Company.
+Refer to Notes to Consolidated Financial Statements.
+			Row:Year Ended December 31, 	2019 	2018 	2017
+Row:Net Operating Revenues 	$ 37,266 	$ 34,300 	$ 36,212
+Row:Cost of goods sold 	14,619 	13,067 	13,721
+Row:Gross Profit 	22,647 	21,233 	22,491
+Row:Selling, general and administrative expenses 	12,103 	11,002 	12,834
+Row:Other operating charges 	458 	1,079 	1,902
+Row:Operating Income 	10,086 	9,152 	7,755
+Row:Interest income 	563 	689 	679
+Row:Interest expense 	946 	950 	853
+Row:Equity income (loss) — net 	1,049 	1,008 	1,072
+Row:Other income (loss) — net 	34 	(1,674) 	(1,763)
+Row:Income Before Income Taxes 	10,786 	8,225 	6,890
+Row:Income taxes 	1,801 	1,749 	5,607
+Row:Consolidated Net Income 	8,985 	6,476 	1,283
+Row:Less: Net income (loss) attributable to noncontrolling interests 	65 	42 	35
+Row:Net Income Attributable to Shareowners of The Coca-Cola Company 	$ 8,920 	$ 6,434 	$ 1,248
+Row:Basic Net Income Per Share1 	$ 2.09 	$ 1.51 	$ 0.29
+Row:Diluted Net Income Per Share1 	$ 2.07 	$ 1.50 	$ 0.29
+Row:Average Shares Outstanding — Basic 	4,276 	4,259 	4,272
+Row:Effect of dilutive securities 	38 	40 	52
+Row:Average Shares Outstanding — Diluted 	4,314 	4,299 	4,324
+Row:1Calculated based on net income attributable to shareowners of The Coca-Cola Company.
+Refer to Notes to Consolidated Financial Statements.
+			

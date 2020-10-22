@@ -1,0 +1,118 @@
+Row:Revenues
+	(Millions Except Share and Per Share 	Amounts)
+Row:Net sales and operating revenues $ 	17,450 $ 11,763 $ 	9,274
+Row:Costs and expenses
+		Row:Cost of sales (exclusive of depreciation and amortization) 	14,912 10,002 	7,771
+Row:Selling, general, and administrative 	1,138 752 	632
+Row:Depreciation and amortization 	673 345 	226
+Row:Engineering, research, and development 	324 200 	158
+Row:Restructuring charges and asset impairments 	126 117 	47
+Row:Goodwill and intangible impairment charges 	241 3 	11
+Row:	17,414 11,419 	8,845
+Row:Other income (expense)
+		Row:Non-service pension and postretirement benefit (costs) credits 	(11) (20) 	(16)
+Row:Equity in earnings (losses) of nonconsolidated affiliates, net of tax 	43 18 	(1)
+Row:Loss on extinguishment of debt 	— (10) 	(1)
+Row:Other income (expense), net 	53 (10) 	2
+Row:	85 (22) 	(16)
+Row:Earnings (loss) before interest expense, income taxes, and noncontrolling interests 	121 322 	413
+Row:Interest expense 	(322) (148) 	(77)
+Row:Earnings (loss) before income taxes and noncontrolling interests 	(201) 174 	336
+Row:Income tax (expense) benefit 	(19) (63) 	(71)
+Row:Net income (loss) 	(220) 111 	265
+Row:Less: Net income attributable to noncontrolling interests 	114 56 	67
+Row:Net income (loss) attributable to Tenneco Inc. $ 	(334) $ 55 $ 	198
+Row:Earnings (loss) per share
+		Row:Basic earnings (loss) per share:
+		Row:Earnings (loss) per share $ 	(4.12) $ 0.93 $ 	3.75
+Row:Weighted average shares outstanding 	80,904,060 58,625,087 	52,796,184
+Row:Diluted earnings (loss) per share:
+		Row:Earnings (loss) per share $ 	(4.12) $ 0.93 $ 	3.73
+Row:Weighted average shares outstanding 	80,904,060 58,758,732 	53,026,911
+Row:Earnings (loss) per share $ 	(4.12) $ 	0.93 	$ 3.75
+Row:Weighted average shares outstanding 	80,904,060 	58,625,087 	52,796,184
+Row:Diluted earnings (loss) per share:
+			Row:Earnings (loss) per share $ 	(4.12) $ 	0.93 	$ 3.73
+Row:Weighted average shares outstanding 	80,904,060 	58,758,732 	53,026,911
+Row:Cash and cash equivalents $ 	564 $ 697
+Row:Restricted cash 	2 5
+Row:Receivables:
+	Row:Customer notes and accounts, net 	2,438 2,487
+Row:Other 	100 85
+Row:Inventories 	1,999 2,245
+Row:Prepayments and other current assets 	632 590
+Row:Total current assets 	5,735 6,109
+Row:Property, plant and equipment, net 	3,627 3,501
+Row:Long-term receivables, net 	10 10
+Row:Goodwill 	775 869
+Row:Intangibles, net 	1,422 1,519
+Row:Investments in nonconsolidated affiliates 	518 544
+Row:Deferred income taxes 	607 467
+Row:Other assets 	532 213
+Row:Total assets $ 	13,226 $ 13,232
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+	Row:Operating Activities
+Net income (loss) $ 	(220) $ 111 	$ 265
+Row:Adjustments to reconcile net income (loss) to cash provided (used) by operating activities:
+		Row:Goodwill and intangible impairment charge 	241 3 	11
+Row:Depreciation and amortization 	673 345 	226
+Row:Deferred income taxes 	(151) (65) 	(8)
+Row:Stock-based compensation 	25 14 	14
+Row:Restructuring charges and asset impairments, net of cash paid 	11 49 	8
+Row:Change in pension and postretirement benefit plans 	(57) (8) 	(15)
+Row:Equity in earnings of nonconsolidated affiliates 	(43) (18) 	1
+Row:Cash dividends received from nonconsolidated affiliates 	53 2 	—
+Row:Changes in operating assets and liabilities:
+		Row:Receivables 	(225) (174) 	(76)
+Row:Inventories 	284 27 	(94)
+Row:Payables and accrued expenses 	(66) 291 	136
+Row:Accrued interest and income taxes 	3 (19) 	1
+Row:Other assets and liabilities 	(84) (119) 	48
+Row:Net cash provided (used) by operating activities 	444 439 	517
+Row:Investing Activities
+		Row:Acquisitions, net of cash acquired 	(158) (2,194) 	—
+Row:Proceeds from sale of assets 	20 9 	8
+Row:Net proceeds from sale of business 	22 — 	—
+Row:Proceeds from sale of investment in nonconsolidated affiliates 	2 — 	9
+Row:Cash payments for plant, property, and equipment 	(744) (507) 	(419)
+Row:Proceeds from deferred purchase price of factored receivables 	250 174 	112
+Row:Other 	2 4 	(10)
+Row:Changes in operating assets and liabilities:
+			Row:Receivables 	(225) 	(174) 	(76)
+Row:Inventories 	284 	27 	(94)
+Row:Payables and accrued expenses 	(66) 	291 	136
+Row:Accrued interest and income taxes 	3 	(19) 	1
+Row:Other assets and liabilities 	(84) 	(119) 	48
+Row:Net cash provided (used) by operating activities 	444 	439 	517
+Row:Investing Activities
+			Row:Acquisitions, net of cash acquired 	(158) 	(2,194) 	—
+Row:Proceeds from sale of assets 	20 	9 	8
+Row:Net proceeds from sale of business Proceeds from sale of investment in nonconsolidated affiliates 	22 2 	— — 	—
+9
+Row:Cash payments for plant, property, and equipment Proceeds from deferred purchase price of factored receivables 	(744) 250 	(507) 174 	(419)
+112
+Row:Other 	2 	4 	(10)
+Row:Net cash provided (used) by investing activities 	(606) 	(2,514) 	(300)
+Row:Financing Activities
+			Row:Proceeds from term loans and notes 	200 	3,426 	160
+Row:Repayments of term loans and notes 	(341) 	(453) 	(36)
+Row:Borrowings on revolving lines of credit 	9,120 	5,149 	6,664
+Row:Payments on revolving lines of credit 	(8,884) 	(5,405) 	(6,737)
+Row:Repurchase of common shares 	(2) 	(1) 	(1)
+Row:Cash dividends 	(20) 	(59) 	(53)
+Row:Debt issuance cost of long-term debt 	— 	(95) 	(8)
+Row:Purchase of common stock under the share repurchase program 	— 	— 	(169)
+Row:Net decrease in bank overdrafts 	(13) 	(5) 	(7)
+Row:Acquisition of additional ownership interest in consolidated affiliates Distributions to noncontrolling interest partners Other 	(10) (43) (4) 	— (51) (30) 	—
+(64)
+—
+Row:Net cash provided (used) by financing activities Effect of foreign exchange rate changes on cash, cash equivalents, and restricted cash 	3 23 	2,476 (17) 	(251)
+3
+Row:Increase (decrease) in cash, cash equivalents, and restricted cash 	(136) 	384 	(31)
+Row:Cash, cash equivalents, and restricted cash, beginning of period 	702 	318 	349
+Row:Cash, cash equivalents, and restricted cash, end of period $ 	566 	$ 702 	$ 318
+Row:Supplemental Cash Flow Information
+			Row:Cash paid during the year for interest $ 	284 	$ 143 	$ 78
+Row:Cash paid during the year for income taxes, net of refunds $ 	177 	$ 113 	$ 95
+Row:Cash paid during the year for interest $ 	284 $ 	143 $ 	78
+Row:Cash paid during the year for income taxes, net of refunds $ 	177 $ 	113 $ 	95

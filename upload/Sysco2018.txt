@@ -1,0 +1,109 @@
+Row:(In thousands, except for share data)	June 30, 2018
+July 1, 	2017
+Row:ASSETS		Row:Current assets		Row:Cash and cash equivalents	$
+552,325	869,502Row:Accounts and notes receivable, less allowances of $25,768 and $31,059	4,073,723	4,012,393Row:Inventories, net	3,125,413	2,995,598Row:Prepaid expenses and other current assets	187,880	139,185Row:Income tax receivable	64,112	16,760Row:Total current assets	8,003,453	8,033,438Row:Plant and equipment at cost, less depreciation	4,521,660
+	4,377,302
+Row:Other long-term assets		Row:Goodwill	3,955,485	3,916,128Row:Intangibles, less amortization	979,812	1,037,511Row:Deferred income taxes	83,666	142,472Row:Other assets	526,328	249,804Row:Total other long-term assets	5,545,291	5,345,915Row:TOTAL ASSETS	18,070,404 $
+$
+	17,756,655
+Row:LIABILITIES AND SHAREHOLDERS' EQUITY		Row:Current liabilitiesNotes payable	$
+$
+4,176	3,938Row:Accounts payable	4,136,482	3,971,112Row:Accrued expenses	1,608,966	1,576,221Row:Accrued income taxes	56,793	14,540Row:Current maturities of long-term debt	782,329	530,075Row:Total current liabilities	6,588,746
+	6,095,886
+Row:Long-term liabilities		Row:Long-term debt	7,540,765	7,660,877Row:Deferred income taxes	319,124	161,715Row:Other long-term liabilities	1,077,163	1,373,822Row:Total long-term liabilities	8,937,052
+	9,196,414
+Row:Commitments and contingencies		Row:Noncontrolling interest	37,649
+	82,839
+Row:Shareholders' equity		Row:Preferred stock, par value $1 per shareAuthorized 1,500,000 shares, issued none		Row:Common stock, par value $1 per shareAuthorized 2,000,000,000 shares, issued 765,174,900 shares	765,175	765,175Row:Paid-in capital	1,383,619	1,327,366Row:Retained earnings	10,348,628	9,447,755Row:Accumulated other comprehensive loss	(1,409,269)(	1,262,737)Row:Treasury stock at cost, 244,533,248 and 235,135,699 shares	(8,581,196)(	7,896,043)Row:Total shareholders' equity	2,506,957	2,381,516Row:TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY	18,070,404
+$
+$
+	17,756,655
+Row:See Notes to Consolidated Financial Statements
+		Row:Authorized 2,000,000,000 shares, issued 765,174,900 shares	765,175	765,175Row:Paid-in capital	1,383,619	1,327,366Row:Retained earnings	10,348,628	9,447,755Row:Accumulated other comprehensive loss	(1,409,269)	(1,262,737)Row:Treasury stock at cost, 244,533,248 and 235,135,699 shares	(8,581,196)	(7,896,043)Row:Total shareholders' equity	2,506,957	2,381,516Row:TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY	18,070,404
+$
+	17,756,655
+$
+Row:(In thousands, except for share and per share data)
+	Jun. 30, 2018 	Jul. 1, 2017 	Jul. 2, 2016
+Row:Sales 	$ 58,727,324 $ 	55,371,139 $ 	50,366,919
+Row:Cost of sales 	47,641,933 	44,813,632 	41,326,447
+Row:Gross profit 	11,085,391 	10,557,507 	9,040,472
+Row:Operating expenses 	8,756,417 	8,504,336 	7,189,972
+Row:Operating income 	2,328,974 	2,053,171 	1,850,500
+Row:Interest expense 	395,483 	302,878 	306,146
+Row:Other expense (income), net 	(22,733) 	(15,937) 	111,347
+Row:Earnings before income taxes 	1,956,224 	1,766,230 	1,433,007
+Row:Income taxes 	525,458 	623,727 	483,385
+Row:NET EARNINGS 	$ 1,430,766 $ 	1,142,503 $ 	949,622
+Row:Net earnings:
+			Row:BASIC EARNINGS PER SHARE 	$ 2.74 $ 	2.10 $ 	1.66
+Row:DILUTED EARNINGS PER SHARE 	2.70 	2.08 	1.64
+Row:Average shares outstanding 	522,926,914 	543,496,816 	573,057,406
+Row:Diluted shares outstanding 	529,089,854 	548,545,027 	577,391,406
+Row:Dividends declared per common share 	$ 1.41 $ 	1.30 $ 	1.23
+Row:(In thousands)
+	Jun. 30, 2018 	Jul. 1, 2017 	Jul. 2, 2016
+Row:Net earnings $ 	1,430,766 $ 	1,142,503 	$ 949,622
+Row:Other comprehensive income (loss):
+			Row:Foreign currency translation adjustment 	(22,987) 	(11,243) 	(39,080)
+Row:Items presented net of tax:
+			Row:Amortization of cash flow hedges 	8,240 	7,082 	7,111
+Row:Change in net investment hedges 	5,791 	(24,012) 	-
+Row:Change in cash flow hedges 	14,343 	(6,698) 	(3,779)
+Row:Amortization of prior service cost 	6,905 	7,004 	6,992
+Row:Amortization of actuarial loss, net 	25,110 	25,965 	13,352
+Row:Actuarial gain (loss), net arising in current year 	52,511 	97,283 	(419,517)
+Row:Total other comprehensive income (loss) 	89,913 	95,381 	(434,921)
+Row:COMPREHENSIVE INCOME $ 	1,520,679 $ 	1,237,884 	$ 514,701
+Row:(In thousands)
+Jun. Cash flows from operating activities:
+	30, 2018 Jul. 	Year Ended
+1, 2017 Jul. 	2, 2016
+Row:Net earnings $ 	1,430,766 $ 	1,142,503 $ 	949,622
+Row:Adjustments to reconcile net earnings to cash provided by operating activities:
+			Row:Share-based compensation expense 	93,841 	83,883 	79,466
+Row:Depreciation and amortization 	765,498 	901,992 	662,710
+Row:Amortization of debt issuance and other debt-related costs 	28,474 	31,852 	45,137
+Row:Loss on extinguishment of debt Loss on foreign exchange remeasurement 	53,104 - 	- - 	86,460
+101,228
+Row:Deferred income taxes 	187,908 	(51,846) 	93,871
+Row:Provision for losses on receivables 	21,448 	20,672 	20,372
+Row:Other non-cash items 	3,986 	6,704 	23,347
+Row:Additional changes in certain assets and liabilities, net of effect of businesses acquired:
+(Increase) decrease in receivables 	(37,457) 	20,452 	(27,311)
+Row:(Increase) decrease in inventories 	(89,737) 	(113,647) 	66,937
+Row:(Increase) decrease in prepaid expenses and other current assets 	(19,643) 	8,158 	(8,468)
+Row:Increase in accounts payable 	76,897 	322,775 	23,863
+Row:Increase (decrease) in accrued expenses 	47,105 	(4,476) 	(157,600)
+Row:(Decrease) increase in accrued income taxes 	(10,652) 	(74,590) 	231,542
+Row:(Increase) in other assets 	(77,852) 	(36,449) 	(6,639)
+Row:(Decrease) in other long-term liabilities 	(315,054) 	(18,629) 	(196,190)
+Row:Net cash provided by operating activities 	2,158,632 	2,239,354 	1,988,347
+Row:Cash flows from investing activities:
+			Row:Additions to plant and equipment 	(687,815) 	(686,378) 	(527,346)
+Row:Proceeds from sales of plant and equipment 	22,255 	23,715 	23,511
+Row:Acquisition of businesses, net of cash acquired 	(248,105) 	(2,921,798) 	(219,218)
+Row:Purchase of foreign currency options Proceeds from sale of foreign currency options 	- - 	- - 	(103,501)
+57,452
+Row:Net cash used for investing activities 	(913,665) 	(3,584,461) 	(769,102)
+Row:Cash flows from financing activities:
+			Row:Bank and commercial paper borrowings, net 	(119,700) 	119,700 	-
+Row:Other debt borrowings 	1,000,599 	753,834 	5,134,709
+Row:Other debt repayments 	(552,036) 	(143,664) 	(126,797)
+Row:Tender and redemption premiums for senior notes 	(281,762) 	- 	-
+Row:Redemption of senior notes 	- 	- 	(5,050,000)
+Row:Proceeds from stock option exercises 	268,751 	204,805 	282,455
+Row:Treasury stock purchases 	(978,901) 	(1,886,121) 	(1,949,445)
+Row:Dividends paid 	(722,158) 	(698,647) 	(698,869)
+Row:Other financing activities 	(25,262) 	(32,494) 	(51,989)
+Row:Net cash used for financing activities 	(1,410,469) 	(1,682,587) 	(2,459,936)
+Row:Effect of exchange rates on cash, cash equivalents and restricted cash 	11,844 	(22,104) 	(138,327)
+Row:Net decrease in cash, cash equivalents and restricted cash 	(153,658) 	(3,049,798) 	(1,379,018)
+Row:Cash, cash equivalents and restricted cash at beginning of period 	869,502 	3,919,300 	5,298,318
+Row:CASH, CASH EQUIVALENTS AND RESTRICTED CASH AT END OF PERIOD $ 	715,844 $ 	869,502 $ 	3,919,300
+Row:Supplemental disclosures of cash flow information:
+			Row:Cash paid during the period for:
+Interest $ 	301,672 $ 	285,025 $ 	200,174
+Row:Income taxes 	268,384 	761,384 	180,565
+Row:See Notes to Consolidated Financial Statements
+			

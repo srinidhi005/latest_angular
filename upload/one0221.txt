@@ -1,0 +1,154 @@
+Row:Revenues
+	( Thousands of 	dollars, except per share 	amounts )
+Row:Commodity sales 	$ 6,858,456 $ 	6,098,343 	$ 10,724,981
+Row:Services 	2,062,478 	1,664,863 	1,470,110
+Row:Total revenues 	8,920,934 	7,763,206 	12,195,091
+Row:Cost of sales and fuel (exclusive of items shown separately below) 	6,496,124 	5,641,052 	10,088,548
+Row:Operations and maintenance Depreciation and amortization 	668,335 391,585 	605,748 354,620 	599,143
+294,684
+Row:Impairment of long-lived assets (Note E) 	— 	83,673 	—
+Row:General taxes Gain on sale of assets 	88,849 (9,635) 	87,583 (5,629) 	75,744
+(6,599)
+Row:Operating income 	1,285,676 	996,159 	1,143,571
+Row:Equity in net earnings from investments (Note N) 	139,690 	125,300 	117,415
+Row:Impairment of equity investments (Note N) Allowance for equity funds used during construction 	— 209 	(180,583) 2,179 	(76,412)
+14,937
+Row:Other income 	6,091 	368 	5,598
+Row:Other expense 	(4,059) 	(4,760) 	(29,073)
+Row:Interest expense (net of capitalized interest of $10,591, $36,572 and $54,813, respectively) 	(469,651) 	(416,787) 	(356,163)
+Row:Income before income taxes 	957,956 	521,876 	819,873
+Row:Income taxes (Note M) 	(212,406) 	(136,600) 	(151,158)
+Row:Income from continuing operations 	745,550 	385,276 	668,715
+Row:Income (loss) from discontinued operations, net of tax (Note Q) 	(2,051) 	(6,081) 	(5,607)
+Row:Net income 	743,499 	379,195 	663,108
+Row:Less: Net income attributable to noncontrolling interests 	391,460 	134,218 	349,001
+Row:Net income attributable to ONEOK 	$ 352,039 $ 	244,977 	$ 314,107
+Row:Amounts attributable to ONEOK:
+			Row:Income from continuing operations 	$ 354,090 $ 	251,058 	$ 319,714
+Row:Income (loss) from discontinued operations 	(2,051) 	(6,081) 	(5,607)
+Row:Net income 	$ 352,039 $ 	244,977 	$ 314,107
+Row:Basic earnings per share:
+			Row:Income from continuing operations (Note J) 	$ 1.68 $ 	1.19 	$ 1.53
+Row:Income (loss) from discontinued operations 	(0.01) 	(0.02) 	(0.03)
+Row:Net income 	$ 1.67 $ 	1.17 	$ 1.50
+Row:Diluted earnings per share:
+			Row:Income from continuing operations (Note J) Income (loss) from discontinued operations 	$ 1.67 $ (0.01) 	1.19 (0.03) 	$ 1.52
+(0.03)
+Row:Net income 	$ 1.66 $ 	1.16 	$ 1.49
+Row:Average shares ( thousands )
+			Row:Basic 	211,128 	210,208 	209,391
+Row:Diluted 	212,383 	210,541 	210,427
+Row:Dividends declared per share of common stock 	$ 2.46 $ 	2.43 	$ 2.125
+Row:See accompanying Notes to Consolidated Financial Statements.
+			Row:December 31, 	December 31,
+Row:2016 	2015
+Row:Cash and cash equivalents $ 	248,875 $ 	97,619
+Row:Accounts receivable, net 	872,430 	593,979
+Row:Materials and supplies 	60,912 	76,696
+Row:Natural gas and natural gas liquids in storage 	140,034 	128,084
+Row:Commodity imbalances 	60,896 	38,681
+Row:Other current assets 	45,986 	39,946
+Row:Assets of discontinued operations (Note Q) 	551 	205
+Row:Total current assets 	1,429,684 	975,210
+Row:Investments in unconsolidated affiliates (Note N) 	958,807 	948,221
+Row:Goodwill and intangible assets (Note F) 	1,005,359 	1,017,258
+Row:Other assets 	162,998 	112,598
+Row:Assets of discontinued operations (Note Q) 	10,500 	18,835
+Row:Total investments and other assets 	2,137,664 	2,096,912
+Row:Total assets 	$ 16,138,751 $ 	15,446,111
+Row:December 31, 	December 31,
+Row:2016 	2015
+Row:Liabilities and equity Current liabilities
+	( Thousands of 	dollars )
+Row:Current maturities of long-term debt (Note G) 	$ 410,650 $ 	110,650
+Row:Short-term borrowings (Note G) 	1,110,277 	546,340
+Row:Accounts payable 	874,731 	615,982
+Row:Commodity imbalances 	142,646 	74,460
+Row:Accrued interest 	112,514 	129,043
+Row:Other current liabilities 	166,042 	132,556
+Row:Liabilities of discontinued operations (Note Q) 	19,841 	29,235
+Row:Total current liabilities 	2,836,701 	1,638,266
+Row:Long-term debt, excluding current maturities (Note G) 	7,919,996 	8,323,582
+Row:Deferred credits and other liabilities
+		Row:Deferred income taxes (Note M) 	1,623,822 	1,436,715
+Row:Other deferred credits 	321,846 	264,248
+Row:Liabilities of discontinued operations (Note Q) 	7,471 	16,964
+Row:Total deferred credits and other liabilities 	1,953,139 	1,717,927
+Row:Common stock, $0.01 par value:
+	Row:authorized 600,000,000 shares; issued 245,811,180 shares and outstanding
+210,681,661 shares at December 31, 2016; issued 245,811,180 shares and
+outstanding 209,731,028 shares at December 31, 2015 	2,458 2,458
+Row:Paid-in capital 	1,234,314 1,378,444
+Row:Accumulated other comprehensive loss (Note I) 	(154,350) (127,242)
+Row:Retained earnings 	— —
+Row:Treasury stock, at cost: 35,129,519 shares at December 31, 2016 and
+36,080,152 shares at December 31, 2015 	(893,677) (917,862)
+Row:Total ONEOK shareholders’ equity 	188,745 335,798
+Row:Noncontrolling interests in consolidated subsidiaries 	3,240,170 3,430,538
+Row:Total equity 	3,428,915 3,766,336
+Row:Total liabilities and equity 	$ 16,138,751 $ 15,446,111
+$ Row:See accompanying Notes to Consolidated Financial Statements.
+	Row:Operating activities
+	( Thousands of 	dollars )
+	Row:Net income $ 	743,499 $ 	379,195 $ 	663,108
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+			Row:Depreciation and amortization 	391,585 	354,620 	306,038
+Row:Impairment charges 	— 	264,256 	76,412
+Row:Equity in net earnings from investments 	(139,690) 	(125,300) 	(117,415)
+Row:Distributions received from unconsolidated affiliates 	144,673 	122,003 	117,912
+Row:Deferred income taxes 	211,638 	137,737 	156,728
+Row:Share-based compensation expense 	40,563 	16,435 	26,226
+Row:Pension and postretirement benefit expense, net of contributions 	11,643 	14,814 	18,093
+Row:Allowance for equity funds used during construction 	(209) 	(2,179) 	(14,937)
+Row:Gain on sale of assets 	(9,635) 	(5,629) 	(6,599)
+Row:Changes in assets and liabilities, net of acquisitions:
+			Row:Accounts receivable 	(285,806) 	157,051 	381,513
+Row:Natural gas and natural gas liquids in storage 	(11,950) 	6,050 	160,860
+Row:Accounts payable 	287,632 	(205,143) 	(417,993)
+Row:Commodity imbalances, net 	45,971 	(4,083) 	(90,354)
+Row:Settlement of exit activities liabilities 	(19,906) 	(38,536) 	(51,757)
+Row:Accrued interest 	(16,529) 	24,166 	(4,351)
+Row:Risk-management assets and liabilities 	(78,136) 	(32,370) 	59,539
+Row:Other assets and liabilities, net 	36,271 	(56,107) 	22,587
+Row:Cash provided by operating activities 	1,351,614 	1,006,980 	1,285,610
+Row:Investing activities
+			Row:Capital expenditures (less allowance for equity funds used during construction) 	(624,634) 	(1,188,312) 	(1,779,150)
+Row:Pension and postretirement benefit expense, net of contributions Allowance for equity funds used during construction 	11,643 14,814 (209) (2,179) 	18,093
+(14,937)
+Row:Gain on sale of assets 	(9,635) (5,629) 	(6,599)
+Row:Changes in assets and liabilities, net of acquisitions:
+		Row:Accounts receivable 	(285,806) 157,051 	381,513
+Row:Natural gas and natural gas liquids in storage 	(11,950) 6,050 	160,860
+Row:Accounts payable 	287,632 (205,143) 	(417,993)
+Row:Commodity imbalances, net 	45,971 (4,083) 	(90,354)
+Row:Settlement of exit activities liabilities 	(19,906) (38,536) 	(51,757)
+Row:Accrued interest 	(16,529) 24,166 	(4,351)
+Row:Risk-management assets and liabilities 	(78,136) (32,370) 	59,539
+Row:Other assets and liabilities, net 	36,271 (56,107) 	22,587
+Row:Cash provided by operating activities 	1,351,614 1,006,980 	1,285,610
+Row:Investing activities
+		Row:Capital expenditures (less allowance for equity funds used during construction) 	(624,634) (1,188,312) 	(1,779,150)
+Row:Cash paid for acquisitions, net of cash received 	— — 	(814,934)
+Row:Contributions to unconsolidated affiliates 	(68,275) (27,540) 	(1,063)
+Row:Distributions received from unconsolidated affiliates in excess of cumulative earnings 	52,044 33,915 	21,107
+Row:Proceeds from sale of assets 	25,420 3,825 	7,817
+Row:Other 	— (12,607) 	—
+Row:Cash used in investing activities 	(615,445) (1,190,719) 	(2,566,223)
+Row:Financing activities
+		Row:Dividends paid Distributions to noncontrolling interests 	(517,601) (509,197) (549,419) (535,825) 	(443,817)
+(447,459)
+Row:Borrowing (repayment) of short-term borrowings, net 	563,937 (508,956) 	490,834
+Row:Issuance of ONE Gas debt, net of discounts Issuance of long-term debt, net of discounts ONE Gas long-term debt financing costs Debt financing costs Repayment of long-term debt 	— — 1,000,000 1,291,506 — — (2,770) (17,515) (1,108,040) (7,753) 	1,199,994
+—
+(9,663)
+—
+(557,679)
+Row:Issuance of common stock Issuance of common units, net of issuance costs 	21,971 20,669 — 375,660 	19,150
+1,113,139
+Row:Cash of ONE Gas at separation Other Cash provided by (used in) financing activities 	— — 7,130 — (584,792) 108,589 	(60,000)
+—
+1,304,499
+Row:Change in cash and cash equivalents 	151,377 (75,150) 	23,886
+Row:Change in cash and cash equivalents included in discontinued operations 	(121) (43) 	3,361
+Row:Change in cash and cash equivalents from continuing operations 	151,256 (75,193) 	27,247
+Row:Cash and cash equivalents at beginning of period 	97,619 172,812 	145,565

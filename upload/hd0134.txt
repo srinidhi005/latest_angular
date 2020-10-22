@@ -1,0 +1,81 @@
+Row:	2018 	2017 	2016
+Row:Revenue:
+			Row:Motorcycles and Related Products 	$ 4,968,646 	$ 4,915,027 $ 	5,271,376
+Row:Financial Services 	748,229 	732,197 	725,082
+Row:Total revenue 	5,716,875 	5,647,224 	5,996,458
+Row:Costs and expenses:
+			Row:Motorcycles and Related Products cost of goods sold 	3,351,796 	3,272,330 	3,425,997
+Row:Financial Services interest expense 	193,187 	180,193 	173,756
+Row:Financial Services provision for credit losses 	106,870 	132,444 	136,617
+Row:Selling, administrative and engineering expense 	1,258,098 	1,180,176 	1,213,794
+Row:Restructuring expense 	93,401 	— 	—
+Row:Total costs and expenses 	5,003,352 	4,765,143 	4,950,164
+Row:Operating income 	713,523 	882,081 	1,046,294
+Row:Other income (expense), net 	3,039 	9,182 	2,642
+Row:Investment income 	951 	3,580 	4,645
+Row:Interest expense 	30,884 	31,004 	29,670
+Row:Income before provision for income taxes 	686,629 	863,839 	1,023,911
+Row:Provision for income taxes 	155,178 	342,080 	331,747
+Row:Net income 	$ 531,451 	$ 521,759 $ 	692,164
+Row:Earnings per common share:
+			Row:Basic 	$ 3.21 	$ 3.03 $ 	3.85
+Row:Diluted 	$ 3.19 	$ 3.02 $ 	3.83
+Row:Cash dividends per common share 	$ 1.48 	$ 1.46 $ 	1.40
+Row:Current assets:
+		Row:Cash and cash equivalents 	$ 1,203,766 	$ 687,521
+Row:Marketable securities 	10,007 	—
+Row:Accounts receivable, net 	306,474 	329,986
+Row:Finance receivables, net 	2,214,424 	2,105,662
+Row:Inventories 	556,128 	538,202
+Row:Restricted cash 	49,275 	47,518
+Row:Other current assets 	144,368 	175,853
+Row:Total current assets 	4,484,442 	3,884,742
+Row:Finance receivables, net 	5,007,507 	4,859,424
+Row:Property, plant and equipment, net 	904,132 	967,781
+Row:Prepaid pension costs 	— 	19,816
+Row:Goodwill 	55,048 	55,947
+Row:Deferred income taxes 	141,464 	109,073
+Row:Other long-term assets 	73,071 	75,889
+Row:	$ 10,665,664 	$ 9,972,672
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 284,861 	$ 227,597
+Row:Accrued liabilities 	601,130 	529,822
+Row:2018 	2017 	2016
+Row:Net cash provided by operating activities (Note 6) $ 	1,205,921 $ 1,005,061 	$ 1,174,339
+Row:Cash flows from investing activities:
+Capital expenditures 	(213,516) (206,294) 	(256,263)
+Row:Origination of finance receivables 	(3,752,817) (3,591,948) 	(3,664,495)
+Row:Collections on finance receivables 	3,325,669 3,228,311 	3,175,031
+Row:Proceeds from finance receivables sold 	— — 	312,571
+Row:Purchases of marketable securities 	(10,007) — 	—
+Row:Sales and redemptions of marketable securities 	— 6,916 	40,014
+Row:Other 	(11,598) 547 	411
+Row:Net cash used by investing activities 	(662,269) (562,468) 	(392,731)
+Row:Cash flows from financing activities:
+Proceeds from issuance of medium-term notes Repayments of medium-term notes 	1,591,828 893,668 (877,488) (800,000) 	1,193,396
+(451,336)
+Row:Repayments of securitization debt 	(257,869) (444,671) 	(665,400)
+Row:Borrowings of asset-backed commercial paper 	509,742 469,932 	62,396
+Row:Repayments of asset-backed commercial paper 	(212,729) (176,227) 	(71,500)
+Row:Net (decrease) increase in credit facilities and unsecured commercial paper 	(135,356) 212,809 	(145,812)
+Row:Dividends paid 	(245,810) (251,862) 	(252,321)
+Row:Purchase of common stock for treasury 	(390,606) (465,263) 	(465,341)
+Row:Excess tax benefits from share-based payments Issuance of common stock under employee stock option plans 	— — 3,525 11,353 	2,251
+15,782
+Row:Net cash used by financing activities 	(14,763) (550,261) 	(777,885)
+Row:Effect of exchange rate changes on cash, cash equivalents and restricted cash 	(15,351) 26,747 	(9,443)
+Row:Net increase (decrease) in cash, cash equivalents and restricted cash $ 	513,538 $ (80,921) 	$ (5,720)
+Row:Cash, cash equivalents and restricted cash:
+		Row:Cash, cash equivalents and restricted cash—beginning of period $ 	746,210 $ 827,131 	$ 832,851
+Row:Net increase (decrease) in cash, cash equivalents and restricted cash 	513,538 (80,921) 	(5,720)
+Row:Cash, cash equivalents and restricted cash—end of period $ 	1,259,748 $ 746,210 	$ 827,131
+Row:Reconciliation of cash, cash equivalents and restricted cash to the Consolidated Balance Sheet:
+		Row:Cash and cash equivalents $ 	1,203,766 $ 687,521 	$ 759,984
+Row:Restricted cash 	49,275 47,518 	52,574
+Row:Restricted cash included in other long-term assets 	6,707 11,171 	14,573
+Row:Total cash, cash equivalents and restricted cash shown in the Statement of Cash Flows $ 	1,259,748 $ 746,210 	$ 827,131
+Row:Cash and cash equivalents 	$ 1,203,766 $ 	687,521 	$ 759,984
+Row:Restricted cash 	49,275 	47,518 	52,574
+Row:Restricted cash included in other long-term assets 	6,707 	11,171 	14,573
+Row:Total cash, cash equivalents and restricted cash shown in the Statement of Cash Flows 	$ 1,259,748 $ 	746,210 	$ 827,131

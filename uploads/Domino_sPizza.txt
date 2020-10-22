@@ -1,0 +1,474 @@
+Row	2019
+	2018
+RowAssets
+		RowCurrent assets:
+:
+		RowCash and cash equivalents 	$ 190,615 $ 	25,438
+RowRestricted cash and cash equivalents 	209,269 	166,993
+RowAccounts receivable, net of reserves of $2,856 in 2019 and $1,879 in 2018 	210,260 	190,091
+RowInventories 	52,955 	45,975
+RowPrepaid expenses and other 	19,129 	25,710
+RowAdvertising fund assets, , restricted 	105,389 	112,744
+RowTotal current assets 	787,617 	566,951
+RowProperty, , plant and equipment:
+:
+		RowLand and buildings 	44,845 	41,147
+RowLeasehold and other improvements 	164,071 	170,498
+RowEquipment 	243,708 	243,654
+RowConstruction in progress 	42,705 	31,822
+RowAccumulated depreciation and amortization 	495,329 (252,448) 	487,121
+(252,182)
+RowProperty, plant and equipment, net 	242,881 	234,939
+RowOther assets:
+		RowOperating lease right-of-use assets 	228,785 	—
+RowInvestments in marketable securities, restricted 	11,982 	8,718
+RowGoodwill 	15,093 	14,919
+RowCapitalized software, , net of accumulated amortization of $104,237 in 2019 and $89,161 in 2018 Other assets, net of accumulated amortization of $56 in 2019 and $776 in 2018 	73,140 12,521 	63,809
+12,523
+RowDeferred income taxes 	10,073 	5,526
+RowTotal other assets 	351,594 	105,495
+RowTotal assets 	$ 1,382,092 $ 	907,385
+RowLiabilities and stockholders’ deficit
+		RowCurrent liabilities:
+		RowCurrent portion of long-term debt 	$ 43,394 $ 	35,893
+RowAccounts payable 	111,101 	92,546
+RowAccrued compensation 	46,214 	40,962
+RowAccrued interest 	27,881 	25,981
+RowOperating lease liabilities 	33,318 	—
+RowInsurance reserves 	23,735 	22,210
+RowAdvertising fund liabilities 	101,921 	107,150
+RowOther accrued liabilities 	66,267 	55,001
+RowTotal current liabilities 	453,831 	379,743
+RowLong-term liabilities:
+		RowLong-term debt, , less current portion 	4,071,055 	3,495,691
+RowOperating lease liabilities 	202,731 	—
+RowInsurance reserves 	34,675 	31,065
+RowOther accrued liabilities 	35,559 	40,807
+RowTotal long-term liabilities 	4,344,020 	3,567,563
+RowTotal liabilities 	4,797,851 	3,947,306
+RowCommitments and contingencies
+		RowStockholders’ deficit
+Common stock, par value $0.01 per share; 170,000,000 shares authorized; 38,934,009 in 2019 and 40,977,561 in 2018
+issued and outstanding ; 	389 	410
+RowPreferred stock, par value $0.01 per share; 5,000,000 shares authorized, , none issued 	— 	—
+RowAdditional paid-in capital 	243 	569
+RowRetained deficit 	(3,412,649) 	(3,036,471)
+RowAccumulated other comprehensive loss 	(3,742
+)
+	(4,429
+)
+RowTotal stockholders’ deficit 	(3,415,759) 	(3,039,921)
+RowTotal liabilities and stockholders’ deficit 	$ 1,382,092 $ 	907,385
+RowDecember 29,
+	December 30,
+	December 31,
+Row2019
+	2018
+	2017
+Row$ 453,560 	$ 514,804 	$ 490,846
+Row428,504 	391,493 	351,387
+Row2,104,936 	1,943,297 	1,739,038
+Row240,975 	224,747 	206,708
+Row390,799 	358,526 	—
+Row3,618,774 	3,432,867 	2,787,979
+Row346,168 	398,158 	377,674
+Row1,870,107 	1,732,030 	1,544,314
+Row2,216,275 	2,130,188 	1,921,988
+Row1,402,499 	1,302,679 	865,991
+Row382,293 	372,464 	344,759
+Row390,799 	358,526 	—
+Row629,407 	571,689 	521,232
+Row4,048 	3,334 	1,462
+Row(150,818) 	(146,345) 	(122,541)
+Row482,637 	428,678 	400,153
+Row81,928 	66,706 	122,248
+Row$ 400,709 	$ 361,972 	$ 277,905
+Row	December 29,
+2019
+	December 30,
+2018
+	December 31,
+2017
+RowRevenues:
+:
+			RowU.S. Company-owned stores 	$ 453,560 	$ 514,804 	$ 490,846
+RowU.S. franchise royalties and fees 	428,504 	391,493 	351,387
+RowSupply chain 	2,104,936 	1,943,297 	1,739,038
+RowInternational franchise royalties and fees 	240,975 	224,747 	206,708
+RowU.S. franchise advertising 	390,799 	358,526 	—
+RowTotal revenues 	3,618,774 	3,432,867 	2,787,979
+RowCost of sales:
+			RowU.S. Company-owned stores 	346,168 	398,158 	377,674
+RowSupply chain 	1,870,107 	1,732,030 	1,544,314
+RowTotal cost of sales 	2,216,275 	2,130,188 	1,921,988
+RowOperating margin 	1,402,499 	1,302,679 	865,991
+RowGeneral and administrative 	382,293 	372,464 	344,759
+RowU.S. franchise advertising 	390,799 	358,526 	—
+RowIncome from operations 	629,407 	571,689 	521,232
+RowInterest income 	4,048 	3,334 	1,462
+RowInterest expense 	(150,818) 	(146,345) 	(122,541)
+RowIncome before provision for income taxes 	482,637 	428,678 	400,153
+RowProvision for income taxes 	81,928 	66,706 	122,248
+RowNet income 	$ 400,709 	$ 361,972 	$ 277,905
+RowEarnings per share:
+:
+			RowCommon Stock – basic 	$ 9.83 	$ 8.65 	$ 6.05
+RowCommon Stock – diluted 	$ 9.56 	$ 8.35 	$ 5.83
+Row	December 29,
+2019
+,
+	December 30,
+2018
+	December 31,
+2017
+Row$ 	400,709 	$ 361,972 	$ 277,905
+Row$ 	687 401,396 	(2,048) $ 359,924 	1,080
+$ 278,985
+RowNet income 	$ RowCurrency translation adjustment 	RowComprehensive income 	$ Row	Shares 	Amount
+	Additional
+Paid-in
+Capital
+	Retained
+Deficit
+Income 	Other
+Comprehensive
+(Loss) )
+RowBalance at January 1, 2017 	48,100,143 	$ 481 	$ 1,006 	$(1,881,520) $ 	(3,110)
+RowNet income 	— 	— 	— 	277,905 	—
+RowDividends declared on common stock and equivalents ($1.84) 	— 	— 	— 	(84,215) 	—
+RowIssuance and cancellation of stock awards, net 	65,669 	1 	— 	— 	—
+RowTax payments for restricted stock upon vesting 	(49,159) 	(1) 	(9,448) 	— 	—
+RowPurchases of common stock 	(5,576,249) 	(56) 	(12,590) 	(1,051,607) 	—
+RowExercises of stock options 	357,925 	4 	6,095 	— 	—
+RowNon-cash compensation expense 	— 	— 	20,713 	— 	—
+RowOther 	— 	— 	(122) 	— 	—
+RowBalance at December 31, , 2017 	42,898,329 	429 	5,654 	(2,739,437) 	(2,030)
+RowNet income 	— 	— 	— 	361,972 	—
+RowDividends declared on common stock and equivalents ($2.20) 	— 	— 	— 	(92,211) 	—
+RowIssuance and cancellation of stock awards, net 	79,868 	1 	— 	— 	—
+RowTax payments for restricted stock upon vesting 	(27,308) 	— 	(6,962) 	— 	—
+RowPurchases of common stock 	(2,387,430) 	(24) 	(30,743) 	(560,445) 	—
+RowExercises of stock options 	414,102 	4 	9,828 	— 	—
+RowNon-cash compensation expense 	— 	— 	22,792 	— 	—
+RowAdoption of ASC 606 (Note 1) 	— 	— 	— 	(6,701) 	—
+RowCurrency translation adjustment 	— 	— 	— 	— 	(2,048)
+RowReclassification adjustment for stranded taxes (Note 1) 	— 	— 	— 	351 	(351)
+RowBalance at December 30, 2018 	40,977,561 	410 	569 	(3,036,471) 	(4,429)
+RowNet income 	— 	— 	— 	400,709 	—
+RowDividends declared on common stock and equivalents ($2.60) 	— 	— 	— 	(105,605) 	—
+RowIssuance and cancellation of stock awards, net 	46,913 	— 	— 	— 	—
+RowTax payments for restricted stock upon vesting 	(22,506) 	— 	(5,951) 	— 	—
+RowPurchases of common stock 	(2,493,560) 	(25) 	(27,700) 	(671,282) )
+	—
+RowExercises of stock options 	425,601 	4 	13,060 	— 	—
+RowNon-cash compensation expense 	— 	— 	20,265 	— 	—
+RowCurrency translation adjustment 	— 	— 	— 	— 	687
+RowBalance at December 29, , 2019 	38,934,009 	$ 389 	$ 243 	$(3,412,649) 	$ (3,742)
+Row	December 29,
+2019
+, 	December 30,
+2018
+	December 31,
+2017
+RowCash flows from operating activities:
+:
+			RowNet income 	$ 400,709 	$ 361,972 	$ 277,905
+RowAdjustments to reconcile net income to net cash provided by operating activities:
+:
+			RowDepreciation and amortization 	59,930 	53,665 	44,369
+RowLoss (gain) on sale/disposal of assets 	2,023 	(4,737) 	(3,148)
+RowAmortization of debt issuance costs 	4,748 	8,033 	10,976
+Row(Benefit) provision for deferred income taxes 	(3,297) 	(872) 	6,160
+RowNon-cash compensation expense 	20,265 	22,792 	20,713
+RowExcess tax benefits from equity-based compensation 	(25,735) 	(23,786) 	(27,227)
+RowProvision (benefit) for losses and accounts and notes receivable 	1,195 	899 	(277)
+RowChanges in operating assets and liabilities:
+:
+			RowChanges in accounts receivable 	(20,900) 	(18,172) 	(22,649)
+RowChanges in inventories, prepaid expenses and other 	(6,741) 	(12,455) 	1,527
+RowChanges in accounts payable and accrued liabilities 	66,137 	10,010 	22,267
+RowChanges in insurance reserves 	5,322 	2,174 	8,420
+RowChanges in operating lease assets and liabilities 	3,302 	— 	—
+RowChanges in advertising fund assets and liabilities, restricted , 	(10,008) 	(5,352) 	2,225
+RowNet cash provided by operating activities 	496,950 	394,171 	341,261
+RowCash flows from investing activities:
+			RowCapital expenditures 	(85,565) 	(119,888) 	(90,011)
+RowProceeds from sale of assets 	12,258 	8,367 	6,835
+RowMaturities of advertising fund investments, restricted 	50,152 	94,007 	—
+RowPurchases of advertising fund investments, restricted 	— 	(70,152) 	—
+RowPurchases of franchise operations and other assets 	(3,423) 	— 	—
+RowOther 	(1,276) 	(591) 	(562)
+RowNet cash used in investing activities 	(27,854) 	(88,257) 	(83,738)
+RowCash flows from financing activities:
+:
+			RowProceeds from issuance of long-term debt 	675,000 	970,000 	1,900,000
+RowRepayments of long-term debt and finance lease obligations 	(92,085) 	(604,088) 	(928,193)
+RowProceeds from exercise of stock options 	13,064 	9,832 	6,099
+RowPurchases of common stock 	(699,007) 	(591,212) 	(1,064,253)
+RowTax payments for restricted stock upon vesting 	(5,951) 	(6,962) 	(9,449)
+RowPayments of common stock dividends and equivalents 	(105,715) 	(92,166) 	(84,298)
+RowCash paid for financing costs 	(8,098) 	(8,207) 	(16,846)
+RowOther 	— 	— 	(205)
+RowNet cash used in financing activities 	(222,792) 	(322,803) 	(197,145)
+RowEffect of exchange rate changes on cash 	201 	(538) 	66
+RowChange in cash and cash equivalents, restricted cash and cash equivalents 	$ 246,505 	$ (17,427) $ 	60,444
+RowCash and cash equivalents, , beginning of period 	25,438 	35,768 	42,815
+RowRestricted cash and cash equivalents, , beginning of period 	166,993 	191,762 	126,496
+RowCash and cash equivalents included in advertising fund assets, restricted, , beginning of period Cash and cash equivalents, restricted cash and cash equivalents and cash and cash equivalents included in
+, 	44,988 	27,316 	25,091
+Rowadvertising fund assets, restricted, beginning of period 	$ 237,419 	$ 254,846 $ 	194,402
+RowCash and cash equivalents, end of period , 	190,615 	25,438 	35,768
+RowRestricted cash and cash equivalents, , end of period 	209,269 	166,993 	191,762
+RowCash and cash equivalents included in advertising fund assets, , restricted, end of period Cash and cash equivalents, , restricted cash and cash equivalents and cash and cash equivalents included in
+	84,040 	44,988 	27,316
+Rowadvertising fund assets, restricted, end of period 	$ 483,924 	$ 237,419 $ 	254,846
+Row201 	(538) 	66
+Row$ 246,505 	$ (17,427) 	$ 60,444
+Row25,438 	35,768 	42,815
+Row166,993 	191,762 	126,496
+Row44,988 	27,316 	25,091
+Row$ 237,419 	$ 254,846 	$ 194,402
+Row190,615 	25,438 	35,768
+Row209,269 	166,993 	191,762
+Row84,040 	44,988 	27,316
+Row$ 483,924 	$ 237,419 	$ 254,846
+RowFood 	$49,304 	$42,921
+RowEquipment and supplies 	3,651 	3,054
+RowInventories 	$52,955 	$45,975
+Row:	2019
+	2018
+Row:Assets
+		Row:Current assets:
+:
+		Row:Cash and cash equivalents 	$ 190,615 $ 	25,438
+Row:Restricted cash and cash equivalents 	209,269 	166,993
+Row:Accounts receivable, net of reserves of $2,856 in 2019 and $1,879 in 2018 	210,260 	190,091
+Row:Inventories 	52,955 	45,975
+Row:Prepaid expenses and other 	19,129 	25,710
+Row:Advertising fund assets, , restricted 	105,389 	112,744
+Row:Total current assets 	787,617 	566,951
+Row:Property, , plant and equipment:
+:
+		Row:Land and buildings 	44,845 	41,147
+Row:Leasehold and other improvements 	164,071 	170,498
+Row:Equipment 	243,708 	243,654
+Row:Construction in progress 	42,705 	31,822
+Row:Accumulated depreciation and amortization 	495,329 (252,448) 	487,121
+(252,182)
+Row:Property, plant and equipment, net 	242,881 	234,939
+Row:Other assets:
+		Row:Operating lease right-of-use assets 	228,785 	—
+Row:Investments in marketable securities, restricted 	11,982 	8,718
+Row:Goodwill 	15,093 	14,919
+Row:Capitalized software, , net of accumulated amortization of $104,237 in 2019 and $89,161 in 2018 Other assets, net of accumulated amortization of $56 in 2019 and $776 in 2018 	73,140 12,521 	63,809
+12,523
+Row:Deferred income taxes 	10,073 	5,526
+Row:Total other assets 	351,594 	105,495
+Row:Total assets 	$ 1,382,092 $ 	907,385
+Row:Liabilities and stockholders’ deficit
+		Row:Current liabilities:
+		Row:Current portion of long-term debt 	$ 43,394 $ 	35,893
+Row:Accounts payable 	111,101 	92,546
+Row:Accrued compensation 	46,214 	40,962
+Row:Accrued interest 	27,881 	25,981
+Row:Operating lease liabilities 	33,318 	—
+Row:Insurance reserves 	23,735 	22,210
+Row:Advertising fund liabilities 	101,921 	107,150
+Row:Other accrued liabilities 	66,267 	55,001
+Row:Total current liabilities 	453,831 	379,743
+Row:Long-term liabilities:
+		Row:Long-term debt, , less current portion 	4,071,055 	3,495,691
+Row:Operating lease liabilities 	202,731 	—
+Row:Insurance reserves 	34,675 	31,065
+Row:Other accrued liabilities 	35,559 	40,807
+Row:Total long-term liabilities 	4,344,020 	3,567,563
+Row:Total liabilities 	4,797,851 	3,947,306
+Row:Commitments and contingencies
+		Row:Stockholders’ deficit
+Common stock, par value $0.01 per share; 170,000,000 shares authorized; 38,934,009 in 2019 and 40,977,561 in 2018
+issued and outstanding ; 	389 	410
+Row:Preferred stock, par value $0.01 per share; 5,000,000 shares authorized, , none issued 	— 	—
+Row:Additional paid-in capital 	243 	569
+Row:Retained deficit 	(3,412,649) 	(3,036,471)
+Row:Accumulated other comprehensive loss 	(3,742
+)
+	(4,429
+)
+Row:Total stockholders’ deficit 	(3,415,759) 	(3,039,921)
+Row:Total liabilities and stockholders’ deficit 	$ 1,382,092 $ 	907,385
+Row:December 29,
+	December 30,
+	December 31,
+Row:2019
+	2018
+	2017
+Row:$ 453,560 	$ 514,804 	$ 490,846
+Row:428,504 	391,493 	351,387
+Row:2,104,936 	1,943,297 	1,739,038
+Row:240,975 	224,747 	206,708
+Row:390,799 	358,526 	—
+Row:3,618,774 	3,432,867 	2,787,979
+Row:346,168 	398,158 	377,674
+Row:1,870,107 	1,732,030 	1,544,314
+Row:2,216,275 	2,130,188 	1,921,988
+Row:1,402,499 	1,302,679 	865,991
+Row:382,293 	372,464 	344,759
+Row:390,799 	358,526 	—
+Row:629,407 	571,689 	521,232
+Row:4,048 	3,334 	1,462
+Row:(150,818) 	(146,345) 	(122,541)
+Row:482,637 	428,678 	400,153
+Row:81,928 	66,706 	122,248
+Row:$ 400,709 	$ 361,972 	$ 277,905
+Row:	December 29,
+2019
+	December 30,
+2018
+	December 31,
+2017
+Row:Revenues:
+:
+			Row:U.S. Company-owned stores 	$ 453,560 	$ 514,804 	$ 490,846
+Row:U.S. franchise royalties and fees 	428,504 	391,493 	351,387
+Row:Supply chain 	2,104,936 	1,943,297 	1,739,038
+Row:International franchise royalties and fees 	240,975 	224,747 	206,708
+Row:U.S. franchise advertising 	390,799 	358,526 	—
+Row:Total revenues 	3,618,774 	3,432,867 	2,787,979
+Row:Cost of sales:
+			Row:U.S. Company-owned stores 	346,168 	398,158 	377,674
+Row:Supply chain 	1,870,107 	1,732,030 	1,544,314
+Row:Total cost of sales 	2,216,275 	2,130,188 	1,921,988
+Row:Operating margin 	1,402,499 	1,302,679 	865,991
+Row:General and administrative 	382,293 	372,464 	344,759
+Row:U.S. franchise advertising 	390,799 	358,526 	—
+Row:Income from operations 	629,407 	571,689 	521,232
+Row:Interest income 	4,048 	3,334 	1,462
+Row:Interest expense 	(150,818) 	(146,345) 	(122,541)
+Row:Income before provision for income taxes 	482,637 	428,678 	400,153
+Row:Provision for income taxes 	81,928 	66,706 	122,248
+Row:Net income 	$ 400,709 	$ 361,972 	$ 277,905
+Row:Earnings per share:
+:
+			Row:Common Stock – basic 	$ 9.83 	$ 8.65 	$ 6.05
+Row:Common Stock – diluted 	$ 9.56 	$ 8.35 	$ 5.83
+Row:	December 29,
+2019
+,
+	December 30,
+2018
+	December 31,
+2017
+Row:$ 	400,709 	$ 361,972 	$ 277,905
+Row:$ 	687 401,396 	(2,048) $ 359,924 	1,080
+$ 278,985
+Row:Net income 	$ Row:Currency translation adjustment 	Row:Comprehensive income 	$ Row:	Shares 	Amount
+	Additional
+Paid-in
+Capital
+	Retained
+Deficit
+Income 	Other
+Comprehensive
+(Loss) )
+Row:Balance at January 1, 2017 	48,100,143 	$ 481 	$ 1,006 	$(1,881,520) $ 	(3,110)
+Row:Net income 	— 	— 	— 	277,905 	—
+Row:Dividends declared on common stock and equivalents ($1.84) 	— 	— 	— 	(84,215) 	—
+Row:Issuance and cancellation of stock awards, net 	65,669 	1 	— 	— 	—
+Row:Tax payments for restricted stock upon vesting 	(49,159) 	(1) 	(9,448) 	— 	—
+Row:Purchases of common stock 	(5,576,249) 	(56) 	(12,590) 	(1,051,607) 	—
+Row:Exercises of stock options 	357,925 	4 	6,095 	— 	—
+Row:Non-cash compensation expense 	— 	— 	20,713 	— 	—
+Row:Other 	— 	— 	(122) 	— 	—
+Row:Balance at December 31, , 2017 	42,898,329 	429 	5,654 	(2,739,437) 	(2,030)
+Row:Net income 	— 	— 	— 	361,972 	—
+Row:Dividends declared on common stock and equivalents ($2.20) 	— 	— 	— 	(92,211) 	—
+Row:Issuance and cancellation of stock awards, net 	79,868 	1 	— 	— 	—
+Row:Tax payments for restricted stock upon vesting 	(27,308) 	— 	(6,962) 	— 	—
+Row:Purchases of common stock 	(2,387,430) 	(24) 	(30,743) 	(560,445) 	—
+Row:Exercises of stock options 	414,102 	4 	9,828 	— 	—
+Row:Non-cash compensation expense 	— 	— 	22,792 	— 	—
+Row:Adoption of ASC 606 (Note 1) 	— 	— 	— 	(6,701) 	—
+Row:Currency translation adjustment 	— 	— 	— 	— 	(2,048)
+Row:Reclassification adjustment for stranded taxes (Note 1) 	— 	— 	— 	351 	(351)
+Row:Balance at December 30, 2018 	40,977,561 	410 	569 	(3,036,471) 	(4,429)
+Row:Net income 	— 	— 	— 	400,709 	—
+Row:Dividends declared on common stock and equivalents ($2.60) 	— 	— 	— 	(105,605) 	—
+Row:Issuance and cancellation of stock awards, net 	46,913 	— 	— 	— 	—
+Row:Tax payments for restricted stock upon vesting 	(22,506) 	— 	(5,951) 	— 	—
+Row:Purchases of common stock 	(2,493,560) 	(25) 	(27,700) 	(671,282) )
+	—
+Row:Exercises of stock options 	425,601 	4 	13,060 	— 	—
+Row:Non-cash compensation expense 	— 	— 	20,265 	— 	—
+Row:Currency translation adjustment 	— 	— 	— 	— 	687
+Row:Balance at December 29, , 2019 	38,934,009 	$ 389 	$ 243 	$(3,412,649) 	$ (3,742)
+Row:	December 29,
+2019
+, 	December 30,
+2018
+	December 31,
+2017
+Row:Cash flows from operating activities:
+:
+			Row:Net income 	$ 400,709 	$ 361,972 	$ 277,905
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+:
+			Row:Depreciation and amortization 	59,930 	53,665 	44,369
+Row:Loss (gain) on sale/disposal of assets 	2,023 	(4,737) 	(3,148)
+Row:Amortization of debt issuance costs 	4,748 	8,033 	10,976
+Row:(Benefit) provision for deferred income taxes 	(3,297) 	(872) 	6,160
+Row:Non-cash compensation expense 	20,265 	22,792 	20,713
+Row:Excess tax benefits from equity-based compensation 	(25,735) 	(23,786) 	(27,227)
+Row:Provision (benefit) for losses and accounts and notes receivable 	1,195 	899 	(277)
+Row:Changes in operating assets and liabilities:
+:
+			Row:Changes in accounts receivable 	(20,900) 	(18,172) 	(22,649)
+Row:Changes in inventories, prepaid expenses and other 	(6,741) 	(12,455) 	1,527
+Row:Changes in accounts payable and accrued liabilities 	66,137 	10,010 	22,267
+Row:Changes in insurance reserves 	5,322 	2,174 	8,420
+Row:Changes in operating lease assets and liabilities 	3,302 	— 	—
+Row:Changes in advertising fund assets and liabilities, restricted , 	(10,008) 	(5,352) 	2,225
+Row:Net cash provided by operating activities 	496,950 	394,171 	341,261
+Row:Cash flows from investing activities:
+			Row:Capital expenditures 	(85,565) 	(119,888) 	(90,011)
+Row:Proceeds from sale of assets 	12,258 	8,367 	6,835
+Row:Maturities of advertising fund investments, restricted 	50,152 	94,007 	—
+Row:Purchases of advertising fund investments, restricted 	— 	(70,152) 	—
+Row:Purchases of franchise operations and other assets 	(3,423) 	— 	—
+Row:Other 	(1,276) 	(591) 	(562)
+Row:Net cash used in investing activities 	(27,854) 	(88,257) 	(83,738)
+Row:Cash flows from financing activities:
+:
+			Row:Proceeds from issuance of long-term debt 	675,000 	970,000 	1,900,000
+Row:Repayments of long-term debt and finance lease obligations 	(92,085) 	(604,088) 	(928,193)
+Row:Proceeds from exercise of stock options 	13,064 	9,832 	6,099
+Row:Purchases of common stock 	(699,007) 	(591,212) 	(1,064,253)
+Row:Tax payments for restricted stock upon vesting 	(5,951) 	(6,962) 	(9,449)
+Row:Payments of common stock dividends and equivalents 	(105,715) 	(92,166) 	(84,298)
+Row:Cash paid for financing costs 	(8,098) 	(8,207) 	(16,846)
+Row:Other 	— 	— 	(205)
+Row:Net cash used in financing activities 	(222,792) 	(322,803) 	(197,145)
+Row:Effect of exchange rate changes on cash 	201 	(538) 	66
+Row:Change in cash and cash equivalents, restricted cash and cash equivalents 	$ 246,505 	$ (17,427) $ 	60,444
+Row:Cash and cash equivalents, , beginning of period 	25,438 	35,768 	42,815
+Row:Restricted cash and cash equivalents, , beginning of period 	166,993 	191,762 	126,496
+Row:Cash and cash equivalents included in advertising fund assets, restricted, , beginning of period Cash and cash equivalents, restricted cash and cash equivalents and cash and cash equivalents included in
+, 	44,988 	27,316 	25,091
+Row:advertising fund assets, restricted, beginning of period 	$ 237,419 	$ 254,846 $ 	194,402
+Row:Cash and cash equivalents, end of period , 	190,615 	25,438 	35,768
+Row:Restricted cash and cash equivalents, , end of period 	209,269 	166,993 	191,762
+Row:Cash and cash equivalents included in advertising fund assets, , restricted, end of period Cash and cash equivalents, , restricted cash and cash equivalents and cash and cash equivalents included in
+	84,040 	44,988 	27,316
+Row:advertising fund assets, restricted, end of period 	$ 483,924 	$ 237,419 $ 	254,846
+Row:201 	(538) 	66
+Row:$ 246,505 	$ (17,427) 	$ 60,444
+Row:25,438 	35,768 	42,815
+Row:166,993 	191,762 	126,496
+Row:44,988 	27,316 	25,091
+Row:$ 237,419 	$ 254,846 	$ 194,402
+Row:190,615 	25,438 	35,768
+Row:209,269 	166,993 	191,762
+Row:84,040 	44,988 	27,316
+Row:$ 483,924 	$ 237,419 	$ 254,846
+Row:Food 	$49,304 	$42,921
+Row:Equipment and supplies 	3,651 	3,054
+Row:Inventories 	$52,955 	$45,975

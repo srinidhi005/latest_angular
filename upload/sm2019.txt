@@ -1,0 +1,122 @@
+Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents $ 	9,049 	$ 10,400
+Row:Inventories 	255,884 	270,237
+Row:Prepaid expenses and other current assets 	28,326 	26,620
+Row:Total current assets 	293,259 	307,257
+Row:Property and equipment, net 	123,838 	151,128
+Row:Other assets 	24,108 	24,973
+Row:Total assets $ 	441,205 	$ 483,358
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable $ 	89,646 	$ 119,388
+Row:Current portion of debt 	- 	13,738
+Row:Accrued expenses and other current liabilities 	77,650 	78,453
+Row:Total current liabilities 	167,296 	211,579
+Row:Long-term debt, net of current portion 	153,253 	142,387
+Row:Deferred rent 	39,708 	40,860
+Row:Other liabilities 	33,897 	40,214
+Row:Total liabilities 	394,154 	435,040
+Row:COMMITMENTS AND CONTINGENCIES (Notes 5 and 9)
+		Row:Shareholders’ equity:
+Preferred stock - $.01 par value; 1,000,000 shares authorized; no shares issued or outstanding 	- 	-
+Row:Common stock - $.01 par value; 100,000,000 shares authorized; 47,874,286 and 47,978,275
+		Row:shares issued and outstanding, at February 2, 2019 and February 3, 2018, respectively 	479 	480
+Row:Additional paid-in capital 	60,172 	56,002
+Row:Retained deficit 	(13,853) 	(7,918)
+Row:Accumulated other comprehensive income (loss) 	253 	(246)
+Row:Total shareholders’ equity 	47,051 	48,318
+Row:shares issued and outstanding, at February 2, 2019 and February 3, 2018, respectively 	479 	480
+Row:Additional paid-in capital 	60,172 	56,002
+Row:Retained deficit 	(13,853) 	(7,918)
+Row:Accumulated other comprehensive income (loss) 	253 	(246)
+Row:Total shareholders’ equity 	47,051 	48,318
+Row:Total liabilities and shareholders’ equity $ 	441,205 	$ 483,358
+Row:	Year Ended
+	Year Ended
+Row:Net sales 	February 2, 2019
+$ 1,257,598 	February 3, 2018
+$ 1,318,633
+Row:Other revenue 	15,134 	13,936
+Row:Total revenue 	1,272,732 	1,332,569
+Row:Cost of merchandise sold 	919,812 	987,692
+Row:Selling, general and administrative expenses 	348,061 	376,111
+Row:Operating income (loss) 	4,859 	(31,234)
+Row:Interest expense, net 	10,882 	4,788
+Row:Loss before income taxes 	(6,023) 	(36,022)
+Row:Income tax benefit 	(25) 	(11,698)
+Row:Net loss 	$ (5,998) 	$ (24,324)
+Row:Net loss per share:
+		Row:Basic 	$ (0.13) 	$ (0.52)
+Row:Diluted 	$ (0.13) 	$ (0.52)
+Row:Weighted-average shares outstanding:
+		Row:Basic 	46,706 	46,342
+Row:Diluted 	46,706 	46,342
+Row:Basic 	46,706 	46,342
+Row:Diluted 	46,706 	46,342
+Row:Net loss 	$ (5,998) 	$ (24,324)
+Row:Other comprehensive income, net of tax:
+		Row:Change in post-retirement benefit obligations (See Note 7):
+		Row:Other comprehensive income before reclassifications 	481 	23
+Row:Amounts reclassified from accumulated other comprehensive income (loss) 	18 	35
+Row:Comprehensive loss 	$ (5,499) 	$ (24,266)
+Row:Balance on January 28, 2017 	47,019 $ 470 $ 50,241 $ 19,884 $ (304) $ 70,291
+Row:Net loss 	(24,324) (24,324)
+Row:Other comprehensive income, net of tax 	58 58
+Row:Common shares issued under employee
+	Row:stock purchase plan 	228 2 326 328
+Row:Reacquired shares 	(81) (248) (248)
+Row:Issuance of restricted stock, net 	812 8 (8) -
+Row:Share-based compensation 	5,691 5,691
+Row:Cash dividends paid ($0.075 per share) 	(3,639) (3,639)
+Row:Cash dividends payable 	161 161
+Row:Balance on February 3, 2018 	47,978 480 56,002 (7,918) (246) 48,318
+Row:Net loss 	(5,998) (5,998)
+Row:Other comprehensive income, net of tax 	499 499
+Row:Common shares issued under employee
+	Row:stock purchase plan 	215 2 200 202
+Row:Reacquired shares 	(122) (1) (141) (142)
+Row:Issuance of restricted stock, net 	(197) (2) 2 -
+Row:Share-based compensation 	4,109 4,109
+Row:Cash dividends paid 	(223) (223)
+Row:Cash dividends payable 	286 286
+Row:Balance on February 2, 2019 	47,874 $ 479 $ 60,172 $ (13,853) $ 253 $ 47,051
+Row:Cash flows from operating activities:
+Net loss $ 	(5,998) $ (24,324)
+Row:Adjustments to reconcile net loss to net cash provided by operating activities:
+	Row:Depreciation and amortization Share-based compensation 	32,447 32,333
+4,109 5,691
+Row:Store closing charges 	215 168
+Row:Impairment of property and other assets 	2,803 3,792
+Row:Loss on disposal of property and equipment 	681 329
+Row:Deferred income taxes 	- (3,222)
+Row:Changes in assets and liabilities:
+	Row:Inventories 	14,353 20,873
+Row:Prepaid expenses and other current assets 	(1,706) 6,438
+Row:Other assets 	(1,350) 2,254
+Row:Accounts payable 	(29,823) 5,096
+Row:Accrued expenses and other current liabilities Other liabilities 	(635) 3,021
+(6,194) (4,737)
+Row:Net cash provided by operating activities 	8,902 47,712
+Row:Cash flows from investing activities:
+	Row:Net acquisition of property and equipment 	(8,993) (21,244)
+Row:Proceeds from canceled corporate-owned life insurance policies 	2,514 2,716
+Row:Proceeds from insurance claims 	296 44
+Row:Net cash used in investing activities 	(6,183) (18,484)
+Row:Cash flows from financing activities:
+	Row:Proceeds from borrowings 	1,107,183 474,529
+Row:Repayments of debt 	(1,109,208) (500,238)
+Row:Debt issuance costs 	(1,146) -
+Row:Cash dividends paid 	(223) (3,639)
+Row:Capital lease payments 	(736) (164)
+Row:Proceeds from exercise of stock options and other 	202 328
+Row:Repurchase of common stock 	(142) (248)
+Row:Net cash used in financing activities 	(4,070) (29,432)
+Row:Net decrease in cash and cash equivalents 	(1,351) (204)
+Row:Cash and cash equivalents at beginning of year 	10,400 10,604
+Row:Cash and cash equivalents at end of year $ 	9,049 $ 10,400
+Row:Supplemental disclosures of cash flow information:
+	Row:Income taxes received $ Interest paid 	(443) $ (19,422)
+10,312 4,578
+Row:Accruals and accounts payable for capital expenditures Property and equipment acquired through capital lease 	242 629
+35 1,996

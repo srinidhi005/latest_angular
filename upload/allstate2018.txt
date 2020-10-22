@@ -1,0 +1,185 @@
+Row:Revenues
+			Row:Property and casualty insurance premiums (net of reinsurance ceded and
+indemnification programs of $1,016, $971 and $987) 	$ 34,048 	$ 32,300 	$ 31,307
+Row:Life premiums and contract charges (net of reinsurance ceded of $290,
+$303 and $309) 	2,465 	2,378 	2,275
+Row:Other revenue 	939 	883 	865
+Row:Net investment income 	3,240 	3,401 	3,042
+Row:Realized capital gains and losses:
+			Row:Total other-than-temporary impairment (“OTTI”) losses 	(13) 	(146) 	(313)
+Row:OTTI losses reclassified (from) to other comprehensive income ("OCI") 	(1) 	(4) 	10
+Row:Net OTTI losses recognized in earnings 	(14) 	(150) 	(303)
+Row:Sales and valuation changes on equity investments and derivatives 	(863) 	595 	213
+Row:Total realized capital gains and losses 	(877) 	445 	(90)
+Row:Total revenues 	39,815 	39,407 	37,399
+Row:Costs and expenses
+			Row:Property and casualty insurance claims and claims expense
+(net of reinsurance ceded and indemnification programs of $1,378,
+$1,807 and $1,116) 	22,839 	21,929 	22,221
+Row:Life contract benefits (net of reinsurance ceded of $240, $179 and $208) 	1,973 	1,923 	1,857
+Row:Interest credited to contractholder funds (net of reinsurance ceded of $24,
+			Row:Sales and valuation changes on equity investments and derivatives 	(863) 	595 	213
+Row:Total realized capital gains and losses 	(877) 	445 	(90)
+Row:Total revenues 	39,815 	39,407 	37,399
+Row:Costs and expenses
+			Row:Property and casualty insurance claims and claims expense
+(net of reinsurance ceded and indemnification programs of $1,378,
+$1,807 and $1,116) 	22,839 	21,929 	22,221
+Row:Life contract benefits (net of reinsurance ceded of $240, $179 and $208) 	1,973 	1,923 	1,857
+Row:Interest credited to contractholder funds (net of reinsurance ceded of $24,
+$25 and $26) 	654 	690 	726
+Row:Amortization of deferred policy acquisition costs 	5,222 	4,784 	4,550
+Row:Operating costs and expenses 	5,869 	5,442 	4,939
+Row:Amortization of purchased intangible assets 	105 	99 	32
+Row:Restructuring and related charges 	83 	109 	30
+Row:Goodwill impairment 	— 	125
+	—
+Row:Interest expense 	332 	335 	295
+Row:Total costs and expenses 	37,077 	35,436 	34,650
+Row:Gain on disposition of operations 	6 	20 	5
+Row:Income from operations before income tax expense 	2,744 	3,991 	2,754
+Row:Income tax expense 	492 	802 	877
+Row:Net income 	2,252 	3,189 	1,877
+Row:Preferred stock dividends 	148 	116 	116
+Row:Net income applicable to common shareholders 	$ 2,104 	$ 3,073 	$ 1,761
+Row:Earnings per common share:
+			Row:Net income applicable to common shareholders per common share - Basic 	$ 6.05 	$ 8.49 	$ 4.72
+Row:Weighted average common shares - Basic 	347.8 	362.0 	372.8
+Row:Net income applicable to common shareholders per common share - Diluted 	$ 5.96 	$ 8.36 	$ 4.67
+Row:Weighted average common shares - Diluted 	353.2 	367.8 	377.3
+Row:($ in millions, except par value data) 	2018 	2017
+Row:Assets
+		Row:Investments
+		Row:Fixed income securities, at fair value (amortized cost $57,134 and $57,525) 	$ 57,170 	$ 58,992
+Row:Equity securities, at fair value (cost $4,489 and $5,461) 	5,036 	6,621
+Row:Mortgage loans 	4,670 	4,534
+Row:Limited partnership interests 	7,505 	6,740
+Row:Short-term, at fair value (amortized cost $3,027 and $1,944) 	3,027 	1,944
+Row:Other 	3,852 	3,972
+Row:Total investments 	81,260 	82,803
+Row:Cash 	499 	617
+Row:Premium installment receivables, net 	6,154 	5,786
+Row:Deferred policy acquisition costs 	4,784 	4,191
+Row:Reinsurance and indemnification recoverables, net 	9,565 	8,921
+Row:Accrued investment income 	600 	569
+Row:Property and equipment, net 	1,045 	1,072
+Row:Goodwill 	2,530 	2,181
+Row:Other assets 	3,007 	2,838
+Row:Separate Accounts 	2,805 	3,444
+Row:Total assets 	$ 112,249 	$ 112,422
+Row:Liabilities
+		Row:Reserve for property and casualty insurance claims and claims expense 	$ 27,423 $ 	$ 26,325
+Row:Reserve for life-contingent contract benefits 	12,208 	12,549
+Row:Contractholder funds 	18,371 	19,434
+Row:Unearned premiums 	14,510 	13,473
+Row:Claim payments outstanding 	1,007 	875
+Row:Deferred income taxes 	425 	782
+Row:Other liabilities and accrued expenses 	7,737 	6,639
+Row:Long-term debt 	6,451 	6,350
+Row:Separate Accounts 	2,805 	3,444
+Row:Total liabilities 	90,937 	89,871
+Row:Commitments and Contingent Liabilities (Note 7, 8 and 14)
+		Row:Shareholders’ equity
+		Row:Commitments and Contingent Liabilities (Note 7, 8 and 14)
+		Row:Shareholders’ equity
+		Row:Preferred stock and additional capital paid-in, $1 par value, 25 million shares authorized, 79.8
+thousand and 72.2 thousand issued and outstanding, $1,995 and $1,805 aggregate liquidation
+preference 	1,930 	1,746
+Row:Common stock, $.01 par value, 2.0 billion shares authorized and 900 million issued, 332 million and
+355 million shares outstanding
+	9 	9
+Row:Additional capital paid-in 	3,310 	3,313
+Row:Retained income 	45,708 	43,162
+Row:Deferred Employee Stock Ownership Plan ( ESOP ) expense “ ”
+	(3) 	(3)
+Row:Treasury stock, at cost (568 million and 545 million shares) 	(28,085) 	(25,982)
+Row:Accumulated other comprehensive income:
+		Row:Unrealized net capital gains and losses:
+		Row:Unrealized net capital gains and losses on fixed income securities with OTTI 	75 	85
+Row:Other unrealized net capital gains and losses 	(51) 	1,981
+Row:Unrealized adjustment to DAC, DSI and insurance reserves 	(26) 	(404)
+Row:Total unrealized net capital gains and losses 	(2) 	1,662
+Row:Unrealized foreign currency translation adjustments 	(64) 	(9)
+Row:Unrecognized pension and other postretirement benefit cost 	(1,491) 	(1,347)
+Row:Total accumulated other comprehensive (loss) income ("AOCI") 	(1,557) 	306
+Row:Total shareholders’ equity 	21,312 	22,551
+Row:Total liabilities and shareholders’ equity $ 	112,249 	$ 112,422
+Row:($ in millions) 	2018 	2017 	2016
+Row:Cash flows from operating activities
+			Row:Net income $ 	2,252 	$ 3,189 	$ 1,877
+Row:Adjustments to reconcile net income to net cash provided by operating
+activities:
+			Row:Depreciation, amortization and other non-cash items 	511 	483 	382
+Row:Realized capital gains and losses 	877 	(445) 	90
+Row:Gain on disposition of operations 	(6) 	(20) 	(5)
+Row:Interest credited to contractholder funds 	654 	690 	726
+Row:Goodwill impairment 	— 	125
+	—
+Row:Changes in:
+			Row:Policy benefits and other insurance reserves 	469 	302 	631
+Row:Unearned premiums 	915 	463 	362
+Row:Deferred policy acquisition costs 	(296) 	(214) 	(165)
+Row:Premium installment receivables, net 	(396) 	(131) 	(42)
+Row:Reinsurance recoverables, net 	(656) 	(211) 	(264)
+Row:Income taxes 	(356) 	(245) 	417
+Row:Other operating assets and liabilities 	1,207 	328 	(16)
+Row:Net cash provided by operating activities 	5,175 	4,314 	3,993
+Row:Cash flows from investing activities
+			Row:Proceeds from sales
+			Row:Fixed income securities 	33,183 	25,341 	25,061
+Row:Equity securities 	6,859 	6,504 	5,546
+Row:Limited partnership interests 	764 	1,125 	881
+Row:Other investments 	533 	274 	262
+Row:Investment collections
+			Row:Fixed income securities 	3,466 	4,194 	4,533
+Row:Mortgage loans 	529 	600 	501
+Row:Other investments 	488 	642 	421
+Row:Premium installment receivables, net 	(396) 	(131) 	(42)
+Row:Reinsurance recoverables, net 	(656) 	(211) 	(264)
+Row:Income taxes Other operating assets and liabilities 	(356) 1,207 	(245) 328 	417
+(16)
+Row:Net cash provided by operating activities 	5,175 	4,314 	3,993
+Row:Cash flows from investing activities
+			Row:Proceeds from sales
+			Row:Fixed income securities 	33,183 	25,341 	25,061
+Row:Equity securities 	6,859 	6,504 	5,546
+Row:Limited partnership interests 	764 	1,125 	881
+Row:Other investments 	533 	274 	262
+Row:Investment collections
+			Row:Fixed income securities 	3,466 	4,194 	4,533
+Row:Mortgage loans 	529 	600 	501
+Row:Other investments 	488 	642 	421
+Row:Investment purchases
+			Row:Fixed income securities 	(36,960) 	(31,145) 	(27,990)
+Row:Equity securities 	(5,936) 	(6,585) 	(5,950)
+Row:Limited partnership interests 	(1,679) 	(1,440) 	(1,450)
+Row:Mortgage loans 	(664) 	(646) 	(646)
+Row:Other investments 	(864) 	(999) 	(885)
+Row:Change in short-term investments, net 	(505) 	2,610 	(2,446)
+Row:Change in other investments, net 	(98) 	(30) 	(51)
+Row:Purchases of property and equipment, net 	(277) 	(299) 	(313)
+Row:Acquisition of operations 	(558) 	(1,356)
+	—
+Row:Net cash used in investing activities 	(1,719) 	(1,210) 	(2,526)
+Row:Cash flows from financing activities
+			Row:Proceeds from issuance of long-term debt 	498 	—
+	1,236
+Row:Redemption and repayment of long-term debt 	(400) 	—
+	(17)
+Row:Proceeds from issuance of preferred stock 	557
+	— 	—
+Row:Redemption of preferred stock 	(385)
+	— 	—
+Row:Contractholder fund deposits 	1,010 	1,025 	1,049
+Row:Contractholder fund withdrawals 	(1,967) 	(1,890) 	(2,087)
+Row:Dividends paid on common stock 	(614) 	(525) 	(486)
+Row:Dividends paid on preferred stock 	(134) 	(116) 	(116)
+Row:Treasury stock purchases 	(2,303) 	(1,495) 	(1,337)
+Row:Shares reissued under equity incentive plans, net 	73 	135 	164
+Row:Excess tax benefits on share-based payment arrangements Other 	91 — 	(57) —
+	32
+36
+Row:Net cash used in financing activities 	(3,574) 	(2,923) 	(1,526)
+Row:Net (decrease) increase in cash 	(118) 	181 	(59)
+Row:Cash at beginning of year 	617 	436 	495
+Row:Cash at end of year $ 	499 	$ 617 	$ 436

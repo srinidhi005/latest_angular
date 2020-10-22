@@ -1,0 +1,98 @@
+Row:	2019 	2018 	2017
+Row:Net sales 	$ 8,382.0 	$ 7,705.5 	$ 6,829.6
+Row:Cost of sales 	6,864.6 	6,346.9 	5,648.8
+Row:Gross income 	1,517.4 	1,358.6 	1,180.8
+Row:Operating expenses:
+			Row:Selling, general and administrative 	683.5 	664.3 	664.7
+Row:Amortization of purchased intangibles 	36.9 	38.3 	45.8
+Row:Total operating expenses 	720.4 	702.6 	710.5
+Row:Operating income 	797.0 	656.0 	470.3
+Row:Other income (expense):
+			Row:Interest expense 	(54.4 ) 	(70.9 ) 	(59.8 )
+Row:Interest income 	6.8 	15.3 	4.9
+Row:Miscellaneous, net 	1.3 	(5.8) 	(4.1)
+Row:Income before income taxes and earnings of unconsolidated affiliates 	750.7 	594.6 	411.3
+Row:Provision for income taxes 	171.3 	123.8 	127.2
+Row:Income before earnings of unconsolidated affiliates 	579.4 	470.8 	284.1
+Row:Equity in earnings of unconsolidated affiliates 	— 	1.1 	1.5
+Row:Net income 	$ 579.4 	$ 471.9 	$ 285.6
+Row:Earnings per share:
+Basic 	$ 8.30 	$ 6.38 	$ 3.82
+Row:Diluted 	8.21 	6.29 	3.77
+Row:Other current assets 	78.9 	66.0
+Row:Total current assets 	3,408.3 	3,269.9
+Row:Property, plant and equipment, net 	573.6 	481.1
+Row:Goodwill 	995.7 	1,007.9
+Row:Purchased intangible assets, net 	432.3 	469.4
+Row:Other long-term assets 	156.4 	65.9
+Row:Total assets 	$ 5,566.3 	$ 5,294.2
+Row:Liabilities and Shareholders’ Equity
+Current liabilities:
+		Row:Revolving credit facility and current maturities of long-term debt 	$ — 	$ —
+Row:Accounts payable 	795.5 	776.9
+Row:Customer advances 	382.0 	444.9
+Row:Payroll-related obligations 	183.6 	192.5
+Row:Income taxes payable 	73.5 	23.8
+Row:Other current liabilities 	307.3 	252.0
+Row:Total current liabilities 	1,741.9 	1,690.1
+Row:Long-term debt, less current maturities 	819.0 	818.0
+Row:Other long-term liabilities Commitments and contingencies
+	405.6 	272.6
+Row:Shareholders’ equity:
+		Row:Preferred Stock ($.01 par value; 2,000,000 shares authorized;
+		Row:none issued and outstanding) 	— 	—
+Row:Common Stock ($.01 par value; 300,000,000 shares authorized;
+		Row:75,101,465 shares issued, respectively) 	0.7 	0.7
+Row:Additional paid-in capital 	808.5 	814.8
+Row:Retained earnings 	2,505.0 	2,007.9
+Row:Accumulated other comprehensive loss 	(201.6) 	(106.8)
+Row:Common Stock in treasury, at cost (7,114,349 and 2,730,707 shares, respectively) 	(512.8) 	(203.1)
+Row:Total shareholders’ equity Total liabilities and shareholders’ equity 	2,599.8 $ 5,566.3 	2,513.5
+$ 5,294.2
+Row:	Fiscal 	Year Ended September 	30,
+Row:Operating activities:
+Net income 	2019 $ 579.4 	2018 $ 471.9 	2017
+$ 285.6
+Row:Depreciation and amortization 	115.2 	120.5 	130.3
+Row:Stock-based compensation expense 	29.0 	26.7 	22.4
+Row:Deferred income taxes 	10.4 	(3.1) 	7.8
+Row:Loss (gain) on sale of assets 	(3.3) 	1.1 	(6.6)
+Row:Foreign currency transaction (gains) losses 	0.8 	1.4 	1.6
+Row:Debt extinguishment 	— 	10.3 	—
+Row:Other non-cash adjustments 	0.3 	2.3 	0.1
+Row:Changes in operating assets and liabilities:
+			Row:Receivables, net 	173.2 	(129.5) 	(213.3)
+Row:Unbilled receivables, net 	(239.8) 	(97.5) 	(82.6)
+Row:Inventories, net 	(111.0) 	(38.6) 	(202.3)
+Row:Other current assets 	(5.8) 	11.2 	14.6
+Row:Accounts payable 	12.8 	124.3 	177.2
+Row:Customer advances 	(90.2) 	(68.4) 	41.5
+Row:Payroll-related obligations 	(7.6) 	1.7 	43.5
+Row:Income taxes payable 	36.2 	26.2 	(14.8)
+Row:Other current liabilities 	45.6 	(33.9) 	43.7
+Row:Other long-term assets and liabilities 	23.1 	9.7 	(2.2)
+Row:Total changes in operating assets and liabilities 	(163.5) 	(194.8) 	(194.7)
+Row:Net cash provided by operating activities 	568.3 	436.3 	246.5
+Row:Investing activities:
+			Row:Additions to property, plant and equipment 	(147.6) 	(95.3) 	(85.8)
+Row:Additions to equipment held for rental 	(26.6) 	(4.8) 	(27.4)
+Row:Proceeds from sale of property, plant and equipment 	3.1 	5.7 	0.8
+Row:Proceeds from sale of equipment held for rental 	12.0 	5.8 	49.5
+Row:Other investing activities 	6.1 	(1.8) 	(2.3)
+Row:Net cash used by investing activities 	(153.0) 	(90.4) 	(65.2)
+Row:Financing activities:
+Proceeds from issuance of debt (original maturities greater than three
+			Row:months) Repayments of debt (original maturities greater than three months) Debt issuance costs 	— — — 	639.4 (653.8) (12.9) 	5.9
+(23.0)
+—
+Row:Repurchases of Common Stock 	(357.4) 	(257.0) 	(4.8)
+Row:Dividends paid 	(75.5) 	(71.2) 	(62.8)
+Row:Proceeds from exercise of stock options 	11.3 	16.6 	39.9
+Row:Net cash used by financing activities 	(421.6) 	(338.9) 	(44.8)
+Row:Effect of exchange rate changes on cash Increase (decrease) in cash and cash equivalents Cash and cash equivalents at beginning of year 	0.1 (6.2) 454.6 	0.6 7.6 447.0 	(11.4)
+125.1
+321.9
+Row:Cash and cash equivalents at end of year 	$ 448.4 	$ 454.6 	$ 447.0
+Row:Supplemental disclosures:
+Cash paid for interest Cash paid for income taxes 	$ 53.6 117.6 	$ 55.7 100.3 	$ 57.1
+129.9

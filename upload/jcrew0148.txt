@@ -1,0 +1,141 @@
+Row:November 3,
+	February 3,
+Row:2018
+	2018
+Row:ASSETS 		(As adjusted)
+Row:Current assets:
+Cash and cash equivalents 	$ 31,860 	$ 107,066
+Row:Merchandise inventories, net 	565,548 	292,489
+Row:Prepaid expenses and other current assets 	126,720 	92,348
+Row:Refundable income taxes Total current assets 	2,963 727,091 	1,622
+493,525
+Row:Property and equipment, net Intangible assets, net 	248,220 303,222 	289,441
+308,702
+Row:Goodwill 	107,900 	107,900
+Row:Other assets 	7,740 	6,374
+Row:Total assets 	$ 1,394,173 	$ 1,205,942
+Row:LIABILITIES AND STOCKHOLDERS’ DEFICIT
+Current liabilities:
+		Row:Accounts payable 	$ 324,646 	$ 232,480
+Row:Other current liabilities 	184,553 	177,206
+Row:Borrowings under the ABL Facility 	148,500 	—
+Row:Due to Parent 	38,336 	38,210
+Row:Interest payable 	11,437 	21,914
+Row:Current portion of long-term debt 	30,570 	15,670
+Row:Total current liabilities 	738,042 	485,480
+Row:Long-term debt, net Lease-related deferred credits, net 	1,676,806 111,306 	1,697,812
+117,688
+Row:Deferred income taxes, net 	34,013 	27,752
+Row:Other liabilities 	28,863 	30,168
+Row:Total liabilities 	2,589,030 	2,358,900
+Row:Stockholders’ deficit:
+Common stock $0.01 par value; 1,000 shares authorized, issued and outstanding 	— 	—
+Row:Additional paid-in capital 	733,148 	733,071
+Row:Accumulated other comprehensive income (loss) 	1,136 	(2,603 )
+Row:Accumulated deficit 	(1,929,141 ) 	(1,883,426 )
+Row:Total stockholders’ deficit 	(1,194,857 ) 	(1,152,958 )
+Row:Total liabilities and stockholders’ deficit 	$ 1,394,173 	$ 1,205,942
+Row:For the
+	For the
+Row:Thirteen
+	Thirteen
+Row:Weeks Ended
+	Weeks Ended
+Row:November 3, 2018
+	October 28, 2017
+Row:	Weeks Ended
+November 3, 2018
+	Weeks Ended
+October 28, 2017
+Row:Revenues: 		(As adjusted)
+Row:Net sales 	$ 564,585 	$ 534,043
+Row:Other 	57,615 	30,484
+Row:Total revenues 	622,200 	564,527
+Row:Cost of goods sold, including buying and occupancy costs 	383,762 	336,630
+Row:Gross profit 	238,438 	227,897
+Row:Selling, general and administrative expenses 	202,828 	200,955
+Row:Impairment losses 	2,947 	1,799
+Row:Income from operations 	32,663 	25,143
+Row:Interest expense, net of interest income 	35,141 	32,937
+Row:Loss before income taxes 	(2,478 ) 	(7,794 )
+Row:Provision for income taxes 	3,218 	10,601
+Row:Net loss 	$ (5,696 ) 	$ (18,395 )
+Row:Other comprehensive income (loss):
+		Row:Reclassification of losses on cash flow hedges, net of tax, to earnings 	308 	1,541
+Row:Unrealized gain on cash flow hedges, net of tax 	343 	613
+Row:Foreign currency translation adjustments 	(12 ) 	(212 )
+Row:Comprehensive loss 	$ (5,057 ) 	$ (16,453 )
+Row:564,585 57,615 	(As adjusted)
+$ 534,043
+30,484
+Row:622,200 	564,527
+Row:383,762 	336,630
+Row:238,438 	227,897
+Row:202,828 	200,955
+Row:2,947 	1,799
+Row:32,663 35,141 	25,143
+32,937
+Row:(2,478 ) 	(7,794 )
+Row:3,218 	10,601
+Row:(5,696 ) 	$ (18,395 )
+Row:308 343 	1,541
+613
+Row:(12 ) 	(212 )
+Row:(5,057 ) 	$ (16,453 )
+Row:For the
+	For the
+Row:Thirty-nine
+	Thirty-nine
+Row:Weeks Ended
+	Weeks Ended
+Row:November 3, 2018
+	October 28, 2017
+Row:Revenues: 		(As adjusted)
+	Row:Net sales 	$ 1,622,832 	$ 1,583,802
+	Row:Other 	127,391 	77,155
+	Row:Total revenues 	1,750,223 	1,660,957
+	Row:Cost of goods sold, including buying and occupancy costs 	1,078,976 	1,024,678
+	Row:Gross profit 	671,247 	636,279
+	Row:Selling, general and administrative expenses 	596,323 	620,549
+	Row:Impairment losses 	9,813 	136,854
+	Row:Income (loss) from operations 	65,111 	(121,124 	)
+Row:Interest expense, net of interest income 	102,524 	76,191
+	Row:Loss before income taxes 	(37,413 ) 	(197,315 	)
+Row:Provision (benefit) for income taxes 	8,302 	(39,449 	)
+Row:Net loss 	$ (45,715 ) 	$ (157,866 	)
+Row:Other comprehensive income (loss):
+			Row:Reclassification of losses on cash flow hedges, net of tax, to earnings 	1,669 	5,087
+	Row:Unrealized gain on cash flow hedges, net of tax 	2,560 	112
+	Row:Foreign currency translation adjustments 	(490 ) 	975
+	Row:Comprehensive loss 	$ (41,976 ) 	$ (151,692 	)
+Row:For the
+	For the
+Row:Thirty-nine
+	Thirty-nine
+Row:Weeks Ended
+	Weeks Ended
+Row:November 3, 2018
+	October 28, 2017
+Row:Net loss 	$ (45,715 ) 	$ (157,866 Row:Adjustments to reconcile to cash flows from operating activities:
+		Row:Depreciation of property and equipment 	67,385 	74,150
+Row:Impairment losses 	9,813 	136,854
+Row:Amortization of intangible assets 	5,405 	6,776
+Row:Amortization of deferred financing costs and debt discount 	5,371 	4,338
+Row:Deferred income taxes 	3,695 	(53,029 Row:Reclassification of hedging losses to earnings 	2,274 	8,340
+Row:Share-based compensation Loss on sale of property 	77 — 	530
+526
+Row:Foreign currency transaction gains Changes in operating assets and liabilities:
+	(230 ) 	(641 Row:Merchandise inventories, net Prepaid expenses and other current assets 	(273,493 ) (34,632 ) 	(50,911 (6,769 Row:Other assets Accounts payable and other liabilities 	(1,683 ) 82,009 	(684 20,236
+Row:Federal and state income taxes 	4,069 	5,400
+Row:Net cash used in operating activities 	(175,655 ) 	(12,750 Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+		Row:Capital expenditures 	(35,519 ) 	(28,594 Row:Proceeds from sale of property 	— 	2,530
+Row:Net cash used in investing activities 	(35,519 ) 	(26,064 Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+		Row:Net borrowings under the ABL Facility 	148,500 	—
+Row:Quarterly principal repayments of Term Loan Facility 	(11,752 ) 	(11,753 Row:Cost paid in connection with refinancings of debt 	(74 ) 	(5,740 Row:Proceeds from Notes, net of discount 	— 	123,490
+Row:Repayments pursuant to the Term Loan amendment 	— 	(150,456 Row:Net cash provided by (used in) financing activities 	136,674 	(44,459 Row:Effect of changes in foreign exchange rates on cash and cash equivalents 	(706 ) 	261
+Row:Decrease in cash and cash equivalents 	(75,206 ) 	(83,012 Row:Beginning balance 	107,066 	132,226
+Row:Ending balance Supplemental cash flow information:
+Income taxes paid 	$ 31,860 $ 977 	$ 49,214
+$ 1,313
+Row:Interest paid 	$ 106,971 	$ 68,525
+Row:Non-cash contribution to Parent in connection with Exchange Offer 	$ — 	$ 249,596

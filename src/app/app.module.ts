@@ -8,19 +8,21 @@ import { HttpClientModule } from '@angular/common/http';
 import { UrlConfigService } from './shared/url-config.service';
 import { RMIAPIsService } from './shared/rmiapis.service';
 import { AddCompanyComponent } from './modules/add-company/add-company.component';
-import { MatFormFieldModule, MatInputModule, MatSelectModule, MatOptionModule, MatIconModule } from '@angular/material';
+import { MatFormFieldModule, MatInputModule,MatGridListModule, MatSelectModule, MatOptionModule, MatIconModule } from '@angular/material';
 import {MatCardModule} from '@angular/material/card';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { FileUploadComponent } from './modules/file-upload/file-upload.component';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 import { MatButtonModule } from '@angular/material/button';
 import {MatExpansionModule} from '@angular/material/expansion';
-
+import { LoginComponent } from './modules/login/login.component';
+import { HashLocationStrategy, LocationStrategy  } from '@angular/common';
 @NgModule({
   declarations: [
     AppComponent,
     AddCompanyComponent,
-    FileUploadComponent
+    FileUploadComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
@@ -38,11 +40,13 @@ import {MatExpansionModule} from '@angular/material/expansion';
     ReactiveFormsModule,
     MatProgressSpinnerModule,
     MatButtonModule,
+    MatGridListModule,
     MatExpansionModule,
   ],
   providers: [
     UrlConfigService,
-    RMIAPIsService
+    RMIAPIsService,
+{provide : LocationStrategy , useClass: HashLocationStrategy}
   ],
   bootstrap: [AppComponent]
 })

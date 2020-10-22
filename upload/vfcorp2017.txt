@@ -1,0 +1,278 @@
+Row:(In thousands, except share amounts)
+	2017
+	2016
+Row:ASSETS
+		Row:Current assets
+		Row:Cash and equivalents
+	566,075
+	$
+1,227,862
+Row:Accounts receivable, less allowance for doubtful accounts of $26,252 in 2017 and $20,538 in
+2016
+	1,422,101
+	1,148,797
+Row:Inventories
+	1,705,171
+	1,424,571
+Row:Other current assets
+	296,712
+	293,888
+Row:Current assets of discontinued operations
+	402,065
+	197,980
+Row:Total current assets
+	4,392,124
+	4,293,098
+Row:Property, plant and equipment, net
+	1,002,700
+	895,960
+Row:Intangible assets, net
+	2,089,781
+	1,533,928
+Row:Goodwill
+	1,692,644
+	1,554,667
+Row:Other assets
+	781,253
+	922,312
+Row:Other assets of discontinued operations
+		539,322
+Row:TOTAL ASSETS
+	9,958,502
+	9,739,287
+$
+Row:LIABILITIES AND STOCKHOLDERS' EQUITY
+		Row:Current liabilities
+		Row:Short-term borrowings
+	729,384
+	$
+26,029
+Row:Current portion of long-term debt
+	6,165
+	253,689
+Row:Accounts payable
+	755,569
+	620,194
+Row:Accrued liabilities
+	1,143,330
+	812,032
+Row:Current liabilities of discontinued operations
+	110,752
+	73,456
+Row:Total current liabilities
+	2,745,200
+	1,785,400
+Row:Long-term debt
+	2,187,789
+	2,039,180
+Row:Other liabilities
+	1,305,613
+	885,825
+Row:Other liabilities of discontinued operations
+		87,961
+Row:Commitments and contingencies
+		Row:Total liabilities
+	6,238,602
+	4,798,366
+Row:Stockholders' equity
+		Row:Preferred Stock, par value $1; shares authorized, 25,000,000; no shares outstanding in 2017
+and 2016
+		Row:Common Stock, stated value $0.25; shares authorized, 1,200,000,000; 395,821,781 shares
+outstanding in 2017 and 414,012,954 shares outstanding in 2016
+	98,955
+	103,503
+Row:Additional paid-in capital
+	3,523,340
+	3,333,423
+Row:Accumulated other comprehensive income (loss)
+	(926,140)
+	(1,041,463)
+Row:Retained earnings
+	1,023,745
+	2,545,458
+Row:Total stockholders' equity
+	3,719,900
+	4,940,921
+Row:TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY
+	9,958,502
+$
+	9,739,287
+$
+Row:2016 	2015
+Row:$ 10,957,922 	$ 10,922,043
+Row:68,225 	74,350
+Row:11,026,147 	10,996,393
+Row:5,589,923 	5,603,766
+Row:3,988,320 	3,747,799
+Row:79,644 	—
+Row:9,657,887 	9,351,565
+Row:1,368,260 	1,644,828
+Row:9,176 	7,152
+Row:(94,722) 	(88,751)
+Row:2,002 	1,028
+Row:1,284,716 	1,564,257
+Row:205,862 	347,201
+Row:1,078,854 	1,217,056
+Row:(4,748) 	14,537
+Row:$ 1,074,106 	$ 1,231,593
+Row:$ 2.59 	$ 2.86
+Row:(0.01) 	0.03
+Row:$ 2.58 	$ 2.90
+Row:$ 2.56 	$ 2.82
+Row:(0.01) 	0.03
+Row:$ 2.54 	$ 2.85
+Row:$ 1.53 	$ 1.33
+Row:(In thousands, except per share amounts)
+	2017 	2016 Row:Net sales 	$ 11,735,695 	$ Row:Royalty income 	75,482 	Row:Total revenues 	11,811,177 	Row:Costs and operating expenses
+		Row:Cost of goods sold 	5,844,941 	Row:Selling, general and administrative expenses 	4,463,146 	Row:Impairment of goodwill and intangible assets 	— 	Row:Total costs and operating expenses 	10,308,087 	Row:Operating income 	1,503,090 	Row:Interest income 	16,095 	Row:Interest expense 	(101,975) 	Row:Other income (expense), net 	(715) 	Row:Income from continuing operations before income taxes 	1,416,495 	Row:Income taxes 	695,286 	Row:Income from continuing operations 	721,209 	Row:Income (loss) from discontinued operations, net of tax 	(106,286) 	Row:Net income 	$ 614,923 	$ Row:Earnings (loss) per common share - basic
+		Row:Continuing operations 	$ 1.81 	$ Row:Discontinued operations 	(0.27) 	Row:Total earnings per common share - basic 	$ 1.54 	$ Row:Earnings (loss) per common share - diluted
+		Row:Continuing operations 	$ 1.79 	$ Row:Discontinued operations 	(0.26) 	Row:Total earnings per common share - diluted 	$ 1.52 	$ Row:Cash dividends per common share 	$ 1.72 	$ Row:(In thousands)
+	2017 	2016 Row:OPERATING ACTIVITIES
+		Row:Net income 	$ 614,923 	$ 1,074,106 $ Row:Adjustments to reconcile net income to cash provided by operating activities:
+		Row:Impairment of goodwill and intangible assets 	104,651 	79,644 Row:Depreciation and amortization 	290,503 	281,577 Row:Stock-based compensation 	81,641 	67,762 Row:Provision for doubtful accounts 	21,171 	17,283 Row:Pension expense in excess of (less than) contributions 	25,022 	89,005 Row:Deferred income taxes 	(79,838) 	(71,625) Row:Loss on sale of businesses 	29,841 	104,357 Row:Other, net 	(2,006) 	(15,232) Row:Changes in operating assets and liabilities:
+		Row:Accounts receivable 	(107,083) 	47,102 Row:Inventories 	17,005 	(37,210) Row:Accounts payable 	21,494 	(9,553) Row:Income taxes 	460,350 	(129,574) Row:Accrued liabilities 	31,928 	28,904 Row:Other assets and liabilities 	(34,942) 	(45,978) Row:Cash provided by operating activities 	1,474,660 	1,480,568 Row:INVESTING ACTIVITIES
+		Row:Proceeds from sale of businesses, net of cash sold 	214,968 	115,983 Row:Business acquisitions, net of cash received 	(740,541) 	— Row:Capital expenditures 	(169,553) 	(175,840) Row:Software purchases 	(65,177) 	(44,226) Row:Other, net 	(15,948) 	(8,331) Row:Cash used by investing activities 	(776,251) 	(112,414) Row:FINANCING ACTIVITIES
+		Row:Net increase (decrease) in short-term borrowings 	686,453 	(421,069) Row:Payments on long-term debt 	(254,314) 	(13,276) Row:Payment of debt issuance costs 	— 	(6,807) Row:Proceeds from long-term debt 	— 	951,817 Row:Purchases of treasury stock 	(1,200,356) 	(1,000,468) Row:Cash dividends paid 	(684,679) 	(635,994) Row:Proceeds from issuance of Common Stock, net of shares withheld for taxes 	89,893 	48,918 Row:Cash used by financing activities 	(1,363,003) 	(1,076,879) Row:Effect of foreign currency rate changes on cash, cash equivalents and
+restricted cash 	2,965 	(6,645) Row:Net change in cash, cash equivalents and restricted cash 	(661,629) 	284,630 Row:Cash, cash equivalents and restricted cash — beginning of year (a) 	1,231,026 	946,396 Row:Cash, cash equivalents and restricted cash — end of year (a) 	$ 569,397 	$ 1,231,026 $ Row:Balances per Consolidated Balance Sheets:
+		Row:Cash and cash equivalents 	$ 566,075 	$ 1,227,862 $ Row:Other current assets 	2,452 	2,469 Row:Other assets 	870 	695 Row:Total cash, cash equivalents and restricted cash 	$ 569,397 	$ 1,231,026 $ Row:(a) The cash flows related to discontinued operations have not been segregated, and are 	included in the 	Consolidated Statements of Cash Row:See notes to consolidated financial 	statements.
+	Row:	$ 1,074,106 $ 	1,231,593
+Row:	79,644 	143,562
+Row:	281,577 	272,075
+Row:81,641 	67,762 	73,420
+Row:21,171 	17,283 	12,006
+Row:25,022 	89,005 	(208,709)
+Row:(79,838) 	(71,625) 	7,088
+Row:29,841 	104,357 	—
+Row:(2,006) 	(15,232) 	(34,784)
+Row:	47,102 	(124,248)
+Row:17,005 	(37,210) 	(175,098)
+Row:21,494 	(9,553) 	14,225
+Row:	(129,574) 	4,206
+Row:31,928 	28,904 	(14,505)
+Row:(34,942) 	(45,978) 	2,785
+Row:	1,480,568 	1,203,616
+Row:	115,983 	—
+Row:	— 	—
+Row:	(175,840) 	(254,501)
+Row:(65,177) 	(44,226) 	(63,283)
+Row:(15,948) 	(8,331) 	(5,038)
+Row:	(112,414) 	(322,822)
+Row:	(421,069) 	432,262
+Row:	(13,276) 	(3,975)
+Row:— 	(6,807) 	(1,475)
+Row:— 	951,817 	—
+Row:	(1,000,468) 	(732,623)
+Row:	(635,994) 	(565,275)
+Row:89,893 	48,918 	30,871
+Row:	(1,076,879) 	(840,215)
+Row:2,965 	(6,645) 	(66,680)
+Row:	284,630 	(26,101)
+Row:	946,396 	972,497
+Row:	$ 1,231,026 $ 	946,396
+Row:	$ 1,227,862 $ 	945,605
+Row:2,452 	2,469 	—
+Row:870 	695 	791
+Row:	$ 1,231,026 $ 	946,396
+Row:	Consolidated Statements of 	Cash Flows.
+Row:$ 	1,227,862 	$ 	945,605
+Row:	2,469 		—
+Row:	695 		791
+Row:$ 	1,231,026 	$ 	946,396
+Row:(In thousands, except share amounts)	2017
+	2016
+Row:ASSETS		Row:Current assets		Row:Cash and equivalents	566,075
+	$
+1,227,862
+Row:Accounts receivable, less allowance for doubtful accounts of $26,252 in 2017 and $20,538 in2016
+	1,422,101	1,148,797Row:Inventories
+	1,705,171	1,424,571Row:Other current assets
+	296,712	293,888Row:Current assets of discontinued operations	402,065	197,980Row:Total current assets	4,392,124	4,293,098Row:Property, plant and equipment, net	1,002,700	895,960Row:Intangible assets, net	2,089,781	1,533,928Row:Goodwill
+	1,692,644	1,554,667Row:Other assets
+	781,253
+	922,312Row:Other assets of discontinued operations		539,322
+Row:TOTAL ASSETS	9,958,502
+	$
+9,739,287
+Row:LIABILITIES AND STOCKHOLDERS' EQUITY		Row:Current liabilities		Row:Short-term borrowings	729,384	$
+26,029Row:Current portion of long-term debt	6,165	253,689Row:Accounts payable	755,569	620,194Row:Accrued liabilities	1,143,330	812,032Row:Current liabilities of discontinued operations	110,752	73,456Row:Total current liabilities	2,745,200	1,785,400Row:Long-term debt	2,187,789	2,039,180Row:Other liabilities	1,305,613
+	885,825Row:Other liabilities of discontinued operations		87,961
+Row:Commitments and contingencies		Row:Total liabilities	6,238,602
+	4,798,366
+Row:Stockholders' equity		Row:Preferred Stock, par value $1; shares authorized, 25,000,000; no shares outstanding in 2017and 2016		Row:Common Stock, stated value $0.25; shares authorized, 1,200,000,000; 395,821,781 sharesoutstanding in 2017 and 414,012,954 shares outstanding in 2016	98,955	103,503Row:Additional paid-in capital	3,523,340	3,333,423Row:Accumulated other comprehensive income (loss)	(926,140)	(1,041,463)Row:Retained earnings	1,023,745	2,545,458Row:Total stockholders' equity	3,719,900	4,940,921Row:TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY
+$
+	9,958,502
+	9,739,287
+$
+Row:(In thousands, except per share amounts)
+	2017 	2016 	2015
+Row:Net sales 	$ 11,735,695 	$ 10,957,922 $ 	10,922,043
+Row:Royalty income 	75,482 	68,225 	74,350
+Row:Total revenues 	11,811,177 	11,026,147 	10,996,393
+Row:Costs and operating expenses
+			Row:Cost of goods sold 	5,844,941 	5,589,923 	5,603,766
+Row:Selling, general and administrative expenses 	4,463,146 	3,988,320 	3,747,799
+Row:Impairment of goodwill and intangible assets 	— 	79,644 	—
+Row:Total costs and operating expenses 	10,308,087 	9,657,887 	9,351,565
+Row:Operating income 	1,503,090 	1,368,260 	1,644,828
+Row:Interest income 	16,095 	9,176 	7,152
+Row:Interest expense 	(101,975) 	(94,722) 	(88,751)
+Row:Other income (expense), net 	(715) 	2,002 	1,028
+Row:Income from continuing operations before income taxes 	1,416,495 	1,284,716 	1,564,257
+Row:Income taxes 	695,286 	205,862 	347,201
+Row:Income from continuing operations 	721,209 	1,078,854 	1,217,056
+Row:Income (loss) from discontinued operations, net of tax 	(106,286) 	(4,748) 	14,537
+Row:Net income 	$ 614,923 	$ 1,074,106 $ 	1,231,593
+Row:Earnings (loss) per common share - basic
+			Row:Continuing operations 	$ 1.81 	$ 2.59 $ 	2.86
+Row:Discontinued operations 	(0.27) 	(0.01) 	0.03
+Row:Total earnings per common share - basic 	$ 1.54 	$ 2.58 $ 	2.90
+Row:Earnings (loss) per common share - diluted
+			Row:Continuing operations 	$ 1.79 	$ 2.56 $ 	2.82
+Row:Discontinued operations 	(0.26) 	(0.01) 	0.03
+Row:Total earnings per common share - diluted 	$ 1.52 	$ 2.54 $ 	2.85
+Row:Cash dividends per common share 	$ 1.72 	$ 1.53 $ 	1.33
+Row:(In thousands)
+OPERATING ACTIVITIES
+	2017 	2016 	2015
+Row:Net income 	$ 614,923 	$ 1,074,106 $ 	1,231,593
+Row:Adjustments to reconcile net income to cash provided by operating activities:
+			Row:Impairment of goodwill and intangible assets 	104,651 	79,644 	143,562
+Row:Depreciation and amortization 	290,503 	281,577 	272,075
+Row:Stock-based compensation 	81,641 	67,762 	73,420
+Row:Provision for doubtful accounts 	21,171 	17,283 	12,006
+Row:Pension expense in excess of (less than) contributions 	25,022 	89,005 	(208,709)
+Row:Deferred income taxes 	(79,838) 	(71,625) 	7,088
+Row:Loss on sale of businesses 	29,841 	104,357 	—
+Row:Other, net 	(2,006) 	(15,232) 	(34,784)
+Row:Changes in operating assets and liabilities:
+			Row:Accounts receivable 	(107,083) 	47,102 	(124,248)
+Row:Inventories 	17,005 	(37,210) 	(175,098)
+Row:Accounts payable 	21,494 	(9,553) 	14,225
+Row:Income taxes 	460,350 	(129,574) 	4,206
+Row:Accrued liabilities 	31,928 	28,904 	(14,505)
+Row:Other assets and liabilities 	(34,942) 	(45,978) 	2,785
+Row:Cash provided by operating activities 	1,474,660 	1,480,568 	1,203,616
+Row:INVESTING ACTIVITIES
+			Row:Proceeds from sale of businesses, net of cash sold 	214,968 	115,983 	—
+Row:Business acquisitions, net of cash received 	(740,541) 	— 	—
+Row:Capital expenditures 	(169,553) 	(175,840) 	(254,501)
+Row:Software purchases Other, net 	(65,177) (15,948) 	(44,226) (8,331) 	(63,283)
+(5,038)
+Row:Cash used by investing activities 	(776,251) 	(112,414) 	(322,822)
+Row:FINANCING ACTIVITIES
+			Row:Net increase (decrease) in short-term borrowings 	686,453 	(421,069) 	432,262
+Row:Payments on long-term debt 	(254,314) 	(13,276) 	(3,975)
+Row:Payment of debt issuance costs 	— 	(6,807) 	(1,475)
+Row:Proceeds from long-term debt 	— 	951,817 	—
+Row:Purchases of treasury stock 	(1,200,356) 	(1,000,468) 	(732,623)
+Row:Cash dividends paid 	(684,679) 	(635,994) 	(565,275)
+Row:Proceeds from issuance of Common Stock, net of shares withheld for taxes 	89,893 	48,918 	30,871
+Row:Cash used by financing activities 	(1,363,003) 	(1,076,879) 	(840,215)
+Row:Effect of foreign currency rate changes on cash, cash equivalents and
+restricted cash 	2,965 	(6,645) 	(66,680)
+Row:Net change in cash, cash equivalents and restricted cash 	(661,629) 	284,630 	(26,101)
+Row:Cash, cash equivalents and restricted cash — beginning of year (a) 	1,231,026 	946,396 	972,497
+Row:Cash, cash equivalents and restricted cash — end of year (a) 	$ 569,397 	$ 1,231,026 $ 	946,396
+Row:Balances per Consolidated Balance Sheets:
+			Row:Balances per Consolidated Balance Sheets:
+	Row:Cash and cash equivalents 	$ 566,075 $ Row:Other current assets 	2,452 Row:Other assets 	870 Row:Total cash, cash equivalents and restricted cash 	$ 569,397 $ 

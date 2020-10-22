@@ -1,0 +1,21 @@
+Row:	2016 	2017 	2018
+Row:Revenues 	$ 90,272 	$ 110,855 	$ 136,819
+Row:Costs and expenses:
+			Row:Cost of revenues 	35,138 	45,583 	59,549
+Row:Research and development 	13,948 	16,625 	21,419
+Row:Sales and marketing 	10,485 	12,893 	16,333
+Row:General and administrative 	6,985 	6,872 	8,126
+Row:European Commission fines 	0 	2,736 	5,071
+Row:Total costs and expenses 	66,556 	84,709 	110,498
+Row:Income from operations 	23,716 	26,146 	26,321
+Row:Other income (expense), net 	434 	1,047 	8,592
+Row:Income before income taxes 	24,150 	27,193 	34,913
+Row:Provision for income taxes 	4,672 	14,531 	4,177
+Row:Net income 	$ 19,478 	$ 12,662 	$ 30,736
+Row:Basic net income per share of Class A and B common stock and Class
+			Row:C capital stock 	$ 28.32 	$ 18.27 	$ 44.22
+Row:Diluted net income per share of Class A and B common stock and
+			Row:Basic net income per share of Class A and B common stock and 	Class
+Row:C capital stock 	$ 28.32 $ 18.27 $ 44.22
+Row:Diluted net income per share of Class A and B common stock and
+	Row:Class C capital stock 	$ 27.85 $ 18.00 $ 43.70

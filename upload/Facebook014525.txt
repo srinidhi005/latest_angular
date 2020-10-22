@@ -1,0 +1,143 @@
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents $ 	19,079 	$ 10,019
+Row:Marketable securities 	35,776 	31,095
+Row:Accounts receivable, net of allowances of $206 and $229 as of December 31, 2019 and December 31, 2018,
+respectively 	9,518 	7,587
+Row:Prepaid expenses and other current assets 	1,852 	1,779
+Row:Total current assets 	66,225 	50,480
+Row:Property and equipment, net 	35,323 	24,683
+Row:Operating lease right-of-use assets, net 	9,460 	—
+Row:Intangible assets, net 	894 	1,294
+Row:Goodwill 	18,715 	18,301
+Row:Other assets 	2,759 	2,576
+Row:Total assets $ 	133,376 	$ 97,334
+Row:Accounts payable $ 	1,363 	$ 820
+Row:Partners payable 	886 	541
+Row:Operating lease liabilities, current 	800 	—
+Row:Accrued expenses and other current liabilities 	11,735 	5,509
+Row:Deferred revenue and deposits 	269 	147
+Row:Total current liabilities 	15,053 	7,017
+Row:Operating lease liabilities, non-current 	9,524 	—
+Row:Other liabilities 	7,745 	6,190
+Row:Total liabilities 	32,322 	13,207
+Row:Commitments and contingencies
+		Row:B shares authorized, 445 million and 469 million shares issued and outstanding, as of December 31, 2019 and
+December 31, 2018, respectively. 	— 	—
+Row:Additional paid-in capital 	45,851 	42,906
+Row:Accumulated other comprehensive loss 	(489) 	(760)
+Row:Retained earnings 	55,692 	41,981
+Row:Total stockholders' equity 	101,054 	84,127
+Row:Total liabilities and stockholders' equity $ 	133,376 	$ 97,334
+Row:	2019 		2018 	2017
+Row:Revenue 	$ 	70,697 	$ 55,838 	$ 40,653
+Row:Costs and expenses:
+				Row:Cost of revenue 		12,770 	9,355 	5,454
+Row:Research and development 		13,600 	10,273 	7,754
+Row:Marketing and sales 		9,876 	7,846 	4,725
+Row:General and administrative 		10,465 	3,451 	2,517
+Row:Total costs and expenses 		46,711 	30,925 	20,450
+Row:Income from operations 		23,986 	24,913 	20,203
+Row:Interest and other income, net 		826 	448 	391
+Row:Income before provision for income taxes 		24,812 	25,361 	20,594
+Row:Provision for income taxes 		6,327 	3,249 	4,660
+Row:Net income 	$ 	18,485 	$ 22,112 	$ 15,934
+Row:Less: Net income attributable to participating securities 		— 	(1) 	(14)
+Row:Net income attributable to Class A and Class B common stockholders 	$ 	18,485 	$ 22,111 	$ 15,920
+Row:Earnings per share attributable to Class A and Class B common stockholders:
+				Row:Basic 	$ 	6.48 	$ 7.65 	$ 5.49
+Row:Diluted 	$ 	6.43 	$ 7.57 	$ 5.39
+Row:Weighted-average shares used to compute earnings per share attributable to Class A and
+Class B common stockholders:
+				Row:Basic 		2,854 	2,890 	2,901
+Row:Diluted 		2,876 	2,921 	2,956
+Row:Share-based compensation expense included in costs and expenses:
+				Row:Cost of revenue 	$ 	377 	$ 284 	$ 178
+Row:Research and development 		3,488 	3,022 	2,820
+Row:Marketing and sales 		569 	511 	436
+Row:General and administrative 		402 	335 	289
+Row:Total share-based compensation expense 	$ 	4,836 	$ 4,152 	$ 3,723
+Row:See Accompanying Notes to Consolidated 	Financial 	Statements.
+		Row:Net income $ 	18,485 	$ 22,112 	$ 15,934
+Row:Other comprehensive income (loss):
+			Row:Change in foreign currency translation adjustment, net of tax 	(151) 	(450) 	566
+Row:Change in unrealized gain/loss on available-for-sale investments and other, net of tax 	422 	(52) 	(90)
+Row:Comprehensive income $ 	18,756 	$ 21,610 	$ 16,410
+Row:Shares 		Par Value
+	Capital
+	Loss
+	Earnings
+	Equity Row:Balances at December 31, 2016 	2,892 	$ — 	$ 38,227 	$ (703) 	$ 21,670 	$ 59,194
+Row:Issuance of common stock related to acquisitions 	2 	— 	323 	— 	— 	323
+Row:Issuance of common stock for cash upon exercise of stock
+options 	3 	— 	13 	— 	— 	13
+Row:Issuance of common stock for settlement of RSUs 	43 	— 	— 	— 	— 	—
+Row:Shares withheld related to net share settlement 	(21) 	— 	(1,702) 	— 	(1,544) 	(3,246)
+Row:Share-based compensation 	— 	— 	3,723 	— 	— 	3,723
+Row:Share repurchases 	(13) 	— 	— 	— 	(2,070) 	(2,070)
+Row:Other comprehensive income 	— 	— 	— 	476 	— 	476
+Row:Net income 	— 	— 	— 	— 	15,934 	15,934
+Row:Balances at December 31, 2017 	2,906 	— 	40,584 	(227) 	33,990 	74,347
+Row:Impact of the adoption of new accounting pronouncements 	— 	— 	— 	(31) 	172 	141
+Row:Issuance of common stock for cash upon exercise of stock
+options 	2 	— 	15 	— 	— 	15
+Row:Issuance of common stock for settlement of RSUs 	44 	— 	— 	— 	— 	—
+Row:Shares withheld related to net share settlement 	(19) 	— 	(1,845) 	— 	(1,363) 	(3,208)
+Row:Share-based compensation 	— 	— 	4,152 	— 	— 	4,152
+Row:Share repurchases 	(79) 	— 	— 	— 	(12,930) 	(12,930)
+Row:Other comprehensive loss 	— 	— 	— 	(502) 	— 	(502)
+Row:Net income 	— 	— 	— 	— 	22,112 	22,112
+Row:Balances at December 31, 2018 	2,854 	— 	42,906 	(760) 	41,981 	84,127
+Row:Issuance of common stock for cash upon exercise of stock
+options 	1 	— 	15 	— 	— 	15
+Row:Issuance of common stock for settlement of RSUs 	32 	— 	— 	— 	— 	—
+Row:Shares withheld related to net share settlement and other 	(13) 	— 	(1,906) 	— 	(675) 	(2,581)
+Row:Share-based compensation 	— 	— 	4,836 	— 	— 	4,836
+Row:Share repurchases 	(22) 	— 	— 	— 	(4,099) 	(4,099)
+Row:Other comprehensive income 	— 	— 	— 	271 	— 	271
+Row:Net income 	— 	— 	— 	— 	18,485 	18,485
+Row:Balances at December 31, 2019 	2,852 	$ — 	$ 45,851 	$ (489) 	$ 55,692 	$ 101,054
+Row:See Accompanying Notes 	to 	Consolidated Financial 	Statements.
+			Row:	2019 2018 	2017
+Row:Cash flows from operating activities
+		Row:Net income $ 	18,485 $ 22,112 	$ 15,934
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+		Row:Depreciation and amortization 	5,741 4,315 	3,025
+Row:Share-based compensation 	4,836 4,152 	3,723
+Row:Deferred income taxes 	(37) 286 	(377)
+Row:Other 	39 (64) 	24
+Row:Changes in assets and liabilities:
+		Row:Accounts receivable 	(1,961) (1,892) 	(1,609)
+Row:Prepaid expenses and other current assets 	47 (690) 	(192)
+Row:Other assets 	41 (159) 	154
+Row:Accounts payable 	113 221 	43
+Row:Partners payable 	348 157 	95
+Row:Accrued expenses and other current liabilities 	7,300 1,417 	309
+Row:Deferred revenue and deposits 	123 53 	4
+Row:Other liabilities 	1,239 (634) 	3,083
+Row:Net cash provided by operating activities 	36,314 29,274 	24,216
+Row:Cash flows from investing activities
+		Row:Purchases of property and equipment, net 	(15,102) (13,915) 	(6,733)
+Row:Purchases of marketable securities 	(23,910) (14,656) 	(25,682)
+Row:Sales of marketable securities 	9,565 12,358 	9,444
+Row:Maturities of marketable securities 	10,152 4,772 	2,988
+Row:Acquisitions of businesses, net of cash acquired, and purchases of intangible assets 	(508) (137) 	(122)
+Row:Other investing activities, net 	(61) (25) 	(13)
+Row:Net cash used in investing activities 	(19,864) (11,603) 	(20,118)
+Row:Cash flows from financing activities
+		Row:Taxes paid related to net share settlement of equity awards 	(2,337) (3,208) 	(3,246)
+Row:Repurchases of Class A common stock 	(4,202) (12,879) 	(1,976)
+Row:Principal payments on finance leases 	(552) — 	—
+Row:Net change in overdraft in cash pooling entities 	(223) 500 	—
+Row:Other financing activities, net 	15 15 	(13)
+Row:Net cash used in financing activities 	(7,299) (15,572) 	(5,235)
+Row:Effect of exchange rate changes on cash, cash equivalents, and restricted cash 	4 (179) 	232
+Row:Net increase (decrease) in cash, cash equivalents, and restricted cash 	9,155 1,920 	(905)
+Row:Cash, cash equivalents, and restricted cash at beginning of the period 	10,124 8,204 	9,109
+Row:Cash, cash equivalents, and restricted cash at end of the period $ 	19,279 $ 10,124 	$ 8,204
+Row:Reconciliation of cash, cash equivalents, and restricted cash to the consolidated balance sheets
+		Row:Cash and cash equivalents $ 	19,079 $ 10,019 	$ 8,079
+Row:Cash and cash equivalents $ 	19,079 $ 10,019 $ 	8,079
+Row:Restricted cash, included in prepaid expenses and other current assets 	8 10 	18
+Row:Restricted cash, included in other assets 	192 95 	107
+Row:Total cash, cash equivalents, and restricted cash $ 	19,279 $ 10,124 $ 	8,204

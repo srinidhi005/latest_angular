@@ -1,0 +1,83 @@
+Row:	Year Ended December 3120172016	,2015Row:Revenue	$ 3,598,484 $ 3,373,387 $ 	2,960,896Row:Cost of revenue	2,513,857 2,287,662 	1,944,050Row:Selling, general and administrative	510,075 626,153 	557,077Row:Impairment and related charges	81,112	Row:Operating income	493,440 459,572 	459,769
+Row:Other (expense) income:		Row:Interest expense, net	(153,925)(158,251)	(173,298)Row:Loss on extinguishment of debt	(1,012)(3,683)	(38,783)Row:Joint venture equity income	2,5802,780	14,842Row:Other, net	36,53027,617	91,377Row:Total other expense, net	(115,827)(131,537)	(105,862)Row:Income from continuing operations before income taxes	377,613328,035	353,907Row:Provision for income taxes	128,03786,645	119,352Row:Income from continuing operations	249,576241,390	234,555Row:(Loss) income from discontinued operations, net of taxNet income	(1,932)247,6445,549246,939	314,408548,963Row:Net income attributable to noncontrolling interests	5,1134,377	3,481Row:Net income attributable to common stockholders
+	242,531 $
+242,562 $
+	$
+545,482
+Row:Basic net income per share attributable to common stockholders:		Row:Income from continuing operations	$
+$
+0.880.85	$
+0.85Row:(Loss) income from discontinued operations	(0.01)0.02	1.15Row:Net income per common share	0.87
+0.87
+$
+$
+	2.00
+$
+Row:Diluted net income per share attributable to common stockholders:		Row:Income from continuing operations	$
+$
+$
+0.880.84	0.83Row:(Loss) income from discontinued operations	(0.01)0.02	1.12Row:Net income per common share	0.87
+0.86
+$
+$
+	1.95
+$
+Row:Weighted-average common shares outstanding:		Row:Basic	276,893277,546	273,139Row:Diluted
+	278,320
+282,752
+	280,067
+Row:Dividendper common share
+	$
+0.56
+0.52
+	0.36
+Row:Current assets	Row:Cash and cash equivalents	$ 361,381 364,114Row:Accounts receivable, net	490,558 400,667Row:Prepaid expenses and other current assets	108,75388,600Row:Total current assets	960,692 853,381Row:Property and equipment, net	799,194 753,279Row:Investments in joint ventures	27,527 25,582Row:Goodwill	2,554,987 2,548,447Row:Acquired customer relationships, net	351,034 387,632Row:Other intangible assets, net	332,171 387,805Row:Deferred income taxes	31,81795,285Row:Other assets, net	591,942 673,159Row:Total assets
+	$ 5,649,364 $ 5,724,570
+Row:Liabilities and stockholders' equity	Row:Current liabilities	Row:Accounts payable	162,755 $168,576Row:Accounts payable	162,755 $168,576Row:Accrued compensation and related benefits	112,343102,037Row:Accrued subscriber incentives	271,200216,011Row:Deferred revenues	110,532187,108Row:Other accrued liabilities	198,353222,879Row:Current portion of debt	57,138169,246Row:Tax Receivable Agreement	59,826100,501Row:Total current liabilities	972,1471,166,358Row:Deferred income taxes	99,80188,957Row:Other noncurrent liabilities	480,185567,359Row:Long-term debt	3,398,731
+3,276,281
+Row:Common stock: $0.01 par value; 450,000,000 authorized shares; 289,137,901 and285,461,125 shares issued, 274,342,175 and 276,949,802 shares outstanding atDecember 31, 2017 and 2016, respectively	2,891	2,854Row:Additional paid-in capital	2,174,187
+	2,105,843
+Row:Treasury stock, at cost, 14,795,726 and 8,511,323 shares at December 31, 2017 and 2016respectively	(341,846) 	(221,746Row:Retained deficit	(1,053,446) 	(1,141,116Row:Accumulated other comprehensive loss	(88,484) 	(122,799Row:Noncontrolling interest	5,198	2,579Row:Total stockholders' equity	698,500 	625,615Row:Total liabilities and stockholders' equity
+$ 	5,649,364 	$ 5,724,570
+Row:Operating ActivitiesNet income	2017
+$
+247,644 	2016
+$
+246,939 	2015
+$
+548,963
+Row:Adjustments to reconcile net income to cash provided by operating activities:Depreciation and amortizationImpairment and related charges	400,87181,112	413,986
+	351,480
+Row:Amortization of upfront incentive consideration	67,411	55,724
+	43,521
+Row:Tax Receivable AgreementDeferred income taxes	(59,603)48,760	48,454	97,225Row:Stock-based compensation expense	44,689	48,524
+	29,971
+Row:Debt modification costs	14,758		Row:Allowance for doubtful accounts	9,459	10,567	8,558Row:Amortization of debt issuance costs	5,923	9,611	6,759Row:Joint venture equity incomeLoss (income) from discontinued operationsDividends received from joint venture investments	(2,580)1,9321,088	(2,780)(5,549)640	(14,842)(314,408)28,700Row:Loss on extinguishment of debt	1,012
+	3,683	38,783Row:Litigation-related creditsGain on remeasurement of previously-held joint venture interestOther	13,284
+	(25,527)
+(5,426)
+	(60,998)(78,082)3,556
+Row:Changes in operating assets and liabilities:Accounts and other receivablesUpfront incentive consideration	(108,596)(94,296)	(12,949)(70,702)	10,662(63,510)Row:Capitalized implementation costsPrepaid expenses and other current assetsOther assets	(60,766)109(21,111)	(83,405)(11,809)(2,799)	(63,382)(13,255)(66,873)Row:Accounts payable and other accrued liabilitiesDeferred revenue including upfront solution fees	67,03413,861	56,78722,663	8,7219,390Row:Accrued compensation and related benefits	6,038	2,768	18,268Row:Cash provided by operating activitiesInvesting ActivitiesAdditions to property and equipmentAcquisitions, net of cash acquiredProceeds from sale of marketable securities	678,033
+(316,436)
+	699,400
+(327,647)(164,120)45,959
+	529,207
+(286,697)(442,344)
+Row:Other investing activities	(1,089)		Row:Cash used in investing activitiesFinancing Activities	(317,525)
+	(445,808)
+	(729,041)
+Row:Proceeds of borrowings from lenders	1,897,625	1,055,000	1,252,000Row:Payments on borrowings from lendersCash dividends paid to common stockholders	(1,880,506)(154,861)	(999,868)(144,355)	(960,807)(98,596)Row:Repurchase of common stock	(109,100)	(100,000)
+	(98,770)
+Row:Payments on Tax Receivable Agreement	(99,241)		Row:Debt prepayment fees and issuance costs	(19,052)	(11,377)	(52,674)Row:Net proceeds on the settlement of equity-based awards	12,647	27,344	47,414Row:Other financing activitiesCash (used in) provided by financing activitiesCash Flows from Discontinued OperationsCash (used in) provided by operating activitiesCash provided by investing activities	(4,292)(356,780)
+(4,848)
+	(16,769)(190,025)
+(19,478)
+	4,57793,144
+236278,834Row:Cash (used in) provided by discontinued operations	(4,848)	(19,478)	279,070Row:Effect of exchange rate changes on cash and cash equivalents(Decrease) increase in cash and cash equivalentsCash and cash equivalents at beginning of periodCash and cash equivalents at end of period	(1,613)(2,733)364,114361,381 $
+	$(1,107)42,982321,132364,114 	$(6,927)165,453155,679321,132Row:Cash payments for income taxesCash payments for interest	40,211 149,572 $
+	$$39,032 151,495 	$$27,816154,307Row:Capitalized interest
+	11,142 	$
+13,887 	$
+11,981
+Row:See Notes to Consolidated Financial Statements.
+			

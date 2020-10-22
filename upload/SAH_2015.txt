@@ -1,0 +1,316 @@
+Row:	December 31, 2015 (Dollars 	in 	December 31,
+2014
+thousands)
+)
+Row:	ASSETS
+		Row:Current Assets:
+			Row:Cash and cash equivalents 	$ 3,625 		$ 4,182
+Row:Receivables, net 	378,520 		371,994
+Row:Inventories 	1,599,581 		1,311,702
+Row:Other current assets 	101,386 		81,081
+Row:Total current assets 	2,083,112 		1,768,959
+Row:Property and Equipment, net 	886,902 		799,319
+Row:Goodwill 	471,493 		475,929
+Row:Other Intangible Assets, net , 	80,876 		83,720
+Row:Other Assets 	39,998 		40,326
+Row:Total Assets 	$ 3,562,381 		$ 3,168,253
+Row:LIABILITIES AND STOCKHOLDERS' EQUITY
+		Row:Current Liabilities:
+		Row:Notes payable - floor plan - trade 	$ 893,466 	$ 711,618
+Row:Notes payable - floor plan - non-trade 	625,367 	551,118
+Row:Trade accounts payable 	131,204 	132,405
+Row:Accrued interest 	12,640 	12,409
+Row:Other accrued liabilities 	218,507 	208,654
+Row:Current maturities of long-term debt 	33,437 	30,802
+Row:Total current liabilities 	1,914,621 	1,647,006
+Row:Long-Term Debt 	781,145 	727,728
+Row:Other Long-Term Liabilities 	64,245 	69,200
+Row:Deferred Income Taxes 	73,322 	57,601
+Row:Commitments and Contingencies
+		Row:Stockholders' Equity:
+		Row:Class A convertible preferred stock, none issued Class A common stock, $0.01 par value; 100,000,000 shares authorized;
+62,586,381 shares issued and ; 37,910,938 shares outstanding at
+December 31, 2015; 62,046,966 shares issued and 38,890,533 shares
+	- 	-
+Row:outstanding at December 31, 2014 	626 	620
+Row:Class B common stock, $0.01 par value; 30,000,000 shares authorized;
+12,029,375 shares issued and outstanding at December 31, 2015
+		Row:and December 31, 2014 	121 	121
+Row:Paid-in capital 	713,118 	697,760
+Row:Retained earnings 	457,010 	376,353
+Row:Accumulated other comprehensive income (loss) 	(5,632) 	(6,424)
+Row:Treasury stock, at cost; 24,675,443 Class A common stock shares held
+at December 31, 2015 and 23,156,433 Class A common stock shares
+held at December 31, , 2014 	(436,195) 	(401,712)
+Row:Total Stockholders' ' Equity 	729,048 	666,718
+Row:Total Liabilities and Stockholders' Equity 	$ 3,562,381 	$ 3,168,253
+Row:		except 	per share amounts)
+	Row:Revenues:
+				Row:New vehicles 	$ 5,265,401 		$ 5,124,029 	$ 4,989,185
+Row:Used vehicles 	2,512,024 		2,310,247 	2,176,034
+Row:Wholesale vehicles 	155,339 		166,158 	175,328
+Row:Total vehicles 	7,932,764 		7,600,434 	7,340,547
+Row:Parts, service and collision repair 	1,364,947 		1,296,570 	1,230,178
+Row:Finance, insurance and other, net 	326,588 		300,095 	272,443
+Row:Total revenues 	9,624,299 		9,197,099 	8,843,168
+Row:Cost of Sales:
+				Row:New vehicles 	(4,997,472 	) 	(4,835,403) 	(4,699,582 )
+Row:Used vehicles 	(2,349,982 	) 	(2,153,001) 	(2,025,634 )
+Row:Wholesale vehicles 	(162,707 	) 	(169,774) 	(183,259 )
+Row:Total vehicles 	(7,510,161 	) 	(7,158,178) 	(6,908,475 )
+Row:Parts, service and collision repair 	(699,526 	) 	(673,021) 	(633,086 )
+Row:Total cost of sales 	(8,209,687 	) 	(7,831,199) 	(7,541,561 )
+Row:Gross profit Selling, general and administrative expenses 	1,414,612 (1,110,565 	) 	1,365,900 (1,067,433) 	1,301,607
+(1,003,125 )
+Row:Impairment charges 	(17,955 	) 	(6,594) 	(9,872 )
+Row:Depreciation and amortization 	(68,799 	) 	(58,260) 	(54,007 )
+Row:Operating income (loss) 	217,293 		233,613 	234,603
+Row:Other income (expense):
+				Row:Interest expense, floor plan 	(21,326 	) 	(18,793) 	(21,954 )
+Row:Interest expense, other, net , 	(50,910 	) 	(53,190) 	(55,485 )
+Row:Other income (expense), net 	99 		97 	(28,143 )
+Row:Total other income (expense) 	(72,137 	) 	(71,886) 	(105,582 )
+Row:Income (loss) from continuing operations before taxes 	145,156 		161,727 	129,021
+Row:Provision for income taxes for continuing operations - benefit (expense) 	(57,065 	) 	(63,168) 	(44,343 )
+Row:Income (loss) from continuing operations 	88,091 		98,559 	84,678
+Row:Discontinued operations:
+				Row:Income (loss) from discontinued operations before taxes 	(2,883 	) 	(2,164) 	(4,017 )
+Row:Provision for income taxes for discontinued operations - benefit (expense) 	1,103 		822 	957
+Row:Income (loss) from discontinued operations 	(1,780 	) 	(1,342) 	(3,060 )
+Row:Net income (loss) 	$ 86,311 		$ 97,217 	$ 81,618
+Row:Basic earnings (loss) per common share:
+:
+				Row:Earnings (loss) ) per share from continuing operations 	$ 1.74 		$ 1.89 	$ 1.60
+Row:Earnings (loss) ) per share from discontinued operations 	(0.03 	) 	(0.03) 	(0.06 )
+Row:Earnings (loss) ) per common share 	$ 1.71 		$ 1.86 	$ 1.54
+Row:Weighted average common shares outstanding 	50,489 		52,065 	52,556
+Row:Diluted earnings (loss) per common share:
+Earnings (loss) per share from continuing operations ) 	$ 1.73 		$ 1.87 	$ 1.59
+Row:Earnings (loss) ) per share from discontinued operations 	(0.03 	) 	(0.03) 	(0.06 )
+Row:Earnings (loss) per common share 	$ 1.70 		$ 1.84 	$ 1.53
+Row:Weighted average common shares outstanding 	50,883 		52,563 	52,941
+Row:Dividends declared per common share See Notes to Consolidated Financial 	$ 0.11 Statements
+		$ 0.10 	$ 0.10
+Row:$ 1.74 	$ 	1.89 	$ 	1.60
+Row:(0.03 ) 		(0.03) 		(0.06 )
+Row:$ 1.71 	$ 	1.86 	$ 	1.54
+Row:50,489 		52,065 		52,556
+Row:	2015 	2014 (Dollars in thousands)
+	2013
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+:
+			Row:Net income (loss) 	$ 86,311 	$ 97,217 	$ 81,618
+Row:Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities:
+Depreciation and amortization of property, plant and equipment 	68,793 	58,254 	54,047
+Row:Provision for bad debt expense 	1,909 	516 	249
+Row:Other amortization 	649 	1,165 	1,561
+Row:Debt issuance cost amortization 	2,489 	2,135 	2,787
+Row:Debt discount amortization, net of premium amortization 	199 	67 	(111 )
+Row:Stock - based compensation expense 	9,814 	7,675 	7,208
+Row:Deferred income taxes 	15,996 	28,470 	21,924
+Row:Equity interest in earnings of investee 	(488 	) (283 ) 	(406 )
+Row:Asset impairment charges 	17,955 	6,594 	9,872
+Row:Loss (gain) on disposal of dealerships and property and equipment 	(3,089 	) (13,323 ) 	267
+Row:Loss (gain) on exit of leased dealerships 	1,848 	302 	2,915
+Row:(Gain) loss on retirement of debt 	- 	- 	28,238
+Row:Changes in assets and liabilities that relate to operations:
+			Row:Receivables 	(9,048 	) (2,436 ) 	(9,092 )
+Row:Inventories 	(291,100 	) (56,203 ) 	(78,646 )
+Row:Other assets 	(19,785 	) (278 ) 	(9,834 )
+Row:Notes payable - floor plan - trade 	181,848 	30,588 	25,835
+Row:Trade accounts payable and other liabilities 	5,190 	190 	(11,984 )
+Row:Total adjustments 	(16,820 	) 63,433 	44,830
+Row:Net cash provided by (used in) operating activities 	69,491 	160,650 	126,448
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+			Row:Purchase of businesses, net of cash acquired 	- 	(50,867 ) 	(88,184 )
+Row:Purchases of land, property and equipment 	(173,249 	) (146,432 ) 	(157,617 )
+Row:Proceeds from sales of property and equipment 	1,397 	14,122 	769
+Row:Proceeds from sales of dealerships 	7,978 	74,823 	-
+Row:Distributions from equity investee 	225 	400 	500
+Row:Net cash provided by (used in) investing activities 	(163,649 	) (107,954 ) 	(244,532 )
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+			Row:Net (repayments) borrowings on notes payable - floor plan - non-trade 	74,249 	(19,543 ) 	46,638
+Row:Borrowings on revolving credit facilities 	402,093 	179,791 	231,698
+Row:Repayments on revolving credit facilities 	(397,890 	) (179,791 ) 	(237,874 )
+Row:Proceeds from issuance of long-term debt 	69,075 	44,454 	353,693
+Row:Debt issuance costs 	(491 	) (2,959 ) 	(5,394 )
+Row:Principal payments on long-term debt 	(19,424 	) (19,482 ) 	(19,426 )
+Row:Repurchase of debt securities 	- 	- 	(233,573 )
+Row:Purchases of treasury stock 	(34,483 	) (53,046 ) 	(17,067 )
+Row:Income tax benefit (expense) ) associated with stock compensation plans 	1,888 	1,033 	856
+Row:Issuance of shares under stock compensation plans 	3,662 	3,274 	2,171
+Row:Dividends paid 	(5,078 	) (5,261 () 	(3,993 ()
+Row:Net cash provided by (used in) financing activities 	93,601 	(51,530 ) 	117,729
+Row:NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS 	(557 	) 1,166 	(355 )
+Row:CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR 	4,182 	3,016 	3,371
+Row:CASH AND CASH EQUIVALENTS, END OF YEAR 	$ 3,625 	$ 4,182 	$ 3,016
+Row:SUPPLEMENTAL SCHEDULE OF NON-CASH FINANCING ACTIVITIES:
+Change in fair value of cash flow interest rate swap agreements (net of tax benefit of $205 and
+expense of $1,769 and $6,514 in the years ended December 31, 2015, 2014 and 2013, , respectively) 	$ 335 	$ 2,886 	$ 10,629
+Row:SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION:
+			Row:Cash paid (received) during the period for:
+			Row:Interest, including amount capitalized 	$ 71,328 	$ 71,776 	$ 81,626
+Row:Income taxes 	$ 38,474 	$ 50,525 	$ 30,158
+Row:December 31, 	December 31,
+Row:2015 	2014
+Row:Current Assets:
+		Row:Cash and cash equivalents $ 	3,625 	$ 4,182
+Row:Receivables, net 	378,520 	371,994
+Row:Inventories 	1,599,581 	1,311,702
+Row:Other current assets 	101,386 	81,081
+Row:Total current assets 	2,083,112 	1,768,959
+Row:Property and Equipment, net 	886,902 	799,319
+Row:Goodwill 	471,493 	475,929
+Row:Other Intangible Assets, net 	80,876 	83,720
+Row:Other Assets 	39,998 	40,326
+Row:Total Assets $ 	3,562,381 	$ 3,168,253
+Row:Receivables, net 	378,520 	371,994
+Row:Inventories 	1,599,581 	1,311,702
+Row:Other current assets 	101,386 	81,081
+Row:Total current assets 	2,083,112 	1,768,959
+Row:Property and Equipment, net 	886,902 	799,319
+Row:Goodwill 	471,493 	475,929
+Row:Other Intangible Assets, net 	80,876 	83,720
+Row:Other Assets Total Assets $ 	39,998 3,562,381 	40,326
+$ 3,168,253
+Row:LIABILITIES AND STOCKHOLDERS' EQUITY
+		Row:Current Liabilities:
+		Row:Notes payable - floor plan - trade $ Notes payable - floor plan - non-trade 	893,466 625,367 	$ 711,618
+551,118
+Row:Trade accounts payable Accrued interest 	131,204 12,640 	132,405
+12,409
+Row:Other accrued liabilities 	218,507 	208,654
+Row:Current maturities of long-term debt 	33,437 	30,802
+Row:Total current liabilities 	1,914,621 	1,647,006
+Row:Long-Term Debt 	781,145 	727,728
+Row:Other Long-Term Liabilities 	64,245 	69,200
+Row:Deferred Income Taxes Commitments and Contingencies
+Stockholders' Equity:
+	73,322 	57,601
+Row:Class A convertible preferred stock, none issued 	- 	-
+Row:Class A common stock, $0.01 par value; 100,000,000 shares authorized;
+62,586,381 shares issued and 37,910,938 shares outstanding at
+December 31, 2015; 62,046,966 shares issued and 38,890,533 shares
+		Row:outstanding at December 31, 2014 	626 	620
+Row:Class B common stock, $0.01 par value; 30,000,000 shares authorized;
+12,029,375 shares issued and outstanding at December 31, 2015
+and December 31, 2014 	121 	121
+Row:Paid-in capital 	713,118 	697,760
+Row:Retained earnings 	457,010 	376,353
+Row:Accumulated other comprehensive income (loss) 	(5,632) 	(6,424)
+Row:Treasury stock, at cost; 24,675,443 Class A common stock shares held
+at December 31, 2015 and 23,156,433 Class A common stock shares
+held at December 31, 2014 Total Stockholders' Equity 	(436,195) 729,048 	(401,712)
+666,718
+Row:Total Liabilities and Stockholders' Equity $ 	3,562,381 	$ 3,168,253
+Row:Notes payable - floor plan - trade 	$ 893,466 	$ 711,618
+Row:Notes payable - floor plan - non-trade 	625,367 	551,118
+Row:Trade accounts payable 	131,204 	132,405
+Row:Accrued interest 	12,640 	12,409
+Row:Other accrued liabilities 	218,507 	208,654
+Row:Current maturities of long-term debt 	33,437 	30,802
+Row:Total current liabilities 	1,914,621 	1,647,006
+Row:Long-Term Debt 	781,145 	727,728
+Row:Other Long-Term Liabilities 	64,245 	69,200
+Row:Deferred Income Taxes 	73,322 	57,601
+Row:Commitments and Contingencies
+		Row:December 31, 2015; 62,046,966 shares issued and 38,890,533 shares
+outstanding at December 31, 2014 	626 	620
+Row:Class B common stock, $0.01 par value; 30,000,000 shares authorized;
+		Row:12,029,375 shares issued and outstanding at December 31, 2015
+		Row:and December 31, 2014 	121 	121
+Row:Paid-in capital 	713,118 	697,760
+Row:Retained earnings 	457,010 	376,353
+Row:Accumulated other comprehensive income (loss) 	(5,632) 	(6,424)
+Row:Treasury stock, at cost; 24,675,443 Class A common stock shares held
+		Row:at December 31, 2015 and 23,156,433 Class A common stock shares
+held at December 31, 2014 	(436,195) 	(401,712)
+Row:Total Stockholders' Equity 	729,048 	666,718
+Row:Total Liabilities and Stockholders' Equity 	$ 3,562,381 	$ 3,168,253
+Row:New vehicles $ 	5,265,401 $ 5,124,029 	$ 4,989,185
+Row:Used vehicles 	2,512,024 2,310,247 	2,176,034
+Row:Wholesale vehicles 	155,339 166,158 	175,328
+Row:Total vehicles 	7,932,764 7,600,434 	7,340,547
+Row:Parts, service and collision repair 	1,364,947 1,296,570 	1,230,178
+Row:Finance, insurance and other, net 	326,588 300,095 	272,443
+Row:Total revenues 	9,624,299 9,197,099 	8,843,168
+Row:Cost of Sales:
+		Row:New vehicles 	(4,997,472 ) (4,835,403) 	(4,699,582 Row:Used vehicles 	(2,349,982 ) (2,153,001) 	(2,025,634 Row:Wholesale vehicles 	(162,707 ) (169,774) 	(183,259 Row:Total vehicles 	(7,510,161 ) (7,158,178) 	(6,908,475 Row:Parts, service and collision repair Total cost of sales 	(699,526 ) (673,021) (8,209,687 ) (7,831,199) 	(633,086 (7,541,561 Row:Gross profit Selling, general and administrative expenses 	1,414,612 1,365,900 (1,110,565 ) (1,067,433) 	1,301,607
+(1,003,125 Row:Impairment charges 	(17,955 ) (6,594) 	(9,872 Row:Depreciation and amortization 	(68,799 ) (58,260) 	(54,007 Row:Operating income (loss) 	217,293 233,613 	234,603
+Row:Other income (expense):
+		Row:Interest expense, floor plan 	(21,326 ) (18,793) 	(21,954 Row:Interest expense, other, net 	(50,910 ) (53,190) 	(55,485 Row:Other income (expense), net 	99 97 	(28,143 Row:Total other income (expense) 	(72,137 ) (71,886) 	(105,582 Row:Income (loss) from continuing operations before taxes 	145,156 161,727 	129,021
+Row:Provision for income taxes for continuing operations - benefit (expense) 	(57,065 ) (63,168) 	(44,343 Row:Income (loss) from continuing operations 	88,091 98,559 	84,678
+Row:Discontinued operations:
+		Row:Income (loss) from discontinued operations before taxes 	(2,883 ) (2,164) 	(4,017 Row:Provision for income taxes for discontinued operations - - benefit (expense) Income (loss) from discontinued operations Net income (loss) $ 	1,103 822 (1,780 ) (1,342) 86,311 $ 97,217 	957
+(3,060 $ 81,618
+Row:Basic earnings (loss) per common share:
+		Row:Earnings (loss) per share from continuing operations $ 	1.74 $ 1.89 	$ 1.60
+Row:Earnings (loss) per share from discontinued operations 	(0.03 ) (0.03) 	(0.06 Row:Earnings (loss) per common share $ 	1.71 $ 1.86 	$ 1.54
+Row:Weighted average common shares outstanding 	50,489 52,065 	52,556
+Row:Diluted earnings (loss) per common share:
+		Row:Earnings (loss) per share from continuing operations $ Earnings (loss) per share from discontinued operations 	1.73 $ 1.87 (0.03 ) (0.03) 	$ 1.59
+(0.06 Row:Earnings (loss) per share from continuing operations $ 	1.74 $ 1.89 	$ 1.60
+Row:Earnings (loss) per share from discontinued operations 	(0.03 ) (0.03) 	(0.06 )
+Row:Earnings (loss) per common share $ 	1.71 $ 1.86 	$ 1.54
+Row:Weighted average common shares outstanding 	50,489 52,065 	52,556
+Row:Diluted earnings (loss) per common share:
+		Row:Earnings (loss) per share from continuing operations $ 	1.73 $ 1.87 	$ 1.59
+Row:Earnings (loss) per share from discontinued operations 	(0.03 ) (0.03) 	(0.06 )
+Row:Earnings (loss) per common share $ 	1.70 $ 1.84 	$ 1.53
+Row:Weighted average common shares outstanding 	50,883 52,563 	52,941
+Row:Dividends declared per common share $ 	0.11 $ 0.10 	$ 0.10
+Row:	2015 2014 2013
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+	(Dollars in thousands)
+Row:Net income (loss) $ 	86,311 $ 97,217 $ 81,618
+Row:Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities:
+Depreciation and amortization of property, plant and equipment Provision for bad debt expense 	68,793 58,254 54,047
+1,909 516 249
+Row:Other amortization Debt issuance cost amortization 	649 1,165 1,561
+2,489 2,135 2,787
+Row:Debt discount amortization, net of premium amortization 	199 67 (111 )
+Row:Stock - based compensation expense Deferred income taxes Equity interest in earnings of investee 	9,814 7,675 7,208
+15,996 28,470 21,924
+(488 ) (283 ) (406 )
+Row:Asset impairment charges Loss (gain) on disposal of dealerships and property and equipment 	17,955 6,594 9,872
+(3,089 ) (13,323 ) 267
+Row:Loss (gain) on exit of leased dealerships 	1,848 302 2,915
+Row:(Gain) loss on retirement of debt Changes in assets and liabilities that relate to operations:
+	- - 28,238
+Row:Receivables 	(9,048 ) (2,436 ) (9,092 )
+Row:Inventories 	(291,100 ) (56,203 ) (78,646 )
+Row:Other assets 	(19,785 ) (278 ) (9,834 )
+Row:Notes payable - - floor plan - - trade 	181,848 30,588 25,835
+Row:Trade accounts payable and other liabilities 	5,190 190 (11,984 )
+Row:Total adjustments 	(16,820 ) 63,433 44,830
+Row:Net cash provided by (used in) operating activities CASH FLOWS FROM INVESTING ACTIVITIES:
+	69,491 160,650 126,448
+Row:Purchase of businesses, net of cash acquired 	- (50,867 ) (88,184 )
+Row:Purchases of land, property and equipment Proceeds from sales of property and equipment 	(173,249 ) (146,432 ) (157,617 )
+1,397 14,122 769
+Row:Proceeds from sales of dealerships 	7,978 74,823 -
+Row:Distributions from equity investee 	225 400 500
+Row:Net cash provided by (used in) investing activities 	(163,649 ) (107,954 ) (244,532 )
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+	Row:Net (repayments) borrowings on notes payable - - floor plan - - non-trade Borrowings on revolving credit facilities 	74,249 (19,543 ) 46,638
+402,093 179,791 231,698
+Row:Repayments on revolving credit facilities 	(397,890 ) (179,791 ) (237,874 )
+Row:Proceeds from issuance of long-term debt 	69,075 44,454 353,693
+Row:Debt issuance costs 	(491 ) (2,959 ) (5,394 )
+Row:Principal payments on long-term debt 	(19,424 ) (19,482 ) (19,426 )
+Row:Repurchase of debt securities 	- - (233,573 )
+Row:Purchases of treasury stock 	(34,483 ) (53,046 ) (17,067 )
+Row:Income tax benefit (expense) associated with stock compensation plans 	1,888 1,033 856
+Row:Issuance of shares under stock compensation plans Dividends paid Net cash provided by (used in) financing activities 	3,662 3,274 2,171
+(5,078 ) (5,261 ) (3,993 )
+93,601 (51,530 ) 117,729
+Row:NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS 	(557 ) 1,166 (355 )
+Row:CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR CASH AND CASH EQUIVALENTS, END OF YEAR $ SUPPLEMENTAL SCHEDULE OF NON-CASH FINANCING ACTIVITIES:
+Change in fair value of cash flow interest rate swap agreements (net of tax benefit of $205 and
+expense of $1,769 and $6,514 in the years ended December 31, 2015, 2014 and 2013, respectively) $ SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION:
+	4,182 3,016 3,371
+3,625 $ 4,182 $ 3,016
+335 $ 2,886 $ 10,629
+Row:Cash paid (received) during the period for:
+	Row:Interest, including amount capitalized $ Income taxes $ 	71,328 $ 71,776 $ 81,626
+38,474 $ 50,525 $ 30,158

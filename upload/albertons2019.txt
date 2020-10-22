@@ -1,0 +1,85 @@
+Row:Current assets
+	Row:Cash and cash equivalents $ 	926.1 $ 670.3
+Row:Receivables, net 	586.2 615.3
+Row:Inventories, net 	4,332.8 4,421.1
+Row:Prepaid assets 	316.2 368.6
+Row:Other current assets 	88.7 73.3
+Row:Total current assets 	6,250.0 6,148.6
+Row:Property and equipment, net 	9,861.3 10,770.3
+Row:Intangible assets, net 	2,834.5 3,142.5
+Row:Goodwill 	1,183.3 1,183.3
+Row:Other assets 	647.5 567.6
+Row:TOTAL ASSETS $ 	20,776.6 $ 21,812.3
+Row:LIABILITIES
+	Row:Current liabilities
+	Row:Accounts payable $ 	2,918.7 $ 2,833.0
+Row:Accrued salaries and wages 	1,054.7 984.1
+Row:Current maturities of long-term debt and capitalized lease obligations 	148.8 168.2
+Row:Current portion of self-insurance liability 	306.8 296.0
+Row:Taxes other than income taxes 	309.0 323.5
+Row:STOCKHOLDERS' EQUITY
+	Row:Preferred stock, $0.01 par value; 30,000,000 shares authorized, no shares issued and outstanding as of
+	Row:February 23, 2019 and February 24, 2018, respectively 	— —
+Row:Common stock, $0.01 par value; 1,000,000,000 shares authorized, 277,882,010 and 279,654,028 shares
+issued and outstanding as of February 23, 2019 and February 24, 2018, respectively Additional paid-in capital 	2.8 2.8
+1,814.2 1,773.3
+Row:Treasury stock, at cost, 1,772,018 and no shares held as of February 23, 2019 and February 24, 2018,
+respectively 	(25.8) —
+Row:Accumulated other comprehensive income 	91.3 191.1
+Row:Accumulated deficit 	(431.8) (569.0)
+Row:Total stockholders' equity 	1,450.7 1,398.2
+Row:TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY $ 	20,776.6 $ 21,812.3
+Row:Net sales and other revenue $ 	60,534.5 	$ 59,924.6 	$ 59,678.2
+Row:Cost of sales 	43,639.9 	43,563.5 	43,037.7
+Row:Gross profit 	16,894.6 	16,361.1 	16,640.5
+Row:Selling and administrative expenses 	16,107.3 	16,275.4 	16,032.9
+Row:Goodwill impairment 	— 	142.3 	—
+Row:Operating income (loss) 	787.3 	(56.6 	) 607.6
+Row:Interest expense, net 	830.8 	874.8 	1,003.8
+Row:Loss (gain) on debt extinguishment 	8.7 	(4.7 	) 111.7
+Row:Other income 	(104.4 ) 	(9.2 	) (44.3 )
+Row:Income (loss) before income taxes 	52.2 	(917.5 	) (463.6 )
+Row:Income tax benefit 	(78.9 ) 	(963.8 	) (90.3 )
+Row:Net income (loss) $ 	131.1 	$ 46.3 	$ (373.3 )
+Row:Other comprehensive income (loss):
+			Row:(Loss) gain on interest rate swaps, net of tax 	(15.5 ) 	47.0 	39.4
+Row:Recognition of pension (loss) gain, net of tax 	(83.1 ) 	92.2 	82.0
+Row:Foreign currency translation adjustment, net of tax 	(0.3 ) 	65.0 	(20.5 )
+Row:Other 	(0.9 ) 	(0.3 	) (1.0 )
+Row:Other comprehensive (loss) income $ 	(99.8 ) 	$ 203.9 	$ 99.9
+Row:Comprehensive income (loss) $ 	31.3 	$ 250.2 	$ (273.4 )
+Row:23, 	25, 2017
+2019
+24, 2018
+Row:Cash flows from operating activities:
+	Row:Net income (loss) $ 	131.1 $ 46.3 $ (373.3)
+Row:Adjustments to reconcile net income (loss) to net cash provided by operating
+activities:
+	Row:Net (gain) loss on property dispositions, asset impairment and lease exit
+costs 	(165.0) 66.7 (39.2)
+Row:Goodwill impairment 	— 142.3 —
+Row:Depreciation and amortization 	1,738.8 1,898.1 1,804.8
+Row:LIFO expense (benefit) 	8.0 3.0 (7.9)
+Row:Deferred income tax 	(81.5) (1,094.1) (219.5)
+Row:Pension and post-retirement benefits expense 	24.5 (0.9) 95.5
+Row:Contributions to pension and post-retirement benefit plans 	(199.3) (21.9) (11.5)
+Row:Amortization and write-off of deferred financing costs 	42.7 56.1 84.4
+Row:Loss (gain) on debt extinguishment 	8.7 (4.7) 111.7
+Row:Equity-based compensation expense 	47.7 45.9 53.3
+Row:Other 	(44.0) 104.1 63.3
+Row:Changes in operating assets and liabilities, net of effects of acquisition of
+businesses:
+	Row:Receivables, net 	28.8 21.7 (9.2)
+Row:Inventories, net 	80.3 45.6 2.7
+Row:Accounts payable, accrued salaries and wages and other accrued liabilities 	98.4 (158.2) 233.6
+Row:Self-insurance assets and liabilities 	(48.7) (55.3) (42.5)
+Row:Other operating assets and liabilities 	17.4 (75.9) 67.3
+Row:Net cash provided by operating activities 	1,687.9 1,018.8 1,813.5
+Row:Cash flows from investing activities:
+	Row:Business acquisitions, net of cash acquired 	— (148.8) (220.6)
+Row:Payments for property, equipment, intangibles, including payments for lease
+buyouts 	(1,362.6) (1,547.0) (1,414.9)
+Row:Proceeds from sale of assets 	1,252.0 939.2 477.0
+Row:Proceeds from sale of Casa Ley 	— 344.2 —
+Row:Other 	23.8 (56.6) 78.9
+Row:Net cash used in investing activities 	(86.8) (469.0) (1,079.6)

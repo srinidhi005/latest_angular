@@ -1,0 +1,108 @@
+Row:(in thousands, except per common share amounts) 	2018 2017 	2016
+Row:REVENUE 	$ 4,454,662 $ 4,757,208 $ 	4,973,076
+Row:COST OF OPERATIONS 	(4,000,209) (4,302,803) 	(4,515,886)
+Row:GROSS PROFIT 	454,453 454,405 	457,190
+Row:General and administrative expenses 	(262,577) (274,928) 	(255,270)
+Row:INCOME FROM CONSTRUCTION OPERATIONS 	191,876 179,477 	201,920
+Row:Other income, net 	4,256 43,882 	6,977
+Row:Interest expense 	(63,519) (69,384) 	(59,782)
+Row:INCOME BEFORE INCOME TAXES 	132,613 153,975 	149,115
+Row:Income tax (expense) benefit 	(34,832) 569 	(53,293)
+Row:NET INCOME 	97,781 154,544 	95,822
+Row:LESS: NET INCOME ATTRIBUTABLE TO NONCONTROLLING
+INTERESTS 	14,345 6,162 	—
+Row:NET INCOME ATTRIBUTABLE TO TUTOR PERINI CORPORATION 	$ 83,436 $ 148,382 $ 	95,822
+Row:BASIC EARNINGS PER COMMON SHARE 	$ 1.67 $ 2.99 $ 	1.95
+Row:DILUTED EARNINGS PER COMMON SHARE 	$ 1.66 $ 2.92 $ 	1.92
+Row:WEIGHTED-AVERAGE COMMON SHARES OUTSTANDING:
+		Row:BASIC 	49,952 49,647 	49,150
+Row:DILUTED 	50,301 50,759 	49,864
+Row:ASSETS
+		Row:CURRENT ASSETS:
+		Row:Cash and cash equivalents ($43,131 and $53,067 related to VIEs) $ Restricted cash 	116,075 3,788 	$ 192,868
+4,780
+Row:Restricted investments 	58,142 	53,014
+Row:Accounts receivable ($62,482 and $30,003 related to VIEs) 	1,261,072 	1,265,717
+Row:Retainage receivable ($36,724 and $12,410 related to VIEs) 	478,744 	535,939
+Row:Costs and estimated earnings in excess of billings 	1,142,295 	932,758
+Row:Other current assets ($30,185 and $0 related to VIEs) 	115,527 	89,316
+Row:Total current assets PROPERTY AND EQUIPMENT:
+	3,175,643 	3,074,392
+Row:Land 	41,599 	41,382
+Row:Building and improvements 	125,193 	125,029
+Row:Construction equipment 	486,034 	477,988
+Row:Other equipment 	181,578 	182,288
+Row:	834,404 	826,687
+Row:Less accumulated depreciation 	(343,735) 	(359,188)
+Row:Total property and equipment, net ($51,508 and $11,641 related to VIEs) 	490,669 	467,499
+Row:GOODWILL 	585,006 	585,006
+Row:INTANGIBLE ASSETS, NET 	85,911 	89,454
+Row:OTHER ASSETS 	50,523 	47,772
+Row:TOTAL ASSETS $ 	4,387,752 	$ 4,264,123
+Row:LIABILITIES AND EQUITY
+		Row:CURRENT LIABILITIES:
+Current maturities of long-term debt $ 	16,767 	$ 30,748
+Row:Accounts payable ($18,070 and $19,243 related to VIEs) 	621,728 	699,971
+Row:Retainage payable Billings in excess of costs and estimated earnings ($263,764 and $120,952 related to VIEs) Accrued expenses and other current liabilities ($34,828 and $0 related to VIEs) Total current liabilities 	211,956 573,190 174,325 1,597,966 	261,820
+456,869
+132,438
+1,581,846
+Row:LONG-TERM DEBT, less current maturities, net of unamortized discounts and debt issuance costs
+totaling $34,998 and $45,631 	744,737 	705,528
+Row:DEFERRED TAX LIABILITIES 	105,521 	108,504
+Row:OTHER LONG-TERM LIABILITIES 	151,639 	163,465
+Row:TOTAL LIABILITIES 	2,599,863 	2,559,343
+Row:COMMITMENTS AND CONTINGENCIES (Note 8)
+		Row:EQUITY
+		Row:Stockholders' equity:
+		Row:Stockholders' equity:
+Preferred stock – authorized 1,000,000 shares ($1 par value), none issued 	— 	—
+Row:Common stock – authorized 75,000,000 shares ($1 par value), issued and outstanding 50,025,996 and
+		Row:49,781,010 shares 	50,026 	49,781
+Row:Additional paid-in capital 	1,102,919 	1,084,205
+Row:Retained earnings 	701,681 	622,007
+Row:Accumulated other comprehensive loss 	(45,449) 	(42,718)
+Row:Total stockholders' equity 	1,809,177 	1,713,275
+Row:Noncontrolling interests 	(21,288) 	(8,495)
+Row:TOTAL EQUITY 	1,787,889 	1,704,780
+Row:TOTAL LIABILITIES AND EQUITY $ 	4,387,752 	$ 4,264,123
+Row:(in thousands) 	2018 2017 	2016
+Row:Cash Flows from Operating Activities:
+		Row:Net income $ Adjustments to reconcile net income to net cash provided by operating activities:
+	97,781 $ 154,544 $ 	95,822
+Row:Depreciation 	43,724 48,387 	63,759
+Row:Amortization of intangible assets 	3,543 3,543 	3,543
+Row:Share-based compensation expense 	22,782 21,174 	13,423
+Row:Excess income tax benefit from share-based compensation 	— — 	(269)
+Row:Change in debt discounts and deferred debt issuance costs 	12,072 17,595 	10,968
+Row:Deferred income taxes Loss on sale of property and equipment 	(449) (23,096) 402 1,131 	(10,169)
+453
+Row:Changes in other components of working capital 	(156,844) (60,214) 	(90,530)
+Row:Other long-term liabilities 	(2,007) 3,656 	28,210
+Row:Other, net 	398 (3,170) 	(1,874)
+Row:NET CASH PROVIDED BY OPERATING ACTIVITIES 	21,402 163,550 	113,336
+Row:Cash Flows from Investing Activities:
+		Row:Acquisition of property and equipment 	(77,069) (30,280) 	(15,743)
+Row:Proceeds from sale of property and equipment 	6,387 2,744 	1,899
+Row:Investments in securities Proceeds from maturities and sales of investments in securities 	(20,848) (60,967) 21,322 1,370 	—
+—
+Row:NET CASH USED IN INVESTING ACTIVITIES 	(70,208) (87,133) 	(13,844)
+Row:Cash Flows from Financing Activities:
+		Row:Proceeds from debt 	1,753,160 2,161,384 	1,353,895
+Row:Repayment of debt 	(1,738,314) (2,195,068) 	(1,562,684)
+Row:Business acquisition related payment 	(15,951) — 	—
+Row:Issuance of convertible notes 	— — 	200,000
+Row:Cash payments related to share-based compensation 	(2,671) (11,769) 	(584)
+Row:Excess income tax benefit from share-based compensation 	— — 	269
+Row:Distributions paid to noncontrolling interests 	(29,000) (17,499) 	—
+Row:Contributions from noncontrolling interests 	3,797 2,842 	—
+Row:Debt issuance and extinguishment costs 	— (15,266) 	(15,086)
+Row:NET CASH USED IN FINANCING ACTIVITIES 	(28,979) (75,376) 	(24,190)
+Row:Net increase (decrease) in cash, cash equivalents and restricted cash 	(77,785) 1,041 	75,302
+Row:Cash, cash equivalents and restricted cash at beginning of year 	197,648 196,607 	121,305
+Row:Cash, cash equivalents and restricted cash at end of year $ 	119,863 $ 197,648 $ 	196,607
+Row:Acquisition of property and equipment 	(77,069) 	(30,280) 	(15,743)
+Row:Proceeds from sale of property and equipment 	6,387 	2,744 	1,899
+Row:Investments in securities 	(20,848) 	(60,967) 	—
+Row:Proceeds from maturities and sales of investments in securities 	21,322 	1,370 	—
+Row:NET CASH USED IN INVESTING ACTIVITIES 	(70,208) 	(87,133) 	(13,844)

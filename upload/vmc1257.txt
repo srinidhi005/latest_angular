@@ -1,0 +1,134 @@
+Row:For the years ended December 31
+in thousands, except per share data
+	2019 	2018 	2017
+Row:Total revenues Cost of revenues 	$ 4,929,103 3,673,202 	$ 4,382,869 $ 3,281,924 	3,890,296
+2,896,783
+Row:Gross profit 	1,255,901 	1,100,945 	993,513
+Row:Selling, administrative and general expenses 	370,548 	333,371 	324,972
+Row:Gain on sale of property, plant & equipment and businesses 	23,752 	14,944 	17,827
+Row:Other operating expense, net 	(31,647) 	(34,805) 	(47,324)
+Row:Operating earnings 	877,458 	747,713 	639,044
+Row:Other nonoperating income, net Interest income Interest expense 	9,243 1,155 130,155 	13,000 554 137,977 	13,357
+4,437
+295,522
+Row:Earnings from continuing operations before income taxes Income tax expense (benefit)
+Current Deferred 	757,701 58,941 76,257 	623,290 40,516 64,933 	361,316
+354
+(232,429)
+Row:Total income tax expense (benefit) 	135,198 	105,449 	(232,075)
+Row:Earnings from continuing operations Earnings (loss) on discontinued operations, net of tax 	622,503 (4,841) 	517,841 (2,036) 	593,391
+7,794
+Row:Net earnings Other comprehensive income (loss), net of tax
+Deferred gain on interest rate derivative Amortization of prior interest rate derivative loss Adjustment for funded status of benefit plans Amortization of actuarial loss and prior service cost for benefit plans 	$ 617,662 0 227 (26,892) 1,142 	$ 515,805 $ 2,496 226 (207) 4,365 	601,185
+0
+1,862
+(14,106)
+2,154
+Row:Other comprehensive income (loss) 	(25,523) 	6,880 	(10,090)
+Row:Comprehensive income 	$ 592,139 	$ 522,685 $ 	591,095
+Row:Basic earnings (loss) per share
+Continuing operations Discontinued operations Net earnings 	$ 4.71 (0.04) $ 4.67 	$ 3.91 $ (0.01) $ 3.90 $ 	4.48
+0.06
+4.54
+Row:Diluted earnings (loss) per share
+Continuing operations Discontinued operations Net earnings 	$ 4.67 (0.04) $ 4.63 	$ 3.87 $ (0.02) $ 3.85 $ 	4.40
+0.06
+4.46
+Row:Weighted-average common shares outstanding
+Basic Assuming dilution 	132,300 133,385 	132,393 133,926 	132,513
+134,878
+Row:The accompanying Notes to Consolidated Financial Statements are an integral part of 	these statements.
+		Row:As of December 31
+in thousands
+		Row:Assets
+Cash and cash equivalents 	$ 271,589 	$ 40,037
+Row:Restricted cash 	2,917 	4,367
+Row:Accounts and notes receivable
+Customers, less allowance for doubtful accounts
+2019 — $3,125; 2018 — $2,090 	532,012 	512,279
+Row:Other 	38,104 	28,499
+Row:Inventories 	458,308 	429,330
+Row:Other current assets 	76,396 	64,633
+Row:Total current assets Investments and long-term receivables 	1,379,326 60,709 	1,079,145
+44,615
+Row:Property, plant & equipment, net 	4,316,038 	4,237,307
+Row:Operating lease right-of-use assets, net Goodwill 	408,189 3,167,061 	0
+3,165,396
+Row:Other intangible assets, net 	1,091,475 	1,095,378
+Row:Other noncurrent assets 	225,995 	210,289
+Row:Total assets 	$ 10,648,793 	$ 9,832,130
+Row:Liabilities
+Current maturities of long-term debt 	25 	23
+Row:Short-term debt Trade payables and accruals 	0 265,159 	133,000
+216,473
+Row:Accrued salaries, wages and management incentives 	97,228 	91,960
+Row:Accrued interest Other current liabilities Total current liabilities Long-term debt 	19,167 153,984 535,563 2,784,315 	19,631
+141,463
+602,550
+2,779,357
+Row:Deferred income taxes, net 	633,039 	567,283
+Row:Deferred management incentive and other compensation 	22,856 	16,604
+Row:Pension benefits 	142,363 	119,587
+Row:Other postretirement benefits 	35,848 	35,274
+Row:Asset retirement obligations 	210,323 	225,726
+Row:Deferred revenue 	179,880 	186,397
+Row:Operating lease liabilities Other noncurrent liabilities 	388,042 94,707 	0
+96,449
+Row:Total liabilities 	$ 5,026,936 	$ 4,629,227
+Row:Other commitments and contingencies (Note 12)
+		Row:Equity
+Common stock, $1 par value, Authorized 480,000 shares,
+Outstanding 132,371 and 131,762 shares, respectively Capital in excess of par value 	132,371 2,791,353 	131,762
+2,798,486
+Row:Retained earnings 	2,895,871 	2,444,870
+Row:Accumulated other comprehensive loss 	(197,738) 	(172,215)
+Row:Total equity 	5,621,857 	5,202,903
+Row:For the years ended December 31
+in thousands
+	2019 	2018 	2017
+Row:Operating Activities
+Net earnings $ 	617,662 	$ 515,805 $ 	601,185
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities
+Depreciation, depletion, accretion and amortization Noncash operating lease expense 	374,596 35,344 	346,246 0 	305,965
+0
+Row:Net gain on sale of property, plant & equipment and businesses 	(23,752) 	(14,944) 	(17,827)
+Row:Contributions to pension plans Share-based compensation expense 	(8,882) 31,843 	(109,631) 25,215 	(20,023)
+26,635
+Row:Deferred tax expense (benefit) 	76,011 	64,639 	(235,697)
+Row:Cost of debt purchase 	0 	6,922 	140,772
+Row:(Increase) decrease in assets excluding the initial effects of business
+acquisitions and dispositions
+			Row:Accounts and notes receivable 	(29,734) 	63,230 	(81,561)
+Row:Inventories 	(28,273) 	(34,976) 	(14,121)
+Row:Prepaid expenses 	5,990 	(2,167) 	(28,445)
+Row:Other assets 	(61,195) 	(58,489) 	(23,759)
+Row:Increase (decrease) in liabilities excluding the initial effects of business
+acquisitions and dispositions
+			Row:Accrued interest and income taxes Trade payables and other accruals 	(4,644) 21,788 	12,148 40,181 	1,303
+9,823
+Row:Other noncurrent liabilities Other, net 	(51,150) 28,518 	(26,901) 5,499 	(32,592)
+13,020
+Row:Net cash provided by operating activities $ 	984,122 	$ 832,777 $ 	644,678
+Row:Investing Activities
+Purchases of property, plant & equipment Proceeds from sale of property, plant & equipment 	(384,094) 22,661 	(469,088) 22,210 	(459,566)
+15,756
+Row:Proceeds from sale of businesses Payment for businesses acquired, net of acquired cash Other, net Net cash used for investing activities $ 	1,744 (44,151) (11,997) (415,837) 	11,256 (221,419) (12,850) $ (669,891) 	287,292
+(1,109,725)
+(3,248)
+$ (1,269,491)
+Row:Financing Activities
+Proceeds from short-term debt Payment of short-term debt 	366,900 (499,900) 	739,900 (606,900) 	5,000
+(5,000)
+Row:Payment of current maturities and long-term debt Proceeds from issuance of long-term debt Debt issuance and exchange costs Settlements of interest rate derivatives Purchases of common stock 	(23) 0 0 0 (2,602) 	(892,055) 850,000 (45,513) 3,378 (133,983) 	(1,463,308)
+2,200,000
+(15,291)
+0
+(60,303)
+Row:Dividends paid 	(163,973) 	(148,109) 	(132,335)
+Row:Share-based compensation, shares withheld for taxes 	(38,585) 	(31,846) 	(25,323)
+Row:Net cash provided by (used for) financing activities $ 	(338,183) 	$ (265,128) $ 	503,440
+Row:Net increase (decrease) in cash and cash equivalents and restricted cash 	230,102 	(102,242) 	(121,373)
+Row:Cash and cash equivalents and restricted cash at beginning of year 	44,404 	146,646 	268,019
+Row:Cash and cash equivalents and restricted cash at end of year $ 	274,506 	$ 44,404 $ 	146,646
+Row:The accompanying Notes to Consolidated Financial Statements are an integral part of these 	statements.
+		

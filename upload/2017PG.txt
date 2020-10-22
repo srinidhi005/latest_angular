@@ -1,0 +1,220 @@
+Row:	2017 	2016 	2015
+Row:Operating Revenues
+			Row:Electric 	$ 13,124 	$ 13,864 $ 	13,657
+Row:Natural gas 	4,011 	3,802 	3,176
+Row:Total operating revenues 	17,135 	17,666 	16,833
+Row:Operating Expenses
+Cost of electricity 	4,309 	4,765 	5,099
+Row:Cost of natural gas 	746 	615 	663
+Row:Operating and maintenance 	6,270 	7,354 	6,951
+Row:Depreciation, amortization, and decommissioning 	2,854 	2,755 	2,612
+Row:Total operating expenses 	14,179 	15,489 	15,325
+Row:Operating Income 	2,956 	2,177 	1,508
+Row:Interest income 	31 	23 	9
+Row:Interest expense 	(888) 	(829) 	(773)
+Row:Other income, net 	72 	91 	117
+Row:Income Before Income Taxes 	2,171 	1,462 	861
+Row:Income tax provision (benefit) 	511 	55 	(27)
+Row:Net Income 	1,660 	1,407 	888
+Row:Preferred stock dividend requirement of subsidiary 	14 	14 	14
+Row:Income Available for Common Shareholders 	$ 1,646 	$ 1,393 $ 	874
+Row:Weighted Average Common Shares Outstanding, Basic 	512 	499 	484
+Row:Weighted Average Common Shares Outstanding, Diluted 	513 	501 	487
+Row:Net Earnings Per Common Share, Basic 	$ 3.21 	$ 2.79 $ 	1.81
+Row:Net Earnings Per Common Share, Diluted 	$ 3.21 	$ 2.78 $ 	1.79
+Row:	Balance at 	December 31,
+Row:	2017 	2016
+Row:ASSETS
+		Row:Current Assets
+		Row:Cash and cash equivalents $ 	449 	$ 177
+Row:Accounts receivable
+Customers (net of allowance for doubtful accounts of $64 and $58
+		Row:at respective dates) Accrued unbilled revenue 	1,243 946 	1,252
+1,098
+Row:Regulatory balancing accounts 	1,222 	1,500
+Row:Other 	861 	801
+Row:Regulatory assets 	615 	423
+Row:Inventories
+		Row:Gas stored underground and fuel oil 	115 	117
+Row:Materials and supplies 	366 	346
+Row:Income taxes receivable 	- 	160
+Row:Other 	464 	290
+Row:Total current assets 	6,281 	6,164
+Row:Property, Plant, and Equipment
+		Row:Electric 	55,133 	52,556
+Row:Gas 	19,641 	17,853
+Row:Construction work in progress 	2,471 	2,184
+Row:Other 	3 	2
+Row:Total property, plant, and equipment 	77,248 	72,595
+Row:Accumulated depreciation 	(23,459) 	(22,014)
+Row:Net property, plant, and equipment 	53,789 	50,581
+Row:Other Noncurrent Assets
+		Row:Regulatory assets Nuclear decommissioning trusts 	3,793 2,863 	7,951
+2,606
+Row:Income taxes receivable 	65 	70
+Row:Other 	1,221 	1,226
+Row:Total other noncurrent assets 	7,942 	11,853
+Row:TOTAL ASSETS $ 	68,012 	$ 68,598
+Row:	Year ended December 31,
+2017 2016 	2015
+Row:Cash Flows from Operating Activities
+		Row:Net income $ 	1,660 $ 1,407 $ 	888
+Row:Adjustments to reconcile net income to net cash provided by
+		Row:operating activities:
+		Row:Depreciation, amortization, and decommissioning 	2,854 2,755 	2,612
+Row:Allowance for equity funds used during construction 	(89) (112) 	(107)
+Row:Deferred income taxes and tax credits, net 	1,254 1,030 	693
+Row:Disallowed capital expenditures Other 	47 507 307 379 	407
+326
+Row:Effect of changes in operating assets and liabilities:
+		Row:Accounts receivable 	67 (473) 	(177)
+Row:Butte-related insurance receivable 	(21) (575) 	-
+Row:Inventories 	(18) (24) 	37
+Row:Accounts payable 	173 180 	(55)
+Row:Butte-related third-party claims 	(129) 690 	-
+Row:Income taxes receivable/payable 	160 (5) 	43
+Row:Other current assets and liabilities 	42 83 	(288)
+Row:Regulatory assets, liabilities, and balancing accounts, net 	(387) (1,214) 	(244)
+Row:Other noncurrent assets and liabilities 	57 (219) 	(355)
+Row:Net cash provided by operating activities 	5,977 4,409 	3,780
+Row:Cash Flows from Investing Activities
+		Row:Capital expenditures 	(5,641) (5,709) 	(5,173)
+Row:Decrease in restricted cash Proceeds from sales and maturities of nuclear decommissioning
+	- 227 	64
+Row:trust investments 	1,291 1,295 	1,268
+Row:Purchases of nuclear decommissioning trust investments 	(1,323) (1,352) 	(1,392)
+Row:Other 	23 13 	22
+Row:Net cash used in investing activities 	(5,650) (5,526) 	(5,211)
+Row:Cash Flows from Financing Activities
+Net issuances (repayments) of commercial paper, net of discount
+of $5, $6, and $3 at respective dates 	(840) (9) 	683
+Row:Short-term debt financing 	750 500 	-
+Row:Short-term debt matured 	(500) - 	(300)
+Row:Proceeds from issuance of long-term debt, net of premium, discount and
+		Row:issuance costs of $32, $17 and $27 at respective dates 	2,713 983 	1,123
+Row:Long-term debt matured or repurchased 	(1,445) (160) 	-
+Row:Common stock issued 	395 822 	780
+Row:Common stock dividends paid 	(1,021) (921) 	(856)
+Row:Other 	(107) (44) 	(27)
+Row:Net cash provided by financing activities 	(55) 1,171 	1,403
+Row:Net change in cash and cash equivalents 	272 54 	(28)
+Row:Cash and cash equivalents at January 1 	177 123 	151
+Row:Cash and cash equivalents at December 31 $ 	449 $ 177 $ 	123
+Row:Supplemental disclosures of cash flow information
+	Row:Cash received (paid) for:
+	Row:Interest, net of amounts capitalized $ 	(790) $ (726) $ (684)
+Row:Income taxes, net 	162 231 77
+Row:Supplemental disclosures of noncash investing and financing activities
+	Row:Common stock dividends declared but not yet paid $ 	- $ 248 $ 224
+Row:Capital expenditures financed through accounts payable 	501 403 440
+Row:Noncash common stock issuances 	21 20 21
+Row:	2017 	2016 	2015
+Row:Operating Revenues
+			Row:Electric 	$ 13,124 	$ 13,864 $ 	13,657
+Row:Natural gas 	4,011 	3,802 	3,176
+Row:Total operating revenues 	17,135 	17,666 	16,833
+Row:Operating Expenses
+Cost of electricity 	4,309 	4,765 	5,099
+Row:Cost of natural gas 	746 	615 	663
+Row:Operating and maintenance 	6,270 	7,354 	6,951
+Row:Depreciation, amortization, and decommissioning 	2,854 	2,755 	2,612
+Row:Total operating expenses 	14,179 	15,489 	15,325
+Row:Operating Income 	2,956 	2,177 	1,508
+Row:Interest income 	31 	23 	9
+Row:Interest expense 	(888) 	(829) 	(773)
+Row:Other income, net 	72 	91 	117
+Row:Income Before Income Taxes 	2,171 	1,462 	861
+Row:Income tax provision (benefit) 	511 	55 	(27)
+Row:Net Income 	1,660 	1,407 	888
+Row:Preferred stock dividend requirement of subsidiary 	14 	14 	14
+Row:Income Available for Common Shareholders 	$ 1,646 	$ 1,393 $ 	874
+Row:Weighted Average Common Shares Outstanding, Basic 	512 	499 	484
+Row:Weighted Average Common Shares Outstanding, Diluted 	513 	501 	487
+Row:Net Earnings Per Common Share, Basic 	$ 3.21 	$ 2.79 $ 	1.81
+Row:Net Earnings Per Common Share, Diluted 	$ 3.21 	$ 2.78 $ 	1.79
+Row:	Balance at 	December 31,
+Row:	2017 	2016
+Row:ASSETS
+		Row:Current Assets
+		Row:Cash and cash equivalents $ 	449 	$ 177
+Row:Accounts receivable
+Customers (net of allowance for doubtful accounts of $64 and $58
+		Row:at respective dates) Accrued unbilled revenue 	1,243 946 	1,252
+1,098
+Row:Regulatory balancing accounts 	1,222 	1,500
+Row:Other 	861 	801
+Row:Regulatory assets 	615 	423
+Row:Inventories
+		Row:Gas stored underground and fuel oil 	115 	117
+Row:Materials and supplies 	366 	346
+Row:Income taxes receivable 	- 	160
+Row:Other 	464 	290
+Row:Total current assets 	6,281 	6,164
+Row:Property, Plant, and Equipment
+		Row:Electric 	55,133 	52,556
+Row:Gas 	19,641 	17,853
+Row:Construction work in progress 	2,471 	2,184
+Row:Other 	3 	2
+Row:Total property, plant, and equipment 	77,248 	72,595
+Row:Accumulated depreciation 	(23,459) 	(22,014)
+Row:Net property, plant, and equipment 	53,789 	50,581
+Row:Other Noncurrent Assets
+		Row:Regulatory assets Nuclear decommissioning trusts 	3,793 2,863 	7,951
+2,606
+Row:Income taxes receivable 	65 	70
+Row:Other 	1,221 	1,226
+Row:Total other noncurrent assets 	7,942 	11,853
+Row:TOTAL ASSETS $ 	68,012 	$ 68,598
+Row:	Year ended December 31,
+2017 2016 	2015
+Row:Cash Flows from Operating Activities
+		Row:Net income $ 	1,660 $ 1,407 $ 	888
+Row:Adjustments to reconcile net income to net cash provided by
+		Row:operating activities:
+		Row:Depreciation, amortization, and decommissioning 	2,854 2,755 	2,612
+Row:Allowance for equity funds used during construction 	(89) (112) 	(107)
+Row:Deferred income taxes and tax credits, net 	1,254 1,030 	693
+Row:Disallowed capital expenditures Other 	47 507 307 379 	407
+326
+Row:Effect of changes in operating assets and liabilities:
+		Row:Accounts receivable 	67 (473) 	(177)
+Row:Butte-related insurance receivable 	(21) (575) 	-
+Row:Inventories 	(18) (24) 	37
+Row:Accounts payable 	173 180 	(55)
+Row:Butte-related third-party claims 	(129) 690 	-
+Row:Income taxes receivable/payable 	160 (5) 	43
+Row:Other current assets and liabilities 	42 83 	(288)
+Row:Regulatory assets, liabilities, and balancing accounts, net 	(387) (1,214) 	(244)
+Row:Other noncurrent assets and liabilities 	57 (219) 	(355)
+Row:Net cash provided by operating activities 	5,977 4,409 	3,780
+Row:Cash Flows from Investing Activities
+		Row:Capital expenditures 	(5,641) (5,709) 	(5,173)
+Row:Decrease in restricted cash Proceeds from sales and maturities of nuclear decommissioning
+	- 227 	64
+Row:trust investments 	1,291 1,295 	1,268
+Row:Purchases of nuclear decommissioning trust investments 	(1,323) (1,352) 	(1,392)
+Row:Other 	23 13 	22
+Row:Net cash used in investing activities 	(5,650) (5,526) 	(5,211)
+Row:Cash Flows from Financing Activities
+Net issuances (repayments) of commercial paper, net of discount
+of $5, $6, and $3 at respective dates 	(840) (9) 	683
+Row:Short-term debt financing 	750 500 	-
+Row:Short-term debt matured 	(500) - 	(300)
+Row:Proceeds from issuance of long-term debt, net of premium, discount and
+		Row:issuance costs of $32, $17 and $27 at respective dates 	2,713 983 	1,123
+Row:Long-term debt matured or repurchased 	(1,445) (160) 	-
+Row:Common stock issued 	395 822 	780
+Row:Common stock dividends paid 	(1,021) (921) 	(856)
+Row:Other 	(107) (44) 	(27)
+Row:Net cash provided by financing activities 	(55) 1,171 	1,403
+Row:Net change in cash and cash equivalents 	272 54 	(28)
+Row:Cash and cash equivalents at January 1 	177 123 	151
+Row:Cash and cash equivalents at December 31 $ 	449 $ 177 $ 	123
+Row:Supplemental disclosures of cash flow information
+	Row:Cash received (paid) for:
+	Row:Interest, net of amounts capitalized $ 	(790) $ (726) $ (684)
+Row:Income taxes, net 	162 231 77
+Row:Supplemental disclosures of noncash investing and financing activities
+	Row:Common stock dividends declared but not yet paid $ 	- $ 248 $ 224
+Row:Capital expenditures financed through accounts payable 	501 403 440
+Row:Noncash common stock issuances 	21 20 21

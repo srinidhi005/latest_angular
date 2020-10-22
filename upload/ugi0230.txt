@@ -1,0 +1,206 @@
+Row:ASSETS
+	2019
+	2018
+Row:Current assets		Row:Cash and cash equivalents	447.1
+	452.6
+Row:Restricted cash	63.7	9.6
+Row:Accounts receivable (less allowances for doubtful accounts of $31.6 and $35.1, respectively)	640.7	751.9
+Row:Accrued utility revenues	14.6	14.0
+Row:Inventories	229.9	318.2
+Row:Utility regulatory assets	9.1
+	7.5
+Row:Derivative instruments	28.9
+	142.5
+Row:Prepaid expenses	72.2
+	130.2Row:Other current assets	60.0
+	61.6
+Row:Total current assets	1,566.2
+	1,888.1
+Row:Property, plant and equipment		Row:Non-utility	6,134.9	5,345.8Row:Utility
+	3,938.1	3,616.3Row:	10,073.0	8,962.1Row:Accumulated depreciation	(3,385.2)	(3,153.9)Row:Net property, plant, and equipment	6,687.8	5,808.2Row:Goodwill	3,456.4	3,160.4Row:Intangible assets, net	708.6	513.6
+Row:Utility regulatory assets	386.5
+	293.5
+Row:Derivative instruments
+	43.2
+	43.5
+Row:Other assets
+	497.9
+	273.6
+Row:Total assets	$
+13,346.6
+	$
+11,980.9
+Row:LIABILITIES AND EQUITY		Row:Current liabilities		Row:Current maturities of long-term debt	$
+24.1
+	$
+18.8
+Row:Short-term borrowings	796.3
+	424.9Row:Accounts payable	438.8
+	561.8
+Row:Employee compensation and benefits accrued	133.0	132.1Row:Deposits and advances	167.6
+	191.2Row:Derivative instruments	84.9
+	11.7
+Row:Accrued interest	62.9
+	60.7
+Row:Other current liabilities
+	319.3
+	330.9
+Row:Total current liabilities	2,026.9
+	1,732.1
+Row:Noncurrent liabilities		Row:Long-term debt	5,779.9	4,146.5
+Row:Deferred income taxes	541.4	991.9
+Row:Derivative instruments	48.4	12.8
+Row:Other noncurrent liabilities
+	1,122.8
+	997.6
+Row:Total liabilities	9,519.4
+	7,880.9
+Row:Commitments and contingencies (Note 16)		Row:Equity:UGI Corporation stockholders' equity:		Row:UGI Common Stock, without par value (authorized – 450,000,000 shares; issued – 209,304,129 and 174,142,997 shares, respectively)	1,396.9	1,200.8Row:UGI Corporation stockholders' equity:	Row:UGI Common Stock, without par value (authorized – 450,000,000 shares; issued – 209,304,129 and 174,142,997 shares, respectively)	1,396.91,200.8Row:Retained earnings	2,653.12,610.7Row:Accumulated other comprehensive loss	(216.6)(110.4)Row:Treasury stock, at cost	(15.9)(19.7)Row:Total UGI Corporation stockholders' equity	3,817.53,681.4
+Row:Noncontrolling interests	9.7
+418.6
+Row:Total equity	3,827.2
+4,100.0Row:Total liabilities and equity$
+	11,980.9
+13,346.6
+$
+Row:	2019
+	2018
+	2017
+Row:Revenues
+	$
+7,320.4
+	$
+7,651.2
+	$
+6,120.7
+Row:Costs and expenses:			Row:Cost of sales (excluding depreciation and amortization shown below)	4,323.1	4,074.9	2,837.3Row:Operating and administrative expenses	1,963.2
+	2,012.8	1,867.6
+Row:Impairment of Partnership tradenames and trademarks		75.0	Row:Depreciation and amortization	448.1	455.1	416.3
+Row:Other operating income, net
+	(31.1)	(31.3)	(10.5Row:	6,703.3
+	6,586.5
+	5,110.7Row:Operating income	617.1	1,064.7	1,010.0Row:Income from equity investees	9.1
+	4.3
+	4.3Row:Loss on extinguishments of debt	(6.1)		(59.7Row:Other non-operating income (expense), net	38.2	15.6
+	(29.7Row:Interest expense	(257.8)
+	(230.1)
+	(223.5Row:Income before income taxes	400.5	854.5
+	701.4
+Row:Income tax expense	(92.6)
+	(32.1)
+	(177.6Row:Net income including noncontrolling interests	307.9	822.4
+	523.8
+Row:Deduct net income attributable to noncontrolling interests, principally in AmeriGas Partners	(51.7)	(103.7)	(87.2Row:Net income attributable to UGI Corporation	256.2
+$
+	718.7
+$
+	$
+436.6
+Row:Earnings per common share attributable to UGI Corporation stockholders:			Row:Basic
+	$
+1.44
+	$
+4.13
+	$
+2.51
+Row:Diluted
+	$
+1.41
+	$
+4.06
+	$
+2.46
+Row:Weighted-average common shares outstanding (thousands):
+			Row:Basic
+	178,417
+	173,908
+	173,662
+Row:Diluted
+	181,111
+	176,905
+	177,159
+Row:Dividends declared per common share
+	$
+1.145
+	$
+1.02
+	$
+0.975
+Row:2019
+	2018
+	2017
+Row:CASH FLOWS FROM OPERATING ACTIVITIES		Row:$
+Net income including noncontrolling interests	307.9
+$
+822.4
+	$
+523.8
+Row:Adjustments to reconcile net income including noncontrolling interests to net cash provided by operating activities:		Row:Depreciation and amortization	448.1
+455.1
+	416.3Row:Deferred income tax (benefit) expense, net	(42.7)(68.8)	110.1Row:Provision for uncollectible accounts	28.635.6	30.7Row:Changes in unrealized gains and losses on derivative instruments	258.1
+(132.8)	(82.0)
+Row:Impairment of Partnership tradenames and trademarks	75.0
+	Row:Equity-based compensation expense	18.1
+22.5
+	19.3
+Row:Loss on extinguishments of debt	6.1
+	59.7Row:Income from equity investees	(4.3)
+(9.1)	(4.3)Row:Loss on private equity partnership investment	1.5
+	11.0
+Row:Other, net	9.1
+11.1
+	40.4
+Row:Net change in:		Row:Accounts receivable and accrued utility revenues	(147.6)83.3	(103.6)Row:Inventories	(37.4)84.1	(64.7)Row:Utility deferred fuel costs, net of changes in unsettled derivatives	31.1
+(29.5)	(15.4)Row:Accounts payable	(97.2)65.1
+	49.9
+Row:Derivative instruments collateral (paid) received	(41.5)3.9
+	8.0
+Row:Other current assets	44.6
+(26.6)	(37.5)Row:Other current liabilities	(19.0)8.6
+	2.7
+Row:Net cash provided by operating activities	1,085.3
+1,078.1
+	964.4
+Row:CASH FLOWS FROM INVESTING ACTIVITIES		Row:Expenditures for property, plant and equipment	(704.6)(574.4)	(638.9)Row:Acquisitions of businesses and assets, net of cash and restricted cash acquired(	1,362.2)(187.2)	(100.8)Row:Other, net	11.513.0	(29.0)Row:Net cash used by investing activities(	2,055.3)
+(748.6)
+	(768.7)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES		Row:Dividends on UGI Common Stock	(199.5)(176.9)	(168.9)Row:Distributions on AmeriGas Partners publicly held Common Units	(263.1)(263.0)	(261.6)Row:Issuances of debt, net of issuance costs	2,411.7124.4	1,307.1Row:Repayments of debt, including redemption premiums	(737.8)(149.1)	(1,064.8)Row:Receivables Facility net borrowings (repayments)	44.4
+(37.0	13.5Row:Increase in short-term borrowings	93.5327.0	61.2Row:Issuances of UGI Common Stock	34.916.8	11.0Row:Repurchases of UGI Common Stock	(59.8)
+(16.9)	(43.3)
+Row:Cash paid for AmeriGas Merger	(528.9)	Row:Other	(11.5)(5.2)	(0.8)Row:Net cash provided (used) by financing activities	1,042.2(438.2)	(146.6)Row:Effect of exchange rate changes on cash, cash equivalents and restricted cash	(16.4)(5.0)	1.2Row:Cash, cash equivalents and restricted cash increase (decrease)$
+	48.6
+(106.5)
+$
+	50.3
+$
+Row:CASH, CASH EQUIVALENTS AND RESTRICTED CASH		Row:Cash, cash equivalents and restricted cash at end of period$
+	510.8
+$
+462.2
+	$
+568.7
+Row:Cash, cash equivalents and restricted cash at beginning of period	462.2
+568.7
+	518.4
+Row:Cash, cash equivalents and restricted cash increase (decrease)$
+	48.6
+$
+(106.5)
+	$
+50.3
+Row:SUPPLEMENTAL CASH FLOW INFORMATION		Row:Cash paid for:		Row:Interest
+$
+	248.4
+$
+221.7
+	$
+202.1
+Row:Income taxes
+$
+	74.1
+$
+118.0
+	$
+98.0
+Row:See accompanying Notes to Consolidated Financial Statements.
+		

@@ -1,0 +1,135 @@
+Row:	2017 2016 	2015
+Row:Sales 	$ 40,122 $ 39,807 	$ 39,498
+Row:Costs, Expenses and Other
+		Row:Materials and production 	12,775 13,891 	14,934
+Row:Marketing and administrative 	9,830 9,762 	10,313
+Row:Research and development 	10,208 10,124 	6,704
+Row:Restructuring costs 	776 651 	619
+Row:Other (income) expense, net 	12 720 	1,527
+Row:	33,601 35,148 	34,097
+Row:Income Before Taxes 	6,521 4,659 	5,401
+Row:Taxes on Income 	4,103 718 	942
+Row:Net Income 	2,418 3,941 	4,459
+Row:Less: Net Income Attributable to Noncontrolling Interests 	24 21 	17
+Row:Net Income Attributable to Merck & Co., Inc. 	$ 2,394 $ 3,920 	$ 4,442
+Row:Basic Earnings per Common Share Attributable to Merck & Co., Inc. Common
+Shareholders 	$ 0.88 $ 1.42 	$ 1.58
+Row:Earnings per Common Share Assuming Dilution Attributable to Merck & Co.,
+Inc. Common Shareholders 	$ 0.87 $ 1.41 	$ 1.56
+Row:	2017 2016 	2015
+Row:Net Income Attributable to Merck & Co., Inc. 	$ 2,394 $ 3,920 	$ 4,442
+Row:Other Comprehensive Income (Loss) Net of Taxes:
+		Row:Net unrealized loss on derivatives, net of reclassifications 	(446) (66) 	(126)
+Row:Net unrealized loss on investments, net of reclassifications 	(58) (44) 	(70)
+Row:Benefit plan net gain (loss) and prior service credit (cost), net of amortization 	419 (799) 	579
+Row:Cumulative translation adjustment 	401 (169) 	(208)
+Row:	316 (1,078) 	175
+Row:Comprehensive Income Attributable to Merck & Co., Inc. 	$ 2,710 $ 2,842 	$ 4,617
+Row:Assets
+	2017 	2016
+Row:Current Assets
+		Row:Cash and cash equivalents $ 	6,092 	$ 6,515
+Row:Short-term investments 	2,406 	7,826
+Row:Accounts and $195 receivable in 2016) (net of allowance for doubtful accounts of $210 in 2017
+	6,873 	7,018
+Row:Inventories classified (excludes in Other assets inventories - see Note of $1,187 7) in 2017 and $1,117 in 2016
+	5,096 	4,866
+Row:Other current assets 	4,299 	4,389
+Row:Total current assets 	24,766 	30,614
+Row:Investments 	12,125 	11,416
+Row:Property, Plant and Equipment (at cost)
+		Row:Land 	365 	412
+Row:Buildings 	11,726 	11,439
+Row:Machinery, equipment and office furnishings 	14,649 	14,053
+Row:Construction in progress 	2,301 	1,871
+Row:	29,041 	27,775
+Row:Less: accumulated depreciation 	16,602 	15,749
+Row:	12,439 	12,026
+Row:Goodwill 	18,284 	18,162
+Row:Other Intangibles, Net 	14,183 	17,305
+Row:Other Assets 	6,075 	5,854
+Row:$ 	87,872 	$ 95,377
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Loans payable and current portion of long-term debt $ 	3,057 	$ 568
+Row:Trade accounts payable 	3,102 	2,807
+Row:Accrued and other current liabilities 	10,427 	10,274
+Row:Goodwill 	18,284 18,162
+Row:Other Intangibles, Net 	14,183 17,305
+Row:Other Assets 	6,075 5,854
+Row:	$ 87,872 $ 95,377
+Row:Liabilities and Equity
+	Row:Current Liabilities
+Loans payable and current portion of long-term debt 	$ 3,057 $ 568
+Row:Trade accounts payable 	3,102 2,807
+Row:Accrued and other current liabilities 	10,427 10,274
+Row:Income taxes payable 	708 2,239
+Row:Dividends payable 	1,320 1,316
+Row:Total current liabilities 	18,614 17,204
+Row:Long-Term Debt 	21,353 24,274
+Row:Deferred Income Taxes 	2,219 5,077
+Row:Other Noncurrent Liabilities 	11,117 8,514
+Row:Merck & Co., Inc. Stockholders’ Equity
+	Row:Common Authorized stock, - 6,500,000,000 $0.50 par value
+shares
+Issued - 3,577,103,522 shares in 2017 and 2016
+	1,788 1,788
+Row:Other paid-in capital 	39,902 39,939
+Row:Retained earnings 	41,350 44,133
+Row:Accumulated other comprehensive loss 	(4,910) (5,226)
+Row:	78,130 80,634
+Row:Less 880,491,914 treasury stock, shares at in cost:
+2017 and 828,372,200 shares in 2016 	43,794 40,546
+Row:Total Merck & Co., Inc. stockholders’ equity 	34,336 40,088
+Row:Noncontrolling Interests 	233 220
+Row:Total equity 	34,569 40,308
+Row:	$ 87,872 $ 95,377
+Row:2017 	2016 	2015
+Row:Cash Flows from Operating Activities
+Net income $ 2,418 $ 	3,941 	$ 4,459
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+		Row:Depreciation and amortization 4,637 	5,441 	6,375
+Row:Intangible asset impairment charges 646 	3,948 	162
+Row:Provisional charge for one-time transition tax related to the enactment of U.S. tax legislation 5,347 	— 	—
+Row:Charge for future payments related to AstraZeneca collaboration license options 500 	— 	—
+Row:Charge related to the settlement of worldwide Keytruda patent litigation — Foreign currency devaluation related to Venezuela — 	625 — 	—
+876
+Row:Net charge related to the settlement of Vioxx shareholder class action litigation — 	— 	680
+Row:Equity income from affiliates (42) 	(86) 	(205)
+Row:Dividends and distributions from equity method affiliates 2 	16 	50
+Row:Deferred income taxes (2,621) 	(1,521) 	(764)
+Row:Share-based compensation 312 	300 	299
+Row:Other 269 	313 	874
+Row:Net changes in assets and liabilities:
+		Row:Accounts receivable 297 	(619) 	(480)
+Row:Inventories (145) 	206 	805
+Row:Trade accounts payable 254 	278 	(37)
+Row:Accrued and other current liabilities (922) 	(2,018) 	(8)
+Row:Income taxes payable (3,291) 	124 	(266)
+Row:Noncurrent liabilities (123) 	(809) 	(277)
+Row:Other (1,091) 	237 	(5)
+Row:Net Cash Provided by Operating Activities 6,447 	10,376 	12,538
+Row:Cash Flows from Investing Activities
+		Row:Capital expenditures (1,888) 	(1,614) 	(1,283)
+Row:Purchases of securities and other investments (10,739) 	(15,651) 	(16,681)
+Row:Proceeds from sales of securities and other investments 15,664 Acquisition of Cubist Pharmaceuticals, Inc., net of cash acquired — Acquisitions of other businesses, net of cash acquired (396) 	14,353 — (780) 	20,413
+(7,598)
+(146)
+Row:Dispositions of businesses, net of cash divested — Other 38 	— 482 	316
+221
+Row:Net Cash Provided by (Used in) Investing Activities 2,679 	(3,210) 	(4,758)
+Row:Cash Flows from Financing Activities
+Net change in short-term borrowings (26) 	— 	(1,540)
+Row:Payments on debt (1,103) Proceeds from issuance of debt — Purchases of treasury stock (4,014) 	(2,386) 1,079 (3,434) 	(2,906)
+7,938
+(4,186)
+Row:Dividends paid to stockholders (5,167) 	(5,124) 	(5,117)
+Row:Proceeds from exercise of stock options 499 Other (195) 	939 (118) 	485
+(61)
+Row:Net Cash Used in Financing Activities (10,006) 	(9,044) 	(5,387)
+Row:Effect of Exchange Rate Changes on Cash and Cash Equivalents 457 	(131) 	(1,310)
+Row:Net (Decrease) Increase in Cash and Cash Equivalents (423) Cash and Cash Equivalents at Beginning of Year 6,515 Cash and Cash Equivalents at End of Year $ 6,092 $ 	(2,009) 8,524 6,515 	1,083
+7,441
+$ 8,524
+Row:The accompanying notes are an integral part of this consolidated financial statement.
+		

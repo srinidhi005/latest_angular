@@ -1,0 +1,199 @@
+Row:(in millions, except per share amounts) 	Fiscal 2020 	Fiscal 2019 	Fiscal 2018 	Notes
+Row:Sales 	$ 6,137.1 	$ 6,247.1 	$ 6,253.0 	3
+Row:Cost of sales 	(3,904.2) 	(4,024.1) 	(4,063.0)
+	Row:Restructuring charges - cost of sales 	(9.2) 	(62.2) 	— 	7
+Row:Gross margin 	2,223.7 	2,160.8 	2,190.0
+	Row:Selling, general and administrative expenses 	(1,918.2) 	(1,985.1) 	(1,872.2)
+	Row:Credit transaction, net 	— 	(167.4) 	1.3 	4
+Row:Restructuring charges 	(69.9) 	(63.7) 	— 	7
+Row:Goodwill and intangible impairments 	(47.7) 	(735.4) 	— 	18
+Row:Other operating income (loss) 	(29.6) 	26.2 	260.8 	13
+Row:Operating income (loss) 	158.3 	(764.6) 	579.9 	6
+Row:Interest expense, net 	(35.6) 	(39.7) 	(52.7)
+	Row:Other non-operating income, net 	7.0 	1.7 	—
+	Row:Income (loss) before income taxes 	129.7 	(802.6) 	527.2
+	Row:Income taxes 	(24.2) 	145.2 	(7.9) 	12
+Row:Net income (loss) 	105.5 	(657.4) 	519.3
+	Row:Dividends on redeemable convertible preferred shares 	(32.9) 	(32.9) 	(32.9) 	9
+Row:Net income (loss) attributable to common shareholders 	$ 72.6 	$ (690.3) 	$ 486.4
+	Row:Earnings (loss) per common share:
+				Row:Basic 	$ 1.40 	$ (12.62) 	$ 7.72 	10
+Row:Diluted 	$ 1.40 	$ (12.62) 	$ 7.44 	10
+Row:Weighted average common shares outstanding:
+				Row:Basic 	51.7 	54.7 	63.0 	10
+Row:Diluted 	51.8 	54.7 	69.8 	10
+Row:	Fiscal 2020 		Fiscal 	2019 	Fiscal 2018
+Row:Pre-tax
+	Tax
+(expense)
+	After-tax
+	Pre-tax
+Tax
+(expense)
+	After-tax
+	Pre-tax
+Tax
+(expense)
+Row:amount
+	benefit
+	amount
+	amount
+benefit
+	amount
+	amount
+benefit
+Row:		$ 105.5 		$ (657.4) 	Row:(in millions)
+	Pre-tax
+amount
+	Tax
+(expense)
+benefit
+	After-tax
+amount
+	Pre-tax
+amount
+	Tax
+(expense)
+benefit
+	After-tax
+amount
+	Pre-tax
+amount
+	Tax
+(expense)
+benefit
+	After-tax
+amount
+Row:Net income (loss) 			$ 105.5 		$ 	(657.4) 		$ 	519.3
+Row:Other comprehensive income (loss):
+									Row:Foreign currency translation adjustments 	$ (1.7) 	$ — 	$ (1.7) 	$ (35.9) 	$ — $ 	(35.9) 	$ 50.9 	$ — $ 	50.9
+Row:Available-for-sale securities:
+									Row:Unrealized gain (loss) 	(0.2) 	— 	(0.2) 	0.6 	(0.2) 	0.4 	0.5 	(0.2) 	0.3
+Row:Reclassification adjustment for (gains) losses to net
+income 	1.0 	— 	1.0 	— 	— 	— 	— 	— 	—
+Row:Impact from adoption of new accounting
+pronouncements (1) 	— 	— 	— 	(1.1) 	0.3 	(0.8) 	— 	— 	—
+Row:Cash flow hedges:
+									Row:Unrealized gain (loss) 	14.8 	(3.6) 	11.2 	6.2 	(1.4) 	4.8 	3.4 	(1.6) 	1.8
+Row:Reclassification adjustment for (gains) losses to net
+income 	(3.4) 	0.7 	(2.7) 	(2.1) 	0.6 	(1.5) 	(4.6) 	1.1 	(3.5)
+Row:Pension plan:
+									Row:Actuarial gain (loss) 	0.5 	(0.1) 	0.4 	(4.1) 	0.7 	(3.4) 	— 	— 	—
+Row:Reclassification adjustment to net income for
+amortization of actuarial (gains) losses 	1.2 	(0.2) 	1.0 	0.9 	(0.2) 	0.7 	2.8 	(0.6) 	2.2
+Row:Prior service costs 	— 	— 	— 	(8.1) 	1.6 	(6.5) 	(0.6) 	0.1 	(0.5)
+Row:Reclassification adjustment to net income for
+amortization of net prior service credits 	— 	— 	— 	— 	— 	— 	(1.4) 	0.3 	(1.1)
+Row:Net curtailment gain and settlement loss 	— 	— 	— 	— 	— 	— 	(3.7) 	0.7 	(3.0)
+Row:Total other comprehensive income (loss) 	$ 12.2 	$ (3.2) 	$ 9.0 	$ (43.6) 	$ 1.4 $ 	(42.2) 	$ 47.3 	$ (0.2) $ 	47.1
+Row:Total comprehensive income (loss) 			$ 114.5 		$ 	(699.6) 		$ 	566.4
+Row:(in millions, except par value per share amount) 	February 1, 2020
+	February 2,
+2019 	Notes
+Row:Assets
+			Row:Current assets:
+			Row:Cash and cash equivalents $ 	374.5 	$ 195.4 	1
+Row:Accounts receivable 	38.8 	23.7 	14
+Row:Other current assets 	403.5 	244.0
+	Row:Income taxes 	6.3 	5.8
+	Row:Inventories, net 	2,331.7 	2,386.9 	15
+Row:Total current assets 	3,154.8 	2,855.8
+	Row:Non-current assets:
+			Row:Property, plant and equipment, net 	741.9 	800.5 	16
+Row:Operating lease right-of-use assets 	1,683.3 	— 	17
+Row:Goodwill 	248.8 	296.6 	18
+Row:Intangible assets, net 	263.8 	265.0 	18
+Row:Other assets 	201.8 	181.2
+	Row:Deferred tax assets 	4.7 	21.0 	12
+Row:Total assets $ 	6,299.1 	$ 4,420.1
+	Row:Liabilities, Redeemable convertible preferred shares, and Shareholders’ equity
+			Row:Current liabilities:
+			Row:Loans and overdrafts $ 	95.6 	$ 78.8 	23
+Row:Accounts payable 	227.9 	153.7
+	Row:Accrued expenses and other current liabilities 	697.0 	502.8 	24
+Row:Deferred revenue 	266.2 	270.0 	3
+Row:Operating lease liabilities 	338.2 	— 	17
+Row:Income taxes 	27.7 	27.7
+	Row:Total current liabilities 	1,652.6 	1,033.0
+	Row:Non-current liabilities:
+			Row:Long-term debt 	515.9 	649.6 	23
+Row:Operating lease liabilities 	1,437.7 	— 	17
+Row:Other liabilities 	116.6 	224.1 	25
+Row:Deferred revenue 	731.5 	696.5 	3
+Row:Deferred tax liabilities 	5.2 	— 	12
+Row:Total liabilities 	4,459.5 	2,603.2
+	Row:Commitments and contingencies 			27
+Row:Series A redeemable convertible preferred shares of $0.01 par value: 500 shares authorized,
+0.625 shares outstanding 	617.0 	615.3 	8
+Row:Shareholders’ equity:
+			Row:Common shares of $0.18 par value: authorized 500 shares, 52.3 shares outstanding
+(2019: 51.9 outstanding) 	12.6 	12.6 	9
+Row:Additional paid-in capital 	245.4 	236.5
+	Row:Other reserves 	0.4 	0.4
+	Row:Treasury shares at cost: 17.7 shares (2019: 18.1 shares) 	(984.9) 	(1,027.3) 	9
+Row:Retained earnings 	2,242.9 	2,282.2 	9
+Row:Accumulated other comprehensive loss 	(293.8) 	(302.8) 	11
+Row:Total shareholders’ equity 	1,222.6 	1,201.6
+	Row:Total liabilities, redeemable convertible preferred shares and shareholders’ equity $ 	6,299.1 	$ 4,420.1
+	Row:The accompanying notes are an integral part of these consolidated financial statements.
+			Row:0.625 shares outstanding 	617.0 	615.3 	8
+Row:Shareholders’ equity:
+			Row:Common shares of $0.18 par value: authorized 500 shares, 52.3 shares outstanding
+(2019: 51.9 outstanding) 	12.6 	12.6 	9
+Row:Additional paid-in capital 	245.4 	236.5
+	Row:Other reserves 	0.4 	0.4
+	Row:Treasury shares at cost: 17.7 shares (2019: 18.1 shares) 	(984.9) 	(1,027.3) 	9
+Row:Retained earnings 	2,242.9 	2,282.2 	9
+Row:Accumulated other comprehensive loss 	(293.8) 	(302.8) 	11
+Row:Total shareholders’ equity 	1,222.6 	1,201.6
+	Row:Total liabilities, redeemable convertible preferred shares and shareholders’ equity $ 	6,299.1 $ 	4,420.1
+	Row:(in millions) 	Fiscal 2020 	Fiscal 2019 	Fiscal 2018
+Row:Cash flows from operating activities:
+			Row:Net income (loss) 	$ 105.5 	$ (657.4) 	$ 519.3
+Row:Adjustments to reconcile net income (loss) to net cash provided by operating activities:
+			Row:Depreciation and amortization 	178.0 	183.6 	203.4
+Row:Amortization of unfavorable leases and contracts 	(5.5) 	(7.9) 	(13.0)
+Row:Share-based compensation 	16.9 	16.5 	16.1
+Row:Deferred taxation 	21.5 	(105.6) 	(33.4)
+Row:Credit transaction, net 	— 	160.4 	(30.9)
+Row:Goodwill and intangible impairments 	47.7 	735.4 	—
+Row:Restructuring charges 	25.9 	84.9 	—
+Row:Net gain on extinguishment of debt 	(6.2) 	— 	—
+Row:Other non-cash movements 	(4.3) 	(3.4) 	2.6
+Row:Changes in operating assets and liabilities:
+			Row:Decrease (increase) in accounts receivable 	(15.2) 	45.7 	242.1
+Row:Proceeds from sale of in-house finance receivables 	— 	445.5 	952.5
+Row:Decrease (increase) in other assets and other receivables 	(184.2) 	0.7 	(6.0)
+Row:Decrease (increase) in inventories 	48.8 	(194.3) 	210.9
+Row:Increase (decrease) in accounts payable 	77.2 	(78.5) 	(51.4)
+Row:Increase (decrease) in accrued expenses and other liabilities 	232.9 	55.9 	3.9
+Row:Change in operating lease assets and liabilities 	(9.4) 	— 	—
+Row:Increase in deferred revenue 	30.8 	9.7 	10.0
+Row:Increase (decrease) in income taxes payable 	0.6 	10.9 	(82.4)
+Row:Pension plan contributions 	(5.3) 	(4.4) 	(3.2)
+Row:Net cash provided by operating activities 	555.7 	697.7 	1,940.5
+Row:Investing activities
+			Row:Purchase of property, plant and equipment 	(136.3) 	(133.5) 	(237.4)
+Row:Proceeds from sale of assets 	0.5 	5.5 	—
+Row:Purchase of available-for-sale securities 	(13.3) 	(0.6) 	(2.4)
+Row:Proceeds from sale of available-for-sale securities 	8.3 	9.6 	2.2
+Row:Acquisition of R2Net Inc., net of cash acquired 	— 	— 	(331.8)
+Row:Net cash used in investing activities 	(140.8) 	(119.0) 	(569.4)
+Row:Financing activities
+			Row:Dividends paid on common shares 	(77.4) 	(79.0) 	(76.5)
+Row:Dividends paid on redeemable convertible preferred shares 	(31.2) 	(31.2) 	(34.7)
+Row:Repurchase of common shares 	— 	(485.0) 	(460.0)
+Row:Proceeds from term and bridge loans 	100.0 	— 	350.0
+Row:Repayments of term and bridge loans 	(294.9) 	(31.3) 	(372.3)
+Row:Settlement of Senior Notes, including third party fees 	(241.5) 	— 	—
+Row:Proceeds from securitization facility 	— 	— 	1,745.9
+Row:Repayments of securitization facility 	— 	— 	(2,345.9)
+Row:Proceeds from revolving credit facilities 	858.3 	787.0 	814.0
+Row:Repayments of revolving credit facilities 	(588.3) 	(787.0) 	(870.0)
+Row:Payment of debt issuance costs 	(9.3) 	— 	—
+Row:Increase (decrease) of bank overdrafts 	47.5 	25.9 	(0.1)
+Row:Other financing activities 	(0.2) 	(2.1) 	(4.0)
+Row:Net cash used in financing activities 	(237.0) 	(602.7) 	(1,253.6)
+Row:Cash and cash equivalents at beginning of period 	195.4 	225.1 	98.7
+Row:Increase (decrease) in cash and cash equivalents 	177.9 	(24.0) 	117.5
+Row:Effect of exchange rate changes on cash and cash equivalents 	1.2 	(5.7) 	8.9

@@ -1,0 +1,83 @@
+Row:ASSETS
+		(As adjusted)
+Row:Current assets:
+Cash and cash equivalents 	$ 25,738 	$ 107,066
+Row:Restricted cash 	13,747 	—
+Row:Accounts receivable, net 	40,342 	23,191
+Row:Merchandise inventories, net 	390,470 	292,489
+Row:Prepaid expenses and other current assets 	84,942 	69,157
+Row:Refundable income taxes 	7,331 	1,622
+Row:Total current assets 	562,570 	493,525
+Row:Property and equipment, at cost 	465,967 	555,351
+Row:Less accumulated depreciation 	(222,347) 	(265,910)
+Row:Property and equipment, net 	243,620 	289,441
+Row:Intangible assets, net 	301,397 	308,702
+Row:Goodwill 	107,900 	107,900
+Row:Other assets 	6,164 	6,374
+Row:Total assets 	$ 1,221,651 	$ 1,205,942
+Row:LIABILITIES AND STOCKHOLDERS’ DEFICIT
+Current liabilities:
+		Row:February 2,
+2019
+	February 3,
+2018(a)
+	January 28,
+2017
+Row:	(As adjusted) 	(As adjusted)
+Row:$ 2,308,695 	$ 2,267,810 	$ 2,360,010
+Row:175,299 	105,885 	71,585
+Row:2,483,994 	2,373,695 	2,431,595
+Row:1,648,330 	1,476,064 	1,550,305
+Row:835,664 	897,631 	881,290
+Row:824,031 	872,681 	824,290
+Row:10,765 	141,187 	7,752
+Row:868 	(116,237) 	49,248
+Row:137,497 	110,513 	79,359
+Row:— 	— 	435
+Row:(136,629) 	(226,750) 	(30,546)
+Row:(16,550) 	(103,551) 	(6,815)
+Row:$ (120,079) 	$ (123,199) 	$ (23,731)
+Row:1,731 	6,537 	6,387
+Row:(413) 	693 	449
+Row:(682) 	1,703 	(1,581)
+Row:$ (119,443) 	$ (114,266) 	$ (18,476)
+Row:Revenues:
+		(As adjusted) 	(As Row:Net sales 	$ 2,308,695 	$ 2,267,810 	$ Row:Other 	175,299 	105,885 	Row:Total revenues 	2,483,994 	2,373,695 	Row:Cost of goods sold, including buying and occupancy costs 	1,648,330 	1,476,064 	Row:Gross profit 	835,664 	897,631 	Row:Selling, general and administrative expenses 	824,031 	872,681 	Row:Impairment losses 	10,765 	141,187 	Row:Income (loss) from operations 	868 	(116,237) 	Row:Interest expense, net 	137,497 	110,513 	Row:Loss on refinancings 	— 	— 	Row:Loss before income taxes 	(136,629) 	(226,750) 	Row:Benefit for income taxes 	(16,550) 	(103,551) 	Row:Net loss 	$ (120,079) 	$ (123,199) 	$ Row:Other comprehensive income (loss):
+			Row:Reclassification of losses on cash flow hedges, net of tax, to earnings 	1,731 	6,537 	Row:Unrealized gain (loss) on cash flow hedges, net of tax 	(413) 	693 	Row:Foreign currency translation adjustments 	(682) 	1,703 	Row:Comprehensive loss 	$ (119,443) 	$ (114,266) 	$ Row:Net loss $ 	(120,079) 	$ (123,199) 	$ (23,731)
+Row:Adjustments to reconcile to cash flows from operating activities:
+			Row:Depreciation of property and equipment 	88,028 	101,288 	109,503
+Row:Impairment losses 	10,765 	141,187 	7,752
+Row:Amortization of intangible assets 	7,236 	9,086 	10,540
+Row:Amortization of deferred financing costs and debt discount 	7,166 	6,128 	5,021
+Row:Reclassification of hedging losses to earnings 	2,357 	10,717 	10,470
+Row:Share-based compensation 	158 	2,299 	1,035
+Row:Loss on sale of property 	— 	526 	—
+Row:Loss on refinancings 	— 	— 	435
+Row:Foreign currency transaction gains 	(403) 	(1,411) 	(1,539)
+Row:Deferred income taxes 	(15,177) 	(121,852) 	(5,140)
+Row:Changes in operating assets and liabilities:
+			Row:Accounts receivable, net Merchandise inventories, net 	(17,151) (98,463) 	(7,562) 22,562 	(11,740)
+57,798
+Row:Prepaid expenses and other current assets 	(16,010) 	(20,339) 	16,668
+Row:Other assets 	106 	184 	741
+Row:Accounts payable and other liabilities 	83,296 	41,215 	(45,993)
+Row:Federal and state income taxes Net cash provided by (used in) operating activities 	(1,109) (69,280) 	2,077 62,906 	6,013
+137,833
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+Capital expenditures Proceeds from sale of property 	(52,736) — 	(39,678) 2,530 	(80,140)
+—
+Row:Net cash used in investing activities 	(52,736) 	(37,148) 	(80,140)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+Net borrowings under the ABL Facility 	70,800 	— 	—
+Row:Quarterly principal repayments of Term Loan Facility 	(15,670) 	(19,588) 	(11,753)
+Row:Cost paid in connection with refinancings of debt 	(74) 	(5,740) 	(1,099)
+Row:Proceeds from Notes, net of discount 	— 	123,490 	—
+Row:Repayments pursuant to the Term Loan amendment 	— 	(150,456) 	—
+Row:Net cash provided by (used in) financing activities 	55,056 	(52,294) 	(12,852)
+Row:Effect of changes in foreign exchange rates on cash, cash equivalents and restricted cash 	(621) 	1,376 	(427)
+Row:Increase (decrease) in cash, cash equivalents and restricted cash Beginning balance 	(67,581) 107,066 	(25,160) 132,226 	44,414
+87,812
+Row:Ending balance $ 	39,485 	$ 107,066 	$ 132,226
+Row:Supplemental cash flow information:
+			Row:Income taxes paid $ 	1,108 	$ 1,610 	$ 1,245
+Row:Interest paid $ 	128,048 	$ 89,059 	$ 72,558

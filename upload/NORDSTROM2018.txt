@@ -1,0 +1,277 @@
+Row:Fiscal year
+	2018
+	2017
+	2016
+Row:Net sales
+	$15,480
+	$15,137
+	$14,498
+Row:Credit card revenues, net
+	380
+	341
+	259
+Row:Total revenues
+	15,860
+	15,478
+	14,757
+Row:Cost of sales and related buying and occupancy costs
+	(10,155)
+	(9,890)
+	(9,440)
+Row:Selling, general and administrative expenses
+	(4,868)
+	(4,662)
+	(4,315)
+Row:Goodwill impairment
+			(197)
+Row:Earnings before interest and income taxes
+	837
+	926
+	805
+Row:Interest expense, net
+	(104)
+	(136)
+	(121)
+Row:Earnings before income taxes
+	733
+	790
+	684
+Row:Income tax expense
+	(169)
+	(353)
+	(330)
+Row:Net earnings
+	$564
+	$437
+	$354
+Row:Earnings per share:
+			Row:Basic
+	$3.37
+	$2.62
+	$2.05
+Row:Diluted
+	$3.32
+	$2.59
+	$2.02
+Row:Weighted-average shares outstanding:
+			Row:Basic
+	167.3
+	166.8
+	173.2
+Row:Diluted
+	170.0
+	168.9
+	175.6
+Row:Fiscal year
+	2018
+	2017
+	2016
+Row:Net earnings
+	$564
+	$437
+	$354
+Row:Postretirement plan adjustments, net of tax of ($5), $2 and ($1)
+	14
+	(6)
+	Row:Foreign currency translation adjustment
+	(17)
+	20
+	14
+Row:Comprehensive net earnings
+	$561
+	$451
+	$369
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents
+	$957
+	$1,181
+Row:Accounts receivable, net
+	148
+	145
+Row:Merchandise inventories
+	1,978
+	2,027
+Row:Prepaid expenses and other
+	291
+	150
+Row:Total current assets
+	3,374
+	3,503
+Row:Land, property and equipment, net
+	3,921
+	3,939
+Row:Goodwill
+	249
+	238
+Row:Other assets
+	342
+	435
+Row:Total assets
+	$7,886
+	$8,115
+Row:Liabilities and Shareholders' Equity
+		Row:Current liabilities:
+		Row:Accounts payable
+	$1,469
+	$1,409
+Row:Accrued salaries, wages and related benefits
+	580
+	578
+Row:Other current liabilities
+	1,324
+	1,246
+Row:Current portion of long-term debt
+	8
+	56
+Row:Total current liabilities
+	3,381
+	3,289
+Row:Long-term debt, net
+	2,677
+	2,681
+Row:Deferred property incentives, net
+	457
+	495
+Row:Other liabilities
+	498
+	673
+Row:Commitments and contingencies (Note 11)
+		Row:Shareholders' equity:
+		Row:Common stock, no par value: 1,000 shares authorized; 157.6 and 167.0 shares issued and
+outstanding
+	3,048
+	2,816
+Row:Accumulated deficit
+	(2,138)
+	(1,810Row:Accumulated other comprehensive loss
+	(37)
+	(29Row:Total shareholders' equity
+	873
+	977
+Row:Total liabilities and shareholders' equity
+	$7,886
+	$8,115
+Row:Goodwill impairment
+	197
+Row:Amortization of deferred property incentives and other, net
+	(75)
+(82)
+(76)
+Row:Deferred income taxes, net
+	(34)
+11
+(15)
+Row:Stock-based compensation expense
+	90
+77
+91
+Row:Change in operating assets and liabilities:
+	Row:Accounts receivable
+	(4)
+1
+(3)
+Row:Proceeds from sale of credit card receivables originated at Nordstrom
+	39
+Row:Merchandise inventories
+	15
+(62)
+31
+Row:Prepaid expenses and other assets
+	(8)
+(21)
+100
+Row:Accounts payable
+	12
+77
+16
+Row:Accrued salaries, wages and related benefits
+	1
+121
+38
+Row:Other current liabilities
+	48
+181
+15
+Row:Deferred property incentives
+	64
+65
+53
+Row:Other liabilities
+	24
+34
+(2)
+Row:Net cash provided by operating activities
+	1,400
+1,658
+1,296
+Row:Investing Activities
+	Row:Capital expenditures
+	(654)
+(846)
+(731)
+Row:Proceeds from sale of credit card receivables originated at third parties
+	16
+Row:Other, net
+	31
+55
+Row:Net cash used in investing activities
+	(684)
+(791)
+(653)
+Row:Financing Activities
+	Row:Proceeds from long-term borrowings, net of discounts
+	635
+Row:Principal payments on long-term borrowings
+	(56)
+(661)
+(10)
+Row:(Decrease) increase in cash book overdrafts
+	(55)
+4
+Row:Cash dividends paid
+	(250)
+(247)
+(256)
+Row:Payments for repurchase of common stock
+	(678)
+(211)
+(277)
+Row:Proceeds from issuances under stock compensation plans
+	163
+39
+83
+Row:Tax withholding on share-based awards
+	(20)
+(7)
+(5)
+Row:Other, net
+	(26)
+(35)
+6
+Row:Net cash used in financing activities
+	(542)
+(455)
+(867)
+Row:Net (decrease) increase in cash and cash equivalents
+	(224)
+174
+412
+Row:Cash and cash equivalents at beginning of year
+	1,181
+1,007
+595
+Row:Cash and cash equivalents at end of year
+	$957
+$1,181
+$1,007
+Row:Supplemental Cash Flow Information
+	Row:Cash paid during the year for:
+	Row:Income taxes, net of refunds
+	$280
+$363
+$112
+Row:Interest, net of capitalized interest
+	118
+143
+134

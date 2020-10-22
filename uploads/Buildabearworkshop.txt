@@ -1,0 +1,585 @@
+Row		2020 	2019
+Row	ASSETS
+		RowCurrent assets:
+Cash and cash equivalents 		$ 26,726 	$ 17,894
+RowInventories, net 		53,381 	58,356
+RowReceivables, net Prepaid expenses and other current assets 		11,526 7,117 	10,588
+12,960
+RowTotal current assets 		98,750 	99,798
+RowOperating lease right-of-use asset Property and equipment, net 		126,144 65,855 	-
+66,368
+RowDeferred tax assets 		3,411 	3,099
+RowOther intangible assets, net 		- 	731
+RowOther assets, net 		3,102 	2,050
+RowTotal Assets 		$ 297,262 	$ 172,046
+RowLIABILITIES AND STOCKHOLDERS' EQUITY
+		RowCurrent liabilities:
+		RowAccounts payable 	$ 15,680 	$ 22,551
+RowAccrued expenses 	16,536 	10,047
+RowOperating lease liability short term 	30,912 	-
+RowGift cards and customer deposits 	20,231 	21,643
+RowDeferred revenue and other 	2,605 	1,936
+RowTotal current liabilities 	85,964 	56,177
+RowOperating lease liability long term 	119,625 	-
+RowDeferred rent 	- 	18,440
+RowDeferred franchise revenue 	1,325 	1,625
+RowOther liabilities 	1,717 	1,490
+RowStockholders' equity:
+		RowPreferred stock, par value $0.01, Shares authorized: 15,000,000; No shares
+issued or outstanding at February 1, 2020 and February 2, 2019 Common stock, par value $0.01, Shares authorized: 50,000,000;
+	- 	-
+RowIssued and outstanding: 15,205,981 and 14,953,142 shares, respectively 	152 	150
+RowAdditional paid-in capital 	70,633 	69,088
+RowAccumulated other comprehensive loss 	(12,079) 	(12,018)
+RowRetained earnings 	29,925 	37,094
+RowTotal stockholders' equity 	88,631 	94,314
+RowTotal Liabilities and Stockholders' Equity 	$ 297,262 	$ 172,046
+Row152 	150
+Row70,633 	69,088
+Row(12,079) 	(12,018)
+Row29,925 	37,094
+Row88,631 	94,314
+Row$ 297,262 $ 	172,046
+RowFebruary 1, 	February 2,
+Row2020 	2019
+Row$ 323,491 	$ 326,304
+Row11,892 	6,560
+Row3,160 	3,721
+Row338,543 	336,585
+Row176,652 	186,834
+Row- 	5,195
+Row5,432 	3,317
+Row2,836 	2,485
+Row184,920 	197,831
+Row153,623 	138,754
+Row152,047 	157,176
+Row15 	85
+Row1,561 	(18,507)
+Row1,300 	(574)
+Row$ 261 	$ (17,933)
+Row(60) 	(1,218)
+Row$ 201 	$ (19,151)
+Row$ 0.02 	$ (1.23)
+Row$ 0.02 	$ (1.23)
+RowRevenues:
+		RowNet retail sales 	$ 323,491 	$ 326,304
+RowCommercial revenue 	11,892 	6,560
+RowInternational franchising 	3,160 	3,721
+RowTotal revenues 	338,543 	336,585
+RowCosts and expenses:
+		RowCost of merchandise sold - retail 	176,652 	186,834
+RowStore asset impairment 	- 	5,195
+RowCost of merchandise sold - commercial 	5,432 	3,317
+RowCost of merchandise sold - international franchising 	2,836 	2,485
+RowTotal cost of merchandise sold 	184,920 	197,831
+RowConsolidated gross profit 	153,623 	138,754
+RowSelling, general and administrative expense 	152,047 	157,176
+RowInterest expense, net 	15 	85
+RowIncome (loss) before income taxes 	1,561 	(18,507)
+RowIncome tax expense (benefit) 	1,300 	(574)
+RowNet income (loss) 	$ 261 	$ (17,933)
+RowForeign currency translation adjustment 	(60) 	(1,218)
+RowComprehensive income (loss) 	$ 201 	$ (19,151)
+RowIncome (loss) per common share:
+		RowBasic 	$ 0.02 	$ (1.23)
+RowDiluted 	$ 0.02 	$ (1.23)
+RowShares used in computing common per share amounts:
+		RowBasic 	14,711,334 	14,591,270
+RowDiluted 	14,759,810 	14,591,270
+RowCommon stock 	paid-in capital 	comprehensive income (loss) 	Retained
+earnings 	Total
+RowBalance, February 3, 2018 $ 150 $ 	66,843 	$ (10,800) 	$ 55,909 $ 	112,102
+RowShare repurchase and retirement (2) 	(1,058) 	- 	(868) 	(1,928)
+RowStock-based compensation - 	3,439 	- 	- 	3,439
+RowShares issued under employee stock plans 2 	(136) 	- 	(14) 	(148)
+RowOther comprehensive loss - 		- (1,218) 	- 	(1,218)
+RowNet loss - 		- - 	(17,933) 	(17,933)
+RowBalance, February 2, 2019 $ 150 $ 	69,088 	$ (12,018) 	$ 37,094 $ 	94,314
+RowStock-based compensation - 	1,793 	- 	- 	1,793
+RowShares issued under employee stock plans 2 	(248) 	- 	- 	(246)
+RowAdoption of new accounting standard - 		- - 	(7,431) 	(7,431)
+RowOther 		- (1) 	1 	-
+RowOther comprehensive loss - 		- (60) 	- 	(60)
+RowNet income - 		- - 	261 	261
+RowBalance, February 1, 2020 $ 152 $ 	70,633 	$ (12,079) 	$ 29,925 $ 	88,631
+RowCash flows provided by operating activities:
+		RowNet income (loss) $ 	261 $ 	(17,933)
+RowAdjustments to reconcile net income to
+		Rownet cash provided by operating activities:
+		RowDepreciation and amortization 	13,705 	16,042
+RowStock-based compensation 	2,877 	3,439
+RowAsset impairment 	- 	5,871
+RowDeferred taxes 	(318) 	446
+RowProvision for doubtful accounts 	(83) 	1,029
+Row(Gain)/Loss on disposal of property and equipment 	(7) 	398
+RowChange in assets and liabilities:
+		RowInventories, net 	5,053 	(1,116)
+RowReceivables, net 	(805) 	(3,452)
+RowPrepaid expenses and other assets 	5,839 	98
+RowAccounts payable and accrued expenses 	(2,439) 	817
+RowOperating leases 	(490) 	224
+RowGift cards and customer deposits 	(1,369) 	2,415
+RowDeferred revenue 	(615) 	1,308
+RowNet cash provided by operating activities 	21,609 	9,586
+RowCash flows used in investing activities:
+		RowPurchases of property and equipment 	(12,384) 	(11,253)
+RowPurchases of other assets and other intangible assets 	- 	-
+RowProceeds from property insurance 	- 	-
+RowNet cash used in investing activities 	(12,384) 	(11,253)
+RowCash flows used in financing activities:
+		RowProceeds from the exercise of employee stock options, net of withholding tax payments 	(245) 	(131)
+RowBorrowings under line of credit 	- 	7,250
+RowRepayments under line of credit 	- 	(7,250)
+RowPurchases of Company’s common stock 	- 	(2,228)
+RowNet cash used in financing activities 	(245) 	(2,359)
+RowEffect of exchange rates on cash 	(140) 	421
+RowNet increase (decrease) in cash, cash equivalents and restricted cash 	8,840 	(3,605)
+RowCash, cash equivalents and restricted cash, beginning of period 	19,555 	23,160
+RowCash, cash equivalents and restricted cash, end of period $ 	28,395 $ 	19,555
+RowSupplemental disclosure of cash flow information:
+		RowTotal cash, cash equivalents and restricted cash $ 	28,395 $ 	19,555
+RowLess: Restricted cash from long-term deposits (1) 	(1,669) 	(1,661)
+RowTotal cash and cash equivalents $ 	26,726 $ 	17,894
+RowNet cash paid (received) during the period for income taxes $ 	(1,800) $ 	1,675
+Row(1) See cash, cash equivalents and restricted cash in Note 2 - Summary of Significant Accounting Policies for further See accompanying notes to consolidated financial statements.
+	discussion.
+	Row46
+		Row		2020 	2019
+Row	ASSETS
+		RowCurrent assets:
+Cash and cash equivalents 		$ 26,726 	$ 17,894
+RowInventories, net 		53,381 	58,356
+RowReceivables, net Prepaid expenses and other current assets 		11,526 7,117 	10,588
+12,960
+RowTotal current assets 		98,750 	99,798
+RowOperating lease right-of-use asset Property and equipment, net 		126,144 65,855 	-
+66,368
+RowDeferred tax assets 		3,411 	3,099
+RowOther intangible assets, net 		- 	731
+RowOther assets, net 		3,102 	2,050
+RowTotal Assets 		$ 297,262 	$ 172,046
+RowLIABILITIES AND STOCKHOLDERS' EQUITY
+		RowCurrent liabilities:
+		RowAccounts payable 	$ 15,680 	$ 22,551
+RowAccrued expenses 	16,536 	10,047
+RowOperating lease liability short term 	30,912 	-
+RowGift cards and customer deposits 	20,231 	21,643
+RowDeferred revenue and other 	2,605 	1,936
+RowTotal current liabilities 	85,964 	56,177
+RowOperating lease liability long term 	119,625 	-
+RowDeferred rent 	- 	18,440
+RowDeferred franchise revenue 	1,325 	1,625
+RowOther liabilities 	1,717 	1,490
+RowStockholders' equity:
+		RowPreferred stock, par value $0.01, Shares authorized: 15,000,000; No shares
+issued or outstanding at February 1, 2020 and February 2, 2019 Common stock, par value $0.01, Shares authorized: 50,000,000;
+	- 	-
+RowIssued and outstanding: 15,205,981 and 14,953,142 shares, respectively 	152 	150
+RowAdditional paid-in capital 	70,633 	69,088
+RowAccumulated other comprehensive loss 	(12,079) 	(12,018)
+RowRetained earnings 	29,925 	37,094
+RowTotal stockholders' equity 	88,631 	94,314
+RowTotal Liabilities and Stockholders' Equity 	$ 297,262 	$ 172,046
+Row152 	150
+Row70,633 	69,088
+Row(12,079) 	(12,018)
+Row29,925 	37,094
+Row88,631 	94,314
+Row$ 297,262 $ 	172,046
+RowFebruary 1, 	February 2,
+Row2020 	2019
+Row$ 323,491 	$ 326,304
+Row11,892 	6,560
+Row3,160 	3,721
+Row338,543 	336,585
+Row176,652 	186,834
+Row- 	5,195
+Row5,432 	3,317
+Row2,836 	2,485
+Row184,920 	197,831
+Row153,623 	138,754
+Row152,047 	157,176
+Row15 	85
+Row1,561 	(18,507)
+Row1,300 	(574)
+Row$ 261 	$ (17,933)
+Row(60) 	(1,218)
+Row$ 201 	$ (19,151)
+Row$ 0.02 	$ (1.23)
+Row$ 0.02 	$ (1.23)
+RowRevenues:
+		RowNet retail sales 	$ 323,491 	$ 326,304
+RowCommercial revenue 	11,892 	6,560
+RowInternational franchising 	3,160 	3,721
+RowTotal revenues 	338,543 	336,585
+RowCosts and expenses:
+		RowCost of merchandise sold - retail 	176,652 	186,834
+RowStore asset impairment 	- 	5,195
+RowCost of merchandise sold - commercial 	5,432 	3,317
+RowCost of merchandise sold - international franchising 	2,836 	2,485
+RowTotal cost of merchandise sold 	184,920 	197,831
+RowConsolidated gross profit 	153,623 	138,754
+RowSelling, general and administrative expense 	152,047 	157,176
+RowInterest expense, net 	15 	85
+RowIncome (loss) before income taxes 	1,561 	(18,507)
+RowIncome tax expense (benefit) 	1,300 	(574)
+RowNet income (loss) 	$ 261 	$ (17,933)
+RowForeign currency translation adjustment 	(60) 	(1,218)
+RowComprehensive income (loss) 	$ 201 	$ (19,151)
+RowIncome (loss) per common share:
+		RowBasic 	$ 0.02 	$ (1.23)
+RowDiluted 	$ 0.02 	$ (1.23)
+RowShares used in computing common per share amounts:
+		RowBasic 	14,711,334 	14,591,270
+RowDiluted 	14,759,810 	14,591,270
+RowCommon stock 	paid-in capital 	comprehensive income (loss) 	Retained
+earnings 	Total
+RowBalance, February 3, 2018 $ 150 $ 	66,843 	$ (10,800) 	$ 55,909 $ 	112,102
+RowShare repurchase and retirement (2) 	(1,058) 	- 	(868) 	(1,928)
+RowStock-based compensation - 	3,439 	- 	- 	3,439
+RowShares issued under employee stock plans 2 	(136) 	- 	(14) 	(148)
+RowOther comprehensive loss - 		- (1,218) 	- 	(1,218)
+RowNet loss - 		- - 	(17,933) 	(17,933)
+RowBalance, February 2, 2019 $ 150 $ 	69,088 	$ (12,018) 	$ 37,094 $ 	94,314
+RowStock-based compensation - 	1,793 	- 	- 	1,793
+RowShares issued under employee stock plans 2 	(248) 	- 	- 	(246)
+RowAdoption of new accounting standard - 		- - 	(7,431) 	(7,431)
+RowOther 		- (1) 	1 	-
+RowOther comprehensive loss - 		- (60) 	- 	(60)
+RowNet income - 		- - 	261 	261
+RowBalance, February 1, 2020 $ 152 $ 	70,633 	$ (12,079) 	$ 29,925 $ 	88,631
+RowCash flows provided by operating activities:
+		RowNet income (loss) $ 	261 $ 	(17,933)
+RowAdjustments to reconcile net income to
+		Rownet cash provided by operating activities:
+		RowDepreciation and amortization 	13,705 	16,042
+RowStock-based compensation 	2,877 	3,439
+RowAsset impairment 	- 	5,871
+RowDeferred taxes 	(318) 	446
+RowProvision for doubtful accounts 	(83) 	1,029
+Row(Gain)/Loss on disposal of property and equipment 	(7) 	398
+RowChange in assets and liabilities:
+		RowInventories, net 	5,053 	(1,116)
+RowReceivables, net 	(805) 	(3,452)
+RowPrepaid expenses and other assets 	5,839 	98
+RowAccounts payable and accrued expenses 	(2,439) 	817
+RowOperating leases 	(490) 	224
+RowGift cards and customer deposits 	(1,369) 	2,415
+RowDeferred revenue 	(615) 	1,308
+RowNet cash provided by operating activities 	21,609 	9,586
+RowCash flows used in investing activities:
+		RowPurchases of property and equipment 	(12,384) 	(11,253)
+RowPurchases of other assets and other intangible assets 	- 	-
+RowProceeds from property insurance 	- 	-
+RowNet cash used in investing activities 	(12,384) 	(11,253)
+RowCash flows used in financing activities:
+		RowProceeds from the exercise of employee stock options, net of withholding tax payments 	(245) 	(131)
+RowBorrowings under line of credit 	- 	7,250
+RowRepayments under line of credit 	- 	(7,250)
+RowPurchases of Company’s common stock 	- 	(2,228)
+RowNet cash used in financing activities 	(245) 	(2,359)
+RowEffect of exchange rates on cash 	(140) 	421
+RowNet increase (decrease) in cash, cash equivalents and restricted cash 	8,840 	(3,605)
+RowCash, cash equivalents and restricted cash, beginning of period 	19,555 	23,160
+RowCash, cash equivalents and restricted cash, end of period $ 	28,395 $ 	19,555
+RowSupplemental disclosure of cash flow information:
+		RowTotal cash, cash equivalents and restricted cash $ 	28,395 $ 	19,555
+RowLess: Restricted cash from long-term deposits (1) 	(1,669) 	(1,661)
+RowTotal cash and cash equivalents $ 	26,726 $ 	17,894
+RowNet cash paid (received) during the period for income taxes $ 	(1,800) $ 	1,675
+Row(1) See cash, cash equivalents and restricted cash in Note 2 - Summary of Significant Accounting Policies for further See accompanying notes to consolidated financial statements.
+	discussion.
+	Row46
+		Row:		2020 	2019
+Row:	ASSETS
+		Row:Current assets:
+Cash and cash equivalents 		$ 26,726 	$ 17,894
+Row:Inventories, net 		53,381 	58,356
+Row:Receivables, net Prepaid expenses and other current assets 		11,526 7,117 	10,588
+12,960
+Row:Total current assets 		98,750 	99,798
+Row:Operating lease right-of-use asset Property and equipment, net 		126,144 65,855 	-
+66,368
+Row:Deferred tax assets 		3,411 	3,099
+Row:Other intangible assets, net 		- 	731
+Row:Other assets, net 		3,102 	2,050
+Row:Total Assets 		$ 297,262 	$ 172,046
+Row:LIABILITIES AND STOCKHOLDERS' EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 15,680 	$ 22,551
+Row:Accrued expenses 	16,536 	10,047
+Row:Operating lease liability short term 	30,912 	-
+Row:Gift cards and customer deposits 	20,231 	21,643
+Row:Deferred revenue and other 	2,605 	1,936
+Row:Total current liabilities 	85,964 	56,177
+Row:Operating lease liability long term 	119,625 	-
+Row:Deferred rent 	- 	18,440
+Row:Deferred franchise revenue 	1,325 	1,625
+Row:Other liabilities 	1,717 	1,490
+Row:Stockholders' equity:
+		Row:Preferred stock, par value $0.01, Shares authorized: 15,000,000; No shares
+issued or outstanding at February 1, 2020 and February 2, 2019 Common stock, par value $0.01, Shares authorized: 50,000,000;
+	- 	-
+Row:Issued and outstanding: 15,205,981 and 14,953,142 shares, respectively 	152 	150
+Row:Additional paid-in capital 	70,633 	69,088
+Row:Accumulated other comprehensive loss 	(12,079) 	(12,018)
+Row:Retained earnings 	29,925 	37,094
+Row:Total stockholders' equity 	88,631 	94,314
+Row:Total Liabilities and Stockholders' Equity 	$ 297,262 	$ 172,046
+Row:152 	150
+Row:70,633 	69,088
+Row:(12,079) 	(12,018)
+Row:29,925 	37,094
+Row:88,631 	94,314
+Row:$ 297,262 $ 	172,046
+Row:February 1, 	February 2,
+Row:2020 	2019
+Row:$ 323,491 	$ 326,304
+Row:11,892 	6,560
+Row:3,160 	3,721
+Row:338,543 	336,585
+Row:176,652 	186,834
+Row:- 	5,195
+Row:5,432 	3,317
+Row:2,836 	2,485
+Row:184,920 	197,831
+Row:153,623 	138,754
+Row:152,047 	157,176
+Row:15 	85
+Row:1,561 	(18,507)
+Row:1,300 	(574)
+Row:$ 261 	$ (17,933)
+Row:(60) 	(1,218)
+Row:$ 201 	$ (19,151)
+Row:$ 0.02 	$ (1.23)
+Row:$ 0.02 	$ (1.23)
+Row:Revenues:
+		Row:Net retail sales 	$ 323,491 	$ 326,304
+Row:Commercial revenue 	11,892 	6,560
+Row:International franchising 	3,160 	3,721
+Row:Total revenues 	338,543 	336,585
+Row:Costs and expenses:
+		Row:Cost of merchandise sold - retail 	176,652 	186,834
+Row:Store asset impairment 	- 	5,195
+Row:Cost of merchandise sold - commercial 	5,432 	3,317
+Row:Cost of merchandise sold - international franchising 	2,836 	2,485
+Row:Total cost of merchandise sold 	184,920 	197,831
+Row:Consolidated gross profit 	153,623 	138,754
+Row:Selling, general and administrative expense 	152,047 	157,176
+Row:Interest expense, net 	15 	85
+Row:Income (loss) before income taxes 	1,561 	(18,507)
+Row:Income tax expense (benefit) 	1,300 	(574)
+Row:Net income (loss) 	$ 261 	$ (17,933)
+Row:Foreign currency translation adjustment 	(60) 	(1,218)
+Row:Comprehensive income (loss) 	$ 201 	$ (19,151)
+Row:Income (loss) per common share:
+		Row:Basic 	$ 0.02 	$ (1.23)
+Row:Diluted 	$ 0.02 	$ (1.23)
+Row:Shares used in computing common per share amounts:
+		Row:Basic 	14,711,334 	14,591,270
+Row:Diluted 	14,759,810 	14,591,270
+Row:Common stock 	paid-in capital 	comprehensive income (loss) 	Retained
+earnings 	Total
+Row:Balance, February 3, 2018 $ 150 $ 	66,843 	$ (10,800) 	$ 55,909 $ 	112,102
+Row:Share repurchase and retirement (2) 	(1,058) 	- 	(868) 	(1,928)
+Row:Stock-based compensation - 	3,439 	- 	- 	3,439
+Row:Shares issued under employee stock plans 2 	(136) 	- 	(14) 	(148)
+Row:Other comprehensive loss - 		- (1,218) 	- 	(1,218)
+Row:Net loss - 		- - 	(17,933) 	(17,933)
+Row:Balance, February 2, 2019 $ 150 $ 	69,088 	$ (12,018) 	$ 37,094 $ 	94,314
+Row:Stock-based compensation - 	1,793 	- 	- 	1,793
+Row:Shares issued under employee stock plans 2 	(248) 	- 	- 	(246)
+Row:Adoption of new accounting standard - 		- - 	(7,431) 	(7,431)
+Row:Other 		- (1) 	1 	-
+Row:Other comprehensive loss - 		- (60) 	- 	(60)
+Row:Net income - 		- - 	261 	261
+Row:Balance, February 1, 2020 $ 152 $ 	70,633 	$ (12,079) 	$ 29,925 $ 	88,631
+Row:Cash flows provided by operating activities:
+		Row:Net income (loss) $ 	261 $ 	(17,933)
+Row:Adjustments to reconcile net income to
+		Row:net cash provided by operating activities:
+		Row:Depreciation and amortization 	13,705 	16,042
+Row:Stock-based compensation 	2,877 	3,439
+Row:Asset impairment 	- 	5,871
+Row:Deferred taxes 	(318) 	446
+Row:Provision for doubtful accounts 	(83) 	1,029
+Row:(Gain)/Loss on disposal of property and equipment 	(7) 	398
+Row:Change in assets and liabilities:
+		Row:Inventories, net 	5,053 	(1,116)
+Row:Receivables, net 	(805) 	(3,452)
+Row:Prepaid expenses and other assets 	5,839 	98
+Row:Accounts payable and accrued expenses 	(2,439) 	817
+Row:Operating leases 	(490) 	224
+Row:Gift cards and customer deposits 	(1,369) 	2,415
+Row:Deferred revenue 	(615) 	1,308
+Row:Net cash provided by operating activities 	21,609 	9,586
+Row:Cash flows used in investing activities:
+		Row:Purchases of property and equipment 	(12,384) 	(11,253)
+Row:Purchases of other assets and other intangible assets 	- 	-
+Row:Proceeds from property insurance 	- 	-
+Row:Net cash used in investing activities 	(12,384) 	(11,253)
+Row:Cash flows used in financing activities:
+		Row:Proceeds from the exercise of employee stock options, net of withholding tax payments 	(245) 	(131)
+Row:Borrowings under line of credit 	- 	7,250
+Row:Repayments under line of credit 	- 	(7,250)
+Row:Purchases of Company’s common stock 	- 	(2,228)
+Row:Net cash used in financing activities 	(245) 	(2,359)
+Row:Effect of exchange rates on cash 	(140) 	421
+Row:Net increase (decrease) in cash, cash equivalents and restricted cash 	8,840 	(3,605)
+Row:Cash, cash equivalents and restricted cash, beginning of period 	19,555 	23,160
+Row:Cash, cash equivalents and restricted cash, end of period $ 	28,395 $ 	19,555
+Row:Supplemental disclosure of cash flow information:
+		Row:Total cash, cash equivalents and restricted cash $ 	28,395 $ 	19,555
+Row:Less: Restricted cash from long-term deposits (1) 	(1,669) 	(1,661)
+Row:Total cash and cash equivalents $ 	26,726 $ 	17,894
+Row:Net cash paid (received) during the period for income taxes $ 	(1,800) $ 	1,675
+Row:(1) See cash, cash equivalents and restricted cash in Note 2 - Summary of Significant Accounting Policies for further See accompanying notes to consolidated financial statements.
+	discussion.
+	Row:46
+		Row:		2020 	2019
+Row:	ASSETS
+		Row:Current assets:
+Cash and cash equivalents 		$ 26,726 	$ 17,894
+Row:Inventories, net 		53,381 	58,356
+Row:Receivables, net Prepaid expenses and other current assets 		11,526 7,117 	10,588
+12,960
+Row:Total current assets 		98,750 	99,798
+Row:Operating lease right-of-use asset Property and equipment, net 		126,144 65,855 	-
+66,368
+Row:Deferred tax assets 		3,411 	3,099
+Row:Other intangible assets, net 		- 	731
+Row:Other assets, net 		3,102 	2,050
+Row:Total Assets 		$ 297,262 	$ 172,046
+Row:LIABILITIES AND STOCKHOLDERS' EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 15,680 	$ 22,551
+Row:Accrued expenses 	16,536 	10,047
+Row:Operating lease liability short term 	30,912 	-
+Row:Gift cards and customer deposits 	20,231 	21,643
+Row:Deferred revenue and other 	2,605 	1,936
+Row:Total current liabilities 	85,964 	56,177
+Row:Operating lease liability long term 	119,625 	-
+Row:Deferred rent 	- 	18,440
+Row:Deferred franchise revenue 	1,325 	1,625
+Row:Other liabilities 	1,717 	1,490
+Row:Stockholders' equity:
+		Row:Preferred stock, par value $0.01, Shares authorized: 15,000,000; No shares
+issued or outstanding at February 1, 2020 and February 2, 2019 Common stock, par value $0.01, Shares authorized: 50,000,000;
+	- 	-
+Row:Issued and outstanding: 15,205,981 and 14,953,142 shares, respectively 	152 	150
+Row:Additional paid-in capital 	70,633 	69,088
+Row:Accumulated other comprehensive loss 	(12,079) 	(12,018)
+Row:Retained earnings 	29,925 	37,094
+Row:Total stockholders' equity 	88,631 	94,314
+Row:Total Liabilities and Stockholders' Equity 	$ 297,262 	$ 172,046
+Row:152 	150
+Row:70,633 	69,088
+Row:(12,079) 	(12,018)
+Row:29,925 	37,094
+Row:88,631 	94,314
+Row:$ 297,262 $ 	172,046
+Row:February 1, 	February 2,
+Row:2020 	2019
+Row:$ 323,491 	$ 326,304
+Row:11,892 	6,560
+Row:3,160 	3,721
+Row:338,543 	336,585
+Row:176,652 	186,834
+Row:- 	5,195
+Row:5,432 	3,317
+Row:2,836 	2,485
+Row:184,920 	197,831
+Row:153,623 	138,754
+Row:152,047 	157,176
+Row:15 	85
+Row:1,561 	(18,507)
+Row:1,300 	(574)
+Row:$ 261 	$ (17,933)
+Row:(60) 	(1,218)
+Row:$ 201 	$ (19,151)
+Row:$ 0.02 	$ (1.23)
+Row:$ 0.02 	$ (1.23)
+Row:Revenues:
+		Row:Net retail sales 	$ 323,491 	$ 326,304
+Row:Commercial revenue 	11,892 	6,560
+Row:International franchising 	3,160 	3,721
+Row:Total revenues 	338,543 	336,585
+Row:Costs and expenses:
+		Row:Cost of merchandise sold - retail 	176,652 	186,834
+Row:Store asset impairment 	- 	5,195
+Row:Cost of merchandise sold - commercial 	5,432 	3,317
+Row:Cost of merchandise sold - international franchising 	2,836 	2,485
+Row:Total cost of merchandise sold 	184,920 	197,831
+Row:Consolidated gross profit 	153,623 	138,754
+Row:Selling, general and administrative expense 	152,047 	157,176
+Row:Interest expense, net 	15 	85
+Row:Income (loss) before income taxes 	1,561 	(18,507)
+Row:Income tax expense (benefit) 	1,300 	(574)
+Row:Net income (loss) 	$ 261 	$ (17,933)
+Row:Foreign currency translation adjustment 	(60) 	(1,218)
+Row:Comprehensive income (loss) 	$ 201 	$ (19,151)
+Row:Income (loss) per common share:
+		Row:Basic 	$ 0.02 	$ (1.23)
+Row:Diluted 	$ 0.02 	$ (1.23)
+Row:Shares used in computing common per share amounts:
+		Row:Basic 	14,711,334 	14,591,270
+Row:Diluted 	14,759,810 	14,591,270
+Row:Common stock 	paid-in capital 	comprehensive income (loss) 	Retained
+earnings 	Total
+Row:Balance, February 3, 2018 $ 150 $ 	66,843 	$ (10,800) 	$ 55,909 $ 	112,102
+Row:Share repurchase and retirement (2) 	(1,058) 	- 	(868) 	(1,928)
+Row:Stock-based compensation - 	3,439 	- 	- 	3,439
+Row:Shares issued under employee stock plans 2 	(136) 	- 	(14) 	(148)
+Row:Other comprehensive loss - 		- (1,218) 	- 	(1,218)
+Row:Net loss - 		- - 	(17,933) 	(17,933)
+Row:Balance, February 2, 2019 $ 150 $ 	69,088 	$ (12,018) 	$ 37,094 $ 	94,314
+Row:Stock-based compensation - 	1,793 	- 	- 	1,793
+Row:Shares issued under employee stock plans 2 	(248) 	- 	- 	(246)
+Row:Adoption of new accounting standard - 		- - 	(7,431) 	(7,431)
+Row:Other 		- (1) 	1 	-
+Row:Other comprehensive loss - 		- (60) 	- 	(60)
+Row:Net income - 		- - 	261 	261
+Row:Balance, February 1, 2020 $ 152 $ 	70,633 	$ (12,079) 	$ 29,925 $ 	88,631
+Row:Cash flows provided by operating activities:
+		Row:Net income (loss) $ 	261 $ 	(17,933)
+Row:Adjustments to reconcile net income to
+		Row:net cash provided by operating activities:
+		Row:Depreciation and amortization 	13,705 	16,042
+Row:Stock-based compensation 	2,877 	3,439
+Row:Asset impairment 	- 	5,871
+Row:Deferred taxes 	(318) 	446
+Row:Provision for doubtful accounts 	(83) 	1,029
+Row:(Gain)/Loss on disposal of property and equipment 	(7) 	398
+Row:Change in assets and liabilities:
+		Row:Inventories, net 	5,053 	(1,116)
+Row:Receivables, net 	(805) 	(3,452)
+Row:Prepaid expenses and other assets 	5,839 	98
+Row:Accounts payable and accrued expenses 	(2,439) 	817
+Row:Operating leases 	(490) 	224
+Row:Gift cards and customer deposits 	(1,369) 	2,415
+Row:Deferred revenue 	(615) 	1,308
+Row:Net cash provided by operating activities 	21,609 	9,586
+Row:Cash flows used in investing activities:
+		Row:Purchases of property and equipment 	(12,384) 	(11,253)
+Row:Purchases of other assets and other intangible assets 	- 	-
+Row:Proceeds from property insurance 	- 	-
+Row:Net cash used in investing activities 	(12,384) 	(11,253)
+Row:Cash flows used in financing activities:
+		Row:Proceeds from the exercise of employee stock options, net of withholding tax payments 	(245) 	(131)
+Row:Borrowings under line of credit 	- 	7,250
+Row:Repayments under line of credit 	- 	(7,250)
+Row:Purchases of Company’s common stock 	- 	(2,228)
+Row:Net cash used in financing activities 	(245) 	(2,359)
+Row:Effect of exchange rates on cash 	(140) 	421
+Row:Net increase (decrease) in cash, cash equivalents and restricted cash 	8,840 	(3,605)
+Row:Cash, cash equivalents and restricted cash, beginning of period 	19,555 	23,160
+Row:Cash, cash equivalents and restricted cash, end of period $ 	28,395 $ 	19,555
+Row:Supplemental disclosure of cash flow information:
+		Row:Total cash, cash equivalents and restricted cash $ 	28,395 $ 	19,555
+Row:Less: Restricted cash from long-term deposits (1) 	(1,669) 	(1,661)
+Row:Total cash and cash equivalents $ 	26,726 $ 	17,894
+Row:Net cash paid (received) during the period for income taxes $ 	(1,800) $ 	1,675
+Row:(1) See cash, cash equivalents and restricted cash in Note 2 - Summary of Significant Accounting Policies for further See accompanying notes to consolidated financial statements.
+	discussion.
+	Row:46
+		

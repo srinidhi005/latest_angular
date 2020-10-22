@@ -1,0 +1,552 @@
+Row	2017 	2016
+RowAssets
+		RowCurrent assets
+		RowCash and cash equivalents 	$ 558,960 $ 	279,840
+RowShort-term investments 	61,032 	68,743
+RowAccounts receivable, net of allowance of $7,000 and $3,115 at December 31, 2017 and December 31, 2016,
+respectively 	37,948 	19,113
+RowInventories 	28,042 	18,550
+RowPrepaid expenses and other current assets 	130,838 	90,845
+RowTotal current assets 	816,820 	477,091
+RowProperty and equipment, net 	361,141 	239,354
+RowGoodwill and intangible assets, net 	3,105 	4,230
+RowLong-term investments 	21,561 	30,967
+RowOther noncurrent assets 	10,776 	10,041
+RowTotal assets 	$ 1,213,403 $ 	761,683
+RowLiabilities and Stockholders' Equity
+		RowCurrent liabilities
+		RowAccounts payable 	$ 440,366 $ 	379,493
+RowAccrued expenses 	120,247 	67,807
+RowDeferred revenue 	94,116 	65,892
+RowOther current liabilities 	85,026 	44,028
+RowTotal current liabilities 	739,755 	557,220
+RowLease financing obligation, net of current portion 	82,580 	28,900
+RowLong-term debt 	332,905 	—
+RowOther liabilities 	106,492 	96,179
+RowTotal liabilities 	1,261,732 	682,299
+RowCommitments and contingencies (Note 7)
+		RowConvertible preferred stock, $0.001 par value per share: 10,000,000 shares authorized and none issued at December
+31, 2017 and December 31, 2016 	— 	—
+RowStockholders’ equity:
+Class A common stock, par value $0.001 per share, 500,000,000 shares authorized, 57,398,983 and 49,945,202
+shares issued and outstanding at December 31, 2017 and December 31, 2016, respectively 	57 	50
+RowClass B common stock, par value $0.001 per share, 164,000,000 shares authorized, 30,809,627 and 35,885,692
+shares issued and outstanding at December 31, 2017 and December 31, 2016, respectively 	31 	36
+RowAdditional paid-in capital 	537,212 	409,225
+RowAccumulated deficit 	(583,266) 	(329,940)
+RowAccumulated other comprehensive (loss) gain 	(2,363) 	13
+RowTotal stockholders' (deficit) equity 	(48,329) 	79,384
+RowTotal liabilities and stockholders' equity 	$ 1,213,403 $ 	761,683
+RowConvertible preferred stock, $0.001 par value per share: 10,000,000 shares authorized and none issued at December
+31, 2017 and December 31, 2016 	— —
+RowStockholders’ equity:
+	RowClass A common stock, par value $0.001 per share, 500,000,000 shares authorized, 57,398,983 and 49,945,202
+shares issued and outstanding at December 31, 2017 and December 31, 2016, respectively 	57 50
+RowClass B common stock, par value $0.001 per share, 164,000,000 shares authorized, 30,809,627 and 35,885,692
+shares issued and outstanding at December 31, 2017 and December 31, 2016, respectively 	31 36
+RowAdditional paid-in capital 	537,212 409,225
+RowAccumulated deficit 	(583,266) (329,940)
+RowAccumulated other comprehensive (loss) gain 	(2,363) 13
+RowTotal stockholders' (deficit) equity 	(48,329) 79,384
+RowTotal liabilities and stockholders' equity $ 	1,213,403 $ 761,683
+Row2017 	2016 	2015
+Row$ 4,720,895 	$ 3,380,360 	$ 2,249,885
+Row3,602,072 	2,572,549 	1,709,161
+Row1,118,823 	807,811 	540,724
+Row169,516 	127,883 	81,230
+Row549,959 	409,125 	278,224
+Row634,801 	467,020 	262,620
+Row1,354,276 	1,004,028 	622,074
+Row(235,453) 	(196,217) 	(81,350)
+Row(9,433) 	694 	1,284
+Row758 	1,756 	2,718
+Row(244,128) 	(193,767) 	(77,348)
+Row486 	608 	95
+Row$ (244,614) 	$ (194,375) 	$ (77,443)
+Row$ (2.81) 	$ (2.29) 	$ (0.92)
+Row86,983 	84,977 	83,726
+RowNet revenue 	$ RowCost of goods sold 	RowGross profit 	RowOperating expenses:
+	RowCustomer service and merchant fees 	RowAdvertising 	RowSelling, operations, technology, general and administrative 	RowTotal operating expenses 	RowLoss from operations 	RowInterest (expense) income, net 	RowOther income, net 	RowLoss before income taxes 	RowProvision for income taxes 	RowNet loss 	$ RowNet loss per share, basic and diluted 	$ RowWeighted average number of common stock outstanding used in computing per share
+amounts, basic and diluted 	Row$ 	(244,614) 	$ 	(194,375) 	$ 	(77,443)
+Row$ 	(2.81) 	$ 	(2.29) 	$ 	(0.92)
+Row	86,983 		84,977 		83,726
+Row	2017 	2016 	2015
+RowNet loss 	$ (244,614) 	$ (194,375) 	$ (77,443)
+RowOther comprehensive loss:
+			RowForeign currency translation adjustments 	(2,196) 	(102) 	532
+RowNet unrealized (loss) gain on available-for-sale investments 	(180) 	251 	(302)
+RowComprehensive loss 	$ (246,990) 	$ (194,226) 	$ (77,213)
+Row	Shares 	Amount
+	Paid-In
+Capital
+	Accumulated
+Deficit
+	Comprehensive
+(Loss) Income
+	Stockholders'
+Equity (Deficit)
+RowBalance at December 31, 2014 	83,182 	$ 83 	$ 363,944 	$ (58,122) 	$ (366) 	$ 305,539
+RowNet loss 	— 	— 	— 	(77,443) 	— 	(77,443)
+RowOther comprehensive income 	— 	— 	— 	— 	230 	230
+RowExercise of options to purchase common stock 	164 	— 	495 	— 	— 	495
+RowIssuance of common stock upon vesting of RSUs 	1,515 	1 	— 	— 	— 	1
+RowShares withheld related to net settlement of RSUs 	(550) 	— 	(19,111) 	— 	— 	(19,111)
+RowEquity compensation expense 	— 	— 	32,834 	— 	— 	32,834
+RowBalance at December 31, 2015 	84,311 	84 	378,162 	(135,565) 	(136) 	242,545
+RowNet loss 	— 	— 	— 	(194,375) 	— 	(194,375)
+RowOther comprehensive income 	— 	— 	— 	— 	149 	149
+RowExercise of options to purchase common stock 	70 	1 	208 	— 	— 	209
+RowIssuance of common stock upon vesting of RSUs 	1,963 	2 	— 	— 	— 	2
+RowShares withheld related to net settlement of RSUs 	(525) 	(1) 	(21,091) 	— 	— 	(21,092)
+RowEquity compensation expense 	— 	— 	51,494 	— 	— 	51,494
+RowAcquisition of a business 	12 	— 	452 	— 	— 	452
+RowBalance at December 31, 2016 	85,831 	86 	409,225 	(329,940) 	13 	79,384
+RowNet loss 	— 	— 	— 	(244,614) 	— 	(244,614)
+RowOther comprehensive income 	— 	— 	— 	— 	(2,376) 	(2,376)
+RowExercise of options to purchase common stock 	84 	— 	244 	— 	— 	244
+RowIssuance of common stock upon vesting of RSUs 	2,327 	2 	— 	— 	— 	2
+RowShares withheld related to net settlement of RSUs 	(33) 	— 	(1,562) 	— 	— 	(1,562)
+RowEquity compensation expense 	— 	— 	71,380 	— 	— 	71,380
+RowAdoption of ASU No. 2016-09 	— 	— 	8,712 	(8,712) 		—
+RowEquity component of issuance of Notes, net (Note 14) 	— 	— 	49,213 	— 		49,213
+RowBalance at December 31, 2017 	88,209 	$ 88 	$ 537,212 	$ (583,266) 	$ (2,363) 	$ (48,329)
+Row	2017
+	Year Ended December 31,
+2016
+	2015
+RowCash flows from operating activities
+			RowNet loss
+	$
+(244,614)
+	$
+(194,375)
+	$
+(77,443)
+RowAdjustments to reconcile net loss to net cash used in operating activities
+			RowDepreciation and amortization
+	87,020
+	55,572
+	32,446
+RowEquity based compensation
+	67,840
+	49,402
+	31,015
+RowGain on sale of a business
+			(2,997)
+RowAmortization of discount and issuance costs on convertible notes
+	5.830
+		RowOther non-cash adjustments
+	1,198
+	331
+	3,027
+RowChanges in operating assets and liabilities:
+			RowAccounts receivable
+	(18,172)
+	(9,217)
+	(4,033)
+RowInventories
+	(9,454)
+	1,351
+	(131)
+RowPrepaid expenses and other current assets
+	(39,124)
+	(16,179)
+	(29,513)
+RowAccounts payable and accrued expenses
+	104,184
+	126,013
+	135,855
+RowDeferred revenue and other liabilities
+	81,354
+	51,914
+	47,031
+RowOther assets
+	(2,428)
+	(1,998)
+	(136)
+RowNet cash provided by operating activities
+	33,634
+	62,814
+	135,121
+RowCash flows from investing activities
+			RowPurchase of short-term and long-term investments
+	(54,551)
+	(88,112)
+	(207,303)
+RowSale and maturities of short-term investments
+	71,095
+	119,810
+	133,596
+RowPurchase of property and equipment
+	(100,451)
+	(96,707)
+	(44,648)
+RowSite and software development costs
+	(46,428)
+	(31,379)
+	(17,536)
+RowCash received from the sale of a business (net of cash sold)
+		1,508
+	2,860
+RowOther investing activities, net
+		(1,000)
+	(4,697)
+RowNet cash used in investing activities
+	(130,335)
+	(95,880)
+	(137,728)
+RowCash flows from financing activities
+			RowProceeds from issuance of convertible notes, net of issuance costs
+	420,449
+		RowPremiums paid for capped call confirmations
+	(44,160)
+		RowTaxes paid related to net share settlement of equity awards
+	(1,562)
+	(21,092)
+	(19,111)
+RowNet proceeds from exercise of stock options
+	244
+	209
+	495
+RowNet cash provided by (used in) financing activities
+	374,971
+	(20,883)
+	(18,616)
+RowEffect of exchange rate changes on cash and cash equivalents
+	850
+	(387)
+	(460)
+RowNet increase (decrease) in cash and cash equivalents
+	279,120
+	(54,336)
+	(21,683)
+RowCash and cash equivalents
+			RowBeginning of year
+	279,840
+	334,176
+	355,859
+RowEnd of year
+	$
+558,960
+	$
+279,840
+	334,176
+RowSupplemental disclosure of non-cash investing activities
+			RowPurchase of property and equipment included in accounts payable and accrued expenses and in other liabilities
+	$
+8,533
+	$
+1,336
+	$
+5,258
+RowConstruction costs capitalized under finance lease obligation and other leases
+	$
+47,276
+	$
+53,894
+	$
+27,295
+RowThe accompanying notes are an integral part of these 	Consolidated Financial 	Statements.
+	Row57
+			RowPurchase of short-term and long-term investments
+	(54,551)
+	(88,112)
+	(207,303)
+RowSale and maturities of short-term investments
+	71,095
+	119,810
+	133,596
+RowPurchase of property and equipment
+	(100,451)
+	(96,707)
+	(44,648)
+RowSite and software development costs
+	(46,428)
+	(31,379)
+	(17,536)
+RowCash received from the sale of a business (net of cash sold)
+		1,508
+	2,860
+RowOther investing activities, net
+		(1,000)
+	(4,697)
+RowNet cash used in investing activities
+	(130,335)
+	(95,880)
+	(137,728)
+Row	2017 	2016
+RowAssets
+		RowCurrent assets
+		RowCash and cash equivalents 	$ 558,960 $ 	279,840
+RowShort-term investments 	61,032 	68,743
+RowAccounts receivable, net of allowance of $7,000 and $3,115 at December 31, 2017 and December 31, 2016,
+respectively 	37,948 	19,113
+RowInventories 	28,042 	18,550
+RowPrepaid expenses and other current assets 	130,838 	90,845
+RowTotal current assets 	816,820 	477,091
+RowProperty and equipment, net 	361,141 	239,354
+RowGoodwill and intangible assets, net 	3,105 	4,230
+RowLong-term investments 	21,561 	30,967
+RowOther noncurrent assets 	10,776 	10,041
+RowTotal assets 	$ 1,213,403 $ 	761,683
+RowLiabilities and Stockholders' Equity
+		RowCurrent liabilities
+		RowAccounts payable 	$ 440,366 $ 	379,493
+RowAccrued expenses 	120,247 	67,807
+RowDeferred revenue 	94,116 	65,892
+RowOther current liabilities 	85,026 	44,028
+RowTotal current liabilities 	739,755 	557,220
+RowLease financing obligation, net of current portion 	82,580 	28,900
+RowLong-term debt 	332,905 	—
+RowOther liabilities 	106,492 	96,179
+RowTotal liabilities 	1,261,732 	682,299
+RowCommitments and contingencies (Note 7)
+		RowConvertible preferred stock, $0.001 par value per share: 10,000,000 shares authorized and none issued at December
+31, 2017 and December 31, 2016 	— 	—
+RowStockholders’ equity:
+Class A common stock, par value $0.001 per share, 500,000,000 shares authorized, 57,398,983 and 49,945,202
+shares issued and outstanding at December 31, 2017 and December 31, 2016, respectively 	57 	50
+RowClass B common stock, par value $0.001 per share, 164,000,000 shares authorized, 30,809,627 and 35,885,692
+shares issued and outstanding at December 31, 2017 and December 31, 2016, respectively 	31 	36
+RowAdditional paid-in capital 	537,212 	409,225
+RowAccumulated deficit 	(583,266) 	(329,940)
+RowAccumulated other comprehensive (loss) gain 	(2,363) 	13
+RowTotal stockholders' (deficit) equity 	(48,329) 	79,384
+RowTotal liabilities and stockholders' equity 	$ 1,213,403 $ 	761,683
+RowConvertible preferred stock, $0.001 par value per share: 10,000,000 shares authorized and none issued at December
+31, 2017 and December 31, 2016 	— —
+RowStockholders’ equity:
+	RowClass A common stock, par value $0.001 per share, 500,000,000 shares authorized, 57,398,983 and 49,945,202
+shares issued and outstanding at December 31, 2017 and December 31, 2016, respectively 	57 50
+RowClass B common stock, par value $0.001 per share, 164,000,000 shares authorized, 30,809,627 and 35,885,692
+shares issued and outstanding at December 31, 2017 and December 31, 2016, respectively 	31 36
+RowAdditional paid-in capital 	537,212 409,225
+RowAccumulated deficit 	(583,266) (329,940)
+RowAccumulated other comprehensive (loss) gain 	(2,363) 13
+RowTotal stockholders' (deficit) equity 	(48,329) 79,384
+RowTotal liabilities and stockholders' equity $ 	1,213,403 $ 761,683
+Row2017 	2016 	2015
+Row$ 4,720,895 	$ 3,380,360 	$ 2,249,885
+Row3,602,072 	2,572,549 	1,709,161
+Row1,118,823 	807,811 	540,724
+Row169,516 	127,883 	81,230
+Row549,959 	409,125 	278,224
+Row634,801 	467,020 	262,620
+Row1,354,276 	1,004,028 	622,074
+Row(235,453) 	(196,217) 	(81,350)
+Row(9,433) 	694 	1,284
+Row758 	1,756 	2,718
+Row(244,128) 	(193,767) 	(77,348)
+Row486 	608 	95
+Row$ (244,614) 	$ (194,375) 	$ (77,443)
+Row$ (2.81) 	$ (2.29) 	$ (0.92)
+Row86,983 	84,977 	83,726
+RowNet revenue 	$ RowCost of goods sold 	RowGross profit 	RowOperating expenses:
+	RowCustomer service and merchant fees 	RowAdvertising 	RowSelling, operations, technology, general and administrative 	RowTotal operating expenses 	RowLoss from operations 	RowInterest (expense) income, net 	RowOther income, net 	RowLoss before income taxes 	RowProvision for income taxes 	RowNet loss 	$ RowNet loss per share, basic and diluted 	$ RowWeighted average number of common stock outstanding used in computing per share
+amounts, basic and diluted 	Row$ 	(244,614) 	$ 	(194,375) 	$ 	(77,443)
+Row$ 	(2.81) 	$ 	(2.29) 	$ 	(0.92)
+Row	86,983 		84,977 		83,726
+Row	2017 	2016 	2015
+RowNet loss 	$ (244,614) 	$ (194,375) 	$ (77,443)
+RowOther comprehensive loss:
+			RowForeign currency translation adjustments 	(2,196) 	(102) 	532
+RowNet unrealized (loss) gain on available-for-sale investments 	(180) 	251 	(302)
+RowComprehensive loss 	$ (246,990) 	$ (194,226) 	$ (77,213)
+Row	Shares 	Amount
+	Paid-In
+Capital
+	Accumulated
+Deficit
+	Comprehensive
+(Loss) Income
+	Stockholders'
+Equity (Deficit)
+RowBalance at December 31, 2014 	83,182 	$ 83 	$ 363,944 	$ (58,122) 	$ (366) 	$ 305,539
+RowNet loss 	— 	— 	— 	(77,443) 	— 	(77,443)
+RowOther comprehensive income 	— 	— 	— 	— 	230 	230
+RowExercise of options to purchase common stock 	164 	— 	495 	— 	— 	495
+RowIssuance of common stock upon vesting of RSUs 	1,515 	1 	— 	— 	— 	1
+RowShares withheld related to net settlement of RSUs 	(550) 	— 	(19,111) 	— 	— 	(19,111)
+RowEquity compensation expense 	— 	— 	32,834 	— 	— 	32,834
+RowBalance at December 31, 2015 	84,311 	84 	378,162 	(135,565) 	(136) 	242,545
+RowNet loss 	— 	— 	— 	(194,375) 	— 	(194,375)
+RowOther comprehensive income 	— 	— 	— 	— 	149 	149
+RowExercise of options to purchase common stock 	70 	1 	208 	— 	— 	209
+RowIssuance of common stock upon vesting of RSUs 	1,963 	2 	— 	— 	— 	2
+RowShares withheld related to net settlement of RSUs 	(525) 	(1) 	(21,091) 	— 	— 	(21,092)
+RowEquity compensation expense 	— 	— 	51,494 	— 	— 	51,494
+RowAcquisition of a business 	12 	— 	452 	— 	— 	452
+RowBalance at December 31, 2016 	85,831 	86 	409,225 	(329,940) 	13 	79,384
+RowNet loss 	— 	— 	— 	(244,614) 	— 	(244,614)
+RowOther comprehensive income 	— 	— 	— 	— 	(2,376) 	(2,376)
+RowExercise of options to purchase common stock 	84 	— 	244 	— 	— 	244
+RowIssuance of common stock upon vesting of RSUs 	2,327 	2 	— 	— 	— 	2
+RowShares withheld related to net settlement of RSUs 	(33) 	— 	(1,562) 	— 	— 	(1,562)
+RowEquity compensation expense 	— 	— 	71,380 	— 	— 	71,380
+RowAdoption of ASU No. 2016-09 	— 	— 	8,712 	(8,712) 		—
+RowEquity component of issuance of Notes, net (Note 14) 	— 	— 	49,213 	— 		49,213
+RowBalance at December 31, 2017 	88,209 	$ 88 	$ 537,212 	$ (583,266) 	$ (2,363) 	$ (48,329)
+Row	2017
+	Year Ended December 31,
+2016
+	2015
+RowCash flows from operating activities
+			RowNet loss
+	$
+(244,614)
+	$
+(194,375)
+	$
+(77,443)
+RowAdjustments to reconcile net loss to net cash used in operating activities
+			RowDepreciation and amortization
+	87,020
+	55,572
+	32,446
+RowEquity based compensation
+	67,840
+	49,402
+	31,015
+RowGain on sale of a business
+			(2,997)
+RowAmortization of discount and issuance costs on convertible notes
+	5.830
+		RowOther non-cash adjustments
+	1,198
+	331
+	3,027
+RowChanges in operating assets and liabilities:
+			RowAccounts receivable
+	(18,172)
+	(9,217)
+	(4,033)
+RowInventories
+	(9,454)
+	1,351
+	(131)
+RowPrepaid expenses and other current assets
+	(39,124)
+	(16,179)
+	(29,513)
+RowAccounts payable and accrued expenses
+	104,184
+	126,013
+	135,855
+RowDeferred revenue and other liabilities
+	81,354
+	51,914
+	47,031
+RowOther assets
+	(2,428)
+	(1,998)
+	(136)
+RowNet cash provided by operating activities
+	33,634
+	62,814
+	135,121
+RowCash flows from investing activities
+			RowPurchase of short-term and long-term investments
+	(54,551)
+	(88,112)
+	(207,303)
+RowSale and maturities of short-term investments
+	71,095
+	119,810
+	133,596
+RowPurchase of property and equipment
+	(100,451)
+	(96,707)
+	(44,648)
+RowSite and software development costs
+	(46,428)
+	(31,379)
+	(17,536)
+RowCash received from the sale of a business (net of cash sold)
+		1,508
+	2,860
+RowOther investing activities, net
+		(1,000)
+	(4,697)
+RowNet cash used in investing activities
+	(130,335)
+	(95,880)
+	(137,728)
+RowCash flows from financing activities
+			RowProceeds from issuance of convertible notes, net of issuance costs
+	420,449
+		RowPremiums paid for capped call confirmations
+	(44,160)
+		RowTaxes paid related to net share settlement of equity awards
+	(1,562)
+	(21,092)
+	(19,111)
+RowNet proceeds from exercise of stock options
+	244
+	209
+	495
+RowNet cash provided by (used in) financing activities
+	374,971
+	(20,883)
+	(18,616)
+RowEffect of exchange rate changes on cash and cash equivalents
+	850
+	(387)
+	(460)
+RowNet increase (decrease) in cash and cash equivalents
+	279,120
+	(54,336)
+	(21,683)
+RowCash and cash equivalents
+			RowBeginning of year
+	279,840
+	334,176
+	355,859
+RowEnd of year
+	$
+558,960
+	$
+279,840
+	334,176
+RowSupplemental disclosure of non-cash investing activities
+			RowPurchase of property and equipment included in accounts payable and accrued expenses and in other liabilities
+	$
+8,533
+	$
+1,336
+	$
+5,258
+RowConstruction costs capitalized under finance lease obligation and other leases
+	$
+47,276
+	$
+53,894
+	$
+27,295
+RowThe accompanying notes are an integral part of these 	Consolidated Financial 	Statements.
+	Row57
+			RowPurchase of short-term and long-term investments
+	(54,551)
+	(88,112)
+	(207,303)
+RowSale and maturities of short-term investments
+	71,095
+	119,810
+	133,596
+RowPurchase of property and equipment
+	(100,451)
+	(96,707)
+	(44,648)
+RowSite and software development costs
+	(46,428)
+	(31,379)
+	(17,536)
+RowCash received from the sale of a business (net of cash sold)
+		1,508
+	2,860
+RowOther investing activities, net
+		(1,000)
+	(4,697)
+RowNet cash used in investing activities
+	(130,335)
+	(95,880)
+	(137,728)

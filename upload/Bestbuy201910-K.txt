@@ -1,0 +1,307 @@
+Row:Assets
+		Row:Current assets
+		Row:Cash and cash equivalents $ 	2,229 	$ 1,980
+Row:Receivables, net 	1,149 	1,015
+Row:Merchandise inventories 	5,174 	5,409
+Row:Other current assets 	305 	466
+Row:Total current assets 	8,857 	8,870
+Row:Property and equipment
+		Row:Land and buildings 	650 	637
+Row:Leasehold improvements 	2,203 	2,119
+Row:Fixtures and equipment 	6,286 	5,865
+Row:Property under capital and financing leases 	- 	579
+Row:Property under finance leases 	89 	-
+Row:Gross property and equipment 	9,228 	9,200
+Row:Less accumulated depreciation 	6,900 	6,690
+Row:Net property and equipment 	2,328 	2,510
+Row:Operating lease assets 	2,709 	-
+Row:Goodwill 	984 	915
+Row:Other assets 	713 	606
+Row:Total assets $ 	15,591 	$ 12,901
+Row:Liabilities and equity
+		Row:Current liabilities
+		Row:Accounts payable $ 	5,288 	$ 5,257
+Row:Unredeemed gift card liabilities 	281 	290
+Row:Deferred revenue 	501 	446
+Row:Accrued compensation and related expenses 	410 	482
+Row:Accrued liabilities 	906 	982
+Row:Current portion of operating lease liabilities 	660 	-
+Row:Current portion of long-term debt 	14 	56
+Row:Total current liabilities 	8,060 	7,513
+Row:Long-term operating lease liabilities 	2,138 	-
+Row:Long-term liabilities 	657 	750
+Row:Long-term debt 	1,257 	1,332
+Row:Contingencies and commitments (Note 13)
+		Row:Equity
+		Row:Best Buy Co., Inc. Shareholders' Equity
+		Row:Preferred stock, $1.00 par value: Authorized 400,000 shares; Issued and outstanding none 	- 	-
+Row:Common stock, $0.10 par value: Authorized 1.0 billion shares; Issued and
+outstanding 256,494,000 and 265,703,000 shares, respectively 	26 	27
+Row:3,158 	2,985
+Row:295 	294
+Row:3,479 	3,306
+Row:15,591 $ 	12,901
+Row:Fiscal Years Ended
+	February 1, 2020
+	February 2, 2019
+	February 3, 2018
+Row:Revenue
+	$
+43,638
+	$
+42,879
+	42,151
+Row:Cost of sales
+	33,590
+	32,918
+	32,275
+Row:Gross profit
+	10,048
+	9,961
+	9,876
+Row:Selling, general and administrative expenses
+	7,998
+	8,015
+	8,023
+Row:Restructuring charges
+	41
+	46
+	10
+Row:Operating income
+	2,009
+	1,900
+	1,843
+Row:Other income (expense):
+			Row:Gain on sale of investments
+	1
+	12
+	1
+Row:Investment income and other
+	47
+	49
+	48
+Row:Interest expense
+	(64)
+	(73)
+	(75)
+Row:Earnings from continuing operations before income tax expense
+	1,993
+	1,888
+	1,817
+Row:Income tax expense
+	452
+	424
+	818
+Row:Net earnings from continuing operations
+	1,541
+	1,464
+	999
+Row:Gain from discontinued operations, net of $0 tax expense
+			1
+Row:Net earnings
+	$
+1,541
+	$
+1,464
+$
+	1,000
+Row:Basic earnings per share
+	$
+5.82
+	$
+$
+5.30
+	3.33
+Row:Diluted earnings per share
+	5.75
+$
+	$
+5.20
+$
+	3.26
+Row:Weighted average common shares outstanding
+			Row:Basic
+	264.9
+	276.4
+	300.4
+Row:Diluted
+	268.1
+	281.4
+	307.1
+Row:Fiscal Years Ended 	February 1, 2020 	February 2, 2019 	February 3, 2018
+Row:Net earnings 	$ 1,541 	$ 1,464 $ 	1,000
+Row:Foreign currency translation adjustments 	1 	(20) 	35
+Row:Comprehensive income 	$ 1,542 	$ 1,444 $ 	1,035
+Row:Fiscal Years Ended 	February 1, 2020 	February 2, 2019 	February 3, 2018
+Row:Operating activities
+			Row:Net earnings $ Adjustments to reconcile net earnings to total cash provided by operating
+activities:
+	1,541 	$ 1,464 	$ 1,000
+Row:Depreciation and amortization 	812 	770 	683
+Row:Restructuring charges 	41 	46 	10
+Row:Stock-based compensation 	143 	123 	129
+Row:Deferred income taxes 	70 	10 	162
+Row:Other, net 	21 	(25) 	(13)
+Row:Changes in operating assets and liabilities, net of acquired assets and liabilities:
+			Row:Receivables 	(131) 	28 	315
+Row:Merchandise inventories 	237 	(194) 	(335)
+Row:Other assets 	16 	(34) 	(21)
+Row:Accounts payable 	47 	432 	(196)
+Row:Income taxes 	(132) 	22 	290
+Row:Other liabilities 	(100) 	(234) 	117
+Row:Total cash provided by operating activities 	2,565 	2,408 	2,141
+Row:Investing activities
+Additions to property and equipment, net of $10, $53 and $123, respectively, of
+			Row:non-cash capital expenditures 	(743) 	(819) 	(688)
+Row:Purchases of investments 	(330) 	- 	(4,325)
+Row:Sales of investments 	322 	2,098 	4,018
+Row:Acquisitions, net of cash acquired 	(145) 	(787) 	-
+Row:Other, net 	1 	16 	(7)
+Row:Total cash provided by (used in) investing activities 	(895) 	508 	(1,002)
+Row:Financing activities
+			Row:Repurchase of common stock 	(1,003) 	(1,505) 	(2,004)
+Row:Issuance of common stock 	48 	38 	163
+Row:Dividends paid 	(527) 	(497) 	(409)
+Row:Borrowings of debt 	- 	498 	-
+Row:Repayments of debt 	(15) 	(546) 	(46)
+Row:Other, net 	(1) 	(6) 	(1)
+Row:Total cash used in financing activities 	(1,498) 	(2,018) 	(2,297)
+Row:Effect of exchange rate changes on cash 	(1) 	(14) 	25
+Row:Increase (decrease) in cash, cash equivalents and restricted cash 	171 	884 	(1,133)
+Row:Cash, cash equivalents and restricted cash at beginning of period 	2,184 	1,300 	2,433
+Row:Cash, cash equivalents and restricted cash at end of period $ 	2,355 	$ 2,184 	$ 1,300
+Row:Supplemental cash flow information
+			Row:Income taxes paid $ 	514 	$ 391 	$ 366
+Row:Interest paid 	62 	71 	81
+Row:Balances at January 28, 2017
+	Common
+Shares
+311
+	Common
+Stock
+$
+31
+	Paid-In
+Capital
+$
+	Retained
+Earnings
+$ 4,399
+	Comprehensive
+Income (Loss)
+$
+279
+	$
+Total
+Equity
+4,709
+Row:Adoption of ASU 2016-09
+			10
+	(12)
+		(2)
+Row:Net earnings
+				1,000
+		1,000
+Row:Other comprehensive income, net of tax:
+						Row:Foreign currency translation adjustments
+					35
+	35
+Row:Stock-based compensation
+			129
+			129
+Row:Issuance of common stock
+	7
+	1
+	162
+			163
+Row:Common stock dividends, $1.36 per share
+				(411)
+		(411)
+Row:Repurchase of common stock
+	(35)
+	(4)
+	(299)
+	(1,706)
+		(2,009)
+Row:Other
+			(2)
+			(2)
+Row:Balances at February 3, 2018
+	283
+	28
+		3,270
+	314
+	3,612
+Row:Adoption of ASU 2014-09
+				73
+		73
+Row:Net earnings
+				1,464
+		1,464
+Row:Other comprehensive loss, net of tax:
+						Row:Foreign currency translation adjustments
+					(20)
+	(20)
+Row:Stock-based compensation
+			123
+			123
+Row:Issuance of common stock
+	4
+		38
+			38
+Row:Common stock dividends, $1.80 per share
+			6
+	(497)
+		(491)
+Row:Repurchase of common stock
+	(21)
+	(1)
+	(167)
+	(1,325)
+		|(1,493)
+Row:Balances at February 2, 2019
+	266
+	27
+		2,985
+	294
+	3,306
+Row:Adoption of ASU 2016-02
+				(22)
+		(22)
+Row:Net earnings
+				1,541
+		1,541
+Row:Other comprehensive income, net of tax:
+						Row:Foreign currency translation adjustments
+					1
+	1
+Row:Stock-based compensation
+			143
+			143
+Row:Issuance of common stock
+	4
+		48
+			48
+Row:Common stock dividends, $2.00 per share
+			9
+	(536)
+		(527)
+Row:Repurchase of common stock
+	(14)
+	(1)
+	(198)
+	(810)
+		(1,009)
+Row:Other
+			(2)
+			Row:Balances at February 1, 2020
+	256
+	$
+26
+	$
+	$
+3,158
+	$
+295
+	$
+3,479

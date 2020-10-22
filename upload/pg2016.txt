@@ -1,0 +1,123 @@
+Row:Amounts in millions except per share amounts; Yearsended June 30 	2016 	2015 	2014
+Row:NET SALES 	$ 65,299 	$ 70,749 	$ 74,401
+Row:Costof products sold 	32,909 	37,056 	39,030
+Row:Selling, general and administrative expense 	18,949 	20,616 	21,461
+Row:Venezuela deconsolidation charge 	— 	2,028 	—
+Row:OPERATING INCOME 	13,441 	11,049 	13,910
+Row:Interest expense 	579 	626 	709
+Row:Interest income 	182 	149 	99
+Row:Other non-operating income, net 	325 	440 	209
+Row:EARNINGS FROM CONTINUING OPERATIONS BEFORE INCOME TAXES 	13,369 	11,012 	13,509
+Row:Income taxes on continuing operations 	3,342 	2,725 	2,851
+Row:NET EARNINGS FROM CONTINUING OPERATIONS 	10,027 	8,287 	10,658
+Row:NET EARNINGS/(LOSS) FROM DISCONTINUED OPERATIONS 	577 	(1,143) 	1,127
+Row:NET EARNINGS 	10,604 	7,144 	11,785
+Row:Less: Net earningsattributable to noncontrolling interests 	96 	108 	142
+Row:NET EARNINGS ATTRIBUTABLE TO PROCTER & GAMBLE 	$ 10,508 	$ 7,036 	$ 11,643
+Row:BASIC NET EARNINGS PER COMMON SHARE: (1)
+			Row:Earnings from continuing operations 	$ 3.59 	$ 2.92 	$ 3.78
+Row:Earnings/(loss) from discontinued operations 	0.21 	(0.42) 	0.41
+Row:BASIC NET EARNINGS PER COMMON SHARE 	$ 3.80 	$ 2.50 	$ 4.19
+Row:DILUTED NET EARNINGS PER COMMON SHARE: (1)
+			Row:Earnings from continuing operations 	$ 3.49 	$ 2.84 	$ 3.63
+Row:Earnings/(loss) from discontinued operations 	0.20 	(0.40) 	0.38
+Row:DILUTED NET EARNINGS PER COMMON SHARE 	$ 3.69 	$ 2.44 	$ 4.01
+Row:DIVIDENDS PER COMMON SHARE 	$ 2.66 	$ 2.59 	$ 2.45
+Row:Amounts in millions; Years ended June 30 	2016 2015
+Row:Assets
+	Row:CURRENT ASSETS
+	Row:Cash and cashequivalents 	$ 7,102 $ 6,836
+Row:Available-for-sale investment securities 	6,246 4,767
+Row:Accountsreceivable 	4,373 4,568
+Row:INVENTORIES
+	Row:Materials and supplies 	1,188 1,266
+Row:Work in process 	563 525
+Row:Finished goods 	2,965 3,188
+Row:Total inventories 	4,716 4,979
+Row:Deferred income taxes 	1,507 1,356
+Row:Prepaid expenses and other current assets 	2,653 2,708
+Row:Current assets held for sale 	7,185 4,432
+Row:TOTAL CURRENT ASSETS 	33,782 29,646
+Row:PROPERTY, PLANT AND EQUIPMENT, NET 	19,385 19,655
+Row:GOODWILL 	44,350 44,622
+Row:TRADEMARKS AND OTHER INTANGIBLE ASSETS, NET 	24,527 25,010
+Row:NONCURRENT ASSETS HELD FOR SALE 	— 5,204
+Row:OTHER NONCURRENT ASSETS 	5,092 5,358
+Row:TOTAL ASSETS 	$ 127,136 $ 129,495
+Row:Liabilities and Shareholders' Equity
+	Row:TRADEMARKS AND OTHER INTANGIBLE ASSETS, NET 	24,527 	25,010
+Row:NONCURRENT ASSETS HELD FOR SALE 	— 	5,204
+Row:OTHER NONCURRENT ASSETS 	5,092 	5,358
+Row:TOTAL ASSETS 	$ 127,136 	$ 129,495
+Row:Liabilities and Shareholders' Equity
+		Row:CURRENT LIABILITIES
+		Row:Accountspayable 	$ 9,325 	$ 8,138
+Row:Accrued and other liabilities 	7,449 	8,091
+Row:Current liabilities held for sale 	2,343 	1,543
+Row:Debt due within one year 	11,653 	12,018
+Row:TOTAL CURRENT LIABILITIES 	30,770 	29,790
+Row:LONG-TERM DEBT 	18,945 	18,327
+Row:DEFERRED INCOME TAXES 	9,113 	9,179
+Row:NONCURRENT LIABILITIES HELD FOR SALE 	— 	717
+Row:OTHER NONCURRENT LIABILITIES 	10,325 	8,432
+Row:TOTAL LIABILITIES 	69,153 	66,445
+Row:SHAREHOLDERS' EQUITY
+		Row:Convertible Class A preferred stock, stated value $1 per share (600shares authorized) 	1,038 	1,077
+Row:Non-Voting Class B preferred stock, stated value $1 per share (200 shares authorized) 	— 	—
+Row:Common stock, stated value $1 per share (10,000 sharesauthorized; shares issued:
+2016 - 4,009.2, 2015 - 4,009.2 ) 	4,009 	4,009
+Row:Additional paid-in capital 	63,714 	63,852
+Row:Reserve for ESOP debt retirement 	(1,290) 	(1,320)
+Row:Accumulated other comprehensive income/(loss) 	(15,907) 	(12,780)
+Row:Treasury stock, at cost (sharesheld: 2016- 1,341.2, 2015 - 1,294.7) 	(82,176) 	(77,226)
+Row:Retained earnings 	87,953 	84,807
+Row:Noncontrolling interest 	642 	631
+Row:TOTAL SHAREHOLDERS' EQUITY 	57,983 	63,050
+Row:TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY 	$ 127,136 	$ 129,495
+Row:Amounts in millions; Years endedJune 30 2016 	2015 	2014
+Row:CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR $ 6,836 	$ 8,548 	$ 5,930
+Row:OPERATING ACTIVITIES
+		Row:Net earnings 10,604 	7,144 	11,785
+Row:Depreciationand amortization 3,078 	3,134 	3,141
+Row:Share-based compensation expense 	335 337 	360
+Row:Deferred income taxes 	(815) (803) 	(44)
+Row:Gain on sale of businesses 	(41) (766) 	(154)
+Row:Venezuela deconsolidation charge 	— 2,028 	—
+Row:Goodwill and intangible asset impairment charges 	450 2,174 	—
+Row:Change in accounts receivable 	35 349 	87
+Row:Change in inventories 	116 313 	8
+Row:Change in accounts payable, accrued and other liabilities 1,285 	928 	1
+Row:Change in other operating assets and liabilities 	204 (976) 	(1,557)
+Row:Other 	184 746 	331
+Row:TOTAL OPERATING ACTIVITIES 15,435 	14,608 	13,958
+Row:INVESTING ACTIVITIES
+		Row:Capital expenditures (3,314) 	(3,736) 	(3,848)
+Row:Proceeds from asset sales 	432 4,498 	577
+Row:Cash related to deconsolidated Venezuela operations 	— (908) 	—
+Row:Acquisitions, net of cash acquired 	(186) (137) 	(24)
+Row:Purchases of short-term investments (2,815) 	(3,647) 	(568)
+Row:Proceeds from sales of short-term investments 1,354 	1,203 	24
+Row:Cash transferred in Batteries divestiture 	(143) — 	—
+Row:Restricted cash related to Beauty Brands divestiture Change in other investments 	(996) — 93 (163) 	—
+(261)
+Row:TOTAL INVESTING ACTIVITIES (5,575) 	(2,890) 	(4,100)
+Row:FINANCING ACTIVITIES
+		Row:Dividends to shareholders (7,436) 	(7,287) 	(6,911)
+Row:Change in short-term debt Additions to long-term debt 3,916 	(418) (2,580) 2,138 	3,304
+4,334
+Row:Reductions of long-term debt (2,213) 	(3,512) 	(4,095)
+Row:Treasury stock purchases (4,004) 	(4,604) 	(6,005)
+Row:Treasury stock from cash infused in Batteries divestiture (1,730) Impact of stock options andother 2,672 	— 2,826 	—
+2,094
+Row:TOTAL FINANCING ACTIVITIES (9,213) 	(13,019) 	(7,279)
+Row:EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS CHANGE IN CASH AND CASH EQUIVALENTS 	(381) (411) 266 (1,712) 	39
+2,618
+Row:CASH AND CASH EQUIVALENTS, END OF YEAR $ 7,102 SUPPLEMENTAL DISCLOSURE
+	$ 6,836 	$ 8,548
+Row:Cash payments for:
+		Row:Interest $ 	569 $ 678 	$ 686
+Row:Income taxes 3,730 	4,558 	3,320
+Row:Divestiture of Batteries business in exchange for shares of P&G stock(1) 4,213 	— 	—
+Row:Interest 	$ 569 	$ 678 	$ 686
+Row:Income taxes 	3,730 	4,558 	3,320
+Row:Divestiture of Batteries business in exchange for shares of P&G stock(1) 	4,213 	— 	—

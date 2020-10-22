@@ -1,0 +1,10 @@
+Row:	2019 2018 	2017
+Row:Revenue 	150 120 	100
+Row:Cost of goods sold 	75 60 	50
+Row:Gross Profit 	75 60 	50
+Row:Total operating expenses 	24 22 	20
+Row:Operating income 	51 38 	30
+Row:Other expense (income), net 	5 5 	5
+Row:Income before income taxes 	49 33 	25
+Row:Provision for income taxes 	5 4 	3
+Row:Net income 	41 29 	22

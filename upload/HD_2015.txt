@@ -1,0 +1,119 @@
+Row:	2016
+		2015
+Row:$ 	2,216 1,890 	$ 	1,723
+1,484
+Row:$ 	11,809 1,078 16,993 39,266 17,075 22,191 2,102 1,263 42,549 	$ 	11,079
+1,016
+15,302
+38,513
+15,793
+22,720
+1,353
+571
+39,946
+Row:$ 350 	$ 290
+Row:6,565 	5,807
+Row:1,515 	1,391
+Row:476 	434
+Row:1,566 	1,468
+Row:34 	35
+Row:77 	38
+Row:1,943 	1,806
+Row:12,526 	11,269
+Row:20,888 	16,869
+Row:1,965 	1,844
+Row:854 	642
+Row:36,233 	30,624
+Row:88 	88
+Row:9,347 	8,885
+Row:30,973 	26,995
+Row:(898) 	(452)
+Row:(33,194) 	(26,194)
+Row:6,316 	9,322
+Row:$ 42,549 	$ 39,946
+Row:January 31,
+	February 1,
+	February 2,
+Row:2016
+	2015
+	2014
+Row:$ 88,519 	$ 83,176 	$ 78,812
+Row:58,254 	54,787 	51,897
+Row:30,265 	28,389 	26,915
+Row:16,801 	16,280 	16,122
+Row:1,690 	1,640 	1,627
+Row:18,491 	17,920 	17,749
+Row:11,774 	10,469 	9,166
+Row:(166) 	(337) 	(12)
+Row:919 	830 	711
+Row:753 	493 	699
+Row:11,021 	9,976 	8,467
+Row:4,012 	3,631 	3,082
+Row:$ 7,009 	$ 6,345 	$ 5,385
+Row:1,277 	1,338 	1,425
+Row:$ 5.49 	$ 4.74 	$ 3.78
+Row:1,283 	1,346 	1,434
+Row:$ 5.46 	$ 4.71 	$ 3.76
+Row:January 31,
+	Fiscal Year Ended
+February 1,
+	February 2,
+Row:2016
+	2015
+	2014
+Row:$ 7,009 	$ 6,345 	$ 5,385
+Row:1,863 	1,786 	1,757
+Row:244 	225 	228
+Row:(144) 	(323) 	—
+Row:(181) 	(81) 	(15)
+Row:(546) 	(124) 	(455)
+Row:(5) 	(199) 	(5)
+Row:888 	244 	605
+Row:109 	146 	75
+Row:154 	168 	119
+Row:15 	159 	(31)
+Row:(33) 	(104) 	(35)
+Row:9,373 	8,242 	7,628
+Row:amounts in millions
+	January 31,
+2016
+	February 2014
+February 1,
+2015
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+		Row:Net Earnings 	$ 7,009 	$ 6,345 $ 5,385
+Row:Reconciliation of Net Earnings to Net Cash Provided by Operating Activities:
+		Row:Depreciation and Amortization 	1,863 	1,786 1,757
+Row:Stock-Based Compensation Expense 	244 	225 Row:Gain on Sales of Investments 	(144) 	(323) Row:Changes in Assets and Liabilities, net of the effects of acquisitions:
+		Row:Receivables, net 	(181) 	(81) Row:Merchandise Inventories 	(546) 	(124) Row:Other Current Assets 	(5) 	(199) Row:Accounts Payable and Accrued Expenses 	888 	244 Row:Deferred Revenue 	109 	146 Row:Income Taxes Payable 	154 	168 Row:Deferred Income Taxes 	15 	159 Row:Other 	(33) 	(104) Row:Net Cash Provided by Operating Activities 	9,373 	8,242 7,628
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+		Row:Capital Expenditures, net of $165, $217 and $46 of non-cash capital
+		Row:expenditures in fiscal 2015, 2014 and 2013, respectively 	(1,503) 	(1,442) (1,389)
+Row:Proceeds from Sales of Investments 	144 	323 Row:Payments for Businesses Acquired, net 	(1,666) 	(200) Row:Proceeds from Sales of Property and Equipment 	43 	48 Row:Net Cash Used in Investing Activities 	(2,982) 	(1,271) (1,507)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+		Row:Proceeds from Short-Term Borrowings, net 	60 	290 Row:Proceeds from Long-Term Borrowings, net of discounts 	3,991 	1,981 5,222
+Row:Repayments of Long-Term Debt 	(39) 	(39) (1,289)
+Row:Repurchases of Common Stock 	(7,000) 	(7,000) (8,546)
+Row:Proceeds from Sales of Common Stock 	228 	252 Row:Cash Dividends Paid to Stockholders 	(3,031) 	(2,530) (2,243)
+Row:Other Financing Activities 	4 	(25) Row:Net Cash Used in Financing Activities 	(5,787) 	(7,071) (6,652)
+Row:Change in Cash and Cash Equivalents 	604 	(100) Row:Effect of Exchange Rate Changes on Cash and Cash Equivalents 	(111) 	(106) Row:Cash and Cash Equivalents at Beginning of Year 	1,723 	1,929 2,494
+Row:Cash and Cash Equivalents at End of Year 	$ 2,216 	$ 1,723 $ 1,929
+Row:SUPPLEMENTAL DISCLOSURE OF CASH PAYMENTS MADE FOR:
+		Row:Interest, net of interest capitalized 	$ 874 	$ 782 $ Row:Income Taxes 	$ 3,853 	$ 3,435 $ 2,839
+Row:—————
+		Row:144 	323 	—
+Row:(1,666) 	(200) 	(206)
+Row:43 	48 	88
+Row:(2,982) 	(1,271) 	(1,507)
+Row:60 	290 	—
+Row:3,991 	1,981 	5,222
+Row:(39) 	(39) 	(1,289)
+Row:(7,000) 	(7,000) 	(8,546)
+Row:228 	252 	241
+Row:(3,031) 	(2,530) 	(2,243)
+Row:4 	(25) 	(37)
+Row:(5,787) 	(7,071) 	(6,652)
+Row:604 	(100) 	(531)
+Row:(111) 	(106) 	(34)
+Row:1,723 	1,929 	2,494
+Row:$ 2,216 	$ 1,723 	$ 1,929

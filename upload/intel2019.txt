@@ -1,0 +1,108 @@
+Row:Years Ended (In Millions, Except Per Share Amounts)
+	Dec 28,
+2019
+	Dec 29,
+2018
+	Dec 30,
+2017
+Row:Net revenue 	$ 71,965 $ 	70,848 	$ 62,761
+Row:Cost of sales 	29,825 	27,111 	23,663
+Row:Gross margin 	42,140 	43,737 	39,098
+Row:Research and development 	13,362 	13,543 	13,035
+Row:Marketing, general and administrative 	6,150 	6,750 	7,452
+Row:Restructuring and other charges 	393 	(72) 	384
+Row:Amortization of acquisition-related intangibles 	200 	200 	177
+Row:Operating expenses 	20,105 	20,421 	21,048
+Row:Operating income 	22,035 	23,316 	18,050
+Row:Gains (losses) on equity investments, net 	1,539 	(125) 	2,651
+Row:Interest and other, net 	484 	126 	(349)
+Row:Income before taxes Provision for taxes 	24,058 3,010 	23,317 2,264 	20,352
+10,751
+Row:Net income 	$ 21,048 $ 	21,053 	$ 9,601
+Row:Earnings per share—Basic 	$ 4.77 $ 	4.57 	$ 2.04
+Row:Earnings per share—Diluted 	$ 4.71 $ 	4.48 	$ 1.99
+Row:Weighted average shares of common stock outstanding:
+Basic 	4,417 	4,611 	4,701
+Row:Diluted 	4,473 	4,701 	4,835
+Row:See accompanying notes.
+			Row:(In Millions, Except Par Value)
+	Dec 28,
+2019
+	Dec 29,
+2018
+Row:Assets
+		Row:Current assets:
+Cash and cash equivalents Short-term investments 	$ 4,194 1,082 	$ 3,019
+2,788
+Row:Trading assets 	7,847 	5,843
+Row:Accounts receivable, net of allowance for doubtful accounts 	7,659 	6,722
+Row:Inventories Other current assets 	8,744 1,713 	7,253
+3,162
+Row:Total current assets 	31,239 	28,787
+Row:Property, plant and equipment, net Equity investments 	55,386 3,967 	48,976
+6,042
+Row:Other long-term investments Goodwill 	3,276 26,276 	3,388
+24,513
+Row:Identified intangible assets, net 	10,827 	11,836
+Row:Other long-term assets 	5,553 	4,421
+Row:Total assets 	$ 136,524 	$ 127,963
+Row:Liabilities, temporary equity, and stockholders’ equity
+		Row:Current liabilities:
+Short-term debt Accounts payable 	$ 3,693 4,128 	$ 1,261
+3,824
+Row:Accrued compensation and benefits 	3,853 	3,622
+Row:Other accrued liabilities 	10,636 	7,919
+Row:Total current liabilities 	22,310 	16,626
+Row:Debt Contract liabilities 	25,308 1,368 	25,098
+2,049
+Row:Income taxes payable, non-current 	4,919 	4,897
+Row:Deferred income taxes Other long-term liabilities Commitments and Contingencies (Note 20)
+	2,044 2,916 	1,665
+2,646
+Row:Temporary equity Stockholders’ equity:
+	155 	419
+Row:Years Ended (In Millions)
+	Dec 28,
+2019
+	Dec 29,
+2018
+	Dec 30,
+2017
+Row:Cash and cash equivalents, beginning of period $ 	3,019 	$ 3,433 	$ 5,560
+Row:Cash flows provided by (used for) operating activities:
+			Row:Net income Adjustments to reconcile net income to net cash provided by operating
+activities:
+	21,048 	21,053 	9,601
+Row:Depreciation 	9,204 	7,520 	6,752
+Row:Share-based compensation 	1,705 	1,546 	1,358
+Row:Amortization of intangibles 	1,622 	1,565 	1,377
+Row:(Gains) losses on equity investments, net 	(892) 	155 	(2,583)
+Row:(Gains) losses on divestitures 	(690) 	(497) 	(387)
+Row:Changes in assets and liabilities:
+			Row:Accounts receivable 	(935) 	(1,714) 	(781)
+Row:Inventories 	(1,481) 	(214) 	(1,300)
+Row:Accounts payable 	696 	211 	191
+Row:Accrued compensation and benefits 	91 	(260) 	311
+Row:Customer deposits and prepaid supply agreements 	(782) 	1,367 	1,105
+Row:Income taxes 	885 	(1,601) 	6,778
+Row:Other assets and liabilities 	2,674 	301 	(312)
+Row:Total adjustments 	12,097 	8,379 	12,509
+Row:Net cash provided by operating activities 	33,145 	29,432 	22,110
+Row:Cash flows provided by (used for) investing activities:
+			Row:Additions to property, plant and equipment 	(16,213) 	(15,181) 	(11,778)
+Row:Acquisitions, net of cash acquired 	(1,958) 	(190) 	(14,499)
+Row:Purchases of available-for-sale debt investments 	(2,268) 	(3,843) 	(2,746)
+Row:Sales of available-for-sale debt investments 	238 	195 	1,833
+Row:Maturities of available-for-sale debt investments 	3,988 	2,968 	3,687
+Row:Purchases of trading assets 	(9,162) 	(9,503) 	(13,700)
+Row:Maturities and sales of trading assets 	7,178 	12,111 	13,970
+Row:Purchases of equity investments 	(522) 	(874) 	(1,619)
+Row:Sales of equity investments 	2,688 	2,802 	5,236
+Row:Proceeds from divestitures Other investing 	911 715 	548 (272) 	3,124
+730
+Row:Net cash used for investing activities 	(14,405) 	(11,239) 	(15,762)
+Row:Cash flows provided by (used for) financing activities:
+			Row:Issuance of long-term debt, net of issuance costs 	3,392 	423 	7,716
+Row:Repayment of debt and debt conversion 	(2,627) 	(3,026) 	(8,080)
+Row:Proceeds from sales of common stock through employee equity incentive plans 	750 	555 	770
+Row:Repurchase of common stock 	(13,576) 	(10,730) 	(3,615)

@@ -1,0 +1,125 @@
+Row:2018 	2017
+Row:Assets 	(as adjusted)
+Row:Current assets:
+	Row:Cash and cash equivalents $ Accounts receivable, net of allowance for doubtful accounts of $7.0 and $6.2, respectively Merchandise inventory 	205.8 $ 144.2
+2,671.2 2,329.3
+454.3 411.5
+Row:Miscellaneous receivables 	316.4 343.0
+Row:Prepaid expenses and other 	149.1 168.3
+Row:Total current assets Property and equipment, net 	3,796.8 3,396.3
+156.1 161.1
+Row:Goodwill Other intangible assets, net 	2,462.8 2,479.6
+712.2 897.0
+Row:Other assets 	39.8 32.7
+Row:Total Assets $ 	7,167.7 $ 6,966.7
+Row:Liabilities and Stockholders' Equity
+	Row:Current liabilities:
+	Row:Accounts payable-trade $ 	1,577.1 $ 1,317.7
+Row:Accounts payable-inventory financing 	429.3 498.0
+Row:Current maturities of long-term debt 	25.3 25.5
+Row:Contract liabilities 	178.3 158.8
+Row:Accrued expenses and other current liabilities:
+	Row:Compensation 	186.4 129.5
+Row:Advertising 	119.2 89.2
+Row:Sales and income taxes 	55.5 60.0
+Row:Other 	232.0 243.4
+Row:Total current liabilities 	2,803.1 2,522.1
+Row:Long-term liabilities:
+Debt 	3,183.3 3,210.0
+Row:Deferred income taxes 	141.9 196.3
+Row:Other liabilities Total long-term liabilities 	64.2 52.7
+3,389.4 3,459.0
+Row:Stockholders' equity:
+Preferred stock, $0.01 par value, 100.0 shares authorized; no shares issued or outstanding for both periods 	— —
+Row:Common stock, $0.01 par value, 1,000.0 shares authorized; 147.7 and 153.1 shares issued, respectively 	1.5 1.5
+Row:Less: treasury stock, $0.01 par value, 0.0 and 0.1 shares held, respectively 	— —
+Row:Outstanding common stock, $0.01 par value, 147.7 and 153.0 shares outstanding, respectively 	1.5 1.5
+Row:Paid-in capital 	2,996.9 2,911.6
+Row:Accumulated deficit Accumulated other comprehensive loss 	(1,892.6) (1,831.6)
+(130.6) (95.9)
+Row:Total stockholders' equity 	975.2 985.6
+Row:Total Liabilities and Stockholders' Equity $ 	7,167.7 $ 6,966.7
+Row:Current assets:
+		Row:Cash and cash equivalents $ 	205.8 	$ 144.2
+Row:Accounts receivable, net of allowance for doubtful accounts of $7.0 and $6.2, respectively 	2,671.2 	2,329.3
+Row:Merchandise inventory 	454.3 	411.5
+Row:Miscellaneous receivables 	316.4 	343.0
+Row:Prepaid expenses and other 	149.1 	168.3
+Row:Total current assets 	3,796.8 	3,396.3
+Row:Property and equipment, net 	156.1 	161.1
+Row:Goodwill 	2,462.8 	2,479.6
+Row:Long-term liabilities:
+	Row:Debt 	3,183.3 3,210.0
+Row:Deferred income taxes 	141.9 196.3
+Row:Other liabilities 	64.2 52.7
+Row:Total long-term liabilities 	3,389.4 3,459.0
+Row:Stockholders' equity:
+		Row:Preferred stock, $0.01 par value, 100.0 shares authorized; no shares issued or outstanding for both periods 	— 	—
+Row:Common stock, $0.01 par value, 1,000.0 shares authorized; 147.7 and 153.1 shares issued, respectively 	1.5 	1.5
+Row:Less: treasury stock, $0.01 par value, 0.0 and 0.1 shares held, respectively 	— 	—
+Row:Outstanding common stock, $0.01 par value, 147.7 and 153.0 shares outstanding, respectively 	1.5 	1.5
+Row:Paid-in capital 	2,996.9 	2,911.6
+Row:Accumulated deficit 	(1,892.6) 	(1,831.6)
+Row:Accumulated other comprehensive loss 	(130.6) 	(95.9)
+Row:Total stockholders' equity 	975.2 	985.6
+Row:Total Liabilities and Stockholders' Equity $ 	7,167.7 	$ 6,966.7
+Row:	2018 	2017 	2016
+Row:		(as adjusted) 	(as adjusted)
+Row:Net sales 	$16,240.5 	$14,832.9 	$ 13,672.7
+Row:Cost of sales 	13,533.6 	12,382.7 	11,344.4
+Row:Gross profit 	2,706.9 	2,450.2 	2,328.3
+Row:Selling and administrative expenses 	1,537.1 	1,410.0 	1,345.4
+Row:Advertising expense 	182.5 	173.7 	162.9
+Row:Operating income 	987.3 	866.5 	820.0
+Row:Interest expense, net 	(148.6) 	(150.5) 	(146.5)
+Row:Net loss on extinguishments of long-term debt 	— 	(57.4) 	(2.1)
+Row:Other income, net 	1.8 	2.1 	1.8
+Row:Income before income taxes 	840.5 	660.7 	673.2
+Row:Income tax expense 	(197.5) 	(137.6) 	(248.1)
+Row:Net income 	$ 643.0 	$ 523.1 	$ 425.1
+Row:Net income per common share:
+			Row:Basic 	$ 4.26 	$ 3.37 	$ 2.60
+Row:Diluted 	$ 4.19 	$ 3.31 	$ 2.56
+Row:Weighted-average common shares outstanding:
+			Row:Basic 	150.9 	155.4 	163.6
+Row:Diluted 	153.6 	158.2 	166.0
+Row:Cash dividends declared per common share 	$ 0.9250 	$ 0.6900 	$ 0.4825
+Row:2018 Cash flows from operating activities: 	2017 (as adjusted) 	2016
+(as adjusted)
+Row:Net income $ 	643.0 $ 523.1 	$ 425.1
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+		Row:Depreciation and amortization 	265.6 260.9 	254.5
+Row:Equity-based compensation expense 	40.7 43.7 	39.2
+Row:Deferred income taxes 	(56.1) (172.7) 	(97.2)
+Row:Net loss on extinguishments of long-term debt 	— 57.4 	2.1
+Row:Other 	10.9 5.0 	4.3
+Row:Changes in assets and liabilities:
+		Row:Accounts receivable 	(365.1) (136.8) 	(178.9)
+Row:Merchandise inventory 	(46.8) 16.9 	(68.0)
+Row:Other assets 	25.2 (117.8) 	(51.8)
+Row:Accounts payable-trade 	271.2 231.5 	225.1
+Row:Other liabilities 	117.3 66.5 	49.6
+Row:Net cash provided by operating activities 	905.9 777.7 	604.0
+Row:Cash flows used in investing activities:
+		Row:Capital expenditures 	(86.1) (81.1) 	(63.5)
+Row:Premium payments on interest rate cap agreements 	— — 	(2.4)
+Row:Net cash used in investing activities 	(86.1) (81.1) 	(65.9)
+Row:Cash flows used in financing activities:
+		Row:Proceeds from borrowings under revolving credit facility 	686.7 1,560.7 	338.8
+Row:Repayments of borrowings under revolving credit facility 	(686.7) (1,560.7) 	(338.8)
+Row:Repayments of long-term debt 	(21.6) (14.9) 	(20.6)
+Row:Proceeds from issuance of long-term debt 	— 2,083.0 	1,483.0
+Row:Payments to extinguish long-term debt 	— (2,121.3) 	(1,490.4)
+Row:Net change in accounts payable-inventory financing 	(67.4) (84.0) 	143.6
+Row:Repurchases of common stock 	(522.3) (534.0) 	(367.4)
+Row:Payment of incentive compensation plan withholding taxes 	(33.9) (49.6) 	—
+Row:Dividends 	(139.4) (106.9) 	(78.7)
+Row:Other 	29.8 9.0 	25.9
+Row:Net cash used in financing activities 	(754.8) (818.7) 	(304.6)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(3.4) 2.6 	(7.4)
+Row:Net increase (decrease) in cash and cash equivalents 	61.6 (119.5) 	226.1
+Row:Cash and cash equivalents – beginning of period 	144.2 263.7 	37.6
+Row:Cash and cash equivalents – end of period $ Supplementary disclosure of cash flow information:
+	205.8 $ 144.2 	$ 263.7
+Row:Interest paid $ 	(148.8) $ (148.5) 	$ (144.3)
+Row:Taxes paid, net $ 	(261.2) $ (275.7) 	$ (329.2)

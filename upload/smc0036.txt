@@ -1,0 +1,180 @@
+Row:June 30,
+	June 30,
+Row:2019
+	2018
+Row:ASSETS	June 30,
+2019
+	June 30,
+2018
+Row:Current assets:Cash and cash equivalents	$
+248,164
+	$
+115,377
+Row:Accounts receivable, net of allowances of $8,906 and $1,945 at June 30, 2019 and 2018,respectively (including amounts receivable from related parties of $13,439 and $3,082 atJune 30, 2019 and 2018, respectively)Inventories	393,624670,188
+	451,393853,252
+Row:Prepaid expenses and other current assets (including receivables from related parties of$21,302 and $24,016 at June 30, 2019 and 2018, respectively)Total current assets	109,7951,421,771	110,8561,530,878Row:Investment in equity investee	1,701	2,376Row:Property, plant and equipment, net	207,337	196,631Row:Deferred income taxes, net	41,126	25,583Row:Other assets	10,659	14,037Row:Total assets	1,682,594 $
+	$
+1,769,505
+Row:LIABILITIES AND STOCKHOLDERS' EQUITY		Row:Current liabilities:		Row:Accounts payable (including amounts due to related parties of $59,809 and $77,810 atJune 30, 2019 and 2018, respectively)	$
+360,470 	$
+527,158
+Row:Accrued liabilities (including amounts due to related parties of $10,536 and $18,394 atJune 30, 2019 and 2018, respectively)	114,678	102,478Row:Income taxes payable	13,021	7,191Row:Short-term debt	23,647	116,181Row:Deferred revenue	94,153	58,549Row:Total current liabilities	605,969	811,557Row:Deferred revenue, non-current	109,266
+	89,731
+Row:Other long-term liabilities (including related party balance of $3,000 and $3,500 at June 30,2019 and 2018, respectively)	26,183
+	24,565
+Row:Total liabilities	741,418
+	925,853
+Row:Commitments and contingencies (Note 15)		Row:Stockholders' equity:		Row:Common stock and additional paid-in capital, $0.001 par value		Row:Authorized shares: 100,000,000		Row:Issued shares: 51,289,413 and 50,914,571 at June 30, 2019 and 2018, respectively	349,683	331,550Row:Treasury stock (at cost), 1,333,125 shares at June 30, 2019 and 2018	(20,491)	(20,491)Row:Accumulated other comprehensive (loss) income	(80)	165Row:Retained earnings	611,903	532,271Row:Total Super Micro Computer, Inc. stockholders' equityNoncontrolling interest	941,015161
+	843,495157
+Row:Total stockholders' equity	941,176	843,652Row:Total liabilities and stockholders' equity
+	1,682,594 $
+	$
+1,769,505
+Row:See accompanying notes to consolidated financial statements	.
+	Row:$
+Accounts payable (including amounts due to related parties of $59,809 and $77,810 atJune 30, 2019 and 2018, respectively)	360,470 	$
+527,158
+Row:Accrued liabilities (including amounts due to related parties of $10,536 and $18,394 atJune 30, 2019 and 2018, respectively)	114,678	102,478Row:Income taxes payable	13,021	7,191Row:Short-term debt	23,647	116,181Row:Deferred revenue	94,153	58,549Row:Total current liabilities	605,969	811,557Row:Deferred revenue, non-current	109,266
+	89,731
+Row:Other long-term liabilities (including related party balance of $3,000 and $3,500 at June 30,2019 and 2018, respectively)	26,183
+	24,565
+Row:Total liabilities	741,418
+	925,853
+Row:Authorized shares: 100,000,000		Row:Issued shares: 51,289,413 and 50,914,571 at June 30, 2019 and 2018, respectively	349,683	331,550Row:Treasury stock (at cost), 1,333,125 shares at June 30, 2019 and 2018	(20,491)	(20,491)Row:Accumulated other comprehensive (loss) income	(80)	165Row:Retained earnings	611,903	532,271Row:Total Super Micro Computer, Inc. stockholders' equity	941,015	843,495Row:Noncontrolling interest	161
+	157
+Row:Total stockholders' equity	941,176	843,652Row:Total liabilities and stockholders' equity
+$
+	1,682,594 	$
+1,769,505
+Row:	2019
+	2018
+	2017
+Row:Net sales (including related party sales of $69,906, $68,637 and $33,821 in fiscalyears 2019, 2018 and 2017, respectively)	$
+3,500,360
+	$
+3,360,492
+	$
+2,484,929
+Row:Cost of sales (including related party purchases of $276,843, $262,747, and$236,062 in fiscal years 2019, 2018 and 2017, respectively)	3,004,838	2,930,498	2,134,971Row:Gross profit	495,522
+	429,994
+	349,958
+Row:Operating expenses:			Row:Research and development	179,907	165,104	143,992Row:Sales and marketing	77,154	71,579	66,445Row:General and administrative	141,228	98,597	44,646Row:Total operating expenses	398,289	335,280	255,083Row:Income from operations	97,233	94,714	94,875Row:Other expense, net	(1,020)	(773)	(984)Row:Interest expense	(6,690)	(5,726)	(2,300)Row:Income before income tax provision	89,523	88,215	91,591Row:Income tax provision	(14,884)	(38,443)	(24,434)Row:Share of loss from equity investee, net of taxes	(2,721)	(3,607)	(303)Row:Net income
+	71,918
+$
+	46,165
+$
+	66,854
+$
+Row:Net income per common share:			Row:Basic	1.44
+$	$
+0.94	$
+1.38Row:Diluted	$
+1.39
+	0.89
+$
+	1.29
+$
+Row:Weighted-average shares used in calculation of net income per common share:			Row:Basic	49,917	49,345	48,383Row:Diluted
+	51,716
+	52,151
+	51,679
+Row:OPERATING ACTIVITIES:
+	2019
+2018
+	2017
+Row:Net income
+	71,918
+46,165
+	$
+66,854
+Row:Reconciliation of net income to net cash provided by (used in) operating activities:		Row:Depreciation and amortization	24,202
+21,846
+	16,357
+Row:Stock-based compensation expense	21,184
+24,656
+	19,665
+Row:Excess tax benefits from stock-based compensation		(2,310)Row:Allowance (recoveries) for doubtful accounts	7,058
+(96)
+	334
+Row:Provision for excess and obsolete inventories
+	32,946
+9,649
+	15,729
+Row:Other
+	733
+909
+	Row:Impairment of investments	2,661
+	Row:Share of loss from equity investee	2,721
+3,607
+	303
+Row:Foreign currency exchange (gain) loss	171
+(313)	1,274
+Row:Deferred income taxes, net	(17,100)
+13,570
+	(5,434)
+Row:Changes in operating assets and liabilities:		Row:Accounts receivable, net (including changes in related party balances of $(10,357), $3,795, and$(6,828) in fiscal years 2019, 2018, and 2017, respectively)	85,027
+(127,082)	(149,455)Row:Inventories	(126,232)
+119,314
+	(235,590)
+Row:Prepaid expenses and other assets (including changes in related party balances of $2,714,$(10,689), and $(3,705) in fiscal years 2019, 2018, and 2017, respectively)	8,410
+(15,714)
+	(2,856)
+Row:Accounts payable (including changes in related party balances of $(18,001), $21,882, and$10,987 in fiscal years 2019, 2018, and 2017, respectively)	(173,410)
+132,533
+	135,320
+Row:Income taxes payableAccrued liabilities (including changes in related party balances of $(7,858), $9,944, and $3,096 infiscal years 2019, 2018, and 2017, respectively)	5,831
+5,827
+11,456
+23,238
+	(1,873)
+17,329
+Row:Deferred revenue	59,800
+67,775
+	31,236
+Row:Other long-term liabilities (including changes in related party balances of $(500), $(1,400), and$4,900 in fiscal years 2019, 2018, and 2017, respectively)Net cash provided by (used in) operating activities
+	116
+3,52584,347
+262,554
+	(3,071)
+(96,188)
+Row:INVESTING ACTIVITIES:
+		Row:Purchases of property, plant and equipment (including payments to related parties of $4,472, $6,005, and$4,570 in fiscal years 2019, 2018, and 2017, respectively)Proceeds from redemption of auction rate security	(24,849)
+(24,824)
+1,000
+	(29,365)
+Row:Investments in privately held companies	(2,100)
+	Row:Net cash used in investing activities	(24,849)
+(25,924)
+	(29,365)
+Row:FINANCING ACTIVITIES:		Row:Proceeds from borrowings, net of debt issuance costs	41,760
+107,337	207,029
+Row:Repayment of debt	(220,299)
+(67,700)
+	(140,452)
+Row:Net (repayment) borrowings on asset-backed revolving line of credit, net of costs	(65,945)
+64,226
+	Row:Payment of other fees for debt financing	(625)
+(414)
+	Row:Advances under receivables financing arrangement		227
+Row:Proceeds from exercise of stock options	3,043
+	10,878
+Row:Excess tax benefits from stock-based compensation		2,310
+Row:Payments of obligations under capital leases	(267)(253)	(253)Row:Payment of withholding tax on vesting of restricted stock units	(3,051)
+(4,472)
+	(3,554)
+Row:Payments to acquire treasury stock		(18,461)
+Row:Net cash (used in) provided by financing activities	(95,828)
+(50,832)
+	57,724
+Row:Effect of exchange rate fluctuations on cash	(6)
+(119)	(45)Row:Net increase (decrease) in cash, cash equivalents, and restricted cash	141,7587,585
+	(67,874)
+Row:Cash, cash equivalents and restricted cash at beginning of year	120,382
+112,797	180,671
+Row:Cash, cash equivalents and restricted cash at end of year
+$
+	120,382
+262,140
+$
+	$
+112,797

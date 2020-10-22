@@ -1,0 +1,396 @@
+Row:	2018 	2017 	2016
+Row:Revenues 	$ 15,794,341 	$ 11,692,713 $ 	8,830,669
+Row:Cost of revenues 	9,967,538 	8,033,000 	6,257,462
+Row:Marketing 	2,369,469 	1,436,281 	1,097,519
+Row:Technology and development 	1,221,814 	953,710 	780,232
+Row:General and administrative 	630,294 	431,043 	315,663
+Row:Operating income 	1,605,226 	838,679 	379,793
+Row:Other income (expense):
+			Row:Interest expense 	(420,493) 	(238,204) 	(150,114)
+Row:Interest and other income (expense) 	41,725 	(115,154) 	30,828
+Row:Income before income taxes 	1,226,458 	485,321 	260,507
+Row:Provision for (benefit from) income taxes 	15,216 	(73,608) 	73,829
+Row:Net income 	$ 1,211,242 	$ 558,929 $ 	186,678
+Row:Earnings per share:
+			Row:Basic 	$ 2.78 	$ 1.29 $ 	0.44
+Row:Diluted 	$ 2.68 	$ 1.25 $ 	0.43
+Row:Weighted-average common shares outstanding:
+			Row:Basic 	435,374 	431,885 	428,822
+Row:Diluted 	451,244 	446,814 	438,652
+Row:$ 	2.78 	$ 	1.29 	$ 	0.44
+Row:$ 	2.68 	$ 	1.25 	$ 	0.43
+Row:435,374 	431,885 	428,822
+Row:451,244 	446,814 	438,652
+Row:Cash flows from operating activities:
+			Row:Net income 	$ 1,211,242 	$ 558,929 	$ 186,678
+Row:Adjustments to reconcile net income to net cash used in operating activities:
+			Row:Additions to streaming content assets 	(13,043,437) 	(9,805,763) 	(8,653,286)
+Row:Change in streaming content liabilities 	999,880 	900,006 	1,772,650
+Row:Amortization of streaming content assets 	7,532,088 	6,197,817 	4,788,498
+Row:Amortization of DVD content assets 	41,212 	60,657 	78,952
+Row:Depreciation and amortization of property, equipment and intangibles 	83,157 	71,911 	57,528
+Row:Stock-based compensation expense 	320,657 	182,209 	173,675
+Row:Excess tax benefits from stock-based compensation 	— 	— 	(65,121)
+Row:Other non-cash items 	40,428 	57,207 	40,909
+Row:Foreign currency remeasurement loss (gain) on long-term debt 	(73,953) 	140,790 	—
+Row:Deferred taxes 	(85,520) 	(208,688) 	(46,847)
+Row:Changes in operating assets and liabilities:
+			Row:Other current assets 	(200,192) 	(234,090) 	46,970
+Row:Accounts payable 	199,198 	74,559 	32,247
+Row:Accrued expenses 	150,422 	114,337 	68,706
+Row:Deferred revenue 	142,277 	177,974 	96,751
+Row:Other non-current assets and liabilities 	2,062 	(73,803) 	(52,294)
+Row:Net cash used in operating activities 	(2,680,479) 	(1,785,948) 	(1,473,984)
+Row:Cash flows from investing activities:
+			Row:Purchases of property and equipment 	(173,946) 	(173,302) 	(107,653)
+Row:Acquisition of DVD content assets 	(38,586) 	(53,720) 	(77,177)
+Row:Other assets 	(126,588) 	(6,689) 	(941)
+Row:Purchases of short-term investments 	— 	(74,819) 	(187,193)
+Row:Proceeds from sale of short-term investments 	— 	320,154 	282,484
+Row:Proceeds from maturities of short-term investments 	— 	22,705 	140,245
+Row:Net cash provided by (used in) investing activities 	(339,120) 	34,329 	49,765
+Row:Cash flows from financing activities:
+			Row:Proceeds from issuance of debt 	3,961,852 	3,020,510 	1,000,000
+Row:Issuance costs 	(35,871) 	(32,153) 	(10,700)
+Row:Proceeds from issuance of common stock 	124,502 	88,378 	36,979
+Row:Excess tax benefits from stock-based compensation 	— 	— 	65,121
+Row:Other financing activities 	(1,956) 	255 	230
+Row:Net cash provided by financing activities 	4,048,527 	3,076,990 	1,091,630
+Row:Effect of exchange rate changes on cash, cash equivalents and restricted cash 	(39,682) 	29,848 	(9,165)
+Row:Net increase (decrease) in cash, cash equivalents and restricted cash 	989,246 	1,355,219 	(341,754)
+Row:Cash, cash equivalents and restricted cash, beginning of year 	2,822,795 	1,467,576 	1,809,330
+Row:Cash, cash equivalents and restricted cash, end of year 	$ 3,812,041 	$ 2,822,795 	$ 1,467,576
+Row:Supplemental disclosure:
+			Row:Income taxes paid 	$ 131,069 	$ 113,591 	$ 26,806
+Row:Interest paid 	375,831 	213,313 	138,566
+Row:Increase (decrease) in investing activities included in liabilities 	2,560 	(32,643) 	27,504
+Row:See accompanying notes to consolidated financial 	statements.
+		Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 3,794,483 	$ 2,822,795
+Row:Current content assets, net 	5,151,186 	4,310,934
+Row:Other current assets 	748,466 	536,245
+Row:Total current assets 	9,694,135 	7,669,974
+Row:Non-current content assets, net 	14,960,954 	10,371,055
+Row:Property and equipment, net 	418,281 	319,404
+Row:Other non-current assets 	901,030 	652,309
+Row:Total assets 	$ 25,974,400 	$ 19,012,742
+Row:Liabilities and Stockholders’ Equity
+		Row:Current liabilities:
+		Row:Current content liabilities 	$ 4,686,019 	$ 4,173,041
+Row:Accounts payable 	562,985 	359,555
+Row:Accrued expenses 	477,417 	315,094
+Row:Deferred revenue 	760,899 	618,622
+Row:Total current liabilities 	6,487,320 	5,466,312
+Row:Non-current content liabilities 	3,759,026 	3,329,796
+Row:Long-term debt 	10,360,058 	6,499,432
+Row:Other non-current liabilities 	129,231 	135,246
+Row:Total liabilities 	20,735,635 	15,430,786
+Row:Commitments and contingencies (Note 5)
+		Row:Stockholders’ equity:
+Preferred stock, $0.001 par value; 10,000,000 shares authorized at December 31,
+2018 and 2017; no shares issued and outstanding at December 31, 2018 and 2017 	— 	—
+Row:Common stock, $0.001 par value; 4,990,000,000 shares authorized at December 31,
+2018 and December 31, 2017, respectively; 436,598,597 and 433,392,686 issued
+and outstanding at December 31, 2018 and December 31, 2017, respectively 	2,315,988 	1,871,396
+Row:Accumulated other comprehensive loss 	(19,582) 	(20,557)
+Row:Retained earnings 	2,942,359 	1,731,117
+Row:Total stockholders’ equity 	5,238,765 	3,581,956
+Row:Total liabilities and stockholders’ equity 	$ 25,974,400 	$ 19,012,742
+Row:	2018 	2017 	2016
+Row:Revenues 	$ 15,794,341 	$ 11,692,713 $ 	8,830,669
+Row:Cost of revenues 	9,967,538 	8,033,000 	6,257,462
+Row:Marketing 	2,369,469 	1,436,281 	1,097,519
+Row:Technology and development 	1,221,814 	953,710 	780,232
+Row:General and administrative 	630,294 	431,043 	315,663
+Row:Operating income 	1,605,226 	838,679 	379,793
+Row:Other income (expense):
+			Row:Interest expense 	(420,493) 	(238,204) 	(150,114)
+Row:Interest and other income (expense) 	41,725 	(115,154) 	30,828
+Row:Income before income taxes 	1,226,458 	485,321 	260,507
+Row:Provision for (benefit from) income taxes 	15,216 	(73,608) 	73,829
+Row:Net income 	$ 1,211,242 	$ 558,929 $ 	186,678
+Row:Earnings per share:
+			Row:Basic 	$ 2.78 	$ 1.29 $ 	0.44
+Row:Diluted 	$ 2.68 	$ 1.25 $ 	0.43
+Row:Weighted-average common shares outstanding:
+			Row:Basic 	435,374 	431,885 	428,822
+Row:Diluted 	451,244 	446,814 	438,652
+Row:$ 	2.78 	$ 	1.29 	$ 	0.44
+Row:$ 	2.68 	$ 	1.25 	$ 	0.43
+Row:435,374 	431,885 	428,822
+Row:451,244 	446,814 	438,652
+Row:Cash flows from operating activities:
+			Row:Net income 	$ 1,211,242 	$ 558,929 	$ 186,678
+Row:Adjustments to reconcile net income to net cash used in operating activities:
+			Row:Additions to streaming content assets 	(13,043,437) 	(9,805,763) 	(8,653,286)
+Row:Change in streaming content liabilities 	999,880 	900,006 	1,772,650
+Row:Amortization of streaming content assets 	7,532,088 	6,197,817 	4,788,498
+Row:Amortization of DVD content assets 	41,212 	60,657 	78,952
+Row:Depreciation and amortization of property, equipment and intangibles 	83,157 	71,911 	57,528
+Row:Stock-based compensation expense 	320,657 	182,209 	173,675
+Row:Excess tax benefits from stock-based compensation 	— 	— 	(65,121)
+Row:Other non-cash items 	40,428 	57,207 	40,909
+Row:Foreign currency remeasurement loss (gain) on long-term debt 	(73,953) 	140,790 	—
+Row:Deferred taxes 	(85,520) 	(208,688) 	(46,847)
+Row:Changes in operating assets and liabilities:
+			Row:Other current assets 	(200,192) 	(234,090) 	46,970
+Row:Accounts payable 	199,198 	74,559 	32,247
+Row:Accrued expenses 	150,422 	114,337 	68,706
+Row:Deferred revenue 	142,277 	177,974 	96,751
+Row:Other non-current assets and liabilities 	2,062 	(73,803) 	(52,294)
+Row:Net cash used in operating activities 	(2,680,479) 	(1,785,948) 	(1,473,984)
+Row:Cash flows from investing activities:
+			Row:Purchases of property and equipment 	(173,946) 	(173,302) 	(107,653)
+Row:Acquisition of DVD content assets 	(38,586) 	(53,720) 	(77,177)
+Row:Other assets 	(126,588) 	(6,689) 	(941)
+Row:Purchases of short-term investments 	— 	(74,819) 	(187,193)
+Row:Proceeds from sale of short-term investments 	— 	320,154 	282,484
+Row:Proceeds from maturities of short-term investments 	— 	22,705 	140,245
+Row:Net cash provided by (used in) investing activities 	(339,120) 	34,329 	49,765
+Row:Cash flows from financing activities:
+			Row:Proceeds from issuance of debt 	3,961,852 	3,020,510 	1,000,000
+Row:Issuance costs 	(35,871) 	(32,153) 	(10,700)
+Row:Proceeds from issuance of common stock 	124,502 	88,378 	36,979
+Row:Excess tax benefits from stock-based compensation 	— 	— 	65,121
+Row:Other financing activities 	(1,956) 	255 	230
+Row:Net cash provided by financing activities 	4,048,527 	3,076,990 	1,091,630
+Row:Effect of exchange rate changes on cash, cash equivalents and restricted cash 	(39,682) 	29,848 	(9,165)
+Row:Net increase (decrease) in cash, cash equivalents and restricted cash 	989,246 	1,355,219 	(341,754)
+Row:Cash, cash equivalents and restricted cash, beginning of year 	2,822,795 	1,467,576 	1,809,330
+Row:Cash, cash equivalents and restricted cash, end of year 	$ 3,812,041 	$ 2,822,795 	$ 1,467,576
+Row:Supplemental disclosure:
+			Row:Income taxes paid 	$ 131,069 	$ 113,591 	$ 26,806
+Row:Interest paid 	375,831 	213,313 	138,566
+Row:Increase (decrease) in investing activities included in liabilities 	2,560 	(32,643) 	27,504
+Row:See accompanying notes to consolidated financial 	statements.
+		Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 3,794,483 	$ 2,822,795
+Row:Current content assets, net 	5,151,186 	4,310,934
+Row:Other current assets 	748,466 	536,245
+Row:Total current assets 	9,694,135 	7,669,974
+Row:Non-current content assets, net 	14,960,954 	10,371,055
+Row:Property and equipment, net 	418,281 	319,404
+Row:Other non-current assets 	901,030 	652,309
+Row:Total assets 	$ 25,974,400 	$ 19,012,742
+Row:Liabilities and Stockholders’ Equity
+		Row:Current liabilities:
+		Row:Current content liabilities 	$ 4,686,019 	$ 4,173,041
+Row:Accounts payable 	562,985 	359,555
+Row:Accrued expenses 	477,417 	315,094
+Row:Deferred revenue 	760,899 	618,622
+Row:Total current liabilities 	6,487,320 	5,466,312
+Row:Non-current content liabilities 	3,759,026 	3,329,796
+Row:Long-term debt 	10,360,058 	6,499,432
+Row:Other non-current liabilities 	129,231 	135,246
+Row:Total liabilities 	20,735,635 	15,430,786
+Row:Commitments and contingencies (Note 5)
+		Row:Stockholders’ equity:
+Preferred stock, $0.001 par value; 10,000,000 shares authorized at December 31,
+2018 and 2017; no shares issued and outstanding at December 31, 2018 and 2017 	— 	—
+Row:Common stock, $0.001 par value; 4,990,000,000 shares authorized at December 31,
+2018 and December 31, 2017, respectively; 436,598,597 and 433,392,686 issued
+and outstanding at December 31, 2018 and December 31, 2017, respectively 	2,315,988 	1,871,396
+Row:Accumulated other comprehensive loss 	(19,582) 	(20,557)
+Row:Retained earnings 	2,942,359 	1,731,117
+Row:Total stockholders’ equity 	5,238,765 	3,581,956
+Row:Total liabilities and stockholders’ equity 	$ 25,974,400 	$ 19,012,742
+Row:	2018 	2017 	2016
+Row:Revenues 	$ 15,794,341 	$ 11,692,713 $ 	8,830,669
+Row:Cost of revenues 	9,967,538 	8,033,000 	6,257,462
+Row:Marketing 	2,369,469 	1,436,281 	1,097,519
+Row:Technology and development 	1,221,814 	953,710 	780,232
+Row:General and administrative 	630,294 	431,043 	315,663
+Row:Operating income 	1,605,226 	838,679 	379,793
+Row:Other income (expense):
+			Row:Interest expense 	(420,493) 	(238,204) 	(150,114)
+Row:Interest and other income (expense) 	41,725 	(115,154) 	30,828
+Row:Income before income taxes 	1,226,458 	485,321 	260,507
+Row:Provision for (benefit from) income taxes 	15,216 	(73,608) 	73,829
+Row:Net income 	$ 1,211,242 	$ 558,929 $ 	186,678
+Row:Earnings per share:
+			Row:Basic 	$ 2.78 	$ 1.29 $ 	0.44
+Row:Diluted 	$ 2.68 	$ 1.25 $ 	0.43
+Row:Weighted-average common shares outstanding:
+			Row:Basic 	435,374 	431,885 	428,822
+Row:Diluted 	451,244 	446,814 	438,652
+Row:$ 	2.78 	$ 	1.29 	$ 	0.44
+Row:$ 	2.68 	$ 	1.25 	$ 	0.43
+Row:435,374 	431,885 	428,822
+Row:451,244 	446,814 	438,652
+Row:Cash flows from operating activities:
+			Row:Net income 	$ 1,211,242 	$ 558,929 	$ 186,678
+Row:Adjustments to reconcile net income to net cash used in operating activities:
+			Row:Additions to streaming content assets 	(13,043,437) 	(9,805,763) 	(8,653,286)
+Row:Change in streaming content liabilities 	999,880 	900,006 	1,772,650
+Row:Amortization of streaming content assets 	7,532,088 	6,197,817 	4,788,498
+Row:Amortization of DVD content assets 	41,212 	60,657 	78,952
+Row:Depreciation and amortization of property, equipment and intangibles 	83,157 	71,911 	57,528
+Row:Stock-based compensation expense 	320,657 	182,209 	173,675
+Row:Excess tax benefits from stock-based compensation 	— 	— 	(65,121)
+Row:Other non-cash items 	40,428 	57,207 	40,909
+Row:Foreign currency remeasurement loss (gain) on long-term debt 	(73,953) 	140,790 	—
+Row:Deferred taxes 	(85,520) 	(208,688) 	(46,847)
+Row:Changes in operating assets and liabilities:
+			Row:Other current assets 	(200,192) 	(234,090) 	46,970
+Row:Accounts payable 	199,198 	74,559 	32,247
+Row:Accrued expenses 	150,422 	114,337 	68,706
+Row:Deferred revenue 	142,277 	177,974 	96,751
+Row:Other non-current assets and liabilities 	2,062 	(73,803) 	(52,294)
+Row:Net cash used in operating activities 	(2,680,479) 	(1,785,948) 	(1,473,984)
+Row:Cash flows from investing activities:
+			Row:Purchases of property and equipment 	(173,946) 	(173,302) 	(107,653)
+Row:Acquisition of DVD content assets 	(38,586) 	(53,720) 	(77,177)
+Row:Other assets 	(126,588) 	(6,689) 	(941)
+Row:Purchases of short-term investments 	— 	(74,819) 	(187,193)
+Row:Proceeds from sale of short-term investments 	— 	320,154 	282,484
+Row:Proceeds from maturities of short-term investments 	— 	22,705 	140,245
+Row:Net cash provided by (used in) investing activities 	(339,120) 	34,329 	49,765
+Row:Cash flows from financing activities:
+			Row:Proceeds from issuance of debt 	3,961,852 	3,020,510 	1,000,000
+Row:Issuance costs 	(35,871) 	(32,153) 	(10,700)
+Row:Proceeds from issuance of common stock 	124,502 	88,378 	36,979
+Row:Excess tax benefits from stock-based compensation 	— 	— 	65,121
+Row:Other financing activities 	(1,956) 	255 	230
+Row:Net cash provided by financing activities 	4,048,527 	3,076,990 	1,091,630
+Row:Effect of exchange rate changes on cash, cash equivalents and restricted cash 	(39,682) 	29,848 	(9,165)
+Row:Net increase (decrease) in cash, cash equivalents and restricted cash 	989,246 	1,355,219 	(341,754)
+Row:Cash, cash equivalents and restricted cash, beginning of year 	2,822,795 	1,467,576 	1,809,330
+Row:Cash, cash equivalents and restricted cash, end of year 	$ 3,812,041 	$ 2,822,795 	$ 1,467,576
+Row:Supplemental disclosure:
+			Row:Income taxes paid 	$ 131,069 	$ 113,591 	$ 26,806
+Row:Interest paid 	375,831 	213,313 	138,566
+Row:Increase (decrease) in investing activities included in liabilities 	2,560 	(32,643) 	27,504
+Row:See accompanying notes to consolidated financial 	statements.
+		Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 3,794,483 	$ 2,822,795
+Row:Current content assets, net 	5,151,186 	4,310,934
+Row:Other current assets 	748,466 	536,245
+Row:Total current assets 	9,694,135 	7,669,974
+Row:Non-current content assets, net 	14,960,954 	10,371,055
+Row:Property and equipment, net 	418,281 	319,404
+Row:Other non-current assets 	901,030 	652,309
+Row:Total assets 	$ 25,974,400 	$ 19,012,742
+Row:Liabilities and Stockholders’ Equity
+		Row:Current liabilities:
+		Row:Current content liabilities 	$ 4,686,019 	$ 4,173,041
+Row:Accounts payable 	562,985 	359,555
+Row:Accrued expenses 	477,417 	315,094
+Row:Deferred revenue 	760,899 	618,622
+Row:Total current liabilities 	6,487,320 	5,466,312
+Row:Non-current content liabilities 	3,759,026 	3,329,796
+Row:Long-term debt 	10,360,058 	6,499,432
+Row:Other non-current liabilities 	129,231 	135,246
+Row:Total liabilities 	20,735,635 	15,430,786
+Row:Commitments and contingencies (Note 5)
+		Row:Stockholders’ equity:
+Preferred stock, $0.001 par value; 10,000,000 shares authorized at December 31,
+2018 and 2017; no shares issued and outstanding at December 31, 2018 and 2017 	— 	—
+Row:Common stock, $0.001 par value; 4,990,000,000 shares authorized at December 31,
+2018 and December 31, 2017, respectively; 436,598,597 and 433,392,686 issued
+and outstanding at December 31, 2018 and December 31, 2017, respectively 	2,315,988 	1,871,396
+Row:Accumulated other comprehensive loss 	(19,582) 	(20,557)
+Row:Retained earnings 	2,942,359 	1,731,117
+Row:Total stockholders’ equity 	5,238,765 	3,581,956
+Row:Total liabilities and stockholders’ equity 	$ 25,974,400 	$ 19,012,742
+Row:	2018 	2017 	2016
+Row:Revenues 	$ 15,794,341 	$ 11,692,713 $ 	8,830,669
+Row:Cost of revenues 	9,967,538 	8,033,000 	6,257,462
+Row:Marketing 	2,369,469 	1,436,281 	1,097,519
+Row:Technology and development 	1,221,814 	953,710 	780,232
+Row:General and administrative 	630,294 	431,043 	315,663
+Row:Operating income 	1,605,226 	838,679 	379,793
+Row:Other income (expense):
+			Row:Interest expense 	(420,493) 	(238,204) 	(150,114)
+Row:Interest and other income (expense) 	41,725 	(115,154) 	30,828
+Row:Income before income taxes 	1,226,458 	485,321 	260,507
+Row:Provision for (benefit from) income taxes 	15,216 	(73,608) 	73,829
+Row:Net income 	$ 1,211,242 	$ 558,929 $ 	186,678
+Row:Earnings per share:
+			Row:Basic 	$ 2.78 	$ 1.29 $ 	0.44
+Row:Diluted 	$ 2.68 	$ 1.25 $ 	0.43
+Row:Weighted-average common shares outstanding:
+			Row:Basic 	435,374 	431,885 	428,822
+Row:Diluted 	451,244 	446,814 	438,652
+Row:$ 	2.78 	$ 	1.29 	$ 	0.44
+Row:$ 	2.68 	$ 	1.25 	$ 	0.43
+Row:435,374 	431,885 	428,822
+Row:451,244 	446,814 	438,652
+Row:Cash flows from operating activities:
+			Row:Net income 	$ 1,211,242 	$ 558,929 	$ 186,678
+Row:Adjustments to reconcile net income to net cash used in operating activities:
+			Row:Additions to streaming content assets 	(13,043,437) 	(9,805,763) 	(8,653,286)
+Row:Change in streaming content liabilities 	999,880 	900,006 	1,772,650
+Row:Amortization of streaming content assets 	7,532,088 	6,197,817 	4,788,498
+Row:Amortization of DVD content assets 	41,212 	60,657 	78,952
+Row:Depreciation and amortization of property, equipment and intangibles 	83,157 	71,911 	57,528
+Row:Stock-based compensation expense 	320,657 	182,209 	173,675
+Row:Excess tax benefits from stock-based compensation 	— 	— 	(65,121)
+Row:Other non-cash items 	40,428 	57,207 	40,909
+Row:Foreign currency remeasurement loss (gain) on long-term debt 	(73,953) 	140,790 	—
+Row:Deferred taxes 	(85,520) 	(208,688) 	(46,847)
+Row:Changes in operating assets and liabilities:
+			Row:Other current assets 	(200,192) 	(234,090) 	46,970
+Row:Accounts payable 	199,198 	74,559 	32,247
+Row:Accrued expenses 	150,422 	114,337 	68,706
+Row:Deferred revenue 	142,277 	177,974 	96,751
+Row:Other non-current assets and liabilities 	2,062 	(73,803) 	(52,294)
+Row:Net cash used in operating activities 	(2,680,479) 	(1,785,948) 	(1,473,984)
+Row:Cash flows from investing activities:
+			Row:Purchases of property and equipment 	(173,946) 	(173,302) 	(107,653)
+Row:Acquisition of DVD content assets 	(38,586) 	(53,720) 	(77,177)
+Row:Other assets 	(126,588) 	(6,689) 	(941)
+Row:Purchases of short-term investments 	— 	(74,819) 	(187,193)
+Row:Proceeds from sale of short-term investments 	— 	320,154 	282,484
+Row:Proceeds from maturities of short-term investments 	— 	22,705 	140,245
+Row:Net cash provided by (used in) investing activities 	(339,120) 	34,329 	49,765
+Row:Cash flows from financing activities:
+			Row:Proceeds from issuance of debt 	3,961,852 	3,020,510 	1,000,000
+Row:Issuance costs 	(35,871) 	(32,153) 	(10,700)
+Row:Proceeds from issuance of common stock 	124,502 	88,378 	36,979
+Row:Excess tax benefits from stock-based compensation 	— 	— 	65,121
+Row:Other financing activities 	(1,956) 	255 	230
+Row:Net cash provided by financing activities 	4,048,527 	3,076,990 	1,091,630
+Row:Effect of exchange rate changes on cash, cash equivalents and restricted cash 	(39,682) 	29,848 	(9,165)
+Row:Net increase (decrease) in cash, cash equivalents and restricted cash 	989,246 	1,355,219 	(341,754)
+Row:Cash, cash equivalents and restricted cash, beginning of year 	2,822,795 	1,467,576 	1,809,330
+Row:Cash, cash equivalents and restricted cash, end of year 	$ 3,812,041 	$ 2,822,795 	$ 1,467,576
+Row:Supplemental disclosure:
+			Row:Income taxes paid 	$ 131,069 	$ 113,591 	$ 26,806
+Row:Interest paid 	375,831 	213,313 	138,566
+Row:Increase (decrease) in investing activities included in liabilities 	2,560 	(32,643) 	27,504
+Row:See accompanying notes to consolidated financial 	statements.
+		Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 3,794,483 	$ 2,822,795
+Row:Current content assets, net 	5,151,186 	4,310,934
+Row:Other current assets 	748,466 	536,245
+Row:Total current assets 	9,694,135 	7,669,974
+Row:Non-current content assets, net 	14,960,954 	10,371,055
+Row:Property and equipment, net 	418,281 	319,404
+Row:Other non-current assets 	901,030 	652,309
+Row:Total assets 	$ 25,974,400 	$ 19,012,742
+Row:Liabilities and Stockholders’ Equity
+		Row:Current liabilities:
+		Row:Current content liabilities 	$ 4,686,019 	$ 4,173,041
+Row:Accounts payable 	562,985 	359,555
+Row:Accrued expenses 	477,417 	315,094
+Row:Deferred revenue 	760,899 	618,622
+Row:Total current liabilities 	6,487,320 	5,466,312
+Row:Non-current content liabilities 	3,759,026 	3,329,796
+Row:Long-term debt 	10,360,058 	6,499,432
+Row:Other non-current liabilities 	129,231 	135,246
+Row:Total liabilities 	20,735,635 	15,430,786
+Row:Commitments and contingencies (Note 5)
+		Row:Stockholders’ equity:
+Preferred stock, $0.001 par value; 10,000,000 shares authorized at December 31,
+2018 and 2017; no shares issued and outstanding at December 31, 2018 and 2017 	— 	—
+Row:Common stock, $0.001 par value; 4,990,000,000 shares authorized at December 31,
+2018 and December 31, 2017, respectively; 436,598,597 and 433,392,686 issued
+and outstanding at December 31, 2018 and December 31, 2017, respectively 	2,315,988 	1,871,396
+Row:Accumulated other comprehensive loss 	(19,582) 	(20,557)
+Row:Retained earnings 	2,942,359 	1,731,117
+Row:Total stockholders’ equity 	5,238,765 	3,581,956
+Row:Total liabilities and stockholders’ equity 	$ 25,974,400 	$ 19,012,742

@@ -1,0 +1,115 @@
+RowASSETS
+		RowCurrent assets:
+		RowCash and cash equivalents 	$ 2,982 	$ 5,850
+RowReceivables, , net 	7,345 	6,922
+RowInventories 	6,532 	6,384
+RowPrepaid expenses and other 	816 	156
+RowTotal current assets 	17,675 	19,312
+RowProperty, , plant, , and equipment, , at cost 	42,473 	40,010
+RowAccumulated depreciation 	(13,625) 	(12,530)
+RowProperty, , plant, and equipment, , net 	28,848 	27,480
+RowDeferred charges and other assets, , net 	3,632 	3,366
+RowTotal assets 	$ 50,155 	$ 50,158
+RowLIABILITIES AND EQUITY
+		RowCurrent portion of debt and capital lease obligations 	$ 238 	$ 122
+RowAccounts payable 	8,594 	8,348
+RowAccrued expenses 	630 	712
+RowTaxes other than income taxes payable 	1,213 	1,321
+RowIncome taxes payable 	49 	568
+RowTotal current liabilities 	10,724 	11,071
+RowDebt and capital lease obligations, less current portion 	8,871 	8,750
+RowDeferred income tax liabilities 	4,962 	4,708
+RowOther long-term liabilities 	2,867 	2,729
+RowCommitments and contingencies
+		RowValero Energy Corporation stockholders’ ' equity:
+		RowCommon stock, $0.01 par value; 1,200,000,000 shares authorized;
+;
+673,501,593 and 673,501,593 shares issued 	7 	7
+RowAdditional paid-in capital 	7,048 	7,039
+RowTreasury stock, at cost;
+255,905,051 and 239,603,534 common shares 	(14,925) 	(13,315)
+RowRetained earnings 	31,044 	29,200
+RowAccumulated other comprehensive loss 	(1,507) 	(940)
+RowTotal Valero Energy Corporation stockholders’ ' equity 	21,667 	21,991
+RowNoncontrolling interests 	1,064 	909
+RowTotal equity 	22,731 	22,900
+RowTotal liabilities and equity 	$ 50,155 	$ 50,158
+RowRevenues (a) )
+	$ 117,033 	$ 93,980 	$ 75,659
+RowCost of sales:
+			RowCost of materials and other 	104,732 	83,037 	65,962
+RowOperating expenses (excluding depreciation and amortization
+			Rowexpense reflected below) 	4,690 	4,504 	4,251
+RowDepreciation and amortization expense 	2,017 	1,934 	1,846
+RowLower of cost or market inventory valuation adjustment 	— 	— 	(747)
+RowTotal cost of sales 	111,439 	89,475 	71,312
+RowOther operating expenses 	45 	61 	—
+RowGeneral and administrative expenses (excluding depreciation and
+			Rowamortization expense reflected below) 	925 	829 	709
+RowDepreciation and amortization expense 	52 	52 	48
+RowAsset impairment loss 	— 	— 	56
+RowOperating income 	4,572 	3,563 	3,534
+RowOther income, , net 	130 	112 	94
+RowInterest and debt expense, , net of capitalized interest 	(470) 	(468) 	(446)
+)
+RowIncome before income tax expense (benefit) )
+	4,232 	3,207 	3,182
+RowIncome tax expense (benefit) 	879 	(949) 	765
+RowNet income 	3,353 	4,156 	2,417
+RowLess: Net income attributable to noncontrolling interests 	231 	91 	128
+RowNet income attributable to Valero Energy Corporation stockholders 	$ 3,122 	$ 4,065 	$ 2,289
+RowEarnings per common share 	$ 7.30 	$ 9.17 	$ 4.94
+RowWeighted-average common shares outstanding (in millions) )
+	426 	442 	461
+RowEarnings per common share – assuming dilution 	$ 7.29 	$ 9.16 	$ 4.94
+RowWeighted-average common shares outstanding –
+			Rowassuming dilution (in millions) )
+	428 	444 	464
+Row_______________________________________________
+			RowSupplemental information:
+			Row(a) Includes excise taxes on sales by certain of our international
+			Rowoperations 	$ 5,626 	$ 5,573 	$ 5,493
+RowSee Notes to Consolidated Financial Statements.
+	.
+		Row	2018 	2017 	2016
+RowCash flows from operating activities:
+			RowNet income 	$ 3,353 	$ 4,156 	$ 2,417
+RowAdjustments to reconcile net income to net cash provided by
+operating activities:
+			RowDepreciation and amortization expense 	2,069 	1,986 	1,894
+RowLower of cost or market inventory valuation adjustment 	— 	— 	(747)
+RowAsset impairment loss 	— 	— 	56
+RowDeferred income tax expense (benefit) 	203 	(2,543) 	230
+RowChanges in current assets and current liabilities 	(1,297) 	1,289 	976
+RowChanges in deferred charges and credits and
+other operating activities, , net 	43 	594 	(6)
+RowNet cash provided by operating activities 	4,371 	5,482 	4,820
+RowCash flows from investing activities:
+			RowCapital expenditures 	(1,628) 	(1,353) 	(1,278)
+RowDeferred turnaround and catalyst costs 	(915) 	(523) 	(718)
+RowInvestments in joint ventures 	(181) 	(406) 	(4)
+RowCapital expenditures of certain variable interest entities (VIEs) 	(124) 	(26) 	—
+RowPeru Acquisition, , net of cash acquired 	(468) 	— 	—
+RowAcquisition of ethanol plants 	(320) 	— 	—
+RowAcquisitions of undivided interests 	(212) 	(72) 	—
+RowMinor acquisitions 	(88) 	— 	—
+RowOther investing activities, , net 	8 	(2) 	(6)
+RowNet cash used in investing activities 	(3,928) 	(2,382) 	(2,006)
+RowCash flows from financing activities:
+			RowProceeds from debt issuances and borrowings (excluding
+borrowings of certain VIEs) 	1,258 	380 	2,153
+RowProceeds from borrowings of certain VIEs 	109 	— 	—
+RowRepayments of debt and capital lease obligations 	(1,359) 	(21) 	(1,475)
+RowPurchases of common stock for treasury 	(1,708) 	(1,372) 	(1,336)
+RowCommon stock dividends 	(1,369) 	(1,242) 	(1,111)
+RowContributions from noncontrolling interests 	32 	30 	—
+RowDistributions to noncontrolling interests 	(116) 	(67) 	(65)
+RowOther financing activities, , net 	(15) 	20 	(178)
+RowNet cash used in financing activities 	(3,168) 	(2,272) 	(2,012)
+RowEffect of foreign exchange rate changes on cash 	(143) 	206 	(100)
+RowNet increase (decrease) in cash and cash equivalents 	(2,868) 	1,034 	702
+RowCash and cash equivalents at beginning of year 	5,850 	4,816 	4,114
+RowCash and cash equivalents at end of year 	$ 2,982 	$ 5,850 	$ 4,816
+RowSee Notes to Consolidated Financial Statements.
+	.
+		

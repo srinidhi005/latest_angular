@@ -1,0 +1,79 @@
+Row:Current assets:
+Cash and cash equivalents $ 	174.9 	167.2
+Row:Trade accounts receivable, net of allowance for doubtful accounts of $10.9 and $12.8,
+respectively 	741.8 	714.3
+Row:Inventories 	1,366.4 	1,278.7
+Row:Prepaid income taxes 	16.7 	9.0
+Row:Other current assets 	157.4 	147.0
+Row:Total current assets 	2,457.2 	2,316.2
+Row:Property and equipment, net 	1,023.2 	924.8
+Row:Operating lease right-of-use assets 	243.2 	—
+Row:Other assets 	76.3 	80.5
+Row:Total assets $ 	3,799.9 	3,321.5
+Row:Stockholders’ equity:
+	Row:Preferred stock: $0.01 par value, 5,000,000 shares authorized, no shares issued or
+outstanding 	— —
+Row:Common stock: $0.01 par value, 800,000,000 shares authorized, 574,128,911 and
+571,803,838 shares issued and outstanding, respectively 	2.9 2.9
+Row:Additional paid-in capital 	67.2 3.0
+Row:Retained earnings 	2,633.9 2,341.6
+Row:Accumulated other comprehensive loss 	(38.4) (44.8)
+Row:Total stockholders’ equity 	2,665.6 2,302.7
+Row:Total liabilities and stockholders’ equity $ 	3,799.9 3,321.5
+Row:2019 		2018 	2017
+Row:Net sales $ 	5,333.7 	4,965.1 	4,390.5
+Row:Cost of sales 	2,818.3 	2,566.2 	2,226.9
+Row:Gross profit 	2,515.4 	2,398.9 	2,163.6
+Row:Operating and administrative expenses 	1,459.4 	1,400.2 	1,282.8
+Row:Gain on sale of property and equipment 	(1.2) 	(0.5) 	(1.0)
+Row:Operating income 	1,057.2 	999.2 	881.8
+Row:Interest income 	0.4 	0.4 	0.4
+Row:Interest expense 	(13.9) 	(12.6) 	(9.1)
+Row:Earnings before income taxes 	1,043.7 	987.0 	873.1
+Row:Income tax expense 	252.8 	235.1 	294.5
+Row:Net earnings $ 	790.9 	751.9 	578.6
+Row:Basic net earnings per share $ 	1.38 	1.31 	1.00
+Row:Diluted net earnings per share $ 	1.38 	1.31 	1.00
+Row:Basic weighted average shares outstanding 	573.2 	573.9 	576.4
+Row:Diluted weighted average shares outstanding 	574.4 	574.3 	576.7
+Row:2019 Cash flows from operating activities:
+	2018 	2017
+Row:Net earnings $ Adjustments to reconcile net earnings to net cash provided by
+operating activities, net of acquisitions:
+	790.9 751.9 	578.6
+Row:Depreciation of property and equipment 	144.6 134.1 	123.6
+Row:Gain on sale of property and equipment 	(1.2) (0.5) 	(1.0)
+Row:Bad debt expense 	5.5 8.1 	8.2
+Row:Deferred income taxes 	15.0 33.8 	(30.0)
+Row:Stock-based compensation 	5.7 5.1 	5.2
+Row:Amortization of intangible assets 	4.1 4.1 	3.8
+Row:Changes in operating assets and liabilities, net of acquisitions:
+Trade accounts receivable 	(30.4) (120.3) 	(103.7)
+Row:Inventories 	(84.4) (193.3) 	(76.3)
+Row:Other current assets 	(10.4) (28.9) 	(15.6)
+Row:Accounts payable 	(0.8) 46.1 	36.3
+Row:Accrued expenses 	10.7 46.8 	37.6
+Row:Income taxes 	(7.7) (15.5) 	19.4
+Row:Other 	1.1 2.7 	(0.9)
+Row:Net cash provided by operating activities 	842.7 674.2 	585.2
+Row:Cash flows from investing activities:
+		Row:Purchases of property and equipment 	(246.4) (176.3) 	(119.9)
+Row:Proceeds from sale of property and equipment 	6.6 9.5 	7.4
+Row:Cash paid for acquisitions 	— (3.7) 	(58.7)
+Row:Other 	0.1 (3.4) 	(8.1)
+Row:Net cash used in investing activities 	(239.7) (173.9) 	(179.3)
+Row:Cash flows from financing activities:
+		Row:Proceeds from debt obligations 	910.0 980.0 	1,015.0
+Row:Payments against debt obligations 	(1,065.0) (895.0) 	(980.0)
+Row:Proceeds from exercise of stock options 	58.5 13.4 	9.5
+Row:Purchases of common stock Payments of dividends 	— (103.0) (498.6) (441.9) 	(82.6)
+(369.1)
+Row:Net cash used in financing activities 	(595.1) (446.5) 	(407.2)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(0.2) (3.5) 	5.5
+Row:Net increase in cash and cash equivalents 	7.7 50.3 	4.2
+Row:Cash and cash equivalents at beginning of year 	167.2 116.9 	112.7
+Row:Cash and cash equivalents at end of year $ 	174.9 167.2 	116.9
+Row:Supplemental disclosure of cash flow information:
+		Row:Cash paid for interest $ Net cash paid for income taxes $ See accompanying Notes to Consolidated Financial 	13.9 12.6 242.7 215.3 Statements.
+	8.7
+304.1

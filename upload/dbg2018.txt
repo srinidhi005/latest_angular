@@ -1,0 +1,112 @@
+Row:Current assets:
+Cash and cash equivalents 	$ 517,594 	1,018,317
+Row:Restricted cash 	79,008 	94,047
+Row:Accounts receivable, net 	75,963 	69,517
+Row:Notes and other receivables, net 	64,412 	52,332
+Row:Prepaid income taxes 	27,005 	21,927
+Row:Prepaid expenses and other current assets 	49,491 	48,193
+Row:Total current assets 	813,473 	1,304,333
+Row:Property, equipment, and software, net 	209,202 	181,542
+Row:Equity method investments 	146,395 	140,615
+Row:Goodwill 	888,265 	888,308
+Row:Other intangible assets, net 	1,334,767 	1,357,157
+Row:Other assets 	64,479 	65,478
+Row:Total assets 	$ 3,456,581 	3,937,433
+Row:Liabilities and Stockholders’ Deficit
+		Row:outstanding Common stock, $0.001 par value; 475,000,000 shares authorized; 82,587,373 shares
+issued and 82,560,596 shares outstanding at December 29, 2018; 90,404,022 shares
+	— 82 	—
+90
+Row:issued and 90,377,245 shares outstanding at December 30, 2017 Additional paid-in capital 	642,017 	724,114
+Row:Treasury stock, at cost; 26,777 shares at December 29, 2018 and December 30, 2017 	(1,060) 	(1,060)
+Row:Accumulated deficit 	(1,338,709) 	(968,148)
+Row:Accumulated other comprehensive loss 	(15,127) 	(9,535)
+Row:Total stockholders’ deficit 	(712,797) 	(254,539)
+Row:Total liabilities and stockholders’ deficit $ 	3,456,581 	3,937,433
+Row:2018
+$ 578,342 	2017
+555,206 	2016
+536,396
+Row:493,590 104,413 	470,984 104,643 	453,553
+101,020
+Row:95,197 	96,388 	100,542
+Row:— 	— 	11,975
+Row:50,075 	48,330 	44,869
+Row:1,321,617 	1,275,551 	1,248,355
+Row:58,102 	60,301 	57,409
+Row:77,412 	77,012 	77,608
+Row:— 	— 	13,591
+Row:498,019 	476,157 	458,568
+Row:246,792 	243,828 	241,824
+Row:19,932 	20,084 	20,458
+Row:21,113 	21,335 	22,079
+Row:1,648 	1,617 	149
+Row:923,018 	900,334 	891,686
+Row:14,903 	15,198 	14,552
+Row:(1,670) 	627 	9,381
+Row:411,832 	391,042 	380,602
+Row:7,200 	3,313 	582
+Row:(128,748) 	(104,423) 	(100,852)
+Row:— (1,083) 	(6,996) 391 	—
+(1,195)
+Row:(122,631) 	(107,715) 	(101,465)
+Row:289,201 59,295 	283,327 12,118 	279,137
+103,848
+Row:229,906 	271,209 	175,289
+Row:$ 2.75 	2.99 	1.91
+Row:2.71 	2.94 	1.89
+Row:	December 29,
+2018
+	December 30,
+2017
+	December 31,
+2016
+Row:Cash flows from operating activities:
+Net income 	$ 229,906 	271,209 	175,289
+Row:Adjustments to reconcile net income to net cash provided by operating
+			Row:activities:
+Depreciation and amortization 	45,031 	45,239 	46,267
+Row:Amortization of debt issuance costs 	5,019 	6,179 	6,398
+Row:Loss on debt extinguishment and refinancing transactions Deferred income taxes 	— (9,897) 	6,996 (121,247) 	—
+(26,362)
+Row:Provision for bad debt 	631 	457 	53
+Row:Share-based compensation expense 	14,879 	14,926 	17,181
+Row:Net income of equity method investments 	(14,903) 	(15,198) 	(14,552)
+Row:Dividends received from equity method investments 	4,509 	4,711 	5,247
+Row:Gain on sale of real estate and company-operated restaurants 	— 	(1) 	(9,373)
+Row:Other, net 	2,791 	(1,766) 	(2,172)
+Row:Change in operating assets and liabilities:
+			Row:Accounts, notes, and other receivables, net 	(19,776) 	(18,496) 	40,607
+Row:Prepaid income taxes, net 	(4,996) 	(2,441) 	5,022
+Row:Prepaid expenses and other current assets 	(1,561) 	(6,481) 	(3,695)
+Row:Accounts payable 	26,974 	5,066 	5,374
+Row:Other current liabilities 	34,144 	30,031 	(2,696)
+Row:Deferred revenue 	(41,071) 	59,606 	33,651
+Row:Other, net 	(2,725) 	4,567 	6,240
+Row:Net cash provided by operating activities 	268,955 	283,357 	282,479
+Row:Cash flows from investing activities:
+			Row:Additions to property, equipment, and software 	(51,855) 	(21,055) 	(20,826)
+Row:Proceeds from sale of real estate and company-operated restaurants 	— 	854 	20,523
+Row:Other, net 	20 	(102) 	(4,006)
+Row:Net cash used in investing activities 	(51,835) 	(20,303) 	(4,309)
+Row:Cash flows from financing activities:
+Proceeds from issuance of long-term debt 	— 	1,400,000 	—
+Row:Repayment of long-term debt 	(31,600) 	(754,375) 	(25,000)
+Row:Payment of debt issuance and other debt-related costs 	— 	(18,441) 	—
+Row:Repurchases of common stock, including accelerated share repurchases 	(680,368) 	(127,186) 	(55,000)
+Row:Dividends paid on common stock 	(114,828) 	(117,003) 	(109,703)
+Row:Exercise of stock options 	95,331 	36,344 	10,647
+Row:Other, net Net cash provided by (used in) financing activities 	(895) (732,360) 	(698) 418,641 	(122)
+(179,178)
+Row:Effect of exchange rate changes on cash, cash equivalents, and restricted cash 	(538) 	572 	(275)
+Row:Increase (decrease) in cash, cash equivalents, and restricted cash Cash, cash equivalents, and restricted cash, beginning of year 	(515,778) 1,114,099 	682,267 431,832 	98,717
+333,115
+Row:Cash, cash equivalents, and restricted cash, end of year 	$ 598,321 	1,114,099 	431,832
+Row:Supplemental cash flow information:
+Cash paid for income taxes 	$ 74,775 	135,927 	125,681
+Row:Cash paid for interest 	126,868 	91,606 	94,212
+Row:Noncash investing activities:
+Property, equipment, and software included in accounts payable and
+other current liabilities
+	2,713 	2,637 	1,847
+Row:Purchase of leaseholds in exchange for capital lease obligations 	325 	449 	624

@@ -1,0 +1,306 @@
+Row:June 30,
+	July 1,
+Row:2017
+	2016
+Row:Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	6,354 	$ 8,151
+Row:Short-term investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	24 	227
+Row:Accounts receivable, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,948 	1,461
+Row:Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	2,341 	2,129
+Row:Other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	389 	616
+Row:Total current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	11,056 	12,584
+Row:Property, plant and equipment, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	3,033 	3,503
+Row:Notes receivable and investments in Flash Ventures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,340 	1,171
+Row:Goodwill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	10,014 	9,951
+Row:Other intangible assets, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	3,823 	5,034
+Row:Other non-current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	594 	619
+Row:Total assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$29,860 	$32,862
+Row:Accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	2,144 	$ 1,888
+Row:Accounts payable to Flash Ventures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	206 	168
+Row:Accrued expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,069 	995
+Row:Accrued compensation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	506 	392
+Row:Accrued warranty . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	186 	172
+Row:Bridge loan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	2,995
+Row:Current portion of long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	233 	339
+Row:Total current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	4,344 	6,949
+Row:Long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	12,918 	13,660
+Row:Other liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,180 	1,108
+Row:Total liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	18,442 	21,717
+Row:Shareholders’ equity:
+		Row:Preferred stock, $0.01 par value; authorized — 5 shares; issued and outstanding — none . . . 	— 	—
+Row:Common stock, $0.01 par value; authorized — 450 shares; issued — 312 shares in 2017
+		Row:and 2016; outstanding — 294 shares in 2017 and 284 shares in 2016 . . . . . . . . . . . . . . . 	3 	3
+Row:Additional paid-in capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	4,506 	4,429
+Row:Accumulated other comprehensive income (loss) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(58) 	103
+Row:Retained earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	8,633 	8,848
+Row:Treasury stock — common shares at cost; 18 shares in 2017 and 28 shares in 2016 . . . . . . . 	(1,666) 	(2,238)
+Row:Total shareholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	11,418 	11,145
+Row:Total liabilities and shareholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$29,860 	$32,862
+Row:	June 30,
+2017
+	Year Ended
+July 1,
+2016
+	July 3,
+2015
+Row:Revenue, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$19,093 	$12,994 	$14,572
+Row:Cost of revenue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	13,021 	9,559 	10,351
+Row:Gross profit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	6,072 	3,435 	4,221
+Row:Operating expenses:
+Research and development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	2,441 	1,627 	1,646
+Row:Selling, general and administrative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,445 	997 	788
+Row:Employee termination, asset impairment, and other charges . . . . . . . . . . . . . . . 	232 	345 	176
+Row:Total operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	4,118 	2,969 	2,610
+Row:Operating income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Interest and other income (expense):
+	1,954 	466 	1,611
+Row:Interest income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	26 	26 	14
+Row:Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(847) 	(266) 	(49)
+Row:Other income (expense), net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(364) 	(73) 	1
+Row:Total interest and other expense, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1,185) 	(313) 	(34)
+Row:Income before taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	769 	153 	1,577
+Row:Income tax expense (benefit) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	372 	(89) 	112
+Row:Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 397 	$ 242 	$ 1,465
+Row:Income per common share
+			Row:Basic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 1.38 	$ 1.01 	$ 6.31
+Row:Diluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 1.34 	$ 1.00 	$ 6.18
+Row:Weighted average shares outstanding:
+			Row:Basic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	288 	239 	232
+Row:Diluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	296 	242 	237
+Row:Cash dividends declared per share . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 2.00 	$ 2.00 	$ 1.80
+Row:Revenue, net . . . 	. . . . . . 	. . 	. 	. 	. 	. 	. . 	. . 	. . 	. 	. 	. . 	. . 	. 	. 	. 	. 	. . 	. . 	. . 	. 	. 	. . 	. . 	. 	. 	. 	. 	. . 	. . 	. . $19,093 	$12,994 	$14,572
+Row:Cost of revenue . 	. . . . . . 	. . 	. 	. 	. 	. 	. . 	. . 	. . 	. 	. 	. . 	. . 	. 	. 	. 	. 	. . 	. . 	. . 	. 	. 	. . 	. . 	. 	. 	. 	. 	. . 	. . 	. . 13,021 	9,559 	10,351
+Row:Gross profit . . 	. . . . . . 	. . 	. 	. 	. 	. 	. . 	. . 	. . 	. 	. 	. . 	. . 	. 	. 	. 	. 	. . 	. . 	. . 	. 	. 	. . 	. . 	. 	. 	. 	. 	. . 	. . 	. . 6,072 	3,435 	4,221
+Row:Basic . 	. . . . 	. 	. 	. 	. 	. 	. . 	. 	. 	. 	. 	. . . 	. 	. 	. . 	. . 	. . 	. 	. . 	. 	. 	. 	. . . 	. 	. 	. 	. 	. 	. . . 	. 	. 	. 	. 	. 	. 	. 	. 	. 	. 	. 	. 	. $ 1.38 Row:Diluted 	. . . 	. 	. 	. 	. 	. 	. . 	. 	. 	. 	. 	. . . 	. 	. 	. . 	. . 	. . 	. 	. . 	. 	. 	. 	. . . 	. 	. 	. 	. 	. 	. . . 	. 	. 	. 	. 	. 	. 	. 	. 	. 	. 	. 	. 	. $ 1.34 Row:		June 30,
+2017
+	July 1,
+2016
+	July 3,
+2015
+Row:Cash flows from operating activities
+Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . $ 	397 	$ 242 	$ 1,465
+Row:Adjustments to reconcile net income to net cash provided by operations:
+				Row:Depreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	2,128 	1,154 	1,114
+Row:Stock-based compensation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	394 	191 	162
+Row:Deferred income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Loss on disposal of assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . . . 	12 18 	(149) 22 	28
+17
+Row:Write-off of issuance costs and amortization of debt discounts . . . . . . . . . 	. . . . . 	285 	39 	—
+Row:Loss on convertible debt and related instruments . . . . . . . . . . . . . . . . . . . 	. . . . . 	5 	58 	—
+Row:Non-cash portion of employee termination, asset impairment and other
+				Row:charges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	13 	41 	86
+Row:Other non-cash operating activities, net . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	94 	11 	(37)
+Row:Changes in:
+Accounts receivable, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . . . 	(487) (204) 	466 306 	458
+(143)
+Row:Accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	223 	(299) 	(148)
+Row:Accounts payable to related parties . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	38 	(115) 	—
+Row:Accrued arbitration award . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	— 	— 	(758)
+Row:Accrued expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	231 	102 	35
+Row:Accrued compensation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	115 	(94) 	(134)
+Row:Other assets and liabilities, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	175 	8 	97
+Row:Net cash provided by operations . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	3,437 	1,983 	2,242
+Row:Cash flows from investing activities
+				Row:Purchases of property, plant and equipment . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	(578) 	(584) 	(612)
+Row:Proceeds from the sale of property, plant and equipment . . . . . . . . . . . . . . . 	. . . . . 	21 	— 	—
+Row:Acquisitions, net of cash acquired . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	— 	(9,835) 	(257)
+Row:Purchases of investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	(281) 	(632) 	(857)
+Row:Proceeds from sale of investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	94 	1,204 	505
+Row:Proceeds from maturities of investments . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	417 	405 	263
+Row:Investments in Flash Ventures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	(20) 	— 	—
+Row:Notes receivable issuances to Flash Ventures . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	(549) 	(106) 	—
+Row:Notes receivable proceeds from Flash Ventures . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	292 	16 	—
+Row:Strategic investments and other, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	(32) 	(76) 	5
+Row:Purchases of property, plant and equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(578) 	(584) 	(612)
+Row:Proceeds from the sale of property, plant and equipment . . . . . . . . . . . . . . . . . . . . 	21 	— 	—
+Row:Acquisitions, net of cash acquired . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	(9,835) 	(257)
+Row:Purchases of investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(281) 	(632) 	(857)
+Row:Proceeds from sale of investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	94 	1,204 	505
+Row:Proceeds from maturities of investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	417 	405 	263
+Row:Investments in Flash Ventures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(20) 	— 	—
+Row:Notes receivable issuances to Flash Ventures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(549) 	(106) 	—
+Row:Notes receivable proceeds from Flash Ventures . . . . . . . . . . . . . . . . . . . . . . . . . . . 	292 	16 	—
+Row:Strategic investments and other, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(32) 	(76) 	5
+Row:Net cash used in investing activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(636) 	(9,608) 	(953)
+Row:		2017
+	2016
+	2015
+Row:Cash flows from financing activities
+				Row:Issuance of stock under employee stock plans . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	235 	117 	212
+Row:Taxes paid on vested stock awards under employee stock plans . . . . . . . . . . . . 	. . . 	(124) 	(50) 	(64)
+Row:Excess tax benefits from employee stock plans . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	119 	7 	19
+Row:Proceeds from acquired call option . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	61 	409 	—
+Row:Settlement of convertible debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	(492) 	(2,611) 	—
+Row:Repurchases of common stock . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	— 	(60) 	(970)
+Row:Proceeds from revolving credit facility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	— 	125 	—
+Row:Repayment of revolving credit facility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	— 	(380) 	—
+Row:Dividends paid to shareholders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	(574) 	(464) 	(396)
+Row:Settlement of debt hedge contracts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	(21) 	— 	—
+Row:Repayment of debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	(11,697) 	(2,313) 	(125)
+Row:Proceeds from debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	7,908 	17,108 	255
+Row:Debt issuance costs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	(10) 	(524) 	—
+Row:Payment upon settlement of acquired warrants . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	— 	(613) 	—
+Row:Net cash provided by (used in) financing activities . . . . . . . . . . . . . . . 	. . . 	(4,595) 	10,751 	(1,069)
+Row:Effect of exchange rate changes on cash . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	(3) 	1 	—
+Row:Net increase (decrease) in cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . 	. . . 	(1,797) 	3,127 	220
+Row:Cash and cash equivalents, beginning of year . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	8,151 	5,024 	4,804
+Row:Cash and cash equivalents, end of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	$ 6,354 	$ 8,151 	$ 5,024
+Row:Supplemental disclosure of cash flow information:
+				Row:Cash paid for income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	$ 184 	$ 26 	$ 47
+Row:Cash paid for interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	$ 777 	$ 113 	$ 45
+Row:Supplemental disclosure of non-cash investing and financing activities:
+				Row:Common stock issued and equity awards assumed in connection with
+				Row:acquisition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	$ — 	$ 1,822 	$ —
+Row:Shares issued in conjunction with settlement of convertible notes . . . . . . . . . . 	. . . 	$ 16 	$ 94 	$ —
+Row:Shares received in conjunction with assumed call options . . . . . . . . . . . . . . . . Accrual of cash dividend declared . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . 	$ (11) $ 147 	$ (70) $ 142 	$ —
+$ 116
+Row:June 30,
+	July 1,
+Row:2017
+	2016
+Row:Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	6,354 	$ 8,151
+Row:Short-term investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	24 	227
+Row:Accounts receivable, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,948 	1,461
+Row:Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	2,341 	2,129
+Row:Other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	389 	616
+Row:Total current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	11,056 	12,584
+Row:Property, plant and equipment, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	3,033 	3,503
+Row:Notes receivable and investments in Flash Ventures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,340 	1,171
+Row:Goodwill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	10,014 	9,951
+Row:Other intangible assets, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	3,823 	5,034
+Row:Other non-current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	594 	619
+Row:Total assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$29,860 	$32,862
+Row:Accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	2,144 	$ 1,888
+Row:Accounts payable to Flash Ventures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	206 	168
+Row:Accrued expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,069 	995
+Row:Accrued compensation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	506 	392
+Row:Accrued warranty . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	186 	172
+Row:Bridge loan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	2,995
+Row:Current portion of long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	233 	339
+Row:Total current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	4,344 	6,949
+Row:Long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	12,918 	13,660
+Row:Other liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,180 	1,108
+Row:Total liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	18,442 	21,717
+Row:Shareholders’ equity:
+		Row:Preferred stock, $0.01 par value; authorized — 5 shares; issued and outstanding — none . . . 	— 	—
+Row:Common stock, $0.01 par value; authorized — 450 shares; issued — 312 shares in 2017
+		Row:and 2016; outstanding — 294 shares in 2017 and 284 shares in 2016 . . . . . . . . . . . . . . . 	3 	3
+Row:Additional paid-in capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	4,506 	4,429
+Row:Accumulated other comprehensive income (loss) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(58) 	103
+Row:Retained earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	8,633 	8,848
+Row:Treasury stock — common shares at cost; 18 shares in 2017 and 28 shares in 2016 . . . . . . . 	(1,666) 	(2,238)
+Row:Total shareholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	11,418 	11,145
+Row:Total liabilities and shareholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$29,860 	$32,862
+Row:	June 30,
+2017
+	Year Ended
+July 1,
+2016
+	July 3,
+2015
+Row:Revenue, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$19,093 	$12,994 	$14,572
+Row:Cost of revenue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	13,021 	9,559 	10,351
+Row:Gross profit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	6,072 	3,435 	4,221
+Row:Operating expenses:
+Research and development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	2,441 	1,627 	1,646
+Row:Selling, general and administrative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,445 	997 	788
+Row:Employee termination, asset impairment, and other charges . . . . . . . . . . . . . . . 	232 	345 	176
+Row:Total operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	4,118 	2,969 	2,610
+Row:Operating income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Interest and other income (expense):
+	1,954 	466 	1,611
+Row:Interest income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	26 	26 	14
+Row:Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(847) 	(266) 	(49)
+Row:Other income (expense), net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(364) 	(73) 	1
+Row:Total interest and other expense, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(1,185) 	(313) 	(34)
+Row:Income before taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	769 	153 	1,577
+Row:Income tax expense (benefit) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	372 	(89) 	112
+Row:Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 397 	$ 242 	$ 1,465
+Row:Income per common share
+			Row:Basic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 1.38 	$ 1.01 	$ 6.31
+Row:Diluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 1.34 	$ 1.00 	$ 6.18
+Row:Weighted average shares outstanding:
+			Row:Basic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	288 	239 	232
+Row:Diluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	296 	242 	237
+Row:Cash dividends declared per share . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 2.00 	$ 2.00 	$ 1.80
+Row:Revenue, net . . . 	. . . . . . 	. . 	. 	. 	. 	. 	. . 	. . 	. . 	. 	. 	. . 	. . 	. 	. 	. 	. 	. . 	. . 	. . 	. 	. 	. . 	. . 	. 	. 	. 	. 	. . 	. . 	. . $19,093 	$12,994 	$14,572
+Row:Cost of revenue . 	. . . . . . 	. . 	. 	. 	. 	. 	. . 	. . 	. . 	. 	. 	. . 	. . 	. 	. 	. 	. 	. . 	. . 	. . 	. 	. 	. . 	. . 	. 	. 	. 	. 	. . 	. . 	. . 13,021 	9,559 	10,351
+Row:Gross profit . . 	. . . . . . 	. . 	. 	. 	. 	. 	. . 	. . 	. . 	. 	. 	. . 	. . 	. 	. 	. 	. 	. . 	. . 	. . 	. 	. 	. . 	. . 	. 	. 	. 	. 	. . 	. . 	. . 6,072 	3,435 	4,221
+Row:Basic . 	. . . . 	. 	. 	. 	. 	. 	. . 	. 	. 	. 	. 	. . . 	. 	. 	. . 	. . 	. . 	. 	. . 	. 	. 	. 	. . . 	. 	. 	. 	. 	. 	. . . 	. 	. 	. 	. 	. 	. 	. 	. 	. 	. 	. 	. 	. $ 1.38 Row:Diluted 	. . . 	. 	. 	. 	. 	. 	. . 	. 	. 	. 	. 	. . . 	. 	. 	. . 	. . 	. . 	. 	. . 	. 	. 	. 	. . . 	. 	. 	. 	. 	. 	. . . 	. 	. 	. 	. 	. 	. 	. 	. 	. 	. 	. 	. 	. $ 1.34 Row:		June 30,
+2017
+	July 1,
+2016
+	July 3,
+2015
+Row:Cash flows from operating activities
+Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . $ 	397 	$ 242 	$ 1,465
+Row:Adjustments to reconcile net income to net cash provided by operations:
+				Row:Depreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	2,128 	1,154 	1,114
+Row:Stock-based compensation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	394 	191 	162
+Row:Deferred income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Loss on disposal of assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . . . 	12 18 	(149) 22 	28
+17
+Row:Write-off of issuance costs and amortization of debt discounts . . . . . . . . . 	. . . . . 	285 	39 	—
+Row:Loss on convertible debt and related instruments . . . . . . . . . . . . . . . . . . . 	. . . . . 	5 	58 	—
+Row:Non-cash portion of employee termination, asset impairment and other
+				Row:charges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	13 	41 	86
+Row:Other non-cash operating activities, net . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	94 	11 	(37)
+Row:Changes in:
+Accounts receivable, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . . . 	(487) (204) 	466 306 	458
+(143)
+Row:Accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	223 	(299) 	(148)
+Row:Accounts payable to related parties . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	38 	(115) 	—
+Row:Accrued arbitration award . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	— 	— 	(758)
+Row:Accrued expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	231 	102 	35
+Row:Accrued compensation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	115 	(94) 	(134)
+Row:Other assets and liabilities, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	175 	8 	97
+Row:Net cash provided by operations . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	3,437 	1,983 	2,242
+Row:Cash flows from investing activities
+				Row:Purchases of property, plant and equipment . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	(578) 	(584) 	(612)
+Row:Proceeds from the sale of property, plant and equipment . . . . . . . . . . . . . . . 	. . . . . 	21 	— 	—
+Row:Acquisitions, net of cash acquired . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	— 	(9,835) 	(257)
+Row:Purchases of investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	(281) 	(632) 	(857)
+Row:Proceeds from sale of investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	94 	1,204 	505
+Row:Proceeds from maturities of investments . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	417 	405 	263
+Row:Investments in Flash Ventures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	(20) 	— 	—
+Row:Notes receivable issuances to Flash Ventures . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	(549) 	(106) 	—
+Row:Notes receivable proceeds from Flash Ventures . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	292 	16 	—
+Row:Strategic investments and other, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . 	(32) 	(76) 	5
+Row:Purchases of property, plant and equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(578) 	(584) 	(612)
+Row:Proceeds from the sale of property, plant and equipment . . . . . . . . . . . . . . . . . . . . 	21 	— 	—
+Row:Acquisitions, net of cash acquired . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	(9,835) 	(257)
+Row:Purchases of investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(281) 	(632) 	(857)
+Row:Proceeds from sale of investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	94 	1,204 	505
+Row:Proceeds from maturities of investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	417 	405 	263
+Row:Investments in Flash Ventures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(20) 	— 	—
+Row:Notes receivable issuances to Flash Ventures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(549) 	(106) 	—
+Row:Notes receivable proceeds from Flash Ventures . . . . . . . . . . . . . . . . . . . . . . . . . . . 	292 	16 	—
+Row:Strategic investments and other, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(32) 	(76) 	5
+Row:Net cash used in investing activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(636) 	(9,608) 	(953)
+Row:		2017
+	2016
+	2015
+Row:Cash flows from financing activities
+				Row:Issuance of stock under employee stock plans . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	235 	117 	212
+Row:Taxes paid on vested stock awards under employee stock plans . . . . . . . . . . . . 	. . . 	(124) 	(50) 	(64)
+Row:Excess tax benefits from employee stock plans . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	119 	7 	19
+Row:Proceeds from acquired call option . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	61 	409 	—
+Row:Settlement of convertible debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	(492) 	(2,611) 	—
+Row:Repurchases of common stock . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	— 	(60) 	(970)
+Row:Proceeds from revolving credit facility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	— 	125 	—
+Row:Repayment of revolving credit facility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	— 	(380) 	—
+Row:Dividends paid to shareholders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	(574) 	(464) 	(396)
+Row:Settlement of debt hedge contracts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	(21) 	— 	—
+Row:Repayment of debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	(11,697) 	(2,313) 	(125)
+Row:Proceeds from debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	7,908 	17,108 	255
+Row:Debt issuance costs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	(10) 	(524) 	—
+Row:Payment upon settlement of acquired warrants . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	— 	(613) 	—
+Row:Net cash provided by (used in) financing activities . . . . . . . . . . . . . . . 	. . . 	(4,595) 	10,751 	(1,069)
+Row:Effect of exchange rate changes on cash . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	(3) 	1 	—
+Row:Net increase (decrease) in cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . 	. . . 	(1,797) 	3,127 	220
+Row:Cash and cash equivalents, beginning of year . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	8,151 	5,024 	4,804
+Row:Cash and cash equivalents, end of year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	$ 6,354 	$ 8,151 	$ 5,024
+Row:Supplemental disclosure of cash flow information:
+				Row:Cash paid for income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	$ 184 	$ 26 	$ 47
+Row:Cash paid for interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	$ 777 	$ 113 	$ 45
+Row:Supplemental disclosure of non-cash investing and financing activities:
+				Row:Common stock issued and equity awards assumed in connection with
+				Row:acquisition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . 	$ — 	$ 1,822 	$ —
+Row:Shares issued in conjunction with settlement of convertible notes . . . . . . . . . . 	. . . 	$ 16 	$ 94 	$ —
+Row:Shares received in conjunction with assumed call options . . . . . . . . . . . . . . . . Accrual of cash dividend declared . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . 	$ (11) $ 147 	$ (70) $ 142 	$ —
+$ 116

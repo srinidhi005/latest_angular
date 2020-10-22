@@ -1,0 +1,103 @@
+Row:for the years ended December 31, 	2018 2017 	2016
+Row:Revenues including excise taxes 	$ 79,823 $ 78,098 	$ 74,953
+Row:Excise taxes on products 	50,198 49,350 	48,268
+Row:Net revenues (Notes 2 & 21) 	29,625 28,748 	26,685
+Row:Cost of sales 	10,758 10,432 	9,391
+Row:Gross profit
+	18,867 18,316 	17,294
+Row:Marketing, administration and research costs
+	7,408 6,647 	6,317
+Row:Amortization of intangibles
+	82 88 	74
+Row:Operating income
+	11,377 11,581 	10,903
+Row:Interest expense, net (Note 14)
+	665 914 	891
+Row:Pension and other employee benefit costs (Note 13)
+	41 78 	88
+Row:Earnings before income taxes
+	10,671 10,589 	9,924
+Row:Provision for income taxes (Note 11)
+	2,445 4,307 	2,768
+Row:Equity investments and securities (income)/loss, net 	(60) (59) 	(94)
+Row:Net earnings
+	8,286 6,341 	7,250
+Row:Net earnings attributable to noncontrolling interests
+	375 306 	283
+Row:Net earnings attributable to PMI
+	$ 7,911 $ 6,035 	$ 6,967
+Row:Per share data (Note 10):
+		Row:Basic earnings per share
+	$ 5.08 $ 3.88 	$ 4.48
+Row:Diluted earnings per share
+	$ 5.08 $ 3.88 	$ 4.48
+Row:at December 31, 	2018 	2017
+Row:Assets
+		Row:Cash and cash equivalents
+$ 	6,593 $ 	8,447
+Row:Trade receivables (less allowances of $25 in 2018 and $25 in 2017) 	2,950 	3,194
+Row:Other receivables 	614 	544
+Row:Inventories:
+		Row:Leaf tobacco
+	2,318 	2,606
+Row:Other raw materials
+	1,405 	1,563
+Row:Finished product
+	5,081 	4,637
+Row:	8,804 	8,806
+Row:Other current assets
+	481 	603
+Row:Total current assets
+	19,442 	21,594
+Row:Property, plant and equipment, at cost:
+		Row:Land and land improvements
+	600 	639
+Row:Buildings and building equipment
+	3,975 	3,989
+Row:Machinery and equipment
+	9,096 	8,976
+Row:Construction in progress
+	886 	962
+Row:	14,557 	14,566
+Row:Less: accumulated depreciation
+	7,356 	7,295
+Row:	7,201 	7,271
+Row:Goodwill (Note 3) 	7,189 	7,666
+Row:Other intangible assets, net (Note 3) 	2,278 	2,432
+Row:Investments in unconsolidated subsidiaries and equity securities (Notes 4 & 16 ) 	1,269 	1,074
+Row:Deferred income taxes 	977 	1,007
+Row:Other assets 	1,445 	1,924
+Row:Total Assets
+$ 	39,801 $ 	42,968
+Row:for the years ended December 31, (in millions of dollars)
+	2018 	2017 	2016
+Row:CASH PROVIDED BY (USED IN) OPERATING ACTIVITIES
+			Row:Net earnings $ 	8,286 $ 	6,341 $ 	7,250
+Row:Adjustments to reconcile net earnings to operating cash flows:
+			Row:Depreciation and amortization
+	989 	875 	743
+Row:Deferred income tax (benefit) provision 	(100) 	(501) 	182
+Row:Cash effects of changes in:
+			Row:Receivables, net
+	53 	(92) 	(1,009)
+Row:Inventories
+	(613) 	730 	(695)
+Row:Accounts payable
+	(51) 	425 	373
+Row:Accrued liabilities and other current assets
+	910 	(554) 	1,477
+Row:Income taxes
+	(135) 	1,370 	(209)
+Row:Pension plan contributions
+	(110) 	(66) 	(191)
+Row:Other
+	249 	384 	156
+Row:Net cash provided by operating activities
+	9,478 	8,912 	8,077
+Row:CASH PROVIDED BY (USED IN) INVESTING ACTIVITIES
+			Row:Capital expenditures 	(1,436) 	(1,548) 	(1,172)
+Row:Investments in unconsolidated subsidiaries and equity securities 	(63) 	(111) 	(41)
+Row:Net investment hedges 	416 	(1,527) 	295
+Row:Other 	85 	103 	84
+Row:Net cash used in investing activities
+	(998) 	(3,083) 	(834)

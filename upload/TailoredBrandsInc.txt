@@ -1,0 +1,552 @@
+Row:	February 1, 2020 	February 2,
+2019
+Row:ASSETS
+		Row:CURRENT ASSETS:
+		Row:Cash and cash equivalents 	$ 14,420 	$ 32,671
+Row:Accounts receivable, net 	39,973 	34,686
+Row:Inventories 	696,657 	724,086
+Row:Assets held for sale 	34,935 	—
+Row:Other current assets 	49,130 	66,823
+Row:Current assets - discontinued operations 	— 	171,376
+Row:Total current assets 	835,115 	1,029,642
+Row:PROPERTY AND EQUIPMENT, AT COST:
+		Row:Land 	17,181 	19,162
+Row:Buildings 	149,942 	151,071
+Row:Leasehold improvements 	650,778 	628,572
+Row:Furniture, fixtures and equipment 	575,986 	647,241
+Row:	1,393,887 	1,446,046
+Row:Less accumulated depreciation and amortization 	(998,075) 	(1,021,730)
+Row:PROPERTY AND EQUIPMENT, net 	395,812 	424,316
+Row:OPERATING LEASE RIGHT-OF-USE ASSETS 	880,291 	—
+Row:RENTAL PRODUCT, net 	92,897 	99,770
+Row:GOODWILL 	79,271 	79,491
+Row:INTANGIBLE ASSETS, net 	116,843 	153,711
+Row:OTHER ASSETS 	18,730 	8,489
+Row:NON-CURRENT ASSETS - DISCONTINUED OPERATIONS 	— 	25,071
+Row:TOTAL ASSETS 	$ 2,418,959 	$ 1,820,490
+Row:LIABILITIES AND SHAREHOLDERS' (DEFICIT) EQUITY
+		Row:CURRENT LIABILITIES:
+		Row:Accounts payable 	$ 183,897 	$ 204,775
+Row:Accrued expenses and other current liabilities 	246,110 	268,698
+Row:Current portion of operating lease liabilities 	186,304 	—
+Row:Income taxes payable 	3,416 	13,478
+Row:Current portion of long-term debt 	9,000 	11,619
+Row:Current liabilities - discontinued operations 	— 	40,025
+Row:Total current liabilities 	628,727 	538,595
+Row:LONG-TERM DEBT, net 	1,094,398 	1,153,242
+Row:OPERATING LEASE LIABILITIES
+	726,327 	—
+Row:DEFERRED TAXES, net AND OTHER LIABILITIES 	67,813 	119,545
+Row:NON-CURRENT LIABILITIES - DISCONTINUED OPERATIONS 	— 	5,477
+Row:Total liabilities 	2,517,265 	1,816,859
+Row:COMMITMENTS AND CONTINGENCIES
+		Row:SHAREHOLDERS' (DEFICIT) EQUITY:
+Preferred stock, $0.01 par value, 2,000,000 shares authorized, no shares issued Common stock, $0.01 par value, 100,000,000 shares authorized, 50,909,984 and 50,180,832 shares
+	— 	—
+Row:issued 	508 	501
+Row:Capital in excess of par 	514,397 	505,157
+Row:Accumulated deficit 	(568,697) 	(468,048)
+Row:Accumulated other comprehensive loss 	(34,514) 	(33,979)
+Row:Treasury stock, 2,336,852 and 0 shares, at cost 	(10,000) 	—
+Row:Total shareholders' (deficit) equity 	(98,306) 	3,631
+Row:TOTAL LIABILITIES AND SHAREHOLDERS’ (DEFICIT) EQUITY 	$ 2,418,959 	$ 1,820,490
+Row:The accompanying notes are an integral part of these consolidated financial statements.
+		Row:	2019 	2018 	2017
+Row:Net sales:
+			Row:Retail clothing product 	$ 2,358,392 	$ 2,454,747 	$ 2,439,817
+Row:Rental services 	383,521 	399,146 	428,355
+Row:Alteration and other services 	139,348 	150,618 	184,849
+Row:Total net sales 	2,881,261 	3,004,511 	3,053,021
+Row:Cost of sales:
+			Row:Retail clothing product 	1,107,642 	1,096,032 	1,085,799
+Row:Rental services 	56,750 	59,243 	69,973
+Row:Alteration and other services 	132,302 	132,591 	139,840
+Row:Occupancy costs 	415,955 	406,037 	415,981
+Row:Total cost of sales 	1,712,649 	1,693,903 	1,711,593
+Row:Gross margin:
+			Row:Retail clothing product 	1,250,750 	1,358,715 	1,354,018
+Row:Rental services 	326,771 	339,903 	358,382
+Row:Alteration and other services 	7,046 	18,027 	45,009
+Row:Occupancy costs 	(415,955) 	(406,037) 	(415,981)
+Row:Total gross margin 	1,168,612 	1,310,608 	1,341,428
+Row:Advertising expense 	159,052 	165,248 	172,001
+Row:Selling, general and administrative expenses 	911,722 	919,798 	951,831
+Row:Goodwill impairment charge 	— 	— 	1,500
+Row:Operating income 	97,838 	225,562 	216,096
+Row:Interest income 	523 	563 	564
+Row:Interest expense 	(71,272) 	(79,570) 	(100,471)
+Row:(Loss) gain on extinguishment of debt, net 	(77) 	(30,253) 	5,445
+Row:Earnings before income taxes 	27,012 	116,302 	121,634
+Row:Provision for income taxes 	1,645 	17,706 	34,617
+Row:Net earnings from continuing operations 	25,367 	98,596 	87,017
+Row:(Loss) earnings from discontinued operations, net of tax 	(107,643) 	(15,356) 	9,686
+Row:Net (loss) earnings 	$ (82,276) 	$ 83,240 	$ 96,703
+Row:Net earnings from continuing operations per common share:
+			Row:Basic 	$ 0.51 	$ 1.98 	$ 1.77
+Row:Diluted 	$ 0.51 	$ 1.94 	$ 1.76
+Row:Net (loss) earnings from discontinued operations per common share:
+			Row:Basic 	$ (2.16) 	$ (0.31) 	$ 0.20
+Row:Diluted 	$ (2.16) 	$ (0.30) 	$ 0.20
+Row:Net (loss) earnings per common share:
+			Row:Basic 	$ (1.65) 	$ 1.67 	$ 1.97
+Row:Diluted 	$ (1.65) 	$ 1.64 	$ 1.95
+Row:Weighted-average common shares outstanding:
+			Row:Basic 	49,774 	49,856 	49,094
+Row:Diluted 	49,929 	50,725 	49,468
+Row:	2019 	2018 	2017
+Row:Net (loss) earnings 	$ (82,276) 	$ 83,240 	$ 96,703
+Row:Currency translation adjustments, net of tax 	(4,847) 	(18,704) 	29,089
+Row:Unrealized (loss) gain on cash flow hedges, net of tax 	(22,054) 	(4,459) 	227
+Row:Adjustment to minimum pension liability, net of tax Release of cumulative foreign currency translation adjustment to loss from discontinued
+	(519) 	(34) 	(15)
+Row:operations 	26,885 	— 	—
+Row:Comprehensive (loss) income 	$ (82,811) 	$ 60,043 	$ 126,004
+Row:	Capital Common in Excess Stock of Par 	Accumulated Deficit 	Other Comprehensive Loss 	Treasury Stock, at Cost 	Total
+(Deficit)
+Equity
+Row:BALANCES — January 28, 2017 $ 	487 $ 470,801 	$ (538,823) 	$ (40,083) 	$ — 	$ (107,618)
+Row:Net earnings 	— — 	96,703 	— 	— 	96,703
+Row:Other comprehensive income 	— — 	— 	29,301 	— 	29,301
+Row:Cash dividends — $0.72 per share 	— — 	(37,046) 	— 	— 	(37,046)
+Row:Share-based compensation 	— 20,636 	— 	— 	— 	20,636
+Row:Common stock issued — 504,156 shares 	5 1,898 	— 	— 	— 	1,903
+Row:Tax payments related to vested deferred stock units 	— (1,687) 	— 	— 	— 	(1,687)
+Row:BALANCES — February 3, 2018 	492 491,648 	(479,166) 	(10,782) 	— 	2,192
+Row:Net earnings 	— — 	83,240 	— 	— 	83,240
+Row:Other comprehensive loss 	— — 	— 	(23,197) 	— 	(23,197)
+Row:Cumulative adjustment upon ASC 606 adoption (see
+					Row:Note 7) 	— — 	(35,824) 	— 	— 	(35,824)
+Row:Cash dividends — $0.72 per share 	— — 	(36,298) 	— 	— 	(36,298)
+Row:Share-based compensation 	— 14,770 	— 	— 	— 	14,770
+Row:Common stock issued — 892,976 shares 	9 6,640 	— 	— 	— 	6,649
+Row:Tax payments related to vested deferred stock units 	— (7,901) 	— 	— 	— 	(7,901)
+Row:BALANCES —February 2, 2019 	501 505,157 	(468,048) 	(33,979) 	— 	3,631
+Row:Net loss 	— — 	(82,276) 	— 	— 	(82,276)
+Row:Other comprehensive loss 	— — 	— 	(27,420) 	— 	(27,420)
+Row:Cumulative adjustment upon ASC 842 adoption (see
+Note 17) 	— — 	(402) 	— 	— 	(402)
+Row:Cash dividends — $0.36 per share 	— — 	(17,971) 	— 	— 	(17,971)
+Row:Release of cumulative foreign currency translation
+					Row:adjustment to loss from discontinued operations 	— — 	— 	26,885 	— 	26,885
+Row:Share-based compensation 	— 8,902 	— 	— 	— 	8,902
+Row:Common stock issued —729,152 shares 	7 1,554 	— 	— 	— 	1,561
+Row:Tax payments related to vested deferred stock units 	— (1,216) 	— 	— 	— 	(1,216)
+Row:Treasury stock repurchased — 2,336,852 shares 	— — 	— 	— 	(10,000) 	(10,000)
+Row:BALANCES — February 1, 2020 $ 	508 $ 514,397 	$ (568,697) 	$ (34,514) 	$ (10,000) 	$ (98,306)
+Row:	2019 	2018 	2017
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+			Row:Net (loss) earnings 	$ (82,276) 	$ 83,240 	$ 96,703
+Row:Adjustments to reconcile net (loss) earnings to net cash provided by operating activities:
+			Row:Depreciation and amortization 	107,174 	104,216 	106,493
+Row:Non-cash lease expense 	194,529 	— 	—
+Row:Rental product amortization 	34,289 	35,058 	38,021
+Row:Goodwill impairment charge 	— 	23,991 	1,500
+Row:Loss (gain) on extinguishment of debt, net 	77 	30,253 	(5,445)
+Row:Amortization of deferred financing costs and discount on long-term debt 	1,878 	3,422 	7,066
+Row:Loss on divestiture of business 	83,513 	3,766 	—
+Row:Loss on release of cumulative foreign currency translation adjustment 	26,885 	— 	—
+Row:Loss on disposition of assets 	2,628 	4,821 	1,237
+Row:Asset impairment charges 	3,404 	1,026 	3,547
+Row:Share-based compensation 	8,902 	14,770 	20,636
+Row:Deferred tax benefit 	(13,461) 	(8,009) 	(5,763)
+Row:Other 	80 	272 	938
+Row:Changes in operating assets and liabilities:
+			Row:Accounts receivable 	3,161 	2,264 	(9,440)
+Row:Inventories 	26,243 	(4,482) 	114,652
+Row:Rental product 	(30,513) 	(16,217) 	(9,582)
+Row:Other assets 	(20,015) 	9,385 	(5,956)
+Row:Accounts payable, accrued expenses and other current liabilities 	(39,325) 	43,706 	(10,843)
+Row:Income taxes payable 	(11,750) 	9,993 	4,650
+Row:Operating lease and other liabilities 	(195,782) 	(18,803) 	2,354
+Row:Net cash provided by operating activities 	99,641 	322,672 	350,768
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+			Row:Capital expenditures 	(88,502) 	(82,286) 	(94,958)
+Row:Proceeds from divestiture of business, net 	45,034 	17,755 	—
+Row:Acquisition of business, net of cash 	— 	— 	(457)
+Row:Proceeds from sales of property and equipment 	311 	— 	5,480
+Row:Net cash used in investing activities 	(43,157) 	(64,531) 	(89,935)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+			Row:Payments on original term loan 	— 	(993,420) 	(53,379)
+Row:Proceeds from new term loan 	— 	895,500 	—
+Row:Payments on new term loan 	(9,370) 	(9,000) 	—
+Row:Proceeds from asset-based revolving credit facility 	1,333,000 	655,500 	276,300
+Row:Payments on asset-based revolving credit facility 	(1,331,500) 	(607,000) 	(276,300)
+Row:Repurchase and retirement of senior notes 	(54,425) 	(199,365) 	(145,371)
+Row:Deferred financing costs 	— 	(6,713) 	(2,580)
+Row:Cash dividends paid 	(28,071) 	(36,946) 	(35,761)
+Row:Proceeds from issuance of common stock 	1,561 	6,649 	1,903
+Row:Tax payments related to vested deferred stock units 	(1,216) 	(7,901) 	(1,687)
+Row:Repurchases of common stock 	(10,000) 	— 	—
+Row:Net cash used in financing activities 	(100,021) 	(302,696) 	(236,875)
+Row:Effect of exchange rate changes 	2,526 	(3,621) 	8,760
+Row:(DECREASE) INCREASE IN CASH AND CASH EQUIVALENTS 	(41,011) 	(48,176) 	32,718
+Row:Balance at beginning of period 	55,431 	103,607 	70,889
+Row:Balance at end of period 	$ 14,420 	$ 55,431 	$ 103,607
+Row:	February 1, 2020 	February 2,
+2019
+Row:ASSETS
+		Row:CURRENT ASSETS:
+		Row:Cash and cash equivalents 	$ 14,420 	$ 32,671
+Row:Accounts receivable, net 	39,973 	34,686
+Row:Inventories 	696,657 	724,086
+Row:Assets held for sale 	34,935 	—
+Row:Other current assets 	49,130 	66,823
+Row:Current assets - discontinued operations 	— 	171,376
+Row:Total current assets 	835,115 	1,029,642
+Row:PROPERTY AND EQUIPMENT, AT COST:
+		Row:Land 	17,181 	19,162
+Row:Buildings 	149,942 	151,071
+Row:Leasehold improvements 	650,778 	628,572
+Row:Furniture, fixtures and equipment 	575,986 	647,241
+Row:	1,393,887 	1,446,046
+Row:Less accumulated depreciation and amortization 	(998,075) 	(1,021,730)
+Row:PROPERTY AND EQUIPMENT, net 	395,812 	424,316
+Row:OPERATING LEASE RIGHT-OF-USE ASSETS 	880,291 	—
+Row:RENTAL PRODUCT, net 	92,897 	99,770
+Row:GOODWILL 	79,271 	79,491
+Row:INTANGIBLE ASSETS, net 	116,843 	153,711
+Row:OTHER ASSETS 	18,730 	8,489
+Row:NON-CURRENT ASSETS - DISCONTINUED OPERATIONS 	— 	25,071
+Row:TOTAL ASSETS 	$ 2,418,959 	$ 1,820,490
+Row:LIABILITIES AND SHAREHOLDERS' (DEFICIT) EQUITY
+		Row:CURRENT LIABILITIES:
+		Row:Accounts payable 	$ 183,897 	$ 204,775
+Row:Accrued expenses and other current liabilities 	246,110 	268,698
+Row:Current portion of operating lease liabilities 	186,304 	—
+Row:Income taxes payable 	3,416 	13,478
+Row:Current portion of long-term debt 	9,000 	11,619
+Row:Current liabilities - discontinued operations 	— 	40,025
+Row:Total current liabilities 	628,727 	538,595
+Row:LONG-TERM DEBT, net 	1,094,398 	1,153,242
+Row:OPERATING LEASE LIABILITIES
+	726,327 	—
+Row:DEFERRED TAXES, net AND OTHER LIABILITIES 	67,813 	119,545
+Row:NON-CURRENT LIABILITIES - DISCONTINUED OPERATIONS 	— 	5,477
+Row:Total liabilities 	2,517,265 	1,816,859
+Row:COMMITMENTS AND CONTINGENCIES
+		Row:SHAREHOLDERS' (DEFICIT) EQUITY:
+Preferred stock, $0.01 par value, 2,000,000 shares authorized, no shares issued Common stock, $0.01 par value, 100,000,000 shares authorized, 50,909,984 and 50,180,832 shares
+	— 	—
+Row:issued 	508 	501
+Row:Capital in excess of par 	514,397 	505,157
+Row:Accumulated deficit 	(568,697) 	(468,048)
+Row:Accumulated other comprehensive loss 	(34,514) 	(33,979)
+Row:Treasury stock, 2,336,852 and 0 shares, at cost 	(10,000) 	—
+Row:Total shareholders' (deficit) equity 	(98,306) 	3,631
+Row:TOTAL LIABILITIES AND SHAREHOLDERS’ (DEFICIT) EQUITY 	$ 2,418,959 	$ 1,820,490
+Row:The accompanying notes are an integral part of these consolidated financial statements.
+		Row:	2019 	2018 	2017
+Row:Net sales:
+			Row:Retail clothing product 	$ 2,358,392 	$ 2,454,747 	$ 2,439,817
+Row:Rental services 	383,521 	399,146 	428,355
+Row:Alteration and other services 	139,348 	150,618 	184,849
+Row:Total net sales 	2,881,261 	3,004,511 	3,053,021
+Row:Cost of sales:
+			Row:Retail clothing product 	1,107,642 	1,096,032 	1,085,799
+Row:Rental services 	56,750 	59,243 	69,973
+Row:Alteration and other services 	132,302 	132,591 	139,840
+Row:Occupancy costs 	415,955 	406,037 	415,981
+Row:Total cost of sales 	1,712,649 	1,693,903 	1,711,593
+Row:Gross margin:
+			Row:Retail clothing product 	1,250,750 	1,358,715 	1,354,018
+Row:Rental services 	326,771 	339,903 	358,382
+Row:Alteration and other services 	7,046 	18,027 	45,009
+Row:Occupancy costs 	(415,955) 	(406,037) 	(415,981)
+Row:Total gross margin 	1,168,612 	1,310,608 	1,341,428
+Row:Advertising expense 	159,052 	165,248 	172,001
+Row:Selling, general and administrative expenses 	911,722 	919,798 	951,831
+Row:Goodwill impairment charge 	— 	— 	1,500
+Row:Operating income 	97,838 	225,562 	216,096
+Row:Interest income 	523 	563 	564
+Row:Interest expense 	(71,272) 	(79,570) 	(100,471)
+Row:(Loss) gain on extinguishment of debt, net 	(77) 	(30,253) 	5,445
+Row:Earnings before income taxes 	27,012 	116,302 	121,634
+Row:Provision for income taxes 	1,645 	17,706 	34,617
+Row:Net earnings from continuing operations 	25,367 	98,596 	87,017
+Row:(Loss) earnings from discontinued operations, net of tax 	(107,643) 	(15,356) 	9,686
+Row:Net (loss) earnings 	$ (82,276) 	$ 83,240 	$ 96,703
+Row:Net earnings from continuing operations per common share:
+			Row:Basic 	$ 0.51 	$ 1.98 	$ 1.77
+Row:Diluted 	$ 0.51 	$ 1.94 	$ 1.76
+Row:Net (loss) earnings from discontinued operations per common share:
+			Row:Basic 	$ (2.16) 	$ (0.31) 	$ 0.20
+Row:Diluted 	$ (2.16) 	$ (0.30) 	$ 0.20
+Row:Net (loss) earnings per common share:
+			Row:Basic 	$ (1.65) 	$ 1.67 	$ 1.97
+Row:Diluted 	$ (1.65) 	$ 1.64 	$ 1.95
+Row:Weighted-average common shares outstanding:
+			Row:Basic 	49,774 	49,856 	49,094
+Row:Diluted 	49,929 	50,725 	49,468
+Row:	2019 	2018 	2017
+Row:Net (loss) earnings 	$ (82,276) 	$ 83,240 	$ 96,703
+Row:Currency translation adjustments, net of tax 	(4,847) 	(18,704) 	29,089
+Row:Unrealized (loss) gain on cash flow hedges, net of tax 	(22,054) 	(4,459) 	227
+Row:Adjustment to minimum pension liability, net of tax Release of cumulative foreign currency translation adjustment to loss from discontinued
+	(519) 	(34) 	(15)
+Row:operations 	26,885 	— 	—
+Row:Comprehensive (loss) income 	$ (82,811) 	$ 60,043 	$ 126,004
+Row:	Capital Common in Excess Stock of Par 	Accumulated Deficit 	Other Comprehensive Loss 	Treasury Stock, at Cost 	Total
+(Deficit)
+Equity
+Row:BALANCES — January 28, 2017 $ 	487 $ 470,801 	$ (538,823) 	$ (40,083) 	$ — 	$ (107,618)
+Row:Net earnings 	— — 	96,703 	— 	— 	96,703
+Row:Other comprehensive income 	— — 	— 	29,301 	— 	29,301
+Row:Cash dividends — $0.72 per share 	— — 	(37,046) 	— 	— 	(37,046)
+Row:Share-based compensation 	— 20,636 	— 	— 	— 	20,636
+Row:Common stock issued — 504,156 shares 	5 1,898 	— 	— 	— 	1,903
+Row:Tax payments related to vested deferred stock units 	— (1,687) 	— 	— 	— 	(1,687)
+Row:BALANCES — February 3, 2018 	492 491,648 	(479,166) 	(10,782) 	— 	2,192
+Row:Net earnings 	— — 	83,240 	— 	— 	83,240
+Row:Other comprehensive loss 	— — 	— 	(23,197) 	— 	(23,197)
+Row:Cumulative adjustment upon ASC 606 adoption (see
+					Row:Note 7) 	— — 	(35,824) 	— 	— 	(35,824)
+Row:Cash dividends — $0.72 per share 	— — 	(36,298) 	— 	— 	(36,298)
+Row:Share-based compensation 	— 14,770 	— 	— 	— 	14,770
+Row:Common stock issued — 892,976 shares 	9 6,640 	— 	— 	— 	6,649
+Row:Tax payments related to vested deferred stock units 	— (7,901) 	— 	— 	— 	(7,901)
+Row:BALANCES —February 2, 2019 	501 505,157 	(468,048) 	(33,979) 	— 	3,631
+Row:Net loss 	— — 	(82,276) 	— 	— 	(82,276)
+Row:Other comprehensive loss 	— — 	— 	(27,420) 	— 	(27,420)
+Row:Cumulative adjustment upon ASC 842 adoption (see
+Note 17) 	— — 	(402) 	— 	— 	(402)
+Row:Cash dividends — $0.36 per share 	— — 	(17,971) 	— 	— 	(17,971)
+Row:Release of cumulative foreign currency translation
+					Row:adjustment to loss from discontinued operations 	— — 	— 	26,885 	— 	26,885
+Row:Share-based compensation 	— 8,902 	— 	— 	— 	8,902
+Row:Common stock issued —729,152 shares 	7 1,554 	— 	— 	— 	1,561
+Row:Tax payments related to vested deferred stock units 	— (1,216) 	— 	— 	— 	(1,216)
+Row:Treasury stock repurchased — 2,336,852 shares 	— — 	— 	— 	(10,000) 	(10,000)
+Row:BALANCES — February 1, 2020 $ 	508 $ 514,397 	$ (568,697) 	$ (34,514) 	$ (10,000) 	$ (98,306)
+Row:	2019 	2018 	2017
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+			Row:Net (loss) earnings 	$ (82,276) 	$ 83,240 	$ 96,703
+Row:Adjustments to reconcile net (loss) earnings to net cash provided by operating activities:
+			Row:Depreciation and amortization 	107,174 	104,216 	106,493
+Row:Non-cash lease expense 	194,529 	— 	—
+Row:Rental product amortization 	34,289 	35,058 	38,021
+Row:Goodwill impairment charge 	— 	23,991 	1,500
+Row:Loss (gain) on extinguishment of debt, net 	77 	30,253 	(5,445)
+Row:Amortization of deferred financing costs and discount on long-term debt 	1,878 	3,422 	7,066
+Row:Loss on divestiture of business 	83,513 	3,766 	—
+Row:Loss on release of cumulative foreign currency translation adjustment 	26,885 	— 	—
+Row:Loss on disposition of assets 	2,628 	4,821 	1,237
+Row:Asset impairment charges 	3,404 	1,026 	3,547
+Row:Share-based compensation 	8,902 	14,770 	20,636
+Row:Deferred tax benefit 	(13,461) 	(8,009) 	(5,763)
+Row:Other 	80 	272 	938
+Row:Changes in operating assets and liabilities:
+			Row:Accounts receivable 	3,161 	2,264 	(9,440)
+Row:Inventories 	26,243 	(4,482) 	114,652
+Row:Rental product 	(30,513) 	(16,217) 	(9,582)
+Row:Other assets 	(20,015) 	9,385 	(5,956)
+Row:Accounts payable, accrued expenses and other current liabilities 	(39,325) 	43,706 	(10,843)
+Row:Income taxes payable 	(11,750) 	9,993 	4,650
+Row:Operating lease and other liabilities 	(195,782) 	(18,803) 	2,354
+Row:Net cash provided by operating activities 	99,641 	322,672 	350,768
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+			Row:Capital expenditures 	(88,502) 	(82,286) 	(94,958)
+Row:Proceeds from divestiture of business, net 	45,034 	17,755 	—
+Row:Acquisition of business, net of cash 	— 	— 	(457)
+Row:Proceeds from sales of property and equipment 	311 	— 	5,480
+Row:Net cash used in investing activities 	(43,157) 	(64,531) 	(89,935)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+			Row:Payments on original term loan 	— 	(993,420) 	(53,379)
+Row:Proceeds from new term loan 	— 	895,500 	—
+Row:Payments on new term loan 	(9,370) 	(9,000) 	—
+Row:Proceeds from asset-based revolving credit facility 	1,333,000 	655,500 	276,300
+Row:Payments on asset-based revolving credit facility 	(1,331,500) 	(607,000) 	(276,300)
+Row:Repurchase and retirement of senior notes 	(54,425) 	(199,365) 	(145,371)
+Row:Deferred financing costs 	— 	(6,713) 	(2,580)
+Row:Cash dividends paid 	(28,071) 	(36,946) 	(35,761)
+Row:Proceeds from issuance of common stock 	1,561 	6,649 	1,903
+Row:Tax payments related to vested deferred stock units 	(1,216) 	(7,901) 	(1,687)
+Row:Repurchases of common stock 	(10,000) 	— 	—
+Row:Net cash used in financing activities 	(100,021) 	(302,696) 	(236,875)
+Row:Effect of exchange rate changes 	2,526 	(3,621) 	8,760
+Row:(DECREASE) INCREASE IN CASH AND CASH EQUIVALENTS 	(41,011) 	(48,176) 	32,718
+Row:Balance at beginning of period 	55,431 	103,607 	70,889
+Row:Balance at end of period 	$ 14,420 	$ 55,431 	$ 103,607
+Row:	February 1, 2020 	February 2,
+2019
+Row:ASSETS
+		Row:CURRENT ASSETS:
+		Row:Cash and cash equivalents 	$ 14,420 	$ 32,671
+Row:Accounts receivable, net 	39,973 	34,686
+Row:Inventories 	696,657 	724,086
+Row:Assets held for sale 	34,935 	—
+Row:Other current assets 	49,130 	66,823
+Row:Current assets - discontinued operations 	— 	171,376
+Row:Total current assets 	835,115 	1,029,642
+Row:PROPERTY AND EQUIPMENT, AT COST:
+		Row:Land 	17,181 	19,162
+Row:Buildings 	149,942 	151,071
+Row:Leasehold improvements 	650,778 	628,572
+Row:Furniture, fixtures and equipment 	575,986 	647,241
+Row:	1,393,887 	1,446,046
+Row:Less accumulated depreciation and amortization 	(998,075) 	(1,021,730)
+Row:PROPERTY AND EQUIPMENT, net 	395,812 	424,316
+Row:OPERATING LEASE RIGHT-OF-USE ASSETS 	880,291 	—
+Row:RENTAL PRODUCT, net 	92,897 	99,770
+Row:GOODWILL 	79,271 	79,491
+Row:INTANGIBLE ASSETS, net 	116,843 	153,711
+Row:OTHER ASSETS 	18,730 	8,489
+Row:NON-CURRENT ASSETS - DISCONTINUED OPERATIONS 	— 	25,071
+Row:TOTAL ASSETS 	$ 2,418,959 	$ 1,820,490
+Row:LIABILITIES AND SHAREHOLDERS' (DEFICIT) EQUITY
+		Row:CURRENT LIABILITIES:
+		Row:Accounts payable 	$ 183,897 	$ 204,775
+Row:Accrued expenses and other current liabilities 	246,110 	268,698
+Row:Current portion of operating lease liabilities 	186,304 	—
+Row:Income taxes payable 	3,416 	13,478
+Row:Current portion of long-term debt 	9,000 	11,619
+Row:Current liabilities - discontinued operations 	— 	40,025
+Row:Total current liabilities 	628,727 	538,595
+Row:LONG-TERM DEBT, net 	1,094,398 	1,153,242
+Row:OPERATING LEASE LIABILITIES
+	726,327 	—
+Row:DEFERRED TAXES, net AND OTHER LIABILITIES 	67,813 	119,545
+Row:NON-CURRENT LIABILITIES - DISCONTINUED OPERATIONS 	— 	5,477
+Row:Total liabilities 	2,517,265 	1,816,859
+Row:COMMITMENTS AND CONTINGENCIES
+		Row:SHAREHOLDERS' (DEFICIT) EQUITY:
+Preferred stock, $0.01 par value, 2,000,000 shares authorized, no shares issued Common stock, $0.01 par value, 100,000,000 shares authorized, 50,909,984 and 50,180,832 shares
+	— 	—
+Row:issued 	508 	501
+Row:Capital in excess of par 	514,397 	505,157
+Row:Accumulated deficit 	(568,697) 	(468,048)
+Row:Accumulated other comprehensive loss 	(34,514) 	(33,979)
+Row:Treasury stock, 2,336,852 and 0 shares, at cost 	(10,000) 	—
+Row:Total shareholders' (deficit) equity 	(98,306) 	3,631
+Row:TOTAL LIABILITIES AND SHAREHOLDERS’ (DEFICIT) EQUITY 	$ 2,418,959 	$ 1,820,490
+Row:The accompanying notes are an integral part of these consolidated financial statements.
+		Row:	2019 	2018 	2017
+Row:Net sales:
+			Row:Retail clothing product 	$ 2,358,392 	$ 2,454,747 	$ 2,439,817
+Row:Rental services 	383,521 	399,146 	428,355
+Row:Alteration and other services 	139,348 	150,618 	184,849
+Row:Total net sales 	2,881,261 	3,004,511 	3,053,021
+Row:Cost of sales:
+			Row:Retail clothing product 	1,107,642 	1,096,032 	1,085,799
+Row:Rental services 	56,750 	59,243 	69,973
+Row:Alteration and other services 	132,302 	132,591 	139,840
+Row:Occupancy costs 	415,955 	406,037 	415,981
+Row:Total cost of sales 	1,712,649 	1,693,903 	1,711,593
+Row:Gross margin:
+			Row:Retail clothing product 	1,250,750 	1,358,715 	1,354,018
+Row:Rental services 	326,771 	339,903 	358,382
+Row:Alteration and other services 	7,046 	18,027 	45,009
+Row:Occupancy costs 	(415,955) 	(406,037) 	(415,981)
+Row:Total gross margin 	1,168,612 	1,310,608 	1,341,428
+Row:Advertising expense 	159,052 	165,248 	172,001
+Row:Selling, general and administrative expenses 	911,722 	919,798 	951,831
+Row:Goodwill impairment charge 	— 	— 	1,500
+Row:Operating income 	97,838 	225,562 	216,096
+Row:Interest income 	523 	563 	564
+Row:Interest expense 	(71,272) 	(79,570) 	(100,471)
+Row:(Loss) gain on extinguishment of debt, net 	(77) 	(30,253) 	5,445
+Row:Earnings before income taxes 	27,012 	116,302 	121,634
+Row:Provision for income taxes 	1,645 	17,706 	34,617
+Row:Net earnings from continuing operations 	25,367 	98,596 	87,017
+Row:(Loss) earnings from discontinued operations, net of tax 	(107,643) 	(15,356) 	9,686
+Row:Net (loss) earnings 	$ (82,276) 	$ 83,240 	$ 96,703
+Row:Net earnings from continuing operations per common share:
+			Row:Basic 	$ 0.51 	$ 1.98 	$ 1.77
+Row:Diluted 	$ 0.51 	$ 1.94 	$ 1.76
+Row:Net (loss) earnings from discontinued operations per common share:
+			Row:Basic 	$ (2.16) 	$ (0.31) 	$ 0.20
+Row:Diluted 	$ (2.16) 	$ (0.30) 	$ 0.20
+Row:Net (loss) earnings per common share:
+			Row:Basic 	$ (1.65) 	$ 1.67 	$ 1.97
+Row:Diluted 	$ (1.65) 	$ 1.64 	$ 1.95
+Row:Weighted-average common shares outstanding:
+			Row:Basic 	49,774 	49,856 	49,094
+Row:Diluted 	49,929 	50,725 	49,468
+Row:	2019 	2018 	2017
+Row:Net (loss) earnings 	$ (82,276) 	$ 83,240 	$ 96,703
+Row:Currency translation adjustments, net of tax 	(4,847) 	(18,704) 	29,089
+Row:Unrealized (loss) gain on cash flow hedges, net of tax 	(22,054) 	(4,459) 	227
+Row:Adjustment to minimum pension liability, net of tax Release of cumulative foreign currency translation adjustment to loss from discontinued
+	(519) 	(34) 	(15)
+Row:operations 	26,885 	— 	—
+Row:Comprehensive (loss) income 	$ (82,811) 	$ 60,043 	$ 126,004
+Row:	Capital Common in Excess Stock of Par 	Accumulated Deficit 	Other Comprehensive Loss 	Treasury Stock, at Cost 	Total
+(Deficit)
+Equity
+Row:BALANCES — January 28, 2017 $ 	487 $ 470,801 	$ (538,823) 	$ (40,083) 	$ — 	$ (107,618)
+Row:Net earnings 	— — 	96,703 	— 	— 	96,703
+Row:Other comprehensive income 	— — 	— 	29,301 	— 	29,301
+Row:Cash dividends — $0.72 per share 	— — 	(37,046) 	— 	— 	(37,046)
+Row:Share-based compensation 	— 20,636 	— 	— 	— 	20,636
+Row:Common stock issued — 504,156 shares 	5 1,898 	— 	— 	— 	1,903
+Row:Tax payments related to vested deferred stock units 	— (1,687) 	— 	— 	— 	(1,687)
+Row:BALANCES — February 3, 2018 	492 491,648 	(479,166) 	(10,782) 	— 	2,192
+Row:Net earnings 	— — 	83,240 	— 	— 	83,240
+Row:Other comprehensive loss 	— — 	— 	(23,197) 	— 	(23,197)
+Row:Cumulative adjustment upon ASC 606 adoption (see
+					Row:Note 7) 	— — 	(35,824) 	— 	— 	(35,824)
+Row:Cash dividends — $0.72 per share 	— — 	(36,298) 	— 	— 	(36,298)
+Row:Share-based compensation 	— 14,770 	— 	— 	— 	14,770
+Row:Common stock issued — 892,976 shares 	9 6,640 	— 	— 	— 	6,649
+Row:Tax payments related to vested deferred stock units 	— (7,901) 	— 	— 	— 	(7,901)
+Row:BALANCES —February 2, 2019 	501 505,157 	(468,048) 	(33,979) 	— 	3,631
+Row:Net loss 	— — 	(82,276) 	— 	— 	(82,276)
+Row:Other comprehensive loss 	— — 	— 	(27,420) 	— 	(27,420)
+Row:Cumulative adjustment upon ASC 842 adoption (see
+Note 17) 	— — 	(402) 	— 	— 	(402)
+Row:Cash dividends — $0.36 per share 	— — 	(17,971) 	— 	— 	(17,971)
+Row:Release of cumulative foreign currency translation
+					Row:adjustment to loss from discontinued operations 	— — 	— 	26,885 	— 	26,885
+Row:Share-based compensation 	— 8,902 	— 	— 	— 	8,902
+Row:Common stock issued —729,152 shares 	7 1,554 	— 	— 	— 	1,561
+Row:Tax payments related to vested deferred stock units 	— (1,216) 	— 	— 	— 	(1,216)
+Row:Treasury stock repurchased — 2,336,852 shares 	— — 	— 	— 	(10,000) 	(10,000)
+Row:BALANCES — February 1, 2020 $ 	508 $ 514,397 	$ (568,697) 	$ (34,514) 	$ (10,000) 	$ (98,306)
+Row:	2019 	2018 	2017
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+			Row:Net (loss) earnings 	$ (82,276) 	$ 83,240 	$ 96,703
+Row:Adjustments to reconcile net (loss) earnings to net cash provided by operating activities:
+			Row:Depreciation and amortization 	107,174 	104,216 	106,493
+Row:Non-cash lease expense 	194,529 	— 	—
+Row:Rental product amortization 	34,289 	35,058 	38,021
+Row:Goodwill impairment charge 	— 	23,991 	1,500
+Row:Loss (gain) on extinguishment of debt, net 	77 	30,253 	(5,445)
+Row:Amortization of deferred financing costs and discount on long-term debt 	1,878 	3,422 	7,066
+Row:Loss on divestiture of business 	83,513 	3,766 	—
+Row:Loss on release of cumulative foreign currency translation adjustment 	26,885 	— 	—
+Row:Loss on disposition of assets 	2,628 	4,821 	1,237
+Row:Asset impairment charges 	3,404 	1,026 	3,547
+Row:Share-based compensation 	8,902 	14,770 	20,636
+Row:Deferred tax benefit 	(13,461) 	(8,009) 	(5,763)
+Row:Other 	80 	272 	938
+Row:Changes in operating assets and liabilities:
+			Row:Accounts receivable 	3,161 	2,264 	(9,440)
+Row:Inventories 	26,243 	(4,482) 	114,652
+Row:Rental product 	(30,513) 	(16,217) 	(9,582)
+Row:Other assets 	(20,015) 	9,385 	(5,956)
+Row:Accounts payable, accrued expenses and other current liabilities 	(39,325) 	43,706 	(10,843)
+Row:Income taxes payable 	(11,750) 	9,993 	4,650
+Row:Operating lease and other liabilities 	(195,782) 	(18,803) 	2,354
+Row:Net cash provided by operating activities 	99,641 	322,672 	350,768
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+			Row:Capital expenditures 	(88,502) 	(82,286) 	(94,958)
+Row:Proceeds from divestiture of business, net 	45,034 	17,755 	—
+Row:Acquisition of business, net of cash 	— 	— 	(457)
+Row:Proceeds from sales of property and equipment 	311 	— 	5,480
+Row:Net cash used in investing activities 	(43,157) 	(64,531) 	(89,935)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+			Row:Payments on original term loan 	— 	(993,420) 	(53,379)
+Row:Proceeds from new term loan 	— 	895,500 	—
+Row:Payments on new term loan 	(9,370) 	(9,000) 	—
+Row:Proceeds from asset-based revolving credit facility 	1,333,000 	655,500 	276,300
+Row:Payments on asset-based revolving credit facility 	(1,331,500) 	(607,000) 	(276,300)
+Row:Repurchase and retirement of senior notes 	(54,425) 	(199,365) 	(145,371)
+Row:Deferred financing costs 	— 	(6,713) 	(2,580)
+Row:Cash dividends paid 	(28,071) 	(36,946) 	(35,761)
+Row:Proceeds from issuance of common stock 	1,561 	6,649 	1,903
+Row:Tax payments related to vested deferred stock units 	(1,216) 	(7,901) 	(1,687)
+Row:Repurchases of common stock 	(10,000) 	— 	—
+Row:Net cash used in financing activities 	(100,021) 	(302,696) 	(236,875)
+Row:Effect of exchange rate changes 	2,526 	(3,621) 	8,760
+Row:(DECREASE) INCREASE IN CASH AND CASH EQUIVALENTS 	(41,011) 	(48,176) 	32,718
+Row:Balance at beginning of period 	55,431 	103,607 	70,889
+Row:Balance at end of period 	$ 14,420 	$ 55,431 	$ 103,607

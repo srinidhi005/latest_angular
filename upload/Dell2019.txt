@@ -1,0 +1,214 @@
+Row:Current assets:
+	Row:Cash and cash equivalents $ 	9,676 $ 13,942
+Row:Short-term investments 	— 2,187
+Row:Accounts receivable, net 	12,371 11,721
+Row:Short-term financing receivables, net 	4,398 3,919
+Row:Inventories, net 	3,649 2,678
+Row:Other current assets 	6,044 5,881
+Row:Total current assets 	36,138 40,328
+Row:Property, plant, and equipment, net 	5,259 5,390
+Row:Long-term investments 	1,005 4,163
+Row:Long-term financing receivables, net 	4,224 3,724
+Row:Goodwill 	40,089 39,920
+Row:Intangible assets, net 	22,270 28,265
+Row:Other non-current assets 	2,835 2,403
+Row:Total assets $ 	111,820 $ 124,193
+Row:LIABILITIES, REDEEMABLE SHARES, AND STOCKHOLDERS’ EQUITY Current liabilities:
+	(DEFICIT)
+Row:Short-term debt $ 	4,320 $ 7,873
+Row:Accounts payable 	19,213 18,334
+Row:Accrued and other 	8,495 8,026
+Row:Short-term deferred revenue 	12,944 11,606
+Row:Total current liabilities 	44,972 45,839
+Row:Long-term debt 	49,201 43,998
+Row:Long-term deferred revenue 	11,066 9,210
+Row:Other non-current liabilities 	6,327 7,277
+Row:Total liabilities 	111,566 106,324
+Row:Commitments and contingencies (Note 10)
+	Row:Redeemable shares (Note 17) 	1,196 384
+Row:Stockholders’ equity (deficit):
+	Row:Common stock and capital in excess of $0.01 par value (Note 14) 	16,114 19,889
+Row:Treasury stock at cost 	(63) (1,440)
+Row:Accumulated deficit 	(21,349) (6,860)
+Row:Accumulated other comprehensive income (loss) 	(467) 130
+Row:Total Dell Technologies Inc. stockholders’ equity (deficit) 	(5,765) 11,719
+Row:Non-controlling interests 	4,823 5,766
+Row:Total stockholders’ equity (deficit) 	(942) 17,485
+Row:Total liabilities, redeemable shares, and stockholders’ equity (deficit) $ 	111,820 $ 124,193
+Row:		Fiscal Year Ended
+	Row:	February 1, 2019 	February 2, 2018 	February 3, 2017
+Row:Net revenue:
+			Row:Products 	$ 71,287 	$ 61,251 	$ 51,057
+Row:Services 	19,334 	17,789 	11,107
+Row:Total net revenue 	90,621 	79,040 	62,164
+Row:Cost of net revenue:
+			Row:Products 	57,889 	51,433 	43,388
+Row:Services 	7,679 	7,070 	5,127
+Row:Total cost of net revenue 	65,568 	58,503 	48,515
+Row:Gross margin 	25,053 	20,537 	13,649
+Row:Operating expenses:
+			Row:Selling, general, and administrative 	20,640 	18,569 	13,403
+Row:Research and development 	4,604 	4,384 	2,636
+Row:Total operating expenses 	25,244 	22,953 	16,039
+Row:Operating loss 	(191) 	(2,416) 	(2,390)
+Row:Interest and other, net 	(2,170) 	(2,353) 	(2,104)
+Row:Loss from continuing operations before income taxes 	(2,361) 	(4,769) 	(4,494)
+Row:Income tax benefit 	(180) 	(1,843) 	(1,420)
+Row:Net loss from continuing operations 	(2,181) 	(2,926) 	(3,074)
+Row:Net income from discontinued operations 	— 	— 	1,916
+Row:Net loss 	(2,181) 	(2,926) 	(1,158)
+Row:Less: Net income (loss) attributable to non-controlling interests 	129 	(77) 	9
+Row:Net loss attributable to Dell Technologies Inc. 	$ (2,310) 	$ (2,849) 	$ (1,167)
+Row:Earnings (loss) per share attributable to Dell Technologies Inc. - basic:
+			Row:Continuing operations - Class V Common Stock - basic 	$ 6.01 	$ 1.63 	$ 1.36
+Row:Continuing operations - DHI Group - basic 	$ (6.02) 	$ (5.61) 	$ (7.19)
+Row:Discontinued operations - DHI Group - basic 	$ — 	$ — 	$ 4.08
+Row:Continuing operations - Class V Common Stock - basic 	$ 	6.01 	$ 1.63 $ 1.36
+Row:Continuing operations - DHI Group - basic 	$ 	(6.02) 	$ (5.61) $ (7.19)
+Row:Discontinued operations - DHI Group - basic 	$ 	— 	$ — $ 4.08
+Row:Continuing operations - Class V Common Stock - diluted $ 	5.91 $ 	1.61 	$ 1.35
+Row:Continuing operations - DHI Group - diluted $ 	(6.04) $ 	(5.62) 	$ (7.19)
+Row:Discontinued operations - DHI Group - diluted $ 	— $ 	— 	$ 4.08
+Row:February 	1, 2019 February 2, 2018 February 3, 2017
+Row:Cash flows from operating activities:
+	Row:Net loss $ 	(2,181) $ (2,926) $ (1,158)
+Row:Adjustments to reconcile net loss to net cash provided by operating
+activities:
+	Row:Depreciation and amortization 	7,746 8,634 4,938
+Row:Amortization of debt issuance costs 	146 183 268
+Row:Stock-based compensation expense 	918 835 398
+Row:Deferred income taxes 	(1,331) (2,605) (2,052)
+Row:Net (gain) loss on sale of businesses Provision for doubtful accounts — including financing receivables 	(30) 16 (2,165)
+172 164 120
+Row:Other 	468 391 173
+Row:Changes in assets and liabilities, net of effects from acquisitions and
+dispositions:
+	Row:Accounts receivable 	(1,104) (1,590) (1,935)
+Row:Financing receivables 	(1,302) (1,653) (751)
+Row:Inventories 	(1,445) (325) 1,076
+Row:Other assets 	(534) (1,395) 117
+Row:Accounts payable 	952 3,779 751
+Row:Deferred revenue 	3,418 2,748 1,933
+Row:Accrued and other liabilities Change in cash from operating activities Cash flows from investing activities:
+	1,098 587 654
+6,991 6,843 2,367
+Row:Investments:
+	Row:Purchases 	(925) (4,389) (778)
+Row:Maturities and sales 	6,612 3,878 1,173
+Row:Capital expenditures 	(1,158) (1,212) (699)
+Row:Proceeds from sale of facilities, land, and other assets 	10 — 24
+Row:Capitalized software development costs 	(339) (369) (207)
+Row:Collections on purchased financing receivables 	30 30 35
+Row:Acquisition of businesses, net Divestitures of businesses, net 	(912) (658) (37,609)
+142 — 6,873
+Row:Asset acquisitions, net 	(59) (96) —
+Row:Asset dispositions, net 	(12) (59) —
+Row:Other 	— — (48)
+Row:Change in cash from investing activities 	3,389 (2,875) (31,236)
+Row:Current assets:
+	Row:Cash and cash equivalents $ 	9,676 $ 13,942
+Row:Short-term investments 	— 2,187
+Row:Accounts receivable, net 	12,371 11,721
+Row:Short-term financing receivables, net 	4,398 3,919
+Row:Inventories, net 	3,649 2,678
+Row:Other current assets 	6,044 5,881
+Row:Total current assets 	36,138 40,328
+Row:Property, plant, and equipment, net 	5,259 5,390
+Row:Long-term investments 	1,005 4,163
+Row:Long-term financing receivables, net 	4,224 3,724
+Row:Goodwill 	40,089 39,920
+Row:Intangible assets, net 	22,270 28,265
+Row:Other non-current assets 	2,835 2,403
+Row:Total assets $ 	111,820 $ 124,193
+Row:LIABILITIES, REDEEMABLE SHARES, AND STOCKHOLDERS’ EQUITY Current liabilities:
+	(DEFICIT)
+Row:Short-term debt $ 	4,320 $ 7,873
+Row:Accounts payable 	19,213 18,334
+Row:Accrued and other 	8,495 8,026
+Row:Short-term deferred revenue 	12,944 11,606
+Row:Total current liabilities 	44,972 45,839
+Row:Long-term debt 	49,201 43,998
+Row:Long-term deferred revenue 	11,066 9,210
+Row:Other non-current liabilities 	6,327 7,277
+Row:Total liabilities 	111,566 106,324
+Row:Commitments and contingencies (Note 10)
+	Row:Redeemable shares (Note 17) 	1,196 384
+Row:Stockholders’ equity (deficit):
+	Row:Common stock and capital in excess of $0.01 par value (Note 14) 	16,114 19,889
+Row:Treasury stock at cost 	(63) (1,440)
+Row:Accumulated deficit 	(21,349) (6,860)
+Row:Accumulated other comprehensive income (loss) 	(467) 130
+Row:Total Dell Technologies Inc. stockholders’ equity (deficit) 	(5,765) 11,719
+Row:Non-controlling interests 	4,823 5,766
+Row:Total stockholders’ equity (deficit) 	(942) 17,485
+Row:Total liabilities, redeemable shares, and stockholders’ equity (deficit) $ 	111,820 $ 124,193
+Row:		Fiscal Year Ended
+	Row:	February 1, 2019 	February 2, 2018 	February 3, 2017
+Row:Net revenue:
+			Row:Products 	$ 71,287 	$ 61,251 	$ 51,057
+Row:Services 	19,334 	17,789 	11,107
+Row:Total net revenue 	90,621 	79,040 	62,164
+Row:Cost of net revenue:
+			Row:Products 	57,889 	51,433 	43,388
+Row:Services 	7,679 	7,070 	5,127
+Row:Total cost of net revenue 	65,568 	58,503 	48,515
+Row:Gross margin 	25,053 	20,537 	13,649
+Row:Operating expenses:
+			Row:Selling, general, and administrative 	20,640 	18,569 	13,403
+Row:Research and development 	4,604 	4,384 	2,636
+Row:Total operating expenses 	25,244 	22,953 	16,039
+Row:Operating loss 	(191) 	(2,416) 	(2,390)
+Row:Interest and other, net 	(2,170) 	(2,353) 	(2,104)
+Row:Loss from continuing operations before income taxes 	(2,361) 	(4,769) 	(4,494)
+Row:Income tax benefit 	(180) 	(1,843) 	(1,420)
+Row:Net loss from continuing operations 	(2,181) 	(2,926) 	(3,074)
+Row:Net income from discontinued operations 	— 	— 	1,916
+Row:Net loss 	(2,181) 	(2,926) 	(1,158)
+Row:Less: Net income (loss) attributable to non-controlling interests 	129 	(77) 	9
+Row:Net loss attributable to Dell Technologies Inc. 	$ (2,310) 	$ (2,849) 	$ (1,167)
+Row:Earnings (loss) per share attributable to Dell Technologies Inc. - basic:
+			Row:Continuing operations - Class V Common Stock - basic 	$ 6.01 	$ 1.63 	$ 1.36
+Row:Continuing operations - DHI Group - basic 	$ (6.02) 	$ (5.61) 	$ (7.19)
+Row:Discontinued operations - DHI Group - basic 	$ — 	$ — 	$ 4.08
+Row:Continuing operations - Class V Common Stock - basic 	$ 	6.01 	$ 1.63 $ 1.36
+Row:Continuing operations - DHI Group - basic 	$ 	(6.02) 	$ (5.61) $ (7.19)
+Row:Discontinued operations - DHI Group - basic 	$ 	— 	$ — $ 4.08
+Row:Continuing operations - Class V Common Stock - diluted $ 	5.91 $ 	1.61 	$ 1.35
+Row:Continuing operations - DHI Group - diluted $ 	(6.04) $ 	(5.62) 	$ (7.19)
+Row:Discontinued operations - DHI Group - diluted $ 	— $ 	— 	$ 4.08
+Row:February 	1, 2019 February 2, 2018 February 3, 2017
+Row:Cash flows from operating activities:
+	Row:Net loss $ 	(2,181) $ (2,926) $ (1,158)
+Row:Adjustments to reconcile net loss to net cash provided by operating
+activities:
+	Row:Depreciation and amortization 	7,746 8,634 4,938
+Row:Amortization of debt issuance costs 	146 183 268
+Row:Stock-based compensation expense 	918 835 398
+Row:Deferred income taxes 	(1,331) (2,605) (2,052)
+Row:Net (gain) loss on sale of businesses Provision for doubtful accounts — including financing receivables 	(30) 16 (2,165)
+172 164 120
+Row:Other 	468 391 173
+Row:Changes in assets and liabilities, net of effects from acquisitions and
+dispositions:
+	Row:Accounts receivable 	(1,104) (1,590) (1,935)
+Row:Financing receivables 	(1,302) (1,653) (751)
+Row:Inventories 	(1,445) (325) 1,076
+Row:Other assets 	(534) (1,395) 117
+Row:Accounts payable 	952 3,779 751
+Row:Deferred revenue 	3,418 2,748 1,933
+Row:Accrued and other liabilities Change in cash from operating activities Cash flows from investing activities:
+	1,098 587 654
+6,991 6,843 2,367
+Row:Investments:
+	Row:Purchases 	(925) (4,389) (778)
+Row:Maturities and sales 	6,612 3,878 1,173
+Row:Capital expenditures 	(1,158) (1,212) (699)
+Row:Proceeds from sale of facilities, land, and other assets 	10 — 24
+Row:Capitalized software development costs 	(339) (369) (207)
+Row:Collections on purchased financing receivables 	30 30 35
+Row:Acquisition of businesses, net Divestitures of businesses, net 	(912) (658) (37,609)
+142 — 6,873
+Row:Asset acquisitions, net 	(59) (96) —
+Row:Asset dispositions, net 	(12) (59) —
+Row:Other 	— — (48)
+Row:Change in cash from investing activities 	3,389 (2,875) (31,236)

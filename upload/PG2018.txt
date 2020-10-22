@@ -1,0 +1,236 @@
+Row:Amounts in millions except per share amounts; Years ended June 30 	2018 	2017 	2016
+Row:NET SALES $ 	66,832 	$ 65,058 	$ 65,299
+Row:Cost of products sold 	34,268 	32,535 	32,909
+Row:Selling, general and administrative expense 	18,853 	18,568 	18,949
+Row:OPERATING INCOME 	13,711 	13,955 	13,441
+Row:Interest expense 	506 	465 	579
+Row:Interest income 	247 	171 	182
+Row:Other non-operating income/(expense), net 	(126) 	(404) 	325
+Row:EARNINGS FROM CONTINUING OPERATIONS BEFORE INCOME TAXES 	13,326 	13,257 	13,369
+Row:Income taxes on continuing operations 	3,465 	3,063 	3,342
+Row:NET EARNINGS FROM CONTINUING OPERATIONS 	9,861 	10,194 	10,027
+Row:NET EARNINGS FROM DISCONTINUED OPERATIONS 	— 	5,217 	577
+Row:NET EARNINGS 	9,861 	15,411 	10,604
+Row:Less: Net earnings attributable to noncontrolling interests 	111 	85 	96
+Row:NET EARNINGS ATTRIBUTABLE TO PROCTER & GAMBLE $ 	9,750 	$ 15,326 	$ 10,508
+Row:BASIC NET EARNINGS PER COMMON SHARE: (1)
+			Row:Earnings from continuing operations $ 	3.75 	$ 3.79 	$ 3.59
+Row:Earnings from discontinued operations 	— 	2.01 	0.21
+Row:BASIC NET EARNINGS PER COMMON SHARE $ 	3.75 	$ 5.80 	$ 3.80
+Row:DILUTED NET EARNINGS PER COMMON SHARE: (1)
+			Row:Earnings from continuing operations $ 	3.67 	$ 3.69 	$ 3.49
+Row:BASIC NET 	EARNINGS PER COMMON SHARE: (1)
+			Row:Earnings 	from continuing operations 	$ 3.75 	$ 3.79 	$ 3.59
+Row:Earnings 	from discontinued operations 	— 	2.01 	0.21
+Row:BASIC NET 	EARNINGS PER COMMON SHARE 	$ 3.75 	$ 5.80 	$ 3.80
+Row:DILUTED 	NET EARNINGS PER COMMON SHARE: (1)
+			Row:Earnings 	from continuing operations 	$ 3.67 	$ 3.69 	$ 3.49
+Row:Earnings 	from discontinued operations 	— 	1.90 	0.20
+Row:DILUTED 	NET EARNINGS PER COMMON SHARE 	$ 3.67 	$ 5.59 	$ 3.69
+Row:DIVIDENDS 	PER COMMON SHARE 	$ 2.79 	$ 2.70 	$ 2.66
+Row:Assets
+		Row:CURRENT ASSETS
+		Row:Cash and cash equivalents 	$ 2,569 	$ 5,569
+Row:Available-for-sale investment securities 	9,281 	9,568
+Row:Accounts receivable 	4,686 	4,594
+Row:INVENTORIES
+		Row:Materials and supplies 	1,335 	1,308
+Row:Work in process 	588 	529
+Row:Finished goods 	2,815 	2,787
+Row:Total inventories 	4,738 	4,624
+Row:Prepaid expenses and other current assets 	2,046 	2,139
+Row:TOTAL CURRENT ASSETS 	23,320 	26,494
+Row:PROPERTY, PLANT AND EQUIPMENT, NET 	20,600 	19,893
+Row:GOODWILL 	45,175 	44,699
+Row:TRADEMARKS AND OTHER INTANGIBLE ASSETS, NET 	23,902 	24,187
+Row:OTHER NONCURRENT ASSETS 	5,313 	5,133
+Row:TOTAL ASSETS 	$ 118,310 	$ 120,406
+Row:Liabilities and Shareholders' Equity
+		Row:CURRENT LIABILITIES
+		Row:Accounts payable $ 	10,344 	$ 9,632
+Row:Accrued and other liabilities 	7,470 	7,024
+Row:Debt due within one year 	10,423 	13,554
+Row:TOTAL CURRENT LIABILITIES 	28,237 	30,210
+Row:LONG-TERM DEBT 	20,863 	18,038
+Row:DEFERRED INCOME TAXES 	6,163 	8,126
+Row:OTHER NONCURRENT LIABILITIES 	10,164 	8,254
+Row:TOTAL LIABILITIES 	65,427 	64,628
+Row:SHAREHOLDERS' EQUITY
+		Row:Convertible Class A preferred stock, stated value $1 per share (600 shares authorized) 	967 	1,006
+Row:Non-Voting Class B preferred stock, stated value $1 per share (200 shares authorized) 	— 	—
+Row:Common stock, stated value $1 per share (10,000 shares authorized; shares issued:
+2018 - 4,009.2, 2017 - 4,009.2) 	4,009 	4,009
+Row:Additional paid-in capital 	63,846 	63,641
+Row:Reserve for ESOP debt retirement 	(1,204) 	(1,249)
+Row:Accumulated other comprehensive income/(loss) 	(14,749) 	(14,632)
+Row:Treasury stock, at cost (shares held: 2018 -1,511.2, 2017 - 1,455.9) 	(99,217) 	(93,715)
+Row:Retained earnings 	98,641 	96,124
+Row:Noncontrolling interest 	590 	594
+Row:TOTAL SHAREHOLDERS' EQUITY 	52,883 	55,778
+Row:TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY $ 	118,310 	$ 120,406
+Row:Amounts in millions; Years ended June 30 2018 CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR $ 5,569 	2017 $ 7,102 	2016
+$ 6,836
+Row:OPERATING ACTIVITIES
+		Row:Net earnings 9,861 	15,411 	10,604
+Row:Depreciation and amortization 2,834 	2,820 	3,078
+Row:Loss on early extinguishment of debt 346 	543 	—
+Row:Share-based compensation expense 395 	351 	335
+Row:Deferred income taxes (1,844) 	(601) 	(815)
+Row:Gain on sale of assets (176) 	(5,490) 	(41)
+Row:Goodwill and intangible asset impairment charges — 	— 	450
+Row:Change in accounts receivable (177) 	(322) 	35
+Row:Change in inventories (188) 	71 	116
+Row:Change in accounts payable, accrued and other liabilities 1,385 	(149) 	1,285
+Row:Change in other operating assets and liabilities 2,000 	(43) 	204
+Row:Other 431 	162 	184
+Row:TOTAL OPERATING ACTIVITIES 14,867 	12,753 	15,435
+Row:INVESTING ACTIVITIES
+		Row:Capital expenditures (3,717) 	(3,384) 	(3,314)
+Row:Proceeds from asset sales 269 	571 	432
+Row:Acquisitions, net of cash acquired (109) 	(16) 	(186)
+Row:Purchases of short-term investments (3,909) 	(4,843) 	(2,815)
+Row:Proceeds from sales and maturities of short-term investments 3,928 	1,488 	1,354
+Row:Pre-divestiture addition of restricted cash related to the Beauty Brands divestiture — 	(874) 	(996)
+Row:Cash transferred at closing related to the Beauty Brands divestiture — 	(475) 	—
+Row:Release of restricted cash upon closing of the Beauty Brands divestiture — 	1,870 	—
+Row:Cash transferred in Batteries divestiture — 	— 	(143)
+Row:Change in other investments 27 	(26) 	93
+Row:TOTAL INVESTING ACTIVITIES (3,511) 	(5,689) 	(5,575)
+Row:FINANCING ACTIVITIES
+		Row:Dividends to shareholders (7,310) 	(7,236) 	(7,436)
+Row:Change in short-term debt (3,437) 	2,727 	(418)
+Row:Additions to long-term debt 5,072 	3,603 	3,916
+Row:Reductions of long-term debt (1) (2,873) 	(4,931) 	(2,213)
+Row:Treasury stock purchases (7,004) 	(5,204) 	(4,004)
+Row:Treasury stock from cash infused in Batteries divestiture — 	— 	(1,730)
+Row:Impact of stock options and other 1,177 	2,473 	2,672
+Row:TOTAL FINANCING ACTIVITIES (14,375) 	(8,568) 	(9,213)
+Row:EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH
+EQUIVALENTS 19 	(29) 	(381)
+Row:CHANGE IN CASH AND CASH EQUIVALENTS (3,000) 	(1,533) 	266
+Row:CASH AND CASH EQUIVALENTS, END OF YEAR $ 2,569 SUPPLEMENTAL DISCLOSURE
+Cash payments for interest $ 529 	$ 5,569 $ 518 	$ 7,102
+$ 569
+Row:Cash payment for income taxes 2,830 	3,714 	3,730
+Row:Cash payments for interest $ 	529 	$ 518 	$ 569
+Row:Cash payment for income taxes 	2,830 	3,714 	3,730
+Row:Divestiture of Batteries business in exchange for shares of P&G stock (2) 	— 	— 	4,213
+Row:Divestiture of Beauty business in exchange for shares of P&G stock and assumption of debt 	— 	11,360 	—
+Row:Amounts in millions except per share amounts; Years ended June 30 	2018 	2017 	2016
+Row:NET SALES $ 	66,832 	$ 65,058 	$ 65,299
+Row:Cost of products sold 	34,268 	32,535 	32,909
+Row:Selling, general and administrative expense 	18,853 	18,568 	18,949
+Row:OPERATING INCOME 	13,711 	13,955 	13,441
+Row:Interest expense 	506 	465 	579
+Row:Interest income 	247 	171 	182
+Row:Other non-operating income/(expense), net 	(126) 	(404) 	325
+Row:EARNINGS FROM CONTINUING OPERATIONS BEFORE INCOME TAXES 	13,326 	13,257 	13,369
+Row:Income taxes on continuing operations 	3,465 	3,063 	3,342
+Row:NET EARNINGS FROM CONTINUING OPERATIONS 	9,861 	10,194 	10,027
+Row:NET EARNINGS FROM DISCONTINUED OPERATIONS 	— 	5,217 	577
+Row:NET EARNINGS 	9,861 	15,411 	10,604
+Row:Less: Net earnings attributable to noncontrolling interests 	111 	85 	96
+Row:NET EARNINGS ATTRIBUTABLE TO PROCTER & GAMBLE $ 	9,750 	$ 15,326 	$ 10,508
+Row:BASIC NET EARNINGS PER COMMON SHARE: (1)
+			Row:Earnings from continuing operations $ 	3.75 	$ 3.79 	$ 3.59
+Row:Earnings from discontinued operations 	— 	2.01 	0.21
+Row:BASIC NET EARNINGS PER COMMON SHARE $ 	3.75 	$ 5.80 	$ 3.80
+Row:DILUTED NET EARNINGS PER COMMON SHARE: (1)
+			Row:Earnings from continuing operations $ 	3.67 	$ 3.69 	$ 3.49
+Row:BASIC NET 	EARNINGS PER COMMON SHARE: (1)
+			Row:Earnings 	from continuing operations 	$ 3.75 	$ 3.79 	$ 3.59
+Row:Earnings 	from discontinued operations 	— 	2.01 	0.21
+Row:BASIC NET 	EARNINGS PER COMMON SHARE 	$ 3.75 	$ 5.80 	$ 3.80
+Row:DILUTED 	NET EARNINGS PER COMMON SHARE: (1)
+			Row:Earnings 	from continuing operations 	$ 3.67 	$ 3.69 	$ 3.49
+Row:Earnings 	from discontinued operations 	— 	1.90 	0.20
+Row:DILUTED 	NET EARNINGS PER COMMON SHARE 	$ 3.67 	$ 5.59 	$ 3.69
+Row:DIVIDENDS 	PER COMMON SHARE 	$ 2.79 	$ 2.70 	$ 2.66
+Row:Assets
+		Row:CURRENT ASSETS
+		Row:Cash and cash equivalents 	$ 2,569 	$ 5,569
+Row:Available-for-sale investment securities 	9,281 	9,568
+Row:Accounts receivable 	4,686 	4,594
+Row:INVENTORIES
+		Row:Materials and supplies 	1,335 	1,308
+Row:Work in process 	588 	529
+Row:Finished goods 	2,815 	2,787
+Row:Total inventories 	4,738 	4,624
+Row:Prepaid expenses and other current assets 	2,046 	2,139
+Row:TOTAL CURRENT ASSETS 	23,320 	26,494
+Row:PROPERTY, PLANT AND EQUIPMENT, NET 	20,600 	19,893
+Row:GOODWILL 	45,175 	44,699
+Row:TRADEMARKS AND OTHER INTANGIBLE ASSETS, NET 	23,902 	24,187
+Row:OTHER NONCURRENT ASSETS 	5,313 	5,133
+Row:TOTAL ASSETS 	$ 118,310 	$ 120,406
+Row:Liabilities and Shareholders' Equity
+		Row:CURRENT LIABILITIES
+		Row:Accounts payable $ 	10,344 	$ 9,632
+Row:Accrued and other liabilities 	7,470 	7,024
+Row:Debt due within one year 	10,423 	13,554
+Row:TOTAL CURRENT LIABILITIES 	28,237 	30,210
+Row:LONG-TERM DEBT 	20,863 	18,038
+Row:DEFERRED INCOME TAXES 	6,163 	8,126
+Row:OTHER NONCURRENT LIABILITIES 	10,164 	8,254
+Row:TOTAL LIABILITIES 	65,427 	64,628
+Row:SHAREHOLDERS' EQUITY
+		Row:Convertible Class A preferred stock, stated value $1 per share (600 shares authorized) 	967 	1,006
+Row:Non-Voting Class B preferred stock, stated value $1 per share (200 shares authorized) 	— 	—
+Row:Common stock, stated value $1 per share (10,000 shares authorized; shares issued:
+2018 - 4,009.2, 2017 - 4,009.2) 	4,009 	4,009
+Row:Additional paid-in capital 	63,846 	63,641
+Row:Reserve for ESOP debt retirement 	(1,204) 	(1,249)
+Row:Accumulated other comprehensive income/(loss) 	(14,749) 	(14,632)
+Row:Treasury stock, at cost (shares held: 2018 -1,511.2, 2017 - 1,455.9) 	(99,217) 	(93,715)
+Row:Retained earnings 	98,641 	96,124
+Row:Noncontrolling interest 	590 	594
+Row:TOTAL SHAREHOLDERS' EQUITY 	52,883 	55,778
+Row:TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY $ 	118,310 	$ 120,406
+Row:Amounts in millions; Years ended June 30 2018 CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR $ 5,569 	2017 $ 7,102 	2016
+$ 6,836
+Row:OPERATING ACTIVITIES
+		Row:Net earnings 9,861 	15,411 	10,604
+Row:Depreciation and amortization 2,834 	2,820 	3,078
+Row:Loss on early extinguishment of debt 346 	543 	—
+Row:Share-based compensation expense 395 	351 	335
+Row:Deferred income taxes (1,844) 	(601) 	(815)
+Row:Gain on sale of assets (176) 	(5,490) 	(41)
+Row:Goodwill and intangible asset impairment charges — 	— 	450
+Row:Change in accounts receivable (177) 	(322) 	35
+Row:Change in inventories (188) 	71 	116
+Row:Change in accounts payable, accrued and other liabilities 1,385 	(149) 	1,285
+Row:Change in other operating assets and liabilities 2,000 	(43) 	204
+Row:Other 431 	162 	184
+Row:TOTAL OPERATING ACTIVITIES 14,867 	12,753 	15,435
+Row:INVESTING ACTIVITIES
+		Row:Capital expenditures (3,717) 	(3,384) 	(3,314)
+Row:Proceeds from asset sales 269 	571 	432
+Row:Acquisitions, net of cash acquired (109) 	(16) 	(186)
+Row:Purchases of short-term investments (3,909) 	(4,843) 	(2,815)
+Row:Proceeds from sales and maturities of short-term investments 3,928 	1,488 	1,354
+Row:Pre-divestiture addition of restricted cash related to the Beauty Brands divestiture — 	(874) 	(996)
+Row:Cash transferred at closing related to the Beauty Brands divestiture — 	(475) 	—
+Row:Release of restricted cash upon closing of the Beauty Brands divestiture — 	1,870 	—
+Row:Cash transferred in Batteries divestiture — 	— 	(143)
+Row:Change in other investments 27 	(26) 	93
+Row:TOTAL INVESTING ACTIVITIES (3,511) 	(5,689) 	(5,575)
+Row:FINANCING ACTIVITIES
+		Row:Dividends to shareholders (7,310) 	(7,236) 	(7,436)
+Row:Change in short-term debt (3,437) 	2,727 	(418)
+Row:Additions to long-term debt 5,072 	3,603 	3,916
+Row:Reductions of long-term debt (1) (2,873) 	(4,931) 	(2,213)
+Row:Treasury stock purchases (7,004) 	(5,204) 	(4,004)
+Row:Treasury stock from cash infused in Batteries divestiture — 	— 	(1,730)
+Row:Impact of stock options and other 1,177 	2,473 	2,672
+Row:TOTAL FINANCING ACTIVITIES (14,375) 	(8,568) 	(9,213)
+Row:EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH
+EQUIVALENTS 19 	(29) 	(381)
+Row:CHANGE IN CASH AND CASH EQUIVALENTS (3,000) 	(1,533) 	266
+Row:CASH AND CASH EQUIVALENTS, END OF YEAR $ 2,569 SUPPLEMENTAL DISCLOSURE
+Cash payments for interest $ 529 	$ 5,569 $ 518 	$ 7,102
+$ 569
+Row:Cash payment for income taxes 2,830 	3,714 	3,730
+Row:Cash payments for interest $ 	529 	$ 518 	$ 569
+Row:Cash payment for income taxes 	2,830 	3,714 	3,730
+Row:Divestiture of Batteries business in exchange for shares of P&G stock (2) 	— 	— 	4,213
+Row:Divestiture of Beauty business in exchange for shares of P&G stock and assumption of debt 	— 	11,360 	—

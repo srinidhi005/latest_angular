@@ -1,0 +1,385 @@
+Row:	2015 	2014 	2013
+Row:Net sales 	$ 3,518,680 $ 	3,744,030 	$ 4,116,897
+Row:Cost of sales, exclusive of depreciation and amortization 	1,361,137 	1,430,460 	1,541,462
+Row:Gross profit 	2,157,543 	2,313,570 	2,575,435
+Row:Stores and distribution expense 	1,604,214 	1,703,051 	1,907,687
+Row:Marketing, general and administrative expense 	470,321 	458,820 	481,784
+Row:Restructuring (benefit) charge 	(1,598) 	8,431 	81,500
+Row:Asset impairment 	18,209 	44,988 	46,715
+Row:Other operating income, net 	(6,441) 	(15,239) 	(23,074)
+Row:Operating income 	72,838 	113,519 	80,823
+Row:Interest expense, net 	18,248 	14,365 	7,546
+Row:Income before taxes 	54,590 	99,154 	73,277
+Row:Income tax expense 	16,031 	47,333 	18,649
+Row:Net income 	38,559 	51,821 	54,628
+Row:Less: Net income attributable to noncontrolling interests 	2,983 	— 	—
+Row:Net income attributable to A&F 	$ 35,576 $ 	51,821 	$ 54,628
+Row:Net income per share attributable to A&F
+			Row:Basic 	$ 0.52 $ 	0.72 	$ 0.71
+Row:Diluted 	$ 0.51 $ 	0.71 	$ 0.69
+Row:Weighted-average shares outstanding
+			Row:Basic 	68,880 	71,785 	77,157
+Row:Diluted 	69,417 	72,937 	78,666
+Row:Dividends declared per share 	$ 0.80 $ 	0.80 	$ 0.80
+Row:Other comprehensive loss
+			Row:Foreign currency translation 	$ (22,516) $ 	(77,929) 	$ (12,683)
+Row:Derivative financial instruments, net of tax 	(8,523) 	15,266 	5,054
+Row:Other comprehensive loss 	(31,039) 	(62,663) 	(7,629)
+Row:Comprehensive income (loss) 	7,520 	(10,842) 	46,999
+Row:Less: Comprehensive income attributable to noncontrolling interests 	2,983 	— 	—
+Row:Comprehensive income (loss) attributable to A&F 	$ 4,537 $ 	(10,842) 	$ 46,999
+Row:2015 	2014 	2013
+Row:$ 3,518,680 	$ 3,744,030 	$ 4,116,897
+Row:1,361,137 	1,430,460 	1,541,462
+Row:2,157,543 	2,313,570 	2,575,435
+Row:1,604,214 	1,703,051 	1,907,687
+Row:470,321 	458,820 	481,784
+Row:(1,598) 	8,431 	81,500
+Row:18,209 	44,988 	46,715
+Row:(6,441) 	(15,239) 	(23,074)
+Row:72,838 	113,519 	80,823
+Row:18,248 	14,365 	7,546
+Row:54,590 	99,154 	73,277
+Row:16,031 	47,333 	18,649
+Row:38,559 	51,821 	54,628
+Row:2,983 	— 	—
+Row:$ 35,576 	$ 51,821 	$ 54,628
+Row:$ 	0.52 	$ 	0.72 $ 	0.71
+Row:$ 	0.51 	$ 	0.71 $ 	0.69
+Row:(8,523) 		15,266 	5,054
+Row:(31,039) 		(62,663) 	(7,629)
+Row:7,520 		(10,842) 	46,999
+Row:2,983 		— 	—
+Row:$ 4,537 	$ 	(10,842) 	$ 46,999
+Row:Inventories, net 	436,701 	460,794
+Row:Deferred income taxes, net 	— 	13,986
+Row:Other current assets 	96,833 	116,574
+Row:Total current assets 	1,178,980 	1,164,972
+Row:Property and equipment, net 	894,178 	967,001
+Row:Other assets 	359,881 	373,194
+Row:Total assets 	$ 2,433,039 	$ 2,505,167
+Row:Liabilities and stockholders' equity
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 184,175 	$ 141,685
+Row:Accrued expenses 	321,237 	282,736
+Row:Short-term portion of deferred lease credits 	23,303 	26,629
+Row:Income taxes payable 	5,988 	32,804
+Row:Short-term portion of borrowings, net 	— 	2,102
+Row:Total current liabilities 	534,703 	485,956
+Row:Long-term liabilities:
+		Row:Long-term portion of deferred lease credits 	89,256 	106,393
+Row:Long-term portion of borrowings, net 	286,235 	291,310
+Row:Leasehold financing obligations 	47,440 	50,521
+Row:Other liabilities 	179,683 	181,286
+Row:Total long-term liabilities 	602,614 	629,510
+Row:Stockholders' equity
+		Row:Class A Common Stock - $0.01 par value: 150,000 shares authorized and 103,300 shares issued at each of
+January 30, 2016 and January 31, 2015 	1,033 	1,033
+Row:Paid-in capital 	407,029 	434,137
+Row:Retained earnings 	2,530,196 	2,550,673
+Row:Accumulated other comprehensive loss, net of tax 	(114,619) 	(83,580)
+Row:Treasury stock, at average cost: 35,952 and 33,948 shares at January 30, 2016 and January 31, 2015,
+respectively 	(1,532,576) 	(1,512,562)
+Row:Total Abercrombie & Fitch Co. stockholders' equity 	1,291,063 	1,389,701
+Row:Noncontrolling interests 	4,659 	—
+Row:Total stockholders' equity 	1,295,722 	1,389,701
+Row:Total liabilities and stockholders' equity 	$ 2,433,039 	$ 2,505,167
+Row:(1,532,576) 		(1,512,562)
+Row:1,291,063 		1,389,701
+Row:4,659 		—
+Row:1,295,722 		1,389,701
+Row:$ 2,433,039 	$ 	2,505,167
+Row:Operating activities
+			Row:Net income 	$ 38,559 	$ 51,821 	$ 54,628
+Row:Adjustments to reconcile net income to net cash provided by operating activities
+			Row:Depreciation and amortization 	213,680 	226,421 	235,240
+Row:Asset impairment 	18,209 	47,084 	84,655
+Row:Loss on disposal 	11,082 	5,794 	16,909
+Row:Amortization of deferred lease credits 	(28,619) 	(38,437) 	(45,895)
+Row:Provision for (Benefit from) deferred income taxes 	7,469 	1,676 	(41,263)
+Row:Share-based compensation 	28,359 	23,027 	53,516
+Row:Changes in assets and liabilities
+			Row:Inventories, net 	21,253 	62,854 	(103,304)
+Row:Accounts payable and accrued expenses 	51,050 	(37,394) 	(73,749)
+Row:Lessor construction allowances 	11,082 	13,182 	20,523
+Row:Income taxes 	(45,027) 	(34,659) 	(55,456)
+Row:Other assets 	7,967 	6,888 	44,138
+Row:Other liabilities 	(25,123) 	(15,777) 	(14,449)
+Row:Net cash provided by operating activities 	309,941 	312,480 	175,493
+Row:Investing activities
+			Row:Purchases of property and equipment 	(143,199) 	(174,624) 	(163,924)
+Row:Proceeds from sale of property and equipment 	11,109 	— 	—
+Row:Other investing activities 	9,523 	(450) 	(9,937)
+Row:Net cash used for investing activities 	(122,567) 	(175,074) 	(173,861)
+Row:Financing activities
+			Row:Purchase of treasury stock 	(50,033) 	(285,038) 	(115,806)
+Row:Repayments of borrowings 	(6,000) 	(195,750) 	(15,000)
+Row:Proceeds from borrowings 	— 	357,000 	150,000
+Row:Other financing activities 	4,303 	(303) 	1,898
+Row:Dividends paid 	(55,145) 	(57,362) 	(61,923)
+Row:Net cash used for financing activities 	(106,875) 	(181,453) 	(40,831)
+Row:Effect of exchange rates on cash 	(12,629) 	(35,361) 	(4,190)
+Row:Net increase (decrease) in cash and equivalents 	67,870 	(79,408) 	(43,389)
+Row:Cash and equivalents, beginning of period 	520,708 	600,116 	643,505
+Row:Cash and equivalents, end of period 	$ 588,578 	$ 520,708 	$ 600,116
+Row:Significant non-cash investing activities
+			Row:Change in accrual for construction in progress 	$ 12,859 	$ 6,525 	$ 10,820
+Row:Supplemental information
+			Row:Cash paid for interest 	$ 16,060 	$ 18,609 	$ 4,565
+Row:Cash paid for income taxes, net of refunds 	$ 48,702 	$ 74,685 	$ 116,312
+Row:	2015 	2014 	2013
+Row:Net sales 	$ 3,518,680 $ 	3,744,030 	$ 4,116,897
+Row:Cost of sales, exclusive of depreciation and amortization 	1,361,137 	1,430,460 	1,541,462
+Row:Gross profit 	2,157,543 	2,313,570 	2,575,435
+Row:Stores and distribution expense 	1,604,214 	1,703,051 	1,907,687
+Row:Marketing, general and administrative expense 	470,321 	458,820 	481,784
+Row:Restructuring (benefit) charge 	(1,598) 	8,431 	81,500
+Row:Asset impairment 	18,209 	44,988 	46,715
+Row:Other operating income, net 	(6,441) 	(15,239) 	(23,074)
+Row:Operating income 	72,838 	113,519 	80,823
+Row:Interest expense, net 	18,248 	14,365 	7,546
+Row:Income before taxes 	54,590 	99,154 	73,277
+Row:Income tax expense 	16,031 	47,333 	18,649
+Row:Net income 	38,559 	51,821 	54,628
+Row:Less: Net income attributable to noncontrolling interests 	2,983 	— 	—
+Row:Net income attributable to A&F 	$ 35,576 $ 	51,821 	$ 54,628
+Row:Net income per share attributable to A&F
+			Row:Basic 	$ 0.52 $ 	0.72 	$ 0.71
+Row:Diluted 	$ 0.51 $ 	0.71 	$ 0.69
+Row:Weighted-average shares outstanding
+			Row:Basic 	68,880 	71,785 	77,157
+Row:Diluted 	69,417 	72,937 	78,666
+Row:Dividends declared per share 	$ 0.80 $ 	0.80 	$ 0.80
+Row:Other comprehensive loss
+			Row:Foreign currency translation 	$ (22,516) $ 	(77,929) 	$ (12,683)
+Row:Derivative financial instruments, net of tax 	(8,523) 	15,266 	5,054
+Row:Other comprehensive loss 	(31,039) 	(62,663) 	(7,629)
+Row:Comprehensive income (loss) 	7,520 	(10,842) 	46,999
+Row:Less: Comprehensive income attributable to noncontrolling interests 	2,983 	— 	—
+Row:Comprehensive income (loss) attributable to A&F 	$ 4,537 $ 	(10,842) 	$ 46,999
+Row:2015 	2014 	2013
+Row:$ 3,518,680 	$ 3,744,030 	$ 4,116,897
+Row:1,361,137 	1,430,460 	1,541,462
+Row:2,157,543 	2,313,570 	2,575,435
+Row:1,604,214 	1,703,051 	1,907,687
+Row:470,321 	458,820 	481,784
+Row:(1,598) 	8,431 	81,500
+Row:18,209 	44,988 	46,715
+Row:(6,441) 	(15,239) 	(23,074)
+Row:72,838 	113,519 	80,823
+Row:18,248 	14,365 	7,546
+Row:54,590 	99,154 	73,277
+Row:16,031 	47,333 	18,649
+Row:38,559 	51,821 	54,628
+Row:2,983 	— 	—
+Row:$ 35,576 	$ 51,821 	$ 54,628
+Row:$ 	0.52 	$ 	0.72 $ 	0.71
+Row:$ 	0.51 	$ 	0.71 $ 	0.69
+Row:(8,523) 		15,266 	5,054
+Row:(31,039) 		(62,663) 	(7,629)
+Row:7,520 		(10,842) 	46,999
+Row:2,983 		— 	—
+Row:$ 4,537 	$ 	(10,842) 	$ 46,999
+Row:Inventories, net 	436,701 	460,794
+Row:Deferred income taxes, net 	— 	13,986
+Row:Other current assets 	96,833 	116,574
+Row:Total current assets 	1,178,980 	1,164,972
+Row:Property and equipment, net 	894,178 	967,001
+Row:Other assets 	359,881 	373,194
+Row:Total assets 	$ 2,433,039 	$ 2,505,167
+Row:Liabilities and stockholders' equity
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 184,175 	$ 141,685
+Row:Accrued expenses 	321,237 	282,736
+Row:Short-term portion of deferred lease credits 	23,303 	26,629
+Row:Income taxes payable 	5,988 	32,804
+Row:Short-term portion of borrowings, net 	— 	2,102
+Row:Total current liabilities 	534,703 	485,956
+Row:Long-term liabilities:
+		Row:Long-term portion of deferred lease credits 	89,256 	106,393
+Row:Long-term portion of borrowings, net 	286,235 	291,310
+Row:Leasehold financing obligations 	47,440 	50,521
+Row:Other liabilities 	179,683 	181,286
+Row:Total long-term liabilities 	602,614 	629,510
+Row:Stockholders' equity
+		Row:Class A Common Stock - $0.01 par value: 150,000 shares authorized and 103,300 shares issued at each of
+January 30, 2016 and January 31, 2015 	1,033 	1,033
+Row:Paid-in capital 	407,029 	434,137
+Row:Retained earnings 	2,530,196 	2,550,673
+Row:Accumulated other comprehensive loss, net of tax 	(114,619) 	(83,580)
+Row:Treasury stock, at average cost: 35,952 and 33,948 shares at January 30, 2016 and January 31, 2015,
+respectively 	(1,532,576) 	(1,512,562)
+Row:Total Abercrombie & Fitch Co. stockholders' equity 	1,291,063 	1,389,701
+Row:Noncontrolling interests 	4,659 	—
+Row:Total stockholders' equity 	1,295,722 	1,389,701
+Row:Total liabilities and stockholders' equity 	$ 2,433,039 	$ 2,505,167
+Row:(1,532,576) 		(1,512,562)
+Row:1,291,063 		1,389,701
+Row:4,659 		—
+Row:1,295,722 		1,389,701
+Row:$ 2,433,039 	$ 	2,505,167
+Row:Operating activities
+			Row:Net income 	$ 38,559 	$ 51,821 	$ 54,628
+Row:Adjustments to reconcile net income to net cash provided by operating activities
+			Row:Depreciation and amortization 	213,680 	226,421 	235,240
+Row:Asset impairment 	18,209 	47,084 	84,655
+Row:Loss on disposal 	11,082 	5,794 	16,909
+Row:Amortization of deferred lease credits 	(28,619) 	(38,437) 	(45,895)
+Row:Provision for (Benefit from) deferred income taxes 	7,469 	1,676 	(41,263)
+Row:Share-based compensation 	28,359 	23,027 	53,516
+Row:Changes in assets and liabilities
+			Row:Inventories, net 	21,253 	62,854 	(103,304)
+Row:Accounts payable and accrued expenses 	51,050 	(37,394) 	(73,749)
+Row:Lessor construction allowances 	11,082 	13,182 	20,523
+Row:Income taxes 	(45,027) 	(34,659) 	(55,456)
+Row:Other assets 	7,967 	6,888 	44,138
+Row:Other liabilities 	(25,123) 	(15,777) 	(14,449)
+Row:Net cash provided by operating activities 	309,941 	312,480 	175,493
+Row:Investing activities
+			Row:Purchases of property and equipment 	(143,199) 	(174,624) 	(163,924)
+Row:Proceeds from sale of property and equipment 	11,109 	— 	—
+Row:Other investing activities 	9,523 	(450) 	(9,937)
+Row:Net cash used for investing activities 	(122,567) 	(175,074) 	(173,861)
+Row:Financing activities
+			Row:Purchase of treasury stock 	(50,033) 	(285,038) 	(115,806)
+Row:Repayments of borrowings 	(6,000) 	(195,750) 	(15,000)
+Row:Proceeds from borrowings 	— 	357,000 	150,000
+Row:Other financing activities 	4,303 	(303) 	1,898
+Row:Dividends paid 	(55,145) 	(57,362) 	(61,923)
+Row:Net cash used for financing activities 	(106,875) 	(181,453) 	(40,831)
+Row:Effect of exchange rates on cash 	(12,629) 	(35,361) 	(4,190)
+Row:Net increase (decrease) in cash and equivalents 	67,870 	(79,408) 	(43,389)
+Row:Cash and equivalents, beginning of period 	520,708 	600,116 	643,505
+Row:Cash and equivalents, end of period 	$ 588,578 	$ 520,708 	$ 600,116
+Row:Significant non-cash investing activities
+			Row:Change in accrual for construction in progress 	$ 12,859 	$ 6,525 	$ 10,820
+Row:Supplemental information
+			Row:Cash paid for interest 	$ 16,060 	$ 18,609 	$ 4,565
+Row:Cash paid for income taxes, net of refunds 	$ 48,702 	$ 74,685 	$ 116,312
+Row:	2015 	2014 	2013
+Row:Net sales $ 	3,518,680 	$ 3,744,030 	$ 4,116,897
+Row:Cost of sales, exclusive of depreciation and amortization 	1,361,137 	1,430,460 	1,541,462
+Row:Gross profit 	2,157,543 	2,313,570 	2,575,435
+Row:Stores and distribution expense 	1,604,214 	1,703,051 	1,907,687
+Row:Marketing, general and administrative expense 	470,321 	458,820 	481,784
+Row:Restructuring (benefit) charge 	(1,598) 	8,431 	81,500
+Row:Asset impairment 	18,209 	44,988 	46,715
+Row:Other operating income, net 	(6,441) 	(15,239) 	(23,074)
+Row:Operating income 	72,838 	113,519 	80,823
+Row:Interest expense, net 	18,248 	14,365 	7,546
+Row:Income before taxes 	54,590 	99,154 	73,277
+Row:Income tax expense 	16,031 	47,333 	18,649
+Row:Net income 	38,559 	51,821 	54,628
+Row:Less: Net income attributable to noncontrolling interests 	2,983 	— 	—
+Row:Net income attributable to A&F $ 	35,576 	$ 51,821 	$ 54,628
+Row:Net income per share attributable to A&F
+			Row:Basic $ 	0.52 	$ 0.72 	$ 0.71
+Row:Diluted $ 	0.51 	$ 0.71 	$ 0.69
+Row:Weighted-average shares outstanding
+			Row:Basic 	68,880 	71,785 	77,157
+Row:Diluted 	69,417 	72,937 	78,666
+Row:Dividends declared per share $ 	0.80 	$ 0.80 	$ 0.80
+Row:Other comprehensive loss
+Foreign currency translation $ 	(22,516) 	$ (77,929) 	$ (12,683)
+Row:Derivative financial instruments, net of tax 	(8,523) 	15,266 	5,054
+Row:Other comprehensive loss 	(31,039) 	(62,663) 	(7,629)
+Row:Comprehensive income (loss) Less: Comprehensive income attributable to noncontrolling interests Comprehensive income (loss) attributable to A&F $ 	7,520 2,983 4,537 	(10,842) — $ (10,842) 	46,999
+—
+$ 46,999
+Row:The accompanying Notes are an integral part of these 	Consolidated Financial 	Statements.
+	Row:Other comprehensive loss
+		Row:Foreign currency translation 	$ (22,516) $ (77,929) 	$ (12,683)
+Row:Derivative financial instruments, net of tax 	(8,523) 15,266 	5,054
+Row:Other comprehensive loss 	(31,039) (62,663) 	(7,629)
+Row:Comprehensive income (loss) 	7,520 (10,842) 	46,999
+Row:Less: Comprehensive income attributable to noncontrolling interests 	2,983 — 	—
+Row:Comprehensive income (loss) attributable to A&F 	$ 4,537 $ (10,842) 	$ 46,999
+Row:Current assets:
+		Row:Cash and equivalents $ 	588,578 $ 	520,708
+Row:Receivables 	56,868 	52,910
+Row:Inventories, net 	436,701 	460,794
+Row:Deferred income taxes, net 	— 	13,986
+Row:Other current assets 	96,833 	116,574
+Row:Total current assets 	1,178,980 	1,164,972
+Row:Property and equipment, net 	894,178 	967,001
+Row:Other assets 	359,881 	373,194
+Row:Total assets $ Liabilities and stockholders' equity
+	2,433,039 $ 	2,505,167
+Row:Current liabilities:
+		Row:Accounts payable $ 	184,175 $ 	141,685
+Row:Accrued expenses 	321,237 	282,736
+Row:Short-term portion of deferred lease credits 	23,303 	26,629
+Row:Income taxes payable 	5,988 	32,804
+Row:Short-term portion of borrowings, net 	— 	2,102
+Row:Total current liabilities Long-term liabilities:
+Long-term portion of deferred lease credits 	534,703 89,256 	485,956
+106,393
+Row:Long-term portion of borrowings, net 	286,235 	291,310
+Row:Leasehold financing obligations 	47,440 	50,521
+Row:Other liabilities 	179,683 	181,286
+Row:Total long-term liabilities 	602,614 	629,510
+Row:Stockholders' equity
+		Row:Class A Common Stock - $0.01 par value: 150,000 shares authorized and 103,300 shares issued at each of
+January 30, 2016 and January 31, 2015 	1,033 	1,033
+Row:Paid-in capital 	407,029 	434,137
+Row:Retained earnings 	2,530,196 	2,550,673
+Row:Accumulated other comprehensive loss, net of tax 	(114,619) 	(83,580)
+Row:Treasury stock, at average cost: 35,952 and 33,948 shares at January 30, 2016 and January 31, 2015,
+respectively 	(1,532,576) 	(1,512,562)
+Row:Total Abercrombie & Fitch Co. stockholders' equity 	1,291,063 	1,389,701
+Row:Noncontrolling interests 	4,659 	—
+Row:Total stockholders' equity 	1,295,722 	1,389,701
+Row:Total liabilities and stockholders' equity $ 	2,433,039 $ 	2,505,167
+Row:The accompanying Notes are an integral part of these Consolidated Financial 	Statements.
+	Row:Stockholders' equity
+Class A Common Stock - $0.01 par value: 150,000 shares authorized and 103,300 shares issued at each of
+		Row:January 30, 2016 and January 31, 2015 	1,033 	1,033
+Row:Paid-in capital 	407,029 	434,137
+Row:Retained earnings 	2,530,196 	2,550,673
+Row:Accumulated other comprehensive loss, net of tax 	(114,619) 	(83,580)
+Row:Treasury stock, at average cost: 35,952 and 33,948 shares at January 30, 2016 and January 31, 2015,
+respectively 	(1,532,576) 	(1,512,562)
+Row:Total Abercrombie & Fitch Co. stockholders' equity 	1,291,063 	1,389,701
+Row:Noncontrolling interests 	4,659 	—
+Row:Total stockholders' equity 	1,295,722 	1,389,701
+Row:Total liabilities and stockholders' equity $ 	2,433,039 	$ 2,505,167
+Row:Operating 	2015 activities
+	2014 	2013
+Row:Net 	income $ 38,559 	$ 51,821 	$ 54,628
+Row:	Adjustments to reconcile net income to net cash provided by operating activities
+Depreciation and amortization 213,680 Asset impairment 18,209 	226,421 47,084 	235,240
+84,655
+Row:	Loss on disposal 11,082 Amortization of deferred lease credits (28,619) 	5,794 (38,437) 	16,909
+(45,895)
+Row:	Provision for (Benefit from) deferred income taxes 7,469 	1,676 	(41,263)
+Row:	Share-based compensation 28,359 	23,027 	53,516
+Row:Changes 	in assets and liabilities
+Inventories, net 21,253 	62,854 	(103,304)
+Row:	Accounts payable and accrued expenses 51,050 	(37,394) 	(73,749)
+Row:	Lessor construction allowances 11,082 	13,182 	20,523
+Row:	Income taxes (45,027) 	(34,659) 	(55,456)
+Row:	Other assets 7,967 	6,888 	44,138
+Row:	Other liabilities (25,123) 	(15,777) 	(14,449)
+Row:Net cash 	provided by operating activities 309,941 	312,480 	175,493
+Row:Investing 	activities
+		Row:Proceeds Other 	Purchases of property and equipment (143,199) from sale of property and equipment 11,109 investing activities 9,523 	(174,624) — (450) 	(163,924)
+—
+(9,937)
+Row:Net cash Financing Purchase 	used for investing activities (122,567) activities
+of treasury stock (50,033) Repayments of borrowings (6,000) 	(175,074) (285,038) (195,750) 	(173,861)
+(115,806)
+(15,000)
+Row:Proceeds 	from borrowings — 	357,000 	150,000
+Row:Other 	financing activities 4,303 Dividends paid (55,145) 	(303) (57,362) 	1,898
+(61,923)
+Row:Net cash 	used for financing activities (106,875) 	(181,453) 	(40,831)
+Row:Effect of Net increase Cash and Cash and 	exchange rates on cash (12,629) (decrease) in cash and equivalents 67,870 equivalents, beginning of period 520,708 equivalents, end of period $ 588,578 	(35,361) (79,408) 600,116 $ 520,708 	(4,190)
+(43,389)
+643,505
+$ 600,116
+Row:Significant Change 	non-cash investing activities
+in accrual for construction in progress $ 12,859 	$ 6,525 	$ 10,820
+Row:Supplemental 	information
+		Row:Cash Cash 	paid for interest $ 16,060 paid for income taxes, net of refunds $ 48,702 The accompanying Notes are an integral part of these Consolidated Financial 	$ 18,609 $ 74,685 Statements.
+	$ 4,565
+$ 116,312

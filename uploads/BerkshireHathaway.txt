@@ -1,0 +1,945 @@
+Table 0: Header Row 0: ASSETS
+		Row 0: Insurance and Other:
+		Row 1: Cash and cash equivalents* 	$ 61,151 	$ 27,749
+Row 2: Short-term investments in U.S. Treasury Bills 	63,822 	81,506
+Row 3: Investments in fixed maturity securities 	18,685 	19,898
+Row 4: Investments in equity securities 	248,027 	172,757
+Row 5: Equity method investments 	17,505 	17,325
+Row 6: Loans and finance receivables 	17,527 	16,280
+Row 7: Other receivables 	32,418 	31,564
+Row 8: Inventories 	19,852 	19,069
+Row 9: Property, plant and equipment 	21,438 	20,628
+Row 10: Equipment held for lease 	15,065 	14,298
+Row 11: Goodwill 	57,052 	56,323
+Row 12: Other intangible assets 	31,051 	31,499
+Row 13: Deferred charges under retroactive reinsurance contracts 	13,747 	14,104
+Row 14: Other 	13,232 	9,307
+Row 15: 	630,572 	532,307
+Row 16: Railroad, Utilities and Energy:
+		Row 17: Cash and cash equivalents* 	3,024 	2,612
+Row 18: Receivables 	3,417 	3,666
+Row 19: Property, plant and equipment 	137,838 	131,780
+Row 20: Goodwill 	24,830 	24,702
+Row 21: Regulatory assets 	2,881 	3,067
+Row 22: Other 	15,167 	9,660
+Row 23: 	187,157 	175,487
+Row 24: 	$ 817,729 	$ 707,794
+Table 0: Header Row 0: 	2019 	2018
+Row 0: LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row 1: Insurance and Other:
+		Row 2: Unpaid losses and loss adjustment expenses $ 	73,019 	$ 68,458
+Row 3: Unpaid losses and loss adjustment expenses under retroactive reinsurance contracts 	42,441 	41,834
+Row 4: Unearned premiums 	19,782 	18,093
+Row 5: Life, annuity and health insurance benefits 	20,155 	18,632
+Row 6: Other policyholder liabilities 	7,723 	7,675
+Row 7: Accounts payable, accruals and other liabilities 	27,611 	25,776
+Row 8: Derivative contract liabilities 	968 	2,452
+Row 9: Aircraft repurchase liabilities and unearned lease revenues 	5,281 	4,593
+Row 10: Notes payable and other borrowings 	37,590 	34,975
+Row 11: 	234,570 	222,488
+Row 12: Railroad, Utilities and Energy:
+		Row 13: Accounts payable, accruals and other liabilities 	14,708 	11,410
+Row 14: Regulatory liabilities 	7,311 	7,506
+Row 15: Notes payable and other borrowings 	65,778 	62,515
+Row 16: 	87,797 	81,431
+Row 17: Income taxes, principally deferred 	66,799 	51,375
+Row 18: Total liabilities 	389,166 	355,294
+Row 19: Shareholders’ equity:
+		Row 20: Common stock 	8 	8
+Row 21: Capital in excess of par value 	35,658 	35,707
+Row 22: Accumulated other comprehensive income 	(5,243) 	(5,015)
+Row 23: Retained earnings 	402,493 	321,112
+Row 24: Treasury stock, at cost 	(8,125) 	(3,109)
+Row 25: Berkshire Hathaway shareholders’ equity 	424,791 	348,703
+Row 26: Noncontrolling interests 	3,772 	3,797
+Row 27: Total shareholders’ equity 	428,563 	352,500
+Row 28: $ 	817,729 	$ 707,794
+Table 0: Header Row 0: 	2019 	2018 	2017
+Row 0: Revenues:
+			Row 1: Insurance and Other:
+			Row 2: Insurance premiums earned 	$ 61,078 	$ 57,418 	$ 60,597
+Row 3: Sales and service revenues 	134,989 	133,336 	130,343
+Row 4: Leasing revenues 	5,856 	5,732 	2,452
+Row 5: Interest, dividend and other investment income 	9,240 	7,678 	6,536
+Row 6: Railroad, Utilities and Energy:
+	211,163 	204,164 	199,928
+Row 7: Freight rail transportation revenues 	23,357 	23,703 	21,080
+Row 8: Energy operating revenues 	15,353 	15,555 	15,155
+Row 9: Service revenues and other income 	4,743 	4,415 	3,770
+Row 10: Total revenues 	43,453 254,616 	43,673 247,837 	40,005
+239,933
+Row 11: Investment and derivative contract gains (losses):
+			Row 12: Investment gains (losses) 	71,123 	(22,155) 	1,410
+Row 13: Derivative contract gains (losses) 	1,484 	(300) 	718
+Row 14: 	72,607 	(22,455) 	2,128
+Row 15: Costs and expenses:
+			Row 16: Insurance and Other:
+			Row 17: Insurance losses and loss adjustment expenses 	44,456 	39,906 	48,891
+Row 18: Life, annuity and health insurance benefits 	4,986 	5,699 	5,618
+Row 19: Insurance underwriting expenses 	11,200 	9,793 	9,321
+Row 20: Cost of sales and services 	107,041 	106,083 	104,343
+Row 21: Cost of leasing 	4,003 	4,061 	1,455
+Row 22: Selling, general and administrative expenses 	19,322 	18,238 	19,189
+Row 23: Interest expense 	1,056 	1,035 	1,132
+Row 24: Railroad, Utilities and Energy:
+	192,064 	184,815 	189,949
+Row 25: Freight rail transportation expenses 	15,436 	16,045 	14,031
+Row 26: Utilities and energy cost of sales and other expenses 	11,296 	11,641 	10,772
+Row 27: Other expenses 	4,002 	3,895 	3,231
+Row 28: Interest expense 	2,905 33,639 	2,818 34,399 	3,254
+31,288
+Row 29: Total costs and expenses 	225,703 	219,214 	221,237
+Row 30: Earnings before income taxes and equity method earnings (losses) 	101,520 	6,168 	20,824
+Row 31: Equity method earnings (losses) 	1,176 	(2,167) 	3,014
+Row 32: Earnings before income taxes 	102,696 	4,001 	23,838
+Row 33: Income tax expense (benefit) 	20,904 	(321) 	(21,515)
+Row 34: Net earnings 	81,792 	4,322 	45,353
+Row 35: Earnings attributable to noncontrolling interests 	375 	301 	413
+Row 36: Net earnings attributable to Berkshire Hathaway shareholders 	$ 81,417 	$ 4,021 	$ 44,940
+Row 37: Net earnings per average equivalent Class A share 	$ 49,828 	$ 2,446 	$ 27,326
+Row 38: Net earnings per average equivalent Class B share* 	$ 33.22 	$ 1.63 	$ 18.22
+Row 39: Average equivalent Class A shares outstanding 	1,633,946 	1,643,795 	1,644,615
+Row 40: Average equivalent Class B shares outstanding 	2,450,919,020 	2,465,692,368 	2,466,923,163
+Table 0: Header Row 0: 	2019 	2018 	2017
+Row 0: Net earnings 	$ 81,792 	$ 4,322 	$ 45,353
+Row 1: Other comprehensive income:
+			Row 2: Net change in unrealized appreciation of investments 	204 	(185) 	30,450
+Row 3: Applicable income taxes 	(44) 	31 	(10,566)
+Row 4: Reclassification of investment appreciation in net earnings 	(62) 	(253) 	(1,399)
+Row 5: Applicable income taxes 	13 	53 	490
+Row 6: Foreign currency translation 	323 	(1,531) 	2,364
+Row 7: Applicable income taxes 	(28) 	62 	(95)
+Row 8: Prior service cost and actuarial gains/losses of defined benefit pension plans 	(711) 	(571) 	225
+Row 9: Applicable income taxes 	155 	143 	(45)
+Row 10: Other, net 	(48) 	(12) 	(9)
+Row 11: Other comprehensive income, net 	(198) 	(2,263) 	21,415
+Row 12: Comprehensive income 	81,594 	2,059 	66,768
+Row 13: Comprehensive income attributable to noncontrolling interests 	405 	249 	555
+Row 14: Comprehensive income attributable to Berkshire Hathaway shareholders 	$ 81,189 	$ 1,810 	$ 66,213
+Table 1: Header Row 0: 	excess of
+par value
+	comprehensive
+income
+	Retained
+earnings
+	Treasury
+stock
+	controlling
+interests Total
+Row 0: Balance December 31, 2016 	$ 35,689 	$ 37,298 	$210,846 	$ (1,763) 	$ 3,358 $285,428
+Row 1: Net earnings 	— 	— 	44,940 	— 	413 45,353
+Row 2: Other comprehensive income, net 	— 	21,273 	— 	— 	142 21,415
+Row 3: Issuance of common stock 	76 	— 	— 	— 	— 76
+Row 4: Transactions with noncontrolling interests 	(63) 	— 	— 	— 	(255) (318)
+Row 5: Balance December 31, 2017 	35,702 	58,571 	255,786 	(1,763) 	3,658 351,954
+Row 6: Adoption of new accounting pronouncements 	— 	(61,375) 	61,305 	— 	— (70)
+Row 7: Net earnings 	— 	— 	4,021 	— 	301 4,322
+Row 8: Other comprehensive income, net 	— 	(2,211) 	— 	— 	(52) (2,263)
+Row 9: Issuance (acquisition) of common stock 	59 	— 	— 	(1,346) 	— (1,287)
+Row 10: Transactions with noncontrolling interests 	(46) 	— 	— 	— 	(110) (156)
+Row 11: Balance December 31, 2018 	35,715 	(5,015) 	321,112 	(3,109) 	3,797 352,500
+Row 12: Net earnings 			81,417 		375 81,792
+Row 13: Other comprehensive income, net 		(228) 			30 (198)
+Row 14: Issuance (acquisition) of common stock 	21 			(5,016) 	(4,995)
+Row 15: Transactions with noncontrolling interests 	(70) 		(36) 		(430) (536)
+Row 16: Balance December 31, 2019 	$ 35,666 	$ (5,243) 	$402,493 	$ (8,125) 	$ 3,772 $428,563
+Table 0: Header Row 0: 	2019 	2018 	2017
+Row 0: Cash flows from operating activities:
+			Row 1: Net earnings 	$ 81,792 	$ 4,322 	$ 45,353
+Row 2: Adjustments to reconcile net earnings to operating cash flows:
+			Row 3: Investment gains/losses 	(71,123) 	22,155 	(1,410)
+Row 4: Depreciation and amortization 	10,064 	9,779 	9,188
+Row 5: Other 	(1,254) 	2,957 	458
+Row 6: Changes in operating assets and liabilities:
+			Row 7: Losses and loss adjustment expenses 	6,087 	3,449 	25,027
+Row 8: Deferred charges reinsurance assumed 	357 	1,174 	(7,231)
+Row 9: Unearned premiums 	1,707 	1,794 	1,761
+Row 10: Receivables and originated loans 	(2,303) 	(3,443) 	(1,990)
+Row 11: Other assets 	(2,011) 	(1,832) 	(1,665)
+Row 12: Other liabilities 	190 	2,002 	1,194
+Row 13: Income taxes 	15,181 	(4,957) 	(24,957)
+Row 14: Net cash flows from operating activities 	38,687 	37,400 	45,728
+Row 15: Cash flows from investing activities:
+			Row 16: Purchases of equity securities 	(18,642) 	(43,210) 	(20,326)
+Row 17: Sales and redemptions of equity securities 	14,336 	18,783 	19,512
+Row 18: Purchases of U.S. Treasury Bills and fixed maturity securities 	(136,123) 	(141,844) 	(158,492)
+Row 19: Sales of U.S. Treasury Bills and fixed maturity securities 	15,929 	39,693 	49,327
+Row 20: Redemptions and maturities of U.S. Treasury Bills and fixed maturity securities 	137,767 	113,045 	86,727
+Row 21: Purchases of loans and finance receivables 	(75) 	(1,771) 	(1,435)
+Row 22: Collections of loans and finance receivables 	345 	342 	1,702
+Row 23: Acquisitions of businesses, net of cash acquired 	(1,683) 	(3,279) 	(2,708)
+Row 24: Purchases of property, plant and equipment and equipment held for lease 	(15,979) 	(14,537) 	(11,708)
+Row 25: Other 	(1,496) 	(71) 	(3,608)
+Row 26: Net cash flows from investing activities 	(5,621) 	(32,849) 	(41,009)
+Row 27: Cash flows from financing activities:
+Proceeds from borrowings of insurance and other businesses 	8,144 	2,409 	2,645
+Row 28: Repayments of borrowings of insurance and other businesses 	(5,095) 	(7,395) 	(5,465)
+Row 29: Proceeds from borrowings of railroad, utilities and energy businesses 	5,400 	7,019 	3,013
+Row 30: Repayments of borrowings of railroad, utilities and energy businesses 	(2,638) 	(4,213) 	(3,549)
+Row 31: Changes in short term borrowings, net 	266 	(1,943) 	2,079
+Row 32: Acquisition of treasury stock 	(4,850) 	(1,346) 	—
+Row 33: Other 	(497) 	(343) 	(121)
+Row 34: Net cash flows from financing activities 	730 	(5,812) 	(1,398)
+Row 35: Effects of foreign currency exchange rate changes 	25 	(140) 	248
+Row 36: Increase (decrease) in cash and cash equivalents and restricted cash 	33,821 	(1,401) 	3,569
+Row 37: Cash and cash equivalents and restricted cash at beginning of year 	30,811 	32,212 	28,643
+Row 38: Cash and cash equivalents and restricted cash at end of year * 	$ 64,632 	$ 30,811 	$ 32,212
+Row 39: * Cash and cash equivalents and restricted cash at end of year are comprised of
+the following:
+			Row 40: Insurance and Other 	$ 61,151 	$ 27,749 	$ 28,673
+Row 41: Railroad, Utilities and Energy 	3,024 	2,612 	2,910
+Row 42: Restricted cash, included in other assets 	457 $ 64,632 	450 $ 30,811 	629
+$ 32,212
+Table 0: Header Row 0: ASSETS
+		Row 0: Insurance and Other:
+		Row 1: Cash and cash equivalents* 	$ 61,151 	$ 27,749
+Row 2: Short-term investments in U.S. Treasury Bills 	63,822 	81,506
+Row 3: Investments in fixed maturity securities 	18,685 	19,898
+Row 4: Investments in equity securities 	248,027 	172,757
+Row 5: Equity method investments 	17,505 	17,325
+Row 6: Loans and finance receivables 	17,527 	16,280
+Row 7: Other receivables 	32,418 	31,564
+Row 8: Inventories 	19,852 	19,069
+Row 9: Property, plant and equipment 	21,438 	20,628
+Row 10: Equipment held for lease 	15,065 	14,298
+Row 11: Goodwill 	57,052 	56,323
+Row 12: Other intangible assets 	31,051 	31,499
+Row 13: Deferred charges under retroactive reinsurance contracts 	13,747 	14,104
+Row 14: Other 	13,232 	9,307
+Row 15: 	630,572 	532,307
+Row 16: Railroad, Utilities and Energy:
+		Row 17: Cash and cash equivalents* 	3,024 	2,612
+Row 18: Receivables 	3,417 	3,666
+Row 19: Property, plant and equipment 	137,838 	131,780
+Row 20: Goodwill 	24,830 	24,702
+Row 21: Regulatory assets 	2,881 	3,067
+Row 22: Other 	15,167 	9,660
+Row 23: 	187,157 	175,487
+Row 24: 	$ 817,729 	$ 707,794
+Table 0: Header Row 0: 	2019 	2018
+Row 0: LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row 1: Insurance and Other:
+		Row 2: Unpaid losses and loss adjustment expenses $ 	73,019 	$ 68,458
+Row 3: Unpaid losses and loss adjustment expenses under retroactive reinsurance contracts 	42,441 	41,834
+Row 4: Unearned premiums 	19,782 	18,093
+Row 5: Life, annuity and health insurance benefits 	20,155 	18,632
+Row 6: Other policyholder liabilities 	7,723 	7,675
+Row 7: Accounts payable, accruals and other liabilities 	27,611 	25,776
+Row 8: Derivative contract liabilities 	968 	2,452
+Row 9: Aircraft repurchase liabilities and unearned lease revenues 	5,281 	4,593
+Row 10: Notes payable and other borrowings 	37,590 	34,975
+Row 11: 	234,570 	222,488
+Row 12: Railroad, Utilities and Energy:
+		Row 13: Accounts payable, accruals and other liabilities 	14,708 	11,410
+Row 14: Regulatory liabilities 	7,311 	7,506
+Row 15: Notes payable and other borrowings 	65,778 	62,515
+Row 16: 	87,797 	81,431
+Row 17: Income taxes, principally deferred 	66,799 	51,375
+Row 18: Total liabilities 	389,166 	355,294
+Row 19: Shareholders’ equity:
+		Row 20: Common stock 	8 	8
+Row 21: Capital in excess of par value 	35,658 	35,707
+Row 22: Accumulated other comprehensive income 	(5,243) 	(5,015)
+Row 23: Retained earnings 	402,493 	321,112
+Row 24: Treasury stock, at cost 	(8,125) 	(3,109)
+Row 25: Berkshire Hathaway shareholders’ equity 	424,791 	348,703
+Row 26: Noncontrolling interests 	3,772 	3,797
+Row 27: Total shareholders’ equity 	428,563 	352,500
+Row 28: $ 	817,729 	$ 707,794
+Table 0: Header Row 0: 	2019 	2018 	2017
+Row 0: Revenues:
+			Row 1: Insurance and Other:
+			Row 2: Insurance premiums earned 	$ 61,078 	$ 57,418 	$ 60,597
+Row 3: Sales and service revenues 	134,989 	133,336 	130,343
+Row 4: Leasing revenues 	5,856 	5,732 	2,452
+Row 5: Interest, dividend and other investment income 	9,240 	7,678 	6,536
+Row 6: Railroad, Utilities and Energy:
+	211,163 	204,164 	199,928
+Row 7: Freight rail transportation revenues 	23,357 	23,703 	21,080
+Row 8: Energy operating revenues 	15,353 	15,555 	15,155
+Row 9: Service revenues and other income 	4,743 	4,415 	3,770
+Row 10: Total revenues 	43,453 254,616 	43,673 247,837 	40,005
+239,933
+Row 11: Investment and derivative contract gains (losses):
+			Row 12: Investment gains (losses) 	71,123 	(22,155) 	1,410
+Row 13: Derivative contract gains (losses) 	1,484 	(300) 	718
+Row 14: 	72,607 	(22,455) 	2,128
+Row 15: Costs and expenses:
+			Row 16: Insurance and Other:
+			Row 17: Insurance losses and loss adjustment expenses 	44,456 	39,906 	48,891
+Row 18: Life, annuity and health insurance benefits 	4,986 	5,699 	5,618
+Row 19: Insurance underwriting expenses 	11,200 	9,793 	9,321
+Row 20: Cost of sales and services 	107,041 	106,083 	104,343
+Row 21: Cost of leasing 	4,003 	4,061 	1,455
+Row 22: Selling, general and administrative expenses 	19,322 	18,238 	19,189
+Row 23: Interest expense 	1,056 	1,035 	1,132
+Row 24: Railroad, Utilities and Energy:
+	192,064 	184,815 	189,949
+Row 25: Freight rail transportation expenses 	15,436 	16,045 	14,031
+Row 26: Utilities and energy cost of sales and other expenses 	11,296 	11,641 	10,772
+Row 27: Other expenses 	4,002 	3,895 	3,231
+Row 28: Interest expense 	2,905 33,639 	2,818 34,399 	3,254
+31,288
+Row 29: Total costs and expenses 	225,703 	219,214 	221,237
+Row 30: Earnings before income taxes and equity method earnings (losses) 	101,520 	6,168 	20,824
+Row 31: Equity method earnings (losses) 	1,176 	(2,167) 	3,014
+Row 32: Earnings before income taxes 	102,696 	4,001 	23,838
+Row 33: Income tax expense (benefit) 	20,904 	(321) 	(21,515)
+Row 34: Net earnings 	81,792 	4,322 	45,353
+Row 35: Earnings attributable to noncontrolling interests 	375 	301 	413
+Row 36: Net earnings attributable to Berkshire Hathaway shareholders 	$ 81,417 	$ 4,021 	$ 44,940
+Row 37: Net earnings per average equivalent Class A share 	$ 49,828 	$ 2,446 	$ 27,326
+Row 38: Net earnings per average equivalent Class B share* 	$ 33.22 	$ 1.63 	$ 18.22
+Row 39: Average equivalent Class A shares outstanding 	1,633,946 	1,643,795 	1,644,615
+Row 40: Average equivalent Class B shares outstanding 	2,450,919,020 	2,465,692,368 	2,466,923,163
+Table 0: Header Row 0: 	2019 	2018 	2017
+Row 0: Net earnings 	$ 81,792 	$ 4,322 	$ 45,353
+Row 1: Other comprehensive income:
+			Row 2: Net change in unrealized appreciation of investments 	204 	(185) 	30,450
+Row 3: Applicable income taxes 	(44) 	31 	(10,566)
+Row 4: Reclassification of investment appreciation in net earnings 	(62) 	(253) 	(1,399)
+Row 5: Applicable income taxes 	13 	53 	490
+Row 6: Foreign currency translation 	323 	(1,531) 	2,364
+Row 7: Applicable income taxes 	(28) 	62 	(95)
+Row 8: Prior service cost and actuarial gains/losses of defined benefit pension plans 	(711) 	(571) 	225
+Row 9: Applicable income taxes 	155 	143 	(45)
+Row 10: Other, net 	(48) 	(12) 	(9)
+Row 11: Other comprehensive income, net 	(198) 	(2,263) 	21,415
+Row 12: Comprehensive income 	81,594 	2,059 	66,768
+Row 13: Comprehensive income attributable to noncontrolling interests 	405 	249 	555
+Row 14: Comprehensive income attributable to Berkshire Hathaway shareholders 	$ 81,189 	$ 1,810 	$ 66,213
+Table 1: Header Row 0: 	excess of
+par value
+	comprehensive
+income
+	Retained
+earnings
+	Treasury
+stock
+	controlling
+interests Total
+Row 0: Balance December 31, 2016 	$ 35,689 	$ 37,298 	$210,846 	$ (1,763) 	$ 3,358 $285,428
+Row 1: Net earnings 	— 	— 	44,940 	— 	413 45,353
+Row 2: Other comprehensive income, net 	— 	21,273 	— 	— 	142 21,415
+Row 3: Issuance of common stock 	76 	— 	— 	— 	— 76
+Row 4: Transactions with noncontrolling interests 	(63) 	— 	— 	— 	(255) (318)
+Row 5: Balance December 31, 2017 	35,702 	58,571 	255,786 	(1,763) 	3,658 351,954
+Row 6: Adoption of new accounting pronouncements 	— 	(61,375) 	61,305 	— 	— (70)
+Row 7: Net earnings 	— 	— 	4,021 	— 	301 4,322
+Row 8: Other comprehensive income, net 	— 	(2,211) 	— 	— 	(52) (2,263)
+Row 9: Issuance (acquisition) of common stock 	59 	— 	— 	(1,346) 	— (1,287)
+Row 10: Transactions with noncontrolling interests 	(46) 	— 	— 	— 	(110) (156)
+Row 11: Balance December 31, 2018 	35,715 	(5,015) 	321,112 	(3,109) 	3,797 352,500
+Row 12: Net earnings 			81,417 		375 81,792
+Row 13: Other comprehensive income, net 		(228) 			30 (198)
+Row 14: Issuance (acquisition) of common stock 	21 			(5,016) 	(4,995)
+Row 15: Transactions with noncontrolling interests 	(70) 		(36) 		(430) (536)
+Row 16: Balance December 31, 2019 	$ 35,666 	$ (5,243) 	$402,493 	$ (8,125) 	$ 3,772 $428,563
+Table 0: Header Row 0: 	2019 	2018 	2017
+Row 0: Cash flows from operating activities:
+			Row 1: Net earnings 	$ 81,792 	$ 4,322 	$ 45,353
+Row 2: Adjustments to reconcile net earnings to operating cash flows:
+			Row 3: Investment gains/losses 	(71,123) 	22,155 	(1,410)
+Row 4: Depreciation and amortization 	10,064 	9,779 	9,188
+Row 5: Other 	(1,254) 	2,957 	458
+Row 6: Changes in operating assets and liabilities:
+			Row 7: Losses and loss adjustment expenses 	6,087 	3,449 	25,027
+Row 8: Deferred charges reinsurance assumed 	357 	1,174 	(7,231)
+Row 9: Unearned premiums 	1,707 	1,794 	1,761
+Row 10: Receivables and originated loans 	(2,303) 	(3,443) 	(1,990)
+Row 11: Other assets 	(2,011) 	(1,832) 	(1,665)
+Row 12: Other liabilities 	190 	2,002 	1,194
+Row 13: Income taxes 	15,181 	(4,957) 	(24,957)
+Row 14: Net cash flows from operating activities 	38,687 	37,400 	45,728
+Row 15: Cash flows from investing activities:
+			Row 16: Purchases of equity securities 	(18,642) 	(43,210) 	(20,326)
+Row 17: Sales and redemptions of equity securities 	14,336 	18,783 	19,512
+Row 18: Purchases of U.S. Treasury Bills and fixed maturity securities 	(136,123) 	(141,844) 	(158,492)
+Row 19: Sales of U.S. Treasury Bills and fixed maturity securities 	15,929 	39,693 	49,327
+Row 20: Redemptions and maturities of U.S. Treasury Bills and fixed maturity securities 	137,767 	113,045 	86,727
+Row 21: Purchases of loans and finance receivables 	(75) 	(1,771) 	(1,435)
+Row 22: Collections of loans and finance receivables 	345 	342 	1,702
+Row 23: Acquisitions of businesses, net of cash acquired 	(1,683) 	(3,279) 	(2,708)
+Row 24: Purchases of property, plant and equipment and equipment held for lease 	(15,979) 	(14,537) 	(11,708)
+Row 25: Other 	(1,496) 	(71) 	(3,608)
+Row 26: Net cash flows from investing activities 	(5,621) 	(32,849) 	(41,009)
+Row 27: Cash flows from financing activities:
+Proceeds from borrowings of insurance and other businesses 	8,144 	2,409 	2,645
+Row 28: Repayments of borrowings of insurance and other businesses 	(5,095) 	(7,395) 	(5,465)
+Row 29: Proceeds from borrowings of railroad, utilities and energy businesses 	5,400 	7,019 	3,013
+Row 30: Repayments of borrowings of railroad, utilities and energy businesses 	(2,638) 	(4,213) 	(3,549)
+Row 31: Changes in short term borrowings, net 	266 	(1,943) 	2,079
+Row 32: Acquisition of treasury stock 	(4,850) 	(1,346) 	—
+Row 33: Other 	(497) 	(343) 	(121)
+Row 34: Net cash flows from financing activities 	730 	(5,812) 	(1,398)
+Row 35: Effects of foreign currency exchange rate changes 	25 	(140) 	248
+Row 36: Increase (decrease) in cash and cash equivalents and restricted cash 	33,821 	(1,401) 	3,569
+Row 37: Cash and cash equivalents and restricted cash at beginning of year 	30,811 	32,212 	28,643
+Row 38: Cash and cash equivalents and restricted cash at end of year * 	$ 64,632 	$ 30,811 	$ 32,212
+Row 39: * Cash and cash equivalents and restricted cash at end of year are comprised of
+the following:
+			Row 40: Insurance and Other 	$ 61,151 	$ 27,749 	$ 28,673
+Row 41: Railroad, Utilities and Energy 	3,024 	2,612 	2,910
+Row 42: Restricted cash, included in other assets 	457 $ 64,632 	450 $ 30,811 	629
+$ 32,212
+Table 0: Header Row 0: ASSETS
+		Row 0: Insurance and Other:
+		Row 1: Cash and cash equivalents* 	$ 61,151 	$ 27,749
+Row 2: Short-term investments in U.S. Treasury Bills 	63,822 	81,506
+Row 3: Investments in fixed maturity securities 	18,685 	19,898
+Row 4: Investments in equity securities 	248,027 	172,757
+Row 5: Equity method investments 	17,505 	17,325
+Row 6: Loans and finance receivables 	17,527 	16,280
+Row 7: Other receivables 	32,418 	31,564
+Row 8: Inventories 	19,852 	19,069
+Row 9: Property, plant and equipment 	21,438 	20,628
+Row 10: Equipment held for lease 	15,065 	14,298
+Row 11: Goodwill 	57,052 	56,323
+Row 12: Other intangible assets 	31,051 	31,499
+Row 13: Deferred charges under retroactive reinsurance contracts 	13,747 	14,104
+Row 14: Other 	13,232 	9,307
+Row 15: 	630,572 	532,307
+Row 16: Railroad, Utilities and Energy:
+		Row 17: Cash and cash equivalents* 	3,024 	2,612
+Row 18: Receivables 	3,417 	3,666
+Row 19: Property, plant and equipment 	137,838 	131,780
+Row 20: Goodwill 	24,830 	24,702
+Row 21: Regulatory assets 	2,881 	3,067
+Row 22: Other 	15,167 	9,660
+Row 23: 	187,157 	175,487
+Row 24: 	$ 817,729 	$ 707,794
+Table 0: Header Row 0: 	2019 	2018
+Row 0: LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row 1: Insurance and Other:
+		Row 2: Unpaid losses and loss adjustment expenses $ 	73,019 	$ 68,458
+Row 3: Unpaid losses and loss adjustment expenses under retroactive reinsurance contracts 	42,441 	41,834
+Row 4: Unearned premiums 	19,782 	18,093
+Row 5: Life, annuity and health insurance benefits 	20,155 	18,632
+Row 6: Other policyholder liabilities 	7,723 	7,675
+Row 7: Accounts payable, accruals and other liabilities 	27,611 	25,776
+Row 8: Derivative contract liabilities 	968 	2,452
+Row 9: Aircraft repurchase liabilities and unearned lease revenues 	5,281 	4,593
+Row 10: Notes payable and other borrowings 	37,590 	34,975
+Row 11: 	234,570 	222,488
+Row 12: Railroad, Utilities and Energy:
+		Row 13: Accounts payable, accruals and other liabilities 	14,708 	11,410
+Row 14: Regulatory liabilities 	7,311 	7,506
+Row 15: Notes payable and other borrowings 	65,778 	62,515
+Row 16: 	87,797 	81,431
+Row 17: Income taxes, principally deferred 	66,799 	51,375
+Row 18: Total liabilities 	389,166 	355,294
+Row 19: Shareholders’ equity:
+		Row 20: Common stock 	8 	8
+Row 21: Capital in excess of par value 	35,658 	35,707
+Row 22: Accumulated other comprehensive income 	(5,243) 	(5,015)
+Row 23: Retained earnings 	402,493 	321,112
+Row 24: Treasury stock, at cost 	(8,125) 	(3,109)
+Row 25: Berkshire Hathaway shareholders’ equity 	424,791 	348,703
+Row 26: Noncontrolling interests 	3,772 	3,797
+Row 27: Total shareholders’ equity 	428,563 	352,500
+Row 28: $ 	817,729 	$ 707,794
+Table 0: Header Row 0: 	2019 	2018 	2017
+Row 0: Revenues:
+			Row 1: Insurance and Other:
+			Row 2: Insurance premiums earned 	$ 61,078 	$ 57,418 	$ 60,597
+Row 3: Sales and service revenues 	134,989 	133,336 	130,343
+Row 4: Leasing revenues 	5,856 	5,732 	2,452
+Row 5: Interest, dividend and other investment income 	9,240 	7,678 	6,536
+Row 6: Railroad, Utilities and Energy:
+	211,163 	204,164 	199,928
+Row 7: Freight rail transportation revenues 	23,357 	23,703 	21,080
+Row 8: Energy operating revenues 	15,353 	15,555 	15,155
+Row 9: Service revenues and other income 	4,743 	4,415 	3,770
+Row 10: Total revenues 	43,453 254,616 	43,673 247,837 	40,005
+239,933
+Row 11: Investment and derivative contract gains (losses):
+			Row 12: Investment gains (losses) 	71,123 	(22,155) 	1,410
+Row 13: Derivative contract gains (losses) 	1,484 	(300) 	718
+Row 14: 	72,607 	(22,455) 	2,128
+Row 15: Costs and expenses:
+			Row 16: Insurance and Other:
+			Row 17: Insurance losses and loss adjustment expenses 	44,456 	39,906 	48,891
+Row 18: Life, annuity and health insurance benefits 	4,986 	5,699 	5,618
+Row 19: Insurance underwriting expenses 	11,200 	9,793 	9,321
+Row 20: Cost of sales and services 	107,041 	106,083 	104,343
+Row 21: Cost of leasing 	4,003 	4,061 	1,455
+Row 22: Selling, general and administrative expenses 	19,322 	18,238 	19,189
+Row 23: Interest expense 	1,056 	1,035 	1,132
+Row 24: Railroad, Utilities and Energy:
+	192,064 	184,815 	189,949
+Row 25: Freight rail transportation expenses 	15,436 	16,045 	14,031
+Row 26: Utilities and energy cost of sales and other expenses 	11,296 	11,641 	10,772
+Row 27: Other expenses 	4,002 	3,895 	3,231
+Row 28: Interest expense 	2,905 33,639 	2,818 34,399 	3,254
+31,288
+Row 29: Total costs and expenses 	225,703 	219,214 	221,237
+Row 30: Earnings before income taxes and equity method earnings (losses) 	101,520 	6,168 	20,824
+Row 31: Equity method earnings (losses) 	1,176 	(2,167) 	3,014
+Row 32: Earnings before income taxes 	102,696 	4,001 	23,838
+Row 33: Income tax expense (benefit) 	20,904 	(321) 	(21,515)
+Row 34: Net earnings 	81,792 	4,322 	45,353
+Row 35: Earnings attributable to noncontrolling interests 	375 	301 	413
+Row 36: Net earnings attributable to Berkshire Hathaway shareholders 	$ 81,417 	$ 4,021 	$ 44,940
+Row 37: Net earnings per average equivalent Class A share 	$ 49,828 	$ 2,446 	$ 27,326
+Row 38: Net earnings per average equivalent Class B share* 	$ 33.22 	$ 1.63 	$ 18.22
+Row 39: Average equivalent Class A shares outstanding 	1,633,946 	1,643,795 	1,644,615
+Row 40: Average equivalent Class B shares outstanding 	2,450,919,020 	2,465,692,368 	2,466,923,163
+Table 0: Header Row 0: 	2019 	2018 	2017
+Row 0: Net earnings 	$ 81,792 	$ 4,322 	$ 45,353
+Row 1: Other comprehensive income:
+			Row 2: Net change in unrealized appreciation of investments 	204 	(185) 	30,450
+Row 3: Applicable income taxes 	(44) 	31 	(10,566)
+Row 4: Reclassification of investment appreciation in net earnings 	(62) 	(253) 	(1,399)
+Row 5: Applicable income taxes 	13 	53 	490
+Row 6: Foreign currency translation 	323 	(1,531) 	2,364
+Row 7: Applicable income taxes 	(28) 	62 	(95)
+Row 8: Prior service cost and actuarial gains/losses of defined benefit pension plans 	(711) 	(571) 	225
+Row 9: Applicable income taxes 	155 	143 	(45)
+Row 10: Other, net 	(48) 	(12) 	(9)
+Row 11: Other comprehensive income, net 	(198) 	(2,263) 	21,415
+Row 12: Comprehensive income 	81,594 	2,059 	66,768
+Row 13: Comprehensive income attributable to noncontrolling interests 	405 	249 	555
+Row 14: Comprehensive income attributable to Berkshire Hathaway shareholders 	$ 81,189 	$ 1,810 	$ 66,213
+Table 1: Header Row 0: 	excess of
+par value
+	comprehensive
+income
+	Retained
+earnings
+	Treasury
+stock
+	controlling
+interests Total
+Row 0: Balance December 31, 2016 	$ 35,689 	$ 37,298 	$210,846 	$ (1,763) 	$ 3,358 $285,428
+Row 1: Net earnings 	— 	— 	44,940 	— 	413 45,353
+Row 2: Other comprehensive income, net 	— 	21,273 	— 	— 	142 21,415
+Row 3: Issuance of common stock 	76 	— 	— 	— 	— 76
+Row 4: Transactions with noncontrolling interests 	(63) 	— 	— 	— 	(255) (318)
+Row 5: Balance December 31, 2017 	35,702 	58,571 	255,786 	(1,763) 	3,658 351,954
+Row 6: Adoption of new accounting pronouncements 	— 	(61,375) 	61,305 	— 	— (70)
+Row 7: Net earnings 	— 	— 	4,021 	— 	301 4,322
+Row 8: Other comprehensive income, net 	— 	(2,211) 	— 	— 	(52) (2,263)
+Row 9: Issuance (acquisition) of common stock 	59 	— 	— 	(1,346) 	— (1,287)
+Row 10: Transactions with noncontrolling interests 	(46) 	— 	— 	— 	(110) (156)
+Row 11: Balance December 31, 2018 	35,715 	(5,015) 	321,112 	(3,109) 	3,797 352,500
+Row 12: Net earnings 			81,417 		375 81,792
+Row 13: Other comprehensive income, net 		(228) 			30 (198)
+Row 14: Issuance (acquisition) of common stock 	21 			(5,016) 	(4,995)
+Row 15: Transactions with noncontrolling interests 	(70) 		(36) 		(430) (536)
+Row 16: Balance December 31, 2019 	$ 35,666 	$ (5,243) 	$402,493 	$ (8,125) 	$ 3,772 $428,563
+Table 0: Header Row 0: 	2019 	2018 	2017
+Row 0: Cash flows from operating activities:
+			Row 1: Net earnings 	$ 81,792 	$ 4,322 	$ 45,353
+Row 2: Adjustments to reconcile net earnings to operating cash flows:
+			Row 3: Investment gains/losses 	(71,123) 	22,155 	(1,410)
+Row 4: Depreciation and amortization 	10,064 	9,779 	9,188
+Row 5: Other 	(1,254) 	2,957 	458
+Row 6: Changes in operating assets and liabilities:
+			Row 7: Losses and loss adjustment expenses 	6,087 	3,449 	25,027
+Row 8: Deferred charges reinsurance assumed 	357 	1,174 	(7,231)
+Row 9: Unearned premiums 	1,707 	1,794 	1,761
+Row 10: Receivables and originated loans 	(2,303) 	(3,443) 	(1,990)
+Row 11: Other assets 	(2,011) 	(1,832) 	(1,665)
+Row 12: Other liabilities 	190 	2,002 	1,194
+Row 13: Income taxes 	15,181 	(4,957) 	(24,957)
+Row 14: Net cash flows from operating activities 	38,687 	37,400 	45,728
+Row 15: Cash flows from investing activities:
+			Row 16: Purchases of equity securities 	(18,642) 	(43,210) 	(20,326)
+Row 17: Sales and redemptions of equity securities 	14,336 	18,783 	19,512
+Row 18: Purchases of U.S. Treasury Bills and fixed maturity securities 	(136,123) 	(141,844) 	(158,492)
+Row 19: Sales of U.S. Treasury Bills and fixed maturity securities 	15,929 	39,693 	49,327
+Row 20: Redemptions and maturities of U.S. Treasury Bills and fixed maturity securities 	137,767 	113,045 	86,727
+Row 21: Purchases of loans and finance receivables 	(75) 	(1,771) 	(1,435)
+Row 22: Collections of loans and finance receivables 	345 	342 	1,702
+Row 23: Acquisitions of businesses, net of cash acquired 	(1,683) 	(3,279) 	(2,708)
+Row 24: Purchases of property, plant and equipment and equipment held for lease 	(15,979) 	(14,537) 	(11,708)
+Row 25: Other 	(1,496) 	(71) 	(3,608)
+Row 26: Net cash flows from investing activities 	(5,621) 	(32,849) 	(41,009)
+Row 27: Cash flows from financing activities:
+Proceeds from borrowings of insurance and other businesses 	8,144 	2,409 	2,645
+Row 28: Repayments of borrowings of insurance and other businesses 	(5,095) 	(7,395) 	(5,465)
+Row 29: Proceeds from borrowings of railroad, utilities and energy businesses 	5,400 	7,019 	3,013
+Row 30: Repayments of borrowings of railroad, utilities and energy businesses 	(2,638) 	(4,213) 	(3,549)
+Row 31: Changes in short term borrowings, net 	266 	(1,943) 	2,079
+Row 32: Acquisition of treasury stock 	(4,850) 	(1,346) 	—
+Row 33: Other 	(497) 	(343) 	(121)
+Row 34: Net cash flows from financing activities 	730 	(5,812) 	(1,398)
+Row 35: Effects of foreign currency exchange rate changes 	25 	(140) 	248
+Row 36: Increase (decrease) in cash and cash equivalents and restricted cash 	33,821 	(1,401) 	3,569
+Row 37: Cash and cash equivalents and restricted cash at beginning of year 	30,811 	32,212 	28,643
+Row 38: Cash and cash equivalents and restricted cash at end of year * 	$ 64,632 	$ 30,811 	$ 32,212
+Row 39: * Cash and cash equivalents and restricted cash at end of year are comprised of
+the following:
+			Row 40: Insurance and Other 	$ 61,151 	$ 27,749 	$ 28,673
+Row 41: Railroad, Utilities and Energy 	3,024 	2,612 	2,910
+Row 42: Restricted cash, included in other assets 	457 $ 64,632 	450 $ 30,811 	629
+$ 32,212
+Table 0: Header Row 0: ASSETS
+		Row 0: Insurance and Other:
+		Row 1: Cash and cash equivalents* 	$ 61,151 	$ 27,749
+Row 2: Short-term investments in U.S. Treasury Bills 	63,822 	81,506
+Row 3: Investments in fixed maturity securities 	18,685 	19,898
+Row 4: Investments in equity securities 	248,027 	172,757
+Row 5: Equity method investments 	17,505 	17,325
+Row 6: Loans and finance receivables 	17,527 	16,280
+Row 7: Other receivables 	32,418 	31,564
+Row 8: Inventories 	19,852 	19,069
+Row 9: Property, plant and equipment 	21,438 	20,628
+Row 10: Equipment held for lease 	15,065 	14,298
+Row 11: Goodwill 	57,052 	56,323
+Row 12: Other intangible assets 	31,051 	31,499
+Row 13: Deferred charges under retroactive reinsurance contracts 	13,747 	14,104
+Row 14: Other 	13,232 	9,307
+Row 15: 	630,572 	532,307
+Row 16: Railroad, Utilities and Energy:
+		Row 17: Cash and cash equivalents* 	3,024 	2,612
+Row 18: Receivables 	3,417 	3,666
+Row 19: Property, plant and equipment 	137,838 	131,780
+Row 20: Goodwill 	24,830 	24,702
+Row 21: Regulatory assets 	2,881 	3,067
+Row 22: Other 	15,167 	9,660
+Row 23: 	187,157 	175,487
+Row 24: 	$ 817,729 	$ 707,794
+Table 0: Header Row 0: 	2019 	2018
+Row 0: LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row 1: Insurance and Other:
+		Row 2: Unpaid losses and loss adjustment expenses $ 	73,019 	$ 68,458
+Row 3: Unpaid losses and loss adjustment expenses under retroactive reinsurance contracts 	42,441 	41,834
+Row 4: Unearned premiums 	19,782 	18,093
+Row 5: Life, annuity and health insurance benefits 	20,155 	18,632
+Row 6: Other policyholder liabilities 	7,723 	7,675
+Row 7: Accounts payable, accruals and other liabilities 	27,611 	25,776
+Row 8: Derivative contract liabilities 	968 	2,452
+Row 9: Aircraft repurchase liabilities and unearned lease revenues 	5,281 	4,593
+Row 10: Notes payable and other borrowings 	37,590 	34,975
+Row 11: 	234,570 	222,488
+Row 12: Railroad, Utilities and Energy:
+		Row 13: Accounts payable, accruals and other liabilities 	14,708 	11,410
+Row 14: Regulatory liabilities 	7,311 	7,506
+Row 15: Notes payable and other borrowings 	65,778 	62,515
+Row 16: 	87,797 	81,431
+Row 17: Income taxes, principally deferred 	66,799 	51,375
+Row 18: Total liabilities 	389,166 	355,294
+Row 19: Shareholders’ equity:
+		Row 20: Common stock 	8 	8
+Row 21: Capital in excess of par value 	35,658 	35,707
+Row 22: Accumulated other comprehensive income 	(5,243) 	(5,015)
+Row 23: Retained earnings 	402,493 	321,112
+Row 24: Treasury stock, at cost 	(8,125) 	(3,109)
+Row 25: Berkshire Hathaway shareholders’ equity 	424,791 	348,703
+Row 26: Noncontrolling interests 	3,772 	3,797
+Row 27: Total shareholders’ equity 	428,563 	352,500
+Row 28: $ 	817,729 	$ 707,794
+Table 0: Header Row 0: 	2019 	2018 	2017
+Row 0: Revenues:
+			Row 1: Insurance and Other:
+			Row 2: Insurance premiums earned 	$ 61,078 	$ 57,418 	$ 60,597
+Row 3: Sales and service revenues 	134,989 	133,336 	130,343
+Row 4: Leasing revenues 	5,856 	5,732 	2,452
+Row 5: Interest, dividend and other investment income 	9,240 	7,678 	6,536
+Row 6: Railroad, Utilities and Energy:
+	211,163 	204,164 	199,928
+Row 7: Freight rail transportation revenues 	23,357 	23,703 	21,080
+Row 8: Energy operating revenues 	15,353 	15,555 	15,155
+Row 9: Service revenues and other income 	4,743 	4,415 	3,770
+Row 10: Total revenues 	43,453 254,616 	43,673 247,837 	40,005
+239,933
+Row 11: Investment and derivative contract gains (losses):
+			Row 12: Investment gains (losses) 	71,123 	(22,155) 	1,410
+Row 13: Derivative contract gains (losses) 	1,484 	(300) 	718
+Row 14: 	72,607 	(22,455) 	2,128
+Row 15: Costs and expenses:
+			Row 16: Insurance and Other:
+			Row 17: Insurance losses and loss adjustment expenses 	44,456 	39,906 	48,891
+Row 18: Life, annuity and health insurance benefits 	4,986 	5,699 	5,618
+Row 19: Insurance underwriting expenses 	11,200 	9,793 	9,321
+Row 20: Cost of sales and services 	107,041 	106,083 	104,343
+Row 21: Cost of leasing 	4,003 	4,061 	1,455
+Row 22: Selling, general and administrative expenses 	19,322 	18,238 	19,189
+Row 23: Interest expense 	1,056 	1,035 	1,132
+Row 24: Railroad, Utilities and Energy:
+	192,064 	184,815 	189,949
+Row 25: Freight rail transportation expenses 	15,436 	16,045 	14,031
+Row 26: Utilities and energy cost of sales and other expenses 	11,296 	11,641 	10,772
+Row 27: Other expenses 	4,002 	3,895 	3,231
+Row 28: Interest expense 	2,905 33,639 	2,818 34,399 	3,254
+31,288
+Row 29: Total costs and expenses 	225,703 	219,214 	221,237
+Row 30: Earnings before income taxes and equity method earnings (losses) 	101,520 	6,168 	20,824
+Row 31: Equity method earnings (losses) 	1,176 	(2,167) 	3,014
+Row 32: Earnings before income taxes 	102,696 	4,001 	23,838
+Row 33: Income tax expense (benefit) 	20,904 	(321) 	(21,515)
+Row 34: Net earnings 	81,792 	4,322 	45,353
+Row 35: Earnings attributable to noncontrolling interests 	375 	301 	413
+Row 36: Net earnings attributable to Berkshire Hathaway shareholders 	$ 81,417 	$ 4,021 	$ 44,940
+Row 37: Net earnings per average equivalent Class A share 	$ 49,828 	$ 2,446 	$ 27,326
+Row 38: Net earnings per average equivalent Class B share* 	$ 33.22 	$ 1.63 	$ 18.22
+Row 39: Average equivalent Class A shares outstanding 	1,633,946 	1,643,795 	1,644,615
+Row 40: Average equivalent Class B shares outstanding 	2,450,919,020 	2,465,692,368 	2,466,923,163
+Table 0: Header Row 0: 	2019 	2018 	2017
+Row 0: Net earnings 	$ 81,792 	$ 4,322 	$ 45,353
+Row 1: Other comprehensive income:
+			Row 2: Net change in unrealized appreciation of investments 	204 	(185) 	30,450
+Row 3: Applicable income taxes 	(44) 	31 	(10,566)
+Row 4: Reclassification of investment appreciation in net earnings 	(62) 	(253) 	(1,399)
+Row 5: Applicable income taxes 	13 	53 	490
+Row 6: Foreign currency translation 	323 	(1,531) 	2,364
+Row 7: Applicable income taxes 	(28) 	62 	(95)
+Row 8: Prior service cost and actuarial gains/losses of defined benefit pension plans 	(711) 	(571) 	225
+Row 9: Applicable income taxes 	155 	143 	(45)
+Row 10: Other, net 	(48) 	(12) 	(9)
+Row 11: Other comprehensive income, net 	(198) 	(2,263) 	21,415
+Row 12: Comprehensive income 	81,594 	2,059 	66,768
+Row 13: Comprehensive income attributable to noncontrolling interests 	405 	249 	555
+Row 14: Comprehensive income attributable to Berkshire Hathaway shareholders 	$ 81,189 	$ 1,810 	$ 66,213
+Table 1: Header Row 0: 	excess of
+par value
+	comprehensive
+income
+	Retained
+earnings
+	Treasury
+stock
+	controlling
+interests Total
+Row 0: Balance December 31, 2016 	$ 35,689 	$ 37,298 	$210,846 	$ (1,763) 	$ 3,358 $285,428
+Row 1: Net earnings 	— 	— 	44,940 	— 	413 45,353
+Row 2: Other comprehensive income, net 	— 	21,273 	— 	— 	142 21,415
+Row 3: Issuance of common stock 	76 	— 	— 	— 	— 76
+Row 4: Transactions with noncontrolling interests 	(63) 	— 	— 	— 	(255) (318)
+Row 5: Balance December 31, 2017 	35,702 	58,571 	255,786 	(1,763) 	3,658 351,954
+Row 6: Adoption of new accounting pronouncements 	— 	(61,375) 	61,305 	— 	— (70)
+Row 7: Net earnings 	— 	— 	4,021 	— 	301 4,322
+Row 8: Other comprehensive income, net 	— 	(2,211) 	— 	— 	(52) (2,263)
+Row 9: Issuance (acquisition) of common stock 	59 	— 	— 	(1,346) 	— (1,287)
+Row 10: Transactions with noncontrolling interests 	(46) 	— 	— 	— 	(110) (156)
+Row 11: Balance December 31, 2018 	35,715 	(5,015) 	321,112 	(3,109) 	3,797 352,500
+Row 12: Net earnings 			81,417 		375 81,792
+Row 13: Other comprehensive income, net 		(228) 			30 (198)
+Row 14: Issuance (acquisition) of common stock 	21 			(5,016) 	(4,995)
+Row 15: Transactions with noncontrolling interests 	(70) 		(36) 		(430) (536)
+Row 16: Balance December 31, 2019 	$ 35,666 	$ (5,243) 	$402,493 	$ (8,125) 	$ 3,772 $428,563
+Table 0: Header Row 0: 	2019 	2018 	2017
+Row 0: Cash flows from operating activities:
+			Row 1: Net earnings 	$ 81,792 	$ 4,322 	$ 45,353
+Row 2: Adjustments to reconcile net earnings to operating cash flows:
+			Row 3: Investment gains/losses 	(71,123) 	22,155 	(1,410)
+Row 4: Depreciation and amortization 	10,064 	9,779 	9,188
+Row 5: Other 	(1,254) 	2,957 	458
+Row 6: Changes in operating assets and liabilities:
+			Row 7: Losses and loss adjustment expenses 	6,087 	3,449 	25,027
+Row 8: Deferred charges reinsurance assumed 	357 	1,174 	(7,231)
+Row 9: Unearned premiums 	1,707 	1,794 	1,761
+Row 10: Receivables and originated loans 	(2,303) 	(3,443) 	(1,990)
+Row 11: Other assets 	(2,011) 	(1,832) 	(1,665)
+Row 12: Other liabilities 	190 	2,002 	1,194
+Row 13: Income taxes 	15,181 	(4,957) 	(24,957)
+Row 14: Net cash flows from operating activities 	38,687 	37,400 	45,728
+Row 15: Cash flows from investing activities:
+			Row 16: Purchases of equity securities 	(18,642) 	(43,210) 	(20,326)
+Row 17: Sales and redemptions of equity securities 	14,336 	18,783 	19,512
+Row 18: Purchases of U.S. Treasury Bills and fixed maturity securities 	(136,123) 	(141,844) 	(158,492)
+Row 19: Sales of U.S. Treasury Bills and fixed maturity securities 	15,929 	39,693 	49,327
+Row 20: Redemptions and maturities of U.S. Treasury Bills and fixed maturity securities 	137,767 	113,045 	86,727
+Row 21: Purchases of loans and finance receivables 	(75) 	(1,771) 	(1,435)
+Row 22: Collections of loans and finance receivables 	345 	342 	1,702
+Row 23: Acquisitions of businesses, net of cash acquired 	(1,683) 	(3,279) 	(2,708)
+Row 24: Purchases of property, plant and equipment and equipment held for lease 	(15,979) 	(14,537) 	(11,708)
+Row 25: Other 	(1,496) 	(71) 	(3,608)
+Row 26: Net cash flows from investing activities 	(5,621) 	(32,849) 	(41,009)
+Row 27: Cash flows from financing activities:
+Proceeds from borrowings of insurance and other businesses 	8,144 	2,409 	2,645
+Row 28: Repayments of borrowings of insurance and other businesses 	(5,095) 	(7,395) 	(5,465)
+Row 29: Proceeds from borrowings of railroad, utilities and energy businesses 	5,400 	7,019 	3,013
+Row 30: Repayments of borrowings of railroad, utilities and energy businesses 	(2,638) 	(4,213) 	(3,549)
+Row 31: Changes in short term borrowings, net 	266 	(1,943) 	2,079
+Row 32: Acquisition of treasury stock 	(4,850) 	(1,346) 	—
+Row 33: Other 	(497) 	(343) 	(121)
+Row 34: Net cash flows from financing activities 	730 	(5,812) 	(1,398)
+Row 35: Effects of foreign currency exchange rate changes 	25 	(140) 	248
+Row 36: Increase (decrease) in cash and cash equivalents and restricted cash 	33,821 	(1,401) 	3,569
+Row 37: Cash and cash equivalents and restricted cash at beginning of year 	30,811 	32,212 	28,643
+Row 38: Cash and cash equivalents and restricted cash at end of year * 	$ 64,632 	$ 30,811 	$ 32,212
+Row 39: * Cash and cash equivalents and restricted cash at end of year are comprised of
+the following:
+			Row 40: Insurance and Other 	$ 61,151 	$ 27,749 	$ 28,673
+Row 41: Railroad, Utilities and Energy 	3,024 	2,612 	2,910
+Row 42: Restricted cash, included in other assets 	457 $ 64,632 	450 $ 30,811 	629
+$ 32,212
+Row 0: Insurance and Other:
+		Row 1: Cash and cash equivalents* 	$ 61,151 	$ 27,749
+Row 2: Short-term investments in U.S. Treasury Bills 	63,822 	81,506
+Row 3: Investments in fixed maturity securities 	18,685 	19,898
+Row 4: Investments in equity securities 	248,027 	172,757
+Row 5: Equity method investments 	17,505 	17,325
+Row 6: Loans and finance receivables 	17,527 	16,280
+Row 7: Other receivables 	32,418 	31,564
+Row 8: Inventories 	19,852 	19,069
+Row 9: Property, plant and equipment 	21,438 	20,628
+Row 10: Equipment held for lease 	15,065 	14,298
+Row 11: Goodwill 	57,052 	56,323
+Row 12: Other intangible assets 	31,051 	31,499
+Row 13: Deferred charges under retroactive reinsurance contracts 	13,747 	14,104
+Row 14: Other 	13,232 	9,307
+Row 15: 	630,572 	532,307
+Row 16: Railroad, Utilities and Energy:
+		Row 17: Cash and cash equivalents* 	3,024 	2,612
+Row 18: Receivables 	3,417 	3,666
+Row 19: Property, plant and equipment 	137,838 	131,780
+Row 20: Goodwill 	24,830 	24,702
+Row 21: Regulatory assets 	2,881 	3,067
+Row 22: Other 	15,167 	9,660
+Row 23: 	187,157 	175,487
+Row 24: 	$ 817,729 	$ 707,794
+Row 0: LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row 1: Insurance and Other:
+		Row 2: Unpaid losses and loss adjustment expenses $ 	73,019 	$ 68,458
+Row 3: Unpaid losses and loss adjustment expenses under retroactive reinsurance contracts 	42,441 	41,834
+Row 4: Unearned premiums 	19,782 	18,093
+Row 5: Life, annuity and health insurance benefits 	20,155 	18,632
+Row 6: Other policyholder liabilities 	7,723 	7,675
+Row 7: Accounts payable, accruals and other liabilities 	27,611 	25,776
+Row 8: Derivative contract liabilities 	968 	2,452
+Row 9: Aircraft repurchase liabilities and unearned lease revenues 	5,281 	4,593
+Row 10: Notes payable and other borrowings 	37,590 	34,975
+Row 11: 	234,570 	222,488
+Row 12: Railroad, Utilities and Energy:
+		Row 13: Accounts payable, accruals and other liabilities 	14,708 	11,410
+Row 14: Regulatory liabilities 	7,311 	7,506
+Row 15: Notes payable and other borrowings 	65,778 	62,515
+Row 16: 	87,797 	81,431
+Row 17: Income taxes, principally deferred 	66,799 	51,375
+Row 18: Total liabilities 	389,166 	355,294
+Row 19: Shareholders’ equity:
+		Row 20: Common stock 	8 	8
+Row 21: Capital in excess of par value 	35,658 	35,707
+Row 22: Accumulated other comprehensive income 	(5,243) 	(5,015)
+Row 23: Retained earnings 	402,493 	321,112
+Row 24: Treasury stock, at cost 	(8,125) 	(3,109)
+Row 25: Berkshire Hathaway shareholders’ equity 	424,791 	348,703
+Row 26: Noncontrolling interests 	3,772 	3,797
+Row 27: Total shareholders’ equity 	428,563 	352,500
+Row 28: $ 	817,729 	$ 707,794
+Row 0: Revenues:
+			Row 1: Insurance and Other:
+			Row 2: Insurance premiums earned 	$ 61,078 	$ 57,418 	$ 60,597
+Row 3: Sales and service revenues 	134,989 	133,336 	130,343
+Row 4: Leasing revenues 	5,856 	5,732 	2,452
+Row 5: Interest, dividend and other investment income 	9,240 	7,678 	6,536
+Row 6: Railroad, Utilities and Energy:
+	211,163 	204,164 	199,928
+Row 7: Freight rail transportation revenues 	23,357 	23,703 	21,080
+Row 8: Energy operating revenues 	15,353 	15,555 	15,155
+Row 9: Service revenues and other income 	4,743 	4,415 	3,770
+Row 10: Total revenues 	43,453 254,616 	43,673 247,837 	40,005
+239,933
+Row 11: Investment and derivative contract gains (losses):
+			Row 12: Investment gains (losses) 	71,123 	(22,155) 	1,410
+Row 13: Derivative contract gains (losses) 	1,484 	(300) 	718
+Row 14: 	72,607 	(22,455) 	2,128
+Row 15: Costs and expenses:
+			Row 16: Insurance and Other:
+			Row 17: Insurance losses and loss adjustment expenses 	44,456 	39,906 	48,891
+Row 18: Life, annuity and health insurance benefits 	4,986 	5,699 	5,618
+Row 19: Insurance underwriting expenses 	11,200 	9,793 	9,321
+Row 20: Cost of sales and services 	107,041 	106,083 	104,343
+Row 21: Cost of leasing 	4,003 	4,061 	1,455
+Row 22: Selling, general and administrative expenses 	19,322 	18,238 	19,189
+Row 23: Interest expense 	1,056 	1,035 	1,132
+Row 24: Railroad, Utilities and Energy:
+	192,064 	184,815 	189,949
+Row 25: Freight rail transportation expenses 	15,436 	16,045 	14,031
+Row 26: Utilities and energy cost of sales and other expenses 	11,296 	11,641 	10,772
+Row 27: Other expenses 	4,002 	3,895 	3,231
+Row 28: Interest expense 	2,905 33,639 	2,818 34,399 	3,254
+31,288
+Row 29: Total costs and expenses 	225,703 	219,214 	221,237
+Row 30: Earnings before income taxes and equity method earnings (losses) 	101,520 	6,168 	20,824
+Row 31: Equity method earnings (losses) 	1,176 	(2,167) 	3,014
+Row 32: Earnings before income taxes 	102,696 	4,001 	23,838
+Row 33: Income tax expense (benefit) 	20,904 	(321) 	(21,515)
+Row 34: Net earnings 	81,792 	4,322 	45,353
+Row 35: Earnings attributable to noncontrolling interests 	375 	301 	413
+Row 36: Net earnings attributable to Berkshire Hathaway shareholders 	$ 81,417 	$ 4,021 	$ 44,940
+Row 37: Net earnings per average equivalent Class A share 	$ 49,828 	$ 2,446 	$ 27,326
+Row 38: Net earnings per average equivalent Class B share* 	$ 33.22 	$ 1.63 	$ 18.22
+Row 39: Average equivalent Class A shares outstanding 	1,633,946 	1,643,795 	1,644,615
+Row 40: Average equivalent Class B shares outstanding 	2,450,919,020 	2,465,692,368 	2,466,923,163
+Row 0: Net earnings 	$ 81,792 	$ 4,322 	$ 45,353
+Row 1: Other comprehensive income:
+			Row 2: Net change in unrealized appreciation of investments 	204 	(185) 	30,450
+Row 3: Applicable income taxes 	(44) 	31 	(10,566)
+Row 4: Reclassification of investment appreciation in net earnings 	(62) 	(253) 	(1,399)
+Row 5: Applicable income taxes 	13 	53 	490
+Row 6: Foreign currency translation 	323 	(1,531) 	2,364
+Row 7: Applicable income taxes 	(28) 	62 	(95)
+Row 8: Prior service cost and actuarial gains/losses of defined benefit pension plans 	(711) 	(571) 	225
+Row 9: Applicable income taxes 	155 	143 	(45)
+Row 10: Other, net 	(48) 	(12) 	(9)
+Row 11: Other comprehensive income, net 	(198) 	(2,263) 	21,415
+Row 12: Comprehensive income 	81,594 	2,059 	66,768
+Row 13: Comprehensive income attributable to noncontrolling interests 	405 	249 	555
+Row 14: Comprehensive income attributable to Berkshire Hathaway shareholders 	$ 81,189 	$ 1,810 	$ 66,213
+Row 0: Balance December 31, 2016 	$ 35,689 	$ 37,298 	$210,846 	$ (1,763) 	$ 3,358 $285,428
+Row 1: Net earnings 	— 	— 	44,940 	— 	413 45,353
+Row 2: Other comprehensive income, net 	— 	21,273 	— 	— 	142 21,415
+Row 3: Issuance of common stock 	76 	— 	— 	— 	— 76
+Row 4: Transactions with noncontrolling interests 	(63) 	— 	— 	— 	(255) (318)
+Row 5: Balance December 31, 2017 	35,702 	58,571 	255,786 	(1,763) 	3,658 351,954
+Row 6: Adoption of new accounting pronouncements 	— 	(61,375) 	61,305 	— 	— (70)
+Row 7: Net earnings 	— 	— 	4,021 	— 	301 4,322
+Row 8: Other comprehensive income, net 	— 	(2,211) 	— 	— 	(52) (2,263)
+Row 9: Issuance (acquisition) of common stock 	59 	— 	— 	(1,346) 	— (1,287)
+Row 10: Transactions with noncontrolling interests 	(46) 	— 	— 	— 	(110) (156)
+Row 11: Balance December 31, 2018 	35,715 	(5,015) 	321,112 	(3,109) 	3,797 352,500
+Row 12: Net earnings 			81,417 		375 81,792
+Row 13: Other comprehensive income, net 		(228) 			30 (198)
+Row 14: Issuance (acquisition) of common stock 	21 			(5,016) 	(4,995)
+Row 15: Transactions with noncontrolling interests 	(70) 		(36) 		(430) (536)
+Row 16: Balance December 31, 2019 	$ 35,666 	$ (5,243) 	$402,493 	$ (8,125) 	$ 3,772 $428,563
+Row 0: Cash flows from operating activities:
+			Row 1: Net earnings 	$ 81,792 	$ 4,322 	$ 45,353
+Row 2: Adjustments to reconcile net earnings to operating cash flows:
+			Row 3: Investment gains/losses 	(71,123) 	22,155 	(1,410)
+Row 4: Depreciation and amortization 	10,064 	9,779 	9,188
+Row 5: Other 	(1,254) 	2,957 	458
+Row 6: Changes in operating assets and liabilities:
+			Row 7: Losses and loss adjustment expenses 	6,087 	3,449 	25,027
+Row 8: Deferred charges reinsurance assumed 	357 	1,174 	(7,231)
+Row 9: Unearned premiums 	1,707 	1,794 	1,761
+Row 10: Receivables and originated loans 	(2,303) 	(3,443) 	(1,990)
+Row 11: Other assets 	(2,011) 	(1,832) 	(1,665)
+Row 12: Other liabilities 	190 	2,002 	1,194
+Row 13: Income taxes 	15,181 	(4,957) 	(24,957)
+Row 14: Net cash flows from operating activities 	38,687 	37,400 	45,728
+Row 15: Cash flows from investing activities:
+			Row 16: Purchases of equity securities 	(18,642) 	(43,210) 	(20,326)
+Row 17: Sales and redemptions of equity securities 	14,336 	18,783 	19,512
+Row 18: Purchases of U.S. Treasury Bills and fixed maturity securities 	(136,123) 	(141,844) 	(158,492)
+Row 19: Sales of U.S. Treasury Bills and fixed maturity securities 	15,929 	39,693 	49,327
+Row 20: Redemptions and maturities of U.S. Treasury Bills and fixed maturity securities 	137,767 	113,045 	86,727
+Row 21: Purchases of loans and finance receivables 	(75) 	(1,771) 	(1,435)
+Row 22: Collections of loans and finance receivables 	345 	342 	1,702
+Row 23: Acquisitions of businesses, net of cash acquired 	(1,683) 	(3,279) 	(2,708)
+Row 24: Purchases of property, plant and equipment and equipment held for lease 	(15,979) 	(14,537) 	(11,708)
+Row 25: Other 	(1,496) 	(71) 	(3,608)
+Row 26: Net cash flows from investing activities 	(5,621) 	(32,849) 	(41,009)
+Row 27: Cash flows from financing activities:
+Proceeds from borrowings of insurance and other businesses 	8,144 	2,409 	2,645
+Row 28: Repayments of borrowings of insurance and other businesses 	(5,095) 	(7,395) 	(5,465)
+Row 29: Proceeds from borrowings of railroad, utilities and energy businesses 	5,400 	7,019 	3,013
+Row 30: Repayments of borrowings of railroad, utilities and energy businesses 	(2,638) 	(4,213) 	(3,549)
+Row 31: Changes in short term borrowings, net 	266 	(1,943) 	2,079
+Row 32: Acquisition of treasury stock 	(4,850) 	(1,346) 	—
+Row 33: Other 	(497) 	(343) 	(121)
+Row 34: Net cash flows from financing activities 	730 	(5,812) 	(1,398)
+Row 35: Effects of foreign currency exchange rate changes 	25 	(140) 	248
+Row 36: Increase (decrease) in cash and cash equivalents and restricted cash 	33,821 	(1,401) 	3,569
+Row 37: Cash and cash equivalents and restricted cash at beginning of year 	30,811 	32,212 	28,643
+Row 38: Cash and cash equivalents and restricted cash at end of year * 	$ 64,632 	$ 30,811 	$ 32,212
+Row 39: * Cash and cash equivalents and restricted cash at end of year are comprised of
+the following:
+			Row 40: Insurance and Other 	$ 61,151 	$ 27,749 	$ 28,673
+Row 41: Railroad, Utilities and Energy 	3,024 	2,612 	2,910
+Row 42: Restricted cash, included in other assets 	457 $ 64,632 	450 $ 30,811 	629
+$ 32,212

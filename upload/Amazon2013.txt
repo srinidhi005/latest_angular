@@ -1,0 +1,119 @@
+Row:CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD $ 8,084 	$ 5,269 	$ 3,777
+Row:OPERATING ACTIVITIES:
+Net income (loss) 	274 (39 ) 	631
+Row:Adjustments to reconcile net income (loss) to net cash from operating activities:
+		Row:Depreciation of property and equipment, including internal-use software and website
+development, and other amortization 3,253 	2,159 	1,083
+Row:Stock-based compensation 1,134 	833 	557
+Row:Other operating expense (income), net 	114 154 	154
+Row:Losses (gains) on sales of marketable securities, net Other expense (income), net Deferred income taxes Excess tax benefits from stock-based compensation 	1 (9 ) 166 253 (156 ) (265 ) (78 ) (429 ) 	(4 )
+(56 )
+136
+(62 )
+Row:Changes in operating assets and liabilities:
+Inventories (1,410 Accounts receivable, net and other 	) (999 ) (846 ) (861 ) 	(1,777 )
+(866 )
+Row:Accounts payable 1,888 	2,070 	2,997
+Row:Accrued expenses and other 	736 1,038 	1,067
+Row:Additions to unearned revenue 2,691 	1,796 	1,064
+Row:Amortization of previously unearned revenue (2,292 	) (1,521 ) 	(1,021 )
+Row:Net cash provided by (used in) operating activities 5,475 	4,180 	3,903
+Row:INVESTING ACTIVITIES:
+		Row:Purchases of property and equipment, including internal-use software and website development (3,444 	) (3,785 ) 	(1,811 )
+Row:Acquisitions, net of cash acquired, and other 	(312 ) (745 ) 	(705 )
+Row:Sales and maturities of marketable securities and other investments 2,306 	4,237 	6,843
+Row:Purchases of marketable securities and other investments (2,826 	) (3,302 ) 	(6,257 )
+Row:Net cash provided by (used in) investing activities (4,276 	) (3,595 ) 	(1,930 )
+Row:FINANCING ACTIVITIES:
+		Row:Excess tax benefits from stock-based compensation 	78 429 	62
+Row:Common stock repurchased Proceeds from long-term debt and other Repayments of long-term debt, capital lease, and finance lease obligations (1,011 	— (960 ) 394 3,378 ) (588 ) 	(277 )
+177
+(444 )
+Row:Net cash provided by (used in) financing activities Foreign-currency effect on cash and cash equivalents Net increase (decrease) in cash and cash equivalents 	(539 ) 2,259 (86 ) (29 ) 574 2,815 	(482 )
+1
+1,492
+Row:CASH AND CASH EQUIVALENTS, END OF PERIOD $ 8,658 	$ 8,084 	$ 5,269
+Row:SUPPLEMENTAL CASH FLOW INFORMATION:
+		Row:Cash paid for interest on long-term debt $ 	97 $ 31 	$ 14
+Row:Cash paid for income taxes (net of refunds) 	169 112 	33
+Row:Property and equipment acquired under capital leases 1,867 	802 	753
+Row:Property and equipment acquired under build-to-suit leases 	877 29 	259
+Row:See accompanying notes to consolidated financial statements.
+		Row:		Year Ended December 31,
+	Row:	2013 	2012 	2011
+Row:Net product sales $ 	60,903 	$ 51,733 	$ 42,000
+Row:Net services sales 	13,549 	9,360 	6,077
+Row:Total net sales 	74,452 	61,093 	48,077
+Row:Operating expenses (1):
+			Row:Cost of sales 	54,181 	45,971 	37,288
+Row:Fulfillment 	8,585 	6,419 	4,576
+Row:Marketing 	3,133 	2,408 	1,630
+Row:Technology and content 	6,565 	4,564 	2,909
+Row:General and administrative 	1,129 	896 	658
+Row:Other operating expense (income), net 	114 	159 	154
+Row:Total operating expenses 	73,707 	60,417 	47,215
+Row:Income from operations 	745 	676 	862
+Row:Interest income 	38 	40 	61
+Row:Interest expense 	(141 ) 	(92 ) 	(65 )
+Row:Other income (expense), net 	(136 ) 	(80 ) 	76
+Row:Total non-operating income (expense) 	(239 ) 	(132 ) 	72
+Row:Income before income taxes 	506 	544 	934
+Row:Provision for income taxes Equity-method investment activity, net of tax 	(161 ) (71 ) 	(428 ) (155 ) 	(291 )
+(12 )
+Row:Net income (loss) $ 	274 	$ (39 ) 	$ 631
+Row:Basic earnings per share $ 	0.60 	$ (0.09 ) 	$ 1.39
+Row:Diluted earnings per share $ Weighted average shares used in computation of earnings per share:
+	0.59 	$ (0.09 ) 	$ 1.37
+Row:Basic 	457 	453 	453
+Row:Diluted 	465 	453 	461
+Row:_____________
+(1) Includes stock-based compensation as follows:
+			Row:Fulfillment $ 	294 	$ 212 	$ 133
+Row:Marketing 	88 	61 	39
+Row:Technology and content 	603 	434 	292
+Row:General and administrative 	149 	126 	93
+Row:See accompanying notes to consolidated 	financial statements.
+		Row:(1) Includes stock-based compensation as follows:
+		Row:Fulfillment $ 	294 	$ 212 $ 133
+Row:Marketing 	88 	61 39
+Row:Technology and content 	603 	434 292
+Row:General and administrative 	149 	126 93
+Row:Current assets:
+		Row:Cash and cash equivalents $ 	8,658 	$ 8,084
+Row:Marketable securities 	3,789 	3,364
+Row:Inventories 	7,411 	6,031
+Row:Accounts receivable, net and other 	4,767 	3,817
+Row:Total current assets 	24,625 	21,296
+Row:Property and equipment, net 	10,949 	7,060
+Row:Goodwill 	2,655 	2,552
+Row:Other assets 	1,930 	1,647
+Row:Total assets $ 	40,159 	$ 32,555
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+		Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+	Row:Current liabilities:
+	Row:Accounts payable 	$ 15,133 $ 13,318
+Row:Accrued expenses and other 	6,688 4,892
+Row:Unearned revenue 	1,159 792
+Row:Total current liabilities 	22,980 19,002
+Row:Long-term debt 	3,191 3,084
+Row:Other long-term liabilities 	4,242 2,277
+Row:Commitments and contingencies
+	Row:Stockholders’ equity:
+	Row:Preferred stock, $0.01 par value:
+	Row:Authorized shares — 500
+	Row:Issued and outstanding shares — none 	— —
+Row:Common stock, $0.01 par value:
+	Row:Authorized shares — 5,000
+	Row:Issued shares — 483 and 478
+	Row:Outstanding shares — 459 and 454 	5 5
+Row:Treasury stock, at cost 	(1,837 ) (1,837 )
+Row:Additional paid-in capital 	9,573 8,347
+Row:Accumulated other comprehensive loss 	(185 ) (239 )
+Row:Retained earnings 	2,190 1,916
+Row:Total stockholders’ equity 	9,746 8,192
+Row:Total liabilities and stockholders’ equity 	$ 40,159 $ 32,555
+Row:Outstanding shares — 459 and 454 	5 	5
+Row:Treasury stock, at cost 	(1,837 ) 	(1,837 Row:Additional paid-in capital 	9,573 	8,347
+Row:Accumulated other comprehensive loss 	(185 ) 	(239 Row:Retained earnings 	2,190 	1,916
+Row:Total stockholders’ equity 	9,746 	8,192
+Row:Total liabilities and stockholders’ equity 	$ 40,159 	$ 32,555

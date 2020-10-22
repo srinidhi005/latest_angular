@@ -1,0 +1,62 @@
+Row:February 2, 2019 	February 3, 2018
+Row:	As Adjusted(1)
+Row:Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	. . . . . . $ 	123,509 	$ 187,028
+Row:Accounts receivable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	. . . . . . 	49,853 	38,437
+Row:Merchandise inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	. . . . . . 	1,528,417 	1,463,561
+Row:Other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	. . . . . . 	68,753 	50,359
+Row:Total current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . 	. . . . . . 	1,770,532 	1,739,385
+Row:Land and land improvements . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . 	. . 	. . 	. . 	. . . . . 	. . . . Row:Buildings and leasehold improvements . . . . . . . . . . . . . . . . . . . 	. . . . 	. . 	. . 	. . 	. . . . . 	. . . . Row:Furniture, fixtures and equipment . . . . . . . . . . . . . . . . . . . . . . . 	. . . . 	. . 	. . 	. . 	. . . . . 	. . . . Row:Buildings under construction . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . 	. . 	. . 	. . 	. . . . . 	. . . . Row:Buildings and equipment under capital leases . . . . . . . . . . . . . . 	. . . . 	. . 	. . 	. . 	. . . . . 	. . . . Row:Less accumulated depreciation and amortization. . . . . . . . . . . . 	. . . . 	. . 	. . 	. . 	. . . . . 	. . . . Row:Trade accounts payable and accrued expenses. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ Row:Current portion of long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:Current portion of capital lease obligations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:Federal and state income taxes. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:Total current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:Long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:Capital lease obligations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:Other liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:Deferred income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:Subordinated debentures. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Row:Commitments and contingencies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Row:Stockholders' equity:. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Row:February 2, 2019 	February 3, 2018 	January 28, 2017
+Row:	As Adjusted(1) 	As Adjusted(1)
+Row:$ 6,356,109 	$ 6,261,477 	$ 6,257,137
+Row:147,240 	161,199 	160,871
+Row:6,503,349 	6,422,676 	6,418,008
+Row:4,291,520 	4,199,718 	4,166,411
+Row:1,691,180 	1,684,916 	1,646,775
+Row:223,815 	231,595 	243,657
+Row:28,646 	28,012 	25,954
+Row:52,518 	62,580 	63,059
+Row:7,660 	8,026 	8,882
+Row:48 	(4,860) 	(905)
+Row:— 	— 	6,500
+Row:207,962 	212,689 	257,675
+Row:37,730 31 	(7,800) 835 	88,500
+45
+Row:$ 170,263 	$ 221,324 	$ 169,220
+Row:$ 6.23 6.23 	$ 7.51 7.51 	$ 4.93
+4.93
+Row:Operating activities:
+		As Adjusted(1) 	As Adjusted(1)
+Row:Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ Adjustments to reconcile net income to net cash provided by
+operating activities:
+	170,263 $ 	221,324 	$ 169,220
+Row:Depreciation and amortization of property and other deferred cost . 	225,849 	233,683 	245,923
+Row:Deferred income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Loss (gain) on disposal of assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	334 48 	(102,065) 1,000 	(35,703)
+(905)
+Row:Proceeds from insurance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	— 	3,173
+Row:Gain from insurance proceeds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	(5,861) 	(1,635)
+Row:Loss on early extinguishment of debt . . . . . . . . . . . . . . . . . . . . . . . . 	— 	797 	—
+Row:Asset impairment and store closing charges . . . . . . . . . . . . . . . . . . . 	— 	— 	6,500
+Row:Changes in operating assets and liabilities: . . . . . . . . . . . . . . . . . . . . .
+			Row:(Increase) decrease in accounts receivable . . . . . . . . . . . . . . . . . . . . 	(11,416) 	8,871 	(1,743)
+Row:Increase in merchandise inventories . . . . . . . . . . . . . . . . . . . . . . . . . 	(64,856) 	(57,158) 	(33,436)
+Row:(Increase) decrease in other current assets. . . . . . . . . . . . . . . . . . . . . 	(17,416) 	(1,902) 	9,224
+Row:(Increase) decrease in other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(10,419) 	2,196 	1,047
+Row:Increase (decrease) in trade accounts payable and accrued expenses
+			Row:and other liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	104,060 	(20,395) 	156,750
+Row:Decrease in income taxes payable . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(29,159) 	(6,205) 	(6,205)
+Row:Net cash provided by operating activities . . . . . . . . . . . . . . . . . . . . . . 	367,288 	274,285 	512,210
+Row:Investing activities:
+Purchase of property and equipment . . . . . . . . . . . . . . . . . . . . . . . . . 	(137,064) 	(130,464) 	(104,824)
+Row:Proceeds from disposal of assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	2,003 	11,683 	1,150
+Row:Proceeds from insurance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	3,477 	5,114 	6,322
+Row:Investment in joint venture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	— 	— 	(20,000)
+Row:Distribution from joint venture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	3,835 	3,460 	2,500
+Row:Net cash used in investing activities . . . . . . . . . . . . . . . . . . . . . . . . . . 	(127,749) 	(110,207) 	(114,852)
+Row:Financing activities:
+Principal payments on long-term debt and capital lease obligations. 	(162,066) 	(90,483) 	(3,284)
+Row:Cash dividends paid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(11,108) 	(9,424) 	(9,787)
+Row:Purchase of treasury stock . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Issuance cost of line of credit. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(129,884) — 	(223,013) (1,115) 	(240,171)
+—
+Row:Net cash used in financing activities . . . . . . . . . . . . . . . . . . . . . . . . . . 	(303,058) 	(324,035) 	(253,242)

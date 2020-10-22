@@ -1,0 +1,78 @@
+Row:	2019 	2018 	2017
+Row:Net sales $ 	8,225.4 	$ 8,202.0 $ 	7,011.3
+Row:Cost of sales 	5,609.4 	5,547.1 	4,701.4
+Row:Gross profit 	2,616.0 	2,654.9 	2,309.9
+Row:Acquisition-related expenses 	25.4 	8.5 	4.0
+Row:Selling, general and administrative expenses 	971.4 	959.5 	878.3
+Row:Operating income 	1,619.2 	1,686.9 	1,427.6
+Row:Interest expense 	(117.6) 	(101.7) 	(92.3)
+Row:Loss on early extinguishment of debt 	(14.3) 	— 	—
+Row:Other income, net 	8.6 	3.2 	17.1
+Row:Income before income taxes 	1,495.9 	1,588.4 	1,352.4
+Row:Provision for income taxes 	(331.9) 	(371.5) 	(691.7)
+Row:Net income 	1,164.0 	1,216.9 	660.7
+Row:Less: Net income attributable to noncontrolling interests 	(9.0) 	(11.9) 	(10.2)
+Row:Net income attributable to Amphenol Corporation $ 	1,155.0 	$ 1,205.0 $ 	650.5
+Row:Net income per common share — Basic $ 	3.88 	$ 4.00 $ 	2.13
+Row:Weighted average common shares outstanding — Basic 	297.5 	301.2 	305.7
+Row:Net income per common share — Diluted $ 	3.75 	$ 3.85 $ 	2.06
+Row:Weighted average common shares outstanding — Diluted 	307.9 	312.6 	316.5
+Row:Dividends declared per common share $ 	0.96 	$ 0.88 $ 	0.70
+Row:Assets
+		Row:Current Assets:
+		Row:Cash and cash equivalents $ 	891.2 	$ 1,279.3
+Row:Short-term investments 	17.4 	12.4
+Row:Total cash, cash equivalents and short-term investments 	908.6 	1,291.7
+Row:Accounts receivable, less allowance for doubtful accounts of $33.6 and $33.5,
+respectively 	1,736.4 	1,791.8
+Row:Inventories 	1,310.1 	1,233.8
+Row:Prepaid expenses and other current assets 	256.1 	254.3
+Row:Total current assets 	4,211.2 	4,571.6
+Row:Property, plant and equipment, net 	999.0 	875.8
+Row:Goodwill 	4,867.1 	4,103.2
+Row:Other intangible assets, net 	442.0 	397.9
+Row:Other long-term assets 	296.2 	96.4
+Row:$ 	10,815.5 	$ 10,044.9
+Row:Liabilities & Equity
+		Row:Property, plant and equipment, net 	999.0 875.8
+Row:Goodwill 	4,867.1 4,103.2
+Row:Other intangible assets, net 	442.0 397.9
+Row:Other long-term assets 	296.2 96.4
+Row:$ 	10,815.5 $ 10,044.9
+Row:Long-term debt, less current portion 	3,203.4 2,806.4
+Row:Accrued pension and postretirement benefit obligations 	198.8 190.2
+Row:Deferred income taxes 	260.4 255.6
+Row:Other long-term liabilities 	424.0 277.2
+Row:Commitments and contingent liabilities (Note 14)
+	Row:issued and 297.9 shares outstanding as of December 31, 2019; 299.2 shares issued
+	Row:and 298.5 shares outstanding as of December 31, 2018 	0.3 0.3
+Row:Additional paid-in capital 	1,683.3 1,433.2
+Row:Retained earnings 	3,348.4 3,028.7
+Row:Treasury stock, at cost; 0.8 and 0.7 shares as of December 31, 2019 and 2018,
+	Row:respectively 	(70.8) (55.0)
+Row:Accumulated other comprehensive loss 	(430.9) (390.2)
+Row:Total shareholders’ equity attributable to Amphenol Corporation 	4,530.3 4,017.0
+Row:Noncontrolling interests 	65.9 47.2
+Row:Total equity 	4,596.2 4,064.2
+Row:$ 	10,815.5 $ 10,044.9
+Row:2019 	2018 	2017
+Row:Cash from operating activities:
+		Row:Net income $ 	1,164.0 $ 1,216.9 	$ 660.7
+Row:Adjustments to reconcile net income to cash provided by operating activities:
+		Row:Depreciation and amortization 	312.1 299.7 	226.8
+Row:Stock-based compensation expense 	63.0 55.6 	49.7
+Row:Loss on early extinguishment of debt 	14.3 — 	—
+Row:Deferred income tax provision (benefit) 	15.2 (12.0) 	186.3
+Row:Net change in operating assets and liabilities, excluding effects of acquisitions:
+		Row:Accounts receivable, net 	117.3 (237.9) 	(146.5)
+Row:Inventories 	(3.4) (173.3) 	(100.4)
+Row:Prepaid expenses and other current assets 	(6.0) (47.7) 	(75.9)
+Row:Accounts payable 	(60.2) 48.8 	140.5
+Row:Accrued income taxes 	(91.7) (9.7) 	11.2
+Row:Other accrued liabilities 	(37.6) 57.4 	13.0
+Row:Accrued pension and postretirement benefits 	7.2 (76.6) 	5.0
+Row:Other long-term assets and liabilities 	8.1 (8.5) 	173.8
+Row:Net cash provided by operating activities 	1,502.3 1,112.7 	1,144.2
+Row:Cash paid 	during the year for:
+	Row:Interest 	$ 	116.6 $ 94.2 $ 84.3
+Row:Income 	taxes, net 	408.3 393.2 325.2

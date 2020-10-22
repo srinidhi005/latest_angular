@@ -1,0 +1,256 @@
+Row:(In millions, except per share amounts) For the years ended Dec 31,
+	2019 	2018 	2017
+Row:Net sales $ 	42,951 	$ 49,604 	$ 43,730
+Row:Cost of sales 	36,657 	41,074 	36,350
+Row:Research and development expenses 	765 	800 	803
+Row:Selling, general and administrative expenses 	1,590 	1,782 	1,795
+Row:Amortization of intangibles 	419 	469 	400
+Row:Restructuring, goodwill impairment and asset related charges - net 	3,219 	221 	2,739
+Row:Integration and separation costs 	1,063 	1,179 	798
+Row:Equity in earnings (losses) of nonconsolidated affiliates 	(94) 	555 	394
+Row:Sundry income (expense) - net 	461 	96 	(154)
+Row:Interest income 	81 	82 	66
+Row:Interest expense and amortization of debt discount 	933 	1,063 	914
+Row:Income (loss) from continuing operations before income taxes 	(1,247) 	3,749 	237
+Row:Provision for income taxes on continuing operations 	470 	809 	1,524
+Row:Income (loss) from continuing operations, net of tax 	(1,717) 	2,940 	(1,287)
+Row:Income from discontinued operations, net of tax 	445 	1,835 	1,882
+Row:Net income (loss) 	(1,272) 	4,775 	595
+Row:Net income attributable to noncontrolling interests 	87 	134 	130
+Row:Net income (loss) available for Dow Inc. common stockholders $ 	(1,359) 	$ 4,641 	$ 465
+Row:Per common share data:
+			Row:Earnings (loss) per common share from continuing operations - basic 	$ (2.42) 	$ 3.80 	$ (1.88)
+Row:Earnings per common share from discontinued operations - basic 	0.58 	2.41 	2.48
+Row:Earnings (loss) per common share - basic 	$ (1.84) 	$ 6.21 	$ 0.60
+Row:Earnings (loss) per common share from continuing operations - diluted 	$ (2.42) 	$ 3.80 	$ (1.88)
+Row:Earnings per common share from discontinued operations - diluted 	0.58 	2.41 	2.48
+Row:Earnings (loss) per common share - diluted 	$ (1.84) 	$ 6.21 	$ 0.60
+Row:(In millions, except share amounts) At Dec 31, 	2019 	2018
+Row:Assets
+		Row:Current Assets
+		Row:Cash and cash equivalents (variable interest entities restricted - 2019: $37; 2018: $71) $ Marketable securities 	2,367 21 	$ 2,724
+100
+Row:Accounts and notes receivable:
+		Row:Trade (net of allowance for doubtful receivables - 2019: $45; 2018: $42) Other 	4,844 2,711 	5,646
+3,389
+Row:Inventories 	6,214 	6,899
+Row:Other current assets Assets of discontinued operations - current 	658 — 	712
+19,900
+Row:Total current assets 	16,815 	39,370
+Row:Investments
+Investment in nonconsolidated affiliates Other investments (investments carried at fair value - 2019: $1,584; 2018: $1,699) Noncurrent receivables 	1,404 2,588 1,063 	3,320
+2,646
+360
+Row:Total investments 	5,055 	6,326
+Row:Property
+		Row:Property Less accumulated depreciation 	54,910 33,914 	53,984
+32,566
+Row:Net property (variable interest entities restricted - 2019: $330; 2018: $683) 	20,996 	21,418
+Row:Other Assets
+Goodwill Other intangible assets (net of accumulated amortization - 2019: $3,886; 2018: $3,379) Operating lease right-of-use assets 	8,796 3,759 2,072 	9,846
+4,225
+—
+Row:Deferred income tax assets 	2,213 	1,779
+Row:Deferred charges and other assets 	818 	735
+Row:Total other assets 	17,658 	16,585
+Row:Total Assets $ 	60,524 	$ 83,699
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Notes payable $ Long-term debt due within one year 	586 435 	$ 298
+338
+Row:Accounts payable:
+Trade 	3,889 	4,456
+Row:Other Operating lease liabilities - current 	2,064 421 	2,479
+—
+Row:Income taxes payable 	522 	557
+Row:Accrued and other current liabilities Liabilities of discontinued operations - current 	2,762 — 	2,931
+4,488
+Row:Total current liabilities 	10,679 	15,547
+Row:Long-Term Debt (variable interest entities nonrecourse - 2019: $34; 2018: $75) 	15,975 	19,253
+Row:Other Noncurrent Liabilities
+		Row:Deferred income tax liabilities Pension and other postretirement benefits - noncurrent 	347 10,083 	501
+8,926
+Row:Asbestos-related liabilities - noncurrent 	1,060 	1,142
+Row:Operating lease liabilities - noncurrent 	1,739 	—
+Row:Other noncurrent obligations 	6,547 	4,709
+Row:Total other noncurrent liabilities 	19,776 	15,278
+Row:Stockholders’ Equity
+		Row:Common stock (2019: authorized 5,000,000,000 shares and issued 751,228,644 shares of $0.01 par value each;
+2018: authorized and issued 100 shares of $0.01 par value each) Additional paid-in capital 	8 7,325 	—
+7,042
+Row:Retained earnings 	17,045 	35,460
+Row:Consolidated Statements of Cash Flows
+			Row:(In millions) For the years ended Dec 31,	2019
+	2018
+	2017
+Row:Operating Activities			Row:$
+Net income (loss)	(1,272) 	$4,775 	$595Row:Less: Income from discontinued operations, net of tax	445
+	1,835	1,882Row:Income (loss) from continuing operations, net of taxAdjustments to reconcile net income (loss) to net cash provided by (used for) operating activities:Depreciation and amortizationProvision (credit) for deferred income tax	(1,717)
+2,938(228)	2,940
+2,909(429)	(1,287)
+2,5461,413Row:Earnings of nonconsolidated affiliates less than dividends receivedNet periodic pension benefit costPension contributionsNet gain on sales of assets, businesses and investments	1,114144(261)(81)	108279(1,651)(38)	2531,032(1,672)(419)Row:Restructuring, goodwill impairment and asset related charges - netOther net loss	3,219198
+	221415
+	2,739451
+Row:Changes in assets and liabilities, net of effects of acquired and divested companies:Accounts and notes receivableInventories	1,253668	(855)(859)	(11,431)(891)Row:Accounts payableOther assets and liabilities, net	(948)(586)	787(731)	1,081(258)Row:Cash provided by (used for) operating activities - continuing operationsCash provided by operating activities - discontinued operations	5,713217	3,0961,158	(6,443)1,514Row:Cash provided by (used for) operating activities	5,930
+	4,254
+	(4,929)
+Row:Investing Activities			Row:Capital expendituresInvestment in gas field developments	(1,961)(76)	(2,091)(114)	(2,807)(121)Row:Purchases of previously leased assets	(9)	(26)	(187)Row:Proceeds from sales of property and businesses, net of cash divested	84
+	47	522Row:Acquisitions of property and businesses, net of cash acquiredInvestments in and loans to nonconsolidated affiliatesDistributions and loan repayments from nonconsolidated affiliates	(638)89	(20)(18)55	47(749)69Row:Purchases of investmentsProceeds from sales and maturities of investments	(899)1,252
+	(1,530)1,214	(642)1,165Row:Proceeds from interests in trade accounts receivable conduitsOther investing activities, netCash provided by (used for) investing activities - continuing operationsCash provided by (used for) investing activities - discontinued operations	(2,158)(34)	657
+(1,826)(369)	9,46234
+6,793725
+Row:Cash provided by (used for) investing activitiesFinancing ActivitiesChanges in short-term notes payable	(2,192)
+307	(2,195)
+(178)	7,518
+268
+Row:Proceeds from issuance of long-term debt	2,287	1,999	Row:Payments on long-term debt	(5,561)	(3,054)
+	(617)
+Row:Purchases of treasury stockProceeds from issuance of parent company stockProceeds from sales of common stock	(500)93
+	112
+	66
+423
+Row:Transaction financing, debt issuance and other costs	(119)	(70)	Row:Employee taxes paid for share-based payment arrangementsDistributions to noncontrolling interestsPurchases of noncontrolling interestsDividends paid to stockholdersDividends paid to DowDuPont Inc.	(60)(77)(297)(1,550)(535)	(77)(135)
+(3,711)	(81)(101)
+(2,179)(1,056)Row:Settlements and transfers related to separation from DowDuPont Inc.Other financing activities, net	1,935
+	(240)3	6(4)Row:Cash used for financing activities - continuing operationsCash used for financing activities - discontinued operations	(4,077)(18)	(5,351)(53)	(3,275)(50)Row:Cash used for financing activities	(4,095)	(5,404)	(3,325)Row:Effect of exchange rate changes on cash, cash equivalents and restricted cashSummary	(27)
+	(99)
+	320
+Row:Decrease in cash, cash equivalents and restricted cashCash, cash equivalents and res cted cash at beginning of year	(384)2,764	(3,444)6,208	(416)6,624Row:Cash, cash equivalents and restricted cash at end of year$
+	2,380 	$2,764 	$
+6,208
+Row:Less: Restricted cash and cash equivalents, included in "Other current assets"Cash and cash equivalents at end of year
+$
+	13
+2,367 	40
+$
+2,724 	19
+$
+6,189
+Row:(In millions, except per share amounts) For the years ended Dec 31,
+	2019 	2018 	2017
+Row:Net sales $ 	42,951 	$ 49,604 	$ 43,730
+Row:Cost of sales 	36,657 	41,074 	36,350
+Row:Research and development expenses 	765 	800 	803
+Row:Selling, general and administrative expenses 	1,590 	1,782 	1,795
+Row:Amortization of intangibles 	419 	469 	400
+Row:Restructuring, goodwill impairment and asset related charges - net 	3,219 	221 	2,739
+Row:Integration and separation costs 	1,063 	1,179 	798
+Row:Equity in earnings (losses) of nonconsolidated affiliates 	(94) 	555 	394
+Row:Sundry income (expense) - net 	461 	96 	(154)
+Row:Interest income 	81 	82 	66
+Row:Interest expense and amortization of debt discount 	933 	1,063 	914
+Row:Income (loss) from continuing operations before income taxes 	(1,247) 	3,749 	237
+Row:Provision for income taxes on continuing operations 	470 	809 	1,524
+Row:Income (loss) from continuing operations, net of tax 	(1,717) 	2,940 	(1,287)
+Row:Income from discontinued operations, net of tax 	445 	1,835 	1,882
+Row:Net income (loss) 	(1,272) 	4,775 	595
+Row:Net income attributable to noncontrolling interests 	87 	134 	130
+Row:Net income (loss) available for Dow Inc. common stockholders $ 	(1,359) 	$ 4,641 	$ 465
+Row:Per common share data:
+			Row:Earnings (loss) per common share from continuing operations - basic 	$ (2.42) 	$ 3.80 	$ (1.88)
+Row:Earnings per common share from discontinued operations - basic 	0.58 	2.41 	2.48
+Row:Earnings (loss) per common share - basic 	$ (1.84) 	$ 6.21 	$ 0.60
+Row:Earnings (loss) per common share from continuing operations - diluted 	$ (2.42) 	$ 3.80 	$ (1.88)
+Row:Earnings per common share from discontinued operations - diluted 	0.58 	2.41 	2.48
+Row:Earnings (loss) per common share - diluted 	$ (1.84) 	$ 6.21 	$ 0.60
+Row:(In millions, except share amounts) At Dec 31, 	2019 	2018
+Row:Assets
+		Row:Current Assets
+		Row:Cash and cash equivalents (variable interest entities restricted - 2019: $37; 2018: $71) $ Marketable securities 	2,367 21 	$ 2,724
+100
+Row:Accounts and notes receivable:
+		Row:Trade (net of allowance for doubtful receivables - 2019: $45; 2018: $42) Other 	4,844 2,711 	5,646
+3,389
+Row:Inventories 	6,214 	6,899
+Row:Other current assets Assets of discontinued operations - current 	658 — 	712
+19,900
+Row:Total current assets 	16,815 	39,370
+Row:Investments
+Investment in nonconsolidated affiliates Other investments (investments carried at fair value - 2019: $1,584; 2018: $1,699) Noncurrent receivables 	1,404 2,588 1,063 	3,320
+2,646
+360
+Row:Total investments 	5,055 	6,326
+Row:Property
+		Row:Property Less accumulated depreciation 	54,910 33,914 	53,984
+32,566
+Row:Net property (variable interest entities restricted - 2019: $330; 2018: $683) 	20,996 	21,418
+Row:Other Assets
+Goodwill Other intangible assets (net of accumulated amortization - 2019: $3,886; 2018: $3,379) Operating lease right-of-use assets 	8,796 3,759 2,072 	9,846
+4,225
+—
+Row:Deferred income tax assets 	2,213 	1,779
+Row:Deferred charges and other assets 	818 	735
+Row:Total other assets 	17,658 	16,585
+Row:Total Assets $ 	60,524 	$ 83,699
+Row:Liabilities and Equity
+		Row:Current Liabilities
+		Row:Notes payable $ Long-term debt due within one year 	586 435 	$ 298
+338
+Row:Accounts payable:
+Trade 	3,889 	4,456
+Row:Other Operating lease liabilities - current 	2,064 421 	2,479
+—
+Row:Income taxes payable 	522 	557
+Row:Accrued and other current liabilities Liabilities of discontinued operations - current 	2,762 — 	2,931
+4,488
+Row:Total current liabilities 	10,679 	15,547
+Row:Long-Term Debt (variable interest entities nonrecourse - 2019: $34; 2018: $75) 	15,975 	19,253
+Row:Other Noncurrent Liabilities
+		Row:Deferred income tax liabilities Pension and other postretirement benefits - noncurrent 	347 10,083 	501
+8,926
+Row:Asbestos-related liabilities - noncurrent 	1,060 	1,142
+Row:Operating lease liabilities - noncurrent 	1,739 	—
+Row:Other noncurrent obligations 	6,547 	4,709
+Row:Total other noncurrent liabilities 	19,776 	15,278
+Row:Stockholders’ Equity
+		Row:Common stock (2019: authorized 5,000,000,000 shares and issued 751,228,644 shares of $0.01 par value each;
+2018: authorized and issued 100 shares of $0.01 par value each) Additional paid-in capital 	8 7,325 	—
+7,042
+Row:Retained earnings 	17,045 	35,460
+Row:Consolidated Statements of Cash Flows
+			Row:(In millions) For the years ended Dec 31,	2019
+	2018
+	2017
+Row:Operating Activities			Row:$
+Net income (loss)	(1,272) 	$4,775 	$595Row:Less: Income from discontinued operations, net of tax	445
+	1,835	1,882Row:Income (loss) from continuing operations, net of taxAdjustments to reconcile net income (loss) to net cash provided by (used for) operating activities:Depreciation and amortizationProvision (credit) for deferred income tax	(1,717)
+2,938(228)	2,940
+2,909(429)	(1,287)
+2,5461,413Row:Earnings of nonconsolidated affiliates less than dividends receivedNet periodic pension benefit costPension contributionsNet gain on sales of assets, businesses and investments	1,114144(261)(81)	108279(1,651)(38)	2531,032(1,672)(419)Row:Restructuring, goodwill impairment and asset related charges - netOther net loss	3,219198
+	221415
+	2,739451
+Row:Changes in assets and liabilities, net of effects of acquired and divested companies:Accounts and notes receivableInventories	1,253668	(855)(859)	(11,431)(891)Row:Accounts payableOther assets and liabilities, net	(948)(586)	787(731)	1,081(258)Row:Cash provided by (used for) operating activities - continuing operationsCash provided by operating activities - discontinued operations	5,713217	3,0961,158	(6,443)1,514Row:Cash provided by (used for) operating activities	5,930
+	4,254
+	(4,929)
+Row:Investing Activities			Row:Capital expendituresInvestment in gas field developments	(1,961)(76)	(2,091)(114)	(2,807)(121)Row:Purchases of previously leased assets	(9)	(26)	(187)Row:Proceeds from sales of property and businesses, net of cash divested	84
+	47	522Row:Acquisitions of property and businesses, net of cash acquiredInvestments in and loans to nonconsolidated affiliatesDistributions and loan repayments from nonconsolidated affiliates	(638)89	(20)(18)55	47(749)69Row:Purchases of investmentsProceeds from sales and maturities of investments	(899)1,252
+	(1,530)1,214	(642)1,165Row:Proceeds from interests in trade accounts receivable conduitsOther investing activities, netCash provided by (used for) investing activities - continuing operationsCash provided by (used for) investing activities - discontinued operations	(2,158)(34)	657
+(1,826)(369)	9,46234
+6,793725
+Row:Cash provided by (used for) investing activitiesFinancing ActivitiesChanges in short-term notes payable	(2,192)
+307	(2,195)
+(178)	7,518
+268
+Row:Proceeds from issuance of long-term debt	2,287	1,999	Row:Payments on long-term debt	(5,561)	(3,054)
+	(617)
+Row:Purchases of treasury stockProceeds from issuance of parent company stockProceeds from sales of common stock	(500)93
+	112
+	66
+423
+Row:Transaction financing, debt issuance and other costs	(119)	(70)	Row:Employee taxes paid for share-based payment arrangementsDistributions to noncontrolling interestsPurchases of noncontrolling interestsDividends paid to stockholdersDividends paid to DowDuPont Inc.	(60)(77)(297)(1,550)(535)	(77)(135)
+(3,711)	(81)(101)
+(2,179)(1,056)Row:Settlements and transfers related to separation from DowDuPont Inc.Other financing activities, net	1,935
+	(240)3	6(4)Row:Cash used for financing activities - continuing operationsCash used for financing activities - discontinued operations	(4,077)(18)	(5,351)(53)	(3,275)(50)Row:Cash used for financing activities	(4,095)	(5,404)	(3,325)Row:Effect of exchange rate changes on cash, cash equivalents and restricted cashSummary	(27)
+	(99)
+	320
+Row:Decrease in cash, cash equivalents and restricted cashCash, cash equivalents and res cted cash at beginning of year	(384)2,764	(3,444)6,208	(416)6,624Row:Cash, cash equivalents and restricted cash at end of year$
+	2,380 	$2,764 	$
+6,208
+Row:Less: Restricted cash and cash equivalents, included in "Other current assets"Cash and cash equivalents at end of year
+$
+	13
+2,367 	40
+$
+2,724 	19
+$
+6,189

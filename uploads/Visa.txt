@@ -1,0 +1,375 @@
+Row 0: Assets
+		Row 1: Cash and cash equivalents
+	$
+7,838
+	8,162
+Row 2: Restricted cash equivalents—U.S. litigation escrow (Note 4 and Note 5)
+	1,205
+	1,491
+Row 3: Investment securities (Note 6)
+	4,236
+	3,547
+Row 4: Settlement receivable
+	3,048
+	1,582
+Row 5: Accounts receivable
+	1,542
+	1,208
+Row 6: Customer collateral (Note 4 and Note 11)
+	1,648
+	1,324
+Row 7: Current portion of client incentives
+	741
+	340
+Row 8: Prepaid expenses and other current assets
+	712
+	562
+Row 9: Total current assets
+	20,970
+	18,216
+Row 10: Investment securities (Note 6)
+	2,157
+	4,082
+Row 11: Client incentives
+	2,084
+	538
+Row 12: Property, equipment and technology, net (Note 7)
+	2,695
+	2,472
+Row 13: Goodwill (Note 8)
+	15,656
+	15,194
+Row 14: Intangible assets, net (Note 8)
+	26,780
+	27,558
+Row 15: Other assets
+	2,232
+	1,165
+Row 16: Total assets
+	72,574
+$
+$
+	69,225
+Row 17: Liabilities
+		Row 18: Accounts payable
+	156
+$
+	183
+Row 19: Settlement payable
+	3,990
+	2,168
+Row 20: Customer collateral (Note 4 and Note 11)
+	1,648
+	1,325
+Row 21: Accrued compensation and benefits
+	796
+	901
+Row 22: Client incentives
+	3,997
+	2,834
+Row 23: Accrued liabilities
+	1,625
+	1,160
+Row 24: Deferred purchase consideration
+		1,300
+Row 25: Accrued litigation (Note 20)
+	1,203
+	1,434
+Row 26: Total current liabilities
+	13,415
+	11,305
+Row 27: Long-term debt (Note 9)
+	16,729
+	16,630
+Row 28: Deferred tax liabilities (Note 19)
+	4,807
+	4,618
+Row 29: Other liabilities
+	2,939
+	2,666
+Row 30: Total liabilities
+	37,890
+	35,219
+Row 31: Commitments and contingencies (Note 17)
+		Row 32: Equity
+		Row 33: Preferred stock, $0.0001 par value, 25 shares authorized and 5 shares issued and outstanding as follows:
+		Row 34: Series A convertible participating preferred stock, none issued (the "class A equivalent preferred stock") (Note 14)
+		Row 35: Series B convertible participating preferred stock, 2 shares issued and outstanding at September 30, 2019 and
+		Row 0: Equity
+	Row 1: Preferred stock, $0.0001 par value, 25 shares authorized and 5 shares issued and outstanding as follows:
+	Row 2: Series A convertible participating preferred stock, none issued (the "class A equivalent preferred stock") (Note 14)
+	Row 3: Series B convertible participating preferred stock, 2 shares issued and outstanding at September 30, 2019 and
+2018 (the “UK&I preferred stock") (Note 5 and Note 14)
+	2,285
+2,291
+Row 4: Series C convertible participating preferred stock, 3 shares issued and outstanding at September 30, 2019 and
+2018 (the “Europe preferred stock") (Note 5 and Note 14)
+	3,177
+3,179
+Row 5: Class A common stock, $0.0001 par value, 2,001,622 shares authorized, 1,718 and 1,768 shares issued and
+outstanding at September 30, 2019 and 2018, respectively (Note 14)
+	Row 6: Class B common stock, $0.0001 par value, 622 shares authorized, 245 shares issued and outstanding at September 30,
+2019 and 2018, respectively (Note 14)
+	Row 7: Class C common stock, $0.0001 par value, 1,097 shares authorized, 11 and 12 shares issued and outstanding at
+September 30, 2019 and 2018, respectively (Note 14)
+	Row 8: Right to recover for covered losses (Note 5)
+	(7)
+(171)
+Row 9: Additional paid-in capital
+	16,541
+16,678
+Row 10: Accumulated income
+	13,502
+11,318
+Row 11: Accumulated other comprehensive income (loss), net:
+	Row 12: Investment securities
+	6
+(17)
+Row 13: Defined benefit pension and other postretirement plans
+	(192)
+(61)
+Row 14: Derivative instruments
+	60
+199
+Row 0: (650) 		547
+Row 1: 34,684 		34,006
+Row 2: $ 72,574 	$ 	69,225
+Row 0: Total equity
+	34,684 	34,006
+Row 1: Total liabilities and equity 	$ 72,574 	$ 69,225
+Row 0: Net revenues
+	$ 22,977 	$ 	20,609 	$ 	18,358
+Row 1: Operating Expenses
+					Row 2: Personnel
+	3,444 		3,170 		2,628
+Row 3: Marketing
+	1,105 		988 		922
+Row 4: Network and processing
+	721 		686 		620
+Row 5: Professional fees
+	454 		446 		409
+Row 6: Depreciation and amortization
+	656 		613 		556
+Row 7: General and administrative
+	1,196 		1,145 		1,060
+Row 8: Litigation provision (Note 20)
+	400 		607 		19
+Row 9: Total operating expenses
+	7,976 		7,655 		6,214
+Row 10: Operating income 	15,001 		12,954 		12,144
+Row 11: Non-operating Income (Expense)
+					Row 12: Interest expense, net 	(533) 		(612) 		(563)
+Row 13: Investment income and other
+	416 		464 		113
+Row 14: Total non-operating income (expense) 	(117) 		(148) 		(450)
+Row 15: Income before income taxes
+	14,884 		12,806 		11,694
+Row 16: Income tax provision (Note 19) 	2,804 		2,505 		4,995
+Row 17: Net income 	$ 12,080 	$ 	10,301 	$ 	6,699
+Row 18: Basic Earnings Per Share (Note 15)
+					Row 19: Class A common stock 	$ 5.32 	$ 	4.43 	$ 	2.80
+Row 20: Class B common stock 	$ 8.68 	$ 	7.28 	$ 	4.62
+Row 21: Class C common stock 	$ 21.30 	$ 	17.72 	$ 	11.21
+Row 22: Basic Weighted-average Shares Outstanding (Note 15)
+					Row 23: Class A common stock 	1,742 		1,792 		1,845
+Row 24: Class B common stock 	245 		245 		245
+Row 25: Class C common stock 	12 		12 		14
+Row 26: Diluted Earnings Per Share (Note 15)
+					Row 27: Class A common stock 	$ 5.32 	$ 	4.42 	$ 	2.80
+Row 28: Class B common stock 	$ 8.66 	$ 	7.27 	$ 	4.61
+Row 29: Class C common stock 	$ 21.26 	$ 	17.69 	$ 	11.19
+Row 30: Diluted Weighted-average Shares Outstanding (Note 15)
+					Row 31: Class A common stock 	2,272 		2,329 		2,395
+Row 32: Class B common stock 	245 		245 		245
+Row 33: Class C common stock 	12 		12 		14
+Row 0: (117) 	(148) 	(450)
+Row 1: 14,884 	12,806 	11,694
+Row 2: 2,804 	2,505 	4,995
+Row 3: $ 12,080 	$ 10,301 	$ 6,699
+Row 0: $ 	8.68 	$ 	7.28 	$ 	4.62
+Row 1: $ 	21.30 	$ 	17.72 	$ 	11.21
+Row 0: 245 	245 	245
+Row 1: 12 	12 	14
+Row 0: $ 	8.66 	$ 	7.27 $ 	4.61
+Row 1: $ 	21.26 	$ 	17.69 $ 	11.19
+Row 0: 245 	245 	245
+Row 1: 12 	12 	14
+Row 0: Net income 	$ 12,080 	$ 10,301 	$ 6,699
+Row 1: Other comprehensive income (loss), net of tax:
+			Row 2: Investment securities:
+			Row 3: Net unrealized gain (loss)
+	20 	94 	60
+Row 4: Income tax effect 	(5) 	(19) 	(24)
+Row 5: Reclassification adjustments
+	1 	(215) 	1
+Row 6: Income tax effect
+	— 	50 	—
+Row 7: Defined benefit pension and other postretirement plans:
+			Row 8: Net unrealized actuarial gain (loss) and prior service credit (cost)
+	(174) 	16 	183
+Row 9: Income tax effect
+	36 	(5) 	(54)
+Row 10: Reclassification adjustments
+	9
+	5 	32
+Row 11: Income tax effect
+	(2) 	(1) 	(12)
+Row 12: Derivative instruments:
+			Row 13: Net unrealized gain (loss)
+	233 	90 	(22)
+Row 14: Income tax effect
+	(25) 	(24) 	15
+Row 15: Reclassification adjustments
+	(85) 	32 	33
+Row 16: Income tax effect
+	16 	(2) 	(12)
+Row 17: Foreign currency translation adjustments
+	(1,228) 	(352) 	1,136
+Row 18: Other comprehensive income (loss), net of tax
+	(1,204) 	(331) 	1,336
+Row 19: Comprehensive income 	$ 10,876 	$ 9,970 	$ 8,035
+Row 0: Stock(1)
+Common Stock
+	Recover
+		Other
+Row 1: Series
+Preferred Treasury Series
+	for Covered 	Additional
+Paid-In
+Accumulated
+	Comprehensive
+Income (Loss),
+Row 2: B
+Stock Stock C
+Class A
+Class B
+Class C
+	Losses 	Capital
+Income
+	Net
+Row 0: 						(in 	millions, except 	per share 	data)
+			Row 1: Balance as of
+September 30,
+2016
+	2
+	3
+	1,871
+	245
+	17
+	$ 5,717
+	$ (170)
+	$
+(34)
+	$ 17,395
+	$
+10,462
+	$
+(458)
+	$32,912
+Row 2: Net income
+										6,699
+		6,699
+Row 3: Other
+comprehensive
+income (loss),
+net of tax
+											1,336
+	1,336
+Row 4: Comprehensive
+income
+												8,035
+Row 5: VE territory
+covered losses
+incurred (Note 5)
+								(209)
+				(209)
+Row 6: Recovery through
+conversion rate
+adjustment (Note
+5 and Note 14)
+						(191)
+		191
+				-
+Row 7: Charitable
+contribution of
+Visa Inc. shares
+			2
+				170
+					170
+Row 8: Treasury stock
+appreciation, net
+of tax
+									14
+			14
+Row 9: Conversion of class
+C common stock
+upon sales into
+public market
+			17
+		(4)
+							-
+Row 10: Vesting of
+restricted stock
+and
+performance-based shares
+			2
+									Row 11: Share-based
+compensation,
+net of forfeitures
+(Note 16)
+			(2)
+						235
+			235
+Row 12: Restricted stock
+												Row 13: and
+												Row 14: performance-based shares
+settled in cash
+for taxes
+			(1)
+						(76)
+			(76)
+Row 15: Cash proceeds
+from issuance of
+common stock
+under employee
+equity plans
+			4
+						149
+			149
+Row 16: Cash dividends
+declared and
+paid, at a
+quarterly amount
+of $0.165 per
+class A share
+(Note 14)
+										(1,579)
+		(1,579)
+Row 17: Repurchase of
+class A common
+stock (Note 14)
+			(77)
+						(817)
+	(6,074)
+		(6,891)
+Row 18: Balance as of
+September 30,
+2017
+	2
+	3
+	1,818
+	245
+	13
+	$ 5,526
+	$
+	$
+(52)
+	$ 16,900
+	$
+9,508
+	$
+878
+	$32,760
+Row 19: (1) Series B and C (2) Decrease in Class 	preferred A common 	stock are stock 	alternatively related to 	referred to forfeitures of 	as UK&I and restricted 	Europe stock awards 	preferred stockis less than 	, respectivelyone million 	.
+shares.
+			

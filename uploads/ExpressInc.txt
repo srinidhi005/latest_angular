@@ -1,0 +1,293 @@
+Row	February 1, 2020 	February 2, 2019
+RowASSETS
+		RowCURRENT ASSETS:
+		RowCash and cash equivalents $ 	207,139 $ 	171,670
+RowReceivables, net 	10,824 	17,369
+RowInventories 	220,303 	267,766
+RowPrepaid rent 	6,850 	30,047
+RowOther 	25,573 	25,176
+RowTotal current assets 	470,689 	512,028
+RowRIGHT OF USE ASSET, NET 	1,010,216 	—
+RowPROPERTY AND EQUIPMENT 	979,639 	1,083,347
+RowLess: accumulated depreciation 	(731,309) 	(719,068)
+RowProperty and equipment, net 	248,330 	364,279
+RowTRADENAME/DOMAIN NAMES/TRADEMARKS 	— 	197,618
+RowDEFERRED TAX ASSETS 	54,973 	5,442
+RowOTHER ASSETS 	6,531 	7,260
+RowTotal assets $ 	1,790,739 $ 	1,086,627
+RowLIABILITIES AND STOCKHOLDERS’ EQUITY
+		RowCURRENT LIABILITIES:
+		RowShort-term lease liability $ 	226,174 $ 	—
+RowAccounts payable 	126,863 	155,913
+RowDeferred revenue 	38,227 	40,466
+RowAccrued expenses 	76,211 	78,313
+RowTotal current liabilities 	467,475 	274,692
+RowLONG-TERM LEASE LIABILITY 	897,304 	—
+RowDEFERRED LEASE CREDITS 	1,835 	129,505
+RowOTHER LONG-TERM LIABILITIES 	17,823 	97,252
+RowTotal liabilities 	1,384,437 	501,449
+RowCOMMITMENTS AND CONTINGENCIES (Note 12)
+		RowSTOCKHOLDERS’ EQUITY:
+		RowPreferred stock – $0.01 par value; 10,000 shares authorized; no shares issued or outstanding 	— 	—
+RowCommon stock – $0.01 par value; 500,000 shares authorized; 93,632 shares and 93,632 shares issued at February 1, 2020 and
+February 2, 2019, respectively, and 63,922 shares and 67,424 shares outstanding at February 1, 2020 and February 2, 2019,
+respectively 	936 	936
+RowAdditional paid-in capital 	215,207 	211,981
+RowRetained earnings 	533,690 	713,864
+RowTreasury stock – at average cost; 29,710 shares and 26,208 shares at February 1, 2020 and February 2, 2019, respectively 	(343,531) 	(341,603)
+RowTotal stockholders’ equity 	406,302 	585,178
+RowTotal liabilities and stockholders’ equity $ 	1,790,739 $ 	1,086,627
+Rowrespectively 			936 	936
+RowAdditional 	paid-in capital 		215,207 	211,981
+RowRetained 	earnings 		533,690 	713,864
+RowTreasury stock – 	at average cost; 29,710 shares and 26,208 shares at February 1, 2020 and 	February 2, 2019, respectively 	(343,531) 	(341,603)
+RowTotal 	stockholders’ equity 		406,302 	585,178
+RowTotal 	liabilities and stockholders’ equity 	$ 	1,790,739 	$ 1,086,627
+Row	2019 	2018 	2017
+RowNET SALES 	$ 2,019,194 	$ 2,116,344 	$ 2,158,502
+RowCOST OF GOODS SOLD, BUYING AND OCCUPANCY COSTS 	1,468,619 	1,501,433 	1,530,991
+RowGross profit 	550,575 	614,911 	627,511
+RowOPERATING EXPENSES:
+			RowSelling, general, and administrative expenses 	564,332 	587,348 	573,550
+RowImpairment of intangible assets 	197,618 	— 	—
+RowRestructuring costs 	7,337 	166 	22,869
+RowOther operating (income)/expense, net 	(847) 	(818) 	536
+RowTotal operating expenses 	768,440 	586,696 	596,955
+RowOPERATING (LOSS)/INCOME 	(217,865) 	28,215 	30,556
+RowINTEREST (INCOME)/EXPENSE, NET 	(2,981) 	25 	2,242
+RowOTHER EXPENSE/(INCOME), NET 	— 	7,900 	(537)
+Row(LOSS)/INCOME BEFORE INCOME TAXES 	(214,884) 	20,290 	28,851
+RowINCOME TAX (BENEFIT)/EXPENSE 	(50,526) 	10,660 	9,978
+RowNET (LOSS)/INCOME 	$ (164,358) 	$ 9,630 	$ 18,873
+RowOTHER COMPREHENSIVE INCOME:
+			RowForeign currency translation gain (loss) 	$ — 	$ — 	$ (402)
+RowAmount reclassified to earnings 	— 	— 	4,205
+RowCOMPREHENSIVE (LOSS)/ INCOME 	$ (164,358) 	$ 9,630 	$ 22,676
+RowEARNINGS PER SHARE:
+			RowBasic 	$ (2.49) 	$ 0.13 	$ 0.24
+RowDiluted 	$ (2.49) 	$ 0.13 	$ 0.24
+RowWEIGHTED AVERAGE SHARES OUTSTANDING:
+			RowBasic 	66,133 	72,518 	78,592
+RowDiluted 	66,133 	73,239 	78,870
+RowSee Notes to Consolidated Financial Statements.
+			RowWEIGHTED AVERAGE SHARES OUTSTANDING:
+	RowBasic 66,133 	72,518 78,592
+RowDiluted 66,133 	73,239 78,870
+RowSee Notes to Consolidated Financial Statements.
+	Row	Shares
+Outstanding 	Par Value
+	Additional
+Paid-in
+Capital
+	Retained
+Earnings
+	Accumulated Other
+Comprehensive Loss 	Shares
+	At Average
+Cost 	Total
+RowBALANCE, January 28, 2017 	78,422 $ 	921 $ 	185,097 	$ 685,522 	$ (3,803) 	13,641 	$ (237,243) 	$ 630,494
+RowNet income 	— 	— 	— 	18,873 	— 	— 	— 	18,873
+RowExercise of stock options and restricted stock 	584 	5 	(6) 	— 	— 	— 	— 	(1)
+RowShare-based compensation 	— 	— 	14,008 	— 	— 	— 	— 	14,008
+RowRepurchase of common stock 	(2,282) 	— 	— 	— 	— 	2,282 	(18,863) 	(18,863)
+RowForeign currency translation 	— 	— 	— 	— 	(402) 	— 	— 	(402)
+RowAmount reclassified to earnings 	— 	— 	— 	— 	4,205 	— 	— 	4,205
+RowBALANCE, February 3, 2018 	76,724 $ 	926 $ 	199,099 	$ 704,395 	$ — 	15,923 	$ (256,106) 	$ 648,314
+RowNet income 	— 	— 	— 	9,630 	— 	— 	— 	9,630
+RowExercise of stock options and restricted stock 	1,013 	10 	(232) 	(161) 	— 	(28) 	384 	1
+RowShare-based compensation 	— 	— 	13,114 	— 	— 	— 	— 	13,114
+RowRepurchase of common stock 	(10,313) 	— 	— 	— 	— 	10,313 	(85,881) 	(85,881)
+RowBALANCE, February 2, 2019 	67,424 $ 	936 $ 	211,981 	$ 713,864 	$ — 	26,208 	$ (341,603) 	$ 585,178
+RowAdoption of ASC Topic 842 				(5,482) 				(5,482)
+RowNet loss 	— 	— 	— 	(164,358) 	— 	— 	— 	(164,358)
+RowExercise of stock options and restricted stock 	1,204 	— 	(4,951) 	(10,334) 	— 	(1,204) 	15,285 	—
+RowShare-based compensation 	— 	— 	8,177 	— 	— 	— 	— 	8,177
+RowRepurchase of common stock 	(4,706) 	— 	— 	— 	— 	4,706 	(17,213) 	(17,213)
+RowBALANCE, February 1, 2020 	63,922 $ 	936 $ 	215,207 	$ 533,690 	$ — 	29,710 	$ (343,531) 	$ 406,302
+RowSee Notes to Consolidated Financial Statements.
+								Row(Amounts in Thousands)
+	2019 	2018 	2017
+RowCASH FLOWS FROM OPERATING ACTIVITIES:
+			RowNet (loss)/income $ 	(164,358) 	$ 9,630 	$ 18,873
+RowAdjustments to reconcile net (loss)/income to net cash provided by operating activities:
+			RowDepreciation and amortization 	85,383 	85,853 	90,221
+RowLoss on disposal of property and equipment 	916 	368 	2,891
+RowImpairment of property, equipment, and lease assets 	4,430 	818 	9,850
+RowImpairment of intangible assets 	197,618 	— 	—
+RowEquity method investment impairment 	500 	8,400 	—
+RowLoss on deconsolidation of Canada 	— 	— 	10,672
+RowShare-based compensation 	8,177 	13,114 	14,008
+RowDeferred taxes 	(49,561) 	536 	396
+RowLandlord allowance amortization 	(2,205) 	(11,606) 	(13,183)
+RowOther non-cash adjustments 	(500) 	(500) 	(500)
+RowChanges in operating assets and liabilities:
+			RowReceivables, net 	6,545 	(5,284) 	3,279
+RowInventories 	47,463 	(7,038) 	(28,279)
+RowAccounts payable, deferred revenue, and accrued expenses 	(32,339) 	(21,097) 	(14,166)
+RowOther assets and liabilities 	(11,359) 	523 	24,505
+RowNet cash provided by operating activities 	90,710 	73,717 	118,567
+RowCASH FLOWS FROM INVESTING ACTIVITIES:
+			RowCapital expenditures 	(37,039) 	(49,778) 	(57,435)
+RowDecrease in cash and cash equivalents resulting from deconsolidation of Canada 	— 	— 	(9,232)
+RowNet cash used in investing activities 	(37,039) 	(49,778) 	(66,667)
+RowCASH FLOWS FROM FINANCING ACTIVITIES:
+			RowCosts incurred in connection with debt arrangements 	(899) 	— 	—
+RowPayments on lease financing obligations 	(90) 	(1,860) 	(1,710)
+RowRepayments of financing arrangements 	— 	(750) 	(2,040)
+RowRepurchase of common stock under share repurchase programs (see Note 8) 	(15,610) 	(83,172) 	(17,264)
+RowRepurchase of common stock for tax withholding obligations 	(1,603) 	(2,709) 	(1,599)
+RowNet cash used in financing activities 	(18,202) 	(88,491) 	(22,613)
+RowEFFECT OF EXCHANGE RATE ON CASH 	— 	— 	(438)
+RowNET INCREASE/(DECREASE) IN CASH AND CASH EQUIVALENTS 	35,469 	(64,552) 	28,849
+RowCASH AND CASH EQUIVALENTS, Beginning of period 	171,670 	236,222 	207,373
+RowCASH AND CASH EQUIVALENTS, End of period $ 	207,139 	$ 171,670 	$ 236,222
+RowSUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+			RowCash paid to taxing authorities $ 	9,406 	$ 11,642 	$ 6,142
+RowSee Notes to Consolidated Financial Statements.
+			Row:	February 1, 2020 	February 2, 2019
+Row:ASSETS
+		Row:CURRENT ASSETS:
+		Row:Cash and cash equivalents $ 	207,139 $ 	171,670
+Row:Receivables, net 	10,824 	17,369
+Row:Inventories 	220,303 	267,766
+Row:Prepaid rent 	6,850 	30,047
+Row:Other 	25,573 	25,176
+Row:Total current assets 	470,689 	512,028
+Row:RIGHT OF USE ASSET, NET 	1,010,216 	—
+Row:PROPERTY AND EQUIPMENT 	979,639 	1,083,347
+Row:Less: accumulated depreciation 	(731,309) 	(719,068)
+Row:Property and equipment, net 	248,330 	364,279
+Row:TRADENAME/DOMAIN NAMES/TRADEMARKS 	— 	197,618
+Row:DEFERRED TAX ASSETS 	54,973 	5,442
+Row:OTHER ASSETS 	6,531 	7,260
+Row:Total assets $ 	1,790,739 $ 	1,086,627
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+		Row:CURRENT LIABILITIES:
+		Row:Short-term lease liability $ 	226,174 $ 	—
+Row:Accounts payable 	126,863 	155,913
+Row:Deferred revenue 	38,227 	40,466
+Row:Accrued expenses 	76,211 	78,313
+Row:Total current liabilities 	467,475 	274,692
+Row:LONG-TERM LEASE LIABILITY 	897,304 	—
+Row:DEFERRED LEASE CREDITS 	1,835 	129,505
+Row:OTHER LONG-TERM LIABILITIES 	17,823 	97,252
+Row:Total liabilities 	1,384,437 	501,449
+Row:COMMITMENTS AND CONTINGENCIES (Note 12)
+		Row:STOCKHOLDERS’ EQUITY:
+		Row:Preferred stock – $0.01 par value; 10,000 shares authorized; no shares issued or outstanding 	— 	—
+Row:Common stock – $0.01 par value; 500,000 shares authorized; 93,632 shares and 93,632 shares issued at February 1, 2020 and
+February 2, 2019, respectively, and 63,922 shares and 67,424 shares outstanding at February 1, 2020 and February 2, 2019,
+respectively 	936 	936
+Row:Additional paid-in capital 	215,207 	211,981
+Row:Retained earnings 	533,690 	713,864
+Row:Treasury stock – at average cost; 29,710 shares and 26,208 shares at February 1, 2020 and February 2, 2019, respectively 	(343,531) 	(341,603)
+Row:Total stockholders’ equity 	406,302 	585,178
+Row:Total liabilities and stockholders’ equity $ 	1,790,739 $ 	1,086,627
+Row:respectively 			936 	936
+Row:Additional 	paid-in capital 		215,207 	211,981
+Row:Retained 	earnings 		533,690 	713,864
+Row:Treasury stock – 	at average cost; 29,710 shares and 26,208 shares at February 1, 2020 and 	February 2, 2019, respectively 	(343,531) 	(341,603)
+Row:Total 	stockholders’ equity 		406,302 	585,178
+Row:Total 	liabilities and stockholders’ equity 	$ 	1,790,739 	$ 1,086,627
+Row:	2019 	2018 	2017
+Row:NET SALES 	$ 2,019,194 	$ 2,116,344 	$ 2,158,502
+Row:COST OF GOODS SOLD, BUYING AND OCCUPANCY COSTS 	1,468,619 	1,501,433 	1,530,991
+Row:Gross profit 	550,575 	614,911 	627,511
+Row:OPERATING EXPENSES:
+			Row:Selling, general, and administrative expenses 	564,332 	587,348 	573,550
+Row:Impairment of intangible assets 	197,618 	— 	—
+Row:Restructuring costs 	7,337 	166 	22,869
+Row:Other operating (income)/expense, net 	(847) 	(818) 	536
+Row:Total operating expenses 	768,440 	586,696 	596,955
+Row:OPERATING (LOSS)/INCOME 	(217,865) 	28,215 	30,556
+Row:INTEREST (INCOME)/EXPENSE, NET 	(2,981) 	25 	2,242
+Row:OTHER EXPENSE/(INCOME), NET 	— 	7,900 	(537)
+Row:(LOSS)/INCOME BEFORE INCOME TAXES 	(214,884) 	20,290 	28,851
+Row:INCOME TAX (BENEFIT)/EXPENSE 	(50,526) 	10,660 	9,978
+Row:NET (LOSS)/INCOME 	$ (164,358) 	$ 9,630 	$ 18,873
+Row:OTHER COMPREHENSIVE INCOME:
+			Row:Foreign currency translation gain (loss) 	$ — 	$ — 	$ (402)
+Row:Amount reclassified to earnings 	— 	— 	4,205
+Row:COMPREHENSIVE (LOSS)/ INCOME 	$ (164,358) 	$ 9,630 	$ 22,676
+Row:EARNINGS PER SHARE:
+			Row:Basic 	$ (2.49) 	$ 0.13 	$ 0.24
+Row:Diluted 	$ (2.49) 	$ 0.13 	$ 0.24
+Row:WEIGHTED AVERAGE SHARES OUTSTANDING:
+			Row:Basic 	66,133 	72,518 	78,592
+Row:Diluted 	66,133 	73,239 	78,870
+Row:See Notes to Consolidated Financial Statements.
+			Row:WEIGHTED AVERAGE SHARES OUTSTANDING:
+	Row:Basic 66,133 	72,518 78,592
+Row:Diluted 66,133 	73,239 78,870
+Row:See Notes to Consolidated Financial Statements.
+	Row:	Shares
+Outstanding 	Par Value
+	Additional
+Paid-in
+Capital
+	Retained
+Earnings
+	Accumulated Other
+Comprehensive Loss 	Shares
+	At Average
+Cost 	Total
+Row:BALANCE, January 28, 2017 	78,422 $ 	921 $ 	185,097 	$ 685,522 	$ (3,803) 	13,641 	$ (237,243) 	$ 630,494
+Row:Net income 	— 	— 	— 	18,873 	— 	— 	— 	18,873
+Row:Exercise of stock options and restricted stock 	584 	5 	(6) 	— 	— 	— 	— 	(1)
+Row:Share-based compensation 	— 	— 	14,008 	— 	— 	— 	— 	14,008
+Row:Repurchase of common stock 	(2,282) 	— 	— 	— 	— 	2,282 	(18,863) 	(18,863)
+Row:Foreign currency translation 	— 	— 	— 	— 	(402) 	— 	— 	(402)
+Row:Amount reclassified to earnings 	— 	— 	— 	— 	4,205 	— 	— 	4,205
+Row:BALANCE, February 3, 2018 	76,724 $ 	926 $ 	199,099 	$ 704,395 	$ — 	15,923 	$ (256,106) 	$ 648,314
+Row:Net income 	— 	— 	— 	9,630 	— 	— 	— 	9,630
+Row:Exercise of stock options and restricted stock 	1,013 	10 	(232) 	(161) 	— 	(28) 	384 	1
+Row:Share-based compensation 	— 	— 	13,114 	— 	— 	— 	— 	13,114
+Row:Repurchase of common stock 	(10,313) 	— 	— 	— 	— 	10,313 	(85,881) 	(85,881)
+Row:BALANCE, February 2, 2019 	67,424 $ 	936 $ 	211,981 	$ 713,864 	$ — 	26,208 	$ (341,603) 	$ 585,178
+Row:Adoption of ASC Topic 842 				(5,482) 				(5,482)
+Row:Net loss 	— 	— 	— 	(164,358) 	— 	— 	— 	(164,358)
+Row:Exercise of stock options and restricted stock 	1,204 	— 	(4,951) 	(10,334) 	— 	(1,204) 	15,285 	—
+Row:Share-based compensation 	— 	— 	8,177 	— 	— 	— 	— 	8,177
+Row:Repurchase of common stock 	(4,706) 	— 	— 	— 	— 	4,706 	(17,213) 	(17,213)
+Row:BALANCE, February 1, 2020 	63,922 $ 	936 $ 	215,207 	$ 533,690 	$ — 	29,710 	$ (343,531) 	$ 406,302
+Row:See Notes to Consolidated Financial Statements.
+								Row:(Amounts in Thousands)
+	2019 	2018 	2017
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+			Row:Net (loss)/income $ 	(164,358) 	$ 9,630 	$ 18,873
+Row:Adjustments to reconcile net (loss)/income to net cash provided by operating activities:
+			Row:Depreciation and amortization 	85,383 	85,853 	90,221
+Row:Loss on disposal of property and equipment 	916 	368 	2,891
+Row:Impairment of property, equipment, and lease assets 	4,430 	818 	9,850
+Row:Impairment of intangible assets 	197,618 	— 	—
+Row:Equity method investment impairment 	500 	8,400 	—
+Row:Loss on deconsolidation of Canada 	— 	— 	10,672
+Row:Share-based compensation 	8,177 	13,114 	14,008
+Row:Deferred taxes 	(49,561) 	536 	396
+Row:Landlord allowance amortization 	(2,205) 	(11,606) 	(13,183)
+Row:Other non-cash adjustments 	(500) 	(500) 	(500)
+Row:Changes in operating assets and liabilities:
+			Row:Receivables, net 	6,545 	(5,284) 	3,279
+Row:Inventories 	47,463 	(7,038) 	(28,279)
+Row:Accounts payable, deferred revenue, and accrued expenses 	(32,339) 	(21,097) 	(14,166)
+Row:Other assets and liabilities 	(11,359) 	523 	24,505
+Row:Net cash provided by operating activities 	90,710 	73,717 	118,567
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+			Row:Capital expenditures 	(37,039) 	(49,778) 	(57,435)
+Row:Decrease in cash and cash equivalents resulting from deconsolidation of Canada 	— 	— 	(9,232)
+Row:Net cash used in investing activities 	(37,039) 	(49,778) 	(66,667)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+			Row:Costs incurred in connection with debt arrangements 	(899) 	— 	—
+Row:Payments on lease financing obligations 	(90) 	(1,860) 	(1,710)
+Row:Repayments of financing arrangements 	— 	(750) 	(2,040)
+Row:Repurchase of common stock under share repurchase programs (see Note 8) 	(15,610) 	(83,172) 	(17,264)
+Row:Repurchase of common stock for tax withholding obligations 	(1,603) 	(2,709) 	(1,599)
+Row:Net cash used in financing activities 	(18,202) 	(88,491) 	(22,613)
+Row:EFFECT OF EXCHANGE RATE ON CASH 	— 	— 	(438)
+Row:NET INCREASE/(DECREASE) IN CASH AND CASH EQUIVALENTS 	35,469 	(64,552) 	28,849
+Row:CASH AND CASH EQUIVALENTS, Beginning of period 	171,670 	236,222 	207,373
+Row:CASH AND CASH EQUIVALENTS, End of period $ 	207,139 	$ 171,670 	$ 236,222
+Row:SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+			Row:Cash paid to taxing authorities $ 	9,406 	$ 11,642 	$ 6,142
+Row:See Notes to Consolidated Financial Statements.
+			

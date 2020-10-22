@@ -1,0 +1,132 @@
+Row:Note 	2018 	2017 	2016
+Row:Revenue 4 	5,259 	4,090 	2,952
+Row:Cost of revenue 	3,906 	3,241 	2,551
+Row:Gross profit 	1,353 	849 	401
+Row:Research and development 	493 	396 	207
+Row:Sales and marketing 	620 	567 	368
+Row:General and administrative 	283 	264 	175
+Row:	1,396 	1,227 	750
+Row:Operating loss 	(43) 	(378) 	(349)
+Row:Finance income 9 	455 	118 	152
+Row:Finance costs 9 	(584) 	(974) 	(336)
+Row:Share in (losses)/earnings of associate 	(1) 	1 	(2)
+Row:Finance income/(costs) - net 	(130) 	(855) 	(186)
+Row:Loss before tax 	(173) 	(1,233) 	(535)
+Row:Income tax (benefit)/expense 10 	(95) 	2 	4
+Row:Net loss attributable to owners of the parent 	(78) 	(1,235) 	(539)
+Row:Net loss per share attributable to owners of the parent
+			Row:Basic 11 	(0.44) 	(8.14) 	(3.63)
+Row:Diluted 11 	(0.51) 	(8.14) 	(3.63)
+Row:Weighted-average ordinary shares outstanding
+			Row:Basic 11 	177,154,405 	151,668,769 	148,368,720
+Row:Diluted 11 	181,210,292 	151,668,769 	148,368,720
+Row:Note 	2018 	2017
+Row:Assets
+		Row:Non-current assets
+		Row:Property and equipment 12 	197 	73
+Row:Intangible assets including goodwill 13 	174 	162
+Row:Investment in associate 24 	— 	1
+Row:Long term investments 22 	1,646 	910
+Row:Restricted cash and other non-current assets 14 	65 	54
+Row:Deferred tax assets 10 	8 2,090 	9
+1,209
+Row:Current assets
+		Row:Trade and other receivables 15 	400 	360
+Row:Income tax receivable 10 	2 	—
+Row:Short term investments 22 	915 	1,032
+Row:Cash and cash equivalents 22 	891 	477
+Row:Other current assets 	38 	29
+Row:	2,246 	1,898
+Row:Total assets 	4,336 	3,107
+Row:Equity and liabilities
+		Row:Equity
+		Row:Share capital 16 	— 	—
+Row:Other paid in capital 16 	3,801 	2,488
+Row:Treasury shares 16 	(77) 	—
+Row:Other reserves 16 	875 	177
+Row:Accumulated deficit 	(2,505) 	(2,427)
+Row:Equity attributable to owners of the parent 	2,094 	238
+Row:Non-current liabilities
+		Row:Convertible notes 18, 	22 — 	944
+Row:Accrued expenses and other liabilities 20 	85 	56
+Row:Provisions 21 	8 	6
+Row:Deferred tax liabilities 10 	2 	3
+Row:	95 	1,009
+Row:Current liabilities
+		Row:Trade and other payables 19 	427 	341
+Row:Income tax payable 10 	5 	9
+Row:Deferred revenue 4 	258 	216
+Row:Accrued expenses and other liabilities 20 	1,076 	881
+Row:Provisions 21 Derivative liabilities 22 	42 339 	59
+354
+Row:	2,147 	1,860
+Row:Total liabilities 	2,242 	2,869
+Row:Total equity and liabilities 	4,336 	3,107
+Row:Assets
+	Row:Non-current assets
+	Row:Property and equipment 	12 197 73
+Row:Intangible assets including goodwill 	13 174 162
+Row:Investment in associate 	24 — 1
+Row:Long term investments 	22 1,646 910
+Row:Restricted cash and other non-current assets 	14 65 54
+Row:Deferred tax assets 	10 8 9
+Row:	2,090 1,209
+Row:Current assets
+	Row:Trade and other receivables 	15 400 360
+Row:Income tax receivable 	10 2 —
+Row:Current liabilities
+		Row:Trade and other payables 19 	427 	341
+Row:Income tax payable 10 	5 	9
+Row:Deferred revenue 4 	258 	216
+Row:Accrued expenses and other liabilities 20 	1,076 	881
+Row:Provisions 21 	42 	59
+Row:Derivative liabilities 22 	339 	354
+Row:	2,147 	1,860
+Row:Total liabilities 	2,242 	2,869
+Row:Total equity and liabilities 	4,336 	3,107
+Row:Operating activities
+	Note 	2018 	2017 	2016
+Row:Net loss Adjustments to reconcile net loss to net cash flows
+		(78) 	(1,235) 	(539)
+Row:Depreciation of property and equipment 	12 	21 	46 	32
+Row:Amortization of intangible assets 	13 	11 	8 	6
+Row:Share-based payments expense 	17 	88 	65 	53
+Row:Finance income 	9 	(455) 	(118) 	(152)
+Row:Finance costs 	9 	584 	974 	336
+Row:Income tax (benefit)/expense 	10 	(95) 	2 	4
+Row:Share in losses/(earnings) of associate 		1 	(1) 	2
+Row:Other 		7 	(3) 	58
+Row:Changes in working capital:
+				Row:Increase in trade receivables and other assets 		(61) 	(112) 	(60)
+Row:Increase in trade and other liabilities Increase in deferred revenue 		291 38 	447 77 	245
+77
+Row:(Decrease)/Increase in provisions 		(17) 	8 	38
+Row:Interest received 		18 	19 	5
+Row:Income tax (received)/paid 		(9) 	2 	(4)
+Row:Net cash flows from operating activities 		344 	179 	101
+Row:Investing activities
+				Row:Purchases of property and equipment 	12 	(125) 	(36) 	(27)
+Row:Purchases of short term investments 	22 	(1,069) 	(1,386) 	(1,397)
+Row:Sales and maturities of short term investments 	22 	1,226 	1,080 	609
+Row:Change in restricted cash Other 	14 	(10) (44) 	(34) (59) 	(1)
+(11)
+Row:Net cash flows used in investing activities 		(22) 	(435) 	(827)
+Row:Financing activities
+				Row:Proceeds from issuance of Convertible Notes, net of costs 	18 	— 	— 	861
+Row:Proceeds from exercise of share options Repurchases of ordinary shares 	17 16 	163 (72) 	29 — 	33
+—
+Row:Other 		1 	5 	22
+Row:Net cash flows from financing activities 		92 	34 	916
+Row:Net increase/(decrease) in cash and cash equivalents 		414 	(222) 	190
+Row:Cash and cash equivalents at January 1 	22 	477 	755 	597
+Row:Net foreign exchange gains/(losses) on cash and cash
+equivalents 		— 	(56) 	(32)
+Row:Cash and cash equivalents at December 31 	22 	891 	477 	755
+Row:Supplemental disclosure of cash flow information
+				Row:Non-cash investing and financing activities
+				Row:Issuance of shares for business combinations Purchases of property and equipment in trade and other
+payables 	5 12 	— 23 	33 5 	—
+1
+Row:Repurchases of ordinary shares in trade and other payables 	16 	5 	— 	—
+Row:Issuance of shares upon exchange of Convertible Notes Issuance of shares in exchange for long term investment 	22 22 	1,145 — 	686 910 	—
+—

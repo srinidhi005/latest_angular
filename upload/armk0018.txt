@@ -1,0 +1,98 @@
+Row:Current Assets:
+		Row:Cash and cash equivalents $ 	152,580 	$ 122,416
+Row:Receivables (less allowances: 2016 - $48,058; 2015 - $39,023) 	1,476,349 	1,444,574
+Row:Inventories 	587,155 	575,263
+Row:Prepayments and other current assets 	276,487 	236,870
+Row:Total current assets 	2,492,571 	2,379,123
+Row:Property and Equipment, at cost:
+		Row:Land, buildings and improvements 	643,347 	639,148
+Row:Service equipment and fixtures 	1,890,301 	1,745,545
+Row:	2,533,648 	2,384,693
+Row:Less - Accumulated depreciation 	(1,510,565) 	(1,425,348)
+Row:	1,023,083 	959,345
+Row:Goodwill 	4,628,881 	4,558,968
+Row:Other Intangible Assets 	1,111,883 	1,111,980
+Row:Other Assets 	1,325,654 	1,186,941
+Row:$ 	10,582,072 	$ 10,196,357
+Row:LIABILITIES AND STOCKHOLDERS' EQUITY
+		Row:Current Liabilities:
+		Row:Current maturities of long-term borrowings $ 	46,522 	$ 81,427
+Row:Accounts payable 	847,588 	850,040
+Row:Accrued payroll and related expenses 	514,619 	522,687
+Row:Accrued expenses and other current liabilities 	776,016 	726,834
+Row:Total current liabilities 	2,184,745 	2,180,988
+Row:Long-Term Borrowings 	5,223,514 	5,184,597
+Row:Deferred Income Taxes and Other Noncurrent Liabilities 	1,003,013 	937,311
+Row:Common stock, par value $.01 (authorized: 600,000,000 shares; issued:
+		Row:2016—272,565,923 shares and 2015—266,564,567; and
+outstanding: 2016—244,713,580 shares and 2015—239,917,320) 	2,726 	2,666
+Row:Capital surplus 	2,921,725 	2,784,730
+Row:Accumulated deficit 	(33,778) 	(228,641)
+Row:Accumulated other comprehensive loss 	(180,783) 	(166,568)
+Row:Treasury stock (shares held in treasury: 2016—27,852,343 shares and
+2015—26,647,247) 	(548,884) 	(508,828)
+Row:Total stockholders' equity 	2,161,006 	1,883,359
+Row:$ 	10,582,072 	$ 10,196,357
+Row:	September 30, 2016 	October 2, 2015 	October 3, 2014
+Row:Sales 	$ 14,415,829 	$ 14,329,135 $ 	14,832,913
+Row:Costs and Expenses:
+			Row:Cost of services provided 	12,890,408 	12,880,424 	13,363,918
+Row:Depreciation and amortization 	495,765 	504,033 	521,581
+Row:Selling and general corporate expenses 	283,342 	316,740 	382,851
+Row:	13,669,515 	13,701,197 	14,268,350
+Row:Operating income 	746,314 	627,938 	564,563
+Row:Interest and Other Financing Costs, net 	315,383 	285,942 	334,886
+Row:Income Before Income Taxes 	430,931 	341,996 	229,677
+Row:Provision for Income Taxes 	142,699 	105,020 	80,218
+Row:Net income 	288,232 	236,976 	149,459
+Row:Less: Net income attributable to noncontrolling interest 	426 	1,030 	503
+Row:Net income attributable to Aramark stockholders 	$ 287,806 	$ 235,946 $ 	148,956
+Row:Earnings per share attributable to Aramark stockholders:
+			Row:Basic 	$ 1.19 	$ 0.99 $ 	0.66
+Row:Diluted 	$ 1.16 	$ 0.96 $ 	0.63
+Row:Weighted Average Shares Outstanding:
+			Row:Basic 	242,286 	237,616 	225,866
+Row:Diluted 	248,763 	246,616 	237,451
+Row:Cash 	flows from operating activities:
+	September 30, 2016 October 2, 2015 	October 3, 2014
+Row:	Net income $ Adjustments to reconcile net income to net cash provided by
+operating activities:
+	288,232 $ 236,976 $ 	149,459
+Row:	Depreciation and amortization 	495,765 504,033 	521,581
+Row:	Income taxes deferred 	52,416 (4,108) 	37,372
+Row:	Share-based compensation expense 	56,942 66,416 	96,332
+Row:	Changes in operating assets and liabilities:
+		Row:	Receivables 	(32,859) 81,284 	(226,756)
+Row:	Inventories 	(9,625) (29,587) 	(19,810)
+Row:	Prepayments 	(64,663) 9,763 	(77,609)
+Row:	Accounts payable 	(24,231) (99,265) 	9,657
+Row:	Accrued expenses 	35,643 (61,839) 	(113,193)
+Row:	Changes in other noncurrent liabilities 	(33,711) (52,136) 	(9,034)
+Row:	Changes in other assets Other operating activities 	(10,189) 13,595 52,920 17,904 	10,123
+20,037
+Row:Net cash 	provided by operating activities 	806,640 683,036 	398,159
+Row:Cash 	flows from investing activities:
+		Row:	Purchases of property and equipment, client contract investments
+and other 	(512,532) (524,384) 	(545,194)
+Row:	Disposals of property and equipment 	26,824 19,128 	28,494
+Row:	Proceeds from divestitures Acquisition of certain businesses:
+Working capital other than cash acquired Property and equipment 	— — 10,226 (143) (32,989) — 	24,000
+(540)
+(6,681)
+Row:	Additions to goodwill, other intangible assets and other
+assets, net 	(176,614) (3,234) 	(14,235)
+Row:	Other investing activities 	5,340 4,299 	8,934
+Row:Net cash 	used in investing activities 	(679,745) (504,334) 	(505,222)
+Row:Cash 	flows from financing activities:
+		Row:	Proceeds from long-term borrowings 	1,399,988 71,926 	1,570,818
+Row:	Payments of long-term borrowings 	(1,363,534) (209,621) 	(1,978,606)
+Row:	Net change in funding under the Receivables Facility Payments of dividends Proceeds from initial public offering, net Proceeds from issuance of common stock Repurchase of common stock Other financing activities 	(82,000) — (92,074) (81,898) — — 35,705 39,946 (749) (50,176) 5,933 61,847 	50,000
+(52,186)
+524,081
+4,408
+(4,730)
+(6,030)
+Row:Net cash Increase Cash 	provided by (used in) financing activities in cash and cash equivalents and cash equivalents, beginning of period 	(96,731) (167,976) 30,164 10,726 122,416 111,690 	107,755
+692
+110,998
+Row:Cash 	and cash equivalents, end of period $ 	152,580 $ 122,416 $ 	111,690

@@ -1,0 +1,137 @@
+Row:(in thousands, except per share amounts) 	Year 2017 	Ended December 2016 	31,
+2015
+Row:TOTAL REVENUE 	$19,520,970 	$19,036,525 	$18,114,048
+Row:TOTAL COST OF REVENUE 	18,902,480 	18,246,209 	17,019,352
+Row:OTHER (INCOME) AND EXPENSES
+			Row:Gain related to a partial sale of a subsidiary 	— 	— 	(68,162)
+Row:Pension settlement charge 	— 	— 	239,896
+Row:Corporate general and administrative expense 	192,187 	191,073 	168,329
+Row:Interest expense Interest income 	67,638 (27,776) 	69,689 (17,046) 	44,770
+(16,689)
+Row:Total cost and expenses 	19,134,529 	18,489,925 	17,387,496
+Row:EARNINGS FROM CONTINUING OPERATIONS BEFORE
+TAXES INCOME TAX EXPENSE 	386,441 121,972 	546,600 219,151 	726,552
+245,888
+Row:EARNINGS FROM CONTINUING OPERATIONS 	264,469 	327,449 	480,664
+Row:LOSS FROM DISCONTINUED OPERATIONS, NET OF TAX 	— 	— 	(5,658)
+Row:NET EARNINGS 	264,469 	327,449 	475,006
+Row:LESS: NET EARNINGS ATTRIBUTABLE TO
+NONCONTROLLING INTERESTS 	73,092 	46,048 	62,494
+Row:NET EARNINGS ATTRIBUTABLE TO FLUOR
+CORPORATION 	$ 191,377 	$ 281,401 	$ 412,512
+Row:AMOUNTS ATTRIBUTABLE TO FLUOR CORPORATION
+Earnings from continuing operations Loss from discontinued operations, net of tax Net earnings 	$ 191,377 — $ 191,377 	$ 281,401 — $ 281,401 	$ 418,170
+(5,658)
+$ 412,512
+Row:BASIC EARNINGS (LOSS) PER SHARE ATTRIBUTABLE TO
+FLUOR CORPORATION
+Earnings from continuing operations Loss from discontinued operations, net of tax Net earnings 	$ 1.37 — $ 1.37 	$ 2.02 — $ 2.02 	$ 2.89
+(0.04)
+$ 2.85
+Row:DILUTED EARNINGS (LOSS) PER SHARE ATTRIBUTABLE
+TO FLUOR CORPORATION
+Earnings from continuing operations Loss from discontinued operations, net of tax Net earnings 	$ 1.36 — $ 1.36 	$ 2.00 — $ 2.00 	$ 2.85
+(0.04)
+$ 2.81
+Row:SHARES USED TO CALCULATE EARNINGS PER SHARE
+Basic Diluted 	139,761 140,893 	139,171 140,912 	144,805
+146,722
+Row:DIVIDENDS DECLARED PER SHARE 	$ 0.84 	$ 0.84 	$ 0.84
+Row:See Notes to Consolidated Financial Statements.
+			Row:ASSETS
+CURRENT ASSETS
+		Row:Cash and cash equivalents ($516,046 and $439,942 related to variable interest entities
+		Row:(‘‘VIEs’’)) 	$1,804,075 	$1,850,436
+Row:Marketable securities, current ($91,295 and $48,155 related to VIEs) Accounts and notes receivable, net ($327,652 and $232,242 related to VIEs) Contract work in progress ($132,500 and $124,677 related to VIEs) Other current assets ($9,229 and $24,017 related to VIEs) 	161,134 1,602,751 1,458,533 574,764 	111,037
+1,700,224
+1,537,289
+411,284
+Row:Total current assets 	5,601,257 	5,610,270
+Row:PROPERTY, PLANT AND EQUIPMENT
+Land 	82,794 	77,985
+Row:Buildings and improvements 	493,704 	490,047
+Row:Machinery and equipment 	1,501,452 	1,364,231
+Row:Furniture and fixtures Construction in progress 	155,423 62,237 	157,104
+50,047
+Row:Less accumulated depreciation 	2,295,610 1,201,929 	2,139,414
+1,122,191
+Row:Net property, plant and equipment ($44,004 and $53,728 related to VIEs) 	1,093,681 	1,017,223
+Row:OTHER ASSETS
+Marketable securities, noncurrent 	113,622 	143,553
+Row:Goodwill 	564,683 	532,239
+Row:Investments 	878,863 	740,385
+Row:Deferred taxes 	316,472 	454,109
+Row:Deferred compensation trusts 	381,826 	348,487
+Row:Other ($27,631 and $24,248 related to VIEs) 	377,288 	370,151
+Row:Total other assets 	2,632,754 	2,588,924
+Row:TOTAL ASSETS 	$9,327,692 	$9,216,417
+Row:LIABILITIES AND EQUITY
+CURRENT LIABILITIES
+Trade accounts payable ($258,592 and $221,601 related to VIEs) Revolving credit facility and other borrowings Advance billings on contracts ($361,701 and $263,393 related to VIEs) Accrued salaries, wages and benefits ($32,678 and $35,573 related to VIEs) Other accrued liabilities ($44,211 and $32,015 related to VIEs) 	$1,512,740 27,361 874,036 706,520 453,513 	$1,590,506
+82,243
+763,774
+734,649
+644,857
+Row:Total current liabilities 	3,574,170 	3,816,029
+Row:LONG-TERM DEBT DUE AFTER ONE YEAR NONCURRENT LIABILITIES CONTINGENCIES AND COMMITMENTS
+	1,591,598 669,525 	1,517,949
+639,608
+Row:Preferred — authorized 20,000,000 shares ($0.01 par value), none issued Common — authorized 375,000,000 shares ($0.01 par value); issued and outstanding —
+	— —
+Row:139,918,324 and 139,258,483 shares in 2017 and 2016, respectively Additional paid-in capital 	1,399 1,393
+88,222 38,317
+Row:Accumulated other comprehensive loss 	(402,242) (496,669)
+Row:Retained earnings 	3,654,931 3,582,150
+Row:Total shareholders’ equity Noncontrolling interests 	3,342,310 3,125,191
+150,089 117,640
+Row:Total equity 	3,492,399 3,242,831
+Row:TOTAL LIABILITIES AND EQUITY 	$9,327,692 $9,216,417
+Row:CASH FLOWS FROM OPERATING ACTIVITIES
+			Row:Net earnings 	$ 264,469 	$ 327,449 	$ 475,006
+Row:Adjustments to reconcile net earnings to cash provided (utilized) by operating
+activities:
+			Row:Loss from discontinued operations, net of taxes 	— 	— 	5,658
+Row:Pension settlement charge 	— 	— 	239,896
+Row:Depreciation of fixed assets 	206,113 	211,095 	188,700
+Row:Amortization of intangibles 	19,156 	14,818 	1,038
+Row:(Earnings) loss from equity method investments, net of distributions 	2,849 	12,180 	(1,597)
+Row:Gain related to a partial sale of a subsidiary 	— 	— 	(68,162)
+Row:Gain on sale of property, plant and equipment 	(22,746) 	(21,604) 	(31,272)
+Row:Amortization of stock-based awards 	40,669 	40,086 	61,053
+Row:Deferred compensation trust 	(49,539) 	(22,332) 	44,298
+Row:Deferred compensation obligation 	52,615 	29,323 	(6,854)
+Row:Statute expirations and tax settlements Deferred taxes 	— 100,286 	(13,280) (7,912) 	(7,827)
+4,675
+Row:Net retirement plan accrual (contributions) Changes in operating assets and liabilities 	(8,846) (11,899) 	(1,756) 135,393 	(37,805)
+303,896
+Row:Cash outflows from discontinued operations Other items 	— 8,844 	— 2,459 	(316,195)
+(5,376)
+Row:Cash provided by operating activities 	601,971 	705,919 	849,132
+Row:CASH FLOWS FROM INVESTING ACTIVITIES
+			Row:Purchases of marketable securities Proceeds from the sales and maturities of marketable securities 	(237,360) 216,436 	(359,986) 522,094 	(386,021)
+411,380
+Row:Capital expenditures 	(283,107) 	(235,904) 	(240,220)
+Row:Proceeds from disposal of property, plant and equipment Proceeds from sale of buildings 	96,102 — 	81,162 — 	94,323
+82,082
+Row:Proceeds from a partial sale of a subsidiary 	— 	— 	45,566
+Row:Investments in partnerships and joint ventures Acquisitions, net of cash acquired 	(273,117) — 	(518,220) (240,740) 	(91,078)
+—
+Row:Other items 	(3,232) 	10,243 	17,461
+Row:CASH FLOWS FROM FINANCING ACTIVITIES
+	Row:Repurchase of common stock Dividends paid 	— (9,718) (509,658)
+(117,995) (117,995) (125,204)
+Row:Proceeds from issuance of 1.75% Senior Notes 	— 552,958 —
+Row:Debt and credit facility issuance costs 	— (3,513) —
+Row:Repayment of Stork Notes, convertible debt and other borrowings 	— (333,654) (28,425)
+Row:Borrowings under revolving lines of credit 	— 882,142 —
+Row:Repayment of borrowings under revolving lines of credit 	(53,455) (917,027) —
+Row:Distributions paid to noncontrolling interests 	(47,215) (57,904) (58,986)
+Row:Capital contributions by noncontrolling interests 	6,397 9,072 5,254
+Row:Taxes paid on vested restricted stock 	(6,186) (7,007) (8,400)
+Row:Stock options exercised 	9,380 3,658 1,780
+Row:Other items 	(6,428) (11,362) (4,591)
+Row:Cash utilized by financing activities 	(215,502) (10,350) (728,230)
+Row:Effect of exchange rate changes on cash 	51,448 (53,668) (97,634)
+Row:Decrease in cash and cash equivalents Cash and cash equivalents at beginning of year 	(46,361) (99,450) (43,239)
+1,850,436 1,949,886 1,993,125
+Row:Cash and cash equivalents at end of year 	$1,804,075 $1,850,436 $1,949,886

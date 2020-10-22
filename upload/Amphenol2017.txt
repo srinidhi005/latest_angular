@@ -1,0 +1,94 @@
+Row:	2017 	2016 	2015
+Row:Net sales 	$ 7,011.3 	$ 6,286.4 	$ 5,568.7
+Row:Cost of sales 	4,701.4 	4,246.4 	3,789.2
+Row:Gross profit 	2,309.9 	2,040.0 	1,779.5
+Row:Acquisition-related expenses 	4.0 	36.6 	5.7
+Row:Selling, general and administrative expenses 	878.3 	798.2 	669.1
+Row:Operating income 	1,427.6 	1,205.2 	1,104.7
+Row:Interest expense 	(92.3) 	(72.6) 	(68.3)
+Row:Other income, net 	17.1 	8.5 	16.4
+Row:Income before income taxes 	1,352.4 	1,141.1 	1,052.8
+Row:Provision for income taxes 	(691.7) 	(308.5) 	(280.5)
+Row:Net income 	660.7 	832.6 	772.3
+Row:Less: Net income attributable to noncontrolling interests 	(10.2) 	(9.7) 	(8.8)
+Row:Net income attributable to Amphenol Corporation 	$ 650.5 	$ 822.9 	$ 763.5
+Row:Net income per common share — Basic 	$ 2.13 	$ 2.67 	$ 2.47
+Row:Weighted average common shares outstanding — Basic 	305.7 	308.3 	309.1
+Row:Net income per common share — Diluted 	$ 2.06 	$ 2.61 	$ 2.41
+Row:Weighted average common shares outstanding — Diluted 	316.5 	315.2 	316.5
+Row:Dividends declared per common share 	$ 0.70 	$ 0.58 	$ 0.53
+Row:See accompanying notes to consolidated financial statements.
+			Row:Assets
+		Row:Current Assets:
+		Row:Cash and cash equivalents $ 	1,719.1 	$ 1,034.6
+Row:Short-term investments 	34.6 	138.6
+Row:Total cash, cash equivalents and short-term investments 	1,753.7 	1,173.2
+Row:Accounts receivable, less allowance for doubtful accounts of $23.0 and $23.6, respectively 	1,598.6 	1,349.3
+Row:Inventories:
+		Row:Raw materials and supplies 	386.2 	319.8
+Row:Work in process 	358.0 	313.4
+Row:Finished goods 	362.7 	295.7
+Row:	1,106.9 	928.9
+Row:Other current assets 	196.8 	139.8
+Row:Total current assets 	4,656.0 	3,591.2
+Row:Property, plant and equipment:
+		Row:Land 	32.6 	28.1
+Row:Buildings and improvements 	322.3 	281.7
+Row:Machinery and equipment 	1,662.0 	1,408.8
+Row:	2,016.9 	1,718.6
+Row:Accumulated depreciation 	(1,200.1) 	(1,007.2)
+Row:	816.8 	711.4
+Row:Goodwill 	4,042.6 	3,678.8
+Row:Intangibles, net and other long-term assets 	488.5 	517.3
+Row:$ 	10,003.9 	$ 8,498.7
+Row:Liabilities & Equity
+Current Liabilities:
+		Row:Accounts payable $ 	875.6 	$ 678.2
+Row:Accrued salaries, wages and employee benefits 	151.6 	131.8
+Row:Accrued income taxes 	154.2 	125.1
+Row:Current Liabilities:
+	Row:Accounts payable $ 875.6 	$ 678.2
+Row:Accrued salaries, wages and employee benefits 151.6 	131.8
+Row:Accrued income taxes 154.2 	125.1
+Row:Accrued dividends 58.1 	49.3
+Row:Other accrued expenses 338.8 	275.6
+Row:Current portion of long-term debt 1.1 	375.2
+Row:Total current liabilities 1,579.4 	1,635.2
+Row:Long-term debt, less current portion 3,541.5 	2,635.5
+Row:Long-term debt, less current portion 	3,541.5 	2,635.5
+Row:Accrued pension and postretirement benefit obligations 	272.0 	288.4
+Row:Deferred income taxes 	241.2 	77.7
+Row:Other long-term liabilities 	326.4 	138.8
+Row:Commitments and contingent liabilities
+		Row:Class A Common Stock, $.001 par value; 1,000.0 shares authorized; 305.7 and 308.3 shares
+issued and outstanding at December 31, 2017 and 2016, respectively 	0.3 	0.3
+Row:Additional paid-in capital 	1,249.0 	1,020.9
+Row:Retained earnings 	2,941.5 	3,122.7
+Row:Accumulated other comprehensive loss 	(201.0) 	(469.0)
+Row:Total shareholders’ equity attributable to Amphenol Corporation 	3,989.8 	3,674.9
+Row:Noncontrolling interests 	53.6 	48.2
+Row:Total equity 	4,043.4 	3,723.1
+Row:$ 	10,003.9 	$ 8,498.7
+Row:Cash from operating activities:
+		Row:Net income $ 	660.7 $ 832.6 	$ 772.3
+Row:Adjustments to reconcile net income to cash provided by operating activities:
+		Row:Depreciation and amortization 	226.8 217.0 	171.6
+Row:Stock-based compensation expense 	49.7 47.6 	44.2
+Row:Deferred income tax provision (benefit) 	186.3 (29.9) 	12.9
+Row:Excess tax benefits from stock-based compensation payment arrangements 	— (44.4) 	(16.2)
+Row:Net change in operating assets and liabilities:
+		Row:Accounts receivable, net 	(146.5) (165.9) 	(22.3)
+Row:Inventories 	(100.4) (14.2) 	(5.2)
+Row:Other current assets 	(75.9) 29.9 	47.7
+Row:Accounts payable 	140.5 47.8 	(17.5)
+Row:Accrued income taxes 	11.2 91.7 	16.5
+Row:Other accrued liabilities 	13.0 61.9 	27.7
+Row:Accrued pension and postretirement benefits 	5.0 2.5 	8.7
+Row:Other long-term assets and liabilities 	173.8 1.0 	(9.9)
+Row:Net cash provided by operating activities 	1,144.2 1,077.6 	1,030.5
+Row:Capital expenditures (226.6) 	(190.8) 	(172.1)
+Row:Proceeds from disposals of property, plant and equipment 4.1 	7.1 	8.7
+Row:Purchases of short-term investments (40.2) 	(232.4) 	(134.7)
+Row:Sales and maturities of short-term investments 148.0 	108.5 	470.6
+Row:Acquisitions, net of cash acquired (265.5) 	(1,305.1) 	(199.8)
+Row:Net cash used in investing activities (380.2) 	(1,612.7) 	(27.3)

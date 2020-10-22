@@ -1,0 +1,161 @@
+Row:Revenue 	Years Ended December 2019 2018 $ 7,136,397 $ 6,992,118 	31,
+2017
+$ 6,820,886
+Row:Cost of goods and services 	4,515,459 4,432,562 	4,291,839
+Row:Gross profit 	2,620,938 2,559,556 	2,529,047
+Row:Selling, general and administrative expenses 	1,599,098 1,716,444 	1,722,161
+Row:Loss on assets held for sale 	46,946 — 	—
+Row:Operating earnings 	974,894 843,112 	806,886
+Row:Interest expense 	125,818 130,972 	144,948
+Row:Interest income 	(4,526) (8,881) 	(8,491)
+Row:Loss on extinguishment of debt 	23,543 — 	—
+Row:Gain on sale of businesses 	— — 	(203,135)
+Row:Other income, net 	(12,950) (4,357) 	(2,251)
+Row:Earnings before provision for income taxes 	843,009 725,378 	875,815
+Row:Provision for income taxes 	165,091 134,233 	129,152
+Row:Earnings from continuing operations 	677,918 591,145 	746,663
+Row:(Loss) earnings from discontinued operations, net 	— (20,878) 	65,002
+Row:Net earnings 	$ 677,918 $ 570,267 	$ 811,665
+Row:Earnings per share from continuing operations:
+		Row:Basic 	$ 4.67 $ 3.94 	$ 4.80
+Row:Diluted 	$ 4.61 $ 3.89 	$ 4.73
+Row:(Loss) earnings per share from discontinued operations:
+		Row:Basic 	$ — $ (0.14) 	$ 0.42
+Row:Diluted 	$ — $ (0.14) 	$ 0.41
+Row:Net earnings per share:
+Basic 	$ 4.67 $ 3.80 	$ 5.21
+Row:Diluted 	$ 4.61 $ 3.75 	$ 5.15
+Row:Weighted average shares outstanding:
+		Row:Basic 	145,198 149,874 	155,685
+Row:Diluted 	146,992 152,133 	157,744
+Row:Net earnings 	$ 677,918 	$ 570,267 	$ 811,665
+Row:Other comprehensive earnings (loss), net of tax
+			Row:Foreign currency translation adjustments:
+			Row:Foreign currency translation (losses) gains 	(5,025) 	(59,970) 	143,064
+Row:Reclassification of foreign currency translation losses to earnings 	25,339 	— 	3,992
+Row:Total foreign currency translation adjustments 	20,314 	(59,970) 	147,056
+Row:Pension and other postretirement benefit plans:
+			Row:Actuarial gains (losses) 	47 	(13,107) 	12,439
+Row:Prior service credit (cost) 	1,818 	(14,661) 	3,136
+Row:Amortization of actuarial losses included in net periodic pension cost 	596 	3,829 	5,267
+Row:Amortization of prior service costs included in net periodic pension cost 	2,141 	2,875 	3,007
+Row:Settlement and curtailment impact 	806 	9,926 	(2,462)
+Row:Total pension and other postretirement benefit plans 	5,408 	(11,138) 	21,387
+Row:Changes in fair value of cash flow hedges:
+			Row:Unrealized net gains (losses) 	1,495 	1,158 	(1,801)
+Row:Net (gains) losses reclassified into earnings 	(147) 	1,541 	(590)
+Row:Total cash flow hedges 	1,348 	2,699 	(2,391)
+Row:Other 	— 	— 	(1,485)
+Row:Other comprehensive earnings (loss), net of tax 	27,070 	(68,409) 	164,567
+Row:Comprehensive earnings 	$ 704,988 	$ 501,858 	$ 976,232
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents $ 	397,253 	$ 396,221
+Row:Receivables, net of allowances of $29,381 and $28,469 	1,217,190 	1,231,859
+Row:Inventories 	806,141 	748,796
+Row:Prepaid and other current assets 	127,846 	126,878
+Row:Total current assets 	2,548,430 	2,503,754
+Row:Property, plant and equipment, net 	842,318 	806,497
+Row:Goodwill 	3,783,347 	3,677,328
+Row:Intangible assets, net 	1,055,014 	1,134,256
+Row:Other assets and deferred charges 	440,368 	243,936
+Row:Total assets $ 	8,669,477 	$ 8,365,771
+Row:Liabilities and Stockholders' Equity
+		Row:Preferred stock - $100 par value; 100,000 shares authorized; none issued 	— 	—
+Row:Common stock - $1 par value; 500,000,000 shares authorized; 258,551,748 and 257,822,352 shares
+issued at December 31, 2019 and 2018 	258,552 	257,822
+Row:Additional paid-in capital 	869,719 	886,016
+Row:Retained earnings 	8,211,257 	7,815,486
+Row:Accumulated other comprehensive loss 	(216,026) 	(243,096)
+Row:Treasury stock, at cost: 114,249,432 and 112,905,810 shares at December 31, 2019 and 2018 	(6,090,842) 	(5,947,562)
+Row:Total stockholders' equity 	3,032,660 	2,768,666
+Row:Total liabilities and stockholders' equity $ 	8,669,477 	$ 8,365,771
+Row:	Common Stock
+$1 Par Value
+	Additional Paid-
+In Capital 	Treasury Stock
+	Retained
+Earnings
+	Comprehensive
+Earnings (Loss)
+	Stockholders'
+Equity
+Row:Balance at December 31, 2016 $ 	256,538 	$ 946,755 	$ (4,972,016) 	$ 7,927,795 	$ (359,326) 	$ 3,799,746
+Row:Net earnings 	— 	— 	— 	811,665 	— 	811,665
+Row:Dividends paid ($1.82 per share) 	— 	— 	— 	(283,959) 	— 	(283,959)
+Row:Common stock issued for the exercise of share-
+based awards Stock-based compensation expense Common stock acquired 	454 — — 	(18,897) 26,528 — 	— — (105,023) 	— — — 	— — — 	(18,443)
+26,528
+(105,023)
+Row:Other comprehensive earnings, net of tax 	— 	— 	— 	— 	164,567 	164,567
+Row:Other 	— 	(11,901) 	— 	— 	— 	(11,901)
+Row:Balance at December 31, 2017 	256,992 	942,485 	(5,077,039) 	8,455,501 	(194,759) 	4,383,180
+Row:Adoption of ASU 2018-02 	— 	— 	— 	12,856 	(12,856) 	—
+Row:Cumulative Adoption of catch-up Topic adjustment 606 related to
+	— 	— 	— 	175 	— 	175
+Row:Net earnings 	— 	— 	— 	570,267 	— 	570,267
+Row:Dividends paid ($1.90 per share) 	— 	— 	— 	(283,570) 	— 	(283,570)
+Row:Separation of Apergy 	— 	— 	— 	(939,743) 	32,928 	(906,815)
+Row:Common stock issued for the exercise of share-
+based awards 	830 	(47,084) 	— 	— 	— 	(46,254)
+Row:Stock-based compensation expense 	— 	24,442 	— 	— 	— 	24,442
+Row:Common stock acquired 	— 	(24,454) 	(870,523) 	— 	— 	(894,977)
+Row:Other comprehensive loss, net of tax 	— 	— 	— 	— 	(68,409) 	(68,409)
+Row:Other 	— 	(9,373) 	— 	— 	— 	(9,373)
+Row:Balance at December 31, 2018 	257,822 	886,016 	(5,947,562) 	7,815,486 	(243,096) 	2,768,666
+Row:Net earnings 	— 	— 	— 	677,918 	— 	677,918
+Row:Dividends paid ($1.94 per share) 	— 	— 	— 	(282,197) 	— 	(282,197)
+Row:Common stock issued for the exercise of
+share-based awards 	730 	(38,100) 	— 	— 	— 	(37,370)
+Row:Stock-based compensation expense 	— 	29,702 	— 	— 	— 	29,702
+Row:Common stock acquired 	— 	— 	(143,280) 	— 	— 	(143,280)
+Row:Other comprehensive earnings, net of tax 	— 	— 	— 	— 	27,070 	27,070
+Row:Other 	— 	(7,899) 	— 	50 	— 	(7,849)
+Row:Balance at December 31, 2019 $ 	258,552 	$ 869,719 	$ (6,090,842) 	$ 8,211,257 	$ (216,026) 	$ 3,032,660
+Row:	See 	Notes to Consolidated 	Financial Statements
+			Row:	2019 2018 	2017
+Row:Operating Activities of Continuing Operations
+		Row:Net earnings $ 	677,918 $ 570,267 	$ 811,665
+Row:Adjustments to reconcile net earnings to cash from operating activities:
+		Row:Loss (earnings) from discontinued operations, net 	— 20,878 	(65,002)
+Row:Loss on assets held for sale 	46,946 — 	—
+Row:Loss on extinguishment of debt 	23,543 — 	—
+Row:Depreciation and amortization 	272,287 282,580 	283,278
+Row:Stock-based compensation 	29,702 23,698 	24,073
+Row:Gain on sale of businesses 	— — 	(203,135)
+Row:Provision for losses on accounts receivable (net of recoveries) 	5,933 3,875 	10,341
+Row:Deferred income taxes 	(11,966) (35,448) 	(160,395)
+Row:Employee benefit plan expense 	5,844 11,912 	12,191
+Row:Contributions to employee benefit plans 	(21,436) (25,933) 	(18,588)
+Row:Other, net 	(3,652) (6,762) 	(4,216)
+Row:Cash effect of changes in assets and liabilities (excluding effects of acquisitions, dispositions and foreign
+exchange):
+Accounts receivable 	(7,903) (87,573) 	(43,450)
+Row:Inventories 	(56,870) (85,052) 	605
+Row:Prepaid expenses and other assets 	(25,797) (7,453) 	(5,232)
+Row:Accounts payable 	18,270 106,561 	94,052
+Row:Accrued compensation and employee benefits 	15,580 (7,037) 	23,319
+Row:Accrued expenses and other liabilities 	(12,656) (5,026) 	(36,024)
+Row:Accrued taxes 	(10,437) 29,706 	15,927
+Row:Net cash provided by operating activities of continuing operations 	945,306 789,193 	739,409
+Row:Investing Activities of Continuing Operations
+		Row:Additions to property, plant and equipment 	(186,804) (170,994) 	(170,068)
+Row:Acquisitions (net of cash and cash equivalents acquired) 	(215,687) (68,557) 	(27,188)
+Row:Proceeds from sale of property, plant and equipment 	4,168 5,908 	11,774
+Row:Proceeds from sale of businesses 	24,218 3,937 	372,666
+Row:Other 	(10,150) (15,774) 	21,151
+Row:Net cash (used in) provided by investing activities of continuing operations Financing Activities of Continuing Operations
+	(384,255) (245,480) 	208,335
+Row:Cash received from Apergy, net of cash distributed 	— 689,643 	—
+Row:Change in commercial paper and notes payable, net 	(135,650) (10,722) 	(182,596)
+Row:Proceeds from long-term debt 	847,469 — 	—
+Row:Repayment of long-term debt 	(805,112) (350,000) 	—
+Row:Dividends to stockholders 	(282,197) (283,570) 	(283,959)
+Row:Purchase of common stock 	(143,280) (894,977) 	(105,023)
+Row:Payments for employee tax obligations upon exercise of share-based awards 	(37,370) (46,254) 	(18,443)
+Row:Other 	(1,902) (1,958) 	(2,912)
+Row:Net cash used in financing activities of continuing operations 	(558,042) (897,838) 	(592,933)
+Row:Cash Flows from Discontinued Operations
+		Row:Net cash provided by operating activities of discontinued operations 	— 9,442 	96,225
+Row:Net cash used in investing activities of discontinued operations 	— (23,705) 	(46,484)
+Row:Net cash used in financing activities of discontinued operations 	— — 	(1,208)

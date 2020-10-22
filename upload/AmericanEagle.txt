@@ -1,0 +1,158 @@
+Row:(In thousands, except per share amounts) 	February 1, 2020 	February 2,
+2019
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 361,930 	$ 333,330
+Row:Short-term investments (available for sale) 	55,000 	92,135
+Row:Merchandise inventory 	446,278 	424,404
+Row:Accounts receivable, net 	119,064 	93,477
+Row:Prepaid expenses and other 	65,658 	102,907
+Row:Total current assets 	1,047,930 	1,046,253
+Row:Property and equipment, at cost, net of accumulated depreciation 	735,120 	742,149
+Row:Operating lease right-of-use assets 	1,418,916 	-
+Row:Intangible assets, net, including goodwill 	53,004 	58,167
+Row:Non-current deferred income taxes 	22,724 	14,062
+Row:Other assets 	50,985 	42,747
+Row:Total assets 	$ 3,328,679 	$ 1,903,378
+Row:Intangible assets, net, including goodwill 	53,004 	58,167
+Row:Non-current deferred income taxes 	22,724 	14,062
+Row:Other assets 	50,985 	42,747
+Row:Total assets 	$ 3,328,679 $ 	1,903,378
+Row:Liabilities and Stockholders’ Equity
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 285,746 $ 	240,671
+Row:Current portion of operating lease liabilities 	299,161 	-
+Row:Accrued income and other taxes 	9,514 	20,064
+Row:Accrued compensation and payroll taxes 	43,537 	82,173
+Row:Unredeemed gift cards and gift certificates 	56,974 	53,997
+Row:Other current liabilities and accrued expenses 	56,824 	145,740
+Row:Total current liabilities 	751,756 	542,645
+Row:Non-current liabilities:
+		Row:Non-current operating lease liabilities 	1,301,735 	-
+Row:Other non-current liabilities 	27,335 	73,178
+Row:Total non-current liabilities 	1,329,070 	73,178
+Row:Commitments and contingencies 	— 	—
+Row:Stockholders’ equity:
+		Row:Preferred stock, $0.01 par value; 5,000 shares authorized; none issued and
+		Row:outstanding 	— 	—
+Row:Common stock, $0.01 par value; 600,000 shares authorized; 249,566 shares
+issued; 166,993 and 172,436 shares outstanding, respectively 	2,496 	2,496
+Row:Contributed capital 	577,856 	574,929
+Row:Accumulated other comprehensive loss, net of tax 	(33,168) 	(34,832)
+Row:Retained earnings 	2,108,292 	2,054,654
+Row:Treasury stock, 82,573 and 77,130 shares, respectively, at cost 	(1,407,623) 	(1,309,692)
+Row:Total stockholders' equity 	1,247,853 	1,287,555
+Row:Total liabilities and stockholders’ equity 	$ 3,328,679 $ 	1,903,378
+Row:issued; 166,993 and 172,436 shares outstanding, respectively 	2,496 	2,496
+Row:Contributed capital 	577,856 	574,929
+Row:Accumulated other comprehensive loss, net of tax 	(33,168) 	(34,832)
+Row:Retained earnings 	2,108,292 	2,054,654
+Row:Treasury stock, 82,573 and 77,130 shares, respectively, at cost 	(1,407,623) 	(1,309,692)
+Row:stockholders' equity 	1,247,853 	1,287,555
+Row:liabilities and stockholders’ equity 	$ 3,328,679 	$ 1,903,378
+Row:February 1, 	February 2, 	February 3,
+Row:2020 	2019 	2018
+Row:$ 4,308,212 	$ 4,035,720 	$ 3,795,549
+Row:2,785,911 	2,548,082 	2,425,044
+Row:1,522,301 	1,487,638 	1,370,505
+Row:1,029,412 	980,610 	879,685
+Row:80,494 	1,568 	20,611
+Row:179,050 	168,331 	167,421
+Row:233,345 	337,129 	302,788
+Row:11,933 	7,971 	(15,615)
+Row:245,278 	345,100 	287,173
+Row:54,021 	83,198 	83,010
+Row:$ 191,257 	$ 261,902 	$ 204,163
+Row:$ 1.13 	$ 1.48 	$ 1.15
+Row:$ 1.12 	$ 1.47 	$ 1.13
+Row:(In thousands, except per share amounts) 	2020 	2019 Row:Total net revenue 	$ 4,308,212 	$ 4,035,720 $ Row:Cost of sales, including certain buying, occupancy and warehousing
+		Row:expenses 	2,785,911 	2,548,082 Row:Gross profit 	1,522,301 	1,487,638 Row:Selling, general and administrative expenses 	1,029,412 	980,610 Row:Impairment and restructuring charges 	80,494 	1,568 Row:Depreciation and amortization expense 	179,050 	168,331 Row:Operating income 	233,345 	337,129 Row:Other income (expense), net 	11,933 	7,971 Row:Income before income taxes 	245,278 	345,100 Row:Provision for income taxes 	54,021 	83,198 Row:Net income 	$ 191,257 	$ 261,902 $ Row:Basic net income per common share 	$ 1.13 	$ 1.48 $ Row:Diluted net income per common share 	$ 1.12 	$ 1.47 $ Row:Weighted average common shares outstanding - basic 	169,711 	176,476 Row:Weighted average common shares outstanding - diluted 	170,867 	178,035 Row:Refer to Notes to Consolidated Financial 	Statements
+	Row:February 1, 2020 		February 2, 2019 	February 3,
+2018
+Row:$ 191,257 	$ 	261,902 $ 	204,163
+Row:1,664 		(4,037) 	5,667
+Row:1,664 		(4,037) 	5,667
+Row:$ 192,921 	$ 	257,865 $ 	209,830
+Row:(In thousands, except per share amounts)
+	Shares
+Outstanding (1)
+	Common
+Stock
+	Contributed
+Capital
+	Retained
+Earnings
+	Treasury
+Stock (2)
+	Comprehensive
+Income (Loss)
+	Stockholders'
+Equity
+Row:Balance at January 28, 2017 	181,886 	$ 2,496 	$ 603,890 	$ 1,775,775 	$ (1,141,130) 	$ (36,462) 	$ 1,204,569
+Row:Stock awards 	— 	— 	17,202 	— 	— 	— 	17,202
+Row:Repurchase of common stock as part of publicly
+							Row:announced programs 	(6,000) 	— 	— 	— 	(87,672) 	— 	(87,672)
+Row:Repurchase of common stock from employees 	(871) 	— 	— 	— 	(12,513) 	— 	(12,513)
+Row:Reissuance of treasury stock 	2,301 	— 	(29,632) 	(5,488) 	39,043 	— 	3,923
+Row:Net income 	— 	— 	— 	204,163 	— 	— 	204,163
+Row:Other comprehensive loss 	— 	— 	— 	— 	— 	5,667 	5,667
+Row:Cash dividends and dividend equivalents ($0.50 per
+							Row:share) 	— 	— 	2,310 	(90,858) 	— 	— 	(88,548)
+Row:Balance at February 3, 2018 	177,316 	$ 2,496 	$ 593,770 	$ 1,883,592 	$ (1,202,272) 	$ (30,795) 	$ 1,246,791
+Row:Stock awards 	— 	— 	27,057 	— 	— 	— 	27,057
+Row:Repurchase of common stock as part of publicly
+							Row:announced programs 	(7,300) 	— 	— 	— 	(144,405) 	— 	(144,405)
+Row:Repurchase of common stock from employees 	(943) 	— 	— 	— 	(19,668) 	— 	(19,668)
+Row:Reissuance of treasury stock 	3,363 	— 	(48,022) 	8,407 	56,653 	— 	17,038
+Row:Net income 	— 	— 	— 	261,902 	— 	— 	261,902
+Row:Other comprehensive loss 	— 	— 	— 	— 	— 	(4,037) 	(4,037)
+Row:Cash dividends and dividend equivalents ($0.55 per
+							Row:share) 	— 	— 	2,124 	(99,247) 	— 	— 	(97,123)
+Row:Balance at February 2, 2019 	172,436 	$ 2,496 	$ 574,929 	$ 2,054,654 	$ (1,309,692) 	$ (34,832) 	$ 1,287,555
+Row:Stock awards 	— 	— 	22,742 	— 	— 	— 	22,742
+Row:Repurchase of common stock as part of publicly
+							Row:announced programs 	(6,336) 	— 	— 	— 	(112,381) 	— 	(112,381)
+Row:Repurchase of common stock from employees 	(431) 	— 	— 	— 	(8,087) 	— 	(8,087)
+Row:Adoption of ASC 842, net of tax 	— 	— 	— 	(44,435) 	— 	— 	(44,435)
+Row:Reissuance of treasury stock 	1,324 	— 	(22,175) 	1,959 	22,537 	— 	2,321
+Row:Net income 	— 	— 	— 	191,257 	— 	— 	191,257
+Row:Other comprehensive loss 	— 	— 	— 	— 	— 	1,664 	1,664
+Row:Cash dividends and dividend equivalents ($0.55 per
+							Row:share) 	— 	— 	2,360 	(95,143) 	— 	— 	(92,783)
+Row:Balance at February 1, 2020 	166,993 	$ 2,496 	$ 577,856 	$ 2,108,292 	$ (1,407,623) 	$ (33,168) 	$ 1,247,853
+Row:(In thousands) 	February 1, 2020 	February 2, 2019 	February 3,
+2018
+Row:Operating activities:
+			Row:Net income 	$ 191,257 	$ 261,902 	$ 204,163
+Row:Adjustments to reconcile net income to net cash provided by operating
+			Row:activities
+			Row:Depreciation and amortization 	181,379 	170,504 	169,473
+Row:Share-based compensation 	23,038 	27,506 	16,890
+Row:Deferred income taxes 	6,541 	(4,391) 	44,312
+Row:Loss on impairment of assets 	66,252 	546 	—
+Row:Changes in assets and liabilities:
+			Row:Merchandise inventory 	(21,615) 	(28,496) 	(35,912)
+Row:Operating lease assets 	261,303 	— 	—
+Row:Operating lease liabilities 	(271,519) 	— 	—
+Row:Other assets 	(32,845) 	(22,206) 	13,755
+Row:Accounts payable 	44,949 	4,329 	(16,663)
+Row:Accrued compensation and payroll taxes 	(38,603) 	28,043 	1,289
+Row:Accrued and other liabilities 	5,279 	18,908 	(2,881)
+Row:Net cash provided by operating activities 	415,416 	456,645 	394,426
+Row:Investing activities:
+			Row:Capital expenditures for property and equipment 	(210,360) 	(189,021) 	(169,469)
+Row:Purchase of available-for-sale investments 	(85,000) 	(202,912) 	—
+Row:Sale of available-for-sale investments 	122,135 	109,776 	—
+Row:Other investing activities 	(1,669) 	(672) 	(2,681)
+Row:Net cash used for investing activities 	(174,894) 	(282,829) 	(172,150)
+Row:Financing activities:
+			Row:Repurchase of common stock as part of publicly announced programs 	(112,381) 	(144,405) 	(87,682)
+Row:Repurchase of common stock from employees 	(8,087) 	(19,668) 	(12,513)
+Row:Net proceeds from stock options exercised 	2,119 	15,495 	3,355
+Row:Cash dividends paid 	(92,783) 	(97,123) 	(88,548)
+Row:Other financing activities 	(94) 	(6,802) 	(3,384)
+Row:Net cash used for financing activities 	(211,226) 	(252,503) 	(188,772)
+Row:Effect of exchange rates on cash 	(696) 	(1,596) 	1,496
+Row:Net change in cash and cash equivalents 	28,600 	(80,283) 	35,000
+Row:Cash and cash equivalents - beginning of period 	$ 333,330 	$ 413,613 	$ 378,613
+Row:Cash and cash equivalents - end of period 	361,930 	333,330 	413,613

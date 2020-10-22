@@ -1,0 +1,1374 @@
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents
+	$
+170,861
+	402,122
+Row:Short-term investments
+	185,588
+	111,059
+Row:Receivables, net
+	944,943
+	1,034,084
+Row:Inventory
+	14,740
+	15,788
+Row:Prepaid expenses and other
+	303,229
+	264,780
+Row:Total current assets
+	1,619,361
+	1,827,833
+Row:Property and equipment, net
+	1,552,524
+	1,309,214
+Row:Software development costs, net
+	719,209
+	562,559
+Row:Goodwill
+	844,200
+	799,182
+Row:Intangible assets, net
+	566,047
+	688,058
+Row:Long-term investments
+	109,374
+	173,073
+Row:Other assets
+	219,248
+	202,065
+Row:Total assets
+	5,629,963
+	,561,984
+Row:Liabilities and Shareholders' Equity
+		Row:Current liabilities:
+		Row:Accounts payable
+	$
+238,134
+	$
+215,510
+Row:Current installments of long-term debt and capital lease obligations
+	26,197
+	41,797
+Row:Deferred revenue
+	311,839
+	278,443
+Row:Accrued payroll and tax withholdings
+	211,554
+	184,225
+Row:Other accrued expenses
+	57,677
+	57,891
+Row:Total current liabilities
+	845,401
+	777,866
+Row:Long-term debt and capital lease obligations
+	537,552
+	563,353
+Row:Deferred income taxes and other liabilities
+	306,263
+	324,516
+Row:Deferred revenue
+	12,800
+	25,865
+Row:Total liabilities
+	1,702,016
+	1,691,600
+Row:Shareholders' Equity:
+		Row:Common stock, $.01 par value, 500,000,000 shares authorized, 353,731,237 shares issued at December 31, 2016 and 350,323,367
+		Row:shares issued at January 2, 2016
+	3,537
+	3,503
+Row:Additional paid-in capital
+	1,230,913
+	1,075,782
+Row:Retained earnings
+	4,094,327
+	3,457,843
+Row:Treasury stock, 24,089,737 shares at December 31, 2016 and 10,364,691 shares at January 2, 2016
+	(1,290,665)
+	(590,390)
+Row:Accumulated other comprehensive loss, net
+	(110,165)
+	(76,354)
+Row:Total shareholders' equity
+	3,927,947
+	3,870,384
+Row:Total liabilities and shareholders' equity
+	$
+5,629,963
+	EA
+5,561,984
+Row:See notes to consolidated financial statements.
+		Row:50
+		Row:Common stock, $.01 par value, 500,000,000 shares authorized, 353,731,237 shares issued at December 31, 2016 and 350,323,367
+shares issued at January 2, 2016
+	3,537
+	3,503
+Row:Additional paid-in capital
+	1,230,913
+	1,075,782
+Row:Retained earnings
+	4,094,327
+	3,457,843
+Row:Treasury stock, 24,089,737 shares at December 31, 2016 and 10,364,691 shares at January 2, 2016
+	(1,290,665)
+	(590,390)
+Row:Accumulated other comprehensive loss, net
+	(110,165)
+	(76,354)
+Row:Total shareholders' equity
+	3,927,947
+	3,870,384
+Row:Total liabilities and shareholders' equity
+	$
+5,629,963
+	EA
+5,561,984
+Row:See notes to consolidated financial statements.
+		Row:(In thousands, , except per share data)
+	2016 	2015 	2014
+Row:Revenues:
+:
+			Row:System sales 	$ 1,265,962 	$ 1,281,890 	$ 945,858
+Row:Support, , maintenance and services 	3,441,966 	3,070,575 	2,366,959
+Row:Reimbursed travel 	88,545 	72,802 	89,886
+Row:Total revenues 	4,796,473 	4,425,267 	3,402,703
+Row:Costs and expenses:
+:
+			Row:Cost of system sales 	412,066 	430,335 	314,089
+Row:Cost of support, , maintenance and services 	278,505 	247,644 	200,402
+Row:Cost of reimbursed travel 	88,545 	72,802 	89,886
+Row:Sales and client service 	2,071,926 	1,838,600 	1,395,568
+Row:Software development (Includes amortization of $140,232, $119,195 and $103,447, respectively) 	551,418 	539,799 	392,805
+Row:General and administrative 	392,454 	423,424 	233,393
+Row:Amortization of acquisition-related intangibles 	90,546 	91,527 	13,476
+Row:Total costs and expenses 	3,885,460 	3,644,131 	2,639,619
+Row:Operating earnings 	911,013 	781,136 	763,084
+Row:Other income, net 	7,421 	244 	11,090
+Row:Earnings before income taxes 	918,434 	781,380 	774,174
+Row:Income taxes 	(281,950) 	)
+(242,018) 	(248,741)
+)
+Row:Net earnings 	$ 636,484 	$ 539,362 	$ 525,433
+Row:Basic earnings per share 	$ 1.88 	$ 1.57 	$ 1.54
+Row:Diluted earnings per share 	$ 1.85 	$ 1.54 	$ 1.50
+Row:Basic weighted average shares outstanding 	337,740 	343,178 	342,150
+Row:Diluted weighted average shares outstanding 	343,653 	350,908 	350,386
+Row:See notes to consolidated financial statements.
+			Row:	2016 		2015 		2014
+Row:$ 	636,484 	$ 	539,362 	$ 	525,433
+Row:	(33,871) 		(32,171) 		(30,145)
+)
+Row:	60 		(87) 		(522)
+)
+Row:$ 	602,673 	$ 	507,104 	$ 	494,766
+Row:(In thousands)
+	2016 	2015 	2014
+Row:Net earnings 	$ 636,484 	$ 539,362 $ 	525,433
+Row:Foreign currency translation adjustment and other (net of taxes (benefit) ) of $2,092, $(3,201) and $(1,111), , respectively) 	(33,871) 	(32,171) 	(30,145)
+)
+Row:Change in net unrealized holding gain (loss) on available-for-sale investments (net of taxes (benefits) of $37, $(46) and respectively) ) , ) 	$(331),
+60 	(87) 	(522)
+)
+Row:Comprehensive income 	$ 602,673 	$ 507,104 $ 	494,766
+Row:See notes to consolidated financial statements.
+			Row:52
+			Row:(In thousands)
+	2016
+	2015
+	2014
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+			Row:Net earnings
+	$
+636,484
+	GA
+539,362
+	525,433
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities:
+			Row:Depreciation and amortization
+	504,236
+	452,225
+	302,353
+Row:Share-based compensation expense
+	74,536
+	70,121
+	59,292
+Row:Provision for deferred income taxes
+	(11,517)
+	65,245
+	106,905
+Row:Changes in assets and liabilities (net of businesses acquired):
+			Row:Receivables, net
+	78,258
+	(160,124)
+	(74,786)
+Row:Inventory
+	(666)
+	12,951
+	8,117
+Row:Prepaid expenses and other
+	(66,658)
+	(55,363)
+	(14,625)
+Row:Accounts payable
+	(13,197)
+	7
+	2,974
+Row:Accrued income taxes
+	12,170
+	(690)
+	(21,764)
+Row:Deferred revenue
+	1,555
+	9,450
+	4,346
+Row:Other accrued liabilities
+	(59,589)
+	14,342
+	(51,218)
+Row:Net cash provided by operating activities
+	1,155,612
+	947,526
+	847,027
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+			Row:Capital purchases
+	(459,427)
+	(362,132)
+	(276,584)
+Row:Capitalized software development costs
+	(293,696)
+	(264,656)
+	(177,800)
+Row:Purchases of investments
+	(482,078)
+	(487,981)
+	(1,214,036)
+Row:Sales and maturities of investments
+	463,899
+	1,208,387
+	1,404,846
+Row:Purchase of other intangibles
+	(18,472)
+	(21,432)
+	(13,517)
+Row:Acquisition of businesses
+		(1,478,129)
+	(7,476)
+Row:Net cash used in investing activities
+	(789,774)
+	(1,405,943)
+	(284,567)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+			Row:Long-term debt issuance
+		500,000
+	Row:Repayment of long-term debt and capital lease obligations
+		(14,325)
+	(14,930)
+Row:Proceeds from excess tax benefits from share-based compensation
+	51,903
+	55,959
+	39,532
+Row:Proceeds from exercise of options
+	63,794
+	51,475
+	31,879
+Row:Treasury stock purchases
+	(700,275)
+	(345,057)
+	(217,082)
+Row:Contingent consideration payments for acquisition of businesses
+	(2,074)
+	(11,012)
+	(10,617)
+Row:Cash grants
+			48,000
+Row:Other
+		(791)
+	2,894
+Row:Net cash provided by (used in) financing activities
+	(586,652)
+	236,249
+	(120,324)
+Row:Effect of exchange rate changes on cash and cash equivalents
+	(10,447)
+	(10,913)
+	(9,310)
+Row:Net increase (decrease) in cash and cash equivalents
+	(231,261)
+	(233,081)
+	432,826
+Row:Cash and cash equivalents at beginning of period
+	402,122
+	635,203
+	202,377
+Row:Cash and cash equivalents at end of period
+	$
+170,861
+	$
+402,122
+	$
+635,203
+Row:Summary of acquisition transactions:
+			Row:Fair value of tangible assets acquired
+	$
+(10,200 	$
+532,625
+	184
+Row:Fair value of intangible assets acquired
+	(25,000)
+	637,980
+	3,800
+Row:Fair value of goodwill
+	46,940
+	485,387
+	16,785
+Row:Less: Fair value of liabilities assumed
+	(11,740)
+	(176,863)
+	(1,693)
+Row:Less: Fair value of contingent liability payable
+		(1,000)
+	(11,600)
+Row:Net cash used
+	$
+	$ 1,478,129
+	$
+7,476
+Row:Long-term debt issuance
+	500,000
+Row:Repayment of long-term debt and capital lease obligations
+	(14,325)
+(14,930Row:Proceeds from excess tax benefits from share-based compensation
+	51,903
+55,959
+39,532
+Row:Proceeds from exercise of options
+	63,794
+51,475
+31,879
+Row:Treasury stock purchases
+	(700,275)
+(345,057)
+(217,082Row:Contingent consideration payments for acquisition of businesses
+	(2,074)
+(11,012)
+(10,617Row:Cash grants
+	48,000
+Row:Fair value of tangible assets acquired
+	$
+(10,200 	$
+532,625
+	184
+Row:Fair value of intangible assets acquired
+	(25,000)
+	637,980
+	3,800
+Row:Fair value of goodwill
+	46,940
+	485,387
+	16,785
+Row:Less: Fair value of liabilities assumed
+	(11,740)
+	(176,863)
+	(1,693)
+Row:Less: Fair value of contingent liability payable
+		(1,000)
+	(11,600)
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents
+	$
+170,861
+	402,122
+Row:Short-term investments
+	185,588
+	111,059
+Row:Receivables, net
+	944,943
+	1,034,084
+Row:Inventory
+	14,740
+	15,788
+Row:Prepaid expenses and other
+	303,229
+	264,780
+Row:Total current assets
+	1,619,361
+	1,827,833
+Row:Property and equipment, net
+	1,552,524
+	1,309,214
+Row:Software development costs, net
+	719,209
+	562,559
+Row:Goodwill
+	844,200
+	799,182
+Row:Intangible assets, net
+	566,047
+	688,058
+Row:Long-term investments
+	109,374
+	173,073
+Row:Other assets
+	219,248
+	202,065
+Row:Total assets
+	5,629,963
+	,561,984
+Row:Liabilities and Shareholders' Equity
+		Row:Current liabilities:
+		Row:Accounts payable
+	$
+238,134
+	$
+215,510
+Row:Current installments of long-term debt and capital lease obligations
+	26,197
+	41,797
+Row:Deferred revenue
+	311,839
+	278,443
+Row:Accrued payroll and tax withholdings
+	211,554
+	184,225
+Row:Other accrued expenses
+	57,677
+	57,891
+Row:Total current liabilities
+	845,401
+	777,866
+Row:Long-term debt and capital lease obligations
+	537,552
+	563,353
+Row:Deferred income taxes and other liabilities
+	306,263
+	324,516
+Row:Deferred revenue
+	12,800
+	25,865
+Row:Total liabilities
+	1,702,016
+	1,691,600
+Row:Shareholders' Equity:
+		Row:Common stock, $.01 par value, 500,000,000 shares authorized, 353,731,237 shares issued at December 31, 2016 and 350,323,367
+		Row:shares issued at January 2, 2016
+	3,537
+	3,503
+Row:Additional paid-in capital
+	1,230,913
+	1,075,782
+Row:Retained earnings
+	4,094,327
+	3,457,843
+Row:Treasury stock, 24,089,737 shares at December 31, 2016 and 10,364,691 shares at January 2, 2016
+	(1,290,665)
+	(590,390)
+Row:Accumulated other comprehensive loss, net
+	(110,165)
+	(76,354)
+Row:Total shareholders' equity
+	3,927,947
+	3,870,384
+Row:Total liabilities and shareholders' equity
+	$
+5,629,963
+	EA
+5,561,984
+Row:See notes to consolidated financial statements.
+		Row:50
+		Row:Common stock, $.01 par value, 500,000,000 shares authorized, 353,731,237 shares issued at December 31, 2016 and 350,323,367
+shares issued at January 2, 2016
+	3,537
+3,503
+Row:Additional paid-in capital
+	1,230,913
+1,075,782
+Row:Retained earnings
+	4,094,327
+3,457,843
+Row:Treasury stock, 24,089,737 shares at December 31, 2016 and 10,364,691 shares at January 2, 2016
+	(1,290,665)
+(590,390)
+Row:Accumulated other comprehensive loss, net
+	(110,165)
+(76,354)
+Row:Total shareholders' equity
+	3,927,947
+3,870,384
+Row:Total liabilities and shareholders' equity
+	$
+5,629,963
+EA
+5,561,984
+Row:notes to consolidated financial statements.
+	Row:(In thousands, , except per share data)
+	2016 	2015 	2014
+Row:Revenues:
+			Row:System sales 	$ 1,265,962 	$ 1,281,890 	$ 945,858
+Row:Support, maintenance and services 	3,441,966 	3,070,575 	2,366,959
+Row:Reimbursed travel 	88,545 	72,802 	89,886
+Row:Total revenues 	4,796,473 	4,425,267 	3,402,703
+Row:Costs and expenses:
+			Row:Cost of system sales 	412,066 	430,335 	314,089
+Row:Cost of support, maintenance and services 	278,505 	247,644 	200,402
+Row:Cost of reimbursed travel 	88,545 	72,802 	89,886
+Row:Sales and client service 	2,071,926 	1,838,600 	1,395,568
+Row:Software development (Includes amortization of $140,232, $119,195 and $103,447, respectively) 	551,418 	539,799 	392,805
+Row:General and administrative 	392,454 	423,424 	233,393
+Row:Amortization of acquisition-related intangibles 	90,546 	91,527 	13,476
+Row:Total costs and expenses 	3,885,460 	3,644,131 	2,639,619
+Row:Operating earnings 	911,013 	781,136 	763,084
+Row:Other income, net 	7,421 	244 	11,090
+Row:Earnings before income taxes 	918,434 	781,380 	774,174
+Row:Income taxes 	(281,950) 	(242,018) 	(248,741)
+)
+Row:Net earnings 	$ 636,484 	$ 539,362 	$ 525,433
+Row:Basic earnings per share 	$ 1.88 	$ 1.57 	$ 1.54
+Row:Diluted earnings per share 	$ 1.85 	$ 1.54 	$ 1.50
+Row:Basic weighted average shares outstanding 	337,740 	343,178 	342,150
+Row:Diluted weighted average shares outstanding 	343,653 	350,908 	350,386
+Row:See notes to consolidated financial statements.
+			Row:	2016 		2015 		2014
+Row:$ 	636,484 	$ 	539,362 	$ 	525,433
+Row:	(33,871) 		(32,171) 		(30,145)
+Row:	60 		(87) 		(522)
+Row:$ 	602,673 	$ 	507,104 	$ 	494,766
+Row:(In thousands)
+	2016 	2015 	2014
+Row:Net earnings 	$ 636,484 	$ 539,362 $ 	525,433
+Row:Foreign currency translation adjustment and other (net of taxes (benefit) of $2,092, $(3,201) and $(1,111), respectively) 	(33,871) 	(32,171) 	(30,145)
+Row:Change in net unrealized holding gain (loss) on available-for-sale investments (net of taxes (benefits) of $37, $(46) respectively) , 	and $(331),
+60 	(87) 	(522)
+Row:Comprehensive income 	$ 602,673 	$ 507,104 $ 	494,766
+Row:See notes to consolidated financial statements.
+			Row:52
+			Row:(In thousands)
+	2016
+	2015
+	2014
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+			Row:Net earnings
+	Es
+636,484
+	GA
+539,362
+	525,433
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities:
+			Row:Depreciation and amortization
+	504,236
+	452,225
+	302,353
+Row:Share-based compensation expense
+	74,536
+	70,121
+	59,292
+Row:Provision for deferred income taxes
+	(11,517)
+	65,245
+	106,905
+Row:Changes in assets and liabilities (net of businesses acquired):
+			Row:Receivables, net
+	78,258
+	(160,124)
+	(74,786)
+Row:Inventory
+	(666)
+	12,951
+	8,117
+Row:Prepaid expenses and other
+	(66,658)
+	(55,363)
+	(14,625)
+Row:Accounts payable
+	(13,197)
+	7
+	2,974
+Row:Accrued income taxes
+	12,170
+	(690)
+	(21,764)
+Row:Deferred revenue
+	1,555
+	9,450
+	4,346
+Row:Other accrued liabilities
+	(59,589)
+	14,342
+	(51,218)
+Row:Net cash provided by operating activities
+	1,155,612
+	947,526
+	847,027
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+			Row:Capital purchases
+	(459,427)
+	(362,132)
+	(276,584)
+Row:Capitalized software development costs
+	(293,696)
+	(264,656)
+	(177,800)
+Row:Purchases of investments
+	(482,078)
+	(487,981)
+	(1,214,036)
+Row:Sales and maturities of investments
+	463,899
+	1,208,387
+	1,404,846
+Row:Purchase of other intangibles
+	(18,472)
+	(21,432)
+	(13,517)
+Row:Acquisition of businesses
+		(1,478,129)
+	(7,476)
+Row:Net cash used in investing activities
+	(789,774)
+	(1,405,943)
+	(284,567)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+			Row:Long-term debt issuance
+		500,000
+	Row:Repayment of long-term debt and capital lease obligations
+		(14,325)
+	(14,930)
+Row:Proceeds from excess tax benefits from share-based compensation
+	51,903
+	55,959
+	39,532
+Row:Proceeds from exercise of options
+	63,794
+	51,475
+	31,879
+Row:Treasury stock purchases
+	(700,275)
+	(345,057)
+	(217,082)
+Row:Contingent consideration payments for acquisition of businesses
+	(2,074)
+	(11,012)
+	(10,617)
+Row:Cash grants
+			48,000
+Row:Other
+		(791)
+	2,894
+Row:Net cash provided by (used in) financing activities
+	(586,652)
+	236,249
+	(120,324)
+Row:Effect of exchange rate changes on cash and cash equivalents
+	(10,447)
+	(10,913)
+	(9,310)
+Row:Net increase (decrease) in cash and cash equivalents
+	(231,261)
+	(233,081)
+	432,826
+Row:Cash and cash equivalents at beginning of period
+	402,122
+	635,203
+	202,377
+Row:Cash and cash equivalents at end of period
+	$
+170,861
+	$
+402,122
+	$
+635,203
+Row:Summary of acquisition transactions:
+			Row:Fair value of tangible assets acquired
+	$
+(10,200 	$
+532,625
+	184
+Row:Fair value of intangible assets acquired
+	(25,000)
+	637,980
+	3,800
+Row:Fair value of goodwill
+	46,940
+	485,387
+	16,785
+Row:Less: Fair value of liabilities assumed
+	(11,740)
+	(176,863)
+	(1,693)
+Row:Less: Fair value of contingent liability payable
+		(1,000)
+	(11,600)
+Row:Net cash used
+	$
+	$ 1,478,129
+	$
+7,476
+Row:Long-term debt issuance
+	500,000
+Row:Repayment of long-term debt and capital lease obligations
+	(14,325)
+(14,930Row:Proceeds from excess tax benefits from share-based compensation
+	51,903
+55,959
+39,532
+Row:Proceeds from exercise of options
+	63,794
+51,475
+31,879
+Row:Treasury stock purchases
+	(700,275)
+(345,057)
+(217,082Row:Contingent consideration payments for acquisition of businesses
+	(2,074)
+(11,012)
+(10,617Row:Cash grants
+	48,000
+Row:Fair value of tangible assets acquired
+	$
+(	10,200 $
+	532,625
+	184
+Row:Fair value of intangible assets acquired
+	(	25,000)
+	637,980
+	3,800
+Row:Fair value of goodwill
+		46,940
+	485,387
+	16,785
+Row:Less: Fair value of liabilities assumed
+	(	11,740)
+	(176,863)
+	(1,693)
+Row:Less: Fair value of contingent liability payable
+			(1,000)
+	(11,600)
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents
+	$
+170,861
+	402,122
+Row:Short-term investments
+	185,588
+	111,059
+Row:Receivables, net
+	944,943
+	1,034,084
+Row:Inventory
+	14,740
+	15,788
+Row:Prepaid expenses and other
+	303,229
+	264,780
+Row:Total current assets
+	1,619,361
+	1,827,833
+Row:Property and equipment, net
+	1,552,524
+	1,309,214
+Row:Software development costs, net
+	719,209
+	562,559
+Row:Goodwill
+	844,200
+	799,182
+Row:Intangible assets, net
+	566,047
+	688,058
+Row:Long-term investments
+	109,374
+	173,073
+Row:Other assets
+	219,248
+	202,065
+Row:Total assets
+	5,629,963
+	,561,984
+Row:Liabilities and Shareholders' Equity
+		Row:Current liabilities:
+		Row:Accounts payable
+	$
+238,134
+	$
+215,510
+Row:Current installments of long-term debt and capital lease obligations
+	26,197
+	41,797
+Row:Deferred revenue
+	311,839
+	278,443
+Row:Accrued payroll and tax withholdings
+	211,554
+	184,225
+Row:Other accrued expenses
+	57,677
+	57,891
+Row:Total current liabilities
+	845,401
+	777,866
+Row:Long-term debt and capital lease obligations
+	537,552
+	563,353
+Row:Deferred income taxes and other liabilities
+	306,263
+	324,516
+Row:Deferred revenue
+	12,800
+	25,865
+Row:Total liabilities
+	1,702,016
+	1,691,600
+Row:Shareholders' Equity:
+		Row:Common stock, $.01 par value, 500,000,000 shares authorized, 353,731,237 shares issued at December 31, 2016 and shares issued at January 2, 2016
+	350,323,367
+3,537
+	3,503
+Row:Additional paid-in capital
+	1,230,913
+	1,075,782
+Row:Retained earnings
+	4,094,327
+	3,457,843
+Row:Treasury stock, 24,089,737 shares at December 31, 2016 and 10,364,691 shares at January 2, 2016
+	(1,290,665)
+	(590,390)
+Row:Accumulated other comprehensive loss, net
+	(110,165)
+	(76,354)
+Row:Total shareholders' equity
+	3,927,947
+	3,870,384
+Row:Total liabilities and shareholders' equity
+	$
+5,629,963
+	EA
+5,561,984
+Row:Common stock, $.01 par value, 500,000,000 shares authorized, 353,731,237 shares issued at December 31, 2016 and 350,323,367
+shares issued at January 2, 2016
+	3,537
+3,503
+Row:Additional paid-in capital
+	1,230,913
+1,075,782
+Row:Retained earnings
+	4,094,327
+3,457,843
+Row:Treasury stock, 24,089,737 shares at December 31, 2016 and 10,364,691 shares at January 2, 2016
+	(1,290,665)
+(590,390)
+Row:Accumulated other comprehensive loss, net
+	(110,165)
+(76,354)
+Row:Total shareholders' equity
+	3,927,947
+3,870,384
+Row:Total liabilities and shareholders' equity
+	$
+5,629,963
+EA
+5,561,984
+Row:notes to consolidated financial statements.
+	Row:(In thousands, , except per share data)
+	2016 	2015 	2014
+Row:Revenues:
+			Row:System sales 	$ 1,265,962 	$ 1,281,890 	$ 945,858
+Row:Support, maintenance and services 	3,441,966 	3,070,575 	2,366,959
+Row:Reimbursed travel 	88,545 	72,802 	89,886
+Row:Total revenues 	4,796,473 	4,425,267 	3,402,703
+Row:Costs and expenses:
+			Row:Cost of system sales 	412,066 	430,335 	314,089
+Row:Cost of support, maintenance and services 	278,505 	247,644 	200,402
+Row:Cost of reimbursed travel 	88,545 	72,802 	89,886
+Row:Sales and client service 	2,071,926 	1,838,600 	1,395,568
+Row:Software development (Includes amortization of $140,232, $119,195 and $103,447, respectively) 	551,418 	539,799 	392,805
+Row:General and administrative 	392,454 	423,424 	233,393
+Row:Amortization of acquisition-related intangibles 	90,546 	91,527 	13,476
+Row:Total costs and expenses 	3,885,460 	3,644,131 	2,639,619
+Row:Operating earnings 	911,013 	781,136 	763,084
+Row:Other income, net 	7,421 	244 	11,090
+Row:Earnings before income taxes 	918,434 	781,380 	774,174
+Row:Income taxes 	(281,950) 	(242,018) 	(248,741)
+)
+Row:Net earnings 	$ 636,484 	$ 539,362 	$ 525,433
+Row:Basic earnings per share 	$ 1.88 	$ 1.57 	$ 1.54
+Row:Diluted earnings per share 	$ 1.85 	$ 1.54 	$ 1.50
+Row:Basic weighted average shares outstanding 	337,740 	343,178 	342,150
+Row:Diluted weighted average shares outstanding 	343,653 	350,908 	350,386
+Row:See notes to consolidated financial statements.
+			Row:	2016 		2015 		2014
+Row:$ 	636,484 	$ 	539,362 	$ 	525,433
+Row:	(33,871) 		(32,171) 		(30,145)
+Row:	60 		(87) 		(522)
+Row:$ 	602,673 	$ 	507,104 	$ 	494,766
+Row:(In thousands)
+	2016 	2015 	2014
+Row:Net earnings $ 	636,484 	$ 539,362 $ 	525,433
+Row:Foreign currency translation adjustment and other (net of taxes (benefit) of $2,092, $(3,201) and $(1,111), respectively) 	(33,871) 	(32,171) 	(30,145)
+Row:Change in net unrealized holding gain (loss) on available-for-sale investments (net of taxes (benefits) of $37, $(46) and $(331),
+, 			Row:respectively) 	60 	(87) 	(522)
+Row:Comprehensive income $ 	602,673 	$ 507,104 $ 	494,766
+Row:(In thousands)
+	2016
+	2015
+	2014
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+			Row:Net earnings
+	Es
+636,484
+	GA
+539,362
+	525,433
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities:
+			Row:Depreciation and amortization
+	504,236
+	452,225
+	302,353
+Row:Share-based compensation expense
+	74,536
+	70,121
+	59,292
+Row:Provision for deferred income taxes
+	(11,517)
+	65,245
+	106,905
+Row:Changes in assets and liabilities (net of businesses acquired):
+			Row:Receivables, net
+	78,258
+	(160,124)
+	(74,786Row:Inventory
+	(666)
+	12,951
+	8,117
+Row:Prepaid expenses and other
+	(66,658)
+	(55,363)
+	(14,625Row:Accounts payable
+	(13,197)
+	7
+	2,974
+Row:Accrued income taxes
+	12,170
+	(690)
+	(21,764Row:Deferred revenue
+	1,555
+	9,450
+	4,346
+Row:Other accrued liabilities
+	(59,589)
+	14,342
+	(51,218Row:Net cash provided by operating activities
+	1,155,612
+	947,526
+	847,027
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+			Row:Capital purchases
+	(459,427)
+	(362,132)
+	(276,584Row:Capitalized software development costs
+	(293,696)
+	(264,656)
+	(177,800Row:Purchases of investments
+	(482,078)
+	(487,981)
+	(1,214,036Row:Sales and maturities of investments
+	463,899
+	1,208,387
+	1,404,846
+Row:Purchase of other intangibles
+	(18,472)
+	(21,432)
+	(13,517Row:Acquisition of businesses
+		(1,478,129)
+	(7,476Row:Net cash used in investing activities
+	(789,774)
+	(1,405,943)
+	(284,567Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+			Row:Long-term debt issuance
+		500,000
+	Row:Repayment of long-term debt and capital lease obligations
+		(14,325)
+	(14,930Row:Proceeds from excess tax benefits from share-based compensation
+	51,903
+	55,959
+	39,532
+Row:Proceeds from exercise of options
+	63,794
+	51,475
+	31,879
+Row:Treasury stock purchases
+	(700,275)
+	(345,057)
+	(217,082Row:Contingent consideration payments for acquisition of businesses
+	(2,074)
+	(11,012)
+	(10,617Row:Cash grants
+			48,000
+Row:Other
+		(791)
+	2,894
+Row:Net cash provided by (used in) financing activities
+	(586,652)
+	236,249
+	(120,324Row:Effect of exchange rate changes on cash and cash equivalents
+	(10,447)
+	(10,913)
+	(9,310Row:Net increase (decrease) in cash and cash equivalents
+	(231,261)
+	(233,081)
+	432,826
+Row:Cash and cash equivalents at beginning of period
+	402,122
+	635,203
+	202,377
+Row:Cash and cash equivalents at end of period
+	$
+170,861
+	$
+402,122
+	$
+635,203
+Row:Summary of acquisition transactions:
+			Row:Fair value of tangible assets acquired
+	$
+(10,200 	$
+532,625
+	184
+Row:Fair value of intangible assets acquired
+	(25,000)
+	637,980
+	3,800
+Row:Fair value of goodwill
+	46,940
+	485,387
+	16,785
+Row:Less: Fair value of liabilities assumed
+	(11,740)
+	(176,863)
+	(1,693Row:Less: Fair value of contingent liability payable
+		(1,000)
+	(11,600Row:Net cash used
+	$
+	$ 1,478,129
+	$
+7,476
+Row:Long-term debt issuance
+	500,000
+Row:Repayment of long-term debt and capital lease obligations
+	(14,325)
+(14,930Row:Proceeds from excess tax benefits from share-based compensation
+	51,903
+55,959
+39,532
+Row:Proceeds from exercise of options
+	63,794
+51,475
+31,879
+Row:Treasury stock purchases
+	(700,275)
+(345,057)
+(217,082Row:Contingent consideration payments for acquisition of businesses
+	(2,074)
+(11,012)
+(10,617Row:Cash grants
+	48,000
+Row:Fair value of tangible assets acquired
+	$
+(	10,200 $
+	532,625
+	184
+Row:Fair value of intangible assets acquired
+	(	25,000)
+	637,980
+	3,800
+Row:Fair value of goodwill
+		46,940
+	485,387
+	16,785
+Row:Less: Fair value of liabilities assumed
+	(	11,740)
+	(176,863)
+	(1,693)
+Row:Less: Fair value of contingent liability payable
+			(1,000)
+	(11,600)
+Row:Assets		Row:Current assets:		Row:Cash and cash equivalents	170,861	402,122Row:Short-term investments	185,588	111,059Row:Receivables, net	944,943	1,034,084Row:Inventory	14,740	15,788Row:Prepaid expenses and other	303,229
+	264,780
+Row:Total current assets
+	1,619,361
+	1,827,833
+Row:Property and equipment, net	1,552,524	1,309,214Row:Software development costs, net	719,209	562,559Row:Goodwill	844,200	799,182Row:Intangible assets, net	566,047	688,058Row:Long-term investments	109,374	173,073Row:Other assets
+	219,248
+	202,065
+Row:Total assets
+$
+	629,963
+	$
+5,561,984
+Row:Liabilities and Shareholders' Equity
+		Row:Current liabilities:		Row:Accounts payable	238,134	$
+215,510Row:Current installments of long-term debt and capital lease obligations	26,197	41,797Row:Deferred revenue	311,839	278,443Row:Accrued payroll and tax withholdings	211,554	184,225Row:Other accrued expenses	57,677	57,891Row:Total current liabilities
+	845,401
+	777,866
+Row:Accounts payable	238,134	$
+215,510Row:Current installments of long-term debt and capital lease obligations	26,197	41,797Row:Deferred revenue	311,839	278,443Row:Accrued payroll and tax withholdings	211,554	184,225Row:Other accrued expenses	57,677	57,891Row:Total current liabilities
+	845,401
+	777,866
+Row:Long-term debt and capital lease obligations	537,552	563,353Row:Deferred income taxes and other liabilities
+	306,263	324,516Row:Deferred revenue
+	12,800	25,865Row:Total liabilities
+	1,702,016
+	1,691,600
+Row:shares issued at January 2, 2016	3,537	3,503Row:Additional paid-in capital	1,230,913	1,075,782Row:Retained earnings	4,094,327	3,457,843Row:Treasury stock, 24,089,737 shares at December 31, 2016 and 10,364,691 shares at January 2, 2016	(1,290,665)	(590,390)Row:Accumulated other comprehensive loss, net	(110,165)	(76,354)Row:Total shareholders' equity
+	3,927,947
+	3,870,384
+Row:Total liabilities and shareholders' equity
+	$
+5,629,963
+	$
+5,561,984
+Row:(In thousands, except per share data)
+	2016 	2015 	2014
+Row:Revenues:
+			Row:System sales $ 	1,265,962 $ 	1,281,890 $ 	945,858
+Row:Support, maintenance and services 	3,441,966 	3,070,575 	2,366,959
+Row:Reimbursed travel 	88,545 	72,802 	89,886
+Row:Total revenues 	4,796,473 	4,425,267 	3,402,703
+Row:Costs and expenses:
+			Row:Cost of system sales 	412,066 	430,335 	314,089
+Row:Cost of support, maintenance and services 	278,505 	247,644 	200,402
+Row:Cost of reimbursed travel 	88,545 	72,802 	89,886
+Row:Sales and client service 	2,071,926 	1,838,600 	1,395,568
+Row:Software development (Includes amortization of $140,232, $119,195 and $103,447, respectively) 	551,418 	539,799 	392,805
+Row:General and administrative 	392,454 	423,424 	233,393
+Row:Amortization of acquisition-related intangibles 	90,546 	91,527 	13,476
+Row:Total costs and expenses 	3,885,460 	3,644,131 	2,639,619
+Row:Operating earnings 	911,013 	781,136 	763,084
+Row:Other income, net 	7,421 	244 	11,090
+Row:Earnings before income taxes 	918,434 	781,380 	774,174
+Row:Income taxes 	(281,950) 	(242,018) 	(248,741)
+Row:Net earnings $ 	636,484 $ 	539,362 $ 	525,433
+Row:Basic earnings per share $ 	1.88 $ 	1.57 $ 	1.54
+Row:Diluted earnings per share $ 	1.85 $ 	1.54 $ 	1.50
+Row:Basic weighted average shares outstanding 	337,740 	343,178 	342,150
+Row:Diluted weighted average shares outstanding 	343,653 	350,908 	350,386
+Row:(In thousands)
+	2016 	2015 	2014
+Row:Net earnings $ 	636,484 	$ 539,362 	$ 525,433
+Row:Foreign currency translation adjustment and other (net of taxes (benefit) of $2,092, $(3,201) and $(1,111), respectively) 	(33,871) 	(32,171) 	(30,145)
+Row:Change in net unrealized holding gain (loss) on available-for-sale investments (net of taxes (benefits) of $37, $(46) and $(331),
+respectively) 	60 	(87) 	(522)
+Row:Comprehensive income $ 	602,673 	$ 507,104 	$ 494,766
+Row:(In thousands)	2016
+	2015
+	2014
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:			Row:$
+Net earnings	636,484
+	539,362
+	525,433
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities:			Row:Depreciation and amortization	504,236	452,225	302,353Row:Share-based compensation expense	74,536	70,121	59,292Row:Provision for deferred income taxes	(11,517)
+	65,245
+	106,905
+Row:Changes in assets and liabilities (net of businesses acquired):			Row:Receivables, net	78,258	(160,124)	(74,786)Row:Inventory	(666)	12,951	8,117Row:Prepaid expenses and other	(66,658)	(55,363)	(14,625)Row:Accounts payable	(13,197)	7	2,974Row:Accrued income taxes	12,170	(690)	(21,764)Row:Deferred revenue	1,555	9,450	4,346Row:Other accrued liabilities
+	(59,589)
+	14,342
+	(51,218)
+Row:Net cash provided by operating activities
+	1,155,612
+	947,526
+	847,027
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:			Row:Capital purchases(	459,427)	(362,132)	(276,584)Row:Capitalized software development costs(	293,696)	(264,656)	(177,800)Row:Purchases of investments(	482,078)	(487,981)	(1,214,036)Row:Sales and maturities of investments	463,899	1,208,387	1,404,846Row:Purchase of other intangibles	(18,472)
+	(21,432)	(13,517)Row:Acquisition of businesses
+		(1,478,129)
+	(7,476)
+Row:Net cash used in investing activities
+(	789,774)
+	(1,405,943)
+	(284,567)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:			Row:Long-term debt issuance		500,000	Row:Repayment of long-term debt and capital lease obligations		(14,325)	(14,930)Row:CASH FLOWS FROM FINANCING ACTIVITIES:		Row:Long-term debt issuance	500,000	Row:Repayment of long-term debt and capital lease obligations	(14,325)	(14,930)Row:Proceeds from excess tax benefits from share-based compensation	51,90355,959	39,532Row:Proceeds from exercise of options	63,79451,475	31,879Row:Treasury stock purchases	(700,275)(345,057)	(217,082)Row:Contingent consideration payments for acquisition of businesses	(2,074)
+(11,012)
+	(10,617)Row:Cash grants		48,000Row:Other
+	(791)
+	2,894
+Row:Net cash provided by (used in) financing activities
+	(586,652)
+236,249
+	(120,324)
+Row:Effect of exchange rate changes on cash and cash equivalents
+	(10,447)
+(10,913)
+	(9,310)
+Row:Net increase (decrease) in cash and cash equivalents	(231,261)(233,081)	432,826Row:Cash and cash equivalents at beginning of period
+	402,122
+635,203
+	202,377
+Row:Cash and cash equivalents at end of period
+$
+	170,861
+$
+402,122
+$
+	635,203
+Row:Summary of acquisition transactions:		Row:$
+Fair value of tangible assets acquired	(10,200) $532,625	184
+Row:Fair value of intangible assets acquired	(25,000)637,980	3,800Row:Fair value of goodwill	46,940485,387	16,785Row:Less: Fair value of liabilities assumed	(11,740)
+(176,863)	(1,693)Row:Less: Fair value of contingent liability payable
+	(1,000)
+	(11,600)
+Row:Net cash used
+$
+	$ 1,478,129
+$
+	7,476
+Row:$
+Fair value of tangible assets acquired	(10,200) 	$532,625	184
+Row:Fair value of intangible assets acquired	(25,000)	637,980	3,800Row:Fair value of goodwill	46,940	485,387	16,785Row:Less: Fair value of liabilities assumed	(11,740)
+	(176,863)	(1,693)Row:Less: Fair value of contingent liability payable
+		(1,000)
+	(11,600)
+Row:Net cash used
+$
+		$ 1,478,129
+	$
+7,476
+Row:Assets		Row:Current assets:		Row:Cash and cash equivalents	170,861	402,122Row:Short-term investments	185,588	111,059Row:Receivables, net	944,943	1,034,084Row:Inventory	14,740	15,788Row:Prepaid expenses and other	303,229
+	264,780
+Row:Total current assets
+	1,619,361
+	1,827,833
+Row:Property and equipment, net	1,552,524	1,309,214Row:Software development costs, net	719,209	562,559Row:Goodwill	844,200	799,182Row:Intangible assets, net	566,047	688,058Row:Long-term investments	109,374	173,073Row:Other assets
+	219,248
+	202,065
+Row:Total assets
+$
+	629,963
+	$
+5,561,984
+Row:Liabilities and Shareholders' Equity
+		Row:Current liabilities:		Row:Accounts payable	238,134	$
+215,510Row:Current installments of long-term debt and capital lease obligations	26,197	41,797Row:Deferred revenue	311,839	278,443Row:Accrued payroll and tax withholdings	211,554	184,225Row:Other accrued expenses	57,677	57,891Row:Total current liabilities
+	845,401
+	777,866
+Row:Accounts payable	238,134	$
+215,510Row:Current installments of long-term debt and capital lease obligations	26,197	41,797Row:Deferred revenue	311,839	278,443Row:Accrued payroll and tax withholdings	211,554	184,225Row:Other accrued expenses	57,677	57,891Row:Total current liabilities
+	845,401
+	777,866
+Row:Long-term debt and capital lease obligations	537,552	563,353Row:Deferred income taxes and other liabilities
+	306,263	324,516Row:Deferred revenue
+	12,800	25,865Row:Total liabilities
+	1,702,016
+	1,691,600
+Row:shares issued at January 2, 2016	3,537	3,503Row:Additional paid-in capital	1,230,913	1,075,782Row:Retained earnings	4,094,327	3,457,843Row:Treasury stock, 24,089,737 shares at December 31, 2016 and 10,364,691 shares at January 2, 2016	(1,290,665)	(590,390)Row:Accumulated other comprehensive loss, net	(110,165)	(76,354)Row:Total shareholders' equity
+	3,927,947
+	3,870,384
+Row:Total liabilities and shareholders' equity
+	$
+5,629,963
+	$
+5,561,984
+Row:(In thousands, except per share data)
+	2016 	2015 	2014
+Row:Revenues:
+			Row:System sales $ 	1,265,962 $ 	1,281,890 $ 	945,858
+Row:Support, maintenance and services 	3,441,966 	3,070,575 	2,366,959
+Row:Reimbursed travel 	88,545 	72,802 	89,886
+Row:Total revenues 	4,796,473 	4,425,267 	3,402,703
+Row:Costs and expenses:
+			Row:Cost of system sales 	412,066 	430,335 	314,089
+Row:Cost of support, maintenance and services 	278,505 	247,644 	200,402
+Row:Cost of reimbursed travel 	88,545 	72,802 	89,886
+Row:Sales and client service 	2,071,926 	1,838,600 	1,395,568
+Row:Software development (Includes amortization of $140,232, $119,195 and $103,447, respectively) 	551,418 	539,799 	392,805
+Row:General and administrative 	392,454 	423,424 	233,393
+Row:Amortization of acquisition-related intangibles 	90,546 	91,527 	13,476
+Row:Total costs and expenses 	3,885,460 	3,644,131 	2,639,619
+Row:Operating earnings 	911,013 	781,136 	763,084
+Row:Other income, net 	7,421 	244 	11,090
+Row:Earnings before income taxes 	918,434 	781,380 	774,174
+Row:Income taxes 	(281,950) 	(242,018) 	(248,741)
+Row:Net earnings $ 	636,484 $ 	539,362 $ 	525,433
+Row:Basic earnings per share $ 	1.88 $ 	1.57 $ 	1.54
+Row:Diluted earnings per share $ 	1.85 $ 	1.54 $ 	1.50
+Row:Basic weighted average shares outstanding 	337,740 	343,178 	342,150
+Row:Diluted weighted average shares outstanding 	343,653 	350,908 	350,386
+Row:(In thousands)
+	2016 	2015 	2014
+Row:Net earnings $ 	636,484 	$ 539,362 	$ 525,433
+Row:Foreign currency translation adjustment and other (net of taxes (benefit) of $2,092, $(3,201) and $(1,111), respectively) 	(33,871) 	(32,171) 	(30,145)
+Row:Change in net unrealized holding gain (loss) on available-for-sale investments (net of taxes (benefits) of $37, $(46) and $(331),
+respectively) 	60 	(87) 	(522)
+Row:Comprehensive income $ 	602,673 	$ 507,104 	$ 494,766
+Row:(In thousands)	2016
+	2015
+	2014
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:			Row:$
+Net earnings	636,484
+	539,362
+	525,433
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities:			Row:Depreciation and amortization	504,236	452,225	302,353Row:Share-based compensation expense	74,536	70,121	59,292Row:Provision for deferred income taxes	(11,517)
+	65,245
+	106,905
+Row:Changes in assets and liabilities (net of businesses acquired):			Row:Receivables, net	78,258	(160,124)	(74,786)Row:Inventory	(666)	12,951	8,117Row:Prepaid expenses and other	(66,658)	(55,363)	(14,625)Row:Accounts payable	(13,197)	7	2,974Row:Accrued income taxes	12,170	(690)	(21,764)Row:Deferred revenue	1,555	9,450	4,346Row:Other accrued liabilities
+	(59,589)
+	14,342
+	(51,218)
+Row:Net cash provided by operating activities
+	1,155,612
+	947,526
+	847,027
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:			Row:Capital purchases(	459,427)	(362,132)	(276,584)Row:Capitalized software development costs(	293,696)	(264,656)	(177,800)Row:Purchases of investments(	482,078)	(487,981)	(1,214,036)Row:Sales and maturities of investments	463,899	1,208,387	1,404,846Row:Purchase of other intangibles	(18,472)
+	(21,432)	(13,517)Row:Acquisition of businesses
+		(1,478,129)
+	(7,476)
+Row:Net cash used in investing activities
+(	789,774)
+	(1,405,943)
+	(284,567)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:			Row:Long-term debt issuance		500,000	Row:Repayment of long-term debt and capital lease obligations		(14,325)	(14,930)Row:CASH FLOWS FROM FINANCING ACTIVITIES:		Row:Long-term debt issuance	500,000	Row:Repayment of long-term debt and capital lease obligations	(14,325)	(14,930)Row:Proceeds from excess tax benefits from share-based compensation	51,90355,959	39,532Row:Proceeds from exercise of options	63,79451,475	31,879Row:Treasury stock purchases	(700,275)(345,057)	(217,082)Row:Contingent consideration payments for acquisition of businesses	(2,074)
+(11,012)
+	(10,617)Row:Cash grants		48,000Row:Other
+	(791)
+	2,894
+Row:Net cash provided by (used in) financing activities
+	(586,652)
+236,249
+	(120,324)
+Row:Effect of exchange rate changes on cash and cash equivalents
+	(10,447)
+(10,913)
+	(9,310)
+Row:Net increase (decrease) in cash and cash equivalents	(231,261)(233,081)	432,826Row:Cash and cash equivalents at beginning of period
+	402,122
+635,203
+	202,377
+Row:Cash and cash equivalents at end of period
+$
+	170,861
+$
+402,122
+$
+	635,203
+Row:Summary of acquisition transactions:		Row:$
+Fair value of tangible assets acquired	(10,200) $532,625	184
+Row:Fair value of intangible assets acquired	(25,000)637,980	3,800Row:Fair value of goodwill	46,940485,387	16,785Row:Less: Fair value of liabilities assumed	(11,740)
+(176,863)	(1,693)Row:Less: Fair value of contingent liability payable
+	(1,000)
+	(11,600)
+Row:Net cash used
+$
+	$ 1,478,129
+$
+	7,476
+Row:$
+Fair value of tangible assets acquired	(10,200) 	$532,625	184
+Row:Fair value of intangible assets acquired	(25,000)	637,980	3,800Row:Fair value of goodwill	46,940	485,387	16,785Row:Less: Fair value of liabilities assumed	(11,740)
+	(176,863)	(1,693)Row:Less: Fair value of contingent liability payable
+		(1,000)
+	(11,600)
+Row:Net cash used
+$
+		$ 1,478,129
+	$
+7,476

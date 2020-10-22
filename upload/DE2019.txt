@@ -1,0 +1,127 @@
+Row:(In millions of dollars and shares except per share amounts)
+	Row:	2019 2018 2017
+Row:Net Sales and Revenues
+Net sales $ 	34,886 $ 33,351 $ 25,885
+Row:Finance and interest income 	3,493 3,107 2,732
+Row:Other income 	879 900 1,121
+Row:Total 	39,258 37,358 29,738
+Row:Costs and Expenses
+	Row:Cost of sales 	26,792 25,571 19,866
+Row:Research and development expenses 	1,783 1,658 1,373
+Row:Selling, administrative and general expenses 	3,551 3,455 3,098
+Row:Interest expense 	1,466 1,204 899
+Row:Other operating expenses 	1,578 1,399 1,348
+Row:Total 	35,170 33,287 26,584
+Row:Income of Consolidated Group before Income Taxes 	4,088 4,071 3,154
+Row:Provision for income taxes 	852 1,727 971
+Row:Income of Consolidated Group 	3,236 2,344 2,183
+Row:Equity in income (loss) of unconsolidated affiliates 	21 27 (24)
+Row:Net Income 	3,257 2,371 2,159
+Row:Less: Net income attributable to noncontrolling interests 	4 3
+Row:Net Income Attributable to Deere & Company $ 	3,253 $ 2,368 $ 2,159
+Row:Per Share Data
+	Row:Basic $ Diluted $ 	10.28 $ 7.34 $ 6.76
+10.15 $ 7.24 $ 6.68
+Row:Dividends declared $ 	3.04 $ 2.58 $ 2.40
+Row:Average Shares Outstanding
+	Row:Basic 	316.5 322.6 319.5
+Row:Diluted 	320.6 327.3 323.3
+Row:	2019 	2018 	2017
+Row:Net Sales and Revenues
+			Row:Net sales 	$ 34,886 	$ 33,351 	$ 25,885
+Row:Finance and interest income 	3,493 	3,107 	2,732
+Row:Other income 	879 	900 	1,121
+Row:Total 	39,258 	37,358 	29,738
+Row:2019 	2018
+Row:ASSETS
+	Row:Cash and cash equivalents $ 	3,857 $ 3,904
+Row:Marketable securities 	581 490
+Row:Receivables from unconsolidated affiliates 	46 22
+Row:Trade accounts and notes receivable - net 	5,230 5,004
+Row:Financing receivables - net 	29,195 27,054
+Row:Financing receivables securitized - net 	4,383 4,022
+Row:Other receivables 	1,487 1,736
+Row:Equipment on operating leases - net 	7,567 7,165
+Row:Inventories 	5,975 6,149
+Row:Property and equipment - net 	5,973 5,868
+Row:Investments in unconsolidated affiliates 	215 207
+Row:Goodwill 	2,917 3,101
+Row:Other intangible assets - net 	1,380 1,562
+Row:Retirement benefits 	840 1,298
+Row:Deferred income taxes 	1,466 808
+Row:Other assets 	1,899 1,718
+Row:Total Assets $ 	73,011 $ 70,108
+Row:Short-term borrowings 	$ 10,784 	$ 11,062
+Row:Short-term securitization borrowings 	4,321 	3,957
+Row:Payables to unconsolidated affiliates 	142 	129
+Row:Accounts payable and accrued expenses 	9,656 	10,111
+Row:Deferred income taxes 	495 	556
+Row:Long-term borrowings 	30,229 	27,237
+Row:Retirement benefits and other liabilities 	5,953 	5,751
+Row:Total liabilities 	61,580 	58,803
+Row:STOCKHOLDERS’ EQUITY
+	Row:Common stock, $1 par value (authorized – 1,200,000,000 shares;
+	Row:issued – 536,431,204 shares in 2019 and 2018), at paid-in amount 	4,642 4,474
+Row:Common stock in treasury, 223,290,789 shares in 2019 and 217,975,806 shares in 2018, at cost 	(17,474) (16,312)
+Row:Retained earnings 	29,852 27,553
+Row:Accumulated other comprehensive income (loss) 	(5,607) (4,427)
+Row:Total Deere & Company stockholders’ equity 	11,413 11,288
+Row:Noncontrolling interests 	4 3
+Row:Total stockholders’ equity 	11,417 11,291
+Row:Total Liabilities and Stockholders’ Equity $ 	73,011 $ 70,108
+Row:	2019 2018 2017
+Row:Cash Flows from Operating Activities
+	Row:Net income $ 	3,257 $ 2,371 $ 2,159
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+	Row:Provision for credit losses 	43 90 98
+Row:Provision for depreciation and amortization 	2,019 1,927 1,716
+Row:Impairment charges 	77 40
+Row:Share-based compensation expense 	82 84 68
+Row:(Gain) loss on sales of businesses and unconsolidated affiliates 	5 (25) (375)
+Row:Undistributed earnings of unconsolidated affiliates 	9 (26) (14)
+Row:Provision (credit) for deferred income taxes 	(465) 1,480 100
+Row:Changes in assets and liabilities:
+	Row:Trade, notes, and financing receivables related to sales 	(869) (1,531) (839)
+Row:Inventories 	(780) (1,772) (1,305)
+Row:Accounts payable and accrued expenses 	46 722 968
+Row:Accrued income taxes payable/receivable 	173 (466) (84)
+Row:Retirement benefits 	(233) (1,026) (32)
+Row:Other 	48 (6) (304)
+Row:Net cash provided by operating activities 	3,412 1,822 2,196
+Row:Cash Flows from Investing Activities
+	Row:Collections of receivables (excluding receivables related to sales) 	16,706 15,589 14,671
+Row:Proceeds from maturities and sales of marketable securities 	89 76 404
+Row:Proceeds from sales of equipment on operating leases 	1,648 1,483 1,441
+Row:Proceeds from sales of businesses and unconsolidated affiliates, net of cash sold 	93 156 114
+Row:Cost of receivables acquired (excluding receivables related to sales) 	(18,873) (17,013) (15,222)
+Row:Acquisitions of businesses, net of cash acquired 	(5,245) (284)
+Row:Purchases of marketable securities 	(140) (133) (118)
+Row:Accrued income taxes payable/receivable 	173 (466) (84)
+Row:Retirement benefits 	(233) (1,026) (32)
+Row:Other 	48 (6) (304)
+Row:Net cash provided by operating activities 	3,412 1,822 2,196
+Row:Cash Flows from Investing Activities
+	Row:Collections of receivables (excluding receivables related to sales) 	16,706 15,589 14,671
+Row:Proceeds from maturities and sales of marketable securities 	89 76 404
+Row:Proceeds from sales of equipment on operating leases 	1,648 1,483 1,441
+Row:Proceeds from sales of businesses and unconsolidated affiliates, net of cash sold 	93 156 114
+Row:Cost of receivables acquired (excluding receivables related to sales) 	(18,873) (17,013) (15,222)
+Row:Acquisitions of businesses, net of cash acquired 	(5,245) (284)
+Row:Purchases of marketable securities 	(140) (133) (118)
+Row:Purchases of property and equipment 	(1,120) (896) (595)
+Row:Cost of equipment on operating leases acquired 	(2,329) (2,054) (1,997)
+Row:Other 	2 (139) (76)
+Row:Net cash used for investing activities 	(3,924) (8,176) (1,662)
+Row:Cash Flows from Financing Activities
+Increase (decrease) in total short-term borrowings 	(917) 473 1,310
+Row:Proceeds from long-term borrowings 	9,986 8,288 8,702
+Row:Payments of long-term borrowings 	(6,426) (6,245) (5,397)
+Row:Proceeds from issuance of common stock 	178 217 529
+Row:Repurchases of common stock 	(1,253) (958) (6)
+Row:Dividends paid 	(943) (806) (764)
+Row:Other 	(116) (93) (88)
+Row:Net cash provided by financing activities 	509 876 4,286
+Row:Effect of Exchange Rate Changes on Cash, Cash Equivalents, and Restricted Cash 	(56) 26 157
+Row:Net Increase (Decrease) in Cash, Cash Equivalents, and Restricted Cash 	(59) (5,452) 4,977
+Row:Cash, Cash Equivalents, and Restricted Cash at Beginning of Year 	4,015 9,467 4,490
+Row:Cash, Cash Equivalents, and Restricted Cash at End of Year $ 	3,956 $ 4,015 $ 9,467

@@ -1,0 +1,215 @@
+Row:(In thousands, except per share data) 	2019 	2018
+Row:ASSETS
+		Row:Current assets
+		Row:Cash and cash equivalents 	$ 75,739 	$ 71,537
+Row:Restricted cash equivalents 	6,663 	8,272
+Row:Accounts receivable, net 	1,527 	1,833
+Row:Inventories 	104,817 	105,840
+Row:Prepaid expenses 	7,652 	8,106
+Row:Other current assets 	8,125 	6,262
+Row:Total current assets 	204,523 	201,850
+Row:Accounts receivable, long-term, net 	195 	226
+Row:Property and equipment, net 	156,534 	216,852
+Row:Right-of-use lease assets 	175,474 	—
+Row:Deferred income taxes 	13,198 	12,544
+Row:Other assets 	10,148 	8,707
+Row:Total assets 	$ 560,072 	$ 440,179
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+		Row:Current liabilities
+		Row:Accounts payable 	$ 27,830 	$ 19,840
+Row:Customer deposits 	30,121 	24,465
+Row:Accrued liabilities 	39,654 	39,903
+Row:Current lease liabilities 	29,411 	—
+Row:Current portion of lease obligations 	— 	4,018
+Row:Total current liabilities 	127,016 	88,226
+Row:Noncurrent lease liabilities 	149,594 	—
+Row:Lease obligations, less current portion 	— 	46,785
+Row:Other liabilities 	22,959 	30,539
+Row:Total liabilities 	299,569 	165,550
+Row:Stockholders’ equity
+		Row:Capital Stock, par value $1 per share
+		Row:Preferred Stock, Authorized – 1,000 shares; Issued: None
+Common Stock, Authorized – 50,000 shares; Issued: 2019 – 29,431; 2018 – 29,079 	29,431 	29,079
+Row:Convertible Class A Common Stock, Authorized – 15,000 shares; Issued: 2019 – 2,054; 2018 – 2,280 	2,054 	2,280
+Row:Additional paid-in capital 	93,208 	91,394
+Row:Retained earnings 	295,999 	282,366
+Row:Accumulated other comprehensive income (loss) 	(2,087) 	(1,465)
+Row:Less treasury stock at cost – Common Stock (2019 – 11,850; 2018 – 10,300) and Convertible Class A Common
+		Row:Stock (2019 and 2018 – 522) 	(158,102) 	(129,025)
+Row:Total stockholders’ equity 	260,503 	274,629
+Row:Total liabilities and stockholders’ equity 	$ 560,072 	$ 440,179
+Row:The accompanying notes are an integral part of these consolidated financial statements.
+		Row:	(158,102) 	(129,025)
+Row:	260,503 	274,629
+Row:$ 	560,072 $ 	440,179
+Row:	2019 	2018 	2017
+Row:$ 	802,291 	$ 817,733 	$ 819,866
+Row:	367,803 	371,191 	374,943
+Row:	434,488 	446,542 	444,923
+Row:	79 	103 	161
+Row:	434,567 	446,645 	445,084
+Row:(In thousands, except per share data) 	2019 	2018 	2017
+Row:Net sales 	$ 802,291 $ 	817,733 	$ 819,866
+Row:Cost of goods sold 	367,803 	371,191 	374,943
+Row:Gross profit 	434,488 	446,542 	444,923
+Row:Credit service charges 	79 	103 	161
+Row:Gross profit and other revenue 	434,567 	446,645 	445,084
+Row:Expenses:
+			Row:Selling, general and administrative 	407,456 	404,856 	402,884
+Row:Provision for doubtful accounts 	90 	68 	224
+Row:Other income, net 	(416) 	(110) 	(3,358)
+Row:Total expenses 	407,130 	404,814 	399,750
+Row:Income before interest and income taxes 	27,437 	41,831 	45,334
+Row:Interest (income) expense, net 	(1,287) 	1,423 	2,111
+Row:Income before income taxes 	28,724 	40,408 	43,223
+Row:Income tax expense 	6,859 	10,101 	22,148
+Row:Net income 	$ 21,865 $ 	30,307 	$ 21,075
+Row:Other comprehensive (loss) income, net of tax:
+			Row:Defined benefit pension plan adjustments; net of tax expense (benefit) of $(238), $226 and
+			Row:$(105) 	$ (622) $ 	679 	$ (314)
+Row:Comprehensive income 	$ 21,243 $ 	30,986 	$ 20,761
+Row:Basic earnings per share:
+			Row:Common Stock 	$ 1.10 $ 	1.45 	$ 1.00
+Row:Class A Common Stock 	$ 1.04 $ 	1.39 	$ 0.95
+Row:Diluted earnings per share:
+			Row:Common Stock 	$ 1.08 $ 	1.42 	$ 0.98
+Row:Class A Common Stock 	$ 1.03 $ 	1.39 	$ 0.94
+Row:The accompanying notes are an integral part of these consolidated financial statements.
+			Row:F-3
+			Row:(In thousands, except per share data) 	Shares 	2019 Dollars 	2018 Shares 	Dollars 	Shares 	2017
+Dollars
+Row:COMMON STOCK:
+						Row:Beginning balance
+	29,079 	$ 29,079 	28,950 	$ 28,950 	28,793 	$ 28,793
+Row:Conversion of Class A Common Stock
+	226 	226 	10 	10 		50 50
+Row:Stock compensation transactions, net
+	126 	126 	119 	119 		107 107
+Row:Ending balance
+	29,431 	29,431 	29,079 	29,079 	28,950 	28,950
+Row:CLASS A COMMON STOCK:
+						Row:Beginning balance
+	2,280 	2,280 	2,290 	2,290 	2,340 	2,340
+Row:Conversion to Common Stock
+	(226) 	(226) 	(10) 	(10) 		(50) (50)
+Row:Ending balance
+	2,054 	2,054 	2,280 	2,280 	2,290 	2,290
+Row:TREASURY STOCK:
+						Row:Beginning balance (includes 522,410 shares
+Class A Stock for each of the years presented;
+remainder are Common Stock)
+	(10,822) 	(129,025) 	(10,020) 	(111,322) 	(10,028) 	(111,412)
+Row:Directors’ Compensation Plan
+	55 	680 	88 	1,029 		8 90
+Row:Purchases
+	(1,605) 	(29,757) 	(890) 	(18,732) 		— —
+Row:Ending balance
+	12,372 	(158,102) 	(10,822) 	(129,025) 	(10,020) 	(111,322)
+Row:ADDITIONAL PAID-IN CAPITAL:
+						Row:Beginning balance
+		91,394 		88,978 		86,273
+Row:Stock option and restricted stock issuances
+		(1,568) 		(1,352) 		(1,662)
+Row:Directors’ Compensation Plan
+		(53) 		(590) 		549
+Row:Stock-based compensation
+		3,435 		4,358 		3,818
+Row:Ending balance
+		93,208 		91,394 		88,978
+Row:RETAINED EARNINGS:
+						Row:Beginning balance
+		282,366 		287,390 		277,707
+Row:Impact of adoption of new accounting
+pronouncement
+		6,824 		133 		—
+Row:Net income
+		21,865 		30,307 		21,075
+Row:Cash dividends
+(Common Stock: 2019 - $0.76; 2018 – $1.72;
+and 2017 – $ 0.54; per share Class A
+Common Stock: 2019 - $0.72; 2018 – $1.63
+and 2017- $0.51 per share)
+		(15,056) 		(35,464) 		(11,392)
+Row:Ending balance
+		295,999 		282,366 		287,390
+Row:ACCUMULATED OTHER COMPREHENSIVE
+						Row:INCOME (LOSS):
+						Row:Beginning balance
+		(1,465) 		(2,144) 		(1,830)
+Row:Pension liabilities adjustment,
+net of taxes
+		(622) 		679 		(314)
+Row:Ending balance
+		(2,087) 		(1,465) 		(2,144)
+Row:TOTAL STOCKHOLDERS’ EQUITY
+		$ 260,503 		$ 274,629 		$ 294,142
+Row:The accompanying notes are an integral part of these 	consolidated financial 	statements
+F-4
+				Row:	2019 Shares 	Dollars 	2018 Shares 	Dollars 	2017
+Shares 	Dollars
+Row:	29,079 $ 	29,079 	28,950 $ 	28,950 	28,793 $ 	28,793
+Row:Stock
+	226 	226 	10 	10 	50 	50
+Row:net
+	126 	126 	119 	119 	107 	107
+Row:	29,431 2,280 	29,431 2,280 	29,079 2,290 	29,079 2,290 	28,950 2,340 	28,950
+2,340
+Row:	(226) 2,054 	(226) 2,054 	(10) 2,280 	(10) 2,280 	(50) 2,290 	(50)
+2,290
+Row:remainder are Common Stock)
+	(10,822) 	(129,025) 	(10,020) 	(111,322) 	(10,028) 	(111,412)
+Row:Directors’ Compensation Plan
+	55 	680 	88 	1,029 	8 	90
+Row:	(1,605) 	(29,757) 	(890) 	(18,732) 	— 	—
+Row:Purchases
+						Row:Ending balance
+	12,372 	(158,102) 	(10,822) 	(129,025) 	(10,020) 	(111,322)
+Row:Beginning balance
+	(1,465) 	(2,144) 	(1,830)
+Row:Pension liabilities adjustment,
+net of taxes
+	(622) 	679 	(314)
+Row:Ending balance
+	(2,087) 	(1,465) 	(2,144)
+Row:TOTAL STOCKHOLDERS’ EQUITY
+	$ 260,503 	$ 274,629 	$ 294,142
+Row:CASH FLOWS FROM OPERATING ACTIVITIES
+			Row:Net income 	$ 21,865 	$ 30,307 	$ 21,075
+Row:Adjustments to reconcile net income to net cash
+			Row:provided by operating activities:
+			Row:Depreciation and amortization 	20,596 	29,806 	30,516
+Row:Net loss on asset impairment 	2,415 	— 	—
+Row:Stock-based compensation 	3,435 	4,358 	3,818
+Row:Deferred income taxes 	(2,691) 	(439) 	5,559
+Row:Provision for doubtful accounts 	90 	68 	224
+Row:Gain on insurance recovery 	— 	(307) 	(2,848)
+Row:Proceeds from insurance recovery received for business interruption and destroyed inventory 	— 	266 	2,867
+Row:Other 	616 	863 	82
+Row:Changes in operating assets and liabilities:
+			Row:Accounts receivable 	247 	535 	1,820
+Row:Inventories 	1,023 	(2,403) 	(2,112)
+Row:Customer deposits 	5,656 	(3,348) 	2,890
+Row:Other assets and liabilities 	1,586 	9,196 	(932)
+Row:Accounts payable and accrued liabilities 	8,581 	1,490 	(10,502)
+Row:Net Cash Provided by Operating Activities 	63,419 	70,392 	52,457
+Row:CASH FLOWS FROM INVESTING ACTIVITIES
+			Row:Capital expenditures 	(16,841) 	(21,473) 	(24,465)
+Row:Proceeds from sale of property and equipment 	2,270 	2,446 	951
+Row:Proceeds from insurance for destroyed property and equipment 	— 	55 	1,987
+Row:Net Cash Used in Investing Activities 	(14,571) 	(18,972) 	(21,527)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES
+			Row:Proceeds from borrowings under revolving credit facilities 	— 	— 	—
+Row:Payments of borrowings under revolving credit facilities 	— 	— 	—
+Row:Net change in borrowings under revolving credit facilities 	— 	— 	—
+Row:Construction allowance receipts 	— 	— 	1,590
+Row:Payments on lease obligations 	— 	(3,788) 	(3,482)
+Row:Dividends paid 	(15,056) 	(35,464) 	(11,392)
+Row:Common stock repurchased 	(29,757) 	(18,732) 	—
+Row:Taxes on vested restricted shares 	(1,442) 	(1,233) 	(1,555)
+Row:Net Cash Used in Financing Activities 	(46,255) 	(59,217) 	(14,839)
+Row:Increase (Decrease) in Cash, Cash Equivalents and Restricted Cash Equivalents 	2,593 	(7,797) 	16,091
+Row:Cash, Cash Equivalents and Restricted Cash Equivalents at Beginning of Year 	79,809 	87,606 	71,515
+Row:Cash and Cash Equivalents and Restricted Cash Equivalents at End of Year 	$ 82,402 	$ 79,809 	$ 87,606
+Row:The accompanying notes are an integral part of these consolidated financial statements
+F-5
+			

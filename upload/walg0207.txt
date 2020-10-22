@@ -1,0 +1,80 @@
+Row:Common stock $.01 par value; authorized 3.2 billion shares; issued 1,172,513,618 at August 31,
+		Row:2017 and 2016 	12 	12
+Row:Paid-in capital 	10,339 	10,111
+Row:Employee stock loan receivable 	— 	(1)
+Row:Retained earnings 	30,137 	27,684
+Row:Accumulated other comprehensive loss 	(3,051) 	(2,992)
+Row:Treasury stock, at cost; 148,664,548 shares at August 31, 2017 and 89,527,027 at August 31, 2016 	(9,971) 	(4,934)
+Row:Total Walgreens Boots Alliance, Inc. shareholders’ equity 	27,466 	29,880
+Row:Noncontrolling interests 	808 	401
+Row:Total equity 	28,274 	30,281
+Row:liabilities and equity 	$66,009 	$72,688
+Row:	2017 	2016 	2015
+Row:Sales Cost of sales 	$118,214 89,052 	$117,351 87,477 	$103,444
+76,691
+Row:Gross profit 	29,162 	29,874 	26,753
+Row:Selling, general and administrative expenses 	23,740 	23,910 	22,400
+Row:Equity earnings in AmerisourceBergen 	135 	37 	—
+Row:Equity earnings in Alliance Boots 	— 	— 	315
+Row:Operating income 	5,557 	6,001 	4,668
+Row:Gain on previously held equity interest 	— 	— 	563
+Row:Other income (expense) 	(11) 	(261) 	685
+Row:Earnings before interest and income tax provision 	5,546 	5,740 	5,916
+Row:Interest expense, net 	693 	596 	605
+Row:Earnings before income tax provision 	4,853 	5,144 	5,311
+Row:Income tax provision 	760 	997 	1,056
+Row:Post tax earnings from other equity method investments 	8 	44 	24
+Row:Net earnings 	4,101 	4,191 	4,279
+Row:Net earnings attributable to noncontrolling interests 	23 	18 	59
+Row:Net earnings attributable to Walgreens Boots Alliance, Inc. 	$ 4,078 	$ 4,173 	$ 4,220
+Row:Net earnings per common share:
+Basic Diluted 	$ 3.80 $ 3.78 	$ 3.85 $ 3.82 	$ 4.05
+$ 4.00
+Row:Dividends declared per share 	$ 1.525 	$ 1.455 	$ 1.373
+Row:Weighted average common shares outstanding:
+			Row:Basic 	1,073.5 	1,083.1 	1,043.2
+Row:Diluted 	1,078.5 	1,091.1 	1,053.9
+Row:2017 	2016 	2015
+Row:Cash flows from operating activities:
+		Row:Net earnings $ 4,101 	$ 4,191 	$ 4,279
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities:
+Depreciation and amortization 1,654 Change in fair value of warrants and related amortization 	1,718 — 516 	1,742
+(779)
+Row:Gain on previously held equity interest 	— — 	(563)
+Row:Deferred income taxes 	(434) (442) 	(32)
+Row:Stock compensation expense 	91 115 	109
+Row:Equity earnings from equity method investments 	(143) (81) 	(339)
+Row:Other 	364 148 	752
+Row:Changes in operating assets and liabilities:
+Accounts receivable, net Inventories 	(153) 115 98 (644) 	(338)
+719
+Row:Other current assets 	— 66 	22
+Row:Trade accounts payable 1,690 	1,572 	268
+Row:Accrued expenses and other liabilities 	(128) 313 	170
+Row:Income taxes 	44 202 	(335)
+Row:Other non-current assets and liabilities 	67 58 	(11)
+Row:Net cash provided by operating activities 7,251 	7,847 	5,664
+Row:Cash flows from investing activities:
+		Row:Additions to property, plant and equipment (1,351) 	(1,325) 	(1,251)
+Row:Proceeds from sale leaseback transactions 	444 60 	867
+Row:Proceeds from sale of businesses 	— 74 	814
+Row:Proceeds from sale of other assets 	59 155 	184
+Row:Alliance Boots acquisition, net of cash acquired 	— — 	(4,461)
+Row:Business and intangible asset acquisitions, net of cash acquired 	(88) (126) 	(371)
+Row:Investment in AmerisourceBergen 	— (2,360) 	—
+Row:Other 	93 5 	(58)
+Row:Net cash used for investing activities Cash flows from financing activities:
+	(843) (3,517) 	(4,276)
+Row:Proceeds and payments of short-term borrowings, net 	33 29 	(226)
+Row:Proceeds from issuance of long-term debt 	— 5,991 	12,285
+Row:Payments of long-term debt (6,196) 	(791) 	(10,472)
+Row:Stock purchases (5,220) 	(1,152) 	(1,226)
+Row:Proceeds related to employee stock plans 	217 235 	503
+Row:Cash dividends paid (1,723) 	(1,563) 	(1,384)
+Row:Other Net cash (used for) provided by financing activities (12,934) 	(45) (143) 2,606 	(395)
+(915)
+Row:Effect of exchange rate changes on cash and cash equivalents Changes in cash and cash equivalents:
+	20 (129) 	(119)
+Row:Net (decrease) increase in cash and cash equivalents (6,506) Cash and cash equivalents at beginning of period 9,807 	6,807 3,000 	354
+2,646
+Row:Cash and cash equivalents at end of period $ 3,301 	$ 9,807 	$ 3,000

@@ -1,0 +1,71 @@
+Row:Other comprehensive income (loss)
+			Row:Cash flow hedges net unrealized gain (loss)
+			Row:(net of tax expense (benefit) of $28,516, $5,830, and ($22,570)) 	115,026 	22,098 	(41,470)
+Row:Pension and other postretirement liabilities
+			Row:(net of tax expense (benefit) of ($6,539), $30,299, and ($4,057)) 	(25,150) 	90,143 	(61,653)
+Row:Net unrealized investment gains (losses)
+			Row:(net of tax expense of $14,023, $6,393, and $80,069) Foreign currency translation
+	27,183 	(28,771) 	115,311
+Row:(net of tax benefit of $-, $-, and $403) 	— 	— 	(748)
+Row:Other comprehensive income 	117,059 	83,470 	11,440
+Row:Comprehensive Income 	1,375,303 	946,025 	436,793
+Row:Preferred dividend requirements of subsidiaries 	17,018 	13,894 	13,741
+Row:Comprehensive Income Attributable to Entergy Corporation 	$1,358,285 	$932,131 	$423,052
+Row:OPERATING ACTIVITIES
+			Row:Consolidated net income 	$1,258,244 	$862,555 	$425,353
+Row:Adjustments to reconcile consolidated net income to net cash flow
+provided by operating activities:
+			Row:Depreciation, amortization, and decommissioning, including nuclear fuel
+amortization 	2,182,313 	2,040,555 	2,078,578
+Row:Deferred income taxes, investment tax credits, and non-current taxes
+accrued 	193,950 	(256,848) 	529,053
+Row:Asset write-offs, impairments, and related charges 	226,678 	491,739 	357,251
+Row:Changes in working capital:
+			Row:Receivables 	(101,227) 	98,546 	(97,637)
+Row:Fuel inventory 	(28,173) 	45,839 	(3,043)
+Row:Accounts payable 	(71,898) 	97,312 	101,802
+Row:Taxes accrued 	(20,784) 	39,272 	33,853
+Row:Interest accrued 	937 	5,220 	742
+Row:Deferred fuel costs 	172,146 	(25,829) 	56,290
+Row:Other working capital accounts 	(3,108) 	(164,173) 	(4,331)
+Row:Changes in provisions for estimated losses 	19,914 	35,706 	(3,279)
+Row:Changes in other regulatory assets 	(545,559) 	189,193 	595,504
+Row:Changes in other regulatory liabilities 	(14,781) 	(803,323) 	2,915,795
+Row:Deferred tax rate change recognized as regulatory liability / asset 	— 	— 	(3,665,498)
+Row:Changes in pensions and other postretirement liabilities 	187,124 	(304,941) 	(130,686)
+Row:Other 	(639,149) 	34,424 	(566,247)
+Row:Net cash flow provided by operating activities 	2,816,627 	2,385,247 	2,623,500
+Row:Construction/capital expenditures 	(4,197,667) 	(3,942,010) 	(3,607,532)
+Row:Allowance for equity funds used during construction 	144,862 	130,195 	96,000
+Row:Nuclear fuel purchases 	(128,366) 	(302,584) 	(377,324)
+Row:Payment for purchase of plant or assets 	(305,472) 	(26,623) 	(16,762)
+Row:Proceeds from sale of assets 	28,932 	24,902 	100,000
+Row:Insurance proceeds received for property damages 	7,040 	18,270 	26,157
+Row:Changes in securitization account 	3,298 	(5,844) 	1,323
+Row:Payments to storm reserve escrow account 	(8,038) 	(6,551) 	(2,878)
+Row:Receipts from storm reserve escrow account 	— 	— 	11,323
+Row:Decrease (increase) in other investments 	30,319 	(54,500) 	1,078
+Row:Litigation proceeds for reimbursement of spent nuclear fuel storage costs 	2,369 	59,643 	25,493
+Row:Proceeds from nuclear decommissioning trust fund sales 	4,121,351 	6,484,791 	3,162,747
+Row:Investment in nuclear decommissioning trust funds 	(4,208,870) 	(6,485,676) 	(3,260,674)
+Row:Net cash flow used in investing activities 	(4,510,242) 	(4,105,987) 	(3,841,049)
+Row:2019 	2018
+Row:(In Thousands)
+	Row:6,404,030 	6,920,164
+Row:332,864 	304,382
+Row:496,452 	437,265
+Row:7,233,346 	7,661,811
+Row:54,271,467 	49,831,486
+Row:547,110 	496,150
+Row:2,823,291 	2,888,639
+Row:677,181 	861,272
+Row:58,319,049 	54,077,547
+Row:23,136,356 	22,103,101
+Row:35,182,693 	31,974,446
+Row:2019 and $360,790 as of December 31, 2018) 	5,292,055 	4,746,496
+Row:Deferred fuel costs 	239,892 	239,496
+Row:Goodwill 	377,172 	377,172
+Row:Accumulated deferred income taxes 	64,461 	54,593
+Row:Other 	288,301 	262,988
+Row:TOTAL 	6,261,881 	5,680,745
+Row:TOTAL ASSETS 	$51,723,912 	$48,275,066

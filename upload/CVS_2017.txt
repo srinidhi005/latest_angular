@@ -1,0 +1,798 @@
+Row:Year 	Ended December 2016 	31,
+2015
+Row:$ 	177,526 148,669 	$ 153,290
+126,762
+Row:	28,857 18,491 	26,528
+17,053
+Row:	10,366 1,058 643 28 	9,475
+838
+—
+21
+Row:	8,637 3,317 	8,616
+3,386
+Row:	5,320 (1) 	5,230
+9
+Row:	5,319 (2) 	5,239
+(2)
+Row:$ 	5,317 	$ 5,237
+Row:in millions, except per share amounts 	2017 	Row:Net revenues 	$ 184,765 	$ Row:Cost of revenues 	156,220 	Row:Gross profit 	28,545 	Row:Operating expenses 	19,028 	Row:Operating profit 	9,517 	Row:Interest expense, net 	1,041 	Row:Loss on early extinguishment of debt 	— 	Row:Other expense 	208 	Row:Income before income tax provision Income tax provision 	8,268 1,637 	Row:Income from continuing operations Income (loss) from discontinued operations, net of tax 	6,631 (8) 	Row:Net income Net income attributable to noncontrolling interest 	6,623 (1) 	Row:Net income attributable to CVS Health 	$ 6,622 	$ Row:Basic earnings per share:
+:
+		Row:Income from continuing
+operations attributable to CVS Health 	$ 6.48 	$ Row:Income (loss) from discontinued operations
+attributable to CVS Health 	$ (0.01) 	$ Row:Net income attributable to CVS Health 	$ 6.47 	$ Row:Weighted average shares outstanding 	1,020 	Row:Diluted earnings per share:
+		Row:Income from continuing
+		Row:operations attributable to CVS Health 	$ 6.45 	$ Row:Income (loss) from discontinued operations
+attributable to CVS Health 	$ (0.01) 	$ Row:Net income attributable to CVS Health 	$ 6.44 	$ Row:Weighted average shares outstanding 	1,024 	Row:Dividends declared per share 	$ 2.00 	$ Row:See accompanying notes to consolidated financial statements.
+		Row:	December 	31,
+,
+Row:2017 		2016
+Row:$ 1,696 111 13,181 15,296 945 	$ 	3,371
+87
+12,164
+14,760
+660
+Row:31,229 10,292 38,451 13,630 1,529 		31,042
+10,175
+38,249
+13,511
+1,485
+Row:$ 95,131 	$ 	94,462
+Row:in millions, except per share amounts 		2017 	2016
+Row:Assets:
+			Row:Cash and cash equivalents 	$ 	1,696 	$ 3,371
+Row:Short-term investments 		111 	87
+Row:Accounts receivable, net 		13,181 	12,164
+Row:Inventories 		15,296 	14,760
+Row:Other current assets 		945 	660
+Row:Total current assets 		31,229 	31,042
+Row:Property and equipment, net 		10,292 	10,175
+Row:Goodwill 		38,451 	38,249
+Row:Intangible assets, net 		13,630 	13,511
+Row:Other assets 		1,529 	1,485
+Row:Total assets 	$ 	95,131 	$ 94,462
+Row:Liabilities:
+			Row:Accounts payable 	$ 	8,863 	$ 7,946
+Row:Claims and discounts payable 		10,355 	9,451
+Row:Accrued expenses 		6,609 	6,937
+Row:Short-term debt 		1,276 	1,874
+Row:Current portion of long-term debt 		3,545 	42
+Row:Total current liabilities 		30,648 	26,250
+Row:Long-term debt 		22,181 	25,615
+Row:Deferred income taxes 		2,996 	4,214
+Row:Other long-term liabilities 		1,611 	1,549
+Row:Shareholders’ equity:
+CVS Health shareholders’ equity:
+			Row:Preferred stock, par value $0.01: 0.1 shares authorized; none issued or outstanding 		— 	—
+Row:Common stock, par value $0.01: 3,200 shares authorized; 1,712 shares issued and
+1,014 shares outstanding at December 31, 2017, and 1,705 shares issued and
+1,061 shares outstanding at December , 31, , 2016 		17 	17
+Row:Treasury stock, at cost: 697 shares at December 31, 2017, and 643 shares at December 31, 2016 		(37,765) 	(33,452)
+Row:Shares held in trust: : 1 share at December 31, 2017 and December 31, 2016 		(31) 	(31)
+Row:Capital surplus 		32,079 	31,618
+Row:Retained earnings 		43,556 	38,983
+Row:Accumulated other comprehensive income (loss) 		(165) 	(305)
+Row:Total CVS Health shareholders’ equity 		37,691 	36,830
+Row:Noncontrolling interest 		4 	4
+Row:Total shareholders’ equity 		37,695 	36,834
+Row:Total liabilities and shareholders’ equity 	$ 	95,131 	$ 94,462
+Row:See accompanying notes to consolidated financial statements.
+			Row:Year 	Ended December 2016
+	31,
+	2015
+Row:	$
+172,310
+(142,511)
+(15,478)
+20
+(1,140)
+(3,060)
+	$
+	148,954
+(122,498)
+(14,035)
+21
+(629)
+(3,274)
+Row:	10,141
+		8,539
+Row:	(2,224)
+230
+37
+(539)
+(65)
+91
+		(2,367)
+411
+35
+(11,475)
+(267)
+243
+Row:	(2,470)
+1,874
+3,455
+(5,943)
+		(13,420)
+(685)
+14,805
+(2,902)
+Row:	(39)
+(26)
+(1,840)
+296
+(72)
+(4,461)
+(5)
+		(58)
+(1,576)
+362
+(63)
+(5,001)
+(3)
+Row:	(6,761)
+2
+912
+2,459
+		4,879
+(20)
+(22)
+2,481
+Row:	$
+3,371
+	$
+	2,459
+Row:	$
+5,319
+2,475
+222
+643
+18
+135
+	$
+	5,239
+2,092
+230
+(252)
+(14)
+Row:	(243)
+(742)
+35
+(43)
+2,189
+131
+2
+		(1,594)
+(1,141)
+355
+2
+2,834
+892
+(104)
+Row:in millions
+	2017
+Row:Cash flows from operating activities:
+Cash receipts from customers
+	$ 176,594
+Row:Cash paid for inventory and prescriptions dispensed by retail network pharmacies
+	(149,279)
+Row:Cash paid to other suppliers and employees
+	(15,348)
+Row:Interest received
+Interest paid
+	21
+(1,072)
+Row:Income taxes paid
+	(2,909)
+Row:Net cash provided by operating activities
+	8,007
+Row:Cash flows from investing activities:
+Purchases of property and equipment
+	(1,918)
+Row:Proceeds from sale-leaseback transactions
+	265
+Row:Proceeds from sale of property and equipment and other assets
+	33
+Row:Acquisitions (net of cash acquired) and other investments
+	(1,287)
+Row:Purchase of available-for-sale investments
+	(86)
+Row:Maturities of available-for-sale investments
+	61
+Row:Net cash used in investing activities
+	(2,932)
+Row:Cash flows from financing activities:
+Increase (decrease) in short-term debt
+	(598)
+Row:Proceeds from issuance of long-term debt
+Repayments of long-term debt
+Purchase of noncontrolling interest in subsidiary
+Payment of contingent consideration
+Dividends paid
+	(2,049)
+Row:Proceeds from exercise of stock options
+	329
+Row:Payments for taxes related to net share settlement of equity awards
+	(71)
+Row:Repurchase of common stock
+	(4,361)
+Row:Other
+	(1)
+Row:Net cash provided by (used in) financing activities
+	(6,751)
+Row:Effect of exchange rate changes on cash and cash equivalents
+	1
+Row:Net increase (decrease) in cash and cash equivalents
+	(1,675)
+Row:Cash and cash equivalents at the beginning of the period
+	3,371
+Row:Cash and cash equivalents at the end of the period
+	1,696
+$
+Row:Reconciliation of net income to net cash provided by operating activities:
+Net income
+Adjustments required to reconcile net income to net cash
+provided by operating activities:
+	$
+6,623
+Row:Depreciation and amortization
+	2,479
+Row:Goodwill impairments
+	181
+Row:Losses on settlements of defined benefit pension plans
+	187
+Row:Stock-based compensation
+Loss on early extinguishment of debt
+	234
+Row:Deferred income taxes
+	(1,334)
+Row:Other noncash items
+	53
+Row:Change in operating assets and liabilities, net of effects from acquisitions:
+Accounts receivable, net
+	(941)
+Row:Inventories
+Other current assets
+	(514)
+Row:Other assets
+	(341)
+3
+Row:Accounts payable and claims and discounts payable
+	1,710
+Row:Accrued expenses
+	(371)
+Row:Other long-term liabilities
+	38
+Row:Net cash provided by operating activities
+	$
+8,007
+Row:Year 	Ended December 2016 	31,
+2015
+Row:$ 	177,526 148,669 	$ 153,290
+126,762
+Row:	28,857 18,491 	26,528
+17,053
+Row:	10,366 1,058 643 28 	9,475
+838
+—
+21
+Row:	8,637 3,317 	8,616
+3,386
+Row:	5,320 (1) 	5,230
+9
+Row:	5,319 (2) 	5,239
+(2)
+Row:$ 	5,317 	$ 5,237
+Row:in millions, except per share amounts 	2017 	Row:Net revenues 	$ 184,765 	$ Row:Cost of revenues 	156,220 	Row:Gross profit 	28,545 	Row:Operating expenses 	19,028 	Row:Operating profit 	9,517 	Row:Interest expense, net 	1,041 	Row:Loss on early extinguishment of debt 	— 	Row:Other expense 	208 	Row:Income before income tax provision Income tax provision 	8,268 1,637 	Row:Income from continuing operations Income (loss) from discontinued operations, net of tax 	6,631 (8) 	Row:Net income Net income attributable to noncontrolling interest 	6,623 (1) 	Row:Net income attributable to CVS Health 	$ 6,622 	$ Row:Basic earnings per share:
+:
+		Row:Income from continuing
+operations attributable to CVS Health 	$ 6.48 	$ Row:Income (loss) from discontinued operations
+attributable to CVS Health 	$ (0.01) 	$ Row:Net income attributable to CVS Health 	$ 6.47 	$ Row:Weighted average shares outstanding 	1,020 	Row:Diluted earnings per share:
+		Row:Income from continuing
+		Row:operations attributable to CVS Health 	$ 6.45 	$ Row:Income (loss) from discontinued operations
+attributable to CVS Health 	$ (0.01) 	$ Row:Net income attributable to CVS Health 	$ 6.44 	$ Row:Weighted average shares outstanding 	1,024 	Row:Dividends declared per share 	$ 2.00 	$ Row:See accompanying notes to consolidated financial statements.
+		Row:	December 	31,
+,
+Row:2017 		2016
+Row:$ 1,696 111 13,181 15,296 945 	$ 	3,371
+87
+12,164
+14,760
+660
+Row:31,229 10,292 38,451 13,630 1,529 		31,042
+10,175
+38,249
+13,511
+1,485
+Row:$ 95,131 	$ 	94,462
+Row:in millions, except per share amounts 		2017 	2016
+Row:Assets:
+			Row:Cash and cash equivalents 	$ 	1,696 	$ 3,371
+Row:Short-term investments 		111 	87
+Row:Accounts receivable, net 		13,181 	12,164
+Row:Inventories 		15,296 	14,760
+Row:Other current assets 		945 	660
+Row:Total current assets 		31,229 	31,042
+Row:Property and equipment, net 		10,292 	10,175
+Row:Goodwill 		38,451 	38,249
+Row:Intangible assets, net 		13,630 	13,511
+Row:Other assets 		1,529 	1,485
+Row:Total assets 	$ 	95,131 	$ 94,462
+Row:Liabilities:
+			Row:Accounts payable 	$ 	8,863 	$ 7,946
+Row:Claims and discounts payable 		10,355 	9,451
+Row:Accrued expenses 		6,609 	6,937
+Row:Short-term debt 		1,276 	1,874
+Row:Current portion of long-term debt 		3,545 	42
+Row:Total current liabilities 		30,648 	26,250
+Row:Long-term debt 		22,181 	25,615
+Row:Deferred income taxes 		2,996 	4,214
+Row:Other long-term liabilities 		1,611 	1,549
+Row:Shareholders’ equity:
+CVS Health shareholders’ equity:
+			Row:Preferred stock, par value $0.01: 0.1 shares authorized; none issued or outstanding 		— 	—
+Row:Common stock, par value $0.01: 3,200 shares authorized; 1,712 shares issued and
+1,014 shares outstanding at December 31, 2017, and 1,705 shares issued and
+1,061 shares outstanding at December , 31, , 2016 		17 	17
+Row:Treasury stock, at cost: 697 shares at December 31, 2017, and 643 shares at December 31, 2016 		(37,765) 	(33,452)
+Row:Shares held in trust: : 1 share at December 31, 2017 and December 31, 2016 		(31) 	(31)
+Row:Capital surplus 		32,079 	31,618
+Row:Retained earnings 		43,556 	38,983
+Row:Accumulated other comprehensive income (loss) 		(165) 	(305)
+Row:Total CVS Health shareholders’ equity 		37,691 	36,830
+Row:Noncontrolling interest 		4 	4
+Row:Total shareholders’ equity 		37,695 	36,834
+Row:Total liabilities and shareholders’ equity 	$ 	95,131 	$ 94,462
+Row:See accompanying notes to consolidated financial statements.
+			Row:Year 	Ended December 2016
+	31,
+	2015
+Row:	$
+172,310
+(142,511)
+(15,478)
+20
+(1,140)
+(3,060)
+	$
+	148,954
+(122,498)
+(14,035)
+21
+(629)
+(3,274)
+Row:	10,141
+		8,539
+Row:	(2,224)
+230
+37
+(539)
+(65)
+91
+		(2,367)
+411
+35
+(11,475)
+(267)
+243
+Row:	(2,470)
+1,874
+3,455
+(5,943)
+		(13,420)
+(685)
+14,805
+(2,902)
+Row:	(39)
+(26)
+(1,840)
+296
+(72)
+(4,461)
+(5)
+		(58)
+(1,576)
+362
+(63)
+(5,001)
+(3)
+Row:	(6,761)
+2
+912
+2,459
+		4,879
+(20)
+(22)
+2,481
+Row:	$
+3,371
+	$
+	2,459
+Row:	$
+5,319
+2,475
+222
+643
+18
+135
+	$
+	5,239
+2,092
+230
+(252)
+(14)
+Row:	(243)
+(742)
+35
+(43)
+2,189
+131
+2
+		(1,594)
+(1,141)
+355
+2
+2,834
+892
+(104)
+Row:in millions
+	2017
+Row:Cash flows from operating activities:
+Cash receipts from customers
+	$ 176,594
+Row:Cash paid for inventory and prescriptions dispensed by retail network pharmacies
+	(149,279)
+Row:Cash paid to other suppliers and employees
+	(15,348)
+Row:Interest received
+Interest paid
+	21
+(1,072)
+Row:Income taxes paid
+	(2,909)
+Row:Net cash provided by operating activities
+	8,007
+Row:Cash flows from investing activities:
+Purchases of property and equipment
+	(1,918)
+Row:Proceeds from sale-leaseback transactions
+	265
+Row:Proceeds from sale of property and equipment and other assets
+	33
+Row:Acquisitions (net of cash acquired) and other investments
+	(1,287)
+Row:Purchase of available-for-sale investments
+	(86)
+Row:Maturities of available-for-sale investments
+	61
+Row:Net cash used in investing activities
+	(2,932)
+Row:Cash flows from financing activities:
+Increase (decrease) in short-term debt
+	(598)
+Row:Proceeds from issuance of long-term debt
+Repayments of long-term debt
+Purchase of noncontrolling interest in subsidiary
+Payment of contingent consideration
+Dividends paid
+	(2,049)
+Row:Proceeds from exercise of stock options
+	329
+Row:Payments for taxes related to net share settlement of equity awards
+	(71)
+Row:Repurchase of common stock
+	(4,361)
+Row:Other
+	(1)
+Row:Net cash provided by (used in) financing activities
+	(6,751)
+Row:Effect of exchange rate changes on cash and cash equivalents
+	1
+Row:Net increase (decrease) in cash and cash equivalents
+	(1,675)
+Row:Cash and cash equivalents at the beginning of the period
+	3,371
+Row:Cash and cash equivalents at the end of the period
+	1,696
+$
+Row:Reconciliation of net income to net cash provided by operating activities:
+Net income
+Adjustments required to reconcile net income to net cash
+provided by operating activities:
+	$
+6,623
+Row:Depreciation and amortization
+	2,479
+Row:Goodwill impairments
+	181
+Row:Losses on settlements of defined benefit pension plans
+	187
+Row:Stock-based compensation
+Loss on early extinguishment of debt
+	234
+Row:Deferred income taxes
+	(1,334)
+Row:Other noncash items
+	53
+Row:Change in operating assets and liabilities, net of effects from acquisitions:
+Accounts receivable, net
+	(941)
+Row:Inventories
+Other current assets
+	(514)
+Row:Other assets
+	(341)
+3
+Row:Accounts payable and claims and discounts payable
+	1,710
+Row:Accrued expenses
+	(371)
+Row:Other long-term liabilities
+	38
+Row:Net cash provided by operating activities
+	$
+8,007
+Row:Year 	Ended December 2016 	31,
+2015
+Row:$ 	177,526 148,669 	$ 153,290
+126,762
+Row:	28,857 18,491 	26,528
+17,053
+Row:	10,366 1,058 643 28 	9,475
+838
+—
+21
+Row:	8,637 3,317 	8,616
+3,386
+Row:	5,320 (1) 	5,230
+9
+Row:	5,319 (2) 	5,239
+(2)
+Row:$ 	5,317 	$ 5,237
+Row:in millions, except per share amounts 	2017 	Row:Net revenues 	$ 184,765 	$ Row:Cost of revenues 	156,220 	Row:Gross profit 	28,545 	Row:Operating expenses 	19,028 	Row:Operating profit 	9,517 	Row:Interest expense, net 	1,041 	Row:Loss on early extinguishment of debt 	— 	Row:Other expense 	208 	Row:Income before income tax provision Income tax provision 	8,268 1,637 	Row:Income from continuing operations Income (loss) from discontinued operations, net of tax 	6,631 (8) 	Row:Net income Net income attributable to noncontrolling interest 	6,623 (1) 	Row:Net income attributable to CVS Health 	$ 6,622 	$ Row:Basic earnings per share:
+:
+		Row:Income from continuing
+operations attributable to CVS Health 	$ 6.48 	$ Row:Income (loss) from discontinued operations
+attributable to CVS Health 	$ (0.01) 	$ Row:Net income attributable to CVS Health 	$ 6.47 	$ Row:Weighted average shares outstanding 	1,020 	Row:Diluted earnings per share:
+		Row:Income from continuing
+		Row:operations attributable to CVS Health 	$ 6.45 	$ Row:Income (loss) from discontinued operations
+attributable to CVS Health 	$ (0.01) 	$ Row:Net income attributable to CVS Health 	$ 6.44 	$ Row:Weighted average shares outstanding 	1,024 	Row:Dividends declared per share 	$ 2.00 	$ Row:See accompanying notes to consolidated financial statements.
+		Row:	December 	31,
+,
+Row:2017 		2016
+Row:$ 1,696 111 13,181 15,296 945 	$ 	3,371
+87
+12,164
+14,760
+660
+Row:31,229 10,292 38,451 13,630 1,529 		31,042
+10,175
+38,249
+13,511
+1,485
+Row:$ 95,131 	$ 	94,462
+Row:in millions, except per share amounts 		2017 	2016
+Row:Assets:
+			Row:Cash and cash equivalents 	$ 	1,696 	$ 3,371
+Row:Short-term investments 		111 	87
+Row:Accounts receivable, net 		13,181 	12,164
+Row:Inventories 		15,296 	14,760
+Row:Other current assets 		945 	660
+Row:Total current assets 		31,229 	31,042
+Row:Property and equipment, net 		10,292 	10,175
+Row:Goodwill 		38,451 	38,249
+Row:Intangible assets, net 		13,630 	13,511
+Row:Other assets 		1,529 	1,485
+Row:Total assets 	$ 	95,131 	$ 94,462
+Row:Liabilities:
+			Row:Accounts payable 	$ 	8,863 	$ 7,946
+Row:Claims and discounts payable 		10,355 	9,451
+Row:Accrued expenses 		6,609 	6,937
+Row:Short-term debt 		1,276 	1,874
+Row:Current portion of long-term debt 		3,545 	42
+Row:Total current liabilities 		30,648 	26,250
+Row:Long-term debt 		22,181 	25,615
+Row:Deferred income taxes 		2,996 	4,214
+Row:Other long-term liabilities 		1,611 	1,549
+Row:Shareholders’ equity:
+CVS Health shareholders’ equity:
+			Row:Preferred stock, par value $0.01: 0.1 shares authorized; none issued or outstanding 		— 	—
+Row:Common stock, par value $0.01: 3,200 shares authorized; 1,712 shares issued and
+1,014 shares outstanding at December 31, 2017, and 1,705 shares issued and
+1,061 shares outstanding at December , 31, , 2016 		17 	17
+Row:Treasury stock, at cost: 697 shares at December 31, 2017, and 643 shares at December 31, 2016 		(37,765) 	(33,452)
+Row:Shares held in trust: : 1 share at December 31, 2017 and December 31, 2016 		(31) 	(31)
+Row:Capital surplus 		32,079 	31,618
+Row:Retained earnings 		43,556 	38,983
+Row:Accumulated other comprehensive income (loss) 		(165) 	(305)
+Row:Total CVS Health shareholders’ equity 		37,691 	36,830
+Row:Noncontrolling interest 		4 	4
+Row:Total shareholders’ equity 		37,695 	36,834
+Row:Total liabilities and shareholders’ equity 	$ 	95,131 	$ 94,462
+Row:See accompanying notes to consolidated financial statements.
+			Row:Year 	Ended December 2016
+	31,
+	2015
+Row:	$
+172,310
+(142,511)
+(15,478)
+20
+(1,140)
+(3,060)
+	$
+	148,954
+(122,498)
+(14,035)
+21
+(629)
+(3,274)
+Row:	10,141
+		8,539
+Row:	(2,224)
+230
+37
+(539)
+(65)
+91
+		(2,367)
+411
+35
+(11,475)
+(267)
+243
+Row:	(2,470)
+1,874
+3,455
+(5,943)
+		(13,420)
+(685)
+14,805
+(2,902)
+Row:	(39)
+(26)
+(1,840)
+296
+(72)
+(4,461)
+(5)
+		(58)
+(1,576)
+362
+(63)
+(5,001)
+(3)
+Row:	(6,761)
+2
+912
+2,459
+		4,879
+(20)
+(22)
+2,481
+Row:	$
+3,371
+	$
+	2,459
+Row:	$
+5,319
+2,475
+222
+643
+18
+135
+	$
+	5,239
+2,092
+230
+(252)
+(14)
+Row:	(243)
+(742)
+35
+(43)
+2,189
+131
+2
+		(1,594)
+(1,141)
+355
+2
+2,834
+892
+(104)
+Row:in millions
+	2017
+Row:Cash flows from operating activities:
+Cash receipts from customers
+	$ 176,594
+Row:Cash paid for inventory and prescriptions dispensed by retail network pharmacies
+	(149,279)
+Row:Cash paid to other suppliers and employees
+	(15,348)
+Row:Interest received
+Interest paid
+	21
+(1,072)
+Row:Income taxes paid
+	(2,909)
+Row:Net cash provided by operating activities
+	8,007
+Row:Cash flows from investing activities:
+Purchases of property and equipment
+	(1,918)
+Row:Proceeds from sale-leaseback transactions
+	265
+Row:Proceeds from sale of property and equipment and other assets
+	33
+Row:Acquisitions (net of cash acquired) and other investments
+	(1,287)
+Row:Purchase of available-for-sale investments
+	(86)
+Row:Maturities of available-for-sale investments
+	61
+Row:Net cash used in investing activities
+	(2,932)
+Row:Cash flows from financing activities:
+Increase (decrease) in short-term debt
+	(598)
+Row:Proceeds from issuance of long-term debt
+Repayments of long-term debt
+Purchase of noncontrolling interest in subsidiary
+Payment of contingent consideration
+Dividends paid
+	(2,049)
+Row:Proceeds from exercise of stock options
+	329
+Row:Payments for taxes related to net share settlement of equity awards
+	(71)
+Row:Repurchase of common stock
+	(4,361)
+Row:Other
+	(1)
+Row:Net cash provided by (used in) financing activities
+	(6,751)
+Row:Effect of exchange rate changes on cash and cash equivalents
+	1
+Row:Net increase (decrease) in cash and cash equivalents
+	(1,675)
+Row:Cash and cash equivalents at the beginning of the period
+	3,371
+Row:Cash and cash equivalents at the end of the period
+	1,696
+$
+Row:Reconciliation of net income to net cash provided by operating activities:
+Net income
+Adjustments required to reconcile net income to net cash
+provided by operating activities:
+	$
+6,623
+Row:Depreciation and amortization
+	2,479
+Row:Goodwill impairments
+	181
+Row:Losses on settlements of defined benefit pension plans
+	187
+Row:Stock-based compensation
+Loss on early extinguishment of debt
+	234
+Row:Deferred income taxes
+	(1,334)
+Row:Other noncash items
+	53
+Row:Change in operating assets and liabilities, net of effects from acquisitions:
+Accounts receivable, net
+	(941)
+Row:Inventories
+Other current assets
+	(514)
+Row:Other assets
+	(341)
+3
+Row:Accounts payable and claims and discounts payable
+	1,710
+Row:Accrued expenses
+	(371)
+Row:Other long-term liabilities
+	38
+Row:Net cash provided by operating activities
+	$
+8,007

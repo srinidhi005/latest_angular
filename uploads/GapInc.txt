@@ -1,0 +1,530 @@
+Row($ and shares in millions except per share amounts) 	2019 	2018 	2017
+RowNet sales 	$ 16,383 	$ 16,580 $ 	15,855
+RowCost of goods sold and occupancy expenses 	10,250 	10,258 	9,789
+RowGross profit 	6,133 	6,322 	6,066
+RowOperating expenses 	5,559 	4,960 	4,587
+RowOperating income 	574 	1,362 	1,479
+RowInterest expense 	76 	73 	74
+RowInterest income 	(30) 	(33) 	(19)
+RowIncome before income taxes 	528 	1,322 	1,424
+RowIncome taxes 	177 	319 	576
+RowNet income 	$ 351 	$ 1,003 $ 	848
+RowWeighted-average number of shares—basic 	376 	385 	393
+RowWeighted-average number of shares—diluted 	378 	388 	396
+RowEarnings per share—basic 	$ 0.93 	$ 2.61 $ 	2.16
+RowEarnings per share—diluted 	$ 0.93 	$ 2.59 $ 	2.14
+RowCash dividends declared and paid per share 	$ 0.97 	$ 0.97 $ 	0.92
+Row($ and shares in millions except per share amounts) 	Shares 	Amount 	Capital
+	Earnings
+	Income 	Total
+RowBalance as of January 28, 2017
+	399 	$ 20 	$ 81 	$ 2,749 	$ 54 	$ 2,904
+RowCumulative effect of a change in accounting principle related to share-based
+compensation 			(5) 	3 		(2)
+RowNet income 				848 		848
+RowOther comprehensive loss, net of tax 					(18) 	(18)
+RowRepurchases and retirement of common stock 	(13) 	(1) 	(156) 	(158) 		(315)
+RowIssuance of common stock related to stock options and employee stock purchase plans
+	2 	— 	30 			30
+RowIssuance of common stock and withholding tax payments related to vesting of stock
+units 	1 	— 	(18) 			(18)
+RowShare-based compensation, net of forfeitures
+			76 			76
+RowCommon stock dividends ($0.92 per share)
+				(361) 		(361)
+RowBalance as of February 3, 2018
+	389 	19 	8 	3,081 	36 	3,144
+RowCumulative effect of a change in accounting principle related to revenue recognition
+				36 		36
+RowNet income
+				1,003 		1,003
+RowOther comprehensive income, net of tax
+					17 	17
+RowRepurchases and retirement of common stock
+	(14) 	— 	(132) 	(266) 		(398)
+RowIssuance of common stock related to stock options and employee stock purchase plans
+	2 	— 	46 			46
+RowIssuance of common stock and withholding tax payments related to vesting of stock
+units 	1 	— 	(23) 			(23)
+RowShare-based compensation, net of forfeitures
+			101 			101
+RowCommon stock dividends ($0.97 per share)
+				(373) 		(373)
+RowBalance as of February 2, 2019
+	378 	19 	— 	3,481 	53 	3,553
+RowCumulative effect of a change in accounting principle related to leases
+				(86) 		(86)
+RowNet income
+				351 		351
+RowOther comprehensive loss, net of tax
+					(13) 	(13)
+RowRepurchases and retirement of common stock
+	(10) 	— 	(75) 	(125) 		(200)
+RowIssuance of common stock related to stock options and employee stock purchase plans
+	1 	— 	25 			25
+RowIssuance of common stock and withholding tax payments related to vesting of stock
+units 	2 	— 	(21) 			(21)
+RowShare-based compensation, net of forfeitures
+			71 			71
+RowCommon stock dividends ($0.97 per share) 				(364) 		(364)
+RowBalance as of February 1, 2020
+	371 	$ 19 	$ — 	$ 3,257 	$ 40 	$ 3,316
+Row	(364) 		(364)
+Row371 $ 19 	$ — $ 3,257 	$ 40 	$ 3,316
+Row($ in millions)
+	2019
+	Fiscal Year
+2018
+	2017
+RowCash flows from operating activities:
+			RowNet income
+	$
+351
+	$
+1,003
+	$
+848
+RowAdjustments to reconcile net income to net cash provided by operating activities:
+			RowDepreciation and amortization
+	557
+	578
+	559
+RowAmortization of lease incentives
+		(61)
+	(60)
+RowShare-based compensation
+	68
+	91
+	87
+RowImpairment of operating lease assets
+	239
+		RowImpairment of store assets
+	98
+	14
+	28
+RowLoss on disposal of property and equipment
+	70
+	4
+	11
+RowNon-cash and other items
+	(10)
+	(10)
+	8
+RowGain on sale of building
+	(191)
+		RowDeferred income taxes
+	(81)
+	65
+	61
+RowChanges in operating assets and liabilities:
+			RowMerchandise inventory
+	4
+	(154)
+	(142)
+RowOther current assets and other long-term assets
+	105
+	(18)
+	33
+RowAccounts payable
+	66
+	(78)
+	(90)
+RowAccrued expenses and other current liabilities
+	110
+	(196)
+	34
+RowIncome taxes payable, net of prepaid and other tax-related items
+	86
+	113
+	(52)
+RowLease incentives and other long-term liabilities
+		30
+	55
+RowOperating lease assets and liabilities, net
+	(61)
+		RowNet cash provided by operating activities
+	1,411
+	1,381
+	1,380
+RowCash flows from investing activities:
+			RowPurchases of property and equipment
+	(702)
+	(705)
+	(731)
+RowPurchase of building
+	(343)
+		RowProceeds from sale of building
+	220
+		RowPurchases of short-term investments
+	(293)
+	(464)
+	RowProceeds from sales and maturities of short-term investments
+	293
+	177
+	RowPurchase of Janie and Jack
+	(69)
+		RowInsurance proceeds related to loss on property and equipment
+			66
+RowOther
+		(9)
+	(1)
+RowNet cash used for investing activities
+	(894)
+	(1,001)
+	(666)
+RowCash flows from financing activities:
+			RowPayments of debt
+			(67)
+RowProceeds from issuances under share-based compensation plans
+	25
+	46
+	30
+RowWithholding tax payments related to vesting of stock units
+	(21)
+	(23)
+	(18)
+RowRepurchases of common stock
+	(200)
+	(398)
+	(315)
+RowCash dividends paid
+	(364)
+	(373)
+	(361)
+RowOther
+		(1)
+	RowNet cash used for financing activities
+	(560)
+	(749)
+	(731)
+RowEffect of foreign exchange rate fluctuations on cash, cash equivalents, and restricted cash
+	4
+	(10)
+	19
+RowNet increase (decrease) in cash, cash equivalents, and restricted cash
+	(39)
+	(379)
+	2
+RowCash, cash equivalents, and restricted cash at beginning of period
+	1,420
+	1,799
+	1,797
+RowCash, cash equivalents, and restricted cash at end of period
+	$
+1,381
+	$
+1,420
+	$
+1,799
+RowNon-cash investing activities:
+			RowPurchases of property and equipment not yet paid at end of period
+	$
+85
+	$
+93
+	$
+77
+RowSupplemental disclosure of cash flow information:
+			RowCash paid for interest during the period
+	$
+76
+	$
+76
+	$
+76
+RowCash paid for income taxes during the period, net of refunds
+	$
+176
+	$
+143
+	$
+570
+RowCash paid for operating lease liabilities
+	$
+1,244
+	$
+	$
+RowSee Accompanying Notes to Consolidated Financial Statements
+			Row(560)
+	(749)
+	(731)
+Row4
+	(10)
+	19
+Row(39)
+	(379)
+	2
+Row1,420
+	1,799
+	1,797
+Row$
+1,381
+$
+	1,420
+	$
+1,799
+Row($ and shares in millions except per share amounts) 	2019 	2018 	2017
+RowNet sales 	$ 16,383 	$ 16,580 $ 	15,855
+RowCost of goods sold and occupancy expenses 	10,250 	10,258 	9,789
+RowGross profit 	6,133 	6,322 	6,066
+RowOperating expenses 	5,559 	4,960 	4,587
+RowOperating income 	574 	1,362 	1,479
+RowInterest expense 	76 	73 	74
+RowInterest income 	(30) 	(33) 	(19)
+RowIncome before income taxes 	528 	1,322 	1,424
+RowIncome taxes 	177 	319 	576
+RowNet income 	$ 351 	$ 1,003 $ 	848
+RowWeighted-average number of shares—basic 	376 	385 	393
+RowWeighted-average number of shares—diluted 	378 	388 	396
+RowEarnings per share—basic 	$ 0.93 	$ 2.61 $ 	2.16
+RowEarnings per share—diluted 	$ 0.93 	$ 2.59 $ 	2.14
+RowCash dividends declared and paid per share 	$ 0.97 	$ 0.97 $ 	0.92
+Row($ and shares in millions except per share amounts) 	Shares 	Amount 	Capital
+	Earnings
+	Income 	Total
+RowBalance as of January 28, 2017
+	399 	$ 20 	$ 81 	$ 2,749 	$ 54 	$ 2,904
+RowCumulative effect of a change in accounting principle related to share-based
+compensation 			(5) 	3 		(2)
+RowNet income 				848 		848
+RowOther comprehensive loss, net of tax 					(18) 	(18)
+RowRepurchases and retirement of common stock 	(13) 	(1) 	(156) 	(158) 		(315)
+RowIssuance of common stock related to stock options and employee stock purchase plans
+	2 	— 	30 			30
+RowIssuance of common stock and withholding tax payments related to vesting of stock
+units 	1 	— 	(18) 			(18)
+RowShare-based compensation, net of forfeitures
+			76 			76
+RowCommon stock dividends ($0.92 per share)
+				(361) 		(361)
+RowBalance as of February 3, 2018
+	389 	19 	8 	3,081 	36 	3,144
+RowCumulative effect of a change in accounting principle related to revenue recognition
+				36 		36
+RowNet income
+				1,003 		1,003
+RowOther comprehensive income, net of tax
+					17 	17
+RowRepurchases and retirement of common stock
+	(14) 	— 	(132) 	(266) 		(398)
+RowIssuance of common stock related to stock options and employee stock purchase plans
+	2 	— 	46 			46
+RowIssuance of common stock and withholding tax payments related to vesting of stock
+units 	1 	— 	(23) 			(23)
+RowShare-based compensation, net of forfeitures
+			101 			101
+RowCommon stock dividends ($0.97 per share)
+				(373) 		(373)
+RowBalance as of February 2, 2019
+	378 	19 	— 	3,481 	53 	3,553
+RowCumulative effect of a change in accounting principle related to leases
+				(86) 		(86)
+RowNet income
+				351 		351
+RowOther comprehensive loss, net of tax
+					(13) 	(13)
+RowRepurchases and retirement of common stock
+	(10) 	— 	(75) 	(125) 		(200)
+RowIssuance of common stock related to stock options and employee stock purchase plans
+	1 	— 	25 			25
+RowIssuance of common stock and withholding tax payments related to vesting of stock
+units 	2 	— 	(21) 			(21)
+RowShare-based compensation, net of forfeitures
+			71 			71
+RowCommon stock dividends ($0.97 per share) 				(364) 		(364)
+RowBalance as of February 1, 2020
+	371 	$ 19 	$ — 	$ 3,257 	$ 40 	$ 3,316
+Row	(364) 		(364)
+Row371 $ 19 	$ — $ 3,257 	$ 40 	$ 3,316
+Row($ in millions)
+	2019
+	Fiscal Year
+2018
+	2017
+RowCash flows from operating activities:
+			RowNet income
+	$
+351
+	$
+1,003
+	$
+848
+RowAdjustments to reconcile net income to net cash provided by operating activities:
+			RowDepreciation and amortization
+	557
+	578
+	559
+RowAmortization of lease incentives
+		(61)
+	(60)
+RowShare-based compensation
+	68
+	91
+	87
+RowImpairment of operating lease assets
+	239
+		RowImpairment of store assets
+	98
+	14
+	28
+RowLoss on disposal of property and equipment
+	70
+	4
+	11
+RowNon-cash and other items
+	(10)
+	(10)
+	8
+RowGain on sale of building
+	(191)
+		RowDeferred income taxes
+	(81)
+	65
+	61
+RowChanges in operating assets and liabilities:
+			RowMerchandise inventory
+	4
+	(154)
+	(142)
+RowOther current assets and other long-term assets
+	105
+	(18)
+	33
+RowAccounts payable
+	66
+	(78)
+	(90)
+RowAccrued expenses and other current liabilities
+	110
+	(196)
+	34
+RowIncome taxes payable, net of prepaid and other tax-related items
+	86
+	113
+	(52)
+RowLease incentives and other long-term liabilities
+		30
+	55
+RowOperating lease assets and liabilities, net
+	(61)
+		RowNet cash provided by operating activities
+	1,411
+	1,381
+	1,380
+RowCash flows from investing activities:
+			RowPurchases of property and equipment
+	(702)
+	(705)
+	(731)
+RowPurchase of building
+	(343)
+		RowProceeds from sale of building
+	220
+		RowPurchases of short-term investments
+	(293)
+	(464)
+	RowProceeds from sales and maturities of short-term investments
+	293
+	177
+	RowPurchase of Janie and Jack
+	(69)
+		RowInsurance proceeds related to loss on property and equipment
+			66
+RowOther
+		(9)
+	(1)
+RowNet cash used for investing activities
+	(894)
+	(1,001)
+	(666)
+RowCash flows from financing activities:
+			RowPayments of debt
+			(67)
+RowProceeds from issuances under share-based compensation plans
+	25
+	46
+	30
+RowWithholding tax payments related to vesting of stock units
+	(21)
+	(23)
+	(18)
+RowRepurchases of common stock
+	(200)
+	(398)
+	(315)
+RowCash dividends paid
+	(364)
+	(373)
+	(361)
+RowOther
+		(1)
+	RowNet cash used for financing activities
+	(560)
+	(749)
+	(731)
+RowEffect of foreign exchange rate fluctuations on cash, cash equivalents, and restricted cash
+	4
+	(10)
+	19
+RowNet increase (decrease) in cash, cash equivalents, and restricted cash
+	(39)
+	(379)
+	2
+RowCash, cash equivalents, and restricted cash at beginning of period
+	1,420
+	1,799
+	1,797
+RowCash, cash equivalents, and restricted cash at end of period
+	$
+1,381
+	$
+1,420
+	$
+1,799
+RowNon-cash investing activities:
+			RowPurchases of property and equipment not yet paid at end of period
+	$
+85
+	$
+93
+	$
+77
+RowSupplemental disclosure of cash flow information:
+			RowCash paid for interest during the period
+	$
+76
+	07
+76
+	$
+76
+RowCash paid for income taxes during the period, net of refunds
+	$
+176
+	$
+143
+	$
+570
+RowCash paid for operating lease liabilities
+	$
+1,244
+	$
+	$
+RowSee Accompanying Notes to Consolidated Financial Statements
+			Row(560)
+	(749)
+	(731)
+Row4
+	(10)
+	19
+Row(39)
+	(379)
+	2
+Row1,420
+	1,799
+	1,797
+Row$
+1,381
+$
+	1,420
+	$
+1,799

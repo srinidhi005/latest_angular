@@ -1,0 +1,107 @@
+Row:	2017 	2016 	2015
+Row:Net sales 	$ 8,439.4 	$ 7,791.4 	$ 7,605.5
+Row:Royalty revenue 	366.3 	320.6 	324.8
+Row:Advertising and other revenue 	109.1 	91.1 	90.0
+Row:Total revenue 	8,914.8 	8,203.1 	8,020.3
+Row:Cost of goods sold (exclusive of depreciation and amortization) 	4,020.4 	3,832.8 	3,858.7
+Row:Gross profit 	4,894.4 	4,370.3 	4,161.6
+Row:Selling, general and administrative expenses 	4,248.2 	3,636.7 	3,417.7
+Row:Debt modification and extinguishment costs 	23.9 	15.8 	—
+Row:Other noncash gain, net 	— 	71.3 	—
+Row:Equity in net income of unconsolidated affiliates 	10.1 	0.1 	16.6
+Row:Income before interest and taxes 	632.4 	789.2 	760.5
+Row:Interest expense 	128.5 	120.9 	117.0
+Row:Interest income 	6.3 	5.9 	4.0
+Row:Income before taxes 	510.2 	674.2 	647.5
+Row:Income tax (benefit) expense 	(25.9) 	125.5 	75.1
+Row:Net income 	536.1 	548.7 	572.4
+Row:Less: Net loss attributable to redeemable non-controlling interest 	(1.7) 	(0.3) 	—
+Row:Net income attributable to PVH Corp. 	$ 537.8 	$ 549.0 	$ 572.4
+Row:Basic net income per common share attributable to PVH Corp. 	$ 6.93 	$ 6.84 	$ 6.95
+Row:Diluted net income per common share attributable to PVH Corp. 	$ 6.84 	$ 6.79 	$ 6.89
+Row:Current Assets:
+Cash and cash equivalents $ 	493.9 	$ 730.1
+Row:Trade receivables, net of allowances for doubtful accounts of $21.1 and $15.0 	658.5 	616.0
+Row:Other receivables 	37.9 	25.4
+Row:Inventories, net 	1,591.3 	1,317.9
+Row:Prepaid expenses 	184.5 	133.2
+Row:Other 	64.7 	57.0
+Row:Total Current Assets 	3,030.8 	2,879.6
+Row:Property, Plant and Equipment, net 	899.8 	759.9
+Row:Goodwill 	3,834.7 	3,469.9
+Row:Tradenames 	2,928.4 	2,783.4
+Row:Other Intangibles, net 	798.2 	826.6
+Row:Other Assets, including deferred taxes of $25.4 and $17.4 	393.8 	348.5
+Row:Total Assets $ 	11,885.7 	$ 11,067.9
+Row:LIABILITIES, REDEEMABLE NON-CONTROLLING INTEREST AND STOCKHOLDERS’ 	EQUITY
+	Row:Current Liabilities:
+		Row:Accounts payable $ 	889.8 	$ 682.6
+Row:Accrued expenses 	923.1 	832.4
+Row:Deferred revenue 	39.2 	30.7
+Row:Short-term borrowings 	19.5 	19.1
+Row:Current portion of long-term debt 	— 	—
+Row:Total Current Liabilities 	1,871.6 	1,564.8
+Row:Long-Term Debt 	3,061.3 	3,197.3
+Row:Other Liabilities, including deferred taxes of $663.0 and $877.7 	1,414.4 	1,499.3
+Row:Redeemable Non-Controlling Interest 	2.0 	2.0
+Row:Stockholders’ Equity:
+		Row:Preferred stock, par value $100 per share; 150,000 total shares authorized 	— 	—
+Row:Common stock, par value $1 per share; 240,000,000 shares authorized; 84,851,079 and 83,923,184 shares issued 	84.9 	83.9
+Row:Additional paid in capital – common stock 	2,941.2 	2,866.2
+Row:Retained earnings 	3,625.2 	3,098.0
+Row:Accumulated other comprehensive loss 	(321.5) 	(710.8)
+Row:Less: 7,672,317 and 5,371,660 shares of common stock held in treasury, at cost 	(793.4) 	(532.8)
+Row:Total Stockholders’ Equity 	5,536.4 	4,804.5
+Row:Total Liabilities, Redeemable Non-Controlling Interest and Stockholders’ Equity $ 	11,885.7 	$ 11,067.9
+Row:OPERATING ACTIVITIES
+CONSOLIDATED STATEMENTS OF CASH (In millions)
+	2017 2016 FLOWS
+	2015
+Row:Net income $ 	536.1 $ 548.7 	$ 572.4
+Row:Adjustments to reconcile to net cash provided by operating activities:
+		Row:Depreciation and amortization 	324.9 321.8 	257.4
+Row:Equity in net income of unconsolidated affiliates Deferred taxes 	(10.1) (0.1) (224.6) (1) 1.3 	(16.6)
+(8.7)
+Row:Stock-based compensation expense 	44.9 38.2 	42.0
+Row:Impairment of long-lived assets 	7.5 10.1 	11.4
+Row:Actuarial loss (gain) on retirement and benefit plans 	2.5 (39.1) 	(20.2)
+Row:Settlement loss on retirement plans 	9.4 — 	—
+Row:Debt modification and extinguishment costs 	23.9 15.8 	—
+Row:Gain to write-up equity investment in joint venture to fair value 	— (153.1) 	—
+Row:Net loss on deconsolidation of subsidiary 	— 81.8 	—
+Row:Changes in operating assets and liabilities:
+		Row:Trade receivables, net 	3.3 22.3 	33.2
+Row:Inventories, net 	(163.5) 2.2 	(96.2)
+Row:Accounts payable, accrued expenses and deferred revenue 	185.9 166.9 	58.6
+Row:Prepaid expenses 	(41.0) 19.2 	(21.3)
+Row:Employer pension contributions 	(0.3) (100.0) 	(1.5)
+Row:Other, net 	0.9 19.7 	94.6
+Row:Net cash provided by operating activities 	699.8 955.7 	905.1
+Row:INVESTING ACTIVITIES(2)
+		Row:Business acquisitions, net of cash acquired 	(40.1) (157.7) 	—
+Row:Purchases of property, plant and equipment 	(358.1) (246.6) 	(263.8)
+Row:Contingent purchase price payments 	(56.4) (53.7) 	(51.3)
+Row:Proceeds from sale of building 	3.4 16.7 	—
+Row:Change in restricted cash 	— — 	20.2
+Row:Investments in and advance to unconsolidated affiliates 	(14.2) (32.0) 	(26.6)
+Row:Payment received on advance to unconsolidated affiliate Loan to a supplier 	6.3 6.2 — — (13.8) 	—
+—
+Row:Net cash used by investing activities 	(459.1) (480.9) 	(321.5)
+Row:FINANCING ACTIVITIES(2)
+		Row:Net proceeds from (payments on) short-term borrowings 	0.4 (6.8) 	17.4
+Row:Proceeds from 3 1/8% senior notes, net of related fees 	701.6 — 	—
+Row:Redemption of 4 1/2% senior notes, including premium 	(715.8) — 	—
+Row:Proceeds from 2016 facilities, net of related fees 	— 571.1 	—
+Row:Repayment of Term Loan B in connection with amendment to 2014 facilities 	— (582.0) 	—
+Row:Repayment of 2016/2014 facilities 	(250.0) (350.0) 	(350.0)
+Row:Proceeds from 3 5/8% senior notes, net of related fees 	— 389.6 	—
+Row:Net proceeds from settlement of awards under stock plans 	30.0 13.1 	7.4
+Row:Cash dividends 	(11.9) (12.2) 	(12.5)
+Row:Acquisition of treasury shares 	(259.1) (322.1) 	(138.4)
+Row:Payments of capital lease obligations Contributions from non-controlling interest 	(5.1) (7.0) 1.7 2.2 	(7.8)
+—
+Row:Net cash used by financing activities 	(508.2) (304.1) 	(483.9)
+Row:Effect of exchange rate changes on cash and cash equivalents 	31.3 3.0 	(22.6)
+Row:(Decrease) increase in cash and cash equivalents 	(236.2) 173.7 	77.1
+Row:Cash and cash equivalents at beginning of year 	730.1 556.4 	479.3
+Row:Cash and cash equivalents at end of year $ 	493.9 $ 730.1 	$ 556.4

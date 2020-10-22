@@ -1,0 +1,58 @@
+Row:FORM 10-K 	Page
+Row:Part I
+	Row:Item 1. Business 	1
+Row:Item 1a. Risk Factors 	3
+Row:Item 1b. Unresolved Staff Comments 	5
+Row:Item 2. Properties 	6
+Row:Item 3. Legal Proceedings 	6
+Row:Executive Officers of the Registrant 	7
+Row:Part II
+	Row:Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 	8
+Row:Item 6. Selected Financial Data 	9
+Row:Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 	10
+Row:Item 7a. Quantitative and Qualitative Disclosures about Market Risk 	21
+Row:Item 8. Financial Statements and Supplementary Data 	22
+Row:Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 	48
+Row:Item 9a. Controls and Procedures 	48
+Row:Item 9b. Other Information 	48
+Row:Part III
+Item 10. Directors, Executive Officers and Corporate Governance 	49
+Row:Item 11. Executive Compensation 	49
+Row:Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 	49
+Row:Item 13. Certain Relationships and Related Transactions, and Director Independence 	49
+Row:Item 14. Principal Accountant Fees and Services 	49
+Row:Part IV
+	Row:Item 15. Exhibits, Financial Statement Schedules 	50
+Row:Item 15(c)(3). Schedule II - Valuation and Qualifying Accounts 	52
+Row:Item 16. Form 10-K Summary 	52
+Row:Signatures 	53
+Row:Exhibit 21 Subsidiaries of the Registrant
+	Row:Exhibit 31.1 Rule 13a-14(a) Certification - CEO
+	Row:Exhibit 31.2 Rule 13a-14(a) Certification - CFO
+	Row:Exhibit 32 Certification Pursuant to 18 U.S.C. Section 1350
+	Row:	2016 	2015 	2014
+Row:Center Store (1) 	57.0 % 	57.5 % 	57.9 %
+Row:Fresh (2) 	30.3 	29.7 	29.0
+Row:Pharmacy Services 	9.5 	9.4 	9.0
+Row:Fuel 	3.0 	3.2 	3.9
+Row:Other 	0.2 	0.2 	0.2
+Row:Consolidated net sales 	100.0 % 	100.0 % 	100.0 %
+Row:	2016 	2016 	2015 	2015
+Row:Square feet 	Number of stores 	% of Total 	Number of stores 	% of Total
+Row:55,000 to 70,000 	58 	28% 	57 	35%
+Row:45,000 to 54,999 	70 	34% 	69 	42%
+Row:35,000 to 44,999 	53 	26% 	22 	13%
+Row:25,000 to 34,999 	18 	9% 	9 	6%
+Row:Under 25,000 	5 	3% 	6 	4%
+Row:Total 	204 	100% 	163 	100%
+Row:	2016 	2015 	2014 	2013 	2012
+Row:Beginning store count 	163 	163 	165 	163 	161
+Row:New stores (1) 	44 	--- 	1 	4 	4
+Row:Opened relocated stores 	--- 	1 	1 	--- 	1
+Row:Closed stores 	(3) 	--- 	(3) 	(2) 	(2)
+Row:Closed relocated stores 	--- 	(1) 	(1) 	--- 	(1)
+Row:Ending store count 	204 	163 	163 	165 	163
+Row:Total square feet (000’s), at year-end 	9,777 	8,215 	8,202 	8,211 	8,054
+Row:Additions/major remodels 	9 	16 	8 	12 	13
+Row:____________________
+					

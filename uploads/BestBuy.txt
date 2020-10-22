@@ -1,0 +1,192 @@
+RowAssets
+		RowCurrent assets
+		RowCash and cash equivalents $ 	2,229 	$ 1,980
+RowReceivables, net 	1,149 	1,015
+RowMerchandise inventories 	5,174 	5,409
+RowOther current assets 	305 	466
+RowTotal current assets 	8,857 	8,870
+RowProperty and equipment
+		RowLand and buildings 	650 	637
+RowLeasehold improvements 	2,203 	2,119
+RowFixtures and equipment 	6,286 	5,865
+RowProperty under capital and financing leases 	- 	579
+RowProperty under finance leases 	89 	-
+RowGross property and equipment 	9,228 	9,200
+RowLess accumulated depreciation 	6,900 	6,690
+RowNet property and equipment 	2,328 	2,510
+RowOperating lease assets 	2,709 	-
+RowGoodwill 	984 	915
+RowOther assets 	713 	606
+RowTotal assets $ 	15,591 	$ 12,901
+RowLiabilities and equity
+		RowCurrent liabilities
+		RowAccounts payable $ 	5,288 	$ 5,257
+RowUnredeemed gift card liabilities 	281 	290
+RowDeferred revenue 	501 	446
+RowAccrued compensation and related expenses 	410 	482
+RowAccrued liabilities 	906 	982
+RowCurrent portion of operating lease liabilities 	660 	-
+RowCurrent portion of long-term debt 	14 	56
+RowTotal current liabilities 	8,060 	7,513
+RowLong-term operating lease liabilities 	2,138 	-
+RowLong-term liabilities 	657 	750
+RowLong-term debt 	1,257 	1,332
+RowContingencies and commitments (Note 13)
+		RowEquity
+		RowBest Buy Co., Inc. Shareholders' Equity
+		RowPreferred stock, $1.00 par value: Authorized 400,000 shares; Issued and outstanding none 	- 	-
+RowCommon stock, $0.10 par value: Authorized 1.0 billion shares; Issued and
+outstanding 256,494,000 and 265,703,000 shares, respectively 	26 	27
+Row3,158 	2,985
+Row295 	294
+Row3,479 	3,306
+Row15,591 $ 	12,901
+RowFiscal Years Ended
+	February 1, 2020
+	February 2, 2019
+	February 3, 2018
+RowRevenue
+	$
+43,638
+	$
+42,879
+	42,151
+RowCost of sales
+	33,590
+	32,918
+	32,275
+RowGross profit
+	10,048
+	9,961
+	9,876
+RowSelling, general and administrative expenses
+	7,998
+	8,015
+	8,023
+RowRestructuring charges
+	41
+	46
+	10
+RowOperating income
+	2,009
+	1,900
+	1,843
+RowOther income (expense):
+			RowGain on sale of investments
+	1
+	12
+	1
+RowInvestment income and other
+	47
+	49
+	48
+RowInterest expense
+	(64)
+	(73)
+	(75)
+RowEarnings from continuing operations before income tax expense
+	1,993
+	1,888
+	1,817
+RowIncome tax expense
+	452
+	424
+	818
+RowNet earnings from continuing operations
+	1,541
+	1,464
+	999
+RowGain from discontinued operations, net of $0 tax expense
+			1
+RowNet earnings
+	$
+1,541
+	$
+1,464
+$
+	1,000
+RowBasic earnings per share
+	$
+5.82
+	$
+$
+5.30
+	3.33
+RowDiluted earnings per share
+	5.75
+$
+	$
+5.20
+$
+	3.26
+RowWeighted average common shares outstanding
+			RowBasic
+	264.9
+	276.4
+	300.4
+RowDiluted
+	268.1
+	281.4
+	307.1
+RowFiscal Years Ended 	February 1, 2020 	February 2, 2019 	February 3, 2018
+RowOperating activities
+			RowNet earnings $ Adjustments to reconcile net earnings to total cash provided by operating
+activities:
+	1,541 	$ 1,464 	$ 1,000
+RowDepreciation and amortization 	812 	770 	683
+RowRestructuring charges 	41 	46 	10
+RowStock-based compensation 	143 	123 	129
+RowDeferred income taxes 	70 	10 	162
+RowOther, net 	21 	(25) 	(13)
+RowChanges in operating assets and liabilities, net of acquired assets and liabilities:
+			RowReceivables 	(131) 	28 	315
+RowMerchandise inventories 	237 	(194) 	(335)
+RowOther assets 	16 	(34) 	(21)
+RowAccounts payable 	47 	432 	(196)
+RowIncome taxes 	(132) 	22 	290
+RowOther liabilities 	(100) 	(234) 	117
+RowTotal cash provided by operating activities 	2,565 	2,408 	2,141
+RowInvesting activities
+Additions to property and equipment, net of $10, $53 and $123, respectively, of
+			Rownon-cash capital expenditures 	(743) 	(819) 	(688)
+RowPurchases of investments 	(330) 	- 	(4,325)
+RowSales of investments 	322 	2,098 	4,018
+RowAcquisitions, net of cash acquired 	(145) 	(787) 	-
+RowOther, net 	1 	16 	(7)
+RowTotal cash provided by (used in) investing activities 	(895) 	508 	(1,002)
+RowFinancing activities
+			RowRepurchase of common stock 	(1,003) 	(1,505) 	(2,004)
+RowIssuance of common stock 	48 	38 	163
+RowDividends paid 	(527) 	(497) 	(409)
+RowBorrowings of debt 	- 	498 	-
+RowRepayments of debt 	(15) 	(546) 	(46)
+RowOther, net 	(1) 	(6) 	(1)
+RowTotal cash used in financing activities 	(1,498) 	(2,018) 	(2,297)
+RowEffect of exchange rate changes on cash 	(1) 	(14) 	25
+RowIncrease (decrease) in cash, cash equivalents and restricted cash 	171 	884 	(1,133)
+RowCash, cash equivalents and restricted cash at beginning of period 	2,184 	1,300 	2,433
+RowCash, cash equivalents and restricted cash at end of period $ 	2,355 	$ 2,184 	$ 1,300
+RowSupplemental cash flow information
+			RowIncome taxes paid $ 	514 	$ 391 	$ 366
+RowInterest paid 	62 	71 	81
+Row:Fiscal Years Ended 	February 1, 2020 	February 2, 2019 	February 3, 2018
+Row:Revenue 	$ 43,638 	$ 42,879 	$ 42,151
+Row:Cost of sales 	33,590 	32,918 	32,275
+Row:Gross profit 	10,048 	9,961 	9,876
+Row:Selling, general and administrative expenses 	7,998 	8,015 	8,023
+Row:Restructuring charges 	41 	46 	10
+Row:Operating income 	2,009 	1,900 	1,843
+Row:Other income (expense):
+			Row:Gain on sale of investments 	1 	12 	1
+Row:Investment income and other 	47 	49 	48
+Row:Interest expense 	(64) 	(73) 	(75)
+Row:Earnings from continuing operations before income tax expense 	1,993 	1,888 	1,817
+Row:Income tax expense 	452 	424 	818
+Row:Net earnings from continuing operations 	1,541 	1,464 	999
+Row:Gain from discontinued operations, net of $0 tax expense 	- 	- 	1
+Row:Net earnings 	$ 1,541 	$ 1,464 	$ 1,000
+Row:Basic earnings per share 	$ 5.82 	$ 5.30 	$ 3.33
+Row:Diluted earnings per share 	$ 5.75 	$ 5.20 	$ 3.26
+Row:Weighted-average common shares outstanding
+			Row:Basic 	264.9 	276.4 	300.4
+Row:Diluted 	268.1 	281.4 	307.1

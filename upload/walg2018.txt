@@ -1,0 +1,101 @@
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 785 	$ 3,301
+Row:Accounts receivable, net 	6,573 	6,528
+Row:Inventories Other current assets 	9,565 923 	8,899
+1,025
+Row:Total current assets 	17,846 	19,753
+Row:Non-current assets:
+		Row:Property, plant and equipment, net 	13,911 	13,642
+Row:Goodwill 	16,914 	15,632
+Row:Intangible assets, net 	11,783 	10,156
+Row:Equity method investments (see note 5) 	6,610 	6,320
+Row:Other non-current assets 	1,060 	506
+Row:Total non-current assets 	50,278 	46,256
+Row:Total assets 	$ 68,124 	$66,009
+Row:Liabilities and equity
+Current liabilities:
+		Row:Short-term debt 	$ 1,966 	$ 251
+Row:Trade accounts payable (see note 17) 	13,566 	12,494
+Row:Accrued expenses and other liabilities 	5,862 	5,473
+Row:Income taxes 	273 	329
+Row:Total current liabilities 	21,667 	18,547
+Row:Non-current liabilities:
+		Row:Long-term debt 	12,431 	12,684
+Row:Deferred income taxes 	1,815 	2,281
+Row:Common stock $.01 par value; authorized 3.2 billion shares; issued 1,172,513,618 at August 31, 2018
+		Row:and 2017 	12 	12
+Row:Paid-in capital 	10,493 	10,339
+Row:Retained earnings 	33,551 	30,137
+Row:Accumulated other comprehensive loss 	(3,002) 	(3,051)
+Row:Treasury stock, at cost; 220,380,200 shares at August 31, 2018 and 148,664,548 at August 31, 2017 	(15,047) 	(9,971)
+Row:Total Walgreens Boots Alliance, Inc. shareholders’ equity 	26,007 	27,466
+Row:Noncontrolling interests 	682 	808
+Row:Total equity 	26,689 	28,274
+Row:Total liabilities and equity 	$ 68,124 	$66,009
+Row:	2018 	2017 	2016
+Row:Sales 	$ 131,537 	$118,214 	$117,351
+Row:Cost of sales 	100,745 	89,052 	87,477
+Row:Gross profit 	30,792 	29,162 	29,874
+Row:Selling, general and administrative expenses 	24,569 	23,740 	23,910
+Row:Equity earnings in AmerisourceBergen 	191 	135 	37
+Row:Operating income 	6,414 	5,557 	6,001
+Row:Other income (expense) 	177 	(11) 	(261)
+Row:Earnings before interest and income tax provision 	6,591 	5,546 	5,740
+Row:Interest expense, net 	616 	693 	596
+Row:Earnings before income tax provision 	5,975 	4,853 	5,144
+Row:Income tax provision 	998 	760 	997
+Row:Post tax earnings from other equity method investments 	54 	8 	44
+Row:Net earnings 	5,031 	4,101 	4,191
+Row:Net earnings attributable to noncontrolling interests 	7 	23 	18
+Row:Net earnings attributable to Walgreens Boots Alliance, Inc. 	$ 5,024 	$ 4,078 	$ 4,173
+Row:Net earnings per common share:
+			Row:Basic 	$ 5.07 	$ 3.80 	$ 3.85
+Row:Diluted 	$ 5.05 	$ 3.78 	$ 3.82
+Row:Dividends declared per share 	$ 1.640 	$ 1.525 	$ 1.455
+Row:Weighted average common shares outstanding:
+Basic 	991.0 	1,073.5 	1,083.1
+Row:Diluted 	995.0 	1,078.5 	1,091.1
+Row:	2018 2017 	2016
+Row:Cash flows from operating activities:
+		Row:Net earnings $ 	5,031 $ 4,101 	$ 4,191
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities:
+		Row:Depreciation and amortization 	1,770 1,654 	1,718
+Row:Change in fair value of warrants and related amortization 	— — 	516
+Row:Gain on previously held equity interest 	(337) — 	—
+Row:Deferred income taxes 	(322) (434) 	(442)
+Row:Stock compensation expense 	130 91 	115
+Row:Equity earnings from equity method investments Other 	(244) (143) 296 364 	(81)
+148
+Row:Changes in operating assets and liabilities:
+		Row:Accounts receivable, net Inventories Other current assets 	(391) (153) 331 98 (22) — 	115
+(644)
+66
+Row:Trade accounts payable 	1,323 1,690 	1,572
+Row:Accrued expenses and other liabilities 	281 (128) 	313
+Row:Income taxes 	694 44 	202
+Row:Other non-current assets and liabilities 	(275) 67 	58
+Row:Net cash provided by operating activities 	8,265 7,251 	7,847
+Row:Cash flows from investing activities:
+		Row:Additions to property, plant and equipment 	(1,367) (1,351) 	(1,325)
+Row:Proceeds from sale leaseback transactions 	— 444 	60
+Row:Proceeds from sale of businesses 	— — 	74
+Row:Proceeds from sale of other assets 	655 59 	155
+Row:Business, investment and asset acquisitions, net of cash acquired 	(4,793) (88) 	(126)
+Row:Investment in AmerisourceBergen 	— — 	(2,360)
+Row:Other 	4 93 	5
+Row:Net cash used for investing activities 	(5,501) (843) 	(3,517)
+Row:Cash flows from financing activities:
+		Row:Net change in short-term debt with maturities of 3 months or less 	586 33 	29
+Row:Proceeds from debt 	5,900 — 	5,991
+Row:Payments of debt 	(4,890) (6,196) 	(791)
+Row:Stock purchases 	(5,228) (5,220) 	(1,152)
+Row:Proceeds related to employee stock plans 	174 217 	235
+Row:Cash dividends paid 	(1,739) (1,723) 	(1,563)
+Row:Other 	(98) (45) 	(143)
+Row:Net cash (used for) provided by financing activities 	(5,295) (12,934) 	2,606
+Row:Effect of exchange rate changes on cash and cash equivalents Changes in cash and cash equivalents:
+	15 20 	(129)
+Row:Net (decrease) increase in cash and cash equivalents 	(2,516) (6,506) 	6,807
+Row:Cash and cash equivalents at beginning of period Cash and cash equivalents at end of period $ 	3,301 9,807 785 $ 3,301 	3,000
+$ 9,807

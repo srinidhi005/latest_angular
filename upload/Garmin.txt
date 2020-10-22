@@ -1,0 +1,368 @@
+Row:Assets
+	December 29, 2018 	December 30,
+2017
+Row:Current assets:
+		Row:Cash and cash equivalents 	1,201,732 $ 	891,488 $
+Row:Marketable securities (Note 3) 	182,989 	161,687
+Row:Accounts receivable, less allowance for doubtful accounts of
+		Row:$5,487 in 2018 and $4,168 in 2017 	569,833 	590,882
+Row:Inventories 	561,840 	517,644
+Row:Deferred costs 	28,462 	30,525
+Row:Prepaid expenses and other current assets 	120,512 	153,912
+Row:Total current assets 	2,665,368 	2,346,138
+Row:Property and equipment, net
+		Row:Land and improvements 	131,689 	114,701
+Row:Building and improvements 	539,177 	482,794
+Row:Office furniture and equipment 	264,818 	246,107
+Row:Manufacturing equipment 	162,077 	156,119
+Row:Engineering equipment 	154,742 	141,321
+Row:Vehicles 	20,991 	21,115
+Row:	1,273,494 	1,162,157
+Row:Accumulated depreciation 	(609,967) 	(566,473)
+Row:	663,527 	595,684
+Row:Restricted cash (Note 4) 	73 	271
+Row:Marketable securities (Note 3) 	1,330,123 	1,260,033
+Row:Deferred income taxes (Note 6) 	176,959 	195,981
+Row:Noncurrent deferred costs 	29,473 	33,029
+Row:Intangible assets, net 	417,080 	409,801
+Row:Other assets 	100,255 	107,352
+Row:Total assets 	5,382,858 $ 	4,948,289 $
+Row:Marketable securities (Note 3) 	1,330,123 	1,260,033
+Row:Deferred income taxes (Note 6) 	176,959 	195,981
+Row:Noncurrent deferred costs 	29,473 	33,029
+Row:Intangible assets, net 	417,080 	409,801
+Row:Other assets 	100,255 	107,352
+Row:Total assets 	5,382,858 $ 	4,948,289 $
+Row:Liabilities and Stockholders' Equity
+Current liabilities:
+Accounts payable 	204,985 $ 	169,640 $
+Row:Salaries and benefits payable 	113,087 	102,802
+Row:Accrued warranty costs 	38,276 	36,827
+Row:Accrued sales program costs 	90,388 	93,250
+Row:Deferred revenue 	96,372 	103,140
+Row:Accrued royalty costs 	24,646 	32,204
+Row:Accrued advertising expense 	31,657 	30,987
+Row:Other accrued expenses 	69,777 	93,652
+Row:Income taxes payable 	51,642 	33,638
+Row:Dividend payable 	200,483 	95,975
+Row:Total current liabilities 	921,313 	792,115
+Row:Deferred income taxes (Note 6) 	92,944 	76,612
+Row:Noncurrent income taxes 	127,211 	138,295
+Row:Noncurrent deferred revenue 	76,566 	87,060
+Row:Other liabilities 	1,850 	1,788
+Row:Stockholders' equity:
+Shares, CHF 0.10 par value, 198,077 shares authorized and issued,
+189,461 shares outstanding at December 29, 2018;
+and 188,189 shares outstanding at December 30, 2017;
+		Row:(Notes 9, 10, and 11): 	17,979 	17,979
+Row:Additional paid-in capital 	1,823,638 	1,828,386
+Row:Treasury stock 	(397,692) 	(468,818)
+Row:Retained earnings 	2,710,619 	2,418,444
+Row:Accumulated other comprehensive income 	8,430 	56,428
+Row:Total stockholders' equity 	4,162,974 	3,852,419
+Row:Total liabilities and stockholders' equity 	5,382,858 $ 	4,948,289 $
+Row:See accompanying notes.
+		Row:59
+		Row:204,985 $ 	$
+	169,640 Row:113,087 		102,802
+Row:38,276 		36,827
+Row:90,388 		93,250
+Row:96,372 		103,140
+Row:24,646 31,657 69,777 		32,204
+30,987
+93,652
+Row:51,642 		33,638
+Row:200,483 		95,975
+Row:921,313 		792,115
+Row:92,944 127,211 76,566 		76,612
+138,295
+87,060
+Row:1,850 		1,788
+Row:(Notes 9, 10, and 11): 	17,979 	17,979
+Row:Additional paid-in capital 	1,823,638 	1,828,386
+Row:Treasury stock 	(397,692) 	(468,818)
+Row:Retained earnings 	2,710,619 	2,418,444
+Row:Accumulated other comprehensive income 	8,430 	56,428
+Row:Total stockholders' equity 	4,162,974 	3,852,419
+Row:Total liabilities and stockholders' equity 	5,382,858 $ 	4,948,289 $
+Row:17,979 	17,979
+Row:1,823,638 	1,828,386
+Row:(397,692) 	(468,818)
+Row:2,710,619 	2,418,444
+Row:8,430 	56,428
+Row:4,162,974 	3,852,419
+Row:5,382,858 	4,948,289 $
+Row:December 29, 	December 30, 	December 31,
+Row:2018 	2017 	2016
+Row:3,347,444 $ 	3,121,560 $ 	3,045,797 $
+Row:1,367,725 	1,323,619 	1,357,272
+Row:1,979,719 	1,797,941 	1,688,525
+Row:155,394 	164,693 	177,143
+Row:478,177 	437,977 	410,558
+Row:567,805 	511,634 	467,960
+Row:1,201,376 	1,114,304 	1,055,661
+Row:778,343 	683,637 	632,864
+Row:Net sales 	3,347,444 $ 	$ 	3,121,560 	$
+	3,045,797 Row:Cost of goods sold 	1,367,725 		1,323,619 		1,357,272
+Row:Gross profit 	1,979,719 		1,797,941 		1,688,525
+Row:Advertising expense 	155,394 		164,693 		177,143
+Row:Selling, general and administrative expenses 	478,177 		437,977 		410,558
+Row:Research and development expense 	567,805 1,201,376 		511,634 1,114,304 		467,960
+1,055,661
+Row:Operating income 	778,343 		683,637 		632,864
+Row:Other income (expense):
+					Row:Interest income 	47,147 		36,925 		33,406
+Row:Foreign currency losses 	(7,616) 		(22,579) 		(31,651)
+Row:Other income (expense) 	5,373 		(912) 		4,006
+Row:Income before income taxes 	44,904 823,247 		13,434 697,071 		5,761
+638,625
+Row:Income tax provision (benefit): (Note 6)
+					Row:Current 	93,424 		79,234 		117,842
+Row:Deferred 	35,743 129,167 		(91,170) (11,936) 		3,059
+120,901
+Row:Net income 	694,080 $ 	$ 	709,007 	$
+	517,724 Row:Basic net income per share (Note 10) 	3.68 $ 	$ 	3.77 	$
+	2.74 Row:Diluted net income per share (Note 10) 	3.66 $ 	$ 	3.76 	$
+	2.73 Row:See accompanying notes.
+					Row:Interest income 	47,147 	36,925 	33,406
+Row:Foreign currency losses 	(7,616) 	(22,579) 	(31,651)
+Row:Other income (expense) 	5,373 44,904 	(912) 13,434 	4,006
+5,761
+Row:Income before income taxes 	823,247 	697,071 	638,625
+Row:35,743 	(91,170) 	3,059
+Row:129,167 	(11,936) 	120,901
+Row:694,080 $ 	709,007 $ 	517,724 $
+Row:December 29, 	December 30, 	December 31,
+Row:2018 	2017 	2016
+Row:Operating Activities:
+Net income $ 	694,080 	709,007 $ 	517,724 $
+Row:Adjustments to reconcile net income to net cash provided
+			Row:by operating activities:
+			Row:Depreciation 	64,798 	59,895 	55,796
+Row:Amortization 	31,396 	26,357 	30,544
+Row:Gain on sale of property and equipment 	(479) 	(230) 	(503)
+Row:Provision for doubtful accounts 	2,123 	1,021 	4,136
+Row:Provision for obsolete and slow-moving inventories 	24,579 	31,071 	26,458
+Row:Unrealized foreign currency losses 	13,790 	21,681 	13,125
+Row:Deferred income taxes 	38,978 	(90,000) 	3,745
+Row:Stock compensation expense 	56,391 	44,735 	41,250
+Row:Realized losses (gains) on marketable securities 	827 	991 	(822)
+Row:Changes in operating assets and liabilities, net of acquisitions:
+			Row:Accounts receivable 	5,167 	(40,088) 	9,000
+Row:Inventories 	(82,316) 	(38,575) 	(2,455)
+Row:Other current and non-current assets 	7,358 	(21,608) 	2,234
+Row:Accounts payable 	40,628 	(17,240) 	(11,496)
+Row:Other current and non-current liabilities 	(1,323) 	5,627 	44,766
+Row:Deferred revenue 	(17,208) 	(20,754) 	(32,733)
+Row:Deferred costs 	5,611 	2,395 	1,896
+Row:Income taxes payable 	35,120 	(13,443) 	3,017
+Row:Net cash provided by operating activities 	919,520 	660,842 	705,682
+Row:Inventories 	(82,316) 	(38,575) 	(2,455)
+Row:Other current and non-current assets 	7,358 	(21,608) 	2,234
+Row:Accounts payable 	40,628 	(17,240) 	(11,496)
+Row:Other current and non-current liabilities 	(1,323) 	5,627 	44,766
+Row:Deferred revenue 	(17,208) 	(20,754) 	(32,733)
+Row:Deferred costs 	5,611 	2,395 	1,896
+Row:Income taxes payable 	35,120 	(13,443) 	3,017
+Row:provided by operating activities 	919,520 	660,842 	705,682
+Row:Purchases of property and equipment 	(155,755) 	(139,696) 	(90,960)
+Row:Proceeds from sale of property and equipment 	1,600 	361 	676
+Row:Purchase of intangible assets 	(4,600) 	(12,232) 	(5,715)
+Row:Purchase of marketable securities 	(403,181) 	(587,656) 	(905,089)
+Row:Redemption of marketable securities 	283,603 	635,311 	957,350
+Row:Acquisitions, net of cash acquired 	(29,170) 	(90,471) 	(77,945)
+Row:Net cash used in investing activities 	(307,503) 	(194,383) 	(121,683)
+Row:Dividends 	(296,148) 	(382,976) 	(481,452)
+Row:Tax benefit from issuance of equity awards 	- 	- 	1,692
+Row:Proceeds from issuance of treasury stock related to equity awards 	26,642 	21,860 	18,648
+Row:Purchase of treasury stock related to equity awards 	(16,655) 	(12,773) 	(7,331)
+Row:Purchase of treasury stock under share repurchase plan 	- 	(74,523) 	(93,233)
+Row:Net cash used in financing activities 	(286,161) 	(448,412) 	(561,676)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(15,810) 	26,716 	(8,656)
+Row:Net increase in cash, cash equivalents, and restricted cash 	310,046 	44,763 	13,667
+Row:Cash, cash equivalents, and restricted cash at beginning of year 	891,759 	846,996 	833,329
+Row:Cash, cash equivalents, and restricted cash at end of year 	1,201,805 $ 	891,759 $ 	846,996 $
+Row:Assets
+	December 29, 2018 	December 30,
+2017
+Row:Current assets:
+		Row:Cash and cash equivalents 	1,201,732 $ 	891,488 $
+Row:Marketable securities (Note 3) 	182,989 	161,687
+Row:Accounts receivable, less allowance for doubtful accounts of
+		Row:$5,487 in 2018 and $4,168 in 2017 	569,833 	590,882
+Row:Inventories 	561,840 	517,644
+Row:Deferred costs 	28,462 	30,525
+Row:Prepaid expenses and other current assets 	120,512 	153,912
+Row:Total current assets 	2,665,368 	2,346,138
+Row:Property and equipment, net
+		Row:Land and improvements 	131,689 	114,701
+Row:Building and improvements 	539,177 	482,794
+Row:Office furniture and equipment 	264,818 	246,107
+Row:Manufacturing equipment 	162,077 	156,119
+Row:Engineering equipment 	154,742 	141,321
+Row:Vehicles 	20,991 	21,115
+Row:	1,273,494 	1,162,157
+Row:Accumulated depreciation 	(609,967) 	(566,473)
+Row:	663,527 	595,684
+Row:Restricted cash (Note 4) 	73 	271
+Row:Marketable securities (Note 3) 	1,330,123 	1,260,033
+Row:Deferred income taxes (Note 6) 	176,959 	195,981
+Row:Noncurrent deferred costs 	29,473 	33,029
+Row:Intangible assets, net 	417,080 	409,801
+Row:Other assets 	100,255 	107,352
+Row:Total assets 	5,382,858 $ 	4,948,289 $
+Row:Marketable securities (Note 3) 	1,330,123 	1,260,033
+Row:Deferred income taxes (Note 6) 	176,959 	195,981
+Row:Noncurrent deferred costs 	29,473 	33,029
+Row:Intangible assets, net 	417,080 	409,801
+Row:Other assets 	100,255 	107,352
+Row:Total assets 	5,382,858 $ 	4,948,289 $
+Row:Liabilities and Stockholders' Equity
+Current liabilities:
+Accounts payable 	204,985 $ 	169,640 $
+Row:Salaries and benefits payable 	113,087 	102,802
+Row:Accrued warranty costs 	38,276 	36,827
+Row:Accrued sales program costs 	90,388 	93,250
+Row:Deferred revenue 	96,372 	103,140
+Row:Accrued royalty costs 	24,646 	32,204
+Row:Accrued advertising expense 	31,657 	30,987
+Row:Other accrued expenses 	69,777 	93,652
+Row:Income taxes payable 	51,642 	33,638
+Row:Dividend payable 	200,483 	95,975
+Row:Total current liabilities 	921,313 	792,115
+Row:Deferred income taxes (Note 6) 	92,944 	76,612
+Row:Noncurrent income taxes 	127,211 	138,295
+Row:Noncurrent deferred revenue 	76,566 	87,060
+Row:Other liabilities 	1,850 	1,788
+Row:Stockholders' equity:
+Shares, CHF 0.10 par value, 198,077 shares authorized and issued,
+189,461 shares outstanding at December 29, 2018;
+and 188,189 shares outstanding at December 30, 2017;
+		Row:(Notes 9, 10, and 11): 	17,979 	17,979
+Row:Additional paid-in capital 	1,823,638 	1,828,386
+Row:Treasury stock 	(397,692) 	(468,818)
+Row:Retained earnings 	2,710,619 	2,418,444
+Row:Accumulated other comprehensive income 	8,430 	56,428
+Row:Total stockholders' equity 	4,162,974 	3,852,419
+Row:Total liabilities and stockholders' equity 	5,382,858 $ 	4,948,289 $
+Row:See accompanying notes.
+		Row:59
+		Row:204,985 $ 	$
+	169,640 Row:113,087 		102,802
+Row:38,276 		36,827
+Row:90,388 		93,250
+Row:96,372 		103,140
+Row:24,646 31,657 69,777 		32,204
+30,987
+93,652
+Row:51,642 		33,638
+Row:200,483 		95,975
+Row:921,313 		792,115
+Row:92,944 127,211 76,566 		76,612
+138,295
+87,060
+Row:1,850 		1,788
+Row:(Notes 9, 10, and 11): 	17,979 	17,979
+Row:Additional paid-in capital 	1,823,638 	1,828,386
+Row:Treasury stock 	(397,692) 	(468,818)
+Row:Retained earnings 	2,710,619 	2,418,444
+Row:Accumulated other comprehensive income 	8,430 	56,428
+Row:Total stockholders' equity 	4,162,974 	3,852,419
+Row:Total liabilities and stockholders' equity 	5,382,858 $ 	4,948,289 $
+Row:17,979 	17,979
+Row:1,823,638 	1,828,386
+Row:(397,692) 	(468,818)
+Row:2,710,619 	2,418,444
+Row:8,430 	56,428
+Row:4,162,974 	3,852,419
+Row:5,382,858 	4,948,289 $
+Row:December 29, 	December 30, 	December 31,
+Row:2018 	2017 	2016
+Row:3,347,444 $ 	3,121,560 $ 	3,045,797 $
+Row:1,367,725 	1,323,619 	1,357,272
+Row:1,979,719 	1,797,941 	1,688,525
+Row:155,394 	164,693 	177,143
+Row:478,177 	437,977 	410,558
+Row:567,805 	511,634 	467,960
+Row:1,201,376 	1,114,304 	1,055,661
+Row:778,343 	683,637 	632,864
+Row:Net sales 	3,347,444 $ 	$ 	3,121,560 	$
+	3,045,797 Row:Cost of goods sold 	1,367,725 		1,323,619 		1,357,272
+Row:Gross profit 	1,979,719 		1,797,941 		1,688,525
+Row:Advertising expense 	155,394 		164,693 		177,143
+Row:Selling, general and administrative expenses 	478,177 		437,977 		410,558
+Row:Research and development expense 	567,805 1,201,376 		511,634 1,114,304 		467,960
+1,055,661
+Row:Operating income 	778,343 		683,637 		632,864
+Row:Other income (expense):
+					Row:Interest income 	47,147 		36,925 		33,406
+Row:Foreign currency losses 	(7,616) 		(22,579) 		(31,651)
+Row:Other income (expense) 	5,373 		(912) 		4,006
+Row:Income before income taxes 	44,904 823,247 		13,434 697,071 		5,761
+638,625
+Row:Income tax provision (benefit): (Note 6)
+					Row:Current 	93,424 		79,234 		117,842
+Row:Deferred 	35,743 129,167 		(91,170) (11,936) 		3,059
+120,901
+Row:Net income 	694,080 $ 	$ 	709,007 	$
+	517,724 Row:Basic net income per share (Note 10) 	3.68 $ 	$ 	3.77 	$
+	2.74 Row:Diluted net income per share (Note 10) 	3.66 $ 	$ 	3.76 	$
+	2.73 Row:See accompanying notes.
+					Row:Interest income 	47,147 	36,925 	33,406
+Row:Foreign currency losses 	(7,616) 	(22,579) 	(31,651)
+Row:Other income (expense) 	5,373 44,904 	(912) 13,434 	4,006
+5,761
+Row:Income before income taxes 	823,247 	697,071 	638,625
+Row:35,743 	(91,170) 	3,059
+Row:129,167 	(11,936) 	120,901
+Row:694,080 $ 	709,007 $ 	517,724 $
+Row:December 29, 	December 30, 	December 31,
+Row:2018 	2017 	2016
+Row:Operating Activities:
+Net income $ 	694,080 	709,007 $ 	517,724 $
+Row:Adjustments to reconcile net income to net cash provided
+			Row:by operating activities:
+			Row:Depreciation 	64,798 	59,895 	55,796
+Row:Amortization 	31,396 	26,357 	30,544
+Row:Gain on sale of property and equipment 	(479) 	(230) 	(503)
+Row:Provision for doubtful accounts 	2,123 	1,021 	4,136
+Row:Provision for obsolete and slow-moving inventories 	24,579 	31,071 	26,458
+Row:Unrealized foreign currency losses 	13,790 	21,681 	13,125
+Row:Deferred income taxes 	38,978 	(90,000) 	3,745
+Row:Stock compensation expense 	56,391 	44,735 	41,250
+Row:Realized losses (gains) on marketable securities 	827 	991 	(822)
+Row:Changes in operating assets and liabilities, net of acquisitions:
+			Row:Accounts receivable 	5,167 	(40,088) 	9,000
+Row:Inventories 	(82,316) 	(38,575) 	(2,455)
+Row:Other current and non-current assets 	7,358 	(21,608) 	2,234
+Row:Accounts payable 	40,628 	(17,240) 	(11,496)
+Row:Other current and non-current liabilities 	(1,323) 	5,627 	44,766
+Row:Deferred revenue 	(17,208) 	(20,754) 	(32,733)
+Row:Deferred costs 	5,611 	2,395 	1,896
+Row:Income taxes payable 	35,120 	(13,443) 	3,017
+Row:Net cash provided by operating activities 	919,520 	660,842 	705,682
+Row:Inventories 	(82,316) 	(38,575) 	(2,455)
+Row:Other current and non-current assets 	7,358 	(21,608) 	2,234
+Row:Accounts payable 	40,628 	(17,240) 	(11,496)
+Row:Other current and non-current liabilities 	(1,323) 	5,627 	44,766
+Row:Deferred revenue 	(17,208) 	(20,754) 	(32,733)
+Row:Deferred costs 	5,611 	2,395 	1,896
+Row:Income taxes payable 	35,120 	(13,443) 	3,017
+Row:provided by operating activities 	919,520 	660,842 	705,682
+Row:Purchases of property and equipment 	(155,755) 	(139,696) 	(90,960)
+Row:Proceeds from sale of property and equipment 	1,600 	361 	676
+Row:Purchase of intangible assets 	(4,600) 	(12,232) 	(5,715)
+Row:Purchase of marketable securities 	(403,181) 	(587,656) 	(905,089)
+Row:Redemption of marketable securities 	283,603 	635,311 	957,350
+Row:Acquisitions, net of cash acquired 	(29,170) 	(90,471) 	(77,945)
+Row:Net cash used in investing activities 	(307,503) 	(194,383) 	(121,683)
+Row:Dividends 	(296,148) 	(382,976) 	(481,452)
+Row:Tax benefit from issuance of equity awards 	- 	- 	1,692
+Row:Proceeds from issuance of treasury stock related to equity awards 	26,642 	21,860 	18,648
+Row:Purchase of treasury stock related to equity awards 	(16,655) 	(12,773) 	(7,331)
+Row:Purchase of treasury stock under share repurchase plan 	- 	(74,523) 	(93,233)
+Row:Net cash used in financing activities 	(286,161) 	(448,412) 	(561,676)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(15,810) 	26,716 	(8,656)
+Row:Net increase in cash, cash equivalents, and restricted cash 	310,046 	44,763 	13,667
+Row:Cash, cash equivalents, and restricted cash at beginning of year 	891,759 	846,996 	833,329
+Row:Cash, cash equivalents, and restricted cash at end of year 	1,201,805 $ 	891,759 $ 	846,996 $

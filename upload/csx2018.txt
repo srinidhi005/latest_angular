@@ -1,0 +1,115 @@
+Row:	2018 	2017 	2016
+Row:Revenue Expense
+	$ 12,250 $ 	11,408 	$ 11,069
+Row:Labor and Fringe 	2,738 	2,946 	3,135
+Row:Materials, Supplies and Other 	1,967 	2,113 	2,092
+Row:Depreciation 	1,331 	1,315 	1,301
+Row:Fuel 	1,046 	864 	713
+Row:Equipment and Other Rents 	395 	429 	465
+Row:Restructuring Charge (Note 1) 	— 	240 	—
+Row:Equity Earnings of Affiliates 	(96) 	(219) 	(50)
+Row:Total Expense 	7,381 	7,688 	7,656
+Row:Operating Income 	4,869 	3,720 	3,413
+Row:Interest Expense 	(639) 	(546) 	(579)
+Row:Debt Repurchase Expense Restructuring Charge - Non-Operating (Note 1) Other Income - Net (Note 10) 	— — 74 	— (85) 53 	(115)
+—
+22
+Row:Earnings Before Income Taxes Income Tax (Expense) Benefit (Note 11) 	4,304 (995) 	3,142 2,329 	2,741
+(1,027)
+Row:Net Earnings 	$ 3,309 $ 	5,471 	$ 1,714
+Row:Per Common Share (Note 2)
+			Row:Net Earnings Per Share
+			Row:Basic Assuming Dilution 	$ 3.86 $ $ 3.84 $ 	6.01 5.99 	$ 1.81
+$ 1.81
+Row:Average Common Shares Outstanding (Millions)
+			Row:Basic 	857 	911 	947
+Row:Assuming Dilution 	861 	914 	948
+Row:Cash Dividends Paid Per Common Share 	$ 0.88 $ 	0.78 	$ 0.72
+Row:Certain prior year data has been reclassified to conform See accompanying Notes to Consolidated 	to the current Financial Statements.
+	presentation.
+	Row:December 	December
+Row:2018 	2017
+Row:ASSETS
+		Row:Current Assets:
+Cash and Cash Equivalents (Note 1) 	$ 858 $ 	401
+Row:Short-term Investments 	253 	18
+Row:Accounts Receivable - Net (Note 1) 	1,010 	970
+Row:Materials and Supplies 	263 	372
+Row:Other Current Assets 	181 	154
+Row:Total Current Assets 	2,565 	1,915
+Row:Properties 	44,805 	44,324
+Row:Accumulated Depreciation 	(12,807) 	(12,560)
+Row:Properties - Net (Note 6) 	31,998 	31,764
+Row:Investment in Conrail (Note 12) 	943 	907
+Row:Affiliates and Other Companies 	836 	779
+Row:Other Long-term Assets 	387 	374
+Row:Total Assets 	$ 36,729 $ 	35,739
+Row:LIABILITIES AND SHAREHOLDERS' EQUITY
+Current Liabilities:
+Accounts Payable 	$ 949 $ 	847
+Row:Other Long-term Assets 	387 	374
+Row:Total Assets 	$ 36,729 $ 	35,739
+Row:LIABILITIES AND SHAREHOLDERS' EQUITY
+Current Liabilities:
+		Row:Accounts Payable 	$ 949 $ 	847
+Row:Labor and Fringe Benefits Payable 	550 	602
+Row:Casualty, Environmental and Other Reserves (Note 5) 	113 	108
+Row:Current Maturities of Long-term Debt (Note 9) 	18 	19
+Row:Income and Other Taxes Payable 	106 	157
+Row:Other Current Liabilities 	179 	161
+Row:Total Current Liabilities 	1,915 	1,894
+Row:Casualty, Environmental and Other Reserves (Note 5) 	211 	266
+Row:Long-term Debt (Note 9) 	14,739 	11,790
+Row:Deferred Income Taxes - Net (Note 11) 	6,690 	6,418
+Row:Other Long-term Liabilities 	594 	650
+Row:Total Liabilities 	24,149 	21,018
+Row:Shareholders' Equity:
+		Row:Common Stock, $1 Par Value (Note 3) 	818 	890
+Row:Other Capital 	249 	217
+Row:Retained Earnings (Note 1) 	12,157 	14,084
+Row:Accumulated Other Comprehensive Loss (Note 14) 	(661) 	(486)
+Row:Noncontrolling Minority Interest 	17 	16
+Row:Total Shareholders' Equity 	12,580 	14,721
+Row:Total Liabilities and Shareholders' Equity 	$ 36,729 $ 	35,739
+Row:OPERATING ACTIVITIES
+Net Earnings $ Adjustments to Reconcile Net Earnings to Net Cash
+Provided by Operating Activities:
+	2018 3,309 $ 	2017 2016
+5,471 $ 1,714
+Row:Depreciation 	1,331 	1,315 1,301
+Row:Restructuring Charge (Note 1) 	— 	325 —
+Row:Cash Payments for Restructuring Charge Deferred Income Taxes 	(15) 279 	(187) —
+(3,233) 405
+Row:Earnings of Equity-method Investments 	(96) 	(219) (50)
+Row:Contributions to Qualified Pension Plans (Note 8) 	— 	— (250)
+Row:Gain on Property Dispositions 	(154) 	(18) (128)
+Row:Other Operating Activities 	(21) 	(17) (20)
+Row:Changes in Operating Assets and Liabilities:
+		Row:Accounts Receivable 	(46) 	(70) 84
+Row:Other Current Assets 	101 	1 (113)
+Row:Accounts Payable 	104 	41 40
+Row:Income and Other Taxes Payable Other Current Liabilities 	(104) (47) 	20 23
+43 35
+Row:Net Cash Provided by Operating Activities 	4,641 	3,472 3,041
+Row:INVESTING ACTIVITIES
+		Row:Property Additions 	(1,745) 	(2,040) (2,398)
+Row:Purchase of Short-term Investments 	(736) 	(782) (929)
+Row:Proceeds from Sales of Short-term Investments 	505 	1,193 1,325
+Row:Proceeds from Property Dispositions 	319 	97 195
+Row:Other Investing Activities 	(27) 	37 9
+Row:Net Cash Used in Investing Activities 	(1,684) 	(1,495) (1,798)
+Row:FINANCING ACTIVITIES
+Long-term Debt Issued (Note 9) 	3,000 	850 2,200
+Row:Long-term Debt Repaid (Note 9) 	(19) 	(333) (1,419)
+Row:Dividends Paid 	(751) 	(708) (680)
+Row:Shares Repurchased 	(4,671) 	(1,970) (1,056)
+Row:Other Financing Activities 	(59) 	(18) (313)
+Row:Net Cash Used in Financing Activities 	(2,500) 	(2,179) (1,268)
+Row:Net Increase (Decrease) in Cash and Cash Equivalents CASH AND CASH EQUIVALENTS
+Cash and Cash Equivalents at Beginning of Period 	457 401 	(202) (25)
+603 628
+Row:Cash and Cash Equivalents at End of Period $ 	858 $ 	401 $ 603
+Row:SUPPLEMENTAL CASH FLOW INFORMATION
+		Row:Interest Paid - Net of Amounts Capitalized $ 	614 $ 	555 $ 606
+Row:Income Taxes Paid $ Certain prior year data has been reclassified to conform to 	814 $ the current 	911 $ 580
+presentation.

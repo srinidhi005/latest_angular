@@ -1,0 +1,42 @@
+Row:Current assets:		Row:Cash and cash equivalents	4,054 $ 	2,343Row:Investment securities	10,972	10,026Row:Receivables, less allowance for doubtful accountsof $69 in 2019 and $79 in 2018	1,056	1,015Row:Other current assets	3,806	3,564Row:Total current assets	19,888	16,948Row:Property and equipment, net	1,955	1,735Row:Long-term investment securities	406	411Row:Goodwill	3,928	3,897Row:Equity method investment in Kindred at Home	1,063	1,047Row:Other long-term assets	1,834	1,375Row:Total assets	29,074 $	25,413Row:LIABILITIES AND STOCKHOLDERS' EQUITY		Row:Current liabilities:		Row:Benefits payable	6,004 $	4,862Row:Trade accounts payable and accrued expenses	3,754	3,067Row:Book overdraft	225	171Row:Unearned revenues	247	283Row:Short-term debt	699	1,694Row:Total current liabilities	10,929	10,077Row:Long-term debt	4,967	4,375Row:Future policy benefits payable	206	219Row:Other long-term liabilities	935	581Row:Total liabilities	17,037	15,252Row:Commitments and contingencies (Note 17)		Row:Common stock, $0.16 2/3 par; 300,000,000 shares authorized;198,629,992 shares issued at December 31, 2019 and 198,594,841shares issued at December 31, 2018	3333Row:Capital in excess of par value	2,8202,535Row:Retained earnings	17,48315,072Row:Accumulated other comprehensive income (loss)	156(159)Row:Treasury stock, at cost, 66,524,771 shares at December 31, 2019and 63,028,169 shares at December 31, 2018	(8,455)(7,320)Row:Total stockholders' equity	12,03710,161Row:Total liabilities and stockholders' equity	29,074 $ 25,413Row:	(in millions, 	except per share results)
+	Row:Revenues:
+			Row:Premiums 	$ 62,948 $ 	54,941 $ 	52,380
+Row:Services 	1,439 	1,457 	982
+Row:Investment income 	501 	514 	405
+Row:Total revenues 	64,888 	56,912 	53,767
+Row:Operating expenses:
+			Row:Benefits 	53,857 	45,882 	43,496
+Row:Operating costs 	7,381 	7,525 	6,567
+Row:Merger termination fee and related costs, net 	— 	— 	(936)
+Row:Depreciation and amortization 	458 	405 	378
+Row:Total operating expenses 	61,696 	53,812 	49,505
+Row:Income from operations 	3,192 	3,100 	4,262
+Row:Loss on sale of business 	— 	786 	—
+Row:Interest expense 	242 	218 	242
+Row:Other (income) expense, net 	(506) 	33 	—
+Row:Income before income taxes and equity in net earnings 	3,456 	2,063 	4,020
+Row:Provision for income taxes 	763 	391 	1,572
+Row:Equity in net earnings of Kindred at Home 	14 	11 	—
+Row:Net income 	$ 2,707 $ 	1,683 $ 	2,448
+Row:Basic earnings per common share 	$ 20.20 $ 	12.24 $ 	16.94
+Row:Diluted earnings per common share 	$ 20.10 $ 	12.16 $ 	16.81
+Row:Cash flows from operating activitiesNet incomeAdjustments to reconcile net income to net cash provided byoperating activities:	2,707 $
+	(in millions)
+1,683
+	2,448
+Row:Loss on sale of business		786	Row:Net realized capital gains	(62)	(90)	(14)
+Row:Equity in net earnings of Kindred at Home	(14)	(11)	Row:Stock compensation	163	137	157Row:Depreciation	505	444	410Row:Amortization	70	90	75Row:Provision for deferred income taxes	162
+	194
+	132
+Row:Changes in operating assets and liabilities, net of effect ofbusinesses acquired and dispositions:			Row:Receivables	(32)	(164)	426Row:Other assets	118	(484)	(582)Row:Benefits payable	1,142	252	105Row:Other liabilities	471	(676)	641Row:Unearned revenues	(36)	(95)	98Row:Other	90	107	155Row:Net cash provided by operating activities	5,284
+	2,173
+	4,051
+Row:Cash flows from investing activities			Row:Acquisitions, net of cash acquiredPurchase of equity method investment in Kindred at Home		(354)(1,095)	(31)
+Row:Cash transferred in sale of businessPurchases of property and equipment	(736)	(805)(612)	(524)Row:Purchases of investment securities	(6,361)	(4,687)	(6,265)Row:Maturities of investment securities	1,733	972	1,111Row:Proceeds from sales of investment securities	4,086	3,494	2,768Row:Net cash used in investing activities	(1,278)
+	(3,087)
+	(2,941)
+Row:Cash flows from financing activities			Row:(Receipts) withdrawals from contract deposits, net	(623)	(640)
+	1,823Row:Proceeds from issuance of senior notes, net	987		1,779Row:(Repayments) proceeds from issuance of commercial paper, netProceeds from term loan	(360)
+	4851,000	(153)
+Row:Repayment of term loan	(650)	(350)
+	Row:Repayment of long-term debt	(400)		(800)Row:Common stock repurchases	(1,070)	(1,090)	(3,365)Row:Dividends paid	(291)	(265)	(220)Row:Change in book overdraft	54	30	(71)Row:Proceeds from stock option exercises & other	58	45	62Row:Net cash used in financing activities	(2,295)	(785)	(945)Row:Increase (decrease) in cash and cash equivalents	1,711	(1,699)	165Row:Cash and cash equivalents at beginning of period	2.343	4,042	3,877

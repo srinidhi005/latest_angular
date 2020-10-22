@@ -1,0 +1,86 @@
+Row:Current assets:
+Cash and cash equivalents $ 	116.9 112.7
+Row:Trade accounts receivable, net of allowance for doubtful accounts of $11.9 and $11.2,
+respectively 	607.8 499.7
+Row:Inventories 	1,092.9 993.0
+Row:Prepaid income taxes 	— 12.9
+Row:Other current assets 	118.1 102.5
+Row:Total current assets 	1,935.7 1,720.8
+Row:Property and equipment, net 	893.6 899.7
+Row:Other assets 	81.2 48.4
+Row:Total assets $ 	2,910.5 2,668.9
+Row:Current liabilities:
+	Row:Current portion of debt $ 	3.0 10.5
+Row:Accounts payable 	147.5 108.8
+Row:Accrued expenses 	194.0 156.4
+Row:Income taxes payable 	6.5 —
+Row:Total current liabilities 	351.0 275.7
+Row:Long-term debt 	412.0 379.5
+Row:Deferred income tax liabilities 	50.6 80.6
+Row:Stockholders’ equity:
+Preferred stock: $0.01 par value, 5,000,000 shares authorized, no shares issued or
+outstanding 	— —
+Row:Common stock: $0.01 par value, 400,000,000 shares authorized, 287,591,536 and
+289,161,924 shares issued and outstanding, respectively 	2.9 2.9
+Row:Additional paid-in capital 	8.5 37.4
+Row:Retained earnings 	2,110.6 1,940.1
+Row:Accumulated other comprehensive loss 	(25.1) (47.3)
+Row:Total stockholders’ equity 	2,096.9 1,933.1
+Row:Total liabilities and stockholders’ equity $ 	2,910.5 2,668.9
+Row:	2017 	2016 	2015
+Row:Net sales $ 	4,390.5 	3,962.0 	3,869.2
+Row:Cost of sales 	2,226.9 	1,997.2 	1,920.3
+Row:Gross profit 	2,163.6 	1,964.8 	1,948.9
+Row:Operating and administrative expenses 	1,282.8 	1,169.5 	1,121.5
+Row:Gain on sale of property and equipment 	(1.0) 	(0.5) 	(1.4)
+Row:Operating income 	881.8 	795.8 	828.8
+Row:Interest income 	0.4 	0.4 	0.4
+Row:Interest expense 	(9.1) 	(6.5) 	(3.1)
+Row:Earnings before income taxes 	873.1 	789.7 	826.1
+Row:Income tax expense 	294.5 	290.3 	309.7
+Row:Net earnings $ 	578.6 	499.4 	516.4
+Row:Basic net earnings per share $ 	2.01 	1.73 	1.77
+Row:Diluted net earnings per share $ 	2.01 	1.73 	1.77
+Row:Basic weighted average shares outstanding 	288.2 	288.9 	291.5
+Row:Diluted weighted average shares outstanding 	288.3 	289.2 	292.0
+Row:Cash flows from operating activities:
+		Row:Net earnings $ 578.6 	499.4 	516.4
+Row:Adjustments to reconcile net earnings to net cash provided by
+operating activities, net of acquisitions:
+		Row:Depreciation of property and equipment 123.6 	103.5 	86.1
+Row:Gain on sale of property and equipment 	(1.0) (0.5) 	(1.4)
+Row:Bad debt expense Deferred income taxes Stock-based compensation 	8.2 8.6 (30.0) 25.6 5.2 4.1 	8.8
+8.3
+5.8
+Row:Amortization of intangible assets 	3.8 0.5 	0.5
+Row:Changes in operating assets and liabilities, net of acquisitions:
+		Row:Trade accounts receivable (103.7) 	(40.5) 	(20.6)
+Row:Inventories 	(76.3) (80.9) 	(47.8)
+Row:Other current assets 	(15.6) 29.1 	(15.8)
+Row:Accounts payable 	36.3 (17.2) 	20.6
+Row:Accrued expenses 	37.6 (28.6) 	11.1
+Row:Income taxes 	19.4 15.5 	(26.6)
+Row:Other 	(0.9) 1.3 	4.9
+Row:Net cash provided by operating activities 585.2 	519.9 	550.3
+Row:Cash flows from investing activities:
+		Row:Purchases of property and equipment (119.9) 	(189.5) 	(155.2)
+Row:Proceeds from sale of property and equipment 	7.4 6.5 	9.9
+Row:Cash paid for acquisitions Other 	(58.7) — (8.1) (5.1) 	(23.5)
+(11.8)
+Row:Net cash used in investing activities (179.3) 	(188.1) 	(180.6)
+Row:Cash flows from financing activities:
+		Row:Proceeds from debt obligations 1,015.0 	950.0 	1,215.0
+Row:Payments against debt obligations (980.0) 	(920.0) 	(955.0)
+Row:Proceeds from exercise of stock options 	9.5 29.3 	19.1
+Row:Purchases of common stock 	(82.6) (59.5) 	(292.9)
+Row:Payments of dividends (369.1) 	(346.6) 	(327.1)
+Row:Net cash used in financing activities (407.2) 	(346.8) 	(340.9)
+Row:Effect of exchange rate changes on cash and cash equivalents 	5.5 (1.3) 	(14.2)
+Row:Net increase (decrease) in cash and cash equivalents 	4.2 (16.3) 	14.6
+Row:Cash and cash equivalents at beginning of year 112.7 	129.0 	114.4
+Row:Cash and cash equivalents at end of year $ 116.9 	112.7 	129.0
+Row:Supplemental disclosure of cash flow information:
+Cash paid for interest $ Net cash paid for income taxes $ 304.1 	8.7 6.2 248.3 	3.1
+327.0
+Row:See accompanying Notes to Consolidated Financial 	Statements.
+	

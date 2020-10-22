@@ -1,0 +1,98 @@
+Row:(in millions, except per share amounts) 	2019 	2018
+January 31,
+Row:ASSETS
+Current assets:
+		Row:Cash and cash equivalents $ 	792.6 	$ 970.7
+Row:Short-term investments 	62.7 	320.5
+Row:Accounts receivable, net 	245.4 	231.2
+Row:Inventories, net 	2,428.0 	2,253.5
+Row:Prepaid expenses and other current assets 	230.8 	207.4
+Row:Total current assets 	3,759.5 	3,983.3
+Row:Property, plant and equipment, net Deferred income taxes Other assets, net 	1,026.7 215.8 331.0 	990.5
+188.2
+306.1
+Row:$ 	5,333.0 	$ 5,468.1
+Row:LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Short-term borrowings $ Accounts payable and accrued liabilities 	113.4 513.4 	$ 120.6
+437.4
+Row:Income taxes payable 	21.4 	89.4
+Row:Merchandise credits and deferred revenue 	69.9 	77.4
+Row:Total current liabilities 	718.1 	724.8
+Row:Long-term debt 	883.4 	882.9
+Row:Pension/postretirement benefit obligations Deferred gains on sale-leasebacks 	312.4 31.1 	287.4
+40.5
+Row:Other long-term liabilities 	257.1 	284.3
+Row:Commitments and contingencies
+Stockholders' equity:
+Preferred Stock, $0.01 par value; authorized 2.0 shares, none issued
+and outstanding 	— 	—
+Row:Common Stock, $0.01 par value; authorized 240.0 shares, issued and
+		Row:		Years Ended 	January 31,
+Row:(in millions, except per share amounts) 	2019 	2018 	2017
+Row:Net sales 	$ 4,442.1 $ 	4,169.8 $ 	4,001.8
+Row:Cost of sales 	1,631.1 	1,559.1 	1,502.8
+Row:Gross profit 	2,811.0 	2,610.7 	2,499.0
+Row:Selling, general and administrative expenses 	2,020.7 	1,801.3 	1,752.6
+Row:Earnings from operations 	790.3 	809.4 	746.4
+Row:Interest expense and financing costs 	39.7 	42.0 	46.0
+Row:Other expense, net 	7.1 	6.9 	23.8
+Row:Earnings from operations before income taxes 	743.5 	760.5 	676.6
+Row:Provision for income taxes 	157.1 	390.4 	230.5
+Row:Net earnings 	$ 586.4 $ 	370.1 $ 	446.1
+Row:Net earnings per share:
+Basic 	$ 4.77 $ 	2.97 $ 	3.57
+Row:Diluted 	$ 4.75 $ 	2.96 $ 	3.55
+Row:Weighted-average number of common shares:
+Basic 	122.9 	124.5 	125.1
+Row:Diluted See notes to consolidated financial statements.
+	123.5 	125.1 	125.5
+Row:(in millions) CASH FLOWS FROM OPERATING ACTIVITIES:
+	2019 	Years Ended 2018 	January 31,
+2017
+Row:Net earnings $ Adjustments to reconcile net earnings to net cash provided by operating activities:
+	586.4 $ 	370.1 	$ 446.1
+Row:Depreciation and amortization Amortization of gain on sale-leasebacks 	229.0 (8.4) 	206.9 (8.2) 	208.5
+(8.5)
+Row:Provision for inventories Deferred income taxes Provision for pension/postretirement benefits 	54.4 (21.3) 35.7 	28.9 96.8 35.0 	19.2
+46.1
+45.4
+Row:Share-based compensation expense 	34.1 	28.0 	24.3
+Row:Loan impairment charges Asset impairment charges 	— — 	3.0 10.0 	12.6
+25.4
+Row:Gains on sales of marketable securities 	2.3 	(3.5) 	—
+Row:Changes in assets and liabilities:
+			Row:Accounts receivable Inventories Prepaid expenses and other current assets 	(30.8) (270.5) (11.3) 	7.0 (52.9) (28.8) 	(19.2)
+54.8
+33.6
+Row:Other assets, net 	(22.2) 	(3.7) 	0.8
+Row:Accounts payable and accrued liabilities 	53.7 	98.8 	(21.7)
+Row:Income taxes payable 	(104.6) 	149.7 	(39.3)
+Row:Merchandise credits and deferred revenue 	(1.0) 	6.2 	1.5
+Row:Other long-term liabilities 	6.3 	(11.1) 	(123.9)
+Row:Net cash provided by operating activities 	531.8 	932.2 	705.7
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchases of marketable securities and short-term investments Proceeds from sales of marketable securities and short-term investments 	(154.1) 394.1 	(598.0) 351.4 	(125.5)
+109.8
+Row:Capital expenditures Other, net 	(282.1) 12.2 	(239.3) 4.8 	(222.8)
+1.7
+Row:Net cash used in investing activities 	(29.9) 	(481.1) 	(236.8)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+(Repayment of) proceeds from credit facility borrowings, net 	(18.4) 	(67.8) 	14.2
+Row:Proceeds from other credit facility borrowings 	49.3 	39.2 	76.8
+Row:Repayment of other credit facility borrowings 	(32.0) 	(96.1) 	(83.1)
+Row:Proceeds from the issuance of long-term debt 	— 	— 	98.1
+Row:Repayment of long-term debt 	— 	— 	(97.1)
+Row:Repurchase of Common Stock 	(421.4) 	(99.2) 	(183.6)
+Row:Proceeds from exercised stock options 	23.1 	54.6 	15.3
+Row:Payments related to tax withholding for share-based payment arrangements 	(8.6) 	(8.7) 	(2.9)
+Row:Cash dividends on Common Stock 	(263.8) 	(242.6) 	(218.8)
+Row:Distribution to non-controlling interest 	(0.3) 	(0.5) 	(3.8)
+Row:Financing fees Net cash used in financing activities 	(2.2) (674.3) 	— (421.1) 	(1.5)
+(386.4)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(5.7) 	12.7 	1.9
+Row:Net (decrease) increase in cash and cash equivalents 	(178.1) 	42.7 	84.4
+Row:Cash and cash equivalents at beginning of year 	970.7 	928.0 	843.6
+Row:Cash and cash equivalents at end of year $ 	792.6 $ 	970.7 	$ 928.0
+Row:See notes to consolidated financial statements.
+			

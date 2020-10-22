@@ -1,0 +1,364 @@
+Row:Balance Sheets
+December 31,
+		2017
+2016
+Row:Assets
+		Row:Current assets:
+Cash
+		1,706,690
+584,097
+Row:Accounts receivable, net
+		1,051,160
+676,189
+Row:Inventories, net
+		51,125
+m
+Row:Prepaid expenses
+		176,951
+o
+Row:Total current assets
+		1,488,362
+in
+.
+e
+c
+1
+Z
+Row:Property and equipment, net
+		6
+0
+n
+173,816
+Row:Intangible assets, net
+Total assets
+	e
+	.
+a
+z
+39,955
+z
+9
+:
+1
+2
+3,150,595
+1,702,133
+Row:Liabilities and members' deficit
+	t
+e
+m
+n
+0
+t
+ia
+l
+	:
+2
+3
+Row:Current liabilities:
+Accounts payable
+f
+	a
+2
+4
+T
+n
+e
+id
+a
+v
+	94,631
+153,877
+Row:Accrued expenses
+n
+	-
+7
+	374,856
+297,125
+Row:Current portion of term loan
+o
+	@
+x
+-
+0
+	551,169
+863,334
+Row:Total current liabilities
+C
+f
+n
+Long term liabilities:
+Long-term portion of term loan
+	o
+8
+1
+0
+2
+	1,020,656
+1,314,336
+2,150,128
+2,587,454
+Row:Subordinated convertible debt - related party
+		2,400,000
+2,400,000
+Row:Deferred rent
+		82,467
+86,071
+Row:Total liabilities
+		5,653,251
+6,387,861
+Row:Members' deficit:
+		Row:Preferred member
+		2,086,891
+2,086,891
+Row:Common members
+		4,950,577
+2,767,505
+Row:Deemed dividend to former affiliate
+		(9,540,124)
+(9,540,124)
+Row:Total members' deficit
+		(2,502,656)
+(4,685,728)
+Row:Total liabilities and members' deficit
+		3,150,595
+$
+1,702,133
+Row:Current liabilities:
+Accounts payable
+	n
+a
+2
+4
+T
+n
+f
+e
+id
+a
+v
+-
+	94,631
+	153,877
+Row:Accrued expenses
+	n
+@
+7
+	374,856
+	297,125
+Row:Current portion of term loan
+	o
+x
+-
+0
+	551,169
+	863,334
+Row:Total current liabilities
+	C
+f
+n
+o
+8
+1
+0
+	1,020,656
+	1,314,336
+Row:For the Years Ended December 31,
+	2017
+	2016
+Row:Revenue, net
+	$ 10,507,238
+	$
+7,583,088
+Row:Cost of revenue
+	4,818,568
+	4,500,851
+Row:Gross profit
+	5,688,670
+	3,082,237
+Row:Selling, general and administrative expenses
+	c
+m
+o
+	1,768,880
+Row:Operating income
+	in
+e
+.
+0
+Z
+1
+	1,313,357
+Row:Other income and expense
+	n
+a
+6
+.
+	Row:Other income
+	z
+1
+42,693
+2
+	17,399
+Row:Interest expense
+	z
+e
+9
+:
+(357,148)
+	(396,652)
+Row:l
+	:
+3
+m
+(314,455)
+	(379,253)
+Row:t
+i
+a
+Net income
+n
+e
+id
+v
+a
+a
+	t
+n
+T
+2
+e
+4
+2
+0
+2$
+3,513,072
+	934,104
+Row:Statements of Cash Flows
+For the Years Ended December 31,
+	2017
+	2016
+Row:Cash flows from operating activities:
+Net income
+	3,513,072
+	934,104
+Row:Adjustments to reconcile net income to net cash
+provided by operating activities:
+Depreciation and amortization
+	61,278
+	74,345
+Row:Impairment on intangible assets
+Gain on sale of equipment
+Change in other operating assets and liabilities:
+	.
+c
+m
+o
+Z
+	11,050
+(6,467)
+Row:Accounts receivable
+	e
+1
+	142,170
+Row:in
+Inventories
+Prepaid expenses
+n
+a
+	0
+6
+.
+	(10,940)
+(52,777)
+Row:Accounts payable
+z
+	1
+2
+	113,826
+Row:Accrued expenses
+z
+e
+:
+9
+	77,730
+	(81,287)
+Row::
+2
+3
+Deferred rent
+Net cash provided by operating activities
+m
+e
+ia
+l
+	(3,604)
+3,235,774
+	11,139
+1,135,163
+Row:Cash flows from investing activities:
+Proceeds from the sale of equipment
+t
+e
+id
+n
+v
+a
+a
+t
+n
+4
+2
+T
+0
+		20,000
+Row:Purchase of property and 
+equipment
+n
+f
+-
+	(33,690)
+	(52,815)
+Row:o
+@
+x
+Net cash used in investing activities
+0
+7
+	(33,690)
+	(32,815)
+Row:f
+n
+o
+0
+2
+1
+-
+8
+Cash flows from financing activities:
+C
+Principal payments on term loan
+Distributions to members
+line of credit
+	(749,491)
+(1,330,000)
+	(824,930)
+(480,102)
+Row:Payments on revolving 		(40,000)
+Row:Net cash used in financing activities
+	(2,079,491)
+	(1,345,032)
+Row:Net increase (decrease) in cash
+	1,122,593
+	(242,684)
+Row:Cash, at beginning of the year
+	584,097
+	826,781
+Row:Cash, at end of year
+	1,706,690
+	584,097
+Row:Supplemental disclosure of cash flow information:
+		Row:Cash paid during the year for:
+Interest
+	358,403
+	398,065

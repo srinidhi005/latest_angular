@@ -1,0 +1,133 @@
+Row:Current assets:
+Cash and cash equivalents 	$ 4,655 	$ 3,361
+Row:Accounts receivable 	2,391 	2,434
+Row:Inventories 	9,646 	9,929
+Row:Prepaid expenses and other assets 	6,474 	6,258
+Row:Income tax receivable 	185 	76
+Row:Total current assets 	23,351 	22,058
+Row:Property and equipment, net 	138,774 	152,593
+Row:Goodwill 	6,400 	6,400
+Row:Intangibles, net 	1,291 	1,565
+Row:Other assets, net 	2,216 	2,617
+Row:Total long-term assets 	148,681 	163,175
+Row:Total assets 	$ 172,032 	$ 185,233
+Row:Liabilities and Stockholders’ Equity
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 7,854 	$ 10,929
+Row:Accrued payroll and benefits 	13,391 	11,719
+Row:Accrued expenses and other current liabilities 	11,183 	21,221
+Row:Current portion of long-term debt 	719 	—
+Row:Current liabilities:
+Accounts payable $ 	7,854 	$ 10,929
+Row:Accrued payroll and benefits 	13,391 	11,719
+Row:Accrued expenses and other current liabilities 	11,183 	21,221
+Row:Current portion of long-term debt 	719 	—
+Row:Total current liabilities 	33,147 	43,869
+Row:Long-term debt, net 	44,183 	57,624
+Row:Deferred rent 	37,334 	38,872
+Row:Deferred tax liabilities, net 	133 	416
+Row:Other long-term liabilities 	4,554 	8,591
+Row:Total liabilities 	119,351 	149,372
+Row:Commitments and contingencies
+		Row:2019 and January 2, 2018; 46,353,309 issued and 43,929,438 outstanding as of
+January 1, 2019 and 43,550,329 issued and 41,126,458 outstanding as of January
+2, 2018 	464 436
+Row:Treasury stock, at cost, 2,423,871 shares as of January 1, 2019 and January 2, 2018,
+respectively 	(35,000) (35,000)
+Row:Additional paid-in capital 	198,352 171,613
+Row:Accumulated deficit 	(111,135) (101,188)
+Row:Total stockholders’ equity 	52,681 35,861
+Row:Total liabilities and stockholders’ equity $ 	172,032 $ 185,233
+Row:	January 1,
+2019
+	January 2,
+2018
+	January 3,
+2017
+Row:Revenue:
+			Row:Restaurant revenue 	$ 453,671 	$ 451,599 	$ 482,544
+Row:Franchising royalties and fees 	4,170 	4,893 	4,930
+Row:Total revenue 	457,841 	456,492 	487,474
+Row:Costs and expenses:
+			Row:Restaurant operating costs (exclusive of depreciation and amortization shown
+separately below):
+			Row:Cost of sales 	121,102 	121,473 	130,630
+Row:Labor 	149,746 	150,161 	161,219
+Row:Occupancy 	49,020 	51,877 	55,912
+Row:Other restaurant operating costs 	65,575 	64,091 	73,011
+Row:General and administrative 	46,092 	39,746 	55,654
+Row:Depreciation and amortization 	22,872 	24,613 	28,134
+Row:Pre-opening 	50 	935 	3,131
+Row:Restaurant impairments, closure costs and asset disposals 	7,142 	37,446 	47,311
+Row:Total costs and expenses 	461,599 	490,342 	555,002
+Row:Loss from operations 	(3,758) 	(33,850) 	(67,528)
+Row:Loss on extinguishment of debt 	626 	— 	—
+Row:Interest expense, net 	4,305 	3,839 	2,916
+Row:Loss before income taxes 	(8,689) 	(37,689) 	(70,444)
+Row:(Benefit) provision for income taxes 	(248) 	(207) 	1,233
+Row:Net loss 	(8,441) 	(37,482) 	(71,677)
+Row:Accretion of preferred stock to redemption value 	— 	(7,967) 	—
+Row:Net loss attributable to common stockholders 	$ (8,441) 	$ (45,449) 	$ (71,677)
+Row:Loss per Class A and Class B common stock, combined
+			Row:Basic 	$ (0.20) 	$ (1.20) 	$ (2.58)
+Row:Diluted 	$ (0.20) 	$ (1.20) 	$ (2.58)
+Row:Weighted average Class A and Class B common stock outstanding, combined
+Basic 	42,329,556 	37,759,497 	27,808,708
+Row:Diluted 	42,329,556 	37,759,497 	27,808,708
+Row:See accompanying notes to consolidated financial 	statements.
+		Row:Cost of sales 	121,102 	121,473 	130,630
+Row:Labor 	149,746 	150,161 	161,219
+Row:Occupancy 	49,020 	51,877 	55,912
+Row:Other restaurant operating costs 	65,575 	64,091 	73,011
+Row:Basic 	$ (0.20) $ 	(1.20) 	$ (2.58)
+Row:Diluted 	$ (0.20) $ 	(1.20) 	$ (2.58)
+Row:Weighted average Class A and Class B common stock outstanding, combined
+			Row:Basic 	42,329,556 	37,759,497 	27,808,708
+Row:Diluted 	42,329,556 	37,759,497 	27,808,708
+Row:	January 1,
+January 2,
+2019
+2018
+	January 3,
+2017
+Row:Operating activities
+		Row:Net loss 	$ (8,441) $ (37,482) 	$ (71,677)
+Row:Adjustments to reconcile net loss to net cash provided by operating activities:
+		Row:Depreciation and amortization 	22,872 24,613 	28,134
+Row:Deferred income taxes, net 	(283) (228) 	1,099
+Row:Restaurant impairments, closure costs and asset disposals 	6,992 30,859 	45,536
+Row:Loss on extinguishment of debt 	626 — 	—
+Row:Amortization of debt issuance costs 	607 465 	140
+Row:Stock-based compensation 	2,979 1,514 	2,319
+Row:Loss on liquidation of Canadian subsidiary Gain on insurance proceeds received for property damage 	— 70 (370) — 	—
+(494)
+Row:Changes in operating assets and liabilities:
+Accounts receivable 	91 2,976 	(443)
+Row:Inventories Prepaid expenses and other assets 	(541) (387) 185 332 	(790)
+162
+Row:Accounts payable 	(1,580) (1,302) 	(2,440)
+Row:Deferred rent 	(1,396) 1,597 	5,328
+Row:Income taxes 	(109) 180 	564
+Row:Accrued expenses and other liabilities 	(16,286) (19,105) 	17,299
+Row:Net cash provided by operating activities 	5,346 4,102 	24,737
+Row:Investing activities
+		Row:Purchases of property and equipment 	(14,338) (20,828) 	(43,335)
+Row:Insurance proceeds received for property damage 	500 — 	578
+Row:Net cash used in investing activities 	(13,838) (20,828) 	(42,757)
+Row:Financing activities
+		Row:Net repayments from swing line loan Proceeds from borrowings on long-term debt 	(101) (96) 74,889 10,532 	(1,649)
+19,800
+Row:Payments on long-term debt 	(87,030) (37,015) 	(1,000)
+Row:Debt issuance costs 	(1,713) (938) 	(347)
+Row:Issuance of preferred stock and common stock warrants, net of transaction
+expenses (see Note 8) 	— 16,589 	—
+Row:Issuance of common stock, net of transaction expenses (see Note 8) 	22,992 29,110 	—
+Row:Proceeds from exercise of stock options and employee stock purchase plan 	749 83 	1,100
+Row:Net cash provided by financing activities 	9,786 18,265 	17,904
+Row:Effect of exchange rate changes on cash 	— (15) 	41
+Row:Net increase (decrease) in cash and cash equivalents 	1,294 1,524 	(75)
+Row:Cash and cash equivalents
+		Row:Beginning of year 	3,361 1,837 	1,912
+Row:End of year 	$ 4,655 $ 3,361 	$ 1,837
+Row:See accompanying notes to consolidated financial 	statements.
+	

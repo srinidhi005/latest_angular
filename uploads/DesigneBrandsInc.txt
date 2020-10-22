@@ -1,0 +1,1373 @@
+Row		Fiscal
+	Row	2019 	2018 	2017
+RowNet sales 	$ 3,492,687 	$ 3,177,918 	$ 2,805,555
+RowCost of sales 	(2,493,017) 	(2,239,229) 	(2,006,423)
+RowOperating expenses 	(874,749) 	(820,222) 	(617,381)
+RowIncome from equity investment in ABG-Camuto 	10,149 	1,298 	—
+RowImpairment charges 	(7,771) 	(60,760) 	(89,440)
+RowChange in fair value of contingent consideration liability 	— 	— 	32,747
+RowOperating profit 	127,299 	59,005 	125,058
+RowInterest expense 	(8,914) 	(2,433) 	(488)
+RowInterest income 	1,559 	3,721 	3,277
+RowInterest income (expense), net 	(7,355) 	1,288 	2,789
+RowNon-operating expenses, net 	(170) 	(49,616) 	(1,885)
+RowIncome before income taxes and income (loss) from equity investment in TSL 	119,774 	10,677 	125,962
+RowIncome tax provision 	(25,277) 	(29,833) 	(59,567)
+RowIncome (loss) from equity investment in TSL 	— 	(1,310) 	1,057
+RowNet income (loss) 	$ 94,497 	$ (20,466) 	$ 67,452
+RowBasic and diluted earnings (loss) per share:
+			RowBasic earnings (loss) per share 	$ 1.28 	$ (0.26) 	$ 0.84
+RowDiluted earnings (loss) per share 	$ 1.27 	$ (0.26) 	$ 0.84
+RowWeighted average shares used in per share calculations:
+			RowBasic shares 	73,602 	80,026 	80,160
+RowDiluted shares 	74,605 	80,026 	80,687
+Row	February 1, 2020 	February 2, 2019
+RowASSETS
+		RowCash and cash equivalents 	$ 86,564 $ 	99,369
+RowInvestments 	24,974 	69,718
+RowAccounts receivable, net 	89,151 	68,870
+RowInventories 	632,587 	645,317
+RowPrepaid expenses and other current assets 	67,534 	71,945
+RowTotal current assets 	900,810 	955,219
+RowProperty and equipment, net 	395,009 	409,576
+RowOperating lease assets 	918,801 	—
+RowGoodwill 	113,644 	89,513
+RowIntangible assets 	22,846 	46,129
+RowDeferred tax assets 	31,863 	30,283
+RowEquity investment in ABG-Camuto 	57,760 	58,125
+RowOther assets 	24,337 	31,739
+RowTotal assets 	$ 2,465,070 $ 	1,620,584
+RowLIABILITIES AND SHAREHOLDERS' EQUITY
+		RowAccounts payable 	$ 299,072 $ 	261,625
+RowAccrued expenses 	194,264 	201,535
+RowCurrent operating lease liabilities 	186,695 	—
+RowTotal current liabilities 	680,031 	463,160
+RowDebt 	190,000 	160,000
+RowNon-current operating lease liabilities 	846,584 	—
+RowOther non-current liabilities 	27,541 	165,047
+RowTotal liabilities 	1,744,156 	788,207
+RowCommitments and contingencies
+		RowShareholders' equity:
+		RowCommon shares paid in-capital, no par value 	971,380 	953,801
+RowTreasury shares, at cost 	(515,065) 	(373,436)
+RowRetained earnings 	267,094 	254,718
+RowAccumulated other comprehensive loss 	(2,495) 	(2,706)
+RowTotal shareholders' equity 	720,914 	832,377
+RowTotal liabilities and shareholders' equity 	$ 2,465,070 $ 	1,620,584
+Row		Number of Shares
+				Amounts
+		Row	Class A
+common
+shares
+	Class B
+common
+shares
+	Treasury shares
+	Common shares paid in capital
+	Treasury shares
+	Retained
+earnings
+	Accumulated other comprehensive
+loss
+	Total
+RowBalance, January 28, 2017
+	72,447
+	7,733
+	12.591
+	921,358
+$
+	(316,531)
+	$
+351,350
+$
+	(13,941)
+	$
+942.236
+RowNet income
+						67,452
+		67,452
+RowStock-based compensation activity
+	347
+			14,894
+				14,894
+RowRepurchase of Class A common shares
+	(500)
+		500
+		(9,375)
+			(9,375)
+RowDividends paid ($0.80 per share)
+						(63,823)
+		(63,823)
+RowOther comprehensive income
+							3,867
+	3,867
+RowBalance, February 3, 2018
+	72,294
+	7,733
+	13.091
+	936,252
+	(325,906)
+	354,979
+	(10,074)
+	955,251
+RowNet loss
+						(20,466)
+		(20,466)
+RowStock-based compensation activity
+	378
+			17,549
+				17,549
+RowRepurchase of Class A common shares
+	(2,000)
+		2,000
+		(47,530)
+			(47,530)
+RowDividends paid ($1.00 per share)
+						(79,795)
+		(79,795)
+RowOther comprehensive income
+							7,368
+	7,368
+RowBalance, February 2, 2019
+	70,672
+	7,733
+	15.091
+	953,801
+	(373,436)
+	254,718
+	(2,706)
+	832,377
+RowCumulative effect of accounting change
+						(9,556)
+		(9,556)
+RowNet income
+						94,497
+		94,497
+RowStock-based compensation activity
+	439
+			17,579
+				17,579
+RowRepurchase of Class A common shares
+	(7,078)
+		7,078
+		(141,629)
+			(141,629)
+RowDividends paid ($1.00 per share)
+						(72,565)
+		(72,565)
+RowOther comprehensive income
+							211
+	211
+RowBalance, February 1, 2020
+	64,033
+	7,733
+	22.169
+	971,380
+	(515,065)
+	267,094
+	(2,495)
+	720,914
+Row	2019
+	2018
+	2017
+RowCash flows from operating activities:
+			RowNet income (loss)
+	$
+94,497
+	$
+(20,466)
+	$
+67,452
+RowAdjustments to reconcile net income (loss) to net cash provided by operating activities:
+			RowDepreciation and amortization
+	86,649
+	79,048
+	80,861
+RowStock-based compensation expense
+	17,059
+	17,393
+	14,704
+RowDeferred income taxes
+	(2,931)
+	(11,748)
+	(12,804)
+RowLoss (income) from equity investments
+	(10,149)
+	12
+	(1,057)
+RowDistributions received from equity investment
+	10.514
+		RowLoss on previously held equity investment in TSL and notes receivable from TSL
+		33,988
+	RowImpairment charges
+	7,771
+	60,760
+	89,440
+RowChange in fair value of contingent consideration liability
+			(32,747)
+RowLoss on foreign currency reclassified from accumulated other comprehensive loss
+		13,963
+	1,281
+RowOther
+	3,957
+	3,780
+	282
+RowChange in operating assets and liabilities:
+			RowAccounts receivable
+	265
+	36,151
+	(230)
+RowInventories
+	9,290
+	(4,162)
+	(1,908)
+RowPrepaid expenses and other current assets
+	(14,994)
+	(12,310)
+	(15,895)
+RowAccounts payable
+	36,995
+	(38,059)
+	(8,855)
+RowAccrued expenses
+	(26,595)
+	16,984
+	10,492
+RowOperating lease assets and liabilities, net
+	(15,621)
+		RowNet cash provided by operating activities
+	196,707
+	175,334
+	191.016
+RowCash flows from investing activities:
+			RowCash paid for property and equipment
+	(77,820)
+	(65,355)
+	(56,282)
+RowPurchases of available-for-sale investments
+	(20,973)
+	(16,735)
+	(133,153)
+RowSales of available-for-sale investments
+	66,389
+	71,136
+	187.866
+RowAdditional borrowings by TSL
+		(15,989)
+	(57,396)
+RowRepayments of borrowings by TSL
+		1,160
+	RowEquity investment in ABG-Camuto
+		(56,827)
+	RowWorking capital proceeds received (cash paid) for business acquisitions, net of cash acquired
+	4,965
+	(199,403)
+	RowNet cash used in investing activities
+	(27,439)
+	(282,013)
+	(58,965)
+RowCash flows from financing activities:
+			RowBorrowing on revolving line of credit
+	463,300
+	160,000
+	RowPayments on revolving line of credit
+	(433,300)
+		RowCash paid for treasury shares
+	(141,629)
+	(47,530)
+	(9,375)
+RowDividends paid
+	(72,565)
+	(79,795)
+	(63,823)
+RowOther
+	841
+	(2,711)
+	1,769
+RowNet cash provided by (used in) financing activities
+	(183,353)
+	29,964
+	(71,429)
+RowEffect of exchange rate changes on cash balances
+	81
+	1,351
+	RowNet increase (decrease) in cash, cash equivalents, and restricted cash
+	(14,004)
+	(75,364)
+	60,622
+RowCash, cash equivalents, and restricted cash, beginning of period
+	100,568
+	175,932
+	115,310
+RowCash, cash equivalents, and restricted cash, end of period
+	S
+86,564
+	100,568
+	175.932
+RowSupplemental disclosures of cash flow information:
+			RowCash paid for income taxes
+	$
+39,450
+	$
+41,695
+	$
+77,208
+RowCash paid terest on debt
+	$
+8,323
+	864
+	$
+RowCash paid for operating lease liabilities
+	$
+236,506
+	$
+	$
+RowNon-cash investing and financing activities:
+			RowProperty and equipment purchases not yet paid
+	$
+12,164
+	$
+13.537
+	$
+9,778
+RowOperating lease liabilities arising from lease asset additions (excluding ASU 2016-02 transition adjustments)
+	$
+24,137
+	$
+	$
+RowAdjustment to operating lease assets and lease liabilities for modifications
+	$
+71,945
+	$
+	$
+RowThe accompanying Notes are an integral part of the Consolidated Financial Statements.
+			Row		Fiscal
+	Row	2019 	2018 	2017
+RowNet sales 	$ 3,492,687 	$ 3,177,918 	$ 2,805,555
+RowCost of sales 	(2,493,017) 	(2,239,229) 	(2,006,423)
+RowOperating expenses 	(874,749) 	(820,222) 	(617,381)
+RowIncome from equity investment in ABG-Camuto 	10,149 	1,298 	—
+RowImpairment charges 	(7,771) 	(60,760) 	(89,440)
+RowChange in fair value of contingent consideration liability 	— 	— 	32,747
+RowOperating profit 	127,299 	59,005 	125,058
+RowInterest expense 	(8,914) 	(2,433) 	(488)
+RowInterest income 	1,559 	3,721 	3,277
+RowInterest income (expense), net 	(7,355) 	1,288 	2,789
+RowNon-operating expenses, net 	(170) 	(49,616) 	(1,885)
+RowIncome before income taxes and income (loss) from equity investment in TSL 	119,774 	10,677 	125,962
+RowIncome tax provision 	(25,277) 	(29,833) 	(59,567)
+RowIncome (loss) from equity investment in TSL 	— 	(1,310) 	1,057
+RowNet income (loss) 	$ 94,497 	$ (20,466) 	$ 67,452
+RowBasic and diluted earnings (loss) per share:
+			RowBasic earnings (loss) per share 	$ 1.28 	$ (0.26) 	$ 0.84
+RowDiluted earnings (loss) per share 	$ 1.27 	$ (0.26) 	$ 0.84
+RowWeighted average shares used in per share calculations:
+			RowBasic shares 	73,602 	80,026 	80,160
+RowDiluted shares 	74,605 	80,026 	80,687
+Row	February 1, 2020 	February 2, 2019
+RowASSETS
+		RowCash and cash equivalents 	$ 86,564 $ 	99,369
+RowInvestments 	24,974 	69,718
+RowAccounts receivable, net 	89,151 	68,870
+RowInventories 	632,587 	645,317
+RowPrepaid expenses and other current assets 	67,534 	71,945
+RowTotal current assets 	900,810 	955,219
+RowProperty and equipment, net 	395,009 	409,576
+RowOperating lease assets 	918,801 	—
+RowGoodwill 	113,644 	89,513
+RowIntangible assets 	22,846 	46,129
+RowDeferred tax assets 	31,863 	30,283
+RowEquity investment in ABG-Camuto 	57,760 	58,125
+RowOther assets 	24,337 	31,739
+RowTotal assets 	$ 2,465,070 $ 	1,620,584
+RowLIABILITIES AND SHAREHOLDERS' EQUITY
+		RowAccounts payable 	$ 299,072 $ 	261,625
+RowAccrued expenses 	194,264 	201,535
+RowCurrent operating lease liabilities 	186,695 	—
+RowTotal current liabilities 	680,031 	463,160
+RowDebt 	190,000 	160,000
+RowNon-current operating lease liabilities 	846,584 	—
+RowOther non-current liabilities 	27,541 	165,047
+RowTotal liabilities 	1,744,156 	788,207
+RowCommitments and contingencies
+		RowShareholders' equity:
+		RowCommon shares paid in-capital, no par value 	971,380 	953,801
+RowTreasury shares, at cost 	(515,065) 	(373,436)
+RowRetained earnings 	267,094 	254,718
+RowAccumulated other comprehensive loss 	(2,495) 	(2,706)
+RowTotal shareholders' equity 	720,914 	832,377
+RowTotal liabilities and shareholders' equity 	$ 2,465,070 $ 	1,620,584
+Row		Number of Shares
+				Amounts
+		Row	Class A
+common
+shares
+	Class B
+common
+shares
+	Treasury shares
+	Common shares paid in capital
+	Treasury shares
+	Retained
+earnings
+	Accumulated other comprehensive
+loss
+	Total
+RowBalance, January 28, 2017
+	72,447
+	7,733
+	12.591
+	921,358
+$
+	(316,531)
+	$
+351,350
+$
+	(13,941)
+	$
+942.236
+RowNet income
+						67,452
+		67,452
+RowStock-based compensation activity
+	347
+			14,894
+				14,894
+RowRepurchase of Class A common shares
+	(500)
+		500
+		(9,375)
+			(9,375)
+RowDividends paid ($0.80 per share)
+						(63,823)
+		(63,823)
+RowOther comprehensive income
+							3,867
+	3,867
+RowBalance, February 3, 2018
+	72,294
+	7,733
+	13.091
+	936,252
+	(325,906)
+	354,979
+	(10,074)
+	955,251
+RowNet loss
+						(20,466)
+		(20,466)
+RowStock-based compensation activity
+	378
+			17,549
+				17,549
+RowRepurchase of Class A common shares
+	(2,000)
+		2,000
+		(47,530)
+			(47,530)
+RowDividends paid ($1.00 per share)
+						(79,795)
+		(79,795)
+RowOther comprehensive income
+							7,368
+	7,368
+RowBalance, February 2, 2019
+	70,672
+	7,733
+	15.091
+	953,801
+	(373,436)
+	254,718
+	(2,706)
+	832,377
+RowCumulative effect of accounting change
+						(9,556)
+		(9,556)
+RowNet income
+						94,497
+		94,497
+RowStock-based compensation activity
+	439
+			17,579
+				17,579
+RowRepurchase of Class A common shares
+	(7,078)
+		7,078
+		(141,629)
+			(141,629)
+RowDividends paid ($1.00 per share)
+						(72,565)
+		(72,565)
+RowOther comprehensive income
+							211
+	211
+RowBalance, February 1, 2020
+	64,033
+	7,733
+	22.169
+	971,380
+	(515,065)
+	267,094
+	(2,495)
+	720,914
+Row	2019
+	2018
+	2017
+RowCash flows from operating activities:
+			RowNet income (loss)
+	$
+94,497
+	$
+(20,466)
+	$
+67,452
+RowAdjustments to reconcile net income (loss) to net cash provided by operating activities:
+			RowDepreciation and amortization
+	86,649
+	79,048
+	80,861
+RowStock-based compensation expense
+	17,059
+	17,393
+	14,704
+RowDeferred income taxes
+	(2,931)
+	(11,748)
+	(12,804)
+RowLoss (income) from equity investments
+	(10,149)
+	12
+	(1,057)
+RowDistributions received from equity investment
+	10.514
+		RowLoss on previously held equity investment in TSL and notes receivable from TSL
+		33,988
+	RowImpairment charges
+	7,771
+	60,760
+	89,440
+RowChange in fair value of contingent consideration liability
+			(32,747)
+RowLoss on foreign currency reclassified from accumulated other comprehensive loss
+		13,963
+	1,281
+RowOther
+	3,957
+	3,780
+	282
+RowChange in operating assets and liabilities:
+			RowAccounts receivable
+	265
+	36,151
+	(230)
+RowInventories
+	9,290
+	(4,162)
+	(1,908)
+RowPrepaid expenses and other current assets
+	(14,994)
+	(12,310)
+	(15,895)
+RowAccounts payable
+	36,995
+	(38,059)
+	(8,855)
+RowAccrued expenses
+	(26,595)
+	16,984
+	10,492
+RowOperating lease assets and liabilities, net
+	(15,621)
+		RowNet cash provided by operating activities
+	196,707
+	175,334
+	191.016
+RowCash flows from investing activities:
+			RowCash paid for property and equipment
+	(77,820)
+	(65,355)
+	(56,282)
+RowPurchases of available-for-sale investments
+	(20,973)
+	(16,735)
+	(133,153)
+RowSales of available-for-sale investments
+	66,389
+	71,136
+	187.866
+RowAdditional borrowings by TSL
+		(15,989)
+	(57,396)
+RowRepayments of borrowings by TSL
+		1,160
+	RowEquity investment in ABG-Camuto
+		(56,827)
+	RowWorking capital proceeds received (cash paid) for business acquisitions, net of cash acquired
+	4,965
+	(199,403)
+	RowNet cash used in investing activities
+	(27,439)
+	(282,013)
+	(58,965)
+RowCash flows from financing activities:
+			RowBorrowing on revolving line of credit
+	463,300
+	160,000
+	RowPayments on revolving line of credit
+	(433,300)
+		RowCash paid for treasury shares
+	(141,629)
+	(47,530)
+	(9,375)
+RowDividends paid
+	(72,565)
+	(79,795)
+	(63,823)
+RowOther
+	841
+	(2,711)
+	1,769
+RowNet cash provided by (used in) financing activities
+	(183,353)
+	29,964
+	(71,429)
+RowEffect of exchange rate changes on cash balances
+	81
+	1,351
+	RowNet increase (decrease) in cash, cash equivalents, and restricted cash
+	(14,004)
+	(75,364)
+	60,622
+RowCash, cash equivalents, and restricted cash, beginning of period
+	100,568
+	175,932
+	115,310
+RowCash, cash equivalents, and restricted cash, end of period
+	S
+86,564
+	100,568
+	175.932
+RowSupplemental disclosures of cash flow information:
+			RowCash paid for income taxes
+	$
+39,450
+	$
+41,695
+	$
+77,208
+RowCash paid terest on debt
+	$
+8,323
+	864
+	$
+RowCash paid for operating lease liabilities
+	$
+236,506
+	$
+	$
+RowNon-cash investing and financing activities:
+			RowProperty and equipment purchases not yet paid
+	$
+12,164
+	$
+13.537
+	$
+9,778
+RowOperating lease liabilities arising from lease asset additions (excluding ASU 2016-02 transition adjustments)
+	$
+24,137
+	$
+	$
+RowAdjustment to operating lease assets and lease liabilities for modifications
+	$
+71,945
+	$
+	$
+RowThe accompanying Notes are an integral part of the Consolidated Financial Statements.
+			Row		Fiscal
+	Row	2019 	2018 	2017
+RowNet sales 	$ 3,492,687 	$ 3,177,918 	$ 2,805,555
+RowCost of sales 	(2,493,017) 	(2,239,229) 	(2,006,423)
+RowOperating expenses 	(874,749) 	(820,222) 	(617,381)
+RowIncome from equity investment in ABG-Camuto 	10,149 	1,298 	—
+RowImpairment charges 	(7,771) 	(60,760) 	(89,440)
+RowChange in fair value of contingent consideration liability 	— 	— 	32,747
+RowOperating profit 	127,299 	59,005 	125,058
+RowInterest expense 	(8,914) 	(2,433) 	(488)
+RowInterest income 	1,559 	3,721 	3,277
+RowInterest income (expense), net 	(7,355) 	1,288 	2,789
+RowNon-operating expenses, net 	(170) 	(49,616) 	(1,885)
+RowIncome before income taxes and income (loss) from equity investment in TSL 	119,774 	10,677 	125,962
+RowIncome tax provision 	(25,277) 	(29,833) 	(59,567)
+RowIncome (loss) from equity investment in TSL 	— 	(1,310) 	1,057
+RowNet income (loss) 	$ 94,497 	$ (20,466) 	$ 67,452
+RowBasic and diluted earnings (loss) per share:
+			RowBasic earnings (loss) per share 	$ 1.28 	$ (0.26) 	$ 0.84
+RowDiluted earnings (loss) per share 	$ 1.27 	$ (0.26) 	$ 0.84
+RowWeighted average shares used in per share calculations:
+			RowBasic shares 	73,602 	80,026 	80,160
+RowDiluted shares 	74,605 	80,026 	80,687
+Row	February 1, 2020 	February 2, 2019
+RowASSETS
+		RowCash and cash equivalents 	$ 86,564 $ 	99,369
+RowInvestments 	24,974 	69,718
+RowAccounts receivable, net 	89,151 	68,870
+RowInventories 	632,587 	645,317
+RowPrepaid expenses and other current assets 	67,534 	71,945
+RowTotal current assets 	900,810 	955,219
+RowProperty and equipment, net 	395,009 	409,576
+RowOperating lease assets 	918,801 	—
+RowGoodwill 	113,644 	89,513
+RowIntangible assets 	22,846 	46,129
+RowDeferred tax assets 	31,863 	30,283
+RowEquity investment in ABG-Camuto 	57,760 	58,125
+RowOther assets 	24,337 	31,739
+RowTotal assets 	$ 2,465,070 $ 	1,620,584
+RowLIABILITIES AND SHAREHOLDERS' EQUITY
+		RowAccounts payable 	$ 299,072 $ 	261,625
+RowAccrued expenses 	194,264 	201,535
+RowCurrent operating lease liabilities 	186,695 	—
+RowTotal current liabilities 	680,031 	463,160
+RowDebt 	190,000 	160,000
+RowNon-current operating lease liabilities 	846,584 	—
+RowOther non-current liabilities 	27,541 	165,047
+RowTotal liabilities 	1,744,156 	788,207
+RowCommitments and contingencies
+		RowShareholders' equity:
+		RowCommon shares paid in-capital, no par value 	971,380 	953,801
+RowTreasury shares, at cost 	(515,065) 	(373,436)
+RowRetained earnings 	267,094 	254,718
+RowAccumulated other comprehensive loss 	(2,495) 	(2,706)
+RowTotal shareholders' equity 	720,914 	832,377
+RowTotal liabilities and shareholders' equity 	$ 2,465,070 $ 	1,620,584
+Row		Number of Shares
+				Amounts
+		Row	Class A
+common
+shares
+	Class B
+common
+shares
+	Treasury shares
+	Common shares paid in capital
+	Treasury shares
+	Retained
+earnings
+	Accumulated other comprehensive
+loss
+	Total
+RowBalance, January 28, 2017
+	72,447
+	7,733
+	12.591
+	921,358
+$
+	(316,531)
+	$
+351,350
+$
+	(13,941)
+	$
+942.236
+RowNet income
+						67,452
+		67,452
+RowStock-based compensation activity
+	347
+			14,894
+				14,894
+RowRepurchase of Class A common shares
+	(500)
+		500
+		(9,375)
+			(9,375)
+RowDividends paid ($0.80 per share)
+						(63,823)
+		(63,823)
+RowOther comprehensive income
+							3,867
+	3,867
+RowBalance, February 3, 2018
+	72,294
+	7,733
+	13.091
+	936,252
+	(325,906)
+	354,979
+	(10,074)
+	955,251
+RowNet loss
+						(20,466)
+		(20,466)
+RowStock-based compensation activity
+	378
+			17,549
+				17,549
+RowRepurchase of Class A common shares
+	(2,000)
+		2,000
+		(47,530)
+			(47,530)
+RowDividends paid ($1.00 per share)
+						(79,795)
+		(79,795)
+RowOther comprehensive income
+							7,368
+	7,368
+RowBalance, February 2, 2019
+	70,672
+	7,733
+	15.091
+	953,801
+	(373,436)
+	254,718
+	(2,706)
+	832,377
+RowCumulative effect of accounting change
+						(9,556)
+		(9,556)
+RowNet income
+						94,497
+		94,497
+RowStock-based compensation activity
+	439
+			17,579
+				17,579
+RowRepurchase of Class A common shares
+	(7,078)
+		7,078
+		(141,629)
+			(141,629)
+RowDividends paid ($1.00 per share)
+						(72,565)
+		(72,565)
+RowOther comprehensive income
+							211
+	211
+RowBalance, February 1, 2020
+	64,033
+	7,733
+	22.169
+	971,380
+	(515,065)
+	267,094
+	(2,495)
+	720,914
+Row	2019
+	2018
+	2017
+RowCash flows from operating activities:
+			RowNet income (loss)
+	$
+94,497
+	$
+(20,466)
+	$
+67,452
+RowAdjustments to reconcile net income (loss) to net cash provided by operating activities:
+			RowDepreciation and amortization
+	86,649
+	79,048
+	80,861
+RowStock-based compensation expense
+	17,059
+	17,393
+	14,704
+RowDeferred income taxes
+	(2,931)
+	(11,748)
+	(12,804)
+RowLoss (income) from equity investments
+	(10,149)
+	12
+	(1,057)
+RowDistributions received from equity investment
+	10.514
+		RowLoss on previously held equity investment in TSL and notes receivable from TSL
+		33,988
+	RowImpairment charges
+	7,771
+	60,760
+	89,440
+RowChange in fair value of contingent consideration liability
+			(32,747)
+RowLoss on foreign currency reclassified from accumulated other comprehensive loss
+		13,963
+	1,281
+RowOther
+	3,957
+	3,780
+	282
+RowChange in operating assets and liabilities:
+			RowAccounts receivable
+	265
+	36,151
+	(230)
+RowInventories
+	9,290
+	(4,162)
+	(1,908)
+RowPrepaid expenses and other current assets
+	(14,994)
+	(12,310)
+	(15,895)
+RowAccounts payable
+	36,995
+	(38,059)
+	(8,855)
+RowAccrued expenses
+	(26,595)
+	16,984
+	10,492
+RowOperating lease assets and liabilities, net
+	(15,621)
+		RowNet cash provided by operating activities
+	196,707
+	175,334
+	191.016
+RowCash flows from investing activities:
+			RowCash paid for property and equipment
+	(77,820)
+	(65,355)
+	(56,282)
+RowPurchases of available-for-sale investments
+	(20,973)
+	(16,735)
+	(133,153)
+RowSales of available-for-sale investments
+	66,389
+	71,136
+	187.866
+RowAdditional borrowings by TSL
+		(15,989)
+	(57,396)
+RowRepayments of borrowings by TSL
+		1,160
+	RowEquity investment in ABG-Camuto
+		(56,827)
+	RowWorking capital proceeds received (cash paid) for business acquisitions, net of cash acquired
+	4,965
+	(199,403)
+	RowNet cash used in investing activities
+	(27,439)
+	(282,013)
+	(58,965)
+RowCash flows from financing activities:
+			RowBorrowing on revolving line of credit
+	463,300
+	160,000
+	RowPayments on revolving line of credit
+	(433,300)
+		RowCash paid for treasury shares
+	(141,629)
+	(47,530)
+	(9,375)
+RowDividends paid
+	(72,565)
+	(79,795)
+	(63,823)
+RowOther
+	841
+	(2,711)
+	1,769
+RowNet cash provided by (used in) financing activities
+	(183,353)
+	29,964
+	(71,429)
+RowEffect of exchange rate changes on cash balances
+	81
+	1,351
+	RowNet increase (decrease) in cash, cash equivalents, and restricted cash
+	(14,004)
+	(75,364)
+	60,622
+RowCash, cash equivalents, and restricted cash, beginning of period
+	100,568
+	175,932
+	115,310
+RowCash, cash equivalents, and restricted cash, end of period
+	S
+86,564
+	100,568
+	175.932
+RowSupplemental disclosures of cash flow information:
+			RowCash paid for income taxes
+	$
+39,450
+	$
+41,695
+	$
+77,208
+RowCash paid terest on debt
+	$
+8,323
+	864
+	$
+RowCash paid for operating lease liabilities
+	$
+236,506
+	$
+	$
+RowNon-cash investing and financing activities:
+			RowProperty and equipment purchases not yet paid
+	$
+12,164
+	$
+13.537
+	$
+9,778
+RowOperating lease liabilities arising from lease asset additions (excluding ASU 2016-02 transition adjustments)
+	$
+24,137
+	$
+	$
+RowAdjustment to operating lease assets and lease liabilities for modifications
+	$
+71,945
+	$
+	$
+RowThe accompanying Notes are an integral part of the Consolidated Financial Statements.
+			Row:		Fiscal
+	Row:	2019 	2018 	2017
+Row:Net sales 	$ 3,492,687 	$ 3,177,918 	$ 2,805,555
+Row:Cost of sales 	(2,493,017) 	(2,239,229) 	(2,006,423)
+Row:Operating expenses 	(874,749) 	(820,222) 	(617,381)
+Row:Income from equity investment in ABG-Camuto 	10,149 	1,298 	—
+Row:Impairment charges 	(7,771) 	(60,760) 	(89,440)
+Row:Change in fair value of contingent consideration liability 	— 	— 	32,747
+Row:Operating profit 	127,299 	59,005 	125,058
+Row:Interest expense 	(8,914) 	(2,433) 	(488)
+Row:Interest income 	1,559 	3,721 	3,277
+Row:Interest income (expense), net 	(7,355) 	1,288 	2,789
+Row:Non-operating expenses, net 	(170) 	(49,616) 	(1,885)
+Row:Income before income taxes and income (loss) from equity investment in TSL 	119,774 	10,677 	125,962
+Row:Income tax provision 	(25,277) 	(29,833) 	(59,567)
+Row:Income (loss) from equity investment in TSL 	— 	(1,310) 	1,057
+Row:Net income (loss) 	$ 94,497 	$ (20,466) 	$ 67,452
+Row:Basic and diluted earnings (loss) per share:
+			Row:Basic earnings (loss) per share 	$ 1.28 	$ (0.26) 	$ 0.84
+Row:Diluted earnings (loss) per share 	$ 1.27 	$ (0.26) 	$ 0.84
+Row:Weighted average shares used in per share calculations:
+			Row:Basic shares 	73,602 	80,026 	80,160
+Row:Diluted shares 	74,605 	80,026 	80,687
+Row:	February 1, 2020 	February 2, 2019
+Row:ASSETS
+		Row:Cash and cash equivalents 	$ 86,564 $ 	99,369
+Row:Investments 	24,974 	69,718
+Row:Accounts receivable, net 	89,151 	68,870
+Row:Inventories 	632,587 	645,317
+Row:Prepaid expenses and other current assets 	67,534 	71,945
+Row:Total current assets 	900,810 	955,219
+Row:Property and equipment, net 	395,009 	409,576
+Row:Operating lease assets 	918,801 	—
+Row:Goodwill 	113,644 	89,513
+Row:Intangible assets 	22,846 	46,129
+Row:Deferred tax assets 	31,863 	30,283
+Row:Equity investment in ABG-Camuto 	57,760 	58,125
+Row:Other assets 	24,337 	31,739
+Row:Total assets 	$ 2,465,070 $ 	1,620,584
+Row:LIABILITIES AND SHAREHOLDERS' EQUITY
+		Row:Accounts payable 	$ 299,072 $ 	261,625
+Row:Accrued expenses 	194,264 	201,535
+Row:Current operating lease liabilities 	186,695 	—
+Row:Total current liabilities 	680,031 	463,160
+Row:Debt 	190,000 	160,000
+Row:Non-current operating lease liabilities 	846,584 	—
+Row:Other non-current liabilities 	27,541 	165,047
+Row:Total liabilities 	1,744,156 	788,207
+Row:Commitments and contingencies
+		Row:Shareholders' equity:
+		Row:Common shares paid in-capital, no par value 	971,380 	953,801
+Row:Treasury shares, at cost 	(515,065) 	(373,436)
+Row:Retained earnings 	267,094 	254,718
+Row:Accumulated other comprehensive loss 	(2,495) 	(2,706)
+Row:Total shareholders' equity 	720,914 	832,377
+Row:Total liabilities and shareholders' equity 	$ 2,465,070 $ 	1,620,584
+Row:		Number of Shares
+				Amounts
+		Row:	Class A
+common
+shares
+	Class B
+common
+shares
+	Treasury shares
+	Common shares paid in capital
+	Treasury shares
+	Retained
+earnings
+	Accumulated other comprehensive
+loss
+	Total
+Row:Balance, January 28, 2017
+	72,447
+	7,733
+	12.591
+	921,358
+$
+	(316,531)
+	$
+351,350
+$
+	(13,941)
+	$
+942.236
+Row:Net income
+						67,452
+		67,452
+Row:Stock-based compensation activity
+	347
+			14,894
+				14,894
+Row:Repurchase of Class A common shares
+	(500)
+		500
+		(9,375)
+			(9,375)
+Row:Dividends paid ($0.80 per share)
+						(63,823)
+		(63,823)
+Row:Other comprehensive income
+							3,867
+	3,867
+Row:Balance, February 3, 2018
+	72,294
+	7,733
+	13.091
+	936,252
+	(325,906)
+	354,979
+	(10,074)
+	955,251
+Row:Net loss
+						(20,466)
+		(20,466)
+Row:Stock-based compensation activity
+	378
+			17,549
+				17,549
+Row:Repurchase of Class A common shares
+	(2,000)
+		2,000
+		(47,530)
+			(47,530)
+Row:Dividends paid ($1.00 per share)
+						(79,795)
+		(79,795)
+Row:Other comprehensive income
+							7,368
+	7,368
+Row:Balance, February 2, 2019
+	70,672
+	7,733
+	15.091
+	953,801
+	(373,436)
+	254,718
+	(2,706)
+	832,377
+Row:Cumulative effect of accounting change
+						(9,556)
+		(9,556)
+Row:Net income
+						94,497
+		94,497
+Row:Stock-based compensation activity
+	439
+			17,579
+				17,579
+Row:Repurchase of Class A common shares
+	(7,078)
+		7,078
+		(141,629)
+			(141,629)
+Row:Dividends paid ($1.00 per share)
+						(72,565)
+		(72,565)
+Row:Other comprehensive income
+							211
+	211
+Row:Balance, February 1, 2020
+	64,033
+	7,733
+	22.169
+	971,380
+	(515,065)
+	267,094
+	(2,495)
+	720,914
+Row:	2019
+	2018
+	2017
+Row:Cash flows from operating activities:
+			Row:Net income (loss)
+	$
+94,497
+	$
+(20,466)
+	$
+67,452
+Row:Adjustments to reconcile net income (loss) to net cash provided by operating activities:
+			Row:Depreciation and amortization
+	86,649
+	79,048
+	80,861
+Row:Stock-based compensation expense
+	17,059
+	17,393
+	14,704
+Row:Deferred income taxes
+	(2,931)
+	(11,748)
+	(12,804)
+Row:Loss (income) from equity investments
+	(10,149)
+	12
+	(1,057)
+Row:Distributions received from equity investment
+	10.514
+		Row:Loss on previously held equity investment in TSL and notes receivable from TSL
+		33,988
+	Row:Impairment charges
+	7,771
+	60,760
+	89,440
+Row:Change in fair value of contingent consideration liability
+			(32,747)
+Row:Loss on foreign currency reclassified from accumulated other comprehensive loss
+		13,963
+	1,281
+Row:Other
+	3,957
+	3,780
+	282
+Row:Change in operating assets and liabilities:
+			Row:Accounts receivable
+	265
+	36,151
+	(230)
+Row:Inventories
+	9,290
+	(4,162)
+	(1,908)
+Row:Prepaid expenses and other current assets
+	(14,994)
+	(12,310)
+	(15,895)
+Row:Accounts payable
+	36,995
+	(38,059)
+	(8,855)
+Row:Accrued expenses
+	(26,595)
+	16,984
+	10,492
+Row:Operating lease assets and liabilities, net
+	(15,621)
+		Row:Net cash provided by operating activities
+	196,707
+	175,334
+	191.016
+Row:Cash flows from investing activities:
+			Row:Cash paid for property and equipment
+	(77,820)
+	(65,355)
+	(56,282)
+Row:Purchases of available-for-sale investments
+	(20,973)
+	(16,735)
+	(133,153)
+Row:Sales of available-for-sale investments
+	66,389
+	71,136
+	187.866
+Row:Additional borrowings by TSL
+		(15,989)
+	(57,396)
+Row:Repayments of borrowings by TSL
+		1,160
+	Row:Equity investment in ABG-Camuto
+		(56,827)
+	Row:Working capital proceeds received (cash paid) for business acquisitions, net of cash acquired
+	4,965
+	(199,403)
+	Row:Net cash used in investing activities
+	(27,439)
+	(282,013)
+	(58,965)
+Row:Cash flows from financing activities:
+			Row:Borrowing on revolving line of credit
+	463,300
+	160,000
+	Row:Payments on revolving line of credit
+	(433,300)
+		Row:Cash paid for treasury shares
+	(141,629)
+	(47,530)
+	(9,375)
+Row:Dividends paid
+	(72,565)
+	(79,795)
+	(63,823)
+Row:Other
+	841
+	(2,711)
+	1,769
+Row:Net cash provided by (used in) financing activities
+	(183,353)
+	29,964
+	(71,429)
+Row:Effect of exchange rate changes on cash balances
+	81
+	1,351
+	Row:Net increase (decrease) in cash, cash equivalents, and restricted cash
+	(14,004)
+	(75,364)
+	60,622
+Row:Cash, cash equivalents, and restricted cash, beginning of period
+	100,568
+	175,932
+	115,310
+Row:Cash, cash equivalents, and restricted cash, end of period
+	S
+86,564
+	100,568
+	175.932
+Row:Supplemental disclosures of cash flow information:
+			Row:Cash paid for income taxes
+	$
+39,450
+	$
+41,695
+	$
+77,208
+Row:Cash paid terest on debt
+	$
+8,323
+	864
+	$
+Row:Cash paid for operating lease liabilities
+	$
+236,506
+	$
+	$
+Row:Non-cash investing and financing activities:
+			Row:Property and equipment purchases not yet paid
+	$
+12,164
+	$
+13.537
+	$
+9,778
+Row:Operating lease liabilities arising from lease asset additions (excluding ASU 2016-02 transition adjustments)
+	$
+24,137
+	$
+	$
+Row:Adjustment to operating lease assets and lease liabilities for modifications
+	$
+71,945
+	$
+	$
+Row:The accompanying Notes are an integral part of the Consolidated Financial Statements.
+			

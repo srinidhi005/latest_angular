@@ -1,0 +1,141 @@
+Row:Current assets
+		Row:Cash and cash equivalents $ 	582,753 	$ 849,461
+Row:Short-term investments 	404,252 	114,278
+Row:Accounts receivable, net of allowance of $22,774 and $9,312 at December 31, 2019 and
+2018, respectively 	99,720 	50,603
+Row:Inventories 	61,692 	46,164
+Row:Prepaid expenses and other current assets 	228,721 	195,430
+Row:Total current assets 	1,377,138 	1,255,936
+Row:Operating lease right-of-use assets 	763,400 	—
+Row:Property and equipment, net 	624,544 	606,977
+Row:Goodwill and intangible assets, net 	18,809 	2,585
+Row:Long-term investments 	155,690 	6,526
+Row:Other noncurrent assets 	13,467 	18,826
+Row:Total assets $ 	2,953,048 	$ 1,890,850
+Row:Liabilities and Stockholders' Deficit:
+		Row:Current liabilities
+		Row:Accounts payable $ 	908,097 	$ 650,174
+Row:Accrued expenses 	298,918 	212,997
+Row:Unearned revenue 	167,641 	148,057
+Row:Other current liabilities 	236,863 	127,995
+Row:Total current liabilities 	1,611,519 	1,139,223
+Row:Long-term debt 	1,456,195 	738,904
+Row:Operating lease liabilities 	822,602 	—
+Row:Lease financing obligations, net of current portion 	— 	183,056
+Row:Other liabilities 	6,940 	160,388
+Row:Total liabilities 	3,897,256 	2,221,571
+Row:Commitments and contingencies (Note 8)
+		Row:Commitments and contingencies (Note 8)
+	Row:Convertible preferred stock, $0.001 par value per share: 10,000,000 shares authorized and
+none issued at December 31, 2019 and 2018 	— —
+Row:Stockholders’ deficit:
+	Row:Class A common stock, par value $0.001 per share, 500,000,000 shares authorized,
+66,642,611 and 62,329,701 shares issued and outstanding at December 31, 2019 and
+2018, respectively 	67 63
+Row:Class B common stock, par value $0.001 per share, 164,000,000 shares authorized,
+26,957,815 and 28,417,882 shares issued and outstanding at December 31, 2019 and
+2018, respectively 	27 28
+Row:Additional paid-in capital 	1,122,548 753,657
+Row:Accumulated deficit 	(2,065,423) (1,082,689)
+Row:Accumulated other comprehensive (loss) 	(1,427) (1,780)
+Row:Total stockholders' deficit 	(944,208) (330,721)
+Row:Total liabilities and stockholders' deficit $ 	2,953,048 $ 1,890,850
+Row:The accompanying notes are an integral part of these Consolidated Financial Statements.
+	Row:	2019 	2018 	2017
+Row:	(in thousands, 	except per 	share data)
+Row:Net revenue 	$ 9,127,057 	$ 6,779,174 	$ 4,720,895
+Row:Cost of goods sold 	6,979,725 	5,192,451 	3,602,072
+Row:Gross profit 	2,147,332 	1,586,723 	1,118,823
+Row:Operating expenses:
+			Row:Customer service and merchant fees 	356,727 	260,046 	169,516
+Row:Advertising 	1,095,840 	774,189 	549,959
+Row:Selling, operations, technology, general and administrative 	1,624,706 	1,025,767 	634,801
+Row:Total operating expenses 	3,077,273 	2,060,002 	1,354,276
+Row:Loss from operations 	(929,941) 	(473,279) 	(235,453)
+Row:Interest (expense), net 	(54,514) 	(28,560) 	(9,433)
+Row:Other income (expense), net 	2,881 	(204) 	758
+Row:Loss before income taxes 	(981,574) 	(502,043) 	(244,128)
+Row:Provision for income taxes, net 	3,010 	2,037 	486
+Row:Net loss 	$ (984,584) 	$ (504,080) 	$ (244,614)
+Row:Net loss per share, basic and diluted 	$ (10.68) 	$ (5.63) 	$ (2.81)
+Row:Weighted average number of common stock outstanding used in
+computing per share amounts, basic and diluted 	92,200 	89,472 	86,983
+Row:Cash flows from operating activities:
+		(in thousands)
+	Row:Net loss $ 	(984,584) 	$ (504,080) 	$ (244,614)
+Row:Adjustments to reconcile net loss to net cash used in operating activities:
+			Row:Depreciation and amortization 	192,419 	123,542 	87,020
+Row:Equity-based compensation 	227,451 	127,564 	67,840
+Row:Amortization of discount and issuance costs on convertible notes 	62,111 	22,585 	5,830
+Row:Other non-cash adjustments 	(1,691) 	(56) 	1,198
+Row:Changes in operating assets and liabilities:
+			Row:Accounts receivable Inventories 	(49,187) (15,631) 	(12,792) (18,319) 	(18,172)
+(9,454)
+Row:Prepaid expenses and other current assets 	(32,590) 	(65,195) 	(39,124)
+Row:Accounts payable and accrued expenses 	330,325 	285,064 	104,184
+Row:Unearned revenue and other liabilities 	75,888 	134,705 	81,354
+Row:Other assets 	(1,329) 	(8,157) 	(2,428)
+Row:Net cash (used in) provided by operating activities 	(196,818) 	84,861 	33,634
+Row:Cash flows from investing activities:
+			Row:Purchase of short- and long-term investments 	(553,858) 	(99,002) 	(54,551)
+Row:Sale and maturities of short-term investments 	115,468 	61,068 	71,095
+Row:Purchase of property and equipment 	(271,742) 	(159,205) 	(100,451)
+Row:Site and software development costs 	(129,138) 	(62,750) 	(46,428)
+Row:Other investing activities, net 	(15,567) 	(398) 	—
+Row:Net cash used in investing activities 	(854,837) 	(260,287) 	(130,335)
+Row:Cash flows from financing activities:
+			Row:Proceeds from issuance of convertible notes, net of issuance costs 	935,146 	562,047 	420,449
+Row:Premiums paid for capped call confirmations Taxes paid related to net share settlement of equity awards 	(145,728) (2,236) 	(93,438) (1,284) 	(44,160)
+(1,562)
+Row:Deferred financing costs 	(791) 	— 	—
+Row:Net proceeds from exercise of stock options 	113 	138 	244
+Row:Net cash provided by financing activities 	786,504 	467,463 	374,971
+Row:Effect of exchange rate changes on cash and cash equivalents 	(1,557) 	(1,536) 	850
+Row:Net (decrease) increase in cash and cash equivalents 	(266,708) 	290,501 	279,120
+Row:Cash and cash equivalents:
+			Row:Beginning of year 	849,461 	558,960 	279,840
+Row:End of year $ 	582,753 	$ 849,461 	$ 558,960
+Row:Supplemental Cash Flow Information:
+			Row:Cash paid for interest on long-term debt $ 	7,763 	$ 1,554 	$ —
+Row:Cash paid for interest on finance lease obligations $ 	— 	$ 9,058 	$ —
+Row:Purchase of property and equipment included in accounts payable and accrued expenses and in
+other liabilities $ 	41,181 	$ 15,383 	$ 8,533
+Row:Construction costs capitalized under finance lease obligations and other leases $ 	— 	$ 125,796 	$ 47,276
+Row:The accompanying notes are an integral part of these Consolidated 	Financial 	Statements.
+	Row:Adjustments to reconcile net loss to net cash used in operating activities:
+		Row:Depreciation and amortization 	192,419 123,542 	87,020
+Row:Equity-based compensation 	227,451 127,564 	67,840
+Row:Amortization of discount and issuance costs on convertible notes 	62,111 22,585 	5,830
+Row:Other non-cash adjustments 	(1,691) (56) 	1,198
+Row:Changes in operating assets and liabilities:
+		Row:Accounts receivable 	(49,187) (12,792) 	(18,172)
+Row:Inventories 	(15,631) (18,319) 	(9,454)
+Row:Prepaid expenses and other current assets 	(32,590) (65,195) 	(39,124)
+Row:Accounts payable and accrued expenses 	330,325 285,064 	104,184
+Row:Unearned revenue and other liabilities 	75,888 134,705 	81,354
+Row:Other assets 	(1,329) (8,157) 	(2,428)
+Row:Net cash (used in) provided by operating activities 	(196,818) 84,861 	33,634
+Row:Purchase of short- and long-term investments 	(553,858) (99,002) 	(54,551)
+Row:Sale and maturities of short-term investments 	115,468 61,068 	71,095
+Row:Purchase of property and equipment 	(271,742) (159,205) 	(100,451)
+Row:Site and software development costs 	(129,138) (62,750) 	(46,428)
+Row:Other investing activities, net 	(15,567) (398) 	—
+Row:Net cash used in investing activities 	(854,837) (260,287) 	(130,335)
+Row:Proceeds from issuance of convertible notes, net of issuance costs 	935,146 562,047 	420,449
+Row:Premiums paid for capped call confirmations 	(145,728) (93,438) 	(44,160)
+Row:Taxes paid related to net share settlement of equity awards 	(2,236) (1,284) 	(1,562)
+Row:Deferred financing costs 	(791) — 	—
+Row:Net proceeds from exercise of stock options 	113 138 	244
+Row:Net cash provided by financing activities 	786,504 467,463 	374,971
+Row:Effect of exchange rate changes on cash and cash equivalents 	(1,557) (1,536) 	850
+Row:Net (decrease) increase in cash and cash equivalents 	(266,708) 290,501 	279,120
+Row:Cash and cash equivalents:
+		Row:Beginning of year 	849,461 558,960 	279,840
+Row:End of year $ 	582,753 $ 849,461 	$ 558,960
+Row:End of year $ 	582,753 	$ 849,461 	$ 558,960
+Row:Supplemental Cash Flow Information:
+			Row:Cash paid for interest on long-term debt $ 	7,763 	$ 1,554 	$ —
+Row:Cash paid for interest on finance lease obligations $ 	— 	$ 9,058 	$ —
+Row:Purchase of property and equipment included in accounts payable and accrued expenses and in
+other liabilities $ 	41,181 	$ 15,383 	$ 8,533
+Row:Construction costs capitalized under finance lease obligations and other leases $ 	— 	$ 125,796 	$ 47,276

@@ -1,0 +1,1710 @@
+Row2018
+	2017
+	2016
+Row$
+133,045
+	$
+133,449
+	$
+140,205
+Row14,004
+	12,139
+	8,979
+Row147,049
+	145,588
+	149,184
+Row120,656
+	116,229
+	121,784
+Row12,298
+	11,128
+	8,369
+Row9,650
+	9,570
+	10,345
+Row142,604
+	136,927
+	140,498
+Row4,445
+	8,661
+	8,686
+Row655
+	575
+	563
+Row2,596
+	1,645
+	1,603
+Row2,163
+	2,132
+	2,282
+Row8,549
+	11,863
+	12,008
+Row474
+	11,533
+	2,739
+Row8,075
+	330
+	9,269
+Row70
+	4,212
+	1
+Row8,005
+	(3,882)
+	9,268
+Row9
+	18
+	159
+Row$
+8,014
+	$
+(3,864)
+	$
+9,427
+RowNet sales and revenue
+	2018
+	2017
+	2016
+RowAutomotive
+	$
+133,045
+	$
+133,449
+	$
+140,205
+RowGM Financial
+	14,004
+	12,139
+	8,979
+RowTotal net sales and revenue (Note 3)
+	147,049
+	145,588
+	149,184
+RowCosts and expenses
+			RowAutomotive and other cost of sales
+	120,656
+	116,229
+	121,784
+RowGM Financial interest, operating and other expenses
+	12,298
+	11,128
+	8,369
+RowAutomotive and other selling, general and administrative expense
+	9,650
+	9,570
+	10,345
+RowTotal costs and expenses
+	142,604
+	136,927
+	140,498
+RowOperating income
+	4,445
+	8,661
+	8,686
+RowAutomotive interest expense
+	655
+	575
+	563
+RowInterest income and other non-operating income, net (Note 19)
+	2,596
+	1,645
+	1,603
+RowEquity income (Note 8)
+	2,163
+	2,132
+	2,282
+RowIncome before income taxes
+	8,549
+	11,863
+	12,008
+RowIncome tax expense (Note 17)
+	474
+	11,533
+	2,739
+RowIncome from continuing operations
+	8,075
+	330
+	9,269
+RowLoss from discontinued operations, net of tax (Note 22)
+	70
+	4,212
+	1
+RowNet income (loss)
+	8,005
+	(3,882)
+	9,268
+RowNet loss attributable to noncontrolling interests
+	9
+	18
+	159
+RowNet income (loss) attributable to stockholders
+	$
+8,014
+	$
+(3,864)
+	$
+9,427
+RowNet income (loss) attributable to common stockholders
+	7,916
+	$
+(3,880)
+	$
+9,427
+RowEarnings per share (Note 21)
+			RowBasic earnings per common share - continuing operations
+	$
+5.66
+	$
+0.23 	6.12
+$
+RowBasic loss per common share – discontinued operations
+	$
+0.05
+	$
+2.88 	$
+RowBasic earnings (loss) per common share
+	$
+5.61
+	(2.65) $
+	$
+6.12
+RowWeighted-average common shares outstanding - basic
+	1,411
+	1,465
+	1,540
+RowDiluted earnings per common share – continuing operations
+	$
+5.58
+	$
+0.22
+	$
+6.00
+RowDiluted loss per common share - discontinued operations
+	$
+0.05
+	$
+2.82
+	$
+RowDiluted earnings (loss) per common share
+	$
+5.53
+	$
+(2.60)
+	$
+6.00
+RowWeighted average common shares outstanding - diluted
+	1,431
+	1,492
+	1,570
+Row	2018
+	2017
+	2016
+Row	$
+8,005
+	$
+(3,882)
+	$
+9,268
+Row	(715)
+	747
+	(384)
+Row	(221)
+	570
+	(969)
+Row	(936)
+	1,317
+	(1,353)
+Row	7,069
+	(2,565)
+	7,915
+Row	15
+	20
+	218
+Row$
+	7,084
+	(2,545)
+$
+	$
+8,133
+RowNet income (loss)
+	$
+RowOther comprehensive income (loss), net of tax (Note 20)
+	RowForeign currency translation adjustments and other
+	RowDefined benefit plans
+	RowOther comprehensive income (loss), net of tax
+	RowComprehensive income (loss)
+	RowComprehensive loss attributable to noncontrolling interests
+	RowComprehensive income (loss) attributable to stockholders
+	$
+RowASSETS
+	December 31, 2018
+	December 31, 2017
+RowCurrent Assets
+		RowCash and cash equivalents
+	$
+20,844
+	$
+15,512
+RowMarketable securities (Note 4)
+	5,966
+	8,313
+RowAccounts and notes receivable (net of allowance of $211 and $278)
+	6,549
+	8,164
+RowGM Financial receivables, net (Note 5; Note 11 at VIES)
+	26,850
+	20,521
+RowInventories (Note 6)
+	9,816
+	10,663
+RowEquipment on operating leases, net (Note 7)
+	247
+	1,106
+RowOther current assets (Note 4; Note 11 at VIEs)
+	5,021
+	4,465
+RowTotal current assets
+	75,293
+	68,744
+RowNon-current Assets
+		RowGM Financial receivables, net (Note 5; Note 11 at VIES)
+	25,083
+	21,208
+RowEquity in net assets of nonconsolidated affiliates (Note 8)
+	9,215
+	9,073
+RowProperty, net (Note 9)
+	38,758
+	36,253
+RowGoodwill and intangible assets, net (Note 10)
+	5,579
+	5,849
+RowEquipment on operating leases, net (Note 7; Note 11 at VIES)
+	43,559
+	42,882
+RowDeferred income taxes (Note 17)
+	24,082
+	23,544
+RowOther assets (Note 4; Note 11 at VIES)
+	5,770
+	4,929
+RowTotal non-current assets
+	152,046
+	143,738
+RowTotal Assets
+	227,339
+$
+	$
+212,482
+RowCurrent Liabilities
+		RowAccounts payable (principally trade)
+	$
+22,297
+	$
+23,929
+RowShort-term debt and current portion of long-term debt (Note 13)
+		RowAutomotive
+	935
+	2,515
+RowGM Financial (Note 11 at VIES)
+	30,956
+	24,450
+RowAccrued liabilities (Note 12)
+	28,049
+	25,996
+RowTotal current liabilities
+	82,237
+	76,890
+RowNon-current Liabilities
+		RowLong-term debt (Note 13)
+		RowAutomotive
+	13,028
+	10,987
+RowGM Financial (Note 11 at VIES)
+	60,032
+	56,267
+RowPostretirement benefits other than pensions (Note 15)
+	5,370
+	5,998
+RowPensions (Note 15)
+	11,538
+	13,746
+RowOther liabilities (Note 12)
+	12,357
+	12,394
+RowTotal non-current liabilities
+	102,325
+	99,392
+RowTotal Liabilities
+	184,562
+	176,282
+RowCommitments and contingencies (Note 16)
+		RowEquity (Note 20)
+		RowCommon stock, $0.01 par value
+	14
+	14
+RowAdditional paid-in capital
+	25,563
+	25,371
+RowRetained earnings
+	22,322
+	17,627
+RowAccumulated other comprehensive loss
+	(9,039)
+	(8,011)
+RowTotal stockholders' equity
+	38,860
+	35,001
+RowNoncontrolling interests
+	3,917
+	1,199
+RowTotal Equity
+	42,777
+	36,200
+RowTotal Liabilities and Equity
+	227,339
+$
+	212,482
+$
+RowCash flows from operating activities
+	2018
+	2017
+	2016
+RowIncome from continuing operations
+	$
+8,075
+	$
+330
+	$
+9,269
+RowDepreciation and impairment of Equipment on operating leases, net
+	7,604
+	6,805
+	4,804
+RowDepreciation, amortization and impairment charges on Property, net
+	6,065
+	5,456
+	5,015
+RowForeign currency remeasurement and transaction losses
+	168
+	52
+	229
+RowUndistributed earnings of nonconsolidated affiliates, net
+	(141)
+	(132)
+	(15)
+RowPension contributions and OPEB payments
+	(2,069)
+	(1,636)
+	(3,454)
+RowPension and OPEB income, net
+	(1,280)
+	(934)
+	(769)
+RowProvision (benefit) for deferred taxes
+	(112)
+	10,880
+	2,228
+RowChange in other operating assets and liabilities (Note 26)
+	(1,376)
+	(3,015)
+	580
+RowOther operating activities
+	(1,678)
+	(468)
+	(894)
+RowNet cash provided by operating activities – continuing operations
+	15,256
+	17,338
+	16,993
+RowNet cash used in operating activities – discontinued operations
+		(10)
+	(386)
+RowNet cash provided by operating activities
+	15,256
+	17,328
+	16,607
+RowCash flows from investing activities
+			RowExpenditures for property
+	(8,761)
+	(8,453)
+	(8,384)
+RowAvailable-for-sale marketable securities, acquisitions
+	(2,820)
+	(5,503)
+	(15,182)
+RowTrading marketable securities, acquisitions
+			(262)
+RowAvailable-for-sale marketable securities, liquidations
+	5,108
+	9,007
+	10,871
+RowTrading marketable securities, liquidations
+			872
+RowAcquisition of companies/investments, net of cash acquired
+	(83)
+	(41)
+	(804)
+RowPurchases of finance receivables, net
+	(25,671)
+	(19,325)
+	(14,378)
+RowPrincipal collections and recoveries on finance receivables
+	17,048
+	12,578
+	9,899
+RowPurchases of leased vehicles, net
+	(16,736)
+	(19,180)
+	(19,495)
+RowProceeds from termination of leased vehicles
+	10,864
+	6,667
+	2,554
+RowOther investing activities
+	122
+	178
+	162
+RowNet cash used in investing activities – continuing operations
+	(20,929)
+	(24,072)
+	(34,147)
+RowNet cash provided by (used in) investing activities - discontinued operations (Note 22)
+	166
+	(3,500)
+	(1,496)
+RowNet cash used in investing activities
+	(20,763)
+	(27,572)
+	(35,643)
+RowCash flows from financing activities
+			RowNet increase (decrease) in short-term debt
+	1,186
+	(140)
+	(282)
+RowProceeds from issuance of debt (original maturities greater than three months)
+	43,801
+	52,187
+	42,036
+RowPayments on debt (original maturities greater than three months)
+	(33,323)
+	(33,592)
+	(20,727)
+RowPayments to purchase common stock
+	(190)
+	(4,492)
+	(2,500)
+RowProceeds from issuance of subsidiary preferred and common stock (Note 20)
+	2,862
+	985
+	RowDividends paid
+	(2,242)
+	(2,233)
+	(2,368)
+RowOther financing activities
+	(640)
+	(305)
+	(163)
+RowNet cash provided by financing activities – continuing operations
+	11,454
+	12,410
+	15,996
+RowNet cash provided by financing activities – discontinued operations
+		174
+	1,081
+RowNet cash provided by financing activities
+	11,454
+	12,584
+	17,077
+RowEffect of exchange rate changes on cash, cash equivalents and restricted cash
+	(299)
+	348
+	(213)
+RowNet increase (decrease) in cash, cash equivalents and restricted cash
+	5,648
+	2,688
+	(2,172)
+RowCash, cash equivalents and restricted cash at beginning of period
+	17,848
+	15,160
+	17,332
+RowCash, cash equivalents and restricted cash at end of period
+	$
+23,496
+	17,848
+$
+	$
+15,160
+RowCash, cash equivalents and restricted cash – continuing operations at end of period (Note 4)
+	$
+23,496
+	$
+17,848
+	$
+14,487
+RowCash, cash equivalents and restricted cash - discontinued operations at end of period
+	$
+	$
+	673
+$
+RowSignificant Non-cash Investing and Financing Activity
+			RowNon-cash property additions - continuing operations
+	$
+3,813
+	$
+3,996
+	$
+3,897
+RowNon-cash property additions – discontinued operations
+	$
+		868
+$
+RowNon-cash business acquisition continuing operations
+	$
+		$
+290
+RowNon-cash proceeds on sale of discontinued operations (Note 22)
+	$
+	$
+808
+	$
+Row2018
+	2017
+	2016
+Row$
+133,045
+	$
+133,449
+	$
+140,205
+Row14,004
+	12,139
+	8,979
+Row147,049
+	145,588
+	149,184
+Row120,656
+	116,229
+	121,784
+Row12,298
+	11,128
+	8,369
+Row9,650
+	9,570
+	10,345
+Row142,604
+	136,927
+	140,498
+Row4,445
+	8,661
+	8,686
+Row655
+	575
+	563
+Row2,596
+	1,645
+	1,603
+Row2,163
+	2,132
+	2,282
+Row8,549
+	11,863
+	12,008
+Row474
+	11,533
+	2,739
+Row8,075
+	330
+	9,269
+Row70
+	4,212
+	1
+Row8,005
+	(3,882)
+	9,268
+Row9
+	18
+	159
+Row$
+8,014
+	$
+(3,864)
+	$
+9,427
+RowNet sales and revenue
+	2018
+	2017
+	2016
+RowAutomotive
+	$
+133,045
+	$
+133,449
+	$
+140,205
+RowGM Financial
+	14,004
+	12,139
+	8,979
+RowTotal net sales and revenue (Note 3)
+	147,049
+	145,588
+	149,184
+RowCosts and expenses
+			RowAutomotive and other cost of sales
+	120,656
+	116,229
+	121,784
+RowGM Financial interest, operating and other expenses
+	12,298
+	11,128
+	8,369
+RowAutomotive and other selling, general and administrative expense
+	9,650
+	9,570
+	10,345
+RowTotal costs and expenses
+	142,604
+	136,927
+	140,498
+RowOperating income
+	4,445
+	8,661
+	8,686
+RowAutomotive interest expense
+	655
+	575
+	563
+RowInterest income and other non-operating income, net (Note 19)
+	2,596
+	1,645
+	1,603
+RowEquity income (Note 8)
+	2,163
+	2,132
+	2,282
+RowIncome before income taxes
+	8,549
+	11,863
+	12,008
+RowIncome tax expense (Note 17)
+	474
+	11,533
+	2,739
+RowIncome from continuing operations
+	8,075
+	330
+	9,269
+RowLoss from discontinued operations, net of tax (Note 22)
+	70
+	4,212
+	1
+RowNet income (loss)
+	8,005
+	(3,882)
+	9,268
+RowNet loss attributable to noncontrolling interests
+	9
+	18
+	159
+RowNet income (loss) attributable to stockholders
+	$
+8,014
+	$
+(3,864)
+	$
+9,427
+RowNet income (loss) attributable to common stockholders
+	7,916
+	$
+(3,880)
+	$
+9,427
+RowEarnings per share (Note 21)
+			RowBasic earnings per common share - continuing operations
+	$
+5.66
+	$
+0.23 	6.12
+$
+RowBasic loss per common share – discontinued operations
+	$
+0.05
+	$
+2.88 	$
+RowBasic earnings (loss) per common share
+	$
+5.61
+	(2.65) $
+	$
+6.12
+RowWeighted-average common shares outstanding - basic
+	1,411
+	1,465
+	1,540
+RowDiluted earnings per common share – continuing operations
+	$
+5.58
+	$
+0.22
+	$
+6.00
+RowDiluted loss per common share - discontinued operations
+	$
+0.05
+	$
+2.82
+	$
+RowDiluted earnings (loss) per common share
+	$
+5.53
+	$
+(2.60)
+	$
+6.00
+RowWeighted average common shares outstanding - diluted
+	1,431
+	1,492
+	1,570
+Row	2018
+	2017
+	2016
+Row	$
+8,005
+	$
+(3,882)
+	$
+9,268
+Row	(715)
+	747
+	(384)
+Row	(221)
+	570
+	(969)
+Row	(936)
+	1,317
+	(1,353)
+Row	7,069
+	(2,565)
+	7,915
+Row	15
+	20
+	218
+Row$
+	7,084
+	(2,545)
+$
+	$
+8,133
+RowNet income (loss)
+	$
+RowOther comprehensive income (loss), net of tax (Note 20)
+	RowForeign currency translation adjustments and other
+	RowDefined benefit plans
+	RowOther comprehensive income (loss), net of tax
+	RowComprehensive income (loss)
+	RowComprehensive loss attributable to noncontrolling interests
+	RowComprehensive income (loss) attributable to stockholders
+	$
+RowASSETS
+	December 31, 2018
+	December 31, 2017
+RowCurrent Assets
+		RowCash and cash equivalents
+	$
+20,844
+	$
+15,512
+RowMarketable securities (Note 4)
+	5,966
+	8,313
+RowAccounts and notes receivable (net of allowance of $211 and $278)
+	6,549
+	8,164
+RowGM Financial receivables, net (Note 5; Note 11 at VIES)
+	26,850
+	20,521
+RowInventories (Note 6)
+	9,816
+	10,663
+RowEquipment on operating leases, net (Note 7)
+	247
+	1,106
+RowOther current assets (Note 4; Note 11 at VIEs)
+	5,021
+	4,465
+RowTotal current assets
+	75,293
+	68,744
+RowNon-current Assets
+		RowGM Financial receivables, net (Note 5; Note 11 at VIES)
+	25,083
+	21,208
+RowEquity in net assets of nonconsolidated affiliates (Note 8)
+	9,215
+	9,073
+RowProperty, net (Note 9)
+	38,758
+	36,253
+RowGoodwill and intangible assets, net (Note 10)
+	5,579
+	5,849
+RowEquipment on operating leases, net (Note 7; Note 11 at VIES)
+	43,559
+	42,882
+RowDeferred income taxes (Note 17)
+	24,082
+	23,544
+RowOther assets (Note 4; Note 11 at VIES)
+	5,770
+	4,929
+RowTotal non-current assets
+	152,046
+	143,738
+RowTotal Assets
+	227,339
+$
+	$
+212,482
+RowCurrent Liabilities
+		RowAccounts payable (principally trade)
+	$
+22,297
+	$
+23,929
+RowShort-term debt and current portion of long-term debt (Note 13)
+		RowAutomotive
+	935
+	2,515
+RowGM Financial (Note 11 at VIES)
+	30,956
+	24,450
+RowAccrued liabilities (Note 12)
+	28,049
+	25,996
+RowTotal current liabilities
+	82,237
+	76,890
+RowNon-current Liabilities
+		RowLong-term debt (Note 13)
+		RowAutomotive
+	13,028
+	10,987
+RowGM Financial (Note 11 at VIES)
+	60,032
+	56,267
+RowPostretirement benefits other than pensions (Note 15)
+	5,370
+	5,998
+RowPensions (Note 15)
+	11,538
+	13,746
+RowOther liabilities (Note 12)
+	12,357
+	12,394
+RowTotal non-current liabilities
+	102,325
+	99,392
+RowTotal Liabilities
+	184,562
+	176,282
+RowCommitments and contingencies (Note 16)
+		RowEquity (Note 20)
+		RowCommon stock, $0.01 par value
+	14
+	14
+RowAdditional paid-in capital
+	25,563
+	25,371
+RowRetained earnings
+	22,322
+	17,627
+RowAccumulated other comprehensive loss
+	(9,039)
+	(8,011)
+RowTotal stockholders' equity
+	38,860
+	35,001
+RowNoncontrolling interests
+	3,917
+	1,199
+RowTotal Equity
+	42,777
+	36,200
+RowTotal Liabilities and Equity
+	227,339
+$
+	212,482
+$
+RowCash flows from operating activities
+	2018
+	2017
+	2016
+RowIncome from continuing operations
+	$
+8,075
+	$
+330
+	$
+9,269
+RowDepreciation and impairment of Equipment on operating leases, net
+	7,604
+	6,805
+	4,804
+RowDepreciation, amortization and impairment charges on Property, net
+	6,065
+	5,456
+	5,015
+RowForeign currency remeasurement and transaction losses
+	168
+	52
+	229
+RowUndistributed earnings of nonconsolidated affiliates, net
+	(141)
+	(132)
+	(15)
+RowPension contributions and OPEB payments
+	(2,069)
+	(1,636)
+	(3,454)
+RowPension and OPEB income, net
+	(1,280)
+	(934)
+	(769)
+RowProvision (benefit) for deferred taxes
+	(112)
+	10,880
+	2,228
+RowChange in other operating assets and liabilities (Note 26)
+	(1,376)
+	(3,015)
+	580
+RowOther operating activities
+	(1,678)
+	(468)
+	(894)
+RowNet cash provided by operating activities – continuing operations
+	15,256
+	17,338
+	16,993
+RowNet cash used in operating activities – discontinued operations
+		(10)
+	(386)
+RowNet cash provided by operating activities
+	15,256
+	17,328
+	16,607
+RowCash flows from investing activities
+			RowExpenditures for property
+	(8,761)
+	(8,453)
+	(8,384)
+RowAvailable-for-sale marketable securities, acquisitions
+	(2,820)
+	(5,503)
+	(15,182)
+RowTrading marketable securities, acquisitions
+			(262)
+RowAvailable-for-sale marketable securities, liquidations
+	5,108
+	9,007
+	10,871
+RowTrading marketable securities, liquidations
+			872
+RowAcquisition of companies/investments, net of cash acquired
+	(83)
+	(41)
+	(804)
+RowPurchases of finance receivables, net
+	(25,671)
+	(19,325)
+	(14,378)
+RowPrincipal collections and recoveries on finance receivables
+	17,048
+	12,578
+	9,899
+RowPurchases of leased vehicles, net
+	(16,736)
+	(19,180)
+	(19,495)
+RowProceeds from termination of leased vehicles
+	10,864
+	6,667
+	2,554
+RowOther investing activities
+	122
+	178
+	162
+RowNet cash used in investing activities – continuing operations
+	(20,929)
+	(24,072)
+	(34,147)
+RowNet cash provided by (used in) investing activities - discontinued operations (Note 22)
+	166
+	(3,500)
+	(1,496)
+RowNet cash used in investing activities
+	(20,763)
+	(27,572)
+	(35,643)
+RowCash flows from financing activities
+			RowNet increase (decrease) in short-term debt
+	1,186
+	(140)
+	(282)
+RowProceeds from issuance of debt (original maturities greater than three months)
+	43,801
+	52,187
+	42,036
+RowPayments on debt (original maturities greater than three months)
+	(33,323)
+	(33,592)
+	(20,727)
+RowPayments to purchase common stock
+	(190)
+	(4,492)
+	(2,500)
+RowProceeds from issuance of subsidiary preferred and common stock (Note 20)
+	2,862
+	985
+	RowDividends paid
+	(2,242)
+	(2,233)
+	(2,368)
+RowOther financing activities
+	(640)
+	(305)
+	(163)
+RowNet cash provided by financing activities – continuing operations
+	11,454
+	12,410
+	15,996
+RowNet cash provided by financing activities – discontinued operations
+		174
+	1,081
+RowNet cash provided by financing activities
+	11,454
+	12,584
+	17,077
+RowEffect of exchange rate changes on cash, cash equivalents and restricted cash
+	(299)
+	348
+	(213)
+RowNet increase (decrease) in cash, cash equivalents and restricted cash
+	5,648
+	2,688
+	(2,172)
+RowCash, cash equivalents and restricted cash at beginning of period
+	17,848
+	15,160
+	17,332
+RowCash, cash equivalents and restricted cash at end of period
+	$
+23,496
+	17,848
+$
+	$
+15,160
+RowCash, cash equivalents and restricted cash – continuing operations at end of period (Note 4)
+	$
+23,496
+	$
+17,848
+	$
+14,487
+RowCash, cash equivalents and restricted cash - discontinued operations at end of period
+	$
+	$
+	673
+$
+RowSignificant Non-cash Investing and Financing Activity
+			RowNon-cash property additions - continuing operations
+	$
+3,813
+	$
+3,996
+	$
+3,897
+RowNon-cash property additions – discontinued operations
+	$
+		868
+$
+RowNon-cash business acquisition continuing operations
+	$
+		$
+290
+RowNon-cash proceeds on sale of discontinued operations (Note 22)
+	$
+	$
+808
+	$
+Row2018
+	2017
+	2016
+Row$
+133,045
+	$
+133,449
+	$
+140,205
+Row14,004
+	12,139
+	8,979
+Row147,049
+	145,588
+	149,184
+Row120,656
+	116,229
+	121,784
+Row12,298
+	11,128
+	8,369
+Row9,650
+	9,570
+	10,345
+Row142,604
+	136,927
+	140,498
+Row4,445
+	8,661
+	8,686
+Row655
+	575
+	563
+Row2,596
+	1,645
+	1,603
+Row2,163
+	2,132
+	2,282
+Row8,549
+	11,863
+	12,008
+Row474
+	11,533
+	2,739
+Row8,075
+	330
+	9,269
+Row70
+	4,212
+	1
+Row8,005
+	(3,882)
+	9,268
+Row9
+	18
+	159
+Row$
+8,014
+	$
+(3,864)
+	$
+9,427
+RowNet sales and revenue
+	2018
+	2017
+	2016
+RowAutomotive
+	$
+133,045
+	$
+133,449
+	$
+140,205
+RowGM Financial
+	14,004
+	12,139
+	8,979
+RowTotal net sales and revenue (Note 3)
+	147,049
+	145,588
+	149,184
+RowCosts and expenses
+			RowAutomotive and other cost of sales
+	120,656
+	116,229
+	121,784
+RowGM Financial interest, operating and other expenses
+	12,298
+	11,128
+	8,369
+RowAutomotive and other selling, general and administrative expense
+	9,650
+	9,570
+	10,345
+RowTotal costs and expenses
+	142,604
+	136,927
+	140,498
+RowOperating income
+	4,445
+	8,661
+	8,686
+RowAutomotive interest expense
+	655
+	575
+	563
+RowInterest income and other non-operating income, net (Note 19)
+	2,596
+	1,645
+	1,603
+RowEquity income (Note 8)
+	2,163
+	2,132
+	2,282
+RowIncome before income taxes
+	8,549
+	11,863
+	12,008
+RowIncome tax expense (Note 17)
+	474
+	11,533
+	2,739
+RowIncome from continuing operations
+	8,075
+	330
+	9,269
+RowLoss from discontinued operations, net of tax (Note 22)
+	70
+	4,212
+	1
+RowNet income (loss)
+	8,005
+	(3,882)
+	9,268
+RowNet loss attributable to noncontrolling interests
+	9
+	18
+	159
+RowNet income (loss) attributable to stockholders
+	$
+8,014
+	$
+(3,864)
+	$
+9,427
+RowNet income (loss) attributable to common stockholders
+	7,916
+	$
+(3,880)
+	$
+9,427
+RowEarnings per share (Note 21)
+			RowBasic earnings per common share - continuing operations
+	$
+5.66
+	$
+0.23 	6.12
+$
+RowBasic loss per common share – discontinued operations
+	$
+0.05
+	$
+2.88 	$
+RowBasic earnings (loss) per common share
+	$
+5.61
+	(2.65) $
+	$
+6.12
+RowWeighted-average common shares outstanding - basic
+	1,411
+	1,465
+	1,540
+RowDiluted earnings per common share – continuing operations
+	$
+5.58
+	$
+0.22
+	$
+6.00
+RowDiluted loss per common share - discontinued operations
+	$
+0.05
+	$
+2.82
+	$
+RowDiluted earnings (loss) per common share
+	$
+5.53
+	$
+(2.60)
+	$
+6.00
+RowWeighted average common shares outstanding - diluted
+	1,431
+	1,492
+	1,570
+Row	2018
+	2017
+	2016
+Row	$
+8,005
+	$
+(3,882)
+	$
+9,268
+Row	(715)
+	747
+	(384)
+Row	(221)
+	570
+	(969)
+Row	(936)
+	1,317
+	(1,353)
+Row	7,069
+	(2,565)
+	7,915
+Row	15
+	20
+	218
+Row$
+	7,084
+	(2,545)
+$
+	$
+8,133
+RowNet income (loss)
+	$
+RowOther comprehensive income (loss), net of tax (Note 20)
+	RowForeign currency translation adjustments and other
+	RowDefined benefit plans
+	RowOther comprehensive income (loss), net of tax
+	RowComprehensive income (loss)
+	RowComprehensive loss attributable to noncontrolling interests
+	RowComprehensive income (loss) attributable to stockholders
+	$
+RowASSETS
+	December 31, 2018
+	December 31, 2017
+RowCurrent Assets
+		RowCash and cash equivalents
+	$
+20,844
+	$
+15,512
+RowMarketable securities (Note 4)
+	5,966
+	8,313
+RowAccounts and notes receivable (net of allowance of $211 and $278)
+	6,549
+	8,164
+RowGM Financial receivables, net (Note 5; Note 11 at VIES)
+	26,850
+	20,521
+RowInventories (Note 6)
+	9,816
+	10,663
+RowEquipment on operating leases, net (Note 7)
+	247
+	1,106
+RowOther current assets (Note 4; Note 11 at VIEs)
+	5,021
+	4,465
+RowTotal current assets
+	75,293
+	68,744
+RowNon-current Assets
+		RowGM Financial receivables, net (Note 5; Note 11 at VIES)
+	25,083
+	21,208
+RowEquity in net assets of nonconsolidated affiliates (Note 8)
+	9,215
+	9,073
+RowProperty, net (Note 9)
+	38,758
+	36,253
+RowGoodwill and intangible assets, net (Note 10)
+	5,579
+	5,849
+RowEquipment on operating leases, net (Note 7; Note 11 at VIES)
+	43,559
+	42,882
+RowDeferred income taxes (Note 17)
+	24,082
+	23,544
+RowOther assets (Note 4; Note 11 at VIES)
+	5,770
+	4,929
+RowTotal non-current assets
+	152,046
+	143,738
+RowTotal Assets
+	227,339
+$
+	$
+212,482
+RowCurrent Liabilities
+		RowAccounts payable (principally trade)
+	$
+22,297
+	$
+23,929
+RowShort-term debt and current portion of long-term debt (Note 13)
+		RowAutomotive
+	935
+	2,515
+RowGM Financial (Note 11 at VIES)
+	30,956
+	24,450
+RowAccrued liabilities (Note 12)
+	28,049
+	25,996
+RowTotal current liabilities
+	82,237
+	76,890
+RowNon-current Liabilities
+		RowLong-term debt (Note 13)
+		RowAutomotive
+	13,028
+	10,987
+RowGM Financial (Note 11 at VIES)
+	60,032
+	56,267
+RowPostretirement benefits other than pensions (Note 15)
+	5,370
+	5,998
+RowPensions (Note 15)
+	11,538
+	13,746
+RowOther liabilities (Note 12)
+	12,357
+	12,394
+RowTotal non-current liabilities
+	102,325
+	99,392
+RowTotal Liabilities
+	184,562
+	176,282
+RowCommitments and contingencies (Note 16)
+		RowEquity (Note 20)
+		RowCommon stock, $0.01 par value
+	14
+	14
+RowAdditional paid-in capital
+	25,563
+	25,371
+RowRetained earnings
+	22,322
+	17,627
+RowAccumulated other comprehensive loss
+	(9,039)
+	(8,011)
+RowTotal stockholders' equity
+	38,860
+	35,001
+RowNoncontrolling interests
+	3,917
+	1,199
+RowTotal Equity
+	42,777
+	36,200
+RowTotal Liabilities and Equity
+	227,339
+$
+	212,482
+$
+RowCash flows from operating activities
+	2018
+	2017
+	2016
+RowIncome from continuing operations
+	$
+8,075
+	$
+330
+	$
+9,269
+RowDepreciation and impairment of Equipment on operating leases, net
+	7,604
+	6,805
+	4,804
+RowDepreciation, amortization and impairment charges on Property, net
+	6,065
+	5,456
+	5,015
+RowForeign currency remeasurement and transaction losses
+	168
+	52
+	229
+RowUndistributed earnings of nonconsolidated affiliates, net
+	(141)
+	(132)
+	(15)
+RowPension contributions and OPEB payments
+	(2,069)
+	(1,636)
+	(3,454)
+RowPension and OPEB income, net
+	(1,280)
+	(934)
+	(769)
+RowProvision (benefit) for deferred taxes
+	(112)
+	10,880
+	2,228
+RowChange in other operating assets and liabilities (Note 26)
+	(1,376)
+	(3,015)
+	580
+RowOther operating activities
+	(1,678)
+	(468)
+	(894)
+RowNet cash provided by operating activities – continuing operations
+	15,256
+	17,338
+	16,993
+RowNet cash used in operating activities – discontinued operations
+		(10)
+	(386)
+RowNet cash provided by operating activities
+	15,256
+	17,328
+	16,607
+RowCash flows from investing activities
+			RowExpenditures for property
+	(8,761)
+	(8,453)
+	(8,384)
+RowAvailable-for-sale marketable securities, acquisitions
+	(2,820)
+	(5,503)
+	(15,182)
+RowTrading marketable securities, acquisitions
+			(262)
+RowAvailable-for-sale marketable securities, liquidations
+	5,108
+	9,007
+	10,871
+RowTrading marketable securities, liquidations
+			872
+RowAcquisition of companies/investments, net of cash acquired
+	(83)
+	(41)
+	(804)
+RowPurchases of finance receivables, net
+	(25,671)
+	(19,325)
+	(14,378)
+RowPrincipal collections and recoveries on finance receivables
+	17,048
+	12,578
+	9,899
+RowPurchases of leased vehicles, net
+	(16,736)
+	(19,180)
+	(19,495)
+RowProceeds from termination of leased vehicles
+	10,864
+	6,667
+	2,554
+RowOther investing activities
+	122
+	178
+	162
+RowNet cash used in investing activities – continuing operations
+	(20,929)
+	(24,072)
+	(34,147)
+RowNet cash provided by (used in) investing activities - discontinued operations (Note 22)
+	166
+	(3,500)
+	(1,496)
+RowNet cash used in investing activities
+	(20,763)
+	(27,572)
+	(35,643)
+RowCash flows from financing activities
+			RowNet increase (decrease) in short-term debt
+	1,186
+	(140)
+	(282)
+RowProceeds from issuance of debt (original maturities greater than three months)
+	43,801
+	52,187
+	42,036
+RowPayments on debt (original maturities greater than three months)
+	(33,323)
+	(33,592)
+	(20,727)
+RowPayments to purchase common stock
+	(190)
+	(4,492)
+	(2,500)
+RowProceeds from issuance of subsidiary preferred and common stock (Note 20)
+	2,862
+	985
+	RowDividends paid
+	(2,242)
+	(2,233)
+	(2,368)
+RowOther financing activities
+	(640)
+	(305)
+	(163)
+RowNet cash provided by financing activities – continuing operations
+	11,454
+	12,410
+	15,996
+RowNet cash provided by financing activities – discontinued operations
+		174
+	1,081
+RowNet cash provided by financing activities
+	11,454
+	12,584
+	17,077
+RowEffect of exchange rate changes on cash, cash equivalents and restricted cash
+	(299)
+	348
+	(213)
+RowNet increase (decrease) in cash, cash equivalents and restricted cash
+	5,648
+	2,688
+	(2,172)
+RowCash, cash equivalents and restricted cash at beginning of period
+	17,848
+	15,160
+	17,332
+RowCash, cash equivalents and restricted cash at end of period
+	$
+23,496
+	17,848
+$
+	$
+15,160
+RowCash, cash equivalents and restricted cash – continuing operations at end of period (Note 4)
+	$
+23,496
+	$
+17,848
+	$
+14,487
+RowCash, cash equivalents and restricted cash - discontinued operations at end of period
+	$
+	$
+	673
+$
+RowSignificant Non-cash Investing and Financing Activity
+			RowNon-cash property additions - continuing operations
+	$
+3,813
+	$
+3,996
+	$
+3,897
+RowNon-cash property additions – discontinued operations
+	$
+		868
+$
+RowNon-cash business acquisition continuing operations
+	$
+		$
+290
+RowNon-cash proceeds on sale of discontinued operations (Note 22)
+	$
+	$
+808
+	$

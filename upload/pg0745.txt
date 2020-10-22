@@ -1,0 +1,29 @@
+Row:Amounts in millions except per share amounts; Years ended June 30 	2019 	2018 	2017
+Row:NET SALES $ 	67,684 	$ 66,832 	$ 65,058
+Row:Cost of products sold 	34,768 	34,432 	32,638
+Row:Selling, general and administrative expense 	19,084 	19,037 	18,654
+Row:Goodwill and indefinite lived intangibles impairment charges 	8,345 	— 	—
+Row:OPERATING INCOME 	5,487 	13,363 	13,766
+Row:Interest expense 	509 	506 	465
+Row:Interest income 	220 	247 	171
+Row:Other non-operating income/(expense), net 	871 	222 	(215)
+Row:EARNINGS FROM CONTINUING OPERATIONS BEFORE INCOME TAXES 	6,069 	13,326 	13,257
+Row:Income taxes on continuing operations 	2,103 	3,465 	3,063
+Row:NET EARNINGS FROM CONTINUING OPERATIONS 	3,966 	9,861 	10,194
+Row:NET EARNINGS FROM DISCONTINUED OPERATIONS 	— 	— 	5,217
+Row:NET EARNINGS 	3,966 	9,861 	15,411
+Row:Less: Net earnings attributable to noncontrolling interests 	69 	111 	85
+Row:NET EARNINGS ATTRIBUTABLE TO PROCTER & GAMBLE $ 	3,897 	$ 9,750 	$ 15,326
+Row:BASIC NET EARNINGS PER COMMON SHARE: (1)
+			Row:Earnings from continuing operations $ 	1.45 	$ 3.75 	$ 3.79
+Row:Earnings from discontinued operations 	— 	— 	2.01
+Row:BASIC NET EARNINGS PER COMMON SHARE $ 	1.45 	$ 3.75 	$ 5.80
+Row:DILUTED NET EARNINGS PER COMMON SHARE: (1)
+			Row:BASIC NET EARNINGS PER COMMON SHARE: (1)
+			Row:Earnings from continuing operations $ 	1.45 	$ 3.75 	$ 3.79
+Row:Earnings from discontinued operations 	— 	— 	2.01
+Row:BASIC NET EARNINGS PER COMMON SHARE $ 	1.45 	$ 3.75 	$ 5.80
+Row:DILUTED NET EARNINGS PER COMMON SHARE: (1)
+			Row:Earnings from continuing operations $ 	1.43 	$ 3.67 	$ 3.69
+Row:Earnings from discontinued operations 	— 	— 	1.90
+Row:DILUTED NET EARNINGS PER COMMON SHARE $ 	1.43 	$ 3.67 	$ 5.59

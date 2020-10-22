@@ -1,0 +1,132 @@
+Row:2018 	December 31,
+2017
+Row:Assets
+	Row:Current assets:
+	Row:Cash and cash equivalents $ 	44 $ 62
+Row:Accounts receivable, net of allowances for doubtful accounts of $3 million as
+	Row:of December 31, 2018 and 2017, respectively 	520 479
+Row:Inventories, net 	520 458
+Row:Income tax receivable 	24 40
+Row:Prepaid expenses and other current assets 	54 24
+Row:Total Current assets 	1,162 1,063
+Row:Property, plant and equipment, net 	249 264
+Row:Goodwill 	2,495 2,465
+Row:Other intangibles, net 	232 299
+Row:Long-term deferred income taxes 	114 119
+Row:Other long-term assets Total Assets $ 	87 65
+4,339 $ 4,275
+Row:Liabilities and Stockholders' Equity
+	Row:Current liabilities:
+Current portion of long-term debt $ Accounts payable Accrued liabilities 	157 $ 51
+552 424
+322 296
+Row:Deferred revenue 	210 186
+Row:Income taxes payable 	60 43
+Row:Total Current liabilities 	1,301 1,000
+Row:Long-term debt Long-term deferred income taxes 	1,434 2,176
+8 —
+Row:Long-term deferred revenue Other long-term liabilities 	172 148
+89 117
+Row:Total Liabilities 	3,004 3,441
+Row:Stockholders’ Equity:
+Preferred stock, $.01 par value; authorized 10,000,000 shares; none issued 	— —
+Row:Class A common stock, $.01 par value; authorized 150,000,0000 shares;
+issued 72,151,857 shares 	1 1
+Row:Additional paid-in capital 	294 257
+Row:Treasury stock at cost, 18,280,673 and 18,915,762 shares at December 31,
+2018 and December 31, 2017, respectively 	(613) (620)
+Row:Retained earnings 	1,688 1,248
+Row:Accumulated other comprehensive income (loss) 	(35) (52)
+Row:Total Stockholders’ Equity 	1,335 834
+Row:Total Liabilities and Stockholders’ Equity $ 	4,339 $ 4,275
+Row:See accompanying Notes to Consolidated Financial Statements.
+	Row:Stockholders’ Equity:
+		Row:Preferred stock, $.01 par value; authorized 10,000,000 shares; none issued 	— 	—
+Row:Class A common stock, $.01 par value; authorized 150,000,0000 shares;
+		Row:issued 72,151,857 shares 	1 	1
+Row:Additional paid-in capital 	294 	257
+Row:Treasury stock at cost, 18,280,673 and 18,915,762 shares at December 31,
+2018 and December 31, 2017, respectively 	(613) 	(620)
+Row:Retained earnings 	1,688 	1,248
+Row:Accumulated other comprehensive income (loss) 	(35) 	(52)
+Row:Total Stockholders’ Equity 	1,335 	834
+Row:Total Liabilities and Stockholders’ Equity $ 	4,339 	$ 4,275
+Row:	Year 2018 	Ended December 2017 	31,
+2016
+Row:Net sales
+			Row:Tangible products 	$ 3,685 	$ 3,223 	$ 3,056
+Row:Services and software 	533 	499 	518
+Row:Total Net sales 	4,218 	3,722 	3,574
+Row:Cost of sales:
+			Row:Tangible products 	1,871 	1,677 	1,593
+Row:Services and software 	366 	335 	339
+Row:Total Cost of sales 	2,237 	2,012 	1,932
+Row:Gross profit 	1,981 	1,710 	1,642
+Row:Operating expenses:
+			Row:Selling and marketing 	483 	448 	444
+Row:Research and development 	444 	389 	376
+Row:General and administrative 	328 	301 	307
+Row:Amortization of intangible assets 	97 	184 	229
+Row:Acquisition and integration costs 	8 	50 	125
+Row:Impairment of goodwill and other intangibles 	— 	— 	62
+Row:Exit and restructuring costs 	11 	16 	19
+Row:Total Operating expenses 	1,371 	1,388 	1,562
+Row:Operating income 	610 	322 	80
+Row:Other (expenses) income:
+			Row:Foreign exchange loss 	(5) 	(1) 	(5)
+Row:Interest expense, net 	(91) 	(227) 	(193)
+Row:Other, net 	10 	(6) 	(11)
+Row:Total Other expenses, net 	(86) 	(234) 	(209)
+Row:Income (loss) before income tax 	524 	88 	(129)
+Row:Income tax expense 	103 	71 	8
+Row:Net income (loss) 	$ 421 	$ 17 	$ (137 )
+Row:Basic earnings (loss) per share 	$ 7.86 	$ 0.33 	$ (2.65 )
+Row:Diluted earnings (loss) per share 	$ 7.76 	$ 0.32 	$ (2.65 )
+Row:Cash flows from operating activities:
+	Year Ended December 31,
+2018 2017 2016
+Row:Net income (loss) $ 	421 $ 17 $ (137)
+Row:Adjustments to reconcile net income (loss) to net cash provided by
+operating activities:
+	Row:Depreciation and amortization 	175 263 304
+Row:Impairment of goodwill, intangibles and other assets 	— — 62
+Row:Investment (Gain)/Loss Amortization of debt issuance costs and discounts 	(10) 1 7
+15 38 23
+Row:Share-based compensation 	45 35 27
+Row:Debt extinguishment costs 	1 65 —
+Row:Deferred income taxes 	2 (9) (44)
+Row:Unrealized gain on forward interest rate swaps 	(8) (2) —
+Row:Other, net 	4 4 3
+Row:Changes in operating assets and liabilities:
+	Row:Accounts receivable, net 	(31) 161 34
+Row:Inventories, net 	(43) (110) 34
+Row:Other assets 	(12) 16 7
+Row:Accounts payable 	122 (49) 122
+Row:Accrued liabilities 	35 13 (26)
+Row:Deferred revenue 	51 17 7
+Row:Income taxes 	24 26 (41)
+Row:Other operating activities 	(6) (8) (2)
+Row:Net cash provided by operating activities 	785 478 380
+Row:Cash flows from investing activities:
+	Row:Acquisition of businesses, net of cash acquired 	(72) — —
+Row:Purchases of property, plant and equipment 	(64) (50) (77)
+Row:Proceeds from the sale of a business 	— — 39
+Row:Proceeds from the sale of long-term investments 	2 — —
+Row:Purchases of long-term investments 	(3) (1) (1)
+Row:Net cash used in investing activities 	(137) (51) (39)
+Row:Cash flows from financing activities:
+	Row:Payments of debt issuance costs and discounts 	(2) (5) (5)
+Row:Proceeds from issuance of long-term debt 	909 1,371 102
+Row:Payments of long term-debt 	(1,566) (1,825) (484)
+Row:Payments of debt extinguishment costs 	(1) (65) —
+Row:Proceeds from exercise of stock options and stock purchase plan purchases 	10 12 11
+Row:Taxes paid related to net share settlement of equity awards 	(11) (5) (8)
+Row:Net cash used in financing activities 	(661) (517) (384)
+Row:Effect of exchange rate changes on cash 	(5) (4) 7
+Row:Net decrease in cash and cash equivalents 	(18) (94) (36)
+Row:Cash and cash equivalents at beginning of year 	62 156 192
+Row:Cash and cash equivalents at end of year $ Supplemental disclosures of cash flow information:
+	44 $ 62 $ 156
+Row:Income taxes paid $ 	76 $ 65 $ 81
+Row:See accompanying Notes to Consolidated Financial Statements.
+Interest paid $ 	90 $ 195 $ 180

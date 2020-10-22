@@ -1,0 +1,552 @@
+Row	As of
+November 30, 2019
+	As of
+November 30, 2018
+RowAssets
+		RowCurrent assets:
+		RowCash and cash equivalents
+	$
+111.5
+$
+	120.0
+RowAccounts receivable, net
+	890.7
+	792.9
+RowDeferred subscription costs
+	72.1
+	77.3
+RowAssets held for sale
+	115.3
+	RowOther current assets
+	118.2
+	109.2
+RowTotal current assets
+	1,307.8
+	1,099.4
+RowNon-current assets:
+		RowProperty and equipment, net
+	658.2
+	579.6
+RowIntangible assets, net
+	4,169.0
+	4,484.8
+RowGoodwill
+	9,836.3
+	9,836.0
+RowDeferred income taxes
+	17.8
+	14.6
+RowOther
+	98.1
+	47.9
+RowTotal non-current assets
+	14,779.4
+	14,962.9
+RowTotal assets
+	$
+16,087.2
+$
+	16,062.3
+RowLiabilities and equity
+		RowCurrent liabilities:
+		RowShort-term debt
+	$
+251.1
+$
+	789.9
+RowAccounts payable
+	59.7
+	42.2
+RowAccrued compensation
+	215.2
+	214.1
+RowOther accrued expenses
+	479.1
+	379.3
+RowIncome tax payable
+	58.5
+	8.0
+RowDeferred revenue
+	879.7
+	886.8
+RowLiabilities held for sale
+	25.9
+	RowTotal current liabilities
+	1,969.2
+	2,320.3
+RowLong-term debt, net
+	4,874.4
+	4,889.2
+RowDeferred income taxes
+	667.2
+	699.9
+RowOther liabilities
+	145.5
+	126.5
+RowCommitments and contingencies
+		RowRedeemable noncontrolling interests
+	15.1
+	5.9
+RowShareholders' equity:
+		RowCommon shares, $0.01 par value, 3,000.0 authorized, 476.3 and 472.9 issued, and 398.3 and 397.1 outstanding at November 30, 2019 and November 30, 2018,
+respectively
+	4.8
+	4.7
+RowAdditional paid-in capital
+	7,769.4
+	7,680.4
+RowTreasury shares, at cost: 78.0 and 75.8 at November 30, 2019 and November 30, 2018, respectively
+	(2,391.8)
+	(2,108.8)
+RowRetained earnings
+	3,295.0
+	2,743.1
+RowAccumulated other comprehensive loss
+	(261.6)
+	(298.9)
+RowTotal shareholders' equity
+	8,415.8
+	8,020.5
+RowTotal liabilities and equity
+	$
+16,087.2
+$
+	16,062.3
+RowRevenue
+	2019
+$
+4,414.6
+	2018
+$
+4,009.2
+	$
+	2017
+3,599.7
+RowOperating expenses:
+				RowCost of revenue
+	1,657.0
+	1,495.7
+		1,348.4
+RowSelling, general and administrative
+	1,197.9
+	1,192.8
+		1,096.0
+RowDepreciation and amortization
+	573.1
+	541.2
+		492.5
+RowRestructuring charges
+	17.3
+	1.7
+		RowAcquisition-related costs
+	70.3
+	134.8
+		113.0
+RowOther (income) expense, net
+	(104.5)
+	1.7
+		18.7
+RowTotal operating expenses
+	3,411.1
+	3,367.9
+		3,068.6
+RowOperating income
+	1,003.5
+	641.3
+		531.1
+RowInterest income
+	1.9
+	3.1
+		2.2
+RowInterest expense
+	(259.7)
+	(225.7)
+		(154.3)
+RowNet periodic pension and postretirement (expense) income
+	(2.8)
+	5.6
+		(6.9)
+RowNon-operating expense, net
+	(260.6)
+	(217.0)
+		(159.0)
+RowIncome from continuing operations before income taxes and equity in loss of equity method investees
+	742.9
+	424.3
+		372.1
+Row(Provision) benefit for income taxes
+	(242.6)
+	115.4
+		49.9
+RowEquity in loss of equity method investees
+	(0.9)
+	(0.5)
+		(5.0)
+RowNet income
+	499.4
+$
+	$
+539.2
+	$
+	417.0
+RowNet loss (income) attributable to noncontrolling interest
+	3.3
+	3.1
+		(0.1)
+RowNet income attributable to IHS Markit Ltd.
+	502.7
+	$
+542.3
+	$
+	416.9
+RowBasic earnings per share attributable to IHS Markit Ltd.
+	1.26
+	$
+1.38
+	$
+	1.04
+RowWeighted average shares used in computing basic earnings per share
+	399.5
+	394.4
+		400.3
+RowDiluted earnings per share attributable to IHS Markit Ltd.
+	$
+1.23
+	$
+1.33
+	$
+	1.00
+RowWeighted average shares used in computing diluted earnings per share
+	409.2
+	406.9
+		416.2
+Row		Year ended 	November 30,
+	Row2019
+		2018
+		2017
+Row$
+	499.4
+	$
+	539.2
+	$
+417.0
+Row	(3.2)
+		7.6
+	6.6
+Row	(5.7)
+		4.8
+	1.4
+Row	46.2
+		(220.4)
+	345.8
+Row	37.3
+		(208.0)
+	353.8
+Row$
+	536.7
+	A
+	331.2
+	$
+770.8
+Row	3.3
+		3.1
+	(0.1)
+Row	540.0
+	$
+	334.3
+	770.7
+$
+RowOperating activities:
+	2019
+	2018
+	2017
+Row$
+Net income
+	499.4
+	$
+539.2
+	$
+417.0
+RowReconciliation of net income to net cash provided by operating activities:
+			RowDepreciation and amortization
+	573.1
+	541.2
+	492.5
+RowStock-based compensation expense
+	223.8
+	241.7
+	261.9
+RowGain on sale of assets
+	(115.3)
+		RowNet periodic pension and postretirement expense (income)
+	2.8
+	(5.6)
+	6.9
+RowUndistributed loss (income) of affiliates, net
+	0.4
+	(0.8)
+	5.2
+RowPension and postretirement contributions
+	(2.0)
+	(2.6)
+	(5.7)
+RowDeferred income taxes
+	(49.6)
+	(211.7)
+	(100.1)
+RowChange in assets and liabilities:
+			RowAccounts receivable, net
+	(67.9)
+	(11.8)
+	(27.5)
+RowOther current assets
+	(79.9)
+	(2.2)
+	(34.6)
+RowAccounts payable
+	30.9
+	32.5
+	(20.0)
+RowAccrued expenses
+	39.7
+	82.5
+	(42.8)
+RowIncome tax
+	88.7
+	23.5
+	(14.7)
+RowDeferred revenue
+	38.8
+	26.6
+	4.7
+RowOther liabilities
+	68.4
+	37.0
+	18.7
+RowNet cash provided by operating activities
+	1,251.3
+	1,289.5
+	961.5
+RowInvesting activities:
+			RowCapital expenditures on property and equipment
+	(278.1)
+	(222.7)
+	(260.2)
+RowAcquisitions of businesses, net of cash acquired
+	(136.5)
+	(1,876.2)
+	(401.1)
+RowProceeds from sale of assets
+	163.5
+		RowChange in other assets
+	(18.3)
+	(6.2)
+	0.5
+RowSettlements of forward contracts
+	(2.1)
+	(7.0)
+	14.5
+RowNet cash used in investing activities
+	(271.5)
+	(2,112.1)
+	(646.3)
+Rownancing activities:
+			RowProceeds from borrowings
+	2,631.7
+	4,617.0
+	3,194,5
+RowRepayment of borrowings
+	(3,188.9)
+	(3,122.6)
+	(2,381.2)
+RowPayment of debt issuance costs
+	(13.2)
+	(30.8)
+	(14.4)
+RowPayments for purchase of noncontrolling interests
+		(10.1)
+	(57.0)
+RowProceeds from noncontrolling interests
+	12.5
+		7.5
+RowContingent consideration payments
+	(2.2)
+	(43.0)
+	(2.6)
+RowRepurchases of common shares
+	(500.0)
+	(672.5)
+	(1,317.8)
+RowPayments related to tax withholding for stock-based compensation
+	(75.6)
+	(95.0)
+	(89.9)
+RowProceeds from the exercise of employee stock options
+	177.7
+	230.0
+	331.6
+RowNet cash (used in) provided by financing activities
+	(958.0)
+	873.0
+	(329.3)
+RowForeign exchange impact on cash balance
+	(30.3)
+	(64.2)
+	9.0
+RowNet decrease in cash and cash equivalents
+	(8.5)
+	(13.8)
+	(5.1)
+RowCash and cash equivalents at the beginning of the period
+	120.0
+	133.8
+	138.9
+RowCash and cash equivalents at the end of the period
+	111.5
+	$
+120.0
+	$
+133.8
+Row	Common Shares Outstanding
+	Shares
+Amount
+	Additional
+Paid-In
+Capital
+	Treasury
+Shares
+	Retained
+Earnings
+	Accumulated Other
+Comprehensive
+Loss
+	Total Shareholders' Equity
+	Redeemable Noncontrolling
+Interests
+RowBalance at November 30, 2016
+	415.0
+	$
+4.5
+	$
+7,210.9
+	(499.1)
+	1,806.9
+	$
+(438.8)
+	8,084.4
+	$
+57.7
+RowRepurchases of common shares
+	(32.3)
+			(1,317.8)
+			(1,317.8)
+	RowShare-based award activity
+	2.3
+	0.1
+	68.7
+	71.9
+			140.7
+	RowOption exercises
+	14.2
+	0.1
+	332.5
+				332.6
+	RowNet income
+					416.9
+		416.9
+	0.1
+RowIssuance of noncontrolling interests
+								10.0
+RowPurchase of noncontrolling interests
+								(57.0)
+RowOther noncontrolling interest activity
+					(6.2)
+		(6.2)
+	8.3
+RowOther comprehensive income
+						353.8
+	353.8
+	RowBalance at November 30, 2017
+	399,2
+	4.7
+	7,612.1
+	(1,745.0)
+	2,217.6
+	(85.0)
+	8,004.4
+	19.1
+RowRepurchases of common shares
+	(14.2)
+			(672.5)
+			(672.5)
+	RowShare-based award activity
+	2.5
+		(162.9)
+	308.7
+	(22.7)
+		123.1
+	RowOption exercises
+	9.6
+		231.2
+				231.2
+	RowNet income (loss)
+					542.3
+		542.3
+	(3.1)
+RowImpact of the Tax Cuts and Jobs Act of 2017
+					5.9
+	(5.9)
+		RowPurchase of noncontrolling interests
+								(10.1)
+RowOther comprehensive loss
+						(208.0)
+	(208.0)
+	RowBalance at November 30, 2018
+	397.1
+	4.7
+	7,680.4
+	(2,108.8)
+	2,743.1
+	(298.9)
+	8,020.5
+	5.9
+RowRepurchases of common shares
+	(7.6)
+			(500.0)
+			(500.0)
+	RowShare-based award activity
+	2.1
+	0.1
+	(86.5)
+	217.0
+	(6.8)
+		123.8
+	RowOption exercises
+	6.7
+		175.5
+				175.5
+	RowNet income (loss)
+					502.7
+		502.7
+	(3.3)
+RowAdjustment to opening retained earnings related to adoption of ASC Topic
+606
+					56.0
+		56.0
+	RowIssuance of noncontrolling interests
+								12.5
+RowOther comprehensive loss
+						37.3
+	37.3
+	RowBalance at November 30, 2019
+	398.3
+	$
+4.8
+	7,769.4
+	$
+(2,391.8)
+	3,295.0
+	S
+(261.6)
+	8,415.8
+	15.1

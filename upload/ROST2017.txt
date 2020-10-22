@@ -1,0 +1,115 @@
+Row:($000, except per share data) 	Year Ended January 28, 2017 	Year Ended January 30, 2016 	Year Ended
+January 31, 2015
+Row:Sales 	$ 12,866,757 $ 	11,939,999 	$ 11,041,677
+Row:Costs and Expenses
+			Row:Cost of goods sold 	9,173,705 	8,576,873 	7,937,956
+Row:Selling, general and administrative 	1,890,408 	1,738,755 	1,615,371
+Row:Interest expense, net 	16,488 	12,612 	2,984
+Row:Total costs and expenses 	11,080,601 	10,328,240 	9,556,311
+Row:Earnings before taxes Provision for taxes on earnings Net earnings 	1,786,156 668,502 $ 1,117,654 $ 	1,611,759 591,098 1,020,661 	1,485,366
+560,642
+$ 924,724
+Row:Earnings per share
+			Row:Basic Diluted 	$ 2.85 $ $ 2.83 $ 	2.53 2.51 	$ 2.24
+$ 2.21
+Row:Weighted average shares outstanding (000)
+Basic 	392,124 	403,034 	413,553
+Row:Diluted 	394,958 	406,405 	418,077
+Row:($000) 	Year Ended January 28, 2017 	Year Ended January 30, 2016 	Year Ended
+January 31, 2015
+Row:Net earnings 	$ 1,117,654 	$ 1,020,661 	$ 924,724
+Row:Other comprehensive income (loss):
+Change in unrealized loss on investments, net of tax 	(91 ) 	(148 ) 	(59 )
+Row:Comprehensive income 	$ 1,117,563 	$ 1,020,513 	$ 924,665
+Row:($000, except share data) 	January 28, 2017 	January 30, 2016
+Row:Assets
+Current Assets
+Cash and cash equivalents Short-term investments Accounts receivable 	$ 1,111,599 $ — 75,154 	761,602
+1,737
+73,627
+Row:Merchandise inventory 	1,512,886 	1,419,104
+Row:Prepaid expenses and other 	113,410 	116,125
+Row:Total current assets 	2,813,049 	2,372,195
+Row:Property and Equipment
+		Row:Land and buildings 	1,101,334 	1,084,328
+Row:Fixtures and equipment 	2,421,645 	2,244,790
+Row:Leasehold improvements 	998,508 	920,392
+Row:Construction-in-progress 	69,767 	90,399
+Row:Less accumulated depreciation and amortization 	4,591,254 2,263,206 	4,339,909
+1,997,003
+Row:Property and equipment, net 	2,328,048 	2,342,906
+Row:Long-term investments Other long-term assets 	1,288 166,966 	1,331
+152,687
+Row:Total assets 	$ 5,309,351 $ 	4,869,119
+Row:Liabilities and Stockholders’ Equity
+Current Liabilities
+		Row:Accounts payable Accrued expenses and other Accrued payroll and benefits 	$ 1,021,735 $ 398,126 316,492 	945,559
+376,522
+280,766
+Row:Income taxes payable 	16,153 	—
+Row:Total current liabilities 	1,752,506 	1,602,847
+Row:Long-term investments 	1,288 	1,331
+Row:Other long-term assets 	166,966 	152,687
+Row:Total assets 	$ 5,309,351 $ 	4,869,119
+Row:Liabilities and Stockholders’ Equity
+		Row:Current Liabilities
+Accounts payable 	$ 1,021,735 $ 	945,559
+Row:Accrued expenses and other 	398,126 	376,522
+Row:Accrued payroll and benefits 	316,492 	280,766
+Row:Income taxes payable 	16,153 	—
+Row:Total current liabilities 	1,752,506 	1,602,847
+Row:Long-term debt Other long-term liabilities 	396,493 290,950 	396,025
+268,168
+Row:Deferred income taxes 	121,385 	130,088
+Row:Commitments and contingencies
+		Row:Stockholders’ Equity
+		Row:Common stock, par value $.01 per share 	3,919 	4,023
+Row:Authorized 1,000,000,000 shares
+		Row:Issued and outstanding 391,893,000 and
+		Row:402,339,000 shares, respectively
+		Row:Additional paid-in capital 	1,215,715 	1,122,329
+Row:Treasury stock 	(272,846 ) 	(229,525 )
+Row:Accumulated other comprehensive income 	91 	182
+Row:Retained earnings 	1,801,138 	1,574,982
+Row:Total stockholders’ equity 	2,748,017 	2,471,991
+Row:Total liabilities and stockholders’ equity 	$ 5,309,351 $ 	4,869,119
+Row:($000) 	Year Ended January 28, 2017 	Year Ended January 30, 2016 	Year Ended
+January 31, 2015
+Row:Cash Flows From Operating Activities
+Net earnings 	$ 1,117,654 $ 	1,020,661 $ 	924,724
+Row:Adjustments to reconcile net earnings to net cash
+provided by operating activities:
+			Row:Depreciation and amortization 	302,515 	274,828 	232,959
+Row:Stock-based compensation 	74,554 	70,937 	53,001
+Row:Deferred income taxes Tax benefit from equity issuance 	(8,703 ) 23,331 	56,358 42,382 	25,086
+29,759
+Row:Excess tax benefit from stock-based compensation Change in assets and liabilities:
+	(23,331 ) 	(42,302 ) 	(29,415 )
+Row:Merchandise inventory 	(93,782 ) 	(46,429 ) 	(115,520 )
+Row:Other current assets 	(928 ) 	(13,496 ) 	(16,410 )
+Row:Accounts payable 	83,085 	(41,464 ) 	204,158
+Row:Other current liabilities 	76,676 	7,796 	69,568
+Row:Other long-term, net 	7,780 	(3,019 ) 	(5,045 )
+Row:Net cash provided by operating activities 	1,558,851 	1,326,252 	1,372,865
+Row:Cash Flows From Investing Activities
+			Row:Additions to property and equipment 	(297,880 ) 	(366,960 ) 	(646,691 )
+Row:Decrease (increase) in restricted cash and investments 	3,388 	4,065 	(4,329 )
+Row:Purchases of investments 	— 	(718 ) 	—
+Row:Proceeds from investments Net cash used in investing activities 	1,729 (292,763 ) 	1,104 (362,509 ) 	12,021
+(638,999 )
+Row:Cash Flows From Financing Activities
+Excess tax benefit from stock-based compensation 	23,331 	42,302 	29,415
+Row:Net proceeds from issuance of long-term debt Issuance of common stock related to stock plans 	— 18,539 	— 20,186 	245,676
+21,978
+Row:Treasury stock purchased 	(43,321 ) 	(68,925 ) 	(39,041 )
+Row:Repurchase of common stock 	(700,000 ) 	(700,000 ) 	(550,000 )
+Row:Dividends paid Net cash used in financing activities 	(214,640 ) (916,091 ) 	(192,312 ) (898,749 ) 	(168,454 )
+(460,426 )
+Row:Net increase in cash and cash equivalents Cash and cash equivalents:
+Beginning of year 	349,997 761,602 	64,994 696,608 	273,440
+423,168
+Row:End of year 	$ 1,111,599 $ 	761,602 $ 	696,608
+Row:Supplemental Cash Flow Disclosures
+Interest paid Income taxes paid The accompanying notes are an integral part of these consolidated financial statements.
+	$ 18,105 $ $ 628,441 $ 	18,035 $ 523,597 $ 	9,668
+510,145

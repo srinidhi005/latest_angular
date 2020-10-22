@@ -1,0 +1,192 @@
+RowYear Ended December 31, 	2018 	2017 	2016
+RowRevenues:
+			RowAgency commissions and fees 	$ 891,774 	$ 809,571 	$ 724,398
+RowInventory sales 	80,808 	178,982 	62,863
+RowFinance 	43,887 	50,937 	52,716
+RowOther 	19,271 	17,890 	17,965
+RowTotal revenues 	1,035,740 	1,057,380 	857,942
+RowExpenses:
+			RowAgency direct costs 	184,491 	150,133 	125,889
+RowCost of inventory sales 	81,103 	181,487 	81,782
+RowCost of finance revenues 	4,056 	19,312 	17,738
+RowMarketing 	23,897 	25,377 	19,695
+RowSalaries and related 	342,687 	318,555 	315,640
+RowGeneral and administrative 	180,360 	172,950 	161,356
+RowDepreciation and amortization 	27,048 	24,053 	21,817
+RowRestructuring charges (see Note 25) 	10,753 	— 	—
+RowVoluntary separation incentive programs, net (see Note 24) 	— 	(162) 	(610)
+RowTotal expenses 	854,395 	891,705 	743,307
+RowOperating income 	181,345 	165,675 	114,635
+RowInterest income 	1,467 	1,184 	1,294
+RowInterest expense 	(39,984) 	(32,218) 	(30,310)
+RowExtinguishment of debt 	(10,855) 	— 	—
+RowWrite-off of credit facility fees 	(3,982) 	— 	—
+RowNon-operating income 	4,688 	7,045 	11,115
+RowIncome before taxes 	132,679 	141,686 	96,734
+RowIncome tax expense 	27,652 	25,415 	25,957
+RowEquity in earnings of investees 	3,591 	2,508 	3,262
+RowNet income 	108,618 	118,779 	74,039
+RowLess: Net loss attributable to noncontrolling interest 	(16) 	(17) 	(73)
+RowNet income attributable to Sotheby's 	$ 108,634 	$ 118,796 	$ 74,112
+RowBasic earnings per share - Sotheby's common shareholders 	$ 2.10 	$ 2.22 	$ 1.28
+RowDiluted earnings per share - Sotheby's common shareholders 	$ 2.09 	$ 2.20 	$ 1.27
+RowYear Ended December 31, 	2018 	2017 	2016
+RowNet income 	$ 108,618 	$ 118,779 	$ 74,039
+RowOther comprehensive (loss) income:
+			RowCurrency translation adjustments 	(9,510) 	13,889 	(34,899)
+RowCash flow hedges 	399 	2,635 	642
+RowNet investment hedges 	1,768 	(3,059) 	16,618
+RowDefined benefit pension plan 	(2,235) 	14,427 	(6,515)
+RowTotal other comprehensive (loss) income 	(9,578) 	27,892 	(24,154)
+RowComprehensive income 	99,040 	146,671 	49,885
+RowLess: Comprehensive loss attributable to noncontrolling interests 	(16) 	(17) 	(73)
+RowComprehensive income attributable to Sotheby's 	$ 99,056 	$ 146,688 	$ 49,958
+RowDecember 31, 	2018 	2017
+RowAssets
+		RowCurrent assets:
+		RowCash and cash equivalents 	$ 178,579 	$ 544,432
+RowRestricted cash (see Notes 11 and 15) 	4,836 	361,578
+RowAccounts receivable, net 	978,140 	795,239
+RowNotes receivable, net 	103,834 	87,746
+RowInventory 	43,635 	74,483
+RowIncome tax receivables 	3,353 	6,601
+RowPrepaid expenses and other current assets (see Note 14) 	38,631 	32,010
+RowTotal current assets 	1,351,008 	1,902,089
+RowNotes receivable, net 	602,389 	507,538
+RowFixed assets, net 	386,736 	352,035
+RowGoodwill 	55,573 	50,547
+RowIntangible assets, net 	12,993 	11,492
+RowIncome tax receivables 	16,694 	324
+RowDeferred income taxes 	37,035 	35,674
+RowOther long-term assets (see Note 14) 	226,660 	227,608
+RowTotal assets 	$ 2,689,088 	$ 3,087,307
+RowLiabilities and Shareholders' Equity
+		RowPrepaid expenses and other current assets (see Note 14) 	38,631 	32,010
+RowTotal current assets 	1,351,008 	1,902,089
+RowNotes receivable, net 	602,389 	507,538
+RowFixed assets, net 	386,736 	352,035
+RowGoodwill 	55,573 	50,547
+RowIntangible assets, net 	12,993 	11,492
+RowIncome tax receivables 	16,694 	324
+RowDeferred income taxes 	37,035 	35,674
+RowOther long-term assets (see Note 14) 	226,660 	227,608
+RowTotal assets 	$ 2,689,088 	$ 3,087,307
+RowLiabilities and Shareholders' Equity
+		RowCurrent liabilities:
+		RowClient payables 	$ 997,168 	$ 996,197
+RowAccounts payable and accrued liabilities 	101,366 	90,298
+RowAccrued salaries and related costs 	92,219 	94,310
+RowCurrent portion of long-term debt, net 	13,604 	308,932
+RowAccrued income taxes 	31,169 	8,127
+RowOther current liabilities (see Note 14) 	13,263 	18,762
+RowTotal current liabilities 	1,248,789 	1,516,626
+RowCredit facility borrowings 	280,000 	196,500
+RowLong-term debt, net 	638,786 	653,003
+RowAccrued income taxes 	19,933 	37,651
+RowDeferred income taxes 	14,569 	15,163
+RowOther long-term liabilities (see Note 14) 	45,517 	51,424
+RowTotal liabilities 	2,247,594 	2,470,367
+RowCommitments and contingencies (see Note 20)
+		RowShareholders’ equity:
+		RowCommon Stock, $0.01 par value 	711 	709
+RowAuthorized shares—200,000,000
+		RowIssued shares—71,188,120 and 70,830,184
+		RowOutstanding shares—46,346,863 and 52,461,996
+		RowAdditional paid-in capital 	463,623 	453,364
+RowTreasury stock shares, at cost: 24,841,257 and 18,368,188 	(839,284) 	(554,551)
+RowRetained earnings 	888,333 	779,699
+RowAccumulated other comprehensive loss 	(72,044) 	(62,466)
+RowTotal shareholders’ equity 	441,339 	616,755
+RowNoncontrolling interest 	155 	185
+RowTotal equity 	441,494 	616,940
+RowYear Ended December 31, 	2018 	2017 	2016
+RowOperating Activities:
+			RowNet income attributable to Sotheby's 	$ 108,634 	$ 118,796 	$ 74,112
+RowAdjustments to reconcile net income attributable to Sotheby's to net cash (used) provided by
+operating activities:
+			RowExtinguishment of debt 	10,855 	— 	—
+RowWrite-off of credit facility fees 	3,982 	— 	—
+RowDepreciation and amortization 	27,048 	24,053 	21,817
+RowDeferred income tax benefit 	(2,361) 	(27,985) 	(24,156)
+RowShare-based payments 	29,703 	23,479 	15,216
+RowNet pension benefit 	(3,155) 	(4,660) 	(6,895)
+RowInventory writedowns and bad debt provisions 	10,305 	14,902 	23,441
+RowAmortization of debt issuance costs 	1,736 	1,690 	1,619
+RowEquity in earnings of investees 	(3,591) 	(2,508) 	(3,262)
+RowOther 	1,246 	1,077 	794
+RowChanges in assets and liabilities:
+			RowAccounts receivable 	(278,225) 	(297,690) 	437,398
+RowClient payables 	17,337 	451,186 	(136,097)
+RowRelated party client payables (see Note 27) 	— 	— 	(285,418)
+RowInventory (see Note 13) 	19,335 	73,709 	29,746
+RowChanges in other operating assets and liabilities (see Note 15) 	(20,661) 	(7,589) 	7,873
+RowNet cash (used) provided by operating activities 	(77,812) 	368,460 	156,188
+RowInvesting Activities:
+			RowFunding of notes receivable 	(389,064) 	(198,481) 	(321,127)
+RowCollections of notes receivable 	363,494 	253,268 	305,770
+RowCapital expenditures 	(56,824) 	(20,694) 	(21,363)
+RowAcquisitions, net of cash acquired (see Notes 8 and 9) 	(6,094) 	(75) 	(54,343)
+RowFunding of investments 	(257) 	(6,542) 	(2,200)
+RowDistributions from investees 	3,204 	4,825 	1,925
+RowProceeds from the sale of equity investment 	— 	2,125 	325
+RowProceeds from company-owned life insurance 	— 	2,100 	2,182
+RowSettlement of net investment hedges (see Note 12) 	(1,747) 	29,110 	(3,308)
+RowNet cash (used) provided by investing activities 	(87,288) 	65,636 	(92,139)
+RowFinancing Activities:
+			RowProceeds from credit facility borrowings 	743,000 	181,500 	164,500
+RowRepayments of credit facility borrowings 	(659,500) 	(550,000) 	(141,000)
+RowRepayments of York Property Mortgage 	(14,258) 	(39,667) 	(7,302)
+RowProceeds from the issuance of 2025 Senior Notes (see Note 11) 	— 	400,000 	—
+RowSettlement of 2022 Senior Notes, including call premium (see Note 11) 	(307,875) 	— 	—
+RowDebt issuance and other borrowing costs 	(4,482) 	(5,729) 	(320)
+RowRepurchases of common stock 	(284,733) 	(44,495) 	(359,885)
+RowPurchase of forward contract indexed to Sotheby's common stock 	(10,500) 	— 	—
+RowDividends paid 	— 	(2,375) 	(1,743)
+RowFunding of employee tax obligations upon the vesting of share-based payments 	(10,222) 	(16,857) 	(5,890)
+RowNet cash used by financing activities 	(548,570) 	(77,623) 	(351,640)
+RowEffect of exchange rate changes on cash, cash equivalents, and restricted cash 	(10,022) 	11,252 	(35,472)
+Row(Decrease) increase in cash, cash equivalents and restricted cash 	(723,692) 	367,725 	(323,063)
+RowCash, cash equivalents, and restricted cash at beginning of period 	923,926 	556,201 	879,264
+RowCash, cash equivalents, and restricted cash at end of period 	$ 200,234 	$ 923,926 	$ 556,201
+RowSupplemental information on non-cash investing and financing activities:
+			RowSee Note 5 for information regarding non-cash transfers between Accounts Receivable (net) 	and Notes Receivable 	(net).
+	RowSee Note 12 for information regarding derivative financial instruments designated as net 	investment hedges.
+		Row	Common
+Stock
+	Paid-In
+Capital
+	Treasury
+Stock
+	Retained
+Earnings
+	Comprehensive
+Loss 	Total
+RowBalance at January 1, 2016 	$ 700 	$ 435,696 	$(150,000) 	$ 586,235 	$ (66,204) 	$ 806,427
+RowNet income attributable to Sotheby's 				74,112 		74,112
+RowOther comprehensive loss 					(24,154) 	(24,154)
+RowCommon stock shares withheld to satisfy employee tax obligations 		(5,890) 				(5,890)
+RowRestricted stock units vested, net 	3 	(3) 				—
+RowAmortization of share-based payment expense 		15,216 				15,216
+RowTax deficiency from share-based payments 		(1,342) 				(1,342)
+RowShares and deferred stock units issued to directors 		934 				934
+RowRepurchases of common stock 			(359,885) 			(359,885)
+RowBalance at December 31, 2016 	703 	444,611 	(509,885) 	660,347 	(90,358) 	505,418
+RowNet income attributable to Sotheby's 				118,796 		118,796
+RowOther comprehensive income 					27,892 	27,892
+RowStock options exercised 	1 	1,106 				1,107
+RowCommon stock shares withheld to satisfy employee tax obligations 		(16,857) 				(16,857)
+RowRestricted stock units vested, net 	5 	(5) 				—
+RowAmortization of share-based payment expense 		23,479 				23,479
+RowShares and deferred stock units issued to directors 		999 				999
+RowRepurchases of common stock 			(44,495) 			(44,495)
+RowOther adjustments related to share-based payments 		31 	(171) 	556 		416
+RowBalance at December 31, 2017 	709 	453,364 	(554,551) 	779,699 	(62,466) 	616,755
+RowNet income attributable to Sotheby's 				108,634 		108,634
+RowOther comprehensive loss 					(9,578) 	(9,578)
+RowCommon stock shares withheld to satisfy employee tax obligations 		(10,222) 				(10,222)
+RowRestricted stock units vested, net 	2 	(2) 				—
+RowAmortization of share-based payment expense 		29,703 				29,703
+RowShares and deferred stock units issued to directors 		1,280 				1,280
+RowRepurchases of common stock 			(284,733) 			(284,733)
+RowForward contract indexed to Sotheby's common stock 		(10,500) 				(10,500)
+RowBalance at December 31, 2018 	$ 711 	$ 463,623 	$(839,284) 	$ 888,333 	$ (72,044) 	$ 441,339

@@ -5,7 +5,7 @@ import { DashboardComponent } from 'src/app/modules/dashboard/dashboard.componen
 import { RouterModule } from '@angular/router';
 import { StatementComponent, DialogElementsExampleDialog } from 'src/app/modules/statement/statement.component';
 import { SharedModule } from 'src/app/shared/shared.module';
-import { MatSidenavModule, MatDividerModule, MatCardModule, MatPaginatorModule, MatTableModule, MatInputModule, MatSelectModule, MatOptionModule, MatIconModule, MatButtonModule } from '@angular/material';
+import { MatSidenavModule, MatDividerModule, MatCardModule, MatPaginatorModule, MatTableModule,MatGridListModule, MatInputModule, MatSelectModule, MatOptionModule, MatIconModule, MatButtonModule } from '@angular/material';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { DashboardService } from 'src/app/modules/dashboard.service';
 import { RMIAPIsService } from 'src/app/shared/rmiapis.service';
@@ -63,6 +63,7 @@ import { KpiBsComponent } from 'src/app/modules/kpi-bs/kpi-bs.component';
     MatSnackBarModule,
     MatSliderModule,
     MatExpansionModule,
+    MatGridListModule,
     HighchartsChartModule,
     MatMenuModule
   ],

@@ -1,0 +1,109 @@
+Row:Amounts in thousands
+	January 30,
+	January 31,
+	February 1,
+Row:except per share amounts
+	2016
+	2015
+	2014
+Row:Net sales 	$30,944,938 	$29,078,407 	$27,422,696
+Row:Cost of sales, including buying and occupancy costs 	22,034,523 	20,776,522 	19,605,037
+Row:Selling, general and administrative expenses 	5,205,715 	4,695,384 	4,467,089
+Row:Loss on early extinguishment of debt 	— 	16,830 	—
+Row:Interest expense, net 	46,400 	39,787 	31,081
+Row:Income before provision for income taxes 	3,658,300 	3,549,884 	3,319,489
+Row:Provision for income taxes 	1,380,642 	1,334,756 	1,182,093
+Row:Net income 	$ 2,277,658 	$ 2,215,128 	$ 2,137,396
+Row:Basic earnings per share:
+			Row:Net income 	$ 3.38 	$ 3.20 	$ 3.00
+Row:Weighted average common shares – basic 	673,484 	692,691 	713,470
+Row:Diluted earnings per share:
+			Row:Net income 	$ 3.33 	$ 3.15 	$ 2.94
+Row:Weighted average common shares – diluted 	683,251 	703,545 	726,376
+Row:Cash dividends declared per share 	$ 0.84 	$ 0.70 	$ 0.58
+Row:$ 	3.38 673,484 	$ 	3.20 692,691 	$ 	3.00
+713,470
+Row:$ 	3.33 	$ 	3.15 	$ 	2.94
+Row:$ 	683,251 0.84 	$ 	703,545 0.70 	$ 	726,376
+0.58
+Row:ASSETS
+Current assets:
+Cash and cash equivalents 	$ 2,095,473 	$ 2,493,775
+Row:Short-term investments 	352,313 	282,623
+Row:Accounts receivable, net 	238,072 	213,824
+Row:Merchandise inventories 	3,695,113 	3,217,923
+Row:Prepaid expenses and other current assets 	380,530 	356,824
+Row:Federal, state, and foreign income taxes recoverable 	11,059 	12,475
+Row:Total current assets 	6,772,560 	6,577,444
+Row:Property at cost:
+		Row:Land and buildings 	1,013,247 	888,580
+Row:Leasehold costs and improvements 	2,943,191 	2,780,932
+Row:Furniture, fixtures and equipment 	5,112,229 	4,671,029
+Row:Total property at cost 	9,068,667 	8,340,541
+Row:Less accumulated depreciation and amortization 	4,931,092 	4,472,176
+Row:Net property at cost 	4,137,575 	3,868,365
+Row:Non-current deferred income taxes, net 	13,831 	22,532
+Row:Other assets 	231,720 	210,539
+Row:Goodwill and tradenames, net of amortization 	343,796 	309,870
+Row:TOTAL ASSETS 	$11,499,482 	$10,988,750
+Row:Accrued expenses and other current liabilities 	2,069,659 	1,796,122
+Row:Federal, state and foreign income taxes payable 	129,521 	126,001
+Row:Total current liabilities 	4,402,230 	3,929,634
+Row:Other long-term liabilities 	881,021 	888,137
+Row:Non-current deferred income taxes, net 	285,102 	282,885
+Row:Long-term debt 	1,624,054 	1,623,864
+Row:Commitments and contingencies (See Note L and Note N)
+SHAREHOLDERS’ EQUITY
+Preferred stock, authorized 5,000,000 shares, par value $1, no shares issued Common stock, authorized 1,200,000,000 shares, par value $1, issued and
+	— 	—
+Row:outstanding 663,495,715 and 684,733,200, respectively 	663,496 	684,733
+Row:Additional paid-in capital 	— 	—
+Row:Accumulated other comprehensive income (loss) 	(667,472) 	(554,385)
+Row:Retained earnings 	4,311,051 	4,133,882
+Row:Total shareholders’ equity 	4,307,075 	4,264,230
+Row:TOTAL LIABILITIES AND SHAREHOLDERS’ EQUITY 	$11,499,482 	$10,988,750
+Row:Amounts in thousands
+	2016
+	2015
+	2014
+Row:Cash flows from operating activities:
+Net income 	$ 2,277,658 	$ 2,215,128 	$ 2,137,396
+Row:Adjustments to reconcile net income to net cash provided by
+operating activities:
+			Row:Depreciation and amortization 	616,696 	588,975 	548,823
+Row:Loss on property disposals and impairment charges 	3,383 	3,897 	7,914
+Row:Deferred income tax provision 	31,204 	102,070 	52,233
+Row:Share-based compensation 	94,107 	88,014 	76,080
+Row:Early extinguishment of debt 	— 	16,830 	—
+Row:Excess tax benefits from share-based compensation 	(64,680) 	(95,063) 	(82,546)
+Row:Changes in assets and liabilities:
+(Increase) decrease in accounts receivable 	(27,357) 	(9,052) 	11,979
+Row:(Increase) decrease in merchandise inventories 	(506,633) 	(332,271) 	35,233
+Row:Decrease (increase) in taxes recoverable 	1,416 	(12,475) 	—
+Row:(Increase) decrease in prepaid expenses and other current assets 	(41,519) 	3,719 	(3,354)
+Row:Increase (decrease) in accounts payable 	216,265 	285,223 	(152,271)
+Row:Increase (decrease) in accrued expenses and other liabilities 	284,929 	20,800 	(29,590)
+Row:Increase in income taxes payable 	68,014 	144,977 	10,994
+Row:Other 	(16,140) 	(12,403) 	(12,425)
+Row:Net cash provided by operating activities 	2,937,343 	3,008,369 	2,600,466
+Row:Cash flows from investing activities:
+			Row:(889,380) 	(911,522) 	(946,678)
+Row:(798,008) 	(431,152) 	(496,657)
+Row:681,377 	388,037 	394,914
+Row:Cash paid for acquisition of Trade Secret, net of cash received 	(57,104) 	— 	—
+Row:Cash received at completion of acquisition of Sierra Trading Post 	— 	— 	2,653
+Row:Net cash (used in) investing activities 	(1,063,115) 	(954,637) 	(1,045,768)
+Row:Cash flows from financing activities:
+			Row:Proceeds from issuance of long-term debt 	— 	749,475 	499,555
+Row:Cash payments for extinguishment of debt 	— 	(416,357) 	—
+Row:Cash payments for debt issuance expenses 	— 	(6,185) 	(4,297)
+Row:Cash payments for rate lock agreement 	— 	(7,937) 	(3,251)
+Row:Cash payments for repurchase of common stock 	(1,828,297) 	(1,650,704) 	(1,471,096)
+Row:Proceeds from issuance of common stock 	132,033 	143,005 	146,495
+Row:Excess tax benefits from share-based compensation 	64,680 	95,063 	82,546
+Row:Cash dividends paid 	(544,271) 	(465,902) 	(393,755)
+Row:Net cash (used in) financing activities 	(2,175,855) 	(1,559,542) 	(1,143,803)
+Row:Effect of exchange rate changes on cash 	(96,675) 	(150,161) 	(73,106)
+Row:Net (decrease) increase in cash and cash equivalents 	(398,302) 	344,029 	337,789
+Row:Cash and cash equivalents at beginning of year 	2,493,775 	2,149,746 	1,811,957
+Row:Cash and cash equivalents at end of year 	$ 2,095,473 	$ 2,493,775 	$ 2,149,746

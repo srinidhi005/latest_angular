@@ -1,0 +1,271 @@
+Row:	2019 	2018 	2017
+Row:Net sales 	$ 24,560 	$ 24,971 	$ 24,939
+Row:Credit card revenues, net 	771 	768 	702
+Row:Cost of sales 	(15,171) 	(15,215 ) 	(15,181)
+Row:Selling, general and administrative expenses 	(8,998) 	(9,039) 	(8,954)
+Row:Gains on sale of real estate 	162 	389 	544
+Row:Restructuring, impairment, store closing and other costs 	(354) 	(136 ) 	(186)
+Row:Operating income 	970 	1,738 	1,864
+Row:Benefit plan income, net 	31 	39 	57
+Row:Settlement charges 	(58) 	(88 ) 	(105)
+Row:Interest expense 	(205) 	(261 ) 	(321)
+Row:Gains (losses) on early retirement of debt 	(30) 	(33 ) 	10
+Row:Interest income 	20 	25 	11
+Row:Income before income taxes 	728 	1,420 	1,516
+Row:Federal, state and local income tax benefit (expense) 	(164) 	(322 ) 	39
+Row:Net income 	564 	1,098 	1,555
+Row:Net loss attributable to noncontrolling interest 	— 	10 	11
+Row:Net income attributable to Macy's, Inc. shareholders 	$ 564 	$ 1,108 	$ 1,566
+Row:Basic earnings per share attributable to
+Macy's, Inc. shareholders 	$ 1.82 	$ 3.60 	$ 5.13
+Row:Diluted earnings per share attributable to
+Macy's, Inc. shareholders 	$ 1.81 	$ 3.56 	$ 5.10
+Row:	2019 	2018 	2017
+Row:Net income 	$ 564 	$ 1,098 $ 	1,555
+Row:Other comprehensive income (loss), net of taxes:
+			Row:Net actuarial gain (loss) and prior service credit on post employment and postretirement benefit
+plans, net of tax effect of $36 million, $52 million and $37 million 	(107) 	(151 ) 	82
+Row:Reclassifications to net income:
+			Row:Net actuarial loss and prior service cost on post employment and postretirement benefit plans,
+net of tax effect of $8 million, $7 million and $13 million 	23 	23 	22
+Row:Settlement charges, net of tax effect of $14 million, $23 million and $37 million 	44 	65 	68
+Row:Total other comprehensive income (loss) 	(40) 	(63 ) 	172
+Row:Comprehensive income 	524 	1,035 	1,727
+Row:Comprehensive loss attributable to noncontrolling interest 	— 	10 	11
+Row:Comprehensive income attributable to
+			Row:Macy's, Inc. shareholders 	$ 524 	$ 1,045 $ 	1,738
+Row:	February 1, 2020 	February 2, 2019
+Row:ASSETS
+		Row:Current Assets:
+		Row:Cash and cash equivalents 	$ 685 	$ 1,162
+Row:Receivables 	409 	400
+Row:Merchandise inventories 	5,188 	5,263
+Row:Prepaid expenses and other current assets 	528 	620
+Row:Total Current Assets 	6,810 	7,445
+Row:Property and Equipment – net 	6,633 	6,637
+Row:Right of Use Assets 	2,668 	—
+Row:Goodwill 	3,908 	3,908
+Row:Other Intangible Assets – net 	439 	478
+Row:Other Assets 	714 	726
+Row:Total Assets 	$ 21,172 	$ 19,194
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row:Current Liabilities:
+		Row:Short-term debt 	$ 539 	$ 43
+Row:Merchandise accounts payable 	1,682 	1,655
+Row:Accounts payable and accrued liabilities 	3,448 	3,366
+Row:Income taxes 	81 	168
+Row:Total Current Liabilities 	5,750 	5,232
+Row:Long-Term Debt 	3,621 	4,708
+Row:Long-Term Lease Liabilities 	2,918 	—
+Row:Deferred Income Taxes 	1,169 	1,238
+Row:Other Liabilities 	1,337 	1,580
+Row:Shareholders’ Equity:
+		Row:Common stock (309.0 and 307.5 shares outstanding) 	3 	3
+Row:Additional paid-in capital 	621 	652
+Row:Accumulated equity 	7,989 	8,050
+Row:Treasury stock 	(1,241) 	(1,318)
+Row:Accumulated other comprehensive loss 	(995) 	(951)
+Row:Total Macy's, Inc. Shareholders’ Equity 	6,377 	6,436
+Row:Noncontrolling interest 	— 	—
+Row:Total Shareholders' Equity 	6,377 	6,436
+Row:Total Liabilities and Shareholders’ Equity 	$ 21,172 	$ 19,194
+Row:The accompanying notes are an integral part of these Consolidated Financial 	Statements.
+	Row:			Accumulated
+	Total
+		Row:Balance at January 28, 2017
+$
+	Additional
+Common
+Paid-In
+Stock
+Capital
+3 $ 617 	Accumulated
+Equity
+$
+6,141
+	Stock
+Other
+Treasury
+Comprehensive
+Income (Loss)
+$ (1,489) $
+(896) 	Macy's, Inc.
+Shareholders' Equity
+$
+4,376 	Non-controlling Interest
+$
+(1) 	Total Shareholders'
+Equity
+$
+4,375
+Row:Net income (loss)
+		1,566
+		1,566
+	(11)
+	1,555
+Row:Other comprehensive income
+			172
+	172
+		172
+Row:Common stock dividends ($1.51 per
+						Row:share)
+		(461)
+		(461)
+		(461)
+Row:Stock repurchases
+			(1)
+	(1)
+		(1)
+Row:Stock-based compensation
+expense
+	58
+			58
+		58
+Row:Stock issued under stock plans
+	(24)
+		34
+	10
+		10
+Row:Other
+	25
+			25
+		25
+Row:Balance at February 3, 2018
+	3
+676
+	7,246 	(1,456)
+(724)
+	5,745
+	(12)
+	5,733
+Row:Net income (loss)
+		1,108
+		1,108
+	(10)
+	1,098
+Row:Other comprehensive loss
+			(63)
+	(63)
+		(63)
+Row:Common stock dividends ($1.51 per
+share)
+		(468)
+		(468)
+		(468)
+Row:Stock-based compensation
+expense
+	63
+			63
+		63
+Row:Stock issued under stock plans
+	(87)
+		138
+	51
+		51
+Row:Stranded tax costs (a)
+		164
+	(164)
+			Row:Macy's China Limited
+					22
+	22
+Row:Balance at February 2, 2019
+	652
+ذرا
+	8,050 	(1,318)
+(951)
+	6,436
+		6,436
+Row:Cumulative-effect adjustment (b)
+		(158)
+		(158)
+		(158)
+Row:Net income
+		564
+		564
+		564
+Row:Other comprehensive loss
+			(40)
+	(40)
+		(40)
+Row:Common stock dividends ($1.51 per
+share)
+		(470)
+		(470)
+		(470)
+Row:Stock repurchases
+			(1)
+	(1)
+		(1)
+Row:Stock-based compensation
+expense
+	38
+			38
+		38
+Row:Stock issued under stock plans
+	(69)
+		78
+	9
+		9
+Row:Other
+		3
+	(4)
+	(1)
+		(1)
+Row:Balance at February 1, 2020
+$
+	3 $ 621 	$
+7,989 	$ (1,241)
+(995)
+A
+	$
+6,377 	$
+	$
+6,377
+Row:a) Represents the reclassification of stranded 	tax effects to retained earnings 	as a result of U.S. federal 	tax reform.
+			Row:	2019 	2018 	2017
+Row:Cash flows from operating activities:
+			Row:Net income 	$ 564 	$ 1,098 	$ 1,555
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+			Row:Restructuring, impairment, store closing and other costs 	354 	136 	186
+Row:Settlement charges 	58 	88 	105
+Row:Depreciation and amortization 	981 	962 	991
+Row:Benefit plans 	31 	30 	35
+Row:Stock-based compensation expense 	38 	63 	58
+Row:Gains on sale of real estate 	(162) 	(389 ) 	(544 )
+Row:Deferred income taxes 	(6) 	112 	(421 )
+Row:Amortization of financing costs and premium on acquired debt 	4 	(15 ) 	(45 )
+Row:Changes in assets and liabilities:
+			Row:(Increase) decrease in receivables 	(9) 	(61 ) 	120
+Row:(Increase) decrease in merchandise inventories 	75 	(87 ) 	221
+Row:Decrease in prepaid expenses and other current assets 	89 	21 	17
+Row:Increase in merchandise accounts payable 	40 	55 	162
+Row:Increase (decrease) in accounts payable and accrued liabilities 	(257) 	14 	(221 )
+Row:Decrease in current income taxes 	(60) 	(136 ) 	(114 )
+Row:Change in other assets and liabilities 	(132) 	(156 ) 	(129 )
+Row:Net cash provided by operating activities 	1,608 	1,735 	1,976
+Row:Cash flows from investing activities:
+			Row:Purchase of property and equipment 	(902) 	(657 ) 	(487 )
+Row:Capitalized software 	(255) 	(275 ) 	(273 )
+Row:Disposition of property and equipment 	185 	474 	411
+Row:Other, net 	(30) 	2 	(2 )
+Row:Net cash used by investing activities 	(1,002) 	(456 ) 	(351 )
+Row:Cash flows from financing activities:
+			Row:Debt issuance costs 	(3) 	— 	—
+Row:Debt repaid 	(597) 	(1,149 ) 	(988 )
+Row:Dividends paid 	(466) 	(463 ) 	(461 )
+Row:Increase (decrease) in outstanding checks
+	(62) 	16 	(15 )
+Row:Acquisition of treasury stock 	(1) 	— 	(1 )
+Row:Issuance of common stock 	6 	45 	6
+Row:Proceeds from noncontrolling interest 	— 	7 	13
+Row:Net cash used by financing activities 	(1,123) 	(1,544 ) 	(1,446 )
+Row:Net increase (decrease) in cash, cash equivalents and restricted cash 	(517) 	(265 ) 	179
+Row:Cash, cash equivalents and restricted cash beginning of period 	1,248 	1,513 	1,334
+Row:Cash, cash equivalents and restricted cash end of period 	$ 731 	$ 1,248 	$ 1,513
+Row:Supplemental cash flow information:
+			Row:Interest paid 	$ 242 	$ 328 	$ 361
+Row:Interest received 	20 	25 	12
+Row:Income taxes paid (net of refunds received) 	229 	345 	496
+Row:Restricted cash, end of period The accompanying notes are an integral part of these Consolidated 	46 Financial Statements.
+	86 	58
+Row:	(1,123) 	(1,544 ) 	Row:	(517) 	(265 ) 	Row:	1,248 	1,513 	Row:$ 	731 $ 	1,248 	$ 

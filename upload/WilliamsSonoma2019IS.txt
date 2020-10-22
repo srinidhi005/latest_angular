@@ -1,0 +1,138 @@
+Row:In thousands, except per share amounts
+	Fiscal 2018
+(53 weeks)
+	Fiscal 2017
+(52 weeks)
+	Fiscal 2016
+(52 weeks)
+Row:E-commerce net revenues 	$ 3,082,064 	$ 2,778,457 	$ 2,633,602
+Row:Retail net revenues 	2,589,529 	2,513,902 	2,450,210
+Row:Net revenues 	5,671,593 	5,292,359 	5,083,812
+Row:Cost of goods sold 	3,570,580 	3,360,648 	3,200,502
+Row:Gross profit 	2,101,013 	1,931,711 	1,883,310
+Row:Selling, general and administrative expenses 	1,665,060 	1,477,900 	1,410,711
+Row:Operating income 	435,953 	453,811 	472,599
+Row:Interest (income) expense, net 	6,706 	1,372 	688
+Row:Earnings before income taxes 	429,247 	452,439 	471,911
+Row:Income taxes 	95,563 	192,894 	166,524
+Row:Net earnings 	$ 333,684 	$ 259,545 	$ 305,387
+Row:Basic earnings per share 	$ 4.10 	$ 3.03 	$ 3.45
+Row:Diluted earnings per share 	$ 4.05 	$ 3.02 	$ 3.41
+Row:Shares used in calculation of earnings per share:
+			Row:Basic 	81,420 	85,592 	88,594
+Row:Diluted 	82,340 	86,080 	89,462
+Row:In thousands
+	(53 weeks)
+	(52 weeks)
+	(52 weeks)
+Row:Net earnings 	$ 333,684 	$ 259,545 	$ 305,387
+Row:Other comprehensive income (loss):
+			Row:Foreign currency translation adjustments 	(5,032) 	3,730 	1,523
+Row:Change in fair value of derivative financial instruments, net of tax (tax benefit) of $390, $(259)
+			Row:and $(327) Reclassification adjustment for realized (gain) loss on derivative financial instruments, net of tax (tax
+	1,098 	(715) 	(916)
+Row:benefit) of $122, $(38) and $(41) 	(357) 	106 	106
+Row:Comprehensive income 	$ 329,393 	$ 262,666 	$ 306,100
+Row:See Notes to Consolidated Financial Statements.
+			Row:In thousands, except per share amounts 	Feb. 3, 2019 	Jan. 28, 2018
+Row:ASSETS
+		Row:Current assets
+		Row:Cash and cash equivalents 	$ 338,954 	$ 390,136
+Row:Accounts receivable, net 	107,102 	90,119
+Row:Merchandise inventories, net 	1,124,992 	1,061,593
+Row:Prepaid catalog expenses 	— 	20,517
+Row:Prepaid expenses 	101,356 	62,204
+Row:Other current assets 	21,939 	11,876
+Row:Total current assets 	1,694,343 	1,636,445
+Row:Property and equipment, net 	929,635 	932,283
+Row:Deferred income taxes, net 	44,055 	67,306
+Row:Goodwill 	85,382 	18,838
+Row:Other long-term assets, net 	59,429 	130,877
+Row:Total assets 	$ 2,812,844 	$ 2,785,749
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+		Row:Current liabilities
+		Row:Accounts payable 	$ 526,702 	$ 457,144
+Row:Accrued expenses 	163,559 	134,207
+Row:Gift card and other deferred revenue 	290,445 	300,607
+Row:Income taxes payable 	21,461 	56,783
+Row:Other current liabilities 	72,645 	59,082
+Row:Total current liabilities 	1,074,812 	1,007,823
+Row:Deferred rent and lease incentives 	201,374 	202,134
+Row:Long-term debt 	299,620 	299,422
+Row:Other long-term liabilities 	81,324 	72,804
+Row:Total liabilities 	1,657,130 	1,582,183
+Row:Commitments and contingencies – See Note I
+		Row:Stockholders’ equity
+Preferred stock: $.01 par value; 7,500 shares authorized; none issued Common stock: $.01 par value; 253,125 shares authorized; 78,813 and 83,726 shares issued and outstanding at
+	— 	—
+Row:February 3, 2019 and January 28, 2018, respectively 	789 	837
+Row:Additional paid-in capital 	581,900 	562,814
+Row:Retained earnings 	584,333 	647,422
+Row:Accumulated other comprehensive loss 	(11,073) 	(6,782)
+Row:Treasury stock – at cost: 2 and 11 shares as of February 3, 2019 and January 28, 2018, respectively 	(235) 	(725)
+Row:Total stockholders’ equity 	1,155,714 	1,203,566
+Row:Total liabilities and stockholders’ equity 	$ 2,812,844 	$ 2,785,749
+Row:February 3, 2019 and January 28, 2018, respectively 		789 	837
+Row:Additional paid-in capital 		581,900 	562,814
+Row:Retained earnings 		584,333 	647,422
+Row:Accumulated other comprehensive loss 		(11,073) 	(6,782)
+Row:Treasury stock – at cost: 2 and 11 shares as of February 3, 2019 and January 	28, 2018, respectively 	(235) 	(725)
+Row:Total stockholders’ equity 		1,155,714 	1,203,566
+Row:Total liabilities and stockholders’ equity 		$ 2,812,844 	$ 2,785,749
+Row:In thousands
+	Fiscal 2018
+(53 Weeks)
+	Fiscal 2017
+(52 Weeks)
+	Fiscal 2016
+(52 Weeks)
+Row:Cash flows from operating activities:
+			Row:Net earnings 	$ 333,684 	$ 259,545 	$ 305,387
+Row:Adjustments to reconcile net earnings to net cash provided by (used in) operating activities:
+			Row:Depreciation and amortization 	188,808 	183,077 	173,195
+Row:Loss on disposal/impairment of assets 	10,209 	1,889 	3,806
+Row:Amortization of deferred lease incentives 	(26,199) 	(25,372) 	(25,212)
+Row:Deferred income taxes 	23,639 	63,381 	7,114
+Row:Tax benefit related to stock-based awards 	— 	— 	3,230
+Row:Excess tax benefit related to stock-based awards 	— 	— 	(4,894)
+Row:Stock-based compensation expense 	59,802 	42,988 	51,116
+Row:Other 	(579) 	(135) 	(423)
+Row:Changes in:
+			Row:Accounts receivable 	(15,329) 	149 	(9,794)
+Row:Merchandise inventories 	(70,331) 	(80,235) 	4,493
+Row:Prepaid catalog expenses 	— 	(1,019) 	6,448
+Row:Prepaid expenses and other assets 	(54,691) 	(15,475) 	(7,521)
+Row:Accounts payable 	62,377 	2,549 	4,276
+Row:Accrued expenses and other liabilities 	45,976 	9,597 	19,712
+Row:Gift card and other deferred revenue 	38,899 	(3,002) 	2,020
+Row:Deferred rent and lease incentives 	24,929 	28,226 	35,559
+Row:Income taxes payable 	(35,208) 	33,541 	(43,803)
+Row:Net cash provided by operating activities 	585,986 	499,704 	524,709
+Row:Cash flows from investing activities:
+			Row:Purchases of property and equipment 	(190,102) 	(189,712) 	(197,414)
+Row:Acquisition of Outward, Inc., net of cash received 	— 	(80,528) 	—
+Row:Other 	2,203 	480 	439
+Row:Net cash used in investing activities 	(187,899) 	(269,760) 	(196,975)
+Row:Cash flows from financing activities:
+			Row:Repurchases of common stock 	(295,304) 	(196,179) 	(151,272)
+Row:Payment of dividends 	(140,325) 	(135,010) 	(133,539)
+Row:Borrowings under revolving line of credit 	60,000 	170,000 	125,000
+Row:Repayments of borrowings under revolving line of credit 	(60,000) 	(170,000) 	(125,000)
+Row:Tax withholdings related to stock-based awards 	(14,437) 	(18,130) 	(27,062)
+Row:Proceeds from issuance of long-term debt 	— 	300,000 	—
+Row:Excess tax benefit related to stock-based awards 	— 	— 	4,894
+Row:Proceeds related to stock-based awards 	— 	— 	1,532
+Row:Debt issuance costs 	— 	(1,191) 	(359)
+Row:Other 	— 	(1,197) 	—
+Row:Net cash used in financing activities 	(450,066) 	(51,707) 	(305,806)
+Row:Effect of exchange rates on cash and cash equivalents 	797 	(1,814) 	(1,862)
+Row:Net increase (decrease) in cash and cash equivalents 	(51,182) 	176,423 	20,066
+Row:Cash and cash equivalents at beginning of year 	390,136 	213,713 	193,647
+Row:Cash and cash equivalents at end of year 	$ 338,954 	$ 390,136 	$ 213,713
+Row:Supplemental disclosure of cash flow information:
+			Row:Cash paid during the year for interest 	$ 11,424 	$ 2,915 	$ 2,202
+Row:Cash paid during the year for income taxes, net of refunds 	$ 107,951 	$ 99,062 	$ 203,426
+Row:Non-cash investing activities:
+Purchases of property and equipment not yet paid for at end of year 	$ 2,773 	$ 1,257 	$ 625
+Row:See Notes to Consolidated Financial Statements.
+			

@@ -1,0 +1,171 @@
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents $ 	621,152 	517,594
+Row:Restricted cash 	85,644 	79,008
+Row:Accounts receivable, net 	76,019 	75,963
+Row:Notes and other receivables, net 	57,174 	64,412
+Row:Prepaid income taxes 	16,701 	27,005
+Row:Prepaid expenses and other current assets 	50,611 	49,491
+Row:Total current assets 	907,301 	813,473
+Row:Property, equipment, and software, net 	223,120 	209,202
+Row:Operating lease assets 	371,264 	—
+Row:Equity method investments 	154,812 	146,395
+Row:Goodwill 	888,286 	888,265
+Row:Other intangible assets, net 	1,302,721 	1,334,767
+Row:Other assets 	72,520 	64,479
+Row:Total assets $ 	3,920,024 	3,456,581
+Row:Liabilities and Stockholders’ Deficit
+		Row:Current liabilities:
+		Row:Current portion of long-term debt $ 	31,150 	31,650
+Row:Operating lease liabilities 	35,863 	—
+Row:Accounts payable 	89,413 	80,037
+Row:Deferred revenue 	39,950 	38,541
+Row:Other current liabilities 	386,050 	389,353
+Row:Total current liabilities 	582,426 	539,581
+Row:Long-term debt, net 	3,004,216 	3,010,626
+Row:Operating lease liabilities 	380,647 	—
+Row:Deferred revenue 	324,854 	331,980
+Row:Deferred income taxes, net 	197,673 	204,027
+Row:Other long-term liabilities 	18,218 	83,164
+Row:Total long-term liabilities 	3,925,608 	3,629,797
+Row:Commitments and contingencies (note 16)
+		Row:Stockholders’ deficit:
+		Row:Preferred stock, $0.001 par value; 25,000,000 shares authorized; no shares issued and outstanding 	— 	—
+Row:Common stock, $0.001 par value; 475,000,000 shares authorized; 82,835,830 shares issued and 82,834,830 shares outstanding at
+		Row:Common stock, $0.001 par value; 475,000,000 shares authorized; 82,835,830 shares issued and 82,834,830 shares outstanding at
+		Row:December 28, 2019; 82,587,373 shares issued and 82,560,596 shares outstanding at December 29, 2018 Additional paid-in capital 	83 561,345 	82
+642,017
+Row:Treasury stock, at cost; 1,000 shares and 26,777 shares at December 28, 2019 and December 29, 2018, respectively 	(64) 	(1,060)
+Row:Accumulated deficit 	(1,129,565) 	(1,338,709)
+Row:Accumulated other comprehensive loss 	(19,809) 	(15,127)
+Row:Total stockholders’ deficit 	(588,010) 	(712,797)
+Row:Total liabilities and stockholders’ deficit $ 	3,920,024 	3,456,581
+Row:	December 28,
+2019
+	December 29,
+2018
+	December 30,
+2017
+Row:Revenues:
+			Row:Franchise fees and royalty income $ 	604,431 	578,342 	555,206
+Row:Advertising fees and related income 	499,303 	493,590 	470,984
+Row:Rental income 	122,671 	104,413 	104,643
+Row:Sales of ice cream and other products 	91,362 	95,197 	96,388
+Row:Other revenues 	52,460 	50,075 	48,330
+Row:Total revenues 	1,370,227 	1,321,617 	1,275,551
+Row:Operating costs and expenses:
+			Row:Occupancy expenses—franchised restaurants 	79,244 	58,102 	60,301
+Row:Cost of ice cream and other products 	75,771 	77,412 	77,012
+Row:Advertising expenses 	506,755 	498,019 	476,157
+Row:General and administrative expenses 	238,678 	246,792 	243,828
+Row:Depreciation 	18,429 	19,932 	20,084
+Row:Amortization of other intangible assets 	18,454 	21,113 	21,335
+Row:Long-lived asset impairment charges 	551 	1,648 	1,617
+Row:Total operating costs and expenses 	937,882 	923,018 	900,334
+Row:Net income of equity method investments 	17,517 	14,903 	15,198
+Row:Other operating income (loss), net 	1,188 	(1,670) 	627
+Row:Operating income 	451,050 	411,832 	391,042
+Row:Other income (expense), net:
+			Row:Interest income 	9,934 	7,200 	3,313
+Row:Interest expense 	(128,411) 	(128,748) 	(104,423)
+Row:Loss on debt extinguishment and refinancing transactions 	(13,076) 	— 	(6,996)
+Row:Other income (loss), net 	(235) 	(1,083) 	391
+Row:Total other expense, net 	(131,788) 	(122,631) 	(107,715)
+Row:Income before income taxes 	319,262 	289,201 	283,327
+Row:Provision for income taxes 	77,238 	59,295 	12,118
+Row:Net income 	242,024 	229,906 	271,209
+Row:Earnings per share:
+			Row:Common—basic $ 	2.92 	2.75 	2.99
+Row:Common—diluted 	2.89 	2.71 	2.94
+Row:Net income $ 	242,024 229,906 271,209
+Row:Other comprehensive income (loss), net:
+	Row:Effect of foreign currency translation, net of deferred tax benefit (expense) of $(10), $93, and $(621) for the
+	Row:fiscal years ended December 28, 2019, December 29, 2018, and December 30, 2017, respectively 	(4,534) (6,223) 14,824
+Row:Effect of interest rate swaps, net of deferred tax benefit of $778 for the fiscal year ended December 30, 2017 	— — (1,144)
+Row:Other, net 	(148) 631 658
+Row:Total other comprehensive income (loss), net 	(4,682) (5,592) 14,338
+Row:Comprehensive income $ 	237,342 224,314 285,547
+Row:Shares 	Amount
+	capital
+	stock, at cost
+	deficit
+	loss 	Total Row:Balance at December 31, 2016 91,293 	$ 91 	807,492 	(1,060) 	(1,129,238) 	(23,873) 	(346,588)
+Row:Net income 	— — 	— 	— 	271,209 	— 	271,209
+Row:Other comprehensive income, net 	— — 	— 	— 	— 	14,338 	14,338
+Row:Exercise of stock options 1,158 	1 	36,494 	— 	— 	— 	36,495
+Row:Dividends paid on common stock ($1.29 per share) 	— — 	(117,003) 	— 	— 	— 	(117,003)
+Row:Share-based compensation expense 	46 — 	14,926 	— 	— 	— 	14,926
+Row:Repurchases of common stock 	— — 	— 	(127,186) 	— 	— 	(127,186)
+Row:Retirement of treasury stock (2,271) 	(2) 	(18,861) 	127,186 	(108,323) 	— 	—
+Row:Other 	28 — 	1,066 	— 	(1,796) 	— 	(730)
+Row:Balance at December 30, 2017 90,254 	90 	724,114 	(1,060) 	(968,148) 	(9,535) 	(254,539)
+Row:Net income 	— — 	— 	— 	229,906 	— 	229,906
+Row:Other comprehensive loss, net 	— — 	— 	— 	— 	(5,592) 	(5,592)
+Row:Exercise of stock options 2,721 	3 	95,177 	— 	— 	— 	95,180
+Row:Dividends paid on common stock ($1.39 per share) 	— — 	(114,828) 	— 	— 	— 	(114,828)
+Row:Share-based compensation expense 	61 — 	14,879 	— 	— 	— 	14,879
+Row:Repurchases of common stock 	— — 	— 	(680,368) 	— 	— 	(680,368)
+Row:Retirement of treasury stock (10,629) 	(11) 	(81,160) 	680,368 	(599,197) 	— 	—
+Row:Other 	30 — 	3,835 	— 	(1,270) 	— 	2,565
+Row:Balance at December 29, 2018 82,437 	82 	642,017 	(1,060) 	(1,338,709) 	(15,127) 	(712,797)
+Row:Net income 	— — 	— 	— 	242,024 	— 	242,024
+Row:Other comprehensive loss, net 	— — 	— 	— 	— 	(4,682) 	(4,682)
+Row:Exercise of stock options 	655 1 	30,728 	— 	— 	— 	30,729
+Row:Dividends paid on common stock ($1.50 per share) 	— — 	(124,089) 	— 	— 	— 	(124,089)
+Row:Share-based compensation expense 	164 — 	14,042 	— 	— 	— 	14,042
+Row:Repurchases of common stock 	— — 	— 	(29,715) 	— 	— 	(29,715)
+Row:Retirement of treasury stock 	(441) — 	(3,048) 	32,942 	(29,894) 	— 	—
+Row:Other 	21 — 	1,695 	(2,231) 	(2,986) 	— 	(3,522)
+Row:Balance at December 28, 2019 82,836 	$ 83 	561,345 	(64) 	(1,129,565) 	(19,809) 	(588,010)
+Row:Cash flows from operating activities:
+Net income $ Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization Amortization of debt issuance costs 	242,024 229,906 42,378 45,031 4,977 5,019 2019
+2018
+	2017
+271,209
+45,239
+6,179
+Row:Loss on debt extinguishment and refinancing transactions 	13,076 — 	6,996
+Row:Deferred income taxes 	(6,257) (9,897) 	(121,247)
+Row:Provision for bad debt 	2,862 631 	457
+Row:Share-based compensation expense 	14,042 14,879 	14,926
+Row:Net income of equity method investments 	(17,517) (14,903) 	(15,198)
+Row:Dividends received from equity method investments 	4,367 4,509 	4,711
+Row:Other, net 	(714) 2,791 	(1,767)
+Row:Change in operating assets and liabilities:
+		Row:Accounts, notes, and other receivables, net 	4,392 (19,776) 	(18,496)
+Row:Prepaid income taxes, net 	10,408 (4,996) 	(2,441)
+Row:Prepaid expenses and other current assets 	(5,677) (1,561) 	(6,481)
+Row:Accounts payable 	7,735 26,974 	5,066
+Row:Other current liabilities 	(3,407) 34,144 	30,031
+Row:Deferred revenue 	(5,743) (41,071) 	59,606
+Row:Other, net 	(9,212) (2,725) 	4,567
+Row:Net cash provided by operating activities 	297,734 268,955 	283,357
+Row:Cash flows from investing activities:
+		Row:Additions to property, equipment, and software 	(36,762) (51,855) 	(21,055)
+Row:Other, net 	1,270 20 	752
+Row:Net cash used in investing activities 	(35,492) (51,835) 	(20,303)
+Row:Cash flows from financing activities:
+		Row:Proceeds from issuance of long-term debt 	1,700,000 — 	1,400,000
+Row:Repayment of long-term debt Payment of debt issuance and other debt-related costs 	(1,707,025) (31,600) (17,937) — 	(754,375)
+(18,441)
+Row:Repurchases of common stock, including accelerated share repurchases 	(29,715) (680,368) 	(127,186)
+Row:Dividends paid on common stock 	(124,089) (114,828) 	(117,003)
+Row:Exercise of stock options 	30,729 95,331 	36,344
+Row:Other, net 	(4,611) (895) 	(698)
+Row:Net cash provided by (used in) financing activities 	(152,648) (732,360) 	418,641
+Row:Effect of exchange rates on cash, cash equivalents, and restricted cash 	62 (538) 	572
+Row:Increase (decrease) in cash, cash equivalents, and restricted cash 	109,656 (515,778) 	682,267
+Row:Cash, cash equivalents, and restricted cash, beginning of year 	598,321 1,114,099 	431,832
+Row:Cash, cash equivalents, and restricted cash, end of year $ 	707,977 598,321 	1,114,099
+Row:Supplemental cash flow information:
+		Row:Cash paid for income taxes $ Cash paid for interest 	73,383 74,775 123,459 126,868 	135,927
+91,606
+Row:Noncash operating activities:
+		Row:Leased assets obtained in exchange for operating lease liabilities, net Noncash investing activities:
+	15,702 — 	—
+Row:Property, equipment, and software included in accounts payable and other current liabilities 	4,253 2,713 	2,637
+Row:Leased assets obtained in exchange for finance lease liabilities, net 	— 325 	449
+Row:Purchase of property, equipment, and software in exchange for note payable 	— 1,500 	—
+Row:Noncash financing activities:
+		Row:Receivable from exercise of stock options included in notes and other receivables, net 	— — 	151

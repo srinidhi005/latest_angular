@@ -1,0 +1,185 @@
+Row	2019 	2018
+RowASSETS
+		RowCurrent assets:
+		RowCash and cash equivalents 	$ 1,533 $ 	913
+RowAccounts and notes receivable, net of allowance of $13 and $14, respectively 	527 	452
+RowInventories, net 	84 	75
+RowPrepaids and other current assets 	52 	60
+RowTotal current assets 	2,196 	1,500
+RowProperty and equipment, net of accumulated depreciation and amortization of $746 and $704,
+		Rowrespectively 	2,007 	1,996
+RowOperating lease assets, net 	1,176 	—
+RowIntangible assets, net 	10,563 	10,463
+RowGoodwill 	5,651 	5,486
+RowNet investment in property leased to franchisees 	48 	54
+RowOther assets, net 	719 	642
+RowTotal assets 	$ 22,360 $ 	20,141
+RowLIABILITIES AND SHAREHOLDERS’ EQUITY
+		RowCurrent liabilities:
+		RowAccounts and drafts payable 	$ 644 $ 	513
+RowOther accrued liabilities 	790 	637
+RowGift card liability 	168 	167
+RowCurrent portion of long term debt and finance leases 	101 	91
+RowTotal current liabilities 	1,703 	1,408
+RowTerm debt, net of current portion 	11,759 	11,823
+RowFinance leases, net of current portion 	288 	226
+RowOperating lease liabilities, net of current portion 	1,089 	—
+RowOther liabilities, net 	1,698 	1,547
+RowDeferred income taxes, net 	1,564 	1,519
+RowTotal liabilities 	18,101 	16,523
+RowCommitments and contingencies (Note 18)
+		RowShareholders’ equity:
+Common shares, no par value; unlimited shares authorized at December 31, 2019 and December
+31, 2018; 298,281,081 shares issued and outstanding at December 31, 2019; 251,532,493 shares
+issued and outstanding at December 31, 2018 	2,478 	1,737
+RowRetained earnings 	775 	674
+RowAccumulated other comprehensive income (loss) 	(763) 	(800)
+RowTotal Restaurant Brands International Inc. shareholders’ equity 	2,490 	1,611
+RowNoncontrolling interests 	1,769 	2,007
+RowTotal shareholders’ equity 	4,259 	3,618
+RowTotal liabilities and shareholders’ equity 	$ 22,360 $ 	20,141
+Rowissued 	and outstanding at December 31, 2018 		2,478 	1,737
+RowRetained 	earnings 		775 	674
+RowAccumulated Total 	other comprehensive income (loss) Restaurant Brands International Inc. shareholders’ 	equity 	(763) 2,490 	(800)
+1,611
+Row	Noncontrolling interests 		1,769 	2,007
+RowTotal 	shareholders’ equity 		4,259 	3,618
+RowTotal 	liabilities and shareholders’ equity 		$ 22,360 	$ 20,141
+Row	2019 	2018 	2017
+RowRevenues:
+			RowSales 	$ 2,362 	$ 2,355 	$ 2,390
+RowFranchise and property revenues 	3,241 	3,002 	2,186
+RowTotal revenues 	5,603 	5,357 	4,576
+RowOperating costs and expenses:
+			RowCost of sales 	1,813 	1,818 	1,850
+RowFranchise and property expenses 	540 	422 	478
+RowSelling, general and administrative expenses 	1,264 	1,214 	416
+Row(Income) loss from equity method investments 	(11) 	(22) 	(12)
+RowOther operating expenses (income), net 	(10) 	8 	109
+RowTotal operating costs and expenses 	3,596 	3,440 	2,841
+RowIncome from operations 	2,007 	1,917 	1,735
+RowInterest expense, net 	532 	535 	512
+RowLoss on early extinguishment of debt 	23 	— 	122
+RowIncome before income taxes 	1,452 	1,382 	1,101
+RowIncome tax expense (benefit) 	341 	238 	(134)
+RowNet income 	1,111 	1,144 	1,235
+RowNet income attributable to noncontrolling interests (Note 14) 	468 	532 	587
+RowPreferred shares dividends 	— 	— 	256
+RowGain on redemption of preferred shares (Note 13) 	— 	— 	(234)
+RowNet income attributable to common shareholders 	$ 643 	$ 612 	$ 626
+RowEarnings per common share:
+			RowBasic 	$ 2.40 	$ 2.46 	$ 2.64
+RowDiluted 	$ 2.37 	$ 2.42 	$ 2.54
+RowWeighted average shares outstanding:
+			RowBasic 	268 	249 	237
+RowDiluted 	469 	473 	477
+Row	2019 	2018 	2017
+RowNet income 	$ 1,111 $ 	1,144 	$ 1,235
+RowForeign currency translation adjustment 	409 	(831) 	824
+RowNet change in fair value of net investment hedges, net of tax of $32, $(101), and $13 	(86) 	282 	(371)
+RowNet change in fair value of cash flow hedges, net of tax of $29, $7, and $4 Amounts reclassified to earnings of cash flow hedges, net of tax of $(6), $(5), and
+	(77) 	(19) 	(11)
+Row$(9) 	15 	14 	25
+RowGain (loss) recognized on defined benefit pension plans, net of tax of $1, $0, and $2 	(2) 	1 	4
+RowOther comprehensive income (loss) 	259 	(553) 	471
+RowComprehensive income (loss) 	1,370 	591 	1,706
+RowComprehensive income (loss) attributable to noncontrolling interests 	571 	276 	818
+RowComprehensive income (loss) attributable to preferred shareholders 	— 	— 	22
+RowComprehensive income (loss) attributable to common shareholders 	$ 799 $ 	315 	$ 866
+Row	Shares 	Amount
+	Retained
+Earnings
+	Comprehensive
+Income (Loss)
+	Noncontrolling
+Interests 	Total RowBalances at December 31, 2016 	234,236,678 $ 	1,955 	$ 446 	$ (698) 	$ 1,786 	$ 3,489
+RowStock option exercises 	5,102,046 	29 	— 	— 	— 	29
+RowShare-based compensation 	— 	46 	— 	— 	— 	46
+RowIssuance of shares 	274,272 	8 	— 	— 	— 	8
+RowDividends declared on common shares ($0.78 per share) 	— 	— 	(186) 	— 	— 	(186)
+RowDividend equivalents declared on restricted stock units 	— 	2 	(2) 	— 	— 	—
+RowDistributions declared by Partnership on partnership
+exchangeable units ($0.78 per unit) 	— 	— 	— 	— 	(175) 	(175)
+RowPreferred share dividends 	— 	— 	(256) 	— 	— 	(256)
+RowRepurchase of Partnership exchangeable units for RBI
+common shares 	— 	(272) 	— 	(9) 	(49) 	(330)
+RowExchange of Partnership exchangeable units for RBI
+common shares 	4,286,480 	50 	— 	(8) 	(42) 	—
+RowRestaurant VIE contributions (distributions) 	— 	— 	— 	— 	(4) 	(4)
+RowGain on redemption of preferred shares (Note 13) 	— 	234 	— 	— 	— 	234
+RowNet income 	— 	— 	649 	— 	586 	1,235
+RowOther comprehensive income (loss) 	— 	— 	— 	239 	232 	471
+RowBalances at December 31, 2017 	243,899,476 $ 	2,052 	$ 651 	$ (476) 	$ 2,334 	$ 4,561
+RowCumulative effect adjustment (Note 16) 	— 	— 	(132) 	— 	(118) 	(250)
+RowStock option exercises 	7,221,947 	61 	— 	— 	— 	61
+RowShare-based compensation 	— 	48 	— 	— 	— 	48
+RowIssuance of shares 	225,737 	7 	— 	— 	— 	7
+RowDividends declared on common shares ($1.80 per share) 	— 	— 	(452) 	— 	— 	(452)
+RowDividend equivalents declared on restricted stock units 	— 	5 	(5) 	— 	— 	—
+RowDistributions declared by Partnership on partnership
+exchangeable units ($1.80 per units) 	— 	— 	— 	— 	(387) 	(387)
+RowRepurchase of Partnership exchangeable units 	— 	(438) 	— 	(26) 	(97) 	(561)
+RowExchange of Partnership exchangeable units for RBI
+common shares 	185,333 	2 	— 	(1) 	(1) 	—
+RowNet income 	— 	— 	612 	— 	532 	1,144
+RowOther comprehensive income (loss) 	— 	— 	— 	(297) 	(256) 	(553)
+RowBalances at December 31, 2018 	251,532,493 $ 	1,737 	$ 674 	$ (800) 	$ 2,007 	$ 3,618
+RowCumulative effect adjustment (Note 10) 	— 	— 	12 	— 	9 	21
+RowStock option exercises 	4,495,897 	102 	— 	— 	— 	102
+RowShare-based compensation 	— 	68 	— 	— 	— 	68
+RowIssuance of shares 	236,299 	7 	— 	— 	— 	7
+RowDividends declared on common shares ($2.00 per share) 	— 	— 	(545) 	— 	— 	(545)
+RowDividend equivalents declared on restricted stock units 	— 	9 	(9) 	— 	— 	—
+RowDistributions declared by Partnership on partnership
+exchangeable units ($2.00 per unit) 	— 	— 	— 	— 	(382) 	(382)
+RowExchange of Partnership exchangeable units for RBI
+common shares 	42,016,392 	555 	— 	(119) 	(436) 	—
+RowNet income 	— 	— 	643 	— 	468 	1,111
+RowOther comprehensive income (loss) 	— 	— 	— 	156 	103 	259
+RowBalances at December 31, 2019 	298,281,081 $ 	2,478 	$ 775 	$ (763) 	$ 1,769 	$ 4,259
+RowCash flows from operating activities:
+			RowNet income 	$ 1,111 	$ 1,144 	$ 1,235
+RowAdjustments to reconcile net income to net cash provided by operating activities:
+			RowDepreciation and amortization 	185 	180 	182
+RowPremiums paid and non-cash loss on early extinguishment of debt 	16 	— 	119
+RowAmortization of deferred financing costs and debt issuance discount 	29 	29 	33
+Row(Income) loss from equity method investments 	(11) 	(22) 	(12)
+RowLoss (gain) on remeasurement of foreign denominated transactions 	(14) 	(33) 	77
+RowNet (gains) losses on derivatives 	(49) 	(40) 	31
+RowShare-based compensation expense 	68 	48 	48
+RowDeferred income taxes 	58 	29 	(742)
+RowOther 	6 	5 	18
+RowChanges in current assets and liabilities, excluding acquisitions and dispositions:
+			RowAccounts and notes receivable 	(53) 	19 	(30)
+RowInventories and prepaids and other current assets 	(15) 	(7) 	19
+RowAccounts and drafts payable 	112 	41 	14
+RowOther accrued liabilities and gift card liability 	(51) 	(219) 	360
+RowTenant inducements paid to franchisees 	(54) 	(52) 	(20)
+RowOther long-term assets and liabilities 	138 	43 	59
+RowNet cash provided by operating activities 	1,476 	1,165 	1,391
+RowCash flows from investing activities:
+			RowPayments for property and equipment 	(62) 	(86) 	(37)
+RowNet proceeds from disposal of assets, restaurant closures and refranchisings 	8 	8 	26
+RowNet payment for purchase of Popeyes, net of cash acquired 	— 	— 	(1,636)
+RowSettlement/sale of derivatives, net 	24 	17 	772
+RowOther investing activities, net 	— 	17 	17
+RowNet cash used for investing activities 	(30) 	(44) 	(858)
+RowCash flows from financing activities:
+			RowProceeds from issuance of long-term debt 	2,250 	75 	5,850
+RowRepayments of long-term debt and finance leases 	(2,266) 	(74) 	(2,742)
+RowPayments in connection with redemption of preferred shares 	— 	(60) 	(3,006)
+RowPayment of financing costs 	(50) 	(3) 	(63)
+RowPayment of dividends on common and preferred shares and distributions on
+Partnership exchangeable units 	(901) 	(728) 	(664)
+RowRepurchase of Partnership exchangeable units 	— 	(561) 	(330)
+RowProceeds from stock option exercises 	102 	61 	29
+RowProceeds from derivatives 	23 	— 	—
+RowOther financing activities, net 	— 	5 	(10)
+RowNet cash used for financing activities 	(842) 	(1,285) 	(936)
+RowEffect of exchange rates on cash and cash equivalents 	16 	(20) 	24
+RowIncrease (decrease) in cash and cash equivalents 	620 	(184) 	(379)
+RowCash and cash equivalents at beginning of period 	913 	1,097 	1,476
+RowCash and cash equivalents at end of period 	$ 1,533 	$ 913 	$ 1,097
+RowSupplemental cash flow disclosures:
+			RowInterest paid 	$ 584 	$ 561 	$ 447
+RowIncome taxes paid 	$ 248 	$ 433 	$ 200

@@ -1,0 +1,153 @@
+Row:Current assets:
+Cash and cash equivalents 	$ 582.7 	$ 566.1
+Row:Short-term investments 	12.3 	6.6
+Row:Accounts and other receivables 	18.4 	8.0
+Row:Registry deposits 	34.7 	20.6
+Row:Prepaid domain name registry fees 	351.5 	307.0
+Row:Prepaid expenses and other current assets 	59.9 	24.5
+Row:Total current assets 	1,059.5 	932.8
+Row:Property and equipment, net 	297.9 	231.0
+Row:Prepaid domain name registry fees, net of current portion 	180.8 	172.1
+Row:Goodwill 	2,859.9 	1,718.4
+Row:Intangible assets, net 	1,326.0 	716.5
+Row:Other assets 	14.2 	16.1
+Row:Total assets 	$ 5,738.3 	$ 3,786.9
+Row:Liabilities and stockholders' equity
+		Row:Current liabilities:
+		Row:Current liabilities:
+	Row:Accounts payable 	$ 59.6 $ 61.7
+Row:Accrued expenses and other current liabilities 	469.6 143.0
+Row:Payable to related parties for tax distributions 	— 10.0
+Row:Deferred revenue 	1,264.8 1,043.5
+Row:Long-term debt 	16.7 4.0
+Row:Total current liabilities 	1,810.7 1,262.2
+Row:Deferred revenue, net of current portion 	596.8 532.7
+Row:Long-term debt, net of current portion 	2,410.8 1,035.7
+Row:Payable to related parties pursuant to tax receivable agreements 	153.0 202.6
+Row:Other long-term liabilities 	75.0 39.5
+Row:Deferred tax liabilities 	145.5 —
+Row:Commitments and contingencies
+	Row:Stockholders' equity:
+	Row:Preferred stock, $0.001 par value - 50,000 shares authorized; none issued and outstanding 	— —
+Row:Class A common stock, $0.001 par value - 1,000,000 shares authorized; 132,993 and 88,558
+shares issued and outstanding as of December 31, 2017 and 2016, respectively 	0.1 0.1
+Row:Class B common stock, $0.001 par value - 500,000 shares authorized; 35,006 and 78,554
+shares issued and outstanding as of December 31, 2017 and 2016, respectively 	— 0.1
+Row:Additional paid-in capital 	484.4 608.3
+Row:Retained earnings (accumulated deficit) 	87.7 (48.7)
+Row:Accumulated other comprehensive income (loss) 	(85.7) 2.7
+Row:Total stockholders' equity attributable to GoDaddy Inc. 	486.5 562.5
+Row:Non-controlling interests 	60.0 151.7
+Row:Total stockholders' equity 	546.5 714.2
+Row:Total liabilities and stockholders' equity $ 	5,738.3 $ 3,786.9
+Row:	Year Ended December 2017 2016 	31,
+2015
+Row:Revenue:
+Domains 	$ 1,057.2 $ 927.8 	$ 840.8
+Row:Hosting and presence 	847.9 678.7 	592.0
+Row:Business applications 	326.8 241.4 	174.5
+Row:Total revenue 	2,231.9 1,847.9 	1,607.3
+Row:Costs and operating expenses(1):
+		Row:Cost of revenue (excluding depreciation and amortization) 	775.5 657.8 	565.9
+Row:Technology and development 	355.8 287.8 	270.2
+Row:Marketing and advertising 	253.2 228.8 	202.2
+Row:Customer care 	292.3 242.1 	221.5
+Row:General and administrative 	282.4 221.2 	219.7
+Row:Depreciation and amortization 	205.8 160.1 	158.8
+Row:Total costs and operating expenses 	2,165.0 1,797.8 	1,638.3
+Row:Operating income (loss) 	66.9 50.1 	(31.0)
+Row:Interest expense 	(83.0) (57.2) 	(69.2)
+Row:Loss on debt extinguishment 	(7.3) — 	(21.4)
+Row:Tax receivable agreements liability adjustment 	123.2 (12.5) 	—
+Row:Other income (expense), net 	7.0 (1.9) 	1.0
+Row:Income (loss) from continuing operations before income taxes 	106.8 (21.5) 	(120.6)
+Row:Benefit (provision) for income taxes 	18.9 (0.4) 	0.2
+Row:Income (loss) from continuing operations 	125.7 (21.9) 	(120.4)
+Row:Income from discontinued operations, net of income taxes (includes $33.2 gain on
+disposal, net of tax) 	14.1 — 	—
+Row:Net income (loss) 	139.8 (21.9) 	(120.4)
+Row:Less: net income (loss) attributable to non-controlling interests 	3.4 (5.4) 	(44.8)
+Row:Net income (loss) attributable to GoDaddy Inc. Net income (loss) attributable to GoDaddy Inc. per share of Class A common stock—
+basic(2):
+	$ 136.4 $ (16.5) 	$ (75.6)
+Row:Continuing operations 	$ 1.17 $ (0.21) 	$ (0.81)
+Row:Discontinued operations Net income (loss) attributable to GoDaddy Inc. Net income (loss) attributable to GoDaddy Inc. per share of Class A common stock—
+diluted(2):
+	0.08 — $ 1.25 $ (0.21) 	—
+$ (0.81)
+Row:Continuing operations Discontinued operations 	$ 0.71 $ (0.21) 0.08 — 	$ (0.81)
+—
+Row:Net income (loss) attributable to GoDaddy Inc. Weighted-average shares of Class A common stock outstanding(2):
+	$ 0.79 $ (0.21) 	$ (0.81)
+Row:Basic 	108,779 79,835 	58,676
+Row:Diluted 	177,054 79,835 	58,676
+Row:___________________________
+(1) Costs and operating expenses include equity-based compensation expense as follows:
+Technology and development Marketing and advertising 	$ 37.1 $ 23.2 7.3 8.1 	$ 18.2
+6.1
+Row:Customer care 	3.6 3.9 	2.9
+Row:General and administrative 	28.4 21.6 	13.2
+Row:(2) Amounts for periods prior to our April 1, 2015 initial public offering have been retrospectively adjusted 	to give effect to the organizational 	transactions
+Row:(1) Costs and operating expenses include equity-based compensation expense as follows:
+			Row:Technology and development 	$ 37.1 $ 	23.2 	$ 18.2
+Row:Marketing and advertising 	7.3 	8.1 	6.1
+Row:Customer care 	3.6 	3.9 	2.9
+Row:General and administrative 	28.4 	21.6 	13.2
+Row:Operating activities
+		Row:Net income (loss) $ 	139.8 $ (21.9) 	$ (120.4)
+Row:Adjustments to reconcile net income (loss) to net cash provided by operating activities:
+		Row:Depreciation and amortization 	205.8 160.1 	158.8
+Row:Equity-based compensation 	76.4 56.8 	40.4
+Row:Loss on debt extinguishment 	7.3 — 	21.4
+Row:Deferred taxes 	(34.5) (3.8) 	(3.0)
+Row:Tax receivable agreements liability adjustment 	(123.2) 12.5 	—
+Row:Domain portfolio cost of revenue 	4.4 10.7 	3.7
+Row:Gain on sale of PlusServer 	(33.2) — 	—
+Row:Other 	8.9 9.8 	8.0
+Row:Changes in operating assets and liabilities, net of amounts acquired:
+		Row:Registry deposits 	(10.1) (1.9) 	(0.9)
+Row:Prepaid domain name registry fees 	(13.5) (22.8) 	(30.7)
+Row:Accounts payable 	(8.4) 19.6 	13.5
+Row:Accrued expenses and other current liabilities 	32.6 10.0 	9.5
+Row:Deferred revenue 	220.0 160.8 	165.6
+Row:Other operating assets and liabilities 	3.3 (3.4) 	(6.7)
+Row:Net cash provided by operating activities 	475.6 386.5 	259.2
+Row:Investing activities
+		Row:Purchases of short-term investments 	(28.3) (10.5) 	(7.3)
+Row:Maturities of short-term investments 	22.6 8.4 	5.8
+Row:Business acquisitions, net of cash acquired 	(1,876.9) (118.5) 	(64.7)
+Row:Purchases of intangible assets 	(52.0) (1.3) 	(23.5)
+Row:Proceeds received from sale of PlusServer 	447.7 — 	—
+Row:Purchases of property and equipment 	(83.2) (61.5) 	(55.8)
+Row:Other investing activities, net 	— — 	1.1
+Row:Net cash used in investing activities 	(1,570.1) (183.4) 	(144.4)
+Row:Financing activities
+		Row:Proceeds received from:
+		Row:Acquisition Term Loan 	1,421.4 — 	—
+Row:Bridge Loan 	531.7 — 	—
+Row:Proceeds received from:
+			Row:Acquisition Term Loan 	1,421.4 	— 	—
+Row:Bridge Loan 	531.7 	— 	—
+Row:Sales of Class A common stock, net of expenses 	22.9 	— 	482.4
+Row:Option and warrant exercises 	61.1 	55.0 	12.7
+Row:Issuance of Class A common stock under employee stock purchase plan 	17.4 	5.0 	11.5
+Row:Payments made for:
+			Row:Repurchases of LLC Units and distributions to holders of LLC Units 	(285.0) 	(18.8) 	(0.8)
+Row:Repayment of Bridge Loan 	(596.6) 	— 	—
+Row:Repayment of term loans 	(15.3) 	(11.0) 	(11.0)
+Row:Repayment of senior note 	— 	— 	(300.0)
+Row:Repayment of revolving credit loan 	— 	— 	(75.0)
+Row:Financing-related costs 	(39.7) 	— 	(13.5)
+Row:Capital leases and other financing obligations 	(10.4) 	(15.1) 	(11.9)
+Row:Net cash provided by financing activities 	1,107.5 	15.1 	94.4
+Row:Effect of exchange rate changes on cash and cash equivalents 	3.6 	(0.1) 	(0.2)
+Row:Net increase in cash and cash equivalents 	16.6 	218.1 	209.0
+Row:Cash and cash equivalents, beginning of period 	566.1 	348.0 	139.0
+Row:Cash and cash equivalents, end of period $ 	582.7 	$ 566.1 	$ 348.0
+Row:Cash paid during the period for:
+				Row:Interest on long-term debt, net of swap benefit 	$ 88.3 	$ 	46.5 	$ 59.1
+Row:Income taxes, net of refunds received 	$ 16.6 	$ 	4.0 	$ 2.3
+Row:Supplemental information for non-cash investing and financing activities:
+				Row:Acquisition date fair value of contingent consideration 	$ 11.6 	$ 	5.6 	$ 0.9
+Row:Accrued capital expenditures at period end 	$ 	7.4 $ 	13.1 	$ 5.0
+Row:Property and equipment acquired under capital leases 	$ 	6.3 $ 	7.1 	$ 11.1

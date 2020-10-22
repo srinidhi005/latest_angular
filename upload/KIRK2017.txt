@@ -1,0 +1,130 @@
+Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 80,156 	$ 63,937
+Row:Inventories, net (1) 	81,255 	73,191
+Row:Prepaid expenses and other current assets (1) 	15,988 	15,912
+Row:Total current assets 	177,399 	153,040
+Row:Property and equipment:
+		Row:Equipment 	20,835 	19,525
+Row:Furniture and fixtures 	80,299 	78,492
+Row:Leasehold improvements 	119,272 	109,494
+Row:Computer software and hardware 	59,331 	52,740
+Row:Projects in progress 	7,685 	5,520
+Row:Property and equipment, gross 	287,422 	265,771
+Row:Accumulated depreciation 	(174,383) 	(154,901)
+Row:Property and equipment, net 	113,039 	110,870
+Row:Deferred income taxes 	2,216 	1,198
+Row:Other assets 	6,543 	5,038
+Row:Total assets 	$ 299,197 	$ 270,146
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 45,602 	$ 32,890
+Row:Accounts payable to related party vendor 	7,523 	5,008
+Row:Income taxes payable 	4,943 	6,273
+Row:Accrued expenses 	38,872 	30,270
+Row:Total current liabilities 	96,940 	74,441
+Row:Deferred rent 	53,303 	52,656
+Row:Deferred income taxes 	— 	479
+Row:Other liabilities 	8,193 	8,757
+Row:Total liabilities 	158,436 	136,333
+Row:Commitments and contingencies (Note 8) 	— 	—
+Row:Shareholders’ equity:
+Preferred stock, no par value, 10,000,000 shares authorized; no shares issued or
+outstanding at February 3, 2018, and January 28, 2017 	— 	—
+Row:Common stock, no par value, 100,000,000 shares authorized; 15,977,239 and 15,906,635
+shares issued and outstanding at February 3, 2018, and January 28, 2017, respectively 	167,501 	165,245
+Row:Accumulated deficit 	(26,740) 	(31,432)
+Row:Total shareholders’ equity 	140,761 	133,813
+Row:Total liabilities and shareholders’ equity 	$ 299,197 	$ 270,146
+Row:	(26,740) 	(31,432)
+Row:	140,761 	133,813
+Row:$ 	299,197 	$ 270,146
+Row:	(In thousands, 		except per share 	data)
+Row:$ 	634,117 374,935 	$ 	594,328 351,276 	$ 561,807
+324,136
+Row:	51,646 426,581 		40,560 391,836 	35,170
+359,306
+Row:	207,536 		202,492 	202,501
+Row:Net sales 	$ 634,117 	$ 	594,328 	$ 561,807
+Row:Cost of sales (1) 	374,935 		351,276 	324,136
+Row:Cost of sales related to merchandise purchased from related party vendor 	51,646 		40,560 	35,170
+Row:Cost of sales 	426,581 		391,836 	359,306
+Row:Gross profit 	207,536 		202,492 	202,501
+Row:Operating expenses:
+				Row:Compensation and benefits 	116,895 		110,277 	102,471
+Row:Other operating expenses 	74,299 		68,873 	67,950
+Row:Depreciation (exclusive of depreciation included in cost of sales) (1) 	6,990 		6,343 	5,889
+Row:Total operating expenses 	198,184 		185,493 	176,310
+Row:Operating income 	9,352 		16,999 	26,191
+Row:Interest expense 	275 		276 	346
+Row:Other income, net 	(739) 		(252) 	(252)
+Row:Income before income taxes 	9,816 		16,975 	26,097
+Row:Income tax expense 	4,520 		5,929 	9,524
+Row:Net income 	$ 5,296 	$ 	11,046 	$ 16,573
+Row:Earnings per share:
+				Row:Basic 	$ 0.33 	$ 	0.70 	$ 0.97
+Row:Diluted 	$ 0.33 	$ 	0.68 	$ 0.94
+Row:Weighted average shares outstanding:
+				Row:Basic 	15,973 		15,859 	17,131
+Row:Effect of dilutive common stock equivalents 	193 		286 	438
+Row:Diluted 	16,166 		16,145 	17,569
+Row:Dividends declared per common share outstanding 	$ — 	$ 	— 	$ 1.50
+Row:9,816 	16,975 	26,097
+Row:4,520 	5,929 	9,524
+Row:$ 5,296 $ 	11,046 $ 	16,573
+Row:$ 	0.33 	$ 	0.70 	$ 	0.97
+Row:$ 	0.33 	$ 	0.68 	$ 	0.94
+Row:193 	286 	438
+Row:16,166 	16,145 	17,569
+Row:$ — $ 	— $ 	1.50
+Row:Cash flows from operating activities:
+			Row:Net income 	$ 5,296 $ 	11,046 	$ 16,573
+Row:Adjustments to reconcile net income to net cash provided by operating
+activities:
+			Row:Depreciation of property and equipment 	27,150 	25,322 	22,182
+Row:Amortization of deferred rent 	(8,147) 	(5,779) 	(5,260)
+Row:Amortization of debt issue costs 	54 	89 	77
+Row:Loss on disposal of property and equipment 	173 	313 	145
+Row:Stock-based compensation expense 	2,134 	3,194 	3,773
+Row:Deferred income taxes 	(1,497) 	(2,242) 	742
+Row:Changes in assets and liabilities:
+			Row:Inventories, net (1) 	(8,064) 	(7,137) 	(11,846)
+Row:Prepaid expenses and other current assets (1) 	(75) 	1,462 	(6,929)
+Row:Other noncurrent assets 	(1,559) 	(2,922) 	155
+Row:Accounts payable 	11,644 	7,672 	2,040
+Row:Accounts payable to related party vendor 	2,515 	2,750 	181
+Row:Income taxes (refundable) payable 	(1,331) 	1,363 	324
+Row:Accrued expenses and other current and noncurrent liabilities 	16,832 	16,795 	10,993
+Row:Net cash provided by operating activities 	45,125 	51,926 	33,150
+Row:Cash flows from investing activities:
+			Row:Proceeds from sales of property and equipment 	— 	4 	—
+Row:Capital expenditures 	(28,424) 	(32,180) 	(35,114)
+Row:Net cash used in investing activities 	(28,424) 	(32,176) 	(35,114)
+Row:Cash flows from financing activities:
+			Row:Refinancing costs 	— 	(271) 	—
+Row:Cash used in net share settlement of stock options and restricted stock 	(206) 	(263) 	(2,029)
+Row:Employee stock purchases 	328 	369 	354
+Row:Cash dividends paid to stockholders 	— 	— 	(25,951)
+Row:Repurchase and retirement of common stock 	(604) 	— 	(25,196)
+Row:Net cash used in financing activities 	(482) 	(165) 	(52,822)
+Row:Cash and cash equivalents:
+			Row:Net increase (decrease) 	16,219 	19,585 	(54,786)
+Row:Beginning of the year 	63,937 	44,352 	99,138
+Row:End of the year 	$ 80,156 $ 	63,937 	$ 44,352
+Row:Supplemental cash flow information:
+			Row:Interest paid 	$ 190 $ 	159 	$ 192
+Row:Income taxes paid 	$ 7,614 $ 	7,214 	$ 8,300
+Row:Supplemental schedule of non-cash activities:
+Non-cash accruals for purchases of property and equipment 	$ 2,427 $ 	1,359 	$ 2,572
+Row:(206) 	(263) 	(2,029)
+Row:328 	369 	354
+Row:— 	— 	(25,951)
+Row:(604) 	— 	(25,196)
+Row:(482) 	(165) 	(52,822)
+Row:16,219 	19,585 	(54,786)
+Row:63,937 	44,352 	99,138
+Row:$ 80,156 $ 	63,937 	$ 44,352
+Row:$ 190 $ 	159 	$ 192
+Row:$ 7,614 $ 	7,214 	$ 8,300
+Row:$ 2,427 $ 	1,359 	$ 2,572

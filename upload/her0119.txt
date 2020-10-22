@@ -1,0 +1,114 @@
+Row:For the years ended December 31, 	2016 	2015 	2014
+Row:Net sales 	$ 7,440,181 $ 	7,386,626 	$ 7,421,768
+Row:Cost of sales 	4,282,290 	4,003,951 	4,085,602
+Row:Gross profit 	3,157,891 	3,382,675 	3,336,166
+Row:Selling, marketing and administrative expense 	1,915,378 	1,969,308 	1,898,284
+Row:Goodwill and other intangible asset impairment charges 	4,204 	280,802 	15,900
+Row:Business realignment costs 	32,526 	94,806 	29,721
+Row:Operating profit 	1,205,783 	1,037,759 	1,392,261
+Row:Interest expense, net 	90,143 	105,773 	83,532
+Row:Other (income) expense, net 	16,159 	30,139 	2,686
+Row:Income before income taxes 	1,099,481 	901,847 	1,306,043
+Row:Provision for income taxes 	379,437 	388,896 	459,131
+Row:Net income 	$ 720,044 $ 	512,951 	$ 846,912
+Row:Net income per share—basic:
+			Row:Common stock 	$ 3.45 $ 	2.40 	$ 3.91
+Row:Class B common stock 	$ 3.15 $ 	2.19 	$ 3.54
+Row:Net income per share—diluted:
+			Row:Common stock 	$ 3.34 $ 	2.32 	$ 3.77
+Row:Class B common stock 	$ 3.14 $ 	2.19 	$ 3.52
+Row:Dividends paid per share:
+			Row:Common stock 	$ 2.402 $ 	2.236 	$ 2.040
+Row:Class B common stock 	$ 2.184 $ 	2.032 	$ 1.842
+Row:Current assets:
+		Row:Cash and cash equivalents 	$ 296,967 $ 	346,529
+Row:Accounts receivable—trade, net 	581,381 	599,073
+Row:Inventories 	745,678 	750,970
+Row:Prepaid expenses and other 	192,752 	152,026
+Row:Total current assets 	1,816,778 	1,848,598
+Row:Property, plant and equipment, net 	2,177,248 	2,240,460
+Row:Goodwill 	812,344 	684,252
+Row:Other intangibles 	492,737 	379,305
+Row:Other assets 	168,365 	155,366
+Row:Deferred income taxes 	56,861 	36,390
+Row:Total assets 	$ 5,524,333 $ 	5,344,371
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 522,536 $ 	474,266
+Row:Accrued liabilities 	750,986 	856,967
+Row:Accrued income taxes 	3,207 	23,243
+Row:Short-term debt 	632,471 	363,513
+Row:Current portion of long-term debt 	243 	499,923
+Row:Current liabilities:
+		Row:Accounts payable 	$ 522,536 $ 	474,266
+Row:Accrued liabilities 	750,986 	856,967
+Row:Accrued income taxes 	3,207 	23,243
+Row:Short-term debt 	632,471 	363,513
+Row:Current portion of long-term debt 	243 	499,923
+Row:Total current liabilities 	1,909,443 	2,217,912
+Row:Long-term debt 	2,347,455 	1,557,091
+Row:Other long-term liabilities 	400,161 	468,718
+Row:Deferred income taxes 	39,587 	53,188
+Row:Total liabilities 	4,696,646 	4,296,909
+Row:The Hershey Company stockholders’ equity
+		Row:Preferred stock, shares issued: none in 2016 and 2015 	— 	—
+Row:Common stock, shares issued: 299,281,967 in 2016 and 2015 	299,281 	299,281
+Row:Class B common stock, shares issued: 60,619,777 in 2016 and 2015 	60,620 	60,620
+Row:Additional paid-in capital 	869,857 	783,877
+Row:Retained earnings 	6,115,961 	5,897,603
+Row:Treasury—common stock shares, at cost: 147,642,009 in 2016 and
+143,124,384 in 2015 	(6,183,975) 	(5,672,359)
+Row:Accumulated other comprehensive loss 	(375,888) 	(371,025)
+Row:Total—The Hershey Company stockholders’ equity 	785,856 	997,997
+Row:Noncontrolling interests in subsidiaries 	41,831 	49,465
+Row:Total stockholders’ equity 	827,687 	1,047,462
+Row:Total liabilities and stockholders’ equity $ 	5,524,333 	$ 5,344,371
+Row:For the years ended December 31, Operating Activities
+(in thousands)
+	2016 2015 	2014
+Row:Net income $ 	720,044 $ 512,951 	$ 846,912
+Row:Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization Stock-based compensation expense Excess tax benefits from stock-based compensation 	301,837 244,928 54,785 51,533 (22,062) (24,839) 	211,532
+54,068
+(53,497)
+Row:Deferred income taxes 	(38,097) (38,537) 	18,796
+Row:Goodwill and other intangible asset impairment charges 	4,204 280,802 	15,900
+Row:Loss on early extinguishment of debt 	— 28,326 	—
+Row:Write-down of equity investments 	43,482 39,489 	—
+Row:Gain on settlement of SGM liability (see Note 2) 	(26,650) — 	—
+Row:Other Changes in assets and liabilities, net of business acquisitions and divestitures:
+	51,375 28,467 	(11,027)
+Row:Accounts receivable—trade, net 	21,096 (24,440) 	(67,464)
+Row:Inventories 	13,965 52,049 	(88,497)
+Row:Prepaid expenses and other current assets 	(42,955) 118,007 	(7,245)
+Row:Accounts payable and accrued liabilities 	(72,295) 29,406 	(59,102)
+Row:Contributions to pension and other benefits plans Other assets and liabilities 	(41,697) (53,273) 16,443 (30,413) 	(53,110)
+37,111
+Row:Net cash provided by operating activities 	983,475 1,214,456 	844,377
+Row:Investing Activities
+		Row:Capital additions (including software) 	(269,476) (356,810) 	(370,789)
+Row:Proceeds from sales of property, plant and equipment 	3,651 1,205 	1,612
+Row:Proceeds from sale of business Equity investments in tax credit qualifying partnerships 	— 32,408 (44,255) (30,720) 	—
+—
+Row:Business acquisitions, net of cash and cash equivalents acquired Sale (purchase) of short-term investments 	(285,374) (218,654) — 95,316 	(396,265)
+(97,131)
+Row:Net cash used in investing activities 	(595,454) (477,255) 	(862,573)
+Row:Financing Activities
+		Row:Net increase in short-term debt 	275,607 10,720 	117,515
+Row:Long-term borrowings Repayment of long-term debt 	792,953 599,031 (500,000) (355,446) 	3,051
+(1,442)
+Row:Payment of SGM liability (see Note 2) 	(35,762) — 	—
+Row:Cash dividends paid 	(499,475) (476,132) 	(440,414)
+Row:Repurchase of common stock 	(592,550) (582,623) 	(576,755)
+Row:Exercise of stock options 	102,722 72,719 	122,306
+Row:Excess tax benefits from stock-based compensation Other 	22,062 24,839 — (48,270) 	53,497
+2,940
+Row:Net cash used in financing activities 	(434,443) (755,162) 	(719,302)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(3,140) (10,364) 	(6,156)
+Row:Decrease in cash and cash equivalents 	(49,562) (28,325) 	(743,654)
+Row:Cash and cash equivalents, beginning of period Cash and cash equivalents, end of period $ 	346,529 374,854 296,967 $ 346,529 	1,118,508
+$ 374,854
+Row:Supplemental Disclosure
+Interest paid (excluding loss on early extinguishment of debt in 2015) $ 	90,951 $ 88,448 	$ 87,801
+Row:Income taxes paid See Notes to Consolidated Financial Statements.
+	425,539 368,926 	384,318

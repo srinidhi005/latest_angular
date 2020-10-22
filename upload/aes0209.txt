@@ -1,0 +1,65 @@
+Row:ASSETSCURRENT 	ASSETS	data)Row:Cash 	and cash equivalents	$1,166 $949Row:Short	Restricted cash-term investmentsAccounts receivable, net of allowance for doubtful accounts of $23 and $10, respectivelyInventory	3702743134241,5951,463577562Row:	Prepaid expensesOther current assets	13062807630Row:	Current assets of discontinued operations and held-for-sale businesses	572,034Row:Property	Total current assetsNONCURRENT ASSETS, Plant and Equipment:	5,0156,398Row:Land	Electric generation, distribution assets and otherAccumulated depreciationConstruction in progress	44950225,24224,119(8,227)(7,942)3,9323,617Row:	Property, plant and equipment, net	21,39620,296Row:Other 	Assets:	Row:Debt 	Investments in and advances to affiliatesservice reserves and other deposits	1,1141,197467565Row:	GoodwillOther intangible assets, net of accumulated amortization of $457 and $441, respectivelyDeferred income taxes	1,0591,05943636697130Row:	Service concession assets, net of accumulated amortization of $0 and $206, respectively	1,360Row:Loan 	receivableOther noncurrent assets	1,4231,5141,741Row:	Total other assets	6,1106,418Row:TOTAL 	ASSETS	$32,521 $ 33,112Row:LIABILITIES 	AND EQUITY	Row:CURRENT 	LIABILITIES	Row:	Accounts payable	$1,329 $1,371Row:	Accrued interest	191228Row:	Accrued non-income taxes	250252Row:	Accrued and other liabilities	962980Row:Non	-recourse debt, including $479 and $1,012, respectively, related to variable interest entitiesCurrent liabilities of discontinued operations and held-for-sale businesses	1,6592,16481,033Row:	Total current liabilities	4,3996,028Row:	NONCURRENT LIABILITIES	Row:	Recourse debt	3,6504,625Row:Non	-recourse debt, including $2,922 and $1,358 respectively, related to variable interest entitiesDeferred income taxes	13,98613,1761,2801,006Row:	Other noncurrent liabilities	2,7232,595Row:	Total noncurrent liabilities	21,63921,402Row:	Commitments and Contingencies (see Notes 11 and 12)	Row:EQUITYTHE 	Redeemable stock of subsidiariesAES CORPORATION STOCKHOLDERS' EQUITY	879837Row:at 	Common stock ($0.01 par value, 1,200,000,000 shares authorized; 817,203,691 issued and662,298,096 outstanding at December 31, 2018 and 816,312,913 issued and 660,388,128 outstandingDecember 31, 2017)	88Row:	Additional paid-in capitalAccumulated deficit	8,1548,501(1,005)(2,276)Row:	Accumulated other comprehensive lossTreasury stock, at cost (154,905,595 and 155,924,785 shares at December 31, 2018 and 2017,respectively)	(2,071)(1,876)(1,878)(1,892)Row:	Total AES Corporation stockholders' equityNONCONTROLLING INTERESTS	3,2082,4652,3962,380Row:TOTAL 	Total equityLIABILITIES AND EQUITY	5,6044,845$ 32,521 $ 33,112Row:	See Accompanying Notes to Consolidated Financial Statements	.
+Row:Common stock ($0.01 par value, 1,200,000,000 shares authorized; 817,203,691 issued and662,298,096 outstanding at December 31, 2018 and 816,312,913 issued and 660,388,128 outstandingat December 31, 2017)	8	8Row:Additional paid-in capital	8,154	8,501Row:Accumulated deficit(	1,005)	(2,276Row:Accumulated other comprehensive loss(	2,071)	(1,876Row:Treasury stock, at cost (154,905,595 and 155,924,785 shares at December 31, 2018 and 2017,respectively)(	1,878)	(1,892Row:Total AES Corporation stockholders' equity	3,208	2,465Row:NONCONTROLLING INTERESTS	2,396	2,380Row:Total equity	5,604	4,845Row:TOTAL LIABILITIES AND EQUITY$ 	32,521 	$ 33,112Row:Revenue:	2018(in millions	2017, except per share 	2016amounts)
+Row:Regulated	2,939$	$
+3,109	$
+3,310Row:Non-Regulated	7,797	7,421	6,971Row:Total revenue	10,736
+	10,530
+	10,281
+Row:Cost of Sales:			Row:Regulated	(2,473)	(2,650)	(2,839)Row:Non-Regulated	(5,690)	(5,415)	(5,059)Row:Total cost of sales	(8,163)	(8,065)	(7,898)Row:Operating margin	2,573	2,465	2,383Row:General and administrative expenses	(192)	(215)	(194)Row:Interest expense	(1,056)	(1,170)	(1,134)Row:Interest income	310	244	245Row:Loss on extinguishment of debt	(188)	(68)	(13)Row:Other expense	(58)	(58)	(80)Row:Other income	72	120	64Row:Gain (loss) on disposal and sale of business interests	984	(52)	29Row:Asset impairment expense	(208)	(537)	(1,096)Row:Foreign currency transaction gains (losses)	(72)	42
+	(15)Row:Other non-operating expense	(147)
+		(2)
+Row:INCOME FROM CONTINUING OPERATIONS BEFORE TAXES AND EQUITY IN EARNINGS OFAFFILIATES	2,018	771	187
+Row:Income tax expense	(708)	(990)	(32)
+Row:Net equity in earnings of affiliates	39	71	36Row:INCOME (LOSS) FROM CONTINUING OPERATIONSIncome (loss) from operations of discontinued businesses, net of income tax benefit (expense) of$(2), $(21), and $229, respectively	1,349
+(9)
+	(148)
+(18)
+	191
+151
+Row:Gain (loss) from disposal and impairments of discontinued businesses, net of income tax benefit(expense) of $(44), $0, and $266, respectively	225
+	(611)	(1,119)Row:NET INCOME (LOSS)	1,565
+	(777)
+	(777)
+Row:Noncontrolling interests:			Row:Less: Income from continuing operations attributable to noncontrolling interests and redeemablestock of subsidiaries	(364)	(359)	(211)Row:Less: Loss (income) from discontinued operations attributable to noncontrolling interests	2
+	(25)	(142)Row:NET INCOME (LOSS) ATTRIBUTABLE TO THE AES CORPORATION	$1,203
+	(1,161) $
+	$
+(1,130)
+Row:AMOUNTS ATTRIBUTABLE TO THE AES CORPORATION COMMON STOCKHOLDERS:			Row:Income (loss) from continuing operations, net of tax	$985	$
+(507) 	$(20)Row:Income (loss) from discontinued operations, net of tax	218	(654)	(1,110)Row:NET INCOME (LOSS) ATTRIBUTABLE TO THE AES CORPORATION	$1,203
+	(1,161) $
+	$
+(1,130)
+Row:BASIC EARNINGS PER SHARE:Income (loss) from continuing operations attributable to The AES Corporation common stockholders, net of tax	$1.49
+	$
+(0.77) 	$
+(0.04)
+Row:Income (loss) from discontinued operations attributable to The AES Corporation commonstockholders, net of tax	0.33	(0.99)	(1.68)Row:NET INCOME (LOSS) ATTRIBUTABLE TO THE AES CORPORATION COMMON STOCKHOLDERS 	$1.82
+	(1.76) $
+	$
+(1.72)
+Row:DILUTED EARNINGS PER SHARE:Income (loss) from continuing operations attributable to The AES Corporation common stockholders,net of tax	$1.48
+	$
+(0.77) 	$
+(0.04)
+Row:Income (loss) from discontinued operations attributable to The AES Corporation commonstockholders, net of tax	0.33
+	(0.99)	(1.68)Row:NET INCOME (LOSS) ATTRIBUTABLE TO THE AES CORPORATION COMMON STOCKHOLDERS 	$1.81
+	$
+(1.76)	$
+(1.72)Row:DIVIDENDS DECLARED PER COMMON SHARE	$
+0.53
+	0.49
+$
+	0.45
+$
+Row:OPERATING ACTIVITIES:Net income (loss)$ Adjustments to net income (loss):Depreciation and amortization	(in millions)1,565 $ (777) 1,003 1,169	(777)
+1,176$Row:Loss (gain) on disposal and sale of business interests	(984)52	(29)Row:Impairment expensesDeferred income taxes	355537313672	1,098(793)Row:Provisions for contingencies	1434	48Row:Loss on extinguishment of debt	18868	20Row:Loss on sale and disposal of assets	2743	38Row:Net loss (gain) from disposal and impairments of discontinued businessesOther	(269) 611317160	1,383180
+Row:Changes in operating assets and liabilities:receivable	(177)	237Row:(Increase) decrease in accounts (Increase) decrease in inventory	(206) (36)(28)	42Row:(Increase) decrease in prepaid expenses and other current assets(Increase) decrease in other assetsIncrease (decrease) in accounts payable and other current liabilities	(22)107(32) (295)62163	870(251)(619)Row:Increase (decrease) in income tax payables, net and other tax payables	(7)53	(199)Row:Increase (decrease) in other liabilitiesNet cash provided by operating activitiesINVESTING ACTIVITIES:Capital expendituresAcquisitions of business interests, net of cash and restricted cash acquiredProceeds from the sale of business interests, net of cash and restricted cash soldSale of short-term investmentsPurchase of short-term investments	551122,343 2,504(2,121) (2,177)(66) (609)2,0201081,3023,540(1,411) (3,310	4732,897
+(2,345)(52)5384,904(5,151))Row:Contributions to equity investments	(145) (89)	(6)Row:Other investingNet cash used in investing activities	(84)(62)(505) (2,599)	(24)(2,136)
+Row:FINANCING ACTIVITIES:Borrowings under the revolving credit facilities	1,865 2,156	1,465Row:Repayments under the revolving credit facilitiesIssuance of recourse debt	(2,238) (1,742)1,000 1,025	(1,433)500Row:Repayments of recourse debtIssuance of non-recourse debtRepayments of non-recourse debt	(1,933) (1,353)1,928 3,222(1,411) (2,360)	(808)2,978(2,666)Row:Payments for financing feesDistributions to noncontrolling interestsContributions from noncontrolling interests and redeemable security holdersProceeds from the sale of redeemable stock of subsidiariesDividends paid on AES common stock	(39) (100)(340) (424)4373(344)(317)	(105)(476)190134(290)Row:Payments for financed capital expendituresPurchase of treasury stockProceeds from sales to noncontrolling interests, net of transaction costsOther financing	(275) (17994101(52)	)(113)(79)
+(44)Row:Net cash provided by (used in) financing activitiesEffect of exchange rate changes on cash, cash equivalents and restricted cash(Increase) decrease in cash, cash equivalents and restricted cash of discontinued operations andheld-for-sale businessesTotal increase (decrease) in cash, cash equivalents and restricted cash	(1,643)43(54)874(128)215(172)	(747)37
+(42)9Row:Cash, cash equivalents and restricted cash, beginning	1,788 1,960	1,951Row:Cash, cash equivalents and restricted cash, ending$ 	2,003 $ 1,788 	$1,960
+Row:SUPPLEMENTAL DISCLOSURES:Cash payments for interest, net of amounts capitalized$ Cash payments for income taxes, net of refundsSCHEDULE OF NONCASH INVESTING AND FINANCING ACTIVITIES:	1,003 $ 1,196 370377	$1,273487
+Row:Non-cash acquisition of intangible assets	16	Row:Non-cash contributions of assets and liabilities for the Fluence transaction (see Note 7)Non-cash exchange of debentures for the acquisition of the Guaimbê Solar Complex (see Note 24)Non-cash acquisition of the remaining interest in a Distributed Energy equity affiliate (see Note 24)Dividends declared but not yet paid	20119239086	174
+Row:Conversion of Alto Maipo loans and accounts payable into equity (see Note 14)Return Share Transfer Payment due (see Note 23)See Accompanying Notes to Consolidated Financial Statements
+	27975	

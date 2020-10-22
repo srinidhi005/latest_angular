@@ -1,0 +1,125 @@
+Row:November 29,
+	November 30,
+Row:2019
+	2018
+Row:Cash and cash equivalents $ 	2,650,221 	$ 1,642,775
+Row:Short-term investments 	1,526,755 	1,586,187
+Row:Trade receivables, net of allowances for doubtful accounts of $9,650 and of $14,981, respectively 	1,534,809 	1,315,578
+Row:Prepaid expenses and other current assets 	783,140 	312,499
+Row:Total current assets 	6,494,925 	4,857,039
+Row:Property and equipment, net 	1,293,015 	1,075,072
+Row:Goodwill 	10,691,199 	10,581,048
+Row:Other intangibles, net 	1,720,565 	2,069,001
+Row:Other assets 	562,696 	186,522
+Row:Total assets $ 	20,762,400 	$ 18,768,682
+Row:LIABILITIES AND STOCKHOLDERS’ EQUITY
+	Row:Current liabilities:
+	Row:Trade payables 	$ 209,499 $ 186,258
+Row:Accrued expenses 	1,398,548 1,163,185
+Row:Debt 	3,149,343 —
+Row:Deferred revenue 	3,377,986 2,915,974
+Row:Income taxes payable 	55,562 35,709
+Row:Total current liabilities 	8,190,938 4,301,126
+Row:Long-term liabilities:
+	Row:Debt 	988,924 4,124,800
+Row:Deferred revenue 	122,727 137,630
+Row:Income taxes payable 	616,102 644,101
+Row:Deferred income taxes 	140,498 46,702
+Row:Other liabilities 	173,056 152,209
+Row:Total liabilities 	10,232,245 9,406,568
+Row:Commitments and contingencies
+	Row:Stockholders’ equity:
+		Row:Preferred stock, $0.0001 par value; 2,000 shares authorized; none issued 	— 	—
+Row:Common stock, $0.0001 par value; 900,000 shares authorized; 600,834 shares issued;
+482,339 and 487,663 shares outstanding, respectively 	61 	61
+Row:Additional paid-in-capital 	6,504,800 	5,685,337
+Row:Retained earnings 	14,828,562 	11,815,597
+Row:Accumulated other comprehensive income (loss) 	(188,034) 	(148,130)
+Row:Treasury stock, at cost (118,495 and 113,171 shares, respectively), net of re-issuances 	(10,615,234) 	(7,990,751)
+Row:Total stockholders’ equity 	10,530,155 	9,362,114
+Row:Total liabilities and stockholders’ equity $ 	20,762,400 	$ 18,768,682
+Row:Revenue:
+	November 29,
+2019
+	November 30,
+2018
+	December 1,
+2017
+Row:Subscription $ 	9,994,463 	$ 7,922,152 	$ 6,133,869
+Row:Product 	647,788 	622,153 	706,767
+Row:Services and support 	529,046 	485,703 	460,869
+Row:Total revenue 	11,171,297 	9,030,008 	7,301,505
+Row:Cost of revenue:
+			Row:Subscription 	1,222,520 	807,221 	623,048
+Row:Product 	39,625 	46,009 	57,082
+Row:Services and support 	410,575 	341,769 	330,361
+Row:Total cost of revenue 	1,672,720 	1,194,999 	1,010,491
+Row:Gross profit 	9,498,577 	7,835,009 	6,291,014
+Row:Operating expenses:
+			Row:Research and development 	1,930,228 	1,537,812 	1,224,059
+Row:Sales and marketing 	3,244,347 	2,620,829 	2,197,592
+Row:General and administrative 	880,637 	744,898 	624,706
+Row:Amortization of intangibles 	175,244 	91,101 	76,562
+Row:Total operating expenses 	6,230,456 	4,994,640 	4,122,919
+Row:Operating income 	3,268,121 	2,840,369 	2,168,095
+Row:Non-operating income (expense):
+			Row:Interest and other income (expense), net 	42,255 	39,536 	36,395
+Row:Interest expense Investment gains (losses), net 	(157,214) 51,579 	(89,242) 3,213 	(74,402)
+7,553
+Row:Total non-operating income (expense), net Income before income taxes 	(63,380) 3,204,741 	(46,493) 2,793,876 	(30,454)
+2,137,641
+Row:Provision for income taxes 	253,283 	203,102 	443,687
+Row:Net income $ 	2,951,458 	$ 2,590,774 	$ 1,693,954
+Row:Basic net income per share $ 	6.07 	$ 5.28 	$ 3.43
+Row:Shares used to compute basic net income per share 	486,291 	490,564 	493,632
+Row:Diluted net income per share $ 	6.00 	$ 5.20 	$ 3.38
+Row:Shares used to compute diluted net income per share 	491,572 	497,843 	501,123
+Row:See accompanying Notes to Consolidated Financial 	Statements.
+		Row:Cash flows from operating activities:
+	2019
+2018
+	2017
+Row:Net income Adjustments to reconcile net income to net cash provided by operating activities:
+	$ 2,951,458 $ 2,590,774 	$ 1,693,954
+Row:Depreciation, amortization and accretion 	736,669 346,492 	325,997
+Row:Stock-based compensation Deferred income taxes 	787,705 609,562 2,707 (468,936) 	454,472
+51,605
+Row:Unrealized losses (gains) on investments, net 	(47,626) 793 	(5,494)
+Row:Other non-cash items 	13,835 7,193 	4,625
+Row:Changes in operating assets and liabilities, net of acquired assets and
+assumed liabilities:
+		Row:Trade receivables, net 	(187,826) (1,983) 	(187,173)
+Row:Prepaid expenses and other assets 	(531,054) (77,225) 	28,040
+Row:Trade payables 	23,129 54,920 	(45,186)
+Row:Accrued expenses 	171,705 43,837 	151,104
+Row:Income taxes payable 	4,152 479,184 	(34,493)
+Row:Deferred revenue 	496,959 444,693 	475,402
+Row:Net cash provided by operating activities 	4,421,813 4,029,304 	2,912,853
+Row:Cash flows from investing activities:
+		Row:Purchases of short-term investments 	(699,893) (566,084) 	(1,931,011)
+Row:Maturities of short-term investments 	699,540 765,860 	759,737
+Row:Proceeds from sales of short-term investments 	86,137 1,709,480 	1,393,929
+Row:Acquisitions, net of cash acquired 	(100,704) (6,314,382) 	(459,626)
+Row:Purchases of property and equipment 	(394,479) (266,579) 	(178,122)
+Row:Purchases of long-term investments, intangibles and other assets 	(48,735) (18,513) 	(29,918)
+Row:Proceeds from sale of long-term investments and other assets Net cash used for investing activities 	2,550 4,923 (455,584) (4,685,295) 	2,134
+(442,877)
+Row:Cash flows from financing activities:
+		Row:Purchases of treasury stock 	(2,750,000) (2,050,000) 	(1,100,000)
+Row:Proceeds from re-issuance of treasury stock 	232,932 190,990 	158,351
+Row:Taxes paid related to net share settlement of equity awards 	(439,984) (393,193) 	(240,126)
+Row:Proceeds from debt issuance, net of costs 	— 2,248,342 	—
+Row:Other financing activities, net 	11,008 (1,707) 	(1,960)
+Row:Net cash used for financing activities Effect of foreign currency exchange rates on cash and cash equivalents Net increase (decrease) in cash and cash equivalents 	(2,946,044) (5,568) (12,739) (1,738) 1,007,446 (663,297) 	(1,183,735)
+8,516
+1,294,757
+Row:Cash and cash equivalents at beginning of year 	1,642,775 2,306,072 	1,011,315
+Row:Cash and cash equivalents at end of year 	$ 2,650,221 $ 1,642,775 	$ 2,306,072
+Row:Supplemental disclosures:
+		Row:Cash paid for income taxes, net of refunds 	$ 352,478 $ 210,369 	$ 396,668
+Row:Cash paid for interest 	$ 152,075 $ 81,258 	$ 69,430
+Row:Non-cash investing activities:
+		Row:Investment in lease receivable applied to building purchase Issuance of common stock and stock awards assumed in business acquisitions 	$ — $ — $ — $ 2,784 	$ 80,439
+$ 10,348
+Row:See accompanying Notes to Consolidated 	Financial Statements.
+	

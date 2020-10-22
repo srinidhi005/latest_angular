@@ -1,0 +1,148 @@
+Row:December 	31,
+Row:2019 	2018
+Row:Current assets:
+	Row:Cash and cash equivalents 	$ 1,062.8 $ 932.4
+Row:Short-term investments 	23.6 18.9
+Row:Accounts and other receivables 	30.2 26.4
+Row:Registry deposits 	27.2 28.3
+Row:Prepaid domain name registry fees 	382.6 363.2
+Row:Prepaid expenses and other current assets 	48.9 58.1
+Row:Total current assets 	1,575.3 1,427.3
+Row:Property and equipment, net 	258.6 299.0
+Row:Operating lease assets 	196.6 —
+Row:Prepaid domain name registry fees, net of current portion 	179.3 183.6
+Row:Goodwill 	2,976.5 2,948.0
+Row:Intangible assets, net 	1,097.7 1,211.5
+Row:Other assets 	17.2 14.0
+Row:Total assets 	$ 6,301.2 $ 6,083.4
+Row:Liabilities and stockholders' equity
+	Row:Current liabilities:
+Accounts payable 	$ 72.3 $ 61.6
+Row:Accrued expenses and other current liabilities 	366.0 414.3
+Row:Deferred revenue 	1,544.4 1,393.7
+Row:Long-term debt 	18.4 16.6
+Row:Total current liabilities 	2,001.1 1,886.2
+Row:Deferred revenue, net of current portion 	654.4 623.8
+Row:Long-term debt, net of current portion 	2,376.8 2,394.2
+Row:Operating lease liabilities, net of current portion 	192.9 —
+Row:Payable to related parties pursuant to tax receivable agreements 	175.3 174.3
+Row:Other long-term liabilities 	17.7 63.2
+Row:Deferred tax liabilities 	100.9 117.2
+Row:Commitments and contingencies
+	Row:Stockholders' equity:
+	Row:Commitments and contingencies
+	Row:Stockholders' equity:
+	Row:Preferred stock, $0.001 par value - 50,000 shares authorized; none issued and outstanding 	— —
+Row:Class A common stock, $0.001 par value - 1,000,000 shares authorized; 172,867 and 168,549
+shares issued and outstanding as of December 31, 2019 and 2018, respectively 	0.2 0.2
+Row:Class B common stock, $0.001 par value - 500,000 shares authorized; 1,490 and 6,254 shares
+issued and outstanding as of December 31, 2019 and 2018, respectively 	— —
+Row:Additional paid-in capital 	1,003.5 699.8
+Row:Retained earnings (accumulated deficit) 	(153.5) 164.8
+Row:Accumulated other comprehensive loss 	(78.2) (72.1)
+Row:Total stockholders' equity attributable to GoDaddy Inc. 	772.0 792.7
+Row:Non-controlling interests 	10.1 31.8
+Row:Total stockholders' equity 	782.1 824.5
+Row:Total liabilities and stockholders' equity $ 	6,301.2 $ 6,083.4
+Row:Revenue:
+	Domains Hosting and presence 	2019 $ 1,351.6 1,126.5 	2018 $ 1,220.3 1,017.6 	2017
+$ 1,057.2
+847.9
+Row:	Business applications 	510.0 	422.2 	326.8
+Row:Total 	revenue 	2,988.1 	2,660.1 	2,231.9
+Row:Costs 	and operating expenses(1):
+			Row:	Cost of revenue (excluding depreciation and amortization) 	1,026.8 	893.9 	775.5
+Row:	Technology and development 	492.6 	434.0 	355.8
+Row:	Marketing and advertising 	345.6 	291.4 	253.2
+Row:	Customer care 	348.7 	323.1 	292.3
+Row:	General and administrative 	362.1 	334.0 	282.4
+Row:	Depreciation and amortization 	209.7 	234.1 	205.8
+Row:Total 	costs and operating expenses 	2,785.5 	2,510.5 	2,165.0
+Row:Operating Interest 	income expense 	202.6 (92.1) 	149.6 (98.4) 	66.9
+(83.0)
+Row:Loss 	on debt extinguishment 	(14.8) 	— 	(7.3)
+Row:Tax 	receivable agreements liability adjustment 	8.7 	14.9 	123.2
+Row:Other 	income (expense), net 	22.0 	6.9 	7.0
+Row:Income 	from continuing operations before income taxes 	126.4 	73.0 	106.8
+Row:Benefit 	for income taxes 	12.0 	9.0 	18.9
+Row:Income 	from continuing operations 	138.4 	82.0 	125.7
+Row:Income 	from discontinued operations, net of income taxes 	— 	— 	14.1
+Row:Net 	income 	138.4 	82.0 	139.8
+Row:Less: Net 	net income attributable to non-controlling interests income attributable to GoDaddy Inc. 	1.4 $ 137.0 	4.9 $ 77.1 	3.4
+$ 136.4
+Row:Net 	income attributable to GoDaddy Inc. per share of Class A common stock—basic:
+			Row:	Continuing operations 	$ 0.79 	$ 0.50 	$ 1.17
+Row:	Discontinued operations 	— 	— 	0.08
+Row:	Net income attributable to GoDaddy Inc. 	$ 0.79 	$ 0.50 	$ 1.25
+Row:Net diluted:
+	income attributable to GoDaddy Inc. per share of Class A common stock—
+			Row:	Continuing operations 	$ 0.76 	$ 0.45 	$ 0.71
+Row:	Discontinued operations 	— 	— 	0.08
+Row:	Net income attributable to GoDaddy Inc. 	$ 0.76 	$ 0.45 	$ 0.79
+Row:	Weighted-average shares of Class A common stock outstanding:
+			Row:	Basic 	173,431 	155,234 	108,779
+Row:	Diluted 	181,721 	181,353 	177,054
+Row:(1)Costs 	___________________________
+and operating expenses include equity-based compensation expense as follows:
+			Row:(1)Costs and operating expenses include equity-based compensation expense as follows:
+			Row:Cost of revenue 	$ 0.4 	$ — 	$ —
+Row:Technology and development 	70.3 	57.8 	37.1
+Row:Marketing and advertising 	15.4 	10.3 	7.3
+Row:Customer care 	9.3 	6.2 	3.6
+Row:General and administrative 	51.6 	51.2 	28.4
+Row:Total equity-based compensation expense 	$ 147.0 	$ 125.5 	$ 76.4
+Row:Operating activities
+Net income Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization 	2019 $ 138.4 209.7 	2018 $ 82.0 234.1 	2017
+$ 139.8
+205.8
+Row:Equity-based compensation 	147.0 	125.5 	76.4
+Row:Loss on debt extinguishment 	14.8 	— 	7.3
+Row:Tax receivable agreements liability adjustment 	(8.7) 	(14.9) 	(123.2)
+Row:Gain on sale of discontinued operations 	— 	— 	(33.2)
+Row:Other 	32.7 	(11.4) 	(21.2)
+Row:Changes in operating assets and liabilities, net of amounts acquired:
+Registry deposits 	1.1 	6.2 	(10.1)
+Row:Prepaid domain name registry fees 	(15.1) 	(15.9) 	(13.5)
+Row:Accounts payable 	13.6 	(3.4) 	(8.4)
+Row:Accrued expenses and other current liabilities 	40.4 	14.9 	32.6
+Row:Deferred revenue 	179.5 	158.0 	220.0
+Row:Other operating assets and liabilities 	(30.0) 	(15.3) 	3.3
+Row:Net cash provided by operating activities 	723.4 	559.8 	475.6
+Row:Investing activities
+			Row:Purchases of short-term investments 	(64.1) 	(24.8) 	(28.3)
+Row:Maturities of short-term investments 	59.9 	18.5 	22.6
+Row:Business acquisitions, net of cash acquired 	(40.3) 	(147.2) 	(1,876.9)
+Row:Purchases of intangible assets 	(4.7) 	(9.3) 	(52.0)
+Row:Net proceeds from sale of discontinued operations, including post-closing adjustments 	— 	(4.3) 	447.7
+Row:Purchases of property and equipment 	(87.6) 	(87.7) 	(83.2)
+Row:Other investing activities, net 	1.5 	— 	—
+Row:Net cash used in investing activities 	(135.3) 	(254.8) 	(1,570.1)
+Row:Financing activities
+			Row:Proceeds received from:
+			Row:Issuance of Senior Notes 	600.0 	— 	—
+Row:Stock option exercises 	70.7 	67.2 	61.1
+Row:Issuances of Class A common stock under employee stock purchase plan Debt issued to finance HEG acquisition 	28.5 — 	21.9 — 	17.4
+1,953.1
+Row:Sales of Class A common stock, net of issuance costs 	— 	— 	22.9
+Row:Payments made for:
+			Row:Repayment of term loans 	(625.0) 	(25.0) 	(15.3)
+Row:Repurchases of Class A common stock 	(458.6) 	— 	—
+Row:Contingent consideration for business acquisitions 	(54.8) 	(10.4) 	(1.2)
+Row:Financing-related costs 	(13.2) 	— 	(39.7)
+Row:Repurchases of LLC Units and distributions to holders of LLC Units 	— 	— 	(285.0)
+Row:Repayment of HEG acquisition bridge financing 	— 	— 	(596.6)
+Row:Other financing obligations 	(4.5) 	(6.7) 	(9.2)
+Row:Net cash provided by (used in) financing activities 	(456.9) 	47.0 	1,107.5
+Row:Effect of exchange rate changes on cash and cash equivalents 	(0.8) 	(2.3) 	3.6
+Row:Net increase in cash and cash equivalents Cash and cash equivalents, beginning of period Cash and cash equivalents, end of period 	130.4 932.4 $ 1,062.8 	349.7 582.7 $ 932.4 	16.6
+566.1
+$ 582.7
+Row:Supplemental cash flow information:
+Cash paid during the period for:
+			Row:Interest on long-term debt, net of swap benefit 	$ 80.3 	$ 84.1 	$ 88.3
+Row:Income taxes, net of refunds received 	$ 6.1 	$ 22.8 	$ 16.6
+Row:Supplemental information for non-cash investing and financing activities:
+			Row:Acquisition date fair value of contingent consideration 	$ — 	$ 45.6 	$ 14.8
+Row:Accrued capital expenditures at period end 	$ 7.4 	$ 21.9 	$ 7.4
+Row:Landlord paid tenant improvements included in purchases of property and equipment 	$ 11.2 	$ 4.1 	$ —

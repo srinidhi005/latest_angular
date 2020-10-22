@@ -1,0 +1,462 @@
+Row:52 weeks ended 	52 weeks ended 	52 weeks ended
+Row:April 27, 2019 	April 28, 2018 	April 29, 2017
+Row:$ 1,838,760 	$ 1,984,472 	$ 1,641,881
+Row:195,883 	219,145 	232,481
+Row:2,034,643 	2,203,617 	1,874,362
+Row:1,395,339 	1,522,687 	1,281,043
+Row:111,578 	123,697 	134,258
+Row:1,506,917 	1,646,384 	1,415,301
+Row:527,726 	557,233 	459,061
+Row:423,880 	433,746 	380,793
+Row:65,865 	65,586 	53,318
+Row:57,748 	313,130 	—
+Row:7,233 	5,429 	1,790
+Row:654 	2,045 	9,605
+Row:(27,654) 	(262,703) 	13,555
+Row:9,780 	10,306 	3,464
+Row:(37,434) 	(273,009) 	10,091
+Row:(13,060) 	(20,443) 	4,730
+Row:	April 27, 2019 	April 28, 2018 	April 29, 2017
+Row:Sales:
+			Row:Product sales and other 	$ 1,838,760 $ 	1,984,472 $ 	1,641,881
+Row:Rental income 	195,883 	219,145 	232,481
+Row:Total sales 	2,034,643 	2,203,617 	1,874,362
+Row:Cost of sales:
+			Row:Product and other cost of sales 	1,395,339 	1,522,687 	1,281,043
+Row:Rental cost of sales 	111,578 	123,697 	134,258
+Row:Total cost of sales 	1,506,917 	1,646,384 	1,415,301
+Row:Gross profit 	527,726 	557,233 	459,061
+Row:Selling and administrative expenses 	423,880 	433,746 	380,793
+Row:Depreciation and amortization expense 	65,865 	65,586 	53,318
+Row:Impairment loss (non-cash) 	57,748 	313,130 	—
+Row:Restructuring and other charges 	7,233 	5,429 	1,790
+Row:Transaction costs 	654 	2,045 	9,605
+Row:Operating (loss) income 	(27,654) 	(262,703) 	13,555
+Row:Interest expense, net 	9,780 	10,306 	3,464
+Row:Income (loss) before income taxes 	(37,434) 	(273,009) 	10,091
+Row:Income tax (benefit) expense 	(13,060) 	(20,443) 	4,730
+Row:Net (loss) income 	$ (24,374) $ 	(252,566) $ 	5,361
+Row:(Loss) Earnings per share of Common Stock
+			Row:Basic 	$ (0.52) $ 	(5.40) $ 	0.12
+Row:Diluted Weighted average shares of Common Stock outstanding:
+	$ (0.52) $ 	(5.40) $ 	0.11
+Row:Basic 	47,306 	46,763 	46,317
+Row:Diluted 	47,306 	46,763 	46,763
+Row:See accompanying notes to consolidated financial statements.
+			Row:Diluted 	$ 	(0.52) $ 	(5.40) $ 	0.11
+Row:Weighted average 	shares of Common Stock outstanding:
+			Row:Basic 		47,306 	46,763 	46,317
+Row:Diluted 		47,306 	46,763 	46,763
+Row:	April 27, 2019 	April 28, 2018
+Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 14,013 	$ 16,126
+Row:Receivables, net 	98,246 	100,060
+Row:Merchandise inventories, net 	420,322 	443,559
+Row:Textbook rental inventories 	47,001 	47,779
+Row:Prepaid expenses and other current assets 	11,778 	11,847
+Row:Total current assets 	591,360 	619,371
+Row:Property and equipment, net 	109,777 	111,287
+Row:Intangible assets, net 	194,978 	219,129
+Row:Goodwill 	4,700 	49,282
+Row:Deferred tax assets, net 	2,425 	—
+Row:Other noncurrent assets 	42,940 	40,142
+Row:Total assets 	$ 946,180 	$ 1,039,211
+Row:LIABILITIES AND STOCKHOLDERS' EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 186,818 	$ 187,909
+Row:Accrued liabilities 	121,720 	125,556
+Row:Short-term borrowings 	100,000 	100,000
+Row:Total current liabilities 	408,538 	413,465
+Row:Long-term deferred taxes, net 	— 	2,106
+Row:Other long-term liabilities 	53,514 	59,277
+Row:Long-term borrowings 	33,500 	96,400
+Row:Total liabilities 	495,552 	571,248
+Row:Commitments and contingencies 	— 	—
+Row:Stockholders' equity:
+		Row:Preferred stock, $0.01 par value; authorized, 5,000 shares; issued and outstanding, none 	— 	—
+Row:Common stock, $0.01 par value; authorized, 200,000 shares; issued, 51,030 and 50,032 shares, respectively;
+outstanding, 47,563 and 46,917 shares, respectively 	510 	501
+Row:Additional paid-in capital 	726,331 	717,323
+Row:Accumulated deficit 	(244,577) 	(220,203)
+Row:Treasury stock, at cost 	(31,636) 	(29,658)
+Row:Total stockholders' equity 	450,628 	467,963
+Row:Total liabilities and stockholders' equity 	$ 946,180 	$ 1,039,211
+Row:See accompanying notes to consolidated financial statements.
+		Row:58
+		Row:47,563 and 46,917 shares, respectively 	510 	501
+Row:paid-in capital 	726,331 	717,323
+Row:deficit 	(244,577) 	(220,203)
+Row:stock, at cost 	(31,636) 	(29,658)
+Row:stockholders' equity 	450,628 	467,963
+Row:liabilities and stockholders' equity 	$ 946,180 	$ 1,039,211
+Row:notes to consolidated financial statements.
+		Row:	April 27, 2019 	April 28, 2018 	April 29, 2017
+Row:Cash flows from operating activities:
+			Row:Net (loss) income 	$ (24,374) 	$ (252,566) 	$ 5,361
+Row:Adjustments to reconcile net (loss) income to net cash flows from operating activities:
+			Row:Depreciation and amortization expense 	65,865 	65,586 	53,318
+Row:Content amortization expense 	1,096 	— 	—
+Row:Amortization of deferred financing costs 	1,550 	1,502 	792
+Row:Impairment loss (non-cash) 	57,748 	313,130 	—
+Row:Deferred taxes 	(4,531) 	(14,765) 	(11,961)
+Row:Stock-based compensation expense 	9,017 	8,459 	9,366
+Row:Changes in other long-term liabilities and other 	(6,314) 	(36,823) 	14,235
+Row:Changes in other operating assets and liabilities, net 	20,760 	(24,481) 	(3,125)
+Row:Net cash flows provided by operating activities 	120,817 	60,042 	67,986
+Row:Cash flows from investing activities:
+			Row:Purchases of property and equipment 	(46,420) 	(42,809) 	(34,670)
+Row:Acquisition of business, net of cash and restricted cash acquired 	(10,000) 	(58,259) 	(186,720)
+Row:Changes in other noncurrent assets and other 	1,774 	1,036 	(3,048)
+Row:Net cash flows used in investing activities 	(54,646) 	(100,032) 	(224,438)
+Row:Cash flows from financing activities:
+			Row:Proceeds from borrowings under Credit Agreement 	521,200 	674,500 	312,700
+Row:Repayments of borrowings under Credit Agreement 	(584,100) 	(637,700) 	(153,100)
+Row:Payment of deferred financing costs 	(3,395) 	— 	(2,912)
+Row:Purchase of treasury shares 	(1,977) 	(1,638) 	(9,405)
+Row:Net cash flows (used in) provided by financing activities 	(68,272) 	35,162 	147,283
+Row:Net decrease in cash, cash equivalents, and restricted cash 	(2,101) 	(4,828) 	(9,169)
+Row:Cash, cash equivalents, and restricted cash at beginning of period 	16,869 	21,697 	30,866
+Row:Cash, cash equivalents, and restricted cash at end of period 	$ 14,768 	$ 16,869 	$ 21,697
+Row:Changes in other operating assets and liabilities, net:
+			Row:Receivables, net 	$ 1,814 	$ (13,670) 	$ (6,407)
+Row:Merchandise inventories 	23,237 	(9,495) 	6,197
+Row:Textbook rental inventories 	778 	5,047 	(4,150)
+Row:Prepaid expenses and other current assets 	69 	(2,648) 	(2,834)
+Row:Accounts payable and accrued liabilities 	(5,138) 	(3,715) 	4,069
+Row:Changes in other operating assets and liabilities, net 	$ 20,760 	$ (24,481) 	$ (3,125)
+Row:Supplemental cash flow information:
+			Row:Cash paid during the period for:
+			Row:Interest paid 	$ 8,589 	$ 8,035 	$ 2,082
+Row:Income taxes paid (net of refunds) 	$ 10,277 	$ 25,549 	$ 1,473
+Row:Interest paid 	$ 8,589 	$ 8,035 	$ 2,082
+Row:Income taxes paid (net of refunds) 	$ 10,277 	$ 25,549 	$ 1,473
+Row:See accompanying notes to consolidated financial statements.
+			Row:	Shares 	Amount 		Capital 		Deficit 	Shares 	Amount 		Equity
+Row:Balance at April 29, 2017 	49,372 	$ 494 	$ 	708,871 	$ 	32,363 	2,855 $ 	(28,020) 	$ 	713,708
+Row:Stock-based compensation
+expense 				8,459 						8,459
+Row:Vested equity awards 	660 	7 		(7) 						—
+Row:Shares repurchased for tax
+										Row:withholdings for vested
+										Row:stock awards 							260 	(1,638) 		(1,638)
+Row:Net loss 						(252,566) 				(252,566)
+Row:Balance at April 28, 2018 	50,032 	$ 501 	$ 	717,323 	$ 	(220,203) 	3,115 $ 	(29,658) 	$ 	467,963
+Row:Stock-based compensation
+expense 				9,017 						9,017
+Row:Vested equity awards 	998 	9 		(9) 						—
+Row:Shares repurchased for tax
+										Row:withholdings for vested
+										Row:stock awards 							352 	(1,978) 		(1,978)
+Row:Net loss 						(24,374) 				(24,374)
+Row:Balance at April 27, 2019 	51,030 	$ 510 	$ 	726,331 	$ 	(244,577) 	3,467 $ 	(31,636) 	$ 	450,628
+Row:Net loss 	(24,374) 			(24,374)
+Row:Balance at April 27, 2019 51,030 $ 510 $ 	726,331 $ (244,577) 	3,467 	$ (31,636) 	$ 450,628
+Row:52 weeks ended 	52 weeks ended 	52 weeks ended
+Row:April 27, 2019 	April 28, 2018 	April 29, 2017
+Row:$ 1,838,760 	$ 1,984,472 	$ 1,641,881
+Row:195,883 	219,145 	232,481
+Row:2,034,643 	2,203,617 	1,874,362
+Row:1,395,339 	1,522,687 	1,281,043
+Row:111,578 	123,697 	134,258
+Row:1,506,917 	1,646,384 	1,415,301
+Row:527,726 	557,233 	459,061
+Row:423,880 	433,746 	380,793
+Row:65,865 	65,586 	53,318
+Row:57,748 	313,130 	—
+Row:7,233 	5,429 	1,790
+Row:654 	2,045 	9,605
+Row:(27,654) 	(262,703) 	13,555
+Row:9,780 	10,306 	3,464
+Row:(37,434) 	(273,009) 	10,091
+Row:(13,060) 	(20,443) 	4,730
+Row:	April 27, 2019 	April 28, 2018 	April 29, 2017
+Row:Sales:
+			Row:Product sales and other 	$ 1,838,760 $ 	1,984,472 $ 	1,641,881
+Row:Rental income 	195,883 	219,145 	232,481
+Row:Total sales 	2,034,643 	2,203,617 	1,874,362
+Row:Cost of sales:
+			Row:Product and other cost of sales 	1,395,339 	1,522,687 	1,281,043
+Row:Rental cost of sales 	111,578 	123,697 	134,258
+Row:Total cost of sales 	1,506,917 	1,646,384 	1,415,301
+Row:Gross profit 	527,726 	557,233 	459,061
+Row:Selling and administrative expenses 	423,880 	433,746 	380,793
+Row:Depreciation and amortization expense 	65,865 	65,586 	53,318
+Row:Impairment loss (non-cash) 	57,748 	313,130 	—
+Row:Restructuring and other charges 	7,233 	5,429 	1,790
+Row:Transaction costs 	654 	2,045 	9,605
+Row:Operating (loss) income 	(27,654) 	(262,703) 	13,555
+Row:Interest expense, net 	9,780 	10,306 	3,464
+Row:Income (loss) before income taxes 	(37,434) 	(273,009) 	10,091
+Row:Income tax (benefit) expense 	(13,060) 	(20,443) 	4,730
+Row:Net (loss) income 	$ (24,374) $ 	(252,566) $ 	5,361
+Row:(Loss) Earnings per share of Common Stock
+			Row:Basic 	$ (0.52) $ 	(5.40) $ 	0.12
+Row:Diluted Weighted average shares of Common Stock outstanding:
+	$ (0.52) $ 	(5.40) $ 	0.11
+Row:Basic 	47,306 	46,763 	46,317
+Row:Diluted 	47,306 	46,763 	46,763
+Row:See accompanying notes to consolidated financial statements.
+			Row:Diluted 	$ 	(0.52) $ 	(5.40) $ 	0.11
+Row:Weighted average 	shares of Common Stock outstanding:
+			Row:Basic 		47,306 	46,763 	46,317
+Row:Diluted 		47,306 	46,763 	46,763
+Row:	April 27, 2019 	April 28, 2018
+Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 14,013 	$ 16,126
+Row:Receivables, net 	98,246 	100,060
+Row:Merchandise inventories, net 	420,322 	443,559
+Row:Textbook rental inventories 	47,001 	47,779
+Row:Prepaid expenses and other current assets 	11,778 	11,847
+Row:Total current assets 	591,360 	619,371
+Row:Property and equipment, net 	109,777 	111,287
+Row:Intangible assets, net 	194,978 	219,129
+Row:Goodwill 	4,700 	49,282
+Row:Deferred tax assets, net 	2,425 	—
+Row:Other noncurrent assets 	42,940 	40,142
+Row:Total assets 	$ 946,180 	$ 1,039,211
+Row:LIABILITIES AND STOCKHOLDERS' EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 186,818 	$ 187,909
+Row:Accrued liabilities 	121,720 	125,556
+Row:Short-term borrowings 	100,000 	100,000
+Row:Total current liabilities 	408,538 	413,465
+Row:Long-term deferred taxes, net 	— 	2,106
+Row:Other long-term liabilities 	53,514 	59,277
+Row:Long-term borrowings 	33,500 	96,400
+Row:Total liabilities 	495,552 	571,248
+Row:Commitments and contingencies 	— 	—
+Row:Stockholders' equity:
+		Row:Preferred stock, $0.01 par value; authorized, 5,000 shares; issued and outstanding, none 	— 	—
+Row:Common stock, $0.01 par value; authorized, 200,000 shares; issued, 51,030 and 50,032 shares, respectively;
+outstanding, 47,563 and 46,917 shares, respectively 	510 	501
+Row:Additional paid-in capital 	726,331 	717,323
+Row:Accumulated deficit 	(244,577) 	(220,203)
+Row:Treasury stock, at cost 	(31,636) 	(29,658)
+Row:Total stockholders' equity 	450,628 	467,963
+Row:Total liabilities and stockholders' equity 	$ 946,180 	$ 1,039,211
+Row:See accompanying notes to consolidated financial statements.
+		Row:58
+		Row:47,563 and 46,917 shares, respectively 	510 	501
+Row:paid-in capital 	726,331 	717,323
+Row:deficit 	(244,577) 	(220,203)
+Row:stock, at cost 	(31,636) 	(29,658)
+Row:stockholders' equity 	450,628 	467,963
+Row:liabilities and stockholders' equity 	$ 946,180 	$ 1,039,211
+Row:notes to consolidated financial statements.
+		Row:	April 27, 2019 	April 28, 2018 	April 29, 2017
+Row:Cash flows from operating activities:
+			Row:Net (loss) income 	$ (24,374) 	$ (252,566) 	$ 5,361
+Row:Adjustments to reconcile net (loss) income to net cash flows from operating activities:
+			Row:Depreciation and amortization expense 	65,865 	65,586 	53,318
+Row:Content amortization expense 	1,096 	— 	—
+Row:Amortization of deferred financing costs 	1,550 	1,502 	792
+Row:Impairment loss (non-cash) 	57,748 	313,130 	—
+Row:Deferred taxes 	(4,531) 	(14,765) 	(11,961)
+Row:Stock-based compensation expense 	9,017 	8,459 	9,366
+Row:Changes in other long-term liabilities and other 	(6,314) 	(36,823) 	14,235
+Row:Changes in other operating assets and liabilities, net 	20,760 	(24,481) 	(3,125)
+Row:Net cash flows provided by operating activities 	120,817 	60,042 	67,986
+Row:Cash flows from investing activities:
+			Row:Purchases of property and equipment 	(46,420) 	(42,809) 	(34,670)
+Row:Acquisition of business, net of cash and restricted cash acquired 	(10,000) 	(58,259) 	(186,720)
+Row:Changes in other noncurrent assets and other 	1,774 	1,036 	(3,048)
+Row:Net cash flows used in investing activities 	(54,646) 	(100,032) 	(224,438)
+Row:Cash flows from financing activities:
+			Row:Proceeds from borrowings under Credit Agreement 	521,200 	674,500 	312,700
+Row:Repayments of borrowings under Credit Agreement 	(584,100) 	(637,700) 	(153,100)
+Row:Payment of deferred financing costs 	(3,395) 	— 	(2,912)
+Row:Purchase of treasury shares 	(1,977) 	(1,638) 	(9,405)
+Row:Net cash flows (used in) provided by financing activities 	(68,272) 	35,162 	147,283
+Row:Net decrease in cash, cash equivalents, and restricted cash 	(2,101) 	(4,828) 	(9,169)
+Row:Cash, cash equivalents, and restricted cash at beginning of period 	16,869 	21,697 	30,866
+Row:Cash, cash equivalents, and restricted cash at end of period 	$ 14,768 	$ 16,869 	$ 21,697
+Row:Changes in other operating assets and liabilities, net:
+			Row:Receivables, net 	$ 1,814 	$ (13,670) 	$ (6,407)
+Row:Merchandise inventories 	23,237 	(9,495) 	6,197
+Row:Textbook rental inventories 	778 	5,047 	(4,150)
+Row:Prepaid expenses and other current assets 	69 	(2,648) 	(2,834)
+Row:Accounts payable and accrued liabilities 	(5,138) 	(3,715) 	4,069
+Row:Changes in other operating assets and liabilities, net 	$ 20,760 	$ (24,481) 	$ (3,125)
+Row:Supplemental cash flow information:
+			Row:Cash paid during the period for:
+			Row:Interest paid 	$ 8,589 	$ 8,035 	$ 2,082
+Row:Income taxes paid (net of refunds) 	$ 10,277 	$ 25,549 	$ 1,473
+Row:Interest paid 	$ 8,589 	$ 8,035 	$ 2,082
+Row:Income taxes paid (net of refunds) 	$ 10,277 	$ 25,549 	$ 1,473
+Row:See accompanying notes to consolidated financial statements.
+			Row:	Shares 	Amount 		Capital 		Deficit 	Shares 	Amount 		Equity
+Row:Balance at April 29, 2017 	49,372 	$ 494 	$ 	708,871 	$ 	32,363 	2,855 $ 	(28,020) 	$ 	713,708
+Row:Stock-based compensation
+expense 				8,459 						8,459
+Row:Vested equity awards 	660 	7 		(7) 						—
+Row:Shares repurchased for tax
+										Row:withholdings for vested
+										Row:stock awards 							260 	(1,638) 		(1,638)
+Row:Net loss 						(252,566) 				(252,566)
+Row:Balance at April 28, 2018 	50,032 	$ 501 	$ 	717,323 	$ 	(220,203) 	3,115 $ 	(29,658) 	$ 	467,963
+Row:Stock-based compensation
+expense 				9,017 						9,017
+Row:Vested equity awards 	998 	9 		(9) 						—
+Row:Shares repurchased for tax
+										Row:withholdings for vested
+										Row:stock awards 							352 	(1,978) 		(1,978)
+Row:Net loss 						(24,374) 				(24,374)
+Row:Balance at April 27, 2019 	51,030 	$ 510 	$ 	726,331 	$ 	(244,577) 	3,467 $ 	(31,636) 	$ 	450,628
+Row:Net loss 	(24,374) 			(24,374)
+Row:Balance at April 27, 2019 51,030 $ 510 $ 	726,331 $ (244,577) 	3,467 	$ (31,636) 	$ 450,628
+Row:52 weeks ended 	52 weeks ended 	52 weeks ended
+Row:April 27, 2019 	April 28, 2018 	April 29, 2017
+Row:$ 1,838,760 	$ 1,984,472 	$ 1,641,881
+Row:195,883 	219,145 	232,481
+Row:2,034,643 	2,203,617 	1,874,362
+Row:1,395,339 	1,522,687 	1,281,043
+Row:111,578 	123,697 	134,258
+Row:1,506,917 	1,646,384 	1,415,301
+Row:527,726 	557,233 	459,061
+Row:423,880 	433,746 	380,793
+Row:65,865 	65,586 	53,318
+Row:57,748 	313,130 	—
+Row:7,233 	5,429 	1,790
+Row:654 	2,045 	9,605
+Row:(27,654) 	(262,703) 	13,555
+Row:9,780 	10,306 	3,464
+Row:(37,434) 	(273,009) 	10,091
+Row:(13,060) 	(20,443) 	4,730
+Row:	April 27, 2019 	April 28, 2018 	April 29, 2017
+Row:Sales:
+			Row:Product sales and other 	$ 1,838,760 $ 	1,984,472 $ 	1,641,881
+Row:Rental income 	195,883 	219,145 	232,481
+Row:Total sales 	2,034,643 	2,203,617 	1,874,362
+Row:Cost of sales:
+			Row:Product and other cost of sales 	1,395,339 	1,522,687 	1,281,043
+Row:Rental cost of sales 	111,578 	123,697 	134,258
+Row:Total cost of sales 	1,506,917 	1,646,384 	1,415,301
+Row:Gross profit 	527,726 	557,233 	459,061
+Row:Selling and administrative expenses 	423,880 	433,746 	380,793
+Row:Depreciation and amortization expense 	65,865 	65,586 	53,318
+Row:Impairment loss (non-cash) 	57,748 	313,130 	—
+Row:Restructuring and other charges 	7,233 	5,429 	1,790
+Row:Transaction costs 	654 	2,045 	9,605
+Row:Operating (loss) income 	(27,654) 	(262,703) 	13,555
+Row:Interest expense, net 	9,780 	10,306 	3,464
+Row:Income (loss) before income taxes 	(37,434) 	(273,009) 	10,091
+Row:Income tax (benefit) expense 	(13,060) 	(20,443) 	4,730
+Row:Net (loss) income 	$ (24,374) $ 	(252,566) $ 	5,361
+Row:(Loss) Earnings per share of Common Stock
+			Row:Basic 	$ (0.52) $ 	(5.40) $ 	0.12
+Row:Diluted Weighted average shares of Common Stock outstanding:
+	$ (0.52) $ 	(5.40) $ 	0.11
+Row:Basic 	47,306 	46,763 	46,317
+Row:Diluted 	47,306 	46,763 	46,763
+Row:See accompanying notes to consolidated financial statements.
+			Row:Diluted 	$ 	(0.52) $ 	(5.40) $ 	0.11
+Row:Weighted average 	shares of Common Stock outstanding:
+			Row:Basic 		47,306 	46,763 	46,317
+Row:Diluted 		47,306 	46,763 	46,763
+Row:	April 27, 2019 	April 28, 2018
+Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 14,013 	$ 16,126
+Row:Receivables, net 	98,246 	100,060
+Row:Merchandise inventories, net 	420,322 	443,559
+Row:Textbook rental inventories 	47,001 	47,779
+Row:Prepaid expenses and other current assets 	11,778 	11,847
+Row:Total current assets 	591,360 	619,371
+Row:Property and equipment, net 	109,777 	111,287
+Row:Intangible assets, net 	194,978 	219,129
+Row:Goodwill 	4,700 	49,282
+Row:Deferred tax assets, net 	2,425 	—
+Row:Other noncurrent assets 	42,940 	40,142
+Row:Total assets 	$ 946,180 	$ 1,039,211
+Row:LIABILITIES AND STOCKHOLDERS' EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 186,818 	$ 187,909
+Row:Accrued liabilities 	121,720 	125,556
+Row:Short-term borrowings 	100,000 	100,000
+Row:Total current liabilities 	408,538 	413,465
+Row:Long-term deferred taxes, net 	— 	2,106
+Row:Other long-term liabilities 	53,514 	59,277
+Row:Long-term borrowings 	33,500 	96,400
+Row:Total liabilities 	495,552 	571,248
+Row:Commitments and contingencies 	— 	—
+Row:Stockholders' equity:
+		Row:Preferred stock, $0.01 par value; authorized, 5,000 shares; issued and outstanding, none 	— 	—
+Row:Common stock, $0.01 par value; authorized, 200,000 shares; issued, 51,030 and 50,032 shares, respectively;
+outstanding, 47,563 and 46,917 shares, respectively 	510 	501
+Row:Additional paid-in capital 	726,331 	717,323
+Row:Accumulated deficit 	(244,577) 	(220,203)
+Row:Treasury stock, at cost 	(31,636) 	(29,658)
+Row:Total stockholders' equity 	450,628 	467,963
+Row:Total liabilities and stockholders' equity 	$ 946,180 	$ 1,039,211
+Row:See accompanying notes to consolidated financial statements.
+		Row:58
+		Row:47,563 and 46,917 shares, respectively 	510 	501
+Row:paid-in capital 	726,331 	717,323
+Row:deficit 	(244,577) 	(220,203)
+Row:stock, at cost 	(31,636) 	(29,658)
+Row:stockholders' equity 	450,628 	467,963
+Row:liabilities and stockholders' equity 	$ 946,180 	$ 1,039,211
+Row:notes to consolidated financial statements.
+		Row:	April 27, 2019 	April 28, 2018 	April 29, 2017
+Row:Cash flows from operating activities:
+			Row:Net (loss) income 	$ (24,374) 	$ (252,566) 	$ 5,361
+Row:Adjustments to reconcile net (loss) income to net cash flows from operating activities:
+			Row:Depreciation and amortization expense 	65,865 	65,586 	53,318
+Row:Content amortization expense 	1,096 	— 	—
+Row:Amortization of deferred financing costs 	1,550 	1,502 	792
+Row:Impairment loss (non-cash) 	57,748 	313,130 	—
+Row:Deferred taxes 	(4,531) 	(14,765) 	(11,961)
+Row:Stock-based compensation expense 	9,017 	8,459 	9,366
+Row:Changes in other long-term liabilities and other 	(6,314) 	(36,823) 	14,235
+Row:Changes in other operating assets and liabilities, net 	20,760 	(24,481) 	(3,125)
+Row:Net cash flows provided by operating activities 	120,817 	60,042 	67,986
+Row:Cash flows from investing activities:
+			Row:Purchases of property and equipment 	(46,420) 	(42,809) 	(34,670)
+Row:Acquisition of business, net of cash and restricted cash acquired 	(10,000) 	(58,259) 	(186,720)
+Row:Changes in other noncurrent assets and other 	1,774 	1,036 	(3,048)
+Row:Net cash flows used in investing activities 	(54,646) 	(100,032) 	(224,438)
+Row:Cash flows from financing activities:
+			Row:Proceeds from borrowings under Credit Agreement 	521,200 	674,500 	312,700
+Row:Repayments of borrowings under Credit Agreement 	(584,100) 	(637,700) 	(153,100)
+Row:Payment of deferred financing costs 	(3,395) 	— 	(2,912)
+Row:Purchase of treasury shares 	(1,977) 	(1,638) 	(9,405)
+Row:Net cash flows (used in) provided by financing activities 	(68,272) 	35,162 	147,283
+Row:Net decrease in cash, cash equivalents, and restricted cash 	(2,101) 	(4,828) 	(9,169)
+Row:Cash, cash equivalents, and restricted cash at beginning of period 	16,869 	21,697 	30,866
+Row:Cash, cash equivalents, and restricted cash at end of period 	$ 14,768 	$ 16,869 	$ 21,697
+Row:Changes in other operating assets and liabilities, net:
+			Row:Receivables, net 	$ 1,814 	$ (13,670) 	$ (6,407)
+Row:Merchandise inventories 	23,237 	(9,495) 	6,197
+Row:Textbook rental inventories 	778 	5,047 	(4,150)
+Row:Prepaid expenses and other current assets 	69 	(2,648) 	(2,834)
+Row:Accounts payable and accrued liabilities 	(5,138) 	(3,715) 	4,069
+Row:Changes in other operating assets and liabilities, net 	$ 20,760 	$ (24,481) 	$ (3,125)
+Row:Supplemental cash flow information:
+			Row:Cash paid during the period for:
+			Row:Interest paid 	$ 8,589 	$ 8,035 	$ 2,082
+Row:Income taxes paid (net of refunds) 	$ 10,277 	$ 25,549 	$ 1,473
+Row:Interest paid 	$ 8,589 	$ 8,035 	$ 2,082
+Row:Income taxes paid (net of refunds) 	$ 10,277 	$ 25,549 	$ 1,473
+Row:See accompanying notes to consolidated financial statements.
+			Row:	Shares 	Amount 		Capital 		Deficit 	Shares 	Amount 		Equity
+Row:Balance at April 29, 2017 	49,372 	$ 494 	$ 	708,871 	$ 	32,363 	2,855 $ 	(28,020) 	$ 	713,708
+Row:Stock-based compensation
+expense 				8,459 						8,459
+Row:Vested equity awards 	660 	7 		(7) 						—
+Row:Shares repurchased for tax
+										Row:withholdings for vested
+										Row:stock awards 							260 	(1,638) 		(1,638)
+Row:Net loss 						(252,566) 				(252,566)
+Row:Balance at April 28, 2018 	50,032 	$ 501 	$ 	717,323 	$ 	(220,203) 	3,115 $ 	(29,658) 	$ 	467,963
+Row:Stock-based compensation
+expense 				9,017 						9,017
+Row:Vested equity awards 	998 	9 		(9) 						—
+Row:Shares repurchased for tax
+										Row:withholdings for vested
+										Row:stock awards 							352 	(1,978) 		(1,978)
+Row:Net loss 						(24,374) 				(24,374)
+Row:Balance at April 27, 2019 	51,030 	$ 510 	$ 	726,331 	$ 	(244,577) 	3,467 $ 	(31,636) 	$ 	450,628
+Row:Net loss 	(24,374) 			(24,374)
+Row:Balance at April 27, 2019 51,030 $ 510 $ 	726,331 $ (244,577) 	3,467 	$ (31,636) 	$ 450,628

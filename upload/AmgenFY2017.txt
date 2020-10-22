@@ -1,0 +1,222 @@
+Row:Product sales 	$ 	21,795 	$ 	21,892 	$ 	20,944
+Row:Other revenues 		1,054 		1,099 		718
+Row:Total revenues 		22,849 		22,991 		21,662
+Row:Operating expenses:
+						Row:Cost of sales 		4,069 		4,162 		4,227
+Row:Research and development 		3,562 		3,840 		4,070
+Row:Selling, general and administrative 		4,870 		5,062 		4,846
+Row:Other 		375 		133 		49
+Row:Total operating expenses 		12,876 		13,197 		13,192
+Row:Operating income 		9,973 		9,794 		8,470
+Row:Interest expense, net 		1,304 		1,260 		1,095
+Row:Interest and other income, net 		928 		629 		603
+Row:Income before income taxes 		9,597 		9,163 		7,978
+Row:Provision for income taxes 		7,618 		1,441 		1,039
+Row:Net income 	$ 	1,979 	$ 	7,722 	$ 	6,939
+Row:Earnings per share:
+						Row:Basic 	$ 	2.71 	$ 	10.32 	$ 	9.15
+Row:Diluted 	$ 	2.69 	$ 	10.24 	$ 	9.06
+Row:Shares used in the calculation of earnings per share:
+						Row:Basic 		731 		748 		758
+Row:Diluted 		735 		754 		766
+Row:	2017 	2016 	2015
+Row:Net income 	$ 1,979 	$ 7,722 	$ 6,939
+Row:Other comprehensive (loss) income, net of reclassification adjustments and taxes:
+			Row:Foreign currency translation gains (losses) 	81 	(99) 	(247)
+Row:Effective portion of cash flow hedges 	(288) 	(15) 	7
+Row:Net unrealized (losses) gains on available-for-sale securities 	(6) 	122 	(241)
+Row:Other 	5 	1 	9
+Row:Other comprehensive (loss) income, net of tax 	(208) 	9 	(472)
+Row:Comprehensive income 	$ 1,771 	$ 7,731 	$ 6,467
+Row:	AMGEN CONSOLIDATED 	INC.
+BALANCE SHEETS
+Row:	December 31, 	2017 and 2016
+Row:(In 	millions, except 	per share data)
+Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 3,800 	$ 3,241
+Row:Marketable securities 	37,878 	34,844
+Row:Trade receivables, net 	3,237 	3,165
+Row:Inventories 	2,834 	2,745
+Row:Other current assets 	1,727 	2,015
+Row:Total current assets 	49,476 	46,010
+Row:Property, plant and equipment, net 	4,989 	4,961
+Row:Intangible assets, net 	8,609 	10,279
+Row:Goodwill 	14,761 	14,751
+Row:Other assets 	2,119 	1,625
+Row:Total assets 	$ 79,954 	$ 77,626
+Row:Current liabilities:
+		Row:Accounts payable 	$ 1,352 	$ 917
+Row:Accrued liabilities 	6,516 	5,884
+Row:Short-term borrowings and current portion of long-term debt 	1,152 	4,403
+Row:Total current liabilities 	9,020 	11,204
+Row:Long-term debt 	34,190 	30,193
+Row:Long-term deferred tax liabilities 	1,166 	2,436
+Row:Long-term tax liabilities 	9,099 	2,419
+Row:Other noncurrent liabilities 	1,238 	1,499
+Row:Contingencies and commitments
+		Row:Stockholders’ equity:
+		Row:Common stock and additional paid-in capital; $0.0001 par value per share; 2,750.0 shares authorized;
+outstanding—722.2 shares in 2017 and 738.2 shares in 2016 	30,992 	30,784
+Row:Accumulated deficit 	(5,072) 	(438)
+Row:Accumulated other comprehensive loss 	(679) 	(471)
+Row:Total stockholders’ equity 	25,241 	29,875
+Row:Total liabilities and stockholders’ equity 	$ 79,954 	$ 77,626
+Row:Common stock and additional paid-in capital; $0.0001 par value per outstanding—722.2 shares in 2017 and 738.2 shares in 2016 	share; 2,750.0 shares authorized;
+	30,992 	30,784
+Row:Accumulated deficit 		(5,072) 	(438)
+Row:Accumulated other comprehensive loss 		(679) 	(471)
+Row:Total stockholders’ equity 		25,241 	29,875
+Row:Total liabilities and stockholders’ equity 		$ 79,954 $ 	77,626
+Row:	30,992 	30,784
+Row:	(5,072) 	(438)
+Row:	(679) 	(471)
+Row:	25,241 	29,875
+Row:$ 	79,954 $ 	77,626
+Row:AMGEN INC.
+CONSOLIDATED STATEMENTS 	OF CASH FLOWS
+Row:Years ended December 31, 2017, 	2016 and 2015
+Row:(In millions)
+	Row:	2017 	2016 	2015
+Row:Cash flows from operating activities:
+			Row:Net income 	$ 1,979 	$ 7,722 	$ 6,939
+Row:Depreciation and amortization 	1,955 	2,105 	2,108
+Row:Stock-based compensation expense 	329 	311 	322
+Row:Deferred income taxes 	(1,330) 	183 	(607)
+Row:Other items, net 	334 	32 	(146)
+Row:Changes in operating assets and liabilities, net of acquisitions:
+			Row:Trade receivables, net 	(58) 	(214) 	(420)
+Row:Inventories 	133 	(80) 	481
+Row:Other assets 	(24) 	(128) 	155
+Row:Accounts payable 	424 	(44) 	(12)
+Row:Accrued income taxes, net 	523 	(301) 	509
+Row:Long-term tax liability 	6,681 	445 	409
+Row:Other liabilities 	231 	323 	(7)
+Row:Net cash provided by operating activities 	11,177 	10,354 	9,731
+Row:Cash flows from investing activities:
+			Row:Purchases of property, plant and equipment 	(664) 	(738) 	(594)
+Row:Cash paid for acquisitions, net of cash acquired 	(19) 	— 	(359)
+Row:Purchases of marketable securities 	(33,607) 	(28,094) 	(25,977)
+Row:Proceeds from sales of marketable securities 	24,240 	17,958 	18,029
+Row:Proceeds from maturities of marketable securities 	6,174 	2,459 	3,527
+Row:Proceeds from sales of property, plant and equipment 	11 	78 	274
+Row:Other 	(159) 	(321) 	(447)
+Row:Net cash used in investing activities 	(4,024) 	(8,658) 	(5,547)
+Row:Cash flows from financing activities:
+			Row:Net proceeds from issuance of debt 	4,476 	7,318 	3,465
+Row:Repayment of debt 	(4,405) 	(3,725) 	(2,400)
+Row:Repurchases of common stock 	(3,160) 	(2,965) 	(1,867)
+Row:Dividends paid 	(3,365) 	(2,998) 	(2,396)
+Row:Settlement of contingent consideration obligations 	— 	— 	(253)
+Row:Withholding taxes arising from shares withheld for share-based payments 	(191) 	(260) 	(401)
+Row:Other 	51 	31 	81
+Row:Net cash used in financing activities 	(6,594) 	(2,599) 	(3,771)
+Row:Increase (decrease) in cash and cash equivalents 	559 	(903) 	413
+Row:Cash and cash equivalents at beginning of year 	3,241 	4,144 	3,731
+Row:Cash and cash equivalents at end of year 	$ 3,800 	$ 3,241 	$ 4,144
+Row:Product sales 	$ 21,795 	$ 21,892 $ 	20,944
+Row:Other revenues 	1,054 	1,099 	718
+Row:Total revenues 	22,849 	22,991 	21,662
+Row:Product sales $ 	21,795 	$ 21,892 	$ 20,944
+Row:Other revenues 	1,054 	1,099 	718
+Row:Total revenues 	22,849 	22,991 	21,662
+Row:Operating expenses:
+			Row:Cost of sales 	4,069 	4,162 	4,227
+Row:Research and development 	3,562 	3,840 	4,070
+Row:Selling, general and administrative 	4,870 	5,062 	4,846
+Row:Other 	375 	133 	49
+Row:Total operating expenses 	12,876 	13,197 	13,192
+Row:Operating income 	9,973 	9,794 	8,470
+Row:Interest expense, net 	1,304 	1,260 	1,095
+Row:Interest and other income, net 	928 	629 	603
+Row:Income before income taxes 	9,597 	9,163 	7,978
+Row:Provision for income taxes 	7,618 	1,441 	1,039
+Row:Net income $ 	1,979 	$ 7,722 	$ 6,939
+Row:Earnings per share:
+			Row:Basic $ 	2.71 	$ 10.32 	$ 9.15
+Row:Diluted $ 	2.69 	$ 10.24 	$ 9.06
+Row:Shares used in the calculation of earnings per share:
+			Row:Basic 	731 	748 	758
+Row:Diluted See accompanying notes.
+	735 	754 	766
+Row:Cost of sales 	4,069 4,162 4,227
+Row:Research and development 	3,562 3,840 4,070
+Row:Selling, general and administrative 	4,870 5,062 4,846
+Row:Other 	375 133 49
+Row:Total operating expenses 	12,876 13,197 13,192
+Row:Basic 	731 	748 758
+Row:Diluted 	735 	754 766
+Row:Net income $ 	1,979 $ 7,722 	$ 6,939
+Row:Other comprehensive (loss) income, net of reclassification adjustments and taxes:
+		Row:Foreign currency translation gains (losses) 	81 (99) 	(247)
+Row:Effective portion of cash flow hedges 	(288) (15) 	7
+Row:Net unrealized (losses) gains on available-for-sale securities 	(6) 122 	(241)
+Row:Other 	5 1 	9
+Row:Other comprehensive (loss) income, net of tax 	(208) 9 	(472)
+Row:Comprehensive income $ 	1,771 $ 7,731 	$ 6,467
+Row:Current assets:
+	Row:Cash and cash equivalents $ 	3,800 $ 3,241
+Row:Marketable securities 	37,878 34,844
+Row:Trade receivables, net 	3,237 3,165
+Row:Inventories 	2,834 2,745
+Row:Other current assets 	1,727 2,015
+Row:Total current assets 	49,476 46,010
+Row:Property, plant and equipment, net 	4,989 4,961
+Row:Intangible assets, net 	8,609 10,279
+Row:Goodwill 	14,761 14,751
+Row:Other assets 	2,119 1,625
+Row:Total assets $ 	79,954 $ 77,626
+Row:Current liabilities:
+	Row:Accounts payable $ 	1,352 $ 917
+Row:Accrued liabilities 	6,516 5,884
+Row:Short-term borrowings and current portion of long-term debt 	1,152 4,403
+Row:Total current liabilities 	9,020 11,204
+Row:Long-term debt 	34,190 30,193
+Row:Long-term deferred tax liabilities 	1,166 2,436
+Row:Long-term tax liabilities 	9,099 2,419
+Row:Other noncurrent liabilities 	1,238 1,499
+Row:Common stock and additional paid-in capital; $0.0001 par value per share; 2,750.0 shares authorized;
+outstanding—722.2 shares in 2017 and 738.2 shares in 2016 	30,992 	30,784
+Row:Accumulated deficit 	(5,072) 	(438)
+Row:Accumulated other comprehensive loss 	(679) 	(471)
+Row:Total stockholders’ equity 	25,241 	29,875
+Row:Total liabilities and stockholders’ equity $ 	79,954 $ 	77,626
+Row:2017 Cash flows from operating activities:
+	2016 	2015
+Row:Net income $ 1,979 	$ 7,722 	$ 6,939
+Row:Depreciation and amortization 1,955 	2,105 	2,108
+Row:Stock-based compensation expense 329 	311 	322
+Row:Deferred income taxes (1,330) 	183 	(607)
+Row:Other items, net 334 	32 	(146)
+Row:Changes in operating assets and liabilities, net of acquisitions:
+		Row:Trade receivables, net (58) 	(214) 	(420)
+Row:Inventories 133 	(80) 	481
+Row:Other assets (24) 	(128) 	155
+Row:Accounts payable 424 	(44) 	(12)
+Row:Accrued income taxes, net 523 	(301) 	509
+Row:Long-term tax liability 6,681 	445 	409
+Row:Other liabilities 231 	323 	(7)
+Row:Net cash provided by operating activities 11,177 	10,354 	9,731
+Row:Cash flows from investing activities:
+Purchases of property, plant and equipment (664) Cash paid for acquisitions, net of cash acquired (19) 	(738) — 	(594)
+(359)
+Row:Purchases of marketable securities (33,607) 	(28,094) 	(25,977)
+Row:Proceeds from sales of marketable securities 24,240 	17,958 	18,029
+Row:Proceeds from maturities of marketable securities 6,174 	2,459 	3,527
+Row:Proceeds from sales of property, plant and equipment 11 	78 	274
+Row:Other (159) 	(321) 	(447)
+Row:Net cash used in investing activities (4,024) 	(8,658) 	(5,547)
+Row:Cash flows from financing activities:
+		Row:Net proceeds from issuance of debt 4,476 	7,318 	3,465
+Row:Repayment of debt (4,405) 	(3,725) 	(2,400)
+Row:Repurchases of common stock (3,160) 	(2,965) 	(1,867)
+Row:Dividends paid (3,365) 	(2,998) 	(2,396)
+Row:Settlement of contingent consideration obligations — 	— 	(253)
+Row:Withholding taxes arising from shares withheld for share-based payments (191) 	(260) 	(401)
+Row:Other 51 	31 	81
+Row:Net cash used in financing activities (6,594) 	(2,599) 	(3,771)
+Row:Increase (decrease) in cash and cash equivalents 559 	(903) 	413
+Row:Cash and cash equivalents at beginning of year 3,241 	4,144 	3,731
+Row:Cash and cash equivalents at end of year $ 3,800 	$ 3,241 	$ 4,144
+Row:See accompanying notes.
+		

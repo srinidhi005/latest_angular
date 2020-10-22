@@ -1,0 +1,81 @@
+Row:ASSETS
+		Row:Current assets
+		Row:Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	1,182,371 	1,581,234
+Row:Accounts receivable, less allowance for doubtful accounts of $9,100 in 2018 and $31,400
+		Row:in 2017 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,188,052 	1,405,399
+Row:Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	443,383 	433,293
+Row:Prepaid expenses and other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	268,698 	214,000
+Row:Total current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	3,082,504 	3,633,926
+Row:Property, plant and equipment, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	256,473 	259,710
+Row:Other assets
+		Row:Goodwill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	485,881 	573,063
+Row:Other intangibles, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	693,842 	217,382
+Row:Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Total other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	744,288 1,924,011 	605,902
+1,396,347
+Row:Total assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	5,262,988 	5,289,983
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row:Short-term borrowings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	$ 9,740 	154,957
+Row:Accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	333,521 	348,476
+Row:Accrued liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	931,063 	748,264
+Row:Total current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,274,324 	1,251,697
+Row:Long-term debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,695,092 	1,693,609
+Row:Other liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Total liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	539,086 3,508,502 	514,720
+3,460,026
+Row:Common stock of $0.50 par value. Authorized 600,000,000 shares; issued 209,694,630
+		Row:shares in 2018 and 2017 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	104,847 	104,847
+Row:Additional paid-in capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,275,059 	1,050,605
+Row:Retained earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	4,184,374 	4,260,222
+Row:Accumulated other comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	(294,514) 	(239,425)
+Row:Treasury stock, at cost, 83,565,598 shares in 2018 and 85,244,923 shares in 2017 . . . . . . . . . . . . 	(3,515,280) 	(3,346,292)
+Row:Total shareholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	1,754,486 	1,829,957
+Row:Total liabilities and shareholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 	5,262,988 	5,289,983
+Row:Net revenues
+	$4,579,646 	5,209,782
+	5,019,822
+Row:Costs and expenses			Row:Cost of sales	1,850,678 	2,033,693 	1,905,474Row:Royalties.	351,660 	405,488 	409,522Row:Product development	246,165 	269,020 	266,375Row:Advertising	439,922 	501,813 	468,940Row:Amortization of intangible assets	28,703 	28,818 	34,763Row:Program production cost amortization	43,906 	35,798 	35,931Row:Selling, distribution and administration	1,287,560 	1,124,793 	1,110,769Row:Total expenses	4,248,594 	4,399,423 	4,231,774Row:Operating profit	331,052 	810,359 	788,048
+Row:Non-operating (income) expense			Row:Interest expense	90,826	98,268	97,405Row:Interest income	(22,357)	(22,155)	(9,367)Row:Other (income) expense, net	(7,819)	(51,904)	7,521
+Row:Total non-operating expense, net	60,650	24,209	95,559
+Row:Earnings before income taxes	270,402	786,150	692,489Row:Income taxes	49,968	389,543	159,338Row:Net earnings	220,434
+	396,607
+	533,151Row:Net loss attributable to noncontrolling interests			(18,229)Row:Net earnings attributable to Hasbro, Inc.
+	$ 220,434
+	396,607
+	551,380
+Row:Per common shareNet earnings attributable to Hasbro, Inc.			Row:Basic
+	1.75
+$	3.17
+	4.40
+Row:Diluted
+	$
+1.74
+	3.12
+	4.34
+Row:Cash dividends declared
+	$
+2.52
+	2.28
+	2.04
+Row:Cash flows from operating activitiesNet earnings	$ 220,434
+396,607
+	533,151
+	Row:Adjustments to reconcile net earnings to net cash provided by operating activities:			Row:Depreciation of property, plant and equipmentImpairment of goodwill	143,018
+139,25586,253	119,70732,858
+	Row:Impairment of intangible assets	31,303		Row:Amortization of intangible assets	28,70328,818	34,763	Row:Program production cost amortizationDeferred income taxes	43,906(11,094)35,798112,105	35,931(662	)Row:Stock-based compensation	27,89256,032	61,624	Row:Other non-cash items	(18,879)
+(44,001)
+	(16,011	)
+Row:Changes in operating assets and liabilities, net of acquired and disposed balances:Decrease (increase) in accounts receivableIncrease in inventories..(Increase) decrease in prepaid expenses and other current assetsProgram production costsIncrease (decrease) in accounts payable and accrued liabilities	180,113(37,211)(11,929)(131,984)107,426(50,376)(25,301)24,450(48,003)(80,461)	(149,923(12,0657,422(48,690246,223
+	))Row:Net deemed repatriation taxOther, including long-term advances	27,027(35,218)181,305(5,613)	(27,015	)Row:Net cash provided by operating activities	645,997
+724,378
+	817,313
+	Row:Cash flows from investing activities			Row:Additions to property, plant and equipmentInvestments and acquisitions, net of cash acquiredOther	(140,426)(155,451)9,400(134,877) 3,396 	(154,900(12,43628,945	))Row:Net cash utilized by investing activities	(286,477)
+(131,481) 	(138,391	Row:Cash flows from financing activities			Row:Net proceeds from borrowings with maturity greater than three months	493,878		Row:Repayments of borrowings with maturity greater than three monthsNet (repayments of) proceeds from other short-term borrowings	(142,357)(350,000)(18,419) 	8,978	Row:Purchases of common stock	(250,054)(151,311) 	(150,075	Row:Stock-based compensation transactions	29,99929,431 	42,207	Row:Dividends paid	(309,258)(276,973) 	(248,881	)Row:Payments related to tax withholding for share-based compensationOther	(58,344)(7,087)(31,994) (6,785) 	(21,969(5,758	)Row:Net cash utilized by financing activities	(737,101)(312,173) 	(375,498	)Row:Cash flows from financing activities			Row:Net proceeds from borrowings with maturity greater than three monthsRepayments of borrowings with maturity greater than three months		493,878(350,000)	Row:Net (repayments of) proceeds from other short-term borrowings	(142,357)	(18,419) 	8,978Row:Purchases of common stock	(250,054)	(151,311) 	(150,075Row:Stock-based compensation transactions	29,999	29,431 	42,207Row:Dividends paid	(309,258)	(276,973) 	(248,881Row:Payments related to tax withholding for share-based compensation	(58,344)	(31,994) 	(21,969Row:Other	(7,087)	(6,785) 	(5,758Row:Net cash utilized by financing activitiesEffect of exchange rate changes on cash	(737,101)(21,282)	(312,173) 18,225 	(375,4982,111Row:(Decrease) increase in cash and cash equivalentsCash and cash equivalents at beginning of year	(398,863)1,581,234	298,949 1,282,285 	305,535976,750Row:Cash and cash equivalents at end of year.	$ 1,182,371
+	1,581,234 	1,282,285
+Row:Supplemental informationInterest paid
+	$
+82,258
+	89,294
+	88,525
+Row:Income taxes paid
+	$ 117,854
+	115,753
+	98,913

@@ -1,0 +1,212 @@
+Row(millions, except per share data) 	2018
+	As Adjusted (a)
+	As Adjusted (a)
+RowSales 	$ 74,433 $ 	71,786 	$ 69,414
+RowOther revenue 	923 	928 	857
+RowTotal revenue 	75,356 	72,714 	70,271
+RowCost of sales 	53,299 	51,125 	49,145
+RowSelling, general and administrative expenses 	15,723 	15,140 	14,217
+RowDepreciation and amortization (exclusive of depreciation included in cost
+of sales) 	2,224 	2,225 	2,045
+RowOperating income 	4,110 	4,224 	4,864
+RowNet interest expense 	461 	653 	991
+RowNet other (income) / expense 	(27) 	(59) 	(88)
+RowEarnings from continuing operations before income taxes 	3,676 	3,630 	3,961
+RowProvision for income taxes 	746 	722 	1,295
+RowNet earnings from continuing operations 	2,930 	2,908 	2,666
+RowDiscontinued operations, net of tax 	7 	6 	68
+RowNet earnings 	$ 2,937 $ 	2,914 	$ 2,734
+RowBasic earnings per share
+			RowContinuing operations 	$ 5.54 $ 	5.32 	$ 4.61
+RowDiscontinued operations 	0.01 	0.01 	0.12
+RowNet earnings per share 	$ 5.55 $ 	5.32 	$ 4.73
+RowDiluted earnings per share
+			RowContinuing operations 	$ 5.50 $ 	5.29 	$ 4.58
+RowDiscontinued operations 	0.01 	0.01 	0.12
+RowNet earnings per share 	$ 5.51 $ 	5.29 	$ 4.69
+RowWeighted average common shares outstanding
+			RowBasic 	528.6 	546.8 	577.6
+RowDiluted 	533.2 	550.3 	582.5
+RowAntidilutive shares 	— 	4.1 	0.1
+RowNote: Per share amounts may not foot due to rounding.
+			Row(millions, except footnotes)
+	February 2,
+2019
+	2018
+As Adjusted (a)
+RowAssets
+		RowCash and cash equivalents 	$ 1,556 	$ 2,643
+RowInventory 	9,497 	8,597
+RowOther current assets 	1,466 	1,300
+RowTotal current assets 	12,519 	12,540
+RowProperty and equipment
+		RowLand 	6,064 	6,095
+RowBuildings and improvements 	29,240 	28,131
+RowFixtures and equipment 	5,912 	5,623
+RowComputer hardware and software 	2,544 	2,645
+RowConstruction-in-progress 	460 	440
+RowAccumulated depreciation 	(18,687) 	(18,398)
+RowProperty and equipment, net 	25,533 	24,536
+RowOperating lease assets 	1,965 	1,884
+RowOther noncurrent assets 	1,273 	1,343
+RowTotal assets 	$ 41,290 	$ 40,303
+RowLiabilities and shareholders' investment
+		RowAccounts payable 	$ 9,761 	$ 8,677
+RowAccrued and other current liabilities 	4,201 	4,094
+RowCurrent portion of long-term debt and other borrowings 	1,052 	281
+RowTotal current liabilities 	15,014 	13,052
+RowLong-term debt and other borrowings 	10,223 	11,117
+RowNoncurrent operating lease liabilities 	2,004 	1,924
+RowDeferred income taxes 	972 	693
+RowOther noncurrent liabilities 	1,780 	1,866
+RowTotal noncurrent liabilities 	14,979 	15,600
+RowShareholders' investment
+		RowCommon stock 	43 	45
+RowAdditional paid-in capital 	6,042 	5,858
+RowRetained earnings 	6,017 	6,495
+RowAccumulated other comprehensive loss 	(805) 	(747)
+RowTotal shareholders' investment 	11,297 	11,651
+RowTotal liabilities and shareholders' investment 	$ 41,290 	$ 40,303
+RowCommon Stock Authorized 6,000,000,000 shares, $0.0833 par value; 517,761,600 	shares issued and 	outstanding
+Row(millions)
+	2018 	2017
+As Adjusted (a)
+	2016
+As Adjusted (@)
+RowOperating activities
+			RowNet earnings
+	$
+2,937 	$
+2,914 	$
+2,734
+RowEarnings from discontinued operations, net of tax
+	7
+	6
+	68
+RowNet earnings from continuing operations
+	2,930
+	2,908
+	2,666
+RowAdjustments to reconcile net earnings to cash provided by operations:
+			RowDepreciation and amortization
+	2,474
+	2,476
+	2,318
+RowShare-based compensation expense
+	132
+	112
+	113
+RowDeferred income taxes
+	322
+	(188)
+	40
+RowLoss on debt extinguishment
+		123
+	422
+RowNoncash losses/ (gains) and other, net
+	95
+	208
+	(11)
+RowChanges in operating accounts:
+			RowInventory
+	(900)
+	(348)
+	293
+RowOther assets
+	(299)
+	(156)
+	56
+RowAccounts payable
+	1,127
+	1,307
+	(166)
+RowAccrued and other liabilities
+	89
+	419
+	(394)
+RowCash provided by operating activities—continuing operations
+	5,970
+	6,861
+	5,337
+RowCash provided by operating activities—discontinued operations
+	3
+	74
+	107
+RowCash provided by operations
+	5,973
+	6,935
+	5,444
+RowInvesting activities
+			RowExpenditures for property and equipment
+	(3,516)
+	(2,533)
+	(1,547)
+RowProceeds from disposal of property and equipment
+	85
+	31
+	46
+RowCash paid for acquisitions, net of cash assumed
+		(518)
+	RowOther investments
+	15
+	(55)
+	28
+RowCash required for investing activities
+	(3,416)
+	(3,075)
+	(1,473)
+RowFinancing activities
+			RowAdditions to long-term debt
+		739
+	1,977
+RowReductions of long-term debt
+	(281)
+	(2,192)
+	(2,649)
+RowDividends paid
+	(1,335)
+	(1,338)
+	(1,348)
+RowRepurchase of stock
+	(2,124)
+	(1,046)
+	(3,706)
+RowStock option exercises
+	96
+	108
+	221
+RowCash required for financing activities
+	(3,644)
+	(3,729)
+	(5,505)
+RowNet (decrease) /increase in cash and cash equivalents
+	(1,087)
+	131
+	(1,534)
+RowCash and cash equivalents at beginning of period
+	2,643
+	2,512
+	4,046
+RowCash and cash equivalents at end of period
+	1,556 $
+	$
+2,643 	$
+2,512
+RowSupplemental information
+			RowInterest paid, net of capitalized interest
+	$
+476 	$
+678 	$
+999
+RowIncome taxes paid
+	373
+	934
+	1,514
+RowLeased assets obtained in exchange for new finance lease liabilities
+	130
+	139
+	252
+RowLeased assets obtained in exchange for new operating lease liabilities
+	246
+	212
+	148

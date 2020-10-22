@@ -1,0 +1,266 @@
+RowFor the year ended
+	2019
+	2018
+	2017
+RowRevenue 	$ 23,406 	$ 30,391 	$ 20,322
+RowCost of goods sold 	12,704 	12,500 	11,886
+RowGross margin 	10,702 	17,891 	8,436
+RowSelling, general, and administrative 	836 	813 	743
+RowResearch and development 	2,441 	2,141 	1,824
+RowOther operating (income) expense, net 	49 	(57) 	1
+RowOperating income 	7,376 	14,994 	5,868
+RowInterest income 	205 	120 	41
+RowInterest expense 	(128) 	(342) 	(601)
+RowOther non-operating income (expense), net 	(405) 	(465) 	(112)
+Row	7,048 	14,307 	5,196
+RowIncome tax (provision) benefit 	(693) 	(168) 	(114)
+RowEquity in net income (loss) of equity method investees 	3 	(1) 	8
+RowNet income 	6,358 	14,138 	5,090
+RowNet income attributable to noncontrolling interests 	(45) 	(3) 	(1)
+RowNet income attributable to Micron 	$ 6,313 	$ 14,135 	$ 5,089
+RowEarnings per share
+			RowBasic 	$ 5.67 	$ 12.27 	$ 4.67
+RowDiluted 	5.51 	11.51 	4.41
+RowNumber of shares used in per share calculations
+			RowBasic 	1,114 	1,152 	1,089
+RowDiluted 	1,143 	1,229 	1,154
+RowBalance at September 1, 2016
+	Number
+of
+Shares
+1,094 	Amount
+$ 109
+	Additional
+Capital
+$ 7,736
+	Retained Earnings $ 5,299 	Treasury Stock $(1,029) 	Other
+Comprehensive Income (Loss) $ (35) 	Total Micron Shareholders' Equity
+$ 12,080 	Noncontrolling
+Interests in
+Subsidiaries $ 848 	Total
+Equity
+$ 12,928
+RowNet income
+				5,089
+			5,089
+	1
+	5,090
+RowOther comprehensive income (loss), net
+						64
+	64
+		64
+RowStock issued under stock plans
+	20
+	زرا
+	139
+				142
+		142
+RowStock-based compensation expense
+			217
+	(2
+			215
+		215
+RowRepurchase and retirement of stock
+	(2)
+		(13)
+	(22)
+			(35)
+		(35)
+RowStock issued to Nanya for Inotera
+Acquisition
+	4
+		70
+	(104)
+	1,029
+		995
+		995
+RowSettlement of capped calls
+			192
+		(67)
+		125
+		125
+RowReclassification of redeemable
+convertible notes, net
+			(21)
+				(21)
+		(21)
+RowConversion of convertible notes
+			(33)
+				(33)
+		(33)
+RowBalance at August 31, 2017
+	1,116 	$ 112
+	$ 8,287
+	$
+10,260 	(67) $
+	$
+29
+	$
+18,621
+	$
+849 	$ 19,470
+RowNet income
+				14,135
+			14,135
+	در
+	14,138
+RowOther comprehensive income (loss), net
+						(19)
+	(19	)
+	(19)
+RowStock issued in public offering
+	34
+	3
+	1,363
+				1,366
+		1,366
+RowStock issued under stock plans
+	22
+	2
+	287
+				289
+		289
+RowStock-based compensation expense
+			198
+				198
+		198
+RowContributions from noncontrolling
+interest
+								18
+	18
+RowRepurchase and retirement of stock
+	(2)
+		(71)
+				(71	)
+	(71)
+RowSettlement of capped calls
+			429
+		(429)
+				RowReclassification of redeemable
+convertible notes, net
+			18
+				18
+		18
+RowConversion and repurchase of
+convertible notes
+			(2,310)
+		67
+		(2,243)
+		(2,243)
+RowBalance at August 30, 2018
+	1,170 	$ 117
+	$ 8,201
+	$ 24,395 	$ (429) 	$
+10
+	32,294 $
+	$
+870 	$ 33,164
+RowCumulative effect of adopting new
+accounting standards
+				92
+			92
+		92
+RowNet income
+				6,313
+			6,313
+	36
+	6,349
+RowOther comprehensive income (loss), net
+						(1)
+	(1)
+		(1)
+RowStock issued under stock plans
+	14
+	1
+	178
+				179
+		179
+RowStock-based compensation expense
+			243
+				243
+		243
+RowRepurchase of stock
+			103
+	(39) 	(2,792)
+		(2,728	)
+	(2,728)
+RowAcquisitions of noncontrolling interests
+			1
+				1
+	(17)
+	(16)
+RowReclassification of redeemable
+convertible notes, net
+			3
+				3
+		3
+RowConversion of convertible notes
+			(515)
+				(515)
+		(515)
+RowBalance at August 29, 2019
+	1,182 	$ 118
+	$ 8,214 	$ 30,761 	$(3,221) 	$
+9
+	35,881
+$
+	889 $
+	$ 36,770
+RowFor the year ended
+	2019
+	2018
+	2017
+RowCash flows from operating activities
+			RowNet income 	$ 6,358 	$ 14,138 	$ 5,090
+RowAdjustments to reconcile net income to net cash provided by operating
+activities
+			RowDepreciation expense and amortization of intangible assets 	5,424 	4,759 	3,861
+RowAmortization of debt discount and other costs 	49 	101 	125
+RowLoss on debt prepayments, repurchases, and conversions 	396 	385 	99
+RowStock-based compensation 	243 	198 	215
+RowGain on remeasurement of previously-held equity interest in Inotera 	— 	— 	(71)
+RowChange in operating assets and liabilities
+			RowReceivables 	2,431 	(1,734) 	(1,651)
+RowInventories 	(1,528) 	(472) 	50
+RowAccounts payable and accrued expenses 	(174) 	668 	456
+RowPayments attributed to intercompany balances with Inotera 	— 	— 	(361)
+RowDeferred income taxes, net 	150 	(265) 	(22)
+RowOther 	(160) 	(378) 	362
+RowNet cash provided by operating activities 	13,189 	17,400 	8,153
+RowCash flows from investing activities
+Expenditures for property, plant, and equipment 	(9,780) 	(8,879) 	(4,734)
+RowPurchases of available-for-sale securities 	(4,218) 	(760) 	(1,239)
+RowAcquisition of Inotera 	— 	— 	(2,634)
+RowProceeds from maturities of available-for-sale securities 	1,541 	320 	194
+RowProceeds from sales of available-for-sale securities 	1,504 	604 	776
+RowProceeds from government incentives 	748 	355 	21
+RowOther 	120 	144 	79
+RowNet cash provided by (used for) investing activities 	(10,085) 	(8,216) 	(7,537)
+RowCash flows from financing activities
+			RowRepayments of debt 	(3,340) 	(10,194) 	(2,558)
+RowPayments to acquire treasury stock 	(2,729) 	(71) 	(36)
+RowPayments on equipment purchase contracts 	(75) 	(206) 	(519)
+RowProceeds from issuance of debt 	3,550 	1,009 	3,311
+RowProceeds from issuance of stock 	179 	1,655 	142
+RowOther 	(23) 	31 	9
+RowNet cash provided by (used for) financing activities 	(2,438) 	(7,776) 	349
+RowEffect of changes in currency exchange rates on cash, cash equivalents,
+and restricted cash 	26 	(37) 	(12)
+RowNet increase in cash, cash equivalents, and restricted cash 	692 	1,371 	953
+RowCash, cash equivalents, and restricted cash at beginning of period 	6,587 	5,216 	4,263
+RowCash, cash equivalents, and restricted cash at end of period 	$ 7,279 	$ 6,587 	$ 5,216
+RowRepayments of debt 	(3,340) 	(10,194) 	(2,558)
+RowPayments to acquire treasury stock 	(2,729) 	(71) 	(36)
+RowPayments on equipment purchase contracts 	(75) 	(206) 	(519)
+RowProceeds from issuance of debt 	3,550 	1,009 	3,311
+RowProceeds from issuance of stock 	179 	1,655 	142
+RowOther 	(23) 	31 	9
+RowNet cash provided by (used for) financing activities 	(2,438) 	(7,776) 	349
+RowNet increase in cash, cash equivalents, and restricted cash 	692 	1,371 	953
+RowCash, cash equivalents, and restricted cash at beginning of period 	6,587 	5,216 	4,263
+RowCash, cash equivalents, and restricted cash at end of period 	$ 7,279 	$ 6,587 	$ 5,216
+RowSupplemental disclosures
+			RowIncome taxes paid, net 	$ (524) 	$ (226) 	$ (99)
+RowInterest paid, net of amounts capitalized 	(53) 	(312) 	(468)
+RowNoncash investing and financing activity
+			RowEquipment acquisitions on contracts payable and capital leases 	119 	84 	813

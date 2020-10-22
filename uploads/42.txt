@@ -1,0 +1,119 @@
+Row	May 27, 2018 	May 	28, 2017 	May 29, 2016
+RowSales 	$ 8,080.1 	$ 	7,170.2 $ 	6,933.5
+RowCosts and expenses:
+				RowFood and beverage 	2,303.1 		2,070.3 	2,039.7
+RowRestaurant labor 	2,614.5 		2,265.3 	2,189.2
+RowRestaurant expenses 	1,417.1 		1,265.2 	1,163.5
+RowMarketing expenses 	252.3 		239.7 	238.0
+RowGeneral and administrative expenses 	409.8 		387.7 	384.9
+RowDepreciation and amortization 	313.1 		272.9 	290.2
+RowImpairments and disposal of assets, net 	3.4 		(8.4) 	5.8
+RowTotal operating costs and expenses 	$ 7,313.3 	$ 	6,492.7 $ 	6,311.3
+RowOperating income 	766.8 		677.5 	622.2
+RowInterest, net 	161.1 		40.2 	172.5
+RowEarnings before income taxes 	605.7 		637.3 	449.7
+RowIncome tax expense 	1.9 		154.8 	90.0
+RowEarnings from continuing operations 	$ 603.8 	$ 	482.5 $ 	359.7
+RowEarnings (loss) from discontinued operations, net of tax expense
+				Row(benefit) of $(4.8), $(4.2) and $3.4, respectively 	(7.8) 		(3.4) 	15.3
+RowNet earnings 	$ 596.0 	$ 	479.1 $ 	375.0
+RowBasic net earnings per share:
+				RowEarnings from continuing operations 	$ 4.87 	$ 	3.88 $ 	2.82
+RowEarnings (loss) from discontinued operations 	(0.06) 		(0.03) 	0.12
+RowNet earnings 	$ 4.81 	$ 	3.85 $ 	2.94
+RowDiluted net earnings per share:
+				RowEarnings from continuing operations 	$ 4.79 	$ 	3.83 $ 	2.78
+RowEarnings (loss) from discontinued operations 	(0.06) 		(0.03) 	0.12
+RowNet earnings 	$ 4.73 	$ 	3.80 $ 	2.90
+RowAverage number of common shares outstanding:
+				RowBasic 	124.0 		124.3 	127.4
+RowDiluted 	126.0 		126.0 	129.3
+RowDividends declared per common share 	$ 2.52 	$ 	2.24 $ 	2.10
+RowSee accompanying notes to consolidated financial statements.
+				Row	May 27, 2018 	May 28, 2017
+RowASSETS
+		RowCurrent assets:
+		RowCash and cash equivalents 	$ 146.9 	$ 233.1
+RowReceivables, net 	83.7 	75.9
+RowInventories 	205.3 	178.9
+RowPrepaid income taxes 	15.9 	6.2
+RowPrepaid expenses and other current assets 	89.9 	80.6
+RowAssets held for sale 	11.9 	13.2
+RowTotal current assets 	$ 553.6 	$ 587.9
+RowLand, buildings and equipment, net 	2,429.8 	2,272.3
+RowGoodwill 	1,183.7 	1,201.7
+RowTrademarks 	950.8 	950.2
+RowOther assets 	351.7 	280.2
+RowTotal assets 	$ 5,469.6 	$ 5,292.3
+RowTotal assets 	$ 	5,469.6 	$ 5,292.3
+RowLIABILITIES AND STOCKHOLDERS’ EQUITY
+			RowCurrent liabilities:
+			RowAccounts payable 	$ 	277.0 	$ 249.5
+RowAccrued payroll 		177.5 	149.1
+RowAccrued income taxes 		— 	1.9
+RowOther accrued taxes 		56.6 	54.2
+RowUnearned revenues 		415.8 	388.6
+RowOther current liabilities 		457.6 	445.9
+RowTotal current liabilities 	$ 	1,384.5 	$ 1,289.2
+RowLong-term debt 		926.5 	936.6
+RowDeferred income taxes 		114.0 	145.6
+RowDeferred rent 		318.0 	282.8
+RowOther liabilities 		531.8 	536.4
+RowTotal liabilities 	$ 	3,274.8 	$ 3,190.6
+RowStockholders’ equity:
+			RowCommon stock and surplus, no par value. Authorized 500.0 shares; issued 124.8 and 126.7 shares, respectively;
+outstanding 123.5 and 125.4 shares, respectively 		1,631.9 	1,614.6
+RowPreferred stock, no par value. Authorized 25.0 shares; none issued and outstanding 		— 	—
+RowRetained earnings 		657.6 	560.1
+RowTreasury stock, 1.3 and 1.3 shares, at cost, respectively 		(7.8) 	(7.8)
+RowAccumulated other comprehensive income (loss) 		(85.2) 	(62.9)
+RowUnearned compensation 		(1.7) 	(2.3)
+RowTotal stockholders’ equity 	$ 	2,194.8 	$ 2,101.7
+RowTotal liabilities and stockholders’ equity 	$ 	5,469.6 	$ 5,292.3
+RowSee accompanying notes to consolidated financial statements.
+			Row	May 27, 2018 	May 28, 2017 	May 29, 2016
+RowCash flows - operating activities
+			RowNet earnings 	$ 596.0 	$ 479.1 	$ 375.0
+Row(Earnings) losses from discontinued operations, net of tax 	7.8 	3.4 	(15.3)
+RowAdjustments to reconcile net earnings from continuing operations to cash flows:
+			RowDepreciation and amortization 	313.1 	272.9 	290.2
+RowImpairments and disposal of assets, net 	3.4 	(8.4) 	5.8
+RowAmortization of loan costs and losses on interest-rate related derivatives 	1.6 	1.0 	3.6
+RowStock-based compensation expense 	42.8 	40.7 	37.3
+RowChange in current assets and liabilities 	(8.0) 	112.6 	13.7
+RowContributions to pension and postretirement plans 	(62.0) 	(1.6) 	(26.5)
+RowChange in cash surrender value of trust-owned life insurance 	(11.2) 	(10.3) 	3.3
+RowDeferred income taxes 	(20.6) 	(22.9) 	(10.8)
+RowChange in deferred rent 	36.6 	32.9 	23.8
+RowChange in other assets and liabilities 	14.6 	(5.0) 	5.3
+RowLoss on extinguishment of debt 	102.2 	— 	106.8
+RowOther, net 	3.5 	21.9 	8.2
+RowNet cash provided by operating activities of continuing operations 	$ 1,019.8 	$ 916.3 	$ 820.4
+RowCash flows - investing activities
+			RowPurchases of land, buildings and equipment 	(396.0) 	(293.0) 	(228.3)
+RowProceeds from disposal of land, buildings and equipment 	3.3 	8.3 	325.2
+RowCash used in business acquisitions, net of cash acquired 	(40.4) 	(764.4) 	—
+RowPurchases of capitalized software and other assets 	(22.8) 	(25.3) 	(23.3)
+RowOther, net 	4.8 	4.7 	1.8
+RowNet cash provided by (used in) investing activities of continuing operations 	$ (451.1) 	$ (1,069.7) 	$ 75.4
+RowCash flows - financing activities
+			RowProceeds from issuance of common stock 	37.8 	113.1 	99.3
+RowIncome tax benefits credited to equity 	— 	27.2 	17.5
+RowSpecial cash distribution from Four Corners Property Trust 	— 	— 	315.0
+RowDividends paid 	(313.5) 	(279.1) 	(268.2)
+RowRepurchases of common stock 	(234.8) 	(230.2) 	(184.8)
+RowProceeds from issuance of short-term debt 	960.0 	— 	—
+RowRepayments of short-term debt 	(960.0) 	— 	—
+RowRepayments of long-term debt 	(408.2) 	— 	(1,096.8)
+RowProceeds from issuance of long-term debt 	300.0 	500.0 	—
+RowPrincipal payments on capital and financing leases 	(5.4) 	(3.9) 	(3.4)
+RowProceeds from financing lease obligation 	— 	5.7 	—
+RowOther, net 	(12.5) 	(3.6) 	0.6
+RowNet cash provided by (used) in financing activities of continuing operations 	$ (636.6) 	$ 129.2 	$ (1,120.8)
+RowCash flows - discontinued operations
+			RowNet cash used in operating activities of discontinued operations 	(18.5) 	(18.3) 	(42.4)
+RowNet cash provided by investing activities of discontinued operations 	0.2 	0.8 	6.3
+RowNet cash used in discontinued operations 	$ (18.3) 	$ (17.5) 	$ (36.1)
+RowDecrease in cash and cash equivalents 	(86.2) 	(41.7) 	(261.1)
+RowCash and cash equivalents - beginning of year 	233.1 	274.8 	535.9
+RowCash and cash equivalents - end of year 	$ 146.9 	$ 233.1 	$ 274.8

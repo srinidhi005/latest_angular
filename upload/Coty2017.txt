@@ -1,0 +1,146 @@
+Row:	2017 	2016 	2015
+Row:Net revenues $ 	7,650.3 	$ 4,349.1 	$ 4,395.2
+Row:Cost of sales 	3,028.5 	1,746.0 	1,757.0
+Row:Gross profit 	4,621.8 	2,603.1 	2,638.2
+Row:Selling, general and administrative expenses 	4,060.0 	2,027.8 	2,066.1
+Row:Amortization expense 	275.1 	79.5 	74.7
+Row:Restructuring costs 	372.2 	86.9 	75.4
+Row:Acquisition-related costs 	355.4 	174.0 	34.1
+Row:Asset impairment charges 	— 	5.5 	—
+Row:Gain on sale of assets 	(3.1) 	(24.8) 	(7.2)
+Row:Operating (loss) income 	(437.8) 	254.2 	395.1
+Row:Interest expense, net 	218.6 	81.9 	73.0
+Row:Loss on early extinguishment of debt 	— 	3.1 	88.8
+Row:Other expense, net 	1.6 	30.4 	—
+Row:(Loss) income before income taxes 	(658.0) 	138.8 	233.3
+Row:Benefit for income taxes 	(259.5) 	(40.4) 	(26.1)
+Row:Net (loss) income 	(398.5) 	179.2 	259.4
+Row:Net income attributable to noncontrolling interests 	15.4 	7.6 	15.1
+Row:Net income attributable to redeemable noncontrolling interests 	8.3 	14.7 	11.8
+Row:Net (loss) income attributable to Coty Inc. $ 	(422.2) 	$ 156.9 	$ 232.5
+Row:Net (loss) income attributable to Coty Inc. per common share:
+			Row:Basic $ 	(0.66) 	$ 0.45 	$ 0.66
+Row:Diluted 	(0.66) 	0.44 	0.64
+Row:Weighted-average common shares outstanding:
+			Row:Basic 	642.8 	345.5 	353.3
+Row:Diluted 	642.8 	354.2 	362.9
+Row:ASSETS
+Current assets:
+Cash and cash equivalents $ COTY INC. & SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(In millions, except per share data)
+	535.4 June 30,
+2017
+	June 30,
+2016
+$ 372.4
+Row:Restricted cash 	35.3 	—
+Row:Trade receivables—less allowances of $58.5 and $35.2, respectively 	1,470.3 	682.9
+Row:Inventories 	1,052.6 	565.8
+Row:Prepaid expenses and other current assets 	487.9 	206.8
+Row:Deferred income taxes Total current assets 	— 3,581.5 	110.5
+1,938.4
+Row:Property and equipment, net 	1,632.1 	638.6
+Row:Goodwill 	8,555.5 	2,212.7
+Row:Other intangible assets, net 	8,425.2 	2,050.1
+Row:Deferred income taxes 	72.6 	15.7
+Row:Other noncurrent assets 	281.3 	180.1
+Row:TOTAL ASSETS $ 	22,548.2 	$ 7,035.6
+Row:LIABILITIES AND EQUITY
+		Row:Current liabilities:
+		Row:Accounts payable $ 	1,732.1 	$ 921.4
+Row:Accrued expenses and other current liabilities 	1,796.4 	748.4
+Row:Short-term debt and current portion of long-term debt 	209.1 	161.8
+Row:Income and other taxes payable 	66.0 	18.7
+Row:Deferred income taxes 	— 	4.9
+Row:Total current liabilities 	3,803.6 	1,855.2
+Row:Long-term debt, net 	6,928.3 	3,936.4
+Row:Pension and other post-employment benefits 	549.2 	230.6
+Row:Deferred income taxes 	924.9 	339.2
+Row:Other noncurrent liabilities 	473.4 	233.8
+Row:Total liabilities 	12,679.4 	6,595.2
+Row:COMMITMENTS AND CONTINGENCIES (Note 24)
+		Row:REDEEMABLE NONCONTROLLING INTERESTS 	551.1 	73.3
+Row:EQUITY:
+Preferred stock, $0.01 par value; 20.0 shares authorized; 4.2 and 1.7 issued and outstanding,
+at June 30, 2017 and 2016, respectively 	— 	—
+Row:Class A Common Stock, $0.01 par value; 1,000.0 and 800.0 shares authorized, 812.9 and
+138.7 issued and 747.9 and 75.1 outstanding at June 30, 2017 and 2016, respectively 	8.1 	1.4
+Row:Class B Common Stock, $0.01 par value; 0.0 and 262.0 shares authorized, 0.0 and 262.0
+issued and outstanding at June 30, 2017 and 2016, respectively Additional paid-in capital 	— 11,203.2 	2.6
+2,038.4
+Row:Accumulated deficit 	(459.2) 	(37.0)
+Row:Accumulated other comprehensive income (loss) 	4.4 	(239.7)
+Row:Treasury stock—at cost, shares: 65.0 and 63.6 at June 30, 2017 and 2016, respectively Total Coty Inc. stockholders’ equity 	(1,441.8) 9,314.7 	(1,405.5)
+360.2
+Row:Noncontrolling interests 	3.0 	6.9
+Row:Total equity 	9,317.7 	367.1
+Row:TOTAL LIABILITIES, REDEEMABLE NONCONTROLLING INTERESTS AND
+EQUITY $ 	22,548.2 	$ 7,035.6
+Row:See notes to Consolidated Financial Statements.
+		Row:June 30,
+	June 30,
+Row:2017
+	2016
+Row:Current assets:
+		Row:Cash and cash equivalents $ 	535.4 $ 	372.4
+Row:Restricted cash 	35.3 	—
+Row:Trade receivables—less allowances of $58.5 and $35.2, respectively 	1,470.3 	682.9
+Row:Inventories 	1,052.6 	565.8
+Row:Prepaid expenses and other current assets 	487.9 	206.8
+Row:Deferred income taxes 	— 	110.5
+Row:Total current assets 	3,581.5 	1,938.4
+Row:Property and equipment, net 	1,632.1 	638.6
+Row:Goodwill 	8,555.5 	2,212.7
+Row:Other intangible assets, net 	8,425.2 	2,050.1
+Row:Deferred income taxes 	72.6 	15.7
+Row:Other noncurrent assets 	281.3 	180.1
+Row:TOTAL ASSETS $ 	22,548.2 $ 	7,035.6
+Row:LIABILITIES AND EQUITY
+		Row:Current liabilities:
+		Row:Net (loss) income $ 	(398.5) $ 179.2 $ 	259.4
+Row:Adjustments to reconcile net income (loss) to net cash provided by operating activities:
+		Row:Depreciation and amortization 	555.1 232.0 	230.9
+Row:Asset impairment charges 	— 5.5 	—
+Row:Deferred income taxes 	(390.0) (139.2) 	(87.2)
+Row:Provision for bad debts 	23.4 21.9 	4.5
+Row:Provision for pension and other post-employment benefits 	53.6 9.2 	16.2
+Row:Share-based compensation 	24.6 22.2 	30.6
+Row:Gain on sale of assets 	(3.1) (24.8) 	(7.2)
+Row:Loss on extinguishment of debt 	— 3.1 	88.8
+Row:Other 	25.9 12.8 	20.5
+Row:Change in operating assets and liabilities, net of effects from purchase of acquired companies:
+		Row:Trade receivables 	(279.8) (44.5) 	(43.5)
+Row:Inventories 	162.3 27.2 	29.4
+Row:Prepaid expenses and other current assets 	(105.7) 6.7 	6.0
+Row:Accounts payable 	540.9 148.2 	7.0
+Row:Accrued expenses and other current liabilities 	479.2 23.3 	16.1
+Row:Income and other taxes payable 	85.0 15.7 	127.7
+Row:Other noncurrent assets 	23.4 9.0 	(136.7)
+Row:Other noncurrent liabilities Net cash provided by operating activities 	(38.8) (6.1) 757.5 501.4 	(36.2)
+526.3
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+		Row:Capital expenditures 	(432.3) (150.1) 	(170.9)
+Row:Payments for business combinations, net of cash acquired 	(742.6) (908.7) 	11.7
+Row:Additions of goodwill 	— — 	(30.0)
+Row:Proceeds from sale of assets 	11.3 29.2 	14.8
+Row:Payments related to loss on foreign currency contracts Other 	— (29.6) — — 	—
+3.2
+Row:Net cash used in investing activities (1,163.6) 	(1,059.2) 	(171.2)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+		Row:Proceeds from short-term debt, original maturity more than three months 	9.5 19.1 	652.2
+Row:Repayments of short-term debt, original maturity more than three months 	(10.2) (28.3) 	(655.0)
+Row:Net (repayments of) proceeds from short-term debt, original maturity less than three months 	(49.2) 25.4 	11.6
+Row:Proceeds from revolving loan facilities 2,244.4 	1,940.0 	853.0
+Row:Repayments of revolving loan facilities (2,074.4) 	(1,430.0) 	(1,616.0)
+Row:Proceeds from term loans and other long term debt 1,075.0 	3,506.2 	800.9
+Row:Repayments of term loans and other long term debt 	(136.1) (2,499.4) 	(784.6)
+Row:Dividend payment Net proceeds from issuance of Class A Common Stock and Series A Preferred Stock and related
+tax benefits 	(372.6) (89.0) 22.8 44.7 	(71.0)
+48.5
+Row:Net proceeds from issuance of Class A Common Stock to former CEO Purchase of Class A Common Stock from former CEO 	— — — — 	12.5
+(42.0)
+Row:Payments for purchases of Class A Common Stock held as Treasury Stock Net payments for foreign currency contracts 	(36.3) (794.9) (1.2) (9.7) 	(263.1)
+(37.9)
+Row:F-7
+		

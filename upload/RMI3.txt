@@ -1,0 +1,24 @@
+Row:	2020
+Row:Income
+Sales 	66,569.99
+Row:Total Income 	$66,569.99
+Row:GROSS PROFIT 	$66,569.99
+Row:Expenses
+	Row:Bank Charges & Fees 	415.00
+Row:Car & Truck 	20,158.42
+Row:Contractors 	9,500.00
+Row:Interest Paid 	19.35
+Row:Meals & Entertainment 	1,849.14
+Row:Office Supplies & Software 	788.56
+Row:Other Business Expenses 	3,489.92
+Row:Payroll Expenses 	0.00
+Row:Taxes Wages 	3,200.82
+34,384.64
+Row:Total Payroll Expenses 	37,585.46
+Row:Rent & Lease 	11,367.11
+Row:Software Development - Product Travel Utilities 	11,949.25
+1.50
+554.02
+Row:Total Expenses 	$97,677.73
+Row:NET OPERATING INCOME 	$ -31,107.74
+Row:NET INCOME 	$ -31,107.74

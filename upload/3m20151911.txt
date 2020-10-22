@@ -1,0 +1,130 @@
+Row:	2015 	2014 	2013
+Row:Net sales $ 	30,274 	$ 31,821 	$ 30,871
+Row:Operating expenses
+			Row:Cost of sales 	15,383 	16,447 	16,106
+Row:Selling, general and administrative expenses 	6,182 	6,469 	6,384
+Row:Research, development and related expenses 	1,763 	1,770 	1,715
+Row:Total operating expenses 	23,328 	24,686 	24,205
+Row:Operating income 	6,946 	7,135 	6,666
+Row:Interest expense and income
+			Row:Interest expense 	149 	142 	145
+Row:Interest income 	(26) 	(33) 	(41)
+Row:Total interest expense — net 	123 	109 	104
+Row:Income before income taxes 	6,823 	7,026 	6,562
+Row:Provision for income taxes 	1,982 	2,028 	1,841
+Row:Net income including noncontrolling interest $ 	4,841 	$ 4,998 	$ 4,721
+Row:Less: Net income attributable to noncontrolling interest 	8 	42 	62
+Row:Net income attributable to 3M $ 	4,833 	$ 4,956 	$ 4,659
+Row:Weighted average 3M common shares outstanding — basic 	625.6 	649.2 	681.9
+Row:Earnings per share attributable to 3M common shareholders — basic $ 	7.72 	$ 7.63 	$ 6.83
+Row:Weighted average 3M common shares outstanding — diluted 	637.2 	662.0 	693.6
+Row:Earnings per share attributable to 3M common shareholders — diluted $ 	7.58 	$ 7.49 	$ 6.72
+Row:Cash dividends paid per 3M common share $ 	4.10 	$ 3.42 	$ 2.54
+Row:The accompanying Notes to Consolidated Financial Statements are an integral part 	of this statement.
+		Row:(Dollars in millions, except per share amount) 	2015 	2014
+Row:Assets
+		Row:Current assets
+		Row:Cash and cash equivalents 	$ 1,798 $ 	1,897
+Row:Marketable securities — current 	118 	1,439
+Row:Accounts receivable — net of allowances of $91 and $94 	4,154 	4,238
+Row:Inventories
+Finished goods 	1,655 	1,723
+Row:Work in process 	1,008 	1,081
+Row:Raw materials and supplies 	855 	902
+Row:Total inventories 	3,518 	3,706
+Row:Other current assets 	1,398 	1,023
+Row:Total current assets 	10,986 	12,303
+Row:Marketable securities — non-current 	9 	15
+Row:Investments 	117 	102
+Row:Property, plant and equipment 	23,098 	22,841
+Row:Less: Accumulated depreciation 	(14,583) 	(14,352)
+Row:Property, plant and equipment — net 	8,515 	8,489
+Row:Goodwill 	9,249 	7,050
+Row:Intangible assets — net 	2,601 	1,435
+Row:Prepaid pension benefits 	188 	46
+Row:Other assets 	1,053 	1,769
+Row:Total assets 	$ 32,718 $ 	31,209
+Row:Liabilities
+		Row:Current liabilities
+		Row:Short-term borrowings and current portion of long-term debt Accounts payable 	$ 2,044 $ 1,694 	106
+1,807
+Row:Accrued payroll 	644 	732
+Row:Accrued income taxes 	332 	435
+Row:Other current liabilities 	2,404 	2,884
+Row:Total current liabilities 	7,118 	5,964
+Row:Long-term debt 	8,753 	6,705
+Row:Pension and postretirement benefits 	3,520 	3,843
+Row:Other liabilities 	1,580 	1,555
+Row:Total liabilities 	$ 20,971 $ 	18,067
+Row:Commitments and contingencies (Note 14)
+		Row:Equity
+		Row:3M Company shareholders’ equity:
+		Row:Common stock, par value $.01 per share 	$ 9 $ 	9
+Row:Shares outstanding - 2015: 609,330,124
+		Row:Shares outstanding - 2014: 635,134,594
+		Row:Additional paid-in capital 	4,791 	4,379
+Row:Retained earnings 	36,575 	34,317
+Row:Treasury stock 	(23,308) 	(19,307)
+Row:Accumulated other comprehensive income (loss) 	(6,359) 	(6,289)
+Row:Total 3M Company shareholders’ equity 	11,708 	13,109
+Row:Noncontrolling interest 	39 	33
+Row:Total equity 	$ 11,747 $ 	13,142
+Row:Total liabilities and equity 	$ 32,718 $ 	31,209
+Row:Additional paid-in capital 	4,791 	4,379
+Row:Retained earnings 	36,575 	34,317
+Row:Treasury stock 	(23,308) 	(19,307)
+Row:Accumulated other comprehensive income (loss) 	(6,359) 	(6,289)
+Row:Total 3M Company shareholders’ equity 	11,708 	13,109
+Row:Noncontrolling interest 	39 	33
+Row:Total equity $ 	11,747 	$ 13,142
+Row:Total liabilities and equity $ 	32,718 	$ 31,209
+Row:Years ended December 31
+(Millions) 2015 	2014 	2013
+Row:Cash Flows from Operating Activities
+		Row:Net income including noncontrolling interest $ 	4,841 $ 4,998 	$ 4,721
+Row:Adjustments to reconcile net income including noncontrolling interest to net
+		Row:cash provided by operating activities
+		Row:Depreciation and amortization 	1,435 1,408 	1,371
+Row:Company pension and postretirement contributions Company pension and postretirement expense 	(267) (215) 556 391 	(482)
+553
+Row:Stock-based compensation expense 	276 280 	240
+Row:Deferred income taxes 	395 (146) 	(167)
+Row:Excess tax benefits from stock-based compensation 	(154) (167) 	(92)
+Row:Changes in assets and liabilities
+		Row:Accounts receivable 	(58) (268) 	(337)
+Row:Inventories 	3 (113) 	(86)
+Row:Accounts payable 	9 75 	16
+Row:Accrued income taxes (current and long-term) Other — net 	(744) 206 128 177 	206
+(126)
+Row:Net cash provided by operating activities 	6,420 6,626 	5,817
+Row:Cash Flows from Investing Activities
+Purchases of property, plant and equipment (PP&E) 	(1,461) (1,493) 	(1,665)
+Row:Proceeds from sale of PP&E and other assets 	33 135 	128
+Row:Acquisitions, net of cash acquired 	(2,914) (94) 	—
+Row:Purchases of marketable securities and investments Proceeds from maturities and sale of marketable securities and investments 	(652) (1,280) 1,952 2,034 	(4,040)
+4,667
+Row:Proceeds from sale of businesses 	123 — 	8
+Row:Other investing 	102 102 	46
+Row:Net cash used in investing activities 	(2,817) (596) 	(856)
+Row:Cash Flows from Financing Activities
+		Row:Change in short-term debt — net Repayment of debt (maturities greater than 90 days) Proceeds from debt (maturities greater than 90 days) 	860 27 (800) (1,625) 3,422 2,608 	(2)
+(859)
+824
+Row:Purchases of treasury stock 	(5,238) (5,652) 	(5,212)
+Row:Proceeds from issuance of treasury stock pursuant to stock option and
+		Row:Cash Flows from Financing Activities
+		Row:Change in short-term debt — net 860 	27 	(2)
+Row:Repayment of debt (maturities greater than 90 days) (800) 	(1,625) 	(859)
+Row:Proceeds from debt (maturities greater than 90 days) 3,422 	2,608 	824
+Row:Purchases of treasury stock (5,238) 	(5,652) 	(5,212)
+Row:Proceeds from issuance of treasury stock pursuant to stock option and
+		Row:benefit plans 635 	968 	1,609
+Row:Dividends paid to shareholders (2,561) 	(2,216) 	(1,730)
+Row:Excess tax benefits from stock-based compensation 154 	167 	92
+Row:Purchase of noncontrolling interest — 	(861) 	—
+Row:Other — net (120) 	(19) 	32
+Row:Net cash used in financing activities (3,648) 	(6,603) 	(5,246)
+Row:Effect of exchange rate changes on cash and cash equivalents (54) 	(111) 	(17)
+Row:Net increase (decrease) in cash and cash equivalents (99) 	(684) 	(302)
+Row:Cash and cash equivalents at beginning of year 1,897 	2,581 	2,883
+Row:Cash and cash equivalents at end of period $ 1,798 	$ 1,897 $ 	2,581

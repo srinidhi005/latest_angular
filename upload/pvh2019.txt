@@ -1,0 +1,109 @@
+Row:2018 	2017 	2016
+Row:Net sales $ 	9,154.2 $ 8,439.4 	$ 7,791.4
+Row:Royalty revenue 	375.9 366.3 	320.6
+Row:Advertising and other revenue 	126.7 109.1 	91.1
+Row:Total revenue 	9,656.8 8,914.8 	8,203.1
+Row:Cost of goods sold (exclusive of depreciation and amortization) 	4,348.5 4,020.4 	3,832.8
+Row:Gross profit 	5,308.3 4,894.4 	4,370.3
+Row:Selling, general and administrative expenses 	4,432.8 4,245.2 	3,677.9
+Row:Non-service related pension and postretirement cost (income) 	5.1 3.0 	(41.2)
+Row:Debt modification and extinguishment costs 	— 23.9 	15.8
+Row:Other noncash gain, net 	— — 	71.3
+Row:Equity in net income of unconsolidated affiliates 	21.3 10.1 	0.1
+Row:Income before interest and taxes 	891.7 632.4 	789.2
+Row:Interest expense 	120.8 128.5 	120.9
+Row:Interest income 	4.7 6.3 	5.9
+Row:Income before taxes 	775.6 510.2 	674.2
+Row:Income tax expense (benefit) 	31.0 (25.9) 	125.5
+Row:Net income 	744.6 536.1 	548.7
+Row:Less: Net loss attributable to redeemable non-controlling interest 	(1.8) (1.7) 	(0.3)
+Row:Net income attributable to PVH Corp. $ 	746.4 $ 537.8 	$ 549.0
+Row:Basic net income per common share attributable to PVH Corp. $ 	9.75 $ 6.93 	$ 6.84
+Row:Diluted net income per common share attributable to PVH Corp. $ 	9.65 $ 6.84 	$ 6.79
+Row:Current Assets:
+Cash and cash equivalents $ 	452.0 $ 493.9
+Row:Trade receivables, net of allowances for doubtful accounts of $21.6 and $21.1 	777.8 658.5
+Row:Other receivables 	26.0 37.9
+Row:Inventories, net 	1,732.4 1,591.3
+Row:Prepaid expenses 	168.7 184.5
+Row:Other 	81.7 64.7
+Row:Total Current Assets 	3,238.6 3,030.8
+Row:Property, Plant and Equipment, net 	984.5 899.8
+Row:Goodwill 	3,670.5 3,834.7
+Row:Tradenames 	2,863.7 2,928.4
+Row:Other Intangibles, net 	705.5 798.2
+Row:Other Assets, including deferred taxes of $40.5 and $25.4 	400.9 393.8
+Row:Total Assets $ 	11,863.7 $ 11,885.7
+Row:LIABILITIES, REDEEMABLE NON-CONTROLLING INTEREST AND STOCKHOLDERS’ 	EQUITY
+Row:Total Assets 	$ 11,863.7 	$ 11,885.7
+Row:LIABILITIES, REDEEMABLE NON-CONTROLLING INTEREST AND STOCKHOLDERS’ 	EQUITY
+	Row:Current Liabilities:
+		Row:Accounts payable 	$ 924.2 	$ 889.8
+Row:Accrued expenses 	891.6 	923.1
+Row:Deferred revenue 	65.3 	39.2
+Row:Short-term borrowings 	12.8 	19.5
+Row:Current portion of long-term debt 	— 	—
+Row:Total Current Liabilities 	1,893.9 	1,871.6
+Row:Long-Term Debt 	2,819.4 	3,061.3
+Row:Other Liabilities, including deferred taxes of $565.2 and $663.0 	1,322.4 	1,414.4
+Row:Redeemable Non-Controlling Interest 	0.2 	2.0
+Row:Stockholders’ Equity:
+		Row:Preferred stock, par value $100 per share; 150,000 total shares authorized 	— 	—
+Row:Common stock, par value $1 per share; 240,000,000 shares authorized; 85,446,141 and 84,851,079 shares issued 	85.4 	84.9
+Row:Additional paid in capital – common stock 	3,017.3 	2,941.2
+Row:Retained earnings 	4,350.1 	3,625.2
+Row:Accumulated other comprehensive loss 	(507.9) 	(321.5)
+Row:Less: 10,042,510 and 7,672,317 shares of common stock held in treasury, at cost 	(1,117.1) 	(793.4)
+Row:Total Stockholders’ Equity 	5,827.8 	5,536.4
+Row:Total Liabilities, Redeemable Non-Controlling Interest and Stockholders’ Equity 	$ 11,863.7 	$ 11,885.7
+Row:OPERATING ACTIVITIES
+Net income $ 	744.6 $ 536.1 $ 548.7
+Row:Adjustments to reconcile to net cash provided by operating activities:
+	Row:Depreciation and amortization 	334.8 324.9 321.8
+Row:Equity in net income of unconsolidated affiliates 	(21.3) (10.1) (0.1)
+Row:Deferred taxes 	(113.3) (1) (224.6) (1) 1.3
+Row:Stock-based compensation expense 	56.2 44.9 38.2
+Row:Impairment of long-lived assets 	17.9 7.5 10.1
+Row:Actuarial loss (gain) on retirement and benefit plans 	15.0 2.5 (39.1)
+Row:Settlement loss on retirement plans Debt modification and extinguishment costs 	— 9.4 —
+— 23.9 15.8
+Row:Gain to write-up equity investment in joint venture to fair value 	— — (153.1)
+Row:Net loss on deconsolidation of subsidiary 	— — 81.8
+Row:Changes in operating assets and liabilities:
+	Row:Trade receivables, net 	(151.4) 3.3 22.3
+Row:Other receivables 	10.7 (11.7) 4.2
+Row:Inventories, net 	(212.1) (163.5) 2.2
+Row:Accounts payable, accrued expenses and deferred revenue 	112.9 185.9 166.9
+Row:Prepaid expenses 	8.5 (41.0) 19.2
+Row:Employer pension contributions 	(10.0) (0.3) (100.0)
+Row:Contingent purchase price payments to Mr. Calvin Klein 	(15.9) (55.6) (53.1)
+Row:Other, net 	75.9 12.6 15.5
+Row:Net cash provided by operating activities 	852.5 644.2 902.6
+Row:INVESTING ACTIVITIES(2)
+	Row:Acquisitions, net of cash acquired 	(15.9) (40.1) (157.7)
+Row:Purchases of property, plant and equipment 	(379.5) (358.1) (246.6)
+Row:Proceeds from sale of building 	— 3.4 16.7
+Row:Investments in and advance to unconsolidated affiliates 	— (14.2) (32.0)
+Row:Payment received on advance to unconsolidated affiliate 	— 6.3 6.2
+Row:Loan to a supplier 	— — (13.8)
+Row:Net cash used by investing activities 	(395.4) (402.7) (427.2)
+Row:FINANCING ACTIVITIES(2)
+	Row:Net (payments on) proceeds from short-term borrowings 	(6.7) 0.4 (6.8)
+Row:Proceeds from 3 1/8% senior notes, net of related fees 	— 701.6 —
+Row:Redemption of 4 1/2% senior notes, including premium 	— (715.8) —
+Row:Proceeds from 2016 facilities, net of related fees 	— — 571.1
+Row:Repayment of Term Loan B in connection with amendment to 2014 facilities 	— — (582.0)
+Row:Repayment of 2016/2014 facilities 	(150.0) (250.0) (350.0)
+Row:Proceeds from 3 5/8% senior notes, net of related fees 	— — 389.6
+Row:Net proceeds from settlement of awards under stock plans 	20.4 30.0 13.1
+Row:Cash dividends 	(11.6) (11.9) (12.2)
+Row:Acquisition of treasury shares 	(325.2) (259.1) (322.1)
+Row:Payments of capital lease obligations 	(5.4) (5.1) (7.0)
+Row:Tommy Hilfiger India contingent purchase price payments 	— (0.8) (0.6)
+Row:Contributions from non-controlling interest Net cash used by financing activities 	— 1.7 2.2
+(478.5) (509.0) (304.7)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(20.5) 31.3 3.0
+Row:(Decrease) increase in cash and cash equivalents 	(41.9) (236.2) 173.7
+Row:Cash and cash equivalents at beginning of year 	493.9 730.1 556.4
+Row:Cash and cash equivalents at end of year $ 	452.0 $ 493.9 $ 730.1
+Row:(1) Includes the impact of the U.S. Tax Legislation in 2018 and 2017 and the impact of the 2019 Dutch Tax 	Plan in 2018. Please see Note 9 for further

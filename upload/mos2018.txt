@@ -1,0 +1,104 @@
+Row:	2018 	2017 	2016
+Row:Net sales 	$ 9,587.3 	$ 7,409.4 	$ 7,162.8
+Row:Cost of goods sold 	8,088.9 	6,566.6 	6,352.8
+Row:Gross margin 	1,498.4 	842.8 	810.0
+Row:Selling, general and administrative expenses 	341.1 	301.3 	304.2
+Row:Other operating expenses 	229.0 	75.8 	186.8
+Row:Operating earnings 	928.3 	465.7 	319.0
+Row:Interest expense, net 	(166.1) 	(138.1) 	(112.4)
+Row:Foreign currency transaction (loss) gain 	(191.9) 	49.9 	40.1
+Row:Other expense 	(18.8) 	(3.5) 	(4.3)
+Row:Earnings from consolidated companies before income taxes 	551.5 	374.0 	242.4
+Row:Provision for (benefit from) income taxes 	77.1 	494.9 	(74.2)
+Row:Earnings (loss) from consolidated companies 	474.4 	(120.9) 	316.6
+Row:Equity in net (loss) earnings of nonconsolidated companies 	(4.5) 	16.7 	(15.4)
+Row:Net earnings (loss) including noncontrolling interests 	469.9 	(104.2) 	301.2
+Row:Less: Net (loss) earnings attributable to noncontrolling interests 	(0.1) 	3.0 	3.4
+Row:Net earnings (loss) attributable to Mosaic 	$ 470.0 	$ (107.2) 	$ 297.8
+Row:Basic net earnings (loss) per share attributable to Mosaic 	$ 1.22 	$ (0.31) 	$ 0.85
+Row:Basic weighted average number of shares outstanding 	384.8 	350.9 	350.4
+Row:Diluted net earnings (loss) per share attributable to Mosaic 	$ 1.22 	$ (0.31) 	$ 0.85
+Row:Diluted weighted average number of shares outstanding 	386.4 	350.9 	351.7
+Row:Current assets:
+Cash and cash equivalents $ 	847.7 	$ 2,153.5
+Row:Receivables, net 	838.5 	642.6
+Row:Inventories 	2,270.2 	1,547.2
+Row:Other current assets 	280.6 	273.2
+Row:Total current assets 	4,237.0 	4,616.5
+Row:Property, plant and equipment, net 	11,746.5 	9,711.7
+Row:Investments in nonconsolidated companies 	826.6 	1,089.5
+Row:Goodwill 	1,707.5 	1,693.6
+Row:Deferred income taxes 	343.8 	254.6
+Row:Other assets 	1,257.8 	1,267.5
+Row:Total assets $ 	20,119.2 	$ 18,633.4
+Row:Liabilities and Equity
+		Row:Current liabilities:
+	Row:Short-term debt $ 	11.5 $ 6.1
+Row:Current maturities of long-term debt 	26.0 343.5
+Row:Structured accounts payable arrangements 	572.8 386.2
+Row:Accounts payable 	780.9 540.9
+Row:Accrued liabilities 	1,092.5 754.4
+Row:Total current liabilities 	2,483.7 2,031.1
+Row:Long-term debt, less current maturities 	4,491.5 4,878.1
+Row:Deferred income taxes 	1,080.6 1,117.3
+Row:Other noncurrent liabilities 	1,458.7 967.8
+Row:Preferred stock, $0.01 par value, 15,000,000 shares authorized, none issued and outstanding as of December
+31, 2018 and 2017 	— —
+Row:Common stock, $0.01 par value, 1,000,000,000 shares authorized, 389,242,360 shares issued and 385,470,085
+	Row:shares outstanding as of December 31, 2018, 388,998,498 shares issued and 351,049,649 shares outstanding as
+	Row:of December 31, 2017 	3.8 3.5
+Row:Capital in excess of par value 	985.9 44.5
+Row:Retained earnings 	11,064.7 10,631.1
+Row:Accumulated other comprehensive loss 	(1,657.1 ) (1,061.6 )
+Row:Total Mosaic stockholders’ equity 	10,397.3 9,617.5
+Row:Non-controlling interests 	207.4 21.6
+Row:Total equity 	10,604.7 9,639.1
+Row:Total liabilities and equity $ 	20,119.2 $ 18,633.4
+Row:2018 Cash Flows from Operating Activities
+	2017 2016
+Row:Net earnings (loss) including noncontrolling interests $ 469.9 $ Adjustments to reconcile net earnings including noncontrolling interests to net cash provided by operating
+activities:
+Depreciation, depletion and amortization 883.9 	(104.2 ) $ 301.2
+665.5 711.2
+Row:Amortization of acquired inventory (49.2 ) 	— —
+Row:Deferred and other income taxes (101.8 ) 	612.4 (182.6 )
+Row:Equity in net loss of nonconsolidated companies, net of dividends 12.9 	34.4 32.6
+Row:Accretion expense for asset retirement obligations 48.0 Share-based compensation expense 27.5 Loss on write-down of long-lived asset — 	25.7 40.4
+28.0 30.5
+— 43.5
+Row:Unrealized loss (gain) on derivatives 58.9 	8.3 (70.1 )
+Row:Loss (gain) on disposal of fixed assets 63.1 	(25.5 ) 27.0
+Row:Other 18.3 	7.8 18.2
+Row:Changes in assets and liabilities, net of acquisitions:
+	Row:Receivables, net 5.9 	(91.2 ) 3.5
+Row:Inventories, net (497.4 ) 	(155.7 ) 263.0
+Row:Other current assets and noncurrent assets 86.7 	(23.7 ) 239.8
+Row:Accounts payable and accrued liabilities 342.0 	(65.7 ) (243.9 )
+Row:Other noncurrent liabilities 41.1 	19.4 45.9
+Row:Net cash provided by operating activities 1,409.8 	935.5 1,260.2
+Row:Cash Flows from Investing Activities
+Capital expenditures (954.5 ) 	(820.1 ) (843.1 )
+Row:Purchases of available-for-sale securities - restricted (534.5 ) 	(1,676.3 ) (1,659.4 )
+Row:Proceeds from sale of available-for-sale securities - restricted 518.8 	1,658.1 1,029.3
+Row:Proceeds from sale of assets 12.6 	300.7 0.9
+Row:Acquisition, net of cash acquired (985.3 ) 	— —
+Row:Investments in nonconsolidated companies — Investments in consolidated affiliate (1.5 ) 	(62.5 ) (244.0 )
+(49.5 ) (169.0 )
+Row:Other (0.3 ) 	(18.2 ) 19.3
+Row:Net cash used in investing activities (1,944.7 ) 	(667.8 ) (1,866.0 )
+Row:Cash Flows from Financing Activities
+	Row:Payments of short-term debt (144.4 ) 	(601.4 ) (421.3 )
+Row:Proceeds from issuance of short-term debt 155.1 Payments of structured accounts payable arrangements (762.1 ) Proceeds from structured accounts payable arrangements 834.1 	631.4 397.0
+(418.5 ) (792.2 )
+666.8 433.6
+Row:Payments of long-term debt (802.9 ) 	(102.2 ) (769.1 )
+Row:Proceeds from issuance of long-term debt 39.3 	1,251.4 720.0
+Row:Payment of financing costs — 	(15.4 ) —
+Row:Repurchases of stock — 	— (75.0 )
+Row:Cash dividends paid (38.5 ) 	(210.6 ) (385.1 )
+Row:Other (5.4 ) 	(0.7 ) 3.5
+Row:Net cash (used in) provided by financing activities (724.8 ) 	1,200.8 (888.6 )
+Row:Effect of exchange rate changes on cash (63.7 ) 	14.5 68.8
+Row:Net change in cash, cash equivalents and restricted cash (1,323.4 ) 	1,483.0 (1,425.6 )
+Row:Cash, cash equivalents and restricted cash—beginning of period 2,194.4 Cash, cash equivalents and restricted cash—end of period $ 871.0 $ 	711.4 2,137.0
+2,194.4 $ 711.4

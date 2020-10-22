@@ -1,0 +1,95 @@
+Row:Net property and equipment 	28,154 	25,981
+Row:Other Long-Term Assets
+Goodwill Other assets 	6,973 3,862 	7,154
+2,789
+Row:Total other long-term assets 	10,835 	9,943
+Row:	$ 52,330 	$ 48,552
+Row:Liabilities and Stockholders’ Investment
+		Row:Current Liabilities
+		Row:Current portion of long-term debt 	$ 1,342 	$ 22
+Row:Accrued salaries and employee benefits 	2,177 	1,914
+Row:Accounts payable Accrued expenses 	2,977 3,131 	2,752
+3,230
+Row:Total current liabilities 	9,627 	7,918
+Row:Long-Term Debt, Less Current Portion 	15,243 	14,909
+Row:Other Long-Term Liabilities
+		Row:Deferred income taxes 	2,867 	2,485
+Row:Pension, postretirement healthcare and other benefit obligations 	2,187 	4,487
+Row:Self-insurance accruals 	1,784 	1,494
+Row:Deferred lease obligations 	551 	531
+Row:Deferred gains, principally related to aircraft transactions 	121 	137
+Row:Other liabilities Total other long-term liabilities 	534 8,044 	518
+9,652
+Row:Commitments and Contingencies
+Common Stockholders’ Investment
+		Row:Common stock, $0.10 par value; 800 million shares authorized; 318 million shares issued
+		Row:as of May 31, 2018 and 2017 	32 	32
+Row:Additional paid-in capital 	3,117 	3,005
+Row:Retained earnings 	24,823 	20,833
+Row:Accumulated other comprehensive loss 	(578) 	(415)
+Row:Treasury stock, at cost 	(7,978) 	(7,382)
+Row:Total common stockholders’ investment 	19,416 	16,073
+Row:	$ 52,330 	$ 48,552
+Row:		Years ended May 	31,
+Row:(in millions, except per share amounts) 	2018 	2017 	2016
+Row:Revenues 	$ 65,450 	$ 60,319 	$ 50,365
+Row:Operating Expenses:
+			Row:Salaries and employee benefits 	23,207 	21,542 	18,581
+Row:Purchased transportation 	15,101 	13,630 	9,966
+Row:Rentals and landing fees 	3,361 	3,240 	2,854
+Row:Depreciation and amortization 	3,095 	2,995 	2,631
+Row:Fuel 	3,374 	2,773 	2,399
+Row:Maintenance and repairs 	2,622 	2,374 	2,108
+Row:Goodwill and other asset impairment charges 	380 	– 	–
+Row:Retirement plans mark-to-market adjustment 	(10) 	(24) 	1,498
+Row:Other 	9,450 	8,752 	7,251
+Row:	60,580 	55,282 	47,288
+Row:Operating Income 	4,870 	5,037 	3,077
+Row:Other Income (Expense):
+Interest expense Interest income 	(558) 48 	(512) 33 	(336)
+21
+Row:Other, net 	(7) 	21 	(22)
+Row:	(517) 	(458) 	(337)
+Row:Income Before Income Taxes Provision For Income Taxes (Benefit) 	4,353 (219) 	4,579 1,582 	2,740
+920
+Row:Net Income 	$ 4,572 	$ 2,997 	$ 1,820
+Row:Basic Earnings Per Common Share 	$ 17.08 	$ 11.24 	$ 6.59
+Row:(in millions) 	2018 	Years ended 2017 	May 31,
+2016
+Row:Operating Activities
+Net Income $ 	4,572 	$ 2,997 	$ 1,820
+Row:Adjustments to reconcile net income to cash provided by operating activities:
+Depreciation and amortization 	3,095 	2,995 	2,631
+Row:Provision for uncollectible accounts 	246 	136 	121
+Row:Deferred income taxes and other noncash items 	(231) 	909 	31
+Row:Stock-based compensation 	167 	154 	144
+Row:Retirement plans mark-to-market adjustment 	(10) 	(24) 	1,498
+Row:Gain from sale of business 	(85) 	– 	–
+Row:Gain from sale of investment 	– 	(35) 	–
+Row:Goodwill and other asset impairment charges 	380 	– 	–
+Row:Changes in assets and liabilities:
+			Row:Receivables 	(1,049) 	(556) 	(199)
+Row:Other current assets 	(135) 	78 	(234)
+Row:Pension and postretirement healthcare assets and liabilities, net 	(2,345) 	(1,688) 	(346)
+Row:Accounts payable and other liabilities 	141 	103 	467
+Row:Other, net Cash provided by operating activities 	(72) 4,674 	(139) 4,930 	(225)
+5,708
+Row:Investing Activities
+Capital expenditures Business acquisitions, net of cash acquired 	(5,663) (179) 	(5,116) – 	(4,818)
+(4,618)
+Row:Proceeds from sale of business Proceeds from asset dispositions and other 	123 42 	– 135 	–
+(10)
+Row:Cash used in investing activities 	(5,677) 	(4,981) 	(9,446)
+Row:Financing Activities
+Principal payments on debt 	(38) 	(82) 	(41)
+Row:Proceeds from debt issuances 	1,480 	1,190 	6,519
+Row:Proceeds from stock issuances 	327 	337 	183
+Row:Dividends paid 	(535) 	(426) 	(277)
+Row:Purchase of treasury stock Other, net 	(1,017) 10 	(509) 18 	(2,722)
+(51)
+Row:Cash provided by financing activities 	227 	528 	3,611
+Row:Effect of exchange rate changes on cash 	72 	(42) 	(102)
+Row:Net (decrease) increase in cash and cash equivalents Cash and cash equivalents at beginning of period 	(704) 3,969 	435 3,534 	(229)
+3,763
+Row:Cash and cash equivalents at end of period $ The accompanying notes are an integral part of these consolidated financial statements.
+	3,265 	$ 3,969 	$ 3,534

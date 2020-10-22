@@ -1,0 +1,260 @@
+Row:Revenues
+		Row:Net sales and operating revenues $ 11,763 	$ 9,274 	$ 8,597
+Row:Costs and expenses
+		Row:Cost of sales (exclusive of depreciation and amortization) 10,071 	7,812 	7,126
+Row:Selling, general, and administrative 794 	638 	514
+Row:Depreciation and amortization 345 	226 	213
+Row:Engineering, research, and development 204 	158 	153
+Row:Goodwill impairment charge 3 	11 	—
+Row:11,417 	8,845 	8,006
+Row:Other expense (income)
+		Row:Loss on sale of receivables 16 	5 	5
+Row:Non-service pension and postretirement benefit costs 20 	16 	84
+Row:Loss on extinguishment of debt 10 	1 	24
+Row:Equity in (earnings) losses of nonconsolidated affiliates, net of tax (18) 	1 	—
+Row:Other expense (income), net 12 	(2) 	(1)
+Row:40 	21 	112
+Row:Earnings before interest expense, income taxes, and noncontrolling interests 306 	408 	479
+Row:Interest expense 132 	72 	68
+Row:Earnings before income taxes and noncontrolling interests 174 	336 	411
+Row:Income tax expense (benefit) 63 	71 	(4)
+Row:Net income 111 	265 	415
+Row:Less: Net income attributable to noncontrolling interests 56 	67 	68
+Row:Net income attributable to Tenneco Inc. $ 55 	$ 198 	$ 347
+Row:Earnings per share
+		Row:Weighted average shares of common stock outstanding —
+		Row:Basic 58,625,087 	52,796,184 	55,939,135
+Row:Diluted 58,758,732 	53,026,911 	56,407,436
+Row:Basic earnings per share of common stock $ 0.93 	$ 3.75 	$ 6.20
+Row:Basic 	58,625,087 	52,796,184 	55,939,135
+Row:Diluted 	58,758,732 	53,026,911 	56,407,436
+Row:Basic earnings per share of common stock 	$ 0.93 	$ 3.75 	$ 6.20
+Row:Diluted earnings per share of common stock 	$ 0.93 	$ 3.73 	$ 6.15
+Row:Current assets:
+Cash and cash equivalents $ 	697 $ 315
+Row:Restricted cash 	5 3
+Row:Receivables:
+	Row:Customer notes and accounts, net 	2,487 1,294
+Row:Other 	85 27
+Row:Inventories 	2,245 820
+Row:Prepayments and other current assets 	590 288
+Row:Total current assets 	6,109 2,747
+Row:Property, plant and equipment, net 	3,501 1,691
+Row:Long-term receivables, net 	10 9
+Row:Goodwill 	869 49
+Row:Intangibles, net 	1,519 22
+Row:Investments in nonconsolidated affiliates 	544 2
+Row:Deferred income taxes 	467 213
+Row:Other assets 	213 63
+Row:Total assets $ 	13,232 $ 4,796
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+	Row:Current liabilities:
+	Row:Intangibles, net 	1,519 	22
+Row:Investments in nonconsolidated affiliates 	544 	2
+Row:Deferred income taxes 	467 	213
+Row:Other assets 	213 	63
+Row:Total assets $ 	13,232 	$ 4,796
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Short-term debt, including current maturities of long-term debt $ 	153 	$ 103
+Row:Accounts payable Accrued compensation and employee benefits 	2,759 343 	1,582
+141
+Row:Accrued income taxes 	64 	27
+Row:Accrued expenses and other current liabilities 	1,001 	424
+Row:Total current liabilities 	4,320 	2,277
+Row:Long-term debt 	5,340 	1,358
+Row:Deferred income taxes 	88 	11
+Row:Pension and postretirement benefits 	1,167 	268
+Row:Deferred credits and other liabilities 	263 	158
+Row:Commitments and contingencies
+		Row:Total liabilities 	11,178 	4,072
+Row:Redeemable noncontrolling interests 	138 	42
+Row:Tenneco Inc. shareholders’ equity:
+		Row:Preferred stock—$0.01 par value; none issued 	— 	—
+Row:Class A voting common stock—$0.01 par value; shares issued: (2018—71,675,379; 2017—66,033,509) 	1 	1
+Row:Class B non-voting convertible common stock—$0.01 par value; 2018—23,793,669 shares issued 	— 	—
+Row:Additional paid-in capital 	4,360 	3,112
+Row:Accumulated other comprehensive loss 	(692) 	(538)
+Row:Accumulated deficit 	(1,013) 	(1,009)
+Row:	2,656 	1,566
+Row:Shares held as treasury stock—at cost: 2018 and 2017—14,592,888 shares 	(930) 	(930)
+Row:Total Tenneco Inc. shareholders’ equity 	1,726 	636
+Row:Noncontrolling interests 	190 	46
+Row:Total equity 	1,916 	682
+Row:Total liabilities, redeemable noncontrolling interests and equity $ 	13,232 	$ 4,796
+Row:Operating Activities
+Net income $ 	111 $ 265 $ 415
+Row:Adjustments to reconcile net income to cash provided by operating activities:
+	Row:Goodwill impairment charge 	3 11 —
+Row:Depreciation and amortization 	345 226 213
+Row:Deferred income taxes 	(65) (8) (84)
+Row:Stock-based compensation 	14 14 14
+Row:Restructuring charges and asset impairments, net of cash paid 	49 8 (13)
+Row:Change in pension and postretirement benefit plans Equity in earnings of nonconsolidated affiliates 	(8) (15) 47
+(18) 1 —
+Row:Cash dividends received from nonconsolidated affiliates 	2 — —
+Row:Loss on sale of assets 	16 5 4
+Row:Changes in operating assets and liabilities:
+	Row:Receivables 	(190) (81) (325)
+Row:Inventories 	27 (94) (55)
+Row:Payables and accrued expenses Accrued interest and income taxes 	291 136 140
+(19) 1 13
+Row:Other assets and liabilities 	(119) 48 5
+Row:Net cash provided by operating activities 	439 517 374
+Row:Investing Activities
+Federal-Mogul acquisition, net of cash acquired (2,194) 	— —
+Row:Proceeds from sale of assets 	9 8 6
+Row:Proceeds from sale of equity interest 	— 9 —
+Row:Cash payments for plant, property, and equipment 	(507) (419) (345)
+Row:Proceeds from deferred purchase price of factored receivables 	174 112 110
+Row:Other 	4 (10) —
+Row:Net cash used by investing activities (2,514) 	(300) (229)
+Row:Financing Activities
+	Row:Proceeds from term loans and notes 3,426 	160 529
+Row:Repayments of term loans and notes 	(453) (36) (545)
+Row:Borrowings on revolving lines of credit 5,149 	6,664 5,417
+Row:Payments on revolving lines of credit (5,405) 	(6,737) (5,221)
+Row:Issuance (repurchase) of common shares 	(1) (1) 13
+Row:Cash dividends 	(59) (53) —
+Row:Debt issuance cost of long-term debt 	(95) (8) (9)
+Row:Purchase of common stock under the share repurchase program Net increase (decrease) in bank overdrafts 	— (169) (225)
+(5) (7) 10
+Row:Other 	(30) — —
+Row:Distributions to noncontrolling interest partners 	(51) (64) (55)
+Row:Net cash provided (used) by financing activities 2,476 	(251) (86)
+Row:Effect of foreign exchange rate changes on cash, cash equivalents and restricted cash 	(17) 3 2
+Row:Increase (decrease) in cash, cash equivalents and restricted cash 	384 (31) 61
+Row:Cash, cash equivalents and restricted cash, January 1 Cash, cash equivalents and restricted cash, December 31 $ 	318 349 288
+702 $ 318 $ 349
+Row:Supplemental Cash Flow Information
+	Row:Cash paid during the year for interest $ 	143 $ 78 $ 76
+Row:Revenues
+		Row:Net sales and operating revenues $ 11,763 	$ 9,274 	$ 8,597
+Row:Costs and expenses
+		Row:Cost of sales (exclusive of depreciation and amortization) 10,071 	7,812 	7,126
+Row:Selling, general, and administrative 794 	638 	514
+Row:Depreciation and amortization 345 	226 	213
+Row:Engineering, research, and development 204 	158 	153
+Row:Goodwill impairment charge 3 	11 	—
+Row:11,417 	8,845 	8,006
+Row:Other expense (income)
+		Row:Loss on sale of receivables 16 	5 	5
+Row:Non-service pension and postretirement benefit costs 20 	16 	84
+Row:Loss on extinguishment of debt 10 	1 	24
+Row:Equity in (earnings) losses of nonconsolidated affiliates, net of tax (18) 	1 	—
+Row:Other expense (income), net 12 	(2) 	(1)
+Row:40 	21 	112
+Row:Earnings before interest expense, income taxes, and noncontrolling interests 306 	408 	479
+Row:Interest expense 132 	72 	68
+Row:Earnings before income taxes and noncontrolling interests 174 	336 	411
+Row:Income tax expense (benefit) 63 	71 	(4)
+Row:Net income 111 	265 	415
+Row:Less: Net income attributable to noncontrolling interests 56 	67 	68
+Row:Net income attributable to Tenneco Inc. $ 55 	$ 198 	$ 347
+Row:Earnings per share
+		Row:Weighted average shares of common stock outstanding —
+		Row:Basic 58,625,087 	52,796,184 	55,939,135
+Row:Diluted 58,758,732 	53,026,911 	56,407,436
+Row:Basic earnings per share of common stock $ 0.93 	$ 3.75 	$ 6.20
+Row:Basic 	58,625,087 	52,796,184 	55,939,135
+Row:Diluted 	58,758,732 	53,026,911 	56,407,436
+Row:Basic earnings per share of common stock 	$ 0.93 	$ 3.75 	$ 6.20
+Row:Diluted earnings per share of common stock 	$ 0.93 	$ 3.73 	$ 6.15
+Row:Current assets:
+Cash and cash equivalents $ 	697 $ 315
+Row:Restricted cash 	5 3
+Row:Receivables:
+	Row:Customer notes and accounts, net 	2,487 1,294
+Row:Other 	85 27
+Row:Inventories 	2,245 820
+Row:Prepayments and other current assets 	590 288
+Row:Total current assets 	6,109 2,747
+Row:Property, plant and equipment, net 	3,501 1,691
+Row:Long-term receivables, net 	10 9
+Row:Goodwill 	869 49
+Row:Intangibles, net 	1,519 22
+Row:Investments in nonconsolidated affiliates 	544 2
+Row:Deferred income taxes 	467 213
+Row:Other assets 	213 63
+Row:Total assets $ 	13,232 $ 4,796
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+	Row:Current liabilities:
+	Row:Intangibles, net 	1,519 	22
+Row:Investments in nonconsolidated affiliates 	544 	2
+Row:Deferred income taxes 	467 	213
+Row:Other assets 	213 	63
+Row:Total assets $ 	13,232 	$ 4,796
+Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+		Row:Current liabilities:
+		Row:Short-term debt, including current maturities of long-term debt $ 	153 	$ 103
+Row:Accounts payable Accrued compensation and employee benefits 	2,759 343 	1,582
+141
+Row:Accrued income taxes 	64 	27
+Row:Accrued expenses and other current liabilities 	1,001 	424
+Row:Total current liabilities 	4,320 	2,277
+Row:Long-term debt 	5,340 	1,358
+Row:Deferred income taxes 	88 	11
+Row:Pension and postretirement benefits 	1,167 	268
+Row:Deferred credits and other liabilities 	263 	158
+Row:Commitments and contingencies
+		Row:Total liabilities 	11,178 	4,072
+Row:Redeemable noncontrolling interests 	138 	42
+Row:Tenneco Inc. shareholders’ equity:
+		Row:Preferred stock—$0.01 par value; none issued 	— 	—
+Row:Class A voting common stock—$0.01 par value; shares issued: (2018—71,675,379; 2017—66,033,509) 	1 	1
+Row:Class B non-voting convertible common stock—$0.01 par value; 2018—23,793,669 shares issued 	— 	—
+Row:Additional paid-in capital 	4,360 	3,112
+Row:Accumulated other comprehensive loss 	(692) 	(538)
+Row:Accumulated deficit 	(1,013) 	(1,009)
+Row:	2,656 	1,566
+Row:Shares held as treasury stock—at cost: 2018 and 2017—14,592,888 shares 	(930) 	(930)
+Row:Total Tenneco Inc. shareholders’ equity 	1,726 	636
+Row:Noncontrolling interests 	190 	46
+Row:Total equity 	1,916 	682
+Row:Total liabilities, redeemable noncontrolling interests and equity $ 	13,232 	$ 4,796
+Row:Operating Activities
+Net income $ 	111 $ 265 $ 415
+Row:Adjustments to reconcile net income to cash provided by operating activities:
+	Row:Goodwill impairment charge 	3 11 —
+Row:Depreciation and amortization 	345 226 213
+Row:Deferred income taxes 	(65) (8) (84)
+Row:Stock-based compensation 	14 14 14
+Row:Restructuring charges and asset impairments, net of cash paid 	49 8 (13)
+Row:Change in pension and postretirement benefit plans Equity in earnings of nonconsolidated affiliates 	(8) (15) 47
+(18) 1 —
+Row:Cash dividends received from nonconsolidated affiliates 	2 — —
+Row:Loss on sale of assets 	16 5 4
+Row:Changes in operating assets and liabilities:
+	Row:Receivables 	(190) (81) (325)
+Row:Inventories 	27 (94) (55)
+Row:Payables and accrued expenses Accrued interest and income taxes 	291 136 140
+(19) 1 13
+Row:Other assets and liabilities 	(119) 48 5
+Row:Net cash provided by operating activities 	439 517 374
+Row:Investing Activities
+Federal-Mogul acquisition, net of cash acquired (2,194) 	— —
+Row:Proceeds from sale of assets 	9 8 6
+Row:Proceeds from sale of equity interest 	— 9 —
+Row:Cash payments for plant, property, and equipment 	(507) (419) (345)
+Row:Proceeds from deferred purchase price of factored receivables 	174 112 110
+Row:Other 	4 (10) —
+Row:Net cash used by investing activities (2,514) 	(300) (229)
+Row:Financing Activities
+	Row:Proceeds from term loans and notes 3,426 	160 529
+Row:Repayments of term loans and notes 	(453) (36) (545)
+Row:Borrowings on revolving lines of credit 5,149 	6,664 5,417
+Row:Payments on revolving lines of credit (5,405) 	(6,737) (5,221)
+Row:Issuance (repurchase) of common shares 	(1) (1) 13
+Row:Cash dividends 	(59) (53) —
+Row:Debt issuance cost of long-term debt 	(95) (8) (9)
+Row:Purchase of common stock under the share repurchase program Net increase (decrease) in bank overdrafts 	— (169) (225)
+(5) (7) 10
+Row:Other 	(30) — —
+Row:Distributions to noncontrolling interest partners 	(51) (64) (55)
+Row:Net cash provided (used) by financing activities 2,476 	(251) (86)
+Row:Effect of foreign exchange rate changes on cash, cash equivalents and restricted cash 	(17) 3 2
+Row:Increase (decrease) in cash, cash equivalents and restricted cash 	384 (31) 61
+Row:Cash, cash equivalents and restricted cash, January 1 Cash, cash equivalents and restricted cash, December 31 $ 	318 349 288
+702 $ 318 $ 349
+Row:Supplemental Cash Flow Information
+	Row:Cash paid during the year for interest $ 	143 $ 78 $ 76

@@ -1,0 +1,154 @@
+Row:Assets
+	Row:Current assets:
+	Row:Cash and cash equivalents 	$ 441,843 $ 374,126
+Row:Short-term investments 	99,931 401,285
+Row:Receivables, net 	1,139,595 1,183,494
+Row:Inventory 	23,182 25,029
+Row:Prepaid expenses and other 	392,073 334,870
+Row:Total current assets 	2,096,624 2,318,804
+Row:Property and equipment, net 	1,858,772 1,743,575
+Row:Right-of-use assets 	123,155 —
+Row:Software development costs, net 	939,859 894,512
+Row:Goodwill 	883,158 847,544
+Row:Intangible assets, net 	364,439 405,305
+Row:Long-term investments 	419,419 300,046
+Row:Other assets 	209,196 198,850
+Row:Total assets 	$ 6,894,622 $ 6,708,636
+Row:Liabilities and Shareholders’ Equity
+	Row:Current liabilities:
+	Row:Accounts payable 	$ 273,440 $ 293,534
+Row:Current installments of long-term debt and capital lease obligations 	— 4,914
+Row:Deferred revenue 	360,025 399,189
+Row:Accrued payroll and tax withholdings 	245,843 195,931
+Row:Other current liabilities 	148,140 69,122
+Row:Total current liabilities 	1,027,448 962,690
+Row:Long-term debt 	1,038,382 438,802
+Row:Deferred income taxes 	377,657 336,379
+Row:Other liabilities 	133,807 42,376
+Row:Total liabilities 	2,577,294 1,780,247
+Row:Shareholders’ Equity:
+	Row:Common stock, $.01 par value, 500,000,000 shares authorized, 367,634,796 shares issued at December 28, 	2019 and
+Row:362,212,843 shares issued at December 29, 2018 	3,676 3,622
+Row:Additional paid-in capital 	1,905,171 1,559,562
+Row:Retained earnings 	5,934,909 5,576,525
+Row:Treasury stock, 56,723,546 shares at December 28, 2019 and 37,905,013 shares at December 29, 2018 	(3,407,768) (2,107,768)
+Row:Accounts payable 	$ 273,440 	$ 293,534
+Row:Current installments of long-term debt and capital lease obligations 	— 	4,914
+Row:Deferred revenue 	360,025 	399,189
+Row:Accrued payroll and tax withholdings 	245,843 	195,931
+Row:Other current liabilities 	148,140 	69,122
+Row:Total current liabilities 	1,027,448 	962,690
+Row:Long-term debt 	1,038,382 	438,802
+Row:Deferred income taxes 	377,657 	336,379
+Row:Other liabilities 	133,807 	42,376
+Row:Total liabilities 	2,577,294 	1,780,247
+Row:362,212,843 shares issued at December 29, 2018 	3,676 	3,622
+Row:Additional paid-in capital 	1,905,171 	1,559,562
+Row:Retained earnings 	5,934,909 	5,576,525
+Row:Treasury stock, 56,723,546 shares at December 28, 2019 and 37,905,013 shares at December 29, 2018 	(3,407,768) 	(2,107,768)
+Row:Accumulated other comprehensive loss, net 	(118,660) 	(103,552)
+Row:Total shareholders’ equity 	4,317,328 	4,928,389
+Row:Total liabilities and shareholders’ equity 	$ 6,894,622 	$ 6,708,636
+Row:(In thousands, except per share data)
+	2019 	2018 	2017
+Row:Revenues 	$ 5,692,598 	$ 5,366,325 	$ 5,142,272
+Row:Costs and expenses:
+			Row:Costs of revenue 	1,071,041 	937,348 	854,091
+Row:Sales and client service 	2,675,337 	2,493,696 	2,276,821
+Row:Software development (Includes amortization of $227,414, $210,228 and $173,250, respectively) 	737,136 	683,663 	605,046
+Row:General and administrative 	520,598 	389,469 	355,267
+Row:Amortization of acquisition-related intangibles 	87,817 	87,364 	90,576
+Row:Total costs and expenses 	5,091,929 	4,591,540 	4,181,801
+Row:Operating earnings 	600,669 	774,785 	960,471
+Row:Other income, net 	53,843 	26,066 	6,658
+Row:Earnings before income taxes 	654,512 	800,851 	967,129
+Row:Income taxes 	(125,058) 	(170,792) 	(100,151)
+Row:Net earnings 	$ 529,454 	$ 630,059 	$ 866,978
+Row:Basic earnings per share 	$ 1.66 	$ 1.91 	$ 2.62
+Row:Diluted earnings per share 	$ 1.65 	$ 1.89 	$ 2.57
+Row:Basic weighted average shares outstanding 	318,229 	330,084 	331,373
+Row:Diluted weighted average shares outstanding 	321,235 	333,572 	337,999
+Row:See notes to consolidated financial statements.
+			Row:(In thousands)
+	2019 	2018 	2017
+Row:Net earnings 	$ 529,454 	$ 630,059 	$ 866,978
+Row:Foreign currency translation adjustment and other (net of taxes (benefit) of $(1,288), $(645) and $4,909,
+			Row:respectively) 	(3,408) 	(30,575) 	37,463
+Row:Unrealized loss on cash flow hedge (net of tax benefit of $4,137 in 2019) 	(12,578) 	— 	—
+Row:Unrealized holding gain (loss) on available-for-sale investments (net of taxes (benefit) of $290, $132 and
+			Row:$(416), respectively) 	878 	405 	(680)
+Row:Comprehensive income 	$ 514,346 	$ 599,889 	$ 903,761
+Row:(In thousands)
+	2019 	2018 	2017
+Row:CASH FLOWS FROM OPERATING ACTIVITIES:
+			Row:Net earnings 	$ 529,454 	$ 630,059 	$ 866,978
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities:
+			Row:Depreciation and amortization 	687,966 	642,591 	580,723
+Row:Share-based compensation expense 	103,641 	95,423 	83,019
+Row:Provision for deferred income taxes 	51,125 	34,428 	47,409
+Row:Investment gains 	(29,621) 	— 	—
+Row:Changes in assets and liabilities (net of business acquired):
+			Row:Receivables, net 	58,113 	(207,785) 	(32,836)
+Row:Inventory 	1,855 	(9,307) 	(972)
+Row:Prepaid expenses and other 	(76,748) 	156,216 	(191,369)
+Row:Accounts payable 	(8,734) 	65,202 	6,960
+Row:Accrued income taxes 	(4,599) 	(27,849) 	18,358
+Row:Deferred revenue 	(39,245) 	81,538 	(3,114)
+Row:Other accrued liabilities 	39,892 	(6,507) 	(67,481)
+Row:Net cash provided by operating activities 	1,313,099 	1,454,009 	1,307,675
+Row:CASH FLOWS FROM INVESTING ACTIVITIES:
+			Row:Capital purchases 	(471,518) 	(446,928) 	(362,083)
+Row:Capitalized software development costs 	(273,871) 	(273,693) 	(274,148)
+Row:Purchases of investments 	(364,648) 	(623,293) 	(632,048)
+Row:Sales and maturities of investments 	579,755 	551,796 	292,074
+Row:Purchase of other intangibles 	(35,587) 	(36,819) 	(29,646)
+Row:Acquisition of business, net of cash acquired 	(74,539) 	— 	—
+Row:Net cash used in investing activities 	(640,408) 	(828,937) 	(1,005,851)
+Row:CASH FLOWS FROM FINANCING ACTIVITIES:
+			Row:Long-term debt issuance 	600,000 	— 	—
+Row:Repayment of long-term debt 	— 	(75,000) 	—
+Row:Proceeds from exercise of stock options 	258,036 	91,349 	76,705
+Row:Payments to taxing authorities in connection with shares directly withheld from associates 	(16,601) 	(9,873) 	(11,584)
+Row:Treasury stock purchases 	(1,320,542) 	(623,127) 	(173,434)
+Row:Dividends paid 	(113,823) 	— 	—
+Row:Other 	(8,450) 	6,864 	(2,671)
+Row:Net cash used in financing activities 	(601,380) 	(609,787) 	(110,984)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(3,594) 	(12,082) 	9,222
+Row:Net increase in cash and cash equivalents 	67,717 	3,203 	200,062
+Row:Cash and cash equivalents at beginning of period 	374,126 	370,923 	170,861
+Row:Cash and cash equivalents at end of period 	$ 441,843 	$ 374,126 	$ 370,923
+Row:See notes to consolidated financial statements.
+			Row:(In thousands)
+	Shares Amount
+Common Stock
+	Additional
+Paid-in Capital
+	Retained
+Earnings 	Treasury Stock
+	Other
+Comprehensive
+Loss, Net 
+Row:Balance at December 31, 2016 	353,731 $ 3,537 	$ 1,230,913 	$ 4,094,327 	$ (1,290,665) 	$ (110,165)
+Row:Exercise of stock options and vests of restricted shares and share units 	5,474 55 	66,439 	— 	— 	—
+Row:Employee share-based compensation expense 	— — 	83,019 	— 	— 	—
+Row:Cumulative effect of accounting change (ASU 2016-16) 	— — 	— 	(22,439) 	— 	—
+Row:Other comprehensive income (loss) 	— — 	— 	— 	— 	36,783
+Row:Treasury stock purchases 	— — 	— 	— 	(173,434) 	—
+Row:Net earnings 	— — 	— 	866,978 	— 	—
+Row:Balance at December 30, 2017 	359,205 3,592 	1,380,371 	4,938,866 	(1,464,099) 	(73,382)
+Row:Exercise of stock options and vests of restricted shares and share units 	3,008 30 	83,768 	— 	— 	—
+Row:Employee share-based compensation expense 	— — 	95,423 	— 	— 	—
+Row:Cumulative effect of accounting change (ASU 2014-09) 	— — 	— 	7,600 	— 	—
+Row:Other comprehensive income (loss) 	— — 	— 	— 	— 	(30,170)
+Row:Treasury stock purchases 	— — 	— 	— 	(643,669) 	—
+Row:Net earnings 	— — 	— 	630,059 	— 	—
+Row:Balance at December 29, 2018 	362,213 3,622 	1,559,562 	5,576,525 	(2,107,768) 	(103,552)
+Row:Exercise of stock options and vests of restricted shares and share units 	5,422 54 	241,968 	— 	— 	—
+Row:Employee share-based compensation expense 	— — 	103,641 	— 	— 	—
+Row:Other comprehensive income (loss) 	— — 	— 	— 	— 	(15,108)
+Row:Treasury stock purchases 	— — 	— 	— 	(1,300,000) 	—
+Row:Cash dividends declared 	— — 	— 	(171,070) 	— 	—
+Row:Net earnings 	— — 	— 	529,454 	— 	—
+Row:Balance at December 28, 2019 	367,635 $ 3,676 	$ 1,905,171 	$ 5,934,909 	$ (3,407,768) 	$ (118,660)
+Row:See notes to consolidated financial statements.
+					

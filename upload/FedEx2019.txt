@@ -1,0 +1,85 @@
+Row:ASSETS
+	Row:CURRENT ASSETS
+	Row:Cash and cash equivalents $ 	2,319 $ 3,265
+Row:Receivables, less allowances of $300 and $401 	9,116 8,481
+Row:Spare parts, supplies and fuel, less allowances of $335 and $268 	553 525
+Row:Prepaid expenses and other 	1,098 1,070
+Row:Total current assets 	13,086 13,341
+Row:PROPERTY AND EQUIPMENT, AT COST
+	Row:Aircraft and related equipment 	22,793 20,749
+Row:Package handling and ground support equipment 	10,409 9,727
+Row:Information technology 	6,268 5,794
+Row:Vehicles and trailers 	8,339 7,708
+Row:Facilities and other 	11,702 11,143
+Row:	59,511 55,121
+Row:Less accumulated depreciation and amortization 	29,082 26,967
+Row:Net property and equipment 	30,429 28,154
+Row:OTHER LONG-TERM ASSETS
+	Row:Goodwill 	6,884 6,973
+Row:Other assets 	4,004 3,862
+Row:Total other long-term assets 	10,888 10,835
+Row:$ 	54,403 $ 52,330
+Row:	2019 2018 	2017
+Row:REVENUES 	$ 69,693 $ 65,450 	$ 60,319
+Row:OPERATING EXPENSES:
+		Row:Salaries and employee benefits 	24,776 23,795 	21,989
+Row:Purchased transportation 	16,654 15,101 	13,630
+Row:Rentals and landing fees 	3,360 3,361 	3,240
+Row:Depreciation and amortization 	3,353 3,095 	2,995
+Row:Fuel 	3,889 3,374 	2,773
+Row:Maintenance and repairs 	2,834 2,622 	2,374
+Row:Business realignment costs 	320 — 	—
+Row:Goodwill and other asset impairment charges 	— 380 	—
+Row:Other 	10,041 9,450 	8,752
+Row:	65,227 61,178 	55,753
+Row:OPERATING INCOME 	4,466 4,272 	4,566
+Row:OTHER (EXPENSE) INCOME:
+		Row:Interest expense 	(588 ) (558 ) 	(512 )
+Row:Interest income 	59 48 	33
+Row:Other retirement plans (expense) income 	(3,251 ) 598 	471
+Row:Other, net 	(31 ) (7 ) 	21
+Row:	(3,811 ) 81 	13
+Row:INCOME BEFORE INCOME TAXES 	655 4,353 	4,579
+Row:PROVISION FOR INCOME TAXES (BENEFIT) 	115 (219 ) 	1,582
+Row:NET INCOME 	$ 540 $ 4,572 	$ 2,997
+Row:BASIC EARNINGS PER COMMON SHARE 	$ 2.06 $ 17.08 	$ 11.24
+Row:DILUTED EARNINGS PER COMMON SHARE 	$ 2.03 $ 16.79 	$ 11.07
+Row:2019 	2018 	2017
+Row:OPERATING ACTIVITIES
+		Row:Net income $ 	540 $ 4,572 	$ 2,997
+Row:Adjustments to reconcile net income to cash provided by operating
+activities:
+		Row:Depreciation and amortization 	3,353 3,095 	2,995
+Row:Provision for uncollectible accounts 	295 246 	136
+Row:Deferred income taxes and other noncash items 	(233 ) (231 ) 	909
+Row:Stock-based compensation 	174 167 	154
+Row:Retirement plans mark-to-market adjustment 	3,882 (10 ) 	(24 )
+Row:Gain from sale of business 	(8 ) (85 ) 	—
+Row:Gain from sale of investment 	— — 	(35 )
+Row:Business realignment costs 	101 — 	—
+Row:Goodwill and other asset impairment charges 	— 380 	—
+Row:Changes in assets and liabilities:
+		Row:Receivables 	(873 ) (1,049 ) 	(556 )
+Row:Other current assets 	(25 ) (135 ) 	78
+Row:Pension and postretirement healthcare assets and liabilities, net 	(909 ) (2,345 ) 	(1,688 )
+Row:Accounts payable and other liabilities 	(571 ) 141 	103
+Row:Other, net 	(113 ) (72 ) 	(139 )
+Row:Cash provided by operating activities 	5,613 4,674 	4,930
+Row:INVESTING ACTIVITIES
+		Row:Capital expenditures 	(5,490 ) (5,663 ) 	(5,116 )
+Row:Business acquisitions, net of cash acquired 	(66 ) (179 ) 	—
+Row:Proceeds from sale of business 	— 123 	—
+Row:Proceeds from asset dispositions and other 	83 42 	135
+Row:Cash used in investing activities 	(5,473 ) (5,677 ) 	(4,981 )
+Row:FINANCING ACTIVITIES
+		Row:Principal payments on debt 	(1,436 ) (38 ) 	(82 )
+Row:Proceeds from debt issuances 	2,463 1,480 	1,190
+Row:Proceeds from stock issuances 	101 327 	337
+Row:Dividends paid 	(683 ) (535 ) 	(426 )
+Row:Purchase of treasury stock 	(1,480 ) (1,017 ) 	(509 )
+Row:Other, net 	(4 ) 10 	18
+Row:Cash (used in) provided by financing activities 	(1,039 ) 227 	528
+Row:Effect of exchange rate changes on cash 	(47 ) 72 	(42 )
+Row:Net (decrease) increase in cash and cash equivalents 	(946 ) (704 ) 	435
+Row:Cash and cash equivalents at beginning of period 	3,265 3,969 	3,534
+Row:Cash and cash equivalents at end of period $ 	2,319 $ 3,265 	$ 3,969

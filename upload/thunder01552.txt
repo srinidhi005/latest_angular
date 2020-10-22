@@ -1,0 +1,244 @@
+Row:	2018 	2017
+Row:Current assets
+Cash Accounts receivable, net of allowance of $294 and $283, respectively 	6,048 $ 24,645 	4,960 $
+26,531
+Row:Inventories 	4,506 	4,446
+Row:Prepaid and other current assets 	4,441 	4,574
+Row:Income taxes receivable 	745 	107
+Row:Total current assets 	40,385 	40,618
+Row:Property and equipment, net 	5,757 	3,865
+Row:Goodwill 	235,257 	235,257
+Row:Intangible assets, net 	67,680 	85,016
+Row:Other long-term assets 	99 	169
+Row:Total assets 	349,178 $ 	364,925 $
+Row:Current liabilities
+Accounts payable 	e
+n
+tia
+l
+y
+rle
+	2,618 $ 	5,057 $
+Row:Accrued compensation 	fi
+d
+B
+u
+m
+	5,346 	4,787
+Row:Other accrued liabilities 	o
+n
+te
+r
+.c
+o
+:4
+6
+	946 	1,299
+Row:Accrued interest Line of credit c
+	y
+e
+lv
+s
+te
+c
+a
+p
+0
+1
+5
+	12 2,000 	139
+-
+Row:Debt, current portion, net of debt discount S
+	a
+n
+0
+2
+	2,818 	4,495
+Row:Deferred revenue, current portion 	v
+a
+,
+2
+	33,808 	35,634
+Row:Income taxes payable 	3
+0
+	743 	991
+Row:Total current liabilities 	J
+u
+l
+	48,291 	52,402
+Row:Deferred revenue, net of current 		4,618 	3,124
+Row:Deferred tax liabilities 		7,720 	8,077
+Row:Debt, net of current portion and debt discount 		175,859 	177,012
+Row:Other long-term liabilities 		1,234 	-
+Row:Total liabilities 		237,722 	240,615
+Row:and 159,274,069 shares issued and outstanding as of December 31, 2018 	160 	159
+Row:and 2017, respectively
+		Row:Additional paid-in capital 	143,409 	141,868
+Row:Accumulated other comprehensive loss 	(48) 	175
+Row:Accumulated deficit 	(32,065) 	(17,892)
+Row:Total stockholders' equity 	111,456 	124,310
+Row:Total liabilities and stockholders' equity 	349,178 $ 	364,925 $
+Row:Maintenance 	43,912 	33,016
+Row:Services and other 	4,366 	3,365
+Row:Total revenues 	109,328 	87,250
+Row:Cost of revenues
+		Row:Software 	2,885 	3,215
+Row:Appliance 	11,826 	8,697
+Row:Maintenance 	5,488 	4,734
+Row:Services and other Amortization of acquired developed and in-process technology 	2,235 10,078 	2,336
+10,403
+Row:Total cost of revenues 	32,512 	29,385
+Row:Gross profit l
+	76,816 	57,865
+Row:Operating expenses
+Research and development fi
+d
+e
+n
+tia
+B
+u
+y
+rle
+m
+	18,901 	17,691
+Row:Sales and marketing o
+n
+te
+r
+.c
+o
+:4
+6
+	31,496 	30,208
+Row:General and administrative c
+e
+s
+a
+p
+1
+5
+	15,255 	15,436
+Row:Amortization of intangible assets y
+lv
+te
+c
+0
+	7,203 	6,884
+Row:Total operating expenses Income (loss) from operations S
+v
+a
+a
+l
+n
+3
+0
+,
+2
+0
+2
+	72,855 3,961 	70,219
+(12,354)
+Row:Other expenses
+J
+u
+		Row:Interest expense, net Other expenses, net 	(17,207) (453) 	(14,876)
+(103)
+Row:Total other expenses 	(17,660) 	(14,979)
+Row:Loss before income tax benefit 	(13,699) 	(27,333)
+Row:Income tax (expense) benefit 	(474) 	16,273
+Row:Net loss 	(14,173) 	(11,060)
+Row:Other comprehensive loss
+		Row:Foreign currency translation adjustment, net 	(223) 	222
+Row:Comprehensive loss 	(14,396) $ 	(10,838) $
+Row:	2018 	2017
+Row:Cash flows from operating activities
+Net loss 	(14,173) $ 	(11,060) $
+Row:Adjustments to reconcile net loss to net cash provided by operating activities
+		Row:Depreciation 	1,721 	1,493
+Row:Amortization of intangible assets 	17,281 	17,286
+Row:Amortization of debt discount 	1,045 	945
+Row:Stock-based compensation expense 	1,299 	903
+Row:Provision for doubtful accounts Loss on disposal of property and equipment 	11 - 	156
+5
+Row:Deferred income taxes, net 	(1,091) 	(17,204)
+Row:Income tax receivable 	113 	259
+Row:Changes in operating assets and liabilities
+		Row:Accounts receivable 	1,875 	(3,109)
+Row:Inventories 	(60) 	257
+Row:Prepaid and other current assets 	205 	(1,710)
+Row:Other long-term assets 	70 	-
+Row:Accounts payable 	(2,439) 	(200)
+Row:Accrued compensation 	559 	223
+Row:Other accrued liabilities 	(237) 	(1,330)
+Row:Accrued interest Deferred revenue l
+tia
+n
+y
+rle
+	(127) (332) 	111
+18,277
+Row:Income taxes payable e
+d
+u
+	(265) 	(1,556)
+Row:Lease incentives fi
+n
+r
+B
+o
+m
+6
+	1,118 	-
+Row:Net cash provided by operating activities o
+c
+s
+te
+p
+.c
+5
+:4
+	6,573 	3,746
+Row:Cash flows from investing activities
+e
+y
+lv
+te
+c
+a
+2
+0
+1
+		Row:Purchase of property and equipment S
+a
+n
+2
+0
+	(3,474) 	(1,306)
+Row:Acquisition of Ineoquest, net of acquired cash a
+v
+,
+	- 	(63,106)
+Row:Net cash used in investing activities 3
+0
+	(3,474) 	(64,412)
+Row:Cash flows from financing activities
+J
+u
+l
+		Row:Payments on long-term debt 	(3,875) 	(1,407)
+Row:Payments on line of credit 	(2,000) 	(4,500)
+Row:Proceeds from line of credit 	4,000 	3,500
+Row:Proceeds from long-term debt, net of debt discount 	- 	57,663
+Row:Proceeds from issuance of common stock 	243 	8,002
+Row:Common stock repurchased 	- 	(100)
+Row:Net cash provided by (used in) financing activities Effect of exchange rate changes on cash 	(1,632) (379) 	63,158
+23
+Row:Net change in cash 	1,088 	2,515
+Row:Cash at beginning of period 	4,960 	2,445
+Row:Cash at end of period 	6,048 $ 	4,960 $
+Row:Supplemental cash flow information
+Cash paid for interest 	16,289 $ 	13,820 $
+Row:Cash paid for income taxes The accompanying notes are an integral part of these consolidated financial 	1,675 $ statements.
+	2,092 $
+Row:Payments on long-term debt Row:Payments on line of credit Row:Proceeds from line of credit Row:Proceeds from long-term debt, net of debt discount Row:Proceeds from issuance of common stock Row:Common stock repurchased 

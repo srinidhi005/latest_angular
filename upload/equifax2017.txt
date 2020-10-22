@@ -1,0 +1,126 @@
+Row:	2017 	2016 	2015
+Row:(In millions, except per share amounts)
+			Row:Operating revenue 	$ 3,362.2 $ 	3,144.9 $ 	2,663.6
+Row:Operating expenses:
+			Row:Cost of services (exclusive of depreciation and amortization below) 	1,210.7 	1,113.4 	887.4
+Row:Selling, general and administrative expenses 	1,039.1 	948.2 	884.3
+Row:Depreciation and amortization 	287.8 	265.4 	198.0
+Row:Total operating expenses Operating income 	2,537.6 824.6 	2,327.0 817.9 	1,969.7
+693.9
+Row:Interest expense 	(92.8) 	(92.1) 	(63.8)
+Row:Other income, net 	14.8 	2.4 	6.5
+Row:Consolidated income before income taxes 	746.6 	728.2 	636.6
+Row:Provision for income taxes 	(148.6) 	(233.1) 	(201.8)
+Row:Consolidated net income 	598.0 	495.1 	434.8
+Row:Less: Net income attributable to noncontrolling interests including
+redeemable noncontrolling interests 	(10.7) 	(6.3) 	(5.7)
+Row:Net income attributable to Equifax 	$ 587.3 $ 	488.8 $ 	429.1
+Row:Basic earnings per common share:
+			Row:Net income attributable to Equifax 	$ 4.89 $ 	4.10 $ 	3.61
+Row:Weighted-average shares used in computing basic earnings per share 	120.1 	119.3 	118.7
+Row:Diluted earnings per common share:
+			Row:Net income attributable to Equifax 	$ 4.83 $ 	4.04 $ 	3.55
+Row:Weighted-average shares used in computing diluted earnings per share 	121.5 	121.1 	120.9
+Row:Dividends per common share 	$ 1.56 $ 	1.32 $ 	1.16
+Row:(In millions, except par values)
+	2017 	2016
+Row:ASSETS
+		Row:Current assets:
+		Row:Cash and cash equivalents $ 	336.4 $ 	129.3
+Row:Trade accounts receivable, net of allowance for doubtful accounts of $9.1 and $7.8 at
+		Row:December 31, 2017 and 2016, respectively 	444.8 	433.3
+Row:Prepaid expenses 	94.3 	60.2
+Row:Other current assets 	122.9 	50.1
+Row:Total current assets 	998.4 	672.9
+Row:Property and equipment:
+		Row:Capitalized internal-use software and system costs 	427.9 	307.0
+Row:Data processing equipment and furniture 	306.6 212.5 	273.2
+Row:Land, buildings and improvements Total property and equipment 	947.0 	203.8
+784.0
+Row:Less accumulated depreciation and amortization 	(380.0) 	(317.1)
+Row:Total property and equipment, net 	567.0 	466.9
+Row:Goodwill 	4,184.0 	3,974.3
+Row:Indefinite-lived intangible assets 	95.0 	94.8
+Row:Purchased intangible assets, net 	1,247.0 	1,323.8
+Row:Other assets, net 	142.0 	131.3
+Row:Total assets $ 	7,233.4 $ 	6,664.0
+Row:Goodwill Indefinite-lived intangible assets 	4,184.0 3,974.3
+95.0 94.8
+Row:Purchased intangible assets, net 	1,247.0 1,323.8
+Row:Other assets, net 	142.0 131.3
+Row:Total assets $ 	7,233.4 $ 6,664.0
+Row:LIABILITIES AND EQUITY
+	Row:Current liabilities:
+	Row:Short-term debt and current maturities of long-term debt $ 	965.3 $ 585.4
+Row:Accounts payable 	110.3 81.0
+Row:Accrued expenses 	160.9 149.3
+Row:Accrued salaries and bonuses 	119.4 158.8
+Row:Deferred revenue 	108.4 110.7
+Row:Other current liabilities 	209.2 174.4
+Row:Total current liabilities Long-term debt 	1,673.5 1,259.6
+1,739.0 2,086.8
+Row:Deferred income tax liabilities, net Long-term pension and other postretirement benefit liabilities 	305.1 325.4
+175.8 184.4
+Row:Other long-term liabilities Total liabilities 	101.0 86.5
+3,994.4 3,942.7
+Row:Commitments and Contingencies (see Note 6)
+	Row:Equifax shareholders' equity:
+	Row:Preferred stock, $0.01 par value: Authorized shares - 10.0; Issued shares - none 	— —
+Row:Common stock, $1.25 par value: Authorized shares - 300.0;
+	Row:Issued shares - 189.3 at December 31, 2017 and 2016;
+	Row:Outstanding shares - 120.1 and 119.9 at December 31, 2017 and 2016, respectively Paid-in capital 	236.6 236.6
+1,332.7 1,313.3
+Row:Retained earnings 	4,600.6 4,153.2
+Row:Accumulated other comprehensive loss 	(412.0) (528.9)
+Row:Treasury stock, at cost, 68.6 shares and 68.8 shares at December 31, 2017 and 2016,
+respectively 	(2,577.6) (2,505.6)
+Row:Stock held by employee benefits trusts, at cost, 0.6 shares at December 31, 2017 and 2016 	(5.9) (5.9)
+Row:Total Equifax shareholders' equity Noncontrolling interests including redeemable noncontrolling interests 	3,174.4 2,662.7
+64.6 58.6
+Row:Total shareholders' equity Total liabilities and equity $ 	3,239.0 2,721.3
+7,233.4 $ 6,664.0
+Row:See Notes to Consolidated Financial Statements.
+	Row:	2017 	2016 	2015
+Row:(In millions)
+			Row:Operating activities:
+			Row:Consolidated net income $ Adjustments to reconcile consolidated net income to net cash provided by
+	598.0 $ 	495.1 $ 	434.8
+Row:operating activities:
+			Row:Impairment of cost method investment Depreciation and amortization 	— 290.9 	— 268.7 	14.8
+200.0
+Row:Stock-based compensation expense Excess tax benefits from stock-based compensation plans Deferred income taxes Changes in assets and liabilities, excluding effects of acquisitions:
+	38.3 — (44.1) 	37.1 (35.9) (13.0) 	38.4
+(30.0)
+(28.7)
+Row:Accounts receivable, net Other assets, current and long-term 	(1.3) (120.1) 	(55.7) 0.3 	(26.9)
+15.9
+Row:Current and long-term liabilities, excluding debt 	54.3 	126.4 	150.8
+Row:Cash provided by operating activities 	816.0 	823.0 	769.1
+Row:Investing activities:
+			Row:Capital expenditures 	(218.2) 	(173.5) 	(146.2)
+Row:Acquisitions, net of cash acquired 	(139.9) 	(1,791.6) 	(4.4)
+Row:Cash received from sale of asset 	8.6 	— 	—
+Row:Cash received from divestitures 	— 	— 	2.9
+Row:Economic hedges Investment in unconsolidated affiliates, net 	— — 	(10.8) — 	—
+(0.1)
+Row:Cash used in investing activities 	(349.5) 	(1,975.9) 	(147.8)
+Row:Financing activities:
+Net short-term borrowings (repayments) Payments on long-term debt Proceeds from issuance of long-term debt Treasury stock purchases 	252.4 (322.5) 100.0 (77.1) 	73.0 (350.0) 1,574.7 — 	(331.0)
+—
+—
+(196.3)
+Row:Dividends paid to Equifax shareholders Dividends paid to noncontrolling interests Proceeds from exercise of stock options 	(187.4) (8.4) 19.2 	(157.6) (5.8) 31.5 	(137.8)
+(6.4)
+34.4
+Row:Payment of taxes related to settlement of equity awards 	(33.5) 	(27.2) 	(27.0)
+Row:Excess tax benefits from stock-based compensation plans 	— 	35.9 	30.0
+Row:Payment of contingent consideration 	(3.5) 	(4.4) 	—
+Row:Purchase of redeemable noncontrolling interests 	(2.6) 	(3.6) 	—
+Row:Debt issuance costs Cash (used in) provided by financing activities 	(0.3) (263.7) 	(6.2) 1,160.3 	(4.9)
+(639.0)
+Row:Effect of foreign currency exchange rates on cash and cash equivalents 	4.3 	28.6 	(17.3)
+Row:Increase (decrease) in cash and cash equivalents 	207.1 	36.0 	(35.0)
+Row:Cash and cash equivalents, beginning of period Cash and cash equivalents, end of period $ 	129.3 336.4 $ 	93.3 129.3 $ 	128.3
+93.3
+Row:See Notes to Consolidated Financial Statements.
+			

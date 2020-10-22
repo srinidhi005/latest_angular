@@ -1,0 +1,96 @@
+Row:Income Statement ($)	January 1, 2015 - December 31, 2015
+January 1, 2016 	December 31, 2016
+January 1, 2017 - 	December 31, 2017
+January 1, 2018 - December 31, 2018
+January 1, 2019 - December 31, 2019
+	Row:Revenue				Row:(+) Total RMI Advisory Services Revenue(+) Total RMI Insights RevenueTotal Revenue	$17,3380	$75,7450	$201,6780$354,1210$58,500	0Row:	$17,338	$75,745	$201,678$354,121
+$58,500
+	Row:(-) Cost of Sales	0	0	0
+0	0
+Row:Total Net Revenue
+	$17,338
+	$75,745
+	$354,121
+$201,678
+$58,500
+	Row:January 1, 2015 - December 31, 2015
+January 1, 2016 Income Statement ($)	December 31, 2016
+January 1, 2017 - 	December 31, 2017
+January 1, 2018 - 	December 31, 2018
+January 1, 2019 - December 31, 2019
+Row:Revenue(+) Total RMI Advisory Services Revenue(+) Total RMI Insights RevenueTotal Revenue$17,3380$17,338	$75,7450$75,745	$201,6780$201,678	$354,1210$354,121
+$58,5000$58,500
+Row:(-) Cost of Sales0	0	0
+	0
+0Row:Total Net Revenue
+$17,338
+	$75,745
+	$201,678
+	$354,121
+$58,500
+Row:Operating ExpensesGeneral(-) Software DevelopmentTotal General Operating Expenses
+$0$0
+	$0$0
+	$0$0
+	$81,691$81,691
+$192,486$192,486
+Row:Total Operating Income
+$17,338
+	$75,745
+	$201,678
+	$272,430
+($133,986Row:Corporate Overhead
+			Row:Total Office Costs
+$31,243
+	$14,848
+	$78,920
+	$343,117
+$50,977
+Row:Total Marketing Costs
+$13,702
+	$6,834
+	$12,302
+	$20,992
+$13,217
+Row:Total Training/Travel Costs
+$0
+	$406
+	$0
+	$7,354
+$0
+Row:Total Subcontractor Costs
+$3,803
+	$16,623
+	$3,250
+	$9,921
+$5,000
+Row:Total Miscellaneous Costs
+$4,021
+	$19,709
+	$38,689
+	$13,577
+$6,926
+Row:Total Corporate Overhead
+$52,769
+	$58,420
+	$133,161
+	$394,961
+$76,120
+Row:Total Marketing Website Expenses
+$9,971
+	$4,123
+	$3,684
+	$7,427
+$13,000
+Row:Total SG&A Expenses (Corporate Overhead + Marketing Website)
+$62,740
+	$62,543
+	$136,845
+	$402,388
+$89,120
+Row:Total RMI HoldCo Net Income
+($45,402)
+	$13,202
+	$64,833
+	($129,958)
+($223,105

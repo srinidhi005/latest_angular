@@ -1,0 +1,414 @@
+Row 0: Operating Expenses
+				Row 1: General and administrative
+		5,763
+	5,174
+	4,653
+Row 2: Advertising and marketing
+		934
+	907
+	771
+Row 3: Depreciation and amortization
+		522
+	459
+	436
+Row 4: Provision for litigation
+			1,128
+	15
+Row 5: Total operating expenses
+		7,219
+	7,668
+	5,875
+Row 6: Operating income
+		9,664
+	7,282
+	6,622
+Row 7: Other Income (Expense)
+				Row 8: Investment income
+		97
+	122
+	56
+Row 9: Gains (losses) on equity investments, net
+		167
+		Row 10: Interest expense
+		(224)
+	(186)
+	(154)
+Row 11: Other income (expense), net
+		27
+	(14)
+	(2)
+Row 12: Total other income (expense)
+		67
+	(78)
+	(100)
+Row 13: Income before income taxes
+		9,731
+	7,204
+	6,522
+Row 14: Income tax expense
+		1,613
+	1,345
+	2,607
+Row 15: Net Income
+	$
+	8,118
+	$
+5,859
+	$
+3,915
+Row 16: Basic Earnings per Share
+	$
+	7.98
+	$
+5.63
+	$
+3.67
+Row 17: Basic weighted-average shares outstanding
+		1,017
+	1,041
+	1,067
+Row 18: Diluted Earnings per Share
+	$
+	7.94
+	$
+5.60
+	$
+3.65
+Row 19: Diluted weighted-average shares outstanding
+		1,022
+	1,047
+	1,072
+Row 0: 		(in millions)
+	Row 1: $ 8,118 	$ 	5,859 $ 	3,915
+Row 0: Foreign currency translation adjustments 	10 	(319) 	565
+Row 1: Income tax effect 	13 	40 	2
+Row 2: Foreign currency translation adjustments, net of income tax effect 	23 	(279) 	567
+Row 3: Translation adjustments on net investment hedge 	36 	96 	(236)
+Row 4: Income tax effect 	(8) 	(21) 	83
+Row 5: Translation adjustments on net investment hedge, net of income tax effect 	28 	75 	(153)
+Row 6: Cash flow hedges 	14 	— 	—
+Row 7: Income tax effect 	(3) 	— 	—
+Row 8: Cash flow hedges, net of income tax effect 	11 	— 	—
+Row 9: Defined benefit pension and other postretirement plans 	(22) 	(18) 	15
+Row 10: Income tax effect 	3 	3 	(1)
+Row 11: Defined benefit pension and other postretirement plans, net of income tax effect 	(19) 	(15) 	14
+Row 12: Investment securities available-for-sale 	3 	(3) 	(3)
+Row 13: Income tax effect 	(1) 	1 	2
+Row 14: Investment securities available-for-sale, net of income tax effect 	2 	(2) 	(1)
+Row 15: Other comprehensive income (loss), net of income tax effect 	45 	(221) 	427
+Row 16: Comprehensive Income 	$ 8,163 	$ 5,638 	$ 4,342
+Row 0: 2019
+2018
+Row 1: (in millions, except per share data)
+Row 0: Cash and cash equivalents
+	$
+6,988
+	$
+6,682
+Row 1: Restricted cash for litigation settlement
+	584
+	553
+Row 2: Investments
+	688
+	1,696
+Row 3: Accounts receivable
+	2,514
+	2,276
+Row 4: Settlement due from customers
+	2,995
+	2,452
+Row 5: Restricted security deposits held for customers
+	1,370
+	1,080
+Row 6: Prepaid expenses and other current assets
+	1,763
+	1,432
+Row 7: Total current assets
+	16,902
+	16,171
+Row 8: Property, equipment and right-of-use assets, net
+	1,828
+	921
+Row 9: Deferred income taxes
+	543
+	570
+Row 10: Goodwill
+	4,021
+	2,904
+Row 11: Other intangible assets, net
+	1,417
+	991
+Row 12: Other assets
+	4,525
+	3,303
+Row 13: Total Assets
+	$
+29,236
+	$
+24,860
+Row 0: Settlement due to customers
+	2,714
+	2,189
+Row 1: Restricted security deposits held for customers
+	1,370
+	1,080
+Row 2: Accrued litigation
+	914
+	1,591
+Row 3: Accrued expenses
+	5,489
+	4,747
+Row 4: Current portion of long-term debt
+		500
+Row 5: Other current liabilities
+	928
+	949
+Row 6: Total current liabilities
+	11,904
+	11,593
+Row 7: Long-term debt
+	8,527
+	5,834
+Row 8: Deferred income taxes
+	85
+	67
+Row 9: Other liabilities
+	2,729
+	1,877
+Row 10: Total Liabilities
+	23,245
+	19,371
+Row 11: Commitments and Contingencies
+		Row 12: Redeemable Non-controlling Interests
+	74
+	71
+Row 13: Stockholders' Equity
+		Row 14: Class A common stock, $0.0001 par value; authorized 3,000 shares, 1,391 and 1,387 shares issued and 996 and 1,019
+outstanding, respectively
+		-
+Row 15: Class B common stock, $0.0001 par value; authorized 1,200 shares, 11 and 12 issued and outstanding, respectively
+		Row 16: Additional paid-in-capital
+	4,787
+	4,580
+Row 17: Class A treasury stock, at cost, 395 and 368 shares, respectively
+	(32,205)
+	(25,750Row 18: Retained earnings
+	33,984
+	27,283
+Row 19: Accumulated other comprehensive income (loss)
+	(673)
+	(718Row 20: Mastercard Incorporated Stockholders' Equity
+	5,893
+	5,395
+Row 21: Non-controlling interests
+	24
+	23
+Row 22: Total Equity
+	5,917
+	5,418
+Row 23: Total Liabilities, Redeemable Non-controlling Interests and Equity
+	$
+29,236
+	$
+24,860
+Row 0: Common Stock
+Additional
+	Class A
+Other
+	Incorporated
+Non-Row 1: Paid-In
+	Treasury Retained Comprehensive
+	Stockholders'
+Controlling
+Total
+Row 2: Capital
+Class A
+Class B
+	Stock Earnings Income (Loss)
+	Equity
+Interests
+Equity
+Row 0: 					(in millions, 	except per share data)
+			Row 1: Balance at December 31,
+									Row 2: 2016
+	$
+	$
+	$
+4,183
+	$ (17,021) 	$ 19,418
+	$
+(924)
+	$
+5,656
+	$
+28
+	$
+5,684
+Row 3: Net income
+					3,915
+		3,915
+		3,915
+Row 4: Activity related to non-controlling interests
+						-
+		1
+	1
+Row 5: Redeemable non-controlling interest
+adjustments
+	-
+				(2)
+		(2)
+		(2)
+Row 6: Other comprehensive
+income (loss)
+						427
+	427
+		427
+Row 7: Dividends
+		-
+			(967)
+	-
+	(967)
+		(967)
+Row 8: Purchases of treasury
+stock
+				(3,747)
+	-
+	-
+	(3,747)
+		(3,747)
+Row 9: Share-based payments
+			182
+	4
+			186
+		186
+Row 10: Balance at December 31,
+2017
+	-
+	-
+	4,365
+	(20,764)
+	22,364
+	(497)
+	5,468
+	29
+	5,497
+Row 11: Adoption of revenue
+standard
+	-
+				366
+		366
+	-
+	366
+Row 12: Adoption of intra-entity
+asset transfers standard
+					(183)
+		(183)
+		(183)
+Row 13: Net income
+		-
+			5,859
+		5,859
+	-
+	5,859
+Row 14: Activity related to non-controlling interests
+								(6)
+	(6)
+Row 15: Redeemable non-controlling interest
+adjustments
+	-
+		-
+		(3)
+	-
+	3)
+		(3)
+Row 16: Other comprehensive
+income (loss)
+						(221)
+	(221)
+		(221)
+Row 17: Dividends
+					(1,120)
+		(1,120)
+		(1,120)
+Row 18: Purchases of treasury
+stock
+				(4,991)
+		|
+	(4,991)
+		(4,991)
+Row 19: Share-based payments
+			215
+	5
+			220
+		220
+Row 20: Balance at December 31,
+2018
+		-
+	4,580
+	(25,750)
+	27,283
+	(718)
+	5,395
+	23
+	5,418
+Row 0: 					(in millions, 	except per share data)
+			Row 1: Balance at December 31,
+2018
+			4,580
+	(25,750)
+	27,283
+	(718)
+	5,395
+	23
+	5,418
+Row 2: Net income
+					8,118
+		8,118
+		8,118
+Row 3: Activity related to non-controlling interests
+						-
+		1
+	1
+Row 4: Redeemable non-controlling interest
+adjustments
+			-
+		(9)
+		(9)
+		(9)
+Row 5: Other comprehensive
+income (loss)
+						45
+	45
+		45
+Row 6: Dividends
+		-
+			(1,408)
+		(1,408)
+		(1,408)
+Row 7: Purchases of treasury
+stock
+				(6,463)
+			(6,463)
+		(6,463)
+Row 8: Share-based payments
+			207
+	8
+			215
+		215
+Row 9: Balance at December 31,
+									Row 10: 2019
+	$
+-
+	$
+	$
+4,787
+	$ (32,205)
+	$ 33,984
+	$
+(673)
+	$
+5,893
+	$
+24
+	$
+5,917

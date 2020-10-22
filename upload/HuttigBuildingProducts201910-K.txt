@@ -1,0 +1,136 @@
+Row:2019 	2018 	2017
+Row:(In 	millions, except per share data)
+	Row:$ 812.0 	$ 839.6 	$ 753.2
+Row:650.0 	673.1 	597.4
+Row:162.0 	166.5 	155.8
+Row:165.6 	167.5 	155.7
+Row:— 	(0.1) 	—
+Row:(3.6) 	(0.9) 	0.1
+Row:6.6 	6.5 	3.1
+Row:(10.2) 	(7.4) 	(3.0)
+Row:11.1 	(1.4) 	3.2
+Row:(21.3) 	(6.0) 	(6.2)
+Row:— 	(0.4) 	(0.9)
+Row:$ (21.3) 	$ (6.4) 	$ (7.1)
+Row:	(In millions, except per 	share 	data)
+Row:Net sales 	$ 812.0 $ 	839.6 	$ Row:Cost of sales 	650.0 	673.1 	Row:Gross margin 	162.0 	166.5 	Row:Operating expenses 	165.6 	167.5 	Row:Gain on disposal of capital assets 	— 	(0.1) 	Row:Operating income (loss) 	(3.6) 	(0.9) 	Row:Interest expense, net 	6.6 	6.5 	Row:Loss from continuing operations before income taxes 	(10.2) 	(7.4) 	Row:Provision for (benefit from) income taxes 	11.1 	(1.4) 	Row:Net loss from continuing operations 	(21.3) 	(6.0) 	Row:Net loss from discontinued operations, net of taxes
+of ($0.0), ($0.1) and ($0.6), respectively 	— 	(0.4) 	Row:Net loss 	$ (21.3) $ 	(6.4) 	$ Row:Net loss from continuing operations per share - basic
+			Row:and diluted 	$ (0.84) $ 	(0.24) 	$ Row:Net income loss from discontinued operations per share - basic
+			Row:and diluted 	$ - $ 	(0.02) 	$ Row:Net loss per share - basic and diluted 	$ (0.84) $ 	(0.26) 	$ Row:Weighted average shares outstanding:
+			Row:Basic and diluted shares outstanding 	25.4 	25.1 	Row:See notes to consolidated financial 	statements
+		Row:	(In 	millions)
+	Row:ASSETS
+			Row:Current Assets:
+			Row:Cash and equivalents $ 	2.2 	$ 	0.8
+Row:Trade accounts receivable, net 	60.5 		69.0
+Row:Inventories, net 	139.4 		134.0
+Row:Other current assets 	12.8 		14.7
+Row:Total current assets 	214.9 		218.5
+Row:Property, Plant and Equipment:
+			Row:Land 	5.0 		5.0
+Row:Building and improvements 	32.4 		32.3
+Row:Machinery and equipment 	58.2 		56.0
+Row:Gross property, plant and equipment Less accumulated depreciation 	95.6 64.4 		93.3
+60.0
+Row:Property, plant and equipment, net 	31.2 		33.3
+Row:Other Assets:
+			Row:Operating lease right-of-use assets 	40.9 		-
+Row:Goodwill 	9.5 		9.5
+Row:Deferred income taxes 	- 		11.1
+Row:Other 	5.0 		5.6
+Row:Total other assets 	55.4 		26.2
+Row:Total Assets $ 	301.5 	$ 	278.0
+Row:See notes to consolidated financial statements
+			Row:LIABILITIES AND SHAREHOLDERS’ EQUITY
+			Row:Current Liabilities:
+			Row:Current maturities of long-term debt 	$ 1.7 	$ 	1.8
+Row:Current maturities of operating lease right-of-use liabilities 	9.7 		—
+Row:Trade accounts payable 	56.8 		51.5
+Row:Accrued compensation 	5.5 		5.0
+Row:Other accrued liabilities 	15.8 		18.0
+Row:Total current liabilities 	89.5 		76.3
+Row:Non-current Liabilities:
+			Row:Long-term debt, less current maturities 	135.1 		137.1
+Row:Operating lease right-of-use liabilities 	31.6 		-
+Row:Other non-current liabilities 	2.4 		2.6
+Row:Total non-current liabilities 	169.1 		139.7
+Row:Shareholders’ Equity:
+			Row:Preferred shares; $.01 par (5,000,000 shares authorized) Common shares; $.01 par (75,000,000 shares authorized:
+	— 		—
+Row:26,441,926 shares issued and outstanding at December 31, 2019
+			Row:and 25,993,441 at December 31, 2018) 	0.3 		0.3
+Row:Additional paid-in capital 	48.2 		46.0
+Row:Retained earnings (accumulated deficit) 	(5.6) 		15.7
+Row:Total shareholders’ equity 	42.9 		62.0
+Row:Total Liabilities and Shareholders’ Equity 	$ 301.5 	$ 	278.0
+Row:0.3 	0.3
+Row:48.2 	46.0
+Row:(5.6) 	15.7
+Row:42.9 	62.0
+Row:$ 301.5 $ 	278.0
+Row:	and 25,993,441 at December 31, 2018) 	0.3 	0.3
+Row:	Additional paid-in capital 	48.2 	46.0
+Row:	Retained earnings (accumulated deficit) 	(5.6) 	15.7
+Row:	Total shareholders’ equity 	42.9 	62.0
+Row:Total 	Liabilities and Shareholders’ Equity 	$ 301.5 $ 	278.0
+Row:	Outstanding, at Par Value 	Paid-In Capital 	(Accumulated Deficit) 	Shareholders’
+Equity
+Row:		(In 	millions)
+	Row:Balance at January 1, 2017 	$ 0.3 	$ 42.8 	$ 27.4 	$ 70.5
+Row:Net loss 	— 	— 	(7.1) 	(7.1)
+Row:Payment for taxes related to share
+settlement of equity awards 	— 	(0.9) 	— 	(0.9)
+Row:Deferred tax adjustment for adoption of
+ASU 2016-09 	— 	— 	1.8 	1.8
+Row:Stock compensation expense 	— 	2.2 	— 	2.2
+Row:Balance at December 31, 2017 	0.3 	44.1 	22.1 	66.5
+Row:Net loss 	— 	— 	(6.4) 	(6.4)
+Row:Payment for taxes related to share
+settlement of equity awards 	— 	(0.4) 	— 	(0.4)
+Row:Stock compensation expense 	— 	2.3 	— 	2.3
+Row:Balance at December 31, 2018 	0.3 	46.0 	15.7 	62.0
+Row:Net loss 	— 	— 	(21.3) 	(21.3)
+Row:Payment for taxes related to share
+settlement of equity awards 	— 	(0.1) 	— 	(0.1)
+Row:Stock compensation expense 	— 	2.3 	— 	2.3
+Row:Balance at December 31, 2019 	$ 0.3 	$ 48.2 	$ (5.6) 	$ 42.9
+Row:	2019 	2018 (In millions)
+	2017
+Row:Cash Flows From Operating Activities:
+			Row:Net loss $ 	(21.3) 	$ (6.4) 	$ (7.1)
+Row:Adjustments to reconcile net loss to cash provided by
+(used in) operations:
+			Row:Net loss from discontinued operations, net of
+			Row:taxes 	- 	0.4 	0.9
+Row:Depreciation and amortization 	5.7 	5.4 	4.9
+Row:Non-cash interest expense 	0.2 	0.2 	0.3
+Row:Stock compensation expense 	2.3 	2.3 	2.2
+Row:Deferred taxes 	11.1 	(1.3) 	2.4
+Row:Gain on disposal of capital assets 	— 	(0.1) 	—
+Row:Changes in operating assets and liabilities:
+			Row:Trade accounts receivable 	8.5 	(2.2) 	(7.5)
+Row:Inventories 	(5.4) 	(22.1) 	(30.9)
+Row:Trade accounts payable 	5.3 	0.5 	3.8
+Row:Other 	0.2 	(3.1) 	(2.5)
+Row:Cash provided (used in) by continuing operating activities 	6.6 	(26.4) 	(33.5)
+Row:Cash used in discontinued operating activities 	(0.4) 	(0.6) 	(4.6)
+Row:Total cash provided by (used in) operating activities 	6.2 	(27.0) 	(38.1)
+Row:Cash Flows From Investing Activities:
+			Row:Capital expenditures 	(1.7) 	(7.8) 	(6.1)
+Row:Proceeds from disposition of capital assets 	— 	1.2 	—
+Row:Cash used in investing activities 	(1.7) 	(6.6) 	(6.1)
+Row:Cash Flows From Financing Activities:
+			Row:Payments of revolving credit debt agreement 	(277.5) 	(255.3) 	(146.7)
+Row:Borrowings of revolving credit debt agreement 	276.5 	288.5 	193.5
+Row:Net borrowing (repayment) of other obligations 	(2.0) 	1.3 	(1.7)
+Row:Payment for taxes related to share settlement of equity awards 	(0.1) 	(0.4) 	(0.9)
+Row:Cash provided by (used in) financing activities 	(3.1) 	34.1 	44.2
+Row:Net increase in cash and equivalents 	1.4 	0.5 	—
+Row:Cash and equivalents, beginning of year 	0.8 	0.3 	0.3
+Row:Cash and equivalents, end of year $ 	2.2 	$ 0.8 	$ 0.3
+Row:Supplemental Disclosure of Cash Flow Information:
+			Row:Interest paid $ 	6.5 	$ 6.3 	$ 2.7
+Row:Income taxes paid 	0.3 	0.2 	0.5
+Row:Non-cash financing activities:
+			Row:Assets acquired with debt obligations 	0.9 	1.3 	2.2
+Row:Debt issuance costs financed 	— 	— 	0.3

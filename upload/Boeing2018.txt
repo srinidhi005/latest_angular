@@ -1,0 +1,93 @@
+Row:Years ended December 31, 	2018 	2017 	2016
+Row:Sales of products Sales of services 	$90,229 10,898 	$83,740 10,265 	$83,198
+10,298
+Row:Total revenues 	101,127 	94,005 	93,496
+Row:Cost of products 	(72,922) 	(68,879) 	(71,013)
+Row:Cost of services 	(8,499) 	(7,663) 	(7,954)
+Row:Boeing Capital interest expense 	(69) 	(70) 	(59)
+Row:Total costs and expenses 	(81,490) 	(76,612) 	(79,026)
+Row:	19,637 	17,393 	14,470
+Row:Income from operating investments, net 	111 	204 	303
+Row:General and administrative expense 	(4,567) 	(4,095) 	(3,613)
+Row:Research and development expense, net 	(3,269) 	(3,179) 	(4,626)
+Row:Gain/(loss) on dispositions, net 	75 	21 	(7)
+Row:Earnings from operations 	11,987 	10,344 	6,527
+Row:Other income/(loss), net 	92 	123 	(438)
+Row:Interest and debt expense 	(475) 	(360) 	(306)
+Row:Earnings before income taxes 	11,604 	10,107 	5,783
+Row:Income tax expense 	(1,144) 	(1,649) 	(749)
+Row:Net earnings 	$10,460 	$8,458 	$5,034
+Row:Basic earnings per share 	$18.05 	$14.03 	$7.92
+Row:Diluted earnings per share 	$17.85 	$13.85 	$7.83
+Row:(Dollars in millions, except per share data)
+December 31, 	2018 2017
+Row:Assets
+Cash and cash equivalents 	$7,637 $8,813
+Row:Short-term and other investments 	927 1,179
+Row:Accounts receivable, net 	3,879 2,894
+Row:Unbilled receivables, net 	10,025 8,194
+Row:Current portion of customer financing, net 	460 309
+Row:Inventories 	62,567 61,388
+Row:Other current assets 	2,335 2,417
+Row:Total current assets Customer financing, net Property, plant and equipment, net 	87,830 85,194
+2,418 2,756
+12,645 12,672
+Row:Goodwill Acquired intangible assets, net 	7,840 5,559
+3,429 2,573
+Row:Deferred income taxes Investments Other assets, net of accumulated amortization of $503 and $482 	284 321
+1,087 1,260
+1,826 2,027
+Row:Total assets 	$117,359 $112,362
+Row:Liabilities and equity
+Accounts payable 	$12,916 $12,202
+Row:Accrued liabilities 	14,808 13,069
+Row:Advances and progress billings Short-term debt and current portion of long-term debt 	50,676 48,042
+3,190 1,335
+Row:Total current liabilities Deferred income taxes 	81,590 74,648
+1,736 2,188
+Row:Accrued retiree health care 	4,584 5,545
+Row:Accrued pension plan liability, net 	15,323 16,471
+Row:Other long-term liabilities 	3,059 2,015
+Row:Long-term debt 	10,657 9,782
+Row:Shareholders’ equity:
+	Row:Common stock, par value $5.00 – 1,200,000,000 shares authorized;
+1,012,261,159 shares issued Additional paid-in capital 	5,061 5,061
+6,768 6,804
+Row:Treasury stock, at cost 	(52,348) (43,454)
+Row:Retained earnings Accumulated other comprehensive loss 	55,941 49,618
+(15,083) (16,373)
+Row:Total shareholders’ equity Noncontrolling interests 	339 1,656
+71 57
+Row:Total equity 	410 1,713
+Row:Total liabilities and equity 	$117,359 $112,362
+Row:See Notes to the Consolidated Financial Statements on pages 54 – 113.
+	Row:Cash flows – operating activities:
+Net earnings 	$10,460 	$8,458 	$5,034
+Row:Adjustments to reconcile net earnings to net cash provided by operating activities:
+			Row:Non-cash items –
+			Row:Share-based plans expense 	202 	202 	190
+Row:Depreciation and amortization 	2,114 	2,047 	1,889
+Row:Investment/asset impairment charges, net 	93 	113 	90
+Row:Customer financing valuation (benefit)/expense 	(3) 	2 	(7)
+Row:(Gain)/loss on dispositions, net 	(75) 	(21) 	7
+Row:Other charges and credits, net 	247 	293 	371
+Row:Changes in assets and liabilities –
+Accounts receivable 	(795) 	(840) 	326
+Row:Unbilled receivables 	(1,826) 	(1,600) 	792
+Row:Advances and progress billings 	2,636 	4,700 	(1,362)
+Row:Inventories 	568 	(1,403) 	4,004
+Row:Other current assets 	98 	(19) 	(200)
+Row:Accounts payable 	2 	130 	622
+Row:Accrued liabilities 	1,117 	335 	312
+Row:Income taxes receivable, payable and deferred 	(180) 	656 	(734)
+Row:Other long-term liabilities 	87 	94 	(68)
+Row:Pension and other postretirement plans 	(153) 	(582) 	153
+Row:Customer financing, net 	120 	1,041 	(662)
+Row:Other 	610 	(260) 	(261)
+Row:Net cash provided by operating activities 	15,322 	13,346 	10,496
+Row:Cash flows – investing activities:
+			Row:Property, plant and equipment additions Property, plant and equipment reductions 	(1,722) 120 	(1,739) 92 	(2,613)
+38
+Row:Acquisitions, net of cash acquired 	(3,230) 	(324) 	(297)
+Row:Contributions to investments 	(2,607) 	(3,569) 	(1,719)
+Row:Proceeds from investments 	2,898 	3,607 	1,206

@@ -1,0 +1,97 @@
+Row:Costs and expenses/(income):
+			Row:Cost of goods sold (exclusive of depreciation and amortization shown
+			Row:separately below) Selling, general and administrative (SG&A) 	8,174 3,468 	8,071 3,538 	8,074
+3,775
+Row:Pension 	21 	19 	162
+Row:Depreciation and amortization 	570 	609 	616
+Row:Real estate and other, net 	(146) 	(111) 	3
+Row:Restructuring and management transition 	303 	26 	84
+Row:Total costs and expenses 	12,390 	12,152 	12,714
+Row:Operating income/(loss) 	116 	395 	(89)
+Row:Loss on extinguishment of debt 	33 	30 	10
+Row:Net interest expense 	325 	363 	405
+Row:Income/(loss) before income taxes 	(242) 	2 	(504)
+Row:Income tax expense/(benefit) 	(126) 	1 	9
+Row:Net income/(loss) 	$ (116) 	$ 1 	$ (513)
+Row:Earnings/(loss) per share:
+			Row:Basic 	$ (0.37) 	$ — 	$ (1.68)
+Row:Diluted 	(0.37) 	— 	(1.68)
+Row:Weighted average shares – basic 	311.1 	308.1 	305.9
+Row:Weighted average shares – diluted 	311.1 	313.0 	305.9
+Row:(In millions, except per share data) 	2017 	2016
+Row:Assets
+		Row:Current assets:
+		Row:Cash in banks and in transit $ 	116 	$ 125
+Row:Cash short-term investments 	342 	762
+Row:Cash and cash equivalents 	458 	887
+Row:Merchandise inventory 	2,762 	2,854
+Row:Prepaid expenses and other 	190 	160
+Row:Total current assets 	3,410 	3,901
+Row:Property and equipment 	4,281 	4,599
+Row:Prepaid pension 	61 	—
+Row:Other assets 	661 	618
+Row:Total Assets $ 	8,413 	$ 9,118
+Row:Liabilities and Stockholders’ Equity
+		Row:Current liabilities:
+Merchandise accounts payable $ 	973 	$ 977
+Row:Other accounts payable and accrued expenses 	1,119 	1,164
+Row:Current portion of capital leases, financing obligation and note payable 	8 	15
+Row:Current maturities of long-term debt 	232 	263
+Row:Total current liabilities 	2,332 	2,419
+Row:Long-term capital leases, financing obligation and note payable 	212 	219
+Row:Long-term debt 	3,780 	4,339
+Row:Deferred taxes 	143 	204
+Row:Other liabilities 	567 	583
+Row:Total Liabilities 	7,034 	7,764
+Row:Stockholders' Equity
+		Row:Common stock (1) 	156 	154
+Row:Additional paid-in capital 	4,705 	4,679
+Row:Reinvested earnings/(accumulated deficit) 	(3,122) 	(3,006)
+Row:Accumulated other comprehensive income/(loss) 	(360) 	(473)
+Row:Total Stockholders’ Equity 	1,379 	1,354
+Row:Total Liabilities and Stockholders’ Equity $ 	8,413 	$ 9,118
+Row:Cash flows from operating activities
+Net income/(loss) 	$ (116) 	$ 1 	$ (513)
+Row:Adjustments to reconcile net income/(loss) to net cash provided by/(used in)
+operating activities:
+Restructuring and management transition 	74 	(1) 	10
+Row:Asset impairments and other charges 	6 	3 	25
+Row:Net gain on sale of non-operating assets Net gain on sale of operating assets Loss on extinguishment of debt Depreciation and amortization 	— (119) 33 570 	(5) (73) 30 609 	(9)
+(9)
+10
+616
+Row:Benefit plans 	106 	(39) 	127
+Row:Stock-based compensation 	25 	35 	44
+Row:Other comprehensive income tax benefits 	(60) 	(12) 	—
+Row:Deferred taxes 	(63) 	9 	—
+Row:Change in cash from:
+			Row:Inventory 	92 	(133) 	(69)
+Row:Prepaid expenses and other assets 	(15) 	11 	19
+Row:Merchandise accounts payable 	(4) 	52 	(72)
+Row:Income taxes 	(12) 	(6) 	4
+Row:Accrued expenses and other 	(63) 	(147) 	257
+Row:Net cash provided by/(used in) operating activities 	454 	334 	440
+Row:Cash flows from investing activities
+			Row:Capital expenditures 	(395) 	(427) 	(320)
+Row:Proceeds from sale of non-operating assets 	— 	2 	13
+Row:Proceeds from sale of operating assets 	154 	96 	11
+Row:Joint venture return of investment 	9 	13 	—
+Row:Insurance proceeds received for damage to property and equipment Net cash provided by/(used in) investing activities 	3 (229) 	— (316) 	—
+(296)
+Row:Cash flows from financing activities
+			Row:Proceeds from issuance of long-term debt 	— 	2,188 	—
+Row:Proceeds from borrowings under the credit facility 	804 	667 	—
+Row:Payments of borrowings under the credit facility Net proceeds from financing obligation 	(804) — 	(667) 216 	—
+—
+Row:Premium on early retirement of debt 	(30) 	— 	—
+Row:Payments of capital leases, financing obligation and note payable 	(16) 	(29) 	(33)
+Row:Payments of long-term debt 	(599) 	(2,349) 	(520)
+Row:Financing costs 	(9) 	(49) 	(4)
+Row:Proceeds from stock issued under stock plans Tax withholding payments for vested restricted stock Net cash provided by/(used in) financing activities 	5 (5) (654) 	2 (10) (31) 	—
+(5)
+(562)
+Row:Net increase/(decrease) in cash and cash equivalents 	(429) 	(13) 	(418)
+Row:Cash and cash equivalents at beginning of period 	887 	900 	1,318
+Row:Cash and cash equivalents at end of period 	$ 458 	$ 887 	$ 900
+Row:See the accompanying notes to the Consolidated Financial Statements.
+			

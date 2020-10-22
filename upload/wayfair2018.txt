@@ -1,0 +1,94 @@
+Row:Current assets
+		Row:Cash and cash equivalents $ 	849,461 	$ 558,960
+Row:Short-term investments 	114,278 	61,032
+Row:Accounts receivable, net of allowance of $9,312 and $7,000 at December 31, 2018 and
+December 31, 2017, respectively 	50,603 	37,948
+Row:Inventories 	46,164 	28,042
+Row:Prepaid expenses and other current assets 	195,430 	130,838
+Row:Total current assets 	1,255,936 	816,820
+Row:Property and equipment, net 	606,977 	361,141
+Row:Goodwill and intangible assets, net 	2,585 	3,105
+Row:Long-term investments 	6,526 	21,561
+Row:Other noncurrent assets 	18,826 	10,776
+Row:Total assets $ 	1,890,850 	$ 1,213,403
+Row:Liabilities and Stockholders' Deficit
+		Row:Current liabilities
+		Row:Accounts payable $ 	650,174 	$ 440,366
+Row:Accrued expenses 	212,997 	120,247
+Row:Deferred revenue 	148,057 	94,116
+Row:Other current liabilities 	127,995 	85,026
+Row:Total current liabilities 	1,139,223 	739,755
+Row:Lease financing obligations, net of current portion 	183,056 	82,580
+Row:Long-term debt 	738,904 	332,905
+Row:Class A common stock, par value $0.001 per share, 500,000,000 shares authorized,
+62,329,701 and 57,398,983 shares issued and outstanding at December 31, 2018 and
+December 31, 2017, respectively 	63 	57
+Row:Class B common stock, par value $0.001 per share, 164,000,000 shares authorized,
+28,417,882 and 30,809,627 shares issued and outstanding at December 31, 2018 and
+December 31, 2017, respectively 	28 	31
+Row:Additional paid-in capital 	753,657 	537,212
+Row:Accumulated deficit 	(1,082,689) 	(583,266)
+Row:Accumulated other comprehensive loss 	(1,780) 	(2,363)
+Row:Total stockholders' deficit 	(330,721) 	(48,329)
+Row:Total liabilities and stockholders' deficit $ 	1,890,850 	$ 1,213,403
+Row:	2018 	2017 	2016
+Row:Net revenue 	$ 6,779,174 	$ 4,720,895 	$ 3,380,360
+Row:Cost of goods sold 	5,192,451 	3,602,072 	2,572,549
+Row:Gross profit 	1,586,723 	1,118,823 	807,811
+Row:Operating expenses:
+			Row:Customer service and merchant fees 	260,046 	169,516 	127,883
+Row:Advertising 	774,189 	549,959 	409,125
+Row:Selling, operations, technology, general and administrative 	1,025,767 	634,801 	467,020
+Row:Total operating expenses 	2,060,002 	1,354,276 	1,004,028
+Row:Loss from operations 	(473,279) 	(235,453) 	(196,217)
+Row:Interest (expense) income, net 	(28,560) 	(9,433) 	694
+Row:Other (expense) income, net 	(204) 	758 	1,756
+Row:Loss before income taxes 	(502,043) 	(244,128) 	(193,767)
+Row:Provision for income taxes 	2,037 	486 	608
+Row:Net loss 	$ (504,080) 	$ (244,614) 	$ (194,375)
+Row:Net loss per share, basic and diluted 	$ (5.63) 	$ (2.81) 	$ (2.29)
+Row:Weighted average number of common stock outstanding used in
+computing per share amounts, basic and diluted 	89,472 	86,983 	84,977
+Row:	2018 	2017 	2016
+Row:Cash flows from operating activities
+			Row:Net loss $ 	(504,080) 	$ (244,614) 	$ (194,375)
+Row:Adjustments to reconcile net loss to net cash used in operating activities
+			Row:Depreciation and amortization 	123,542 	87,020 	55,572
+Row:Equity based compensation 	127,564 	67,840 	49,402
+Row:Amortization of discount and issuance costs on convertible notes 	22,585 	5,830 	—
+Row:Other non-cash adjustments 	(56) 	1,198 	331
+Row:Changes in operating assets and liabilities:
+			Row:Accounts receivable 	(12,792) 	(18,172) 	(9,217)
+Row:Inventories 	(18,319) 	(9,454) 	1,351
+Row:Prepaid expenses and other current assets 	(65,195) 	(39,124) 	(16,179)
+Row:Accounts payable and accrued expenses 	285,064 	104,184 	126,013
+Row:Deferred revenue and other liabilities 	134,705 	81,354 	51,914
+Row:Other assets 	(8,157) 	(2,428) 	(1,998)
+Row:Net cash provided by operating activities 	84,861 	33,634 	62,814
+Row:Cash flows from investing activities
+			Row:Purchase of short-term and long-term investments 	(99,002) 	(54,551) 	(88,112)
+Row:Sale and maturities of short-term investments 	61,068 	71,095 	119,810
+Row:Purchase of property and equipment 	(159,205) 	(100,451) 	(96,707)
+Row:Site and software development costs 	(62,750) 	(46,428) 	(31,379)
+Row:Cash flows from investing activities
+		Row:Purchase of short-term and long-term investments 	(99,002) (54,551) 	(88,112)
+Row:Sale and maturities of short-term investments 	61,068 71,095 	119,810
+Row:Purchase of property and equipment 	(159,205) (100,451) 	(96,707)
+Row:Site and software development costs 	(62,750) (46,428) 	(31,379)
+Row:Cash received from the sale of a business, net of cash sold 	— — 	1,508
+Row:Other investing activities, net 	(398) — 	(1,000)
+Row:Net cash used in investing activities 	(260,287) (130,335) 	(95,880)
+Row:Proceeds from issuance of convertible notes, net of issuance costs 	562,047 	420,449 	—
+Row:Premiums paid for capped call confirmations 	(93,438) 	(44,160) 	—
+Row:Taxes paid related to net share settlement of equity awards 	(1,284) 	(1,562) 	(21,092)
+Row:Net proceeds from exercise of stock options 	138 	244 	209
+Row:Net cash provided by (used in) financing activities 	467,463 	374,971 	(20,883)
+Row:Effect of exchange rate changes on cash and cash equivalents 	(1,536) 	850 	(387)
+Row:Net increase (decrease) in cash and cash equivalents 	290,501 	279,120 	(54,336)
+Row:End of year $ 	849,461 	$ 558,960 	$ 279,840
+Row:Supplemental Cash Flow Information
+			Row:Cash paid for interest on long-term debt $ 	1,554 	$ — 	$ —
+Row:Cash paid for interest on finance lease obligations $ 	9,058 	$ — 	$ —
+Row:Purchase of property and equipment included in accounts payable and accrued expenses and in
+other liabilities $ 	15,383 	$ 8,533 	$ 1,336
+Row:Construction costs capitalized under finance lease obligations and other leases $ 	125,796 	$ 47,276 	$ 53,894

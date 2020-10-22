@@ -1,0 +1,736 @@
+Row	, 2019
+	, 2018
+RowASSETS
+		RowCurrent assets:
+		RowCash and cash equivalents 	$ 34,917 	$ 58,909
+RowAccounts receivable, net 	149,109 	146,983
+RowInventories, net 	658,419 	756,038
+RowPrepaid expenses and other current assets 	51,685 	61,905
+RowTotal current assets 	894,130 	1,023,835
+RowProperty, plant and equipment, net 	243,572 	321,044
+RowOperating lease asset 	802,634 	—
+RowGoodwill 	1,072,330 	1,656,950
+RowTrade names 	530,320 	568,031
+RowOther intangible assets, net 	45,060 	60,164
+RowOther assets, net 	7,273 	12,323
+RowTotal assets 	$ 3,595,319 	$ 3,642,347
+RowLIABILITIES, REDEEMABLE SECURITIES AND STOCKHOLDERS’ EQUITY
+	RowCurrent liabilities:
+	RowLoans and notes payable 	$ 128,806 $ 302,751
+RowAccounts payable 	152,300 208,149
+RowAccrued expenses 	150,921 161,228
+RowCurrent portion of operating lease liability 	155,471 —
+RowIncome taxes payable 	35,905 25,993
+RowCurrent portion of long-term obligations 	71,524 13,316
+RowTotal current liabilities 	694,927 711,437
+RowLong-term obligations, excluding current portion 	1,503,987 1,621,963
+RowLong-term portion of operating lease liability 	720,735 —
+RowDeferred income tax liabilities 	126,081 174,427
+RowOther long-term liabilities 	16,517 87,548
+RowTotal liabilities 	3,062,247 2,595,375
+RowRedeemable securities 	3,351 3,351
+RowCommitments and contingencies
+	RowStockholders’ equity:
+Common stock (94,461,576 and 93,622,934 shares outstanding and 121,662,540 and 120,788,159
+shares issued at December 31 , 2019 and December 31 , 2018 , respectively) 	1,211 1,208
+RowAdditional paid-in capital 	928,573 922,476
+RowRetained (deficit) earnings 	(37,219) 495,777
+RowAccumulated other comprehensive loss 	(35,734) (49,201)
+RowTotal Party City Holdco Inc. stockholders’ equity before common stock held in treasury 	856,831 1,370,260
+RowLess: Common stock held in treasury, at cost (27,200,964 shares and 27,165,225 shares at
+	RowDecember 31 , 2019 and December 31 , 2018 , respectively) 	(327,086) (326,930)
+RowTotal Party City Holdco Inc. stockholders’ equity 	529,745 1,043,330
+RowNoncontrolling interests 	(24) 291
+RowTotal stockholders’ equity 	529,721 1,043,621
+RowTotal liabilities, redeemable securities and stockholders’ equity 	$ 3,595,319 $ 3,642,347
+RowFiscal 	Year Ended December 	31,
+Row2019 	2018 	2017
+Row2,339,510 	$ 2,416,442 $ 	2,357,986
+Row9,279 	11,073 	13,583
+Row2,348,789 	2,427,515 	2,371,569
+Row1,500,633 	1,435,358 	1,395,279
+Row67,103 	71,502 	65,356
+Row440,395 	425,996 	415,167
+Row13,152 	13,214 	14,957
+Row177,672 	172,764 	168,369
+Row23,203 	23,388 	23,331
+Row10,736 	7,008 	8,974
+Row(58,381) 	— 	—
+Row	2019 	2018 	2017
+RowRevenues:
+			RowNet sales 	$ 2,339,510 $ 	2,416,442 $ 	2,357,986
+RowRoyalties and franchise fees 	9,279 	11,073 	13,583
+RowTotal revenues 	2,348,789 	2,427,515 	2,371,569
+RowExpenses:
+			RowCost of sales 	1,500,633 	1,435,358 	1,395,279
+RowWholesale selling expenses 	67,103 	71,502 	65,356
+RowRetail operating expenses 	440,395 	425,996 	415,167
+RowFranchise expenses 	13,152 	13,214 	14,957
+RowGeneral and administrative expenses 	177,672 	172,764 	168,369
+RowArt and development costs 	23,203 	23,388 	23,331
+RowDevelopment stage expenses 	10,736 	7,008 	8,974
+RowGain on sale/leaseback transaction 	(58,381) 	— 	—
+RowStore impairment and restructuring charges 	29,038 	— 	—
+RowGoodwill and intangibles impairment 	562,631 	— 	—
+RowTotal expenses 	2,766,182 	2,149,230 	2,091,433
+Row(Loss) income from operations 	(417,393) 	278,285 	280,136
+RowInterest expense, net 	114,899 	105,706 	87,366
+RowOther expense, net 	1,871 	10,982 	4,626
+Row(Loss) income before income taxes 	(534,163) 	161,597 	188,144
+RowIncome tax expense (benefit) 	(1,305) 	38,778 	(27,196)
+RowNet (loss) income 	(532,858) 	122,819 	215,340
+RowAdd: Net income attributable to redeemable securities holder 	— 	409 	—
+RowLess: Net loss attributable to noncontrolling interests 	(363) 	(31) 	—
+RowNet (loss) income attributable to common shareholders of Party City Holdco Inc 	$ (532,495) $ 	123,259 $ 	215,340
+RowNet (loss) income per share attributable to common shareholders of Party City Holdco Inc.—Basic 	$ (5.71) $ 	1.28 $ 	1.81
+RowNet (loss) income per share attributable to common shareholders of Party City Holdco Inc.—
+Diluted 	$ (5.71) $ 	1.27 $ 	1.79
+RowWeighted-average number of common shares—Basic 	93,295,692 	96,133,144 	118,589,421
+RowWeighted-average number of common shares—Diluted 	93,295,692 	97,271,050 	119,894,021
+RowOther comprehensive (loss) income, net of tax:
+			RowForeign currency adjustments 	$ 12,599 $ 	(14,479) $ 	17,561
+RowCash flow hedges 	845 	1,063 	(1,140)
+RowOther comprehensive income (loss), net 	13,444 	(13,416) 	16,421
+RowComprehensive ( loss ) income 	(519,414) 	109,403 	231,761
+RowAdd: Comprehensive income attributable to redeemable securities holder 	— 	409 	—
+RowLess: Comprehensive loss attributable to noncontrolling interests 	(386) 	(64) 	—
+RowComprehensive (loss) income attributable to common shareholders of Party City Holdco
+Inc. 	$ (519,028) $ 	109,876 $ 	231,761
+RowSee accompanying notes to consolidated financial 	statements.
+		Row2,149,230 	2,091,433
+Row278,285 	280,136
+Row105,706 	87,366
+Row10,982 	4,626
+Row161,597 	188,144
+Row38,778 	(27,196)
+Row122,819 	215,340
+Row409 	—
+RowBalance at December 31, 2016
+	Additional Common Paid-in Stock Capital $ 1,195 $910,167 	Retained
+Earnings
+(Deficit)
+$ 157,666
+	Accumulated
+Other
+Comprehensive Loss
+(52,239) $
+	Stockholders'
+Equity
+Before
+Common
+Stock Held In
+Treasury
+$ 1,016,789
+	Common
+Stock
+Held In
+Treasury
+	Total Party
+City Holdco
+Inc.
+Non-Stockholders' Controlling
+Equity Interests
+$ 1,016,789 $
+	Total
+Stockholders'
+Equity
+$ 1,016,789
+RowNet income
+		215,340
+		215,340
+		215,340
+	215,340
+RowStock option expense
+	5,309
+			5,309
+		5,309
+	5,309
+RowWarrant
+	421
+			421
+		421
+	421
+RowAdjustment to redeemable securities
+		(410)
+		(410	)
+	(410)
+	(410RowExercise of stock options
+	1,295
+زرا
+			1,298
+		1,298
+	1,298
+RowForeign currency adjustments
+			17,561
+	17,561
+		17,561
+	17,561
+RowTreasury stock purchases
+					(286,733)
+	(286,733)
+	(286,733RowAcquired noncontrolling interest
+						355
+	355
+RowImpact of foreign exchange contracts
+			(1,140) 	(1,140	)
+	(1,140)
+	(1,140RowBalance at December 31, 2017
+	$ 1,198 $917,192 	$ 372,596 	$
+(35,818) 	$ 1,255,168 	$(286,733)
+	$ 968,435 $ 355
+	$ 968,790
+RowCumulative effect of change in accounting principle, net
+(see Note 2)
+		(78)
+		(78	)
+	(78)
+	(78RowBalance at December 31, 2017, adjusted
+	$ 1,198 $917,192 	$ 372,518
+	$
+(35,818) 	$ 1,255,090 	$(286,733) 	$
+968,357 $
+355
+	$
+968,712
+RowNet income
+		122,850
+		122,850
+		122,850
+(31)
+	122,819
+RowNet income attributable to redeemable securities
+holder
+		409
+		409
+		409
+	409
+RowStock option expense
+	1,744
+			1,744
+		1,744
+	1,744
+RowRestricted stock units-time-based
+	6
+1,168
+			1,174
+		1,174
+	1,174
+RowDirectors—non-cash compensation
+	196
+			196
+		196
+	196
+RowWarrant
+	(89)
+			(89	)
+	(89)
+	(89RowExercise of stock options
+	2,265
+4
+			2,269
+		2,269
+	2,269
+RowForeign currency adjustments
+			(14,446) 	(14,446	)
+	(14,446)
+(33)
+	(14,479RowTreasury stock purchases
+					(40,197) 	(40,197)
+	(40,197RowImpact of foreign exchange contracts
+			1,063
+	1,063
+		1,063
+	1,063
+RowBalance at December 31, 2018
+	$ 1,208
+$922,476 	$ 495,777
+	(49,201) 	$ 1,370,260 	$(326,930) 	$ 1,043,330 $
+291
+	$ 1,043,621
+RowCumulative effect of change in accounting principle, net
+(see Note 2)
+	662
+	(503)
+		159
+		159
+	159
+RowBalance at December 31, 2018, adjusted
+	$ 1,208 $923,138 	$ 495,274 	$
+(49,201) 	$ 1,370,419 	$(326,930) 	291
+$ 1,043,489 $
+	$ 1,043,780
+RowNet income (loss)
+		(532,495)
+		(532,495	)
+	(363)
+(532,495)
+	(532,858RowStock option expense
+	1,319
+			1,319
+		1,319
+	1,319
+RowRestricted stock units—time-based
+	2,033
+			2,033
+		2,033
+	2,033
+RowDirectors non-cash compensation
+	313
+			313
+		313
+	313
+RowWarrant
+	515
+			515
+		515
+	515
+RowExercise of stock options
+	1,145
+زرا
+			1,148
+		1,148
+	1,148
+RowAcquired non-controlling interest
+	110
+			110
+		110
+71
+	181
+RowForeign currency adjustments (see Note 23)
+			12,622 	12,622
+		12,622
+(23)
+	12,599
+RowTreasury stock purchases
+					(156)
+	(156)
+	(156RowImpact of foreign exchange contracts
+		2
+	845
+	847
+		847
+	847
+RowBalance at December 31, 2019
+	$ 1,211 $928,573 	$ (37,219
+	$
+(35,734) 	$
+856,831 	$(327,086) 	$
+529,745 $
+(24)
+	$
+529,721
+Row		see
+Note 2)
+	see
+Note 2)
+RowCash flows provided by operating activities:
+			RowNet ( loss) income 	$(532,858) $ 	122,819 	$ 215,340
+RowAdjustments to reconcile net (loss) income to net cash provided by operating activities:
+			RowDepreciation and amortization expense 	81,116 	78,575 	85,168
+RowAmortization of deferred financing costs and original issuance discounts 	4,722 	10,989 	4,937
+RowProvision for doubtful accounts 	2,323 	1,213 	560
+RowDeferred income tax (benefit) expense 	(47,366) 	4,573 	(102,651)
+RowDeferred rent 	— 	5,351 	7,287
+RowUndistributed income in equity method investments 	(472) 	(369) 	(194)
+RowChange in operating lease liability/asset 	(9,942) 	— 	—
+Row(Gain) loss on disposal of assets 	(59,786) 	3 	475
+RowNon-cash adjustment for s tore impairment and restructuring 	20,236 	— 	—
+RowGoodwill and intangibles impairment 	562,631 	— 	—
+RowNon-employee equity based compensation 	515 	81 	3,033
+RowStock option expense 	1,319 	1,744 	5,309
+RowRestricted stock units expense—time-based 	2,033 	1,174 	—
+RowDirectors—non-cash compensation 	313 	196 	—
+RowChanges in operating assets and liabilities, net of effects of acquired businesses:
+			Row(Increase) decrease in accounts receivable 	(2,600) 	(10,431) 	1,153
+RowDecrease (increase) in inventories 	72,385 	(142,866) 	37,175
+RowDecrease (increase) in prepaid expenses and other current assets 	14,741 	16,666 	(9,117)
+Row(Decrease) increase in accounts payable, accrued expenses and income taxes payable 	(65,617) 	12,138 	19,408
+RowNet cash provided by operating activities 	43,693 	101,856 	267,883
+RowCash flows provided by (used in) investing activities:
+			RowCash paid in connection with acquisitions, net of cash acquired 	(20,878) 	(65,301) 	(74,710)
+RowCapital expenditures 	(61,733) 	(85,661) 	(66,970)
+RowProceeds from disposal of property and equipment 	246,286 	55 	35
+RowNet cash provided (used in) investing activities 	163,675 	(150,907) 	(141,645)
+RowCash flows (used in) provided by financing activities:
+Repayment of loans, notes payable and long-term obligations 	(441,632) 	(547,695) 	(234,619)
+RowProceeds from loans, notes payable and long-term obligations 	203,344 	652,087 	380,092
+RowExercise of stock options 	1,148 	2,269 	1,298
+RowTreasury stock purchases 	(156) 	(40,197) 	(286,733)
+RowDebt issuance and modification costs 	(414) 	(10,294) 	—
+RowNet cash (u s ed in) provided by financing activities 	(237,710) 	56,170 	(139,962)
+RowEffect of exchange rate changes on cash and cash equivalents 	6,299 	(2,308) 	3,367
+RowNet (decrease) increase in cash and cash equivalents and restricted cash 	(24,043) 	4,811 	(10,357)
+RowCash and cash equivalents and restricted cash at beginning of period 	59,219 	54,408 	64,765
+RowCash and cash equivalents and restricted cash at end of period 	$ 35,176 $ 	59,219 	$ 54,408
+RowSupplemental disclosure of cash flow information:
+			RowCash paid during the period:
+			RowInterest 	$ 108,561 $ 	94,472 	$ 76,171
+RowIncome taxes, net of refunds 	$ 36,093 $ 	59,156 	$ 66,445
+Row	, 2019
+	, 2018
+RowASSETS
+		RowCurrent assets:
+		RowCash and cash equivalents 	$ 34,917 	$ 58,909
+RowAccounts receivable, net 	149,109 	146,983
+RowInventories, net 	658,419 	756,038
+RowPrepaid expenses and other current assets 	51,685 	61,905
+RowTotal current assets 	894,130 	1,023,835
+RowProperty, plant and equipment, net 	243,572 	321,044
+RowOperating lease asset 	802,634 	—
+RowGoodwill 	1,072,330 	1,656,950
+RowTrade names 	530,320 	568,031
+RowOther intangible assets, net 	45,060 	60,164
+RowOther assets, net 	7,273 	12,323
+RowTotal assets 	$ 3,595,319 	$ 3,642,347
+RowLIABILITIES, REDEEMABLE SECURITIES AND STOCKHOLDERS’ EQUITY
+	RowCurrent liabilities:
+	RowLoans and notes payable 	$ 128,806 $ 302,751
+RowAccounts payable 	152,300 208,149
+RowAccrued expenses 	150,921 161,228
+RowCurrent portion of operating lease liability 	155,471 —
+RowIncome taxes payable 	35,905 25,993
+RowCurrent portion of long-term obligations 	71,524 13,316
+RowTotal current liabilities 	694,927 711,437
+RowLong-term obligations, excluding current portion 	1,503,987 1,621,963
+RowLong-term portion of operating lease liability 	720,735 —
+RowDeferred income tax liabilities 	126,081 174,427
+RowOther long-term liabilities 	16,517 87,548
+RowTotal liabilities 	3,062,247 2,595,375
+RowRedeemable securities 	3,351 3,351
+RowCommitments and contingencies
+	RowStockholders’ equity:
+Common stock (94,461,576 and 93,622,934 shares outstanding and 121,662,540 and 120,788,159
+shares issued at December 31 , 2019 and December 31 , 2018 , respectively) 	1,211 1,208
+RowAdditional paid-in capital 	928,573 922,476
+RowRetained (deficit) earnings 	(37,219) 495,777
+RowAccumulated other comprehensive loss 	(35,734) (49,201)
+RowTotal Party City Holdco Inc. stockholders’ equity before common stock held in treasury 	856,831 1,370,260
+RowLess: Common stock held in treasury, at cost (27,200,964 shares and 27,165,225 shares at
+	RowDecember 31 , 2019 and December 31 , 2018 , respectively) 	(327,086) (326,930)
+RowTotal Party City Holdco Inc. stockholders’ equity 	529,745 1,043,330
+RowNoncontrolling interests 	(24) 291
+RowTotal stockholders’ equity 	529,721 1,043,621
+RowTotal liabilities, redeemable securities and stockholders’ equity 	$ 3,595,319 $ 3,642,347
+RowFiscal 	Year Ended December 	31,
+Row2019 	2018 	2017
+Row2,339,510 	$ 2,416,442 $ 	2,357,986
+Row9,279 	11,073 	13,583
+Row2,348,789 	2,427,515 	2,371,569
+Row1,500,633 	1,435,358 	1,395,279
+Row67,103 	71,502 	65,356
+Row440,395 	425,996 	415,167
+Row13,152 	13,214 	14,957
+Row177,672 	172,764 	168,369
+Row23,203 	23,388 	23,331
+Row10,736 	7,008 	8,974
+Row(58,381) 	— 	—
+Row	2019 	2018 	2017
+RowRevenues:
+			RowNet sales 	$ 2,339,510 $ 	2,416,442 $ 	2,357,986
+RowRoyalties and franchise fees 	9,279 	11,073 	13,583
+RowTotal revenues 	2,348,789 	2,427,515 	2,371,569
+RowExpenses:
+			RowCost of sales 	1,500,633 	1,435,358 	1,395,279
+RowWholesale selling expenses 	67,103 	71,502 	65,356
+RowRetail operating expenses 	440,395 	425,996 	415,167
+RowFranchise expenses 	13,152 	13,214 	14,957
+RowGeneral and administrative expenses 	177,672 	172,764 	168,369
+RowArt and development costs 	23,203 	23,388 	23,331
+RowDevelopment stage expenses 	10,736 	7,008 	8,974
+RowGain on sale/leaseback transaction 	(58,381) 	— 	—
+RowStore impairment and restructuring charges 	29,038 	— 	—
+RowGoodwill and intangibles impairment 	562,631 	— 	—
+RowTotal expenses 	2,766,182 	2,149,230 	2,091,433
+Row(Loss) income from operations 	(417,393) 	278,285 	280,136
+RowInterest expense, net 	114,899 	105,706 	87,366
+RowOther expense, net 	1,871 	10,982 	4,626
+Row(Loss) income before income taxes 	(534,163) 	161,597 	188,144
+RowIncome tax expense (benefit) 	(1,305) 	38,778 	(27,196)
+RowNet (loss) income 	(532,858) 	122,819 	215,340
+RowAdd: Net income attributable to redeemable securities holder 	— 	409 	—
+RowLess: Net loss attributable to noncontrolling interests 	(363) 	(31) 	—
+RowNet (loss) income attributable to common shareholders of Party City Holdco Inc 	$ (532,495) $ 	123,259 $ 	215,340
+RowNet (loss) income per share attributable to common shareholders of Party City Holdco Inc.—Basic 	$ (5.71) $ 	1.28 $ 	1.81
+RowNet (loss) income per share attributable to common shareholders of Party City Holdco Inc.—
+Diluted 	$ (5.71) $ 	1.27 $ 	1.79
+RowWeighted-average number of common shares—Basic 	93,295,692 	96,133,144 	118,589,421
+RowWeighted-average number of common shares—Diluted 	93,295,692 	97,271,050 	119,894,021
+RowOther comprehensive (loss) income, net of tax:
+			RowForeign currency adjustments 	$ 12,599 $ 	(14,479) $ 	17,561
+RowCash flow hedges 	845 	1,063 	(1,140)
+RowOther comprehensive income (loss), net 	13,444 	(13,416) 	16,421
+RowComprehensive ( loss ) income 	(519,414) 	109,403 	231,761
+RowAdd: Comprehensive income attributable to redeemable securities holder 	— 	409 	—
+RowLess: Comprehensive loss attributable to noncontrolling interests 	(386) 	(64) 	—
+RowComprehensive (loss) income attributable to common shareholders of Party City Holdco
+Inc. 	$ (519,028) $ 	109,876 $ 	231,761
+RowSee accompanying notes to consolidated financial 	statements.
+		Row2,149,230 	2,091,433
+Row278,285 	280,136
+Row105,706 	87,366
+Row10,982 	4,626
+Row161,597 	188,144
+Row38,778 	(27,196)
+Row122,819 	215,340
+Row409 	—
+RowBalance at December 31, 2016
+	Additional Common Paid-in Stock Capital $ 1,195 $910,167 	Retained
+Earnings
+(Deficit)
+$ 157,666
+	Accumulated
+Other
+Comprehensive Loss
+(52,239) $
+	Stockholders'
+Equity
+Before
+Common
+Stock Held In
+Treasury
+$ 1,016,789
+	Common
+Stock
+Held In
+Treasury
+	Total Party
+City Holdco
+Inc.
+Non-Stockholders' Controlling
+Equity Interests
+$ 1,016,789 $
+	Total
+Stockholders'
+Equity
+$ 1,016,789
+RowNet income
+		215,340
+		215,340
+		215,340
+	215,340
+RowStock option expense
+	5,309
+			5,309
+		5,309
+	5,309
+RowWarrant
+	421
+			421
+		421
+	421
+RowAdjustment to redeemable securities
+		(410)
+		(410	)
+	(410)
+	(410RowExercise of stock options
+	1,295
+زرا
+			1,298
+		1,298
+	1,298
+RowForeign currency adjustments
+			17,561
+	17,561
+		17,561
+	17,561
+RowTreasury stock purchases
+					(286,733)
+	(286,733)
+	(286,733RowAcquired noncontrolling interest
+						355
+	355
+RowImpact of foreign exchange contracts
+			(1,140) 	(1,140	)
+	(1,140)
+	(1,140RowBalance at December 31, 2017
+	$ 1,198 $917,192 	$ 372,596 	$
+(35,818) 	$ 1,255,168 	$(286,733)
+	$ 968,435 $ 355
+	$ 968,790
+RowCumulative effect of change in accounting principle, net
+(see Note 2)
+		(78)
+		(78	)
+	(78)
+	(78RowBalance at December 31, 2017, adjusted
+	$ 1,198 $917,192 	$ 372,518
+	$
+(35,818) 	$ 1,255,090 	$(286,733) 	$
+968,357 $
+355
+	$
+968,712
+RowNet income
+		122,850
+		122,850
+		122,850
+(31)
+	122,819
+RowNet income attributable to redeemable securities
+holder
+		409
+		409
+		409
+	409
+RowStock option expense
+	1,744
+			1,744
+		1,744
+	1,744
+RowRestricted stock units-time-based
+	6
+1,168
+			1,174
+		1,174
+	1,174
+RowDirectors—non-cash compensation
+	196
+			196
+		196
+	196
+RowWarrant
+	(89)
+			(89	)
+	(89)
+	(89RowExercise of stock options
+	2,265
+4
+			2,269
+		2,269
+	2,269
+RowForeign currency adjustments
+			(14,446) 	(14,446	)
+	(14,446)
+(33)
+	(14,479RowTreasury stock purchases
+					(40,197) 	(40,197)
+	(40,197RowImpact of foreign exchange contracts
+			1,063
+	1,063
+		1,063
+	1,063
+RowBalance at December 31, 2018
+	$ 1,208
+$922,476 	$ 495,777
+	(49,201) 	$ 1,370,260 	$(326,930) 	$ 1,043,330 $
+291
+	$ 1,043,621
+RowCumulative effect of change in accounting principle, net
+(see Note 2)
+	662
+	(503)
+		159
+		159
+	159
+RowBalance at December 31, 2018, adjusted
+	$ 1,208 $923,138 	$ 495,274 	$
+(49,201) 	$ 1,370,419 	$(326,930) 	291
+$ 1,043,489 $
+	$ 1,043,780
+RowNet income (loss)
+		(532,495)
+		(532,495	)
+	(363)
+(532,495)
+	(532,858RowStock option expense
+	1,319
+			1,319
+		1,319
+	1,319
+RowRestricted stock units—time-based
+	2,033
+			2,033
+		2,033
+	2,033
+RowDirectors non-cash compensation
+	313
+			313
+		313
+	313
+RowWarrant
+	515
+			515
+		515
+	515
+RowExercise of stock options
+	1,145
+زرا
+			1,148
+		1,148
+	1,148
+RowAcquired non-controlling interest
+	110
+			110
+		110
+71
+	181
+RowForeign currency adjustments (see Note 23)
+			12,622 	12,622
+		12,622
+(23)
+	12,599
+RowTreasury stock purchases
+					(156)
+	(156)
+	(156RowImpact of foreign exchange contracts
+		2
+	845
+	847
+		847
+	847
+RowBalance at December 31, 2019
+	$ 1,211 $928,573 	$ (37,219
+	$
+(35,734) 	$
+856,831 	$(327,086) 	$
+529,745 $
+(24)
+	$
+529,721
+Row		see
+Note 2)
+	see
+Note 2)
+RowCash flows provided by operating activities:
+			RowNet ( loss) income 	$(532,858) $ 	122,819 	$ 215,340
+RowAdjustments to reconcile net (loss) income to net cash provided by operating activities:
+			RowDepreciation and amortization expense 	81,116 	78,575 	85,168
+RowAmortization of deferred financing costs and original issuance discounts 	4,722 	10,989 	4,937
+RowProvision for doubtful accounts 	2,323 	1,213 	560
+RowDeferred income tax (benefit) expense 	(47,366) 	4,573 	(102,651)
+RowDeferred rent 	— 	5,351 	7,287
+RowUndistributed income in equity method investments 	(472) 	(369) 	(194)
+RowChange in operating lease liability/asset 	(9,942) 	— 	—
+Row(Gain) loss on disposal of assets 	(59,786) 	3 	475
+RowNon-cash adjustment for s tore impairment and restructuring 	20,236 	— 	—
+RowGoodwill and intangibles impairment 	562,631 	— 	—
+RowNon-employee equity based compensation 	515 	81 	3,033
+RowStock option expense 	1,319 	1,744 	5,309
+RowRestricted stock units expense—time-based 	2,033 	1,174 	—
+RowDirectors—non-cash compensation 	313 	196 	—
+RowChanges in operating assets and liabilities, net of effects of acquired businesses:
+			Row(Increase) decrease in accounts receivable 	(2,600) 	(10,431) 	1,153
+RowDecrease (increase) in inventories 	72,385 	(142,866) 	37,175
+RowDecrease (increase) in prepaid expenses and other current assets 	14,741 	16,666 	(9,117)
+Row(Decrease) increase in accounts payable, accrued expenses and income taxes payable 	(65,617) 	12,138 	19,408
+RowNet cash provided by operating activities 	43,693 	101,856 	267,883
+RowCash flows provided by (used in) investing activities:
+			RowCash paid in connection with acquisitions, net of cash acquired 	(20,878) 	(65,301) 	(74,710)
+RowCapital expenditures 	(61,733) 	(85,661) 	(66,970)
+RowProceeds from disposal of property and equipment 	246,286 	55 	35
+RowNet cash provided (used in) investing activities 	163,675 	(150,907) 	(141,645)
+RowCash flows (used in) provided by financing activities:
+Repayment of loans, notes payable and long-term obligations 	(441,632) 	(547,695) 	(234,619)
+RowProceeds from loans, notes payable and long-term obligations 	203,344 	652,087 	380,092
+RowExercise of stock options 	1,148 	2,269 	1,298
+RowTreasury stock purchases 	(156) 	(40,197) 	(286,733)
+RowDebt issuance and modification costs 	(414) 	(10,294) 	—
+RowNet cash (u s ed in) provided by financing activities 	(237,710) 	56,170 	(139,962)
+RowEffect of exchange rate changes on cash and cash equivalents 	6,299 	(2,308) 	3,367
+RowNet (decrease) increase in cash and cash equivalents and restricted cash 	(24,043) 	4,811 	(10,357)
+RowCash and cash equivalents and restricted cash at beginning of period 	59,219 	54,408 	64,765
+RowCash and cash equivalents and restricted cash at end of period 	$ 35,176 $ 	59,219 	$ 54,408
+RowSupplemental disclosure of cash flow information:
+			RowCash paid during the period:
+			RowInterest 	$ 108,561 $ 	94,472 	$ 76,171
+RowIncome taxes, net of refunds 	$ 36,093 $ 	59,156 	$ 66,445

@@ -1,0 +1,219 @@
+Row:	LIABILITIES AND STOCKHOLDERS' EQUITY
+e
+n
+tia
+y
+rle
+	Row:Current liabilities
+Accounts payable Accrued compensation Other accrued liabilities Accrued interest 	S
+c
+y
+o
+v
+e
+lv
+n
+fi
+a
+d
+s
+n
+te
+te
+r
+,
+c
+B
+2
+a
+0
+u
+p
+2
+.c
+0
+o
+1
+m
+5
+:4
+6
+	5,057 $
+4,787
+1,299
+139
+Row:Debt, current portion, net of debt Deferred revenue, current portion 	discount a
+u
+l
+3
+0
+	4,495
+35,634
+Row:Income taxes payable 	J
+	991
+Row:Total current liabilities Deferred revenue, net of current 		52,402
+3,124
+Row:Deferred tax liabilities 		19,178
+Row:Debt, net of current portion and 	debt discount 	177,012
+Row:Total liabilities 		251,716
+Row:shares issued and outstanding as of December 31, 2017 	159
+Row:Additional paid-in capital 	141,868
+Row:Accumulated other comprehensive loss 	175
+Row:Accumulated deficit 	(17,892)
+Row:Total stockholders' equity 	124,310
+Row:Total liabilities and stockholders' equity 	376,026 $
+Row:Cost of revenues
+	Row:Software 	Row:Appliance 	Row:Maintenance 	Row:Services and other 	Row:Amortization of acquired developed and in-process 	technology Row:Total cost of revenues 	Row:Services and other 	2,336
+Row:Amortization of acquired developed and in-process technology 	10,403
+Row:Total cost of revenues 	29,385
+Row:Gross profit tia
+l
+	57,865
+Row:Operating expenses
+e
+n
+rle
+	y
+Row:Research and development Sales and marketing c
+o
+n
+fi
+d
+te
+r
+B
+u
+.c
+o
+	17,691
+30,208
+m
+:4
+6
+Row:General and administrative e
+s
+c
+a
+p
+	15,436
+1
+5
+Row:Amortization of intangible assets Total operating expenses Loss from operations S
+y
+v
+a
+lv
+J
+u
+a
+l
+n
+3
+te
+0
+,
+2
+0
+2
+0
+	6,884
+70,219
+(12,354)
+Row:Other expenses
+Interest expense, net 	(14,876)
+Row:Other expense, net 	(103)
+Row:Total other expenses 	(14,979)
+Row:Loss before income tax benefit 	(27,333)
+Row:Income tax benefit 	16,273
+Row:Net loss 	(11,060)
+Row:Other comprehensive loss
+Foreign currency translation adjustment, net 	222
+Row:Comprehensive loss 	(10,838) $
+Row:flows from operating activities
+Adjustments to reconcile net loss to net cash provided by operating activities
+	(11,060) $
+Row:Depreciation Amortization of intangible assets 	1,493
+17,286
+Row:Amortization of debt discount 	945
+Row:Stock-based compensation expense 	903
+Row:Provision for doubtful accounts 	156
+Row:on disposal of property and equipment 	5
+Row:income taxes, net 	(17,204)
+Row:tax receivable in operating assets and liabilities
+	259
+Row:Accounts receivable 	(3,109)
+Row:Inventories Prepaid and other current assets Accounts payable 	257
+(1,710)
+(200)
+Row:Accrued compensation 	223
+Row:Other accrued liabilities Accrued interest Deferred revenue Income taxes payable provided by operating activities flows from investing activities
+of property and equipment c
+y
+o
+e
+lv
+n
+fi
+d
+s
+e
+te
+te
+n
+r
+tia
+c
+B
+a
+u
+l
+p
+2
+y
+rle
+.c
+0
+o
+1
+m
+5
+:4
+6
+	(1,330)
+111
+18,277
+(1,556)
+3,746
+(1,306)
+Row:of Ineoquest, net of acquired cash S
+v
+a
+n
+2
+0
+	(63,106)
+Row:used in investing activities flows from financing activities
+a
+u
+l
+3
+0
+,
+	(64,412)
+Row:on long-term debt J
+	(1,407)
+Row:on line of credit from line of credit 	(4,500)
+3,500
+Row:from issuance of debt, net of debt discount 	57,663
+Row:from issuance of common stock 	8,002
+Row:stock repurchased 	(100)
+Row:provided by financing activities 	63,158
+Row:exchange rate changes on cash 	23
+Row:in cash 	2,515
+Row:beginning of period 	2,445
+Row:end of period 	4,960 $
+Row:cash flow information
+	Row:paid for interest paid for income taxes The accompanying notes are an integral part of these consolidated financial statements.
+	13,820 $
+2,092 $
+Row:Proceeds from line of credit 	Row:Proceeds from issuance of debt, net of debt 	discount Row:Proceeds from issuance of common stock 	Row:Common stock repurchased 	Row:Net cash provided by financing activities 	

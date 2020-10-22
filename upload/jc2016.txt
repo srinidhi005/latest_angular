@@ -1,0 +1,108 @@
+Row:January 30,
+	January 31,
+Row:2016
+	2015
+Row:	January 30,
+2016
+	January 31,
+2015
+Row:ASSETS
+Current assets:
+Cash and cash equivalents 	$ 87,812 	$ 111,097
+Row:Merchandise inventories 	372,410 	367,851
+Row:Prepaid expenses and other current assets 	65,605 	60,734
+Row:Total current assets 	525,827 	539,682
+Row:Property and equipment, at cost 	645,065 	593,410
+Row:Less accumulated depreciation Property and equipment, net 	(246,821) 398,244 	(188,958)
+404,452
+Row:Deferred financing costs, net 	19,109 	22,883
+Row:Intangible assets, net 	460,744 	836,608
+Row:Goodwill Other assets 	107,900 4,453 	1,124,715
+3,993
+Row:Total assets LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable Other current liabilities Interest payable 	$ 1,516,277 $ 248,342 157,765 5,279 	$ 2,932,333
+$ 244,367
+155,697
+5,408
+Row:Income taxes payable 	7,086 	3,192
+Row:Current portion of long-term debt 	15,670 	15,670
+Row:Total current liabilities Long-term debt, net 	434,142 1,518,218 	424,334
+1,532,769
+Row:Lease-related deferred credits, net 	131,812 	112,153
+Row:Deferred income taxes, net Other liabilities 	148,819 52,273 	304,487
+42,566
+Row:Total liabilities Stockholders’ equity:
+	2,285,264 	2,416,309
+Row:Common stock $0.01 par value; 1,000 shares authorized, issued and outstanding 	— 	—
+Row:Additional paid-in capital 	979,333 	1,014,930
+Row:Accumulated other comprehensive loss Accumulated deficit 	(16,791) (1,731,529) 	(10,053)
+(488,853)
+Row:Total stockholders’ equity (deficit) 	(768,987) 	516,024
+Row:Total liabilities and stockholders’ equity 	$ 1,516,277 	$ 2,932,333
+Row:January 30,
+2016
+	January 31,
+2015
+	February 1,
+2014
+Row:$ 2,447,692 58,135 2,505,827 	$ 2,540,449 39,246 2,579,695 	$ 2,394,085
+34,172
+2,428,257
+Row:1,610,256 	1,608,777 	1,422,143
+Row:895,571 	970,918 	1,006,114
+Row:834,137 	845,953 	754,345
+Row:1,381,642 	709,985 	1,874
+Row:(1,320,208) 	(585,020) 	249,895
+Row:69,801 	74,352 	104,221
+Row:— 	58,960 	—
+Row:(1,390,009) (147,333) 	(718,332) (60,559) 	145,674
+57,550
+Row:$ (1,242,676) 	$ (657,773) 	$ 88,124
+Row:74 	13,652 	7,339
+Row:(7,012) 	(10,634) 	(802)
+Row:200 	2,113 	(1,532)
+Row:$ (1,249,414) 	$ (652,642) 	$ 93,129
+Row:CASH Net 	2016
+FLOWS FROM OPERATING ACTIVITIES:
+income (loss) $ Adjustments to reconcile to cash flows from operating activities:
+Impairment losses 	(1,242,676) 1,381,642 	2015
+$ (657,773) 709,985 	2014
+$ 88,124
+1,874
+Row:	Depreciation of property and equipment 	103,966 	93,458 	77,520
+Row:	Amortization of intangible assets 	15,559 	15,944 	17,886
+Row:	Amortization of deferred financing costs and debt discount 	5,030 	5,657 	9,940
+Row:	Share-based compensation 	2,580 	5,968 	5,784
+Row:	Foreign currency transaction losses 	2,027 	5,480 	389
+Row:	Realized hedging losses 	119 	— 	12,131
+Row:	Loss on refinancings 	— 	58,960 	—
+Row:	Excess tax benefits from share-based awards 	— 	(8) 	(728)
+Row:	Deferred income taxes 	(151,232) 	(75,015) 	(5,234)
+Row:Changes 	in operating assets and liabilities:
+			Row:	Merchandise inventories 	(5,351) 	(15,071) 	(88,935)
+Row:	Prepaid expenses and other current assets 	(4,265) 	(4,585) 	(5,280)
+Row:	Other assets 	(701) 	(832) 	(2,021)
+Row:	Accounts payable and other liabilities 	16,910 	4,934 	108,658
+Row:Net 	Federal and state income taxes cash provided by operating activities 	11,945 135,553 	11,016 158,118 	12,417
+232,525
+Row:CASH 	FLOWS FROM INVESTING ACTIVITIES:
+Capital expenditures 	(103,657) 	(127,874) 	(131,440)
+Row:	Other investing activities 	— 	(4,817) 	—
+Row:Net 	cash used in investing activities 	(103,657) 	(132,691) 	(131,440)
+Row:CASH 	FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from Term Loan Facility, net of discount 	— 	1,559,165 	—
+Row:	Repayments of former term loan 	— 	(1,167,000) 	—
+Row:	Redemption of Senior Notes 	— 	(400,000) 	—
+Row:	Costs paid in connection with refinancings of debt 	(137) 	(22,182) 	—
+Row:	Dividend and contribution to Parent 	(38,177) 	(27,730) 	(712)
+Row:	Excess tax benefit from share-based awards Principal repayments of Term Loan Facility 	— (15,670) 	8 (11,753) 	728
+(12,000)
+Row:Net 	cash used in financing activities 	(53,984) 	(69,492) 	(11,984)
+Row:Effects Increase 	of changes in foreign exchange rates on cash and cash equivalents (decrease) in cash and cash equivalents 	(1,197) (23,285) 	(1,487) (45,552) 	(851)
+88,250
+Row:	Beginning balance 	111,097 	156,649 	68,399
+Row:	Ending balance $ 	87,812 	$ 111,097 	$ 156,649
+Row:	Supplemental cash flow information:
+Income taxes paid $ 	1,328 	$ 3,985 	$ 53,427
+Row:	Interest paid $ 	73,923 	$ 92,973 	$ 92,195

@@ -1,0 +1,113 @@
+Row:Amounts in thousands except per share amounts
+	February 2
+2019
+	February 3
+2018
+	January 28
+2017
+Row:		(53 weeks)
+	Row:Net sales 	$ 38,972,934 $ 	35,864,664 	$ 33,183,744
+Row:Cost of sales, including buying and occupancy costs 	27,831,177 	25,502,167 	23,565,754
+Row:Selling, general and administrative expenses 	6,923,564 	6,375,071 	5,768,467
+Row:Impairment of goodwill and other long-lived assets, related to Sierra 	— 	99,250 	—
+Row:Loss on early extinguishment of debt 	— 	— 	51,773
+Row:Pension settlement charge 	36,122 	— 	31,173
+Row:Interest expense, net 	8,860 	31,588 	43,534
+Row:Income before provision for income taxes 	4,173,211 	3,856,588 	3,723,043
+Row:Provision for income taxes 	1,113,413 	1,248,640 	1,424,809
+Row:Net income 	$ 3,059,798 $ 	2,607,948 	$ 2,298,234
+Row:Basic earnings per share:
+			Row:Net income 	$ 2.47 $ 	2.05 	$ 1.75
+Row:Weighted average common shares – basic 	1,241,153 	1,273,654 	1,311,294
+Row:Diluted earnings per share:
+			Row:Net income 	$ 2.43 $ 	2.02 	$ 1.73
+Row:Weighted average common shares – diluted 	1,259,252 	1,292,209 	1,328,864
+Row:Amounts in thousands except share amounts
+		2019
+	2018
+Row:ASSETS
+			Row:Current assets:
+			Row:Cash and cash equivalents 	$ 	3,030,229 	$ 2,758,477
+Row:Short-term investments 		— 	506,165
+Row:Accounts receivable, net 		346,298 	327,166
+Row:Merchandise inventories 		4,579,033 	4,187,243
+Row:Prepaid expenses and other current assets 		513,662 	706,676
+Row:Total current assets 		8,469,222 	8,485,727
+Row:Net property at cost 		5,255,208 	5,006,053
+Row:Non-current deferred income taxes, net 		6,467 	6,558
+Row:Goodwill 		97,552 	100,069
+Row:Other assets 		497,580 	459,608
+Row:TOTAL ASSETS 	$ 	14,326,029 	$ 14,058,015
+Row:LIABILITIES
+			Row:Current liabilities:
+			Row:Accounts payable 	$ 	2,644,143 	$ 2,488,373
+Row:Accrued expenses and other current liabilities 		2,733,076 	2,522,961
+Row:Federal, state and foreign income taxes payable 		154,155 	114,203
+Row:Total current liabilities 		5,531,374 	5,125,537
+Row:Other long-term liabilities 		1,354,242 	1,320,505
+Row:Non-current deferred income taxes, net 		158,191 	233,057
+Row:Long-term debt Commitments and contingencies (See Note L and Note N)
+		2,233,616 	2,230,607
+Row:SHAREHOLDERS’ EQUITY
+Preferred stock, authorized 5,000,000 shares, par value $1, no shares issued 		— 	—
+Row:Common stock, authorized 1,800,000,000 shares, par value $1, issued and outstanding
+1,217,182,508 and 1,256,018,044, respectively 		1,217,183 	1,256,018
+Row:Additional paid-in capital 		— 	—
+Row:Accumulated other comprehensive (loss) income 		(630,321) 	(441,859)
+Row:Retained earnings 		4,461,744 	4,334,150
+Row:Total shareholders’ equity TOTAL LIABILITIES AND SHAREHOLDERS’ EQUITY 	$ 	5,048,606 14,326,029 	5,148,309
+$ 14,058,015
+Row:In thousands
+	February 2,
+2019
+	(53 weeks)
+February 3,
+2018
+	January 28,
+2017
+Row:Cash flows from operating activities:
+			Row:Net income $ 	3,059,798 $ 	2,607,948 	$ 2,298,234
+Row:Adjustments to reconcile net income to net cash provided by operating
+activities:
+			Row:Depreciation and amortization 	819,655 	725,957 	658,796
+Row:Loss on property disposals and impairment charges 	17,653 	8,871 	5,207
+Row:Deferred income tax (benefit) 	(88,594) 	(137,440) 	(5,503)
+Row:Share-based compensation 	103,557 	101,362 	102,251
+Row:Impairment of goodwill and long-lived assets, related to Sierra 	— 	99,250 	—
+Row:Loss on early extinguishment of debt 	— 	— 	51,773
+Row:Pension settlement charge 	36,122 	— 	31,173
+Row:Excess tax benefits from share-based compensation 	— 	— 	(70,999)
+Row:Changes in assets and liabilities:
+			Row:(Increase) in accounts receivable 	(23,532) 	(62,358) 	(23,235)
+Row:(Increase) decrease in merchandise inventories 	(465,429) 	(450,377) 	11,862
+Row:Decrease (increase) in prepaid expenses and other current assets 	236,342 	(317,850) 	(9,600)
+Row:Increase in accounts payable 	198,212 	205,111 	48,253
+Row:Increase in accrued expenses and other liabilities 	169,418 	334,522 	389,399
+Row:Increase (decrease) in income taxes payable 	40,965 	(94,492) 	146,766
+Row:Other 	(15,708) 	5,120 	(7,518)
+Row:Net cash provided by operating activities 	4,088,459 	3,025,624 	3,626,859
+Row:Cash flows from investing activities:
+			Row:Property additions 	(1,125,139) 	(1,057,617) 	(1,024,747)
+Row:Purchases of investments 	(161,625) 	(861,256) 	(716,953)
+Row:Sales and maturities of investments 	636,560 	906,137 	529,146
+Row:Other 	26,652 	— 	(2,324)
+Row:Net cash (used in) investing activities 	(623,552) 	(1,012,736) 	(1,214,878)
+Row:Cash flows from financing activities:
+			Row:Proceeds from issuance of long-term debt 	— 	— 	992,540
+Row:Cash payments for extinguishment of debt 	— 	— 	(425,584)
+Row:Cash payments for debt issuance expenses 	— 	— 	(9,921)
+Row:Cash payments on build to suit leases 	(7,115) 	(3,138) 	—
+Row:Cash payments for rate lock agreement 	— 	— 	(3,150)
+Row:Cash payments for repurchase of common stock 	(2,406,997) 	(1,644,581) 	(1,699,998)
+Row:Proceeds from issuance of common stock 	255,241 	133,687 	164,190
+Row:Cash payments of employee tax withholdings for performance based
+stock awards 	(16,014) 	(19,274) 	(24,965)
+Row:Excess tax benefits from share-based compensation 	— 	— 	70,999
+Row:Cash dividends paid 	(922,596) 	(764,040) 	(650,988)
+Row:Net cash (used in) financing activities 	(3,097,481) 	(2,297,346) 	(1,586,877)
+Row:Effect of exchange rate changes on cash 	(95,674) 	113,086 	9,272
+Row:Net increase (decrease) in cash and cash equivalents 	271,752 	(171,372) 	834,376
+Row:Cash and cash equivalents at beginning of year 	2,758,477 	2,929,849 	2,095,473
+Row:Cash and cash equivalents at end of year $ 	3,030,229 $ 	2,758,477 	$ 2,929,849
+Row:The accompanying notes are an integral part of the 	financial statements.
+		

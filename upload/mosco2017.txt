@@ -1,0 +1,104 @@
+Row:ASSETS
+	Row:Current Assets:
+	Row:Cash and cash investments $ 	559 $ 1,194
+Row:Short-term bank deposits 	— 108
+Row:Receivables 	1,153 1,066
+Row:Inventories 	946 784
+Row:Prepaid expenses and other 	108 111
+Row:Total current assets 	2,766 3,263
+Row:Property and equipment, net 	1,223 1,129
+Row:Goodwill 	898 841
+Row:Other intangible assets, net 	406 187
+Row:Other assets 	100 114
+Row:Total assets $ 	5,393 $ 5,534
+Row:Current Liabilities:
+		Row:Accounts payable $ 	926 	$ 824
+Row:Notes payable 	8 	116
+Row:Accrued liabilities 	750 	727
+Row:Total current liabilities 	1,684 	1,667
+Row:Long-term debt 	2,971 	2,969
+Row:Other liabilities 	669 	715
+Row:Total liabilities 	5,324 	5,351
+Row:Masco Corporation's shareholders' equity:
+Common shares, par value $1 per share
+Authorized shares: 1,400,000,000;
+	Row:Issued and outstanding: 2018 – 293,900,000; 2017 – 310,400,000 	294 310
+Row:Preferred shares authorized: 1,000,000;
+Issued and outstanding: 2018 and 2017 – None 	— —
+Row:Paid-in capital 	— —
+Row:Retained deficit 	(278) (298)
+Row:Accumulated other comprehensive loss 	(127) (65)
+Row:Total Masco Corporation's shareholders' deficit 	(111) (53)
+Row:Noncontrolling interest 	180 236
+Row:Total equity 	69 183
+Row:Total liabilities and equity 	$ 5,393 $ 5,534
+Row:2018 		2017 	2016
+Row:Net sales $ 8,359 		$ 7,642 	$ 7,361
+Row:Cost of sales 5,670 		5,030 	4,899
+Row:Gross profit 2,689 		2,612 	2,462
+Row:Selling, general and administrative expenses 1,478 		1,418 	1,375
+Row:Operating profit 1,211 		1,194 	1,087
+Row:Other income (expense), net:
+			Row:Interest expense 	(156) 	(278) 	(229)
+Row:Other, net 	(13) 	(32) 	(26)
+Row:	(169) 	(310) 	(255)
+Row:Income before income taxes 1,042 		884 	832
+Row:Income tax expense 	258 	304 	296
+Row:Net income 	784 	580 	536
+Row:Less: Net income attributable to noncontrolling interest 	50 	47 	43
+Row:Net income attributable to Masco Corporation $ 	734 	$ 533 	$ 493
+Row:Income per common share attributable to Masco Corporation:
+			Row:Basic:
+			Row:Net income $ 	2.38 	$ 1.68 	$ 1.49
+Row:Diluted:
+			Row:Net income $ 	2.37 	$ 1.66 	$ 1.48
+Row:Net income 	$ 2.38 	$ 1.68 	$ 1.49
+Row:Diluted:
+			Row:Net income 	$ 2.37 	$ 1.66 	$ 1.48
+Row:2018 		2017 	2016
+Row:CASH FLOWS FROM (FOR) OPERATING ACTIVITIES:
+			Row:Net income $ Depreciation and amortization 	784 156 	$ 580 127 	$ 536
+134
+Row:Display amortization 	21 	25 	25
+Row:Deferred income taxes 	4 	13 	130
+Row:Employee withholding taxes paid on stock-based compensation 	42 	33 	40
+Row:Gain on disposition of investments, net 	(4) 	(4) 	(4)
+Row:Loss on disposition of businesses, net 	— 	13 	—
+Row:Pension and other postretirement benefits 	(47) 	(38) 	(78)
+Row:Impairment of financial investments 	— 	2 	—
+Row:Stock-based compensation 	27 	38 	29
+Row:Increase in receivables 	(46) 	(140) 	(132)
+Row:Increase in inventories 	(11) 	(78) 	(37)
+Row:Increase in accounts payable and accrued liabilities, net 	108 	67 	79
+Row:Debt extinguishment costs 	— 	104 	40
+Row:Other, net Net cash from operating activities 	(2) 1,032 	9 751 	27
+789
+Row:CASH FLOWS FROM (FOR) FINANCING ACTIVITIES:
+Retirement of notes 	(114) 	(535) 	(1,300)
+Row:Purchase of Company common stock 	(654) 	(331) 	(459)
+Row:Cash dividends paid 	(134) 	(129) 	(128)
+Row:Dividends paid to noncontrolling interest 	(89) 	(35) 	(31)
+Row:Issuance of notes, net of issuance costs 	— 	593 	889
+Row:Debt extinguishment costs 	— 	(104) 	(40)
+Row:Increase in debt 	— 	2 	3
+Row:Issuance of Company common stock 	— 	— 	1
+Row:Proceeds from the exercise of stock options 	14 	— 	—
+Row:Employee withholding taxes paid on stock-based compensation 	(42) 	(33) 	(40)
+Row:Payment of debt 	(1) 	(5) 	(4)
+Row:Net cash for financing activities 	(1,020) 	(577) 	(1,109)
+Row:CASH FLOWS FROM (FOR) INVESTING ACTIVITIES:
+			Row:Capital expenditures 	(219) 	(173) 	(180)
+Row:Acquisition of businesses, net of cash acquired 	(549) 	(89) 	—
+Row:Proceeds from disposition of:
+			Row:Businesses, net of cash disposed 	— 	128 	—
+Row:Short-term bank deposits 	108 	218 	251
+Row:Property and equipment 	14 	24 	—
+Row:Other financial investments 	5 	7 	32
+Row:Purchases of short-term bank deposits 	— 	(106) 	(211)
+Row:Other, net 	(10) 	(34) 	(16)
+Row:Net cash for investing activities 	(651) 	(25) 	(124)
+Row:Effect of exchange rate changes on cash and cash investments 	4 	55 	(34)
+Row:CASH AND CASH INVESTMENTS:
+			Row:(Decrease) increase for the year 	(635) 	204 	(478)
+Row:At January 1 	1,194 	990 	1,468
+Row:At December 31 $ 	559 	$ 1,194 	$ 990

@@ -17,12 +17,19 @@ import { MatButtonModule } from '@angular/material/button';
 import {MatExpansionModule} from '@angular/material/expansion';
 import { LoginComponent } from './modules/login/login.component';
 import { HashLocationStrategy, LocationStrategy  } from '@angular/common';
+import { AuthLoginComponent } from './auth-login/auth-login.component';
+import { ProfileComponent } from './modules/profile/profile.component';
+
+
 @NgModule({
   declarations: [
     AppComponent,
     AddCompanyComponent,
     FileUploadComponent,
-    LoginComponent
+    LoginComponent,
+    AuthLoginComponent,
+    ProfileComponent,
+   
   ],
   imports: [
     BrowserModule,
@@ -41,12 +48,11 @@ import { HashLocationStrategy, LocationStrategy  } from '@angular/common';
     MatProgressSpinnerModule,
     MatButtonModule,
     MatGridListModule,
-    MatExpansionModule,
+    MatExpansionModule
   ],
   providers: [
     UrlConfigService,
-    RMIAPIsService,
-{provide : LocationStrategy , useClass: HashLocationStrategy}
+    RMIAPIsService
   ],
   bootstrap: [AppComponent]
 })

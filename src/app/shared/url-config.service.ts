@@ -18,7 +18,8 @@ export class UrlConfigService {
   private isKPIProjections="https://app.rmiinsights.com:8001/kpi-pnl-projections?company=";
   private bsKPIActuals="https://app.rmiinsights.com:8001/kpi-bs-actuals?company=";
   private bsKPIProjections="https://app.rmiinsights.com:8001/kpi-bs-projections?company=";
-
+  private userDetailAPI="https://app.rmiinsights.com:8001/updateprofile";
+  private userProfileDetailAPI="https://app.rmiinsights.com:8001/userprofiledetails?userid="
   constructor(private http:HttpClient) { }
   
 getStatementAPI(){
@@ -65,5 +66,11 @@ getBsKPIActuals(){
 }
 getBsKPIProjections(){
   return this.bsKPIProjections;
+}
+getuserDetailAPI(){
+  return this.userDetailAPI;
+}
+getuserProfileDetail(){
+  return this.userProfileDetailAPI;
 }
 }

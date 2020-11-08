@@ -7,21 +7,16 @@ import { HighchartsChartModule } from 'highcharts-angular';
 import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { SidebarComponent } from './components/sidebar/sidebar.component';
-import { AreaComponent } from './widgets/area/area.component';
-import { CardComponent } from './widgets/card/card.component';
-import { PieComponent } from './widgets/pie/pie.component';
 import {MatExpansionModule} from '@angular/material/expansion';
 import {MatTooltipModule} from '@angular/material/tooltip';
 import {MatInputModule} from '@angular/material/input';
-import { FormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import {MatAutocompleteModule} from '@angular/material/autocomplete';
 @NgModule({
   declarations: [
     HeaderComponent,
     FooterComponent,
-    SidebarComponent,
-    AreaComponent,
-    CardComponent,
-    PieComponent,
+    SidebarComponent
     
   ],
   imports: [
@@ -38,15 +33,14 @@ import { FormsModule } from '@angular/forms';
     HighchartsChartModule,
     MatTooltipModule,
     MatInputModule,
-    FormsModule
+    FormsModule,
+    MatAutocompleteModule,
+    ReactiveFormsModule
   ],
   exports: [
     HeaderComponent,
     FooterComponent,
-    SidebarComponent,
-    AreaComponent,
-    CardComponent,
-    PieComponent
+    SidebarComponent
   ]
 })
 export class SharedModule { }

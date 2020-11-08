@@ -1,0 +1,26 @@
+<!-- <div class="profile-card">
+    <header>
+      <a target="_blank">
+        <img src="{{picture}}" class="hoverZoomLink">
+      </a>
+    </header>
+    <div class="profile-bio">
+        <p class="p1">
+            {{nickname}}
+        </p>
+    <p class="p2">
+        {{email}}
+      </p>
+      </div>
+</div> -->
+
+<div class="example-container">
+<mat-card class="example-card">
+    <img class="mat-card-img" src="{{picture}}" alt="">
+    <div class="content">
+    <mat-card-title>{{nickname}}</mat-card-title>
+    <mat-card-subtitle>{{email}}</mat-card-subtitle>
+    <button mat-raised-button routerLink="/user">Edit</button>
+</div>
+  </mat-card>
+</div>

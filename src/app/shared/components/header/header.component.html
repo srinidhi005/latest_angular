@@ -8,37 +8,32 @@
 
         <div fxFlex fxLayout="row" fxLayoutAlign="flex-end">
             <ul fxLayout="row" fxLayoutGap="20px">
-
                 <li routerLinkActive="list-item-active" routerLink="/addcompany">
-                        <button mat-icon-button #tooltip="matTooltip"
+                        <button mat-icon-button #tooltip="matTooltip" id="addcompany-button"
                         matTooltip="Upload Company Statement">
                             <mat-icon>note_add</mat-icon>
                         </button>
                 </li>
-                <!-- <li>
-                    <input matInput type="text" [(ngModel)]="value">
-                    <button mat-button *ngIf="value" matSuffix mat-icon-button aria-label="Clear" (click)="value=''">
-                      <mat-icon>close</mat-icon>
-                    </button>
-                   </li> -->
+
                 <li>
-                    <button mat-icon-button>
-                        <mat-icon>settings</mat-icon>
-                    </button>
-                </li>
-                <li>
-                    <button mat-button [matMenuTriggerFor]="menu">
-                        <mat-icon>person_outline</mat-icon>
+                    <button mat-button [matMenuTriggerFor]="menu" id="user-icon">
+                        <mat-icon><img src="{{picture}}" alt="" class="img-profile"></mat-icon>
                     </button>
                     <mat-menu #menu="matMenu">
-                        <button mat-menu-item>
+                        <button mat-menu-item  routerLinkActive="list-item-active" routerLink="/profile">
+                            <mat-icon>person_outline</mat-icon>
+                            Profile
+                        </button>
+                        <button mat-menu-item  (click)="auth.logout()">
                             <mat-icon>exit_to_app</mat-icon>
                             Sign out
                         </button>
                     </mat-menu>
-
                 </li>
             </ul>
         </div>
     </mat-toolbar-row>
 </mat-toolbar>
+
+
+

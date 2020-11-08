@@ -1,7 +1,12 @@
-<mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
 
 <div fxLayout="row" fxLayoutAlign="space-between center" fxLayoutGap="20px">
     <div fxFlex="100">
+        <mat-form-field>
+            <mat-icon matPrefix class="search-icon">search</mat-icon>
+            <mat-label>Search</mat-label>
+            <input matInput (keyup)="applyFilter($event)" placeholder="Ex. Company" #input>
+          </mat-form-field>
+        <mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
         <div class="mat-elevation-z8">
             <table mat-table [dataSource]="dataSource" multiTemplateDataRows>
 
@@ -63,8 +68,6 @@
                       </div>
                     </td>
                   </ng-container>
-                
-
                 <tr mat-header-row *matHeaderRowDef="displayedColumns; sticky: true"></tr>
                 <tr mat-row *matRowDef="let element; columns: displayedColumns;"
       class="example-element-row"
@@ -73,9 +76,7 @@
   </tr>
   <tr mat-row *matRowDef="let row; columns: ['expandedDetail']" class="example-detail-row"></tr>
             </table>
-
             <mat-paginator class="mat-paginator-sticky" [pageSizeOptions]="[100, 200, 500]"></mat-paginator>
         </div>
-
     </div>
 </div>

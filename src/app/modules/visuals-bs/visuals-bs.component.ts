@@ -36,6 +36,7 @@ export class VisualsBsComponent implements OnInit {
   companyName=this.UserDetailModelService.getSelectedCompany();
   BsfinancialObj = new Map();
   Highcharts = Highcharts;
+  companySelected = localStorage.getItem('companySelected');
   constructor(
     private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
@@ -54,7 +55,7 @@ export class VisualsBsComponent implements OnInit {
   const ALArray=[];
   const OCLArray=[];
 
-      this.apiService.getData(this.urlConfig.getBsActualsAPI()+this.companyName).subscribe((res:any)=>{
+      this.apiService.getData(this.urlConfig.getBsActualsAPI()+this.companySelected).subscribe((res:any)=>{
       this.progressBar=true;
        for (let j=0; j<res.length; j++) {
            this.BsfinancialObj.set(res[j].asof,{
@@ -81,7 +82,7 @@ export class VisualsBsComponent implements OnInit {
            });
        }
 
-    this.apiService.getData(this.urlConfig.getScenarioAPI()+this.companyName).subscribe((res:any)=>{
+    this.apiService.getData(this.urlConfig.getScenarioAPI()+this.companySelected).subscribe((res:any)=>{
       this.scenarioArray=res.scenarios;
      this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
       let scenarioNumber=0;
@@ -92,7 +93,7 @@ export class VisualsBsComponent implements OnInit {
       else{
         this.inprogress = true;
       }
-      this.apiService.getData(this.urlConfig.getBsProjectionsAPIGET()+this.companyName+"&scenario="+scenarioNumber).subscribe((res:any)=>{
+      this.apiService.getData(this.urlConfig.getBsProjectionsAPIGET()+this.companySelected+"&scenario="+scenarioNumber).subscribe((res:any)=>{
         this.progressBar=false;
         if(Array.isArray(res)){ 
           for (let j=0; j<res.length; j++) {
@@ -513,7 +514,20 @@ HC_exporting(Highcharts);
         }
     }
     this.apiService.postData(this.urlConfig.getBsProjectionsAPIPOST()+this.companyName,JSON.stringify(inputArray)).subscribe((res:any)=>{
-      
+      if(res.message=="Success"){
+        this._snackBar.openFromComponent(uploadSnackBarBSComponent, {
+          duration: 5000,
+          horizontalPosition: this.horizontalPosition,
+          verticalPosition: this.verticalPosition
+        });
+        }
+        else{
+          this._snackBar.openFromComponent(uploadFailureSnackBarBSComponent, {
+            duration: 5000,
+            horizontalPosition: this.horizontalPosition,
+            verticalPosition: this.verticalPosition
+          });
+        }
     });
     this.ngOnInit();
     } 
@@ -521,15 +535,94 @@ HC_exporting(Highcharts);
       let existingScenarios = this.UserDetailModelService.getScenarioNumber();
       if(existingScenarios.length < 9){
         this.scenario = existingScenarios.length ;
+        this._snackBar.openFromComponent(uploadSnackBarBSAddComponent, {
+          duration: 5000,
+          horizontalPosition: this.horizontalPosition,
+          verticalPosition: this.verticalPosition
+        });
         this.ngOnInit();
+      }
+      else{
+        this._snackBar.openFromComponent(uploadFailureSnackBarBSAddComponent, {
+          duration: 5000,
+          horizontalPosition: this.horizontalPosition,
+          verticalPosition: this.verticalPosition
+        });
       }
     }
     loadScenario(index:number){
-      if(index != 0){
+    
         this.scenario = index;
         this.ngOnInit();
-      }
+      
     }
 }
 
 
+@Component({
+  selector: 'snackBar',
+  templateUrl: 'snackBar.html',
+  styles: [`
+    .snackBar{
+      color: #fff;
+    }
+    b{
+      color:#fff !important;
+    }
+    .material-icons{
+      color:lightgreen;
+    }
+  `],
+})
+export class uploadSnackBarBSComponent {}
+
+@Component({
+  selector: 'snackBar',
+  templateUrl: 'snackBar.html',
+  styles: [`
+    .snackBar{
+      color: #fff;
+    }
+    b{
+      color:#fff !important;
+    }
+    .material-icons{
+      color:lightgreen;
+    }
+  `],
+})
+export class uploadFailureSnackBarBSComponent {}
+
+@Component({
+  selector: 'snackBarAddScenario',
+  templateUrl: 'snackBarAddScenario.html',
+  styles: [`
+    .snackBar{
+      color: #fff;
+    }
+    b{
+      color:#fff !important;
+    }
+    .material-icons{
+      color:lightgreen;
+    }
+  `],
+})
+export class uploadSnackBarBSAddComponent {}
+
+@Component({
+  selector: 'snackBarAddScenarioFailure',
+  templateUrl: 'snackBarAddScenarioFailure.html',
+  styles: [`
+    .snackBar{
+      color: #fff;
+    }
+    b{
+      color:#fff !important;
+    }
+    .material-icons{
+      color:lightgreen;
+    }
+  `],
+})
+export class uploadFailureSnackBarBSAddComponent {}

@@ -5,6 +5,29 @@ import {UserDetailModelService} from 'src/app/shared/user-detail-model.service';
 import jsPDF from 'jspdf';
 import autoTable from 'jspdf-autotable';
 
+export interface PLElement {
+  inMillions:number;
+  "Total Revenue":string;
+  "Revenue Y-O-Y Growth rate":string;
+  "(-) Cost of Goods Sold (COGS)":string;
+  "Gross Profit":string;
+  "Gross Margin":string;
+  "(-) Selling, General & Administrative Expense (SG&A)":string;
+  "EBIT":string;
+  "EBIT Margin":string;
+  "(+) Depreciation & Amortization (D&A)":string;
+  "EBITDA":string;
+  "EBITDA Margin":string;
+  "(-) Net Interest/Other Income Expense":string;
+  "EBT":string;
+  "EBT Margin":string;
+  "(-) Taxes":string;
+  "Net Income":string;
+  "Net Income Margin":string;
+}
+
+let ELEMENT_PL_PDF: PLElement[] = [];
+
 @Component({
   selector: 'app-plmetrics',
   templateUrl: './plmetrics.component.html',
@@ -12,7 +35,6 @@ import autoTable from 'jspdf-autotable';
 })
 
 export class PLMetricsComponent implements OnInit {
-  yearsArray=[];
   scenarioArray=[];
   scenario=this.UserDetailModelService.getSelectedScenario();
   companyName=this.UserDetailModelService.getSelectedCompany();
@@ -37,6 +59,7 @@ export class PLMetricsComponent implements OnInit {
   'Net Income Margin'];
   displayedColumns: string[]=[];
   displayData: any[];
+  companySelected = localStorage.getItem('companySelected');
   constructor(
     private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
@@ -44,15 +67,17 @@ export class PLMetricsComponent implements OnInit {
   ) { }
 
   ngOnInit() {
+    const ELEMENT_PL: PLElement[] = [];
       this.progressBar=true;
       var previousAmount;
-    this.apiService.getData(this.urlConfig.getIsActualsAPI()+this.companyName).subscribe((res:any)=>{
+    this.apiService.getData(this.urlConfig.getIsActualsAPI()+this.companySelected).subscribe((res:any)=>{
       for (let j=0; j<res.length; j++) {
         if( res[j].latest === 0){
           previousAmount = res[j].totalrevenue;
         }
       this.financialObj.set(res[j].asof,{
         "totalRevenue":res[j].totalrevenue,
+        "revenuepercent" : res[j].revenuepercent,
         "COGS":res[j].cogs,
         "GrossProfit" : res[j].grossprofit, 
         "GrossMargin":res[j].grossprofitmargin,
@@ -65,15 +90,19 @@ export class PLMetricsComponent implements OnInit {
         "EBT" : res[j].ebt,
         "EBTMargin":res[j].ebtmargin,
         "Taxes":res[j].taxes,
-        "revenuepercent" : res[j].revenuepercent,
         "netIterestExpense" : res[j].netinterest,
         "NetIncome":res[j].netincome,
         "NetIncomeMargin":res[j].netincomemargin
           });
         }
-    this.apiService.getData(this.urlConfig.getScenarioAPI()+this.companyName).subscribe((res:any)=>{
+    this.apiService.getData(this.urlConfig.getScenarioAPI()+this.companySelected).subscribe((res:any)=>{
       this.scenarioArray=res.scenarios;
-      this.apiService.getData(this.urlConfig.getIsProjectionsAPIGET()+this.companyName+"&scenario="+this.scenario).subscribe((res:any)=>{
+      this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
+      let scenarioNumber=0;
+      if(res.scenarios.includes(this.scenario)){
+        scenarioNumber=this.scenario;
+      }
+      this.apiService.getData(this.urlConfig.getIsProjectionsAPIGET()+this.companySelected+"&scenario="+scenarioNumber).subscribe((res:any)=>{
         let totalRevenue=0;  
         for (let j=0; j<res.length; j++) {
           if(j == 0){
@@ -93,57 +122,59 @@ export class PLMetricsComponent implements OnInit {
                   "DandA":res[j].da, 
                   "EBITDA" : res[j].ebitda, 
                   "EBITDAMargin":res[j].ebitdamargin,
-                  "netIterestExpense" : res[j].netinterestdollars,
                   "EBT" : res[j].ebt,
                   "EBTMargin":res[j].ebtmargin,
                   "Taxes":res[j].taxes,
+                  "netIterestExpense" : res[j].netinterestdollars,
                   "NetIncome":res[j].netincome,
                   "NetIncomeMargin":res[j].netincomemargin,
           });
         }
         this.financialObj.forEach((v,k) => {
-          var pushData={
-            inMillions:k,
-            "Total Revenue":v.totalRevenue,
-            "Revenue Y-O-Y Growth rate":v.revenuepercent+"%",
-            "(-) Cost of Goods Sold (COGS)":v.COGS,
-            "Gross Profit":v.GrossProfit,
-            "Gross Margin":v.GrossMargin+"%",
-            "(-) Selling, General & Administrative Expense (SG&A)":v.SGA,
-            "EBIT":v.EBIT,
+        var pushData={
+            inMillions : k,
+            "Total Revenue" : "$ "+v.totalRevenue,
+            "Revenue Y-O-Y Growth rate" : v.revenuepercent+"%",
+            "(-) Cost of Goods Sold (COGS)" : "$ "+v.COGS,
+            "Gross Profit" : "$ "+v.GrossProfit,
+            "Gross Margin" : v.GrossMargin+"%",
+            "(-) Selling, General & Administrative Expense (SG&A)" : "$ "+v.SGA,
+            "EBIT" : "$ "+v.EBIT,
             "EBIT Margin":v.EBITMargin+"%",
-            "(+) Depreciation & Amortization (D&A)":v.DandA,
-            "EBITDA":v.EBITDA,
+            "(+) Depreciation & Amortization (D&A)" : "$ "+v.DandA,
+            "EBITDA" : "$ "+v.EBITDA,
             "EBITDA Margin":v.EBITDAMargin+"%",
-            "(-) Net Interest/Other Income Expense":v.netIterestExpense,
-            "EBT":v.EBT,
+            "(-) Net Interest/Other Income Expense" : "$ "+v.netIterestExpense,
+            "EBT" : "$ "+v.EBT,
             "EBT Margin":v.EBTMargin+"%",
-            "(-) Taxes":v.Taxes,
-            "Net Income":v.NetIncome,
-            "Net Income Margin":v.NetIncomeMargin+"%"
+            "(-) Taxes" : "$ "+v.Taxes,
+            "Net Income" : "$ "+v.NetIncome,
+            "Net Income Margin" : "$ "+v.NetIncomeMargin+"%"
           };
-          ELEMENT_D.push(pushData);
+          ELEMENT_PL.push(pushData);
       });
-      this.displayedColumns = ['0'].concat(ELEMENT_D.map(x => x.inMillions.toString()));
-      this.displayData = this.inputColumns.map(x => this.formatInputRow(x));
+      ELEMENT_PL_PDF=ELEMENT_PL;
+      this.displayedColumns = ['0'].concat(ELEMENT_PL.map(x => x.inMillions.toString()));
+      this.displayData = this.inputColumns.map(x => formatInputRow(x));
       this.progressBar=false;
         });//end of projections
       });//end of Save Scenarios
     });//end of actuals
-  }
-  formatInputRow(row) {
-    const output = {};
-    output[0] = row;
-    for (let i = 0; i < ELEMENT_D.length; ++i) {
-      output[ELEMENT_D[i].inMillions] = ELEMENT_D[i][row];
+   function formatInputRow(row) {
+      const output = {};
+      output[0] = row;
+      for (let i = 0; i < ELEMENT_PL.length; ++i) {
+        output[ELEMENT_PL[i].inMillions] = ELEMENT_PL[i][row];
+      }
+      return output;
     }
-    return output;
   }
+ 
   loadScenario(index:number){
-    if(index != 0){
+  
       this.scenario = index;
       this.ngOnInit();
-  }
+  
   }
 
   exportToXLSX(){}
@@ -168,7 +199,7 @@ export class PLMetricsComponent implements OnInit {
   let taxes=[];
   let netIncome=[];
   let netIncomeMargin=[];
-  ELEMENT_D.forEach(obj => {
+  ELEMENT_PL_PDF.forEach(obj => {
     inMillionsYear.push(obj["inMillions"]);
     totalRevenue.push(obj["Total Revenue"]);
     revenueGrowthRate.push(obj["Revenue Y-O-Y Growth rate"]);
@@ -218,26 +249,4 @@ export class PLMetricsComponent implements OnInit {
   }
 }
 
-// ["rowname","trvalues"]
 
-export interface PLElement {
-  inMillions:number;
-  "Total Revenue":number;
-  "Revenue Y-O-Y Growth rate":string;
-  "(-) Cost of Goods Sold (COGS)":number;
-  "Gross Profit":number;
-  "Gross Margin":string;
-  "(-) Selling, General & Administrative Expense (SG&A)":number;
-  "EBIT":number;
-  "EBIT Margin":string;
-  "(+) Depreciation & Amortization (D&A)":number;
-  "EBITDA":number;
-  "EBITDA Margin":string;
-  "(-) Net Interest/Other Income Expense":number;
-  "EBT":number;
-  "EBT Margin":string;
-  "(-) Taxes":number;
-  "Net Income":number;
-  "Net Income Margin":string;
-}
-const ELEMENT_D: PLElement[] = [];

@@ -36,6 +36,7 @@ export class StatementComponent implements OnInit {
   downloadLink:any;
   downloadAction:any;
   url:string;
+  companiesArray:any = [];
   statementResponse:any;
   expandedElement: PeriodicElement | null;
   displayedColumns: string[] = ['position', 'name', 'company', 'industry','createdOn','createdBy','download','delete'];
@@ -44,6 +45,10 @@ export class StatementComponent implements OnInit {
   @ViewChild('downloadForm',{static:true}) downloadForm:any;
   public downloadGroup = this.formBuilder.group({
   });
+  applyFilter(event: Event) {
+    const filterValue = (event.target as HTMLInputElement).value;
+    this.dataSource.filter = filterValue.trim().toLowerCase();
+  }
   constructor(
     private apiService:RMIAPIsService,
     private userDetailModelService:UserDetailModelService,
@@ -52,12 +57,9 @@ export class StatementComponent implements OnInit {
     public formBuilder: FormBuilder
     ) { }
 
-  ngOnInit() {
-    
+  ngOnInit():void {
     this.progressBar=true;
-    this.dataSource.paginator = this.paginator;
     this.apiService.getData(this.urlConfig.getStatementAPI()).subscribe((res:any)=>{
-      console.log("res",res);
     const data = res.map((el,index)=>({...el,position:index+1,action:null}));
     this.dataset=data;
     for (let index=0; index<=data.length;index++){
@@ -73,6 +75,8 @@ export class StatementComponent implements OnInit {
           filename:data[index].filename,
     }
     ELEMENT_DATA.push(pushData);
+    this.dataSource.paginator = this.paginator;
+
     this.dataSource._updateChangeSubscription();
     this.progressBar=false;
           }
@@ -94,7 +98,6 @@ export class StatementComponent implements OnInit {
     this.dataSource._updateChangeSubscription();
     this.dataSource._renderChangesSubscription;      
   });
-  
   }
 
   downloadStatement(element:any){
@@ -106,10 +109,12 @@ export class StatementComponent implements OnInit {
     this.userDetailModelService.getSelectedCompany();
   }
   incomeStatement(element:any){
+    localStorage.setItem('companySelected',element.name);
     this.userDetailModelService.setSelectedCompany(element.name);
     this.userDetailModelService.setSelectedScenario(1);
   }
   balanceStatement(element:any){
+    localStorage.setItem('companySelected',element.name);
     this.userDetailModelService.setSelectedCompany(element.name);
     this.userDetailModelService.setSelectedScenario(1);
   }

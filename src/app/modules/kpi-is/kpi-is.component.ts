@@ -54,7 +54,7 @@ export class KpiIsComponent implements OnInit {
   ELEMENT_KPI_PROJECTIONS: PeriodicElement[] = [];
   dataSourceActuals = new MatTableDataSource<PeriodicElement>(this.ELEMENT_KPI_ACTUALS);
   dataSourceProjections=new MatTableDataSource<PeriodicElement>(this.ELEMENT_KPI_PROJECTIONS);
- 
+  companySelected = localStorage.getItem('companySelected');
   constructor(
     private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
@@ -63,7 +63,7 @@ export class KpiIsComponent implements OnInit {
 
   ngOnInit() {
     this.progressBar=true;
-    this.apiService.getData(this.urlConfig.getIsKPIActuals()+this.companyName).subscribe((res:any)=>{
+    this.apiService.getData(this.urlConfig.getIsKPIActuals()+this.companySelected).subscribe((res:any)=>{
     this.dataValuesActuals = [res[0].revenuecagr,res[0].cogscagr,res[0].grossprofitcagr,res[0].ebitdacagr,
     res[0].avggrossmargin,res[0].avgsgaasrevenue,res[0].avgebitmargin,res[0].avgdnaasrevenue,
     res[0].avgebitdamargin,res[0].avgebtmargin,res[0].avgnetincomemargin];
@@ -80,7 +80,7 @@ export class KpiIsComponent implements OnInit {
       }
       this.progressBar=false;
     });
-    this.apiService.getData(this.urlConfig.getScenarioAPI()+this.companyName).subscribe((res:any)=>{
+    this.apiService.getData(this.urlConfig.getScenarioAPI()+this.companySelected).subscribe((res:any)=>{
     this.progressBar=true;
     this.scenarioArray=res.scenarios;
      this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
@@ -88,7 +88,7 @@ export class KpiIsComponent implements OnInit {
       if(res.scenarios.includes(this.scenario)){
         scenarioNumber=this.scenario;
       }
-      this.apiService.getData(this.urlConfig.getIsKPIProjections()+this.companyName+"&scenario="+scenarioNumber).subscribe((res:any)=>{
+      this.apiService.getData(this.urlConfig.getIsKPIProjections()+this.companySelected+"&scenario="+scenarioNumber).subscribe((res:any)=>{
         this.progressBar=true;
         this.dataValuesProjections = [res[0].revenuecagr,res[0].cogscagr,res[0].grossprofitcagr,res[0].ebitdacagr,
         res[0].avggrossmargin,res[0].avgsgaasrevenue,res[0].avgebitmargin,res[0].avgdnaasrevenue,
@@ -108,5 +108,10 @@ export class KpiIsComponent implements OnInit {
       });
     });
   }
-
+  loadScenario(index:number){
+  
+      this.scenario = index;
+      this.ngOnInit();
+  
+}
 }

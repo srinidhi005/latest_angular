@@ -19,8 +19,6 @@ export class RMIAPIsService {
     this.GETheaders = new HttpHeaders({      
       'Content-Type': 'application/json',
       "Content-Encoding": 'none',
-      "Access-Control-Allow-Headers": "Content-Type",
-      "Access-Control-Allow-Origin": "*",
       "authorization": "Basic cm1pX3VzZXI6cm1pMzIxIUAj",
       "cache-control": "no-cache",
       "postman-token": "648dcbfa-30ef-3359-f29a-31b2038f29ac"
@@ -53,7 +51,15 @@ getData(url:string){
     })
       );
   }
-
+  uploadUserData(url:string,input:Object){
+    return this.http.post(url,input,{headers:this.uploadHeaders})
+    .pipe(
+      catchError(err => {
+        console.log('Handling error getData', err);
+        return throwError(err);
+    })
+      );
+  }
   postData(url:string,input:Object){
     return this.http.post(url,input,{headers:this.POSTheaders})
     .pipe(

@@ -4,6 +4,30 @@ import { RMIAPIsService } from 'src/app/shared/rmiapis.service';
 import {UserDetailModelService} from 'src/app/shared/user-detail-model.service';
 import jsPDF from 'jspdf';
 import autoTable from 'jspdf-autotable';
+export interface PLElement {
+  inMillions:number;
+  "Cash Equivalents":string;
+  "Accounts Receivable":string;
+  "Inventories":string;
+  "Prepaid Expenses & Other Current Assets":string;
+  "Total Current Assets":string;
+  "Property Plant & Equipment":string;
+  "Intangible Assets":string;
+  "Goodwill" :string;
+  "Other Assets":string;
+  "Total Assets" : string;
+  "Current Portion Long Term Debt":string;
+  "Accounts Payable":string;
+  "Accrued Liabilities" : string;
+  "Other Current Liabilities" : string;
+  "Total Current Liabilities":string;
+  "Long Term Debt":string;
+  "Other Liabilities":string;
+  "Total Shareholders Equity":string;
+  "Total Liabilities and Shareholders Equity":string;
+  "Memo Check":string;
+}
+let ELEMENT_BS_PDF: PLElement[] = [];
 
 @Component({
   selector: 'app-bsmetrics',
@@ -12,7 +36,6 @@ import autoTable from 'jspdf-autotable';
 })
 
 export class BsmetricsComponent implements OnInit {
-  yearsArray=[];
   scenarioArray=[];
   scenario=this.UserDetailModelService.getSelectedScenario();
   companyName=this.UserDetailModelService.getSelectedCompany();
@@ -40,6 +63,7 @@ export class BsmetricsComponent implements OnInit {
   'Memo Check'];
   displayedColumns: string[]=[];
   displayData: any[];
+  companySelected = localStorage.getItem('companySelected');
   constructor(
     private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
@@ -47,10 +71,10 @@ export class BsmetricsComponent implements OnInit {
   ) { }
 
   ngOnInit() {
-   
+    const ELEMENT_BS: PLElement[] = [];
       this.progressBar=true;
   var memocheck;
-    this.apiService.getData(this.urlConfig.getBsActualsAPI()+this.companyName).subscribe((res:any)=>{
+    this.apiService.getData(this.urlConfig.getBsActualsAPI()+this.companySelected).subscribe((res:any)=>{
       for (let j=0; j<res.length; j++) {
         if(res[j].memocheck === 0){
           memocheck="Match";
@@ -82,15 +106,14 @@ export class BsmetricsComponent implements OnInit {
         "Memo Check":memocheck
                 });
         }
-    this.apiService.getData(this.urlConfig.getScenarioAPI()+this.companyName).subscribe((res:any)=>{
+    this.apiService.getData(this.urlConfig.getScenarioAPI()+this.companySelected).subscribe((res:any)=>{
       this.scenarioArray=res.scenarios;
      this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
       let scenarioNumber=0;
       if(res.scenarios.includes(this.scenario)){
         scenarioNumber=this.scenario;
       }
-      this.apiService.getData(this.urlConfig.getBsProjectionsAPIGET()+this.companyName+"&scenario="+scenarioNumber).subscribe((res:any)=>{
-        console.log("getBsProjectionsAPIGET",res);
+      this.apiService.getData(this.urlConfig.getBsProjectionsAPIGET()+this.companySelected+"&scenario="+scenarioNumber).subscribe((res:any)=>{
         for (let j=0; j<res.length; j++) {
           if(res[j].memocheck === 0){
             memocheck="Match";
@@ -121,52 +144,55 @@ export class BsmetricsComponent implements OnInit {
             "Memo Check":memocheck
           });
         }
+        
         this.financialObj.forEach((v,k) => {
           var pushData={
             inMillions:k,
-            "Cash Equivalents":v.cashequivalents,
-            "Accounts Receivable":v.accountsreceivable,
-            "Inventories":v.inventories,
-            "Prepaid Expenses & Other Current Assets":v.othercurrentassets,
-            "Total Current Assets":v.totalcurrentassets, 
-            "Property Plant & Equipment":v.ppe,
-            "Intangible Assets":v.intangibleassets,
-            "Goodwill" : v.goodwill, 
-            "Other Assets":v.otherassets,
-            "Total Assets" : v.totalassets,
-            "Current Portion Long Term Debt":v.currentportionlongtermdebt,
-            "Accounts Payable":v.accountspayable,
-            "Accrued Liabilities" : v.accruedliabilities,
-            "Other Current Liabilities" : v.othercurrentliabilities,
-            "Total Current Liabilities":v.totalcurrentliabilities,
-            "Long Term Debt":v.longtermdebt,
-            "Other Liabilities":v.otherliabilities,
-            "Total Shareholders Equity":v.totalshareholdersequity,
-            "Total Liabilities and Shareholders Equity":v.totalliabilitiesandequity,
-            "Memo Check":memocheck
+            "Cash Equivalents" : "$ " +v.cashequivalents,
+            "Accounts Receivable" : "$ " +v.accountsreceivable,
+            "Inventories": "$ " +v.inventories,
+            "Prepaid Expenses & Other Current Assets" : "$ "+v.othercurrentassets,
+            "Total Current Assets" : "$ "+v.totalcurrentassets, 
+            "Property Plant & Equipment" : "$ "+v.ppe,
+            "Intangible Assets" : "$ "+v.intangibleassets,
+            "Goodwill"  : "$ "+ v.goodwill, 
+            "Other Assets" : "$ "+v.otherassets,
+            "Total Assets"  : "$ "+ v.totalassets,
+            "Current Portion Long Term Debt" : "$ "+v.currentportionlongtermdebt,
+            "Accounts Payable" : "$ "+v.accountspayable,
+            "Accrued Liabilities"  : "$ "+ v.accruedliabilities,
+            "Other Current Liabilities"  : "$ "+ v.othercurrentliabilities,
+            "Total Current Liabilities" : "$ "+v.totalcurrentliabilities,
+            "Long Term Debt" : "$ "+v.longtermdebt,
+            "Other Liabilities" : "$ "+v.otherliabilities,
+            "Total Shareholders Equity" : "$ "+v.totalshareholdersequity,
+            "Total Liabilities and Shareholders Equity" : "$ "+v.totalliabilitiesandequity,
+            "Memo Check" : memocheck
           };
-          ELEMENT_D.push(pushData);
+          ELEMENT_BS.push(pushData);
       });
-      this.displayedColumns = ['0'].concat(ELEMENT_D.map(x => x.inMillions.toString()));
-      this.displayData = this.inputColumns.map(x => this.formatInputRow(x));
+      this.displayedColumns = ['0'].concat(ELEMENT_BS.map(x => x.inMillions.toString()));
+      this.displayData = this.inputColumns.map(x => formatInputRow(x));
       this.progressBar=false;
         });//end of projections
       });//end of Save Scenarios
     });//end of actuals
-  }
-  formatInputRow(row) {
-    const output = {};
-    output[0] = row;
-    for (let i = 0; i < ELEMENT_D.length; ++i) {
-      output[ELEMENT_D[i].inMillions] = ELEMENT_D[i][row];
+   function formatInputRow(row) {
+      const output = {};
+      output[0] = row;
+      for (let i = 0; i < ELEMENT_BS.length; ++i) {
+        output[ELEMENT_BS[i].inMillions] = ELEMENT_BS[i][row];
+      }
+      return output;
     }
-    return output;
+    ELEMENT_BS_PDF=ELEMENT_BS
   }
+
   loadScenario(index:number){
-    if(index != 0){
+   
       this.scenario = index;
       this.ngOnInit();
-  }
+  
   }
   exportToXLSX(){}
   exportToPDF(){
@@ -193,7 +219,7 @@ export class BsmetricsComponent implements OnInit {
   let totalShareholdersEquity=[];
   let totalLiabilitiesShareholdersEquity=[];
   let memocheck=[];
-  ELEMENT_D.forEach(obj => {
+  ELEMENT_BS_PDF.forEach(obj => {
     inMillionsYear.push(obj["inMillions"]);
     cashEquivalents.push(obj["Cash Equivalents"]);
     accountsReceivable.push(obj["Accounts Receivable"]);
@@ -250,27 +276,4 @@ export class BsmetricsComponent implements OnInit {
   }
 }
 
-export interface PLElement {
-  inMillions:number;
-  "Cash Equivalents":number;
-  "Accounts Receivable":number;
-  "Inventories":number;
-  "Prepaid Expenses & Other Current Assets":number;
-  "Total Current Assets":number;
-  "Property Plant & Equipment":number;
-  "Intangible Assets":number;
-  "Goodwill" :number;
-  "Other Assets":number;
-  "Total Assets" : number;
-  "Current Portion Long Term Debt":number;
-  "Accounts Payable":number;
-  "Accrued Liabilities" : number;
-  "Other Current Liabilities" : number;
-  "Total Current Liabilities":number;
-  "Long Term Debt":number;
-  "Other Liabilities":number;
-  "Total Shareholders Equity":number;
-  "Total Liabilities and Shareholders Equity":number;
-  "Memo Check":string;
-}
-const ELEMENT_D: PLElement[] = [];
+

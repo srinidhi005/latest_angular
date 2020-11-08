@@ -32,11 +32,13 @@ export class VisualsISComponent implements OnInit {
   PEBTOptions:{};
   PNIOptions:{};
   yearsArray=[];
+  projectionsYearsArray=[];
   scenarioArray=[];
   scenario=this.UserDetailModelService.getSelectedScenario();
   companyName=this.UserDetailModelService.getSelectedCompany();
   financialObj = new Map();
   Highcharts = Highcharts;
+  companySelected = localStorage.getItem('companySelected');
   constructor(
     private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
@@ -56,7 +58,7 @@ export class VisualsISComponent implements OnInit {
   const NIEArray=[];
   var previousAmount;
 
-      this.apiService.getData(this.urlConfig.getIsActualsAPI()+this.companyName).subscribe((res:any)=>{
+      this.apiService.getData(this.urlConfig.getIsActualsAPI()+this.companySelected).subscribe((res:any)=>{
       for (let j=0; j<res.length; j++) {
         if( res[j].latest === 0){
           previousAmount = res[j].totalrevenue;
@@ -76,7 +78,7 @@ export class VisualsISComponent implements OnInit {
         "netIterestExpense" : res[j].netinterest
           });
         }
-    this.apiService.getData(this.urlConfig.getScenarioAPI()+this.companyName).subscribe((res:any)=>{
+    this.apiService.getData(this.urlConfig.getScenarioAPI()+this.companySelected).subscribe((res:any)=>{
       
       this.scenarioArray=res.scenarios;
      this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
@@ -88,7 +90,7 @@ export class VisualsISComponent implements OnInit {
       else{
         this.inprogress = true;
       }
-      this.apiService.getData(this.urlConfig.getIsProjectionsAPIGET()+this.companyName+"&scenario="+scenarioNumber).subscribe((res:any)=>{
+      this.apiService.getData(this.urlConfig.getIsProjectionsAPIGET()+this.companySelected+"&scenario="+scenarioNumber).subscribe((res:any)=>{
         this.progressBar=false;
         let totalRevenue=0;  
         for (let j=0; j<res.length; j++) {
@@ -116,6 +118,7 @@ export class VisualsISComponent implements OnInit {
           });
         }
           this.financialObj.forEach((v,k) => {
+            this.projectionsYearsArray.push(k);
             this.yearsArray.push(k);
             RGArray.push((v.revenuepercent == undefined)?0: v.revenuepercent);
             COGSArray.push((v.cogspercent == undefined)?0: v.cogspercent );
@@ -149,7 +152,6 @@ export class VisualsISComponent implements OnInit {
                     drop: function (e) {  
                       that.financialObj.get(e.target.category).revenueGrowth = e.target.y;
                       that.updateProjection();
-                    
                     }
                 }
             },
@@ -361,19 +363,13 @@ HC_exporting(Highcharts);
                 PNIArray.push(this.financialObj.get(key).p_NetInCome);
                 lastKey = key;
         }
-        PTRArray.shift();
-        PGPArray.shift();
-        PEBITArray.shift();
-        PEBITDAArray.shift();
-        PEBTArray.shift();
-        PNIArray.shift();
 
         this.PTROptions = {
           chart: {type: 'column',animation:false},
           title: {text: 'Total Revenue'},  
           yAxis: {title: { text: 'USD'}},
-          xAxis: {categories: this.yearsArray},
-          colors: ['skyblue','skyblue','grey','grey','grey','grey','grey'],
+          xAxis: {categories: this.projectionsYearsArray},
+          colors: ['skyblue','skyblue','skyblue','grey','grey','grey','grey'],
            plotOptions: {
             series: {stickyTracking: false},
             column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
@@ -388,8 +384,8 @@ HC_exporting(Highcharts);
           chart: {type: 'column',animation:false},
           title: {text: 'Gross Profit'},  
           yAxis: {title: {text: 'USD'}},
-          xAxis: {categories: this.yearsArray},
-          colors: ['skyblue','skyblue','grey','grey','grey','grey','grey'],
+          xAxis: {categories: this.projectionsYearsArray},
+          colors: ['skyblue','skyblue','skyblue','grey','grey','grey','grey'],
            plotOptions: {
             series: {stickyTracking: false},
             column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
@@ -404,8 +400,8 @@ HC_exporting(Highcharts);
           chart: {type: 'column',animation:false},
           title: {text: 'EBIT'},  
           yAxis: {title: {text: 'USD'}},
-          xAxis: {categories: this.yearsArray},
-          colors: ['skyblue','skyblue','grey','grey','grey','grey','grey'],
+          xAxis: {categories: this.projectionsYearsArray},
+          colors: ['skyblue','skyblue','skyblue','grey','grey','grey','grey'],
            plotOptions: {
             series: {stickyTracking: false},
             column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
@@ -420,8 +416,8 @@ HC_exporting(Highcharts);
           chart: {type: 'column',animation:false},
           title: {text: 'EBITDA'},  
           yAxis: {title: {text: 'USD'}},
-          xAxis: {categories: this.yearsArray},
-          colors: ['skyblue','skyblue','grey','grey','grey','grey','grey'],
+          xAxis: {categories: this.projectionsYearsArray},
+          colors: ['skyblue','skyblue','skyblue','grey','grey','grey','grey'],
            plotOptions: {
             series: {stickyTracking: false},
             column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
@@ -436,8 +432,8 @@ HC_exporting(Highcharts);
           chart: {type: 'column',animation:false},
           title: {text: 'EBT'},  
           yAxis: {title: {text: 'USD' }},
-          xAxis: {categories: this.yearsArray},
-          colors: ['skyblue','skyblue','grey','grey','grey','grey','grey'],
+          xAxis: {categories: this.projectionsYearsArray},
+          colors: ['skyblue','skyblue','skyblue','grey','grey','grey','grey'],
            plotOptions: {
             series: {stickyTracking: false},
             column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
@@ -452,8 +448,8 @@ HC_exporting(Highcharts);
           chart: {type: 'column',animation:false},
           title: {text: 'Net Income'},  
           yAxis: {title: {text: 'USD'}},
-          xAxis: {categories: this.yearsArray},
-          colors: ['skyblue','skyblue','grey','grey','grey','grey','grey'],
+          xAxis: {categories: this.projectionsYearsArray},
+          colors: ['skyblue','skyblue','skyblue','grey','grey','grey','grey'],
            plotOptions: {
             series: {stickyTracking: false},
             column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
@@ -507,27 +503,117 @@ HC_exporting(Highcharts);
           inputArrayJSON=JSON.stringify(inputArray);
         }
     }
-    this.apiService.postData(this.urlConfig.getIsProjectionsAPIPOST()+this.companyName,inputArrayJSON).subscribe((res:any)=>{
-        
+    this.apiService.postData(this.urlConfig.getIsProjectionsAPIPOST()+this.companySelected,inputArrayJSON).subscribe((res:any)=>{
+      if(res.message=="Success"){
+        this._snackBar.openFromComponent(uploadSnackBarISComponent, {
+          duration: 5000,
+          horizontalPosition: this.horizontalPosition,
+          verticalPosition: this.verticalPosition
+        });
+        }
+        else{
+          this._snackBar.openFromComponent(uploadFailureSnackBarISComponent, {
+            duration: 5000,
+            horizontalPosition: this.horizontalPosition,
+            verticalPosition: this.verticalPosition
+          });
+        }
     });
-   this.ngOnInit();
+    this.ngOnInit();
     } 
     //end of save
     addScenario(){
       let existingScenarios = this.UserDetailModelService.getScenarioNumber();
       if(existingScenarios.length < 9){
         this.scenario = existingScenarios.length ;
-        console.log("this.scenario",this.scenario);
+          this._snackBar.openFromComponent(uploadSnackBarISAddComponent, {
+            duration: 5000,
+            horizontalPosition: this.horizontalPosition,
+            verticalPosition: this.verticalPosition
+          });
         this.ngOnInit();
+      }
+      else{
+        this._snackBar.openFromComponent(uploadFailureSnackBarISAddComponent, {
+          duration: 5000,
+          horizontalPosition: this.horizontalPosition,
+          verticalPosition: this.verticalPosition
+        });
       }
     }
     loadScenario(index:number){
-      if(index != 0){
+     
         this.scenario = index;
         this.ngOnInit();
-      }
+      
     }
 }
 
+@Component({
+  selector: 'snackBar',
+  templateUrl: 'snackBar.html',
+  styles: [`
+    .snackBar{
+      color: #fff;
+    }
+    b{
+      color:#fff !important;
+    }
+    .material-icons{
+      color:lightgreen;
+    }
+  `],
+})
+export class uploadSnackBarISComponent {}
 
+@Component({
+  selector: 'snackBarFailure',
+  templateUrl: 'snackBarFailure.html',
+  styles: [`
+    .snackBar{
+      color: #fff;
+    }
+    b{
+      color:#fff !important;
+    }
+    .material-icons{
+      color:lightgreen;
+    }
+  `],
+})
+export class uploadFailureSnackBarISComponent {}
 
+@Component({
+  selector: 'snackBarAddScenario',
+  templateUrl: 'snackBarAddScenario.html',
+  styles: [`
+    .snackBar{
+      color: #fff;
+      text-align:center;
+    }
+    b{
+      color:#fff !important;
+    }
+    .material-icons{
+      color:lightgreen;
+    }
+  `],
+})
+export class uploadSnackBarISAddComponent {}
+
+@Component({
+  selector: 'snackBarAddScenarioFailure',
+  templateUrl: 'snackBarAddScenarioFailure.html',
+  styles: [`
+    .snackBar{
+      color: #fff;
+    }
+    b{
+      color:#fff !important;
+    }
+    .material-icons{
+      color:lightgreen;
+    }
+  `],
+})
+export class uploadFailureSnackBarISAddComponent {}

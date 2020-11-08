@@ -38,7 +38,7 @@ export class KpiBsComponent implements OnInit {
   ELEMENT_KPI_PROJECTIONS: PeriodicElement[] = [];
   dataSourceActuals = new MatTableDataSource<PeriodicElement>(this.ELEMENT_KPI_ACTUALS);
   dataSourceProjections=new MatTableDataSource<PeriodicElement>(this.ELEMENT_KPI_PROJECTIONS);
- 
+  companySelected = localStorage.getItem('companySelected');
   constructor(
     private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
@@ -47,7 +47,7 @@ export class KpiBsComponent implements OnInit {
 
   ngOnInit() {
     this.progressBar=true;
-    this.apiService.getData(this.urlConfig.getBsKPIActuals()+this.companyName).subscribe((res:any)=>{
+    this.apiService.getData(this.urlConfig.getBsKPIActuals()+this.companySelected).subscribe((res:any)=>{
     this.dataValuesActuals = [res[0].dso,res[0].inventorydays,res[0].othercurrentassetspercent,res[0].dpo,
     res[0].accruedliabilitiespercent,res[0].othercurrentliabilitiespercent];
 
@@ -64,7 +64,7 @@ export class KpiBsComponent implements OnInit {
       }
       this.progressBar=false;
     });
-    this.apiService.getData(this.urlConfig.getScenarioAPI()+this.companyName).subscribe((res:any)=>{
+    this.apiService.getData(this.urlConfig.getScenarioAPI()+this.companySelected).subscribe((res:any)=>{
     this.progressBar=true;
     this.scenarioArray=res.scenarios;
     this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
@@ -72,7 +72,7 @@ export class KpiBsComponent implements OnInit {
     if(res.scenarios.includes(this.scenario)){
       scenarioNumber=this.scenario;
     }
-    this.apiService.getData(this.urlConfig.getBsKPIProjections()+this.companyName+"&scenario="+scenarioNumber).subscribe((res:any)=>{
+    this.apiService.getData(this.urlConfig.getBsKPIProjections()+this.companySelected+"&scenario="+scenarioNumber).subscribe((res:any)=>{
       this.progressBar=true;
       this.dataValuesProjections = [res[0].dso,res[0].inventorydays,res[0].othercurrentassetspercent,res[0].dpo,
       res[0].accruedliabilitiespercent,res[0].othercurrentliabilitiespercent];
@@ -91,7 +91,13 @@ export class KpiBsComponent implements OnInit {
       });
     });
   }
-
+  loadScenario(index:number){
+   
+      this.scenario = index;
+      this.ngOnInit();
+  
 }
+}
+
 
 

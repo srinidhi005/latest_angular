@@ -2,7 +2,6 @@ import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
 import { FormControl, Validators, FormGroup } from '@angular/forms';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { RMIAPIsService } from '../../shared/rmiapis.service';
-import * as $ from 'jquery';
 import {MatSnackBar,MatSnackBarHorizontalPosition,MatSnackBarVerticalPosition} from '@angular/material/snack-bar';
 @Component({
   selector: 'app-add-company',
@@ -15,7 +14,7 @@ export class AddCompanyComponent implements OnInit {
   horizontalPosition: MatSnackBarHorizontalPosition = 'center';
   verticalPosition: MatSnackBarVerticalPosition = 'top';
   companyname: any;
-  createdby:string="admin"
+  createdby: any;
   period:any[]=['Monthly', 'Quarterly', 'Yearly'];
   statementtype:any[]=['Income Statement','Balance Sheet','Cash Flow Statement','All Statements'];
   industry:any[]=['Communications', 'Consumer & Retail','Distribution & Logistics', 'Energy & Natural Resources','Entertainment & Media','Financial Institutions & Sponsors', 'Food & Beverage', 'General Services', 'Healthcare','Hospitality','Industrials','Power, Infrastructure & Utilities','Real Estate','Technology','Telecommunications','Transportation']
@@ -43,6 +42,7 @@ export class AddCompanyComponent implements OnInit {
   }
 
   submit() {
+    const nickname = localStorage.getItem('nickname');
     if (!this.form.valid) {
       markAllAsDirty(this.form);
       return;
@@ -60,8 +60,7 @@ export class AddCompanyComponent implements OnInit {
     postForm.append("file", this.form.value.file);
     postForm.append("statementtype", this.form.value.statementtype);
     postForm.append("companyname", this.form.value.companyname);
-    postForm.append("createdby", "admin");
-    
+    postForm.append("createdby", nickname);
     postForm.append("period", this.form.value.period);
     postForm.append("industry", this.form.value.industry);
     console.log(JSON.stringify(postForm));
@@ -73,18 +72,19 @@ export class AddCompanyComponent implements OnInit {
     this.inprogress = true;
     this.RMIAPIsService.uploadData(this.UrlConfigService.getuploadStatementAPI(),postForm)
     .subscribe((res:any)=>{
+      console.log(res.Result,"res upload")
       if(res.Result == "File Uploaded Successfully"){
       this.inprogress = false;
-      this._snackBar.openFromComponent(uploadSnackBarComponent, {
-        duration: 5000,
+      this._snackBar.openFromComponent(uploadSnackBarStatementComponent, {
+        duration: 8000,
         horizontalPosition: this.horizontalPosition,
         verticalPosition: this.verticalPosition
       });
       }
-      else{
+      else if(res.Result == "Extraction Failed"){
         this.inprogress = false;
-        this._snackBar.openFromComponent(uploadFailureSnackBarComponent, {
-          duration: 5000,
+        this._snackBar.openFromComponent(uploadFailureSnackBarStatementComponent, {
+          duration: 8000,
           horizontalPosition: this.horizontalPosition,
           verticalPosition: this.verticalPosition
         });
@@ -98,18 +98,6 @@ export function markAllAsDirty(form: FormGroup) {
     form.controls[control].markAsDirty();
   }
 }
-
-// export function toFormData<T>(formValue: T) {
-//   const formData = new FormData();
-//   for (const key of Object.keys(formValue)) {
-//     const value = formValue[key];
-//     formData.append(key, JSON.stringify(value));
-//     console.log("key",key);
-//     console.log("valeu",value);
-//   }
-//   console.log("formData",JSON.stringify(formData));
-//   return formData;
-// }
 export function resetForm(form: FormGroup) {
   form.reset({
     file: "",
@@ -133,11 +121,11 @@ export function resetForm(form: FormGroup) {
     }
   `],
 })
-export class uploadSnackBarComponent {}
+export class uploadSnackBarStatementComponent {}
 
 @Component({
-  selector: 'snackBar',
-  templateUrl: 'snackBar.html',
+  selector: 'snackBarFailure',
+  templateUrl: 'snackBarFailure.html',
   styles: [`
     .snackBar{
       color: #fff;
@@ -150,4 +138,4 @@ export class uploadSnackBarComponent {}
     }
   `],
 })
-export class uploadFailureSnackBarComponent {}
+export class uploadFailureSnackBarStatementComponent {}

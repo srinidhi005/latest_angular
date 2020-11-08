@@ -29,5 +29,21 @@ th.mat-header-cell:last-of-type {
 .company{
   max-width:80%;
   text-overflow: hidden;
-  // overflow:hidden;
 }
+.highlight{
+  font-weight: bold;
+  background-color:#d1edf2;
+}
+.boldyears{
+  font-weight: bold;
+}
+.header{
+  margin-top:0px;
+  padding: 0 0 10px 0;
+}
+.header-align-right {
+  text-align: right;
+}
+.mat-column-0 {
+  text-align: left;
+} 

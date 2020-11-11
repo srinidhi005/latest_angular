@@ -1,6 +1,7 @@
 import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
 import { FormControl, Validators, FormGroup } from '@angular/forms';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
+import { Router } from '@angular/router';
 import { RMIAPIsService } from '../../shared/rmiapis.service';
 import {MatSnackBar,MatSnackBarHorizontalPosition,MatSnackBarVerticalPosition} from '@angular/material/snack-bar';
 @Component({
@@ -28,7 +29,8 @@ export class AddCompanyComponent implements OnInit {
   });
   constructor(private RMIAPIsService: RMIAPIsService,
     private UrlConfigService:UrlConfigService,
-    private _snackBar: MatSnackBar
+    private _snackBar: MatSnackBar,
+    private router: Router
   ) { }
 
 
@@ -75,6 +77,7 @@ export class AddCompanyComponent implements OnInit {
       console.log(res.Result,"res upload")
       if(res.Result == "File Uploaded Successfully"){
       this.inprogress = false;
+      this.router.navigate(['/statement']);
       this._snackBar.openFromComponent(uploadSnackBarStatementComponent, {
         duration: 8000,
         horizontalPosition: this.horizontalPosition,

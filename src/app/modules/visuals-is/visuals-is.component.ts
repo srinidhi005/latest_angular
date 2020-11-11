@@ -313,7 +313,7 @@ export class VisualsISComponent implements OnInit {
             series: [{data:NIEArray, dragDrop: {draggableY: true},minPointLength: 2}],
             legend: false
           }; 
-          this.updateProjection();
+          that.updateProjection();
         });//end of projections
       });//end of Save Scenarios
 
@@ -617,3 +617,4 @@ export class uploadSnackBarISAddComponent {}
   `],
 })
 export class uploadFailureSnackBarISAddComponent {}
+

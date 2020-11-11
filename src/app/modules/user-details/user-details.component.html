@@ -3,7 +3,7 @@
     <mat-card>
         <mat-card-content>
             <form [formGroup]="form" (ngSubmit)="submit()">
-              <h2 class="title">User Profile</h2>
+              <h2 class="title">Personal Details</h2>
 
               <div fxLayout="row" class="header">
                 <div fxLayout="row" fxFlex fxLayoutAlign="space-evenly center" >
@@ -46,7 +46,7 @@
                     <div fxLayout="row" class="header">
                         <div fxLayout="row" fxFlex fxLayoutAlign="center" >
                    <mat-form-field class="example-full-width">
-                        <input matInput formControlName="contactnumber" type="text" ng2TelInput [(ngModel)]=contact/>
+                        <input matInput formControlName="contactnumber" type="text" placeholder="phonenumber" ng2TelInput [(ngModel)]=contact/>
                       </mat-form-field>
                     </div>
                 </div>
@@ -95,25 +95,31 @@
                     </div>
                 </div>
                 <div fxLayout="row" class="header">
-                  <div fxLayout="row" fxFlex fxLayoutAlign="center" >
+                  <div fxLayout="row" fxFlex fxLayoutAlign="space-evenly center" >
                   <mat-form-field class="container-field">
                     <mat-label>Address</mat-label>
                     <textarea matInput formControlName="address" placeholder="Ex. 100 Main St" [(ngModel)]=address></textarea>
                   </mat-form-field>
-                </div>
-              </div>
+                
+	
 
-              <div fxLayout="row" class="header">
-                <div fxLayout="row" fxFlex fxLayoutAlign="space-evenly center" >
-                  <mat-form-field class="container-field">
-                    <mat-select placeholder="{{industryInput}}"  formControlName="industry">
+            
+			<mat-form-field class="container-field">
+				<mat-label>Industry</mat-label>
+			  
+				<mat-select placeholder="{{industryInput}}"  formControlName="industry">
                         <mat-option *ngFor="let industry of industry" [value]="industry">{{industry}}</mat-option>
                     </mat-select>
                     <mat-error *ngIf="form.get('industry').hasError('required')">
                         Industry is Required!
                       </mat-error>
                   </mat-form-field>
-                  <mat-form-field class="container-field">
+	      </div>
+	      </div>
+	      <div fxLayout="row" class="header">
+	      <div fxLayout="row" fxFlex fxLayoutAlign="space-evenly center">
+		      <mat-form-field class="container-field">
+		
                     <mat-select placeholder="{{geographyInput}}"  formControlName="geography">
                         <mat-option *ngFor="let geography of geography" [value]="geography" >{{geography}}</mat-option>
                     </mat-select>
@@ -121,19 +127,22 @@
                         geography is Required!
                       </mat-error>
                   </mat-form-field>
-                  </div>
-                </div>
-                <div fxLayout="row" class="header">
-                  <div fxLayout="row" fxFlex fxLayoutAlign="space-evenly center" >
+		  
                     <mat-form-field class="container-field">
+			    
                       <mat-select placeholder="{{companysizeInput}}"  formControlName="companysize">
-                          <mat-option *ngFor="let companysize of companysize" [value]="companysize" >{{companysize}}</mat-option>
+                         <mat-option *ngFor="let companysize of companysize" [value]="companysize" >{{companysize}}</mat-option>
                       </mat-select>
                       <mat-error *ngIf="form.get('companysize').hasError('required')">
                           Company Size is Required!
                         </mat-error>
                     </mat-form-field>
+		  </div>
+		</div>
+		<div fxLayout="row" class="header">
+			<div fxLayout="row" fxFlex fxLayoutAlign="space-evenly center">
                     <mat-form-field class="container-field">
+			    
                       <mat-select placeholder="{{capatializationInput}}"  formControlName="capatialization">
                           <mat-option *ngFor="let capatialization of capatialization" [value]="capatialization" >{{capatialization}}</mat-option>
                       </mat-select>
@@ -142,6 +151,7 @@
                         </mat-error>
                     </mat-form-field>
                     <mat-form-field class="container-field">
+			    
                       <mat-select placeholder="{{revenueInput}}"  formControlName="revenue">
                           <mat-option *ngFor="let revenue of revenue" [value]="revenue">{{revenue}}</mat-option>
                       </mat-select>
@@ -156,6 +166,7 @@
                 <button [disabled]="inprogress" mat-stroked-button type="submit" mat-raised-button>
                   Upload
                 </button>
+		<button mat-raised-button routerLink="/statement">Cancel</button>
               </div>
             </form>
         </mat-card-content>

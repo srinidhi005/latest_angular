@@ -108,10 +108,10 @@ export class KpiIsComponent implements OnInit {
       });
     });
   }
-  loadScenario(index:number){
+	  loadScenario(index:number){
   
-      this.scenario = index;
-      this.ngOnInit();
+	  this.scenario = index;
+	  this.ngOnInit();
   
-}
+	  }
 }

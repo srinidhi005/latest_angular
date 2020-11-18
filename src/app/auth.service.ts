@@ -14,7 +14,9 @@ export class AuthService {
     createAuth0Client({
       domain: "rmi-insights.us.auth0.com",
       client_id: "lLtgZM1NooB3CBkugjhEcGT43kZH3XSS",
-      redirect_uri: "https://app.rmiinsights.com/statement"
+      redirect_uri: "https://app.rmiinsights.com/statement",
+      useRefreshTokens: true,
+      cacheLocation: 'localstorage'
     })
   ) as Observable<Auth0Client>).pipe(
     shareReplay(1), // Every subscription receives the same shared value

@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
+import { AuthModule } from '@auth0/auth0-angular';
 import { DefaultComponent } from './layouts/default/default.component';
-
 import { StatementComponent } from './modules/statement/statement.component';
 import {AddCompanyComponent} from './modules/add-company/add-company.component';
 import { VisualsISComponent } from './modules/visuals-is/visuals-is.component';
@@ -32,42 +32,53 @@ const routes: Routes = [
   children: [
    {
     path: 'statement',
-    component: StatementComponent
+    component: StatementComponent,
+    canActivate: [AuthGuard],
+
   },
   {
     path: 'addcompany',
-    component: AddCompanyComponent  
+    component: AddCompanyComponent,
+    canActivate: [AuthGuard],
 }, {
     path: 'visualsIS',
-    component: VisualsISComponent
+    component: VisualsISComponent,
+    canActivate: [AuthGuard],
   },
   {
     path: 'visualsBS',
-    component: VisualsBsComponent
+    component: VisualsBsComponent,
+    canActivate: [AuthGuard],
   },
   {
     path:'IncomeStatementMetrics',
-    component:PLMetricsComponent
+    component:PLMetricsComponent,
+    canActivate: [AuthGuard],
   },
   {
     path:'BalanceSheetMetrics',
-    component:BsmetricsComponent
+    component:BsmetricsComponent,
+    canActivate: [AuthGuard],
   },
   {
     path:'KPIIncomeStatement',
-    component:KpiIsComponent
+    component:KpiIsComponent,
+    canActivate: [AuthGuard],
   },
   {
     path:'KPIBalanceSheet',
-    component:KpiBsComponent
+    component:KpiBsComponent,
+    canActivate: [AuthGuard],
   },
   {
     path:'profile',
-    component:ProfileComponent
+    component:ProfileComponent,
+    canActivate: [AuthGuard],
   },
 {
   path:'user',
-  component:UserDetailsComponent
+  component:UserDetailsComponent,
+  canActivate: [AuthGuard],
 }
 ]
 }];

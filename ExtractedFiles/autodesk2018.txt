@@ -1,0 +1,142 @@
+
+Page#1
+Table of Contents
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+AUTODESK, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In millions, except per share data)
+ 
+Fiscal year ended January 31,
+ 2018  2017  2016
+Net revenue: 
+Maintenance $ 989.6  $ 1,103.1  $ 1,152.5
+Subscription 894.3  443.1  228.1
+Total maintenance and subscription revenue 1,883.9  1,546.2  1,380.6
+License and other 172.7  484.8  1,123.5
+Total net revenue 2,056.6  2,031.0  2,504.1
+Cost of revenue: 
+Cost of maintenance and subscription revenue 214.4  191.7  162.3
+Cost of license and other revenue 72.6  110.2  159.4
+Amortization of developed technology 16.4  40.0  49.0
+Total cost of revenue 303.4  341.9  370.7
+Gross profit 1,753.2  1,689.1  2,133.4
+Operating expenses: 
+Marketing and sales 1,087.3  1,022.5  1,015.5
+Research and development 755.5  766.1  790.0
+General and administrative 305.2  287.8  293.4
+Amortization of purchased intangibles 20.2  31.8  33.2
+Restructuring charges and other facility exit costs, net 94.1  80.5  —
+Total operating expenses 2,262.3  2,188.7  2,132.1
+(Loss) income from operations (509.1)  (499.6)  1.3
+Interest and other expense, net (48.2)  (24.2)  (21.6)
+Loss before income taxes (557.3)  (523.8)  (20.3)
+Provision for income taxes (9.6)  (58.3)  (310.2)
+Net loss $ (566.9)  $ (582.1)  $ (330.5)
+Basic net loss per share
+$ (2.58)  $ (2.61)  $ (1.46)
+Diluted net loss per share
+$ (2.58)  $ (2.61)  $ (1.46)
+Weighted average shares used in computing basic net loss per share
+219.5  222.7  226.0
+Weighted average shares used in computing diluted net loss per share
+219.5  222.7  226.0
+See accompanying Notes to Consolidated Financial Statements.
+2018 Form 10-K 62
+Page#2
+Table of Contents
+AUTODESK, INC.
+CONSOLIDATED BALANCE SHEETS
+(In millions, except per share data)
+ 
+January 31, January 31, 
+ 2018  2017
+ASSETS 
+Current assets: 
+Cash and cash equivalents $ 1,078.0  $ 1,213.1
+Marketable securities 245.2  686.8
+Accounts receivable, net 438.2  452.3
+Prepaid expenses and other current assets 116.5  108.4
+Total current assets 1,877.9  2,460.6
+Marketable securities 190.8  306.2
+Computer equipment, software, furniture, and leasehold improvements, net 145.0  158.6
+Developed technologies, net 27.1  45.7
+Goodwill 1,620.2  1,561.1
+Deferred income taxes, net 81.7  63.9
+Other assets 170.9  202.0
+Total assets $ 4,113.6  $ 4,798.1
+LIABILITIES AND STOCKHOLDERS’ (DEFICIT) EQUITY
+ 
+Current liabilities: 
+Accounts payable $ 94.7  $ 93.5
+Accrued compensation 250.9  238.2
+Accrued income taxes 28.0  50.0
+Deferred revenue 1,551.6  1,270.1
+Current portion of long-term notes payable, net —  398.7
+Other accrued liabilities 198.0  134.9
+Total current liabilities 2,123.2  2,185.4
+Long-term deferred revenue 403.5  517.9
+Long-term income taxes payable 41.6  39.3
+Long-term deferred income taxes 66.6  91.5
+Long-term notes payable, net 1,586.0  1,092.0
+Long-term other liabilities 148.7  138.4
+Commitments and contingencies 
+Stockholders’ (deficit) equity: 
+Preferred stock, $0.01 par value; shares authorized 2.0; none issued or outstanding at January 31, 2018 and 2017 —  —
+Common stock and additional paid-in capital, $0.01 par value; shares authorized 750.0; 218.3 outstanding at January 31,
+2018 and 220.3 outstanding at January 31, 2017 1,952.7  1,876.3
+Accumulated other comprehensive loss (123.8)  (178.5)
+Accumulated deficit (2,084.9)  (964.2)
+Total stockholders’ (deficit) equity (256.0)  733.6
+Total liabilities and stockholders' (deficit) equity $ 4,113.6  $ 4,798.1
+See accompanying Notes to Consolidated Financial Statements.
+2018 Form 10-K 64
+Page#3
+Table of Contents
+AUTODESK, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+ 
+ Fiscal year ended January 31,
+ 2018  2017  2016
+Operating Activities 
+Net loss $ (566.9)  $ (582.1)  $ (330.5)
+Adjustments to reconcile net loss to net cash provided by operating activities: 
+Depreciation, amortization, and accretion 108.4  139.2  145.8
+Stock-based compensation expense 261.4  221.8  197.2
+Deferred income taxes (39.1)  (38.8)  235.9
+Restructuring charges and other facility exit costs, net 94.1  80.5  —
+ Other operating activities 7.3  (7.7)  (25.0)
+Changes in operating assets and liabilities, net of business combinations: 
+Accounts receivable 13.3  201.5  (195.5)
+Prepaid expenses and other current assets (9.9)  (13.5)  (2.8)
+Accounts payable and accrued liabilities (13.9)  2.7  24.9
+Deferred revenue 168.3  267.0  360.5
+Accrued income taxes (22.1)  (100.9)  3.5
+Net cash provided by operating activities 0.9  169.7  414.0
+Investing Activities 
+Purchases of marketable securities (514.0)  (1,867.9)  (2,250.1)
+Sales of marketable securities 489.0  1,257.7  329.4
+Maturities of marketable securities 594.3  1,057.2  1,376.6
+Acquisitions, net of cash acquired —  (85.2)  (148.5)
+Capital expenditures (50.7)  (76.0)  (72.4)
+Other investing activities (12.2)  (13.8)  (44.5)
+Net cash provided by (used in) investing activities 506.4  272.0  (809.5)
+Financing Activities 
+Proceeds from issuance of common stock 94.4  119.6  110.8
+Taxes paid related to net share settlement of equity awards (143.1)  (76.2)  (51.6)
+Repurchase and retirement of common shares (699.0)  (621.7)  (458.0)
+Proceeds from debt, net of discount 496.9  —  748.3
+Repayments of debt (400.0)  —  —
+Other financing activities (5.8)  —  (6.3)
+Net cash (used in) provided by financing activities (656.6)  (578.3)  343.2
+Effect of exchange rate changes on cash and cash equivalents 14.2  (3.3)  (5.3)
+Net decrease in cash and cash equivalents (135.1)  (139.9)  (57.6)
+Cash and cash equivalents at beginning of fiscal year 1,213.1  1,353.0  1,410.6
+Cash and cash equivalents at end of fiscal year $ 1,078.0  $ 1,213.1  $ 1,353.0
+Supplemental cash flow information:
+ 
+Cash paid during the year for interest $ 54.6  $ 47.6  $ 34.7
+Net cash paid during the year for income taxes
+$ 84.5  $ 77.7  $ 59.1
+See accompanying Notes to Consolidated Financial Statements.
+2018 Form 10-K 65

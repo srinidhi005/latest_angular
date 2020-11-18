@@ -24,12 +24,13 @@ export class KpiBsComponent implements OnInit {
   progressBar:boolean;
   dataValuesActuals:any;
   dataValuesProjections:any;
+  loadedScenario: string = "Scenario 0";
   dataColumns:string[]=["Avg. Days Sales Outstanding (DSO)",	
   "Avg. Inventory Days",
-  "Avg. Other Current Assets as % of Revenue",
+  "Avg. Other Current Assets (as % of Revenue)",
   "Avg. Days Payable Outstanding (DPO)",	
-  "Avg. Accrued Liabilities as % of COGS",
-  "Avg. Other Current Liabilties as % of COGS"];
+  "Avg. Accrued Liabilities (as % of COGS)",
+  "Avg. Other Current Liabilties (as % of COGS)"];
   displayedColumns: string[] = ['position','name',
     'fromyear',
     'toyear',
@@ -46,8 +47,13 @@ export class KpiBsComponent implements OnInit {
   ) { }
 
   ngOnInit() {
-    this.progressBar=true;
+        this.progressBar=true;
     this.apiService.getData(this.urlConfig.getBsKPIActuals()+this.companySelected).subscribe((res:any)=>{
+    this.ELEMENT_KPI_PROJECTIONS = [];
+    this.ELEMENT_KPI_ACTUALS = []
+	this.dataSourceActuals = new MatTableDataSource<PeriodicElement>(this.ELEMENT_KPI_ACTUALS);
+  this.dataSourceProjections=new MatTableDataSource<PeriodicElement>(this.ELEMENT_KPI_PROJECTIONS);
+
     this.dataValuesActuals = [res[0].dso,res[0].inventorydays,res[0].othercurrentassetspercent,res[0].dpo,
     res[0].accruedliabilitiespercent,res[0].othercurrentliabilitiespercent];
 
@@ -94,6 +100,8 @@ export class KpiBsComponent implements OnInit {
   loadScenario(index:number){
    
       this.scenario = index;
+
+      this.loadedScenario = "Scenario "+index
       this.ngOnInit();
   
 }

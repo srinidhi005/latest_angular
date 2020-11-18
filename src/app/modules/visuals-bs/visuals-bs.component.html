@@ -1,6 +1,6 @@
 <div fxLayout="row" class="header">
     <div fxLayout="row" fxLayoutAlign="start center">
-      <p>Balance Sheet Model Drivers</p>
+      <p>Adjust Balance Sheet Drivers</p>
     </div>
     <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px" >
 
@@ -14,12 +14,11 @@
         <mat-icon>save</mat-icon>
       </button>
 
-      <button mat-button [matMenuTriggerFor]="belowMenu">Scenario<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
+      <button mat-button [matMenuTriggerFor]="belowMenu">{{ loadedScenario }}<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
       </button>
     <mat-menu #belowMenu="matMenu" yPosition="below">
       <button mat-menu-item *ngFor="let index of scenarioArray; let indexOfelement=index;">
-       <span *ngIf="indexOfelement==0;" (click)="loadScenario(indexOfelement)">Default</span> 
-       <span *ngIf="indexOfelement!=0;" (click)="loadScenario(indexOfelement)">Scenario {{index}}</span>
+       <span (click)="loadScenario(indexOfelement)">Scenario {{index}}</span>
       </button>
     </mat-menu>
       <button mat-button [matMenuTriggerFor]="afterMenu">Metrics <mat-icon matSuffix>keyboard_arrow_down</mat-icon>

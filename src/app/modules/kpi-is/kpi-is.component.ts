@@ -20,6 +20,7 @@ export interface PeriodicElement {
 export class KpiIsComponent implements OnInit {
   scenario=this.UserDetailModelService.getSelectedScenario();
   companyName=this.UserDetailModelService.getSelectedCompany();
+  loadedScenario: string = "Scenario 0"
   scenarioArray=[];
   progressBar:boolean;
   dataValuesActuals:any;
@@ -29,9 +30,9 @@ export class KpiIsComponent implements OnInit {
     "Gross Profit CAGR",
     "EBITDA CAGR",	
     "Avg. Gross Margin",
-    "Avg. SG&A as % of Revenue",	
+    "Avg. SG&A (as % of Revenue)",	
     "Avg. EBIT Margin",
-    "Avg. D&A as % of Revenue",	
+    "Avg. D&A (as % of Revenue)",	
     "Avg. EBITDA Margin",	
     "Avg. EBT Margin",
     "Avg. Net Income Margin"];
@@ -40,9 +41,9 @@ export class KpiIsComponent implements OnInit {
     "Gross Profit CAGR",
     "EBITDA CAGR",	
     "Avg. Gross Margin",
-    "Avg. SG&A as % of Revenue",	
+    "Avg. SG&A (as % of Revenue)",	
     "Avg. EBIT Margin",
-    "Avg. D&A as % of Revenue",	
+    "Avg. D&A (as % of Revenue)",	
     "Avg. EBITDA Margin",	
     "Avg. EBT Margin",
     "Avg. Net Income Margin"];
@@ -62,8 +63,13 @@ export class KpiIsComponent implements OnInit {
   ) { }
 
   ngOnInit() {
+
     this.progressBar=true;
     this.apiService.getData(this.urlConfig.getIsKPIActuals()+this.companySelected).subscribe((res:any)=>{
+    this.ELEMENT_KPI_ACTUALS = [];
+    this.ELEMENT_KPI_PROJECTIONS = [];
+this.dataSourceActuals = new MatTableDataSource<PeriodicElement>(this.ELEMENT_KPI_ACTUALS);
+  this.dataSourceProjections=new MatTableDataSource<PeriodicElement>(this.ELEMENT_KPI_PROJECTIONS);
     this.dataValuesActuals = [res[0].revenuecagr,res[0].cogscagr,res[0].grossprofitcagr,res[0].ebitdacagr,
     res[0].avggrossmargin,res[0].avgsgaasrevenue,res[0].avgebitmargin,res[0].avgdnaasrevenue,
     res[0].avgebitdamargin,res[0].avgebtmargin,res[0].avgnetincomemargin];
@@ -111,6 +117,9 @@ export class KpiIsComponent implements OnInit {
   loadScenario(index:number){
   
       this.scenario = index;
+
+      this.loadedScenario = "Scenario "+index
+
       this.ngOnInit();
   
 }

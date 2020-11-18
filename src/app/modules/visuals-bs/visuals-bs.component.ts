@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, OnDestroy } from '@angular/core';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { RMIAPIsService } from '../../shared/rmiapis.service';
 import {UserDetailModelService} from '../../shared/user-detail-model.service';
@@ -37,6 +37,8 @@ export class VisualsBsComponent implements OnInit {
   BsfinancialObj = new Map();
   Highcharts = Highcharts;
   companySelected = localStorage.getItem('companySelected');
+
+  loadedScenario: string = "Scenario 0";
   constructor(
     private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
@@ -47,6 +49,22 @@ export class VisualsBsComponent implements OnInit {
  
   ngOnInit() {
 
+    if(this.UserDetailModelService.selectedScenarioIndex >= 0){
+      this.scenario = this.UserDetailModelService.selectedScenarioIndex;
+    }
+
+    this.initScenario(this.scenario);
+
+    this.UserDetailModelService.updateBalanceSheetScenario.subscribe(() => {
+      this.initScenario(this.UserDetailModelService.selectedScenarioIndex);
+    })
+  
+  }
+
+  initScenario(scenarioNumber?){
+
+    this.progressBar=true;
+
   let that=this;
   const DSOArray=[];
   const IDArray=[];
@@ -54,6 +72,20 @@ export class VisualsBsComponent implements OnInit {
   const DPOArray=[];
   const ALArray=[];
   const OCLArray=[];
+  this.yearsArray = [];
+
+
+    if(scenarioNumber >= 0){
+      this.scenario = scenarioNumber;
+      this.loadedScenario = "Scenario "+this.scenario
+    }
+
+  // this.UserDetailModelService.updatedScenario.next();
+
+  // if(this.UserDetailModelService.selectedScenarioIndex >= 0){
+  //   this.scenario = this.UserDetailModelService.selectedScenarioIndex  
+  //   this.loadedScenario = "Scenario "+this.scenario;
+  // }
 
       this.apiService.getData(this.urlConfig.getBsActualsAPI()+this.companySelected).subscribe((res:any)=>{
       this.progressBar=true;
@@ -146,28 +178,38 @@ export class VisualsBsComponent implements OnInit {
           this.DSOOptions = {
           chart: {type: 'column',animation:false},
           title: {text: 'Days Sales Outstanding'},  
-          yAxis: {title: {text: 'In Percentage %'}},
+          yAxis: {title: {text: 'Days',min:0,max:180}},
           xAxis: {categories: this.yearsArray},
           colors: ['skyblue','skyblue','grey','grey','grey','grey'],
            plotOptions: {
             series: {stickyTracking: true,
-              dragDrop: {draggableY: true},
+              dragDrop: {draggableY: true,dragMaxY: 180,dragMinY:0},
               point: {
                 events: {
                     drag: function (e) {
-                        // console.log("drag",e);
+                      if(e.target.index == 0 || e.target.index == 1){
+                        return false;
+                      }
                     },
-                    drop: function (e) {  
-                      that.BsfinancialObj.get(e.target.category).dso = e.target.y;
+                    drop: function (e) { 
+                      if(e.target.index == 0 || e.target.index == 1){
+                        return false;
+                      } 
+                      else{
+                        that.BsfinancialObj.get(e.target.category).dso = e.target.y;
                       that.updateProjection();
+                      }
                     }
                 }
             },
             }, 
           column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
           line: {cursor: "ns-resize"}},
-          tooltip: {split: true,valueSuffix: ' millions'},
-          credits: {enabled: false},
+          tooltip: {
+            formatter: function(){
+              return Highcharts.numberFormat(this.point.y, 0) +' Days';
+            }
+          },          credits: {enabled: false},
           exporting: {enabled: false},
           series: [{data:DSOArray, dragDrop: {draggableY: true},minPointLength: 2}],
           legend: false
@@ -175,28 +217,38 @@ export class VisualsBsComponent implements OnInit {
         this.IDOptions = {
             chart: {type: 'column',animation:false},
             title: {text: 'Inventory Days'},  
-            yAxis: {title: {text: 'Days'}},
+            yAxis: {title: {text: 'Days'},min:0,max:180},
             xAxis: {categories: this.yearsArray},
             colors: ['skyblue','skyblue','grey','grey','grey','grey'],
              plotOptions: {
               series: {stickyTracking: false,
-                dragDrop: {draggableY: true},
+                dragDrop: {draggableY: true,dragMaxY: 180,dragMinY:0},
                 point: {
                   events: {
                       drag: function (e) {
-                          // console.log("drag",e);
+                        if(e.target.index == 0 || e.target.index == 1){
+                          return false;
+                        }
                       },
-                      drop: function (e) {  
-                        that.BsfinancialObj.get(e.target.category).inventorydays = e.target.y;
+                      drop: function (e) { 
+                        if(e.target.index == 0 || e.target.index == 1){
+                          return false;
+                        } 
+                        else{
+                          that.BsfinancialObj.get(e.target.category).inventorydays = e.target.y;
                       that.updateProjection();
+                        }
                       }
                   }
               },
               },
               column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
               line: {cursor: "ns-resize"}},
-            tooltip: {split: true,valueSuffix: ' millions'},
-            credits: {enabled: false},
+              tooltip: {
+                formatter: function(){
+                  return Highcharts.numberFormat(this.point.y, 0) +' Days';
+                }
+              },            credits: {enabled: false},
             exporting: {enabled: false},
             series: [{data:IDArray, dragDrop: {draggableY: true}}],
             legend: false
@@ -204,20 +256,28 @@ export class VisualsBsComponent implements OnInit {
           this.OCAOptions = {
             chart: {type: 'column',animation:false},
             title: {text: 'Other Current Assets'},  
-            yAxis: {title: {text: 'As % of Revenue'}},
+            yAxis: {title: {text: 'As % of Revenue'},min:0,max:100},
             xAxis: {categories: this.yearsArray},
             colors: ['skyblue','skyblue','grey','grey','grey','grey'],
              plotOptions: {
               series: {stickyTracking: false,
-                dragDrop: {draggableY: true},
+                dragDrop: {draggableY: true,dragMaxY: 99,dragMinY:0},
                 point: {
                   events: {
                       drag: function (e) {
-                          // console.log("drag",e);
+                        if(e.target.index == 0 || e.target.index == 1){
+                          return false;
+                        }
                       },
                       drop: function (e) {  
-                        that.BsfinancialObj.get(e.target.category).othercurrentassetspercent = e.target.y;
-                        that.updateProjection();
+                        if(e.target.index == 0 || e.target.index == 1){
+                          return false;
+                        }
+                        else{
+                          that.BsfinancialObj.get(e.target.category).othercurrentassetspercent = e.target.y;
+                          that.updateProjection();
+                        }
+                        
                         
                       }
                   }
@@ -225,8 +285,11 @@ export class VisualsBsComponent implements OnInit {
               },
               column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
               line: {cursor: "ns-resize"}},
-            tooltip: {split: true,valueSuffix: ' millions'},
-            credits: {enabled: false},
+              tooltip: {
+                formatter: function(){
+                  return Highcharts.numberFormat(this.point.y, 0) +' %';
+                }
+              },            credits: {enabled: false},
             exporting: {enabled: false},
             series: [{data:OCAArray, dragDrop: {draggableY: true}}],
             legend: false
@@ -234,29 +297,38 @@ export class VisualsBsComponent implements OnInit {
           this.DPOOptions = {
             chart: {type: 'column',animation:false},
             title: {text: 'Days Payable Outstanding'},  
-            yAxis: {title: {
-            text: 'As % of Revenue'}},
+            yAxis: {title: {text: 'Days'},min:0,max:180},
             xAxis: {categories: this.yearsArray},
             colors: ['skyblue','skyblue','grey','grey','grey','grey'],
              plotOptions: {
               series: {stickyTracking: false,
-                dragDrop: {draggableY: true},
+                dragDrop: {draggableY: true,dragMaxY: 180,dragMinY:0},
                 point: {
                   events: {
                       drag: function (e) {
-                          // console.log("drag",e);
+                        if(e.target.index == 0 || e.target.index == 1){
+                          return false;
+                        }
                       },
-                      drop: function (e) {  
+                      drop: function (e) {
+                        if(e.target.index == 0 || e.target.index == 1){
+                          return false;
+                        }
+                        else{  
                         that.BsfinancialObj.get(e.target.category).dpo = e.target.y;
                       that.updateProjection();
+                        }
                       }
                   }
               },
               },
               column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
               line: {cursor: "ns-resize"}},
-            tooltip: {split: true,valueSuffix: ' millions'},
-            credits: {enabled: false},
+              tooltip: {
+                formatter: function(){
+                  return Highcharts.numberFormat(this.point.y, 0) +' Days';
+                }
+              },            credits: {enabled: false},
             exporting: {enabled: false},
             series: [{data:DPOArray, dragDrop: {draggableY: true}}],
       
@@ -265,28 +337,38 @@ export class VisualsBsComponent implements OnInit {
           this.ALOptions = {
             chart: {type: 'column',animation:false},
             title: {text: 'Accrued Liabilities'},  
-            yAxis: {title: {text: 'As % of Revenue'}},
+            yAxis: {title: {text: 'As % of COGS'},min:0,max:100},
             xAxis: {categories:this.yearsArray},
             colors: ['skyblue','skyblue','grey','grey','grey','grey'],
              plotOptions: {
               series: {stickyTracking: false,
-                dragDrop: {draggableY: true},
+                dragDrop: {draggableY: true,dragMaxY: 99,dragMinY:0},
                 point: {
                   events: {
                       drag: function (e) {
-                          // console.log("drag",e);
+                        if(e.target.index == 0 || e.target.index == 1){
+                          return false;
+                        }
                       },
                       drop: function (e) {  
-                        that.BsfinancialObj.get(e.target.category).accruedliabilitiespercent= e.target.y;
-                      that.updateProjection();
+                        if(e.target.index == 0 || e.target.index == 1){
+                          return false;
+                        }else{
+                          that.BsfinancialObj.get(e.target.category).accruedliabilitiespercent= e.target.y;
+                          that.updateProjection();
+                        }
+                        
                       }
                   }
               },
               },
               column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
               line: {cursor: "ns-resize"}},
-            tooltip: {split: true,valueSuffix: ' millions'},
-            credits: {enabled: false},
+              tooltip: {
+                formatter: function(){
+                  return Highcharts.numberFormat(this.point.y, 0) +' %';
+                }
+              },            credits: {enabled: false},
             exporting: {enabled: false},
             series: [{data:ALArray, dragDrop: {draggableY: true}}],
             legend: false
@@ -294,27 +376,38 @@ export class VisualsBsComponent implements OnInit {
           this.OCLOptions = {
             chart: {type: 'column',animation:false},
             title: {text: 'Other Current Liabilities'},  
-            yAxis: {title: {text: 'As % of COGS'}},
+            yAxis: {title: {text: 'As % of COGS'},min:0,max:100},
             xAxis: {categories: this.yearsArray},
             colors: ['skyblue','skyblue','grey','grey','grey','grey'],
              plotOptions: {
               series: {stickyTracking: false,
-                dragDrop: {draggableY: true},
+                dragDrop: {draggableY: true,dragMaxY: 99,dragMinY:0},
                 point: {
                   events: {
                       drag: function (e) {
+                        if(e.target.index == 0 || e.target.index == 1){
+                          return false;
+                        }
                       },
-                      drop: function (e) {  
-                        that.BsfinancialObj.get(e.target.category).othercurrentliabilitiespercent = e.target.y;
+                      drop: function (e) {
+                        if(e.target.index == 0 || e.target.index == 1){
+                          return false;
+                        }  
+                        else{
+                          that.BsfinancialObj.get(e.target.category).othercurrentliabilitiespercent = e.target.y;
                       that.updateProjection();
+                        }
                       }
                   }
               },
               },
               column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
               line: {cursor: "ns-resize"}},
-            tooltip: {split: true,valueSuffix: ' millions'},
-            credits: {enabled: false},
+              tooltip: {
+                formatter: function(){
+                  return Highcharts.numberFormat(this.point.y, 0) +' %';
+                }
+              },            credits: {enabled: false},
             exporting: {enabled: false},
             series: [{data:OCLArray, dragDrop: {draggableY: true}}],
             legend: false
@@ -382,8 +475,11 @@ HC_exporting(Highcharts);
             series: {stickyTracking: false},
             column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
             line: {cursor: "ns-resize"}},
-          tooltip: {split: true,valueSuffix: ' millions'},
-          credits: {enabled: false},
+            tooltip: {
+              formatter: function(){
+                return Highcharts.numberFormat(this.point.y, 0) +' millions';
+              }
+            },          credits: {enabled: false},
           exporting: {enabled: false},
           series: [{data:TCAArray}],
           legend: false
@@ -398,8 +494,11 @@ HC_exporting(Highcharts);
             series: {stickyTracking: false},
             column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
             line: {cursor: "ns-resize"}},
-          tooltip: {split: true,valueSuffix: ' millions'},
-          credits: {enabled: false},
+            tooltip: {
+              formatter: function(){
+                return Highcharts.numberFormat(this.point.y, 0) +' millions';
+              }
+            },          credits: {enabled: false},
           exporting: {enabled: false},
           series: [{data:TAArray}],
           legend: false
@@ -414,8 +513,11 @@ HC_exporting(Highcharts);
             series: {stickyTracking: false},
             column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
             line: {cursor: "ns-resize"}},
-          tooltip: {split: true,valueSuffix: ' millions'},
-          credits: {enabled: false},
+            tooltip: {
+              formatter: function(){
+                return Highcharts.numberFormat(this.point.y, 0) +' millions';
+              }
+            },          credits: {enabled: false},
           exporting: {enabled: false},
           series: [{data:TCLArray}],
           legend: false
@@ -430,8 +532,11 @@ HC_exporting(Highcharts);
             series: {stickyTracking: false},
             column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
             line: {cursor: "ns-resize"}},
-          tooltip: {split: true,valueSuffix: ' millions'},
-          credits: {enabled: false},
+            tooltip: {
+              formatter: function(){
+                return Highcharts.numberFormat(this.point.y, 0) +' millions';
+              }
+            },          credits: {enabled: false},
           exporting: {enabled: false},
           series: [{data:TLArray}],
           legend: false
@@ -446,15 +551,18 @@ HC_exporting(Highcharts);
             series: {stickyTracking: false},
             column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
             line: {cursor: "ns-resize"}},
-          tooltip: {split: true,valueSuffix: ' millions'},
-          credits: {enabled: false},
+            tooltip: {
+              formatter: function(){
+                return Highcharts.numberFormat(this.point.y, 0) +' millions';
+              }
+            },          credits: {enabled: false},
           exporting: {enabled: false},
           series: [{data:TSEArray}],
           legend: false
         }; 
         this.TLSEOptions = {
           chart: {type: 'column',animation:false},
-          title: {text: 'Total Liabilities ShareHolders Equity'},  
+          title: {text: 'Total Liabilities & ShareHolders Equity'},  
           yAxis: {title: {text: 'USD'}},
           xAxis: {categories: this.yearsArray},
           colors: ['skyblue','skyblue','grey','grey','grey','grey'],
@@ -462,8 +570,11 @@ HC_exporting(Highcharts);
             series: {stickyTracking: false},
             column: {stacking: "normal",minPointLength: 2,colorByPoint: true},
             line: {cursor: "ns-resize"}},
-          tooltip: {split: true,valueSuffix: ' millions'},
-          credits: {enabled: false},
+            tooltip: {
+              formatter: function(){
+                return Highcharts.numberFormat(this.point.y, 0) +' millions';
+              }
+            },          credits: {enabled: false},
           exporting: {enabled: false},
           series: [{data:TLSEArray}],
           legend: false
@@ -551,9 +662,10 @@ HC_exporting(Highcharts);
       }
     }
     loadScenario(index:number){
-    
+
+        this.loadedScenario = "Scenario "+index
         this.scenario = index;
-        this.ngOnInit();
+    this.initScenario(this.scenario)
       
     }
 }

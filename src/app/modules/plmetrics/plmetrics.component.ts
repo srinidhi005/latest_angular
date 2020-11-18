@@ -245,7 +245,7 @@ export class PLMetricsComponent implements OnInit {
       columnStyles: {0: {fillColor: [22, 74, 91], textColor:[245, 245, 245] }},
       styles: {overflow: 'linebreak',fontSize: 12},
     });
-    doc.save(this.companyName +'.pdf');
+    doc.save(this.companySelected +'.pdf');
   }
 }
 

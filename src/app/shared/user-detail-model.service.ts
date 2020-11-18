@@ -1,14 +1,30 @@
 import { Injectable } from '@angular/core';
-import { BehaviorSubject } from 'rxjs';
+import { BehaviorSubject, Subject } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
 })
 export class UserDetailModelService {
+  selectedScenarioIndex: number
+
+  updateBalanceSheetScenario = new Subject();
+  updateIncomeSheetScenario = new Subject();
+
   private selectedCompany:string;
   private selectedScenario:number;
   private scenarioNumber=[]
   constructor() { }
+
+
+  setBalanceSheetScenario(scenarioNumber){
+    this.selectedScenarioIndex = scenarioNumber;
+    this.updateBalanceSheetScenario.next();
+  }
+
+  setIncomeSheetScenario(scenarioNumber){
+    this.selectedScenarioIndex = scenarioNumber;
+    this.updateIncomeSheetScenario.next();
+  }
 
   getSelectedCompany(){
     return this.selectedCompany;

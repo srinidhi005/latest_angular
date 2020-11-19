@@ -1,70 +1,113 @@
-<mat-nav-list >
+<mat-nav-list>
+    <mat-accordion>
+        <mat-expansion-panel class="mat-elevation-z0">
+            <mat-expansion-panel-header>
+                <a mat-list-item routerLinkActive="list-item-active">
+                    <mat-icon>dashboard</mat-icon>Dashboard
+                </a>
+            </mat-expansion-panel-header>
+            <ng-container *ngFor="let company of topCompanies; let i = $index">
+                <mat-accordion>
+                    <mat-expansion-panel class="mat-elevation-z0">
+                        <mat-expansion-panel-header>
+                            <a mat-list-item routerLinkActive="list-item-active">
+                                <mat-icon>library_books</mat-icon>{{company.company}}
+                            </a>
+                        </mat-expansion-panel-header>
+                        <ng-container *ngFor="let scenario of company.scenario">
+                            <a mat-list-item routerLinkActive="list-item-active"
+                                [routerLink]="['/'+ company.companyName + '/dashboard/' + scenario]">
+                                <mat-icon>description</mat-icon>{{scenario === 0 ? "Default" : "Scenario " + scenario}}
+                            </a>
+                        </ng-container>
+                    </mat-expansion-panel>
+                </mat-accordion>
+            </ng-container>
+        </mat-expansion-panel>
+    </mat-accordion>
     <a mat-list-item routerLinkActive="list-item-active" routerLink="/statement">
         <mat-icon>library_books</mat-icon>
-        My Companies</a>
+        My Companies
+    </a>
     <a mat-list-item routerLinkActive="list-item-active" routerLink="/articles">
         <mat-icon>assignment</mat-icon>
-        Credit Scorecard</a>
+        Credit Scorecard
+    </a>
     <a mat-list-item routerLinkActive="list-item-active">
         <mat-icon>dvr</mat-icon>
-        Financial Dashboard</a>
-        <mat-accordion >
-            <mat-expansion-panel class="mat-elevation-z0">
-                <mat-expansion-panel-header>
-                   <a mat-list-item routerLinkActive="list-item-active">
-                    <mat-icon>view_list</mat-icon>KPI</a> 
-                </mat-expansion-panel-header>
-                <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIIncomeStatement">
-                    <mat-icon>compare</mat-icon>Income Statement</a> 
-                    <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIBalanceSheet">
-                        <mat-icon>menu_book</mat-icon>Balance Sheet</a> 
-              </mat-expansion-panel>
-        </mat-accordion>
-        <mat-accordion >
-            <mat-expansion-panel class="mat-elevation-z0">
-                <mat-expansion-panel-header>
-                   <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi" >
-                    <mat-icon >pie_chart</mat-icon>Budgeting</a> 
-                </mat-expansion-panel-header>
+        Financial Dashboard
+    </a>
+    <mat-accordion>
+        <mat-expansion-panel class="mat-elevation-z0">
+            <mat-expansion-panel-header>
+                <a mat-list-item routerLinkActive="list-item-active">
+                    <mat-icon>view_list</mat-icon>KPI
+                </a>
+            </mat-expansion-panel-header>
+            <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIIncomeStatement">
+                <mat-icon>compare</mat-icon>Income Statement
+            </a>
+            <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIBalanceSheet">
+                <mat-icon>menu_book</mat-icon>Balance Sheet
+            </a>
+        </mat-expansion-panel>
+    </mat-accordion>
+    <mat-accordion>
+        <mat-expansion-panel class="mat-elevation-z0">
+            <mat-expansion-panel-header>
                 <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
-                    <mat-icon>tune</mat-icon>AdjustAssumption</a> 
-                    <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
-                        <mat-icon>layers</mat-icon>Actuals</a> 
-                        <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
-                            <mat-icon>flash_on</mat-icon>Target v/s Actuals</a> 
-              </mat-expansion-panel>
-        </mat-accordion>
-        <mat-accordion multi class="mat-table">
-            <mat-expansion-panel class="mat-elevation-z0" >
-                <mat-expansion-panel-header class="mat-row">
-                   <a mat-list-item routerLinkActive="list-item-active" (click)="scenarioNumber()">
-                    <mat-icon>exposure</mat-icon>Scenario Analysis</a> 
-                </mat-expansion-panel-header>
-                <mat-accordion lass="mat-table">
-                    <!-- Income Statement -->
-                    <mat-expansion-panel>
-                        <mat-expansion-panel-header>
-                            <span style="margin: 0 auto;"> <mat-icon>exposure</mat-icon>Income Statement</span>
-                        </mat-expansion-panel-header>
-                        <div class="row">
-                            <a mat-list-item routerLinkActive="list-item-active" (click) = displayIncomeSheetScenario(scenario) *ngFor="let scenario of scenarioArray">
-                                <mat-icon>leaderboard</mat-icon>Scenario {{scenario}}
-                            </a> 
-                        </div>
-                    </mat-expansion-panel>
+                    <mat-icon>pie_chart</mat-icon>Budgeting
+                </a>
+            </mat-expansion-panel-header>
+            <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
+                <mat-icon>tune</mat-icon>AdjustAssumption
+            </a>
+            <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
+                <mat-icon>layers</mat-icon>Actuals
+            </a>
+            <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
+                <mat-icon>flash_on</mat-icon>Target v/s Actuals
+            </a>
+        </mat-expansion-panel>
+    </mat-accordion>
+    <mat-accordion multi class="mat-table">
+        <mat-expansion-panel class="mat-elevation-z0">
+            <mat-expansion-panel-header class="mat-row">
+                <a mat-list-item routerLinkActive="list-item-active" (click)="scenarioNumber()">
+                    <mat-icon>exposure</mat-icon>Scenario Analysis
+                </a>
+            </mat-expansion-panel-header>
+            <mat-accordion lass="mat-table">
+                <!-- Income Statement -->
+                <mat-expansion-panel>
+                    <mat-expansion-panel-header>
+                        <span style="margin: 0 auto;">
+                            <mat-icon>exposure</mat-icon>Income Statement
+                        </span>
+                    </mat-expansion-panel-header>
+                    <div class="row">
+                        <a mat-list-item routerLinkActive="list-item-active"
+                            (click)=displayIncomeSheetScenario(scenario) *ngFor="let scenario of scenarioArray">
+                            <mat-icon>leaderboard</mat-icon>Scenario {{scenario}}
+                        </a>
+                    </div>
+                </mat-expansion-panel>
 
-                    <!-- Balance Sheet -->
-                    <mat-expansion-panel>
-                        <mat-expansion-panel-header>
-                            <span style="margin: 0 auto;"><mat-icon>exposure</mat-icon>Balance Sheet</span>
-                        </mat-expansion-panel-header>
-                        <div class="row">
-                            <a mat-list-item routerLinkActive="list-item-active" (click) = displayBalSheetScenario(scenario) *ngFor="let scenario of scenarioArray">
-                                <mat-icon>leaderboard</mat-icon>Scenario {{scenario}}
-                            </a> 
-                        </div>
-                    </mat-expansion-panel>
-                </mat-accordion>                    
-            </mat-expansion-panel>
-        </mat-accordion>
+                <!-- Balance Sheet -->
+                <mat-expansion-panel>
+                    <mat-expansion-panel-header>
+                        <span style="margin: 0 auto;">
+                            <mat-icon>exposure</mat-icon>Balance Sheet
+                        </span>
+                    </mat-expansion-panel-header>
+                    <div class="row">
+                        <a mat-list-item routerLinkActive="list-item-active" (click)=displayBalSheetScenario(scenario)
+                            *ngFor="let scenario of scenarioArray">
+                            <mat-icon>leaderboard</mat-icon>Scenario {{scenario}}
+                        </a>
+                    </div>
+                </mat-expansion-panel>
+            </mat-accordion>
+        </mat-expansion-panel>
+    </mat-accordion>
 </mat-nav-list>

@@ -29,6 +29,12 @@ export class SidebarComponent implements OnInit, OnDestroy {
     this.getCompanies();
   }
   /**
+   *
+   */
+  scenarioNumber() {
+    this.scenarioArray = this.userDetailModelService.getScenarioNumber();
+  }
+  /**
    * Get top companies
    */
   getCompanies = (): void => {

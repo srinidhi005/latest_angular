@@ -1,0 +1,50 @@
+<ng-container *ngIf="!isLoading; else inlineLoader">
+  <h3>{{companyActualName}} Statistics</h3>
+</ng-container>
+<ng-template #inlineLoader>
+  <h3>
+    <mat-spinner diameter="20" strokeWidth="2"></mat-spinner>
+  </h3>
+</ng-template>
+<div class="content" fxLayout="row wrap" fxLayoutGap="16px grid">
+  <div fxFlex.xs="100%" fxFlex="25%" fxFlex.sm="25%">
+    <mat-card class="mat-elevation-z4" id="total-revenue-container">
+      <ng-container *ngIf="!isLoading; else loader">
+        <highcharts-chart [Highcharts]="Highcharts" [options]="totalRevenueOptions" [(update)]="updateTotalRevenue">
+        </highcharts-chart>
+      </ng-container>
+    </mat-card>
+  </div>
+
+  <div fxFlex.xs="100%" fxFlex="25%" fxFlex.sm="25%">
+    <mat-card class="mat-elevation-z4" id="gross-profit-container">
+      <ng-container *ngIf="!isLoading; else loader">
+        <highcharts-chart [Highcharts]="Highcharts" [options]="grossProfitOptions" [(update)]="updateGrossProfit">
+        </highcharts-chart>
+      </ng-container>
+    </mat-card>
+  </div>
+
+  <div fxFlex.xs="100%" fxFlex="25%" fxFlex.sm="25%">
+    <mat-card class="mat-elevation-z4" id="ebitda-container">
+      <ng-container *ngIf="!isLoading; else loader">
+        <highcharts-chart [Highcharts]="Highcharts" [options]="EBITDAOptions" [(update)]="updateEBDITA">
+        </highcharts-chart>
+      </ng-container>
+    </mat-card>
+  </div>
+  <div fxFlex.xs="100%" fxFlex="25%" fxFlex.sm="25%">
+    <mat-card class="mat-elevation-z4" id="net-income-container">
+      <ng-container *ngIf="!isLoading; else loader">
+
+        <highcharts-chart [Highcharts]="Highcharts" [options]="netIncomeOptions" [(update)]="updateNetIncome">
+        </highcharts-chart>
+      </ng-container>
+    </mat-card>
+  </div>
+</div>
+<ng-template #loader>
+  <div class="text-center chart-container">
+    <mat-spinner diameter="30" strokeWidth="3"></mat-spinner>
+  </div>
+</ng-template>

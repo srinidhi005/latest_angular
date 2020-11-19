@@ -1,9 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
 
-html, body { height: 100%; background-color: #d3e5eb; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;
-   
- }
-.mat-drawer-inner-container{
-    overflow: hidden !important;
-   }
+html,
+body {
+  height: 100%;
+  background-color: #d3e5eb;
+}
+body {
+  margin: 0;
+  font-family: Roboto, 'Helvetica Neue', sans-serif;
+}
+/* .mat-drawer-inner-container {
+  overflow: hidden !important;
+} */
+.text-center {
+  text-align: center;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75vh;
+}

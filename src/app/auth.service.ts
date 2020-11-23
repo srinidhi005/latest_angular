@@ -9,13 +9,15 @@ import { Router } from '@angular/router';
   providedIn: 'root'
 })
 export class AuthService {
+
+  profileSubscriber = new Subject();
   // Create an observable of Auth0 instance of client
   auth0Client$ = (from(
     createAuth0Client({
       domain: "rmi-insights.us.auth0.com",
       client_id: "lLtgZM1NooB3CBkugjhEcGT43kZH3XSS",
       redirect_uri: "https://app.rmiinsights.com/statement",
-      useRefreshTokens: true,
+       useRefreshTokens: true,
       cacheLocation: 'localstorage'
     })
   ) as Observable<Auth0Client>).pipe(
@@ -34,8 +36,9 @@ export class AuthService {
     concatMap((client: Auth0Client) => from(client.handleRedirectCallback()))
   );
   // Create subject and public observable of user profile data
-  private userProfileSubject$ = new BehaviorSubject<any>(null);
-  userProfile$ = this.userProfileSubject$.asObservable();
+  // userProfileSubject$ = new BehaviorSubject<any>(null);
+  userProfileSubject$ = new Subject();
+  // userProfile$ = this.userProfileSubject$.asObservable();
   // Create a local property for login status
   loggedIn: boolean = null;
 
@@ -50,6 +53,16 @@ export class AuthService {
   // When calling, options can be passed if desired
   // https://auth0.github.io/auth0-spa-js/classes/auth0client.html#getuser
   getUser$(options?): Observable<any> {
+
+    
+    this.userProfileSubject$.subscribe((res: any)=>{
+      console.log("res for profile",res);
+      localStorage.setItem('nickname',res.nickname);
+      localStorage.setItem('email',res.email);
+      localStorage.setItem('picture',res.picture);
+      this.profileSubscriber.next()
+    });
+
     return this.auth0Client$.pipe(
       concatMap((client: Auth0Client) => from(client.getUser(options))),
       tap(user => this.userProfileSubject$.next(user))

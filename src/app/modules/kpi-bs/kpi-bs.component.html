@@ -2,9 +2,8 @@
   <div fxLayout="row" fxLayoutAlign="start center">
     <p>Historical Key Metrics</p>
   </div>
-  <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px">
-    <button mat-button [matMenuTriggerFor]="below">
-      <mat-icon>exposure</mat-icon>{{ loadedScenario }}<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
+  <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px" >
+    <button mat-button [matMenuTriggerFor]="below"><mat-icon>exposure</mat-icon>{{ loadedScenario }}<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
     </button>
     <mat-menu #below="matMenu" yPosition="below">
       <button mat-menu-item *ngFor="let index of scenarioArray; let indexOfelement=index;">
@@ -15,11 +14,11 @@
 </div>
 
 <div fxLayout="row" fxLayoutAlign="space-between center" fxLayoutGap="20px">
-  <div fxFlex="100">
-    <mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
-    <div class="mat-elevation-z8">
-
-      <table mat-table [dataSource]="dataSourceActuals">
+    <div fxFlex="100">
+      <mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
+        <div class="mat-elevation-z8">
+         
+<table mat-table [dataSource]="dataSourceActuals">
 
         <!--- Note that these columns can be defined in any order.
           The actual rendered columns are set as a property on the row definition" -->
@@ -33,7 +32,7 @@
         <!-- Name Column -->
         <ng-container matColumnDef="name">
           <th mat-header-cell *matHeaderCellDef> Balance Sheet </th>
-          <td mat-cell *matCellDef="let element"> {{element.name}} </td>
+          <td mat-cell *matCellDef="let element"> <b>{{element.name}}</b> </td>
         </ng-container>
 
         <!-- From Column -->
@@ -42,24 +41,24 @@
           <td mat-cell *matCellDef="let element" class="header-align-right"> {{element.fromyear}} </td>
         </ng-container>
 
-        <!-- To Column -->
-        <ng-container matColumnDef="toyear">
-          <th mat-header-cell *matHeaderCellDef class="header-align-right"> To </th>
-          <td mat-cell *matCellDef="let element" class="header-align-right"> {{element.toyear}} </td>
-        </ng-container>
-
-        <!-- Value Column -->
-        <ng-container matColumnDef="KPIValue" class="header-align-right">
-          <th mat-header-cell *matHeaderCellDef class="header-align-right"> KPI </th>
-          <td mat-cell *matCellDef="let element" class="header-align-right"> {{element.KPIValue}} </td>
-        </ng-container>
-
-        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
-        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
-      </table>
-
-    </div>
-  </div>
+    <!-- To Column -->
+    <ng-container matColumnDef="toyear">
+      <th mat-header-cell *matHeaderCellDef  class="header-align-right"> To </th>
+      <td mat-cell *matCellDef="let element" class="header-align-right"> {{element.toyear}} </td>
+    </ng-container>
+  
+    <!-- Value Column -->
+    <ng-container matColumnDef="KPIValue"  class="header-align-right">
+      <th mat-header-cell *matHeaderCellDef class="header-align-right"> KPI </th>
+      <td mat-cell *matCellDef="let element" class="header-align-right"> {{element.KPIValue}} </td>
+    </ng-container>
+  
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
+ 
+</div>
+</div> 
 </div>
 
 <!-- Projections Table -->
@@ -68,9 +67,9 @@
   <div fxFlex="100">
     <p>Projected Key Metrics</p>
     <mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
-    <div class="mat-elevation-z8">
-
-      <table mat-table [dataSource]="dataSourceProjections">
+      <div class="mat-elevation-z8">
+       
+<table mat-table [dataSource]="dataSourceProjections">
 
         <!--- Note that these columns can be defined in any order.
         The actual rendered columns are set as a property on the row definition" -->
@@ -99,11 +98,11 @@
           <td mat-cell *matCellDef="let element" class="header-align-right"> {{element.toyear}} </td>
         </ng-container>
 
-        <!-- Value Column -->
-        <ng-container matColumnDef="KPIValue">
-          <th mat-header-cell *matHeaderCellDef class="header-align-right"> KPI </th>
-          <td mat-cell *matCellDef="let element" class="header-align-right"> {{element.KPIValue}} </td>
-        </ng-container>
+  <!-- Value Column -->
+  <ng-container matColumnDef="KPIValue">
+    <th mat-header-cell *matHeaderCellDef  class="header-align-right"> KPI </th>
+    <td mat-cell *matCellDef="let element" class="header-align-right"> {{element.KPIValue}} </td>
+  </ng-container>
 
         <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
         <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>

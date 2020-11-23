@@ -38,8 +38,10 @@ export class VisualsISComponent implements OnInit {
   companyName=this.UserDetailModelService.getSelectedCompany();
   financialObj = new Map();
   Highcharts = Highcharts;
+  saveScenarioNumber:any=0;
   loadedScenario: string = "Scenario 0";
   companySelected = localStorage.getItem('companySelected');
+  scenarioSelected :any;
   constructor(
     private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
@@ -104,15 +106,17 @@ export class VisualsISComponent implements OnInit {
       
       this.scenarioArray=res.scenarios;
      this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
-      let scenarioNumber=0;
-      if(res.scenarios.includes(this.scenario)){
-        scenarioNumber=this.scenario;
+
+    this.scenarioSelected =localStorage.getItem('scenarioSelected');
+      if(res.scenarios.includes(Number(this.scenarioSelected))){
         this.inprogress=false;
       }
       else{
+        this.scenarioSelected = '0';
         this.inprogress = true;
       }
-      this.apiService.getData(this.urlConfig.getIsProjectionsAPIGET()+this.companySelected+"&scenario="+scenarioNumber).subscribe((res:any)=>{
+      this.apiService.getData(this.urlConfig.getIsProjectionsAPIGET()+this.companySelected+"&scenario="+this.scenarioSelected).subscribe((res:any)=>{
+        this.loadedScenario = "Scenario "+this.scenarioSelected;
         this.progressBar=false;
         let totalRevenue=0;  
         for (let j=0; j<res.length; j++) {
@@ -576,12 +580,21 @@ HC_exporting(Highcharts);
 
   
   saveScenario(){
+    this.apiService.getData(this.urlConfig.getScenarioAPI()+this.companySelected).subscribe((res:any)=>{
+      if(this.scenarioSelected== 0){
+        this.saveScenarioNumber = res.scenarios.length;
+      }
+      else{
+        this.saveScenarioNumber = this.scenarioSelected; 
+      }
+   
+    this.scenarioSelected =  localStorage.setItem('scenarioSelected',this.saveScenarioNumber);
   let inputArray=[];
-  let inputArrayJSON;
+  
   for (let [key, value] of this.financialObj) {
       let inputObj:any = {};
      
-        if(typeof this.financialObj.get(key).COGS !== 'undefined'){
+        if((this.financialObj.get(key).latest) > 0){
           inputObj.asof = key.toString();
           inputObj.cogs = this.financialObj.get(key).p_COGS;
           inputObj.cogspercent = this.financialObj.get(key).COGS;
@@ -604,18 +617,19 @@ HC_exporting(Highcharts);
           inputObj.otherincome = this.financialObj.get(key).p_OIOrE;
           inputObj.otherincomepercent = this.financialObj.get(key).otherIncomeOrExpense;
           inputObj.revenuepercent = this.financialObj.get(key).revenueGrowth;
-          inputObj.scenario = this.scenario;
+          inputObj.scenario = this.saveScenarioNumber;
           inputObj.sga = this.financialObj.get(key).p_SGAndA;
           inputObj.sgapercent = this.financialObj.get(key).SGAndA;
           inputObj.taxes = this.financialObj.get(key).p_taxes;
           inputObj.taxespercent = this.financialObj.get(key).taxes;
           inputObj.totalrevenue = this.financialObj.get(key).totalRevenue;
           inputArray.push(inputObj);
-          inputArrayJSON=JSON.stringify(inputArray);
         }
     }
-    this.apiService.postData(this.urlConfig.getIsProjectionsAPIPOST()+this.companySelected,inputArrayJSON).subscribe((res:any)=>{
-      if(res.message=="Success"){
+    this.apiService.postData(this.urlConfig.getIsProjectionsAPIPOST()+this.companySelected,JSON.stringify(inputArray)).subscribe((res:any)=>{
+      console.log(typeof res.status)
+      console.log(res.status)
+      if(res.Result == "Updated Scenerios"){
         this._snackBar.openFromComponent(uploadSnackBarISComponent, {
           duration: 5000,
           horizontalPosition: this.horizontalPosition,
@@ -631,6 +645,7 @@ HC_exporting(Highcharts);
         }
     });
     this.initScenario();
+  });
   } 
     //end of save
   addScenario(){
@@ -653,10 +668,11 @@ HC_exporting(Highcharts);
     }
   }
 
-  loadScenario(index:number){
-    
-    this.loadedScenario = "Scenario "+index
+  loadScenario(index:any){
       this.scenario = index;
+      this.scenarioSelected =  localStorage.setItem('scenarioSelected',index);
+      let indexNumber = localStorage.getItem('scenarioSelected');
+      this.loadedScenario = "Scenario "+indexNumber;
       this.initScenario();
     
   }
@@ -677,7 +693,9 @@ HC_exporting(Highcharts);
     }
   `],
 })
-export class uploadSnackBarISComponent {}
+export class uploadSnackBarISComponent {
+  scenarioBanner = localStorage.getItem('scenarioSelected');
+}
 
 @Component({
   selector: 'snackBarFailure',
@@ -694,7 +712,9 @@ export class uploadSnackBarISComponent {}
     }
   `],
 })
-export class uploadFailureSnackBarISComponent {}
+export class uploadFailureSnackBarISComponent {
+  scenarioBanner = localStorage.getItem('scenarioSelected');
+}
 
 @Component({
   selector: 'snackBarAddScenario',
@@ -712,7 +732,9 @@ export class uploadFailureSnackBarISComponent {}
     }
   `],
 })
-export class uploadSnackBarISAddComponent {}
+export class uploadSnackBarISAddComponent {
+  scenarioBanner = localStorage.getItem('scenarioSelected');
+}
 
 @Component({
   selector: 'snackBarAddScenarioFailure',
@@ -729,4 +751,6 @@ export class uploadSnackBarISAddComponent {}
     }
   `],
 })
-export class uploadFailureSnackBarISAddComponent {}
+export class uploadFailureSnackBarISAddComponent {
+  scenarioBanner = localStorage.getItem('scenarioSelected');
+}

@@ -22,7 +22,9 @@ export class HeaderComponent implements OnInit {
     private urlConfig:UrlConfigService,public auth: AuthService) { }
 
   ngOnInit() {
-    this.picture = localStorage.getItem('picture');
+    this.auth.profileSubscriber.subscribe(() => {
+      this.picture = localStorage.getItem('picture');
+    })
     this.filteredOptions = this.myControl.valueChanges.pipe(
       startWith(''),
       map(value => this._filter(value))

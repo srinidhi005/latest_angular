@@ -5,7 +5,7 @@ import { environment } from 'src/environments/environment';
   providedIn: 'root',
 })
 export class UrlConfigService {
-  private statementAPI = 'https://app.rmiinsights.com:8001/statements';
+  private statementAPI = 'https://app.rmiinsights.com:8001/statements?user=';
   private deleteStatementAPI =
     'https://app.rmiinsights.com:8001/deletestatement?companyname=';
   private downloadStatementAPI =

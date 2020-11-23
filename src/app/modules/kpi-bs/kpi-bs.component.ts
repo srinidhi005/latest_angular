@@ -18,6 +18,7 @@ export interface PeriodicElement {
   styleUrls: ['./kpi-bs.component.scss']
 })
 export class KpiBsComponent implements OnInit {
+ 
   scenario=this.UserDetailModelService.getSelectedScenario();
   companyName=this.UserDetailModelService.getSelectedCompany();
   scenarioArray=[];

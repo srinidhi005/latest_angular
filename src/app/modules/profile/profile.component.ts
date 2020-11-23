@@ -12,7 +12,7 @@ export class ProfileComponent implements OnInit {
   constructor(public auth: AuthService) { }
 
   ngOnInit(): void {
-    this.auth.userProfileSubject$.subscribe((res)=>{
+    this.auth.userProfileSubject$.subscribe((res:any)=>{
       console.log("res for profile",res);
       localStorage.setItem('nickname',res.nickname);
       localStorage.setItem('email',res.email);

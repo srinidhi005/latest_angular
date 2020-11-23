@@ -56,10 +56,10 @@ export class StatementComponent implements OnInit {
     public dialog: MatDialog,
     public formBuilder: FormBuilder
     ) { }
-
-  ngOnInit():void {
+    ngOnInit():void {
+    const nickname = localStorage.getItem('nickname');
     this.progressBar=true;
-    this.apiService.getData(this.urlConfig.getStatementAPI()).subscribe((res:any)=>{
+    this.apiService.getData(this.urlConfig.getStatementAPI()+nickname).subscribe((res:any)=>{
     const data = res.map((el,index)=>({...el,position:index+1,action:null}));
     this.dataset=data;
     for (let index=0; index<=data.length;index++){

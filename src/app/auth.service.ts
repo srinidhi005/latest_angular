@@ -16,7 +16,7 @@ export class AuthService {
     createAuth0Client({
       domain: "rmi-insights.us.auth0.com",
       client_id: "lLtgZM1NooB3CBkugjhEcGT43kZH3XSS",
-      redirect_uri: "https://app.rmiinsights.com/statement",
+      redirect_uri: "https://app.rmiinsights.com/addcompany",
        useRefreshTokens: true,
       cacheLocation: 'localstorage'
     })
@@ -93,7 +93,7 @@ export class AuthService {
     this.auth0Client$.subscribe((client: Auth0Client) => {
       // Call method to log in
       client.loginWithRedirect({
-	  redirect_uri: `${window.location.origin+"/statement"}`,	
+	  redirect_uri: `${window.location.origin+"/addcompany"}`,	
         appState: { target: redirectPath }
       });
     });

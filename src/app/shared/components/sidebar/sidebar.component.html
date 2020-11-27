@@ -71,9 +71,9 @@
         </mat-expansion-panel>
     </mat-accordion>
     <mat-accordion multi class="mat-table">
-        <mat-expansion-panel class="mat-elevation-z0">
+        <mat-expansion-panel class="mat-elevation-z0" (opened)="scenarioNumber()">
             <mat-expansion-panel-header class="mat-row">
-                <a mat-list-item routerLinkActive="list-item-active" (click)="scenarioNumber()">
+                <a mat-list-item routerLinkActive="list-item-active" >
                     <mat-icon>exposure</mat-icon>Scenario Analysis
                 </a>
             </mat-expansion-panel-header>

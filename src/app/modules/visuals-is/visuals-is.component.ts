@@ -377,8 +377,8 @@ export class VisualsISComponent implements OnInit {
                   title: { text: 'Revenue Growth' },
                   yAxis: {
                     title: { text: 'In Percentage %' },
-                    min: -150,
-                    max: 150,
+                    min: -100,
+                    max: 200,
                     tickInterval: 25,
                   },
                   xAxis: { categories: this.projectionsYearsArray },

@@ -29,64 +29,69 @@ const routes: Routes = [
   },
   {
     path: '',
-    component:DefaultComponent,
-  children: [
-   {
-    path: 'statement',
-    component: StatementComponent,
-    canActivate: [AuthGuard],
-
+    component: DefaultComponent,
+    children: [
+      {
+        path: 'statement',
+        component: StatementComponent,
+        canActivate: [AuthGuard],
+      },
+      {
+        path: 'addcompany',
+        component: AddCompanyComponent,
+        canActivate: [AuthGuard],
+      },
+      {
+        path: 'visualsIS',
+        component: VisualsISComponent,
+        canActivate: [AuthGuard],
+      },
+      {
+        path: 'visualsBS',
+        component: VisualsBsComponent,
+        canActivate: [AuthGuard],
+      },
+      {
+        path: 'IncomeStatementMetrics',
+        component: PLMetricsComponent,
+        canActivate: [AuthGuard],
+      },
+      {
+        path: 'BalanceSheetMetrics',
+        component: BsmetricsComponent,
+        canActivate: [AuthGuard],
+      },
+      {
+        path: 'KPIIncomeStatement',
+        component: KpiIsComponent,
+        canActivate: [AuthGuard],
+      },
+      {
+        path: 'KPIBalanceSheet',
+        component: KpiBsComponent,
+        canActivate: [AuthGuard],
+      },
+      {
+        path: 'profile',
+        component: ProfileComponent,
+        canActivate: [AuthGuard],
+      },
+      {
+        path: 'user',
+        component: UserDetailsComponent,
+        canActivate: [AuthGuard],
+      },
+      {
+        path: ':companyName/dashboard/:scenario',
+        component: CompanyDashboardComponent,
+        canActivate: [AuthGuard],
+      },
+    ],
   },
-  {
-    path: 'addcompany',
-    component: AddCompanyComponent,
-    canActivate: [AuthGuard],
-}, {
-    path: 'visualsIS',
-    component: VisualsISComponent,
-    canActivate: [AuthGuard],
-  },
-  {
-    path: 'visualsBS',
-    component: VisualsBsComponent,
-    canActivate: [AuthGuard],
-  },
-  {
-    path:'IncomeStatementMetrics',
-    component:PLMetricsComponent,
-    canActivate: [AuthGuard],
-  },
-  {
-    path:'BalanceSheetMetrics',
-    component:BsmetricsComponent,
-    canActivate: [AuthGuard],
-  },
-  {
-    path:'KPIIncomeStatement',
-    component:KpiIsComponent,
-    canActivate: [AuthGuard],
-  },
-  {
-    path:'KPIBalanceSheet',
-    component:KpiBsComponent,
-    canActivate: [AuthGuard],
-  },
-  {
-    path:'profile',
-    component:ProfileComponent,
-    canActivate: [AuthGuard],
-  },
-{
-  path:'user',
-  component:UserDetailsComponent,
-  canActivate: [AuthGuard],
-}
-]
-}];
-  
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+  exports: [RouterModule],
 })
 export class AppRoutingModule {}

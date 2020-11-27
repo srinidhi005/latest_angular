@@ -1,75 +1,72 @@
-import { NgModule } from "@angular/core";
-import { CommonModule } from "@angular/common";
-import { Ng2TelInputModule } from "ng2-tel-input";
-import { DefaultComponent } from "./default.component";
-
-import { RouterModule } from "@angular/router";
+import { CommonModule } from '@angular/common';
+import { NgModule } from '@angular/core';
+import { FlexLayoutModule } from '@angular/flex-layout';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import {
-  StatementComponent,
-  DialogElementsExampleDialog,
-} from "src/app/modules/statement/statement.component";
-import { SharedModule } from "src/app/shared/shared.module";
-import {
-  MatSidenavModule,
-  MatDividerModule,
-  MatCardModule,
-  MatPaginatorModule,
-  MatTableModule,
-  MatInputModule,
-  MatSelectModule,
-  MatOptionModule,
-  MatIconModule,
   MatButtonModule,
+  MatCardModule,
+  MatDividerModule,
+  MatFormFieldModule,
   MatGridListModule,
+  MatIconModule,
+  MatInputModule,
+  MatOptionModule,
+  MatPaginatorModule,
   MatProgressSpinnerModule,
+  MatSelectModule,
+  MatSidenavModule,
+  MatTableModule,
   MatTabsModule,
-} from "@angular/material";
-import { FlexLayoutModule } from "@angular/flex-layout";
-
-import { RMIAPIsService } from "src/app/shared/rmiapis.service";
-import { MatDialogModule } from "@angular/material/dialog";
-import { MatProgressBarModule } from "@angular/material/progress-bar";
-import { FormsModule, ReactiveFormsModule } from "@angular/forms";
-import { MatFormFieldModule } from "@angular/material";
-import { MatSnackBarModule } from "@angular/material/snack-bar";
-import { MatSliderModule } from "@angular/material/slider";
-import { MatExpansionModule } from "@angular/material/expansion";
-import { MatTooltipModule } from "@angular/material/tooltip";
+} from '@angular/material';
+import { MatDialogModule } from '@angular/material/dialog';
+import { MatExpansionModule } from '@angular/material/expansion';
+import { MatMenuModule } from '@angular/material/menu';
+import { MatProgressBarModule } from '@angular/material/progress-bar';
+import { MatSliderModule } from '@angular/material/slider';
+import { MatSnackBarModule } from '@angular/material/snack-bar';
+import { MatTooltipModule } from '@angular/material/tooltip';
+import { RouterModule } from '@angular/router';
+import { HighchartsChartModule } from 'highcharts-angular';
+import { Ng2TelInputModule } from 'ng2-tel-input';
 import {
-  uploadSnackBarStatementComponent,
   uploadFailureSnackBarStatementComponent,
-} from "src/app/modules/add-company/add-company.component";
+  uploadSnackBarStatementComponent,
+} from 'src/app/modules/add-company/add-company.component';
+import { BsmetricsComponent } from 'src/app/modules/bsmetrics/bsmetrics.component';
+import { BalanceSheetKpiComponent } from 'src/app/modules/company-dashboard/balance-sheet-kpi/balance-sheet-kpi.component';
+import { CompanyDashboardComponent } from 'src/app/modules/company-dashboard/company-dashboard.component';
+import { CompanyMatricsComponent } from 'src/app/modules/company-dashboard/company-matrics/company-matrics.component';
+import { IncomeStatementKpiComponent } from 'src/app/modules/company-dashboard/income-statement-kpi/income-statement-kpi.component';
+import { KpiBsComponent } from 'src/app/modules/kpi-bs/kpi-bs.component';
+import { KpiIsComponent } from 'src/app/modules/kpi-is/kpi-is.component';
+import { PLMetricsComponent } from 'src/app/modules/plmetrics/plmetrics.component';
 import {
-  VisualsISComponent,
-  uploadSnackBarISComponent,
-  uploadFailureSnackBarISComponent,
-  uploadSnackBarISAddComponent,
-  uploadFailureSnackBarISAddComponent,
-} from "src/app/modules/visuals-is/visuals-is.component";
-import { HighchartsChartModule } from "highcharts-angular";
-import { MatMenuModule } from "@angular/material/menu";
-import { PLMetricsComponent } from "src/app/modules/plmetrics/plmetrics.component";
+  DialogElementsExampleDialog,
+  StatementComponent,
+} from 'src/app/modules/statement/statement.component';
+import { UserDetailsComponent } from 'src/app/modules/user-details/user-details.component';
 import {
-  VisualsBsComponent,
-  uploadSnackBarBSComponent,
+  uploadFailureSnackBarBSAddComponent,
   uploadFailureSnackBarBSComponent,
   uploadSnackBarBSAddComponent,
-  uploadFailureSnackBarBSAddComponent,
-} from "src/app/modules/visuals-bs/visuals-bs.component";
-import { BsmetricsComponent } from "src/app/modules/bsmetrics/bsmetrics.component";
-import { KpiIsComponent } from "src/app/modules/kpi-is/kpi-is.component";
-import { KpiBsComponent } from "src/app/modules/kpi-bs/kpi-bs.component";
-import { LoginComponent } from "src/app/modules/login/login.component";
-import { CompanyDashboardComponent } from "src/app/modules/company-dashboard/company-dashboard.component";
-import { CompanyMatricsComponent } from "src/app/modules/company-dashboard/company-matrics/company-matrics.component";
-import { IncomeStatementKpiComponent } from "src/app/modules/company-dashboard/income-statement-kpi/income-statement-kpi.component";
-import { BalanceSheetKpiComponent } from "src/app/modules/company-dashboard/balance-sheet-kpi/balance-sheet-kpi.component";
-import { UserDetailsComponent } from "src/app/modules/user-details/user-details.component";
+  uploadSnackBarBSComponent,
+  VisualsBsComponent,
+} from 'src/app/modules/visuals-bs/visuals-bs.component';
+import { VisualBSInputDialogComponent } from 'src/app/modules/visuals-is/input-value-dialog.component';
+import {
+  uploadFailureSnackBarISAddComponent,
+  uploadFailureSnackBarISComponent,
+  uploadSnackBarISAddComponent,
+  uploadSnackBarISComponent,
+  VisualsISComponent,
+} from 'src/app/modules/visuals-is/visuals-is.component';
+import { RMIAPIsService } from 'src/app/shared/rmiapis.service';
+import { SharedModule } from 'src/app/shared/shared.module';
+import { DefaultComponent } from './default.component';
 
 @NgModule({
   declarations: [
     DefaultComponent,
-
     StatementComponent,
     DialogElementsExampleDialog,
     uploadSnackBarStatementComponent,
@@ -93,6 +90,7 @@ import { UserDetailsComponent } from "src/app/modules/user-details/user-details.
     BalanceSheetKpiComponent,
     CompanyDashboardComponent,
     UserDetailsComponent,
+    VisualBSInputDialogComponent,
   ],
   imports: [
     CommonModule,
@@ -140,6 +138,7 @@ import { UserDetailsComponent } from "src/app/modules/user-details/user-details.
     uploadFailureSnackBarBSAddComponent,
     uploadFailureSnackBarStatementComponent,
     uploadSnackBarStatementComponent,
+    VisualBSInputDialogComponent,
   ],
   providers: [RMIAPIsService],
 })

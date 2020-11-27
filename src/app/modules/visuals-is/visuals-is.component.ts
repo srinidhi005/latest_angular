@@ -1233,7 +1233,7 @@ export class VisualsISComponent implements OnInit {
           .subscribe((res: any) => {
             console.log(typeof res.status);
             console.log(res.status);
-            if (res.Result == 'Updated Scenerios') {
+            if (res.message == "Success") {
               this._snackBar.openFromComponent(uploadSnackBarISComponent, {
                 duration: 5000,
                 horizontalPosition: this.horizontalPosition,

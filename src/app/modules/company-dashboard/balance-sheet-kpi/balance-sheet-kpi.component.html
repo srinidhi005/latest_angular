@@ -96,8 +96,7 @@
 
         <!-- Value Column -->
         <ng-container matColumnDef="KPIValue">
-         <th mat-header-cell *matHeaderCellDef class="header-align-right"> KPI </th>
-
+          <th mat-header-cell *matHeaderCellDef> KPI </th>
           <td mat-cell *matCellDef="let element"
             [ngClass]="{increment: element.KPIValue > 0 || element.KPIValue == 0, decrement: element.KPIValue < 0}">
             <ng-container *ngIf="element.KPIValue > 0">

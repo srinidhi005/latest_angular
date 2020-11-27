@@ -25,7 +25,6 @@ export class SidebarComponent implements OnInit, OnDestroy {
   ) {}
 
   ngOnInit() {
-    this.scenarioArray = this.userDetailModelService.getScenarioNumber();
     this.getCompanies();
   }
   /**

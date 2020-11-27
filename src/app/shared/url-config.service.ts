@@ -5,31 +5,21 @@ import { environment } from 'src/environments/environment';
   providedIn: 'root',
 })
 export class UrlConfigService {
-  private statementAPI = 'https://app.rmiinsights.com:8001/statements?user=';
-  private deleteStatementAPI =
-    'https://app.rmiinsights.com:8001/deletestatement?companyname=';
-  private downloadStatementAPI =
-    'https://app.rmiinsights.com:8001/download_file?companyname=';
-  private uploadStatementAPI = 'https://app.rmiinsights.com:8001/upload_file';
-  private isActualsAPI = 'https://app.rmiinsights.com:8001/actuals?company=';
-  private scenarioAPI = 'https://app.rmiinsights.com:8001/scenarios?company=';
-  private isProjectionsAPIGET =
-    'https://app.rmiinsights.com:8001/projections?company=';
-  private bsActualsAPI =
-    'https://app.rmiinsights.com:8001/balance-actuals?company=';
-  private bsProjectionsAPIGET =
-    'https://app.rmiinsights.com:8001/balance-projections?company=';
-  private isKPIActuals =
-    'https://app.rmiinsights.com:8001/kpi-pnl-actuals?company=';
-  private isKPIProjections =
-    'https://app.rmiinsights.com:8001/kpi-pnl-projections?company=';
-  private bsKPIActuals =
-    'https://app.rmiinsights.com:8001/kpi-bs-actuals?company=';
-  private bsKPIProjections =
-    'https://app.rmiinsights.com:8001/kpi-bs-projections?company=';
-  private userDetailAPI = 'https://app.rmiinsights.com:8001/updateprofile';
-  private userProfileDetailAPI =
-    'https://app.rmiinsights.com:8001/userprofiledetails?userid=';
+  private statementAPI = `${environment.APIHost}statements?user=`;
+  private deleteStatementAPI = `${environment.APIHost}deletestatement?companyname=`;
+  private downloadStatementAPI = `${environment.APIHost}download_file?companyname=`;
+  private uploadStatementAPI = `${environment.APIHost}upload_file`;
+  private isActualsAPI = `${environment.APIHost}actuals?company=`;
+  private scenarioAPI = `${environment.APIHost}scenarios?company=`;
+  private isProjectionsAPIGET = `${environment.APIHost}projections?company=`;
+  private bsActualsAPI = `${environment.APIHost}balance-actuals?company=`;
+  private bsProjectionsAPIGET = `${environment.APIHost}balance-projections?company=`;
+  private isKPIActuals = `${environment.APIHost}kpi-pnl-actuals?company=`;
+  private isKPIProjections = `${environment.APIHost}kpi-pnl-projections?company=`;
+  private bsKPIActuals = `${environment.APIHost}kpi-bs-actuals?company=`;
+  private bsKPIProjections = `${environment.APIHost}kpi-bs-projections?company=`;
+  private userDetailAPI = `${environment.APIHost}updateprofile`;
+  private userProfileDetailAPI = `${environment.APIHost}userprofiledetails?userid=`;
   private getTopCompanies = `${environment.APIHost}dashboard`;
   constructor(private http: HttpClient) {}
 

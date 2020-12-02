@@ -62,7 +62,8 @@
             <ng-container *ngIf="element.KPIValue == 0">
               <mat-icon>trending_flat</mat-icon>
             </ng-container>
-            {{element.KPIValue}}%
+            {{element.KPIValue}}<ng-container *ngIf="percentageValues.indexOf(element.name) > -1">%
+            </ng-container>
           </td>
         </ng-container>
 
@@ -125,7 +126,8 @@
             <ng-container *ngIf="element.KPIValue == 0">
               <mat-icon>trending_flat</mat-icon>
             </ng-container>
-            {{element.KPIValue}}%
+            {{element.KPIValue}}<ng-container *ngIf="percentageValues.indexOf(element.name) > -1">%
+            </ng-container>
           </td>
         </ng-container>
 

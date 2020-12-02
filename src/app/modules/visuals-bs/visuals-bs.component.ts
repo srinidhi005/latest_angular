@@ -390,7 +390,7 @@ export class VisualsBsComponent implements OnInit {
                 });
 
                 this.DSOOptions = {
-                  chart: { type: 'column', animation: false },
+                  chart: { type: 'spline', animation: false },
                   title: { text: 'Days Sales Outstanding' },
                   yAxis: {
                     title: { text: 'Days' },
@@ -437,12 +437,11 @@ export class VisualsBsComponent implements OnInit {
                         },
                       },
                     },
-                    column: {
+                    spline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      pointWidth: 15,
                       colors: [
                         actualColor,
                         actualColor,
@@ -472,7 +471,7 @@ export class VisualsBsComponent implements OnInit {
                   legend: false,
                 };
                 this.IDOptions = {
-                  chart: { type: 'column', animation: false },
+                  chart: { type: 'spline', animation: false },
                   title: { text: 'Inventory Days' },
                   yAxis: {
                     title: { text: 'Days' },
@@ -520,12 +519,11 @@ export class VisualsBsComponent implements OnInit {
                         },
                       },
                     },
-                    column: {
+                    spline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      pointWidth: 15,
                       colors: [
                         actualColor,
                         actualColor,
@@ -549,7 +547,7 @@ export class VisualsBsComponent implements OnInit {
                   legend: false,
                 };
                 this.OCAOptions = {
-                  chart: { type: 'column', animation: false },
+                  chart: { type: 'spline', animation: false },
                   title: { text: 'Other Current Assets' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
@@ -593,12 +591,11 @@ export class VisualsBsComponent implements OnInit {
                         },
                       },
                     },
-                    column: {
+                    spline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      pointWidth: 15,
                       colors: [
                         actualColor,
                         actualColor,
@@ -622,7 +619,7 @@ export class VisualsBsComponent implements OnInit {
                   legend: false,
                 };
                 this.DPOOptions = {
-                  chart: { type: 'column', animation: false },
+                  chart: { type: 'spline', animation: false },
                   title: { text: 'Days Payable Outstanding' },
                   yAxis: {
                     title: { text: 'Days' },
@@ -669,12 +666,11 @@ export class VisualsBsComponent implements OnInit {
                         },
                       },
                     },
-                    column: {
+                    spline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      pointWidth: 15,
                       colors: [
                         actualColor,
                         actualColor,
@@ -699,7 +695,7 @@ export class VisualsBsComponent implements OnInit {
                   legend: false,
                 };
                 this.ALOptions = {
-                  chart: { type: 'column', animation: false },
+                  chart: { type: 'spline', animation: false },
                   title: { text: 'Accrued Liabilities' },
                   yAxis: {
                     title: { text: 'As % of COGS' },
@@ -743,12 +739,11 @@ export class VisualsBsComponent implements OnInit {
                         },
                       },
                     },
-                    column: {
+                    spline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      pointWidth: 15,
                       colors: [
                         actualColor,
                         actualColor,
@@ -772,7 +767,7 @@ export class VisualsBsComponent implements OnInit {
                   legend: false,
                 };
                 this.OCLOptions = {
-                  chart: { type: 'column', animation: false },
+                  chart: { type: 'spline', animation: false },
                   title: { text: 'Other Current Liabilities' },
                   yAxis: {
                     title: { text: 'As % of COGS' },
@@ -816,12 +811,11 @@ export class VisualsBsComponent implements OnInit {
                         },
                       },
                     },
-                    column: {
+                    spline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      pointWidth: 15,
                       colors: [
                         actualColor,
                         actualColor,
@@ -961,7 +955,6 @@ export class VisualsBsComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          pointWidth: 15,
           colors: [
             actualColor,
             actualColor,
@@ -996,7 +989,6 @@ export class VisualsBsComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          pointWidth: 15,
           colors: [
             actualColor,
             actualColor,
@@ -1031,7 +1023,6 @@ export class VisualsBsComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          pointWidth: 15,
           colors: [
             actualColor,
             actualColor,
@@ -1066,7 +1057,6 @@ export class VisualsBsComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          pointWidth: 15,
           colors: [
             actualColor,
             actualColor,
@@ -1101,7 +1091,6 @@ export class VisualsBsComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          pointWidth: 15,
           colors: [
             actualColor,
             actualColor,
@@ -1136,7 +1125,6 @@ export class VisualsBsComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          pointWidth: 15,
           colors: [
             actualColor,
             actualColor,

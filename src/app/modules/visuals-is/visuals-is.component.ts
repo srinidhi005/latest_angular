@@ -58,6 +58,28 @@ type SelectableCharts =
   | 'dna-percent'
   | 'oincome-expense-percent'
   | 'net-interest-expense';
+
+const seriesOption = {
+  stickyTracking: true,
+  colorByPoint: true,
+  fillColor: {
+    linearGradient: [0, 0, 0, 300],
+    stops: [
+      [0, Highcharts.getOptions().colors[0]],
+      [
+        1,
+        Highcharts.color(Highcharts.getOptions().colors[0])
+          .setOpacity(0)
+          .get('rgba'),
+      ],
+    ],
+  },
+  dragDrop: {
+    draggableY: true,
+    dragMaxY: 199,
+    dragMinY: -99,
+  },
+};
 @Component({
   selector: 'app-visuals-is',
   templateUrl: './visuals-is.component.html',
@@ -373,23 +395,18 @@ export class VisualsISComponent implements OnInit {
                 this.projectionsYearsArray.shift();
 
                 this.RGOptions = {
-                  chart: { type: 'column', animation: false },
+                  chart: { type: 'spline', animation: false },
                   title: { text: 'Revenue Growth' },
                   yAxis: {
                     title: { text: 'In Percentage %' },
-                    min: -100,
-                    max: 200,
-                    tickInterval: 25,
+                    min: -150,
+                    max: 150,
+                    tickInterval: 50,
                   },
                   xAxis: { categories: this.projectionsYearsArray },
                   plotOptions: {
                     series: {
-                      stickyTracking: true,
-                      dragDrop: {
-                        draggableY: true,
-                        dragMaxY: 199,
-                        dragMinY: -99,
-                      },
+                      ...seriesOption,
                       point: {
                         events: {
                           drag: function (e) {
@@ -422,12 +439,11 @@ export class VisualsISComponent implements OnInit {
                         },
                       },
                     },
-                    column: {
+                    spline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      pointWidth: 15,
                       colors: [
                         actualColor,
                         actualColor,
@@ -458,7 +474,7 @@ export class VisualsISComponent implements OnInit {
                   legend: false,
                 };
                 this.COGSOptions = {
-                  chart: { type: 'column', animation: false },
+                  chart: { type: 'spline', animation: false },
                   title: { text: 'COGS (% Revenue)' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
@@ -469,8 +485,7 @@ export class VisualsISComponent implements OnInit {
                   xAxis: { categories: this.projectionsYearsArray },
                   plotOptions: {
                     series: {
-                      stickyTracking: true,
-                      dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
+                      ...seriesOption,
                       point: {
                         events: {
                           drag: function (e) {
@@ -501,12 +516,11 @@ export class VisualsISComponent implements OnInit {
                         },
                       },
                     },
-                    column: {
+                    spline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      pointWidth: 15,
                       colors: [
                         actualColor,
                         actualColor,
@@ -536,8 +550,8 @@ export class VisualsISComponent implements OnInit {
                   legend: false,
                 };
                 this.SGAOptions = {
-                  chart: { type: 'column', animation: false },
-                  title: { text: 'SGA (% Revenue)' },
+                  chart: { type: 'spline', animation: false },
+                  title: { text: 'SG&A (% Revenue)' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
                     min: 0,
@@ -580,12 +594,11 @@ export class VisualsISComponent implements OnInit {
                         },
                       },
                     },
-                    column: {
+                    spline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      pointWidth: 15,
                       colors: [
                         actualColor,
                         actualColor,
@@ -615,7 +628,7 @@ export class VisualsISComponent implements OnInit {
                   legend: false,
                 };
                 this.DAOptions = {
-                  chart: { type: 'column', animation: false },
+                  chart: { type: 'spline', animation: false },
                   title: { text: 'D&A (% Revenue)' },
                   yAxis: {
                     title: {
@@ -660,12 +673,11 @@ export class VisualsISComponent implements OnInit {
                         },
                       },
                     },
-                    column: {
+                    spline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      pointWidth: 15,
                       colors: [
                         actualColor,
                         actualColor,
@@ -696,7 +708,7 @@ export class VisualsISComponent implements OnInit {
                   legend: false,
                 };
                 this.OIEOptions = {
-                  chart: { type: 'column', animation: false },
+                  chart: { type: 'spline', animation: false },
                   title: { text: 'Other Income/Expense (% Revenue)' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
@@ -740,12 +752,11 @@ export class VisualsISComponent implements OnInit {
                         },
                       },
                     },
-                    column: {
+                    spline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      pointWidth: 15,
                       colors: [
                         actualColor,
                         actualColor,
@@ -775,12 +786,11 @@ export class VisualsISComponent implements OnInit {
                   legend: false,
                 };
                 this.NIEOptions = {
-                  chart: { type: 'column', animation: false },
+                  chart: { type: 'spline', animation: false },
                   title: { text: 'Net Interest Expense' },
                   yAxis: { title: { text: 'USD' } },
                   xAxis: {
                     categories: this.projectionsYearsArray,
-                    tickInterval: 25,
                   },
                   plotOptions: {
                     series: {
@@ -817,12 +827,11 @@ export class VisualsISComponent implements OnInit {
                         },
                       },
                     },
-                    column: {
+                    spline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      pointWidth: 15,
                       colors: [
                         actualColor,
                         actualColor,
@@ -836,7 +845,7 @@ export class VisualsISComponent implements OnInit {
                   },
                   tooltip: {
                     ...tooltip,
-                    formatter: function () {
+                    formatter() {
                       return (
                         Highcharts.numberFormat(this.point.y, 0) + ' millions'
                       );
@@ -865,14 +874,14 @@ export class VisualsISComponent implements OnInit {
   }
 
   updateProjection() {
-    let PTRArray = [];
-    let PGPArray = [];
-    let PEBITArray = [];
-    let PEBITDAArray = [];
-    let PEBTArray = [];
-    let PNIArray = [];
+    const PTRArray = [];
+    const PGPArray = [];
+    const PEBITArray = [];
+    const PEBITDAArray = [];
+    const PEBTArray = [];
+    const PNIArray = [];
     let lastKey = 0;
-    for (let [key, value] of this.financialObj) {
+    for (const [key, value] of this.financialObj) {
       if (typeof this.financialObj.get(key).COGS !== 'undefined') {
         this.financialObj.get(key).totalRevenue = Math.round(
           this.financialObj.get(lastKey).totalRevenue +
@@ -920,7 +929,7 @@ export class VisualsISComponent implements OnInit {
         );
         this.financialObj.get(key).p_NetInCome =
           this.financialObj.get(key).p_EBT - this.financialObj.get(key).p_taxes;
-        //revenueGrowthArray.push(obj.get(key).revenueGrowth);
+        // revenueGrowthArray.push(obj.get(key).revenueGrowth);
       }
       PTRArray.push(this.financialObj.get(key).totalRevenue);
       PGPArray.push(this.financialObj.get(key).p_GrossProfit);
@@ -938,7 +947,7 @@ export class VisualsISComponent implements OnInit {
       xAxis: { categories: this.yearsArray },
       tooltip: {
         ...tooltip,
-        formatter: function () {
+        formatter() {
           return Highcharts.numberFormat(this.point.y, 0) + ' USD';
         },
       },
@@ -949,7 +958,6 @@ export class VisualsISComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          pointWidth: 15,
           colors: [
             actualColor,
             actualColor,
@@ -979,7 +987,6 @@ export class VisualsISComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          pointWidth: 15,
           colors: [
             actualColor,
             actualColor,
@@ -994,7 +1001,7 @@ export class VisualsISComponent implements OnInit {
       },
       tooltip: {
         ...tooltip,
-        formatter: function () {
+        formatter() {
           return Highcharts.numberFormat(this.point.y, 0) + ' USD';
         },
       },
@@ -1015,7 +1022,6 @@ export class VisualsISComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          pointWidth: 15,
           colors: [
             actualColor,
             actualColor,
@@ -1030,7 +1036,7 @@ export class VisualsISComponent implements OnInit {
       },
       tooltip: {
         ...tooltip,
-        formatter: function () {
+        formatter() {
           return Highcharts.numberFormat(this.point.y, 0) + ' USD';
         },
       },
@@ -1051,7 +1057,6 @@ export class VisualsISComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          pointWidth: 15,
           colors: [
             actualColor,
             actualColor,
@@ -1066,7 +1071,7 @@ export class VisualsISComponent implements OnInit {
       },
       tooltip: {
         ...tooltip,
-        formatter: function () {
+        formatter() {
           return Highcharts.numberFormat(this.point.y, 0) + ' USD';
         },
       },
@@ -1087,7 +1092,6 @@ export class VisualsISComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          pointWidth: 15,
           colors: [
             actualColor,
             actualColor,
@@ -1102,7 +1106,7 @@ export class VisualsISComponent implements OnInit {
       },
       tooltip: {
         ...tooltip,
-        formatter: function () {
+        formatter() {
           return Highcharts.numberFormat(this.point.y, 0) + ' USD';
         },
       },
@@ -1123,7 +1127,6 @@ export class VisualsISComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          pointWidth: 15,
           colors: [
             actualColor,
             actualColor,
@@ -1138,7 +1141,7 @@ export class VisualsISComponent implements OnInit {
       },
       tooltip: {
         ...tooltip,
-        formatter: function () {
+        formatter() {
           return Highcharts.numberFormat(this.point.y, 0) + ' USD';
         },
       },
@@ -1164,10 +1167,10 @@ export class VisualsISComponent implements OnInit {
           'scenarioSelected',
           this.saveScenarioNumber
         );
-        let inputArray = [];
+        const inputArray = [];
 
-        for (let [key, value] of this.financialObj) {
-          let inputObj: any = {};
+        for (const [key, value] of this.financialObj) {
+          const inputObj: any = {};
 
           if (this.financialObj.get(key).latest > 0) {
             inputObj.asof = key.toString();
@@ -1233,7 +1236,7 @@ export class VisualsISComponent implements OnInit {
           .subscribe((res: any) => {
             console.log(typeof res.status);
             console.log(res.status);
-            if (res.message == "Success") {
+            if (res.Result == 'Updated Scenerios') {
               this._snackBar.openFromComponent(uploadSnackBarISComponent, {
                 duration: 5000,
                 horizontalPosition: this.horizontalPosition,
@@ -1253,9 +1256,9 @@ export class VisualsISComponent implements OnInit {
         this.initScenario();
       });
   }
-  //end of save
+  // end of save
   addScenario() {
-    let existingScenarios = this.UserDetailModelService.getScenarioNumber();
+    const existingScenarios = this.UserDetailModelService.getScenarioNumber();
     if (existingScenarios.length < 9) {
       this.scenario = existingScenarios.length;
       this._snackBar.openFromComponent(uploadSnackBarISAddComponent, {
@@ -1276,13 +1279,14 @@ export class VisualsISComponent implements OnInit {
   loadScenario(index: any) {
     this.scenario = index;
     this.scenarioSelected = localStorage.setItem('scenarioSelected', index);
-    let indexNumber = localStorage.getItem('scenarioSelected');
+    const indexNumber = localStorage.getItem('scenarioSelected');
     this.loadedScenario = 'Scenario ' + indexNumber;
     this.initScenario();
   }
 }
 
 @Component({
+  // tslint:disable-next-line:component-selector
   selector: 'snackBar',
   templateUrl: 'snackBar.html',
   styles: [
@@ -1299,11 +1303,13 @@ export class VisualsISComponent implements OnInit {
     `,
   ],
 })
+// tslint:disable-next-line:class-name
 export class uploadSnackBarISComponent {
   scenarioBanner = localStorage.getItem('scenarioSelected');
 }
 
 @Component({
+  // tslint:disable-next-line:component-selector
   selector: 'snackBarFailure',
   templateUrl: 'snackBarFailure.html',
   styles: [
@@ -1320,11 +1326,13 @@ export class uploadSnackBarISComponent {
     `,
   ],
 })
+// tslint:disable-next-line:class-name
 export class uploadFailureSnackBarISComponent {
   scenarioBanner = localStorage.getItem('scenarioSelected');
 }
 
 @Component({
+  // tslint:disable-next-line:component-selector
   selector: 'snackBarAddScenario',
   templateUrl: 'snackBarAddScenario.html',
   styles: [
@@ -1342,11 +1350,13 @@ export class uploadFailureSnackBarISComponent {
     `,
   ],
 })
+// tslint:disable-next-line:class-name
 export class uploadSnackBarISAddComponent {
   scenarioBanner = localStorage.getItem('scenarioSelected');
 }
 
 @Component({
+  // tslint:disable-next-line:component-selector
   selector: 'snackBarAddScenarioFailure',
   templateUrl: 'snackBarAddScenarioFailure.html',
   styles: [
@@ -1363,6 +1373,7 @@ export class uploadSnackBarISAddComponent {
     `,
   ],
 })
+// tslint:disable-next-line:class-name
 export class uploadFailureSnackBarISAddComponent {
   scenarioBanner = localStorage.getItem('scenarioSelected');
 }

@@ -42,7 +42,7 @@ const tooltip = {
   borderWidth: 0,
   borderRadius: 5,
   // tslint:disable-next-line:object-literal-shorthand
-  formatter: function () {
+  formatter() {
     return this.x
       ? this.series.chart.title.textStr +
           ' for <b>' +
@@ -137,7 +137,6 @@ export class CompanyMatricsComponent implements OnInit, OnDestroy {
         colorByPoint: true,
       },
       spline: {
-        pointWidth: 15,
         colors: [
           actualColor,
           actualColor,
@@ -195,7 +194,6 @@ export class CompanyMatricsComponent implements OnInit, OnDestroy {
         },
       },
       spline: {
-        pointWidth: 15,
         colors: [
           actualColor,
           actualColor,
@@ -309,7 +307,7 @@ export class CompanyMatricsComponent implements OnInit, OnDestroy {
   };
   /**
    *
-   * @param totalRevenue
+   * @param totalRevenue array of any
    */
   setTotalRevenue = (totalRevenue: any[]) => {
     const data = [];
@@ -333,7 +331,7 @@ export class CompanyMatricsComponent implements OnInit, OnDestroy {
   };
   /**
    *
-   * @param grossProfit
+   * @param grossProfit array of any
    */
   setGrossProfitData = (grossProfit: any[]) => {
     const data = [];
@@ -357,7 +355,7 @@ export class CompanyMatricsComponent implements OnInit, OnDestroy {
   };
   /**
    *
-   * @param ebitda
+   * @param ebitda array of any
    */
   setEBITDA = (ebitda: any[]) => {
     const data = [];
@@ -381,7 +379,7 @@ export class CompanyMatricsComponent implements OnInit, OnDestroy {
   };
   /**
    *
-   * @param netIncome
+   * @param netIncome array of any
    */
   setNetIncome = (netIncome: any[]) => {
     const data = [];

@@ -33,6 +33,11 @@ export class KpiBsComponent implements OnInit {
     'Avg. Accrued Liabilities (as % of COGS)',
     'Avg. Other Current Liabilties (as % of COGS)',
   ];
+  percentageValues = [
+    this.dataColumns[2],
+    this.dataColumns[4],
+    this.dataColumns[5],
+  ];
   displayedColumns: string[] = [
     'position',
     'name',

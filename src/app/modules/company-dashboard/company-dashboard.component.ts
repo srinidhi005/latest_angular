@@ -1,10 +1,10 @@
-import { Component, OnDestroy, OnInit } from "@angular/core";
-import { ActivatedRoute } from "@angular/router";
-import { Subscription } from "rxjs";
+import { Component, OnDestroy, OnInit } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
+import { Subscription } from 'rxjs';
 @Component({
-  selector: "app-company-dashboard",
-  templateUrl: "./company-dashboard.component.html",
-  styleUrls: ["./company-dashboard.component.scss"],
+  selector: 'app-company-dashboard',
+  templateUrl: './company-dashboard.component.html',
+  styleUrls: ['./company-dashboard.component.scss'],
 })
 export class CompanyDashboardComponent implements OnInit, OnDestroy {
   loading = true;

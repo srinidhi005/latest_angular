@@ -27,6 +27,8 @@ export interface PLElement {
 }
 
 let ELEMENT_PL_PDF: PLElement[] = [];
+years=[];
+financials=[];
 
 @Component({
   selector: 'app-plmetrics',
@@ -68,6 +70,8 @@ export class PLMetricsComponent implements OnInit {
 
   ngOnInit() {
     const ELEMENT_PL: PLElement[] = [];
+	this.years=[];
+	this.financials=[];
       this.progressBar=true;
       var previousAmount;
     this.apiService.getData(this.urlConfig.getIsActualsAPI()+this.companySelected).subscribe((res:any)=>{

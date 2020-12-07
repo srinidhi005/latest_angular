@@ -28,6 +28,8 @@ export interface PLElement {
   "Memo Check":string;
 }
 let ELEMENT_BS_PDF: PLElement[] = [];
+years=[];
+financials=[];
 
 @Component({
   selector: 'app-bsmetrics',
@@ -72,6 +74,8 @@ export class BsmetricsComponent implements OnInit {
 
   ngOnInit() {
     const ELEMENT_BS: PLElement[] = [];
+	this.years=[];
+	this.financials=[];
       this.progressBar=true;
   var memocheck;
     this.apiService.getData(this.urlConfig.getBsActualsAPI()+this.companySelected).subscribe((res:any)=>{

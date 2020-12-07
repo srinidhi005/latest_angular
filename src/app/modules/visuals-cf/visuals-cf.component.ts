@@ -406,7 +406,7 @@ export class VisualsCfComponent implements OnInit {
                   tooltip: {
                     ...tooltip,
                     formatter() {
-                      return Highcharts.numberFormat(this.point.y, 0) + ' Days';
+                      return Highcharts.numberFormat(this.point.y, 0) + '%';
                     },
                   },
                   credits: { enabled: false },
@@ -489,7 +489,7 @@ export class VisualsCfComponent implements OnInit {
                   tooltip: {
                     ...tooltip,
                     formatter: function () {
-                      return Highcharts.numberFormat(this.point.y, 0) + ' Days';
+                      return Highcharts.numberFormat(this.point.y, 0) + '%';
                     },
                   },
                   credits: { enabled: false },
@@ -639,7 +639,7 @@ export class VisualsCfComponent implements OnInit {
                   tooltip: {
                     ...tooltip,
                     formatter: function () {
-                      return Highcharts.numberFormat(this.point.y, 0) + ' Days';
+                      return Highcharts.numberFormat(this.point.y, 0) + '%';
                     },
                   },
                   credits: { enabled: false },

@@ -11,7 +11,7 @@ import draggable from 'highcharts/modules/draggable-points';
 import * as Highcharts from 'highcharts';
 import HC_exporting from 'highcharts/modules/exporting';
 import { MatDialog } from '@angular/material';
-import { VisualBSInputDialogComponent } from '../visuals-is/input-value-dialog.component';
+import { VisualCFInputDialogComponent } from '../visuals-cf/input-value-dialog.component';
 draggable(Highcharts);
 const tooltip = {
   backgroundColor: '#5A6574',

@@ -118,6 +118,11 @@ export class StatementComponent implements OnInit {
     this.userDetailModelService.setSelectedCompany(element.name);
     this.userDetailModelService.setSelectedScenario(1);
   }
+   cashFlowStatement(element:any){
+    localStorage.setItem('companySelected',element.name);
+    this.userDetailModelService.setSelectedCompany(element.name);
+    this.userDetailModelService.setSelectedScenario(1);
+  }
 }
 
 @Component({

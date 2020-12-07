@@ -11,12 +11,15 @@ export class UrlConfigService {
   private uploadStatementAPI = `${environment.APIHost}upload_file`;
   private isActualsAPI = `${environment.APIHost}actuals?company=`;
   private scenarioAPI = `${environment.APIHost}scenarios?company=`;
+  private cashscenarioAPI = `${environment.APIHost}cashflow-scenarios?company=`;
   private isProjectionsAPIGET = `${environment.APIHost}projections?company=`;
   private bsActualsAPI = `${environment.APIHost}balance-actuals?company=`;
   private bsProjectionsAPIGET = `${environment.APIHost}balance-projections?company=`;
   private isKPIActuals = `${environment.APIHost}kpi-pnl-actuals?company=`;
   private isKPIProjections = `${environment.APIHost}kpi-pnl-projections?company=`;
   private bsKPIActuals = `${environment.APIHost}kpi-bs-actuals?company=`;
+  private cashActualsAPI = `${environment.APIHost}cashflow-actuals?company=`;
+  private cashProjectionsAPI = `${environment.APIHost}cashflow-projections?company=`;
   private bsKPIProjections = `${environment.APIHost}kpi-bs-projections?company=`;
   private userDetailAPI = `${environment.APIHost}updateprofile`;
   private userProfileDetailAPI = `${environment.APIHost}userprofiledetails?userid=`;
@@ -70,6 +73,18 @@ export class UrlConfigService {
   }
   getuserDetailAPI() {
     return this.userDetailAPI;
+  }
+  getCashActualsAPI(){
+	return this.cashActualsAPI;
+  }
+  getCashProjectionsAPIGET(){
+	return this.cashProjectionsAPI;
+  }
+   getCashProjectionsAPIPOST() {
+    return this.cashProjectionsAPI;
+  }
+  getCashScenarioAPI(){
+	  return this.cashscenarioAPI;
   }
   getuserProfileDetail() {
     return this.userProfileDetailAPI;

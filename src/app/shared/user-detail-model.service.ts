@@ -9,6 +9,7 @@ export class UserDetailModelService {
 
   updateBalanceSheetScenario = new Subject();
   updateIncomeSheetScenario = new Subject();
+  updateCashFlowScenario = new Subject();
 
   private selectedCompany:string;
   private selectedScenario:number;
@@ -25,6 +26,12 @@ export class UserDetailModelService {
     this.selectedScenarioIndex = scenarioNumber;
     this.updateIncomeSheetScenario.next();
   }
+  
+  setCashFlowScenario(scenarioNumber){
+    this.selectedScenarioIndex = scenarioNumber;
+    this.updateCashFlowScenario.next();
+  }
+  
 
   getSelectedCompany(){
     return this.selectedCompany;

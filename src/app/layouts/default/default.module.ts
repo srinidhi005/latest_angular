@@ -40,6 +40,7 @@ import { IncomeStatementKpiComponent } from 'src/app/modules/company-dashboard/i
 import { KpiBsComponent } from 'src/app/modules/kpi-bs/kpi-bs.component';
 import { KpiIsComponent } from 'src/app/modules/kpi-is/kpi-is.component';
 import { PLMetricsComponent } from 'src/app/modules/plmetrics/plmetrics.component';
+import { CashmetricsComponent } from 'src/app/modules/cashmetrics/cashmetrics.component';
 import {
   DialogElementsExampleDialog,
   StatementComponent,
@@ -60,6 +61,13 @@ import {
   uploadSnackBarISComponent,
   VisualsISComponent,
 } from 'src/app/modules/visuals-is/visuals-is.component';
+import {
+  uploadFailureSnackBarCFAddComponent,
+  uploadFailureSnackBarCFComponent,
+  uploadSnackBarCFAddComponent,
+  uploadSnackBarCFComponent,
+  VisualsCfComponent
+} from 'src/app/modules/visuals-cf/visuals-cf.component';
 import { RMIAPIsService } from 'src/app/shared/rmiapis.service';
 import { SharedModule } from 'src/app/shared/shared.module';
 import { DefaultComponent } from './default.component';
@@ -85,12 +93,18 @@ import { DefaultComponent } from './default.component';
     VisualsBsComponent,
     KpiIsComponent,
     KpiBsComponent,
+	VisualsCfComponent,
+	CashmetricsComponent,
     CompanyMatricsComponent,
     IncomeStatementKpiComponent,
     BalanceSheetKpiComponent,
     CompanyDashboardComponent,
     UserDetailsComponent,
     VisualBSInputDialogComponent,
+	uploadFailureSnackBarCFAddComponent,
+	uploadFailureSnackBarCFComponent,
+	uploadSnackBarCFAddComponent,
+	uploadSnackBarCFComponent,	
   ],
   imports: [
     CommonModule,
@@ -139,6 +153,10 @@ import { DefaultComponent } from './default.component';
     uploadFailureSnackBarStatementComponent,
     uploadSnackBarStatementComponent,
     VisualBSInputDialogComponent,
+	uploadSnackBarCFComponent,
+    uploadFailureSnackBarCFComponent,
+    uploadSnackBarCFAddComponent,
+    uploadFailureSnackBarCFAddComponent,
   ],
   providers: [RMIAPIsService],
 })

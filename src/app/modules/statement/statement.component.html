@@ -19,7 +19,21 @@
                 <!-- Name Column -->
                 <ng-container matColumnDef="name">
                     <th mat-header-cell *matHeaderCellDef> Name </th>
-                    <td mat-cell *matCellDef="let element" class="name" title="view" (click)="loadvisualsIS()"> {{element.name}} 
+                    <td mat-cell *matCellDef="let element; let i = dataIndex;" class="name" title="view" (click)="loadvisualsIS(element.company)"> 
+                        <ng-template [ngIf] = "!editModeOn">
+                            {{element.name}}
+                            <i class="fa fa-pencil" aria-hidden="true" (click) = "selectedRowIndex = i; editModeOn = !editModeOn"></i>
+                            <i class="fa fa-floppy-o" aria-hidden="true" (click) = "selectedRowIndex = -1; saveCompanyName(element, i)"></i>
+                        </ng-template> 
+                        <ng-template [ngIf] = "editModeOn && selectedRowIndex == i">
+                            <mat-form-field class="container-field">
+                                <mat-label>User ID</mat-label>
+                                <input matInput [(ngModel)]= "element.name" (input) = "excelService.cleanString($event)"/>
+                                <!-- <mat-error *ngIf="form.get('userid').hasError('required')">
+                                    Fill User Name without special characters
+                                  </mat-error> -->
+                            </mat-form-field>
+                        </ng-template>
                     </td>
                 </ng-container>
                 
@@ -64,6 +78,7 @@
                         <div class="example-element-description" fxLayout="row" fxFlex fxLayoutAlign="start" fxLayoutGap="20px">
                             <button mat-raised-button class="incomeStatement" (click)="incomeStatement(element)" routerLink="/visualsIS">Income Statement</button>
                             <button mat-raised-button class="incomeStatement" (click)="balanceStatement(element)" routerLink="/visualsBS">Balance Sheet</button>
+							<button mat-raised-button class="incomeStatement" (click)="cashFlowStatement(element)" routerLink="/visualsCF">Cash Flow</button>
                         </div>
                       </div>
                     </td>

@@ -1,0 +1,91 @@
+<div fxLayout="row" class="header">
+  <div fxLayout="row" fxLayoutAlign="start center">
+    <p>Adjust CashFlow Drivers</p>
+  </div>
+  <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px">
+
+     <button mat-button (click)="addScenario()" [disabled]="inprogress" matTooltip="Add Scenario"
+      matTooltipPosition='above'>
+      <mat-icon>add_box</mat-icon>
+    </button>
+
+    <button mat-button (click)="saveScenario()" matTooltip="Save Scenario" matTooltipPosition='above'>
+      <mat-icon>save</mat-icon>
+    </button>
+
+    <button mat-button [matMenuTriggerFor]="belowMenu">{{ loadedScenario }}<mat-icon matSuffix>keyboard_arrow_down
+      </mat-icon>
+    </button>
+    <mat-menu #belowMenu="matMenu" yPosition="below">
+      <button mat-menu-item *ngFor="let index of scenarioArray; let indexOfelement=index;">
+        <span (click)="loadScenario(indexOfelement)">Scenario {{index}}</span>
+      </button>
+    </mat-menu>
+    <button mat-button [matMenuTriggerFor]="afterMenu">Metrics <mat-icon matSuffix>keyboard_arrow_down</mat-icon>
+    </button>
+    <mat-menu #afterMenu="matMenu" xPosition="after">
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/IncomeStatementMetrics'>Income
+        Statement</button>
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/BalanceSheetMetrics'>Balance Sheet</button>
+	  <button mat-menu-item routerLinkActive="list-item-active" routerLink='/cashmetrics'>CashFlow Statement</button>
+    </mat-menu>
+  </div>
+</div>
+
+<mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
+<div class="content" fxLayout="row wrap" fxLayoutGap="16px grid">
+  <div fxFlex.xs="100%" fxFlex="50%" fxFlex.sm="50%">
+    <mat-card class="mat-elevation-z4">
+      <highcharts-chart [Highcharts]="Highcharts" [options]="DPOptions" [(update)]="updateDividendPaidOption">
+      </highcharts-chart>
+    </mat-card>
+  </div>
+
+  <div fxFlex="50%" fxFlex.xs="100%" fxFlex.sm="50%">
+    <mat-card class="mat-elevation-z4">
+      <highcharts-chart [Highcharts]="Highcharts" [options]="CPOptions" [(update)]="updateCapexOption">
+      </highcharts-chart>
+    </mat-card>
+  </div>
+
+  <div fxFlex="50%" fxFlex.xs="100%" fxFlex.sm="50%">
+    <mat-card class="mat-elevation-z4">
+      <highcharts-chart [Highcharts]="Highcharts" [options]="ASOptions" [(update)]="updateAssestSalesOption">
+	  
+      </highcharts-chart>
+    </mat-card>
+  </div>
+  <div fxFlex="50%" fxFlex.xs="100%" fxFlex.sm="50%">
+    <mat-card class="mat-elevation-z4">
+      <highcharts-chart [Highcharts]="Highcharts" [options]="OIAOptions" [(update)]="updateDividendPaidOption">
+      </highcharts-chart>
+    </mat-card>
+  </div>
+ 
+</div>
+<p class="projections-title">Annual Projections</p>
+<div class="content" fxLayout="row wrap" fxLayoutGap="16px grid">
+  <div fxFlex="50%" fxFlex.xs="100%" fxFlex.sm="50%">
+    <mat-card class="mat-elevation-z4">
+      <highcharts-chart [Highcharts]="Highcharts" [options]="CFOArray"></highcharts-chart>
+    </mat-card>
+  </div>
+
+  <div fxFlex="50%" fxFlex.xs="100%" fxFlex.sm="50%">
+    <mat-card class="mat-elevation-z4">
+      <highcharts-chart [Highcharts]="Highcharts" [options]="CFIArray"></highcharts-chart>
+    </mat-card>
+  </div>
+
+  <div fxFlex="50%" fxFlex.xs="100%" fxFlex.sm="50%">
+    <mat-card class="mat-elevation-z4">
+      <highcharts-chart [Highcharts]="Highcharts" [options]="CFFArray"></highcharts-chart>
+    </mat-card>
+  </div>
+  <div fxFlex="50%" fxFlex.xs="100%" fxFlex.sm="50%">
+    <mat-card class="mat-elevation-z4">
+      <highcharts-chart [Highcharts]="Highcharts" [options]="NCArray"></highcharts-chart>
+    </mat-card>
+  </div>
+  
+</div>

@@ -100,7 +100,7 @@ financials =[];
         "NetChangeinCash" : res[j].netchangeincash
           });
         }
-    this.apiService.getData(this.urlConfig.getScenarioAPI()+this.companySelected).subscribe((res:any)=>{
+    this.apiService.getData(this.urlConfig.getCashScenarioAPI()+this.companySelected).subscribe((res:any)=>{
       this.scenarioArray=res.scenarios;
       this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
       let scenarioNumber=0;

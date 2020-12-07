@@ -69,13 +69,12 @@ export class VisualsCfComponent implements OnInit {
   CPOptions: {};
   ASOptions: {};
   OIAOptions: {};
-  ALOptions: {};
-  OCLOptions: {};
+  
   CFOOptions: {};
   CFIOptions: {};
   CFFOptions: {};
   NCOptions: {};
-  TSEOptions: {};
+ 
   
   yearsArray = [];
   scenarioArray = [];

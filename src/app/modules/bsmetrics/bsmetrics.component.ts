@@ -174,6 +174,13 @@ export class BsmetricsComponent implements OnInit {
       this.displayedColumns = ['0'].concat(ELEMENT_BS.map(x => x.inMillions.toString()));
       this.displayData = this.inputColumns.map(x => formatInputRow(x));
       this.progressBar=false;
+	  const obj = {};
+        this.financialObj.forEach((value, key) => {
+          obj[key] = value
+        })
+
+        this.years = Object.keys(obj);
+        this.financials = Object.values(obj);
         });//end of projections
       });//end of Save Scenarios
     });//end of actuals

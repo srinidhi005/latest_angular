@@ -2,6 +2,7 @@ import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+
 import {
   MatButtonModule,
   MatCardModule,
@@ -54,6 +55,7 @@ import {
   VisualsBsComponent,
 } from 'src/app/modules/visuals-bs/visuals-bs.component';
 import { VisualBSInputDialogComponent } from 'src/app/modules/visuals-is/input-value-dialog.component';
+import { VisualCFInputDialogComponent } from 'src/app/modules/visuals-cf/input-value-dialog.component';
 import {
   uploadFailureSnackBarISAddComponent,
   uploadFailureSnackBarISComponent,
@@ -82,6 +84,7 @@ import { DefaultComponent } from './default.component';
     uploadSnackBarISComponent,
     uploadFailureSnackBarISComponent,
     uploadSnackBarBSComponent,
+	VisualCFInputDialogComponent,
     uploadFailureSnackBarBSComponent,
     uploadSnackBarISAddComponent,
     uploadFailureSnackBarISAddComponent,
@@ -142,6 +145,7 @@ import { DefaultComponent } from './default.component';
     StatementComponent,
     VisualsISComponent,
     DialogElementsExampleDialog,
+	VisualCFInputDialogComponent,
     uploadSnackBarISComponent,
     uploadFailureSnackBarISComponent,
     uploadSnackBarISAddComponent,

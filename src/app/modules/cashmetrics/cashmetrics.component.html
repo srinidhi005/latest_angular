@@ -62,7 +62,7 @@
               </td>
               <td class="normalClass rightAlign" *ngFor = "let rev of financials">
                 <ng-template [ngIf] = "rev['DandA'] >= 0">
-                  ${{ rev['DandA'] | number: '1.0-0'}} %
+                  ${{ rev['DandA'] | number: '1.0-0'}} 
                 </ng-template>
                 <ng-template [ngIf] = "rev['DandA'] < 0">
                   (${{ -(rev['DandA']) | number: '1.0-0' }} )
@@ -90,7 +90,7 @@
               </td>
               <td class="normalClass rightAlign" *ngFor = "let rev of financials">
                 <ng-template [ngIf] = "rev['Accountreceivables'] >= 0">
-                  {{ rev['Accountreceivables'] | number: '1.0-0'}} 
+                 $ {{ rev['Accountreceivables'] | number: '1.0-0'}} 
                 </ng-template>
                 <ng-template [ngIf] = "rev['Accountreceivables'] < 0">
                   (${{ -(rev['Accountreceivables']) | number: '1.0-0' }} )
@@ -118,7 +118,7 @@
               </td>
               <td class="normalClass rightAlign" *ngFor = "let rev of financials">
                 <ng-template [ngIf] = "rev['OtherCurrentassets'] >= 0">
-                  {{ rev['OtherCurrentassets'] | number: '1.0-0'}}
+                  ${{ rev['OtherCurrentassets'] | number: '1.0-0'}}
                 </ng-template>
                 <ng-template [ngIf] = "rev['OtherCurrentassets'] < 0">
                   (${{ -(rev['OtherCurrentassets']) | number: '1.0-0' }})

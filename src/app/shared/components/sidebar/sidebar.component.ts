@@ -53,6 +53,13 @@ export class SidebarComponent implements OnInit, OnDestroy {
     this.userDetailModelService.setIncomeSheetScenario(scenarioNumber);
     this.router.navigate(['/visualsIS']);
   }
+
+  displayCashFlowScenario(scenarioNumber){
+    console.log("scenarioNumber", scenarioNumber);
+    this.userDetailModelService.setCashFlowScenario(scenarioNumber)
+    this.router.navigate(['/visualsCF'])
+  }
+
   ngOnDestroy() {
     if (this.TopCompaniesSubscription) {
       this.TopCompaniesSubscription.unsubscribe();

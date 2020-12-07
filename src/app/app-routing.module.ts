@@ -16,7 +16,8 @@ import { AuthGuard } from './auth.guard';
 import { ProfileComponent } from './modules/profile/profile.component';
 import { UserDetailsComponent } from './modules/user-details/user-details.component';
 import { CompanyDashboardComponent } from './modules/company-dashboard/company-dashboard.component';
-
+import { CashmetricsComponent } from './modules/cashmetrics/cashmetrics.component';
+import { VisualsCfComponent } from 'src/app/modules/visuals-cf/visuals-cf.component';
 const routes: Routes = [
   {
     path: '',
@@ -26,6 +27,7 @@ const routes: Routes = [
   {
     path: 'login',
     component: AuthLoginComponent,
+	canActivate: [AuthGuard],
   },
   {
     path: '',
@@ -51,15 +53,25 @@ const routes: Routes = [
         component: VisualsBsComponent,
         canActivate: [AuthGuard],
       },
+	  {
+		path:'visualsCF',
+		component:VisualsCfComponent,
+		canActivate: [AuthGuard],
+	},
+	   {
+		path:'cashmetrics',
+		component:CashmetricsComponent,
+		canActivate: [AuthGuard],
+	},
       {
         path: 'IncomeStatementMetrics',
         component: PLMetricsComponent,
-        canActivate: [AuthGuard],
+        
       },
       {
         path: 'BalanceSheetMetrics',
         component: BsmetricsComponent,
-        canActivate: [AuthGuard],
+        
       },
       {
         path: 'KPIIncomeStatement',
@@ -69,22 +81,22 @@ const routes: Routes = [
       {
         path: 'KPIBalanceSheet',
         component: KpiBsComponent,
-        canActivate: [AuthGuard],
+        
       },
       {
         path: 'profile',
         component: ProfileComponent,
-        canActivate: [AuthGuard],
+        
       },
       {
         path: 'user',
         component: UserDetailsComponent,
-        canActivate: [AuthGuard],
+        
       },
       {
         path: ':companyName/dashboard/:scenario',
         component: CompanyDashboardComponent,
-        canActivate: [AuthGuard],
+      
       },
     ],
   },

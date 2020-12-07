@@ -27,6 +27,7 @@ import { HashLocationStrategy, LocationStrategy } from "@angular/common";
 import { AuthLoginComponent } from "./auth-login/auth-login.component";
 import { ProfileComponent } from "./modules/profile/profile.component";
 
+
 @NgModule({
   declarations: [
     AppComponent,

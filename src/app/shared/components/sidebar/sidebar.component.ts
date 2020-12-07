@@ -38,7 +38,11 @@ export class SidebarComponent implements OnInit, OnDestroy {
    */
   getCompanies = (): void => {
     this.TopCompaniesSubscription = this.apiService
-      .getData(this.urlConfig.getTopCompaniesAPI())
+      .getData(
+        `${this.urlConfig.getTopCompaniesAPI()}?user=${localStorage.getItem(
+          'nickname'
+        )}`
+      )
       .subscribe((res: any) => {
         this.topCompanies = res.data || [];
       });

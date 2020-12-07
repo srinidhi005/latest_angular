@@ -28,8 +28,6 @@ export interface PLElement {
   "Memo Check":string;
 }
 let ELEMENT_BS_PDF: PLElement[] = [];
-years=[];
-financials=[];
 
 @Component({
   selector: 'app-bsmetrics',
@@ -43,6 +41,10 @@ export class BsmetricsComponent implements OnInit {
   companyName=this.UserDetailModelService.getSelectedCompany();
   financialObj = new Map();
   progressBar:boolean;
+
+  years = [];
+  financials = [];
+  
   inputColumns = ['inMillions',  'Cash Equivalents',
   'Accounts Receivable',
   'Inventories',
@@ -74,8 +76,6 @@ export class BsmetricsComponent implements OnInit {
 
   ngOnInit() {
     const ELEMENT_BS: PLElement[] = [];
-	this.years=[];
-	this.financials=[];
       this.progressBar=true;
   var memocheck;
     this.apiService.getData(this.urlConfig.getBsActualsAPI()+this.companySelected).subscribe((res:any)=>{
@@ -105,6 +105,7 @@ export class BsmetricsComponent implements OnInit {
         "totalcurrentliabilities":res[j].totalcurrentliabilities,
         "longtermdebt":res[j].longtermdebt,
         "otherliabilities":res[j].otherliabilities,
+		"totalliabilities":res[j].totalliabilities,
         "totalshareholdersequity":res[j].totalshareholdersequity,
         "totalliabilitiesandequity":res[j].totalliabilitiesandequity,
         "Memo Check":memocheck
@@ -143,6 +144,7 @@ export class BsmetricsComponent implements OnInit {
             "totalcurrentliabilities":res[j].totalcurrentliabilities,
             "longtermdebt":res[j].longtermdebt,
             "otherliabilities":res[j].otherliabilities,
+			"totalliabilities":res[j].totalliabilities,
             "totalshareholdersequity":res[j].totalshareholdersequity,
             "totalliabilitiesandequity":res[j].totalliabilitiesandequity,
             "Memo Check":memocheck

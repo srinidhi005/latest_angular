@@ -27,8 +27,6 @@ export interface PLElement {
 }
 
 let ELEMENT_PL_PDF: PLElement[] = [];
-years=[];
-financials=[];
 
 @Component({
   selector: 'app-plmetrics',
@@ -42,6 +40,9 @@ export class PLMetricsComponent implements OnInit {
   companyName=this.UserDetailModelService.getSelectedCompany();
   financialObj = new Map();
   progressBar:boolean;
+  years = [];
+  financials = [];
+
   inputColumns = ['inMillions',  'Total Revenue',
   'Revenue Y-O-Y Growth rate',
   '(-) Cost of Goods Sold (COGS)',
@@ -70,8 +71,6 @@ export class PLMetricsComponent implements OnInit {
 
   ngOnInit() {
     const ELEMENT_PL: PLElement[] = [];
-	this.years=[];
-	this.financials=[];
       this.progressBar=true;
       var previousAmount;
     this.apiService.getData(this.urlConfig.getIsActualsAPI()+this.companySelected).subscribe((res:any)=>{
@@ -256,7 +255,7 @@ export class PLMetricsComponent implements OnInit {
       columnStyles: {0: {fillColor: [22, 74, 91], textColor:[245, 245, 245] }},
       styles: {overflow: 'linebreak',fontSize: 12},
     });
-    doc.save(this.companySelected +'.pdf');
+    doc.save(this.companyName +'.pdf');
   }
 }
 

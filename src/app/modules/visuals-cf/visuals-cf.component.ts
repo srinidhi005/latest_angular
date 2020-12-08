@@ -510,7 +510,7 @@ export class VisualsCfComponent implements OnInit {
                   plotOptions: {
                     series: {
                       stickyTracking: false,
-                      dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
+                      dragDrop: { draggableY: true, },
                       point: {
                         events: {
                           drag: function (e) {
@@ -548,7 +548,6 @@ export class VisualsCfComponent implements OnInit {
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      pointWidth: 15,
                       colors: [
                         actualColor,
                         actualColor,
@@ -622,7 +621,6 @@ export class VisualsCfComponent implements OnInit {
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      pointWidth: 15,
                       colors: [
                         actualColor,
                         actualColor,
@@ -709,7 +707,7 @@ export class VisualsCfComponent implements OnInit {
       yAxis: { title: { text: 'USD' } },
       xAxis: { categories: this.yearsArray },
       plotOptions: {
-        series: { stickyTracking: false },
+        series: { stickyTracking: false, pointWidth: 20 },
         column: {
           stacking: 'normal',
           minPointLength: 2,
@@ -743,7 +741,7 @@ export class VisualsCfComponent implements OnInit {
       yAxis: { title: { text: 'USD' } },
       xAxis: { categories: this.yearsArray },
       plotOptions: {
-        series: { stickyTracking: false },
+        series: { stickyTracking: false, pointWidth: 20 },
         column: {
           stacking: 'normal',
           minPointLength: 2,
@@ -777,7 +775,7 @@ export class VisualsCfComponent implements OnInit {
       yAxis: { title: { text: 'USD' } },
       xAxis: { categories: this.yearsArray },
       plotOptions: {
-        series: { stickyTracking: false },
+        series: { stickyTracking: false , pointWidth: 20  },
         column: {
           stacking: 'normal',
           minPointLength: 2,
@@ -811,7 +809,8 @@ export class VisualsCfComponent implements OnInit {
       yAxis: { title: { text: 'USD' } },
       xAxis: { categories: this.yearsArray },
       plotOptions: {
-        series: { stickyTracking: false },
+        series: { stickyTracking: false, pointWidth: 20 },
+        
         column: {
           stacking: 'normal',
           minPointLength: 2,

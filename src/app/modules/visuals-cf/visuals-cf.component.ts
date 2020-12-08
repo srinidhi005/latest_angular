@@ -55,6 +55,25 @@ type SelectableCharts =
   | 'assest-sales'
   | 'other-investment'
   
+const seriesOption = {
+  stickyTracking: true,
+  colorByPoint: true,
+  fillColor: {
+    linearGradient: [0, 0, 0, 300],
+    stops: [
+      [0, Highcharts.getOptions().colors[0]],
+      [
+        1,
+        Highcharts.color(Highcharts.getOptions().colors[0])
+          .setOpacity(0)
+          .get('rgba'),
+      ],
+    ],
+  },
+  dragDrop: {
+    draggableY: true,
+  },
+};
 @Component({
   selector: 'app-visuals-cf',
   templateUrl: './visuals-cf.component.html',
@@ -337,23 +356,16 @@ export class VisualsCfComponent implements OnInit {
                 });
 
                 this.DPOptions = {
-                  chart: { type: 'column', animation: false },
+                  chart: { type: 'spline', animation: false },
                   title: { text: 'Dividend Paid' },
                   yAxis: {
-                    title: { text: 'In Percentage %' },
-                    //min: 0,
-                    //max: 180,
+                    title: { text: 'USD' },
                    
                   },
                   xAxis: { categories: this.yearsArray },
                   plotOptions: {
                     series: {
-                      stickyTracking: true,
-                      dragDrop: {
-                        draggableY: true,
-                        //dragMaxY: 180,
-                        //dragMinY: 0,
-                      },
+                      ...seriesOption,
                       point: {
                         events: {
                           drag: function (e) {
@@ -385,12 +397,11 @@ export class VisualsCfComponent implements OnInit {
                         },
                       },
                     },
-                    column: {
+                    spline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      pointWidth: 15,
                       colors: [
                         actualColor,
                         actualColor,
@@ -404,8 +415,8 @@ export class VisualsCfComponent implements OnInit {
                   },
                   tooltip: {
                     ...tooltip,
-                    formatter() {
-                      return Highcharts.numberFormat(this.point.y, 0) + '%';
+                     formatter: function () {
+                      return Highcharts.numberFormat(this.point.y, 0) + 'millions';
                     },
                   },
                   credits: { enabled: false },
@@ -420,23 +431,16 @@ export class VisualsCfComponent implements OnInit {
                   legend: false,
                 };
                 this.CPOptions = {
-                  chart: { type: 'column', animation: false },
+                  chart: { type: 'spline', animation: false },
                   title: { text: 'Capex (% Revenue)' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
-                    min: -100,
-                    max: 100,
                     
                   },
                   xAxis: { categories: this.yearsArray },
                   plotOptions: {
                     series: {
-                      stickyTracking: false,
-                      dragDrop: {
-                        draggableY: true,
-                        dragMaxY: 100,
-                        dragMinY: -100,
-                      },
+                      ...seriesOption,
                       point: {
                         events: {
                           drag: function (e) {
@@ -468,12 +472,11 @@ export class VisualsCfComponent implements OnInit {
                         },
                       },
                     },
-                    column: {
+                    spline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      pointWidth: 15,
                       colors: [
                         actualColor,
                         actualColor,
@@ -497,12 +500,10 @@ export class VisualsCfComponent implements OnInit {
                   legend: false,
                 };
                 this.ASOptions = {
-                  chart: { type: 'column', animation: false },
+                  chart: { type: 'spline', animation: false },
                   title: { text: 'AssestSales (% Revenue)' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
-                    //min: 0,
-                   // max: 100,
                     
                   },
                   xAxis: { categories: this.yearsArray },
@@ -542,7 +543,7 @@ export class VisualsCfComponent implements OnInit {
                         },
                       },
                     },
-                    column: {
+                    spline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
@@ -571,12 +572,11 @@ export class VisualsCfComponent implements OnInit {
                   legend: false,
                 };
                 this.OIAOptions = {
-                  chart: { type: 'column', animation: false },
-                  title: { text: 'Other Investing Activites' },
+                  chart: { type: 'spline', animation: false },
+                  title: { text: 'Other Investing Activites (% Revenue)' },
                   yAxis: {
                     title: { text: 'As (% Revenue)' },
-                    //min: 0,
-                    //max: 180,
+                    
                     
                   },
                   xAxis: { categories: this.yearsArray },
@@ -585,8 +585,7 @@ export class VisualsCfComponent implements OnInit {
                       stickyTracking: false,
                       dragDrop: {
                         draggableY: true,
-                        //dragMaxY: 180,
-                        //dragMinY: 0,
+                       
                       },
                       point: {
                         events: {
@@ -618,7 +617,7 @@ export class VisualsCfComponent implements OnInit {
                         },
                       },
                     },
-                    column: {
+                    spline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
@@ -716,7 +715,6 @@ export class VisualsCfComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          pointWidth: 15,
           colors: [
             actualColor,
             actualColor,
@@ -751,7 +749,6 @@ export class VisualsCfComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          pointWidth: 15,
           colors: [
             actualColor,
             actualColor,
@@ -786,7 +783,6 @@ export class VisualsCfComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          pointWidth: 15,
           colors: [
             actualColor,
             actualColor,
@@ -821,7 +817,6 @@ export class VisualsCfComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          pointWidth: 15,
           colors: [
             actualColor,
             actualColor,

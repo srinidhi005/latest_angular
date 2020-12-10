@@ -1226,17 +1226,15 @@ export class VisualsISComponent implements OnInit {
             inputObj.taxespercent = this.financialObj.get(key).taxes;
             inputObj.totalrevenue = this.financialObj.get(key).totalRevenue;
             inputArray.push(inputObj);
-          }
+          console.log("inputArray",inputArray);
+		  
+		  }
         }
+		console.log("jsonstringify",JSON.stringify(inputArray));
         this.apiService
           .postData(
-            this.urlConfig.getIsProjectionsAPIPOST() + this.companySelected,
-            JSON.stringify(inputArray)
-          )
-          .subscribe((res: any) => {
-            console.log(typeof res.status);
-            console.log(res.status);
-            if (res.Result == 'Updated Scenerios') {
+            this.urlConfig.getIsProjectionsAPIPOST() + this.companySelected,JSON.stringify(inputArray)).subscribe((res: any) => {  
+            if (res.message == "Success") {
               this._snackBar.openFromComponent(uploadSnackBarISComponent, {
                 duration: 5000,
                 horizontalPosition: this.horizontalPosition,
@@ -1253,7 +1251,7 @@ export class VisualsISComponent implements OnInit {
               );
             }
           });
-        this.initScenario();
+        this.initScenario(this.scenarioSelected);
       });
   }
   // end of save
@@ -1266,7 +1264,7 @@ export class VisualsISComponent implements OnInit {
         horizontalPosition: this.horizontalPosition,
         verticalPosition: this.verticalPosition,
       });
-      this.initScenario();
+      this.initScenario(0);
     } else {
       this._snackBar.openFromComponent(uploadFailureSnackBarISAddComponent, {
         duration: 5000,
@@ -1278,10 +1276,9 @@ export class VisualsISComponent implements OnInit {
 
   loadScenario(index: any) {
     this.scenario = index;
-    this.scenarioSelected = localStorage.setItem('scenarioSelected', index);
-    const indexNumber = localStorage.getItem('scenarioSelected');
-    this.loadedScenario = 'Scenario ' + indexNumber;
-    this.initScenario();
+    
+    this.loadedScenario = 'Scenario ' + index;
+    this.initScenario(index);
   }
 }
 
@@ -1305,7 +1302,7 @@ export class VisualsISComponent implements OnInit {
 })
 // tslint:disable-next-line:class-name
 export class uploadSnackBarISComponent {
-  scenarioBanner = localStorage.getItem('scenarioSelected');
+  
 }
 
 @Component({
@@ -1328,7 +1325,7 @@ export class uploadSnackBarISComponent {
 })
 // tslint:disable-next-line:class-name
 export class uploadFailureSnackBarISComponent {
-  scenarioBanner = localStorage.getItem('scenarioSelected');
+  //scenarioBanner = localStorage.getItem('scenarioSelected');
 }
 
 @Component({
@@ -1352,7 +1349,7 @@ export class uploadFailureSnackBarISComponent {
 })
 // tslint:disable-next-line:class-name
 export class uploadSnackBarISAddComponent {
-  scenarioBanner = localStorage.getItem('scenarioSelected');
+ // scenarioBanner = localStorage.getItem('scenarioSelected');
 }
 
 @Component({
@@ -1375,5 +1372,5 @@ export class uploadSnackBarISAddComponent {
 })
 // tslint:disable-next-line:class-name
 export class uploadFailureSnackBarISAddComponent {
-  scenarioBanner = localStorage.getItem('scenarioSelected');
+ // scenarioBanner = localStorage.getItem('scenarioSelected');
 }

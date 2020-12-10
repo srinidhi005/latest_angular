@@ -27,7 +27,7 @@ const routes: Routes = [
   {
     path: 'login',
     component: AuthLoginComponent,
-	canActivate: [AuthGuard],
+	//canActivate: [AuthGuard],
   },
   {
     path: '',
@@ -36,32 +36,32 @@ const routes: Routes = [
       {
         path: 'statement',
         component: StatementComponent,
-        canActivate: [AuthGuard],
+        //canActivate: [AuthGuard],
       },
       {
         path: 'addcompany',
         component: AddCompanyComponent,
-        canActivate: [AuthGuard],
+        //canActivate: [AuthGuard],
       },
       {
         path: 'visualsIS',
         component: VisualsISComponent,
-        canActivate: [AuthGuard],
+        //canActivate: [AuthGuard],
       },
       {
         path: 'visualsBS',
         component: VisualsBsComponent,
-        canActivate: [AuthGuard],
+        //canActivate: [AuthGuard],
       },
 	  {
 		path:'visualsCF',
 		component:VisualsCfComponent,
-		canActivate: [AuthGuard],
+		//canActivate: [AuthGuard],
 	},
 	   {
 		path:'cashmetrics',
 		component:CashmetricsComponent,
-		canActivate: [AuthGuard],
+		//canActivate: [AuthGuard],
 	},
       {
         path: 'IncomeStatementMetrics',
@@ -76,7 +76,7 @@ const routes: Routes = [
       {
         path: 'KPIIncomeStatement',
         component: KpiIsComponent,
-        canActivate: [AuthGuard],
+        //canActivate: [AuthGuard],
       },
       {
         path: 'KPIBalanceSheet',

@@ -270,10 +270,10 @@ export class VisualsCfComponent implements OnInit {
         cfi:res[j].cfi,
         debtissued : res[j].debtissued,
         commonstockissued:res[j].commonstockissued,
-        dividendspaid:res[j].dividendspaid,
+        dividendspaid:res[j].dividendspaid > 0 ? res[j].dividendspaid : res[j].dividendspaid * -1  ,
 		    cff:res[j].cff,
         netchangeincash : res[j].netchangeincash,
-        capexpercent: res[j].capexpercent,
+        capexpercent: res[j].capexpercent > 0 ? res[j].capexpercent : res[j].capexpercent * -1 ,
         assetsalespercent: res[j].assetsalespercent,
         otherinvestmentpercent: res[j].otherinvestmentpercent,
 		     latest: res[j].latest
@@ -329,10 +329,10 @@ export class VisualsCfComponent implements OnInit {
                       cfi:res[j].cfi,
                       debtissued : res[j].debtissued,
                       commonstockissued:res[j].commonstockissued,
-                      dividendspaid:res[j].dividendspaid,
+                      dividendspaid:res[j].dividendspaid > 0 ? res[j].dividendspaid : res[j].dividendspaid * -1  ,
                       cff:res[j].cff,
                       netchangeincash : res[j].netchangeincash,
-                      capexpercent: res[j].capexpercent,
+                      capexpercent: res[j].capexpercent > 0 ? res[j].capexpercent : res[j].capexpercent * -1,
                       assetsalespercent: res[j].assetsalespercent,
                       otherinvestmentpercent: res[j].otherinvestmentpercent,
 		                  latest: res[j].latest
@@ -360,7 +360,7 @@ export class VisualsCfComponent implements OnInit {
                   title: { text: 'Dividend Paid' },
                   yAxis: {
                     title: { text: 'USD' },
-                   
+                   min:0,
                   },
                   xAxis: { categories: this.yearsArray },
                   plotOptions: {
@@ -424,7 +424,7 @@ export class VisualsCfComponent implements OnInit {
                   series: [
                     {
                       data: DSOArray,
-                      dragDrop: { draggableY: true },
+                      dragDrop: { draggableY: true,dragMinY: 0 },
                       minPointLength: 2,
                     },
                   ],
@@ -435,7 +435,9 @@ export class VisualsCfComponent implements OnInit {
                   title: { text: 'Capex (% Revenue)' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
-                    
+					min:0,
+					max:50,
+                    tickInterval: 10,
                   },
                   xAxis: { categories: this.yearsArray },
                   plotOptions: {
@@ -496,7 +498,7 @@ export class VisualsCfComponent implements OnInit {
                   },
                   credits: { enabled: false },
                   exporting: { enabled: false },
-                  series: [{ data: IDArray, dragDrop: { draggableY: true } }],
+                  series: [{ data: IDArray, dragDrop: { draggableY: true ,dragMaxY: 50,dragMinY: 0,} }],
                   legend: false,
                 };
                 this.ASOptions = {
@@ -505,12 +507,14 @@ export class VisualsCfComponent implements OnInit {
                   yAxis: {
                     title: { text: 'As % of Revenue' },
                     
+					min:0,
+					max:50,
+					tickInterval: 10,
                   },
                   xAxis: { categories: this.yearsArray },
                   plotOptions: {
                     series: {
-                      stickyTracking: false,
-                      dragDrop: { draggableY: true, },
+                      ...seriesOption,
                       point: {
                         events: {
                           drag: function (e) {
@@ -567,7 +571,8 @@ export class VisualsCfComponent implements OnInit {
                   },
                   credits: { enabled: false },
                   exporting: { enabled: false },
-                  series: [{ data: OCAArray, dragDrop: { draggableY: true } }],
+                  series: [{ data: OCAArray, dragDrop: { draggableY: true,dragMaxY: 50,
+					dragMinY: 0, } }],
                   legend: false,
                 };
                 this.OIAOptions = {
@@ -575,7 +580,9 @@ export class VisualsCfComponent implements OnInit {
                   title: { text: 'Other Investing Activites (% Revenue)' },
                   yAxis: {
                     title: { text: 'As (% Revenue)' },
-                    
+                    min:-30,
+					max:30,
+					tickInterval: 10,
                     
                   },
                   xAxis: { categories: this.yearsArray },
@@ -640,7 +647,7 @@ export class VisualsCfComponent implements OnInit {
                   },
                   credits: { enabled: false },
                   exporting: { enabled: false },
-                  series: [{ data: DPOArray, dragDrop: { draggableY: true } }],
+                  series: [{ data: DPOArray, dragDrop: { draggableY: true,dragMaxY: 30,dragMinY: -30, } }],
 
                   legend: false,
                 };
@@ -685,10 +692,10 @@ export class VisualsCfComponent implements OnInit {
        this.CffinancialObj.get(key).otherinvestmentpercent = this.CffinancialObj.get(key).otherinvestmentpercent;
 	   this.CffinancialObj.get(key).otherinvestingactivities =Math.round(this.CffinancialObj.get(key).otherinvestmentpercent) * this.CffinancialObj.get(key).totalrevenue;
        
-      this.CffinancialObj.get(key).cfi = Math.round(this.CffinancialObj.get(key).totalexpenditure+(this.CffinancialObj.get(key).assetsales)+(this.CffinancialObj.get(key).otherinvestingactivities));
+      this.CffinancialObj.get(key).cfi = Math.round(-(this.CffinancialObj.get(key).totalexpenditure)+(this.CffinancialObj.get(key).assetsales)+(this.CffinancialObj.get(key).otherinvestingactivities));
        this.CffinancialObj.get(key).debtissued = this.CffinancialObj.get(key).debtissued;
        this.CffinancialObj.get(key).commonstockissued = this.CffinancialObj.get(key).commonstockissued;
-       this.CffinancialObj.get(key).dividendspaid = this.CffinancialObj.get(key).dividendspaid;
+       this.CffinancialObj.get(key).dividendspaid = this.CffinancialObj.get(key).dividendspaid * -1;
        this.CffinancialObj.get(key).cff = Math.round(this.CffinancialObj.get(key).debtissued+(this.CffinancialObj.get(key).commonstockissued)+(this.CffinancialObj.get(key).dividendspaid));
        this.CffinancialObj.get(key).netchangeincash = Math.round(this.CffinancialObj.get(key).cfo+(this.CffinancialObj.get(key).cfi)+(this.CffinancialObj.get(key).cff));
 
@@ -707,7 +714,7 @@ export class VisualsCfComponent implements OnInit {
       yAxis: { title: { text: 'USD' } },
       xAxis: { categories: this.yearsArray },
       plotOptions: {
-        series: { stickyTracking: false, pointWidth: 20 },
+        series: { stickyTracking: false, pointWidth: 35 },
         column: {
           stacking: 'normal',
           minPointLength: 2,
@@ -741,7 +748,7 @@ export class VisualsCfComponent implements OnInit {
       yAxis: { title: { text: 'USD' } },
       xAxis: { categories: this.yearsArray },
       plotOptions: {
-        series: { stickyTracking: false, pointWidth: 20 },
+        series: { stickyTracking: false, pointWidth: 35 },
         column: {
           stacking: 'normal',
           minPointLength: 2,
@@ -775,7 +782,7 @@ export class VisualsCfComponent implements OnInit {
       yAxis: { title: { text: 'USD' } },
       xAxis: { categories: this.yearsArray },
       plotOptions: {
-        series: { stickyTracking: false , pointWidth: 20  },
+        series: { stickyTracking: false , pointWidth: 35  },
         column: {
           stacking: 'normal',
           minPointLength: 2,
@@ -809,7 +816,7 @@ export class VisualsCfComponent implements OnInit {
       yAxis: { title: { text: 'USD' } },
       xAxis: { categories: this.yearsArray },
       plotOptions: {
-        series: { stickyTracking: false, pointWidth: 20 },
+        series: { stickyTracking: false, pointWidth: 33 },
         
         column: {
           stacking: 'normal',
@@ -889,15 +896,19 @@ export class VisualsCfComponent implements OnInit {
 		    inputObj.latest = this.CffinancialObj.get(key).latest;
         
         inputArray.push(inputObj);
+		console.log("Json stringify",JSON.stringify(inputArray));
       }
     }
     this.apiService
       .postData(
         this.urlConfig. getCashProjectionsAPIPOST() + this.companySelected,
         JSON.stringify(inputArray)
+	
+	
       )
       .subscribe((res: any) => {
-      console.log("snackbar",res);
+	console.log(inputArray);
+      console.log("latest",res);
         if (res.message == 'Success') {
           this._snackBar.openFromComponent(uploadSnackBarCFComponent, {
             duration: 5000,

@@ -100,7 +100,8 @@ export class VisualsBsComponent implements OnInit {
   updateDaysPayableOutstandingOptions = false;
   updateAccruedLibOptions = false;
   updateOtherLibOptions = false;
-
+  saveScenarioNumber: any = 0;
+  scenarioSelected: any;
   constructor(
     private urlConfig: UrlConfigService,
     private apiService: RMIAPIsService,
@@ -258,8 +259,8 @@ export class VisualsBsComponent implements OnInit {
     this.yearsArray = [];
 
     if (scenarioNumber >= 0) {
-      this.scenario = scenarioNumber;
-      this.loadedScenario = 'Scenario ' + this.scenario;
+      this.scenarioSelected = scenarioNumber
+      this.loadedScenario = 'Scenario ' + this.scenarioSelected;
     }
 
     // this.UserDetailModelService.updatedScenario.next();
@@ -305,11 +306,13 @@ export class VisualsBsComponent implements OnInit {
           .subscribe((res: any) => {
             this.scenarioArray = res.scenarios;
             this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
-            let scenarioNumber = 0;
-            if (res.scenarios.includes(this.scenario)) {
-              scenarioNumber = this.scenario;
-              this.inprogress = false;
+            // this.scenarioSelected = localStorage.getItem('scenarioSelected');
+            if (this.scenarioArray.includes(+this.scenarioSelected)) {
+              this.loadedScenario = "Scenario "+this.scenarioSelected as any;
+              this.inprogress = true;
             } else {
+              this.scenarioSelected = 0;
+              this.loadedScenario = "Scenario " + this.scenarioSelected as any;
               this.inprogress = true;
             }
             this.apiService
@@ -317,10 +320,11 @@ export class VisualsBsComponent implements OnInit {
                 this.urlConfig.getBsProjectionsAPIGET() +
                   this.companySelected +
                   '&scenario=' +
-                  scenarioNumber
+                  this.scenarioSelected
               )
               // tslint:disable-next-line:no-shadowed-variable
               .subscribe((res: any) => {
+                this.loadedScenario = 'Scenario ' + this.scenarioSelected;
                 this.progressBar = false;
                 if (Array.isArray(res)) {
                   for (let j = 0; j < res.length; j++) {
@@ -341,7 +345,7 @@ export class VisualsBsComponent implements OnInit {
                         res[j].accruedliabilitiespercent,
                       othercurrentliabilitiespercent:
                         res[j].othercurrentliabilitiespercent,
-                      scenario: res[j].scenario,
+                      scenarioNumber: res[j].scenario,
                       otherliabilities: res[j].otherliabilities,
                       longtermdebt: res[j].longtermdebt,
                       othercurrentliabilities: res[j].othercurrentliabilities,
@@ -1150,6 +1154,20 @@ export class VisualsBsComponent implements OnInit {
   }
 
   saveScenario() {
+    this.apiService
+    .getData(this.urlConfig.getScenarioAPI() + this.companySelected)
+    .subscribe((res: any) => {
+      if (this.scenarioSelected == 0) {
+        this.saveScenarioNumber = res.scenarios.length;
+        this.scenarioSelected = res.scenarios.length;
+       
+      } else {
+        this.saveScenarioNumber = this.scenarioSelected;
+        
+      }
+      
+
+      this.loadedScenario = "Scenario " + this.scenarioSelected as any
     const inputArray = [];
     for (const [key, value] of this.BsfinancialObj) {
       const inputObj: any = {};
@@ -1166,7 +1184,7 @@ export class VisualsBsComponent implements OnInit {
         ).accruedliabilitiespercent;
         inputObj.asof = key.toString();
         inputObj.cashequivalents = this.BsfinancialObj.get(key).cashequivalents;
-        inputObj.companyname = this.companyName;
+        inputObj.companyname = this.companySelected;
         inputObj.currentportionlongtermdebt = this.BsfinancialObj.get(
           key
         ).currentportionlongtermdebt;
@@ -1223,11 +1241,12 @@ export class VisualsBsComponent implements OnInit {
     }
     this.apiService
       .postData(
-        this.urlConfig.getBsProjectionsAPIPOST() + this.companyName,
+        this.urlConfig.getBsProjectionsAPIPOST() + this.companySelected,
         JSON.stringify(inputArray)
       )
       .subscribe((res: any) => {
-        if (res.message == 'Success') {
+		console.log(res);
+        if (res.message == '') {
           this._snackBar.openFromComponent(uploadSnackBarBSComponent, {
             duration: 5000,
             horizontalPosition: this.horizontalPosition,
@@ -1241,7 +1260,8 @@ export class VisualsBsComponent implements OnInit {
           });
         }
       });
-    this.ngOnInit();
+    this.initScenario(this.scenarioSelected);
+    });
   }
   addScenario() {
     const existingScenarios = this.UserDetailModelService.getScenarioNumber();
@@ -1252,7 +1272,8 @@ export class VisualsBsComponent implements OnInit {
         horizontalPosition: this.horizontalPosition,
         verticalPosition: this.verticalPosition,
       });
-      this.ngOnInit();
+      //loading default scenario
+      this.initScenario(0);
     } else {
       this._snackBar.openFromComponent(uploadFailureSnackBarBSAddComponent, {
         duration: 5000,
@@ -1264,7 +1285,7 @@ export class VisualsBsComponent implements OnInit {
   loadScenario(index: number) {
     this.loadedScenario = 'Scenario ' + index;
     this.scenario = index;
-    this.initScenario(this.scenario);
+    this.initScenario(index);
   }
 }
 
@@ -1285,7 +1306,7 @@ export class VisualsBsComponent implements OnInit {
     `,
   ],
 })
-export class uploadSnackBarBSComponent {}
+export class uploadSnackBarBSComponent {scenarioBanner = localStorage.getItem('scenarioSelected');}
 
 @Component({
   selector: 'snackBar',
@@ -1304,7 +1325,7 @@ export class uploadSnackBarBSComponent {}
     `,
   ],
 })
-export class uploadFailureSnackBarBSComponent {}
+export class uploadFailureSnackBarBSComponent {scenarioBanner = localStorage.getItem('scenarioSelected');}
 
 @Component({
   selector: 'snackBarAddScenario',
@@ -1323,7 +1344,7 @@ export class uploadFailureSnackBarBSComponent {}
     `,
   ],
 })
-export class uploadSnackBarBSAddComponent {}
+export class uploadSnackBarBSAddComponent {scenarioBanner = localStorage.getItem('scenarioSelected');}
 
 @Component({
   selector: 'snackBarAddScenarioFailure',
@@ -1342,4 +1363,4 @@ export class uploadSnackBarBSAddComponent {}
     `,
   ],
 })
-export class uploadFailureSnackBarBSAddComponent {}
+export class uploadFailureSnackBarBSAddComponent {scenarioBanner = localStorage.getItem('scenarioSelected');}

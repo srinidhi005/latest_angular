@@ -50,7 +50,7 @@
                 <ng-template [ngIf] = "rev['Netincome'] >= 0">
                   ${{ rev['Netincome'] | number: '1.0-0'}} 
                 </ng-template>
-                <ng-template [ngIf] = "rev['Netincome'] < 0">
+                <ng-template [ngIf] = "rev['NetIncome'] < 0">
                   (${{ -(rev['Netincome']) | number: '1.0-0' }} )
                 </ng-template>
               </td>

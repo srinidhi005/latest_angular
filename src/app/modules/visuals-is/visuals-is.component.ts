@@ -88,28 +88,28 @@ const seriesOption = {
 export class VisualsISComponent implements OnInit {
   horizontalPosition: MatSnackBarHorizontalPosition = 'center';
   verticalPosition: MatSnackBarVerticalPosition = 'top';
-  inprogress = true;
-  progressBar: boolean;
-  RGOptions: {};
-  COGSOptions: {};
-  SGAOptions: {};
-  DAOptions: {};
-  OIEOptions: {};
-  NIEOptions: {};
-  PTROptions: {};
-  PGPOptions: {};
-  PEBITOptions: {};
-  PEBITDAOptions: {};
-  PEBTOptions: {};
-  PNIOptions: {};
-  yearsArray = [];
-  projectionsYearsArray = [];
-  scenarioArray = [];
-  scenario = this.UserDetailModelService.getSelectedScenario();
-  companyName = this.UserDetailModelService.getSelectedCompany();
+  inprogress: boolean = true;
+  progressBar:boolean;
+  RGOptions:{};
+  COGSOptions:{};
+  SGAOptions:{};
+  DAOptions:{};
+  OIEOptions:{};
+  NIEOptions:{};
+  PTROptions:{};
+  PGPOptions:{};
+  PEBITOptions:{};
+  PEBITDAOptions:{};
+  PEBTOptions:{};
+  PNIOptions:{};
+  yearsArray=[];
+  projectionsYearsArray=[];
+  scenarioArray=[];
+  scenario=this.UserDetailModelService.getSelectedScenario();
+  companyName=this.UserDetailModelService.getSelectedCompany();
   financialObj = new Map();
   Highcharts = Highcharts;
-  loadedScenario = 'Scenario 0';
+    loadedScenario: string = "Scenario 0";
   companySelected = localStorage.getItem('companySelected');
   // options needed for click events on columns
   selectedChart: SelectableCharts = null;
@@ -1230,11 +1230,12 @@ export class VisualsISComponent implements OnInit {
 		  
 		  }
         }
-		console.log("jsonstringify",JSON.stringify(inputArray));
         this.apiService
           .postData(
             this.urlConfig.getIsProjectionsAPIPOST() + this.companySelected,JSON.stringify(inputArray)).subscribe((res: any) => {  
-            if (res.message == "Success") {
+            console.log("res",res)
+			if (res.message == "Success") {
+				
               this._snackBar.openFromComponent(uploadSnackBarISComponent, {
                 duration: 5000,
                 horizontalPosition: this.horizontalPosition,
@@ -1251,20 +1252,22 @@ export class VisualsISComponent implements OnInit {
               );
             }
           });
-        this.initScenario(this.scenarioSelected);
+    this.ngOnInit();
       });
   }
   // end of save
   addScenario() {
-    const existingScenarios = this.UserDetailModelService.getScenarioNumber();
+    let existingScenarios = this.UserDetailModelService.getScenarioNumber();
     if (existingScenarios.length < 9) {
+    localStorage.setItem('scenarioSelected','0');
       this.scenario = existingScenarios.length;
+      
       this._snackBar.openFromComponent(uploadSnackBarISAddComponent, {
         duration: 5000,
         horizontalPosition: this.horizontalPosition,
         verticalPosition: this.verticalPosition,
       });
-      this.initScenario(0);
+      this.ngOnInit();
     } else {
       this._snackBar.openFromComponent(uploadFailureSnackBarISAddComponent, {
         duration: 5000,
@@ -1274,11 +1277,12 @@ export class VisualsISComponent implements OnInit {
     }
   }
 
-  loadScenario(index: any) {
-    this.scenario = index;
-    
-    this.loadedScenario = 'Scenario ' + index;
-    this.initScenario(index);
+  loadScenario(index:any){
+      this.scenario = index;
+      this.scenarioSelected =  localStorage.setItem('scenarioSelected',index);
+      let indexNumber = localStorage.getItem('scenarioSelected');
+      this.loadedScenario = "Scenario "+indexNumber;
+      this.ngOnInit();
   }
 }
 
@@ -1302,7 +1306,7 @@ export class VisualsISComponent implements OnInit {
 })
 // tslint:disable-next-line:class-name
 export class uploadSnackBarISComponent {
-  
+  scenarioBanner = localStorage.getItem('scenarioSelected');
 }
 
 @Component({
@@ -1325,7 +1329,7 @@ export class uploadSnackBarISComponent {
 })
 // tslint:disable-next-line:class-name
 export class uploadFailureSnackBarISComponent {
-  //scenarioBanner = localStorage.getItem('scenarioSelected');
+  scenarioBanner = localStorage.getItem('scenarioSelected');
 }
 
 @Component({
@@ -1349,7 +1353,9 @@ export class uploadFailureSnackBarISComponent {
 })
 // tslint:disable-next-line:class-name
 export class uploadSnackBarISAddComponent {
- // scenarioBanner = localStorage.getItem('scenarioSelected');
+  constructor(private UserDetailModelService: UserDetailModelService){}
+  totalScenario=this.UserDetailModelService.getScenarioNumber();
+  scenarioBanner = this.totalScenario.length;
 }
 
 @Component({
@@ -1372,5 +1378,5 @@ export class uploadSnackBarISAddComponent {
 })
 // tslint:disable-next-line:class-name
 export class uploadFailureSnackBarISAddComponent {
- // scenarioBanner = localStorage.getItem('scenarioSelected');
+  scenarioBanner = localStorage.getItem('scenarioSelected');
 }

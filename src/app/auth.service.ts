@@ -16,7 +16,7 @@ export class AuthService {
     createAuth0Client({
       domain: "rmi-insights.us.auth0.com",
       client_id: "lLtgZM1NooB3CBkugjhEcGT43kZH3XSS",
-      redirect_uri: "http://localhost:4200/addcompany",
+      redirect_uri: "https://app.rmiinsights.com/addcompany",
        useRefreshTokens: true,
       cacheLocation: 'localstorage'
     })
@@ -86,7 +86,7 @@ export class AuthService {
     checkAuth$.subscribe();
   }
 
-	  login(redirectPath: string = 'http://localhost:4200/') {
+	  login(redirectPath: string = 'https://app.rmiinsights.com/') {
     // A desired redirect path can be passed to login method
     // (e.g., from a route guard)
     // Ensure Auth0 client instance exists

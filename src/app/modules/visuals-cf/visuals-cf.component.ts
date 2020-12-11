@@ -503,7 +503,7 @@ export class VisualsCfComponent implements OnInit {
                 };
                 this.ASOptions = {
                   chart: { type: 'spline', animation: false },
-                  title: { text: 'AssestSales (% Revenue)' },
+                  title: { text: 'Assest Sales (% Revenue)' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
                     
@@ -695,8 +695,8 @@ export class VisualsCfComponent implements OnInit {
       this.CffinancialObj.get(key).cfi = Math.round(-(this.CffinancialObj.get(key).totalexpenditure)+(this.CffinancialObj.get(key).assetsales)+(this.CffinancialObj.get(key).otherinvestingactivities));
        this.CffinancialObj.get(key).debtissued = this.CffinancialObj.get(key).debtissued;
        this.CffinancialObj.get(key).commonstockissued = this.CffinancialObj.get(key).commonstockissued;
-       this.CffinancialObj.get(key).dividendspaid = this.CffinancialObj.get(key).dividendspaid * -1;
-       this.CffinancialObj.get(key).cff = Math.round(this.CffinancialObj.get(key).debtissued+(this.CffinancialObj.get(key).commonstockissued)+(this.CffinancialObj.get(key).dividendspaid));
+       this.CffinancialObj.get(key).dividendspaid = this.CffinancialObj.get(key).dividendspaid;
+       this.CffinancialObj.get(key).cff = Math.round(this.CffinancialObj.get(key).debtissued+(this.CffinancialObj.get(key).commonstockissued)+(this.CffinancialObj.get(key).dividendspaid)) * -1;
        this.CffinancialObj.get(key).netchangeincash = Math.round(this.CffinancialObj.get(key).cfo+(this.CffinancialObj.get(key).cfi)+(this.CffinancialObj.get(key).cff));
 
       }

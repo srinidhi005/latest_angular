@@ -1219,7 +1219,7 @@ export class VisualsBsComponent implements OnInit {
           key
         ).otherliabilities;
         inputObj.ppe = this.BsfinancialObj.get(key).ppe;
-        inputObj.scenario = this.scenario;
+        
         inputObj.totalassets = this.BsfinancialObj.get(key).totalassets;
         inputObj.totalcurrentassets = this.BsfinancialObj.get(
           key
@@ -1236,6 +1236,7 @@ export class VisualsBsComponent implements OnInit {
         inputObj.totalshareholdersequity = this.BsfinancialObj.get(
           key
         ).totalshareholdersequity;
+	inputObj.scenario = this.saveScenarioNumber;
         inputArray.push(inputObj);
       }
     }

@@ -27,7 +27,7 @@ const routes: Routes = [
   {
     path: 'login',
     component: AuthLoginComponent,
-	//canActivate: [AuthGuard],
+	canActivate: [AuthGuard],
   },
   {
     path: '',
@@ -36,66 +36,71 @@ const routes: Routes = [
       {
         path: 'statement',
         component: StatementComponent,
-        //canActivate: [AuthGuard],
+        canActivate: [AuthGuard],
       },
       {
         path: 'addcompany',
         component: AddCompanyComponent,
-        //canActivate: [AuthGuard],
+        canActivate: [AuthGuard],
       },
       {
         path: 'visualsIS',
         component: VisualsISComponent,
-        //canActivate: [AuthGuard],
+        canActivate: [AuthGuard],
       },
       {
         path: 'visualsBS',
         component: VisualsBsComponent,
-        //canActivate: [AuthGuard],
+        canActivate: [AuthGuard],
       },
 	  {
 		path:'visualsCF',
 		component:VisualsCfComponent,
-		//canActivate: [AuthGuard],
+		canActivate: [AuthGuard],
 	},
 	   {
 		path:'cashmetrics',
 		component:CashmetricsComponent,
-		//canActivate: [AuthGuard],
+		canActivate: [AuthGuard],
 	},
       {
         path: 'IncomeStatementMetrics',
         component: PLMetricsComponent,
+		canActivate: [AuthGuard],
         
       },
       {
         path: 'BalanceSheetMetrics',
         component: BsmetricsComponent,
+		canActivate: [AuthGuard],
         
       },
       {
         path: 'KPIIncomeStatement',
         component: KpiIsComponent,
-        //canActivate: [AuthGuard],
+        canActivate: [AuthGuard],
       },
       {
         path: 'KPIBalanceSheet',
         component: KpiBsComponent,
+		canActivate: [AuthGuard],
         
       },
       {
         path: 'profile',
         component: ProfileComponent,
-        
+        canActivate: [AuthGuard],
       },
       {
         path: 'user',
         component: UserDetailsComponent,
+		canActivate: [AuthGuard],
         
       },
       {
         path: ':companyName/dashboard/:scenario',
         component: CompanyDashboardComponent,
+		canActivate: [AuthGuard],
       
       },
     ],

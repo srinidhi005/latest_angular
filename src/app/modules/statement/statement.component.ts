@@ -32,6 +32,8 @@ const ELEMENT_DATA: PeriodicElement[] = [];
 })
 export class StatementComponent implements OnInit {
   progressBar:boolean;
+  editModeOn: boolean = false
+  selectedRowIndex = -1;
   dataset:any = [];
   downloadLink:any;
   downloadAction:any;
@@ -59,6 +61,7 @@ export class StatementComponent implements OnInit {
     ngOnInit():void {
     const nickname = localStorage.getItem('nickname');
     this.progressBar=true;
+    const val = this.urlConfig.getStatementAPI()+nickname;
     this.apiService.getData(this.urlConfig.getStatementAPI()+nickname).subscribe((res:any)=>{
     const data = res.map((el,index)=>({...el,position:index+1,action:null}));
     this.dataset=data;
@@ -122,6 +125,9 @@ export class StatementComponent implements OnInit {
     localStorage.setItem('companySelected',element.name);
     this.userDetailModelService.setSelectedCompany(element.name);
     this.userDetailModelService.setSelectedScenario(1);
+  }
+   saveCompanyName(compObj, index){
+    // APICALL to save the comp Name
   }
 }
 

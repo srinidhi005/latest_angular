@@ -503,7 +503,7 @@ export class VisualsCfComponent implements OnInit {
                 };
                 this.ASOptions = {
                   chart: { type: 'spline', animation: false },
-                  title: { text: 'Assest Sales (% Revenue)' },
+                  title: { text: 'Asset Sales (% Revenue)' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
                     

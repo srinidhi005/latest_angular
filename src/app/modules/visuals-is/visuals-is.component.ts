@@ -65,19 +65,10 @@ const seriesOption = {
   fillColor: {
     linearGradient: [0, 0, 0, 300],
     stops: [
-      [0, Highcharts.getOptions().colors[0]],
-      [
-        1,
-        Highcharts.color(Highcharts.getOptions().colors[0])
-          .setOpacity(0)
-          .get('rgba'),
-      ],
+      [0, `rgb(22, 68, 91)`],
+      [0.5, `rgb(154,198,213)`],
+      [1, `rgb(255, 255, 255)`],
     ],
-  },
-  dragDrop: {
-    draggableY: true,
-    dragMaxY: 199,
-    dragMinY: -99,
   },
 };
 @Component({
@@ -89,27 +80,27 @@ export class VisualsISComponent implements OnInit {
   horizontalPosition: MatSnackBarHorizontalPosition = 'center';
   verticalPosition: MatSnackBarVerticalPosition = 'top';
   inprogress: boolean = true;
-  progressBar:boolean;
-  RGOptions:{};
-  COGSOptions:{};
-  SGAOptions:{};
-  DAOptions:{};
-  OIEOptions:{};
-  NIEOptions:{};
-  PTROptions:{};
-  PGPOptions:{};
-  PEBITOptions:{};
-  PEBITDAOptions:{};
-  PEBTOptions:{};
-  PNIOptions:{};
-  yearsArray=[];
-  projectionsYearsArray=[];
-  scenarioArray=[];
-  scenario=this.UserDetailModelService.getSelectedScenario();
-  companyName=this.UserDetailModelService.getSelectedCompany();
+  progressBar: boolean;
+  RGOptions: {};
+  COGSOptions: {};
+  SGAOptions: {};
+  DAOptions: {};
+  OIEOptions: {};
+  NIEOptions: {};
+  PTROptions: {};
+  PGPOptions: {};
+  PEBITOptions: {};
+  PEBITDAOptions: {};
+  PEBTOptions: {};
+  PNIOptions: {};
+  yearsArray = [];
+  projectionsYearsArray = [];
+  scenarioArray = [];
+  scenario = this.UserDetailModelService.getSelectedScenario();
+  companyName = this.UserDetailModelService.getSelectedCompany();
   financialObj = new Map();
   Highcharts = Highcharts;
-    loadedScenario: string = "Scenario 0";
+  loadedScenario: string = 'Scenario 0';
   companySelected = localStorage.getItem('companySelected');
   // options needed for click events on columns
   selectedChart: SelectableCharts = null;
@@ -395,7 +386,7 @@ export class VisualsISComponent implements OnInit {
                 this.projectionsYearsArray.shift();
 
                 this.RGOptions = {
-                  chart: { type: 'spline', animation: false },
+                  chart: { type: 'areaspline', animation: false },
                   title: { text: 'Revenue Growth' },
                   yAxis: {
                     title: { text: 'In Percentage %' },
@@ -407,6 +398,11 @@ export class VisualsISComponent implements OnInit {
                   plotOptions: {
                     series: {
                       ...seriesOption,
+                      dragDrop: {
+                        draggableY: true,
+                        dragMaxY: 199,
+                        dragMinY: -99,
+                      },
                       point: {
                         events: {
                           drag: function (e) {
@@ -439,7 +435,7 @@ export class VisualsISComponent implements OnInit {
                         },
                       },
                     },
-                    spline: {
+                    areaspline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
@@ -474,7 +470,7 @@ export class VisualsISComponent implements OnInit {
                   legend: false,
                 };
                 this.COGSOptions = {
-                  chart: { type: 'spline', animation: false },
+                  chart: { type: 'areaspline', animation: false },
                   title: { text: 'COGS (% Revenue)' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
@@ -486,6 +482,7 @@ export class VisualsISComponent implements OnInit {
                   plotOptions: {
                     series: {
                       ...seriesOption,
+                      dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
                       point: {
                         events: {
                           drag: function (e) {
@@ -516,7 +513,7 @@ export class VisualsISComponent implements OnInit {
                         },
                       },
                     },
-                    spline: {
+                    areaspline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
@@ -550,7 +547,7 @@ export class VisualsISComponent implements OnInit {
                   legend: false,
                 };
                 this.SGAOptions = {
-                  chart: { type: 'spline', animation: false },
+                  chart: { type: 'areaspline', animation: false },
                   title: { text: 'SG&A (% Revenue)' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
@@ -561,7 +558,7 @@ export class VisualsISComponent implements OnInit {
                   xAxis: { categories: this.projectionsYearsArray },
                   plotOptions: {
                     series: {
-                      stickyTracking: true,
+                      ...seriesOption,
                       dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
                       point: {
                         events: {
@@ -594,7 +591,7 @@ export class VisualsISComponent implements OnInit {
                         },
                       },
                     },
-                    spline: {
+                    areaspline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
@@ -628,7 +625,7 @@ export class VisualsISComponent implements OnInit {
                   legend: false,
                 };
                 this.DAOptions = {
-                  chart: { type: 'spline', animation: false },
+                  chart: { type: 'areaspline', animation: false },
                   title: { text: 'D&A (% Revenue)' },
                   yAxis: {
                     title: {
@@ -641,7 +638,7 @@ export class VisualsISComponent implements OnInit {
                   xAxis: { categories: this.projectionsYearsArray },
                   plotOptions: {
                     series: {
-                      stickyTracking: true,
+                      ...seriesOption,
                       dragDrop: { draggableY: true, dragMaxY: 49, dragMinY: 0 },
                       point: {
                         events: {
@@ -673,7 +670,7 @@ export class VisualsISComponent implements OnInit {
                         },
                       },
                     },
-                    spline: {
+                    areaspline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
@@ -708,7 +705,7 @@ export class VisualsISComponent implements OnInit {
                   legend: false,
                 };
                 this.OIEOptions = {
-                  chart: { type: 'spline', animation: false },
+                  chart: { type: 'areaspline', animation: false },
                   title: { text: 'Other Income/Expense (% Revenue)' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
@@ -719,8 +716,8 @@ export class VisualsISComponent implements OnInit {
                   xAxis: { categories: this.projectionsYearsArray },
                   plotOptions: {
                     series: {
-                      stickyTracking: true,
-                      dragDrop: { draggableY: true, dragMaxY: 49, dragMinY: 0 },
+                      ...seriesOption,
+                      dragDrop: { draggableY: true, dragMaxY: 100, dragMinY: 0 },
                       point: {
                         events: {
                           drag: function (e) {
@@ -752,7 +749,7 @@ export class VisualsISComponent implements OnInit {
                         },
                       },
                     },
-                    spline: {
+                    areaspline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
@@ -786,7 +783,7 @@ export class VisualsISComponent implements OnInit {
                   legend: false,
                 };
                 this.NIEOptions = {
-                  chart: { type: 'spline', animation: false },
+                  chart: { type: 'areaspline', animation: false },
                   title: { text: 'Net Interest Expense' },
                   yAxis: { title: { text: 'USD' } },
                   xAxis: {
@@ -794,7 +791,7 @@ export class VisualsISComponent implements OnInit {
                   },
                   plotOptions: {
                     series: {
-                      stickyTracking: true,
+                      ...seriesOption,
                       dragDrop: { draggableY: true },
                       point: {
                         events: {
@@ -827,7 +824,7 @@ export class VisualsISComponent implements OnInit {
                         },
                       },
                     },
-                    spline: {
+                    areaspline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
@@ -929,7 +926,6 @@ export class VisualsISComponent implements OnInit {
         );
         this.financialObj.get(key).p_NetInCome =
           this.financialObj.get(key).p_EBT - this.financialObj.get(key).p_taxes;
-        // revenueGrowthArray.push(obj.get(key).revenueGrowth);
       }
       PTRArray.push(this.financialObj.get(key).totalRevenue);
       PGPArray.push(this.financialObj.get(key).p_GrossProfit);
@@ -1226,16 +1222,17 @@ export class VisualsISComponent implements OnInit {
             inputObj.taxespercent = this.financialObj.get(key).taxes;
             inputObj.totalrevenue = this.financialObj.get(key).totalRevenue;
             inputArray.push(inputObj);
-          console.log("inputArray",inputArray);
-		  
-		  }
+            console.log('inputArray', inputArray);
+          }
         }
         this.apiService
           .postData(
-            this.urlConfig.getIsProjectionsAPIPOST() + this.companySelected,JSON.stringify(inputArray)).subscribe((res: any) => {  
-            console.log("res",res)
-			if (res.message == "Success") {
-				
+            this.urlConfig.getIsProjectionsAPIPOST() + this.companySelected,
+            JSON.stringify(inputArray)
+          )
+          .subscribe((res: any) => {
+            console.log('res', res);
+            if (res.message == 'Success') {
               this._snackBar.openFromComponent(uploadSnackBarISComponent, {
                 duration: 5000,
                 horizontalPosition: this.horizontalPosition,
@@ -1252,16 +1249,16 @@ export class VisualsISComponent implements OnInit {
               );
             }
           });
-    this.ngOnInit();
+        this.ngOnInit();
       });
   }
   // end of save
   addScenario() {
-    let existingScenarios = this.UserDetailModelService.getScenarioNumber();
+    const existingScenarios = this.UserDetailModelService.getScenarioNumber();
     if (existingScenarios.length < 9) {
-    localStorage.setItem('scenarioSelected','0');
+      localStorage.setItem('scenarioSelected', '0');
       this.scenario = existingScenarios.length;
-      
+
       this._snackBar.openFromComponent(uploadSnackBarISAddComponent, {
         duration: 5000,
         horizontalPosition: this.horizontalPosition,
@@ -1277,12 +1274,12 @@ export class VisualsISComponent implements OnInit {
     }
   }
 
-  loadScenario(index:any){
-      this.scenario = index;
-      this.scenarioSelected =  localStorage.setItem('scenarioSelected',index);
-      let indexNumber = localStorage.getItem('scenarioSelected');
-      this.loadedScenario = "Scenario "+indexNumber;
-      this.ngOnInit();
+  loadScenario(index: any) {
+    this.scenario = index;
+    this.scenarioSelected = localStorage.setItem('scenarioSelected', index);
+    let indexNumber = localStorage.getItem('scenarioSelected');
+    this.loadedScenario = 'Scenario ' + indexNumber;
+    this.ngOnInit();
   }
 }
 
@@ -1353,8 +1350,8 @@ export class uploadFailureSnackBarISComponent {
 })
 // tslint:disable-next-line:class-name
 export class uploadSnackBarISAddComponent {
-  constructor(private UserDetailModelService: UserDetailModelService){}
-  totalScenario=this.UserDetailModelService.getScenarioNumber();
+  constructor(private UserDetailModelService: UserDetailModelService) {}
+  totalScenario = this.UserDetailModelService.getScenarioNumber();
   scenarioBanner = this.totalScenario.length;
 }
 

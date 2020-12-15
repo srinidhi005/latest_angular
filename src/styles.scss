@@ -2,12 +2,23 @@
 
 html,
 body {
-  height: 100%;
-  background-color: #d3e5eb;
-}
-body {
   margin: 0;
   font-family: Roboto, 'Helvetica Neue', sans-serif;
+  height: 100%;
+  background-color: #d3e5eb;
+  .profile-page {
+    .tel-input-container {
+      .mat-form-field-label {
+        padding-left: 52px !important;
+      }
+    }
+
+    .mat-figure {
+      align-items: unset;
+      margin-top: 30px;
+      height: fit-content;
+    }
+  }
 }
 /* .mat-drawer-inner-container {
   overflow: hidden !important;

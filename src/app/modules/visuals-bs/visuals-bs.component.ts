@@ -56,6 +56,18 @@ type SelectableCharts =
   | 'dasy-payable-outstanding'
   | 'accrued-liabilities'
   | 'other-current-liabilities';
+const seriesOption = {
+  stickyTracking: true,
+  colorByPoint: true,
+  fillColor: {
+    linearGradient: [0, 0, 0, 300],
+    stops: [
+      [0, `rgb(22, 68, 91)`],
+      [0.5, `rgb(154,198,213)`],
+      [1, `rgb(255, 255, 255)`],
+    ],
+  },
+};
 @Component({
   selector: 'app-visuals-bs',
   templateUrl: './visuals-bs.component.html',
@@ -259,7 +271,7 @@ export class VisualsBsComponent implements OnInit {
     this.yearsArray = [];
 
     if (scenarioNumber >= 0) {
-      this.scenarioSelected = scenarioNumber
+      this.scenarioSelected = scenarioNumber;
       this.loadedScenario = 'Scenario ' + this.scenarioSelected;
     }
 
@@ -308,11 +320,13 @@ export class VisualsBsComponent implements OnInit {
             this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
             // this.scenarioSelected = localStorage.getItem('scenarioSelected');
             if (this.scenarioArray.includes(+this.scenarioSelected)) {
-              this.loadedScenario = "Scenario "+this.scenarioSelected as any;
+              this.loadedScenario = ('Scenario ' +
+                this.scenarioSelected) as any;
               this.inprogress = true;
             } else {
               this.scenarioSelected = 0;
-              this.loadedScenario = "Scenario " + this.scenarioSelected as any;
+              this.loadedScenario = ('Scenario ' +
+                this.scenarioSelected) as any;
               this.inprogress = true;
             }
             this.apiService
@@ -394,7 +408,7 @@ export class VisualsBsComponent implements OnInit {
                 });
 
                 this.DSOOptions = {
-                  chart: { type: 'spline', animation: false },
+                  chart: { type: 'areaspline', animation: false },
                   title: { text: 'Days Sales Outstanding' },
                   yAxis: {
                     title: { text: 'Days' },
@@ -405,7 +419,7 @@ export class VisualsBsComponent implements OnInit {
                   xAxis: { categories: this.yearsArray },
                   plotOptions: {
                     series: {
-                      stickyTracking: true,
+                      ...seriesOption,
                       dragDrop: {
                         draggableY: true,
                         dragMaxY: 180,
@@ -441,7 +455,7 @@ export class VisualsBsComponent implements OnInit {
                         },
                       },
                     },
-                    spline: {
+                    areaspline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
@@ -475,7 +489,7 @@ export class VisualsBsComponent implements OnInit {
                   legend: false,
                 };
                 this.IDOptions = {
-                  chart: { type: 'spline', animation: false },
+                  chart: { type: 'areaspline', animation: false },
                   title: { text: 'Inventory Days' },
                   yAxis: {
                     title: { text: 'Days' },
@@ -486,7 +500,7 @@ export class VisualsBsComponent implements OnInit {
                   xAxis: { categories: this.yearsArray },
                   plotOptions: {
                     series: {
-                      stickyTracking: false,
+                      ...seriesOption,
                       dragDrop: {
                         draggableY: true,
                         dragMaxY: 180,
@@ -523,7 +537,7 @@ export class VisualsBsComponent implements OnInit {
                         },
                       },
                     },
-                    spline: {
+                    areaspline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
@@ -551,7 +565,7 @@ export class VisualsBsComponent implements OnInit {
                   legend: false,
                 };
                 this.OCAOptions = {
-                  chart: { type: 'spline', animation: false },
+                  chart: { type: 'areaspline', animation: false },
                   title: { text: 'Other Current Assets' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
@@ -562,7 +576,7 @@ export class VisualsBsComponent implements OnInit {
                   xAxis: { categories: this.yearsArray },
                   plotOptions: {
                     series: {
-                      stickyTracking: false,
+                      ...seriesOption,
                       dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
                       point: {
                         events: {
@@ -595,7 +609,7 @@ export class VisualsBsComponent implements OnInit {
                         },
                       },
                     },
-                    spline: {
+                    areaspline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
@@ -623,7 +637,7 @@ export class VisualsBsComponent implements OnInit {
                   legend: false,
                 };
                 this.DPOOptions = {
-                  chart: { type: 'spline', animation: false },
+                  chart: { type: 'areaspline', animation: false },
                   title: { text: 'Days Payable Outstanding' },
                   yAxis: {
                     title: { text: 'Days' },
@@ -634,7 +648,7 @@ export class VisualsBsComponent implements OnInit {
                   xAxis: { categories: this.yearsArray },
                   plotOptions: {
                     series: {
-                      stickyTracking: false,
+                      ...seriesOption,
                       dragDrop: {
                         draggableY: true,
                         dragMaxY: 180,
@@ -670,7 +684,7 @@ export class VisualsBsComponent implements OnInit {
                         },
                       },
                     },
-                    spline: {
+                    areaspline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
@@ -699,7 +713,7 @@ export class VisualsBsComponent implements OnInit {
                   legend: false,
                 };
                 this.ALOptions = {
-                  chart: { type: 'spline', animation: false },
+                  chart: { type: 'areaspline', animation: false },
                   title: { text: 'Accrued Liabilities' },
                   yAxis: {
                     title: { text: 'As % of COGS' },
@@ -743,7 +757,7 @@ export class VisualsBsComponent implements OnInit {
                         },
                       },
                     },
-                    spline: {
+                    areaspline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
@@ -1155,114 +1169,118 @@ export class VisualsBsComponent implements OnInit {
 
   saveScenario() {
     this.apiService
-    .getData(this.urlConfig.getScenarioAPI() + this.companySelected)
-    .subscribe((res: any) => {
-      if (this.scenarioSelected == 0) {
-        this.saveScenarioNumber = res.scenarios.length;
-        this.scenarioSelected = res.scenarios.length;
-       
-      } else {
-        this.saveScenarioNumber = this.scenarioSelected;
-        
-      }
-      
-
-      this.loadedScenario = "Scenario " + this.scenarioSelected as any
-    const inputArray = [];
-    for (const [key, value] of this.BsfinancialObj) {
-      const inputObj: any = {};
-      if (this.BsfinancialObj.get(key).latest > 0) {
-        inputObj.accountspayable = this.BsfinancialObj.get(key).accountspayable;
-        inputObj.accountsreceivable = this.BsfinancialObj.get(
-          key
-        ).accountsreceivable;
-        inputObj.accruedliabilities = this.BsfinancialObj.get(
-          key
-        ).accruedliabilities;
-        inputObj.accruedliabilitiespercent = this.BsfinancialObj.get(
-          key
-        ).accruedliabilitiespercent;
-        inputObj.asof = key.toString();
-        inputObj.cashequivalents = this.BsfinancialObj.get(key).cashequivalents;
-        inputObj.companyname = this.companySelected;
-        inputObj.currentportionlongtermdebt = this.BsfinancialObj.get(
-          key
-        ).currentportionlongtermdebt;
-        inputObj.dpo = this.BsfinancialObj.get(key).dpo;
-        inputObj.dso = this.BsfinancialObj.get(key).dso;
-        inputObj.goodwill = this.BsfinancialObj.get(key).goodwill;
-        inputObj.cogs = this.BsfinancialObj.get(key).cogs;
-        inputObj.netincome = this.BsfinancialObj.get(key).netincome;
-        inputObj.totalrevenue = this.BsfinancialObj.get(key).totalrevenue;
-        inputObj.intangibleassets = this.BsfinancialObj.get(
-          key
-        ).intangibleassets;
-        inputObj.inventories = this.BsfinancialObj.get(key).inventories;
-        inputObj.inventorydays = this.BsfinancialObj.get(key).inventorydays;
-        inputObj.latest = this.BsfinancialObj.get(key).latest;
-        inputObj.longtermdebt = this.BsfinancialObj.get(key).longtermdebt;
-        inputObj.memocheck = this.BsfinancialObj.get(key).memocheck;
-        inputObj.otherassets = this.BsfinancialObj.get(key).otherassets;
-        inputObj.othercurrentassets = this.BsfinancialObj.get(
-          key
-        ).othercurrentassets;
-        inputObj.othercurrentassetspercent = this.BsfinancialObj.get(
-          key
-        ).othercurrentassetspercent;
-        inputObj.othercurrentliabilities = this.BsfinancialObj.get(
-          key
-        ).othercurrentliabilities;
-        inputObj.othercurrentliabilitiespercent = this.BsfinancialObj.get(
-          key
-        ).othercurrentliabilitiespercent;
-        inputObj.otherliabilities = this.BsfinancialObj.get(
-          key
-        ).otherliabilities;
-        inputObj.ppe = this.BsfinancialObj.get(key).ppe;
-        
-        inputObj.totalassets = this.BsfinancialObj.get(key).totalassets;
-        inputObj.totalcurrentassets = this.BsfinancialObj.get(
-          key
-        ).totalcurrentassets;
-        inputObj.totalcurrentliabilities = this.BsfinancialObj.get(
-          key
-        ).totalcurrentliabilities;
-        inputObj.totalliabilities = this.BsfinancialObj.get(
-          key
-        ).totalliabilities;
-        inputObj.totalliabilitiesandequity = this.BsfinancialObj.get(
-          key
-        ).totalliabilitiesandequity;
-        inputObj.totalshareholdersequity = this.BsfinancialObj.get(
-          key
-        ).totalshareholdersequity;
-	inputObj.scenario = this.saveScenarioNumber;
-        inputArray.push(inputObj);
-      }
-    }
-    this.apiService
-      .postData(
-        this.urlConfig.getBsProjectionsAPIPOST() + this.companySelected,
-        JSON.stringify(inputArray)
-      )
+      .getData(this.urlConfig.getScenarioAPI() + this.companySelected)
       .subscribe((res: any) => {
-		console.log(res);
-        if (res.message == '') {
-          this._snackBar.openFromComponent(uploadSnackBarBSComponent, {
-            duration: 5000,
-            horizontalPosition: this.horizontalPosition,
-            verticalPosition: this.verticalPosition,
-          });
+        if (this.scenarioSelected == 0) {
+          this.saveScenarioNumber = res.scenarios.length;
+          this.scenarioSelected = res.scenarios.length;
         } else {
-          this._snackBar.openFromComponent(uploadFailureSnackBarBSComponent, {
-            duration: 5000,
-            horizontalPosition: this.horizontalPosition,
-            verticalPosition: this.verticalPosition,
-          });
+          this.saveScenarioNumber = this.scenarioSelected;
         }
+
+        this.loadedScenario = ('Scenario ' + this.scenarioSelected) as any;
+        const inputArray = [];
+        for (const [key, value] of this.BsfinancialObj) {
+          const inputObj: any = {};
+          if (this.BsfinancialObj.get(key).latest > 0) {
+            inputObj.accountspayable = this.BsfinancialObj.get(
+              key
+            ).accountspayable;
+            inputObj.accountsreceivable = this.BsfinancialObj.get(
+              key
+            ).accountsreceivable;
+            inputObj.accruedliabilities = this.BsfinancialObj.get(
+              key
+            ).accruedliabilities;
+            inputObj.accruedliabilitiespercent = this.BsfinancialObj.get(
+              key
+            ).accruedliabilitiespercent;
+            inputObj.asof = key.toString();
+            inputObj.cashequivalents = this.BsfinancialObj.get(
+              key
+            ).cashequivalents;
+            inputObj.companyname = this.companySelected;
+            inputObj.currentportionlongtermdebt = this.BsfinancialObj.get(
+              key
+            ).currentportionlongtermdebt;
+            inputObj.dpo = this.BsfinancialObj.get(key).dpo;
+            inputObj.dso = this.BsfinancialObj.get(key).dso;
+            inputObj.goodwill = this.BsfinancialObj.get(key).goodwill;
+            inputObj.cogs = this.BsfinancialObj.get(key).cogs;
+            inputObj.netincome = this.BsfinancialObj.get(key).netincome;
+            inputObj.totalrevenue = this.BsfinancialObj.get(key).totalrevenue;
+            inputObj.intangibleassets = this.BsfinancialObj.get(
+              key
+            ).intangibleassets;
+            inputObj.inventories = this.BsfinancialObj.get(key).inventories;
+            inputObj.inventorydays = this.BsfinancialObj.get(key).inventorydays;
+            inputObj.latest = this.BsfinancialObj.get(key).latest;
+            inputObj.longtermdebt = this.BsfinancialObj.get(key).longtermdebt;
+            inputObj.memocheck = this.BsfinancialObj.get(key).memocheck;
+            inputObj.otherassets = this.BsfinancialObj.get(key).otherassets;
+            inputObj.othercurrentassets = this.BsfinancialObj.get(
+              key
+            ).othercurrentassets;
+            inputObj.othercurrentassetspercent = this.BsfinancialObj.get(
+              key
+            ).othercurrentassetspercent;
+            inputObj.othercurrentliabilities = this.BsfinancialObj.get(
+              key
+            ).othercurrentliabilities;
+            inputObj.othercurrentliabilitiespercent = this.BsfinancialObj.get(
+              key
+            ).othercurrentliabilitiespercent;
+            inputObj.otherliabilities = this.BsfinancialObj.get(
+              key
+            ).otherliabilities;
+            inputObj.ppe = this.BsfinancialObj.get(key).ppe;
+
+            inputObj.totalassets = this.BsfinancialObj.get(key).totalassets;
+            inputObj.totalcurrentassets = this.BsfinancialObj.get(
+              key
+            ).totalcurrentassets;
+            inputObj.totalcurrentliabilities = this.BsfinancialObj.get(
+              key
+            ).totalcurrentliabilities;
+            inputObj.totalliabilities = this.BsfinancialObj.get(
+              key
+            ).totalliabilities;
+            inputObj.totalliabilitiesandequity = this.BsfinancialObj.get(
+              key
+            ).totalliabilitiesandequity;
+            inputObj.totalshareholdersequity = this.BsfinancialObj.get(
+              key
+            ).totalshareholdersequity;
+            inputObj.scenario = this.saveScenarioNumber;
+            inputArray.push(inputObj);
+          }
+        }
+        this.apiService
+          .postData(
+            this.urlConfig.getBsProjectionsAPIPOST() + this.companySelected,
+            JSON.stringify(inputArray)
+          )
+          .subscribe((res: any) => {
+            console.log(res);
+            if (res.message == '') {
+              this._snackBar.openFromComponent(uploadSnackBarBSComponent, {
+                duration: 5000,
+                horizontalPosition: this.horizontalPosition,
+                verticalPosition: this.verticalPosition,
+              });
+            } else {
+              this._snackBar.openFromComponent(
+                uploadFailureSnackBarBSComponent,
+                {
+                  duration: 5000,
+                  horizontalPosition: this.horizontalPosition,
+                  verticalPosition: this.verticalPosition,
+                }
+              );
+            }
+          });
+        this.initScenario(this.scenarioSelected);
       });
-    this.initScenario(this.scenarioSelected);
-    });
   }
   addScenario() {
     const existingScenarios = this.UserDetailModelService.getScenarioNumber();
@@ -1307,7 +1325,9 @@ export class VisualsBsComponent implements OnInit {
     `,
   ],
 })
-export class uploadSnackBarBSComponent {scenarioBanner = localStorage.getItem('scenarioSelected');}
+export class uploadSnackBarBSComponent {
+  scenarioBanner = localStorage.getItem('scenarioSelected');
+}
 
 @Component({
   selector: 'snackBar',
@@ -1326,7 +1346,9 @@ export class uploadSnackBarBSComponent {scenarioBanner = localStorage.getItem('s
     `,
   ],
 })
-export class uploadFailureSnackBarBSComponent {scenarioBanner = localStorage.getItem('scenarioSelected');}
+export class uploadFailureSnackBarBSComponent {
+  scenarioBanner = localStorage.getItem('scenarioSelected');
+}
 
 @Component({
   selector: 'snackBarAddScenario',
@@ -1345,7 +1367,9 @@ export class uploadFailureSnackBarBSComponent {scenarioBanner = localStorage.get
     `,
   ],
 })
-export class uploadSnackBarBSAddComponent {scenarioBanner = localStorage.getItem('scenarioSelected');}
+export class uploadSnackBarBSAddComponent {
+  scenarioBanner = localStorage.getItem('scenarioSelected');
+}
 
 @Component({
   selector: 'snackBarAddScenarioFailure',
@@ -1364,4 +1388,6 @@ export class uploadSnackBarBSAddComponent {scenarioBanner = localStorage.getItem
     `,
   ],
 })
-export class uploadFailureSnackBarBSAddComponent {scenarioBanner = localStorage.getItem('scenarioSelected');}
+export class uploadFailureSnackBarBSAddComponent {
+  scenarioBanner = localStorage.getItem('scenarioSelected');
+}

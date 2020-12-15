@@ -74,17 +74,17 @@ export class UrlConfigService {
   getuserDetailAPI() {
     return this.userDetailAPI;
   }
-  getCashActualsAPI(){
-	return this.cashActualsAPI;
+  getCashActualsAPI() {
+    return this.cashActualsAPI;
   }
-  getCashProjectionsAPIGET(){
-	return this.cashProjectionsAPI;
-  }
-   getCashProjectionsAPIPOST() {
+  getCashProjectionsAPIGET() {
     return this.cashProjectionsAPI;
   }
-  getCashScenarioAPI(){
-	  return this.cashscenarioAPI;
+  getCashProjectionsAPIPOST() {
+    return this.cashProjectionsAPI;
+  }
+  getCashScenarioAPI() {
+    return this.cashscenarioAPI;
   }
   getuserProfileDetail() {
     return this.userProfileDetailAPI;

@@ -2,7 +2,6 @@ import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-
 import {
   MatButtonModule,
   MatCardModule,
@@ -68,7 +67,7 @@ import {
   uploadFailureSnackBarCFComponent,
   uploadSnackBarCFAddComponent,
   uploadSnackBarCFComponent,
-  VisualsCfComponent
+  VisualsCfComponent,
 } from 'src/app/modules/visuals-cf/visuals-cf.component';
 import { RMIAPIsService } from 'src/app/shared/rmiapis.service';
 import { SharedModule } from 'src/app/shared/shared.module';
@@ -84,7 +83,7 @@ import { DefaultComponent } from './default.component';
     uploadSnackBarISComponent,
     uploadFailureSnackBarISComponent,
     uploadSnackBarBSComponent,
-	VisualCFInputDialogComponent,
+    VisualCFInputDialogComponent,
     uploadFailureSnackBarBSComponent,
     uploadSnackBarISAddComponent,
     uploadFailureSnackBarISAddComponent,
@@ -96,18 +95,18 @@ import { DefaultComponent } from './default.component';
     VisualsBsComponent,
     KpiIsComponent,
     KpiBsComponent,
-	VisualsCfComponent,
-	CashmetricsComponent,
+    VisualsCfComponent,
+    CashmetricsComponent,
     CompanyMatricsComponent,
     IncomeStatementKpiComponent,
     BalanceSheetKpiComponent,
     CompanyDashboardComponent,
     UserDetailsComponent,
     VisualBSInputDialogComponent,
-	uploadFailureSnackBarCFAddComponent,
-	uploadFailureSnackBarCFComponent,
-	uploadSnackBarCFAddComponent,
-	uploadSnackBarCFComponent,	
+    uploadFailureSnackBarCFAddComponent,
+    uploadFailureSnackBarCFComponent,
+    uploadSnackBarCFAddComponent,
+    uploadSnackBarCFComponent,
   ],
   imports: [
     CommonModule,
@@ -145,7 +144,7 @@ import { DefaultComponent } from './default.component';
     StatementComponent,
     VisualsISComponent,
     DialogElementsExampleDialog,
-	VisualCFInputDialogComponent,
+    VisualCFInputDialogComponent,
     uploadSnackBarISComponent,
     uploadFailureSnackBarISComponent,
     uploadSnackBarISAddComponent,
@@ -157,7 +156,7 @@ import { DefaultComponent } from './default.component';
     uploadFailureSnackBarStatementComponent,
     uploadSnackBarStatementComponent,
     VisualBSInputDialogComponent,
-	uploadSnackBarCFComponent,
+    uploadSnackBarCFComponent,
     uploadFailureSnackBarCFComponent,
     uploadSnackBarCFAddComponent,
     uploadFailureSnackBarCFAddComponent,

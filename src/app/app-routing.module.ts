@@ -27,7 +27,7 @@ const routes: Routes = [
   {
     path: 'login',
     component: AuthLoginComponent,
-	canActivate: [AuthGuard],
+    canActivate: [AuthGuard],
   },
   {
     path: '',
@@ -53,27 +53,25 @@ const routes: Routes = [
         component: VisualsBsComponent,
         canActivate: [AuthGuard],
       },
-	  {
-		path:'visualsCF',
-		component:VisualsCfComponent,
-		canActivate: [AuthGuard],
-	},
-	   {
-		path:'cashmetrics',
-		component:CashmetricsComponent,
-		canActivate: [AuthGuard],
-	},
+      {
+        path: 'visualsCF',
+        component: VisualsCfComponent,
+        canActivate: [AuthGuard],
+      },
+      {
+        path: 'cashmetrics',
+        component: CashmetricsComponent,
+        canActivate: [AuthGuard],
+      },
       {
         path: 'IncomeStatementMetrics',
         component: PLMetricsComponent,
-		canActivate: [AuthGuard],
-        
+        canActivate: [AuthGuard],
       },
       {
         path: 'BalanceSheetMetrics',
         component: BsmetricsComponent,
-		canActivate: [AuthGuard],
-        
+        canActivate: [AuthGuard],
       },
       {
         path: 'KPIIncomeStatement',
@@ -83,8 +81,7 @@ const routes: Routes = [
       {
         path: 'KPIBalanceSheet',
         component: KpiBsComponent,
-		canActivate: [AuthGuard],
-        
+        canActivate: [AuthGuard],
       },
       {
         path: 'profile',
@@ -94,14 +91,12 @@ const routes: Routes = [
       {
         path: 'user',
         component: UserDetailsComponent,
-		canActivate: [AuthGuard],
-        
+        canActivate: [AuthGuard],
       },
       {
         path: ':companyName/dashboard/:scenario',
         component: CompanyDashboardComponent,
-		canActivate: [AuthGuard],
-      
+        canActivate: [AuthGuard],
       },
     ],
   },

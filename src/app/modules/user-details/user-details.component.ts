@@ -2,27 +2,52 @@ import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
 import { FormControl, Validators, FormGroup } from '@angular/forms';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { RMIAPIsService } from '../../shared/rmiapis.service';
-import {MatSnackBar,MatSnackBarHorizontalPosition,MatSnackBarVerticalPosition} from '@angular/material/snack-bar';
+import {
+  MatSnackBar,
+  MatSnackBarHorizontalPosition,
+  MatSnackBarVerticalPosition,
+} from '@angular/material/snack-bar';
 @Component({
   selector: 'app-user-details',
   templateUrl: './user-details.component.html',
-  styleUrls: ['./user-details.component.scss']
+  styleUrls: ['./user-details.component.scss'],
 })
-
 export class UserDetailsComponent implements OnInit {
-  @ViewChild('uploadFile',{static: false}) uploadFile: ElementRef;
+  @ViewChild('uploadFile', { static: false }) uploadFile: ElementRef;
   horizontalPosition: MatSnackBarHorizontalPosition = 'center';
   verticalPosition: MatSnackBarVerticalPosition = 'top';
-  userid: any;  
+  userid: any;
   nickname: any;
-  email:any;
-  geography:any[]=['APAC', 'EMEA', 'LATAM','NA'];
-  companysize:any[]=['1-10','11-100','101-1000','1001-10000','10000+'];
-  industry:any[]=['Communications', 'Consumer & Retail','Distribution & Logistics', 'Energy & Natural Resources','Entertainment & Media','Financial Institutions & Sponsors', 'Food & Beverage', 'General Services', 'Healthcare','Hospitality','Industrials','Power, Infrastructure & Utilities','Real Estate','Technology','Telecommunications','Transportation']
-  capatialization:any[]=['USD 1M+','USD 10M+','USD 100M+'];
-  revenue:any[]=['Above USD 1M','Above USD 10M','Above USD 50M','Above USD 100M'];
-  firstname:any;
-  lastname:any;
+  email: any;
+  geography: any[] = ['APAC', 'EMEA', 'LATAM', 'NA'];
+  companysize: any[] = ['1-10', '11-100', '101-1000', '1001-10000', '10000+'];
+  industry: any[] = [
+    'Communications',
+    'Consumer & Retail',
+    'Distribution & Logistics',
+    'Energy & Natural Resources',
+    'Entertainment & Media',
+    'Financial Institutions & Sponsors',
+    'Food & Beverage',
+    'General Services',
+    'Healthcare',
+    'Hospitality',
+    'Industrials',
+    'Power, Infrastructure & Utilities',
+    'Real Estate',
+    'Technology',
+    'Telecommunications',
+    'Transportation',
+  ];
+  capatialization: any[] = ['USD 1M+', 'USD 10M+', 'USD 100M+'];
+  revenue: any[] = [
+    'Above USD 1M',
+    'Above USD 10M',
+    'Above USD 50M',
+    'Above USD 100M',
+  ];
+  firstname: any;
+  lastname: any;
   title: any;
   industryInput: any;
   zipcode: any;
@@ -35,12 +60,16 @@ export class UserDetailsComponent implements OnInit {
   company: any;
   revenueInput: any;
   companysizeInput: any;
-  contact:any;
-  capatializationInput:any;
+  contact: any;
+  capatializationInput: any;
   inprogress: boolean = false;
   form = new FormGroup({
-    userid: new FormControl({value:"", disabled: true}, [Validators.required]),
-    email: new FormControl({value:"", disabled: true}, [Validators.required]),
+    userid: new FormControl({ value: '', disabled: true }, [
+      Validators.required,
+    ]),
+    email: new FormControl({ value: '', disabled: true }, [
+      Validators.required,
+    ]),
     firstname: new FormControl(null, [Validators.required]),
     lastname: new FormControl(null, [Validators.required]),
     contactnumber: new FormControl(null, [Validators.required]),
@@ -57,17 +86,22 @@ export class UserDetailsComponent implements OnInit {
     capatialization: new FormControl(null, [Validators.required]),
     revenue: new FormControl(null, [Validators.required]),
   });
-  constructor(private RMIAPIsService: RMIAPIsService,
-    private UrlConfigService:UrlConfigService,
+  constructor(
+    private RMIAPIsService: RMIAPIsService,
+    private UrlConfigService: UrlConfigService,
     private _snackBar: MatSnackBar
-  ) { }
+  ) {}
 
-  ngOnInit():void{
+  ngOnInit(): void {
     this.nickname = localStorage.getItem('nickname');
     this.email = localStorage.getItem('email');
     this.userid = this.nickname;
-    this.RMIAPIsService.getData(this.UrlConfigService.getuserProfileDetail()+this.nickname+"&email="+this.email)
-    .subscribe((res:any)=>{
+    this.RMIAPIsService.getData(
+      this.UrlConfigService.getuserProfileDetail() +
+        this.nickname +
+        '&email=' +
+        this.email
+    ).subscribe((res: any) => {
       console.log(res);
       this.firstname = res[0].firstname;
       this.lastname = res[0].lastname;
@@ -78,7 +112,7 @@ export class UserDetailsComponent implements OnInit {
       this.city = res[0].city;
       this.country = res[0].country;
       this.capatializationInput = res[0].capitalisation;
-      this.state  = res[0].state;
+      this.state = res[0].state;
       this.geographyInput = res[0].geography;
       this.company = res[0].companyname;
       this.revenueInput = res[0].revenue;
@@ -99,36 +133,38 @@ export class UserDetailsComponent implements OnInit {
       return;
     }
     var postForm = new FormData();
-    postForm.append("userid", nickname);
-    postForm.append("email", this.email);
-    postForm.append("firstname", this.form.value.firstname);
-    postForm.append("lastname", this.form.value.lastname);
-    postForm.append("contactnumber", this.form.value.contactnumber);
-    postForm.append("company", this.form.value.company);
-    postForm.append("title", this.form.value.title);
-    postForm.append("address", this.form.value.address);
-    postForm.append("country", this.form.value.country);
-    postForm.append("zipcode", this.form.value.zipcode);
-    postForm.append("state", this.form.value.state);
-    postForm.append("city", this.form.value.city);
-    postForm.append("industry", this.form.value.industry);
-    postForm.append("geography", this.form.value.geography);
-    postForm.append("companysize", this.form.value.companysize);
-    postForm.append("capatialization", this.form.value.capatialization);
-    postForm.append("revenue", this.form.value.revenue);
+    postForm.append('userid', nickname);
+    postForm.append('email', this.email);
+    postForm.append('firstname', this.form.value.firstname);
+    postForm.append('lastname', this.form.value.lastname);
+    postForm.append('contactnumber', this.form.value.contactnumber);
+    postForm.append('company', this.form.value.company);
+    postForm.append('title', this.form.value.title);
+    postForm.append('address', this.form.value.address);
+    postForm.append('country', this.form.value.country);
+    postForm.append('zipcode', this.form.value.zipcode);
+    postForm.append('state', this.form.value.state);
+    postForm.append('city', this.form.value.city);
+    postForm.append('industry', this.form.value.industry);
+    postForm.append('geography', this.form.value.geography);
+    postForm.append('companysize', this.form.value.companysize);
+    postForm.append('capatialization', this.form.value.capatialization);
+    postForm.append('revenue', this.form.value.revenue);
     console.log(JSON.stringify(postForm));
 
-   postForm.forEach((value,key) => {
-      console.log(key+" "+value)
+    postForm.forEach((value, key) => {
+      console.log(key + ' ' + value);
     });
-    
+
     this.inprogress = true;
-    this.RMIAPIsService.uploadUserData(this.UrlConfigService.getuserDetailAPI(),postForm)
-    .subscribe((res:any)=>{
-      this.inprogress=false;
+    this.RMIAPIsService.uploadUserData(
+      this.UrlConfigService.getuserDetailAPI(),
+      postForm
+    ).subscribe((res: any) => {
+      this.inprogress = false;
     });
   }
-  }
+}
 
 export function markAllAsDirty(form: FormGroup) {
   for (const control of Object.keys(form.controls)) {
@@ -137,7 +173,7 @@ export function markAllAsDirty(form: FormGroup) {
 }
 export function resetForm(form: FormGroup) {
   form.reset({
-    file: "",
+    file: '',
   });
-  form.get("file").markAsUntouched();
+  form.get('file').markAsUntouched();
 }

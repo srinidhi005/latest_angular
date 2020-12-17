@@ -77,24 +77,23 @@ const seriesOption = {
 @Component({
   selector: 'app-visuals-cf',
   templateUrl: './visuals-cf.component.html',
-  styleUrls: ['./visuals-cf.component.scss']
+  styleUrls: ['./visuals-cf.component.scss'],
 })
 export class VisualsCfComponent implements OnInit {
   horizontalPosition: MatSnackBarHorizontalPosition = 'center';
   verticalPosition: MatSnackBarVerticalPosition = 'top';
   inprogress = false;
   progressBar: boolean;
- DPOptions: {};
+  DPOptions: {};
   CPOptions: {};
   ASOptions: {};
   OIAOptions: {};
-  
+
   CFOOptions: {};
   CFIOptions: {};
   CFFOptions: {};
   NCOptions: {};
- 
-  
+
   yearsArray = [];
   scenarioArray = [];
   scenario = this.UserDetailModelService.getSelectedScenario();
@@ -119,6 +118,8 @@ export class VisualsCfComponent implements OnInit {
   updateOtherLibOptions = false;
   saveScenarioNumber: any = 0;
   scenarioSelected: any;
+  selectedCompanyName = localStorage.getItem('selectedCompanyName');
+
   constructor(
     private urlConfig: UrlConfigService,
     private apiService: RMIAPIsService,
@@ -140,25 +141,25 @@ export class VisualsCfComponent implements OnInit {
       this.initScenario(this.UserDetailModelService.selectedScenarioIndex);
     });
   }
- openDialog(): void {
-     const dialogRef = this.dialog.open(VisualCFInputDialogComponent, {
-       width: '250px',
-       data: {
-         value: this.modalDefaultValue,
-         min: this.minValue,
-         max: this.maxValue,
-       },
-     });
+  openDialog(): void {
+    const dialogRef = this.dialog.open(VisualCFInputDialogComponent, {
+      width: '250px',
+      data: {
+        value: this.modalDefaultValue,
+        min: this.minValue,
+        max: this.maxValue,
+      },
+    });
 
-     dialogRef.afterClosed().subscribe((result) => {
-       this.modalDefaultValue = result;
-       if (result) {
-         this.updateChart();
-       } else {
-         this.selectedChart = null;
-         this.selectedYear = null;
-       }
-     });
+    dialogRef.afterClosed().subscribe((result) => {
+      this.modalDefaultValue = result;
+      if (result) {
+        this.updateChart();
+      } else {
+        this.selectedChart = null;
+        this.selectedYear = null;
+      }
+    });
   }
   updateChart() {
     switch (this.selectedChart) {
@@ -174,8 +175,8 @@ export class VisualsCfComponent implements OnInit {
       case 'other-investment':
         this.updateOtherInvestmentChart();
         break;
-        default:
-          break;
+      default:
+        break;
     }
   }
   /**
@@ -186,7 +187,9 @@ export class VisualsCfComponent implements OnInit {
     const index = options.xAxis.categories.indexOf(this.selectedYear);
     (this.DPOptions as any).series[0].data[index] = this.modalDefaultValue;
     this.updateDividendPaidOption = true;
-    this.CffinancialObj.get(this.selectedYear).dividendspaid = this.modalDefaultValue;
+    this.CffinancialObj.get(
+      this.selectedYear
+    ).dividendspaid = this.modalDefaultValue;
     this.updateProjection();
   }
   /**
@@ -223,7 +226,9 @@ export class VisualsCfComponent implements OnInit {
     const index = options.xAxis.categories.indexOf(this.selectedYear);
     (this.OIAOptions as any).series[0].data[index] = this.modalDefaultValue;
     this.updateDividendPaidOption = true;
-    this.CffinancialObj.get(this.selectedYear).otherinvestmentpercent = this.modalDefaultValue;
+    this.CffinancialObj.get(
+      this.selectedYear
+    ).otherinvestmentpercent = this.modalDefaultValue;
     this.updateProjection();
   }
 
@@ -243,7 +248,7 @@ export class VisualsCfComponent implements OnInit {
     this.yearsArray = [];
 
     if (scenarioNumber >= 0) {
-      this.scenarioSelected = scenarioNumber
+      this.scenarioSelected = scenarioNumber;
       this.loadedScenario = 'Scenario ' + this.scenarioSelected;
     }
 
@@ -253,31 +258,36 @@ export class VisualsCfComponent implements OnInit {
         this.progressBar = true;
         for (let j = 0; j < res.length; j++) {
           this.CffinancialObj.set(res[j].asof, {
-            netincome:res[j].netincome,
-			  totalrevenue:res[j].totalrevenue,
-        daa : res[j].daa,
-        fundsfromoperations:res[j].fundsfromoperations,
-        accountreceivablesdelta : res[j].accountreceivablesdelta, 
-        inventoriesdelta:res[j].inventoriesdelta,
-        othercurrentassets:res[j].othercurrentassets,
-        accountspayable : res[j].accountspayable, 
-		    accruedliabilities : res[j].accruedliabilities, 
-        othercurrentliabilities:res[j].othercurrentliabilities,
-		    cfo:res[j].cfo,
-        totalexpenditure:res[j].totalexpenditure,
-        assetsales : res[j].assetsales, 
-		    otherinvestingactivities : res[j].otherinvestingactivities, 
-        cfi:res[j].cfi,
-        debtissued : res[j].debtissued,
-        commonstockissued:res[j].commonstockissued,
-        dividendspaid:res[j].dividendspaid > 0 ? res[j].dividendspaid : res[j].dividendspaid * -1  ,
-		    cff:res[j].cff,
-        netchangeincash : res[j].netchangeincash,
-        capexpercent: res[j].capexpercent > 0 ? res[j].capexpercent : res[j].capexpercent * -1 ,
-        assetsalespercent: res[j].assetsalespercent,
-        otherinvestmentpercent: res[j].otherinvestmentpercent,
-		     latest: res[j].latest
-                 
+            netincome: res[j].netincome,
+            totalrevenue: res[j].totalrevenue,
+            daa: res[j].daa,
+            fundsfromoperations: res[j].fundsfromoperations,
+            accountreceivablesdelta: res[j].accountreceivablesdelta,
+            inventoriesdelta: res[j].inventoriesdelta,
+            othercurrentassets: res[j].othercurrentassets,
+            accountspayable: res[j].accountspayable,
+            accruedliabilities: res[j].accruedliabilities,
+            othercurrentliabilities: res[j].othercurrentliabilities,
+            cfo: res[j].cfo,
+            totalexpenditure: res[j].totalexpenditure,
+            assetsales: res[j].assetsales,
+            otherinvestingactivities: res[j].otherinvestingactivities,
+            cfi: res[j].cfi,
+            debtissued: res[j].debtissued,
+            commonstockissued: res[j].commonstockissued,
+            dividendspaid:
+              res[j].dividendspaid > 0
+                ? res[j].dividendspaid
+                : res[j].dividendspaid * -1,
+            cff: res[j].cff,
+            netchangeincash: res[j].netchangeincash,
+            capexpercent:
+              res[j].capexpercent > 0
+                ? res[j].capexpercent
+                : res[j].capexpercent * -1,
+            assetsalespercent: res[j].assetsalespercent,
+            otherinvestmentpercent: res[j].otherinvestmentpercent,
+            latest: res[j].latest,
           });
         }
 
@@ -288,11 +298,13 @@ export class VisualsCfComponent implements OnInit {
             this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
             // this.scenarioSelected = localStorage.getItem('scenarioSelected');
             if (this.scenarioArray.includes(+this.scenarioSelected)) {
-              this.loadedScenario = "Scenario "+this.scenarioSelected as any;
+              this.loadedScenario = ('Scenario ' +
+                this.scenarioSelected) as any;
               this.inprogress = true;
             } else {
               this.scenarioSelected = 0;
-              this.loadedScenario = "Scenario " + this.scenarioSelected as any;
+              this.loadedScenario = ('Scenario ' +
+                this.scenarioSelected) as any;
               this.inprogress = true;
             }
 
@@ -308,51 +320,58 @@ export class VisualsCfComponent implements OnInit {
                 this.loadedScenario = 'Scenario ' + this.scenarioSelected;
                 this.progressBar = false;
                 if (Array.isArray(res)) {
-					
                   for (let j = 0; j < res.length; j++) {
                     this.CffinancialObj.set(res[j].asof, {
-                      netincome:res[j].netincome,
-		                  totalrevenue:res[j].totalrevenue,
-                      daa:res[j].daa,
-                      fundsfromoperations:res[j].fundsfromoperations,
-                      accountreceivablesdelta : res[j].accountreceivablesdelta, 
-                      inventoriesdelta:res[j].inventoriesdelta,
-                      othercurrentassets:res[j].othercurrentassets,
-                      accountspayable : res[j].accountspayable, 
-                      accruedliabilities : res[j].accruedliabilities, 
+                      netincome: res[j].netincome,
+                      totalrevenue: res[j].totalrevenue,
+                      daa: res[j].daa,
+                      fundsfromoperations: res[j].fundsfromoperations,
+                      accountreceivablesdelta: res[j].accountreceivablesdelta,
+                      inventoriesdelta: res[j].inventoriesdelta,
+                      othercurrentassets: res[j].othercurrentassets,
+                      accountspayable: res[j].accountspayable,
+                      accruedliabilities: res[j].accruedliabilities,
                       scenario: res[j].scenario,
-                      othercurrentliabilities:res[j].othercurrentliabilities,
-                      cfo:res[j].cfo,
-                      totalexpenditure:res[j].totalexpenditure,
-                      assetsales:res[j].assetsales, 
-                      otherinvestingactivities : res[j].otherinvestingactivities, 
-                      cfi:res[j].cfi,
-                      debtissued : res[j].debtissued,
-                      commonstockissued:res[j].commonstockissued,
-                      dividendspaid:res[j].dividendspaid > 0 ? res[j].dividendspaid : res[j].dividendspaid * -1  ,
-                      cff:res[j].cff,
-                      netchangeincash : res[j].netchangeincash,
-                      capexpercent: res[j].capexpercent > 0 ? res[j].capexpercent : res[j].capexpercent * -1,
+                      othercurrentliabilities: res[j].othercurrentliabilities,
+                      cfo: res[j].cfo,
+                      totalexpenditure: res[j].totalexpenditure,
+                      assetsales: res[j].assetsales,
+                      otherinvestingactivities: res[j].otherinvestingactivities,
+                      cfi: res[j].cfi,
+                      debtissued: res[j].debtissued,
+                      commonstockissued: res[j].commonstockissued,
+                      dividendspaid:
+                        res[j].dividendspaid > 0
+                          ? res[j].dividendspaid
+                          : res[j].dividendspaid * -1,
+                      cff: res[j].cff,
+                      netchangeincash: res[j].netchangeincash,
+                      capexpercent:
+                        res[j].capexpercent > 0
+                          ? res[j].capexpercent
+                          : res[j].capexpercent * -1,
                       assetsalespercent: res[j].assetsalespercent,
                       otherinvestmentpercent: res[j].otherinvestmentpercent,
-		                  latest: res[j].latest
-                  
+                      latest: res[j].latest,
                     });
                   }
                 }
                 this.CffinancialObj.forEach((v, k) => {
                   this.yearsArray.push(k);
-                  DSOArray.push(v.dividendspaid == undefined
-                      ? 0
-                      : v.dividendspaid);
+                  DSOArray.push(
+                    v.dividendspaid == undefined ? 0 : v.dividendspaid
+                  );
                   IDArray.push(
                     v.capexpercent == undefined ? 0 : v.capexpercent
                   );
                   OCAArray.push(
                     v.assetsalespercent == undefined ? 0 : v.assetsalespercent
                   );
-                  DPOArray.push(v.otherinvestmentpercent == undefined ? 0 : v.otherinvestmentpercent);
-                  
+                  DPOArray.push(
+                    v.otherinvestmentpercent == undefined
+                      ? 0
+                      : v.otherinvestmentpercent
+                  );
                 });
 
                 this.DPOptions = {
@@ -360,7 +379,7 @@ export class VisualsCfComponent implements OnInit {
                   title: { text: 'Dividend Paid' },
                   yAxis: {
                     title: { text: 'USD' },
-                   min:0,
+                    min: 0,
                   },
                   xAxis: { categories: this.yearsArray },
                   plotOptions: {
@@ -377,9 +396,10 @@ export class VisualsCfComponent implements OnInit {
                             if (e.target.index == 0 || e.target.index == 1) {
                               return false;
                             } else {
-                              that.CffinancialObj.get(e.target.category).dividendspaid =
-                                e.target.y;
-								
+                              that.CffinancialObj.get(
+                                e.target.category
+                              ).dividendspaid = e.target.y;
+
                               that.updateProjection();
                             }
                           },
@@ -415,8 +435,10 @@ export class VisualsCfComponent implements OnInit {
                   },
                   tooltip: {
                     ...tooltip,
-                     formatter: function () {
-                      return Highcharts.numberFormat(this.point.y, 0) + 'millions';
+                    formatter: function () {
+                      return (
+                        Highcharts.numberFormat(this.point.y, 0) + 'millions'
+                      );
                     },
                   },
                   credits: { enabled: false },
@@ -424,7 +446,7 @@ export class VisualsCfComponent implements OnInit {
                   series: [
                     {
                       data: DSOArray,
-                      dragDrop: { draggableY: true,dragMinY: 0 },
+                      dragDrop: { draggableY: true, dragMinY: 0 },
                       minPointLength: 2,
                     },
                   ],
@@ -435,8 +457,8 @@ export class VisualsCfComponent implements OnInit {
                   title: { text: 'Capex (% Revenue)' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
-					min:0,
-					max:50,
+                    min: 0,
+                    max: 50,
                     tickInterval: 10,
                   },
                   xAxis: { categories: this.yearsArray },
@@ -498,7 +520,12 @@ export class VisualsCfComponent implements OnInit {
                   },
                   credits: { enabled: false },
                   exporting: { enabled: false },
-                  series: [{ data: IDArray, dragDrop: { draggableY: true ,dragMaxY: 50,dragMinY: 0,} }],
+                  series: [
+                    {
+                      data: IDArray,
+                      dragDrop: { draggableY: true, dragMaxY: 50, dragMinY: 0 },
+                    },
+                  ],
                   legend: false,
                 };
                 this.ASOptions = {
@@ -506,10 +533,10 @@ export class VisualsCfComponent implements OnInit {
                   title: { text: 'Asset Sales (% Revenue)' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
-                    
-					min:0,
-					max:50,
-					tickInterval: 10,
+
+                    min: 0,
+                    max: 50,
+                    tickInterval: 10,
                   },
                   xAxis: { categories: this.yearsArray },
                   plotOptions: {
@@ -529,7 +556,7 @@ export class VisualsCfComponent implements OnInit {
                               that.CffinancialObj.get(
                                 e.target.category
                               ).assetsalespercent = e.target.y;
-							  
+
                               that.updateProjection();
                             }
                           },
@@ -571,8 +598,12 @@ export class VisualsCfComponent implements OnInit {
                   },
                   credits: { enabled: false },
                   exporting: { enabled: false },
-                  series: [{ data: OCAArray, dragDrop: { draggableY: true,dragMaxY: 50,
-					dragMinY: 0, } }],
+                  series: [
+                    {
+                      data: OCAArray,
+                      dragDrop: { draggableY: true, dragMaxY: 50, dragMinY: 0 },
+                    },
+                  ],
                   legend: false,
                 };
                 this.OIAOptions = {
@@ -580,10 +611,9 @@ export class VisualsCfComponent implements OnInit {
                   title: { text: 'Other Investing Activites (% Revenue)' },
                   yAxis: {
                     title: { text: 'As (% Revenue)' },
-                    min:-30,
-					max:30,
-					tickInterval: 10,
-                    
+                    min: -30,
+                    max: 30,
+                    tickInterval: 10,
                   },
                   xAxis: { categories: this.yearsArray },
                   plotOptions: {
@@ -591,7 +621,6 @@ export class VisualsCfComponent implements OnInit {
                       stickyTracking: false,
                       dragDrop: {
                         draggableY: true,
-                       
                       },
                       point: {
                         events: {
@@ -604,8 +633,9 @@ export class VisualsCfComponent implements OnInit {
                             if (e.target.index == 0 || e.target.index == 1) {
                               return false;
                             } else {
-                              that.CffinancialObj.get(e.target.category).otherinvestmentpercent =
-                                e.target.y;
+                              that.CffinancialObj.get(
+                                e.target.category
+                              ).otherinvestmentpercent = e.target.y;
                               that.updateProjection();
                             }
                           },
@@ -647,12 +677,20 @@ export class VisualsCfComponent implements OnInit {
                   },
                   credits: { enabled: false },
                   exporting: { enabled: false },
-                  series: [{ data: DPOArray, dragDrop: { draggableY: true,dragMaxY: 30,dragMinY: -30, } }],
+                  series: [
+                    {
+                      data: DPOArray,
+                      dragDrop: {
+                        draggableY: true,
+                        dragMaxY: 30,
+                        dragMinY: -30,
+                      },
+                    },
+                  ],
 
                   legend: false,
                 };
-             
-              
+
                 this.updateProjection();
               }); // end of projections
           }); // end of Save Scenarios
@@ -670,42 +708,104 @@ export class VisualsCfComponent implements OnInit {
     const CFFArray = [];
     const NCArray = [];
     let lastKey = 0;
-	
+
     for (const [key, value] of this.CffinancialObj) {
       if (this.CffinancialObj.get(key).latest > 0) {
-		 
-       this.CffinancialObj.get(key).netincome = this.CffinancialObj.get(key).netincome;
-       this.CffinancialObj.get(key).daa = this.CffinancialObj.get(key).daa;
-       this.CffinancialObj.get(key).fundsfromoperations = this.CffinancialObj.get(key).fundsfromoperations;
-       this.CffinancialObj.get(key).accountreceivablesdelta = this.CffinancialObj.get(key).accountreceivablesdelta;
-       this.CffinancialObj.get(key).inventoriesdelta = this.CffinancialObj.get(key).inventoriesdelta;
-       this.CffinancialObj.get(key).othercurrentassets = this.CffinancialObj.get(key).othercurrentassets;
-       this.CffinancialObj.get(key).accountspayable = this.CffinancialObj.get(key).accountspayable;
-       this.CffinancialObj.get(key).accruedliabilities = this.CffinancialObj.get(key).accruedliabilities;
-       this.CffinancialObj.get(key).othercurrentliabilities = this.CffinancialObj.get(key).othercurrentliabilities;
-       this.CffinancialObj.get(key).cfo = Math.round(this.CffinancialObj.get(key).fundsfromoperations+(this.CffinancialObj.get(key).accountreceivablesdelta)+(this.CffinancialObj.get(key).inventoriesdelta)+(this.CffinancialObj.get(key).othercurrentassets)+(this.CffinancialObj.get(key).accountspayable)+(this.CffinancialObj.get(key).accruedliabilities)+(this.CffinancialObj.get(key).othercurrentliabilities));
-       this.CffinancialObj.get(key).capexpercent = this.CffinancialObj.get(key).capexpercent;
-       this.CffinancialObj.get(key).totalrevenue = this.CffinancialObj.get(key).totalrevenue;
-       this.CffinancialObj.get(key).totalexpenditure = this.CffinancialObj.get(key).capexpercent*(this.CffinancialObj.get(key).totalrevenue);
-       this.CffinancialObj.get(key).assetsalespercent = this.CffinancialObj.get(key).assetsalespercent;
-		this.CffinancialObj.get(key).assetsales =(this.CffinancialObj.get(key).assetsalespercent) * this.CffinancialObj.get(key).totalrevenue;
-       this.CffinancialObj.get(key).otherinvestmentpercent = this.CffinancialObj.get(key).otherinvestmentpercent;
-	   this.CffinancialObj.get(key).otherinvestingactivities =Math.round(this.CffinancialObj.get(key).otherinvestmentpercent) * this.CffinancialObj.get(key).totalrevenue;
-       
-      this.CffinancialObj.get(key).cfi = Math.round(-(this.CffinancialObj.get(key).totalexpenditure)+(this.CffinancialObj.get(key).assetsales)+(this.CffinancialObj.get(key).otherinvestingactivities));
-       this.CffinancialObj.get(key).debtissued = this.CffinancialObj.get(key).debtissued;
-       this.CffinancialObj.get(key).commonstockissued = this.CffinancialObj.get(key).commonstockissued;
-       this.CffinancialObj.get(key).dividendspaid = this.CffinancialObj.get(key).dividendspaid;
-       this.CffinancialObj.get(key).cff = Math.round(this.CffinancialObj.get(key).debtissued+(this.CffinancialObj.get(key).commonstockissued)+(this.CffinancialObj.get(key).dividendspaid)) * -1;
-       this.CffinancialObj.get(key).netchangeincash = Math.round(this.CffinancialObj.get(key).cfo+(this.CffinancialObj.get(key).cfi)+(this.CffinancialObj.get(key).cff));
+        this.CffinancialObj.get(key).netincome = this.CffinancialObj.get(
+          key
+        ).netincome;
+        this.CffinancialObj.get(key).daa = this.CffinancialObj.get(key).daa;
+        this.CffinancialObj.get(
+          key
+        ).fundsfromoperations = this.CffinancialObj.get(
+          key
+        ).fundsfromoperations;
+        this.CffinancialObj.get(
+          key
+        ).accountreceivablesdelta = this.CffinancialObj.get(
+          key
+        ).accountreceivablesdelta;
+        this.CffinancialObj.get(key).inventoriesdelta = this.CffinancialObj.get(
+          key
+        ).inventoriesdelta;
+        this.CffinancialObj.get(
+          key
+        ).othercurrentassets = this.CffinancialObj.get(key).othercurrentassets;
+        this.CffinancialObj.get(key).accountspayable = this.CffinancialObj.get(
+          key
+        ).accountspayable;
+        this.CffinancialObj.get(
+          key
+        ).accruedliabilities = this.CffinancialObj.get(key).accruedliabilities;
+        this.CffinancialObj.get(
+          key
+        ).othercurrentliabilities = this.CffinancialObj.get(
+          key
+        ).othercurrentliabilities;
+        this.CffinancialObj.get(key).cfo = Math.round(
+          this.CffinancialObj.get(key).fundsfromoperations +
+            this.CffinancialObj.get(key).accountreceivablesdelta +
+            this.CffinancialObj.get(key).inventoriesdelta +
+            this.CffinancialObj.get(key).othercurrentassets +
+            this.CffinancialObj.get(key).accountspayable +
+            this.CffinancialObj.get(key).accruedliabilities +
+            this.CffinancialObj.get(key).othercurrentliabilities
+        );
+        this.CffinancialObj.get(key).capexpercent = this.CffinancialObj.get(
+          key
+        ).capexpercent;
+        this.CffinancialObj.get(key).totalrevenue = this.CffinancialObj.get(
+          key
+        ).totalrevenue;
+        this.CffinancialObj.get(key).totalexpenditure =
+          this.CffinancialObj.get(key).capexpercent *
+          this.CffinancialObj.get(key).totalrevenue;
+        this.CffinancialObj.get(
+          key
+        ).assetsalespercent = this.CffinancialObj.get(key).assetsalespercent;
+        this.CffinancialObj.get(key).assetsales =
+          this.CffinancialObj.get(key).assetsalespercent *
+          this.CffinancialObj.get(key).totalrevenue;
+        this.CffinancialObj.get(
+          key
+        ).otherinvestmentpercent = this.CffinancialObj.get(
+          key
+        ).otherinvestmentpercent;
+        this.CffinancialObj.get(key).otherinvestingactivities =
+          Math.round(this.CffinancialObj.get(key).otherinvestmentpercent) *
+          this.CffinancialObj.get(key).totalrevenue;
 
+        this.CffinancialObj.get(key).cfi = Math.round(
+          -this.CffinancialObj.get(key).totalexpenditure +
+            this.CffinancialObj.get(key).assetsales +
+            this.CffinancialObj.get(key).otherinvestingactivities
+        );
+        this.CffinancialObj.get(key).debtissued = this.CffinancialObj.get(
+          key
+        ).debtissued;
+        this.CffinancialObj.get(
+          key
+        ).commonstockissued = this.CffinancialObj.get(key).commonstockissued;
+        this.CffinancialObj.get(key).dividendspaid = this.CffinancialObj.get(
+          key
+        ).dividendspaid;
+        this.CffinancialObj.get(key).cff =
+          Math.round(
+            this.CffinancialObj.get(key).debtissued +
+              this.CffinancialObj.get(key).commonstockissued +
+              this.CffinancialObj.get(key).dividendspaid
+          ) * -1;
+        this.CffinancialObj.get(key).netchangeincash = Math.round(
+          this.CffinancialObj.get(key).cfo +
+            this.CffinancialObj.get(key).cfi +
+            this.CffinancialObj.get(key).cff
+        );
       }
       CFOArray.push(this.CffinancialObj.get(key).cfo);
       CFIArray.push(this.CffinancialObj.get(key).cfi);
       CFFArray.push(this.CffinancialObj.get(key).cff);
       NCArray.push(this.CffinancialObj.get(key).netchangeincash);
       lastKey = key;
-	
     }
 
     this.CFOOptions = {
@@ -782,7 +882,7 @@ export class VisualsCfComponent implements OnInit {
       yAxis: { title: { text: 'USD' } },
       xAxis: { categories: this.yearsArray },
       plotOptions: {
-        series: { stickyTracking: false , pointWidth: 35  },
+        series: { stickyTracking: false, pointWidth: 35 },
         column: {
           stacking: 'normal',
           minPointLength: 2,
@@ -817,7 +917,7 @@ export class VisualsCfComponent implements OnInit {
       xAxis: { categories: this.yearsArray },
       plotOptions: {
         series: { stickyTracking: false, pointWidth: 33 },
-        
+
         column: {
           stacking: 'normal',
           minPointLength: 2,
@@ -845,86 +945,109 @@ export class VisualsCfComponent implements OnInit {
       series: [{ data: NCArray }],
       legend: false,
     };
-
   }
 
   saveScenario() {
     this.apiService
-    .getData(this.urlConfig.getCashScenarioAPI() + this.companySelected)
-    .subscribe((res: any) => {
-      if (this.scenarioSelected == 0) {
-        this.saveScenarioNumber = res.scenarios.length;
-        this.scenarioSelected = res.scenarios.length;
-       
-      } else {
-        this.saveScenarioNumber = this.scenarioSelected;
-        
-      }
-      
-
-      this.loadedScenario = "Scenario " + this.scenarioSelected as any
-    const inputArray = [];
-    for (const [key, value] of this.CffinancialObj) {
-      const inputObj: any = {};
-      if (this.CffinancialObj.get(key).latest > 0) {
-        inputObj.netincome = this.CffinancialObj.get(key).netincome;
-        inputObj.daa = this.CffinancialObj.get(key).daa;
-        inputObj.fundsfromoperations = this.CffinancialObj.get(key).fundsfromoperations;
-        inputObj.accountreceivablesdelta = this.CffinancialObj.get(key).accountreceivablesdelta;
-        inputObj.asof = key.toString();
-        inputObj.inventoriesdelta = this.CffinancialObj.get(key).inventoriesdelta;
-        inputObj.companyname = this.companySelected;
-        inputObj.scenario = this.saveScenarioNumber;
-        inputObj.othercurrentassets = this.CffinancialObj.get(key).othercurrentassets;
-        inputObj.accountspayable = this.CffinancialObj.get(key).accountspayable;
-        inputObj.accruedliabilities = this.CffinancialObj.get(key).accruedliabilities;
-        inputObj.othercurrentliabilities = this.CffinancialObj.get(key).othercurrentliabilities;
-        inputObj.cfo = this.CffinancialObj.get(key).cfo;
-        inputObj.totalexpenditure = this.CffinancialObj.get(key).totalexpenditure;
-        inputObj.assetsales = this.CffinancialObj.get(key).assetsales;
-        inputObj.otherinvestingactivities = this.CffinancialObj.get(key).otherinvestingactivities;
-        inputObj.cfi = this.CffinancialObj.get(key).cfi;
-        inputObj.inventorydays = this.CffinancialObj.get(key).inventorydays;
-        inputObj.debtissued = this.CffinancialObj.get(key).debtissued;
-        inputObj.commonstockissued = this.CffinancialObj.get(key).commonstockissued;
-        inputObj.dividendspaid = this.CffinancialObj.get(key).dividendspaid;
-        inputObj.cff = this.CffinancialObj.get(key).cff;
-        inputObj.netchangeincash = this.CffinancialObj.get(key).netchangeincash;
-        inputObj.capexpercent = this.CffinancialObj.get(key).capexpercent;
-        inputObj.assetsalespercent = this.CffinancialObj.get(key).assetsalespercent;
-        inputObj.otherinvestmentpercent = this.CffinancialObj.get(key).otherinvestmentpercent;
-		    inputObj.latest = this.CffinancialObj.get(key).latest;
-        
-        inputArray.push(inputObj);
-		console.log("Json stringify",JSON.stringify(inputArray));
-      }
-    }
-    this.apiService
-      .postData(
-        this.urlConfig. getCashProjectionsAPIPOST() + this.companySelected,
-        JSON.stringify(inputArray)
-	
-	
-      )
+      .getData(this.urlConfig.getCashScenarioAPI() + this.companySelected)
       .subscribe((res: any) => {
-	console.log(inputArray);
-      console.log("latest",res);
-        if (res.message == 'Success') {
-          this._snackBar.openFromComponent(uploadSnackBarCFComponent, {
-            duration: 5000,
-            horizontalPosition: this.horizontalPosition,
-            verticalPosition: this.verticalPosition,
-          });
+        if (this.scenarioSelected == 0) {
+          this.saveScenarioNumber = res.scenarios.length;
+          this.scenarioSelected = res.scenarios.length;
         } else {
-          this._snackBar.openFromComponent(uploadFailureSnackBarCFComponent, {
-            duration: 5000,
-            horizontalPosition: this.horizontalPosition,
-            verticalPosition: this.verticalPosition,
-          });
+          this.saveScenarioNumber = this.scenarioSelected;
         }
+
+        this.loadedScenario = ('Scenario ' + this.scenarioSelected) as any;
+        const inputArray = [];
+        for (const [key, value] of this.CffinancialObj) {
+          const inputObj: any = {};
+          if (this.CffinancialObj.get(key).latest > 0) {
+            inputObj.netincome = this.CffinancialObj.get(key).netincome;
+            inputObj.daa = this.CffinancialObj.get(key).daa;
+            inputObj.fundsfromoperations = this.CffinancialObj.get(
+              key
+            ).fundsfromoperations;
+            inputObj.accountreceivablesdelta = this.CffinancialObj.get(
+              key
+            ).accountreceivablesdelta;
+            inputObj.asof = key.toString();
+            inputObj.inventoriesdelta = this.CffinancialObj.get(
+              key
+            ).inventoriesdelta;
+            inputObj.companyname = this.companySelected;
+            inputObj.scenario = this.saveScenarioNumber;
+            inputObj.othercurrentassets = this.CffinancialObj.get(
+              key
+            ).othercurrentassets;
+            inputObj.accountspayable = this.CffinancialObj.get(
+              key
+            ).accountspayable;
+            inputObj.accruedliabilities = this.CffinancialObj.get(
+              key
+            ).accruedliabilities;
+            inputObj.othercurrentliabilities = this.CffinancialObj.get(
+              key
+            ).othercurrentliabilities;
+            inputObj.cfo = this.CffinancialObj.get(key).cfo;
+            inputObj.totalexpenditure = this.CffinancialObj.get(
+              key
+            ).totalexpenditure;
+            inputObj.assetsales = this.CffinancialObj.get(key).assetsales;
+            inputObj.otherinvestingactivities = this.CffinancialObj.get(
+              key
+            ).otherinvestingactivities;
+            inputObj.cfi = this.CffinancialObj.get(key).cfi;
+            inputObj.inventorydays = this.CffinancialObj.get(key).inventorydays;
+            inputObj.debtissued = this.CffinancialObj.get(key).debtissued;
+            inputObj.commonstockissued = this.CffinancialObj.get(
+              key
+            ).commonstockissued;
+            inputObj.dividendspaid = this.CffinancialObj.get(key).dividendspaid;
+            inputObj.cff = this.CffinancialObj.get(key).cff;
+            inputObj.netchangeincash = this.CffinancialObj.get(
+              key
+            ).netchangeincash;
+            inputObj.capexpercent = this.CffinancialObj.get(key).capexpercent;
+            inputObj.assetsalespercent = this.CffinancialObj.get(
+              key
+            ).assetsalespercent;
+            inputObj.otherinvestmentpercent = this.CffinancialObj.get(
+              key
+            ).otherinvestmentpercent;
+            inputObj.latest = this.CffinancialObj.get(key).latest;
+
+            inputArray.push(inputObj);
+            console.log('Json stringify', JSON.stringify(inputArray));
+          }
+        }
+        this.apiService
+          .postData(
+            this.urlConfig.getCashProjectionsAPIPOST() + this.companySelected,
+            JSON.stringify(inputArray)
+          )
+          .subscribe((res: any) => {
+            console.log(inputArray);
+            console.log('latest', res);
+            if (res.message == 'Success') {
+              this._snackBar.openFromComponent(uploadSnackBarCFComponent, {
+                duration: 5000,
+                horizontalPosition: this.horizontalPosition,
+                verticalPosition: this.verticalPosition,
+              });
+            } else {
+              this._snackBar.openFromComponent(
+                uploadFailureSnackBarCFComponent,
+                {
+                  duration: 5000,
+                  horizontalPosition: this.horizontalPosition,
+                  verticalPosition: this.verticalPosition,
+                }
+              );
+            }
+          });
+        this.initScenario(this.scenarioSelected);
       });
-    this.initScenario(this.scenarioSelected);
-    });
   }
   addScenario() {
     let existingScenarios = this.UserDetailModelService.getScenarioNumber();
@@ -947,7 +1070,7 @@ export class VisualsCfComponent implements OnInit {
   }
   loadScenario(index: any) {
     this.scenario = index;
-    
+
     this.loadedScenario = 'Scenario ' + index;
     this.initScenario(index);
   }

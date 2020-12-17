@@ -114,6 +114,8 @@ export class VisualsBsComponent implements OnInit {
   updateOtherLibOptions = false;
   saveScenarioNumber: any = 0;
   scenarioSelected: any;
+  selectedCompanyName = localStorage.getItem('selectedCompanyName');
+
   constructor(
     private urlConfig: UrlConfigService,
     private apiService: RMIAPIsService,

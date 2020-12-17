@@ -110,7 +110,7 @@
             <div fxLayout="row" class="header">
               <div fxLayout="row" fxFlex fxLayoutAlign="space-evenly center">
                 <mat-form-field class="container-field">
-
+                  <mat-label>Geography</mat-label>
                   <mat-select placeholder="{{geographyInput}}" formControlName="geography">
                     <mat-option *ngFor="let geography of geography" [value]="geography">{{geography}}</mat-option>
                   </mat-select>
@@ -120,7 +120,7 @@
                 </mat-form-field>
 
                 <mat-form-field class="container-field">
-
+                  <mat-label>Number of Employees</mat-label>
                   <mat-select placeholder="{{companysizeInput}}" formControlName="companysize">
                     <mat-option *ngFor="let companysize of companysize" [value]="companysize">{{companysize}}
                     </mat-option>
@@ -134,7 +134,7 @@
             <div fxLayout="row" class="header">
               <div fxLayout="row" fxFlex fxLayoutAlign="space-evenly center">
                 <mat-form-field class="container-field">
-
+                  <mat-label>Equity Capitalization</mat-label>
                   <mat-select placeholder="{{capatializationInput}}" formControlName="capatialization">
                     <mat-option *ngFor="let capatialization of capatialization" [value]="capatialization">
                       {{capatialization}}</mat-option>
@@ -144,7 +144,7 @@
                   </mat-error>
                 </mat-form-field>
                 <mat-form-field class="container-field">
-
+                  <mat-label>Revenue</mat-label>
                   <mat-select placeholder="{{revenueInput}}" formControlName="revenue">
                     <mat-option *ngFor="let revenue of revenue" [value]="revenue">{{revenue}}</mat-option>
                   </mat-select>
@@ -161,9 +161,8 @@
     <div class="submit-action">
       <mat-spinner *ngIf="inprogress" style="margin-right: 50px;" diameter="20"></mat-spinner>
       <button [disabled]="inprogress" class="upload-btn" mat-stroked-button type="submit" mat-raised-button>
-        Upload
+        Save
       </button>
-      <button mat-raised-button routerLink="/statement" color="warn">Cancel</button>
     </div>
   </form>
 </div>

@@ -1,6 +1,13 @@
 <div fxLayout="row" class="header">
   <div fxLayout="row" fxLayoutAlign="start center">
-    <p>Adjust Balance Sheet Drivers</p>
+    {{ selectedCompanyName }} - <button mat-button [matMenuTriggerFor]="tabMenus">Adjust Balance Sheet Drivers
+      <mat-icon matSuffix>keyboard_arrow_down</mat-icon>
+    </button>
+    <mat-menu #tabMenus="matMenu" xPosition="after">
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsIS'>Adjust Income Statement
+        Drivers</button>
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink="/visualsCF">Adjust CashFlow Drivers</button>
+    </mat-menu>
   </div>
   <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px">
 

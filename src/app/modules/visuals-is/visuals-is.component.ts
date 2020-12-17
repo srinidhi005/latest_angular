@@ -117,6 +117,8 @@ export class VisualsISComponent implements OnInit {
   updateNIEOptions = false;
   saveScenarioNumber: any = 0;
   scenarioSelected: any;
+  selectedCompanyName = localStorage.getItem('selectedCompanyName');
+
   constructor(
     private urlConfig: UrlConfigService,
     private apiService: RMIAPIsService,
@@ -717,7 +719,11 @@ export class VisualsISComponent implements OnInit {
                   plotOptions: {
                     series: {
                       ...seriesOption,
-                      dragDrop: { draggableY: true, dragMaxY: 100, dragMinY: 0 },
+                      dragDrop: {
+                        draggableY: true,
+                        dragMaxY: 100,
+                        dragMinY: 0,
+                      },
                       point: {
                         events: {
                           drag: function (e) {

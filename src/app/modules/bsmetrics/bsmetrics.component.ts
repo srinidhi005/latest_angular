@@ -2,8 +2,11 @@ import { Component, OnInit, ViewChild, ChangeDetectorRef } from '@angular/core';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { RMIAPIsService } from 'src/app/shared/rmiapis.service';
 import {UserDetailModelService} from 'src/app/shared/user-detail-model.service';
-import jsPDF from 'jspdf';
-import autoTable from 'jspdf-autotable';
+import pdfMake from 'pdfmake/build/pdfmake';
+import pdfFonts from 'pdfmake/build/vfs_fonts';
+pdfMake.vfs = pdfFonts.pdfMake.vfs;
+import {formatNumber} from '@angular/common';
+
 export interface PLElement {
   inMillions:number;
   "Cash Equivalents":string;
@@ -68,6 +71,8 @@ export class BsmetricsComponent implements OnInit {
   displayedColumns: string[]=[];
   displayData: any[];
   companySelected = localStorage.getItem('companySelected');
+  selectedCompanyName = localStorage.getItem('selectedCompanyName');
+   scenarioName = 'Default';
   constructor(
     private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
@@ -154,25 +159,25 @@ export class BsmetricsComponent implements OnInit {
         this.financialObj.forEach((v,k) => {
           var pushData={
             inMillions:k,
-            "Cash Equivalents" : "$ " +v.cashequivalents,
-            "Accounts Receivable" : "$ " +v.accountsreceivable,
-            "Inventories": "$ " +v.inventories,
-            "Prepaid Expenses & Other Current Assets" : "$ "+v.othercurrentassets,
-            "Total Current Assets" : "$ "+v.totalcurrentassets, 
-            "Property Plant & Equipment" : "$ "+v.ppe,
-            "Intangible Assets" : "$ "+v.intangibleassets,
-            "Goodwill"  : "$ "+ v.goodwill, 
-            "Other Assets" : "$ "+v.otherassets,
-            "Total Assets"  : "$ "+ v.totalassets,
-            "Current Portion Long Term Debt" : "$ "+v.currentportionlongtermdebt,
-            "Accounts Payable" : "$ "+v.accountspayable,
-            "Accrued Liabilities"  : "$ "+ v.accruedliabilities,
-            "Other Current Liabilities"  : "$ "+ v.othercurrentliabilities,
-            "Total Current Liabilities" : "$ "+v.totalcurrentliabilities,
-            "Long Term Debt" : "$ "+v.longtermdebt,
-            "Other Liabilities" : "$ "+v.otherliabilities,
-            "Total Shareholders Equity" : "$ "+v.totalshareholdersequity,
-            "Total Liabilities and Shareholders Equity" : "$ "+v.totalliabilitiesandequity,
+            "Cash Equivalents" : "$ " +formatNumber(Number(v.cashequivalents), 'en-US', '1.0-0'),
+            "Accounts Receivable" : "$ " +formatNumber(Number(v.accountsreceivable), 'en-US', '1.0-0'),
+            "Inventories": "$ " +formatNumber(Number(v.inventories), 'en-US', '1.0-0'),
+            "Prepaid Expenses & Other Current Assets" : "$ "+formatNumber(Number(v.othercurrentassets), 'en-US', '1.0-0'),
+            "Total Current Assets" : "$ "+formatNumber(Number(v.totalcurrentassets), 'en-US', '1.0-0'), 
+            "Property Plant & Equipment" : "$ "+formatNumber(Number(v.ppe), 'en-US', '1.0-0'),
+            "Intangible Assets" : "$ "+formatNumber(Number(v.intangibleassets), 'en-US', '1.0-0'),
+            "Goodwill"  : "$ "+ formatNumber(Number(v.goodwill), 'en-US', '1.0-0'), 
+            "Other Assets" : "$ "+formatNumber(Number(v.otherassets), 'en-US', '1.0-0'),
+            "Total Assets"  : "$ "+ formatNumber(Number(v.totalassets), 'en-US', '1.0-0'),
+            "Current Portion Long Term Debt" : "$ "+formatNumber(Number(v.currentportionlongtermdebt), 'en-US', '1.0-0'),
+            "Accounts Payable" : "$ "+formatNumber(Number(v.accountspayable), 'en-US', '1.0-0'),
+            "Accrued Liabilities"  : "$ "+ formatNumber(Number(v.accruedliabilities), 'en-US', '1.0-0'),
+            "Other Current Liabilities"  : "$ "+ formatNumber(Number(v.othercurrentliabilities), 'en-US', '1.0-0'),
+            "Total Current Liabilities" : "$ "+formatNumber(Number(v.totalcurrentliabilities), 'en-US', '1.0-0'),
+            "Long Term Debt" : "$ "+formatNumber(Number(v.longtermdebt), 'en-US', '1.0-0'),
+            "Other Liabilities" : "$ "+formatNumber(Number(v.otherliabilities), 'en-US', '1.0-0'),
+            "Total Shareholders Equity" : "$ "+formatNumber(Number(v.totalshareholdersequity), 'en-US', '1.0-0'),
+            "Total Liabilities and Shareholders Equity" : "$ "+formatNumber(Number(v.totalliabilitiesandequity), 'en-US', '1.0-0'),
             "Memo Check" : memocheck
           };
           ELEMENT_BS.push(pushData);
@@ -202,14 +207,14 @@ export class BsmetricsComponent implements OnInit {
   }
 
   loadScenario(index:number){
-   
+   this.scenarioName = "Scenario "+index; 
       this.scenario = index;
       this.ngOnInit();
   
   }
   exportToXLSX(){}
   exportToPDF(){
-    let doc = new jsPDF('l','pt'); 
+   // let doc = new jsPDF('l','pt'); 
   let data = [];
   let inMillionsYear=[];
   let cashEquivalents=[];
@@ -253,7 +258,7 @@ export class BsmetricsComponent implements OnInit {
     otherLiabilities.push(obj["Other Liabilities"]);
     totalShareholdersEquity.push(obj["Total Shareholders Equity"]);
     totalLiabilitiesShareholdersEquity.push(obj["Total Liabilities and Shareholders Equity"]);
-    memocheck.push(obj["memocheck"]);
+    memocheck.push(obj["Memo Check"]);
   });
   inMillionsYear.unshift("Years");
   cashEquivalents.unshift("Cash Equivalents");
@@ -276,17 +281,122 @@ export class BsmetricsComponent implements OnInit {
   totalShareholdersEquity.unshift("Total Shareholders Equity");
   totalLiabilitiesShareholdersEquity.unshift("Total Liabilities and Shareholders Equity");
   memocheck.unshift("memocheck");
-  data.push(cashEquivalents,accountsReceivable,inventories,prepaidExpensesOtherCurrentAssets,totalCurrentAssets,ppe,intangibleAssets,goodwill,otherAssets,totalAssets,currentPortionLongTermDebt,accountsPayable,accruedLiabilities,otherCurrentLiabilities,totalCurrentLiabilities,longTermDebt,otherLiabilities,totalShareholdersEquity,totalLiabilitiesShareholdersEquity,memocheck);
+  
+   inMillionsYear = inMillionsYear.map( (year, index) => {
+      if(index == 0){
+        return { text: "(in millions)", italics: true, fillColor: '#164A5B', color: "#fff",margin: [0, 10 , 0, 10],}
+      }
+      else{
+        return {text: year, bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10],alignment: 'right'}
+      }
+    })
+  
+  
+  data.push(inMillionsYear,
+  this.getMappedArr(cashEquivalents),
+  this.getMappedArr(accountsReceivable),
+  this.getMappedArr(inventories),
+  this.getMappedArr(prepaidExpensesOtherCurrentAssets),
+  this.getMappedArr(totalCurrentAssets,true),
+  this.getMappedArr(ppe),
+  this.getMappedArr(intangibleAssets),
+  this.getMappedArr(goodwill),
+  this.getMappedArr(otherAssets),
+  this.getMappedArr(totalAssets,true),
+  this.getMappedArr(currentPortionLongTermDebt),
+  this.getMappedArr(accountsPayable),
+  this.getMappedArr(accruedLiabilities),
+  this.getMappedArr(otherCurrentLiabilities),
+  this.getMappedArr(totalCurrentLiabilities,true),
+  this.getMappedArr(longTermDebt,otherLiabilities),
+  this.getMappedArr(totalShareholdersEquity),
+  this.getMappedArr(totalLiabilitiesShareholdersEquity,true),
+  this.getMappedArr(memocheck,true));
 
-    autoTable(doc,{
-      head: [inMillionsYear],
-      body: data,
-      headStyles:{fillColor: [22, 74, 91], textColor:[245, 245, 245]},
-      columnStyles: {0: {fillColor: [22, 74, 91], textColor:[245, 245, 245] }},
-      styles: {overflow: 'linebreak',fontSize: 12},
-    });
-    doc.save(this.companyName +'.pdf');
-  }
+ let docDefinition = {
+		    pageSize: {
+    width: 800,
+    height: 'auto'
+  },
+	
+  pageMargins: [ 40, 60, 40, 60 ],
+        
+  
+			
+ 
+		content: [
+			{
+				  text:this.selectedCompanyName+' - '+ this.scenarioName+ ' - ' +' Balance Sheet Metrics',
+				  style:'header',
+			},
+          {
+			  
+            //style: 'tableExample',
+            // layout: 'lightHorizontalLines',            
+            
+			table: {
+              headerRows: 1,
+              heights: 20,
+			  //width:'auto',
+              widths: [240, 70, 70, 70,70,70,60],
+              body: data
+            },
+            layout: {
+              //set custom borders size and color
+              hLineWidth: function (i, node) {
+                return (i === 0 || i === node.table.body.length) ? 0.5 : 0.5;
+              },
+              vLineWidth: function (i, node) {
+                return 0;
+              },
+              hLineColor: function (i, node) {
+                return (i === 0 || i === node.table.body.length) ? 'black' : 'gray';
+              },
+              // vLineColor: function (i, node) {
+              //   return (i === 0 || i === node.table.widths.length) ? 'black' : 'gray';
+              // }
+            }
+          },
+        ],
+        styles: {
+          header:{
+			  fontSize:18,bold:true,margin:[10,10,10,10]
+		  },
+        },
+      }
+      // pdfMake.tableLayouts = {
+      //   exampleLayout : {
+      //     paddingLeft: function (i) {
+      //       return 20;
+      //     },
+      //   }
+      // }
+    
+      pdfMake.createPdf(docDefinition).download();
+
+    }
+
+    getMappedArr(inputArr,isfundsfromOperations?){
+      const arr = inputArr.map( (year, index) => {
+        if(index == 0){
+			if(isfundsfromOperations){
+          return {text: year, margin: [0, 10, 0, 10],alignment: 'left',bold:true}
+        }else{
+          return { text: year , margin: [0, 10, 0, 10]}
+		}
+        }
+        else {
+			if(isfundsfromOperations){
+          return {text: year, margin: [0, 10, 0, 10],alignment: 'right',bold:true}
+        }
+		else{
+			return {text: year, margin: [0, 10, 0, 10],alignment: 'right'}
+		}
+		}
+      })
+
+      return arr;
+    }
 }
 
 

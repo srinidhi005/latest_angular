@@ -1,6 +1,6 @@
 <div fxLayout="row" class="header">
   <div fxLayout="row" fxLayoutAlign="start center">
-    {{ selectedCompanyName }} - <button mat-button [matMenuTriggerFor]="tabMenus">Adjust Balance Sheet Drivers
+    <span style="font-weight:bold">{{ selectedCompanyName }} - {{loadedScenario}} - </span><button mat-button [matMenuTriggerFor]="tabMenus">Adjust Balance Sheet Drivers
       <mat-icon matSuffix>keyboard_arrow_down</mat-icon>
     </button>
     <mat-menu #tabMenus="matMenu" xPosition="after">

@@ -1,0 +1,41 @@
+[annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.49867182970046997
+  text_segment {
+    start_offset: 3109
+    end_offset: 3121
+    content: "Gross Profit"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.30930420756340027
+  text_segment {
+    start_offset: 3290
+    end_offset: 3309
+    content: "Payroll Tax Expense"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.5001373291015625
+  text_segment {
+    start_offset: 4595
+    end_offset: 4611
+    content: "Interest Expense"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.31699690222740173
+  text_segment {
+    start_offset: 6473
+    end_offset: 6491
+    content: "Cost of Goods Sold"
+  }
+}
+]

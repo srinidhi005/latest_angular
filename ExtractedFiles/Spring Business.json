@@ -1,0 +1,81 @@
+[annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.7027657628059387
+  text_segment {
+    start_offset: 70
+    end_offset: 83
+    content: "Total Revenue"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.8829247951507568
+  text_segment {
+    start_offset: 294
+    end_offset: 306
+    content: "Gross Profit"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.13515426218509674
+  text_segment {
+    start_offset: 1641
+    end_offset: 1651
+    content: "Total OPEX"
+  }
+}
+, annotation_spec_id: "4428420519821312000"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9946558475494385
+  text_segment {
+    start_offset: 2346
+    end_offset: 2355
+    content: "Inventory"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.3750724792480469
+  text_segment {
+    start_offset: 2439
+    end_offset: 2451
+    content: "Total Assets"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.5867133736610413
+  text_segment {
+    start_offset: 2632
+    end_offset: 2649
+    content: "Total Liabilities"
+  }
+}
+, annotation_spec_id: "8415372827439398912"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.6644911170005798
+  text_segment {
+    start_offset: 2744
+    end_offset: 2756
+    content: "Total Equity"
+  }
+}
+, annotation_spec_id: "1975506835276300288"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.09555288404226303
+  text_segment {
+    start_offset: 2785
+    end_offset: 2809
+    content: "Total Liability + Equity"
+  }
+}
+]

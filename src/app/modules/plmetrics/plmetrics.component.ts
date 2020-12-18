@@ -2,8 +2,12 @@ import { Component, OnInit, ViewChild, ChangeDetectorRef } from '@angular/core';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { RMIAPIsService } from 'src/app/shared/rmiapis.service';
 import {UserDetailModelService} from 'src/app/shared/user-detail-model.service';
-import jsPDF from 'jspdf';
-import autoTable from 'jspdf-autotable';
+import pdfMake from 'pdfmake/build/pdfmake';
+import pdfFonts from 'pdfmake/build/vfs_fonts';
+pdfMake.vfs = pdfFonts.pdfMake.vfs;
+import * as XLSX from 'xlsx';
+import {formatNumber} from '@angular/common';
+
 
 export interface PLElement {
   inMillions:number;
@@ -45,7 +49,7 @@ export class PLMetricsComponent implements OnInit {
 
   inputColumns = ['inMillions',  'Total Revenue',
   'Revenue Y-O-Y Growth rate',
-  '(-) Cost of Goods Sold (COGS)',
+  "(-) Cost of Goods Sold (COGS)",
   'Gross Profit',
   'Gross Margin',
   '(-) Selling, General & Administrative Expense (SG&A)',
@@ -63,6 +67,8 @@ export class PLMetricsComponent implements OnInit {
   displayedColumns: string[]=[];
   displayData: any[];
   companySelected = localStorage.getItem('companySelected');
+  selectedCompanyName = localStorage.getItem('selectedCompanyName');
+  scenarioName = 'Default';
   constructor(
     private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
@@ -136,23 +142,23 @@ export class PLMetricsComponent implements OnInit {
         this.financialObj.forEach((v,k) => {
         var pushData={
             inMillions : k,
-            "Total Revenue" : "$ "+v.totalRevenue,
+             "Total Revenue" : "$ "+formatNumber(Number(v.totalRevenue), 'en-US', '1.0-0'),
             "Revenue Y-O-Y Growth rate" : v.revenuepercent+"%",
-            "(-) Cost of Goods Sold (COGS)" : "$ "+v.COGS,
-            "Gross Profit" : "$ "+v.GrossProfit,
+            "(-) Cost of Goods Sold (COGS)" : "$ "+formatNumber(Number(v.COGS), 'en-US', '1.0-0'),
+            "Gross Profit" : "$ "+formatNumber(Number(v.GrossProfit), 'en-US', '1.0-0'),
             "Gross Margin" : v.GrossMargin+"%",
-            "(-) Selling, General & Administrative Expense (SG&A)" : "$ "+v.SGA,
-            "EBIT" : "$ "+v.EBIT,
+            "(-) Selling, General & Administrative Expense (SG&A)" : "$ "+formatNumber(Number(v.SGA), 'en-US', '1.0-0'),
+            "EBIT" : "$ "+formatNumber(Number(v.EBIT), 'en-US', '1.0-0'),
             "EBIT Margin":v.EBITMargin+"%",
-            "(+) Depreciation & Amortization (D&A)" : "$ "+v.DandA,
-            "EBITDA" : "$ "+v.EBITDA,
+            "(+) Depreciation & Amortization (D&A)" : "$ "+formatNumber(Number(v.DandA), 'en-US', '1.0-0'),
+            "EBITDA" : "$ "+formatNumber(Number(v.EBITDA), 'en-US', '1.0-0'),
             "EBITDA Margin":v.EBITDAMargin+"%",
-            "(-) Net Interest/Other Income Expense" : "$ "+v.netIterestExpense,
-            "EBT" : "$ "+v.EBT,
+            "(-) Net Interest/Other Income Expense" : "$ "+formatNumber(Number(v.netIterestExpense), 'en-US', '1.0-0'),
+            "EBT" : "$ "+formatNumber(Number(v.EBT), 'en-US', '1.0-0'),
             "EBT Margin":v.EBTMargin+"%",
-            "(-) Taxes" : "$ "+v.Taxes,
-            "Net Income" : "$ "+v.NetIncome,
-            "Net Income Margin" : "$ "+v.NetIncomeMargin+"%"
+            "(-) Taxes" : "$ "+formatNumber(Number(v.Taxes), 'en-US', '1.0-0'),
+            "Net Income" : "$ "+formatNumber(Number(v.NetIncome), 'en-US', '1.0-0'),
+            "Net Income Margin" :v.NetIncomeMargin+"%"
           };
           ELEMENT_PL.push(pushData);
       });
@@ -181,15 +187,34 @@ export class PLMetricsComponent implements OnInit {
   }
  
   loadScenario(index:number){
-  
+  this.scenarioName = "Scenario "+index;
       this.scenario = index;
       this.ngOnInit();
   
   }
 
-  exportToXLSX(){}
+  exportToXLSX(){
+	   /* table id is passed over here */   
+    let element = document.getElementById('myTable'); 
+    const ws: XLSX.WorkSheet =XLSX.utils.table_to_sheet(element);
+	var wscols = [ 
+	{wch:60}
+	];
+	ws['!cols']=wscols
+
+
+
+    /* generate workbook and add the worksheet */
+    const wb: XLSX.WorkBook = XLSX.utils.book_new();
+	
+    XLSX.utils.book_append_sheet(wb, ws, 'Sheet1');
+    let fileName = localStorage.getItem('companySelected')+".xlsx";
+    /* save to file */
+    XLSX.writeFile(wb,fileName);
+	  
+  }
   exportToPDF(){
-    let doc = new jsPDF('l','pt'); 
+    //let doc = new jsPDF('l','pt'); 
   let data = [];
   let inMillionsYear=[];
   let totalRevenue=[];
@@ -247,16 +272,121 @@ export class PLMetricsComponent implements OnInit {
   taxes.unshift("(-) Taxes");
   netIncome.unshift("Net Income");
   netIncomeMargin.unshift("Net Income Margin");
-  data.push(totalRevenue,revenueGrowthRate,COGS,grossProfit,grossMargin,SGA,EBIT,EBITMargin,DA,EBITDA,EBITDAMargin,NIE,EBT,EBTMargin,taxes,netIncome,netIncomeMargin);
-    autoTable(doc,{
-      head: [inMillionsYear],
-      body: data,     
-      headStyles:{fillColor: [22, 74, 91], textColor:[245, 245, 245]},
-      columnStyles: {0: {fillColor: [22, 74, 91], textColor:[245, 245, 245] }},
-      styles: {overflow: 'linebreak',fontSize: 12},
-    });
-    doc.save(this.companyName +'.pdf');
-  }
+  
+   inMillionsYear = inMillionsYear.map( (year, index) => {
+      if(index == 0){
+        return { text: "(in millions)", italics: true, fillColor: '#164A5B', color: "#fff",margin: [0, 10 , 0, 10],}
+      }
+      else{
+        return {text: year, bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10],alignment: 'right'}
+      }
+    })
+  
+  
+  data.push(inMillionsYear, 
+  this.getMappedArr(totalRevenue,true),
+  this.getMappedArr(revenueGrowthRate),
+  this.getMappedArr(COGS),
+   this.getMappedArr(grossProfit,true),
+  this.getMappedArr(grossMargin),
+  this.getMappedArr(SGA),
+  this.getMappedArr(EBIT,true),
+  this.getMappedArr(EBITMargin),
+  this.getMappedArr(DA),
+  this.getMappedArr(EBITDA,true),
+  this.getMappedArr(EBITDAMargin),
+  this.getMappedArr(NIE),
+  this.getMappedArr(EBT,true),
+  this.getMappedArr(EBTMargin),
+  this.getMappedArr(taxes),
+  this.getMappedArr(netIncome,true),
+  this.getMappedArr(netIncomeMargin));
+console.log("data",data); 
+ let docDefinition = {
+		    pageSize: {
+    width: 850,
+    height: 'auto'
+  },
+	
+  pageMargins: [ 40, 60, 40, 60 ],
+        
+  
+			
+ 
+		content: [
+			{
+				  text:this.selectedCompanyName+' - '+ this.scenarioName+ ' - ' +' Income Statement Metrics',
+				  style:'header',
+			},
+          {
+			  
+            //style: 'tableExample',
+            // layout: 'lightHorizontalLines',            
+            
+			table: {
+              headerRows: 1,
+              heights: 20,
+			  //width:'auto',
+              widths: [290, 60, 60, 60,60,60,60,60],
+              body: data
+			  
+            },
+            layout: {
+              //set custom borders size and color
+              hLineWidth: function (i, node) {
+                return (i === 0 || i === node.table.body.length) ? 0.5 : 0.5;
+              },
+              vLineWidth: function (i, node) {
+                return 0;
+              },
+              hLineColor: function (i, node) {
+                return (i === 0 || i === node.table.body.length) ? 'black' : 'gray';
+              },
+              // vLineColor: function (i, node) {
+              //   return (i === 0 || i === node.table.widths.length) ? 'black' : 'gray';
+              // }
+            }
+          },
+        ],
+        styles: {
+          header:{
+			  fontSize:18,bold:true,margin:[10,10,10,10]
+		  },
+        },
+      }
+      // pdfMake.tableLayouts = {
+      //   exampleLayout : {
+      //     paddingLeft: function (i) {
+      //       return 20;
+      //     },
+      //   }
+      // }
+    
+      pdfMake.createPdf(docDefinition).download();
+
+    }
+
+    getMappedArr(inputArr,isfundsfromOperations?){
+      const arr = inputArr.map( (year, index) => {
+        if(index == 0){
+			if(isfundsfromOperations){
+          return {text: year, margin: [0, 10, 0, 10],alignment: 'left',bold:true}
+        }else{
+          return { text: year , margin: [0, 10, 0, 10]}
+		}
+        }
+        else {
+			if(isfundsfromOperations){
+          return {text: year, margin: [0, 10, 0, 10],alignment: 'right',bold:true}
+        }
+		else{
+			return {text: year, margin: [0, 10, 0, 10],alignment: 'right'}
+		}
+		}
+      })
+
+      return arr;
+    }
 }
 
 

@@ -190,7 +190,7 @@
                   {{ rev['Totalexpenditure'] | number: '1.0-0'}} 
                 </ng-template>
                 <ng-template [ngIf] = "rev['Totalexpenditure'] < 0">
-                  (${{ -(rev['Totalexpenditure']) | number: '1.0-0' }} )
+                  (${{-(rev['Totalexpenditure']) | number: '1.0-0' }} )
                 </ng-template>
               </td>
             </tr>

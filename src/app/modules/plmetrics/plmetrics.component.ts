@@ -315,7 +315,7 @@ console.log("data",data);
  
 		content: [
 			{
-				  text:this.selectedCompanyName+' - '+ this.scenarioName+ ' - ' +' Balance Sheet Metrics',
+				  text:this.selectedCompanyName+' - '+ this.scenarioName+ ' - ' +' Income Statement Metrics',
 				  style:'header',
 			},
           {

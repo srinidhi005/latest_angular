@@ -158,8 +158,8 @@ export class VisualsISComponent implements OnInit {
         this.selectedChart = null;
         this.selectedYear = null;
       }
-      this.minValue = undefined;
-      this.maxValue = undefined;
+      //this.minValue = undefined;
+      //this.maxValue = undefined;
     });
   }
   updateChart() {

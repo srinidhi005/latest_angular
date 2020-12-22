@@ -29,6 +29,10 @@
         <mat-icon>library_books</mat-icon>
         My Companies
     </a>
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/ratios">
+        <mat-icon>aspect_ratio</mat-icon>
+        Ratios
+    </a>
     <!--<a mat-list-item routerLinkActive="list-item-active" routerLink="/articles">
         <mat-icon>assignment</mat-icon>
         Credit Scorecard
@@ -73,7 +77,7 @@
     <mat-accordion multi class="mat-table">
         <mat-expansion-panel class="mat-elevation-z0" (opened)="scenarioNumber()">
             <mat-expansion-panel-header class="mat-row">
-                <a mat-list-item routerLinkActive="list-item-active" >
+                <a mat-list-item routerLinkActive="list-item-active">
                     <mat-icon>exposure</mat-icon>Scenario Analysis
                 </a>
             </mat-expansion-panel-header>
@@ -107,16 +111,19 @@
                         </a>
                     </div>
                 </mat-expansion-panel>
-				
-				<!-- Cash Metrics -->
+
+                <!-- Cash Metrics -->
                 <mat-expansion-panel>
                     <mat-expansion-panel-header>
-                        <span> <mat-icon>exposure</mat-icon>Cash Metrics</span>
+                        <span>
+                            <mat-icon>exposure</mat-icon>Cash Metrics
+                        </span>
                     </mat-expansion-panel-header>
                     <div class="row">
-                        <a mat-list-item routerLinkActive="list-item-active" (click) = "displayCashFlowScenario(scenario)" *ngFor="let scenario of scenarioArray">
+                        <a mat-list-item routerLinkActive="list-item-active" (click)="displayCashFlowScenario(scenario)"
+                            *ngFor="let scenario of scenarioArray">
                             <mat-icon>leaderboard</mat-icon>Scenario {{scenario}}
-                        </a> 
+                        </a>
                     </div>
                 </mat-expansion-panel>
             </mat-accordion>

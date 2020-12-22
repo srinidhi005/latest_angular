@@ -18,6 +18,7 @@ import { UserDetailsComponent } from './modules/user-details/user-details.compon
 import { CompanyDashboardComponent } from './modules/company-dashboard/company-dashboard.component';
 import { CashmetricsComponent } from './modules/cashmetrics/cashmetrics.component';
 import { VisualsCfComponent } from 'src/app/modules/visuals-cf/visuals-cf.component';
+import { RatiosComponent } from './modules/ratios/ratios.component';
 const routes: Routes = [
   {
     path: '',
@@ -97,6 +98,11 @@ const routes: Routes = [
         path: ':companyName/dashboard/:scenario',
         component: CompanyDashboardComponent,
        // canActivate: [AuthGuard],
+      },
+      {
+        path: 'ratios',
+        component: RatiosComponent,
+        canActivate: [AuthGuard],
       },
     ],
   },

@@ -8,8 +8,12 @@
         <thead>
           <tr class="mat-header-row custom-header">
             <th></th>
-            <th colspan="3" class="text-center mat-header-cell cdk-column-name mat-column-name with-border">Actuals</th>
-            <th colspan="4" class="text-center mat-header-cell cdk-column-name mat-column-name with-border">Projections
+            <th [attr.colspan]="actualSpan"
+              class="text-center mat-header-cell cdk-column-name mat-column-name with-border">
+              Actuals</th>
+            <th [attr.colspan]="projectionSpan"
+              class="text-center mat-header-cell cdk-column-name mat-column-name with-border">
+              Projections
             </th>
             <th colspan="2" class="text-center mat-header-cell cdk-column-name mat-column-name">Average</th>
           </tr>

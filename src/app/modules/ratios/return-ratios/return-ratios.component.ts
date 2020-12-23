@@ -23,7 +23,8 @@ export class ReturnRatiosComponent implements OnInit, OnChanges {
   ];
   columnFields = ['name'];
   data = [];
-
+  actualSpan = 0;
+  projectionSpan = 0;
   constructor() {}
 
   ngOnInit() {
@@ -50,6 +51,8 @@ export class ReturnRatiosComponent implements OnInit, OnChanges {
           averages.push({ value: d.asof, isActual: false, index });
         }
       });
+      this.actualSpan = actualColumns.length;
+      this.projectionSpan = projectionColumn.length;
       const operatingreturnassets: any = {
         name: this.dataColumns[0],
       };

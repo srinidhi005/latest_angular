@@ -61,19 +61,19 @@ export class SolvencyRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[0],
       };
       actualColumns.forEach((d: any) => {
-        solvencyratio[d.value] = this.actuals[d.index].solvencyratio;
+        solvencyratio[d.value] = this.actuals[d.index].solvency_ratio;
       });
       projectionColumn.forEach((d: any) => {
-        solvencyratio[d.value] = this.projections[d.index].solvencyratio;
+        solvencyratio[d.value] = this.projections[d.index].solvency_ratio;
       });
       averages.forEach((a) => {
         if (a.isActual) {
           solvencyratio[a.value] = (
-            this.actuals[a.index].solvencyratio || 0
+            this.actuals[a.index].solvency_ratio || 0
           ).toFixed(2);
         } else {
           solvencyratio[a.value] = (
-            this.projections[a.index].solvencyratio || 0
+            this.projections[a.index].solvency_ratio || 0
           ).toFixed(2);
         }
       });
@@ -83,19 +83,19 @@ export class SolvencyRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[1],
       };
       actualColumns.forEach((d: any) => {
-        debtequity[d.value] = this.actuals[d.index].debtequity;
+        debtequity[d.value] = this.actuals[d.index].debt_to_equity_ratio;
       });
       projectionColumn.forEach((d: any) => {
-        debtequity[d.value] = this.projections[d.index].debtequity;
+        debtequity[d.value] = this.projections[d.index].debt_to_equity_ratio;
       });
       averages.forEach((a) => {
         if (a.isActual) {
-          debtequity[a.value] = (this.actuals[a.index].debtequity || 0).toFixed(
-            2
-          );
+          debtequity[a.value] = (
+            this.actuals[a.index].debt_to_equity_ratio || 0
+          ).toFixed(2);
         } else {
           debtequity[a.value] = (
-            this.projections[a.index].debtequity || 0
+            this.projections[a.index].debt_to_equity_ratio || 0
           ).toFixed(2);
         }
       });
@@ -105,19 +105,19 @@ export class SolvencyRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[2],
       };
       actualColumns.forEach((d: any) => {
-        debtassets[d.value] = this.actuals[d.index].debtassets;
+        debtassets[d.value] = this.actuals[d.index].debt_to_assets_ratio;
       });
       projectionColumn.forEach((d: any) => {
-        debtassets[d.value] = this.projections[d.index].debtassets;
+        debtassets[d.value] = this.projections[d.index].debt_to_assets_ratio;
       });
       averages.forEach((a) => {
         if (a.isActual) {
-          debtassets[a.value] = (this.actuals[a.index].debtassets || 0).toFixed(
-            2
-          );
+          debtassets[a.value] = (
+            this.actuals[a.index].debt_to_assets_ratio || 0
+          ).toFixed(2);
         } else {
           debtassets[a.value] = (
-            this.projections[a.index].debtassets || 0
+            this.projections[a.index].debt_to_assets_ratio || 0
           ).toFixed(2);
         }
       });
@@ -127,19 +127,21 @@ export class SolvencyRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[3],
       };
       actualColumns.forEach((d: any) => {
-        equityassets[d.value] = this.actuals[d.index].equityassets;
+        equityassets[d.value] = this.actuals[d.index].equity_to_assets_ratio;
       });
       projectionColumn.forEach((d: any) => {
-        equityassets[d.value] = this.projections[d.index].equityassets;
+        equityassets[d.value] = this.projections[
+          d.index
+        ].equity_to_assets_ratio;
       });
       averages.forEach((a) => {
         if (a.isActual) {
           equityassets[a.value] = (
-            this.actuals[a.index].equityassets || 0
+            this.actuals[a.index].equity_to_assets_ratio || 0
           ).toFixed(2);
         } else {
           equityassets[a.value] = (
-            this.projections[a.index].equityassets || 0
+            this.projections[a.index].equity_to_assets_ratio || 0
           ).toFixed(2);
         }
       });
@@ -149,19 +151,21 @@ export class SolvencyRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[4],
       };
       actualColumns.forEach((d: any) => {
-        netdebtebitda[d.value] = this.actuals[d.index].netdebtebitda;
+        netdebtebitda[d.value] = this.actuals[d.index].net_debt_to_ebitda_ratio;
       });
       projectionColumn.forEach((d: any) => {
-        netdebtebitda[d.value] = this.projections[d.index].netdebtebitda;
+        netdebtebitda[d.value] = this.projections[
+          d.index
+        ].net_debt_to_ebitda_ratio;
       });
       averages.forEach((a) => {
         if (a.isActual) {
           netdebtebitda[a.value] = (
-            this.actuals[a.index].netdebtebitda || 0
+            this.actuals[a.index].net_debt_to_ebitda_ratio || 0
           ).toFixed(2);
         } else {
           netdebtebitda[a.value] = (
-            this.projections[a.index].netdebtebitda || 0
+            this.projections[a.index].net_debt_to_ebitda_ratio || 0
           ).toFixed(2);
         }
       });
@@ -171,19 +175,23 @@ export class SolvencyRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[5],
       };
       actualColumns.forEach((d: any) => {
-        totaldebtebitda[d.value] = this.actuals[d.index].totaldebtebitda;
+        totaldebtebitda[d.value] = this.actuals[
+          d.index
+        ].total_debt_to_ebitda_ratio;
       });
       projectionColumn.forEach((d: any) => {
-        totaldebtebitda[d.value] = this.projections[d.index].totaldebtebitda;
+        totaldebtebitda[d.value] = this.projections[
+          d.index
+        ].total_debt_to_ebitda_ratio;
       });
       averages.forEach((a) => {
         if (a.isActual) {
           totaldebtebitda[a.value] = (
-            this.actuals[a.index].totaldebtebitda || 0
+            this.actuals[a.index].total_debt_to_ebitda_ratio || 0
           ).toFixed(2);
         } else {
           totaldebtebitda[a.value] = (
-            this.projections[a.index].totaldebtebitda || 0
+            this.projections[a.index].total_debt_to_ebitda_ratio || 0
           ).toFixed(2);
         }
       });
@@ -195,21 +203,21 @@ export class SolvencyRatiosComponent implements OnInit, OnChanges {
       actualColumns.forEach((d: any) => {
         interestcoverageratio[d.value] = this.actuals[
           d.index
-        ].interestcoverageratio;
+        ].interest_coverage_ratio;
       });
       projectionColumn.forEach((d: any) => {
         interestcoverageratio[d.value] = this.projections[
           d.index
-        ].interestcoverageratio;
+        ].interest_coverage_ratio;
       });
       averages.forEach((a) => {
         if (a.isActual) {
           interestcoverageratio[a.value] = (
-            this.actuals[a.index].interestcoverageratio || 0
+            this.actuals[a.index].interest_coverage_ratio || 0
           ).toFixed(2);
         } else {
           interestcoverageratio[a.value] = (
-            this.projections[a.index].interestcoverageratio || 0
+            this.projections[a.index].interest_coverage_ratio || 0
           ).toFixed(2);
         }
       });
@@ -219,21 +227,23 @@ export class SolvencyRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[7],
       };
       actualColumns.forEach((d: any) => {
-        debtcoverageratio[d.value] = this.actuals[d.index].debtcoverageratio;
+        debtcoverageratio[d.value] = this.actuals[
+          d.index
+        ].debt_service_coverage_ratio;
       });
       projectionColumn.forEach((d: any) => {
         debtcoverageratio[d.value] = this.projections[
           d.index
-        ].debtcoverageratio;
+        ].debt_service_coverage_ratio;
       });
       averages.forEach((a) => {
         if (a.isActual) {
           debtcoverageratio[a.value] = (
-            this.actuals[a.index].debtcoverageratio || 0
+            this.actuals[a.index].debt_service_coverage_ratio || 0
           ).toFixed(2);
         } else {
           debtcoverageratio[a.value] = (
-            this.projections[a.index].debtcoverageratio || 0
+            this.projections[a.index].debt_service_coverage_ratio || 0
           ).toFixed(2);
         }
       });

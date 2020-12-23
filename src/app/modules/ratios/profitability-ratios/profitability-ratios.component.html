@@ -1,0 +1,48 @@
+<div fxLayout="row" fxLayoutAlign="space-between center" fxLayoutGap="20px">
+  <div fxFlex="100">
+    <p>Profitability Ratios
+    </p>
+    <mat-progress-bar mode="indeterminate" *ngIf="loading"></mat-progress-bar>
+    <div class="mat-elevation-z8 table-container">
+      <table class="mat-table">
+        <thead>
+          <tr class="mat-header-row custom-header">
+            <th></th>
+            <th [attr.colspan]="actualSpan"
+              class="text-center mat-header-cell cdk-column-name mat-column-name with-border">
+              Actuals</th>
+            <th [attr.colspan]="projectionSpan"
+              class="text-center mat-header-cell cdk-column-name mat-column-name with-border">
+              Projections
+            </th>
+            <th colspan="2" class="text-center mat-header-cell cdk-column-name mat-column-name">Average</th>
+          </tr>
+          <tr class="mat-header-row">
+            <th>Name</th>
+            <ng-container *ngFor="let col of columnFields">
+              <ng-container *ngIf="col !== 'name'">
+                <th class="mat-header-cell cdk-column-name mat-column-name text-center"><b> {{col}} </b></th>
+              </ng-container>
+            </ng-container>
+          </tr>
+        </thead>
+        <tbody>
+          <ng-container *ngFor="let element of data">
+            <tr class="mat-row">
+              <td class="mat-cell cdk-column-name mat-column-name"><b>{{ element.name }}</b></td>
+              <ng-container *ngFor="let col of columnFields">
+                <ng-container *ngIf="col !== 'name'">
+                  <td class="mat-cell cdk-column-name mat-column-name text-center"><span *ngIf="element[col]">
+                      {{element[col] }}%
+                    </span><span *ngIf="!element[col]">
+                      0.0%
+                    </span></td>
+                </ng-container>
+              </ng-container>
+            </tr>
+          </ng-container>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

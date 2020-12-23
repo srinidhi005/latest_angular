@@ -24,11 +24,31 @@ body {
   overflow: hidden !important;
 } */
 .text-center {
-  text-align: center;
+  text-align: center !important;
 }
 .loader-container {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 75vh;
+}
+.mat-header-row {
+  height: 56px;
+}
+//
+td.mat-cell:first-of-type,
+td.mat-footer-cell:first-of-type,
+th.mat-header-cell:first-of-type {
+  padding-left: 24px;
+}
+td.mat-cell,
+td.mat-footer-cell,
+th.mat-header-cell {
+  padding: 0;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+}
+tr.mat-footer-row,
+tr.mat-row {
+  height: 48px;
 }

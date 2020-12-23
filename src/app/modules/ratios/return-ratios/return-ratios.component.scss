@@ -1,0 +1,29 @@
+table {
+  width: 100%;
+}
+th {
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.mat-header-row {
+  background: #164a5b;
+  width: 100%;
+  &.custom-header {
+    background: unset;
+    th {
+      color: unset;
+      &.with-border {
+        border-right: 2px dashed;
+      }
+    }
+  }
+}
+p {
+  font-size: 18px;
+}
+
+.table-container {
+  border-radius: 20px;
+  overflow: hidden;
+}

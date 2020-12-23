@@ -72,6 +72,11 @@ import {
 import { RMIAPIsService } from 'src/app/shared/rmiapis.service';
 import { SharedModule } from 'src/app/shared/shared.module';
 import { DefaultComponent } from './default.component';
+import { RatiosComponent } from 'src/app/modules/ratios/ratios.component';
+import { ProfitabilityRatiosComponent } from 'src/app/modules/ratios/profitability-ratios/profitability-ratios.component';
+import { ReturnRatiosComponent } from 'src/app/modules/ratios/return-ratios/return-ratios.component';
+import { LiquidityRatiosComponent } from 'src/app/modules/ratios/liquidity-ratios/liquidity-ratios.component';
+import { SolvencyRatiosComponent } from 'src/app/modules/ratios/solvency-ratios/solvency-ratios.component';
 
 @NgModule({
   declarations: [
@@ -107,6 +112,11 @@ import { DefaultComponent } from './default.component';
     uploadFailureSnackBarCFComponent,
     uploadSnackBarCFAddComponent,
     uploadSnackBarCFComponent,
+    RatiosComponent,
+    ProfitabilityRatiosComponent,
+    ReturnRatiosComponent,
+    LiquidityRatiosComponent,
+    SolvencyRatiosComponent,
   ],
   imports: [
     CommonModule,

@@ -53,25 +53,18 @@ type SelectableCharts =
   | 'dividend-paid'
   | 'capex'
   | 'assest-sales'
-  | 'other-investment'
-  
+  | 'other-investment';
+
 const seriesOption = {
   stickyTracking: true,
   colorByPoint: true,
   fillColor: {
     linearGradient: [0, 0, 0, 300],
     stops: [
-      [0, Highcharts.getOptions().colors[0]],
-      [
-        1,
-        Highcharts.color(Highcharts.getOptions().colors[0])
-          .setOpacity(0)
-          .get('rgba'),
-      ],
+      [0, `rgb(22, 68, 91)`],
+      [0.5, `rgb(154,198,213)`],
+      [1, `rgb(255, 255, 255)`],
     ],
-  },
-  dragDrop: {
-    draggableY: true,
   },
 };
 @Component({
@@ -375,7 +368,7 @@ export class VisualsCfComponent implements OnInit {
                 });
 
                 this.DPOptions = {
-                  chart: { type: 'spline', animation: false },
+                  chart: { type: 'areaspline', animation: false },
                   title: { text: 'Dividend Paid' },
                   yAxis: {
                     title: { text: 'USD' },
@@ -417,7 +410,7 @@ export class VisualsCfComponent implements OnInit {
                         },
                       },
                     },
-                    spline: {
+                    areaspline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
@@ -453,7 +446,7 @@ export class VisualsCfComponent implements OnInit {
                   legend: false,
                 };
                 this.CPOptions = {
-                  chart: { type: 'spline', animation: false },
+                  chart: { type: 'areaspline', animation: false },
                   title: { text: 'Capex (% Revenue)' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
@@ -496,7 +489,7 @@ export class VisualsCfComponent implements OnInit {
                         },
                       },
                     },
-                    spline: {
+                    areaspline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
@@ -529,7 +522,7 @@ export class VisualsCfComponent implements OnInit {
                   legend: false,
                 };
                 this.ASOptions = {
-                  chart: { type: 'spline', animation: false },
+                  chart: { type: 'areaspline', animation: false },
                   title: { text: 'Asset Sales (% Revenue)' },
                   yAxis: {
                     title: { text: 'As % of Revenue' },
@@ -574,7 +567,7 @@ export class VisualsCfComponent implements OnInit {
                         },
                       },
                     },
-                    spline: {
+                    areaspline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,
@@ -607,7 +600,7 @@ export class VisualsCfComponent implements OnInit {
                   legend: false,
                 };
                 this.OIAOptions = {
-                  chart: { type: 'spline', animation: false },
+                  chart: { type: 'areaspline', animation: false },
                   title: { text: 'Other Investing Activites (% Revenue)' },
                   yAxis: {
                     title: { text: 'As (% Revenue)' },
@@ -618,6 +611,7 @@ export class VisualsCfComponent implements OnInit {
                   xAxis: { categories: this.yearsArray },
                   plotOptions: {
                     series: {
+                      ...seriesOption,
                       stickyTracking: false,
                       dragDrop: {
                         draggableY: true,
@@ -653,7 +647,7 @@ export class VisualsCfComponent implements OnInit {
                         },
                       },
                     },
-                    spline: {
+                    areaspline: {
                       stacking: 'normal',
                       minPointLength: 2,
                       colorByPoint: true,

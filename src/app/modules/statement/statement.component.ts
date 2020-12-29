@@ -76,6 +76,7 @@ export class StatementComponent implements OnInit {
     public formBuilder: FormBuilder
   ) {}
   ngOnInit(): void {
+	ELEMENT_DATA.length=0;
     const nickname = localStorage.getItem('nickname');
     this.progressBar = true;
     const val = this.urlConfig.getStatementAPI() + nickname;

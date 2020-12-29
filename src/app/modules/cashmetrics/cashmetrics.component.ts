@@ -1,11 +1,13 @@
-import { Component, OnInit, ViewChild, ChangeDetectorRef } from '@angular/core';
+import { Component, OnInit, ViewChild, ChangeDetectorRef,ElementRef} from '@angular/core';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { RMIAPIsService } from 'src/app/shared/rmiapis.service';
+import { ExcelService } from 'src/app/shared/excel.service';
 import {UserDetailModelService} from 'src/app/shared/user-detail-model.service';
 import pdfMake from 'pdfmake/build/pdfmake';
 import pdfFonts from 'pdfmake/build/vfs_fonts';
 pdfMake.vfs = pdfFonts.pdfMake.vfs;
 import autoTable from 'jspdf-autotable';
+import * as Excel from "exceljs/dist/exceljs.min.js"
 import {formatNumber} from '@angular/common';
 
 export interface PLElement {
@@ -38,6 +40,7 @@ let ELEMENT_PL_PDF: PLElement[] = [];
   styleUrls: ['./cashmetrics.component.scss']
 })
 export class CashmetricsComponent implements OnInit {
+	@ViewChild('imagecanvas', { static: true }) imagecanvas: ElementRef;
   scenarioArray=[];
   scenario=this.UserDetailModelService.getSelectedScenario();
   companyName=this.UserDetailModelService.getSelectedCompany();
@@ -69,11 +72,12 @@ financials =[];
   companySelected = localStorage.getItem('companySelected');
   scenarioNumber = localStorage.getItem('scenarioNumber');
   selectedCompanyName = localStorage.getItem('selectedCompanyName');
-  scenarioName = 'Default';
+  scenarioName = 'Scenario [0]';
   constructor(
   private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
-    private UserDetailModelService:UserDetailModelService
+    private UserDetailModelService:UserDetailModelService,
+	private excelService: ExcelService
 	) { }
 
   ngOnInit() {
@@ -188,13 +192,70 @@ for (let j=0; j<res.length; j++) {
   }
  
   loadScenario(index:number){
-		this.scenarioName = "Scenario "+index; 
+		this.scenarioName = "Scenario "+"["+index+"]"; 
       this.scenario = index;
       this.ngOnInit();
   
   }
 
-  exportToXLSX(){}
+  exportToXLSX(){
+    console.log("Finanials", this.financials)
+
+    this.years.forEach( year => {
+      year = " " + year
+    })
+
+    const keys = ["in millions"].concat(this.years)
+    const data = []
+
+    data.push(this.prepareJsonForExport(keys, 'Netincome', "NetIncome"))
+    data.push(this.prepareJsonForExport(keys, 'DandA', "(+) D&A" ,true))
+    data.push(this.prepareJsonForExport(keys, 'FundsFromOperations', "Funds from Operations"))
+    data.push(this.prepareJsonForExport(keys, 'Accountreceivables', "(+/–) Δ in Accounts Receivable"))
+    data.push(this.prepareJsonForExport(keys, 'Inventories', "(+/–) Δ in Inventories",true))
+    data.push(this.prepareJsonForExport(keys, 'Accountspayable', "(+/–) Δ in Accounts Payable"))
+    data.push(this.prepareJsonForExport(keys, 'AccuredLiabilites', "(+/–) Δ in Accrued Liabilities"))
+    data.push(this.prepareJsonForExport(keys, 'OtherCurrentliabilities', "(+/–) Δ in Other Current Liabilities",true))
+    data.push(this.prepareJsonForExport(keys, 'CashFlowFromOperatingActivites', "Cash Flow from Operating Activities (CFO)"))
+    data.push(this.prepareJsonForExport(keys, 'Totalexpenditure', "(–) Total Capital Expenditures"))
+    data.push(this.prepareJsonForExport(keys, 'AssetSales', "(+) Asset Sales",true))
+    data.push(this.prepareJsonForExport(keys, 'OtherCurrentassets', "(+/–) Δ in Other Current Assets")) // check this.
+    data.push(this.prepareJsonForExport(keys, 'OtherInvestingActivites', "(+/–) Other Investing Activities"))
+    data.push(this.prepareJsonForExport(keys, 'CashFlowFromInvesting', "Cash Flow from Investing Activities (CFI)"))
+    data.push(this.prepareJsonForExport(keys, 'DebtIssuedRetired', "(+/–) Debt Issued (Retired)",true))
+    data.push(this.prepareJsonForExport(keys, 'CommonStockIssuedRetired', "(+/–) Common Stock Issued (Retired)"))
+    data.push(this.prepareJsonForExport(keys, 'Dividendspaid', "(–) Dividends Paid"))
+    data.push(this.prepareJsonForExport(keys, 'CashFlowFromFinancingActivites', "Cash Flow from Financing Activities (CFF)",true))
+	data.push(this.prepareJsonForExport(keys, 'NetChangeinCash', "Net Change in Cash"))
+
+    console.log(data);
+
+    this.excelService.exportAsExcelFile(data, "Cash Flow Statement", keys,this.selectedCompanyName,this.scenarioName)
+
+  }
+
+  prepareJsonForExport(keys, parameter, label,isPercent?){
+    const jsonObject = {};
+
+    
+
+    keys.forEach((key, index) => {
+      if(index == 0){
+        jsonObject[key] = label
+      }
+      else{
+		  if(isPercent){
+			   jsonObject[key] = +(this.financials[index - 1][parameter]/100)
+		   }
+		   else{
+        jsonObject[key] = +this.financials[index - 1][parameter]
+      }
+	  }
+    })
+
+    return jsonObject
+    
+  }
   exportToPDF(){
     //let doc = new jsPDF('l','pt'); 
     let data = [];
@@ -323,20 +384,27 @@ for (let j=0; j<res.length; j++) {
     //   });
     //   doc.save(this.companySelected +'.pdf');
 
+
+var canvas = document.createElement('canvas');
+        canvas.width = this.imagecanvas.nativeElement.width; 
+        canvas.height = this.imagecanvas.nativeElement.height; 
+        canvas.getContext('2d').drawImage(this.imagecanvas.nativeElement,0,0);
+  const imagermi = canvas.toDataURL('image/png')
       let docDefinition = {
 		    pageSize: {
-    width: 800,
+    width: 870,
     height: 'auto'
   },
 	
-  pageMargins: [ 40, 60, 40, 60 ],
+   pageMargins: [ 40, 40, 40, 40 ],
         
   
 			
  
 		content: [
+		{image:imagermi,width:150,height:75},
 			{
-				  text:this.selectedCompanyName+' - '+ this.scenarioName+ ' - ' +' Cash Flow Metrics',
+				  text:this.selectedCompanyName+' - ' +' Historical & Projected Cash Flow Statement '+'-'+this.scenarioName,
 				  style:'header',
 			},
           {
@@ -348,7 +416,7 @@ for (let j=0; j<res.length; j++) {
               headerRows: 1,
               heights: 20,
 			  //width:'auto',
-              widths: [240, 70, 70, 70,70,70,60],
+              widths: [240, 70, 70, 70,70,70,60,60],
               body: data
             },
             layout: {

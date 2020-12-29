@@ -19,6 +19,7 @@ import { CompanyDashboardComponent } from './modules/company-dashboard/company-d
 import { CashmetricsComponent } from './modules/cashmetrics/cashmetrics.component';
 import { VisualsCfComponent } from 'src/app/modules/visuals-cf/visuals-cf.component';
 import { RatiosComponent } from './modules/ratios/ratios.component';
+import { KpiCashflowComponent } from './modules/kpi-cashflow/kpi-cashflow.component';
 const routes: Routes = [
   {
     path: '',
@@ -57,47 +58,52 @@ const routes: Routes = [
       {
         path: 'visualsCF',
         component: VisualsCfComponent,
-       // canActivate: [AuthGuard],
+       canActivate: [AuthGuard],
       },
       {
         path: 'cashmetrics',
         component: CashmetricsComponent,
-       // canActivate: [AuthGuard],
+       canActivate: [AuthGuard],
       },
       {
         path: 'IncomeStatementMetrics',
         component: PLMetricsComponent,
-       // canActivate: [AuthGuard],
+       canActivate: [AuthGuard],
       },
       {
         path: 'BalanceSheetMetrics',
         component: BsmetricsComponent,
-       // canActivate: [AuthGuard],
+       canActivate: [AuthGuard],
       },
       {
         path: 'KPIIncomeStatement',
         component: KpiIsComponent,
-       // canActivate: [AuthGuard],
+       canActivate: [AuthGuard],
       },
       {
         path: 'KPIBalanceSheet',
         component: KpiBsComponent,
-       // canActivate: [AuthGuard],
+       canActivate: [AuthGuard],
       },
       {
         path: 'profile',
         component: ProfileComponent,
-       // canActivate: [AuthGuard],
+       canActivate: [AuthGuard],
       },
       {
         path: 'user',
         component: UserDetailsComponent,
-       // canActivate: [AuthGuard],
+       canActivate: [AuthGuard],
       },
       {
         path: ':companyName/dashboard/:scenario',
         component: CompanyDashboardComponent,
-       // canActivate: [AuthGuard],
+       canActivate: [AuthGuard],
+      },
+	  {
+        path: 'kpiCashflow',
+        component: KpiCashflowComponent,
+        canActivate: [AuthGuard],
       },
       {
         path: 'ratios',

@@ -26,6 +26,7 @@ import { ProfileComponent } from './modules/profile/profile.component';
 import { RMIAPIsService } from './shared/rmiapis.service';
 import { UrlConfigService } from './shared/url-config.service';
 
+
 @NgModule({
   declarations: [
     AppComponent,

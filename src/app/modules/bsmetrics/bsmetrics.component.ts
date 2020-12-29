@@ -1,10 +1,12 @@
-import { Component, OnInit, ViewChild, ChangeDetectorRef } from '@angular/core';
+import { Component, OnInit, ViewChild, ChangeDetectorRef,ElementRef} from '@angular/core';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { RMIAPIsService } from 'src/app/shared/rmiapis.service';
+import { ExcelService } from 'src/app/shared/excel.service';
 import {UserDetailModelService} from 'src/app/shared/user-detail-model.service';
 import pdfMake from 'pdfmake/build/pdfmake';
 import pdfFonts from 'pdfmake/build/vfs_fonts';
 pdfMake.vfs = pdfFonts.pdfMake.vfs;
+import * as Excel from "exceljs/dist/exceljs.min.js"
 import {formatNumber} from '@angular/common';
 
 export interface PLElement {
@@ -39,6 +41,7 @@ let ELEMENT_BS_PDF: PLElement[] = [];
 })
 
 export class BsmetricsComponent implements OnInit {
+  @ViewChild('imagecanvas', { static: true }) imagecanvas: ElementRef;
   scenarioArray=[];
   scenario=this.UserDetailModelService.getSelectedScenario();
   companyName=this.UserDetailModelService.getSelectedCompany();
@@ -72,11 +75,12 @@ export class BsmetricsComponent implements OnInit {
   displayData: any[];
   companySelected = localStorage.getItem('companySelected');
   selectedCompanyName = localStorage.getItem('selectedCompanyName');
-   scenarioName = 'Default';
+   scenarioName = 'Scenario [0]';
   constructor(
     private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
-    private UserDetailModelService:UserDetailModelService
+    private UserDetailModelService:UserDetailModelService,
+	private excelService: ExcelService
   ) { }
 
   ngOnInit() {
@@ -207,12 +211,71 @@ export class BsmetricsComponent implements OnInit {
   }
 
   loadScenario(index:number){
-   this.scenarioName = "Scenario "+index; 
+   this.scenarioName = "Scenario "+"["+index+"]"; 
       this.scenario = index;
       this.ngOnInit();
   
   }
-  exportToXLSX(){}
+  exportToXLSX(){
+    console.log("Finanials", this.financials)
+
+    this.years.forEach( year => {
+      year = " " + year
+    })
+
+    const keys = ["in millions"].concat(this.years)
+    const data = []
+
+    data.push(this.prepareJsonForExport(keys, 'cashequivalents', "Cash Equivalents"))
+    data.push(this.prepareJsonForExport(keys, 'accountsreceivable', "Accounts Receivable",true))
+    data.push(this.prepareJsonForExport(keys, 'inventories', " Inventories "))
+    data.push(this.prepareJsonForExport(keys, 'othercurrentassets', "Prepaid Expenses & Other Current Assets "))
+    data.push(this.prepareJsonForExport(keys, 'totalcurrentassets', "Total Current Assets",true))
+    data.push(this.prepareJsonForExport(keys, 'ppe', "Property Plant & Equipment"))
+    data.push(this.prepareJsonForExport(keys, 'intangibleassets', " Intangible Assets"))
+    data.push(this.prepareJsonForExport(keys, 'goodwill', "Goodwill",true))
+    data.push(this.prepareJsonForExport(keys, 'otherassets', "Other Assets"))
+    data.push(this.prepareJsonForExport(keys, 'totalassets', " Total Assets"))
+    data.push(this.prepareJsonForExport(keys, 'currentportionlongtermdebt', "Current Portion Long Term Debt",true))
+    data.push(this.prepareJsonForExport(keys, 'accountspayable', " Accounts Payable")) // check this.
+    data.push(this.prepareJsonForExport(keys, 'accruedliabilities', "Accrued Liabilities"))
+    data.push(this.prepareJsonForExport(keys, 'othercurrentliabilities', "Other Current Liabilities"))
+    data.push(this.prepareJsonForExport(keys, 'totalcurrentliabilities', " Total Current Liabilities",true))
+    data.push(this.prepareJsonForExport(keys, 'longtermdebt', "Long Term Debt"))
+    data.push(this.prepareJsonForExport(keys, 'otherliabilities', "Other Liabilities"))
+    data.push(this.prepareJsonForExport(keys, 'totalliabilities', "Total Liabilities",true))
+	data.push(this.prepareJsonForExport(keys, 'totalshareholdersequity', "Total Shareholders Equity"))
+    data.push(this.prepareJsonForExport(keys, 'totalliabilitiesandequity', " Total Liabilities and Shareholders Equity ",true))
+    data.push(this.prepareJsonForExport(keys, 'Memo Check', "Memo Check"))
+
+    console.log(data);
+
+    this.excelService.exportAsExcelFile(data, "Balance-Sheet Statement", keys,this.selectedCompanyName,this.scenarioName)
+
+  }
+
+  prepareJsonForExport(keys, parameter, label,isPercent?){
+    const jsonObject = {};
+
+    
+
+    keys.forEach((key, index) => {
+      if(index == 0){
+        jsonObject[key] = label
+      }
+      else{
+		  if(isPercent){
+			   jsonObject[key] = +(this.financials[index - 1][parameter]/100)
+		   }
+		   else{
+        jsonObject[key] = +this.financials[index - 1][parameter]
+      }
+	  }
+    })
+
+    return jsonObject
+    
+  }
   exportToPDF(){
    // let doc = new jsPDF('l','pt'); 
   let data = [];
@@ -313,20 +376,31 @@ export class BsmetricsComponent implements OnInit {
   this.getMappedArr(totalLiabilitiesShareholdersEquity,true),
   this.getMappedArr(memocheck,true));
 
+ 
+var canvas = document.createElement('canvas');
+        canvas.width = this.imagecanvas.nativeElement.width; 
+        canvas.height = this.imagecanvas.nativeElement.height; 
+        canvas.getContext('2d').drawImage(this.imagecanvas.nativeElement,0,0);
+  const imagermi = canvas.toDataURL('image/png')
+  
  let docDefinition = {
+	 
+	 
+	 
+	 
 		    pageSize: {
-    width: 800,
+    width: 870,
     height: 'auto'
   },
-	
-  pageMargins: [ 40, 60, 40, 60 ],
+  pageMargins: [ 40, 40, 40, 40 ],
         
   
 			
  
 		content: [
+		{image:imagermi,width:150,height:75},
 			{
-				  text:this.selectedCompanyName+' - '+ this.scenarioName+ ' - ' +' Balance Sheet Metrics',
+				  text:this.selectedCompanyName+' - '+' Historical & Projected Balance Sheet'+'-' +this.scenarioName,
 				  style:'header',
 			},
           {
@@ -338,7 +412,7 @@ export class BsmetricsComponent implements OnInit {
               headerRows: 1,
               heights: 20,
 			  //width:'auto',
-              widths: [240, 70, 70, 70,70,70,60],
+              widths: [240, 70, 70, 70,70,70,70,60],
               body: data
             },
             layout: {
@@ -397,6 +471,10 @@ export class BsmetricsComponent implements OnInit {
 
       return arr;
     }
+	/////#imagecanvas
+	
+	
+	
 }
 
 

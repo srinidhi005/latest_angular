@@ -1,11 +1,13 @@
-import { Component, OnInit, ViewChild, ChangeDetectorRef } from '@angular/core';
+import { Component, OnInit, ViewChild, ChangeDetectorRef,ElementRef } from '@angular/core';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { RMIAPIsService } from 'src/app/shared/rmiapis.service';
 import {UserDetailModelService} from 'src/app/shared/user-detail-model.service';
+import { ExcelService } from 'src/app/shared/excel.service';
 import pdfMake from 'pdfmake/build/pdfmake';
 import pdfFonts from 'pdfmake/build/vfs_fonts';
 pdfMake.vfs = pdfFonts.pdfMake.vfs;
-import * as XLSX from 'xlsx';
+//import * as XLSX from 'xlsx';
+ import * as Excel from "exceljs/dist/exceljs.min.js"
 import {formatNumber} from '@angular/common';
 
 
@@ -39,6 +41,7 @@ let ELEMENT_PL_PDF: PLElement[] = [];
 })
 
 export class PLMetricsComponent implements OnInit {
+	@ViewChild('imagecanvas', { static: true }) imagecanvas: ElementRef;
   scenarioArray=[];
   scenario=this.UserDetailModelService.getSelectedScenario();
   companyName=this.UserDetailModelService.getSelectedCompany();
@@ -68,11 +71,12 @@ export class PLMetricsComponent implements OnInit {
   displayData: any[];
   companySelected = localStorage.getItem('companySelected');
   selectedCompanyName = localStorage.getItem('selectedCompanyName');
-  scenarioName = 'Default';
+  scenarioName = 'Scenario [0]';
   constructor(
     private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
-    private UserDetailModelService:UserDetailModelService
+    private UserDetailModelService:UserDetailModelService,
+	private excelService: ExcelService
   ) { }
 
   ngOnInit() {
@@ -187,32 +191,71 @@ export class PLMetricsComponent implements OnInit {
   }
  
   loadScenario(index:number){
-  this.scenarioName = "Scenario "+index;
-      this.scenario = index;
+  this.scenarioName = "Scenario "+"["+index+"]";
+  this.scenario = index;
       this.ngOnInit();
   
   }
 
   exportToXLSX(){
-	   /* table id is passed over here */   
-    let element = document.getElementById('myTable'); 
-    const ws: XLSX.WorkSheet =XLSX.utils.table_to_sheet(element);
-	var wscols = [ 
-	{wch:60}
-	];
-	ws['!cols']=wscols
+    console.log("Finanials", this.financials)
 
+    this.years.forEach( year => {
+      year = " " + year
+    })
 
+    const keys = ["in millions"].concat(this.years)
+    const data = []
 
-    /* generate workbook and add the worksheet */
-    const wb: XLSX.WorkBook = XLSX.utils.book_new();
-	
-    XLSX.utils.book_append_sheet(wb, ws, 'Sheet1');
-    let fileName = localStorage.getItem('companySelected')+".xlsx";
-    /* save to file */
-    XLSX.writeFile(wb,fileName);
-	  
+    data.push(this.prepareJsonForExport(keys, 'totalRevenue', "Total Revenue"))
+    data.push(this.prepareJsonForExport(keys, 'revenuepercent', "Revenue Y-O-Y Growth rate",true))
+    data.push(this.prepareJsonForExport(keys, 'COGS', "(-) Cost of Goods Sold (COGS) "))
+    data.push(this.prepareJsonForExport(keys, 'GrossProfit', "Gross Profit "))
+    data.push(this.prepareJsonForExport(keys, 'GrossMargin', "Gross Margin",true))
+    data.push(this.prepareJsonForExport(keys, 'SGA', "(-) Selling, General & Administrative Expense (SG&A)"))
+    data.push(this.prepareJsonForExport(keys, 'EBIT', "EBIT"))
+    data.push(this.prepareJsonForExport(keys, 'EBITMargin', "EBIT Margin",true))
+    data.push(this.prepareJsonForExport(keys, 'DandA', "(+) Depreciation & Amortization (D&A)"))
+    data.push(this.prepareJsonForExport(keys, 'EBITDA', "EBITDA"))
+    data.push(this.prepareJsonForExport(keys, 'EBITDAMargin', "EBITDA Margin",true))
+    data.push(this.prepareJsonForExport(keys, 'EBIT', "EBIT")) // check this.
+    data.push(this.prepareJsonForExport(keys, 'netIterestExpense', "(-) Net Interest/Other Income Expense"))
+    data.push(this.prepareJsonForExport(keys, 'EBT', "EBT"))
+    data.push(this.prepareJsonForExport(keys, 'EBTMargin', "EBT Margin",true))
+    data.push(this.prepareJsonForExport(keys, 'Taxes', "(-) Taxes"))
+    data.push(this.prepareJsonForExport(keys, 'NetIncome', "Net Income"))
+    data.push(this.prepareJsonForExport(keys, 'NetIncomeMargin', "Net Income Margin",true));
+
+    console.log(data);
+
+    this.excelService.exportAsExcelFile(data, "Income Statement", keys,this.selectedCompanyName,this.scenarioName)
+
   }
+
+  prepareJsonForExport(keys, parameter, label,isPercent?){
+    const jsonObject = {};
+
+    
+
+    keys.forEach((key, index) => {
+      if(index == 0){
+        jsonObject[key] = label
+      }
+      else{
+		  if(isPercent){
+			   jsonObject[key] = +(this.financials[index - 1][parameter]/100)
+		   }
+		   else{
+        jsonObject[key] = +this.financials[index - 1][parameter]
+      }
+	  }
+    })
+
+    return jsonObject
+    
+  }
+
+
   exportToPDF(){
     //let doc = new jsPDF('l','pt'); 
   let data = [];
@@ -301,21 +344,29 @@ export class PLMetricsComponent implements OnInit {
   this.getMappedArr(taxes),
   this.getMappedArr(netIncome,true),
   this.getMappedArr(netIncomeMargin));
-console.log("data",data); 
+console.log("data",data);
+
+var canvas = document.createElement('canvas');
+        canvas.width = this.imagecanvas.nativeElement.width; 
+        canvas.height = this.imagecanvas.nativeElement.height; 
+        canvas.getContext('2d').drawImage(this.imagecanvas.nativeElement,0,0);
+  const imagermi = canvas.toDataURL('image/png')
+  
  let docDefinition = {
 		    pageSize: {
-    width: 850,
+    width: 910,
     height: 'auto'
   },
 	
-  pageMargins: [ 40, 60, 40, 60 ],
+   pageMargins: [ 40, 40, 40, 40 ],
         
   
 			
  
 		content: [
+		{image:imagermi,width:150,height:75},
 			{
-				  text:this.selectedCompanyName+' - '+ this.scenarioName+ ' - ' +' Income Statement Metrics',
+				  text:this.selectedCompanyName+' - '+' Historical & Projected Income Statement  '+'-'+ this.scenarioName,
 				  style:'header',
 			},
           {
@@ -327,7 +378,7 @@ console.log("data",data);
               headerRows: 1,
               heights: 20,
 			  //width:'auto',
-              widths: [290, 60, 60, 60,60,60,60,60],
+              widths: [290, 60, 60, 60,60,60,60,60,60],
               body: data
 			  
             },

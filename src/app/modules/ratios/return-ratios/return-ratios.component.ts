@@ -57,24 +57,24 @@ export class ReturnRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[0],
       };
       actualColumns.forEach((d: any) => {
-        operatingreturnassets[d.value] = this.actuals[
-          d.index
-        ].operating_return_on_assets;
+        operatingreturnassets[d.value] = (
+          this.actuals[d.index].operatingreturnassets || 0
+        ).toFixed(1);
       });
       projectionColumn.forEach((d: any) => {
-        operatingreturnassets[d.value] = this.projections[
-          d.index
-        ].operating_return_on_assets;
+        operatingreturnassets[d.value] = (
+          this.projections[d.index].operatingreturnassets || 0
+        ).toFixed(1);
       });
       averages.forEach((a) => {
         if (a.isActual) {
           operatingreturnassets[a.value] = (
-            this.actuals[a.index].operating_return_on_assets || 0.0
-          ).toFixed(2);
+            this.actuals[a.index].operatingreturnassets || 0.0
+          ).toFixed(1);
         } else {
           operatingreturnassets[a.value] = (
-            this.projections[a.index].operating_return_on_assets || 0.0
-          ).toFixed(2);
+            this.projections[a.index].operatingreturnassets || 0.0
+          ).toFixed(1);
         }
       });
       this.data.push(operatingreturnassets);
@@ -82,22 +82,24 @@ export class ReturnRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[1],
       };
       actualColumns.forEach((d: any) => {
-        cashreturnassets[d.value] = this.actuals[d.index].cash_return_on_assets;
+        cashreturnassets[d.value] = (
+          this.actuals[d.index].cashreturnassets || 0
+        ).toFixed(1);
       });
       projectionColumn.forEach((d: any) => {
-        cashreturnassets[d.value] = this.projections[
-          d.index
-        ].cash_return_on_assets;
+        cashreturnassets[d.value] = (
+          this.projections[d.index].cashreturnassets || 0
+        ).toFixed(1);
       });
       averages.forEach((a) => {
         if (a.isActual) {
           cashreturnassets[a.value] = (
-            this.actuals[a.index].cash_return_on_assets || 0.0
-          ).toFixed(2);
+            this.actuals[a.index].cashreturnassets || 0.0
+          ).toFixed(1);
         } else {
           cashreturnassets[a.value] = (
-            this.projections[a.index].cash_return_on_assets || 0
-          ).toFixed(2);
+            this.projections[a.index].cashreturnassets || 0
+          ).toFixed(1);
         }
       });
       this.data.push(cashreturnassets);
@@ -105,20 +107,24 @@ export class ReturnRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[2],
       };
       actualColumns.forEach((d: any) => {
-        returnassets[d.value] = this.actuals[d.index].return_on_assets;
+        returnassets[d.value] = (
+          this.actuals[d.index].returnassets || 0
+        ).toFixed(1);
       });
       projectionColumn.forEach((d: any) => {
-        returnassets[d.value] = this.projections[d.index].return_on_assets;
+        returnassets[d.value] = (
+          this.projections[d.index].returnassets || 0
+        ).toFixed(1);
       });
       averages.forEach((a) => {
         if (a.isActual) {
           returnassets[a.value] = (
-            this.actuals[a.index].return_on_assets || 0
-          ).toFixed(2);
+            this.actuals[a.index].returnassets || 0
+          ).toFixed(1);
         } else {
           returnassets[a.value] = (
-            this.projections[a.index].return_on_assets || 0
-          ).toFixed(2);
+            this.projections[a.index].returnassets || 0
+          ).toFixed(1);
         }
       });
       this.data.push(returnassets);
@@ -126,24 +132,24 @@ export class ReturnRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[3],
       };
       actualColumns.forEach((d: any) => {
-        returntotalcapital[d.value] = this.actuals[
-          d.index
-        ].return_on_total_capital;
+        returntotalcapital[d.value] = (
+          this.actuals[d.index].returntotalcapital || 0
+        ).toFixed(1);
       });
       projectionColumn.forEach((d: any) => {
-        returntotalcapital[d.value] = this.projections[
-          d.index
-        ].return_on_total_capital;
+        returntotalcapital[d.value] = (
+          this.projections[d.index].returntotalcapital || 0
+        ).toFixed(1);
       });
       averages.forEach((a) => {
         if (a.isActual) {
           returntotalcapital[a.value] = (
-            this.actuals[a.index].return_on_total_capital || 0
-          ).toFixed(2);
+            this.actuals[a.index].returntotalcapital || 0
+          ).toFixed(1);
         } else {
           returntotalcapital[a.value] = (
-            this.projections[a.index].return_on_total_capital || 0
-          ).toFixed(2);
+            this.projections[a.index].returntotalcapital || 0
+          ).toFixed(1);
         }
       });
       this.data.push(returntotalcapital);
@@ -151,20 +157,24 @@ export class ReturnRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[3],
       };
       actualColumns.forEach((d: any) => {
-        returnequity[d.value] = this.actuals[d.index].return_on_equity;
+        returnequity[d.value] = (
+          this.actuals[d.index].returnequity || 0
+        ).toFixed(1);
       });
       projectionColumn.forEach((d: any) => {
-        returnequity[d.value] = this.projections[d.index].return_on_equity;
+        returnequity[d.value] = (
+          this.projections[d.index].returnequity || 0
+        ).toFixed(1);
       });
       averages.forEach((a) => {
         if (a.isActual) {
           returnequity[a.value] = (
-            this.actuals[a.index].return_on_equity || 0
-          ).toFixed(2);
+            this.actuals[a.index].returnequity || 0
+          ).toFixed(1);
         } else {
           returnequity[a.value] = (
-            this.projections[a.index].return_on_equity || 0
-          ).toFixed(2);
+            this.projections[a.index].returnequity || 0
+          ).toFixed(1);
         }
       });
       this.data.push(returnequity);

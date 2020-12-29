@@ -40,6 +40,7 @@ import { IncomeStatementKpiComponent } from 'src/app/modules/company-dashboard/i
 import { KpiBsComponent } from 'src/app/modules/kpi-bs/kpi-bs.component';
 import { KpiIsComponent } from 'src/app/modules/kpi-is/kpi-is.component';
 import { PLMetricsComponent } from 'src/app/modules/plmetrics/plmetrics.component';
+import { KpiCashflowComponent } from 'src/app/modules/kpi-cashflow/kpi-cashflow.component';
 import { CashmetricsComponent } from 'src/app/modules/cashmetrics/cashmetrics.component';
 import {
   DialogElementsExampleDialog,
@@ -100,6 +101,7 @@ import { SolvencyRatiosComponent } from 'src/app/modules/ratios/solvency-ratios/
     VisualsBsComponent,
     KpiIsComponent,
     KpiBsComponent,
+	KpiCashflowComponent,
     VisualsCfComponent,
     CashmetricsComponent,
     CompanyMatricsComponent,

@@ -24,6 +24,10 @@ export class UrlConfigService {
   private userDetailAPI = `${environment.APIHost}updateprofile`;
   private userProfileDetailAPI = `${environment.APIHost}userprofiledetails?userid=`;
   private getTopCompanies = `${environment.APIHost}dashboard`;
+  private cashKPIProjections = `${environment.APIHost}kpi-cfs-projections?company=`;
+  private cashKPIActuals = `${environment.APIHost}kpi-cfs-actuals?company=`;
+ 
+  
   constructor(private http: HttpClient) {}
 
   getStatementAPI() {
@@ -58,6 +62,12 @@ export class UrlConfigService {
   }
   getBsProjectionsAPIPOST() {
     return this.bsProjectionsAPIGET;
+  }
+   getKPICashProjections() {
+    return this.cashKPIProjections;
+  }
+  getKPICashActuals() {
+    return this.cashKPIActuals;
   }
   getIsKPIActuals() {
     return this.isKPIActuals;

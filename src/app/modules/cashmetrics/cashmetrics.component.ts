@@ -404,7 +404,7 @@ var canvas = document.createElement('canvas');
 		content: [
 		{image:imagermi,width:150,height:75},
 			{
-				  text:this.selectedCompanyName+' - ' +' Historical & Projected Cash Flow '+'-'+this.scenarioName,
+				  text:this.selectedCompanyName+' - ' +' Historical & Projected Cash Flow Statement '+'-'+this.scenarioName,
 				  style:'header',
 			},
           {

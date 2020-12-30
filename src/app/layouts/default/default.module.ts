@@ -78,6 +78,8 @@ import { ProfitabilityRatiosComponent } from 'src/app/modules/ratios/profitabili
 import { ReturnRatiosComponent } from 'src/app/modules/ratios/return-ratios/return-ratios.component';
 import { LiquidityRatiosComponent } from 'src/app/modules/ratios/liquidity-ratios/liquidity-ratios.component';
 import { SolvencyRatiosComponent } from 'src/app/modules/ratios/solvency-ratios/solvency-ratios.component';
+import { ParseNumberPipe } from 'src/app/pipes/parse-number.pipe';
+import { CashflowKPIComponent } from 'src/app/modules/company-dashboard/cashflow/cashflow.component';
 
 @NgModule({
   declarations: [
@@ -101,7 +103,7 @@ import { SolvencyRatiosComponent } from 'src/app/modules/ratios/solvency-ratios/
     VisualsBsComponent,
     KpiIsComponent,
     KpiBsComponent,
-	KpiCashflowComponent,
+    KpiCashflowComponent,
     VisualsCfComponent,
     CashmetricsComponent,
     CompanyMatricsComponent,
@@ -119,6 +121,8 @@ import { SolvencyRatiosComponent } from 'src/app/modules/ratios/solvency-ratios/
     ReturnRatiosComponent,
     LiquidityRatiosComponent,
     SolvencyRatiosComponent,
+    ParseNumberPipe,
+    CashflowKPIComponent,
   ],
   imports: [
     CommonModule,
@@ -173,6 +177,6 @@ import { SolvencyRatiosComponent } from 'src/app/modules/ratios/solvency-ratios/
     uploadSnackBarCFAddComponent,
     uploadFailureSnackBarCFAddComponent,
   ],
-  providers: [RMIAPIsService],
+  providers: [RMIAPIsService, ParseNumberPipe],
 })
 export class DefaultModule {}

@@ -8,10 +8,11 @@
             </mat-expansion-panel-header>
             <ng-container *ngFor="let company of topCompanies; let i = $index">
                 <mat-accordion>
-                    <mat-expansion-panel class="mat-elevation-z0">
+                    <mat-expansion-panel class="mat-elevation-z0 child-component">
                         <mat-expansion-panel-header>
                             <a mat-list-item routerLinkActive="list-item-active">
-                                <mat-icon>library_books</mat-icon>{{company.company}}
+                                <mat-icon>library_books</mat-icon>
+                                {{company.company}}
                             </a>
                         </mat-expansion-panel-header>
                         <ng-container *ngFor="let scenario of company.scenario">
@@ -54,7 +55,7 @@
             <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIBalanceSheet">
                 <mat-icon>menu_book</mat-icon>Balance Sheet
             </a>
-			<a mat-list-item routerLinkActive="list-item-active" routerLink="/kpiCashflow">
+            <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpiCashflow">
                 <mat-icon>menu_book</mat-icon>Cash Flow Statement
             </a>
         </mat-expansion-panel>

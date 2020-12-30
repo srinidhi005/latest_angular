@@ -24,7 +24,6 @@ export class RatiosComponent implements OnInit, OnDestroy {
   }
   getData() {
     const companySelected = localStorage.getItem('companySelected'); // 'nike-2018';
-    /* $ */
     this.RatioScenarionSubscription = this.rmiApiService
       .getData(`ratios-scenarios?company=${companySelected}`)
       .subscribe((scenario: any) => {
@@ -35,7 +34,6 @@ export class RatiosComponent implements OnInit, OnDestroy {
   }
   getActualAndProjection() {
     const companySelected = localStorage.getItem('companySelected'); // 'nike-2018';
-    /* $localStorage.getItem('companySelected') */
     this.RatioActualsSubscription = this.rmiApiService
       .getData(`ratios-actuals?company=${companySelected}`)
       .subscribe((data: any[]) => {

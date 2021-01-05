@@ -1,0 +1,93 @@
+<div fxLayout="row" fxLayoutAlign="space-between center" fxLayoutGap="20px">
+    <div fxFlex="100">
+	  <div class="row">
+        <div class="col"></div>
+		 <div class="col-2">
+            <button mat-raised-button (click) = "showCreateUser = 'true'">Add User</button>
+        </div>
+    </div>
+	<ng-template [ngIf] = "showCreateUser">
+        <div class="row">
+            <div class="col">
+                <mat-form-field class="row container-field">
+                    <mat-label>Email</mat-label>
+                    <input type="email" matInput [(ngModel)]="user.email" name="user-email" placeholder="Enter the User Email"/>
+                </mat-form-field>
+
+               <mat-form-field class=" row container-field">
+                    <mat-label>Password</mat-label>
+                    <input type="password" matInput [(ngModel)]="user.password" name="password" placeholder="Password"/>
+                </mat-form-field>
+
+                <div class="row">
+                    <div class="col"></div>
+                    <div class="col-1" style="margin-left:1000px">
+                        <button mat-raised-button (click) = "createUser()">Create</button>
+                    </div>
+                    <div class="col-1" style="margin-left: 1200px;margin-top: -35px;margin-bottom: 10px;">
+                        <button mat-raised-button (click) = "showCreateUser = 'false'">Cancel</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </ng-template>
+	  <mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
+         <div class="mat-elevation-z8 table-container">
+		 <ng-template [ngIf] = "usersList && usersList.length > 0">
+    <table class="table-borderless" class="usersList">
+        <thead class="table-head">
+            <tr class="table-row">
+                <th>
+                    Name
+                </th>
+                <th>
+                    Email 
+                </th>
+                <th>
+                    Role 
+                </th>
+                <th>
+                    Assign Roles 
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <ng-template ngFor [ngForOf] = "usersList" let-user let-rowIndex = "index">
+                <tr>
+                    <td>
+					<img [src]="user.picture" [title]="user.nickname" class="image"/>
+                        <span>{{user.nickname}}</span>
+						
+                    </td>
+                    <td>
+                        {{user.email}}
+                    </td>
+                    <td>
+                        <ng-template [ngIf] = "user.app_metadata" [ngIfElse] = "roleNotExits">
+                           <span *ngFor = "let role of user.app_metadata.roles">
+                                {{ role }}
+                           </span>
+                        </ng-template>
+                        <ng-template #roleNotExits>
+                            -
+                        </ng-template>
+                    </td>
+                    <td>
+                        <mat-form-field style="width: 250px;">
+                            <mat-select [(ngModel)]="user['roleName']" (ngModelChange) = "assignRoleToUser(user)">
+                                <mat-option selected disabled>Select</mat-option>
+                                <ng-template ngFor [ngForOf] = "authService.roleIds" let-roleObj let-rowIndex = "index">
+                                    <mat-option [value]="roleObj.name"> {{roleObj.name | titlecase}} </mat-option>
+                                </ng-template>
+                            </mat-select>
+                        </mat-form-field> 
+                    </td>
+                </tr>
+            </ng-template>
+        </tbody>
+    </table>
+	 </ng-template>
+</div>
+</div>
+</div>

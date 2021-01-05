@@ -1,6 +1,7 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { Subscription } from 'rxjs';
+import { AuthService } from 'src/app/auth.service';
 import { RMIAPIsService } from '../../rmiapis.service';
 import { UrlConfigService } from '../../url-config.service';
 import { UserDetailModelService } from '../../user-detail-model.service';
@@ -21,7 +22,8 @@ export class SidebarComponent implements OnInit, OnDestroy {
     private userDetailModelService: UserDetailModelService,
     private apiService: RMIAPIsService,
     private urlConfig: UrlConfigService,
-    private router: Router
+    private router: Router,
+    public authService : AuthService
   ) {}
 
   ngOnInit() {

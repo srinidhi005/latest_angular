@@ -8,13 +8,31 @@
 
         <div fxFlex fxLayout="row" fxLayoutAlign="flex-end">
             <ul fxLayout="row" fxLayoutGap="20px">
-                <li routerLinkActive="list-item-active" routerLink="/addcompany">
+			
+                <li routerLinkActive="list-item-active" routerLink="/addcompany" 
+                *ngIf = "auth.currentUserRoles.indexOf('admin') >=0 || auth.currentUserRoles.indexOf('superadmin') >=0">
                         <button mat-icon-button #tooltip="matTooltip" id="addcompany-button"
                         matTooltip="Upload Company Statement">
                             <mat-icon>note_add</mat-icon>
                         </button>
                 </li>
-
+				<li>
+                    <button mat-button [matMenuTriggerFor]="user"
+					*ngIf = "auth.currentUserRoles?.indexOf('admin') >=0 || auth.currentUserRoles?.indexOf('superadmin') >=0">
+                        <mat-icon>settings</mat-icon>
+                    </button>
+					<mat-menu #user="matMenu">
+                        <button mat-menu-item  routerLinkActive="list-item-active" routerLink="/Users">
+                            <mat-icon>supervised_user_circle</mat-icon>
+                            User Management
+                        </button>
+						<button mat-menu-item  routerLinkActive="list-item-active" routerLink="/Users" 
+						*ngIf = "auth.currentUserRoles?.indexOf('admin') >=0 || auth.currentUserRoles?.indexOf('superadmin') >=0">
+                            <mat-icon>person_add</mat-icon>
+                            Invite User
+                        </button>
+						</mat-menu>
+					</li>
                 <li>
                     <button mat-button [matMenuTriggerFor]="menu" id="user-icon">
                         <mat-icon><img src="{{picture}}" alt="" class="img-profile"></mat-icon>

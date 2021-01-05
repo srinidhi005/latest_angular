@@ -25,6 +25,8 @@ export class ProfitabilityRatiosComponent implements OnInit, OnChanges {
   data = [];
   actualSpan = 0;
   projectionSpan = 0;
+
+  averageColumns = [];
   constructor() {}
 
   ngOnInit() {
@@ -37,11 +39,13 @@ export class ProfitabilityRatiosComponent implements OnInit, OnChanges {
       const actualColumns = [];
       const projectionColumn = [];
       const averages = [];
+      this.averageColumns = [];
       this.actuals.forEach((d: any, index: number) => {
         if (typeof d.asof === 'number') {
           actualColumns.push({ value: String(d.asof), index });
         } else {
           averages.push({ value: d.asof, isActual: true, index });
+          this.averageColumns.push(d.asof);
         }
       });
       this.projections.forEach((d: any, index: number) => {
@@ -49,6 +53,7 @@ export class ProfitabilityRatiosComponent implements OnInit, OnChanges {
           projectionColumn.push({ value: String(d.asof), index });
         } else {
           averages.push({ value: d.asof, isActual: false, index });
+          this.averageColumns.push(d.asof);
         }
       });
       this.actualSpan = actualColumns.length;
@@ -57,24 +62,19 @@ export class ProfitabilityRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[0],
       };
       actualColumns.forEach((d: any) => {
-        grossmargin[d.value] = (
-          (this.actuals[d.index] || {}).grossmargin || 0
-        ).toFixed(1);
+        grossmargin[d.value] = (this.actuals[d.index] || {}).grossmargin || 0;
       });
       projectionColumn.forEach((d: any) => {
-        grossmargin[d.value] = (
-          (this.projections[d.index] || {}).grossmargin || 0
-        ).toFixed(1);
+        grossmargin[d.value] =
+          (this.projections[d.index] || {}).grossmargin || 0;
       });
       averages.forEach((a) => {
         if (a.isActual) {
-          grossmargin[a.value] = (
-            (this.actuals[a.index] || {}).grossmargin || 0.0
-          ).toFixed(1);
+          grossmargin[a.value] =
+            (this.actuals[a.index] || {}).grossmargin || 0.0;
         } else {
-          grossmargin[a.value] = (
-            (this.projections[a.index] || {}).grossmargin || 0.0
-          ).toFixed(1);
+          grossmargin[a.value] =
+            (this.projections[a.index] || {}).grossmargin || 0.0;
         }
       });
       this.data.push(grossmargin);
@@ -82,24 +82,19 @@ export class ProfitabilityRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[1],
       };
       actualColumns.forEach((d: any) => {
-        ebitdamargin[d.value] = (
-          (this.actuals[d.index] || {}).ebitdamargin || 0
-        ).toFixed(1);
+        ebitdamargin[d.value] = (this.actuals[d.index] || {}).ebitdamargin || 0;
       });
       projectionColumn.forEach((d: any) => {
-        ebitdamargin[d.value] = (
-          (this.projections[d.index] || {}).ebitdamargin || 0
-        ).toFixed(1);
+        ebitdamargin[d.value] =
+          (this.projections[d.index] || {}).ebitdamargin || 0;
       });
       averages.forEach((a) => {
         if (a.isActual) {
-          ebitdamargin[a.value] = (
-            (this.actuals[a.index] || {}).ebitdamargin || 0.0
-          ).toFixed(1);
+          ebitdamargin[a.value] =
+            (this.actuals[a.index] || {}).ebitdamargin || 0.0;
         } else {
-          ebitdamargin[a.value] = (
-            (this.projections[a.index] || {}).ebitdamargin || 0.0
-          ).toFixed(1);
+          ebitdamargin[a.value] =
+            (this.projections[a.index] || {}).ebitdamargin || 0.0;
         }
       });
       this.data.push(ebitdamargin);
@@ -107,24 +102,20 @@ export class ProfitabilityRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[2],
       };
       actualColumns.forEach((d: any) => {
-        operatingprofitmargin[d.value] = (
-          (this.actuals[d.index] || {}).operatingprofitmargin || 0
-        ).toFixed(1);
+        operatingprofitmargin[d.value] =
+          (this.actuals[d.index] || {}).operatingprofitmargin || 0;
       });
       projectionColumn.forEach((d: any) => {
-        operatingprofitmargin[d.value] = (
-          (this.projections[d.index] || {}).operatingprofitmargin || 0
-        ).toFixed(1);
+        operatingprofitmargin[d.value] =
+          (this.projections[d.index] || {}).operatingprofitmargin || 0;
       });
       averages.forEach((a) => {
         if (a.isActual) {
-          operatingprofitmargin[a.value] = (
-            (this.actuals[a.index] || {}).operatingprofitmargin || 0.0
-          ).toFixed(1);
+          operatingprofitmargin[a.value] =
+            (this.actuals[a.index] || {}).operatingprofitmargin || 0.0;
         } else {
-          operatingprofitmargin[a.value] = (
-            (this.projections[a.index] || {}).operatingprofitmargin || 0.0
-          ).toFixed(1);
+          operatingprofitmargin[a.value] =
+            (this.projections[a.index] || {}).operatingprofitmargin || 0.0;
         }
       });
       this.data.push(operatingprofitmargin);
@@ -132,24 +123,19 @@ export class ProfitabilityRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[3],
       };
       actualColumns.forEach((d: any) => {
-        pretaxmargin[d.value] = (
-          (this.actuals[d.index] || {}).pretaxmargin || 0
-        ).toFixed(1);
+        pretaxmargin[d.value] = (this.actuals[d.index] || {}).pretaxmargin || 0;
       });
       projectionColumn.forEach((d: any) => {
-        pretaxmargin[d.value] = (
-          (this.projections[d.index] || {}).pretaxmargin || 0
-        ).toFixed(1);
+        pretaxmargin[d.value] =
+          (this.projections[d.index] || {}).pretaxmargin || 0;
       });
       averages.forEach((a) => {
         if (a.isActual) {
-          pretaxmargin[a.value] = (
-            (this.actuals[a.index] || {}).pretaxmargin || 0.0
-          ).toFixed(1);
+          pretaxmargin[a.value] =
+            (this.actuals[a.index] || {}).pretaxmargin || 0.0;
         } else {
-          pretaxmargin[a.value] = (
-            (this.projections[a.index] || {}).pretaxmargin || 0.0
-          ).toFixed(1);
+          pretaxmargin[a.value] =
+            (this.projections[a.index] || {}).pretaxmargin || 0.0;
         }
       });
       this.data.push(pretaxmargin);
@@ -157,24 +143,20 @@ export class ProfitabilityRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[4],
       };
       actualColumns.forEach((d: any) => {
-        netincomemargin[d.value] = (
-          (this.actuals[d.index] || {}).netincomemargin || 0
-        ).toFixed(1);
+        netincomemargin[d.value] =
+          (this.actuals[d.index] || {}).netincomemargin || 0;
       });
       projectionColumn.forEach((d: any) => {
-        netincomemargin[d.value] = (
-          (this.projections[d.index] || {}).netincomemargin || 0
-        ).toFixed(1);
+        netincomemargin[d.value] =
+          (this.projections[d.index] || {}).netincomemargin || 0;
       });
       averages.forEach((a) => {
         if (a.isActual) {
-          netincomemargin[a.value] = (
-            (this.actuals[a.index] || {}).netincomemargin || 0.0
-          ).toFixed(1);
+          netincomemargin[a.value] =
+            (this.actuals[a.index] || {}).netincomemargin || 0.0;
         } else {
-          netincomemargin[a.value] = (
-            (this.projections[a.index] || {}).netincomemargin || 0.0
-          ).toFixed(1);
+          netincomemargin[a.value] =
+            (this.projections[a.index] || {}).netincomemargin || 0.0;
         }
       });
       this.data.push(netincomemargin);
@@ -185,5 +167,8 @@ export class ProfitabilityRatiosComponent implements OnInit, OnChanges {
       );
       console.log('Loaded!', this.loading, this.actuals, this.projections);
     }
+  }
+  isAverage(name) {
+    return this.averageColumns.indexOf(name) > -1;
   }
 }

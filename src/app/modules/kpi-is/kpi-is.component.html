@@ -62,7 +62,7 @@
             <ng-container *ngIf="element.KPIValue == 0">
               <mat-icon>trending_flat</mat-icon>
             </ng-container>
-            {{element.KPIValue}}%
+            {{element.KPIValue| parseNumber}}%
           </td>
         </ng-container>
 
@@ -126,7 +126,7 @@
             <ng-container *ngIf="element.KPIValue == 0">
               <mat-icon>trending_flat</mat-icon>
             </ng-container>
-            {{element.KPIValue}}%
+            {{element.KPIValue| parseNumber}}%
           </td>
         </ng-container>
         <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>

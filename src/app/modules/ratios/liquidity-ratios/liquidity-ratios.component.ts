@@ -1,9 +1,5 @@
-import { Component, OnInit, Input, OnChanges } from '@angular/core';
-import { MatTableDataSource } from '@angular/material';
-interface TableItem {
-  name: string;
-  [key: string]: string;
-}
+import { Component, Input, OnChanges, OnInit } from '@angular/core';
+
 @Component({
   selector: 'app-liquidity-ratios',
   templateUrl: './liquidity-ratios.component.html',
@@ -23,6 +19,8 @@ export class LiquidityRatiosComponent implements OnInit, OnChanges {
   data = [];
   actualSpan = 0;
   projectionSpan = 0;
+
+  averageColumns = [];
   constructor() {}
 
   ngOnInit() {
@@ -35,11 +33,13 @@ export class LiquidityRatiosComponent implements OnInit, OnChanges {
       const actualColumns = [];
       const projectionColumn = [];
       const averages = [];
+      this.averageColumns = [];
       this.actuals.forEach((d: any, index: number) => {
         if (typeof d.asof === 'number') {
           actualColumns.push({ value: String(d.asof), index });
         } else {
           averages.push({ value: d.asof, isActual: true, index });
+          this.averageColumns.push(d.asof);
         }
       });
       this.projections.forEach((d: any, index: number) => {
@@ -47,6 +47,7 @@ export class LiquidityRatiosComponent implements OnInit, OnChanges {
           projectionColumn.push({ value: String(d.asof), index });
         } else {
           averages.push({ value: d.asof, isActual: false, index });
+          this.averageColumns.push(d.asof);
         }
       });
       this.actualSpan = actualColumns.length;
@@ -55,24 +56,16 @@ export class LiquidityRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[0],
       };
       actualColumns.forEach((d: any) => {
-        currentRatio[d.value] = (
-          this.actuals[d.index].currentRatio || 0
-        ).toFixed(1);
+        currentRatio[d.value] = this.actuals[d.index].currentRatio || 0;
       });
       projectionColumn.forEach((d: any) => {
-        currentRatio[d.value] = (
-          this.projections[d.index].currentRatio || 0
-        ).toFixed(1);
+        currentRatio[d.value] = this.projections[d.index].currentRatio || 0;
       });
       averages.forEach((a) => {
         if (a.isActual) {
-          currentRatio[a.value] = (
-            this.actuals[a.index].currentRatio || 0.0
-          ).toFixed(1);
+          currentRatio[a.value] = this.actuals[a.index].currentRatio || 0.0;
         } else {
-          currentRatio[a.value] = (
-            this.projections[a.index].currentRatio || 0.0
-          ).toFixed(1);
+          currentRatio[a.value] = this.projections[a.index].currentRatio || 0.0;
         }
       });
       this.data.push(currentRatio);
@@ -80,24 +73,16 @@ export class LiquidityRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[1],
       };
       actualColumns.forEach((d: any) => {
-        quickratio[d.value] = (this.actuals[d.index].quickratio || 0).toFixed(
-          1
-        );
+        quickratio[d.value] = this.actuals[d.index].quickratio || 0;
       });
       projectionColumn.forEach((d: any) => {
-        quickratio[d.value] = (
-          this.projections[d.index].quickratio || 0
-        ).toFixed(1);
+        quickratio[d.value] = this.projections[d.index].quickratio || 0;
       });
       averages.forEach((a) => {
         if (a.isActual) {
-          quickratio[a.value] = (
-            this.actuals[a.index].quickratio || 0.0
-          ).toFixed(1);
+          quickratio[a.value] = this.actuals[a.index].quickratio || 0.0;
         } else {
-          quickratio[a.value] = (
-            this.projections[a.index].quickratio || 0.0
-          ).toFixed(1);
+          quickratio[a.value] = this.projections[a.index].quickratio || 0.0;
         }
       });
       this.data.push(quickratio);
@@ -105,22 +90,16 @@ export class LiquidityRatiosComponent implements OnInit, OnChanges {
         name: this.dataColumns[2],
       };
       actualColumns.forEach((d: any) => {
-        cashratio[d.value] = (this.actuals[d.index].cashratio || 0).toFixed(1);
+        cashratio[d.value] = this.actuals[d.index].cashratio || 0;
       });
       projectionColumn.forEach((d: any) => {
-        cashratio[d.value] = (this.projections[d.index].cashratio || 0).toFixed(
-          1
-        );
+        cashratio[d.value] = this.projections[d.index].cashratio || 0;
       });
       averages.forEach((a) => {
         if (a.isActual) {
-          cashratio[a.value] = (this.actuals[a.index].cashratio || 0.0).toFixed(
-            1
-          );
+          cashratio[a.value] = this.actuals[a.index].cashratio || 0.0;
         } else {
-          cashratio[a.value] = (
-            this.projections[a.index].cashratio || 0.0
-          ).toFixed(1);
+          cashratio[a.value] = this.projections[a.index].cashratio || 0.0;
         }
       });
       this.data.push(cashratio);
@@ -131,5 +110,8 @@ export class LiquidityRatiosComponent implements OnInit, OnChanges {
       );
       console.log('Loaded!', this.loading, this.actuals, this.projections);
     }
+  }
+  isAverage(name) {
+    return this.averageColumns.indexOf(name) > -1;
   }
 }

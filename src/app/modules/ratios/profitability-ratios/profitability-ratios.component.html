@@ -32,11 +32,14 @@
               <td class="mat-cell cdk-column-name mat-column-name"><b>{{ element.name }}</b></td>
               <ng-container *ngFor="let col of columnFields">
                 <ng-container *ngIf="col !== 'name'">
-                  <td class="mat-cell cdk-column-name mat-column-name text-center"><span *ngIf="element[col]">
-                      {{element[col] }}%
-                    </span><span *ngIf="!element[col]">
-                      0.0%
-                    </span></td>
+                  <td class="mat-cell cdk-column-name mat-column-name text-center">
+                    <ng-container *ngIf="isAverage(col); else simple">
+                      <b>{{element[col] | parseNumber}}%</b>
+                    </ng-container>
+                    <ng-template #simple>
+                      {{element[col] | parseNumber}}%
+                    </ng-template>
+                  </td>
                 </ng-container>
               </ng-container>
             </tr>

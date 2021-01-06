@@ -26,10 +26,17 @@ export class UrlConfigService {
   private getTopCompanies = `${environment.APIHost}dashboard`;
   private cashKPIProjections = `${environment.APIHost}kpi-cfs-projections?company=`;
   private cashKPIActuals = `${environment.APIHost}kpi-cfs-actuals?company=`;
+   private UserByAdmin = `${environment.APIHost}getUsersByAdmin?admin=`;
+    private UserByAdminPOST = `${environment.APIHost}updateusers?admin=`;
  
   
   constructor(private http: HttpClient) {}
-
+	getUserAdminAPI() {
+    return this.UserByAdmin;
+  }
+  PostUserAdminAPI() {
+    return this.UserByAdminPOST;
+  }
   getStatementAPI() {
     return this.statementAPI;
   }

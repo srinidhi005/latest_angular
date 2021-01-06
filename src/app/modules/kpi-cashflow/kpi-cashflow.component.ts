@@ -39,6 +39,8 @@ export class KpiCashflowComponent implements OnInit {
     'Avg. Other Investing Activites as % of Revenue',
     'Avg. Dividends Paid as % of Net Income',
     'Avg. FFO as % of Revenue',
+	'Avg. CFO as % of Revenue',
+	'Avg. CFO as % of EBITDA',
     
   ];
   displayedColumns: string[] = [
@@ -94,7 +96,7 @@ export class KpiCashflowComponent implements OnInit {
             name: this.dataColumnsActuals[index],
             fromyear: res[0].fromyear,
             toyear: res[0].toyear,
-            KPIValue: this.dataValuesActuals[index],
+            KPIValue: this.dataValuesActuals[index].toFixed(1),
           };
           this.ELEMENT_KPI_ACTUALS.push(pushData);
           this.dataSourceActuals._updateChangeSubscription();
@@ -127,6 +129,8 @@ export class KpiCashflowComponent implements OnInit {
               res[0].investingpercentrevenue,
               res[0].dividendspaidpercentincome,
               res[0].ffopercentrevenue,
+			  res[0].cfopercentrevenue,
+			  res[0].cfopercentebitda
             ];
             for (
               let index = 0;
@@ -138,7 +142,7 @@ export class KpiCashflowComponent implements OnInit {
                 name: this.dataColumnsProjections[index],
                 fromyear: res[0].fromyear,
                 toyear: res[0].toyear,
-                KPIValue: this.dataValuesProjections[index],
+                KPIValue: this.dataValuesProjections[index].toFixed(1),
               };
               this.ELEMENT_KPI_PROJECTIONS.push(pushData);
               this.dataSourceProjections._updateChangeSubscription();

@@ -20,6 +20,7 @@ import { CashmetricsComponent } from './modules/cashmetrics/cashmetrics.componen
 import { VisualsCfComponent } from 'src/app/modules/visuals-cf/visuals-cf.component';
 import { RatiosComponent } from './modules/ratios/ratios.component';
 import { KpiCashflowComponent } from './modules/kpi-cashflow/kpi-cashflow.component';
+import { UserManagementComponent } from './modules/user-management/user-management.component';
 const routes: Routes = [
   {
     path: '',
@@ -90,6 +91,12 @@ const routes: Routes = [
         component: ProfileComponent,
        canActivate: [AuthGuard],
       },
+	  {
+		path: 'Users',
+        component: UserManagementComponent,
+       canActivate: [AuthGuard],
+	  },
+	  
       {
         path: 'user',
         component: UserDetailsComponent,

@@ -25,6 +25,7 @@ import { LoginComponent } from './modules/login/login.component';
 import { ProfileComponent } from './modules/profile/profile.component';
 import { RMIAPIsService } from './shared/rmiapis.service';
 import { UrlConfigService } from './shared/url-config.service';
+import { UserManagementComponent } from './modules/user-management/user-management.component';
 
 
 @NgModule({
@@ -35,6 +36,7 @@ import { UrlConfigService } from './shared/url-config.service';
     LoginComponent,
     AuthLoginComponent,
     ProfileComponent,
+    UserManagementComponent,
   ],
   imports: [
     BrowserModule,

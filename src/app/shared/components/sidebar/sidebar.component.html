@@ -133,4 +133,10 @@
             </mat-accordion>
         </mat-expansion-panel>
     </mat-accordion>
+
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/Users" 
+    *ngIf = "authService.currentUserRoles?.indexOf('admin') >=0 || authService.currentUserRoles?.indexOf('superadmin') >=0">
+        <mat-icon>supervised_user_circle</mat-icon>
+        User Management
+    </a>
 </mat-nav-list>

@@ -19,29 +19,30 @@ export class UserManagementComponent implements OnInit {
   roleName;
 	MappedUsers;
   showCreateUser : boolean = false;
-	res:any;
+  loggedInUserId=localStorage.getItem("loggedInUserId");
+	
   user = {
     email: "",
     connection: "Username-Password-Authentication",
-    password: ""
+	password: "",
   }
 
   ngOnInit(): void {
-	this.apiService.getData(this.urlConfig.getUserAdminAPI() + this.authService.loggedInUserId).subscribe(
+	this.apiService.getData(this.urlConfig.getUserAdminAPI() + this.loggedInUserId).subscribe(
       (res) => {
 		  
-        console.log('fetched Users Succesfully', res,this.authService.loggedInUserId);
+        console.log('fetched Users Succesfully', res,this.loggedInUserId);
 		this.MappedUsers = res;
 		//fetching all the users
     this.authService.getActiveUsers().subscribe(
-	(res) => {console.log('fetched Users Succesfuly without c', res);
-	if(res.body &&  res.body.length > 0){
-			this.usersList = res.body.filter(usermap=>{
-			const userexist = this.MappedUsers.find(u=>u.inviteduser === usermap.user_id )
-			return userexist;
-			});
-		}
-	},
+			(response:any) => {console.log('fetched Users Succesfuly without c', response);
+			if(response["body"] &&  response["body"].length > 0){
+				this.usersList = response["body"].filter(usermap=>{
+					const userexist = this.MappedUsers.find(u=>u.inviteduser === usermap.user_id )
+					return userexist;
+				});
+			}
+		},
       (error) => {
         console.log('failed to fetch the Users', error);
       });
@@ -101,14 +102,20 @@ export class UserManagementComponent implements OnInit {
     }
 
     this.authService.createUsers(this.user).subscribe(res => {
-      console.log("Res", res); // will receive user json, consider user_id(created user id);
-      if("Status code is 201"){
+      console.log("Res",  res); // will receive user json, consider user_id(created user id);
+      if(true){
         // make a db call to update the table
-		
-      }
-
-    }, error => {
-      console.log("Error While Creating User", error);
-    })
+		this.apiService.getData(this.urlConfig.PostUserAdminAPI() +this.loggedInUserId + "&inviteduser=" +res["body"]["user_id"]).subscribe(
+		(response) => {
+		 console.log("Response",  response);
+		    this.usersList.push(res.body);         
+		},
+		(error) => {
+			console.log('failed to fetch the Users', error);
+		});
+		};
+		}, error => {
+			console.log("Error While Creating User", error);
+    });
   }
 }

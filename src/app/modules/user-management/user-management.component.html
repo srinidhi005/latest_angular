@@ -9,6 +9,8 @@
 	<ng-template [ngIf] = "showCreateUser">
         <div class="row">
             <div class="col">
+			
+			
                 <mat-form-field class="row container-field">
                     <mat-label>Email</mat-label>
                     <input type="email" matInput [(ngModel)]="user.email" name="user-email" placeholder="Enter the User Email"/>
@@ -44,26 +46,25 @@
                 <th>
                     Email 
                 </th>
-                <th>
+               <!-- <th>
                     Role 
-                </th>
+                </th>-->
                 <th>
-                    Assign Roles 
+                    Assigned Role 
                 </th>
             </tr>
         </thead>
         <tbody>
             <ng-template ngFor [ngForOf] = "usersList" let-user let-rowIndex = "index">
                 <tr>
-                    <td>
+                    <td><span>
 					<img [src]="user.picture" [title]="user.nickname" class="image"/>
-                        <span>{{user.nickname}}</span>
-						
-                    </td>
+                    
+					 <span class="nameTable">{{user.nickname}}</span></span></td>
                     <td>
                         {{user.email}}
                     </td>
-                    <td>
+                   <!-- <td>
                         <ng-template [ngIf] = "user.app_metadata" [ngIfElse] = "roleNotExits">
                            <span *ngFor = "let role of user.app_metadata.roles">
                                 {{ role }}
@@ -72,7 +73,7 @@
                         <ng-template #roleNotExits>
                             -
                         </ng-template>
-                    </td>
+                    </td>-->
                     <td>
                         <mat-form-field style="width: 250px;">
                             <mat-select [(ngModel)]="user['roleName']" (ngModelChange) = "assignRoleToUser(user)">

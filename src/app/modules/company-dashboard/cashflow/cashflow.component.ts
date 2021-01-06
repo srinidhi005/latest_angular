@@ -93,7 +93,7 @@ export class CashflowKPIComponent implements OnInit {
             name: this.dataColumnsActuals[index],
             fromyear: res[0].fromyear,
             toyear: res[0].toyear,
-            KPIValue: this.dataValuesActuals[index],
+            KPIValue: this.dataValuesActuals[index].toFixed(1),
           };
           this.ELEMENT_KPI_ACTUALS.push(pushData);
           this.dataSourceActuals._updateChangeSubscription();
@@ -137,7 +137,7 @@ export class CashflowKPIComponent implements OnInit {
                 name: this.dataColumnsProjections[index],
                 fromyear: res[0].fromyear,
                 toyear: res[0].toyear,
-                KPIValue: this.dataValuesProjections[index],
+                KPIValue: this.dataValuesProjections[index].toFixed(1),
               };
               this.ELEMENT_KPI_PROJECTIONS.push(pushData);
               this.dataSourceProjections._updateChangeSubscription();

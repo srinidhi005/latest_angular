@@ -39,6 +39,8 @@ export class KpiCashflowComponent implements OnInit {
     'Avg. Other Investing Activites as % of Revenue',
     'Avg. Dividends Paid as % of Net Income',
     'Avg. FFO as % of Revenue',
+	'Avg. CFO as % of Revenue',
+	'Avg. CFO as % of EBITDA',
     
   ];
   displayedColumns: string[] = [
@@ -127,6 +129,8 @@ export class KpiCashflowComponent implements OnInit {
               res[0].investingpercentrevenue,
               res[0].dividendspaidpercentincome,
               res[0].ffopercentrevenue,
+			  res[0].cfopercentrevenue,
+			  res[0].cfopercentebitda
             ];
             for (
               let index = 0;

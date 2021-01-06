@@ -38,9 +38,14 @@
                         <mat-icon><img src="{{picture}}" alt="" class="img-profile"></mat-icon>
                     </button>
                     <mat-menu #menu="matMenu">
+					
                         <button mat-menu-item  routerLinkActive="list-item-active" routerLink="/profile">
                             <mat-icon>person_outline</mat-icon>
                             Profile
+                        </button>
+						<button mat-menu-item  routerLinkActive="list-item-active" routerLink="/">
+                            <mat-icon>far fa-bell</mat-icon>
+                            Subscribe
                         </button>
                         <button mat-menu-item  (click)="auth.logout()">
                             <mat-icon>exit_to_app</mat-icon>

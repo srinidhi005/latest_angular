@@ -209,28 +209,28 @@ for (let j=0; j<res.length; j++) {
     const data = []
 
     data.push(this.prepareJsonForExport(keys, 'Netincome', "NetIncome"))
-    data.push(this.prepareJsonForExport(keys, 'DandA', "(+) D&A" ,true))
-    data.push(this.prepareJsonForExport(keys, 'FundsFromOperations', "Funds from Operations"))
+    data.push(this.prepareJsonForExport(keys, 'DandA', "(+) D&A" ))
+    data.push(this.prepareJsonForExport(keys, 'FundsFromOperations', "Funds from Operations",true))
     data.push(this.prepareJsonForExport(keys, 'Accountreceivables', "(+/–) Δ in Accounts Receivable"))
-    data.push(this.prepareJsonForExport(keys, 'Inventories', "(+/–) Δ in Inventories",true))
+    data.push(this.prepareJsonForExport(keys, 'Inventories', "(+/–) Δ in Inventories"))
     data.push(this.prepareJsonForExport(keys, 'Accountspayable', "(+/–) Δ in Accounts Payable"))
     data.push(this.prepareJsonForExport(keys, 'AccuredLiabilites', "(+/–) Δ in Accrued Liabilities"))
-    data.push(this.prepareJsonForExport(keys, 'OtherCurrentliabilities', "(+/–) Δ in Other Current Liabilities",true))
-    data.push(this.prepareJsonForExport(keys, 'CashFlowFromOperatingActivites', "Cash Flow from Operating Activities (CFO)"))
+    data.push(this.prepareJsonForExport(keys, 'OtherCurrentliabilities', "(+/–) Δ in Other Current Liabilities"))
+    data.push(this.prepareJsonForExport(keys, 'CashFlowFromOperatingActivites', "Cash Flow from Operating Activities (CFO)",true))
     data.push(this.prepareJsonForExport(keys, 'Totalexpenditure', "(–) Total Capital Expenditures"))
-    data.push(this.prepareJsonForExport(keys, 'AssetSales', "(+) Asset Sales",true))
+    data.push(this.prepareJsonForExport(keys, 'AssetSales', "(+) Asset Sales"))
     data.push(this.prepareJsonForExport(keys, 'OtherCurrentassets', "(+/–) Δ in Other Current Assets")) // check this.
     data.push(this.prepareJsonForExport(keys, 'OtherInvestingActivites', "(+/–) Other Investing Activities"))
-    data.push(this.prepareJsonForExport(keys, 'CashFlowFromInvesting', "Cash Flow from Investing Activities (CFI)"))
-    data.push(this.prepareJsonForExport(keys, 'DebtIssuedRetired', "(+/–) Debt Issued (Retired)",true))
+    data.push(this.prepareJsonForExport(keys, 'CashFlowFromInvesting', "Cash Flow from Investing Activities (CFI)",true))
+    data.push(this.prepareJsonForExport(keys, 'DebtIssuedRetired', "(+/–) Debt Issued (Retired)"))
     data.push(this.prepareJsonForExport(keys, 'CommonStockIssuedRetired', "(+/–) Common Stock Issued (Retired)"))
     data.push(this.prepareJsonForExport(keys, 'Dividendspaid', "(–) Dividends Paid"))
     data.push(this.prepareJsonForExport(keys, 'CashFlowFromFinancingActivites', "Cash Flow from Financing Activities (CFF)",true))
-	data.push(this.prepareJsonForExport(keys, 'NetChangeinCash', "Net Change in Cash"))
+	data.push(this.prepareJsonForExport(keys, 'NetChangeinCash', "Net Change in Cash",true))
 
     console.log(data);
 
-    this.excelService.exportAsExcelFile(data, "Cash Flow Statement", keys,this.selectedCompanyName,this.scenarioName)
+    this.excelService.exportAsExcelFileCashflow(data, "Cash Flow Statement", keys,this.selectedCompanyName,this.scenarioName)
 
   }
 

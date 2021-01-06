@@ -115,6 +115,201 @@ export class ExcelService {
       
     })
   }
+  public exportAsExcelFileBalancesheet(json: any[], excelFileName: string, headersArray: any[],  companyName: string,scenarioName: string): void {
+
+    // const worksheet: XLSX.WorkSheet = XLSX.utils.json_to_sheet(json);
+    // console.log('worksheet',worksheet);
+    const columnNames = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']
+    const header = headersArray;
+    const data = json;
+
+    let workbook = new Workbook();
+    let worksheet = workbook.addWorksheet(excelFileName);
+    worksheet.getCell(1,1).value = companyName + " : " + scenarioName;
+    worksheet.getCell(1,1).font = { bold : true };
+    worksheet.getCell(2, 1).value =""
+    worksheet.getCell(2,1).font = { bold : true };
+    //Add Header Row
+    let headerRow = worksheet.addRow(header);
+
+    data.forEach((element) => {
+      let eachRow = [];
+      headersArray.forEach((headers) => {
+        eachRow.push(element[headers])
+      })
+      
+      worksheet.addRow(eachRow);
+      
+    })
+
+    // doing alignment 
+    worksheet.eachRow(function (Row, rowNum) {
+      Row.eachCell(function (Cell, cellNum) {
+        if (cellNum == 1) {
+            Cell.alignment = {
+                vertical: 'middle',
+                horizontal: 'left'
+            }
+        }else{
+          Cell.alignment = {
+              vertical: 'middle',
+              horizontal: 'right'
+          }
+		  
+
+          //Giving currency formatter to these rows
+          if(rowNum > 2){
+            if((rowNum == 4 || rowNum == 5 || rowNum == 6 || rowNum == 7 || rowNum == 8 || rowNum == 9 || rowNum == 10 
+			|| rowNum == 11 || rowNum == 12 || rowNum == 13 || rowNum == 14 ||  rowNum == 15 || rowNum == 16 || rowNum == 17 
+			|| rowNum == 18 || rowNum == 19 ||  rowNum == 20 ||   rowNum == 21 || rowNum == 22 || rowNum == 23 || rowNum == 24 )){
+              if(cellNum > 1){
+                Cell.numFmt = '$#,###;-$#,###;'
+              }
+            }
+            else{
+              if(cellNum > 1){
+                Cell.numFmt = "0.00%";
+              }
+            }
+          }
+        }
+      })
+    })
+
+    //below row are highlighted as bold - Total Revenue, Gross Profit ,EBIT, EBITDA, EBT, Net Income
+
+    worksheet.getColumn(1).width = 50;
+    
+    worksheet.getRow(8).font = {bold: true}
+    worksheet.getRow(13).font = {bold: true}
+    worksheet.getRow(18).font = {bold: true}
+    worksheet.getRow(21).font = {bold: true}
+    worksheet.getRow(23).font = {bold: true}
+    worksheet.getRow(24).font = {bold: true}
+
+    headersArray.forEach( (val, i) => {
+      worksheet.getCell(3, i + 1).font = i == 0 ? {italic: true} : {bold: true}
+    });
+
+   
+
+
+    // worksheet.getColumn(4).width = 20;
+    // worksheet.getColumn(5).width = 30;
+    // const workbook: XLSX.WorkBook = { Sheets: { 'data': worksheet }, SheetNames: ['data'],};
+    // const excelBuffer: any = XLSX.write(workbook, { bookType: 'xlsx', type: 'array' });
+    // const excelBuffer: any = XLSX.write(workbook, { bookType: 'xlsx', type: 'buffer' });
+    // this.saveAsExcelFile(data, excelFileName);
+
+    workbook.xlsx.writeBuffer().then((data) => {
+      let blob = new Blob([data], { type: EXCEL_TYPE });
+      FileSaver.saveAs(blob, excelFileName + EXCEL_EXTENSION);
+      // 
+      
+    })
+  }
+  public exportAsExcelFileCashflow(json: any[], excelFileName: string, headersArray: any[],  companyName: string,scenarioName: string): void {
+
+    // const worksheet: XLSX.WorkSheet = XLSX.utils.json_to_sheet(json);
+    // console.log('worksheet',worksheet);
+    const columnNames = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']
+    const header = headersArray;
+    const data = json;
+
+    let workbook = new Workbook();
+    let worksheet = workbook.addWorksheet(excelFileName);
+    worksheet.getCell(1,1).value = companyName + " : " + scenarioName;
+    worksheet.getCell(1,1).font = { bold : true };
+    worksheet.getCell(2, 1).value =""
+    worksheet.getCell(2,1).font = { bold : true };
+    //Add Header Row
+    let headerRow = worksheet.addRow(header);
+
+    data.forEach((element) => {
+      let eachRow = [];
+      headersArray.forEach((headers) => {
+        eachRow.push(element[headers])
+      })
+      
+      worksheet.addRow(eachRow);
+      
+    })
+
+    // doing alignment 
+    worksheet.eachRow(function (Row, rowNum) {
+      Row.eachCell(function (Cell, cellNum) {
+        if (cellNum == 1) {
+            Cell.alignment = {
+                vertical: 'middle',
+                horizontal: 'left'
+            }
+        }else{
+          Cell.alignment = {
+              vertical: 'middle',
+              horizontal: 'right',
+			  
+          }
+		  
+
+          //Giving currency formatter to these rows
+          if(rowNum > 2){
+            if((rowNum == 4 || rowNum == 5 || rowNum == 6 || rowNum == 7 || rowNum == 8 || rowNum == 9 || rowNum == 10 
+			|| rowNum == 11 || rowNum == 12 || rowNum == 13 || rowNum == 14 ||  rowNum == 15 || rowNum == 16 || rowNum == 17 
+			|| rowNum == 18 || rowNum == 19 ||  rowNum == 20 ||   rowNum == 21 || rowNum == 22  )){
+              if(cellNum > 1){
+                Cell.numFmt = '$#,###;-$#,###;'
+              }
+            }
+            else{
+              if(cellNum > 1){
+                Cell.numFmt = "0.00%";
+              }
+            }
+          }
+        }
+      })
+    })
+
+    //below row are highlighted as bold - Total Revenue, Gross Profit ,EBIT, EBITDA, EBT, Net Income
+
+    worksheet.getColumn(1).width = 50;
+    worksheet.getColumn(3).width = 10;
+	worksheet.getColumn(4).width = 10;
+	worksheet.getColumn(5).width = 10;
+	worksheet.getColumn(6).width = 10;
+	worksheet.getColumn(7).width = 10;
+	worksheet.getColumn(8).width = 10;
+	
+    worksheet.getRow(6).font = {bold: true}
+    worksheet.getRow(12).font = {bold: true}
+    worksheet.getRow(17).font = {bold: true}
+    worksheet.getRow(21).font = {bold: true}
+    worksheet.getRow(22).font = {bold: true}
+	
+    
+
+    headersArray.forEach( (val, i) => {
+      worksheet.getCell(3, i + 1).font = i == 0 ? {italic: true} : {bold: true}
+    });
+
+   
+
+
+
+    // worksheet.getColumn(4).width = 20;
+    // worksheet.getColumn(5).width = 30;
+    // const workbook: XLSX.WorkBook = { Sheets: { 'data': worksheet }, SheetNames: ['data'],};
+    // const excelBuffer: any = XLSX.write(workbook, { bookType: 'xlsx', type: 'array' });
+    // const excelBuffer: any = XLSX.write(workbook, { bookType: 'xlsx', type: 'buffer' });
+    // this.saveAsExcelFile(data, excelFileName);
+
+    workbook.xlsx.writeBuffer().then((data) => {
+      let blob = new Blob([data], { type: EXCEL_TYPE });
+      FileSaver.saveAs(blob, excelFileName + EXCEL_EXTENSION);
+      // 
+      
+    })
+  }
 
   cleanString(input) {
     let regex = /^[0-9a-zA-Z\_]+$/

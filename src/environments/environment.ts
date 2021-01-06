@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  APIHost: 'http://34.82.88.178:8002/',
+  APIHost: 'https://app.rmiinsights.com:8001/',
 };
 
 /*

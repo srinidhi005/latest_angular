@@ -25,6 +25,7 @@ export class HeaderComponent implements OnInit {
     this.auth.profileSubscriber.subscribe(() => {
       this.picture = localStorage.getItem('picture');
     })
+	this.picture = localStorage.getItem('picture');
     this.filteredOptions = this.myControl.valueChanges.pipe(
       startWith(''),
       map(value => this._filter(value))

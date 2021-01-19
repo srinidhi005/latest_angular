@@ -311,6 +311,8 @@ export class VisualsBsComponent implements OnInit {
             currentportionlongtermdebt: res[j].currentportionlongtermdebt,
             longtermdebt: res[j].longtermdebt,
             otherliabilities: res[j].otherliabilities,
+			totalcurrentassetsexcash:res[j].accountsreceivable+res[j].inventories+res[j].othercurrentassets,
+			 totalassetsexcash:res[j].accountsreceivable+res[j].inventories+res[j].othercurrentassets+res[j].ppe+res[j].goodwill+res[j].intangibleassets+res[j].otherassets,
             // "totalshareholdersequity":res[j].totalshareholdersequity
           });
         }
@@ -381,6 +383,8 @@ export class VisualsBsComponent implements OnInit {
                       totalrevenue: res[j].ic_totalrevenue,
                       memocheck: res[j].memocheck,
                       othercurrentassets: res[j].othercurrentassets,
+					  totalcurrentassetsexcash:res[j].accountsreceivable+res[j].inventories+res[j].othercurrentassets,
+			 totalassetsexcash:res[j].accountsreceivable+res[j].inventories+res[j].othercurrentassets+res[j].ppe+res[j].goodwill+res[j].intangibleassets+res[j].otherassets,
                       latest: res[j].latest,
                     });
                   }
@@ -953,25 +957,38 @@ export class VisualsBsComponent implements OnInit {
           this.BsfinancialObj.get(key).accountsreceivable +
           this.BsfinancialObj.get(key).inventories +
           this.BsfinancialObj.get(key).othercurrentassets;
+		  
+		  this.BsfinancialObj.get(key).totalcurrentassetsexcash =
+          this.BsfinancialObj.get(key).accountsreceivable +
+          this.BsfinancialObj.get(key).inventories +
+          this.BsfinancialObj.get(key).othercurrentassets;
         this.BsfinancialObj.get(key).totalassets =
           this.BsfinancialObj.get(key).totalcurrentassets +
           this.BsfinancialObj.get(key).ppe +
           this.BsfinancialObj.get(key).intangibleassets +
           this.BsfinancialObj.get(key).goodwill +
           this.BsfinancialObj.get(key).otherassets;
+		  this.BsfinancialObj.get(key).totalassetsexcash =
+		  this.BsfinancialObj.get(key).accountsreceivable +
+          this.BsfinancialObj.get(key).inventories +
+          this.BsfinancialObj.get(key).othercurrentassets+
+          this.BsfinancialObj.get(key).ppe +
+          this.BsfinancialObj.get(key).intangibleassets +
+          this.BsfinancialObj.get(key).goodwill +
+          this.BsfinancialObj.get(key).otherassets;
       }
-      TCAArray.push(this.BsfinancialObj.get(key).totalcurrentassets);
+      TCAArray.push(this.BsfinancialObj.get(key).totalcurrentassetsexcash);
       TAArray.push(this.BsfinancialObj.get(key).totalassets);
       TCLArray.push(this.BsfinancialObj.get(key).totalcurrentliabilities);
       TLArray.push(this.BsfinancialObj.get(key).totalliabilities);
-      TSEArray.push(this.BsfinancialObj.get(key).totalshareholdersequity);
+      TSEArray.push(this.BsfinancialObj.get(key).totalassetsexcash);
       TLSEArray.push(this.BsfinancialObj.get(key).totalliabilitiesandequity);
       lastKey = key;
     }
 
     this.TCAOptions = {
       chart: { type: 'column', animation: false },
-      title: { text: 'Total Current Assets' },
+      title: { text: 'Total Current Assets(Excluding Cash)' },
       yAxis: { title: { text: 'USD' } },
       xAxis: { categories: this.yearsArray },
       plotOptions: {
@@ -1111,7 +1128,7 @@ export class VisualsBsComponent implements OnInit {
     };
     this.TSEOptions = {
       chart: { type: 'column', animation: false },
-      title: { text: 'Total ShareHolders Equity' },
+      title: { text: 'Total Assets (Excluding Cash)' },
       yAxis: { title: { text: 'USD' } },
       xAxis: { categories: this.yearsArray },
       plotOptions: {
@@ -1265,6 +1282,12 @@ export class VisualsBsComponent implements OnInit {
             inputObj.totalshareholdersequity = this.BsfinancialObj.get(
               key
             ).totalshareholdersequity;
+			inputObj.totalassetsexcash = this.BsfinancialObj.get(
+              key
+            ).totalassets;
+			inputObj.totalcurrentassestexcash = this.BsfinancialObj.get(
+              key
+            ).totalcurrentassestexcash;
             inputObj.scenario = this.saveScenarioNumber;
             inputArray.push(inputObj);
           }

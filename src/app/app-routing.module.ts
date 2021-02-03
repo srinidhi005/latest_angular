@@ -21,6 +21,9 @@ import { VisualsCfComponent } from 'src/app/modules/visuals-cf/visuals-cf.compon
 import { RatiosComponent } from './modules/ratios/ratios.component';
 import { KpiCashflowComponent } from './modules/kpi-cashflow/kpi-cashflow.component';
 import { UserManagementComponent } from './modules/user-management/user-management.component';
+//import { ChargeBeeComponent } from './modules/charge-bee/charge-bee.component';
+import { DcfComponent } from 'src/app/modules/dcf/dcf.component';
+import { CompanyDetailsComponent } from 'src/app/modules/company-details/company-details.component';
 const routes: Routes = [
   {
     path: '',
@@ -41,6 +44,11 @@ const routes: Routes = [
         component: StatementComponent,
         canActivate: [AuthGuard],
       },
+	  {
+		  path:'company',
+		  component:CompanyDetailsComponent,
+		  canActivate: [AuthGuard],
+	  },
       {
         path: 'addcompany',
         component: AddCompanyComponent,
@@ -56,6 +64,10 @@ const routes: Routes = [
         component: VisualsBsComponent,
         canActivate: [AuthGuard],
       },
+	  {
+	  path: 'Users',
+	  component:UserManagementComponent,
+	  },
       {
         path: 'visualsCF',
         component: VisualsCfComponent,
@@ -91,16 +103,17 @@ const routes: Routes = [
         component: ProfileComponent,
        canActivate: [AuthGuard],
       },
-	  {
-		path: 'Users',
-        component: UserManagementComponent,
-       canActivate: [AuthGuard],
-	  },
+	  
 	  
       {
         path: 'user',
         component: UserDetailsComponent,
        canActivate: [AuthGuard],
+      },
+	  {
+        path: 'dcf',
+        component: DcfComponent,
+      canActivate: [AuthGuard],
       },
       {
         path: ':companyName/dashboard/:scenario',
@@ -110,7 +123,7 @@ const routes: Routes = [
 	  {
         path: 'kpiCashflow',
         component: KpiCashflowComponent,
-        canActivate: [AuthGuard],
+       canActivate: [AuthGuard],
       },
       {
         path: 'ratios',

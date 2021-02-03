@@ -22,11 +22,12 @@ import { DefaultModule } from './layouts/default/default.module';
 import { AddCompanyComponent } from './modules/add-company/add-company.component';
 import { FileUploadComponent } from './modules/file-upload/file-upload.component';
 import { LoginComponent } from './modules/login/login.component';
-import { ProfileComponent } from './modules/profile/profile.component';
+//import { ProfileComponent } from './modules/profile/profile.component';
 import { RMIAPIsService } from './shared/rmiapis.service';
 import { UrlConfigService } from './shared/url-config.service';
 import { UserManagementComponent } from './modules/user-management/user-management.component';
-
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+declare var Chargebee: any;
 
 @NgModule({
   declarations: [
@@ -35,7 +36,7 @@ import { UserManagementComponent } from './modules/user-management/user-manageme
     FileUploadComponent,
     LoginComponent,
     AuthLoginComponent,
-    ProfileComponent,
+   // ProfileComponent,
     UserManagementComponent,
   ],
   imports: [
@@ -56,8 +57,22 @@ import { UserManagementComponent } from './modules/user-management/user-manageme
     MatButtonModule,
     MatGridListModule,
     MatExpansionModule,
+    NgbModule,
   ],
   providers: [UrlConfigService, RMIAPIsService],
   bootstrap: [AppComponent],
 })
-export class AppModule {}
+export class AppModule {
+constructor() {
+     const el = document.createElement('script')
+    el.onload = () => {
+      var chargebeeInstance = Chargebee.init({
+        site: "rmiinsights"
+      });
+      let cbInstance = Chargebee.getInstance()
+      
+    }
+    el.setAttribute('src', 'https://js.chargebee.com/v2/chargebee.js')
+    document.body.appendChild(el)
+  }
+}

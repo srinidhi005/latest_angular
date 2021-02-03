@@ -64,7 +64,7 @@ export class ExcelService {
             if((rowNum == 4 || rowNum == 6 || rowNum == 7 || rowNum == 9 
               || rowNum == 10 || rowNum == 12 || rowNum == 13 || rowNum == 15 || rowNum == 16||rowNum == 17  ||rowNum == 19||rowNum == 20)){
               if(cellNum > 1){
-                Cell.numFmt = '$#,###;-$#,###;'
+                Cell.numFmt = '$#,###;-$#,###;$0'
               }
             }
             else{
@@ -163,7 +163,7 @@ export class ExcelService {
 			|| rowNum == 11 || rowNum == 12 || rowNum == 13 || rowNum == 14 ||  rowNum == 15 || rowNum == 16 || rowNum == 17 
 			|| rowNum == 18 || rowNum == 19 ||  rowNum == 20 ||   rowNum == 21 || rowNum == 22 || rowNum == 23 || rowNum == 24 )){
               if(cellNum > 1){
-                Cell.numFmt = '$#,###;-$#,###;'
+                Cell.numFmt = '$#,###;-$#,###;$0'
               }
             }
             else{
@@ -257,7 +257,7 @@ export class ExcelService {
 			|| rowNum == 11 || rowNum == 12 || rowNum == 13 || rowNum == 14 ||  rowNum == 15 || rowNum == 16 || rowNum == 17 
 			|| rowNum == 18 || rowNum == 19 ||  rowNum == 20 ||   rowNum == 21 || rowNum == 22  )){
               if(cellNum > 1){
-                Cell.numFmt = '$#,###;-$#,###;'
+                Cell.numFmt = '$#,###;-$#,###;$0'
               }
             }
             else{

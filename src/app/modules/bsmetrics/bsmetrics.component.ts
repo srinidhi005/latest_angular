@@ -98,8 +98,7 @@ export class BsmetricsComponent implements OnInit {
       this.financialObj.set(res[j].asof,{
         "cashequivalents":res[j].cashequivalents,
         "accountsreceivable":res[j].accountsreceivable,
-        "inventories" : res[j].inventories, 
-        "GrossMargin":res[j].grossprofitmargin,
+        "inventories" : res[j].inventories,
         "othercurrentassets":res[j].othercurrentassets,
         "totalcurrentassets" : res[j].totalcurrentassets, 
         "ppe":res[j].ppe,
@@ -227,30 +226,30 @@ export class BsmetricsComponent implements OnInit {
     const data = []
 
     data.push(this.prepareJsonForExport(keys, 'cashequivalents', "Cash Equivalents"))
-    data.push(this.prepareJsonForExport(keys, 'accountsreceivable', "Accounts Receivable",true))
+    data.push(this.prepareJsonForExport(keys, 'accountsreceivable', "Accounts Receivable"))
     data.push(this.prepareJsonForExport(keys, 'inventories', " Inventories "))
     data.push(this.prepareJsonForExport(keys, 'othercurrentassets', "Prepaid Expenses & Other Current Assets "))
-    data.push(this.prepareJsonForExport(keys, 'totalcurrentassets', "Total Current Assets",true))
+    data.push(this.prepareJsonForExport(keys, 'totalcurrentassets', "Total Current Assets"))
     data.push(this.prepareJsonForExport(keys, 'ppe', "Property Plant & Equipment"))
     data.push(this.prepareJsonForExport(keys, 'intangibleassets', " Intangible Assets"))
-    data.push(this.prepareJsonForExport(keys, 'goodwill', "Goodwill",true))
+    data.push(this.prepareJsonForExport(keys, 'goodwill', "Goodwill"))
     data.push(this.prepareJsonForExport(keys, 'otherassets', "Other Assets"))
     data.push(this.prepareJsonForExport(keys, 'totalassets', " Total Assets"))
-    data.push(this.prepareJsonForExport(keys, 'currentportionlongtermdebt', "Current Portion Long Term Debt",true))
+    data.push(this.prepareJsonForExport(keys, 'currentportionlongtermdebt', "Current Portion Long Term Debt"))
     data.push(this.prepareJsonForExport(keys, 'accountspayable', " Accounts Payable")) // check this.
     data.push(this.prepareJsonForExport(keys, 'accruedliabilities', "Accrued Liabilities"))
     data.push(this.prepareJsonForExport(keys, 'othercurrentliabilities', "Other Current Liabilities"))
-    data.push(this.prepareJsonForExport(keys, 'totalcurrentliabilities', " Total Current Liabilities",true))
+    data.push(this.prepareJsonForExport(keys, 'totalcurrentliabilities', " Total Current Liabilities"))
     data.push(this.prepareJsonForExport(keys, 'longtermdebt', "Long Term Debt"))
     data.push(this.prepareJsonForExport(keys, 'otherliabilities', "Other Liabilities"))
-    data.push(this.prepareJsonForExport(keys, 'totalliabilities', "Total Liabilities",true))
+    data.push(this.prepareJsonForExport(keys, 'totalliabilities', "Total Liabilities"))
 	data.push(this.prepareJsonForExport(keys, 'totalshareholdersequity', "Total Shareholders Equity"))
-    data.push(this.prepareJsonForExport(keys, 'totalliabilitiesandequity', " Total Liabilities and Shareholders Equity ",true))
-    data.push(this.prepareJsonForExport(keys, 'Memo Check', "Memo Check"))
+    data.push(this.prepareJsonForExport(keys, 'totalliabilitiesandequity', " Total Liabilities and Shareholders Equity "))
+    data.push(this.prepareJsonForExport(keys, "Memo Check", "Memo Check",true))
 
     console.log(data);
 
-    this.excelService.exportAsExcelFile(data, "Balance-Sheet Statement", keys,this.selectedCompanyName,this.scenarioName)
+    this.excelService.exportAsExcelFileBalancesheet(data, "Balance-Sheet Statement", keys,this.selectedCompanyName,this.scenarioName)
 
   }
 
@@ -265,7 +264,7 @@ export class BsmetricsComponent implements OnInit {
       }
       else{
 		  if(isPercent){
-			   jsonObject[key] = +(this.financials[index - 1][parameter]/100)
+			   jsonObject[key] = this.financials[index - 1][parameter]
 		   }
 		   else{
         jsonObject[key] = +this.financials[index - 1][parameter]

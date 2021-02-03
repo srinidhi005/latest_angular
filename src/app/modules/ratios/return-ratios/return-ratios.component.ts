@@ -137,7 +137,7 @@ export class ReturnRatiosComponent implements OnInit, OnChanges {
       });
       this.data.push(returntotalcapital);
       const returnequity: any = {
-        name: this.dataColumns[3],
+        name: this.dataColumns[4],
       };
       actualColumns.forEach((d: any) => {
         returnequity[d.value] = this.actuals[d.index].returnequity || 0;

@@ -1,22 +1,7 @@
-<div fxLayout="row" class="header">
-  <div fxLayout="row" fxLayoutAlign="start center">
-    <p>Historical Key Metrics</p>
-  </div>
-  <!-- <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px">
-    <button mat-button [matMenuTriggerFor]="below">
-      <mat-icon>exposure</mat-icon>{{ loadedScenario }}<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
-    </button>
-    <mat-menu #below="matMenu" yPosition="below">
-      <button mat-menu-item *ngFor="let index of scenarioArray; let indexOfelement=index;">
-        <span (click)="loadScenario(indexOfelement)">Scenario {{index}}</span>
-      </button>
-    </mat-menu>
-  </div> -->
-</div>
-
 <div fxLayout="row" fxLayoutAlign="space-between center" fxLayoutGap="20px">
   <div fxFlex="100">
-    <mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
+    <p>Historical Key Metrics</p>
+    <mat-progress-bar mode="indeterminate" *ngIf="loadingHistory"></mat-progress-bar>
     <div class="mat-elevation-z8 table-container">
 
       <table mat-table [dataSource]="dataSourceActuals">
@@ -80,7 +65,7 @@
 <div fxLayout="row" fxLayoutAlign="space-between center" fxLayoutGap="20px">
   <div fxFlex="100">
     <p>Projected Key Metrics</p>
-    <mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
+    <mat-progress-bar mode="indeterminate" *ngIf="loadingProjection"></mat-progress-bar>
     <div class="mat-elevation-z8 table-container">
 
       <table mat-table [dataSource]="dataSourceProjections">

@@ -280,6 +280,14 @@ export class VisualsCfComponent implements OnInit {
                 : res[j].capexpercent * -1,
             assetsalespercent: res[j].assetsalespercent,
             otherinvestmentpercent: res[j].otherinvestmentpercent,
+			ebitda:res[j].ebitda,
+			ffopercentrevenue:res[j].ffopercentrevenue,
+			cfopercentrevenue:res[j].cfopercentrevenue,
+		    dividendspaidpercentincome:res[j].dividendspaidpercentincome,
+			cfopercentebitda:res[j].cfopercentebitda,
+			capexpercentrevenue:res[j].capexpercentrevenue,
+			assetsalespercentrevenue:res[j].assetsalespercentrevenue,
+			investingpercentrevenue:res[j].investingpercentrevenue,
             latest: res[j].latest,
           });
         }
@@ -345,6 +353,14 @@ export class VisualsCfComponent implements OnInit {
                           : res[j].capexpercent * -1,
                       assetsalespercent: res[j].assetsalespercent,
                       otherinvestmentpercent: res[j].otherinvestmentpercent,
+					  ebitda:res[j].ebitda,
+					  ffopercentrevenue:res[j].ffopercentrevenue,
+					  cfopercentrevenue:res[j].cfopercentrevenue,
+					  dividendspaidpercentincome:res[j].dividendspaidpercentincome,
+					  cfopercentebitda:res[j].cfopercentebitda,
+					  capexpercentrevenue:res[j].capexpercentrevenue,
+					  assetsalespercentrevenue:res[j].assetsalespercentrevenue,
+					  investingpercentrevenue:res[j].investingpercentrevenue,
                       latest: res[j].latest,
                     });
                   }
@@ -962,6 +978,7 @@ export class VisualsCfComponent implements OnInit {
 
         this.loadedScenario = ('Scenario ' + this.scenarioSelected) as any;
         const inputArray = [];
+		console.log("cff",this.CffinancialObj);
         for (const [key, value] of this.CffinancialObj) {
           const inputObj: any = {};
           if (this.CffinancialObj.get(key).latest > 0) {
@@ -1000,7 +1017,6 @@ export class VisualsCfComponent implements OnInit {
               key
             ).otherinvestingactivities;
             inputObj.cfi = this.CffinancialObj.get(key).cfi;
-            inputObj.inventorydays = this.CffinancialObj.get(key).inventorydays;
             inputObj.debtissued = this.CffinancialObj.get(key).debtissued;
             inputObj.commonstockissued = this.CffinancialObj.get(
               key
@@ -1014,13 +1030,22 @@ export class VisualsCfComponent implements OnInit {
             inputObj.assetsalespercent = this.CffinancialObj.get(
               key
             ).assetsalespercent;
-            inputObj.otherinvestmentpercent = this.CffinancialObj.get(
+			inputObj.totalrevenue= this.CffinancialObj.get(
               key
-            ).otherinvestmentpercent;
-            inputObj.latest = this.CffinancialObj.get(key).latest;
+            ).totalrevenue;
+            inputObj.otherinvestmentpercent = this.CffinancialObj.get(key).otherinvestmentpercent;
+			inputObj.ffopercentrevenue = (this.CffinancialObj.get(key).fundsfromoperations/this.CffinancialObj.get(key).totalrevenue)*100;
+			inputObj.cfopercentrevenue = (this.CffinancialObj.get(key).cfo/this.CffinancialObj.get(key).totalrevenue)*100;
+			inputObj.dividendspaidpercentincome = (this.CffinancialObj.get(key).dividendspaid/this.CffinancialObj.get(key).netincome)*100;
+			inputObj.cfopercentebitda= this.CffinancialObj.get(key).cfo/this.CffinancialObj.get(key).ebitda*100;
+            inputObj.capexpercentrevenue = this.CffinancialObj.get(key).totalexpenditure/this.CffinancialObj.get(key).totalrevenue*100;
+			inputObj.assetsalespercentrevenue =this.CffinancialObj.get(key).assetsales/this.CffinancialObj.get(key).totalrevenue*100; 
+			inputObj.investingpercentrevenue = this.CffinancialObj.get(key).otherinvestingactivities/this.CffinancialObj.get(key).totalrevenue*100;
+			
+			inputObj.latest = this.CffinancialObj.get(key).latest;
 
             inputArray.push(inputObj);
-            console.log('Json stringify', JSON.stringify(inputArray));
+            console.log('Json stringify', inputArray);
           }
         }
         this.apiService

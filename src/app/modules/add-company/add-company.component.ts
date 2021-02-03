@@ -4,6 +4,7 @@ import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { Router } from '@angular/router';
 import { RMIAPIsService } from '../../shared/rmiapis.service';
 import {MatSnackBar,MatSnackBarHorizontalPosition,MatSnackBarVerticalPosition} from '@angular/material/snack-bar';
+import { ExcelService } from 'src/app/shared/excel.service';
 @Component({
   selector: 'app-add-company',
   templateUrl: './add-company.component.html',
@@ -18,7 +19,8 @@ export class AddCompanyComponent implements OnInit {
   createdby: any;
   period:any[]=['Monthly', 'Quarterly', 'Yearly'];
   statementtype:any[]=['Income Statement','Balance Sheet','Cash Flow Statement','All Statements'];
-  industry:any[]=['Communications', 'Consumer & Retail','Distribution & Logistics', 'Energy & Natural Resources','Entertainment & Media','Financial Institutions & Sponsors', 'Food & Beverage', 'General Services', 'Healthcare','Hospitality','Industrials','Power, Infrastructure & Utilities','Real Estate','Technology','Telecommunications','Transportation']
+  //industry:any[]=['Communications', 'Consumer & Retail','Distribution & Logistics', 'Energy & Natural Resources','Entertainment & Media','Financial Institutions & Sponsors', 'Food & Beverage', 'General Services', 'Healthcare','Hospitality','Industrials','Power, Infrastructure & Utilities','Real Estate','Technology','Telecommunications','Transportation']
+  industry:any[]= ['Communication Services', 'Consumer Discretionary', 'Consumer Staples', 'Energy', 'Financials', 'Healthcare', 'Industrials', 'Information Technology', 'Materials', 'Pharmaceuticals', 'Real Estate', 'Utilities']
   inprogress: boolean = false;
   form = new FormGroup({
     file: new FormControl(null, [Validators.required]),
@@ -30,7 +32,8 @@ export class AddCompanyComponent implements OnInit {
   constructor(private RMIAPIsService: RMIAPIsService,
     private UrlConfigService:UrlConfigService,
     private _snackBar: MatSnackBar,
-    private router: Router
+    private router: Router,
+    public excelService: ExcelService
   ) { }
 
 
@@ -83,6 +86,15 @@ export class AddCompanyComponent implements OnInit {
         horizontalPosition: this.horizontalPosition,
         verticalPosition: this.verticalPosition
       });
+      }
+      else if(res.Result == "Company Name Exist Already, Try Other"){
+        this.inprogress = false;
+        this._snackBar.openFromComponent(snackBarCompanyNameExists, {
+          duration: 8000,
+          horizontalPosition: this.horizontalPosition,
+          verticalPosition: this.verticalPosition
+        });
+
       }
       else if(res.Result == "Extraction Failed"){
         this.inprogress = false;
@@ -142,3 +154,20 @@ export class uploadSnackBarStatementComponent {}
   `],
 })
 export class uploadFailureSnackBarStatementComponent {}
+
+@Component({
+  selector: 'snackBarCompanyNameExists',
+  templateUrl: 'snackBarCompanyNameExists.html',
+  styles: [`
+    .snackBar{
+      color: #fff;
+    }
+    b{
+      color:#fff !important;
+    }
+    .material-icons{
+      color:lightgreen;
+    }
+  `],
+})
+export class snackBarCompanyNameExists {}

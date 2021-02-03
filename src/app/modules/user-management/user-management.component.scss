@@ -3,6 +3,9 @@ table {
   height: 100%;
   border-spacing:0px;
 }
+.row{
+  margin: 0%;
+}
 .mat-form-field {
   font-size: 14px;
   width: 100%;
@@ -10,10 +13,44 @@ table {
 .nameTable{
 vertical-align: middle;
 }
+.usersList{
+  padding: 15px 20px;
+  width: 100%;
+  th, td{
+    padding-left: 8px;
+  }
+}
 .search-icon {
   position: relative;
   top: 7px;
   padding-right: 5px;
+}
+.add-user{
+  width: 100%;
+  margin: auto;
+  // height: 200px;
+}
+button{
+  background-color: #164A5B;
+  color: #ffffff;
+}
+.create, .cancel{
+  // float: right;
+  position: absolute;
+  // margin: auto 10px;
+}
+.cancel{
+  right: 20px;
+}
+.create{
+  right: 110px;
+}
+.modal-body{
+  height: 270px;
+}
+
+.user-card{
+  margin: 15px 20px;
 }
 .image{
 height:50px;
@@ -102,9 +139,14 @@ border-collapse: separate;
 	background: white;
 }
 
+.container-field{
+  margin: 8px 5px;
+}
+
 
 .table-container {
-  border-radius: 20px;
+  // border-radius: 20px;
+  margin: 20px 0px;
 }
 
 th {

@@ -2,6 +2,8 @@ import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { CompanyDetailsComponent } from 'src/app/modules/company-details/company-details.component';
+import { ProfileComponent } from 'src/app/modules/profile/profile.component';
 import {
   MatButtonModule,
   MatCardModule,
@@ -44,6 +46,7 @@ import { KpiCashflowComponent } from 'src/app/modules/kpi-cashflow/kpi-cashflow.
 import { CashmetricsComponent } from 'src/app/modules/cashmetrics/cashmetrics.component';
 import {
   DialogElementsExampleDialog,
+  snackBarStatementFailure,
   StatementComponent,
 } from 'src/app/modules/statement/statement.component';
 import { UserDetailsComponent } from 'src/app/modules/user-details/user-details.component';
@@ -54,6 +57,13 @@ import {
   uploadSnackBarBSComponent,
   VisualsBsComponent,
 } from 'src/app/modules/visuals-bs/visuals-bs.component';
+import {
+  uploadFailureSnackBarDCFAddComponent,
+  uploadFailureSnackBarDCFComponent,
+  uploadSnackBarDCFAddComponent,
+  uploadSnackBarDCFComponent,
+ DcfComponent,
+} from 'src/app/modules/dcf/dcf.component';
 import { VisualBSInputDialogComponent } from 'src/app/modules/visuals-is/input-value-dialog.component';
 import { VisualCFInputDialogComponent } from 'src/app/modules/visuals-cf/input-value-dialog.component';
 import {
@@ -86,6 +96,7 @@ import { CashflowKPIComponent } from 'src/app/modules/company-dashboard/cashflow
     DefaultComponent,
     StatementComponent,
     DialogElementsExampleDialog,
+	snackBarStatementFailure,
     uploadSnackBarStatementComponent,
     uploadFailureSnackBarStatementComponent,
     uploadSnackBarISComponent,
@@ -97,9 +108,15 @@ import { CashflowKPIComponent } from 'src/app/modules/company-dashboard/cashflow
     uploadFailureSnackBarISAddComponent,
     uploadSnackBarBSAddComponent,
     uploadFailureSnackBarBSAddComponent,
+	uploadFailureSnackBarDCFAddComponent,
+  uploadFailureSnackBarDCFComponent,
+  uploadSnackBarDCFAddComponent,
+  uploadSnackBarDCFComponent,
     VisualsISComponent,
     PLMetricsComponent,
     BsmetricsComponent,
+CompanyDetailsComponent,
+	ProfileComponent,
     VisualsBsComponent,
     KpiIsComponent,
     KpiBsComponent,
@@ -112,6 +129,7 @@ import { CashflowKPIComponent } from 'src/app/modules/company-dashboard/cashflow
     CompanyDashboardComponent,
     UserDetailsComponent,
     VisualBSInputDialogComponent,
+	 DcfComponent,
     uploadFailureSnackBarCFAddComponent,
     uploadFailureSnackBarCFComponent,
     uploadSnackBarCFAddComponent,
@@ -176,6 +194,10 @@ import { CashflowKPIComponent } from 'src/app/modules/company-dashboard/cashflow
     uploadFailureSnackBarCFComponent,
     uploadSnackBarCFAddComponent,
     uploadFailureSnackBarCFAddComponent,
+	uploadFailureSnackBarDCFAddComponent,
+  uploadFailureSnackBarDCFComponent,
+  uploadSnackBarDCFAddComponent,
+  uploadSnackBarDCFComponent,
   ],
   providers: [RMIAPIsService, ParseNumberPipe],
 })

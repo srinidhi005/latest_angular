@@ -104,7 +104,7 @@ export class KpiCashflowComponent implements OnInit {
         this.progressBar = false;
       });
     this.apiService
-      .getData(this.urlConfig.getCashScenarioAPI() + this.companySelected)
+      .getData(this.urlConfig.getScenarioAPI() + this.companySelected)
       .subscribe((res: any) => {
         this.progressBar = true;
         this.scenarioArray = res.scenarios;

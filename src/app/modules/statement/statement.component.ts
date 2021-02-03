@@ -4,6 +4,11 @@ import { RMIAPIsService } from '../../shared/rmiapis.service';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { UserDetailModelService } from 'src/app/shared/user-detail-model.service';
 import { MatDialog } from '@angular/material/dialog';
+import {
+  MatSnackBar,
+  MatSnackBarHorizontalPosition,
+  MatSnackBarVerticalPosition,
+} from '@angular/material/snack-bar';
 import { FormBuilder } from '@angular/forms';
 import {
   animate,
@@ -40,6 +45,8 @@ const ELEMENT_DATA: PeriodicElement[] = [];
   ],
 })
 export class StatementComponent implements OnInit {
+	horizontalPosition: MatSnackBarHorizontalPosition = 'center';
+  verticalPosition: MatSnackBarVerticalPosition = 'top';
   progressBar: boolean;
   editModeOn: boolean = false;
   selectedRowIndex = -1;
@@ -73,7 +80,8 @@ export class StatementComponent implements OnInit {
     private userDetailModelService: UserDetailModelService,
     private urlConfig: UrlConfigService,
     public dialog: MatDialog,
-    public formBuilder: FormBuilder
+    public formBuilder: FormBuilder,
+	private _snackBar: MatSnackBar,
   ) {}
   ngOnInit(): void {
 	ELEMENT_DATA.length=0;
@@ -83,6 +91,16 @@ export class StatementComponent implements OnInit {
     this.apiService
       .getData(this.urlConfig.getStatementAPI() + nickname)
       .subscribe((res: any) => {
+		   if (res == '') {
+			    this.progressBar = false;
+              this._snackBar.openFromComponent(snackBarStatementFailure, {
+				 
+                duration: 9000,
+                horizontalPosition: this.horizontalPosition,
+                verticalPosition: this.verticalPosition,
+              });
+            }
+			else{
         const data = res.map((el, index) => ({
           ...el,
           position: index + 1,
@@ -107,6 +125,7 @@ export class StatementComponent implements OnInit {
           this.dataSource._updateChangeSubscription();
           this.progressBar = false;
         }
+			}
       });
   }
   deleteDialogBox(element: any) {
@@ -125,7 +144,8 @@ export class StatementComponent implements OnInit {
         ELEMENT_DATA.splice(element.position - 1, 1);
         this.dataSource._updateChangeSubscription();
         this.dataSource._renderChangesSubscription;
-      });
+           
+          });
   }
 
   downloadStatement(element: any) {
@@ -166,3 +186,19 @@ export class StatementComponent implements OnInit {
   styleUrls: ['./statement.component.scss'],
 })
 export class DialogElementsExampleDialog {}
+@Component({
+  selector: 'snackBarStatementsLoadFailure',
+  templateUrl: 'snackBarStatementsLoadFailure.html',
+  styles: [`
+    .snackBar{
+      color: #fff;
+    }
+    b{
+      color:#fff !important;
+    }
+    .material-icons{
+      color:lightgreen;
+    }
+  `],
+})
+export class snackBarStatementFailure {}

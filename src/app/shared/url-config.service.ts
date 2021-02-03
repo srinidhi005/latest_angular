@@ -28,9 +28,21 @@ export class UrlConfigService {
   private cashKPIActuals = `${environment.APIHost}kpi-cfs-actuals?company=`;
    private UserByAdmin = `${environment.APIHost}getUsersByAdmin?admin=`;
     private UserByAdminPOST = `${environment.APIHost}updateusers?admin=`;
- 
-  
+	private DCFAPI = `${environment.APIHost}dcf-valuation?company=`;
+	private getcompany = `${environment.APIHost}dcf-companies?company=`;
+	private deleteuser=`${environment.APIHost}deleteusers?inviteduser=`;
+ private DCFAPIPOST = `${environment.APIHost}dcf-valuation?company=`;
+   private dcfscenarioAPI = `${environment.APIHost}dcf-scenarios?company=`;
   constructor(private http: HttpClient) {}
+	getdcfCompaniesAPI()
+	{
+	return this.getcompany;
+	}
+	
+	getdeleteAPI()
+	{
+	return this.deleteuser;
+	}
 	getUserAdminAPI() {
     return this.UserByAdmin;
   }
@@ -39,6 +51,15 @@ export class UrlConfigService {
   }
   getStatementAPI() {
     return this.statementAPI;
+  }
+   getdcfPOST () {
+    return this.DCFAPIPOST;
+  }
+   getdcfscenarioAPI () {
+    return this.dcfscenarioAPI;
+  }
+  getDCFAPI() {
+    return this.DCFAPI;
   }
   getDeleteStatementAPI() {
     return this.deleteStatementAPI;

@@ -1,44 +1,21 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, Input, OnDestroy, OnInit } from '@angular/core';
 import { MatTableDataSource } from '@angular/material';
-import { UrlConfigService } from 'src/app/shared/url-config.service';
+import { Subscription } from 'rxjs';
 import { RMIAPIsService } from 'src/app/shared/rmiapis.service';
-import { UserDetailModelService } from 'src/app/shared/user-detail-model.service';
-
-export interface PeriodicElement {
-  position: number;
-  name: string;
-  fromyear: number;
-  toyear: number;
-  KPIValue: any;
-}
+import { UrlConfigService } from 'src/app/shared/url-config.service';
+import { PeriodicElement } from '../../kpi-is/kpi-is.component';
 
 @Component({
   selector: 'app-cashflow',
   templateUrl: './cashflow.component.html',
   styleUrls: ['./cashflow.component.scss'],
 })
-export class CashflowKPIComponent implements OnInit {
+export class CashflowKPIComponent implements OnInit, OnDestroy {
   @Input() companyName: string;
-  @Input() scenario: number;
-  loadedScenario = 'Scenario 0';
-  scenarioArray = [];
-  progressBar: boolean;
-  dataValuesActuals: any;
-  dataValuesProjections: any;
-  dataColumnsActuals: string[] = [
-    'Avg. Capex as % of Revenue',
-    'Avg. Asset Sales as % of Revenue',
-    'Avg. Other Investing Activites as % of Revenue',
-    'Avg. Dividends Paid as % of Net Income',
-    'Avg. FFO as % of Revenue',
-  ];
-  dataColumnsProjections: string[] = [
-    'Avg. Capex as % of Revenue',
-    'Avg. Asset Sales as % of Revenue',
-    'Avg. Other Investing Activites as % of Revenue',
-    'Avg. Dividends Paid as % of Net Income',
-    'Avg. FFO as % of Revenue',
-  ];
+  @Input() scenario: string | number;
+  loadingHistory = true;
+  loadingProjection = true;
+  dataValuesActuals;
   displayedColumns: string[] = [
     'position',
     'name',
@@ -46,36 +23,51 @@ export class CashflowKPIComponent implements OnInit {
     'toyear',
     'KPIValue',
   ];
+  dataColumnsActuals: string[] = [
+    'Avg. Capex as % of Revenue',
+    'Avg. Asset Sales as % of Revenue',
+    'Avg. Other Investing Activites as % of Revenue',
+    'Avg. Dividends Paid as % of Net Income',
+    'Avg. FFO as % of Revenue',
+  ];
   ELEMENT_KPI_ACTUALS: PeriodicElement[] = [];
-  ELEMENT_KPI_PROJECTIONS: PeriodicElement[] = [];
   dataSourceActuals = new MatTableDataSource<PeriodicElement>(
     this.ELEMENT_KPI_ACTUALS
   );
+  dataValuesProjections: any;
+  dataColumnsProjections: string[] = [
+    'Avg. Capex as % of Revenue',
+    'Avg. Asset Sales as % of Revenue',
+    'Avg. Other Investing Activites as % of Revenue',
+    'Avg. Dividends Paid as % of Net Income',
+    'Avg. FFO as % of Revenue',
+	'Avg. CFO as % of Revenue',
+	'Avg. CFO as % of EBITDA',
+  ];
+  ELEMENT_KPI_PROJECTIONS: PeriodicElement[] = [];
   dataSourceProjections = new MatTableDataSource<PeriodicElement>(
     this.ELEMENT_KPI_PROJECTIONS
   );
-  companySelected = localStorage.getItem('companySelected');
-
+  HistorySubscription: Subscription;
+  ProjectionSubscription: Subscription;
   constructor(
-    private urlConfig: UrlConfigService,
     private apiService: RMIAPIsService,
-    // tslint:disable-next-line:no-shadowed-variable
-    private UserDetailModelService: UserDetailModelService
+    private urlConfig: UrlConfigService
   ) {}
 
   ngOnInit() {
-    this.progressBar = true;
-    this.apiService
-      .getData(this.urlConfig.getKPICashActuals() + this.companySelected)
+    console.log(this.companyName, this.scenario);
+    this.getHistoryRecords();
+    this.getProjections();
+  }
+  /**
+   * Get Actual records
+   */
+  getHistoryRecords = (): void => {
+    this.loadingHistory = true;
+    this.HistorySubscription = this.apiService
+      .getData(`${this.urlConfig.getKPICashActuals()}${this.companyName}`)
       .subscribe((res: any) => {
-        this.ELEMENT_KPI_ACTUALS = [];
-        this.ELEMENT_KPI_PROJECTIONS = [];
-        this.dataSourceActuals = new MatTableDataSource<PeriodicElement>(
-          this.ELEMENT_KPI_ACTUALS
-        );
-        this.dataSourceProjections = new MatTableDataSource<PeriodicElement>(
-          this.ELEMENT_KPI_PROJECTIONS
-        );
         this.dataValuesActuals = [
           res[0].capexpercentrevenue,
           res[0].assetsalespercentrevenue,
@@ -88,69 +80,63 @@ export class CashflowKPIComponent implements OnInit {
           index <= this.dataColumnsActuals.length - 1;
           index++
         ) {
-          const pushData = {
+          this.ELEMENT_KPI_ACTUALS.push({
             position: index + 1,
             name: this.dataColumnsActuals[index],
             fromyear: res[0].fromyear,
             toyear: res[0].toyear,
             KPIValue: this.dataValuesActuals[index].toFixed(1),
-          };
-          this.ELEMENT_KPI_ACTUALS.push(pushData);
-          this.dataSourceActuals._updateChangeSubscription();
+          });
         }
-        this.progressBar = false;
+        this.dataSourceActuals._updateChangeSubscription();
+        this.loadingHistory = false;
       });
-    this.apiService
-      .getData(this.urlConfig.getCashScenarioAPI() + this.companySelected)
+  };
+  /**
+   * get projection data
+   */
+  getProjections = () => {
+    this.loadingProjection = true;
+    this.ProjectionSubscription = this.apiService
+      .getData(
+        this.urlConfig.getKPICashProjections() +
+          this.companyName +
+          '&scenario=' +
+          this.scenario
+      )
       .subscribe((res: any) => {
-        this.progressBar = true;
-        this.scenarioArray = res.scenarios;
-        this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
-        let scenarioNumber = 0;
-        if (res.scenarios.includes(this.scenario)) {
-          scenarioNumber = this.scenario;
-        }
-        this.apiService
-          .getData(
-            this.urlConfig.getKPICashProjections() +
-              this.companySelected +
-              '&scenario=' +
-              scenarioNumber
-          )
-          // tslint:disable-next-line:no-shadowed-variable
-          .subscribe((res: any) => {
-            this.progressBar = true;
-            this.dataValuesProjections = [
+        this.dataValuesProjections = [
               res[0].capexpercentrevenue,
               res[0].assetsalespercentrevenue,
               res[0].investingpercentrevenue,
               res[0].dividendspaidpercentincome,
               res[0].ffopercentrevenue,
-            ];
-            for (
-              let index = 0;
-              index <= this.dataColumnsProjections.length - 1;
-              index++
-            ) {
-              const pushData = {
-                position: index + 1,
-                name: this.dataColumnsProjections[index],
-                fromyear: res[0].fromyear,
-                toyear: res[0].toyear,
-                KPIValue: this.dataValuesProjections[index].toFixed(1),
-              };
-              this.ELEMENT_KPI_PROJECTIONS.push(pushData);
-              this.dataSourceProjections._updateChangeSubscription();
-            }
-            this.progressBar = false;
+			  res[0].cfopercentrevenue,
+			  res[0].cfopercentebitda
+        ];
+        for (
+          let index = 0;
+          index <= this.dataColumnsProjections.length - 1;
+          index++
+        ) {
+          this.ELEMENT_KPI_PROJECTIONS.push({
+            position: index + 1,
+            name: this.dataColumnsProjections[index],
+            fromyear: res[0].fromyear,
+            toyear: res[0].toyear,
+            KPIValue: this.dataValuesProjections[index],
           });
+        }
+        this.dataSourceProjections._updateChangeSubscription();
+        this.loadingProjection = false;
       });
-  }
-  loadScenario(index: number) {
-    this.scenario = index;
-
-    this.loadedScenario = 'Scenario ' + index;
-
-    this.ngOnInit();
+  };
+  ngOnDestroy() {
+    if (this.HistorySubscription) {
+      this.HistorySubscription.unsubscribe();
+    }
+    if (this.ProjectionSubscription) {
+      this.ProjectionSubscription.unsubscribe();
+    }
   }
 }

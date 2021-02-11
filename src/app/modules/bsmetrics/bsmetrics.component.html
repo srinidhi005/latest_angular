@@ -25,6 +25,14 @@
   <button mat-menu-item routerLink="/visualsBS">Balance Sheet</button>
   <button mat-menu-item routerLink="/visualsCF">CashFlow Statement</button>
 </mat-menu>
+<button mat-button [matMenuTriggerFor]="right">
+      <mat-icon> insert_chart</mat-icon>Metrics<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
+    </button>
+    <mat-menu #right="matMenu" yPosition="below">
+      <button mat-menu-item routerLink="/IncomeStatementMetrics">Income Statement</button>
+      <button mat-menu-item routerLink="/cashmetrics">CashFlow Statement</button>
+    </mat-menu>
+
   </div>
 </div>
 <mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
@@ -36,7 +44,9 @@
       <table class="table table-striped">
         <tr style="height: 60px;">
           <th class="tableheaderClass leftAlign" style="font-weight: normal; border-top-left-radius: 25px;">
-            (in millions)
+            <ng-template [ngIf]="selectedCompanyName!=='Colorado Society of Certified Public Accountants'">
+			(in millions)
+			</ng-template>
           </th>
           <ng-template ngFor [ngForOf]="years" let-year let-rowIndex="index">
             <th class="tableheaderYearClass rightAlign" [class.borderRadius]="rowIndex == years.length - 1">

@@ -34,6 +34,12 @@
         <mat-icon>aspect_ratio</mat-icon>
         Ratios
     </a>
+	 <a mat-list-item routerLinkActive="list-item-active" routerLink="/scorecard">
+        <mat-icon>content_paste</mat-icon>
+        Credit Scorecard
+    </a>
+
+
     <a mat-list-item routerLinkActive="list-item-active" routerLink="/dcf">
         <mat-icon>assignment</mat-icon>
         Valuations
@@ -134,9 +140,9 @@
         </mat-expansion-panel>
     </mat-accordion>
 
-    <a mat-list-item routerLinkActive="list-item-active" routerLink="/Users" 
-    *ngIf = "authService.currentUserRoles?.indexOf('admin') >=0 || authService.currentUserRoles?.indexOf('superadmin') >=0">
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/profile" 
+    *ngIf = "auth.currentUserRoles?.indexOf('Admin') >=0 || auth.currentUserRoles?.indexOf('SuperAdmin') >=0">
         <mat-icon>supervised_user_circle</mat-icon>
-        User Management
+        RMI Insights Account
     </a>
 </mat-nav-list>

@@ -23,7 +23,7 @@ export class SidebarComponent implements OnInit, OnDestroy {
     private apiService: RMIAPIsService,
     private urlConfig: UrlConfigService,
     private router: Router,
-    public authService : AuthService
+    public auth : AuthService
   ) {}
 
   ngOnInit() {

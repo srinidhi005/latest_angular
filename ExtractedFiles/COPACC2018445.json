@@ -1,0 +1,181 @@
+[annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9006309509277344
+  text_segment {
+    start_offset: 123
+    end_offset: 148
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9723165035247803
+  text_segment {
+    start_offset: 169
+    end_offset: 188
+    content: "Accounts receivable"
+  }
+}
+, annotation_spec_id: "4428420519821312000"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9999383687973022
+  text_segment {
+    start_offset: 236
+    end_offset: 245
+    content: "Inventory"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.2846005856990814
+  text_segment {
+    start_offset: 291
+    end_offset: 318
+    content: "Property and equipment, net"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.20176541805267334
+  text_segment {
+    start_offset: 334
+    end_offset: 346
+    content: "Total Assets"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.893491804599762
+  text_segment {
+    start_offset: 398
+    end_offset: 414
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.8557621240615845
+  text_segment {
+    start_offset: 434
+    end_offset: 453
+    content: "Accrued liabilities"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.7674183249473572
+  text_segment {
+    start_offset: 503
+    end_offset: 520
+    content: "Total Liabilities"
+  }
+}
+, annotation_spec_id: "5429345537004404736"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.21875835955142975
+  text_segment {
+    start_offset: 539
+    end_offset: 563
+    content: "Net Assets, Unrestricted"
+  }
+}
+, annotation_spec_id: "1975506835276300288"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.6842378973960876
+  text_segment {
+    start_offset: 584
+    end_offset: 616
+    content: "Total Liabilities and Net Assets"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.302337110042572
+  text_segment {
+    start_offset: 1234
+    end_offset: 1247
+    content: "Total Revenue"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.2168223112821579
+  text_segment {
+    start_offset: 1543
+    end_offset: 1557
+    content: "Total Expenses"
+  }
+}
+, annotation_spec_id: "3811862777476153344"
+display_name: "TotalCapitalExpenditures"
+text_extraction {
+  score: 0.25386843085289
+  text_segment {
+    start_offset: 2698
+    end_offset: 2732
+    content: "Purchases of operating investments"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.2642824053764343
+  text_segment {
+    start_offset: 2753
+    end_offset: 2796
+    content: "Proceeds from sale of operating investments"
+  }
+}
+, annotation_spec_id: "3811862777476153344"
+display_name: "TotalCapitalExpenditures"
+text_extraction {
+  score: 0.5302448868751526
+  text_segment {
+    start_offset: 2813
+    end_offset: 2848
+    content: "Purchases of property and equipment"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.6887258291244507
+  text_segment {
+    start_offset: 2868
+    end_offset: 2912
+    content: "Proceeds from sale of property and equipment"
+  }
+}
+, annotation_spec_id: "3979340388618993664"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.27780887484550476
+  text_segment {
+    start_offset: 2923
+    end_offset: 2963
+    content: "Net cash (used for) investing activities"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.984148383140564
+  text_segment {
+    start_offset: 3365
+    end_offset: 3377
+    content: "Depreciation"
+  }
+}
+]

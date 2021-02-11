@@ -94,8 +94,10 @@ export class VisualsISComponent implements OnInit {
   PEBTOptions: {};
   PNIOptions: {};
   yearsArray = [];
+  actualDriversColors=[];
   projectionsYearsArray = [];
   scenarioArray = [];
+  driversColors = [];
   scenario = this.UserDetailModelService.getSelectedScenario();
   companyName = this.UserDetailModelService.getSelectedCompany();
   financialObj = new Map();
@@ -379,14 +381,61 @@ export class VisualsISComponent implements OnInit {
                       : +v.netIterestExpense.toFixed(0)
                   );
                 });
+				console.log("years array",this.yearsArray);
                 RGArray.shift();
                 COGSArray.shift();
                 SGAArray.shift();
                 DAArray.shift();
                 OIEArray.shift();
                 NIEArray.shift();
-                this.projectionsYearsArray.shift();
-
+			
+               this.projectionsYearsArray.shift();
+			   if(this.projectionsYearsArray.length==6){
+				   
+	this.driversColors=[actualColor,
+                        projectionColor,
+                        projectionColor,
+                        projectionColor,
+                        projectionColor,
+						projectionColor,]
+				   
+			   }
+			   else{
+				   this.driversColors=[
+				        actualColor,
+				        actualColor,
+                        projectionColor,
+                        projectionColor,
+                        projectionColor,
+                        projectionColor,
+						projectionColor,]
+			   }
+			   
+			   if(this.yearsArray.length==7){
+				   
+	this.actualDriversColors=[actualColor,
+						actualColor,
+                        projectionColor,
+                        projectionColor,
+                        projectionColor,
+                        projectionColor,
+						projectionColor,]
+				   
+			   }
+			   else{
+				   this.actualDriversColors=[
+						actualColor,
+				        actualColor,
+				        actualColor,
+                        projectionColor,
+                        projectionColor,
+                        projectionColor,
+                        projectionColor,
+						projectionColor,]
+			   }
+				   
+			   console.log("projection years array",this.projectionsYearsArray);
+                const _this=this;
                 this.RGOptions = {
                   chart: { type: 'areaspline', animation: false },
                   title: { text: 'Revenue Growth' },
@@ -408,12 +457,21 @@ export class VisualsISComponent implements OnInit {
                       point: {
                         events: {
                           drag: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
+							  if(_this.projectionsYearsArray.length==6){
+								  if (e.target.index == 0 ) {
                               return false;
                             }
-                          },
+							  }
+							if(_this.projectionsYearsArray.length==7){
+								  if (e.target.index == 0 || e.target.index == 1) {
+                              return false;
+                            }
+                           
+							}
+							  },
                           drop: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
+							  if(_this.projectionsYearsArray.length==6){
+								  if (e.target.index == 0 ) {
                               return false;
                             } else {
                               that.financialObj.get(
@@ -422,6 +480,21 @@ export class VisualsISComponent implements OnInit {
                               console.log(e.target.y, e.target.category);
                               that.updateProjection();
                             }
+								  
+							  }
+							  if(_this.projectionsYearsArray.length==7){
+								  if (e.target.index == 0 || e.target.index == 1) {
+                              return false;
+                            } else {
+                              that.financialObj.get(
+                                e.target.category
+                              ).revenueGrowth = e.target.y;
+                              console.log(e.target.y, e.target.category);
+                              that.updateProjection();
+                            }
+								  
+							  }
+                            
                           },
                           click() {
                             if (this.index < 2) {
@@ -442,15 +515,7 @@ export class VisualsISComponent implements OnInit {
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      colors: [
-                        actualColor,
-                        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-						projectionColor,
-                      ],
+                      colors: this.driversColors,
                       borderRadius: 5,
                     },
                   },
@@ -489,18 +554,37 @@ export class VisualsISComponent implements OnInit {
                       point: {
                         events: {
                           drag: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
+							  if(_this.projectionsYearsArray.length==6){
+								  if (e.target.index == 0 ) {
                               return false;
                             }
-                          },
+							  }
+							if(_this.projectionsYearsArray.length==7){
+								  if (e.target.index == 0 || e.target.index == 1) {
+                              return false;
+                            }
+                           
+							}
+							  },
                           drop: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
+                           if(_this.projectionsYearsArray.length==6){
+								  if (e.target.index == 0 ) {
                               return false;
                             } else {
                               that.financialObj.get(e.target.category).COGS =
                                 e.target.y;
                               that.updateProjection();
                             }
+						   }
+							 if(_this.projectionsYearsArray.length==7){
+								  if (e.target.index == 0 || e.target.index == 1) {
+                              return false;
+                            } else {
+                              that.financialObj.get(e.target.category).COGS =
+                                e.target.y;
+                              that.updateProjection();
+                            }
+							 }
                           },
                           click() {
                             if (this.index < 2) {
@@ -521,15 +605,7 @@ export class VisualsISComponent implements OnInit {
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      colors: [
-                        actualColor,
-                        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-						projectionColor,
-                      ],
+                      colors: this.driversColors,
                       borderRadius: 5,
                     },
                   },
@@ -566,20 +642,42 @@ export class VisualsISComponent implements OnInit {
                       dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
                       point: {
                         events: {
-                          drag: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
+                           drag: function (e) {
+							  if(_this.projectionsYearsArray.length==6){
+								  if (e.target.index == 0 ) {
                               return false;
                             }
-                          },
-                          drop: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
+							  }
+							if(_this.projectionsYearsArray.length==7){
+								  if (e.target.index == 0 || e.target.index == 1) {
                               return false;
-                            } else {
+                            }
+                           
+							}
+							  },
+                          drop: function (e) {
+                             if(_this.projectionsYearsArray.length==6){
+								  if (e.target.index == 0) {
+                              return false;
+                            }
+							else {
                               that.financialObj.get(e.target.category).SGAndA =
                                 e.target.y;
                               console.log('inside chart', that.financialObj);
                               that.updateProjection();
                             }
+							 }
+							  if(_this.projectionsYearsArray.length==7){
+								  if (e.target.index == 0 || e.target.index == 1 ) {
+                              return false;
+                            }
+							else {
+                              that.financialObj.get(e.target.category).SGAndA =
+                                e.target.y;
+                              console.log('inside chart', that.financialObj);
+                              that.updateProjection();
+                            }
+							 }
                           },
                           click() {
                             if (this.index < 2) {
@@ -600,14 +698,7 @@ export class VisualsISComponent implements OnInit {
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      colors: [
-                        actualColor,
-                        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                      ],
+                      colors: this.driversColors,
                       borderRadius: 5,
                     },
                   },
@@ -646,19 +737,38 @@ export class VisualsISComponent implements OnInit {
                       dragDrop: { draggableY: true, dragMaxY: 49, dragMinY: 0 },
                       point: {
                         events: {
-                          drag: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
+                           drag: function (e) {
+							  if(_this.projectionsYearsArray.length==6){
+								  if (e.target.index == 0 ) {
                               return false;
                             }
-                          },
-                          drop: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
+							  }
+							if(_this.projectionsYearsArray.length==7){
+								  if (e.target.index == 0 || e.target.index == 1) {
                               return false;
-                            } else {
+                            }
+                           
+							}
+							  },
+                          drop: function (e) {
+                            if(_this.projectionsYearsArray.length==6){
+								  if (e.target.index == 0) {
+                              return false;
+                            }else {
                               that.financialObj.get(e.target.category).DAndA =
                                 e.target.y;
                               that.updateProjection();
                             }
+							}
+							 if(_this.projectionsYearsArray.length==7){
+								  if (e.target.index == 0 || e.target.index == 1 ) {
+                              return false;
+                            }else {
+                              that.financialObj.get(e.target.category).DAndA =
+                                e.target.y;
+                              that.updateProjection();
+                            }
+							 }
                           },
                           click() {
                             if (this.index < 2) {
@@ -679,16 +789,7 @@ export class VisualsISComponent implements OnInit {
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      colors: [
-                        actualColor,
-                        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-						projectionColor,
-						
-                      ],
+                      colors: this.driversColors,
                       borderRadius: 5,
                     },
                   },
@@ -730,20 +831,42 @@ export class VisualsISComponent implements OnInit {
                       },
                       point: {
                         events: {
-                          drag: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
+                           drag: function (e) {
+							  if(_this.projectionsYearsArray.length==6){
+								  if (e.target.index == 0 ) {
                               return false;
                             }
-                          },
-                          drop: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
+							  }
+							if(_this.projectionsYearsArray.length==7){
+								  if (e.target.index == 0 || e.target.index == 1) {
                               return false;
-                            } else {
+                            }
+                           
+							}
+							  },
+                          drop: function (e) {
+                            if(_this.projectionsYearsArray.length==6){
+								  if (e.target.index == 0) {
+                              return false;
+                            } 
+							else {
                               that.financialObj.get(
                                 e.target.category
                               ).otherIncomeOrExpense = e.target.y;
                               that.updateProjection();
                             }
+							}
+							  if(_this.projectionsYearsArray.length==7){
+								  if (e.target.index == 0 || e.target.index == 1) {
+                              return false;
+                            } 
+							else {
+                              that.financialObj.get(
+                                e.target.category
+                              ).otherIncomeOrExpense = e.target.y;
+                              that.updateProjection();
+                            }
+							}
                           },
                           click() {
                             if (this.index < 2) {
@@ -764,15 +887,7 @@ export class VisualsISComponent implements OnInit {
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      colors: [
-                        actualColor,
-                        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-						projectionColor,
-                      ],
+                      colors: this.driversColors,
                       borderRadius: 5,
                     },
                   },
@@ -796,7 +911,7 @@ export class VisualsISComponent implements OnInit {
                 this.NIEOptions = {
                   chart: { type: 'areaspline', animation: false },
                   title: { text: 'Net Interest Expense' },
-                  yAxis: { title: { text: 'USD' } },
+                  yAxis: { title: { text: 'USD' },tickInterval:50 },
                   xAxis: {
                     categories: this.projectionsYearsArray,
                   },
@@ -806,20 +921,40 @@ export class VisualsISComponent implements OnInit {
                       dragDrop: { draggableY: true },
                       point: {
                         events: {
-                          drag: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
+                           drag: function (e) {
+							  if(_this.projectionsYearsArray.length==6){
+								  if (e.target.index == 0 ) {
                               return false;
                             }
-                          },
-                          drop: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
+							  }
+							if(_this.projectionsYearsArray.length==7){
+								  if (e.target.index == 0 || e.target.index == 1) {
                               return false;
-                            } else {
+                            }
+                           
+							}
+							  },
+                          drop: function (e) {
+                             if(_this.projectionsYearsArray.length==6){
+								  if (e.target.index == 0 ) {
+                              return false;
+                            }  else {
                               that.financialObj.get(
                                 e.target.category
                               ).netIterestExpense = e.target.y;
                               that.updateProjection();
                             }
+							 }
+							  if(_this.projectionsYearsArray.length==7){
+								  if (e.target.index == 0 || e.target.index == 1) {
+                              return false;
+                            }  else {
+                              that.financialObj.get(
+                                e.target.category
+                              ).netIterestExpense = e.target.y;
+                              that.updateProjection();
+                            }
+							 }
                           },
                           click() {
                             if (this.index < 2) {
@@ -840,15 +975,7 @@ export class VisualsISComponent implements OnInit {
                       minPointLength: 2,
                       colorByPoint: true,
                       cursor: 'ns-resize',
-                      colors: [
-                        actualColor,
-                        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-						projectionColor,
-                      ],
+                      colors: this.driversColors,
                       borderRadius: 5,
                     },
                   },
@@ -966,16 +1093,7 @@ export class VisualsISComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          colors: [
-            actualColor,
-            actualColor,
-            actualColor,
-            projectionColor,
-            projectionColor,
-            projectionColor,
-            projectionColor,
-			projectionColor,
-          ],
+          colors: this.actualDriversColors,
           borderRadius: 5,
         },
       },
@@ -996,16 +1114,7 @@ export class VisualsISComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          colors: [
-            actualColor,
-            actualColor,
-            actualColor,
-            projectionColor,
-            projectionColor,
-            projectionColor,
-            projectionColor,
-			projectionColor,
-          ],
+          colors:this.actualDriversColors,
           borderRadius: 5,
         },
       },
@@ -1032,16 +1141,7 @@ export class VisualsISComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          colors: [
-            actualColor,
-            actualColor,
-            actualColor,
-            projectionColor,
-            projectionColor,
-            projectionColor,
-            projectionColor,
-			projectionColor,
-          ],
+          colors: this.actualDriversColors,
           borderRadius: 5,
         },
       },
@@ -1068,16 +1168,7 @@ export class VisualsISComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          colors: [
-            actualColor,
-            actualColor,
-           actualColor,
-            projectionColor,
-            projectionColor,
-            projectionColor,
-			projectionColor,
-            projectionColor,
-          ],
+          colors: this.actualDriversColors,
           borderRadius: 5,
         },
       },
@@ -1104,16 +1195,7 @@ export class VisualsISComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          colors: [
-            actualColor,
-            actualColor,
-           actualColor,
-            projectionColor,
-            projectionColor,
-            projectionColor,
-            projectionColor,
-			projectionColor,
-          ],
+          colors:this.actualDriversColors,
           borderRadius: 5,
         },
       },
@@ -1140,16 +1222,7 @@ export class VisualsISComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          colors: [
-            actualColor,
-            actualColor,
-            actualColor,
-            projectionColor,
-            projectionColor,
-            projectionColor,
-            projectionColor,
-			projectionColor,
-          ],
+          colors:this.actualDriversColors,
           borderRadius: 5,
         },
       },

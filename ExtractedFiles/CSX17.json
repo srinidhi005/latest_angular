@@ -1,0 +1,131 @@
+[annotation_spec_id: "6853749656648679424"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9999995827674866
+  text_segment {
+    start_offset: 1247
+    end_offset: 1274
+    content: "CONSOLIDATED BALANCE SHEETS"
+  }
+}
+, annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9999995827674866
+  text_segment {
+    start_offset: 1348
+    end_offset: 1373
+    content: "Cash and Cash Equivalents"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.999987781047821
+  text_segment {
+    start_offset: 1425
+    end_offset: 1450
+    content: "Accounts Receivable - Net"
+  }
+}
+, annotation_spec_id: "7495512603548975104"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.999986469745636
+  text_segment {
+    start_offset: 1528
+    end_offset: 1548
+    content: "Total Current Assets"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.9999784827232361
+  text_segment {
+    start_offset: 1629
+    end_offset: 1645
+    content: "Properties - Net"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.999985933303833
+  text_segment {
+    start_offset: 1779
+    end_offset: 1791
+    content: "Total Assets"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9999985694885254
+  text_segment {
+    start_offset: 1868
+    end_offset: 1884
+    content: "Accounts Payable"
+  }
+}
+, annotation_spec_id: "5429345537004404736"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.723975658416748
+  text_segment {
+    start_offset: 1999
+    end_offset: 2035
+    content: "Current Maturities of Long-term Debt"
+  }
+}
+, annotation_spec_id: "3789331585199767552"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9992529153823853
+  text_segment {
+    start_offset: 2125
+    end_offset: 2150
+    content: "Total Current Liabilities"
+  }
+}
+, annotation_spec_id: "5429345537004404736"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.9999549984931946
+  text_segment {
+    start_offset: 2223
+    end_offset: 2237
+    content: "Long-term Debt"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.9999565482139587
+  text_segment {
+    start_offset: 2347
+    end_offset: 2364
+    content: "Total Liabilities"
+  }
+}
+, annotation_spec_id: "8415372827439398912"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9999997615814209
+  text_segment {
+    start_offset: 2606
+    end_offset: 2632
+    content: "Total Shareholders\' Equity"
+  }
+}
+, annotation_spec_id: "1975506835276300288"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.9999998211860657
+  text_segment {
+    start_offset: 2647
+    end_offset: 2689
+    content: "Total Liabilities and Shareholders\' Equity"
+  }
+}
+]

@@ -1,0 +1,161 @@
+[annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9999999403953552
+  text_segment {
+    start_offset: 139
+    end_offset: 164
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9610985517501831
+  text_segment {
+    start_offset: 185
+    end_offset: 202
+    content: "Trade receivables"
+  }
+}
+, annotation_spec_id: "4428420519821312000"
+display_name: "Inventories"
+text_extraction {
+  score: 0.8464332222938538
+  text_segment {
+    start_offset: 268
+    end_offset: 279
+    content: "Prepayments"
+  }
+}
+, annotation_spec_id: "4428420519821312000"
+display_name: "Inventories"
+text_extraction {
+  score: 0.999987781047821
+  text_segment {
+    start_offset: 296
+    end_offset: 305
+    content: "Inventory"
+  }
+}
+, annotation_spec_id: "7495512603548975104"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9999977946281433
+  text_segment {
+    start_offset: 319
+    end_offset: 339
+    content: "Total Current Assets"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.9999554753303528
+  text_segment {
+    start_offset: 494
+    end_offset: 520
+    content: "Net Property and Equipment"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9999136924743652
+  text_segment {
+    start_offset: 609
+    end_offset: 621
+    content: "Total Assets"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9999995827674866
+  text_segment {
+    start_offset: 694
+    end_offset: 710
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9999414682388306
+  text_segment {
+    start_offset: 731
+    end_offset: 750
+    content: "Accrued liabilities"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.4751196801662445
+  text_segment {
+    start_offset: 767
+    end_offset: 781
+    content: "Grants payable"
+  }
+}
+, annotation_spec_id: "3789331585199767552"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9999898076057434
+  text_segment {
+    start_offset: 868
+    end_offset: 893
+    content: "Total Current Liabilities"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9991680979728699
+  text_segment {
+    start_offset: 995
+    end_offset: 1014
+    content: "Accrued liabilities"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.999826967716217
+  text_segment {
+    start_offset: 1109
+    end_offset: 1126
+    content: "Total Liabilities"
+  }
+}
+, annotation_spec_id: "1975506835276300288"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.5244096517562866
+  text_segment {
+    start_offset: 1218
+    end_offset: 1250
+    content: "Total Liabilities and Net Assets"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9929010272026062
+  text_segment {
+    start_offset: 1937
+    end_offset: 1950
+    content: "Total Revenue"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.4259789288043976
+  text_segment {
+    start_offset: 3723
+    end_offset: 3767
+    content: "Proceeds from sale of property and equipment"
+  }
+}
+]

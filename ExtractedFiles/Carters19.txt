@@ -1,0 +1,138 @@
+
+Page#1
+CARTER’S, INC.
+CONSOLIDATED BALANCE SHEETS
+(dollars in thousands, except for share data)
+December 28, December 29,
+2019 2018
+ASSETS
+Current assets:
+Cash and cash equivalents $ 214,311 $ 170,077
+Accounts receivable, net 251,005 258,259
+Finished goods inventories, net 593,987 574,226
+Prepaid expenses and other current assets 48,454 40,396
+Total current assets 1,107,757 1,042,958
+Property, plant, and equipment, net 320,168 350,437
+Operating lease assets  687,024 —
+Tradenames, net  334,642 365,692
+Goodwill  229,026 227,101
+Customer relationships, net 41,126 44,511
+Other assets  33,374 28,159
+Total assets  $2,753,117 $2,058,858
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable  $ 183,641 $ 199,076
+Current operating lease liabilities 160,228 —
+Other current liabilities 131,631 128,345
+Total current liabilities 475,500 327,421
+Long-term debt, net  594,672 593,264
+Deferred income taxes  74,370 87,347
+Long-term operating lease liabilities 664,372 —
+Other long-term liabilities 64,073 181,393
+Total liabilities  $1,872,987 $1,189,425
+Commitments and contingencies—Note 18
+Stockholders’ equity:
+Preferred stock; par value $.01 per share; 100,000 shares authorized; none issued or
+outstanding at December 28, 2019 and December 29, 2018 $ — $ —
+Common stock, voting; par value $.01 per share; 150,000,000 shares authorized;
+43,963,103 and 45,629,014 shares issued and outstanding at December 28, 2019
+and December 29, 2018, respectively 440 456
+Accumulated other comprehensive loss (35,634) (40,839)
+Retained earnings  915,324 909,816
+Total stockholders’ equity 880,130 869,433
+Total liabilities and stockholders’ equity $2,753,117 $2,058,858
+See accompanying notes to the consolidated financial statements.
+48
+Page#2
+CARTER’S, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(dollars in thousands, except per share data)
+For the fiscal year ended
+December 28, December 29, December 30,
+2019 2018 2017
+Net sales $3,519,286 $3,462,269 $3,400,504
+Cost of goods sold 2,010,736 1,964,786 1,917,150
+Gross profit 1,508,550 1,497,483 1,483,354
+Royalty income, net 34,637 38,930 43,181
+Selling, general, and administrative expenses 1,140,515 1,144,980 1,106,928
+Intangible asset impairment 30,800 — —
+Operating income 371,872 391,433 419,607
+Interest expense 37,617 34,569 30,044
+F
+Interest income (1,303) (527) (345)
+o
+r
+Other (income) expense, net (217) 1,416 (1,164)
+m
+Loss on extinguishment of debt 7,823 — —
+1
+0
+-
+Income before income taxes 327,952 355,975 391,072 K
+Provision for income taxes 64,150 73,907 88,224
+Net income $ 263,802 $ 282,068 $ 302,848
+Basic net income per common share $ 5.89 $ 6.06 $ 6.31
+Diluted net income per common share $ 5.85 $ 6.00 $ 6.24
+Dividend declared and paid per common share $ 2.00 $ 1.80 $ 1.48
+See accompanying notes to the consolidated financial statements.
+49
+Page#3
+CARTER’S, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(dollars in thousands)
+For the fiscal year ended
+December 28, December 29, December 30,
+2019 2018 2017
+Cash flows from operating activities:
+Net income $ 263,802 $ 282,068 $ 302,848
+Adjustments to reconcile net income to net cash provided by operating
+activities:
+Depreciation of property, plant, and equipment 92,207 85,936 81,796
+Amortization of intangible assets 3,747 3,717 2,616
+Intangible asset impairment 30,800 — —
+Adjustment and accretion of contingent considerations — — (3,600)
+Amortization of debt issuance costs 1,437 1,746 1,572
+Stock-based compensation expense 16,529 14,673 17,549
+Unrealized foreign currency exchange (gain) loss, net (564) 271 (624)
+(Recoveries of) provisions for doubtful accounts receivable from
+customers (220) 15,801 4,663
+F
+o
+Loss on disposal of property, plant, and equipment, net of
+r
+m
+recoveries 452 995 1,572
+Loss on extinguishment of debt 7,823 — — 1
+0
+Deferred income taxes (13,300) (1,018) (54,936) -
+K
+Effect of changes in operating assets and liabilities, net of
+acquisitions:
+Accounts receivable 8,121 (34,448) (22,709)
+Finished goods inventories (16,683) (30,646) (20,922)
+Prepaid expenses and other assets (699,036) 12,121 (21,791)
+Accounts payable and other liabilities 692,100 4,982 41,587
+Net cash provided by operating activities $ 387,215 $ 356,198 $ 329,621
+Cash flows from investing activities:
+Capital expenditures $ (61,419) $ (63,783) $ (69,473)
+Acquisitions of businesses, net of cash acquired — 96 (158,457)
+Disposals and recoveries from property, plant, and equipment 749 380 15
+Net cash used in investing activities $ (60,670) $ (63,307) $ (227,915)
+Cash flows from financing activities:
+Proceeds from senior notes due 2027 $ 500,000 $ — $ —
+Payment of senior notes due 2021 (400,000) — —
+Premiums paid to extinguish debt (5,252) — —
+Payments of debt issuance costs (5,793) (968) (2,119)
+Borrowings under secured revolving credit facility 265,000 290,000 200,000
+Payments on secured revolving credit facility (361,000) (315,000) (163,965)
+Repurchases of common stock (196,910) (193,028) (188,762)
+Dividends paid (89,591) (83,717) (70,914)
+Withholdings of taxes from vesting of restricted stock (4,328) (6,830) (5,753)
+Proceeds from exercises of stock options 14,490 10,597 8,438
+Net cash used in financing activities $ (283,384) $ (298,946) $ (223,075)
+Net effect of exchange rate changes on cash and cash equivalents 1,073 (2,362) 505
+Net increase (decrease) in cash and cash equivalents $ 44,234 $ (8,417) $ (120,864)
+Cash and cash equivalents, beginning of fiscal year 170,077 178,494 299,358
+Cash and cash equivalents, end of fiscal year $ 214,311 $ 170,077 $ 178,494
+See accompanying notes to the consolidated financial statements.
+51

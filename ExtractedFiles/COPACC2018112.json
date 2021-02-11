@@ -1,0 +1,181 @@
+[annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9999326467514038
+  text_segment {
+    start_offset: 123
+    end_offset: 148
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9997493624687195
+  text_segment {
+    start_offset: 169
+    end_offset: 188
+    content: "Accounts receivable"
+  }
+}
+, annotation_spec_id: "4428420519821312000"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9997270107269287
+  text_segment {
+    start_offset: 236
+    end_offset: 245
+    content: "Inventory"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.8356717824935913
+  text_segment {
+    start_offset: 291
+    end_offset: 318
+    content: "Property and Equipment, net"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9986231923103333
+  text_segment {
+    start_offset: 335
+    end_offset: 347
+    content: "Total Assets"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9999977946281433
+  text_segment {
+    start_offset: 399
+    end_offset: 415
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9995948672294617
+  text_segment {
+    start_offset: 434
+    end_offset: 453
+    content: "Accrued liabilities"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.9737817049026489
+  text_segment {
+    start_offset: 503
+    end_offset: 520
+    content: "Total Liabilities"
+  }
+}
+, annotation_spec_id: "3788271655990591488"
+display_name: "OtherAssets"
+text_extraction {
+  score: 0.260497510433197
+  text_segment {
+    start_offset: 562
+    end_offset: 586
+    content: "Net Assets, Unrestricted"
+  }
+}
+, annotation_spec_id: "1975506835276300288"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.4499708414077759
+  text_segment {
+    start_offset: 607
+    end_offset: 639
+    content: "Total Liabilities and Net Assets"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.6007979512214661
+  text_segment {
+    start_offset: 701
+    end_offset: 749
+    content: "Colorado Society of Certified Public Accountants"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9973654747009277
+  text_segment {
+    start_offset: 1165
+    end_offset: 1178
+    content: "Total Revenue"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.5685468316078186
+  text_segment {
+    start_offset: 1416
+    end_offset: 1438
+    content: "General administrative"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.3944332003593445
+  text_segment {
+    start_offset: 1606
+    end_offset: 1647
+    content: "Net non-operating investment return (loss"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.9980656504631042
+  text_segment {
+    start_offset: 2631
+    end_offset: 2674
+    content: "Proceeds from sale of operating investments"
+  }
+}
+, annotation_spec_id: "3811862777476153344"
+display_name: "TotalCapitalExpenditures"
+text_extraction {
+  score: 0.9839808940887451
+  text_segment {
+    start_offset: 2685
+    end_offset: 2720
+    content: "Purchases of property and equipment"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.9985978603363037
+  text_segment {
+    start_offset: 2739
+    end_offset: 2783
+    content: "Proceeds from sale of property and equipment"
+  }
+}
+, annotation_spec_id: "3979340388618993664"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.9918081164360046
+  text_segment {
+    start_offset: 2791
+    end_offset: 2836
+    content: "Net cash from (used for) investing activities"
+  }
+}
+]

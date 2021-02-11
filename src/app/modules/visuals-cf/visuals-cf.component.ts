@@ -1,6 +1,6 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
-import { RMIAPIsService } from '../../shared/rmiapis.service';
+import { abbreviateNumber, RMIAPIsService } from '../../shared/rmiapis.service';
 import { UserDetailModelService } from '../../shared/user-detail-model.service';
 import {
   MatSnackBar,
@@ -388,7 +388,8 @@ export class VisualsCfComponent implements OnInit {
                   title: { text: 'Dividend Paid' },
                   yAxis: {
                     title: { text: 'USD' },
-                    min: 0,
+		    min: 0,
+		    tickInterval:50,
                   },
                   xAxis: { categories: this.yearsArray },
                   plotOptions: {
@@ -447,7 +448,7 @@ export class VisualsCfComponent implements OnInit {
                     ...tooltip,
                     formatter: function () {
                       return (
-                        Highcharts.numberFormat(this.point.y, 0) + 'millions'
+                        Highcharts.numberFormat(this.point.y, 0) + ' USD'
                       );
                     },
                   },
@@ -772,13 +773,13 @@ export class VisualsCfComponent implements OnInit {
           key
         ).totalrevenue;
         this.CffinancialObj.get(key).totalexpenditure =
-          this.CffinancialObj.get(key).capexpercent *
+          ((this.CffinancialObj.get(key).capexpercent)/100) *
           this.CffinancialObj.get(key).totalrevenue;
         this.CffinancialObj.get(
           key
         ).assetsalespercent = this.CffinancialObj.get(key).assetsalespercent;
         this.CffinancialObj.get(key).assetsales =
-          this.CffinancialObj.get(key).assetsalespercent *
+          ((this.CffinancialObj.get(key).assetsalespercent)/100) *
           this.CffinancialObj.get(key).totalrevenue;
         this.CffinancialObj.get(
           key
@@ -786,14 +787,14 @@ export class VisualsCfComponent implements OnInit {
           key
         ).otherinvestmentpercent;
         this.CffinancialObj.get(key).otherinvestingactivities =
-          Math.round(this.CffinancialObj.get(key).otherinvestmentpercent) *
+          Math.round((this.CffinancialObj.get(key).otherinvestmentpercent)/100) *
           this.CffinancialObj.get(key).totalrevenue;
 
         this.CffinancialObj.get(key).cfi = Math.round(
-          -this.CffinancialObj.get(key).totalexpenditure +
+          (this.CffinancialObj.get(key).totalexpenditure) +
             this.CffinancialObj.get(key).assetsales +
             this.CffinancialObj.get(key).otherinvestingactivities
-        );
+        )*-1;
         this.CffinancialObj.get(key).debtissued = this.CffinancialObj.get(
           key
         ).debtissued;
@@ -849,7 +850,7 @@ export class VisualsCfComponent implements OnInit {
       tooltip: {
         ...tooltip,
         formatter: function () {
-          return Highcharts.numberFormat(this.point.y, 0) + ' millions';
+          return Highcharts.numberFormat(this.point.y, 0) + ' USD';
         },
       },
       credits: { enabled: false },
@@ -884,7 +885,7 @@ export class VisualsCfComponent implements OnInit {
       tooltip: {
         ...tooltip,
         formatter: function () {
-          return Highcharts.numberFormat(this.point.y, 0) + ' millions';
+          return Highcharts.numberFormat(this.point.y, 0) + ' USD';
         },
       },
       credits: { enabled: false },
@@ -919,7 +920,7 @@ export class VisualsCfComponent implements OnInit {
       tooltip: {
         ...tooltip,
         formatter: function () {
-          return Highcharts.numberFormat(this.point.y, 0) + ' millions';
+          return Highcharts.numberFormat(this.point.y, 0) + ' USD';
         },
       },
       credits: { enabled: false },
@@ -955,7 +956,7 @@ export class VisualsCfComponent implements OnInit {
       tooltip: {
         ...tooltip,
         formatter: function () {
-          return Highcharts.numberFormat(this.point.y, 0) + ' millions';
+          return Highcharts.numberFormat(this.point.y, 0) + ' USD';
         },
       },
       credits: { enabled: false },

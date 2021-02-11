@@ -1,0 +1,141 @@
+[annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999739527702332
+  text_segment {
+    start_offset: 57
+    end_offset: 65
+    content: "Revenues"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.9973791837692261
+  text_segment {
+    start_offset: 66
+    end_offset: 67
+    content: "$"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9991359114646912
+  text_segment {
+    start_offset: 118
+    end_offset: 134
+    content: "Cost of revenues"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9999710321426392
+  text_segment {
+    start_offset: 235
+    end_offset: 279
+    content: "Selling, general and administrative expenses"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.939556896686554
+  text_segment {
+    start_offset: 360
+    end_offset: 382
+    content: "Income from operations"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.6855964660644531
+  text_segment {
+    start_offset: 467
+    end_offset: 483
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.951519250869751
+  text_segment {
+    start_offset: 642
+    end_offset: 682
+    content: "Income before provision for income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9999549388885498
+  text_segment {
+    start_offset: 707
+    end_offset: 733
+    content: "Provision for income taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9998489618301392
+  text_segment {
+    start_offset: 752
+    end_offset: 762
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9900007843971252
+  text_segment {
+    start_offset: 1213
+    end_offset: 1255
+    content: "COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION"
+  }
+}
+, annotation_spec_id: "3811862777476153344"
+display_name: "TotalCapitalExpenditures"
+text_extraction {
+  score: 0.9933275580406189
+  text_segment {
+    start_offset: 2262
+    end_offset: 2297
+    content: "Purchases of property and equipment"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.9724459648132324
+  text_segment {
+    start_offset: 2377
+    end_offset: 2422
+    content: "Proceeds from maturity or sale of investments"
+  }
+}
+, annotation_spec_id: "3979340388618993664"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.9994141459465027
+  text_segment {
+    start_offset: 2515
+    end_offset: 2554
+    content: "Net cash (used in) investing activities"
+  }
+}
+, annotation_spec_id: "3752471557390204928"
+display_name: "ConsolidatedCashFlows"
+text_extraction {
+  score: 0.541558563709259
+  text_segment {
+    start_offset: 3703
+    end_offset: 3740
+    content: "CONSOLIDATED STATEMENTS OF CASH FLOWS"
+  }
+}
+]

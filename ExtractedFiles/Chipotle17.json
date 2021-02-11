@@ -1,0 +1,301 @@
+[annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.5642788410186768
+  text_segment {
+    start_offset: 20
+    end_offset: 48
+    content: "CHIPOTLE MEXICAN GRILL, INC."
+  }
+}
+, annotation_spec_id: "6853749656648679424"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9999986290931702
+  text_segment {
+    start_offset: 49
+    end_offset: 75
+    content: "CONSOLIDATED BALANCE SHEET"
+  }
+}
+, annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.999999463558197
+  text_segment {
+    start_offset: 243
+    end_offset: 268
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9999809861183167
+  text_segment {
+    start_offset: 288
+    end_offset: 307
+    content: "Accounts receivable"
+  }
+}
+, annotation_spec_id: "4428420519821312000"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9999998807907104
+  text_segment {
+    start_offset: 424
+    end_offset: 433
+    content: "Inventory"
+  }
+}
+, annotation_spec_id: "7495512603548975104"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9999997019767761
+  text_segment {
+    start_offset: 566
+    end_offset: 586
+    content: "Total current assets"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.9954932928085327
+  text_segment {
+    start_offset: 603
+    end_offset: 654
+    content: "Leasehold improvements, property and equipment, net"
+  }
+}
+, annotation_spec_id: "3788271655990591488"
+display_name: "OtherAssets"
+text_extraction {
+  score: 0.9995344281196594
+  text_segment {
+    start_offset: 707
+    end_offset: 719
+    content: "Other assets"
+  }
+}
+, annotation_spec_id: "83994991780691968"
+display_name: "Goodwill"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 734
+    end_offset: 742
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9999842047691345
+  text_segment {
+    start_offset: 757
+    end_offset: 769
+    content: "Total assets"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 852
+    end_offset: 868
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.8695396184921265
+  text_segment {
+    start_offset: 887
+    end_offset: 915
+    content: "Accrued payroll and benefits"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9643646478652954
+  text_segment {
+    start_offset: 930
+    end_offset: 949
+    content: "Accrued liabilities"
+  }
+}
+, annotation_spec_id: "3789331585199767552"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9999386668205261
+  text_segment {
+    start_offset: 966
+    end_offset: 991
+    content: "Total current liabilities"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.9999992251396179
+  text_segment {
+    start_offset: 1111
+    end_offset: 1128
+    content: "Total liabilities"
+  }
+}
+, annotation_spec_id: "8415372827439398912"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9999988079071045
+  text_segment {
+    start_offset: 1714
+    end_offset: 1740
+    content: "Total shareholders\342\200\231 equity"
+  }
+}
+, annotation_spec_id: "1975506835276300288"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.9998884797096252
+  text_segment {
+    start_offset: 1761
+    end_offset: 1803
+    content: "Total liabilities and shareholders\342\200\231 equity"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9645063877105713
+  text_segment {
+    start_offset: 1849
+    end_offset: 1876
+    content: "CHIPOTLE MEXICAN GRILL, INC"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.5440776348114014
+  text_segment {
+    start_offset: 1878
+    end_offset: 1910
+    content: "CONSOLIDATED STATEMENT OF INCOME"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9990931749343872
+  text_segment {
+    start_offset: 2425
+    end_offset: 2460
+    content: "General and administrative expenses"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9999288320541382
+  text_segment {
+    start_offset: 2696
+    end_offset: 2718
+    content: "Income from operations"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9986840486526489
+  text_segment {
+    start_offset: 2791
+    end_offset: 2817
+    content: "Income before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9999915957450867
+  text_segment {
+    start_offset: 2841
+    end_offset: 2867
+    content: "Provision for income taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9996078610420227
+  text_segment {
+    start_offset: 2896
+    end_offset: 2906
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.6422919631004333
+  text_segment {
+    start_offset: 3584
+    end_offset: 3612
+    content: "CHIPOTLE MEXICAN GRILL, INC."
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9921138882637024
+  text_segment {
+    start_offset: 3908
+    end_offset: 3937
+    content: "Depreciation and amortization"
+  }
+}
+, annotation_spec_id: "3811862777476153344"
+display_name: "TotalCapitalExpenditures"
+text_extraction {
+  score: 0.9975346326828003
+  text_segment {
+    start_offset: 4784
+    end_offset: 4843
+    content: "Purchases of leasehold improvements, property and equipment"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.9988216757774353
+  text_segment {
+    start_offset: 4921
+    end_offset: 4946
+    content: "Maturities of investments"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.99986332654953
+  text_segment {
+    start_offset: 4970
+    end_offset: 5003
+    content: "Proceeds from sale of investments"
+  }
+}
+, annotation_spec_id: "3979340388618993664"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.999980628490448
+  text_segment {
+    start_offset: 5016
+    end_offset: 5067
+    content: "Net cash provided by (used in) investing activities"
+  }
+}
+]

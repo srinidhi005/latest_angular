@@ -24,6 +24,7 @@ import { UserManagementComponent } from './modules/user-management/user-manageme
 //import { ChargeBeeComponent } from './modules/charge-bee/charge-bee.component';
 import { DcfComponent } from 'src/app/modules/dcf/dcf.component';
 import { CompanyDetailsComponent } from 'src/app/modules/company-details/company-details.component';
+import { CreditScorecardComponent } from 'src/app/modules/credit-scorecard/credit-scorecard.component';
 const routes: Routes = [
   {
     path: '',
@@ -109,6 +110,11 @@ const routes: Routes = [
         path: 'user',
         component: UserDetailsComponent,
        canActivate: [AuthGuard],
+      },
+	{
+        path: 'scorecard',
+        component: CreditScorecardComponent,
+        canActivate: [AuthGuard],
       },
 	  {
         path: 'dcf',

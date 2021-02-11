@@ -1,0 +1,91 @@
+[annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9626201391220093
+  text_segment {
+    start_offset: 4123
+    end_offset: 4148
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9999387264251709
+  text_segment {
+    start_offset: 4169
+    end_offset: 4188
+    content: "Accounts receivable"
+  }
+}
+, annotation_spec_id: "4428420519821312000"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9997517466545105
+  text_segment {
+    start_offset: 4235
+    end_offset: 4244
+    content: "Inventory"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.993324875831604
+  text_segment {
+    start_offset: 4289
+    end_offset: 4316
+    content: "Property and Equipment, net"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.999518632888794
+  text_segment {
+    start_offset: 4360
+    end_offset: 4376
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9926506280899048
+  text_segment {
+    start_offset: 4396
+    end_offset: 4415
+    content: "Accrued liabilities"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.9942861199378967
+  text_segment {
+    start_offset: 4465
+    end_offset: 4482
+    content: "Total Liabilities"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9783638119697571
+  text_segment {
+    start_offset: 4624
+    end_offset: 4636
+    content: "Total Assets"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.8682984113693237
+  text_segment {
+    start_offset: 5861
+    end_offset: 5874
+    content: "Total Revenue"
+  }
+}
+]

@@ -44,6 +44,7 @@ import { KpiIsComponent } from 'src/app/modules/kpi-is/kpi-is.component';
 import { PLMetricsComponent } from 'src/app/modules/plmetrics/plmetrics.component';
 import { KpiCashflowComponent } from 'src/app/modules/kpi-cashflow/kpi-cashflow.component';
 import { CashmetricsComponent } from 'src/app/modules/cashmetrics/cashmetrics.component';
+import { CreditScorecardComponent } from 'src/app/modules/credit-scorecard/credit-scorecard.component';
 import {
   DialogElementsExampleDialog,
   snackBarStatementFailure,
@@ -124,6 +125,7 @@ CompanyDetailsComponent,
     VisualsCfComponent,
     CashmetricsComponent,
     CompanyMatricsComponent,
+    CreditScorecardComponent,
     IncomeStatementKpiComponent,
     BalanceSheetKpiComponent,
     CompanyDashboardComponent,

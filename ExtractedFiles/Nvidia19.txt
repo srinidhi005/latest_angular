@@ -1,0 +1,119 @@
+
+Page#1
+NVIDIA CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except per share data)
+Year Ended
+January 27, January 28, January 29,
+2019 2018 2017
+Revenue  $ 11,716 $ 9,714 $ 6,910
+Cost of revenue 4,545 3,892 2,847
+Gross profit  7,171 5,822 4,063
+Operating expenses 
+Research and development 2,376 1,797 1,463
+Sales, general and administrative 991 815 663
+Restructuring and other charges — — 3
+Total operating expenses 3,367 2,612 2,129
+Income from operations 3,804 3,210 1,934
+Interest income 136 69 54
+Interest expense (58) (61) (58)
+Other, net  14 (22) (25)
+Total other income (expense) 92 (14) (29)
+Income before income tax 3,896 3,196 1,905
+Income tax expense (benefit) (245) 149 239
+Net income  $ 4,141 $ 3,047 $ 1,666
+Net income per share:
+Basic  $ 6.81 $ 5.09 $ 3.08
+Diluted  $ 6.63 $ 4.82 $ 2.57
+Weighted average shares used in per share computation:
+Basic  608 599 541
+Diluted  625 632 649
+Cash dividends declared and paid per common share $ 0.610 $ 0.570 $ 0.485
+See accompanying notes to the consolidated financial statements.
+41
+Page#2
+NVIDIA CORPORATION AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(In millions, except par value)
+January 27, January 28,
+ 2019 2018
+ASSETS  
+Current assets:  
+Cash and cash equivalents  $ 782 $ 4,002
+Marketable securities  6,640 3,106
+Accounts receivable, net  1,424 1,265
+Inventories  1,575 796
+Prepaid expenses and other current assets 136 86
+Total current assets  10,557 9,255
+Property and equipment, net  1,404 997
+Goodwill  618 618
+Intangible assets, net  45 52
+Other assets  668 319
+Total assets  $ 13,292 $ 11,241
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:  
+Accounts payable  $ 511 $ 596
+Accrued and other current liabilities 818 542
+Convertible short-term debt  — 15
+Total current liabilities  1,329 1,153
+Long-term debt  1,988 1,985
+Other long-term liabilities  633 632
+Total liabilities  3,950 3,770
+Commitments and contingencies - see Note 12 
+Shareholders’ equity:  
+Preferred stock, $.001 par value; 2 shares authorized; none issued — —
+Common stock, $.001 par value; 2,000 shares authorized; 945 shares issued and
+606 outstanding as of January 27, 2019; 932 shares issued and 606 outstanding
+as of January 28, 2018  1 1
+Additional paid-in capital  6,051 5,351
+Treasury stock, at cost (339 shares in 2019 and 326 shares in 2018) (9,263) (6,650)
+Accumulated other comprehensive loss (12) (18)
+Retained earnings  12,565 8,787
+Total shareholders' equity  9,342 7,471
+Total liabilities and shareholders' equity $ 13,292 $ 11,241
+See accompanying notes to the consolidated financial statements.
+43
+Page#3
+NVIDIA CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+Year Ended
+January 27, January 28, January 29,
+ 2019 2018 2017
+Cash flows from operating activities:  
+Net income  $ 4,141 $ 3,047 $ 1,666
+Adjustments to reconcile net income to net cash provided by operating activities:  
+Stock-based compensation expense 557 391 247
+Depreciation and amortization 262 199 187
+Deferred income taxes (315) (359) 197
+Loss on early debt conversions — 19 21
+Other  (45) 20 33
+Changes in operating assets and liabilities:  
+Accounts receivable  (149) (440) (321)
+Inventories  (776) — (375)
+Prepaid expenses and other assets (55) 21 (18)
+Accounts payable  (135) 90 184
+Accrued and other current liabilities 256 33 (135)
+Other long-term liabilities 2 481 (14)
+Net cash provided by operating activities 3,743 3,502 1,672
+Cash flows from investing activities:  
+Proceeds from maturities of marketable securities 7,232 1,078 969
+Proceeds from sales of marketable securities 428 863 1,546
+Purchases of marketable securities (11,148) (36) (3,134)
+Purchases of property and equipment and intangible assets (600) (593) (176)
+Investment in non-affiliates (9) (36) (5)
+Proceeds from sale of long-lived assets and investments — 2 7
+Net cash provided by (used in) investing activities (4,097) 1,278 (793)
+Cash flows from financing activities:  
+Proceeds from issuance of debt — — 1,988
+Payments related to repurchases of common stock (1,579) (909) (739)
+Repayment of Convertible Notes (16) (812) (673)
+Dividends paid  (371) (341) (261)
+Proceeds related to employee stock plans 137 139 167
+Payments related to tax on restricted stock units (1,032) (612) (176)
+Other  (5) (9) (15)
+Net cash provided by (used in) financing activities (2,866) (2,544) 291
+Change in cash and cash equivalents (3,220) 2,236 1,170
+Cash and cash equivalents at beginning of period 4,002 1,766 596
+Cash and cash equivalents at end of period $ 782 $ 4,002 $ 1,766
+45

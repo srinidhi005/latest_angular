@@ -28,10 +28,10 @@
                         </button>
                 </li>
 				<li>
-                    <button mat-button [matMenuTriggerFor]="user"
+                   <!-- <button mat-button [matMenuTriggerFor]="user"
 					*ngIf = "auth.currentUserRoles?.indexOf('Admin') >=0 || auth.currentUserRoles?.indexOf('SuperAdmin') >=0" style="margin-top: 22px;">
                         <mat-icon>settings</mat-icon>
-                    </button>
+		   </button>-->
 					<mat-menu #user="matMenu">
                         <button mat-menu-item  routerLinkActive="list-item-active" routerLink="/Users">
                             <mat-icon>supervised_user_circle</mat-icon>

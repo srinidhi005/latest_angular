@@ -38,6 +38,7 @@ declare var Chargebee: any;
     AuthLoginComponent,
    // ProfileComponent,
     UserManagementComponent,
+   
   ],
   imports: [
     BrowserModule,

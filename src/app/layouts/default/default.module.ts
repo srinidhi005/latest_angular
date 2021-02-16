@@ -10,6 +10,7 @@ import {
   MatDividerModule,
   MatFormFieldModule,
   MatGridListModule,
+MatAutocompleteModule,
   MatIconModule,
   MatInputModule,
   MatOptionModule,
@@ -91,6 +92,7 @@ import { LiquidityRatiosComponent } from 'src/app/modules/ratios/liquidity-ratio
 import { SolvencyRatiosComponent } from 'src/app/modules/ratios/solvency-ratios/solvency-ratios.component';
 import { ParseNumberPipe } from 'src/app/pipes/parse-number.pipe';
 import { CashflowKPIComponent } from 'src/app/modules/company-dashboard/cashflow/cashflow.component';
+import { ComparatorComponent } from 'src/app/modules/comparator/comparator.component';
 
 @NgModule({
   declarations: [
@@ -137,6 +139,7 @@ CompanyDetailsComponent,
     uploadSnackBarCFAddComponent,
     uploadSnackBarCFComponent,
     RatiosComponent,
+	ComparatorComponent,
     ProfitabilityRatiosComponent,
     ReturnRatiosComponent,
     LiquidityRatiosComponent,
@@ -146,6 +149,7 @@ CompanyDetailsComponent,
   ],
   imports: [
     CommonModule,
+    MatAutocompleteModule,
     RouterModule,
     Ng2TelInputModule,
     SharedModule,

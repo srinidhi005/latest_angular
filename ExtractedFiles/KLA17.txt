@@ -1,0 +1,149 @@
+
+Page#1
+KLA-TENCOR CORPORATION 
+Consolidated Balance Sheets 
+ 
+  As of June 30, 
+ 
+(In thousands, except par value) 2017 2016 
+ASSETS 
+Current assets: 
+Cash and cash equivalents $ 1,153,051  $ 1,108,488 
+Marketable securities 1,863,689 1,382,806 
+Accounts receivable, net 571,117 613,233 
+Inventories  732,988 698,635 
+Other current assets  71,221 64,870 
+Total current assets 4,392,066 3,868,032 
+Land, property and equipment, net 283,975 278,014 
+Goodwill  349,526 335,177 
+Deferred income taxes  291,967 302,219 
+Purchased intangibles, net 18,963 4,331 
+Other non-current assets  195,676 174,659 
+Total assets  $ 5,532,173  $ 4,962,432 
+LIABILITIES AND STOCKHOLDERS’ EQUITY 
+Current liabilities: 
+Accounts payable  $ 147,380  $ 106,517 
+Deferred system profit 180,861 174,551 
+Unearned revenue  65,507 59,147 
+Current portion of long-term debt 249,983 — 
+Other current liabilities 649,431 662,208 
+Total current liabilities 1,293,162 1,002,423 
+Non-current liabilities: 
+Long-term debt  2,680,474 3,057,936 
+Unearned revenue  59,713 56,336 
+Other non-current liabilities 172,407 156,623 
+Total liabilities  4,205,756 4,273,318 
+Commitments and contingencies (Notes 13 and 14) 
+Stockholders’ equity: 
+Preferred stock, $0.001 par value, 1,000 shares authorized, none outstanding — — 
+Common stock, $0.001 par value, 500,000 shares authorized, 261,654 and 
+260,619 shares issued, 156,840 and 155,955 shares outstanding, as of June 30, 
+2017 and June 30, 2016, respectively 157 156 
+Capital in excess of par value 529,126 452,818 
+Retained earnings  848,457 284,825 
+Accumulated other comprehensive income (loss) (51,323)  (48,685) 
+Total stockholders’ equity 1,326,417 689,114 
+Total liabilities and stockholders’ equity $ 5,532,173  $ 4,962,432 
+See accompanying notes to consolidated financial statements. 
+ 
+  
+65 
+ 
+Page#2
+KLA-TENCOR CORPORATION 
+Consolidated Statements of Operations 
+ 
+  Year ended June 30, 
+ 
+(In thousands, except per share amounts) 2017 2016 2015 
+Revenues: 
+Product $ 2,703,934  $ 2,250,260  $ 2,125,396 
+Service 776,080 734,233 688,653 
+Total revenues 3,480,014 2,984,493 2,814,049 
+Costs and expenses: 
+Costs of revenues 1,287,547 1,163,391 1,215,229 
+Research and development 526,870 481,258 530,616 
+Selling, general and administrative 389,336 379,399 406,864 
+Loss on extinguishment of debt and other, net — — 131,669 
+Interest expense 122,476 122,887 106,009 
+Other expense (income), net (19,461)  (20,634 )  (10,469) 
+Income before income taxes 1,173,246 858,192 434,131 
+Provision for income taxes 247,170 153,770 67,973 
+Net income $ 926,076  $ 704,422  $ 366,158 
+Net income per share: 
+Basic $ 5.92  $ 4.52  $ 2.26 
+Diluted $ 5.88  $ 4.49  $ 2.24 
+Cash dividends declared per share (including a special 
+cash dividend of $16.50 per share declared during the three 
+months ended December 31, 2014) $ 2.14  $ 2.08  $ 18.50 
+Weighted-average number of shares: 
+Basic 156,468 155,869 162,282 
+Diluted 157,481 156,779 163,701 
+ 
+See accompanying notes to consolidated financial statements. 
+ 
+ 
+  
+66 
+ 
+Page#3
+KLA-TENCOR CORPORATION 
+Consolidated Statements of Cash Flows 
+ 
+  Year Ended June 30, 
+(In thousands) 2017 2016 2015 
+Cash flows from operating activities: 
+Net income  $ 926,076 $ 704,422 $ 366,158 
+Adjustments to reconcile net income to net cash provided by operating activities: 
+Depreciation and amortization 57,836 66,932 80,536 
+Asset impairment charges  358 1,396 2,126 
+Loss on extinguishment of debt and other, net — — 131,669 
+Non-cash stock-based compensation expense 50,943 45,050 55,302 
+Deferred income taxes  4,007 19,804 (24,245 ) 
+Excess tax benefit from equity awards — (11,936) (15,403 ) 
+Net gain on sales of marketable securities and other investments (1,207 ) (5,887) (2,119 ) 
+Changes in assets and liabilities, net of business acquisition: 
+Decrease (increase) in accounts receivable, net 39,898 (8,292) (118,520 ) 
+Decrease (increase) in inventories (46,433 ) (67,579) 27,500 
+Decrease (increase) in other assets (26,596 ) 14,613 11,135 
+Increase in accounts payable 40,100 3,109 848 
+Increase in deferred system profit 6,310 25,860 768 
+Increase (decrease) in other liabilities 28,373 (27,796) 90,151 
+Net cash provided by operating activities 1,079,665 759,696 605,906 
+Cash flows from investing activities: 
+Acquisition of non-marketable securities (3,430 ) — — 
+Business acquisition, net of cash acquired (28,560 ) — — 
+Capital expenditures, net  (38,594 ) (31,741) (45,791 ) 
+Proceeds from sale of assets  2,947 7,076 — 
+Purchases of available-for-sale securities (1,626,983 ) (1,175,720) (1,731,551 ) 
+Proceeds from sale of available-for-sale securities 434,873 737,817 1,993,396 
+Proceeds from maturity of available-for-sale securities 699,293 602,446 699,108 
+Purchases of trading securities (97,525 ) (68,378) (60,808 ) 
+Proceeds from sale of trading securities 97,093 73,187 63,867 
+Net cash provided by (used in) investing activities (560,886 ) 144,687 918,221 
+Cash flows from financing activities: 
+Proceeds from issuance of debt, net of issuance costs — — 3,224,906 
+Repayment of debt  (130,000 ) (135,000) (916,117 ) 
+Issuance of common stock  45,359 38,298 47,008 
+Tax withholding payments related to vested and released restricted stock units (19,169 ) (23,942) (30,229 ) 
+Common stock repurchases  (25,002 ) (181,711) (602,888 ) 
+Payment of dividends to stockholders (343,993 ) (346,283) (3,041,055 ) 
+Excess tax benefit from equity awards — 11,936 15,403 
+Net cash used in financing activities (472,805 ) (636,702) (1,302,972 ) 
+Effect of exchange rate changes on cash and cash equivalents (1,411 ) 2,782 (13,991 ) 
+Net increase in cash and cash equivalents 44,563 270,463 207,164 
+Cash and cash equivalents at beginning of period 1,108,488 838,025 630,861 
+Cash and cash equivalents at end of period $ 1,153,051 $ 1,108,488 $ 838,025 
+Supplemental cash flow disclosures: 
+Income taxes paid, net  $ 234,053 $ 105,187 $ 69,681 
+Interest paid  $ 119,998 $ 120,433 $ 92,982 
+Non-cash activities: 
+Purchase of land, property and equipment - investing activities $ 3,299 $ 2,035 $ 1,843 
+Business acquisition holdback amounts- investing activities $ 5,318 $ — $ — 
+Unsettled common stock repurchase - financing activities $ — $ — $ 5,968 
+Dividends payable - financing activities $ 13,772 $ 19,556 $ 42,002 
+See accompanying notes to consolidated financial statements. 
+ 
+  
+69 
+ 

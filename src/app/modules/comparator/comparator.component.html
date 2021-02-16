@@ -1,0 +1,665 @@
+<div class="container" style="margin: 20px 10px; max-width: 100%;">
+    <mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
+    <div class="row">
+        <div class="col" style="
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 15px;">
+		
+		    <button mat-button [matMenuTriggerFor]="type"> {{ typeOfFinancials }}<mat-icon matSuffix>keyboard_arrow_down
+                            </mat-icon>
+                        </button>
+                        <mat-menu #type="matMenu" yPosition="below">
+                            <button mat-menu-item>
+                                <span (click)="loadFinancials('Historical')"> Historical </span>
+                            </button>
+                            <button mat-menu-item>
+                                <span (click)="loadFinancials('Projected')"> Projected </span>
+                            </button>
+                        </mat-menu>
+		</div>
+		
+		
+		
+		
+        <div class="col-2" >
+            <form class="example-form">
+                <mat-form-field class="example-full-width">
+                    <mat-label>Select Company</mat-label>
+                    <input type="text" matInput [formControl]="myControl" [matAutocomplete]="autoOne">
+                    <mat-autocomplete #autoOne="matAutocomplete" [displayWith]="displayFn">
+                        <mat-option *ngFor="let comp of filteredOptions | async" [value]="option" (click)="loadCompany('COMP', comp, 1)">
+                        {{comp.companyname }}
+                        </mat-option>
+                    </mat-autocomplete>
+                    <span matSuffix>
+                        <mat-icon>search</mat-icon>
+                    </span>
+                </mat-form-field>
+            </form>
+        </div>
+
+        <div class="col-2" >
+            <form class="example-form">
+                <mat-form-field class="example-full-width">
+                  <mat-label>Select Company</mat-label>
+                  <input type="text" matInput [formControl]="myControl" [matAutocomplete]="autoTwo">
+                  <mat-autocomplete #autoTwo="matAutocomplete" [displayWith]="displayFn">
+                    <mat-option *ngFor="let comp of filteredOptions | async" [value]="comp" (click)="loadCompany('COMP', comp, 2)">
+                      {{comp.companyname }}
+                    </mat-option>
+                  </mat-autocomplete>
+                  <mat-icon matSuffix>search</mat-icon>
+                </mat-form-field>
+            </form>
+        </div>
+
+        <div class="col-2" >
+            <form class="example-form">
+                <mat-form-field class="example-full-width">
+                    <mat-label>Select Company</mat-label>
+                    <input type="text" matInput [formControl]="myControl" [matAutocomplete]="autoThree">
+                  <mat-autocomplete #autoThree="matAutocomplete" [displayWith]="displayFn">
+                    <mat-option *ngFor="let comp of filteredOptions | async" [value]="option" (click)="loadCompany('COMP', comp, 3)">
+                      {{comp.companyname }}
+                    </mat-option>
+                  </mat-autocomplete>
+                  <span matSuffix>
+                    <mat-icon>search</mat-icon>
+                </span>
+                </mat-form-field>
+            </form>
+        </div>
+		
+		<div class="col-2" style="margin: auto 25px;">
+            <form class="example-form">
+                <mat-form-field class="example-full-width">
+                    <mat-label>Select Company</mat-label>
+                    <input type="text" matInput [formControl]="myControl" [matAutocomplete]="autoFour">
+                  <mat-autocomplete #autoFour="matAutocomplete" [displayWith]="displayFn">
+                    <mat-option *ngFor="let comp of filteredOptions | async" [value]="option" (click)="loadCompany('COMP', comp, 4)">
+                      {{comp.companyname }}
+                    </mat-option>
+                  </mat-autocomplete>
+                  <span matSuffix>
+                    <mat-icon>search</mat-icon>
+                </span>
+                </mat-form-field>
+            </form>
+        </div>
+    </div>
+    <div class="mat-elevation-z8" >
+        <table class="table" *ngIf = "allCompanies && allCompanies.length > 0" >
+            <thead>
+                <tr>
+                    <th class="leftAlign" style="border-top-left-radius:15px;">
+                    
+                    </th>
+                    <th class="centerAlign">
+                        {{ selectedCompanyOne?.companyname }}
+                    </th>
+                    <th class="centerAlign">
+                        {{ selectedCompanyTwo?.companyname }}
+                    </th>
+                    <th class="centerAlign">
+                        {{ selectedCompanyThree?.companyname }}
+                    </th>
+					 <th class="centerAlign" style="border-top-right-radius:15px">
+                        {{ selectedCompanyFour?.companyname }}
+                    </th>
+                </tr>
+
+                <tr>
+                    <th class="leftAlign">
+                    
+                    </th>
+                    <th class="centerAlign">
+                        <button mat-button [matMenuTriggerFor]="above"> Scenario [{{ selectedSenarioForCompOne }}] <mat-icon matSuffix>keyboard_arrow_down
+                            </mat-icon>
+                        </button>
+                        <mat-menu #above="matMenu" yPosition="below">
+                            <button mat-menu-item *ngFor="let scenario of scenariosForCompanyOne; let rowIndex=index;">
+                            <span (click)="loadCompany('SCENARIO', scenario, 1)"> Scenario [{{ scenario }}] </span>
+                            </button>
+                        </mat-menu>
+                    </th>
+                    <th class="centerAlign">
+                        <button mat-button [matMenuTriggerFor]="above"> Scenario [{{ selectedSenarioForCompTwo }}]<mat-icon matSuffix>keyboard_arrow_down
+                            </mat-icon>
+                        </button>
+                        <mat-menu #above="matMenu" yPosition="below">
+                            <button mat-menu-item *ngFor="let scenario of scenariosForCompanyTwo; let rowIndex=index;">
+                            <span (click)="loadCompany('SCENARIO', scenario, 2)"> Scenario [{{ scenario }}] </span>
+                            </button>
+                        </mat-menu>
+                    </th>
+                    <th class="centerAlign">
+                        <button mat-button [matMenuTriggerFor]="above"> Scenario [{{ selectedSenarioForCompThree }}]<mat-icon matSuffix>keyboard_arrow_down
+                            </mat-icon>
+                        </button>
+                        <mat-menu #above="matMenu" yPosition="below">
+                            <button mat-menu-item *ngFor="let scenario of scenariosForCompanyThree; let rowIndex=index;">
+                            <span (click)="loadCompany('SCENARIO', scenario, 3)"> Scenario [{{ scenario }}] </span>
+                            </button>
+                        </mat-menu>
+                    </th>
+					 <th class="centerAlign">
+                        <button mat-button [matMenuTriggerFor]="above"> Scenario [{{ selectedSenarioForCompFour }}]<mat-icon matSuffix>keyboard_arrow_down
+                            </mat-icon>
+                        </button>
+                        <mat-menu #above="matMenu" yPosition="below">
+                            <button mat-menu-item *ngFor="let scenario of scenariosForCompanyFour; let rowIndex=index;">
+                            <span (click)="loadCompany('SCENARIO', scenario, 4)"> Scenario [{{ scenario }}] </span>
+                            </button>
+                        </mat-menu>
+                    </th>
+                </tr>
+
+              
+            </thead>
+            <tbody *ngIf = "!progressBar" style="background:white">
+                <tr>
+                    <td class="leftAlign">
+                        Historical Revenue CAGR
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsOne?.avgrevenuecagr | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsOne?.avgrevenuecagr | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsTwo?.avgrevenuecagr | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsTwo?.avgrevenuecagr | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsThree?.avgrevenuecagr | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsThree?.avgrevenuecagr | number : "1.1-1" }}%
+                    </td>
+					<td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsFour?.avgrevenuecagr | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsFour?.avgrevenuecagr | number : "1.1-1" }}%
+                    </td>
+                    
+                </tr>
+
+                <tr>
+                    <td class="leftAlign">
+                        Avg. EBITDA Margin
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsOne?.avgebitdamargin | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsOne?.avgebitdamargin | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsTwo?.avgebitdamargin | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsTwo?.avgebitdamargin | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsThree?.avgebitdamargin | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsThree?.avgebitdamargin | number : "1.1-1" }}%
+                    </td>
+					<td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsFour?.avgebitdamargin | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsFour?.avgebitdamargin | number : "1.1-1" }}%
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="leftAlign">
+                        Avg. Net Income Margin 
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsOne?.avgnetincomemargin | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsOne?.avgnetincomemargin | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsTwo?.avgnetincomemargin | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsTwo?.avgnetincomemargin | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsThree?.avgnetincomemargin | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsThree?.avgnetincomemargin | number : "1.1-1" }}%
+                    </td>
+					  <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsFour?.avgnetincomemargin | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsFour?.avgnetincomemargin | number : "1.1-1" }}%
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="leftAlign">
+                        Operating Return on Assets (ROA)
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsOne?.operatingreturnassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsOne?.operatingreturnassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsTwo?.operatingreturnassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsTwo?.operatingreturnassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsThree?.operatingreturnassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsThree?.operatingreturnassets | number : "1.1-1" }}%
+                    </td>
+					<td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsFour?.operatingreturnassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsFour?.operatingreturnassets | number : "1.1-1" }}%
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="leftAlign">
+                        Return on Assets (ROA)
+
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsOne?.returnassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsOne?.returnassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsTwo?.returnassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsTwo?.returnassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsThree?.returnassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsThree?.returnassets | number : "1.1-1" }}%
+                    </td>
+					<td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsFour?.returnassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsFour?.returnassets | number : "1.1-1" }}%
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="leftAlign">
+                        Return on Total Capital
+
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsOne?.returntotalcapital | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsOne?.returntotalcapital | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsTwo?.returntotalcapital | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsTwo?.returntotalcapital | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsThree?.returntotalcapital | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsThree?.returntotalcapital | number : "1.1-1" }}%
+                    </td>
+					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsFour?.returntotalcapital | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsFour?.returntotalcapital | number : "1.1-1" }}%
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="leftAlign">
+                        Return on Equity (ROE)
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsOne?.returnequity | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsOne?.returnequity | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsTwo?.returnequity | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsTwo?.returnequity | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsThree?.returnequity | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsThree?.returnequity | number : "1.1-1" }}%
+                    </td>
+					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsFour?.returnequity | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsFour?.returnequity | number : "1.1-1" }}%
+                    </td>
+                </tr>
+                <tr>
+                    <td class="leftAlign">
+                        Current Ratio 
+
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsOne?.currentratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsOne?.currentratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsTwo?.currentratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsTwo?.currentratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsThree?.currentratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsThree?.currentratio | number : "1.1-1" }}x
+                    </td>
+					<td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsFour?.currentratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsFour?.currentratio | number : "1.1-1" }}x
+                    </td>
+                </tr>
+                <tr>
+                    <td class="leftAlign">
+                        Quick Ratio 
+
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsOne?.quickratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsOne?.quickratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsTwo?.quickratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsTwo?.quickratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsThree?.quickratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsThree?.quickratio | number : "1.1-1" }}x
+                    </td>
+					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsFour?.quickratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsFour?.quickratio | number : "1.1-1" }}x
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="leftAlign">
+                        Cash Ratio 
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsOne?.cashratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsOne?.cashratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsTwo?.cashratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsTwo?.cashratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsThree?.cashratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsThree?.cashratio | number : "1.1-1" }}x
+                    </td>
+					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsFour?.cashratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsFour?.cashratio | number : "1.1-1" }}x
+                    </td>
+                </tr>
+                <tr>
+                    <td class="leftAlign">
+                        Solvency Ratio 
+
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsOne?.solvencyratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsOne?.solvencyratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsTwo?.solvencyratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsTwo?.solvencyratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsThree?.solvencyratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsThree?.solvencyratio | number : "1.1-1" }}x
+                    </td>
+					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsFour?.solvencyratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsFour?.solvencyratio | number : "1.1-1" }}x
+                    </td>
+                </tr>
+                <tr>
+                    <td class="leftAlign">
+                        Debt-to-Equity 
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsOne?.debtequity | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsOne?.debtequity | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsTwo?.debtequity | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsTwo?.debtequity | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsThree?.debtequity | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsThree?.debtequity | number : "1.1-1" }}%
+                    </td>
+					  <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsFour?.debtequity | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsFour?.debtequity | number : "1.1-1" }}%
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="leftAlign">
+                        Debt-to-Assets 
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsOne?.debtassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsOne?.debtassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsTwo?.debtassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsTwo?.debtassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsThree?.debtassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsThree?.debtassets | number : "1.1-1" }}%
+                    </td>
+					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsFour?.debtassets | number : "1.1-1" }}%
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsFour?.debtassets | number : "1.1-1" }}%
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="leftAlign">
+                        Net Debt-to-EBITDA 
+
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsOne?.netdebtebitda | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsOne?.netdebtebitda | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsTwo?.netdebtebitda | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsTwo?.netdebtebitda | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsThree?.netdebtebitda | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsThree?.netdebtebitda | number : "1.1-1" }}x
+                    </td>
+					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsFour?.netdebtebitda | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsFour?.netdebtebitda | number : "1.1-1" }}x
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="leftAlign">
+                        Total Debt-to-EBITDA
+
+                    </td>
+                    <td class="centerAlign">
+                        - 
+                    </td>
+                    <td class="centerAlign">
+                        - 
+                    </td>
+                    <td class="centerAlign">
+                        -
+                    </td>
+                    <td class="centerAlign">
+                        -
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="leftAlign">
+                        Interest Coverage Ratio 
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsOne?.interestcoverageratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsOne?.interestcoverageratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsTwo?.interestcoverageratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsTwo?.interestcoverageratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsThree?.interestcoverageratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsThree?.interestcoverageratio | number : "1.1-1" }}x
+                    </td>
+					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsFour?.interestcoverageratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsFour?.interestcoverageratio | number : "1.1-1" }}x
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="leftAlign">
+                        Debt Service Coverage Ratio 
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsOne?.debtcoverageratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsOne?.debtcoverageratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsTwo?.debtcoverageratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsTwo?.debtcoverageratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsThree?.debtcoverageratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsThree?.debtcoverageratio | number : "1.1-1" }}x
+                    </td>
+					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+                        {{ benchmarkingActualsFour?.debtcoverageratio | number : "1.1-1" }}x
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+                        {{ benchmarkingProjectionsFour?.debtcoverageratio | number : "1.1-1" }}x
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

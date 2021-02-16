@@ -1,0 +1,361 @@
+[annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.843848705291748
+  text_segment {
+    start_offset: 70
+    end_offset: 106
+    content: "GREIF, INC. AND SUBSIDIARY COMPANIES"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9994345903396606
+  text_segment {
+    start_offset: 107
+    end_offset: 140
+    content: "CONSOLIDATED STATEMENTS OF INCOME"
+  }
+}
+, annotation_spec_id: "3276756856516640768"
+display_name: "Units"
+text_extraction {
+  score: 0.9928709864616394
+  text_segment {
+    start_offset: 168
+    end_offset: 176
+    content: "millions"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.999998152256012
+  text_segment {
+    start_offset: 223
+    end_offset: 228
+    content: "sales"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.9971179962158203
+  text_segment {
+    start_offset: 229
+    end_offset: 230
+    content: "$"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9999757409095764
+  text_segment {
+    start_offset: 259
+    end_offset: 281
+    content: "Costs of products sold"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9999896287918091
+  text_segment {
+    start_offset: 306
+    end_offset: 318
+    content: "Gross profit"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9999813437461853
+  text_segment {
+    start_offset: 337
+    end_offset: 381
+    content: "Selling, general and administrative expenses"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.4201769232749939
+  text_segment {
+    start_offset: 693
+    end_offset: 709
+    content: "Operating profit"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9998875856399536
+  text_segment {
+    start_offset: 728
+    end_offset: 744
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.7881360650062561
+  text_segment {
+    start_offset: 883
+    end_offset: 915
+    content: "Income before income tax expense"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9999597072601318
+  text_segment {
+    start_offset: 988
+    end_offset: 1006
+    content: "Income tax expense"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9994872808456421
+  text_segment {
+    start_offset: 1097
+    end_offset: 1107
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "6853749656648679424"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9999998211860657
+  text_segment {
+    start_offset: 1698
+    end_offset: 1725
+    content: "CONSOLIDATED BALANCE SHEETS"
+  }
+}
+, annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9999999403953552
+  text_segment {
+    start_offset: 1857
+    end_offset: 1882
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9800763726234436
+  text_segment {
+    start_offset: 1903
+    end_offset: 1922
+    content: "accounts receivable"
+  }
+}
+, annotation_spec_id: "4428420519821312000"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9993999600410461
+  text_segment {
+    start_offset: 1997
+    end_offset: 2010
+    content: "Raw materials"
+  }
+}
+, annotation_spec_id: "83994991780691968"
+display_name: "Goodwill"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 2194
+    end_offset: 2202
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "6103759581203136512"
+display_name: "IntangibleAssets"
+text_extraction {
+  score: 0.9997159242630005
+  text_segment {
+    start_offset: 2223
+    end_offset: 2240
+    content: "intangible assets"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9981809854507446
+  text_segment {
+    start_offset: 2704
+    end_offset: 2716
+    content: "Total assets"
+  }
+}
+, annotation_spec_id: "6853749656648679424"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9999976754188538
+  text_segment {
+    start_offset: 2796
+    end_offset: 2823
+    content: "CONSOLIDATED BALANCE SHEETS"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9989539384841919
+  text_segment {
+    start_offset: 2990
+    end_offset: 3006
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9998976588249207
+  text_segment {
+    start_offset: 3023
+    end_offset: 3038
+    content: "Accrued payroll"
+  }
+}
+, annotation_spec_id: "5429345537004404736"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.9999508857727051
+  text_segment {
+    start_offset: 3105
+    end_offset: 3138
+    content: "Current portion of long-term debt"
+  }
+}
+, annotation_spec_id: "5429345537004404736"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.6769660711288452
+  text_segment {
+    start_offset: 3149
+    end_offset: 3170
+    content: "Short-term borrowings"
+  }
+}
+, annotation_spec_id: "2337624392814559232"
+display_name: "LongTermDebt"
+text_extraction {
+  score: 0.9999926686286926
+  text_segment {
+    start_offset: 3251
+    end_offset: 3265
+    content: "Long-term debt"
+  }
+}
+, annotation_spec_id: "8415372827439398912"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9995257258415222
+  text_segment {
+    start_offset: 4161
+    end_offset: 4187
+    content: "Total shareholders\342\200\231 equity"
+  }
+}
+, annotation_spec_id: "1975506835276300288"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.9999614357948303
+  text_segment {
+    start_offset: 4204
+    end_offset: 4246
+    content: "Total liabilities and shareholders\342\200\231 equity"
+  }
+}
+, annotation_spec_id: "3752471557390204928"
+display_name: "ConsolidatedCashFlows"
+text_extraction {
+  score: 0.5455576181411743
+  text_segment {
+    start_offset: 4326
+    end_offset: 4363
+    content: "CONSOLIDATED STATEMENTS OF CASH FLOWS"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9105610251426697
+  text_segment {
+    start_offset: 4571
+    end_offset: 4611
+    content: "Depreciation, depletion and amortization"
+  }
+}
+, annotation_spec_id: "3811862777476153344"
+display_name: "TotalCapitalExpenditures"
+text_extraction {
+  score: 0.9870303273200989
+  text_segment {
+    start_offset: 5615
+    end_offset: 5660
+    content: "Purchases of properties, plants and equipment"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.8244242668151855
+  text_segment {
+    start_offset: 5752
+    end_offset: 5824
+    content: "Proceeds from the sale of properties, plants, equipment and other assets"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.4830601215362549
+  text_segment {
+    start_offset: 5839
+    end_offset: 5875
+    content: "Proceeds from the sale of businesses"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.9015353918075562
+  text_segment {
+    start_offset: 6222
+    end_offset: 6277
+    content: "Proceeds from trade accounts receivable credit facility"
+  }
+}
+, annotation_spec_id: "3979340388618993664"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.42223304510116577
+  text_segment {
+    start_offset: 6368
+    end_offset: 6391
+    content: "Dividends paid to Greif"
+  }
+}
+, annotation_spec_id: "2768997988763172864"
+display_name: "DividendsPaid"
+text_extraction {
+  score: 0.8203459978103638
+  text_segment {
+    start_offset: 6434
+    end_offset: 6476
+    content: "Dividends paid to noncontrolling interests"
+  }
+}
+]

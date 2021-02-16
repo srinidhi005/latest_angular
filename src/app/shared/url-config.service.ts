@@ -33,6 +33,9 @@ export class UrlConfigService {
 	private deleteuser=`${environment.APIHost}deleteusers?inviteduser=`;
  private DCFAPIPOST = `${environment.APIHost}dcf-valuation?company=`;
    private dcfscenarioAPI = `${environment.APIHost}dcf-scenarios?company=`;
+ private benchmarkingActualsAPI = `${environment.APIHost}benchmarking-actuals?company=`;
+   private benchmarkingProjectionsAPI = `${environment.APIHost}benchmarking-projections?company=`;
+
   constructor(private http: HttpClient) {}
 	getdcfCompaniesAPI()
 	{
@@ -69,6 +72,13 @@ export class UrlConfigService {
   }
   getuploadStatementAPI() {
     return this.uploadStatementAPI;
+  }
+
+getBenchmarkingActualsAPI(){
+    return this.benchmarkingActualsAPI;
+  }
+  getBenchmarkingProjectionsAPI(){
+    return this.benchmarkingProjectionsAPI;
   }
   getIsActualsAPI() {
     return this.isActualsAPI;

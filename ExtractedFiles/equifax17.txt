@@ -1,0 +1,139 @@
+
+Page#1
+CONSOLIDATED STATEMENTS OF INCOME
+Twelve Months Ended 
+ December 31,
+ 2017 2016 2015
+(In millions, except per share amounts) 
+Operating revenue $ 3,362.2 $ 3,144.9 $ 2,663.6
+Operating expenses: 
+Cost of services (exclusive of depreciation and amortization below) 1,210.7 1,113.4 887.4
+Selling, general and administrative expenses 1,039.1 948.2 884.3
+Depreciation and amortization 287.8 265.4 198.0
+Total operating expenses 2,537.6 2,327.0 1,969.7
+Operating income 824.6 817.9 693.9
+Interest expense (92.8) (92.1) (63.8)
+Other income, net 14.8 2.4 6.5
+Consolidated income before income taxes 746.6 728.2 636.6
+Provision for income taxes (148.6) (233.1) (201.8)
+Consolidated net income 598.0 495.1 434.8
+Less: Net income attributable to noncontrolling interests including
+redeemable noncontrolling interests (10.7) (6.3) (5.7)
+Net income attributable to Equifax $ 587.3 $ 488.8 $ 429.1
+Basic earnings per common share: 
+Net income attributable to Equifax $ 4.89 $ 4.10 $ 3.61
+Weighted-average shares used in computing basic earnings per share 120.1 119.3 118.7
+Diluted earnings per common share: 
+Net income attributable to Equifax $ 4.83 $ 4.04 $ 3.55
+Weighted-average shares used in computing diluted earnings per share 121.5 121.1 120.9
+Dividends per common share $ 1.56 $ 1.32 $ 1.16
+ 
+See Notes to Consolidated Financial Statements.
+63
+Page#2
+CONSOLIDATED BALANCE SHEETS
+December 31,
+2017 2016
+(In millions, except par values) 
+ASSETS 
+Current assets: 
+Cash and cash equivalents $ 336.4 $ 129.3
+Trade accounts receivable, net of allowance for doubtful accounts of $9.1 and $7.8 at
+444.8 433.3
+ December 31, 2017 and 2016, respectively
+Prepaid expenses 94.3 60.2
+Other current assets 122.9 50.1
+Total current assets 998.4 672.9
+Property and equipment: 
+Capitalized internal-use software and system costs 427.9 307.0
+Data processing equipment and furniture 306.6 273.2
+Land, buildings and improvements 212.5 203.8
+Total property and equipment 947.0 784.0
+Less accumulated depreciation and amortization (380.0) (317.1)
+Total property and equipment, net 567.0 466.9
+Goodwill 4,184.0 3,974.3
+Indefinite-lived intangible assets 95.0 94.8
+Purchased intangible assets, net 1,247.0 1,323.8
+Other assets, net 142.0 131.3
+Total assets $ 7,233.4 $ 6,664.0
+LIABILITIES AND EQUITY 
+Current liabilities: 
+Short-term debt and current maturities of long-term debt $ 965.3 $ 585.4
+Accounts payable 110.3 81.0
+Accrued expenses 160.9 149.3
+Accrued salaries and bonuses 119.4 158.8
+Deferred revenue 108.4 110.7
+Other current liabilities 209.2 174.4
+Total current liabilities 1,673.5 1,259.6
+Long-term debt 1,739.0 2,086.8
+Deferred income tax liabilities, net 305.1 325.4
+Long-term pension and other postretirement benefit liabilities 175.8 184.4
+Other long-term liabilities 101.0 86.5
+Total liabilities 3,994.4 3,942.7
+Commitments and Contingencies (see Note 6)
+Equifax shareholders' equity: 
+Preferred stock, $0.01 par value: Authorized shares - 10.0; Issued shares - none — —
+Common stock, $1.25 par value: Authorized shares - 300.0;
+ Issued shares - 189.3 at December 31, 2017 and 2016;
+ Outstanding shares - 120.1 and 119.9 at December 31, 2017 and 2016, respectively 236.6 236.6
+Paid-in capital 1,332.7 1,313.3
+Retained earnings 4,600.6 4,153.2
+Accumulated other comprehensive loss (412.0) (528.9)
+Treasury stock, at cost, 68.6 shares and 68.8 shares at December 31, 2017 and 2016,
+(2,577.6) (2,505.6)
+  respectively
+Stock held by employee benefits trusts, at cost, 0.6 shares at December 31, 2017 and 2016 (5.9) (5.9)
+Total Equifax shareholders' equity 3,174.4 2,662.7
+Noncontrolling interests including redeemable noncontrolling interests 64.6 58.6
+Total shareholders' equity 3,239.0 2,721.3
+Total liabilities and equity $ 7,233.4 $ 6,664.0
+See Notes to Consolidated Financial Statements.
+65
+Page#3
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Twelve Months Ended 
+ December 31,
+ 2017 2016 2015
+(In millions)  
+Operating activities:  
+Consolidated net income $ 598.0 $ 495.1 $ 434.8
+Adjustments to reconcile consolidated net income to net cash provided by
+operating activities:
+Impairment of cost method investment — — 14.8
+Depreciation and amortization 290.9 268.7 200.0
+Stock-based compensation expense 38.3 37.1 38.4
+Excess tax benefits from stock-based compensation plans — (35.9) (30.0)
+Deferred income taxes (44.1) (13.0) (28.7)
+Changes in assets and liabilities, excluding effects of acquisitions:
+Accounts receivable, net (1.3) (55.7) (26.9)
+Other assets, current and long-term (120.1) 0.3 15.9
+Current and long-term liabilities, excluding debt 54.3 126.4 150.8
+Cash provided by operating activities 816.0 823.0 769.1
+Investing activities:  
+Capital expenditures (218.2) (173.5) (146.2)
+Acquisitions, net of cash acquired (139.9) (1,791.6) (4.4)
+Cash received from sale of asset 8.6 — —
+Cash received from divestitures — — 2.9
+Economic hedges — (10.8) —
+Investment in unconsolidated affiliates, net — — (0.1)
+Cash used in investing activities (349.5) (1,975.9) (147.8)
+Financing activities:  
+Net short-term borrowings (repayments) 252.4 73.0 (331.0)
+Payments on long-term debt (322.5) (350.0) —
+Proceeds from issuance of long-term debt 100.0 1,574.7 —
+Treasury stock purchases (77.1) — (196.3)
+Dividends paid to Equifax shareholders (187.4) (157.6) (137.8)
+Dividends paid to noncontrolling interests (8.4) (5.8) (6.4)
+Proceeds from exercise of stock options 19.2 31.5 34.4
+Payment of taxes related to settlement of equity awards (33.5) (27.2) (27.0)
+Excess tax benefits from stock-based compensation plans — 35.9 30.0
+Payment of contingent consideration (3.5) (4.4) —
+Purchase of redeemable noncontrolling interests (2.6) (3.6) —
+Debt issuance costs (0.3) (6.2) (4.9)
+Cash (used in) provided by financing activities (263.7) 1,160.3 (639.0)
+Effect of foreign currency exchange rates on cash and cash equivalents 4.3 28.6 (17.3)
+Increase (decrease) in cash and cash equivalents 207.1 36.0 (35.0)
+Cash and cash equivalents, beginning of period 129.3 93.3 128.3
+Cash and cash equivalents, end of period $ 336.4 $ 129.3 $ 93.3
+See Notes to Consolidated Financial Statements.
+66

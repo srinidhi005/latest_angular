@@ -1,0 +1,135 @@
+
+Page#1
+KLA-TENCOR CORPORATION
+Consolidated Balance Sheets
+As of June 30,
+(In thousands, except par value) 2016 2015
+ASSETS
+Current assets:
+Cash and cash equivalents $1,108,488 $ 838,025
+Marketable securities 1,382,806 1,549,086
+Accounts receivable, net 613,233 585,494
+Inventories  698,635 617,904
+Deferred income taxes — 236,253
+Other current assets 64,870 77,814
+Total current assets 3,868,032 3,904,576
+Land, property and equipment, net 278,014 314,591
+Goodwill  335,177 335,263
+Deferred income taxes, non-current 302,219 78,648
+Purchased intangibles, net 4,331 11,895
+Other non-current assets 174,659 181,039
+Total assets  $4,962,432 $4,826,012
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable  $ 106,517 $ 103,342
+Deferred system profit 174,551 148,691
+Unearned revenue  59,147 71,335
+Current portion of long-term debt — 16,981
+Other current liabilities 662,208 661,414
+Total current liabilities 1,002,423 1,001,763
+Non-current liabilities:
+Long-term debt  3,057,936 3,173,435
+Unearned revenue  56,336 47,145
+Other non-current liabilities 156,623 182,230
+Total liabilities 4,273,318 4,404,573
+Commitments and contingencies (Notes 12 and 13)
+Stockholders’ equity:
+Preferred stock, $0.001 par value, 1,000 shares authorized, none outstanding — —
+Common stock, $0.001 par value, 500,000 shares authorized, 260,619 and
+259,007 shares issued, 155,955 and 157,851 shares outstanding, as of June 30,
+2016 and June 30, 2015, respectively 156 158
+Capital in excess of par value 452,818 474,216
+Retained earnings (accumulated deficit) 284,825 (12,362)
+Accumulated other comprehensive income (loss) (48,685) (40,573)
+Total stockholders’ equity 689,114 421,439
+Total liabilities and stockholders’ equity $4,962,432 $4,826,012
+See accompanying notes to consolidated financial statements.
+70
+Page#2
+KLA-TENCOR CORPORATION
+Consolidated Statements of Operations
+Year ended June 30,
+(In thousands, except per share amounts) 2016 2015 2014
+Revenues:
+Product $2,250,260 $2,125,396 $2,286,437
+Service 734,233 688,653 642,971
+Total revenues 2,984,493 2,814,049 2,929,408
+Costs and expenses:
+Costs of revenues 1,163,391 1,215,229 1,232,962
+Research and development 481,258 530,616 539,469
+Selling, general and administrative 379,399 406,864 384,907
+Loss on extinguishment of debt and other, net — 131,669 —
+Interest expense 122,887 106,009 53,812
+Other expense (income), net (20,634) (10,469) (16,203)
+Income before income taxes 858,192 434,131 734,461
+Provision for income taxes 153,770 67,973 151,706
+Net income $ 704,422 $ 366,158 $ 582,755
+Net income per share:
+Basic $ 4.52 $ 2.26 $ 3.51
+Diluted $ 4.49 $ 2.24 $ 3.47
+Cash dividends declared per share (including a special cash dividend of
+$16.50 per share declared during the three months ended
+December 31, 2014) $ 2.08 $ 18.50 $ 1.80
+Weighted-average number of shares:
+Basic 155,869 162,282 166,016
+Diluted 156,779 163,701 168,118
+See accompanying notes to consolidated financial statements.
+71
+Page#3
+KLA-TENCOR CORPORATION
+Consolidated Statements of Cash Flows
+Year Ended June 30,
+(In thousands) 2016 2015 2014
+Cash flows from operating activities:
+Net income  $ 704,422 $ 366,158 $ 582,755
+Adjustments to reconcile net income to net cash provided by operating
+activities:
+Depreciation and amortization 66,932 80,536 83,072
+Asset impairment charges 1,396 2,126 1,374
+Loss on extinguishment of debt and other, net — 131,669 —
+Non-cash stock-based compensation expense 45,050 55,302 60,940
+Deferred income taxes 19,804 (24,245) 17,176
+Excess tax benefit from equity awards (11,936) (15,403) (20,554)
+Net gain on sale of marketable securities and other investments (5,887) (2,119) (5,920)
+Changes in assets and liabilities, net of impact of acquisition of business: 
+Decrease (increase) in accounts receivable, net (8,292) (118,520) 32,591
+Decrease (increase) in inventories (67,579) 27,500 (26,173)
+Decrease (increase) in other assets 14,613 11,135 (26,265)
+Increase (decrease) in accounts payable 3,109 848 (12,333)
+Increase (decrease) in deferred system profit 25,860 768 (10,042)
+Increase (decrease) in other liabilities (27,796) 90,151 102,265
+Net cash provided by operating activities 759,696 605,906 778,886
+Cash flows from investing activities:
+Acquisition of non-marketable securities — — (1,345)
+Acquisition of business — — (18,000)
+Capital expenditures, net (31,741) (45,791) (67,502)
+Proceeds from sale of assets 7,076 — 3,836
+Purchases of available-for-sale securities (1,175,720) (1,731,551) (1,834,223)
+Proceeds from sale of available-for-sale securities 737,817 1,993,396 987,512
+Proceeds from maturity of available-for-sale securities 602,446 699,108 251,876
+Purchases of trading securities (68,378) (60,808) (64,053)
+Proceeds from sale of trading securities 73,187 63,867 65,790
+Net cash provided by (used in) investing activities 144,687 918,221 (676,109)
+Cash flows from financing activities:
+Proceeds from issuance of debt, net of issuance costs — 3,224,906 —
+Repayment of debt (135,000) (916,117) —
+Issuance of common stock 38,298 47,008 112,221
+Tax withholding payments related to vested and released restricted stock
+units  (23,942) (30,229) (51,948)
+Common stock repurchases (181,711) (602,888) (240,843)
+Payment of dividends to stockholders (346,283) (3,041,055) (298,871)
+Excess tax benefit from equity awards 11,936 15,403 20,554
+Net cash used in financing activities (636,702) (1,302,972) (458,887)
+Effect of exchange rate changes on cash and cash equivalents 2,782 (13,991) 1,581
+Net increase (decrease) in cash and cash equivalents 270,463 207,164 (354,529)
+Cash and cash equivalents at beginning of period 838,025 630,861 985,390
+Cash and cash equivalents at end of period $ 1,108,488 $ 838,025 $ 630,861
+Supplemental cash flow disclosures:
+Income taxes paid, net $ 105,187 $ 69,681 $ 117,348
+Interest paid  $ 120,433 $ 92,982 $ 52,474
+Non-cash activities:
+Purchase of land, property and equipment—investing activities $ 2,035 $ 1,843 $ 3,457
+Unsettled common stock repurchase—financing activities $ — $ 5,968 $ —
+Dividends payable—financing activities $ 19,556 $ 42,002 $ —
+See accompanying notes to consolidated financial statements.
+74

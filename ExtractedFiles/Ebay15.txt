@@ -1,0 +1,146 @@
+
+Page#1
+PART II: FINANCIAL INFORMATION
+Item 8: Financial Statements
+eBay Inc.
+CONSOLIDATED BALANCE SHEET
+December 31, December 31,
+2015 2014
+(In millions, except par value amounts)
+ASSETS
+Current assets:
+Cash and cash equivalents $ 1,832 $ 4,105
+Short-term investments 4,299 3,730
+Accounts receivable, net 619 600
+Other current assets 1,154 1,048
+Current assets of discontinued operations — 17,048
+Total current assets 7,904 26,531
+Long-term investments 3,391 5,736
+Property and equipment, net 1,554 1,486
+Goodwill 4,451 4,671
+Intangible assets, net 90 133
+Other assets 395 207
+Long-term assets of discontinued operations — 6,368
+Total assets $ 17,785 $ 45,132
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Short-term debt $ — $ 850
+Accounts payable 349 107
+Accrued expenses and other current liabilities 1,736 3,830
+Deferred revenue 106 108
+Income taxes payable 72 125
+Current liabilities of discontinued operations — 12,511
+Total current liabilities 2,263 17,531
+Deferred and other tax liabilities, net 2,092 522
+Long-term debt 6,779 6,777
+Other liabilities 75 79
+Long-term liabilities of discontinued operations — 317
+Total liabilities 11,209 25,226
+Commitments and contingencies (Note 13)
+Stockholders’ equity:
+Common stock, $0.001 par value; 3,580 shares authorized; 1,184 and 1,224
+shares outstanding 2 2
+Additional paid-in capital 14,538 13,887
+Treasury stock at cost, 443 and 384 shares (16,203) (14,054)
+Retained earnings 7,713 18,900
+Accumulated other comprehensive income 526 1,171
+Total stockholders’ equity 6,576 19,906
+Total liabilities and stockholders’ equity $ 17,785 $ 45,132
+The accompanying notes are an integral part of these consolidated financial statements.
+F-2
+Page#2
+eBay Inc.
+CONSOLIDATED STATEMENT OF INCOME
+Year Ended December 31,
+2015 2014 2013
+(In millions, except per share amounts)
+Net revenues $8,592 $ 8,790 $8,257
+Cost of net revenues 1,771 1,663 1,492
+Gross profit 6,821 7,127 6,765
+Operating expenses:
+Sales and marketing 2,267 2,442 2,144
+Product development 923 983 915
+General and administrative 1,122 889 880
+Provision for transaction losses 271 262 236
+Amortization of acquired intangible assets 41 75 136
+Total operating expenses 4,624 4,651 4,311
+Income from operations 2,197 2,476 2,454
+Interest and other, net 209 39 117
+Income from continuing operations before income taxes 2,406 2,515 2,571
+Provision for income taxes (459) (3,380) (504)
+Income (loss) from continuing operations $1,947 $ (865) $2,067
+Income (loss) from discontinued operations, net of income taxes (222) 911 789
+Net income $1,725 $ 46 $2,856
+Income (loss) per share — basic:
+Continuing operations $ 1.61 $ (0.69) $ 1.60
+Discontinued operations (0.18) 0.73 0.60
+Net income per share — basic $ 1.43 $ 0.04 $ 2.20
+Income (loss) per share — diluted:
+Continuing operations $ 1.60 $ (0.69) $ 1.58
+Discontinued operations (0.18) 0.73 0.60
+Net income per share — diluted $ 1.42 $ 0.04 $ 2.18
+Weighted average shares:
+Basic 1,208 1,251 1,295
+Diluted 1,220 1,251 1,313
+The accompanying notes are an integral part of these consolidated financial statements.
+F-3
+Page#3
+eBay Inc.
+CONSOLIDATED STATEMENT OF CASH FLOWS
+Year Ended December 31,
+2015 2014 2013
+(In millions)
+Cash flows from operating activities:
+Net income $ 1,725 $ 46 $ 2,856
+(Income) loss from discontinued operations, net of income taxes 222 (911) (789)
+Adjustments:
+Provision for transaction losses 271 262 236
+Depreciation and amortization 687 682 660
+Stock-based compensation 379 344 298
+Gain on sale of investments (195) (12) (75)
+Deferred income taxes (32) 2,744 (33)
+Excess tax benefits from stock-based compensation (74) (75) (112)
+Changes in assets and liabilities, net of acquisition effects
+Accounts receivable (105) 51 (89)
+Other current assets (143) (36) (367)
+Other non-current assets 143 (3) (105)
+Accounts payable 226 81 (13)
+Accrued expenses and other liabilities (202) (81) 274
+Deferred revenue 9 4 2
+Income taxes payable and other tax liabilities (34) 132 189
+Net cash provided by continuing operating activities 2,877 3,228 2,932
+Net cash provided by discontinued operating activities 1,156 2,449 2,063
+Net cash provided by operating activities 4,033 5,677 4,995
+Cash flows from investing activities:
+Purchases of property and equipment (668) (622) (678)
+Purchases of investments (6,744) (8,752) (6,889)
+Maturities and sales of investments 6,781 8,115 3,622
+Acquisitions, net of cash acquired (24) (55) (138)
+Repayment of note receivable and sale of related equity investments — — 485
+Other (18) (11) (22)
+Net cash used in continuing investing activities (673) (1,325) (3,620)
+Net cash used in discontinued investing activities (2,938) (1,348) (2,392)
+Net cash used in investing activities (3,611) (2,673) (6,012)
+Cash flows from financing activities:
+Proceeds from issuance of common stock 221 300 437
+Repurchases of common stock (2,149) (4,658) (1,343)
+Excess tax benefits from stock-based compensation 74 75 112
+Tax withholdings related to net share settlements of restricted stock awards and units (245) (252) (267)
+Proceeds from issuance of long-term debt, net — 3,482 —
+Repayment of debt (850) — (400)
+Other (11) 6 30
+Net cash used in continuing financing activities (2,960) (1,047) (1,431)
+Net cash provided by (used in) discontinued financing activities (1,594) 25 77
+Net cash used in financing activities (4,554) (1,022) (1,354)
+Effect of exchange rate changes on cash and cash equivalents (364) (148) 48
+Net increase (decrease) in cash and cash equivalents (4,496) 1,834 (2,323)
+Cash and cash equivalents at beginning of period 6,328 4,494 6,817
+Cash and cash equivalents at end of period $ 1,832 $ 6,328 $ 4,494
+Less: Cash and cash equivalents of discontinued operations — Enterprise — 29 47
+Less: Cash and cash equivalents of discontinued operations — PayPal — 2,194 1,599
+Cash and cash equivalents of continuing operations at end of period $ 1,832 $ 4,105 $ 2,848
+Supplemental cash flow disclosures:
+Cash paid for interest $ 175 $ 99 $ 99
+Cash paid for income taxes $ 256 $ 343 $ 466
+The accompanying notes are an integral part of these consolidated financial statements.
+F-6

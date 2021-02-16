@@ -1,0 +1,270 @@
+[annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.7208757996559143
+  text_segment {
+    end_offset: 17
+    content: "FEDEX CORPORATION"
+  }
+}
+, annotation_spec_id: "6853749656648679424"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 18
+    end_offset: 45
+    content: "CONSOLIDATED BALANCE SHEETS"
+  }
+}
+, annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9999997019767761
+  text_segment {
+    start_offset: 119
+    end_offset: 144
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9999939203262329
+  text_segment {
+    start_offset: 145
+    end_offset: 156
+    content: "Receivables"
+  }
+}
+, annotation_spec_id: "7495512603548975104"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9999978542327881
+  text_segment {
+    start_offset: 283
+    end_offset: 303
+    content: "Total current assets"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.9999997615814209
+  text_segment {
+    start_offset: 304
+    end_offset: 335
+    content: "Property and Equipment, at Cost"
+  }
+}
+, annotation_spec_id: "83994991780691968"
+display_name: "Goodwill"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 729
+    end_offset: 737
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "3788271655990591488"
+display_name: "OtherAssets"
+text_extraction {
+  score: 0.9992828369140625
+  text_segment {
+    start_offset: 738
+    end_offset: 750
+    content: "Other assets"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9960474967956543
+  text_segment {
+    start_offset: 751
+    end_offset: 779
+    content: "Total other long-term assets"
+  }
+}
+, annotation_spec_id: "5429345537004404736"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.9999992251396179
+  text_segment {
+    start_offset: 971
+    end_offset: 1004
+    content: "Current portion of long-term debt"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9999579191207886
+  text_segment {
+    start_offset: 1005
+    end_offset: 1021
+    content: "Accrued salaries"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9999823570251465
+  text_segment {
+    start_offset: 1044
+    end_offset: 1060
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9960241913795471
+  text_segment {
+    start_offset: 1061
+    end_offset: 1077
+    content: "Accrued expenses"
+  }
+}
+, annotation_spec_id: "3789331585199767552"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9999921917915344
+  text_segment {
+    start_offset: 1078
+    end_offset: 1103
+    content: "Total current liabilities"
+  }
+}
+, annotation_spec_id: "5429345537004404736"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.9835651516914368
+  text_segment {
+    start_offset: 1104
+    end_offset: 1140
+    content: "Long-Term Debt, Less Current Portion"
+  }
+}
+, annotation_spec_id: "3789331585199767552"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9604504108428955
+  text_segment {
+    start_offset: 1386
+    end_offset: 1419
+    content: "Total other long-term liabilities"
+  }
+}
+, annotation_spec_id: "8415372827439398912"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.999901533126831
+  text_segment {
+    start_offset: 1704
+    end_offset: 1741
+    content: "Total common stockholders\' investment"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.8180980086326599
+  text_segment {
+    start_offset: 1990
+    end_offset: 2007
+    content: "FEDEX CORPORATION"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9999213218688965
+  text_segment {
+    start_offset: 2008
+    end_offset: 2041
+    content: "CONSOLIDATED STATEMENTS OF INCOME"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.8167914152145386
+  text_segment {
+    start_offset: 2077
+    end_offset: 2078
+    content: "$"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.996289074420929
+  text_segment {
+    start_offset: 2144
+    end_offset: 2152
+    content: "Revenues"
+  }
+}
+, annotation_spec_id: "3752471557390204928"
+display_name: "ConsolidatedCashFlows"
+text_extraction {
+  score: 0.9996232390403748
+  text_segment {
+    start_offset: 3093
+    end_offset: 3130
+    content: "CONSOLIDATED STATEMENTS OF CASH FLOWS"
+  }
+}
+, annotation_spec_id: "3811862777476153344"
+display_name: "TotalCapitalExpenditures"
+text_extraction {
+  score: 0.9989650845527649
+  text_segment {
+    start_offset: 4053
+    end_offset: 4073
+    content: "Capital expenditures"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.9999778270721436
+  text_segment {
+    start_offset: 4118
+    end_offset: 4148
+    content: "Proceeds from sale of business"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.9999945163726807
+  text_segment {
+    start_offset: 4149
+    end_offset: 4191
+    content: "Proceeds from asset dispositions and other"
+  }
+}
+, annotation_spec_id: "3979340388618993664"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.9999824166297913
+  text_segment {
+    start_offset: 4192
+    end_offset: 4225
+    content: "Cash used in investing activities"
+  }
+}
+, annotation_spec_id: "2768997988763172864"
+display_name: "DividendsPaid"
+text_extraction {
+  score: 0.9999995827674866
+  text_segment {
+    start_offset: 4402
+    end_offset: 4416
+    content: "Dividends paid"
+  }
+}
+]

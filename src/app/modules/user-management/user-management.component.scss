@@ -153,3 +153,11 @@ th {
   font-size: 14px;
   color: #ffffff;
 }
+
+::ng-deep .modal-content{
+  border-radius: 16px;
+}
+
+.material-icons{
+  cursor: pointer;
+}

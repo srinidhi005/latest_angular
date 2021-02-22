@@ -4,6 +4,9 @@ import { Observable } from 'rxjs';
 import {map, startWith} from 'rxjs/operators';
 import { RMIAPIsService } from 'src/app/shared/rmiapis.service';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
+import pdfMake from 'pdfmake/build/pdfmake';
+import pdfFonts from 'pdfmake/build/vfs_fonts';
+pdfMake.vfs = pdfFonts.pdfMake.vfs;
 import { cloneDeep } from 'lodash';
 
 @Component({
@@ -285,5 +288,218 @@ export class ComparatorComponent implements OnInit {
 	
     this.progressBar = false;
   }
+
+exportToPDF() {
+
+    const financials = [this.typeOfFinancials, "", "", "", ""]
+    const companies = ["" ,this.selectedCompanyOne.companyname, this.selectedCompanyTwo.companyname, this.selectedCompanyThree.companyname, this.selectedCompanyFour.companyname]
+    const scenarios = ["", this.selectedSenarioForCompOne, this.selectedSenarioForCompTwo, this.selectedSenarioForCompThree, this.selectedSenarioForCompFour]
+        
+  
+    const headersOne = financials.map( (name, index) => {
+      if(index == 0){
+        return {text: name, bold: true, fillColor: '#fff', color: "#000", margin: [10, 10, 0, 10], border: [0, 0, 0, 0], alignment: "left"}
+      }
+      else{
+        return {text: name, bold: true, fillColor: '#fff', color: "#000", margin: [0, 10, 0, 10], border: [0, 0, 0, 0], alignment: "center"}
+      }
+    })
+
+    const headersTwo = scenarios.map( (name, index) => {
+      if(index == 0){
+        return {text: "", bold: true, fillColor: '#164A5B', color: "#fff", margin: [10, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
+      }
+      else{
+        return {text: "Scenario[(" + name + ")]", bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10], alignment: "center"}
+      }
+    })
+
+    const headersThree = companies.map( (name, index) => {
+      if(index == 0){
+        return {text: "", bold: true, fillColor: '#164A5B', color: "#fff", margin: [10, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
+      }
+      else{
+        return {text: name, bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10], alignment: "center"}
+      }
+    })
+
+    let BMAOne : any = {};
+    let BMPOne : any = {};
+
+    let BMATwo : any = {};
+    let BMPTwo : any = {};
+
+    let BMAThree : any = {};
+    let BMPThree : any = {};
+
+    let BMAFour : any = {};
+    let BMPFour : any = {};
+
+    if(this.typeOfFinancials == "Historical"){
+      BMAOne = this.benchmarkingActualsOne
+      BMATwo = this.benchmarkingActualsTwo
+      BMAThree = this.benchmarkingActualsThree
+      BMAFour = this.benchmarkingActualsFour
+    }
+    else{
+      BMPOne = this.benchmarkingProjectionsOne
+      BMPTwo = this.benchmarkingProjectionsTwo
+      BMPThree = this.benchmarkingProjectionsThree
+      BMPFour = this.benchmarkingProjectionsFour
+    }
+
+    const revCagr = ["Historical Revenue CAGR"].concat(BMAOne?.avgrevenuecagr).concat(BMATwo?.avgrevenuecagr).concat(BMAThree?.avgrevenuecagr).concat(BMAFour?.avgrevenuecagr);
+    const ebitdaMargin = ["Avg. EBITDA Margin"].concat(BMAOne?.avgebitdamargin).concat(BMATwo?.avgebitdamargin).concat(BMAThree?.avgebitdamargin).concat(BMAFour?.avgebitdamargin);
+    const netIncomeMargin = ["Avg. Net Income Margin "].concat(BMAOne?.avgnetincomemargin).concat(BMATwo?.avgnetincomemargin).concat(BMAThree?.avgnetincomemargin).concat(BMAFour?.avgnetincomemargin);
+    const OROA = ["Operating Return on Assets (ROA)"].concat(BMAOne?.operatingreturnassets).concat(BMATwo?.operatingreturnassets).concat(BMAThree?.operatingreturnassets).concat(BMAFour?.operatingreturnassets);
+    const ROA = ["Return on Assets (ROA)"].concat(BMAOne?.returnassets).concat(BMATwo?.returnassets).concat(BMAThree?.returnassets).concat(BMAFour?.returnassets);
+    const ROTC = ["Return on Total Capital"].concat(BMAOne?.returntotalcapital).concat(BMATwo?.returntotalcapital).concat(BMAThree?.returntotalcapital).concat(BMAFour?.returntotalcapital);
+    const ROE = ["Return on Equity (ROE)"].concat(BMAOne?.returnequity).concat(BMATwo?.returnequity).concat(BMAThree?.returnequity).concat(BMAFour?.returnequity);
+    const CR = ["Current Ratio "].concat(BMAOne?.currentratio).concat(BMATwo?.currentratio).concat(BMAThree?.currentratio).concat(BMAFour?.currentratio);
+    const QR = [" Quick Ratio "].concat(BMAOne?.quickratio).concat(BMATwo?.quickratio).concat(BMAThree?.quickratio).concat(BMAFour?.quickratio);
+    const CashR = ["Cash Ratio"].concat(BMAOne?.cashratio).concat(BMATwo?.cashratio).concat(BMAThree?.cashratio).concat(BMAFour?.cashratio);
+    const SR = ["Solvency Ratio "].concat(BMAOne?.solvencyratio).concat(BMATwo?.solvencyratio).concat(BMAThree?.solvencyratio).concat(BMAFour?.solvencyratio);
+    const DE = ["Debt-to-Equity "].concat(BMAOne?.debtequity).concat(BMATwo?.debtequity).concat(BMAThree?.debtequity).concat(BMAFour?.debtequity);
+    const DA = ["Debt-to-Assets "].concat(BMAOne?.debtassets).concat(BMATwo?.debtassets).concat(BMAThree?.debtassets).concat(BMAFour?.debtassets);
+    const debtToEbitda = ["Net Debt-to-EBITDA "].concat(BMAOne?.netdebtebitda).concat(BMATwo?.netdebtebitda).concat(BMAThree?.netdebtebitda).concat(BMAFour?.netdebtebitda);
+    const ICR = ["Interest Coverage Ratio "].concat(BMAOne?.interestcoverageratio).concat(BMATwo?.interestcoverageratio).concat(BMAThree?.interestcoverageratio).concat(BMAFour?.interestcoverageratio);
+    const TDE : any = ["Total Debt-to-EBITDA"].concat([""]).concat([""]).concat([""]).concat([""]);
+    const DSCR = [" Debt Service Coverage Ratio "].concat(BMAOne?.debtcoverageratio).concat(BMATwo?.debtcoverageratio).concat(BMAThree?.debtcoverageratio).concat(BMAFour?.debtcoverageratio);
+
+
+    const revCagrArray = this.getMappedArr(revCagr, "%")
+    const ebitdaMarginArray = this.getMappedArr(ebitdaMargin, "%")
+    const netIncomeMarginArray = this.getMappedArr(netIncomeMargin, "%")
+    const OROAArray = this.getMappedArr(OROA, "%")
+    const ROAArray = this.getMappedArr(ROA, "%")
+    const ROTCArray = this.getMappedArr(ROTC, "%")
+    const ROEArray = this.getMappedArr(ROE, "%")
+    const CRArray = this.getMappedArr(CR, "x")
+
+    const QRArray = this.getMappedArr(QR, "x")
+    const CashRArray = this.getMappedArr(CashR, "x")
+    const SRArray = this.getMappedArr(SR, "x");
+    const DEArray = this.getMappedArr(DE, "%")
+    const DAArray = this.getMappedArr(DA, "%")
+    const debtToEbitdaArray = this.getMappedArr(debtToEbitda, "x")
+    const ICRArray = this.getMappedArr(ICR, "x")
+    const TDEArray = this.getMappedArr(TDE, "x")
+    const DSCRArray = this.getMappedArr(DSCR, "x");
+
+    const finalArray : any = []
+
+    finalArray.push(headersOne);
+    finalArray.push(headersTwo);
+    finalArray.push(headersThree);
+    finalArray.push(revCagrArray);
+    finalArray.push(ebitdaMarginArray)
+    ;
+    finalArray.push(netIncomeMarginArray);
+    finalArray.push(OROAArray);
+    finalArray.push(ROAArray);
+    finalArray.push(ROTCArray);
+    finalArray.push(ROEArray);
+    finalArray.push(CRArray)
+    ;
+    finalArray.push(QRArray);
+    finalArray.push(CashRArray);
+    finalArray.push(SRArray);
+    finalArray.push(DEArray);
+    finalArray.push(DAArray);
+    finalArray.push(debtToEbitdaArray);
+    finalArray.push(ICRArray)
+    ;
+    finalArray.push(TDEArray);
+    finalArray.push(DSCRArray);
+
+    console.log(finalArray)
+
+    // var canvas = document.createElement('canvas');
+    // canvas.width = this.imagecanvas.nativeElement.width;
+    // canvas.height = this.imagecanvas.nativeElement.height;
+    // canvas.getContext('2d').drawImage(this.imagecanvas.nativeElement, 0, 0);
+    // const imagermi = canvas.toDataURL('image/png');
+
+    let docDefinition = {
+      pageSize: {
+        width: 800,
+        height: "auto",
+      },
+
+      pageMargins: [40, 40, 40, 40],
+
+      content: [
+        // { image: imagermi, width: 150, height: 75 },
+        // { image: imagermi, width: 150, height: 75 },
+        {
+          text: "Benchmarking",
+          style: 'header',
+        },
+        {
+          //style: 'tableExample',
+          // layout: 'lightHorizontalLines',
+          // style: 'tableExample',
+          table: {
+            headerRows: 3,
+            heights: 20,
+            // width:'auto',
+            widths: [250, 100, 100, 100, 100],
+            body: finalArray
+          },
+          layout: {
+            //set custom borders size and color
+            hLineWidth: function (i, node) {
+              return i === 0 || i === node.table.body.length ? 0.5 : 0.5;
+            },
+            vLineWidth: function (i, node) {
+              return 0;
+            },
+            hLineColor: function (i, node) {
+              return i === 0 || i === node.table.body.length ? 'black' : 'gray';
+            },
+            // vLineColor: function (i, node) {
+            //   return (i === 0 || i === node.table.widths.length) ? 'black' : 'gray';
+            // }
+          },
+        },
+      ],
+      styles: {
+        header: {
+          fontSize: 18,
+          bold: true,
+          margin: [10, 50, 10, 10],
+        },
+      },
+    };
+    
+
+    pdfMake.createPdf(docDefinition).download();
+  }
+
+  getMappedArr(inputArr, suffix) {
+    const arr = inputArr.map((value:any, index) => {
+      if(index == 0){
+        return  {
+          text: value,
+          margin: [0, 10, 0, 10],          
+          alignment: 'left',
+          bold: true,
+        };
+      }
+      else{
+        return  {
+          text: value ?  +value.toFixed(1) + "" + suffix : "" + suffix,
+          margin: [0, 10, 0, 10],
+          alignment: 'center',
+          bold: false,
+        };
+      }
+    });
+
+    return arr;
+  }
+
+
+
 
 }

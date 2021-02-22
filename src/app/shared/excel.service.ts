@@ -17,6 +17,14 @@ export class ExcelService {
 
 	//constructor(private userDetailModelService : UserDetailModelService) { }
 	constructor(){}
+
+
+  returnRatiosData = [];
+  liquidityRatiosData = [];
+  solvencyRatiosData = [];
+  profitabilityRatiosData = []
+
+
   public exportAsExcelFile(json: any[], excelFileName: string, headersArray: any[],  companyName: string,scenarioName: string): void {
 
     // const worksheet: XLSX.WorkSheet = XLSX.utils.json_to_sheet(json);

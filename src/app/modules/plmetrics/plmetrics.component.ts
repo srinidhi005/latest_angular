@@ -71,7 +71,7 @@ export class PLMetricsComponent implements OnInit {
   displayData: any[];
   companySelected = localStorage.getItem('companySelected');
   selectedCompanyName = localStorage.getItem('selectedCompanyName');
-  scenarioName = 'Scenario [0]';
+  scenarioName = 'Scenario 0';
   constructor(
     private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
@@ -191,7 +191,7 @@ export class PLMetricsComponent implements OnInit {
   }
  
   loadScenario(index:number){
-  this.scenarioName = "Scenario "+"["+index+"]";
+  this.scenarioName = "Scenario "+index;
   this.scenario = index;
       this.ngOnInit();
   
@@ -366,7 +366,7 @@ var canvas = document.createElement('canvas');
 		content: [
 		{image:imagermi,width:150,height:75},
 			{
-				  text:this.selectedCompanyName+' - '+' Historical & Projected Income Statement  '+'-'+ this.scenarioName,
+				  text:this.companySelected+' - '+' Historical & Projected Income Statement  '+'-'+ this.scenarioName,
 				  style:'header',
 			},
           {

@@ -1,12 +1,13 @@
 <div class="file-drop-area">
-    <span class="fake-btn">Choose file</span>
-    <br>
-    <br>
-  
-    <span class="file-msg">{{
-      file ? file.name : "or drop file here"
-    }}</span>
-    <input class="file-input" type="file" #uploadFile/>
-  </div>
+  <span class="fake-btn">Choose file</span>
+  <br>
+  <br>
+  <span class="or">
+    or
+  </span>
+  <span class="file-msg">{{
+    file ? file.name : "Drop file here"
+  }}</span>
+  <input class="file-input" type="file" #uploadFile/>
+</div>
 
- 

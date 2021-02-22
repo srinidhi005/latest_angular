@@ -3,98 +3,105 @@
         
     </div>
 </div> -->
-      <div class="container" style="padding: 0; margin: 0; width: 100%;max-width: 100%;">
-    <div class="row">
-        <div class="col"></div>
-        <div class="col-1">
-           
-              <span (click)="openPopUpModal(addUser); getShowAddUser('add')" class="material-icons" style="font-size: 40px;width:55px;height:45px">
-person_add
-</span>  
-           
-        </div>
-    </div>
+<div class="container" style="padding: 0; margin: 0; width: 100%;max-width: 100%;">
+	<div class="row">
+		<div class="col">
+			<!-- <button (click) = "changePas()">
+				Change Password
+			</button> -->
+		</div>
+		<div class="col-1">
+
+			<span (click)="openPopUpModal(addUser); getShowAddUser('add')" class="material-icons" style="cursor: pointer;"
+				style="font-size: 40px;width:55px;height:45px">
+				person_add
+			</span>
+
+		</div>
 	</div>
+</div>
 
 <div class="container" style="padding: 0; margin: 0; width: 100%;background:#fff;max-width: 100%;">
-    <div class="row">
-        <div class="col"></div>
-      
-    </div>
+	<div class="row">
+		<div class="col"></div>
 
-    <mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
-    <div class="mat-elevation-z8 table-container" style="border-radius:25px">
-        <ng-template [ngIf]="usersList || loggedInUserDetails ">
-            <table class="table-borderless" class="usersList" style="border-radius:25px">
-                <thead class="table-head" style="border-radius:25px">
-                    <tr class="table-row"style="border-radius:25px">
-                        <th style="border-top-left-radius:25px;width: 75px;"></th>
-						<th >Name</th>
-                        <th>Email</th>
-                        <th>Role</th>
+	</div>
+
+	<mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
+	<div class="mat-elevation-z8 table-container" style="border-radius:10px">
+		<ng-template [ngIf]="usersList || loggedInUserDetails ">
+			<table class="table-borderless" class="usersList" style="border-radius:10px">
+				<thead class="table-head" style="border-radius:10px">
+					<tr class="table-row" style="border-radius:10px">
+						<th style="border-top-left-radius:10px;width: 75px;"></th>
+						<th>Name</th>
+						<th>Email</th>
+						<th>Role</th>
 						<th></th>
-                        <th style="border-top-right-radius:25px"></th>
-                    </tr>
-                </thead>
-                <tbody style="background:#fff">
+						<th style="border-top-right-radius:10px"></th>
+					</tr>
+				</thead>
+				<tbody style="background:#fff">
 					<tr>
-						<td style="width: 75px;"> <img [src]="loggedInUserDetails.picture" [title]="loggedInUserDetails.nickname" style="border-radius:50px;height:50px"></td>
+						<td style="width: 75px;"> <img [src]="loggedInUserDetails.picture"
+								[title]="loggedInUserDetails.nickname" style="border-radius:50px;height:50px"></td>
 						<td>
-						<span class="nameTable" style="margin-left:10px">{{ loggedInUserDetails.nickname }}</span>
-                              
-                            </td>
+							<span class="nameTable" style="margin-left:10px">{{ loggedInUserDetails.nickname }}</span>
+
+						</td>
+						<td>
+							{{ loggedInUserDetails.email }}
+						</td>
+						<td style="font-size:14px">
+							{{loggedInUserDetails.role }}
+						</td>
+						<td>
+
+						</td>
+					</tr>
+					<ng-template ngFor [ngForOf]="usersList" let-user let-rowIndex="index">
+						<tr>
+							<td style="width: 75px;"> <img [src]="user.picture" [title]="user.nickname"
+									style="border-radius:50px;height:50px"></td>
 							<td>
-                                {{ loggedInUserDetails.email }}
-                            </td>
-													<td>
-                                {{loggedInUserDetails.role }}
-                            </td>
-													<td>
-                                
-                            </td>
-							</tr>
-                    <ng-template ngFor [ngForOf]="usersList" let-user let-rowIndex="index">
-                        <tr>
-						<td style="width: 75px;"> <img [src]="user.picture" [title]="user.nickname" style="border-radius:50px;height:50px"></td>
-                            <td>
-                                <span class="nameTable" style="margin-left:10px">{{ user.nickname }}</span>
-                            </td>
-                            <td>
-                                {{ user.email }}
-                            </td>
-                            <td>
-                                <mat-form-field style="width: 200px">
-								
-								<mat-select [(ngModel)]="user.app_metadata.roles[0]" >
-									
-                                        <mat-option [value] = "select" >Select</mat-option>
-                                        <ng-template ngFor [ngForOf]="authService.roleIds" let-roleObj
-                                            let-rowIndex="index">
-                                            <mat-option (click)="addRoleToUser(roleObj.name,user)" [value]="roleObj.name">
-                                                {{ roleObj.name}}
-                                            </mat-option>
-                                        </ng-template>
-                                    </mat-select>
-								
-                                    
-                                </mat-form-field>
-                            </td>
-                            
-                            <td>
-                                 
-                                  <mat-icon (click)="assignRoleToUser(user)" style="cursor: pointer">save</mat-icon>  
-                                
-                            </td>
-                            <td>
-                                <span class="material-icons cursor" (click)="deleteUser(rowIndex)">
-                            delete
-                        </span>
-                            </td>
-                        </tr>
-                    </ng-template>
-                </tbody>
-            </table>
-                <!-- <div class="row">
+								<span class="nameTable" style="margin-left:10px">{{ user.nickname }}</span>
+							</td>
+							<td>
+								{{ user.email }}
+							</td>
+							<td>
+								<mat-form-field style="width: 200px">
+
+					<mat-select [(ngModel)]="user?.app_metadata?.roles[0]" [disabled] = " user?.app_metadata?.roles[0] == 'SuperAdmin' ">
+
+										<mat-option [value]="select">Select</mat-option>
+										<ng-template ngFor [ngForOf]="authService.roleIds" let-roleObj
+											let-rowIndex="index">
+			<mat-option (click)="addRoleToUser(roleObj.name,user)" [disabled] = "roleObj.name == 'SuperAdmin'" [value]="roleObj.name">
+												{{ roleObj.name}}
+											</mat-option>
+										</ng-template>
+									</mat-select>
+
+
+								</mat-form-field>
+							</td>
+
+							<td>
+
+								<mat-icon (click)="assignRoleToUser(user)" style="cursor: pointer">save</mat-icon>
+
+							</td>
+							<td>
+								<span class="material-icons cursor" (click)="deleteUser(rowIndex)">
+									delete
+								</span>
+							</td>
+						</tr>
+					</ng-template>
+				</tbody>
+			</table>
+			<!-- <div class="row">
                     <ng-template ngFor [ngForOf] = "usersList" let-user>
                         <div class="card col-4">
                             <div class="card-body">
@@ -106,52 +113,70 @@ person_add
                         </div>
                     </ng-template>
                 </div> -->
-        </ng-template>
-    </div>
+		</ng-template>
+	</div>
 </div>
 
 <ng-template #addUser let-createAddUser>
-    <div class="modal-header">
-      <h4 class="modal-title">Add User</h4>
-      <!-- <button type="submit" class="close" aria-label="Close" (click)="createAddUser.dismiss('Cross click')">
+	<div class="modal-header" style="text-align: center; background-color: #164a5b; border-top-left-radius: 15px; border-top-right-radius: 15px;">
+		<h4 class="modal-title" style="color: #fff; margin: 0 auto;">Invite User</h4>
+		<!-- <button type="submit" class="close" aria-label="Close" (click)="createAddUser.dismiss('Cross click')">
         <span aria-hidden="true">&times;</span>
       </button> -->
-    </div>
-    <div class="modal-body" style="height: 380px;">
-        <div class="row user-card">
-            <div class="col">
-			<p style="text-align:center">For a new user, please list their email address <br/>
-			      and a one-time password below.</p>
-                <mat-form-field class="row container-field">
-                    <mat-label>Email</mat-label>
-                    <input type="email" matInput [(ngModel)]="user.email" name="user-email"
-                        placeholder="Email" />
-                    <mat-icon matSuffix [matTooltip]="emailToolTip" [matTooltipPosition]='right'>
-                        info
-                    </mat-icon>
-                </mat-form-field>
+	</div>
+	
+	<div class="modal-body" style="height: 300px;">
+		<div class="row user-card">
+			<div class="col">
+				<p style="text-align:center">For a new user, Please enter their Email address.</p>
+				<mat-form-field class="row container-field">
+					<mat-label>Email</mat-label>
+					<input type="email" matInput [(ngModel)]="user.email" name="user-email" placeholder="Email" />
+					<!-- <mat-icon matSuffix [matTooltip]="emailToolTip" [matTooltipPosition]='right'>
+						info
+					</mat-icon> -->
+				</mat-form-field>
 
-                <mat-form-field class="row container-field">
-                    <mat-label>Password</mat-label>
-                    <input type="password" matInput [(ngModel)]="user.password" name="password"
-                        placeholder="Password" />
-                    <mat-icon matSuffix [matTooltip]="passwordToolTip" [matTooltipPosition]="'left'">
-                        info
-                    </mat-icon>
-                </mat-form-field>
-                <div class="row">
-                    <button mat-raised-button [disabled] = "!(user.password && user.password.length >= 8) || !user.email" (click)="createUser(); createAddUser.close('Close click')" class="create">
-                        Create
-                    </button>
-                    <button mat-raised-button (click)="createAddUser.close('Close click')" ngbAutofocus class="cancel" >
-                        Cancel
-                    </button>
-                </div>
-            </div>
-			
-        </div>
-    </div>
-    <!-- <div class="modal-footer">
+				<div class="row"  style="margin: 5px 10px 20px 5px;">
+					<div class="col-5">
+						Assign a Role :
+					</div>
+					<div class="col">
+						<mat-radio-button name="adjustmentFactorSelection" style="margin-right: 20px;"
+						(change)="assignedRole = 'User'"
+						[checked]="assignedRole === 'User'"
+					>User</mat-radio-button>
+					<mat-radio-button name="adjustmentFactorSelection" 
+						(change)="assignedRole = 'Admin'"
+						[checked]="assignedRole === 'Admin'"
+					>Admin</mat-radio-button>
+					</div>
+				</div>
+
+
+
+				<!-- <mat-form-field class="row container-field">
+					<mat-label>Password</mat-label>
+					<input type="password" matInput [(ngModel)]="user.password" name="password"
+						placeholder="Password" />
+					<mat-icon matSuffix [matTooltip]="passwordToolTip" [matTooltipPosition]="'left'">
+						info
+					</mat-icon>
+				</mat-form-field> -->
+				<div class="row">
+					<button mat-raised-button [disabled]="!user.email"
+						(click)="createUser(); createAddUser.close('Close click')" class="create">
+						Invite
+					</button>
+					<button mat-raised-button (click)="createAddUser.close('Close click')" ngbAutofocus class="cancel">
+						Cancel
+					</button>
+				</div>
+			</div>
+
+		</div>
+	</div>
+	<!-- <div class="modal-footer">
       <button type="button" class="btn btn-light" (click)="createUser.close('Close click')">Close</button>
     </div> -->
-  </ng-template>
+</ng-template>

@@ -1,10 +1,12 @@
-@import url("https://fonts.googleapis.com/css?family=Lato:400", 300, 700);
+@import url("https://fonts.googleapis.com/css?family=Lato:400");
 
 .file-drop-area {
   border: 1px dashed #c9c9c9;
   border-radius: 3px;
   position: relative;
-  max-width: 250px;
+  // max-width: 250px;
+  width: 370px;
+  height: 250px;
   margin: 0 auto;
   padding: 50px 40px 50px;
   transition: 0.2s;
@@ -14,15 +16,24 @@
   background-color: #3f4069;
 }
 
+.or{
+  position: absolute;
+  left: 180px;
+  top: 120px;
+}
+
 .fake-btn {
   background-color: #ececec;
   border: 1px solid #9e9ec4;
   border-radius: 3px;
   padding: 8px 15px;
-  margin-right: 8px;
+  // margin-right: 8px;
   font-size: 12px;
-  text-transform: uppercase;
-  margin-left: 28%;
+  text-transform: capitalize;
+  // margin-left: 28%;
+  position: absolute;
+  top: 70px;
+  left: 135px;
 }
 
 .file-msg {
@@ -30,6 +41,10 @@
   font-weight: 300;
   white-space: nowrap;
   margin-left: 30%;
+  position: absolute;
+    top: 150px;
+    left: 27px;
+    font-size: 16px;
 
 //   overflow: hidden;
   text-overflow: ellipsis;

@@ -308,7 +308,8 @@ export class VisualsISComponent implements OnInit {
             if (res.scenarios.includes(Number(this.scenarioSelected))) {
               this.inprogress = false;
             } else {
-              this.scenarioSelected = '0';
+	      this.scenarioSelected = '0';
+	      localStorage.setItem('scenarioSelected', this.scenarioSelected);
               this.inprogress = true;
             }
             this.apiService

@@ -18,7 +18,8 @@ export class AddCompanyComponent implements OnInit {
   companyname: any;
   createdby: any;
   period:any[]=['Monthly', 'Quarterly', 'Yearly'];
-  statementtype:any[]=['Income Statement','Balance Sheet','Cash Flow Statement','All Statements'];
+  //accessType:any[]=['Public', 'Private'];
+  statementtype:any[]=['Private','Public'];
   //industry:any[]=['Communications', 'Consumer & Retail','Distribution & Logistics', 'Energy & Natural Resources','Entertainment & Media','Financial Institutions & Sponsors', 'Food & Beverage', 'General Services', 'Healthcare','Hospitality','Industrials','Power, Infrastructure & Utilities','Real Estate','Technology','Telecommunications','Transportation']
   industry:any[]= ['Communication Services', 'Consumer Discretionary', 'Consumer Staples', 'Energy', 'Financials', 'Healthcare', 'Industrials', 'Information Technology', 'Materials', 'Pharmaceuticals', 'Real Estate', 'Utilities']
   inprogress: boolean = false;
@@ -27,7 +28,8 @@ export class AddCompanyComponent implements OnInit {
     companyname: new FormControl(null, [Validators.required]),
     period: new FormControl(null, [Validators.required]),
     statementtype: new FormControl(null, [Validators.required]),
-    industry: new FormControl(null, [Validators.required])
+    industry: new FormControl(null, [Validators.required]),
+    // accessType: new FormControl(null, [Validators.required])
   });
   constructor(private RMIAPIsService: RMIAPIsService,
     private UrlConfigService:UrlConfigService,
@@ -68,6 +70,8 @@ export class AddCompanyComponent implements OnInit {
     postForm.append("createdby", nickname);
     postForm.append("period", this.form.value.period);
     postForm.append("industry", this.form.value.industry);
+    // postForm.append("accessType", this.form.value.accessType);
+    postForm.append("employer", localStorage.getItem("employer")); //
     console.log(JSON.stringify(postForm));
 
    postForm.forEach((value,key) => {

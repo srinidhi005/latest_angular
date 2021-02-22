@@ -1,8 +1,12 @@
 <div fxLayout="row" class="header">
-  <div fxLayout="row" fxLayoutAlign="start center">
-    <p>Historical Key Metrics</p>
-  </div>
-  <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px">
+	<img id='imgToExport' #imagecanvas src='https://app.rmiinsights.com/assets/images/RMI_logo.jpg' style='display:none' height="400" width="600"> 
+	
+	
+  <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px" >
+    <span class="headerLabel"  fxFlex = "85" ><span style="font-weight:bold">{{ companySelected }} - KPI Balance Sheet - {{ loadedScenario }} </span> </span>
+  
+    <button mat-button (click)="exportToPDF()" matTooltip="Export to PDF"
+    matTooltipPosition='above'><mat-icon>picture_as_pdf</mat-icon></button>
     <button mat-button [matMenuTriggerFor]="below">
       <mat-icon>exposure</mat-icon>{{ loadedScenario }}<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
     </button>
@@ -16,6 +20,7 @@
 
 <div fxLayout="row" fxLayoutAlign="space-between center" fxLayoutGap="20px">
   <div fxFlex="100">
+	  <p>Historical Key Metrics</p>
     <mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
     <div class="mat-elevation-z8 table-container">
 

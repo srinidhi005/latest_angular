@@ -1,4 +1,14 @@
 <div class="container" style="margin: 20px 10px; max-width: 100%;">
+	<div class="row" style="margin: 10px;">
+       <h4> Benchmarking</h4>
+
+	<div class="col" style="float:right">
+	<button mat-button (click)="exportToPDF()" matTooltip="Export to PDF" matTooltipPosition='above' style="float:right">
+      <mat-icon>picture_as_pdf</mat-icon>
+    </button>
+	</div>
+
+    </div>
     <mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
     <div class="row">
         <div class="col" style="
@@ -114,40 +124,40 @@
                     
                     </th>
                     <th class="centerAlign">
-                        <button mat-button [matMenuTriggerFor]="above"> Scenario [{{ selectedSenarioForCompOne }}] <mat-icon matSuffix>keyboard_arrow_down
+                        <button mat-button [matMenuTriggerFor]="aboveone"> Scenario [{{ selectedSenarioForCompOne }}] <mat-icon matSuffix>keyboard_arrow_down
                             </mat-icon>
                         </button>
-                        <mat-menu #above="matMenu" yPosition="below">
+                        <mat-menu #aboveone="matMenu" yPosition="below">
                             <button mat-menu-item *ngFor="let scenario of scenariosForCompanyOne; let rowIndex=index;">
                             <span (click)="loadCompany('SCENARIO', scenario, 1)"> Scenario [{{ scenario }}] </span>
                             </button>
                         </mat-menu>
                     </th>
                     <th class="centerAlign">
-                        <button mat-button [matMenuTriggerFor]="above"> Scenario [{{ selectedSenarioForCompTwo }}]<mat-icon matSuffix>keyboard_arrow_down
+                        <button mat-button [matMenuTriggerFor]="abovetwo"> Scenario [{{ selectedSenarioForCompTwo }}]<mat-icon matSuffix>keyboard_arrow_down
                             </mat-icon>
                         </button>
-                        <mat-menu #above="matMenu" yPosition="below">
+                        <mat-menu #abovetwo="matMenu" yPosition="below">
                             <button mat-menu-item *ngFor="let scenario of scenariosForCompanyTwo; let rowIndex=index;">
                             <span (click)="loadCompany('SCENARIO', scenario, 2)"> Scenario [{{ scenario }}] </span>
                             </button>
                         </mat-menu>
                     </th>
                     <th class="centerAlign">
-                        <button mat-button [matMenuTriggerFor]="above"> Scenario [{{ selectedSenarioForCompThree }}]<mat-icon matSuffix>keyboard_arrow_down
+                        <button mat-button [matMenuTriggerFor]="abovethree"> Scenario [{{ selectedSenarioForCompThree }}]<mat-icon matSuffix>keyboard_arrow_down
                             </mat-icon>
                         </button>
-                        <mat-menu #above="matMenu" yPosition="below">
+                        <mat-menu #abovethree="matMenu" yPosition="below">
                             <button mat-menu-item *ngFor="let scenario of scenariosForCompanyThree; let rowIndex=index;">
                             <span (click)="loadCompany('SCENARIO', scenario, 3)"> Scenario [{{ scenario }}] </span>
                             </button>
                         </mat-menu>
                     </th>
 					 <th class="centerAlign">
-                        <button mat-button [matMenuTriggerFor]="above"> Scenario [{{ selectedSenarioForCompFour }}]<mat-icon matSuffix>keyboard_arrow_down
+                        <button mat-button [matMenuTriggerFor]="abovefour"> Scenario [{{ selectedSenarioForCompFour }}]<mat-icon matSuffix>keyboard_arrow_down
                             </mat-icon>
                         </button>
-                        <mat-menu #above="matMenu" yPosition="below">
+                        <mat-menu #abovefour="matMenu" yPosition="below">
                             <button mat-menu-item *ngFor="let scenario of scenariosForCompanyFour; let rowIndex=index;">
                             <span (click)="loadCompany('SCENARIO', scenario, 4)"> Scenario [{{ scenario }}] </span>
                             </button>
@@ -162,29 +172,74 @@
                     <td class="leftAlign">
                         Historical Revenue CAGR
                     </td>
+					
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsOne?.avgrevenuecagr <0" [ngIfElse]="positive"> 
+					({{ benchmarkingActualsOne?.avgrevenuecagr | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsOne?.avgrevenuecagr | number : "1.1-1" }}%
+						</ng-template>
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingActualsOne?.avgrevenuecagr <0" [ngIfElse]="positive"> 
+					({{ benchmarkingProjectionsOne?.avgrevenuecagr | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsOne?.avgrevenuecagr | number : "1.1-1" }}%
-                    </td>
+                    </ng-template>
+					</td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsTwo?.avgrevenuecagr <0" [ngIfElse]="positive"> 
+					({{ benchmarkingActualsTwo?.avgrevenuecagr | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsTwo?.avgrevenuecagr | number : "1.1-1" }}%
+					</ng-template>
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsTwo?.avgrevenuecagr <0" [ngIfElse]="positive"> 
+					({{ benchmarkingProjectionsTwo?.avgrevenuecagr | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsTwo?.avgrevenuecagr | number : "1.1-1" }}%
+						</ng-template>
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsThree?.avgrevenuecagr <0" [ngIfElse]="positive"> 
+					({{ benchmarkingActualsThree?.avgrevenuecagr | number : "1.1-1" }})%
+					</ng-template>
+					
+					<ng-template #positive>
                         {{ benchmarkingActualsThree?.avgrevenuecagr | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsThree?.avgrevenuecagr <0" [ngIfElse]="positive"> 
+					({{ benchmarkingProjectionsThree?.avgrevenuecagr | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsThree?.avgrevenuecagr | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
 					<td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsFour?.avgrevenuecagr <0" [ngIfElse]="positive"> 
+					({{ benchmarkingActualsFour?.avgrevenuecagr | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsFour?.avgrevenuecagr | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+                      <ng-template [ngIf]="benchmarkingProjectionsFour?.avgrevenuecagr <0" [ngIfElse]="positive"> 
+					({{ benchmarkingProjectionsFour?.avgrevenuecagr | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsFour?.avgrevenuecagr | number : "1.1-1" }}%
+						</ng-template>
                     </td>
                     
                 </tr>
@@ -194,28 +249,76 @@
                         Avg. EBITDA Margin
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsOne?.avgebitdamargin <0" [ngIfElse]="positive"> 
+					({{ benchmarkingActualsOne?.avgebitdamargin | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsOne?.avgebitdamargin | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsOne?.avgebitdamargin <0" [ngIfElse]="positive"> 
+					({{ benchmarkingProjectionsOne?.avgebitdamargin | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsOne?.avgebitdamargin | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsTwo?.avgebitdamargin <0" [ngIfElse]="positive"> 
+					({{ benchmarkingActualsTwo?.avgebitdamargin | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsTwo?.avgebitdamargin | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsTwo?.avgebitdamargin <0" [ngIfElse]="positive"> 
+					({{ benchmarkingProjectionsTwo?.avgebitdamargin | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsTwo?.avgebitdamargin | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+						<ng-template [ngIf]="benchmarkingActualsThree?.avgebitdamargin <0" [ngIfElse]="positive"> 
+					({{ benchmarkingActualsThree?.avgebitdamargin | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsThree?.avgebitdamargin | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsThree?.avgebitdamargin <0" [ngIfElse]="positive"> 
+					({{ benchmarkingProjectionsThree?.avgebitdamargin | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsThree?.avgebitdamargin | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
 					<td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsFour?.avgebitdamargin <0" [ngIfElse]="positive"> 
+					({{ benchmarkingActualsFour?.avgebitdamargin | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsFour?.avgebitdamargin | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsFour?.avgebitdamargin  <0" [ngIfElse]="positive"> 
+					({{ benchmarkingProjectionsFour?.avgebitdamargin  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsFour?.avgebitdamargin | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                 </tr>
 
@@ -224,28 +327,76 @@
                         Avg. Net Income Margin 
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsOne?.avgnetincomemargin | number : "1.1-1" }}%
+					<ng-template [ngIf]=" benchmarkingActualsOne?.avgnetincomemargin  <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsOne?.avgnetincomemargin  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsOne?.avgnetincomemargin | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsOne?.avgnetincomemargin | number : "1.1-1" }}%
+					<ng-template [ngIf]=" benchmarkingProjectionsOne?.avgnetincomemargin  <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsOne?.avgnetincomemargin  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingProjectionsOne?.avgnetincomemargin | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsTwo?.avgnetincomemargin | number : "1.1-1" }}%
+					<ng-template [ngIf]="benchmarkingActualsTwo?.avgnetincomemargin  <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsTwo?.avgnetincomemargin  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsTwo?.avgnetincomemargin | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsTwo?.avgnetincomemargin | number : "1.1-1" }}%
+					<ng-template [ngIf]="benchmarkingProjectionsTwo?.avgnetincomemargin  <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsTwo?.avgnetincomemargin  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingProjectionsTwo?.avgnetincomemargin | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsThree?.avgnetincomemargin | number : "1.1-1" }}%
+					<ng-template [ngIf]="benchmarkingActualsThree?.avgnetincomemargin  <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsThree?.avgnetincomemargin  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsThree?.avgnetincomemargin | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsThree?.avgnetincomemargin | number : "1.1-1" }}%
+					<ng-template [ngIf]="benchmarkingProjectionsThree?.avgnetincomemargin  <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsThree?.avgnetincomemargin  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingProjectionsThree?.avgnetincomemargin | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
 					  <td class="centerAlign" *ngIf = "typeOfFinancials == 'Historical'">
+					  <ng-template [ngIf]="benchmarkingActualsFour?.avgnetincomemargin  <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsFour?.avgnetincomemargin  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsFour?.avgnetincomemargin | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign" *ngIf = "typeOfFinancials == 'Projected'">
+					  <ng-template [ngIf]="benchmarkingProjectionsFour?.avgnetincomemargin  <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsFour?.avgnetincomemargin  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsFour?.avgnetincomemargin | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                 </tr>
 
@@ -254,28 +405,76 @@
                         Operating Return on Assets (ROA)
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					  <ng-template [ngIf]="benchmarkingActualsOne?.operatingreturnassets  <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsOne?.operatingreturnassets  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsOne?.operatingreturnassets | number : "1.1-1" }}%
+						</ng-template>
+                      
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					  <ng-template [ngIf]="benchmarkingProjectionsOne?.operatingreturnassets  <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsOne?.operatingreturnassets  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsOne?.operatingreturnassets | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					  <ng-template [ngIf]="benchmarkingActualsTwo?.operatingreturnassets  <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsTwo?.operatingreturnassets  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsTwo?.operatingreturnassets | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					 <ng-template [ngIf]="benchmarkingProjectionsTwo?.operatingreturnassets  <0" [ngIfElse]="positive"> 
+					({{ benchmarkingProjectionsTwo?.operatingreturnassets  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsTwo?.operatingreturnassets | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsThree?.operatingreturnassets | number : "1.1-1" }}%
+					<ng-template [ngIf]="benchmarkingActualsThree?.operatingreturnassets  <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsThree?.operatingreturnassets  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsThree?.operatingreturnassets | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsThree?.operatingreturnassets | number : "1.1-1" }}%
+					<ng-template [ngIf]="benchmarkingProjectionsThree?.operatingreturnassets  <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsThree?.operatingreturnassets  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingProjectionsThree?.operatingreturnassets | number : "1.1-1" }}%
+						</ng-template>
+
                     </td>
 					<td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsFour?.operatingreturnassets | number : "1.1-1" }}%
+						<ng-template [ngIf]="benchmarkingActualsFour?.operatingreturnassets  <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsFour?.operatingreturnassets  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsFour?.operatingreturnassets | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsFour?.operatingreturnassets | number : "1.1-1" }}%
+						<ng-template [ngIf]="benchmarkingProjectionsFour?.operatingreturnassets  <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsFour?.operatingreturnassets  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingProjectionsFour?.operatingreturnassets | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                 </tr>
 
@@ -284,29 +483,79 @@
                         Return on Assets (ROA)
 
                     </td>
+					
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsOne?.returnassets | number : "1.1-1" }}%
+						<ng-template [ngIf]="benchmarkingActualsOne?.returnassets  <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsOne?.returnassets  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsOne?.returnassets | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsOne?.returnassets | number : "1.1-1" }}%
+						<ng-template [ngIf]="benchmarkingProjectionsOne?.returnassets <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsOne?.returnassets  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingProjectionsOne?.returnassets | number : "1.1-1" }}%
+						</ng-template>
+                      
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsTwo?.returnassets | number : "1.1-1" }}%
+					<ng-template [ngIf]="benchmarkingActualsTwo?.returnassets <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsTwo?.returnassets  | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsTwo?.returnassets | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsTwo?.returnassets | number : "1.1-1" }}%
+					<ng-template [ngIf]="benchmarkingProjectionsTwo?.returnassets <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsTwo?.returnassets | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingProjectionsTwo?.returnassets | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsThree?.returnassets | number : "1.1-1" }}%
+					<ng-template [ngIf]="benchmarkingActualsThree?.returnassets <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsThree?.returnassets | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsThree?.returnassets | number : "1.1-1" }}%
+						</ng-template>
+                      
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsThree?.returnassets | number : "1.1-1" }}%
+					<ng-template [ngIf]="benchmarkingProjectionsThree?.returnassets <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsThree?.returnassets | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingProjectionsThree?.returnassets | number : "1.1-1" }}%
+						</ng-template>
+                      
                     </td>
 					<td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsFour?.returnassets | number : "1.1-1" }}%
+					<ng-template [ngIf]="benchmarkingActualsFour?.returnassets <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsFour?.returnassets | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsFour?.returnassets | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+		
+					<ng-template [ngIf]="benchmarkingProjectionsFour?.returnassets <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsFour?.returnassets | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsFour?.returnassets | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                 </tr>
 
@@ -316,28 +565,76 @@
 
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsOne?.returntotalcapital <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsOne?.returntotalcapital | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsOne?.returntotalcapital | number : "1.1-1" }}%
+						</ng-template>
+                      
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsOne?.returntotalcapital <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsOne?.returntotalcapital | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsOne?.returntotalcapital | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsTwo?.returntotalcapital <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsTwo?.returntotalcapital | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsTwo?.returntotalcapital | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsTwo?.returntotalcapital <0" [ngIfElse]="positive"> 
+					({{ benchmarkingProjectionsTwo?.returntotalcapital | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsTwo?.returntotalcapital | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsThree?.returntotalcapital <0" [ngIfElse]="positive"> 
+					({{ benchmarkingActualsThree?.returntotalcapital | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsThree?.returntotalcapital | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsThree?.returntotalcapital <0" [ngIfElse]="positive"> 
+					({{ benchmarkingProjectionsThree?.returntotalcapital | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsThree?.returntotalcapital | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
 					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					 <ng-template [ngIf]="benchmarkingActualsFour?.returntotalcapital <0" [ngIfElse]="positive"> 
+					({{ benchmarkingActualsFour?.returntotalcapital | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsFour?.returntotalcapital | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsFour?.returntotalcapital <0" [ngIfElse]="positive"> 
+					({{ benchmarkingProjectionsFour?.returntotalcapital | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsFour?.returntotalcapital | number : "1.1-1" }}%
+						</ng-template>
+                      
                     </td>
                 </tr>
 
@@ -346,177 +643,434 @@
                         Return on Equity (ROE)
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsOne?.returnequity <0" [ngIfElse]="positive"> 
+					({{ benchmarkingActualsOne?.returnequity | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsOne?.returnequity | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsOne?.returnequity <0" [ngIfElse]="positive"> 
+					({{ benchmarkingProjectionsOne?.returnequity | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsOne?.returnequity | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsTwo?.returnequity <0" [ngIfElse]="positive"> 
+					({{ benchmarkingActualsTwo?.returnequity | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsTwo?.returnequity | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsTwo?.returnequity <0" [ngIfElse]="positive"> 
+					({{ benchmarkingProjectionsTwo?.returnequity | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsTwo?.returnequity | number : "1.1-1" }}%
+						</ng-template>
+                    
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+						<ng-template [ngIf]="benchmarkingActualsThree?.returnequity <0" [ngIfElse]="positive"> 
+					({{ benchmarkingActualsThree?.returnequity | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsThree?.returnequity | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+						<ng-template [ngIf]="benchmarkingProjectionsThree?.returnequity <0" [ngIfElse]="positive"> 
+					({{ benchmarkingProjectionsThree?.returnequity | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsThree?.returnequity | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
 					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					 	<ng-template [ngIf]="benchmarkingActualsFour?.returnequity <0" [ngIfElse]="positive"> 
+					({{ benchmarkingActualsFour?.returnequity | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsFour?.returnequity | number : "1.1-1" }}%
+						</ng-template>
+                      
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					 	<ng-template [ngIf]="benchmarkingProjectionsFour?.returnequity <0" [ngIfElse]="positive"> 
+					({{ benchmarkingProjectionsFour?.returnequity | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsFour?.returnequity | number : "1.1-1" }}%
+						</ng-template>
                     </td>
                 </tr>
-                <tr>
+                               <tr>
                     <td class="leftAlign">
-                        Current Ratio 
+                        Current Ratio
 
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+				<ng-template [ngIf]="benchmarkingActualsOne?.currentratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsOne?.currentratio*-1) | number : "1.1-1" }}x
+				</ng-template>
+				<ng-template #positive>
                         {{ benchmarkingActualsOne?.currentratio | number : "1.1-1" }}x
+				</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsOne?.currentratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsOne?.currentratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsOne?.currentratio | number : "1.1-1" }}x
+					</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsTwo?.currentratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsTwo?.currentratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsTwo?.currentratio | number : "1.1-1" }}x
+					</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsTwo?.currentratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsTwo?.currentratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsTwo?.currentratio | number : "1.1-1" }}x
+					</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+						<ng-template [ngIf]="benchmarkingActualsThree?.currentratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsThree?.currentratio*-1) | number : "1.1-1" }}x
+						</ng-template>
+						<ng-template #positive>
                         {{ benchmarkingActualsThree?.currentratio | number : "1.1-1" }}x
+						</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsThree?.currentratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsThree?.currentratio*-1) | number : "1.1-1" }}x
+						</ng-template>
+						<ng-template #positive>
                         {{ benchmarkingProjectionsThree?.currentratio | number : "1.1-1" }}x
+						</ng-template>
+                    </td>
+				<td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+						<ng-template [ngIf]="benchmarkingActualsFour?.currentratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsFour?.currentratio*-1) | number : "1.1-1" }}x
+						</ng-template>
+				<ng-template #positive>
+                        {{ benchmarkingActualsFour?.currentratio | number : "1.1-1" }}x
+				</ng-template>	
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsFour?.currentratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsFour?.currentratio*-1) | number : "1.1-1" }}x
+						</ng-template>
+						<ng-template #positive>
+                        {{ benchmarkingProjectionsFour?.currentratio | number : "1.1-1" }}x
+						</ng-template>
+                    </td>
+                </tr>
+ <tr>
+                    <td class="leftAlign">
+                        Quick Ratio
+
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsOne?.quickratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsOne?.quickratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
+                        {{ benchmarkingActualsOne?.quickratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsOne?.quickratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsOne?.quickratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
+                        {{ benchmarkingProjectionsOne?.quickratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsTwo?.quickratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsTwo?.quickratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
+                        {{ benchmarkingActualsTwo?.quickratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsTwo?.quickratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsTwo?.quickratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
+                        {{ benchmarkingProjectionsTwo?.quickratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+						<ng-template [ngIf]="benchmarkingActualsThree?.quickratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsThree?.quickratio*-1) | number : "1.1-1" }}x
+						</ng-template>
+						<ng-template #positive>
+                        {{ benchmarkingActualsThree?.quickratio | number : "1.1-1" }}x
+						</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsThree?.quickratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsThree?.quickratio*-1) | number : "1.1-1" }}x
+						</ng-template>
+					<ng-template #positive>
+                        {{ benchmarkingProjectionsThree?.quickratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+						<td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsFour?.quickratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsFour?.quickratio*-1) | number : "1.1-1" }}x
+						</ng-template>
+						<ng-template #positive>
+                        {{ benchmarkingActualsFour?.quickratio | number : "1.1-1" }}x
+							</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsFour?.quickratio <0" [ngIfElse]="positive">
+						{{ (benchmarkingProjectionsFour?.quickratio*-1) | number : "1.1-1" }}x
+						</ng-template>
+						<ng-template #positive>
+                        {{ benchmarkingProjectionsFour?.quickratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                </tr>
+
+
+                                <tr>
+                    <td class="leftAlign">
+                        Cash Ratio
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsOne?.cashratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsOne?.cashratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
+                        {{ benchmarkingActualsOne?.cashratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+						<ng-template [ngIf]="benchmarkingProjectionsOne?.cashratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsOne?.cashratio*-1) | number : "1.1-1" }}x
+						</ng-template>
+						<ng-template #positive>
+                        {{ benchmarkingProjectionsOne?.cashratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+						<ng-template [ngIf]="benchmarkingActualsTwo?.cashratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsTwo?.cashratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+						<ng-template #positive>
+                        {{ benchmarkingActualsTwo?.cashratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsTwo?.cashratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsTwo?.cashratio*-1) | number : "1.1-1" }}x
+						</ng-template>
+						<ng-template #positive>
+                        {{ benchmarkingProjectionsTwo?.cashratio | number : "1.1-1" }}x
+						</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsThree?.cashratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsThree?.cashratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
+                        {{ benchmarkingActualsThree?.cashratio | number : "1.1-1" }}x
+						</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsThree?.cashratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsThree?.cashratio*-1) | number : "1.1-1" }}x
+						</ng-template>
+						<ng-template #positive>
+                        {{ benchmarkingProjectionsThree?.cashratio | number : "1.1-1" }}x
+						</ng-template>
+                    </td>
+						<td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+						<ng-template [ngIf]="benchmarkingActualsFour?.cashratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsFour?.cashratio*-1) | number : "1.1-1" }}x
+						</ng-template>
+						<ng-template #positive>
+                        {{ benchmarkingActualsFour?.cashratio | number : "1.1-1" }}x
+						</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsFour?.cashratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsFour?.cashratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
+                        {{ benchmarkingProjectionsFour?.cashratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                </tr>
+               
+                <tr>
+                    <td class="leftAlign">
+                        Solvency Ratio
+
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsOne?.solvencyratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsOne?.solvencyratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
+                        {{ benchmarkingActualsOne?.solvencyratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsOne?.solvencyratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsOne?.solvencyratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
+                        {{ benchmarkingProjectionsOne?.solvencyratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsTwo?.solvencyratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsTwo?.solvencyratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+						<ng-template #positive>
+                        {{ benchmarkingActualsTwo?.solvencyratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsTwo?.solvencyratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsTwo?.solvencyratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
+                        {{ benchmarkingProjectionsTwo?.solvencyratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsThree?.solvencyratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsThree?.solvencyratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
+                        {{ benchmarkingActualsThree?.solvencyratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsThree?.solvencyratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsThree?.solvencyratio*-1) | number : "1.1-1" }}x
+						</ng-template>
+					<ng-template #positive>
+                        {{ benchmarkingProjectionsThree?.solvencyratio | number : "1.1-1" }}x
+					</ng-template>
                     </td>
 					<td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsFour?.currentratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsFour?.currentratio | number : "1.1-1" }}x
-                    </td>
-                </tr>
-                <tr>
-                    <td class="leftAlign">
-                        Quick Ratio 
-
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsOne?.quickratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsOne?.quickratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsTwo?.quickratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsTwo?.quickratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsThree?.quickratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsThree?.quickratio | number : "1.1-1" }}x
-                    </td>
-					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsFour?.quickratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsFour?.quickratio | number : "1.1-1" }}x
-                    </td>
-                </tr>
-
-                <tr>
-                    <td class="leftAlign">
-                        Cash Ratio 
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsOne?.cashratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsOne?.cashratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsTwo?.cashratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsTwo?.cashratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsThree?.cashratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsThree?.cashratio | number : "1.1-1" }}x
-                    </td>
-					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsFour?.cashratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsFour?.cashratio | number : "1.1-1" }}x
-                    </td>
-                </tr>
-                <tr>
-                    <td class="leftAlign">
-                        Solvency Ratio 
-
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsOne?.solvencyratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsOne?.solvencyratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsTwo?.solvencyratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsTwo?.solvencyratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsThree?.solvencyratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsThree?.solvencyratio | number : "1.1-1" }}x
-                    </td>
-					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsFour?.solvencyratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsFour?.solvencyratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingActualsFour?.solvencyratio | number : "1.1-1" }}x
+					</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsFour?.solvencyratio <0" [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsFour?.solvencyratio*-1) | number : "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
                         {{ benchmarkingProjectionsFour?.solvencyratio | number : "1.1-1" }}x
+					</ng-template>
                     </td>
                 </tr>
+
                 <tr>
                     <td class="leftAlign">
                         Debt-to-Equity 
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsOne?.debtequity | number : "1.1-1" }}%
+					<ng-template [ngIf]=" benchmarkingActualsOne?.debtequity <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsOne?.debtequity | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsOne?.debtequity | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsOne?.debtequity | number : "1.1-1" }}%
+					<ng-template [ngIf]=" benchmarkingProjectionsOne?.debtequity <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsOne?.debtequity | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingProjectionsOne?.debtequity | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsTwo?.debtequity | number : "1.1-1" }}%
+					<ng-template [ngIf]=" benchmarkingActualsTwo?.debtequity <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsTwo?.debtequity | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsTwo?.debtequity | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsTwo?.debtequity | number : "1.1-1" }}%
+					<ng-template [ngIf]=" benchmarkingProjectionsTwo?.debtequity <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsTwo?.debtequity | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingProjectionsTwo?.debtequity | number : "1.1-1" }}%
+						</ng-template>
+                     
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsThree?.debtequity | number : "1.1-1" }}%
+					<ng-template [ngIf]=" benchmarkingActualsThree?.debtequity <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsThree?.debtequity | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsThree?.debtequity | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsThree?.debtequity | number : "1.1-1" }}%
+					<ng-template [ngIf]=" benchmarkingProjectionsThree?.debtequity <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsThree?.debtequity | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingProjectionsThree?.debtequity | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
 					  <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsFour?.debtequity | number : "1.1-1" }}%
+					  <ng-template [ngIf]=" benchmarkingActualsFour?.debtequity <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsFour?.debtequity | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsFour?.debtequity | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsFour?.debtequity | number : "1.1-1" }}%
+					  <ng-template [ngIf]=" benchmarkingProjectionsFour?.debtequity <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsFour?.debtequity | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingProjectionsFour?.debtequity | number : "1.1-1" }}%
+						</ng-template>
                     </td>
                 </tr>
 
@@ -525,140 +1079,363 @@
                         Debt-to-Assets 
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsOne?.debtassets | number : "1.1-1" }}%
+					 <ng-template [ngIf]=" benchmarkingActualsOne?.debtassets <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsOne?.debtassets | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsOne?.debtassets | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsOne?.debtassets | number : "1.1-1" }}%
+					 <ng-template [ngIf]=" benchmarkingProjectionsOne?.debtassets <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsOne?.debtassets | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingProjectionsOne?.debtassets | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsTwo?.debtassets | number : "1.1-1" }}%
+					 <ng-template [ngIf]=" benchmarkingActualsTwo?.debtassets <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsTwo?.debtassets | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsTwo?.debtassets | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsTwo?.debtassets | number : "1.1-1" }}%
+					 <ng-template [ngIf]=" benchmarkingProjectionsTwo?.debtassets <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsTwo?.debtassets | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingProjectionsTwo?.debtassets | number : "1.1-1" }}%
+						</ng-template>
+                      
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsThree?.debtassets | number : "1.1-1" }}%
+					 <ng-template [ngIf]=" benchmarkingActualsThree?.debtassets <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsThree?.debtassets | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsThree?.debtassets | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsThree?.debtassets | number : "1.1-1" }}%
+						 <ng-template [ngIf]=" benchmarkingProjectionsThree?.debtassets <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsThree?.debtassets | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingProjectionsThree?.debtassets | number : "1.1-1" }}%
+						</ng-template>
+                       
                     </td>
 					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsFour?.debtassets | number : "1.1-1" }}%
+					  <ng-template [ngIf]=" benchmarkingActualsFour?.debtassets <0" [ngIfElse]="positive"> 
+					({{  benchmarkingActualsFour?.debtassets | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingActualsFour?.debtassets | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsFour?.debtassets | number : "1.1-1" }}%
+					<ng-template [ngIf]=" benchmarkingProjectionsFour?.debtassets <0" [ngIfElse]="positive"> 
+					({{  benchmarkingProjectionsFour?.debtassets | number : "1.1-1" }})%
+					</ng-template>
+					<ng-template #positive>
+                        {{  benchmarkingProjectionsFour?.debtassets | number : "1.1-1" }}%
+						</ng-template>
+                        
                     </td>
                 </tr>
 
-                <tr>
+                               <tr>
                     <td class="leftAlign">
-                        Net Debt-to-EBITDA 
+                        Net Debt-to-EBITDA
 
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+<ng-template [ngIf]="benchmarkingActualsOne?.netdebtebitda <0" [ngIfElse]="positive">
+                        {{ (benchmarkingActualsOne?.netdebtebitda*-1) | number : "1.1-1" }}x
+</ng-template>
+<ng-template #positive>
                         {{ benchmarkingActualsOne?.netdebtebitda | number : "1.1-1" }}x
+</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsOne?.netdebtebitda | number : "1.1-1" }}x
+<ng-template [ngIf]="benchmarkingProjectionsOne?.netdebtebitda <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsOne?.netdebtebitda*-1) | number : "1.1-1" }}x
+</ng-template>                      
+<ng-template #positive>
+{{ benchmarkingProjectionsOne?.netdebtebitda | number : "1.1-1" }}x
+</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsTwo?.netdebtebitda | number : "1.1-1" }}x
+<ng-template [ngIf]="benchmarkingActualsTwo?.netdebtebitda <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingActualsTwo?.netdebtebitda*-1) | number : "1.1-1" }}x
+</ng-template>                      
+<ng-template #positive>
+{{ benchmarkingActualsTwo?.netdebtebitda | number : "1.1-1" }}x
+</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsTwo?.netdebtebitda | number : "1.1-1" }}x
+<ng-template [ngIf]="benchmarkingProjectionsTwo?.netdebtebitda <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsTwo?.netdebtebitda*-1) | number : "1.1-1" }}x
+</ng-template>                      
+<ng-template #positive>
+{{ benchmarkingProjectionsTwo?.netdebtebitda | number : "1.1-1" }}x
+</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsThree?.netdebtebitda | number : "1.1-1" }}x
+<ng-template [ngIf]="benchmarkingActualsThree?.netdebtebitda <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingActualsThree?.netdebtebitda*-1) | number : "1.1-1" }}x
+</ng-template>                      
+<ng-template #positive>
+{{ benchmarkingActualsThree?.netdebtebitda | number : "1.1-1" }}x
+</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsThree?.netdebtebitda | number : "1.1-1" }}x
+<ng-template [ngIf]="benchmarkingProjectionsThree?.netdebtebitda <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsThree?.netdebtebitda*-1) | number : "1.1-1" }}x
+</ng-template>                      
+<ng-template #positive>
+{{ benchmarkingProjectionsThree?.netdebtebitda | number : "1.1-1" }}x
+</ng-template>
                     </td>
-					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsFour?.netdebtebitda | number : "1.1-1" }}x
+<td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+<ng-template [ngIf]="benchmarkingActualsFour?.netdebtebitda <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingActualsFour?.netdebtebitda*-1) | number : "1.1-1" }}x
+</ng-template>                      
+<ng-template #positive>
+{{ benchmarkingActualsFour?.netdebtebitda | number : "1.1-1" }}x
+</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsFour?.netdebtebitda | number : "1.1-1" }}x
+<ng-template [ngIf]="benchmarkingProjectionsFour?.netdebtebitda <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsFour?.netdebtebitda*-1) | number : "1.1-1" }}x
+</ng-template>                      
+<ng-template #positive>
+{{ benchmarkingProjectionsFour?.netdebtebitda | number : "1.1-1" }}x
+</ng-template>
                     </td>
                 </tr>
 
-                <tr>
+
+               <tr>
                     <td class="leftAlign">
                         Total Debt-to-EBITDA
 
                     </td>
-                    <td class="centerAlign">
-                        - 
+                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+				<ng-template [ngIf]="benchmarkingActualsOne?.totaldebtebitda <0 " [ngIfElse]="positive">
+				{{ (benchmarkingActualsOne?.totaldebtebitda*-1) | number : "1.1-1" }}x
+				</ng-template>                      
+						<ng-template #positive>
+					{{ benchmarkingActualsOne?.totaldebtebitda | number : "1.1-1" }}x
+</ng-template>
                     </td>
-                    <td class="centerAlign">
-                        - 
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+<ng-template [ngIf]="benchmarkingProjectionsOne?.totaldebtebitda <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsOne?.totaldebtebitda*-1) | number : "1.1-1" }}x
+</ng-template>
+<ng-template #positive>
+{{ benchmarkingProjectionsOne?.totaldebtebitda | number : "1.1-1" }}x
+</ng-template>
                     </td>
-                    <td class="centerAlign">
-                        -
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+<ng-template [ngIf]="benchmarkingActualsTwo?.totaldebtebitda <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingActualsTwo?.totaldebtebitda*-1) | number : "1.1-1" }}x
+</ng-template>
+<ng-template #positive>
+{{ benchmarkingActualsTwo?.totaldebtebitda | number : "1.1-1" }}x
+</ng-template>
                     </td>
-                    <td class="centerAlign">
-                        -
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+<ng-template [ngIf]="benchmarkingProjectionsTwo?.totaldebtebitda <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsTwo?.totaldebtebitda*-1) | number : "1.1-1" }}x
+</ng-template>
+<ng-template #positive>
+{{ benchmarkingProjectionsTwo?.totaldebtebitda | number : "1.1-1" }}x
+</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+
+<ng-template [ngIf]="benchmarkingActualsThree?.totaldebtebitda <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingActualsThree?.totaldebtebitda*-1) | number : "1.1-1" }}x
+</ng-template>
+<ng-template #positive>
+{{ benchmarkingActualsThree?.totaldebtebitda | number : "1.1-1" }}x
+</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+<ng-template [ngIf]="benchmarkingProjectionsThree?.totaldebtebitda <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsThree?.totaldebtebitda*-1) | number : "1.1-1" }}x
+</ng-template>
+<ng-template #positive>
+{{ benchmarkingProjectionsThree?.totaldebtebitda | number : "1.1-1" }}x
+</ng-template>
+                    </td>
+<td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+<ng-template [ngIf]="benchmarkingActualsFour?.totaldebtebitda <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingActualsFour?.totaldebtebitda*-1) | number : "1.1-1" }}x
+</ng-template>
+<ng-template #positive>
+{{ benchmarkingActualsFour?.totaldebtebitda | number : "1.1-1" }}x
+</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+<ng-template [ngIf]="benchmarkingProjectionsFour?.totaldebtebitda <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsFour?.totaldebtebitda*-1) | number : "1.1-1" }}x
+</ng-template>
+<ng-template #positive>
+{{ benchmarkingProjectionsFour?.totaldebtebitda | number : "1.1-1" }}x
+</ng-template>
                     </td>
                 </tr>
 
-                <tr>
+
+                                <tr>
                     <td class="leftAlign">
-                        Interest Coverage Ratio 
+                        Interest Coverage Ratio
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsOne?.interestcoverageratio | number : "1.1-1" }}x
+<ng-template [ngIf]="benchmarkingActualsOne?.interestcoverageratio <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingActualsOne?.interestcoverageratio*-1) | number : "1.1-1" }}x
+</ng-template>
+<ng-template #positive>
+{{ benchmarkingActualsOne?.interestcoverageratio | number : "1.1-1" }}x
+</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsOne?.interestcoverageratio | number : "1.1-1" }}x
+<ng-template [ngIf]="benchmarkingProjectionsOne?.interestcoverageratio <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsOne?.interestcoverageratio*-1) | number : "1.1-1" }}x
+</ng-template>
+<ng-template #positive>
+{{ benchmarkingProjectionsOne?.interestcoverageratio | number : "1.1-1" }}x
+</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsTwo?.interestcoverageratio | number : "1.1-1" }}x
+<ng-template [ngIf]="benchmarkingActualsTwo?.interestcoverageratio <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingActualsTwo?.interestcoverageratio*-1) | number : "1.1-1" }}x
+</ng-template>
+<ng-template #positive>
+{{ benchmarkingActualsTwo?.interestcoverageratio | number : "1.1-1" }}x
+</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsTwo?.interestcoverageratio | number : "1.1-1" }}x
+<ng-template [ngIf]="benchmarkingProjectionsTwo?.interestcoverageratio <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsTwo?.interestcoverageratio*-1) | number : "1.1-1" }}x
+</ng-template>
+<ng-template #positive>
+{{ benchmarkingProjectionsTwo?.interestcoverageratio | number : "1.1-1" }}x
+</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsThree?.interestcoverageratio | number : "1.1-1" }}x
+<ng-template [ngIf]="benchmarkingActualsThree?.interestcoverageratio <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingActualsThree?.interestcoverageratio*-1) | number : "1.1-1" }}x
+</ng-template>
+<ng-template #positive>
+{{ benchmarkingActualsThree?.interestcoverageratio | number : "1.1-1" }}x
+</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsThree?.interestcoverageratio | number : "1.1-1" }}x
+<ng-template [ngIf]="benchmarkingProjectionsThree?.interestcoverageratio <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsThree?.interestcoverageratio*-1) | number : "1.1-1" }}x
+</ng-template>
+<ng-template #positive>
+{{ benchmarkingProjectionsThree?.interestcoverageratio | number : "1.1-1" }}x
+</ng-template>
                     </td>
-					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsFour?.interestcoverageratio | number : "1.1-1" }}x
+<td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+<ng-template [ngIf]="benchmarkingActualsFour?.interestcoverageratio <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingActualsFour?.interestcoverageratio*-1) | number : "1.1-1" }}x
+</ng-template>
+<ng-template #positive>
+{{ benchmarkingActualsFour?.interestcoverageratio | number : "1.1-1" }}x
+</ng-template>
                     </td>
                     <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsFour?.interestcoverageratio | number : "1.1-1" }}x
+<ng-template [ngIf]="benchmarkingProjectionsFour?.interestcoverageratio <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsFour?.interestcoverageratio*-1) | number : "1.1-1" }}x
+</ng-template>
+<ng-template #positive>
+{{ benchmarkingProjectionsFour?.interestcoverageratio | number : "1.1-1" }}x
+</ng-template>
+                    </td>
+                </tr>
+ <tr>
+                    <td class="leftAlign">
+                        Debt Service Coverage Ratio
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsOne?.debtcoverageratio <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingActualsOne?.debtcoverageratio*-1) | number: "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
+					{{ benchmarkingActualsOne?.debtcoverageratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsOne?.debtcoverageratio <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsOne?.debtcoverageratio*-1) | number: "1.1-1" }}x
+				</ng-template>
+				<ng-template #positive>
+				{{ benchmarkingProjectionsOne?.debtcoverageratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsTwo?.debtcoverageratio <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingActualsTwo?.debtcoverageratio*-1)| number : "1.1-1" }}x
+				</ng-template>
+					<ng-template #positive>
+					{{ benchmarkingActualsTwo?.debtcoverageratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsTwo?.debtcoverageratio <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsTwo?.debtcoverageratio*-1) | number: "1.1-1" }}x
+					</ng-template>
+					<ng-template #positive>
+					{{ benchmarkingProjectionsTwo?.debtcoverageratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+					<ng-template [ngIf]="benchmarkingActualsThree?.debtcoverageratio <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingActualsThree?.debtcoverageratio*-1) | number: "1.1-1" }}x
+						</ng-template>
+					<ng-template #positive>
+					{{ benchmarkingActualsThree?.debtcoverageratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsThree?.debtcoverageratio <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsThree?.debtcoverageratio*-1)  | number: "1.1-1" }}x
+						</ng-template>
+					<ng-template #positive>
+					{{ benchmarkingProjectionsThree?.debtcoverageratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+						<td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
+						<ng-template [ngIf]="benchmarkingActualsFour?.debtcoverageratio <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingActualsFour?.debtcoverageratio*-1) | number: "1.1-1" }}x
+						</ng-template>
+						<ng-template #positive>
+						{{ benchmarkingActualsFour?.debtcoverageratio | number : "1.1-1" }}x
+					</ng-template>
+                    </td>
+                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
+					<ng-template [ngIf]="benchmarkingProjectionsFour?.debtcoverageratio <0 " [ngIfElse]="positive">
+                        {{ (benchmarkingProjectionsFour?.debtcoverageratio*-1) | number:"1.1-1" }}x
+					</ng-template>
+						<ng-template #positive>
+						{{ benchmarkingProjectionsFour?.debtcoverageratio | number : "1.1-1" }}x
+							</ng-template>
                     </td>
                 </tr>
 
-                <tr>
-                    <td class="leftAlign">
-                        Debt Service Coverage Ratio 
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsOne?.debtcoverageratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsOne?.debtcoverageratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsTwo?.debtcoverageratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsTwo?.debtcoverageratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsThree?.debtcoverageratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsThree?.debtcoverageratio | number : "1.1-1" }}x
-                    </td>
-					 <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Historical'">
-                        {{ benchmarkingActualsFour?.debtcoverageratio | number : "1.1-1" }}x
-                    </td>
-                    <td class="centerAlign"  *ngIf = "typeOfFinancials == 'Projected'">
-                        {{ benchmarkingProjectionsFour?.debtcoverageratio | number : "1.1-1" }}x
-                    </td>
-                </tr>
             </tbody>
         </table>
     </div>

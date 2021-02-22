@@ -1,5 +1,6 @@
 import { Component, Input, OnChanges, OnInit } from '@angular/core';
 import { MatTableDataSource } from '@angular/material';
+import { ExcelService } from 'src/app/shared/excel.service';
 interface TableItem {
   name: string;
   [key: string]: string;
@@ -27,7 +28,7 @@ export class ProfitabilityRatiosComponent implements OnInit, OnChanges {
   projectionSpan = 0;
 
   averageColumns = [];
-  constructor() {}
+  constructor(private excelService: ExcelService) {}
 
   ngOnInit() {
     console.log('Loading...', this.loading);
@@ -165,7 +166,9 @@ export class ProfitabilityRatiosComponent implements OnInit, OnChanges {
         ...projectionColumn.map((a) => a.value),
         ...averages.map((a) => a.value)
       );
-      console.log('Loaded!', this.loading, this.actuals, this.projections);
+      // console.log('Loaded!', this.loading, this.actuals, this.projections);
+        this.excelService.profitabilityRatiosData = this.data;
+        console.log("PROFITABILITY RATIOS", this.excelService.profitabilityRatiosData)
     }
   }
   isAverage(name) {

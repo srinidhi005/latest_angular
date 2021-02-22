@@ -72,7 +72,7 @@ financials =[];
   companySelected = localStorage.getItem('companySelected');
   scenarioNumber = localStorage.getItem('scenarioNumber');
   selectedCompanyName = localStorage.getItem('selectedCompanyName');
-  scenarioName = 'Scenario [0]';
+  scenarioName = 'Scenario 0';
   constructor(
   private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
@@ -192,7 +192,7 @@ for (let j=0; j<res.length; j++) {
   }
  
   loadScenario(index:number){
-		this.scenarioName = "Scenario "+"["+index+"]"; 
+		this.scenarioName = "Scenario "+index; 
       this.scenario = index;
       this.ngOnInit();
   
@@ -404,7 +404,7 @@ var canvas = document.createElement('canvas');
 		content: [
 		{image:imagermi,width:150,height:75},
 			{
-				  text:this.selectedCompanyName+' - ' +' Historical & Projected Cash Flow Statement '+'-'+this.scenarioName,
+				  text:this.companySelected+' - ' +' Historical & Projected Cash Flow Statement '+'-'+this.scenarioName,
 				  style:'header',
 			},
           {

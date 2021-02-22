@@ -161,19 +161,19 @@ export class StatementComponent implements OnInit {
     localStorage.setItem('companySelected', element.name);
     localStorage.setItem('selectedCompanyName', element.company);
     this.userDetailModelService.setSelectedCompany(element.name);
-    this.userDetailModelService.setSelectedScenario(1);
+    this.userDetailModelService.setSelectedScenario(0);
   }
   balanceStatement(element: any) {
     localStorage.setItem('companySelected', element.name);
     localStorage.setItem('selectedCompanyName', element.company);
     this.userDetailModelService.setSelectedCompany(element.name);
-    this.userDetailModelService.setSelectedScenario(1);
+    this.userDetailModelService.setSelectedScenario(0);
   }
   cashFlowStatement(element: any) {
     localStorage.setItem('companySelected', element.name);
     localStorage.setItem('selectedCompanyName', element.company);
     this.userDetailModelService.setSelectedCompany(element.name);
-    this.userDetailModelService.setSelectedScenario(1);
+    this.userDetailModelService.setSelectedScenario(0);
   }
   saveCompanyName(compObj, index) {
     // APICALL to save the comp Name

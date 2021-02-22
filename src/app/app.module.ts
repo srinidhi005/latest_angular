@@ -8,6 +8,7 @@ import {
   MatInputModule,
   MatOptionModule,
   MatSelectModule,
+  MatRadioModule,
 } from '@angular/material';
 import { MatButtonModule } from '@angular/material/button';
 import { MatCardModule } from '@angular/material/card';
@@ -52,6 +53,7 @@ declare var Chargebee: any;
     MatOptionModule,
     MatIconModule,
     MatCardModule,
+	MatRadioModule,
     FormsModule,
     ReactiveFormsModule,
     MatProgressSpinnerModule,

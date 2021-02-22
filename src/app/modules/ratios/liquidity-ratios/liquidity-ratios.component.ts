@@ -1,4 +1,5 @@
 import { Component, Input, OnChanges, OnInit } from '@angular/core';
+import { ExcelService } from 'src/app/shared/excel.service';
 
 @Component({
   selector: 'app-liquidity-ratios',
@@ -21,7 +22,7 @@ export class LiquidityRatiosComponent implements OnInit, OnChanges {
   projectionSpan = 0;
 
   averageColumns = [];
-  constructor() {}
+  constructor(private excelService : ExcelService) {}
 
   ngOnInit() {
     console.log('Loading...', this.loading);
@@ -52,23 +53,23 @@ export class LiquidityRatiosComponent implements OnInit, OnChanges {
       });
       this.actualSpan = actualColumns.length;
       this.projectionSpan = projectionColumn.length;
-      const currentratio: any = {
+      const currentRatio: any = {
         name: this.dataColumns[0],
       };
       actualColumns.forEach((d: any) => {
-        currentratio[d.value] = this.actuals[d.index].currentratio || 0;
+        currentRatio[d.value] = this.actuals[d.index].currentRatio || 0;
       });
       projectionColumn.forEach((d: any) => {
-        currentratio[d.value] = this.projections[d.index].currentratio || 0;
+        currentRatio[d.value] = this.projections[d.index].currentRatio || 0;
       });
       averages.forEach((a) => {
         if (a.isActual) {
-          currentratio[a.value] = this.actuals[a.index].currentratio || 0.0;
+          currentRatio[a.value] = this.actuals[a.index].currentRatio || 0.0;
         } else {
-          currentratio[a.value] = this.projections[a.index].currentratio || 0.0;
+          currentRatio[a.value] = this.projections[a.index].currentRatio || 0.0;
         }
       });
-      this.data.push(currentratio);
+      this.data.push(currentRatio);
       const quickratio: any = {
         name: this.dataColumns[1],
       };
@@ -108,7 +109,10 @@ export class LiquidityRatiosComponent implements OnInit, OnChanges {
         ...projectionColumn.map((a) => a.value),
         ...averages.map((a) => a.value)
       );
-      console.log('Loaded!', this.loading, this.actuals, this.projections);
+      // console.log('Loaded!', this.loading, this.actuals, this.projections);
+      this.excelService.liquidityRatiosData = this.data;
+      console.log("LIQUIDTY RATIOS", this.excelService.liquidityRatiosData)
+
     }
   }
   isAverage(name) {

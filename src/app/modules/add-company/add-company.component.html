@@ -2,7 +2,7 @@
   <div class="row header">
     <div class="col"></div>
     <div class="col-3">
-      <h1 class="title">Import New Statement</h1>
+      <h4>Import New Company</h4>
     </div>
     <div class="col"></div>
   </div>
@@ -37,16 +37,16 @@
     
                 <mat-form-field class="container-field">
                   <mat-select
-                    placeholder="Statement Type"
-                    formControlName="statementtype"
+                    placeholder="Company Type"
+                    formControlName="statementType"
                   >
                     <mat-option
-                      *ngFor="let statementtype of statementtype"
-                      [value]="statementtype"
-                      >{{ statementtype }}</mat-option
+                      *ngFor="let statementType of statementType"
+                      [value]="statementType"
+                      >{{ statementType }}</mat-option
                     >
                   </mat-select>
-                  <mat-error *ngIf="form.get('statementtype').hasError('required')">
+                  <mat-error *ngIf="form.get('statementType').hasError('required')">
                     Statement Type is Required!
                   </mat-error>
                 </mat-form-field>
@@ -92,7 +92,12 @@
                 </div>
               </div>
             </div>
-
+	    <h4>Steps for Importing a New Company:<br/><br/></h4>
+	     <h5 style="text-align:left">
+		     		1. Download the PDF version of annual financial statement of the company (10-K)<br/><br/>
+				2. Edit the PDF file to remove all pages except for the Income Statement, Balance Sheet, and Cash Flow Statements<br/><br/>
+				3. Upload the edited file by either dragging it into the box to the right or using the Browse option<br/><br/>
+				4. Populate the fields listed above as it relates to key company attributes (e.g., Company name, Industry, etc.)</h5>
             <div class="row" style="margin: 40px auto;">
               <button style="background-color: #164a5b; margin: auto; width: 100px; color: #ffffff;"
                 [disabled]="inprogress"

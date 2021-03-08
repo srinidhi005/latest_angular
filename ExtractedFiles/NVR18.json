@@ -1,0 +1,151 @@
+[annotation_spec_id: "3788271655990591488"
+display_name: "OtherAssets"
+text_extraction {
+  score: 0.8979746103286743
+  text_segment {
+    start_offset: 634
+    end_offset: 646
+    content: "Other assets"
+  }
+}
+, annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9999834299087524
+  text_segment {
+    start_offset: 699
+    end_offset: 724
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9988474249839783
+  text_segment {
+    start_offset: 739
+    end_offset: 754
+    content: "Restricted cash"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.9999797940254211
+  text_segment {
+    start_offset: 817
+    end_offset: 844
+    content: "Property and equipment, net"
+  }
+}
+, annotation_spec_id: "3788271655990591488"
+display_name: "OtherAssets"
+text_extraction {
+  score: 0.9999125003814697
+  text_segment {
+    start_offset: 949
+    end_offset: 961
+    content: "Other assets"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9995137453079224
+  text_segment {
+    start_offset: 992
+    end_offset: 1004
+    content: "Total assets"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9999463558197021
+  text_segment {
+    start_offset: 1080
+    end_offset: 1096
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9851612448692322
+  text_segment {
+    start_offset: 1117
+    end_offset: 1133
+    content: "Accrued expenses"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9909257292747498
+  text_segment {
+    start_offset: 1273
+    end_offset: 1311
+    content: "Accounts payable and other liabilities"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.9999164342880249
+  text_segment {
+    start_offset: 1340
+    end_offset: 1357
+    content: "Total liabilities"
+  }
+}
+, annotation_spec_id: "8415372827439398912"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9999994039535522
+  text_segment {
+    start_offset: 2014
+    end_offset: 2040
+    content: "Total shareholders\' equity"
+  }
+}
+, annotation_spec_id: "1975506835276300288"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.9999985694885254
+  text_segment {
+    start_offset: 2061
+    end_offset: 2103
+    content: "Total liabilities and shareholders\' equity"
+  }
+}
+, annotation_spec_id: "6853749656648679424"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.998875617980957
+  text_segment {
+    start_offset: 2138
+    end_offset: 2165
+    content: "Consolidated Balance Sheets"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9126699566841125
+  text_segment {
+    start_offset: 3321
+    end_offset: 3330
+    content: "NVR, Inc."
+  }
+}
+, annotation_spec_id: "3752471557390204928"
+display_name: "ConsolidatedCashFlows"
+text_extraction {
+  score: 0.8798540830612183
+  text_segment {
+    start_offset: 5855
+    end_offset: 5892
+    content: "Consolidated Statements of Cash Flows"
+  }
+}
+]

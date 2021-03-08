@@ -388,7 +388,7 @@ var canvas = document.createElement('canvas');
 	 
 	 
 		    pageSize: {
-    width: 870,
+    width: 900,
     height: 'auto'
   },
   pageMargins: [ 40, 40, 40, 40 ],
@@ -411,7 +411,7 @@ var canvas = document.createElement('canvas');
               headerRows: 1,
               heights: 20,
 			  //width:'auto',
-              widths: [240, 70, 70, 70,70,70,70,60],
+              widths: [235,75,75,75,75,75,75,75],
               body: data
             },
             layout: {
@@ -460,10 +460,10 @@ var canvas = document.createElement('canvas');
         }
         else {
 			if(isfundsfromOperations){
-          return {text: year, margin: [0, 10, 0, 10],alignment: 'right',bold:true}
+          return {text: year.indexOf("-") >= 0 ? "( " + year.replace("-", "") +" )" : year, margin: [0, 10, 0, 10],alignment: 'right',bold:true}
         }
 		else{
-			return {text: year, margin: [0, 10, 0, 10],alignment: 'right'}
+			return {text: year.indexOf("-") >= 0 ? "( " + year.replace("-", "") +" )" : year, margin: [0, 10, 0, 10],alignment: 'right'}
 		}
 		}
       })

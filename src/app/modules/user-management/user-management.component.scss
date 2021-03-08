@@ -8,7 +8,7 @@ table {
 }
 .mat-form-field {
   font-size: 14px;
-  width: 100%;
+  width: 75%;
 }
 .nameTable{
 vertical-align: middle;
@@ -16,9 +16,9 @@ vertical-align: middle;
 .usersList{
   padding: 15px 20px;
   width: 100%;
-  th, td{
-    padding-left: 8px;
-  }
+ // th, td{
+  //  padding-left: 8px;
+//  }
 }
 .search-icon {
   position: relative;
@@ -36,14 +36,14 @@ button{
 }
 .create, .cancel{
   // float: right;
-  position: absolute;
+  // position: absolute;
   // margin: auto 10px;
 }
+// .cancel{
+//   right: 20px;
+// }
 .cancel{
-  right: 20px;
-}
-.create{
-  right: 110px;
+  margin-left: 30px;
 }
 .modal-body{
   height: 270px;
@@ -140,7 +140,7 @@ border-collapse: separate;
 }
 
 .container-field{
-  margin: 8px 5px;
+  margin: 8px 8px 5px 35px;
 }
 
 

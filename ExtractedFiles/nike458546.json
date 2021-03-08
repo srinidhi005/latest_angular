@@ -1,0 +1,61 @@
+[annotation_spec_id: "548685989074173952"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.7928646206855774
+  text_segment {
+    start_offset: 6
+    end_offset: 19
+    content: "Total Revenue"
+  }
+}
+, annotation_spec_id: "548685989074173952"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.8322259783744812
+  text_segment {
+    start_offset: 20
+    end_offset: 27
+    content: "Revenue"
+  }
+}
+, annotation_spec_id: "981031553301741568"
+display_name: "COGS"
+text_extraction {
+  score: 0.8579403162002563
+  text_segment {
+    start_offset: 50
+    end_offset: 63
+    content: "Cost of Goods"
+  }
+}
+, annotation_spec_id: "5448602383653273600"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.711446225643158
+  text_segment {
+    start_offset: 76
+    end_offset: 88
+    content: "Gross Profit"
+  }
+}
+, annotation_spec_id: "5448602383653273600"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.4153583347797394
+  text_segment {
+    start_offset: 89
+    end_offset: 101
+    content: "Gross Margin"
+  }
+}
+, annotation_spec_id: "1989837869832732672"
+display_name: "SGA"
+text_extraction {
+  score: 0.8595085144042969
+  text_segment {
+    start_offset: 106
+    end_offset: 139
+    content: "Selling, General & Administrative"
+  }
+}
+]

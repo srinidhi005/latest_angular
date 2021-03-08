@@ -465,10 +465,10 @@ var canvas = document.createElement('canvas');
         }
         else {
 			if(isfundsfromOperations){
-          return {text: year, margin: [0, 10, 0, 10],alignment: 'right',bold:true}
+          return {text: year.indexOf("-") >= 0 ? "( " + year.replace("-", "") +" )" : year, margin: [0, 10, 0, 10],alignment: 'right',bold:true}
         }
 		else{
-			return {text: year, margin: [0, 10, 0, 10],alignment: 'right'}
+			return {text: year.indexOf("-") >= 0 ? "( " + year.replace("-", "") +" )" : year, margin: [0, 10, 0, 10],alignment: 'right'}
 		}
 		}
       })

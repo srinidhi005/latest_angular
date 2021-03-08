@@ -1,0 +1,126 @@
+
+Page#1
+Table of Contents
+WAYFAIR INC.
+CONSOLIDATED BALANCE SHEETS
+(In thousands, except share and per share data)
+ December 31,
+ 2018 2017
+Assets  
+Current assets  
+Cash and cash equivalents $ 849,461 $ 558,960
+Short-term investments 114,278 61,032
+Accounts receivable, net of allowance of $9,312 and $7,000 at December 31, 2018 and
+December 31, 2017, respectively 50,603 37,948
+Inventories 46,164 28,042
+Prepaid expenses and other current assets 195,430 130,838
+Total current assets 1,255,936 816,820
+Property and equipment, net 606,977 361,141
+Goodwill and intangible assets, net 2,585 3,105
+Long-term investments 6,526 21,561
+Other noncurrent assets 18,826 10,776
+Total assets $ 1,890,850 $ 1,213,403
+Liabilities and Stockholders' Deficit  
+Current liabilities  
+Accounts payable $ 650,174 $ 440,366
+Accrued expenses 212,997 120,247
+Deferred revenue 148,057 94,116
+Other current liabilities 127,995 85,026
+Total current liabilities 1,139,223 739,755
+Lease financing obligations, net of current portion 183,056 82,580
+Long-term debt 738,904 332,905
+Other liabilities 160,388 106,492
+Total liabilities 2,221,571 1,261,732
+Commitments and contingencies (Note 7)
+Convertible preferred stock, $0.001 par value per share: 10,000,000 shares authorized and
+none issued at December 31, 2018 and December 31, 2017 — —
+Stockholders’ deficit:  
+Class A common stock, par value $0.001 per share, 500,000,000 shares authorized,
+62,329,701 and 57,398,983 shares issued and outstanding at December 31, 2018 and
+December 31, 2017, respectively 63 57
+Class B common stock, par value $0.001 per share, 164,000,000 shares authorized,
+28,417,882 and 30,809,627 shares issued and outstanding at December 31, 2018 and
+December 31, 2017, respectively 28 31
+Additional paid-in capital 753,657 537,212
+Accumulated deficit (1,082,689) (583,266)
+Accumulated other comprehensive loss (1,780) (2,363)
+Total stockholders' deficit (330,721) (48,329)
+Total liabilities and stockholders' deficit $ 1,890,850 $ 1,213,403
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+54
+Page#2
+Table of Contents
+WAYFAIR INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except per share data)
+ 
+Year Ended December 31,
+ 2018 2017 2016
+Net revenue $ 6,779,174 $ 4,720,895 $ 3,380,360
+Cost of goods sold 5,192,451 3,602,072 2,572,549
+Gross profit 1,586,723 1,118,823 807,811
+Operating expenses: 
+Customer service and merchant fees 260,046 169,516 127,883
+Advertising 774,189 549,959 409,125
+Selling, operations, technology, general and administrative 1,025,767 634,801 467,020
+Total operating expenses 2,060,002 1,354,276 1,004,028
+Loss from operations (473,279) (235,453) (196,217)
+Interest (expense) income, net (28,560) (9,433) 694
+Other (expense) income, net (204) 758 1,756
+Loss before income taxes (502,043) (244,128) (193,767)
+Provision for income taxes 2,037 486 608
+Net loss $ (504,080) $ (244,614) $ (194,375)
+Net loss per share, basic and diluted $ (5.63) $ (2.81) $ (2.29)
+Weighted average number of common stock outstanding used in
+computing per share amounts, basic and diluted 89,472 86,983 84,977
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+55
+Page#3
+Table of Contents
+WAYFAIR INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+ Year Ended December 31,
+ 2018 2017 2016
+Cash flows from operating activities 
+Net loss $ (504,080) $ (244,614) $ (194,375)
+Adjustments to reconcile net loss to net cash used in operating activities 
+Depreciation and amortization 123,542 87,020 55,572
+Equity based compensation 127,564 67,840 49,402
+Amortization of discount and issuance costs on convertible notes 22,585 5,830 —
+Other non-cash adjustments (56) 1,198 331
+Changes in operating assets and liabilities:
+Accounts receivable (12,792) (18,172) (9,217)
+Inventories (18,319) (9,454) 1,351
+Prepaid expenses and other current assets (65,195) (39,124) (16,179)
+Accounts payable and accrued expenses 285,064 104,184 126,013
+Deferred revenue and other liabilities 134,705 81,354 51,914
+Other assets (8,157) (2,428) (1,998)
+Net cash provided by operating activities 84,861 33,634 62,814
+Cash flows from investing activities
+Purchase of short-term and long-term investments (99,002) (54,551) (88,112)
+Sale and maturities of short-term investments 61,068 71,095 119,810
+Purchase of property and equipment (159,205) (100,451) (96,707)
+Site and software development costs (62,750) (46,428) (31,379)
+Cash received from the sale of a business, net of cash sold — — 1,508
+Other investing activities, net (398) — (1,000)
+Net cash used in investing activities (260,287) (130,335) (95,880)
+Cash flows from financing activities
+Proceeds from issuance of convertible notes, net of issuance costs 562,047 420,449 —
+Premiums paid for capped call confirmations (93,438) (44,160) —
+Taxes paid related to net share settlement of equity awards (1,284) (1,562) (21,092)
+Net proceeds from exercise of stock options 138 244 209
+Net cash provided by (used in) financing activities 467,463 374,971 (20,883)
+Effect of exchange rate changes on cash and cash equivalents (1,536) 850 (387)
+Net increase (decrease) in cash and cash equivalents 290,501 279,120 (54,336)
+Cash and cash equivalents
+Beginning of year 558,960 279,840 334,176
+End of year $ 849,461 $ 558,960 $ 279,840
+Supplemental Cash Flow Information
+Cash paid for interest on long-term debt $ 1,554 $ — $ —
+Cash paid for interest on finance lease obligations $ 9,058 $ — $ —
+Purchase of property and equipment included in accounts payable and accrued expenses and in
+other liabilities $ 15,383 $ 8,533 $ 1,336
+Construction costs capitalized under finance lease obligations and other leases $ 125,796 $ 47,276 $ 53,894
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+58

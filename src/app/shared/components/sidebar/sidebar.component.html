@@ -5,18 +5,18 @@
                 <a mat-list-item routerLinkActive="list-item-active">
                     <mat-icon>dashboard</mat-icon>Dashboard
                 </a>
-            </mat-expansion-panel-header>
+            </mat-expansion-panel-header >
             <ng-container *ngFor="let company of topCompanies; let i = $index">
                 <mat-accordion>
                     <mat-expansion-panel class="mat-elevation-z0 child-component">
                         <mat-expansion-panel-header>
-                            <a mat-list-item routerLinkActive="list-item-active">
+                            <a mat-list-item routerLinkActive="list-item-active" [class.selected] = "excelService.selectedDashboardMenu === company.companyName">
                                 <mat-icon>library_books</mat-icon>
-                                {{company.company}}
+                                {{company.companyName}}
                             </a>
                         </mat-expansion-panel-header>
                         <ng-container *ngFor="let scenario of company.scenario">
-                            <a mat-list-item routerLinkActive="list-item-active"
+                            <a mat-list-item routerLinkActive="list-item-active" (click) = "excelService.selectedDashboardMenu = company.companyName"
                                 [routerLink]="['/'+ company.companyName + '/dashboard/' + scenario]">
                                 <mat-icon>description</mat-icon>{{scenario === 0 ? "Default" : "Scenario " + scenario}}
                             </a>
@@ -26,26 +26,31 @@
             </ng-container>
         </mat-expansion-panel>
     </mat-accordion>
-    <a mat-list-item routerLinkActive="list-item-active" routerLink="/statement">
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/statement" [class.selected-menu] = "excelService.selectedDashboardMenu == 'MyCompanies'"  
+     (click) = "excelService.selectedDashboardMenu = 'MyCompanies'">
         <mat-icon>library_books</mat-icon>
         My Companies
     </a>
-    <a mat-list-item routerLinkActive="list-item-active" routerLink="/ratios">
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/ratios" [class.selected-menu] = "excelService.selectedDashboardMenu == 'ratios'"  
+     (click) = "excelService.selectedDashboardMenu = 'ratios'">
         <mat-icon>aspect_ratio</mat-icon>
         Ratios
     </a>
-	 <a mat-list-item routerLinkActive="list-item-active" routerLink="/scorecard">
+	 <a mat-list-item routerLinkActive="list-item-active" routerLink="/scorecard" [class.selected-menu] = "excelService.selectedDashboardMenu == 'scorecard'"  
+     (click) = "excelService.selectedDashboardMenu = 'scorecard'">
         <mat-icon>content_paste</mat-icon>
         Credit Scorecard
     </a>
 
-	<a mat-list-item routerLinkActive="list-item-active" routerLink="/comparator">
+	<a mat-list-item routerLinkActive="list-item-active" routerLink="/comparator"[class.selected-menu] = "excelService.selectedDashboardMenu == 'comparator'"  
+     (click) = "excelService.selectedDashboardMenu = 'comparator'">
         <mat-icon>compare</mat-icon>
       	Benchmarking
     </a>
 
 
-    <a mat-list-item routerLinkActive="list-item-active" routerLink="/dcf">
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/dcf" [class.selected-menu] = "excelService.selectedDashboardMenu == 'dcf'"  
+     (click) = "excelService.selectedDashboardMenu = 'dcf'">
         <mat-icon>assignment</mat-icon>
         Valuations
     </a>
@@ -60,14 +65,15 @@
                     <mat-icon>view_list</mat-icon>KPI
                 </a>
             </mat-expansion-panel-header>
-            <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIIncomeStatement">
+            <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIIncomeStatement" [class.selected] = "excelService.selectedDashboardMenu === 'income'" (click) = "excelService.selectedDashboardMenu = 'income'">
                 <mat-icon>compare</mat-icon>Income Statement
             </a>
-            <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIBalanceSheet">
+            <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIBalanceSheet" [class.selected] = "excelService.selectedDashboardMenu === 'balance'"
+(click) = "excelService.selectedDashboardMenu = 'balance'">
                 <mat-icon>menu_book</mat-icon>Balance Sheet
             </a>
-            <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpiCashflow">
-                <mat-icon>menu_book</mat-icon>Cash Flow Statement
+            <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpiCashflow" [class.selected] = "excelService.selectedDashboardMenu === 'cashflow'"(click) = "excelService.selectedDashboardMenu = 'cashflow'">
+                <mat-icon>local_atm</mat-icon>Cash Flow Statement
             </a>
         </mat-expansion-panel>
     </mat-accordion>
@@ -145,8 +151,8 @@
         </mat-expansion-panel>
     </mat-accordion>
 
-    <a mat-list-item routerLinkActive="list-item-active" routerLink="/profile" 
-    *ngIf = "auth.currentUserRoles?.indexOf('Admin') >=0 || auth.currentUserRoles?.indexOf('SuperAdmin') >=0">
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/profile" [class.selected-menu] = "excelService.selectedDashboardMenu == 'profile'"  
+     (click) = "excelService.selectedDashboardMenu = 'profile'">
         <mat-icon>supervised_user_circle</mat-icon>
         RMI Insights Account
     </a>

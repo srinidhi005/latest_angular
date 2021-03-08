@@ -1,0 +1,191 @@
+[annotation_spec_id: "6349762113778483200"
+display_name: "COGS"
+text_extraction {
+  score: 0.8451945781707764
+  text_segment {
+    start_offset: 226
+    end_offset: 239
+    content: "Cost of sales"
+  }
+}
+, annotation_spec_id: "4764495044944068608"
+display_name: "SGA"
+text_extraction {
+  score: 0.8209264874458313
+  text_segment {
+    start_offset: 264
+    end_offset: 307
+    content: "Selling, general and administrative expense"
+  }
+}
+, annotation_spec_id: "5340955797247492096"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.5898422598838806
+  text_segment {
+    start_offset: 653
+    end_offset: 669
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "7070338054157762560"
+display_name: "Taxes"
+text_extraction {
+  score: 0.8893134593963623
+  text_segment {
+    start_offset: 806
+    end_offset: 826
+    content: "Income tax provision"
+  }
+}
+, annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9855344891548157
+  text_segment {
+    start_offset: 1645
+    end_offset: 1670
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "3611573540337221632"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9283823370933533
+  text_segment {
+    start_offset: 1882
+    end_offset: 1911
+    content: "Accounts and notes receivable"
+  }
+}
+, annotation_spec_id: "3467458352261365760"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9162133932113647
+  text_segment {
+    start_offset: 1959
+    end_offset: 1970
+    content: "Inventories"
+  }
+}
+, annotation_spec_id: "152809026516680704"
+display_name: "OtherAssets"
+text_extraction {
+  score: 0.2606815695762634
+  text_segment {
+    start_offset: 2117
+    end_offset: 2131
+    content: "Current assets"
+  }
+}
+, annotation_spec_id: "1738076095351095296"
+display_name: "Goodwill"
+text_extraction {
+  score: 0.9858038425445557
+  text_segment {
+    start_offset: 2494
+    end_offset: 2502
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "4043919104564789248"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.6007187962532043
+  text_segment {
+    start_offset: 2676
+    end_offset: 2688
+    content: "Total assets"
+  }
+}
+, annotation_spec_id: "4332149480716500992"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.7637604475021362
+  text_segment {
+    start_offset: 2731
+    end_offset: 2758
+    content: "Consolidated Balance Sheets"
+  }
+}
+, annotation_spec_id: "8223259558764609536"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.9671339392662048
+  text_segment {
+    start_offset: 2964
+    end_offset: 2979
+    content: "Short-term debt"
+  }
+}
+, annotation_spec_id: "3179227976109654016"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9804360866546631
+  text_segment {
+    start_offset: 3034
+    end_offset: 3050
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "585154590744248320"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.5471083521842957
+  text_segment {
+    start_offset: 3063
+    end_offset: 3079
+    content: "Accrued expenses"
+  }
+}
+, annotation_spec_id: "7502683618385330176"
+display_name: "LongTermDebt"
+text_extraction {
+  score: 0.29143407940864563
+  text_segment {
+    start_offset: 3222
+    end_offset: 3243
+    content: "Long-term liabilities"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.9778526425361633
+  text_segment {
+    start_offset: 3908
+    end_offset: 3943
+    content: "Total liabilities and shareholders\342\200\231"
+  }
+}
+, annotation_spec_id: "873384966895960064"
+display_name: "DandA"
+text_extraction {
+  score: 0.911858320236206
+  text_segment {
+    start_offset: 4408
+    end_offset: 4437
+    content: "Depreciation and amortization"
+  }
+}
+, annotation_spec_id: "6061531737626771456"
+display_name: "TotalCapitalExpenditures"
+text_extraction {
+  score: 0.7187793254852295
+  text_segment {
+    start_offset: 5477
+    end_offset: 5497
+    content: "Capital expenditures"
+  }
+}
+, annotation_spec_id: "8655605122992177152"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.6049572825431824
+  text_segment {
+    start_offset: 5725
+    end_offset: 5780
+    content: "Proceeds from the sale of property, plant and equipment"
+  }
+}
+]

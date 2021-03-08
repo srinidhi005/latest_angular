@@ -1,0 +1,261 @@
+[annotation_spec_id: "7790913994537041920"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9849210977554321
+  text_segment {
+    start_offset: 579
+    end_offset: 595
+    content: "Operating income"
+  }
+}
+, annotation_spec_id: "5340955797247492096"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.863745391368866
+  text_segment {
+    start_offset: 702
+    end_offset: 718
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "4908610233019924480"
+display_name: "EBT"
+text_extraction {
+  score: 0.9898704886436462
+  text_segment {
+    start_offset: 740
+    end_offset: 780
+    content: "Income before provision for income taxes"
+  }
+}
+, annotation_spec_id: "7070338054157762560"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9676691293716431
+  text_segment {
+    start_offset: 807
+    end_offset: 833
+    content: "Provision for income taxes"
+  }
+}
+, annotation_spec_id: "7214453242233618432"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9573420286178589
+  text_segment {
+    start_offset: 858
+    end_offset: 868
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "8079144370688753664"
+display_name: "Company"
+text_extraction {
+  score: 0.9577082395553589
+  text_segment {
+    start_offset: 1121
+    end_offset: 1141
+    content: "HARLEY-DAVIDSON, INC"
+  }
+}
+, annotation_spec_id: "1305730531123527680"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9670870304107666
+  text_segment {
+    start_offset: 1143
+    end_offset: 1176
+    content: "CONSOLIDATED STATEMENTS OF INCOME"
+  }
+}
+, annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9999891519546509
+  text_segment {
+    start_offset: 1300
+    end_offset: 1325
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "3611573540337221632"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9987276792526245
+  text_segment {
+    start_offset: 1379
+    end_offset: 1398
+    content: "Accounts receivable"
+  }
+}
+, annotation_spec_id: "3611573540337221632"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9325309991836548
+  text_segment {
+    start_offset: 1420
+    end_offset: 1439
+    content: "Finance receivables"
+  }
+}
+, annotation_spec_id: "3467458352261365760"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9999569654464722
+  text_segment {
+    start_offset: 1465
+    end_offset: 1476
+    content: "Inventories"
+  }
+}
+, annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.7930734157562256
+  text_segment {
+    start_offset: 1493
+    end_offset: 1508
+    content: "Restricted cash"
+  }
+}
+, annotation_spec_id: "3035112788033798144"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9978204369544983
+  text_segment {
+    start_offset: 1560
+    end_offset: 1580
+    content: "Total current assets"
+  }
+}
+, annotation_spec_id: "2890997599957942272"
+display_name: "PPE"
+text_extraction {
+  score: 0.9999347925186157
+  text_segment {
+    start_offset: 1646
+    end_offset: 1680
+    content: "Property, plant and equipment, net"
+  }
+}
+, annotation_spec_id: "1738076095351095296"
+display_name: "Goodwill"
+text_extraction {
+  score: 0.9999786615371704
+  text_segment {
+    start_offset: 1728
+    end_offset: 1736
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "152809026516680704"
+display_name: "OtherAssets"
+text_extraction {
+  score: 0.9342848658561707
+  text_segment {
+    start_offset: 1789
+    end_offset: 1811
+    content: "Other long-term assets"
+  }
+}
+, annotation_spec_id: "3179227976109654016"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9999417662620544
+  text_segment {
+    start_offset: 1909
+    end_offset: 1925
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "585154590744248320"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9986989498138428
+  text_segment {
+    start_offset: 1946
+    end_offset: 1965
+    content: "Accrued liabilities"
+  }
+}
+, annotation_spec_id: "8223259558764609536"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.9817455410957336
+  text_segment {
+    start_offset: 1982
+    end_offset: 1997
+    content: "Short-term debt"
+  }
+}
+, annotation_spec_id: "8223259558764609536"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.9948071241378784
+  text_segment {
+    start_offset: 2018
+    end_offset: 2051
+    content: "Current portion of long-term debt"
+  }
+}
+, annotation_spec_id: "3755688728413077504"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9998390078544617
+  text_segment {
+    start_offset: 2077
+    end_offset: 2102
+    content: "Total current liabilities"
+  }
+}
+, annotation_spec_id: "7502683618385330176"
+display_name: "LongTermDebt"
+text_extraction {
+  score: 0.999543309211731
+  text_segment {
+    start_offset: 2123
+    end_offset: 2137
+    content: "Long-term debt"
+  }
+}
+, annotation_spec_id: "8943835499143888896"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9970349669456482
+  text_segment {
+    start_offset: 2706
+    end_offset: 2732
+    content: "Total shareholders\342\200\231 equity"
+  }
+}
+, annotation_spec_id: "4332149480716500992"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.8715420961380005
+  text_segment {
+    start_offset: 2800
+    end_offset: 2827
+    content: "CONSOLIDATED BALANCE SHEETS"
+  }
+}
+, annotation_spec_id: "8367374746840465408"
+display_name: "DividendsPaid"
+text_extraction {
+  score: 0.8469775319099426
+  text_segment {
+    start_offset: 3955
+    end_offset: 3969
+    content: "Dividends paid"
+  }
+}
+, annotation_spec_id: "729269778820104192"
+display_name: "ConsolidatedCashFlows"
+text_extraction {
+  score: 0.5669505000114441
+  text_segment {
+    start_offset: 5282
+    end_offset: 5319
+    content: "CONSOLIDATED STATEMENTS OF CASH FLOWS"
+  }
+}
+]

@@ -1,0 +1,71 @@
+[annotation_spec_id: "3611573540337221632"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9627941250801086
+  text_segment {
+    start_offset: 188
+    end_offset: 207
+    content: "Accounts Receivable"
+  }
+}
+, annotation_spec_id: "3035112788033798144"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9853715896606445
+  text_segment {
+    start_offset: 365
+    end_offset: 385
+    content: "Total Current Assets"
+  }
+}
+, annotation_spec_id: "1738076095351095296"
+display_name: "Goodwill"
+text_extraction {
+  score: 0.9113205075263977
+  text_segment {
+    start_offset: 547
+    end_offset: 555
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "4043919104564789248"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9290960431098938
+  text_segment {
+    start_offset: 649
+    end_offset: 661
+    content: "Total Assets"
+  }
+}
+, annotation_spec_id: "3755688728413077504"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9908896684646606
+  text_segment {
+    start_offset: 974
+    end_offset: 999
+    content: "Total Current Liabilities"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.3111588656902313
+  text_segment {
+    start_offset: 1121
+    end_offset: 1146
+    content: "Total Shareholders Equity"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.9992807507514954
+  text_segment {
+    start_offset: 1203
+    end_offset: 1244
+    content: "Total Liabilities and Shareholders Equity"
+  }
+}
+]

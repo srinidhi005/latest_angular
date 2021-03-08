@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import createAuth0Client from '@auth0/auth0-spa-js';
 import Auth0Client from '@auth0/auth0-spa-js/dist/typings/Auth0Client';
+import { ExcelService } from './shared/excel.service';
 import {
   from,
   of,
@@ -27,7 +28,9 @@ export class AuthService {
   loggedInUserRoles;
   loggedInUserId;
   loggedInUserDetails;
+  firstTimeLogin = false;
   currentUserRoles = [];
+  passwordChangeSubscriber = new Subject();
   profileSubscriber = new Subject();
   isAdmin: boolean;
   roleNames = ['SuperAdmin', 'User', 'Admin'];
@@ -65,7 +68,7 @@ export class AuthService {
   // Create a local property for login status
   loggedIn: boolean = null;
   roleIds = [];
-  constructor(private router: Router, private http: HttpClient, public snackBar: MatSnackBar) {
+  constructor(private router: Router, private http: HttpClient, public snackBar: MatSnackBar,private excelService : ExcelService) {
     // On initial load, check authentication state with authorization server
     // Set up local auth streams if user is already authenticated
     this.localAuthSetup();
@@ -109,15 +112,30 @@ export class AuthService {
         emailId.lastIndexOf('.')
       );
 
-      // this.getUserById(res.sub).subscribe((resp:any) => {
-      //   console.log("Succesfully fetched the user to fetch logins count", resp);
-        
-      //   if(resp.logins_count == 1){
-      //     this.openSnackBar("Please Update your Password");
-      //   }
-      // }, error => {
-      //   console.log("Failed to get the user to fetch logins count", error)
-      // })      
+      this.getUserById(res.sub).subscribe((resp:any) => {
+        console.log("Succesfully fetched the user to fetch logins count", resp);
+        //checking whether user logged for first time, then logins_count should be 1
+	  if(resp.body?.logins_count == 1){
+	  this.firstTimeLogin = true;
+	   this.passwordChangeSubscriber.next();
+	  // const dialogRef = this.excelService.showConfirmMessage("Do You wish to Update your Password?", "Yes", "No", '350px', '120px');
+	  // dialogRef.afterClosed().subscribe( action => {
+	  // if(action == "Yes"){
+	  // this.changePassword(this.loggedInUserDetails?.email).subscribe(res => {
+	  //   console.log("Sent a mail to update the password", res);
+	  //       this.openSnackBar("We have sent a link to your Email to update your password")
+	  // this.excelService.showMessage("We have sent an Email with a Link to Update your Password", "Ok", '350px', '160px')
+	  //  }, error => {
+	  //  console.log("Failed to send a mail to update the password", error);
+	  //    this.excelService.showMessage("We have sent an Email with a Link to Update your Password", "Ok", '350px', '160px')
+	  //   })
+	  //   }
+	  //  })
+
+	 }
+      }, error => {
+        console.log("Failed to get the user to fetch logins count", error)
+      })            
 
       localStorage.setItem('employer', employer);
       // this._setSession(res);
@@ -205,12 +223,10 @@ export class AuthService {
       localStorage.setItem('email', res.email);
       localStorage.setItem('picture', res.picture);
 
-      //checking whether user logged for first time, then logins_count should be 1
-      if(res.logins_count === 1){
-        this.openSnackBar("Please Update your Password");
-      }
+  
       this.profileSubscriber.next();
-    });
+	  });
+	 
 
     return this.auth0Client$.pipe(
       concatMap((client: Auth0Client) => from(client.getUser(options))),

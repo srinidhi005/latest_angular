@@ -7,6 +7,7 @@ import {
   MatSnackBarHorizontalPosition,
   MatSnackBarVerticalPosition,
 } from '@angular/material/snack-bar';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-company-details',
@@ -24,24 +25,7 @@ export class CompanyDetailsComponent implements OnInit {
   email: any;
   geography: any[] = ['APAC', 'EMEA', 'LATAM', 'NA'];
   companysize: any[] = ['1-10', '11-100', '101-1000', '1001-10000', '10000+'];
-  industry: any[] = [
-    'Communications',
-    'Consumer & Retail',
-    'Distribution & Logistics',
-    'Energy & Natural Resources',
-    'Entertainment & Media',
-    'Financial Institutions & Sponsors',
-    'Food & Beverage',
-    'General Services',
-    'Healthcare',
-    'Hospitality',
-    'Industrials',
-    'Power, Infrastructure & Utilities',
-    'Real Estate',
-    'Technology',
-    'Telecommunications',
-    'Transportation',
-  ];
+industry:any[]= ['Communication Services', 'Consumer Discretionary', 'Consumer Staples', 'Energy', 'Financials', 'Healthcare', 'Industrials', 'Information Technology', 'Materials', 'Pharmaceuticals', 'Real Estate', 'Utilities'];
   capatialization: any[] = ['USD 1M+', 'USD 10M+', 'USD 100M+'];
   revenue: any[] = [
     'Above USD 1M',
@@ -92,7 +76,8 @@ export class CompanyDetailsComponent implements OnInit {
   constructor(
     private RMIAPIsService: RMIAPIsService,
     private UrlConfigService: UrlConfigService,
-    private _snackBar: MatSnackBar
+    private _snackBar: MatSnackBar,
+    private router :Router
   ) {}
 
   ngOnInit(): void {
@@ -106,9 +91,9 @@ export class CompanyDetailsComponent implements OnInit {
         this.email
     ).subscribe((res: any) => {
       console.log(res);
-      this.firstname = res[0]?res[0].firstname:null;
-      this.lastname = res[0]?res[0].lastname:null;
-      this.title = res[0]?res[0].title:null;
+      this.firstname = res[0]?res[0].firstname:'';
+      this.lastname = res[0]?res[0].lastname:'';
+      this.title = res[0]?res[0].title:'';
       this.industryInput = res[0]?res[0].industry:'';
       this.zipcode = res[0]?res[0].zipcode:'';
       this.address = res[0]?res[0].address:'';
@@ -166,6 +151,10 @@ export class CompanyDetailsComponent implements OnInit {
     ).subscribe((res: any) => {
       this.inprogress = false;
     });
+  }
+
+  goToProfile(){
+    this.router.navigate(['/profile'])
   }
 }
 

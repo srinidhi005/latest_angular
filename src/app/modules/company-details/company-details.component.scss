@@ -12,6 +12,10 @@
   border-radius: 0;
 }
 
+.mat-card{
+  
+}
+
 .submit-action {
   margin-top: -70px;
   margin-right: 20px;
@@ -29,13 +33,13 @@
   width: 45%;
 }
 
-.title {
-  text-align: center;
-  font-family: Roboto, 'Helvetica Neue', sans-serif;
-  margin-top: 20px;
-  margin-bottom: 40px;
-  font-weight: 500;
-}
+// .title {
+//   text-align: center;
+//   font-family: Roboto, 'Helvetica Neue', sans-serif;
+//   margin-top: 20px;
+//   margin-bottom: 40px;
+//   font-weight: 500;
+// }
 mat-form-field {
   margin-top: 5px;
 }
@@ -71,7 +75,29 @@ button {
   align-items: unset;
   height: fit-content;
 }
+
+
+
+
+// .title {
+//   text-align: center;
+//   font-family: Roboto, 'Helvetica Neue', sans-serif;
+//   margin-top: 20px;
+//   margin-bottom: 40px;
+//   font-weight: 500;
+// }
+
+
 .company-profile-section {
   width: 90%;
-  margin: auto;
+  margin: 2% 5%;
+  padding: 3%;
+}
+
+.title {
+  text-align: center;
+  font-size: x-large;
+  margin: 15px auto;
+  font-family: Roboto,"Helvetica Neue",sans-serif;
+  font-weight: 400;
 }

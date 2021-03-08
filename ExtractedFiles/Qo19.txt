@@ -1,0 +1,126 @@
+
+Page#1
+Qorvo, Inc. and Subsidiaries Annual Report on Form 10-K 2019
+CONSOLIDATED BALANCE SHEETS
+March 30, March 31,
+2019 2018
+(In thousands, except per share data)
+ASSETS
+Current assets:
+Cash and cash equivalents (Notes 1 & 3) $ 711,035 $ 926,037
+Accounts receivable, less allowance of $40 and $134 as of March 30, 2019 and
+March 31, 2018, respectively 378,172 345,957
+Inventories (Notes 1 & 4) 511,793 472,292
+Prepaid expenses 25,766 23,909
+Other receivables (Note 1) 21,934 44,795
+Other current assets (Notes 1 & 9) 36,141 30,815
+Total current assets 1,684,841 1,843,805
+Property and equipment, net (Notes 1 & 5) 1,366,513 1,374,112
+Goodwill (Notes 1, 6 & 7) 2,173,889 2,173,889
+Intangible assets, net (Notes 1, 6 & 7) 408,210 860,336
+Long-term investments (Notes 1 & 3) 97,786 63,765
+Other non-current assets (Notes 9 & 12) 76,785 65,612
+Total assets $5,808,024 $6,381,519
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable $ 233,307 $ 213,193
+Accrued liabilities (Notes 1, 9 & 11) 160,516 167,182
+Other current liabilities (Note 12) 41,791 60,904
+Total current liabilities 435,614 441,279
+Long-term debt (Note 8) 919,270 983,290
+Deferred tax liabilities (Note 12) 333 63,084
+Other long-term liabilities (Notes 9, 11 & 12) 93,128 118,302
+Total liabilities 1,448,345 1,605,955
+Commitments and contingent liabilities (Note 10)
+Stockholders’ equity:
+Preferred stock, $.0001 par value; 5,000 shares authorized; no shares issued and
+outstanding — —
+Common stock and additional paid-in capital, $.0001 par value; 405,000 shares
+authorized; 119,063 and 126,322 shares issued and outstanding at March 30,
+2019 and March 31, 2018, respectively 4,687,455 5,237,085
+Accumulated other comprehensive loss, net of tax (6,624) (2,752)
+Accumulated deficit (321,152) (458,769)
+Total stockholders’ equity 4,359,679 4,775,564
+Total liabilities and stockholders’ equity $5,808,024 $6,381,519
+See accompanying notes.
+37
+Page#2
+Qorvo, Inc. and Subsidiaries Annual Report on Form 10-K 2019
+CONSOLIDATED STATEMENTS OF OPERATIONS
+Fiscal Year 2019 2018 2017
+(In thousands, except per share data)
+Revenue $3,090,325 $2,973,536 $3,032,574
+Cost of goods sold 1,895,142 1,826,570 1,897,062
+Gross profit 1,195,183 1,146,966 1,135,512
+Operating expenses:
+Research and development 450,482 445,103 470,836
+Selling, general and administrative 476,074 527,751 545,588
+Other operating expense (Note 11) 52,161 103,830 31,029
+Total operating expenses 978,717 1,076,684 1,047,453
+Operating income 216,466 70,282 88,059
+Interest expense (Note 8) (43,963) (59,548) (58,879)
+Interest income 10,971 7,017 1,212
+Other expense (Note 8) (91,682) (606) (3,087)
+Income before income taxes $ 91,792 $ 17,145 $ 27,305
+Income tax benefit (expense) (Note 12) 41,333 (57,433) (43,863)
+Net income (loss) $ 133,125 $ (40,288) $ (16,558)
+Net income (loss) per share (Note 13):
+Basic $ 1.07 $ (0.32) $ (0.13)
+Diluted $ 1.05 $ (0.32) $ (0.13)
+Weighted average shares of common stock outstanding (Note 13):
+Basic 124,534 126,946 127,121
+Diluted 127,356 126,946 127,121
+See accompanying notes.
+38
+Page#3
+Qorvo, Inc. and Subsidiaries Annual Report on Form 10-K 2019
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Fiscal Year 2019 2018 2017
+(In thousands)
+Cash flows from operating activities:
+Net income (loss) $ 133,125 $ (40,288) $ (16,558)
+Adjustments to reconcile net income (loss) to net cash provided by operating
+activities:
+Depreciation 208,646 174,425 209,825
+Intangible assets amortization (Note 7) 454,451 539,790 494,752
+Loss on debt extinguishment (Note 8) 90,201 928 —
+Deferred income taxes (70,169) (32,248) (28,027)
+Foreign currency adjustments (2,376) 953 (36)
+Asset impairment (Note 11) 15,901 46,315 —
+Stock-based compensation expense 71,580 68,158 88,845
+Other, net 5,087 3,792 7,122
+Changes in operating assets and liabilities:
+Accounts receivable, net (32,119) 12,906 (36,873)
+Inventories (39,590) (41,887) (6,442)
+Prepaid expenses and other current and non-current assets 13,343 28,310 20,285
+Accounts payable 15,167 38,952 (1,035)
+Accrued liabilities (3,899) (2,623) 26,866
+Income taxes payable and receivable (38,206) 50,801 13,414
+Other liabilities (10,778) 4,236 4,682
+Net cash provided by operating activities 810,364 852,520 776,820
+Investing activities:
+Purchase of property and equipment (220,937) (269,835) (552,702)
+Purchase of available-for-sale securities (132,732) — (469)
+Proceeds from sales and maturities of available-for-sale debt securities 133,132 — 186,793
+Purchase of business, net of cash acquired (Note 6) — — (117,994)
+Other investing (27,017) (7,574) (5,976)
+Net cash used in investing activities (247,554) (277,409) (490,348)
+Financing activities:
+Repurchase and payment of debt (Note 8) (1,050,680) (107,729) —
+Proceeds from debt issuances (Note 8) 905,350 100,000 —
+Repurchase of common stock, including transaction costs (Note 15) (638,074) (219,907) (209,357)
+Proceeds from the issuance of common stock 41,289 57,412 59,148
+Tax withholding paid on behalf of employees for restricted stock units (24,835) (24,708) (15,516)
+Other financing (9,714) (1,916) 75
+Net cash used in financing activities (776,664) (196,848) (165,650)
+Effect of exchange rate changes on cash (1,166) 2,360 (1,105)
+Net (decrease) increase in cash, cash equivalents and restricted cash (215,020) 380,623 119,717
+Cash, cash equivalents and restricted cash at the beginning of the period 926,402 545,779 426,062
+Cash, cash equivalents and restricted cash at the end of the period $ 711,382 $ 926,402 $ 545,779
+Supplemental disclosure of cash flow information:
+Cash paid during the year for interest $ 64,853 $ 70,208 $ 71,171
+Cash paid during the year for income taxes $ 69,453 $ 41,478 $ 52,656
+Non-cash investing and financing information:
+Capital expenditure adjustments included in liabilities $ 37,728 $ 31,769 $ 75,340
+See accompanying notes.
+41

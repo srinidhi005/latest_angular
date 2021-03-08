@@ -19,7 +19,7 @@ export class AddCompanyComponent implements OnInit {
   createdby: any;
   period:any[]=['Monthly', 'Quarterly', 'Yearly'];
   //accessType:any[]=['Public', 'Private'];
-  statementtype:any[]=['Private','Public'];
+  statementType:any[]=['Private','Public'];
   //industry:any[]=['Communications', 'Consumer & Retail','Distribution & Logistics', 'Energy & Natural Resources','Entertainment & Media','Financial Institutions & Sponsors', 'Food & Beverage', 'General Services', 'Healthcare','Hospitality','Industrials','Power, Infrastructure & Utilities','Real Estate','Technology','Telecommunications','Transportation']
   industry:any[]= ['Communication Services', 'Consumer Discretionary', 'Consumer Staples', 'Energy', 'Financials', 'Healthcare', 'Industrials', 'Information Technology', 'Materials', 'Pharmaceuticals', 'Real Estate', 'Utilities']
   inprogress: boolean = false;
@@ -27,7 +27,7 @@ export class AddCompanyComponent implements OnInit {
     file: new FormControl(null, [Validators.required]),
     companyname: new FormControl(null, [Validators.required]),
     period: new FormControl(null, [Validators.required]),
-    statementtype: new FormControl(null, [Validators.required]),
+    statementType: new FormControl(null, [Validators.required]),
     industry: new FormControl(null, [Validators.required]),
     // accessType: new FormControl(null, [Validators.required])
   });
@@ -65,7 +65,7 @@ export class AddCompanyComponent implements OnInit {
     }
     var postForm = new FormData();
     postForm.append("file", this.form.value.file);
-    postForm.append("statementtype", this.form.value.statementtype);
+    postForm.append("statementType", this.form.value.statementType);
     postForm.append("companyname", this.form.value.companyname);
     postForm.append("createdby", nickname);
     postForm.append("period", this.form.value.period);

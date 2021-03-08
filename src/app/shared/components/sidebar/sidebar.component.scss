@@ -48,4 +48,20 @@ mat-expansion-panel-header {
     height: unset !important;
     min-height: 48px;
   }
+
+
+}
+
+.selected{
+  background: #0e303c !important;
+}
+
+.selected-menu{
+  ::ng-deep .mat-list-item-content{
+    background-color: #0e303c !important;
+  }
+}
+
+::ng-deep .mat-list-item-content{
+  top: 10px;
 }

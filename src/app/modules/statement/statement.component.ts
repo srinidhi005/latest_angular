@@ -4,6 +4,9 @@ import { RMIAPIsService } from '../../shared/rmiapis.service';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { UserDetailModelService } from 'src/app/shared/user-detail-model.service';
 import { MatDialog } from '@angular/material/dialog';
+import { TutorialComponent } from 'src/app/modules/tutorial/tutorial.component'
+import { AuthService } from '../../auth.service';
+import { ExcelService } from 'src/app/shared/excel.service';
 import {
   MatSnackBar,
   MatSnackBarHorizontalPosition,
@@ -80,10 +83,29 @@ export class StatementComponent implements OnInit {
     private userDetailModelService: UserDetailModelService,
     private urlConfig: UrlConfigService,
     public dialog: MatDialog,
-    public formBuilder: FormBuilder,
-	private _snackBar: MatSnackBar,
+	  public formBuilder: FormBuilder,
+	  public authService: AuthService,
+	  private _snackBar: MatSnackBar,
+	  public excelService : ExcelService,
   ) {}
-  ngOnInit(): void {
+	  ngOnInit(): void {
+	  this.excelService.selectedDashboardMenu == 'MyCompanies'
+	this.authService.passwordChangeSubscriber.subscribe( res => {
+    if(this.authService.firstTimeLogin){
+      let dialogRef = this.dialog.open(TutorialComponent, { 
+        width: '70%',
+        height:'80%' 
+      }); 
+    
+      dialogRef.afterClosed().subscribe(result => { 
+        // this.animal = result; 
+      }); 
+     }
+   })
+
+
+
+
 	ELEMENT_DATA.length=0;
     const nickname = localStorage.getItem('nickname');
     this.progressBar = true;

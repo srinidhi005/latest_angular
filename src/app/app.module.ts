@@ -28,6 +28,8 @@ import { RMIAPIsService } from './shared/rmiapis.service';
 import { UrlConfigService } from './shared/url-config.service';
 import { UserManagementComponent } from './modules/user-management/user-management.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+//import { SubscriptionComponent } from './modules/subscription/subscription.component';
+//import { MessagePopupComponent } from './modules/message-popup/message-popup.component';
 declare var Chargebee: any;
 
 @NgModule({
@@ -39,6 +41,8 @@ declare var Chargebee: any;
     AuthLoginComponent,
    // ProfileComponent,
     UserManagementComponent,
+  // SubscriptionComponent,
+  // MessagePopupComponent,
    
   ],
   imports: [

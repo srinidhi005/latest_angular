@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { ExcelService } from 'src/app/shared/excel.service';
 
 @Component({
   selector: 'app-credit-scorecard',
@@ -7,9 +8,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CreditScorecardComponent implements OnInit {
 
-  constructor() { }
+  constructor(public excelService : ExcelService) { }
 
   ngOnInit(): void {
+this.excelService.selectedDashboardMenu = 'scorecard'
   }
 
 }

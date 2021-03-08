@@ -1,16 +1,14 @@
-<div fxLayout="row" class="header">
+
+<div class="row" style="height: 30px;">
+  <div class="col"><h4>Adjust Income Statement Drivers</h4></div>
+  <div class="col-3" style="text-align: right;">
+    <div class="actuals"></div> <div class="labels" style="margin-right: 40px;">Historical</div>
+    <div class="projections"></div> <div class="labels" style="margin-right: 10px;">Projection</div>
+  </div>
+</div>
+<div fxLayout="row" class="header" style="margin-bottom: 10px">
   <div fxLayout="row" fxLayoutAlign="start center">
-    <span style="font-weight:bold">{{ companySelected }} - {{loadedScenario}} - </span><button mat-button
-      [matMenuTriggerFor]="tabMenus">Adjust Income Statement Drivers
-      <mat-icon matSuffix>
-        keyboard_arrow_down</mat-icon>
-    </button>
-    <mat-menu #tabMenus="matMenu" xPosition="after">
-      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsBS'>Adjust Balance Sheet
-        Drivers</button>
-      <button mat-menu-item routerLinkActive="list-item-active" routerLink="/visualsCF">Adjust Cash Flow
-        Drivers</button>
-    </mat-menu>
+    <span style="font-weight:bold">{{ companySelected }} - {{loadedScenario}}  </span>
   </div>
   <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px">
     <button mat-button (click)="addScenario()" [disabled]="inprogress" matTooltip="Add Scenario"
@@ -31,7 +29,7 @@
       </button>
     </mat-menu>
 
-    <button mat-button [matMenuTriggerFor]="afterMenu">Metrics <mat-icon matSuffix>keyboard_arrow_down</mat-icon>
+    <button mat-button [matMenuTriggerFor]="afterMenu">Financial Statements <mat-icon matSuffix>keyboard_arrow_down</mat-icon>
     </button>
 
     <mat-menu #afterMenu="matMenu" xPosition="after">
@@ -40,6 +38,19 @@
       <button mat-menu-item routerLinkActive="list-item-active" routerLink='/BalanceSheetMetrics'>Balance Sheet</button>
       <button mat-menu-item routerLinkActive="list-item-active" routerLink='/cashmetrics'>Cash Flow Statement</button>
     </mat-menu>
+	<button mat-button
+      [matMenuTriggerFor]="tabMenus" style="padding: 0; margin: 0px;">Visuals
+      <mat-icon matSuffix>
+        keyboard_arrow_down</mat-icon>
+    </button>
+    <mat-menu #tabMenus="matMenu" xPosition="after">
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsIS'>Income
+        Statement</button>
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsBS'>Balance Sheet</button>
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsCF'>Cash Flow Statement</button>
+    </mat-menu>
+
+
   </div>
 </div>
 
@@ -82,7 +93,10 @@
     </mat-card>
   </div>
 </div>
-<p class="projections-title">Annual Projections</p>
+
+<div class="row separator">
+</div>
+<p class="projections-title" style="font-size: 16px; font-weight: bold; margin-top:-10px;">Annual Projections</p>
 <div class="content" fxLayout="row wrap" fxLayoutGap="16px grid">
   <div fxFlex.xs="100%" fxFlex="33.3%" fxFlex.sm="33.3%">
     <mat-card class="mat-elevation-z4">

@@ -1,0 +1,291 @@
+[annotation_spec_id: "6853749656648679424"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.5549740791320801
+  text_segment {
+    start_offset: 100
+    end_offset: 126
+    content: "consolidated balance sheet"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.5038008689880371
+  text_segment {
+    start_offset: 216
+    end_offset: 249
+    content: "consolidated statements of income"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9899993538856506
+  text_segment {
+    start_offset: 553
+    end_offset: 585
+    content: "Consolidated Statement of Income"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9653791785240173
+  text_segment {
+    start_offset: 586
+    end_offset: 620
+    content: "Merck & Co., Inc. and Subsidiaries"
+  }
+}
+, annotation_spec_id: "3276756856516640768"
+display_name: "Units"
+text_extraction {
+  score: 0.6473146080970764
+  text_segment {
+    start_offset: 651
+    end_offset: 659
+    content: "millions"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999973177909851
+  text_segment {
+    start_offset: 701
+    end_offset: 706
+    content: "Sales"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.9993519186973572
+  text_segment {
+    start_offset: 707
+    end_offset: 708
+    content: "$"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9940642714500427
+  text_segment {
+    start_offset: 1001
+    end_offset: 1020
+    content: "Income Before Taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9986037611961365
+  text_segment {
+    start_offset: 1040
+    end_offset: 1055
+    content: "Taxes on Income"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9998500943183899
+  text_segment {
+    start_offset: 1070
+    end_offset: 1080
+    content: "Net Income"
+  }
+}
+, annotation_spec_id: "6853749656648679424"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9999868273735046
+  text_segment {
+    start_offset: 2243
+    end_offset: 2269
+    content: "Consolidated Balance Sheet"
+  }
+}
+, annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9999997615814209
+  text_segment {
+    start_offset: 2390
+    end_offset: 2415
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9999832510948181
+  text_segment {
+    start_offset: 2467
+    end_offset: 2486
+    content: "Accounts receivable"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9785773158073425
+  text_segment {
+    start_offset: 2571
+    end_offset: 2590
+    content: "accounts receivable"
+  }
+}
+, annotation_spec_id: "4428420519821312000"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9932615160942078
+  text_segment {
+    start_offset: 2646
+    end_offset: 2657
+    content: "Inventories"
+  }
+}
+, annotation_spec_id: "4428420519821312000"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9419645667076111
+  text_segment {
+    start_offset: 2668
+    end_offset: 2679
+    content: "inventories"
+  }
+}
+, annotation_spec_id: "7495512603548975104"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9999850988388062
+  text_segment {
+    start_offset: 2803
+    end_offset: 2823
+    content: "Total current assets"
+  }
+}
+, annotation_spec_id: "83994991780691968"
+display_name: "Goodwill"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 3109
+    end_offset: 3117
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "6103759581203136512"
+display_name: "IntangibleAssets"
+text_extraction {
+  score: 0.9998321533203125
+  text_segment {
+    start_offset: 3132
+    end_offset: 3154
+    content: "Other Intangibles, Net"
+  }
+}
+, annotation_spec_id: "3788271655990591488"
+display_name: "OtherAssets"
+text_extraction {
+  score: 0.999992311000824
+  text_segment {
+    start_offset: 3169
+    end_offset: 3181
+    content: "Other Assets"
+  }
+}
+, annotation_spec_id: "5429345537004404736"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.8194140195846558
+  text_segment {
+    start_offset: 3256
+    end_offset: 3307
+    content: "Loans payable and current portion of long-term debt"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9999885559082031
+  text_segment {
+    start_offset: 3328
+    end_offset: 3344
+    content: "accounts payable"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.997549295425415
+  text_segment {
+    start_offset: 3357
+    end_offset: 3394
+    content: "Accrued and other current liabilities"
+  }
+}
+, annotation_spec_id: "3789331585199767552"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9999992251396179
+  text_segment {
+    start_offset: 3472
+    end_offset: 3497
+    content: "Total current liabilities"
+  }
+}
+, annotation_spec_id: "2337624392814559232"
+display_name: "LongTermDebt"
+text_extraction {
+  score: 0.9999963641166687
+  text_segment {
+    start_offset: 3512
+    end_offset: 3526
+    content: "Long-Term Debt"
+  }
+}
+, annotation_spec_id: "8415372827439398912"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9991551041603088
+  text_segment {
+    start_offset: 4106
+    end_offset: 4118
+    content: "Total equity"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.8237528204917908
+  text_segment {
+    start_offset: 4453
+    end_offset: 4482
+    content: "Depreciation and amortization"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9936880469322205
+  text_segment {
+    start_offset: 5251
+    end_offset: 5267
+    content: "accounts payable"
+  }
+}
+, annotation_spec_id: "2768997988763172864"
+display_name: "DividendsPaid"
+text_extraction {
+  score: 0.9845472574234009
+  text_segment {
+    start_offset: 6565
+    end_offset: 6595
+    content: "Dividends paid to stockholders"
+  }
+}
+]

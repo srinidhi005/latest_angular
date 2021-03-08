@@ -385,13 +385,29 @@ export class VisualsCfComponent implements OnInit {
 
                 this.DPOptions = {
                   chart: { type: 'areaspline', animation: false },
-                  title: { text: 'Dividend Paid' },
+                  title: { text: 'Dividends Paid' },
                   yAxis: {
-                    title: { text: 'USD' },
+		    title: { text: 'USD',
+			 style: {
+                        fontSize: '14px',
+                      } 
+		 },
+                    labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
 		    min: 0,
 		    tickInterval:50,
                   },
-                  xAxis: { categories: this.yearsArray },
+		  xAxis: { categories: this.yearsArray,
+		labels:{
+			style:{
+				fontSize:'13px'
+				}
+					  
+				  },
+		 },
                   plotOptions: {
                     series: {
                       ...seriesOption,
@@ -465,14 +481,32 @@ export class VisualsCfComponent implements OnInit {
                 };
                 this.CPOptions = {
                   chart: { type: 'areaspline', animation: false },
-                  title: { text: 'Capex (% Revenue)' },
+		  title: { text: 'Capex (% of Revenue)',
+			style: {
+                        fontSize: '14px',
+                      }  
+		 },
                   yAxis: {
-                    title: { text: 'As % of Revenue' },
+		    title: { text: 'As % of Revenue' },
+		                    labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
                     min: 0,
                     max: 50,
                     tickInterval: 10,
                   },
-                  xAxis: { categories: this.yearsArray },
+		  xAxis: { categories: this.yearsArray,
+
+		labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+
+		},
                   plotOptions: {
                     series: {
                       ...seriesOption,
@@ -542,15 +576,31 @@ export class VisualsCfComponent implements OnInit {
                 };
                 this.ASOptions = {
                   chart: { type: 'areaspline', animation: false },
-                  title: { text: 'Asset Sales (% Revenue)' },
-                  yAxis: {
-                    title: { text: 'As % of Revenue' },
+                  title: { text: 'Asset Sales (% of Revenue)' },
+                  yAxis: 	{
+		    title: { text: 'As % of Revenue',
+			style: {
+                        fontSize: '14px',
+                      }  
+		},
+			labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
 
                     min: 0,
                     max: 50,
                     tickInterval: 10,
                   },
-                  xAxis: { categories: this.yearsArray },
+		  xAxis: { categories: this.yearsArray,
+		labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+		},
                   plotOptions: {
                     series: {
                       ...seriesOption,
@@ -621,14 +671,22 @@ export class VisualsCfComponent implements OnInit {
                 };
                 this.OIAOptions = {
                   chart: { type: 'areaspline', animation: false },
-                  title: { text: 'Other Investing Activites (% Revenue)' },
+                  title: { text: 'Other Investing Activities (% of Revenue)' },
                   yAxis: {
-                    title: { text: 'As (% Revenue)' },
+                    title: { text: 'As % of Revenue' },
                     min: -30,
                     max: 30,
                     tickInterval: 10,
                   },
-                  xAxis: { categories: this.yearsArray },
+		  xAxis: { categories: this.yearsArray,
+		labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+
+		},
                   plotOptions: {
                     series: {
                       ...seriesOption,
@@ -826,8 +884,26 @@ export class VisualsCfComponent implements OnInit {
     this.CFOOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'Cash Flow from Operating Activities ("CFO")' },
-      yAxis: { title: { text: 'USD' } },
-      xAxis: { categories: this.yearsArray },
+      yAxis: { title: { text: 'USD',
+	style: {
+                        fontSize: '14px',
+                      }  
+	 } ,
+	labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
+	},
+      xAxis: { categories: this.yearsArray,
+	labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+	
+	},
       plotOptions: {
         series: { stickyTracking: false, pointWidth: 35 },
         column: {
@@ -861,8 +937,25 @@ export class VisualsCfComponent implements OnInit {
     this.CFIOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'Cash Flow from Investing Activities ("CFI")' },
-      yAxis: { title: { text: 'USD' } },
-      xAxis: { categories: this.yearsArray },
+      yAxis: { title: { text: 'USD',
+		style: {
+                        fontSize: '14px',
+                      }  
+		 },
+	 labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
+	 },
+      xAxis: { categories: this.yearsArray,
+	labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+	},
       plotOptions: {
         series: { stickyTracking: false, pointWidth: 35 },
         column: {
@@ -896,8 +989,26 @@ export class VisualsCfComponent implements OnInit {
     this.CFFOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'Cash Flow from Financing Activities ("CFF")' },
-      yAxis: { title: { text: 'USD' } },
-      xAxis: { categories: this.yearsArray },
+      yAxis: { title: { text: 'USD',
+	style:{fontSize:'14px'
+	 },
+	},
+	labels:{
+		 style:{
+			fontSize:'13px'
+			}
+					  
+				  },
+	 },
+      xAxis: { categories: this.yearsArray,
+	labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+
+	 },
       plotOptions: {
         series: { stickyTracking: false, pointWidth: 35 },
         column: {
@@ -931,8 +1042,27 @@ export class VisualsCfComponent implements OnInit {
     this.NCOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'Net Change in Cash' },
-      yAxis: { title: { text: 'USD' } },
-      xAxis: { categories: this.yearsArray },
+      yAxis: { title: { text: 'USD',
+	style: {
+                        fontSize: '14px',
+                      }
+	 },
+
+	 labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
+	},
+      xAxis: { categories: this.yearsArray,
+	labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+
+	 },
       plotOptions: {
         series: { stickyTracking: false, pointWidth: 33 },
 

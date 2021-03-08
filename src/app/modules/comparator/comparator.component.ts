@@ -8,6 +8,7 @@ import pdfMake from 'pdfmake/build/pdfmake';
 import pdfFonts from 'pdfmake/build/vfs_fonts';
 pdfMake.vfs = pdfFonts.pdfMake.vfs;
 import { cloneDeep } from 'lodash';
+import { ExcelService } from 'src/app/shared/excel.service';
 
 @Component({
   selector: 'app-comparator',
@@ -16,7 +17,7 @@ import { cloneDeep } from 'lodash';
 })
 export class ComparatorComponent implements OnInit {
 
-  constructor(private urlConfig : UrlConfigService, private apiService : RMIAPIsService) { }
+  constructor(private urlConfig : UrlConfigService, private apiService : RMIAPIsService,public excelService : ExcelService) { }
 
 
   selectedCompanyOne;
@@ -58,7 +59,8 @@ export class ComparatorComponent implements OnInit {
 
   filteredOptions: Observable<any>;
 
-  ngOnInit(): void {
+	  ngOnInit(): void {
+	  this.excelService.selectedDashboardMenu = 'comparator'
     this.progressBar = true;
     this.nickname = localStorage.getItem('nickname');
 
@@ -81,6 +83,13 @@ export class ComparatorComponent implements OnInit {
 
   async loadCompany(type, srcObj, index){
     console.log(this.myControl);
+	let loadedCompScenarios = [0];
+    try {
+      const scenarios : any = await this.apiService.getData(this.urlConfig.getScenarioAPI()+srcObj.companyname).toPromise();
+      loadedCompScenarios = scenarios.scenarios;
+    } catch (error) {
+      console.log("failed to fetch Scenarios for Comp One", error)
+    }
     this.progressBar = true;
     let selectedComp;
     let selectedScenario;
@@ -111,21 +120,25 @@ export class ComparatorComponent implements OnInit {
         this.selectedCompanyOne = cloneDeep(srcObj)
         selectedComp = srcObj
         selectedScenario = this.selectedSenarioForCompOne
+		this.scenariosForCompanyOne = loadedCompScenarios
       }
       else if(index == 2){
         this.selectedCompanyTwo = cloneDeep(srcObj)
         selectedComp = srcObj
         selectedScenario = this.selectedSenarioForCompTwo
+		  this.scenariosForCompanyTwo = loadedCompScenarios
       }
       else if(index == 3){
         this.selectedCompanyThree = cloneDeep(srcObj)
         selectedComp = srcObj
         selectedScenario = this.selectedSenarioForCompThree
+		  this.scenariosForCompanyThree = loadedCompScenarios
       }
 	  else {
         this.selectedCompanyFour = cloneDeep(srcObj)
         selectedComp = srcObj
         selectedScenario = this.selectedSenarioForCompFour
+		  this.scenariosForCompanyFour = loadedCompScenarios
       }
     }
 
@@ -310,7 +323,7 @@ exportToPDF() {
         return {text: "", bold: true, fillColor: '#164A5B', color: "#fff", margin: [10, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
       }
       else{
-        return {text: "Scenario[(" + name + ")]", bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10], alignment: "center"}
+        return {text: "Scenario " + name , bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10], alignment: "center"}
       }
     })
 

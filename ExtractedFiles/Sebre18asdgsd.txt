@@ -1,0 +1,252 @@
+
+Page#1
+SABRE CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except per share amounts)
+ Year Ended December 31,
+ 
+2018 2017 2016
+Revenue  
+$ 3,866,956 $ 3,598,484 $ 3,373,387
+  
+Cost of revenue 2,791,414 2,513,857 2,287,662
+  
+Selling, general and administrative 513,526 510,075 626,153
+  
+Impairment and related charges — 81,112 —
+Operating income  
+562,016 493,440 459,572
+Other (expense) income: 
+Interest expense, net  
+(157,017) (153,925) (158,251)
+Loss on extinguishment of debt  
+(633) (1,012) (3,683)
+Joint venture equity income  
+2,556 2,580 2,780
+Other, net  
+(8,509) 36,530 27,617
+Total other expense, net  
+(163,603) (115,827) (131,537)
+Income from continuing operations before income taxes  
+398,413 377,613 328,035
+Provision for income taxes  
+57,492 128,037 86,645
+Income from continuing operations  
+340,921 249,576 241,390
+Income (loss) from discontinued operations, net of tax  
+1,739 (1,932) 5,549
+Net income  
+342,660 247,644 246,939
+Net income attributable to noncontrolling interests  
+5,129 5,113 4,377
+Net income attributable to common stockholders $ 337,531  $ 242,531  $ 242,562
+ 
+Basic net income per share attributable to common stockholders: 
+Income from continuing operations  
+$ 1.22 $ 0.88 $ 0.85
+Income (loss) from discontinued operations  
+0.01 (0.01) 0.02
+Net income per common share $ 1.23  $ 0.87  $ 0.87
+Diluted net income per share attributable to common stockholders:
+ 
+Income from continuing operations  
+$ 1.21 $ 0.88 $ 0.84
+Income (loss) from discontinued operations  
+0.01 (0.01) 0.02
+Net income per common share $ 1.22  $ 0.87  $ 0.86
+Weighted-average common shares outstanding:
+ 
+Basic  
+275,235 276,893 277,546
+Diluted  
+277,518 278,320 282,752
+ 
+Dividend per common share  
+$ 0.56 $ 0.56 $ 0.52
+See Notes to Consolidated Financial Statements.
+64
+Page#2
+SABRE CORPORATION
+CONSOLIDATED BALANCE SHEETS
+(In thousands)
+ December 31,
+ 2018  2017
+Assets 
+Current assets 
+Cash and cash equivalents 
+$ 509,265 $ 361,381
+Accounts receivable, net 
+508,122 490,558
+Prepaid expenses and other current assets 
+170,243 108,753
+Total current assets 
+1,187,630 960,692
+Property and equipment, net 
+790,372 799,194
+Investments in joint ventures 
+27,769 27,527
+Goodwill 
+2,552,369 2,554,987
+Acquired customer relationships, net 
+323,731 351,034
+Other intangible assets, net 
+289,517 332,171
+Deferred income taxes 
+24,322 31,817
+Other assets, net 
+610,671 591,942
+Total assets $ 5,806,381  $ 5,649,364
+ 
+Liabilities and stockholders’ equity 
+Current liabilities 
+Accounts payable 
+$ 165,227 $ 162,755
+Accrued compensation and related benefits 
+112,866 112,343
+Accrued subscriber incentives 
+301,530 271,200
+Deferred revenues 
+80,902 110,532
+Other accrued liabilities 
+185,178 198,353
+Current portion of debt 
+68,435 57,138
+Tax Receivable Agreement 
+104,257 59,826
+Total current liabilities 
+1,018,395 972,147
+Deferred income taxes 
+135,753 99,801
+Other noncurrent liabilities 
+340,495 480,185
+Long-term debt 
+3,337,467 3,398,731
+Commitments and contingencies (Note 15) 
+Stockholders’ equity 
+Common stock: $0.01 par value; 450,000 authorized shares; 291,664 and 289,138 shares issued, 275,352 and
+ 
+274,342 shares outstanding at December 31, 2018 and 2017, respectively 2,917 2,891
+Additional paid-in capital 
+2,243,419 2,174,187
+Treasury stock, at cost, 16,312 and 14,796 shares at December 31, 2018 and 2017, respectively 
+(377,980) (341,846)
+Retained deficit 
+(768,566) (1,053,446)
+Accumulated other comprehensive loss 
+(132,724) (88,484)
+Noncontrolling interest 
+7,205 5,198
+Total stockholders’ equity 
+974,271 698,500
+Total liabilities and stockholders’ equity $ 5,806,381  $ 5,649,364
+See Notes to Consolidated Financial Statements.
+66
+Page#3
+SABRE CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+ 
+Year Ended December 31,
+ 
+2018 2017 2016
+Operating Activities 
+Net income  
+$ 342,660 $ 247,644 $ 246,939
+Adjustments to reconcile net income to cash provided by operating activities: 
+Depreciation and amortization  
+413,344 400,871 413,986
+Amortization of upfront incentive consideration  
+77,622 67,411 55,724
+Stock-based compensation expense  
+57,263 44,689 48,524
+Deferred income taxes  
+43,099 48,760 48,454
+Allowance for doubtful accounts  
+7,749 9,459 10,567
+Tax Receivable Agreement  
+4,852 (59,603) —
+Amortization of debt issuance costs  
+3,981 5,923 9,611
+Joint venture equity income  
+(2,556) (2,580) (2,780)
+(Income) loss from discontinued operations  
+(1,739) 1,932 (5,549)
+Debt modification costs  
+1,558 14,758 —
+Dividends received from joint venture investments  
+1,411 1,088 640
+Loss on extinguishment of debt  
+633 1,012 3,683
+Impairment and related charges  
+— 81,112 —
+Litigation-related credits  
+— — (25,527)
+Other  
+(2,349) 13,284 (5,426)
+Changes in operating assets and liabilities: 
+Accounts and other receivables  
+(45,586) (108,596) (12,949)
+Prepaid expenses and other current assets  
+14,362 109 (11,809)
+Capitalized implementation costs  
+(39,168) (60,766) (83,405)
+Upfront incentive consideration  
+(88,735) (94,296) (70,702)
+Other assets  
+(29,607) (21,111) (2,799)
+Accounts payable and other accrued liabilities  
+(27,080) 67,034 56,787
+Accrued compensation and related benefits  
+(15,044) 6,038 2,768
+Deferred revenue including upfront solution fees  
+8,127 13,861 22,663
+Cash provided by operating activities  
+724,797 678,033 699,400
+Investing Activities 
+Additions to property and equipment  
+(283,940) (316,436) (327,647)
+Acquisitions, net of cash acquired  
+— — (164,120)
+Proceeds from sale of marketable securities  
+— — 45,959
+Other investing activities  
+8,681 (1,089) —
+Cash used in investing activities  
+(275,259) (317,525) (445,808)
+Financing Activities 
+Cash dividends paid to common stockholders  
+(154,080) (154,861) (144,355)
+Repurchase of common stock  
+(26,281) (109,100) (100,000)
+Payments on Tax Receivable Agreement  
+(58,908) (99,241) —
+Payments on borrowings from lenders  
+(47,310) (1,880,506) (999,868)
+Debt issuance and modification costs  
+(1,567) (19,052) (11,377)
+Net receipts on the settlement of equity-based awards  
+2,040 12,647 27,344
+Proceeds of borrowings from lenders  
+— 1,897,625 1,055,000
+Other financing activities  
+(20,400) (4,292) (16,769)
+Cash used in financing activities  
+(306,506) (356,780) (190,025)
+Cash Flows from Discontinued Operations 
+Cash provided by (used in) operating activities  
+(1,895) (4,848) (19,478)
+Cash provided by (used in) discontinued operations  
+(1,895) (4,848) (19,478)
+Effect of exchange rate changes on cash and cash equivalents  
+6,747 (1,613) (1,107)
+Increase (decrease) in cash and cash equivalents  
+147,884 (2,733) 42,982
+Cash and cash equivalents at beginning of period  
+361,381 364,114 321,132
+Cash and cash equivalents at end of period $ 509,265  $ 361,381  $ 364,114
+  
+Cash payments for income taxes $ 57,629 $ 40,211 $ 39,032
+  
+Cash payments for interest $ 156,041 $ 149,572 $ 151,495
+  
+Capitalized interest $ 8,823 $ 11,142 $ 13,887

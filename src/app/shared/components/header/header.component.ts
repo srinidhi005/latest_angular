@@ -3,6 +3,7 @@ import {TooltipPosition} from '@angular/material/tooltip';
 import { MatCardModule } from '@angular/material/card';
 import {FormControl} from '@angular/forms';
 import {Observable} from 'rxjs';
+import { Router } from '@angular/router';
 import {map, startWith} from 'rxjs/operators';
 import {UserDetailModelService} from '../../user-detail-model.service';
 import { AuthService } from '../../../auth.service';
@@ -29,7 +30,7 @@ export class HeaderComponent implements OnInit {
   @ViewChild('script') script: ElementRef;
   
 
-  constructor( private apiService:RMIAPIsService,
+  constructor( private apiService:RMIAPIsService,private router : Router,
     private urlConfig:UrlConfigService,public auth: AuthService) {
 	//	this.loadScripts()
 	}
@@ -65,13 +66,14 @@ export class HeaderComponent implements OnInit {
     cart.replaceProduct(product);
     cart.proceedToCheckout();
   }
-   SmallBusiness() {
+	  SmallBusiness() {
+	  this.router.navigate(['/subscribe']);
     // see https://www.chargebee.com/checkout-portal-docs/drop-in-tutorial.html#simulating-drop-in-script-functionality-with-your-button
-     let cbInstance = Chargebee.getInstance();
-    let cart = cbInstance.getCart();
-    let product = cbInstance.initializeProduct("small-business-owner");
-    cart.replaceProduct(product);
-    cart.proceedToCheckout();
+	  // let cbInstance = Chargebee.getInstance();
+	  // let cart = cbInstance.getCart();
+	  // let product = cbInstance.initializeProduct("small-business-owner");
+	  // cart.replaceProduct(product);
+	  // cart.proceedToCheckout();
   }
 
   toggleSideBar() {

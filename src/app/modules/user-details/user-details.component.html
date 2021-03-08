@@ -1,56 +1,75 @@
+<div class="row" style="margin: 1% auto;">
+  <div class="col"></div>
+  <div class="col-2">
+    <button mat-raised-button (click)="changePassword()" style="background: #164A5B; color: #fff">
+      Change Password
+    </button>
+  </div>
+</div>
 <div class="example-container profile-page">
   <form [formGroup]="form" (ngSubmit)="submit()">
-    <mat-grid-list cols="2">
+    <!-- <mat-grid-list cols="2">
       <mat-grid-tile>
-        <mat-card>
-          <mat-card-content>
-            <h2 class="title">Personal Info</h2>
-            <mat-form-field class="container-field">
-              <mat-label>User ID</mat-label>
-              <input matInput disabled formControlName="userid" [(ngModel)]=userid />
-              <mat-error *ngIf="form.get('userid').hasError('required')">
-                Fill User Name without special characters
-              </mat-error>
-            </mat-form-field>
-            <mat-form-field class="container-field">
-              <mat-label>Email</mat-label>
-              <input matInput disabled formControlName="email" [(ngModel)]=email disabled />
-              <mat-error *ngIf="form.get('email').hasError('required')">
-                Fill email
-              </mat-error>
-            </mat-form-field>
-
-            <mat-form-field class="container-field">
-              <mat-label>First Name</mat-label>
-              <input matInput formControlName="firstname" [(ngModel)]=firstname />
-              <mat-error *ngIf="form.get('firstname').hasError('required')">
-                Fill User Name without special characters
-              </mat-error>
-            </mat-form-field>
-            <mat-form-field class="container-field">
-              <mat-label>Last Name</mat-label>
-              <input matInput formControlName="lastname" [(ngModel)]=lastname />
-              <mat-error *ngIf="form.get('lastname').hasError('required')">
-                Fill User Name without special characters
-              </mat-error>
-            </mat-form-field>
-            <mat-form-field class="container-field tel-input-container">
-              <input matInput formControlName="contactnumber" type="text" placeholder="Phone Number" ng2TelInput
-                [(ngModel)]=contact />
-            </mat-form-field>
-          </mat-card-content>
-        </mat-card>
+        
       </mat-grid-tile>
       
-    </mat-grid-list>
-    <div class="submit-action" style="
-    position: absolute;
-    right: 0px;
-    top: 100px;">
-      <mat-spinner *ngIf="inprogress" style="margin-right: 50px;" diameter="20"></mat-spinner>
-      <button [disabled]="inprogress" class="upload-btn" mat-stroked-button type="submit" mat-raised-button>
+    </mat-grid-list> -->
+
+    <mat-card>
+      <mat-card-content>
+        <h2 class="title">Personal Info</h2>
+        <mat-form-field class="container-field">
+          <mat-label>User ID</mat-label>
+          <input matInput formControlName="userid" [(ngModel)]=userid />
+          <mat-error *ngIf="form.get('userid').hasError('required')">
+            Fill User Name without special characters
+          </mat-error>
+        </mat-form-field>
+        <mat-form-field class="container-field">
+          <mat-label>Email</mat-label>
+          <input matInput disabled formControlName="email" [(ngModel)]=email />
+          <mat-error *ngIf="form.get('email').hasError('required')">
+            Fill email
+          </mat-error>
+        </mat-form-field>
+
+        <mat-form-field class="container-field">
+          <mat-label>First Name</mat-label>
+          <input matInput formControlName="firstname" [(ngModel)]=firstname />
+          <mat-error *ngIf="form.get('firstname').hasError('required')">
+            Fill User Name without special characters
+          </mat-error>
+        </mat-form-field>
+        <mat-form-field class="container-field">
+          <mat-label>Last Name</mat-label>
+          <input matInput formControlName="lastname" [(ngModel)]=lastname />
+          <mat-error *ngIf="form.get('lastname').hasError('required')">
+            Fill User Name without special characters
+          </mat-error>
+        </mat-form-field>
+        <mat-form-field class="container-field tel-input-container">
+          <input matInput formControlName="contactnumber" type="text" placeholder="Phone Number" ng2TelInput
+            [(ngModel)]=contact />
+        </mat-form-field>
+        <mat-form-field class="container-field">
+          <mat-select placeholder="Gender" formControlName="gender">
+            <mat-option *ngFor="let gen of gender" [value]="gen">{{gen}}</mat-option>
+          </mat-select>
+          <!-- <mat-error *ngIf="form.get('genderV').hasError('required')">
+            Gender is Required!
+          </mat-error> -->
+        </mat-form-field>
+      </mat-card-content>
+    </mat-card>
+    <div class="row" style="padding-left: 45%;">
+      <button  class="upload-btn" mat-stroked-button type="submit" mat-raised-button>
         Save
+        <mat-spinner *ngIf = "inprogress" style="margin-top: 8px; padding: 3px 8px; margin-left: 10px; display: inline;" diameter="20"></mat-spinner>
       </button>
-    </div>
+     
+      <button  class="upload-btn" mat-stroked-button mat-raised-button (click) = "goToProfile()">
+        Cancel
+      </button>
+   </div>
   </form>
 </div>

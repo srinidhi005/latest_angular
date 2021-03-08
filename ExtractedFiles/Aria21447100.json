@@ -1,0 +1,21 @@
+[annotation_spec_id: "5917416549550915584"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.24663427472114563
+  text_segment {
+    start_offset: 107
+    end_offset: 119
+    content: "Total Income"
+  }
+}
+, annotation_spec_id: "2026306471502807040"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.686314582824707
+  text_segment {
+    start_offset: 2263
+    end_offset: 2275
+    content: "Gross Profit"
+  }
+}
+]

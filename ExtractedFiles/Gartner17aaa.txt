@@ -1,0 +1,163 @@
+
+Page#1
+GARTNER, INC.
+CONSOLIDATED BALANCE SHEETS
+(IN THOUSANDS, EXCEPT SHARE DATA)
+ 
+ December 31,
+ 2017 2016
+ASSETS  
+Current assets:  
+Cash and cash equivalents $ 538,908 $ 474,233
+Fees receivable, net of allowances of $12,700 and $7,400 respectively 1,176,843 643,013
+Deferred commissions 205,260 141,410
+Prepaid expenses and other current assets 124,632 84,540
+Assets held-for-sale 542,965 —
+Total current assets 2,588,608 1,343,196
+Property, equipment and leasehold improvements, net 221,507 121,606
+Goodwill 2,987,294 738,453
+Intangible assets, net 1,292,022 76,801
+Other assets 193,742 87,279
+Total Assets $ 7,283,173 $ 2,367,335
+LIABILITIES AND STOCKHOLDERS’ EQUITY  
+Current liabilities:  
+Accounts payable and accrued liabilities $ 666,821 $ 440,771
+Deferred revenues 1,630,198 989,478
+Current portion of long-term debt 379,721 30,000
+Liabilities held-for-sale 145,845 —
+Total current liabilities 2,822,585 1,460,249
+Long-term debt, net of deferred financing fees 2,899,124 664,391
+Other liabilities 577,999 181,817
+Total Liabilities 6,299,708 2,306,457
+Stockholders’ Equity:  
+Preferred stock:  
+$.01 par value, authorized 5,000,000 shares; none issued or outstanding — —
+Common stock:  
+$.0005 par value, authorized 250,000,000 shares for both periods; 163,602,067 shares
+issued at December 31, 2017 and 156,234,415 shares issued at December 31, 2016 82 78
+Additional paid-in capital 1,761,383 863,127
+Accumulated other comprehensive income (loss), net 1,508 (49,683)
+Accumulated earnings 1,647,284 1,644,005
+Treasury stock, at cost, 72,779,205 and 73,583,172 common shares, respectively (2,426,792) (2,396,649)
+Total Stockholders’ Equity 983,465 60,878
+Total Liabilities and Stockholders’ Equity $ 7,283,173 $ 2,367,335
+ 
+See Notes to Consolidated Financial Statements.
+46
+Page#2
+GARTNER, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(IN THOUSANDS, EXCEPT PER SHARE DATA)
+ 
+ Year Ended December 31,
+ 2017 2016 2015
+Revenues: 
+Research $ 2,471,280 $ 1,857,001 $ 1,614,904
+Consulting 327,661 318,934 296,317
+Events 337,903 268,605 251,835
+Talent Assessment & Other 174,650 — —
+Total revenues 3,311,494 2,444,540 2,163,056
+Costs and expenses: 
+Cost of services and product development 1,320,198 945,648 839,076
+Selling, general and administrative 1,599,004 1,089,184 962,677
+Depreciation 63,897 37,172 33,789
+Amortization of intangibles 176,274 24,797 13,342
+Acquisition and integration charges 158,450 42,598 26,175
+Total costs and expenses 3,317,823 2,139,399 1,875,059
+Operating (loss) income (6,329) 305,141 287,997
+Interest income 3,011 2,449 1,766
+Interest expense (127,947) (27,565) (22,548)
+Other income, net 3,448 8,406 4,996
+(Loss) income before income taxes (127,817) 288,431 272,211
+(Benefit) provision for income taxes (131,096) 94,849 96,576
+Net income $ 3,279 $ 193,582 $ 175,635
+Net income per share: 
+Basic $ 0.04 $ 2.34 $ 2.09
+Diluted $ 0.04 $ 2.31 $ 2.06
+Weighted average shares outstanding: 
+Basic 88,466 82,571 83,852
+Diluted 89,790 83,820 85,056
+ 
+See Notes to Consolidated Financial Statements.
+47
+Page#3
+GARTNER, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY (DEFICIT)
+(IN THOUSANDS)
+ 
+Accumulated
+Other Total
+Additional Comprehensive Stockholders’
+Common Paid-In Income (Loss), Accumulated Treasury Equity 
+ Stock Capital Net Earnings Stock (Deficit)
+Balance at December 31, 2014 $ 78 $ 764,433 $ (21,170) $ 1,275,049 $(1,857,219) $ 161,171
+Net income — — — 175,635 — 175,635
+Other comprehensive loss — — (23,232) — — (23,232)
+Issuances under stock plans — (5,964) — — 13,495 7,531
+Stock compensation tax benefits — 13,928 — — — 13,928
+Common share repurchases — — — — (513,582) (513,582)
+Stock compensation expense — 46,149 — — — 46,149
+Balance at December 31, 2015 $ 78 $ 818,546 $ (44,402) $ 1,450,684 $(2,357,306) $ (132,400)
+Adoption of ASU No. 2016-09 — — — (261) — (261)
+Net income — — — 193,582 — 193,582
+Other comprehensive loss — — (5,281) — — (5,281)
+Issuances under stock plans — (2,080) — — 12,419 10,339
+Common share repurchases — — — — (51,762) (51,762)
+Stock compensation expense — 46,661 — — — 46,661
+Balance at December 31, 2016 $ 78 $ 863,127 $ (49,683) $ 1,644,005 $(2,396,649) $ 60,878
+Net income — — — 3,279 — 3,279
+Other comprehensive income — — 51,191 — — 51,191
+Issuances under stock plans and
+for acquisition 4 819,313 — — 11,129 830,446
+Common share repurchases — — — — (41,272) (41,272)
+Stock compensation expense — 78,943 — — — 78,943
+Balance at December 31, 2017 $ 82 $ 1,761,383 $ 1,508 $ 1,647,284 $(2,426,792) $ 983,465
+ 
+See Notes to Consolidated Financial Statements 
+49
+Page#4
+GARTNER, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(IN THOUSANDS) 
+ Year Ended December 31,
+ 2017 2016 2015
+Operating activities: 
+Net income $ 3,279 $ 193,582 $ 175,635
+Adjustments to reconcile net income to net cash provided by operating
+activities: 
+Depreciation and amortization 240,171 61,969 47,131
+Stock-based compensation expense 78,943 46,661 46,149
+Excess tax benefits from stock-based compensation exercises — — (13,860)
+Deferred taxes (217,414) (2,648) 344
+Gain on extinguishment of debt — (2,500) —
+Amortization and write-off of deferred financing fees 15,062 3,082 1,512
+Changes in assets and liabilities, net of acquisitions: 
+Fees receivable, net (368,516) (68,661) (44,476)
+Deferred commissions (61,393) (18,673) (13,236)
+Prepaid expenses and other current assets 13,251 (21,604) (13,268)
+Other assets (18,529) 20,005 (14,733)
+Deferred revenues 382,852 97,979 91,840
+Accounts payable, accrued, and other liabilities 186,811 56,440 82,523
+Cash provided by operating activities 254,517 365,632 345,561
+Investing activities: 
+Additions to property, equipment and leasehold improvements (110,765) (49,863) (46,128)
+Acquisitions - cash paid (net of cash acquired) (2,634,809) (34,186) (196,229)
+Cash used in investing activities (2,745,574) (84,049) (242,357)
+Financing activities: 
+Proceeds from employee stock purchase plan 11,711 9,250 7,499
+Proceeds from borrowings 3,025,000 715,000 440,000
+Payments for deferred financing fees (51,171) (4,975) —
+Payments on borrowings (404,438) (835,000) (20,000)
+Purchases of treasury stock (41,272) (58,961) (509,049)
+Excess tax benefits from stock-based compensation exercises — — 13,860
+Cash provided by (used in) financing activities 2,539,830 (174,686) (67,690)
+Net increase in cash and cash equivalents 48,773 106,897 35,514
+Effects of exchange rates on cash and cash equivalents 25,902 (5,640) (27,840)
+Cash and cash equivalents, beginning of period 474,233 372,976 365,302
+Cash and cash equivalents, end of period $ 548,908 $ 474,233 $ 372,976
+Supplemental disclosures of cash flow information: 
+Cash paid during the period for: 
+Interest $ 98,500 $ 23,400 $ 21,200
+Income taxes, net of refunds received $ 76,100 $ 86,300 $ 83,500
+See Notes to Consolidated Financial Statements.
+50

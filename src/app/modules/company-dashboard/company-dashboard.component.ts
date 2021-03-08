@@ -1,6 +1,7 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { Subscription } from 'rxjs';
+import { ExcelService } from 'src/app/shared/excel.service';
 @Component({
   selector: 'app-company-dashboard',
   templateUrl: './company-dashboard.component.html',
@@ -11,11 +12,12 @@ export class CompanyDashboardComponent implements OnInit, OnDestroy {
   companyName;
   scenario;
   activateRouteSubscription: Subscription;
-  constructor(private activatedRoute: ActivatedRoute) {}
+  constructor(private activatedRoute: ActivatedRoute,public excelService : ExcelService) {}
 
   ngOnInit() {
     this.activateRouteSubscription = this.activatedRoute.params.subscribe(
       (params: any) => {
+	this.excelService.selectedDashboardMenu = params.companyName
         this.companyName = params.companyName;
         this.scenario = params.scenario;
         this.reloadPage();

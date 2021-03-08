@@ -1,0 +1,261 @@
+[annotation_spec_id: "4332149480716500992"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9997654557228088
+  text_segment {
+    start_offset: 55
+    end_offset: 82
+    content: "CONSOLIDATED BALANCE SHEETS"
+  }
+}
+, annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9998852610588074
+  text_segment {
+    start_offset: 216
+    end_offset: 241
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "3035112788033798144"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9999805688858032
+  text_segment {
+    start_offset: 496
+    end_offset: 516
+    content: "Total current assets"
+  }
+}
+, annotation_spec_id: "2890997599957942272"
+display_name: "PPE"
+text_extraction {
+  score: 0.9987906813621521
+  text_segment {
+    start_offset: 559
+    end_offset: 596
+    content: "Property, software and equipment, net"
+  }
+}
+, annotation_spec_id: "1738076095351095296"
+display_name: "Goodwill"
+text_extraction {
+  score: 0.9999995231628418
+  text_segment {
+    start_offset: 597
+    end_offset: 605
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "1449845719199383552"
+display_name: "IntangibleAssets"
+text_extraction {
+  score: 0.9956719875335693
+  text_segment {
+    start_offset: 606
+    end_offset: 623
+    content: "Intangible assets"
+  }
+}
+, annotation_spec_id: "4043919104564789248"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9999192357063293
+  text_segment {
+    start_offset: 654
+    end_offset: 666
+    content: "Total assets"
+  }
+}
+, annotation_spec_id: "3179227976109654016"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9990428686141968
+  text_segment {
+    start_offset: 789
+    end_offset: 805
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "585154590744248320"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.5785810947418213
+  text_segment {
+    start_offset: 810
+    end_offset: 826
+    content: "accrued expenses"
+  }
+}
+, annotation_spec_id: "8223259558764609536"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.9976918697357178
+  text_segment {
+    start_offset: 870
+    end_offset: 903
+    content: "Current portion of long-term debt"
+  }
+}
+, annotation_spec_id: "3755688728413077504"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.5615390539169312
+  text_segment {
+    start_offset: 904
+    end_offset: 929
+    content: "Total current liabilities"
+  }
+}
+, annotation_spec_id: "7502683618385330176"
+display_name: "LongTermDebt"
+text_extraction {
+  score: 0.9996042251586914
+  text_segment {
+    start_offset: 930
+    end_offset: 944
+    content: "Long-term debt"
+  }
+}
+, annotation_spec_id: "296924214592536576"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.9999902248382568
+  text_segment {
+    start_offset: 973
+    end_offset: 990
+    content: "Total liabilities"
+  }
+}
+, annotation_spec_id: "8943835499143888896"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9983951449394226
+  text_segment {
+    start_offset: 1602
+    end_offset: 1628
+    content: "Total stockholders\' equity"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.999622642993927
+  text_segment {
+    start_offset: 1629
+    end_offset: 1708
+    content: "Total liabilities, redeemable noncontrolling interests and stockholders\' equity"
+  }
+}
+, annotation_spec_id: "8079144370688753664"
+display_name: "Company"
+text_extraction {
+  score: 0.9608343243598938
+  text_segment {
+    start_offset: 1985
+    end_offset: 2004
+    content: "CENTENE CORPORATION"
+  }
+}
+, annotation_spec_id: "1305730531123527680"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9451322555541992
+  text_segment {
+    start_offset: 2022
+    end_offset: 2059
+    content: "CONSOLIDATED STATEMENTS OF OPERATIONS"
+  }
+}
+, annotation_spec_id: "2458652035730374656"
+display_name: "Units"
+text_extraction {
+  score: 0.9936560392379761
+  text_segment {
+    start_offset: 2064
+    end_offset: 2072
+    content: "millions"
+  }
+}
+, annotation_spec_id: "4764495044944068608"
+display_name: "SGA"
+text_extraction {
+  score: 0.9902206659317017
+  text_segment {
+    start_offset: 2417
+    end_offset: 2461
+    content: "Selling, general and administrative expenses"
+  }
+}
+, annotation_spec_id: "7790913994537041920"
+display_name: "EBIT"
+text_extraction {
+  score: 0.8105764985084534
+  text_segment {
+    start_offset: 2577
+    end_offset: 2601
+    content: "Earnings from operations"
+  }
+}
+, annotation_spec_id: "4908610233019924480"
+display_name: "EBT"
+text_extraction {
+  score: 0.4415507912635803
+  text_segment {
+    start_offset: 2671
+    end_offset: 2722
+    content: "Earnings from operations, before income tax expense"
+  }
+}
+, annotation_spec_id: "7070338054157762560"
+display_name: "Taxes"
+text_extraction {
+  score: 0.7824979424476624
+  text_segment {
+    start_offset: 2723
+    end_offset: 2741
+    content: "Income tax expense"
+  }
+}
+, annotation_spec_id: "873384966895960064"
+display_name: "DandA"
+text_extraction {
+  score: 0.8955485224723816
+  text_segment {
+    start_offset: 3793
+    end_offset: 3822
+    content: "Depreciation and amortization"
+  }
+}
+, annotation_spec_id: "6061531737626771456"
+display_name: "TotalCapitalExpenditures"
+text_extraction {
+  score: 0.7088119983673096
+  text_segment {
+    start_offset: 4197
+    end_offset: 4217
+    content: "Capital expenditures"
+  }
+}
+, annotation_spec_id: "8655605122992177152"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.7905226945877075
+  text_segment {
+    start_offset: 4243
+    end_offset: 4278
+    content: "Sales and maturities of investments"
+  }
+}
+, annotation_spec_id: "5485070985323347968"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.9965704679489136
+  text_segment {
+    start_offset: 4361
+    end_offset: 4398
+    content: "Net cash used in investing activities"
+  }
+}
+]

@@ -16,10 +16,8 @@
   background-color: #3f4069;
 }
 
-.or{
-  position: absolute;
-  left: 180px;
-  top: 120px;
+.or span{
+  margin: 20px auto;
 }
 
 .fake-btn {
@@ -27,30 +25,31 @@
   border: 1px solid #9e9ec4;
   border-radius: 3px;
   padding: 8px 15px;
-  // margin-right: 8px;
+  margin: auto 80px;
   font-size: 12px;
   text-transform: capitalize;
   // margin-left: 28%;
-  position: absolute;
-  top: 70px;
-  left: 135px;
+  // position: absolute;
+  // top: 70px;
+  // left: 135px;
 }
 
 .file-msg {
   font-size: small;
   font-weight: 300;
   white-space: nowrap;
-  margin-left: 30%;
-  position: absolute;
-    top: 150px;
-    left: 27px;
+  width: 100%;
+  // margin-left: 30%;
+  // position: absolute;
+  //   top: 150px;
+  //   left: 27px;
     font-size: 16px;
-
+  margin: auto;
 //   overflow: hidden;
   text-overflow: ellipsis;
   display: inline-block;
-  max-width: calc(100% - 130px);
-  vertical-align: middle;
+  // max-width: calc(100% - 130px);
+  // vertical-align: middle;
   text-align: center;
 }
 

@@ -26,6 +26,7 @@ import { DcfComponent } from 'src/app/modules/dcf/dcf.component';
 import { CompanyDetailsComponent } from 'src/app/modules/company-details/company-details.component';
 import { CreditScorecardComponent } from 'src/app/modules/credit-scorecard/credit-scorecard.component';
 import { ComparatorComponent } from 'src/app/modules/comparator/comparator.component';
+import { SubscriptionComponent } from './modules/subscription/subscription.component';
 const routes: Routes = [
   {
     path: '',
@@ -71,6 +72,12 @@ const routes: Routes = [
 	  component:ComparatorComponent,
 	  canActivate: [AuthGuard],
 	  },
+
+	{
+        path: 'subscribe',
+        component: SubscriptionComponent,
+        canActivate: [AuthGuard],
+      },
 	  {
 	  path: 'Users',
 	  component:UserManagementComponent,

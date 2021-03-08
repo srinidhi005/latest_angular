@@ -2,8 +2,10 @@ import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { MessagePopupComponent } from 'src/app/modules/message-popup/message-popup.component';
 import { CompanyDetailsComponent } from 'src/app/modules/company-details/company-details.component';
 import { ProfileComponent } from 'src/app/modules/profile/profile.component';
+import { TutorialComponent } from 'src/app/modules/tutorial/tutorial.component';
 import {
   MatButtonModule,
   MatCardModule,
@@ -93,18 +95,22 @@ import { SolvencyRatiosComponent } from 'src/app/modules/ratios/solvency-ratios/
 import { ParseNumberPipe } from 'src/app/pipes/parse-number.pipe';
 import { CashflowKPIComponent } from 'src/app/modules/company-dashboard/cashflow/cashflow.component';
 import { ComparatorComponent } from 'src/app/modules/comparator/comparator.component';
+import { SubscriptionComponent } from 'src/app/modules/subscription/subscription.component';
 
 @NgModule({
   declarations: [
     DefaultComponent,
+    MessagePopupComponent,
     StatementComponent,
+    TutorialComponent, 
     DialogElementsExampleDialog,
-	snackBarStatementFailure,
+    snackBarStatementFailure,
     uploadSnackBarStatementComponent,
     uploadFailureSnackBarStatementComponent,
     uploadSnackBarISComponent,
     uploadFailureSnackBarISComponent,
     uploadSnackBarBSComponent,
+    SubscriptionComponent,
     VisualCFInputDialogComponent,
     uploadFailureSnackBarBSComponent,
     uploadSnackBarISAddComponent,
@@ -118,7 +124,7 @@ import { ComparatorComponent } from 'src/app/modules/comparator/comparator.compo
     VisualsISComponent,
     PLMetricsComponent,
     BsmetricsComponent,
-CompanyDetailsComponent,
+    CompanyDetailsComponent,
 	ProfileComponent,
     VisualsBsComponent,
     KpiIsComponent,
@@ -183,6 +189,7 @@ CompanyDetailsComponent,
   entryComponents: [
     StatementComponent,
     VisualsISComponent,
+    MessagePopupComponent,
     DialogElementsExampleDialog,
     VisualCFInputDialogComponent,
     uploadSnackBarISComponent,

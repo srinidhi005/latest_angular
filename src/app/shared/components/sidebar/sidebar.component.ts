@@ -5,6 +5,7 @@ import { AuthService } from 'src/app/auth.service';
 import { RMIAPIsService } from '../../rmiapis.service';
 import { UrlConfigService } from '../../url-config.service';
 import { UserDetailModelService } from '../../user-detail-model.service';
+import { ExcelService } from '../../excel.service';
 interface ITopCompanies {
   companyName: string;
   scenarios: any[];
@@ -23,7 +24,8 @@ export class SidebarComponent implements OnInit, OnDestroy {
     private apiService: RMIAPIsService,
     private urlConfig: UrlConfigService,
     private router: Router,
-    public auth : AuthService
+    public auth : AuthService,
+    public excelService : ExcelService,
   ) {}
 
   ngOnInit() {

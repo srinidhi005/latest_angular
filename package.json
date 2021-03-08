@@ -27,6 +27,7 @@
     "@auth0/auth0-angular": "^1.2.0",
     "@chargebee/chargebee-js-angular-wrapper": "^0.3.0",
     "@ng-bootstrap/ng-bootstrap": "^9.0.1",
+    "@password-generator/package": "^2.1.2",
     "@types/jquery": "^3.5.1",
     "Buffer": "0.0.0",
     "bootstrap": "^4.5.0",

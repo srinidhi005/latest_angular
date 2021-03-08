@@ -3,7 +3,9 @@ import * as FileSaver from 'file-saver';
  import * as Excel from "exceljs/dist/exceljs.min.js"
 // import * as XLSX from 'xlsx';
 import { Workbook } from 'exceljs';
+import { MessagePopupComponent } from '../modules/message-popup/message-popup.component';
 //import { UserDetailModelService } from './shared/user-detail-model.service';
+import { MatDialog, MatDialogRef } from '@angular/material';
 
 const EXCEL_TYPE = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;charset=UTF-8';
 const EXCEL_EXTENSION = '.xlsx';
@@ -16,14 +18,14 @@ const EXCEL_EXTENSION = '.xlsx';
 export class ExcelService {
 
 	//constructor(private userDetailModelService : UserDetailModelService) { }
-	constructor(){}
+	constructor(private dialog: MatDialog){}
 
 
   returnRatiosData = [];
   liquidityRatiosData = [];
   solvencyRatiosData = [];
   profitabilityRatiosData = []
-
+  selectedDashboardMenu;
 
   public exportAsExcelFile(json: any[], excelFileName: string, headersArray: any[],  companyName: string,scenarioName: string): void {
 
@@ -72,7 +74,16 @@ export class ExcelService {
             if((rowNum == 4 || rowNum == 6 || rowNum == 7 || rowNum == 9 
               || rowNum == 10 || rowNum == 12 || rowNum == 13 || rowNum == 15 || rowNum == 16||rowNum == 17  ||rowNum == 19||rowNum == 20)){
               if(cellNum > 1){
-                Cell.numFmt = '$#,###;-$#,###;$0'
+                if(Cell.value > 0){
+            Cell.numFmt = '$#,###';
+          }
+          else if(Cell.value < 0){
+            Cell.value = (+Cell.value) * -1
+            Cell.numFmt = '($#,###)'
+          }
+          else if(Cell.value == 0){
+            Cell.numFmt = '$0'
+          }
               }
             }
             else{
@@ -171,7 +182,16 @@ export class ExcelService {
 			|| rowNum == 11 || rowNum == 12 || rowNum == 13 || rowNum == 14 ||  rowNum == 15 || rowNum == 16 || rowNum == 17 
 			|| rowNum == 18 || rowNum == 19 ||  rowNum == 20 ||   rowNum == 21 || rowNum == 22 || rowNum == 23 || rowNum == 24 )){
               if(cellNum > 1){
-                Cell.numFmt = '$#,###;-$#,###;$0'
+               if(Cell.value > 0){
+            Cell.numFmt = '$#,###';
+          }
+          else if(Cell.value < 0){
+            Cell.value = (+Cell.value) * -1
+            Cell.numFmt = '($#,###)'
+          }
+          else if(Cell.value == 0){
+            Cell.numFmt = '$0'
+          }
               }
             }
             else{
@@ -265,7 +285,16 @@ export class ExcelService {
 			|| rowNum == 11 || rowNum == 12 || rowNum == 13 || rowNum == 14 ||  rowNum == 15 || rowNum == 16 || rowNum == 17 
 			|| rowNum == 18 || rowNum == 19 ||  rowNum == 20 ||   rowNum == 21 || rowNum == 22  )){
               if(cellNum > 1){
-                Cell.numFmt = '$#,###;-$#,###;$0'
+               if(Cell.value > 0){
+            Cell.numFmt = '$#,###';
+          }
+          else if(Cell.value < 0){
+            Cell.value = (+Cell.value) * -1
+            Cell.numFmt = '($#,###)'
+          }
+          else if(Cell.value == 0){
+            Cell.numFmt = '$0'
+          }
               }
             }
             else{
@@ -346,4 +375,50 @@ export class ExcelService {
   //   window.URL.revokeObjectURL(url);
   //   a.remove();
   // }
+
+
+
+
+
+public showMessage(message, okButton, width, height, error?): MatDialogRef<any> {
+    this.dialog.closeAll();
+
+    return this.dialog.open(MessagePopupComponent, {
+      data: {
+        okButtonMsg: okButton,
+        dialogMsg: message,
+        error: error
+      },
+      height: height,
+      width: width,
+      disableClose: true
+    }, );
+  }
+
+  public showConfirmMessage(message, okButton, noButton, width, height) {
+    this.dialog.closeAll();
+    
+    return this.dialog.open(MessagePopupComponent, {        
+          data : {
+            okButtonMsg: okButton,
+            noButtonMsg: noButton,
+            dialogMsg: message
+          },
+          height: height,
+           width: width,
+          disableClose: true
+        });
+  }
+
+  public closeAllPopups() {
+    this.dialog.closeAll();
+  }
+
+
+
+
+
+
+
+
 }

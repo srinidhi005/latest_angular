@@ -17,6 +17,7 @@ export class RatiosComponent implements OnInit, OnDestroy {
   projections = [];
   scenarioArray = [];
   selectedScenario;
+  companySelected = "";
   selectedCompanyName = localStorage.getItem('selectedCompanyName');
   RatioScenarionSubscription: Subscription;
   RatioActualsSubscription: Subscription;
@@ -24,10 +25,12 @@ export class RatiosComponent implements OnInit, OnDestroy {
   constructor(private rmiApiService: RMIAPIsService, private excelService : ExcelService) {}
 
   ngOnInit() {
+this.excelService.selectedDashboardMenu = 'ratios'
     this.getData();
   }
   getData() {
     const companySelected = localStorage.getItem('companySelected'); // 'nike-2018';
+  	this.companySelected = companySelected
     this.RatioScenarionSubscription = this.rmiApiService
       .getData(`ratios-scenarios?company=${companySelected}`)
       .subscribe((scenario: any) => {

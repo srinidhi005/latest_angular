@@ -100,6 +100,7 @@ export class DcfComponent implements OnInit {
 
 
   ngOnInit() {
+    this.excelService.selectedDashboardMenu = 'dcf'
     if (this.UserDetailModelService.selectedScenarioIndex >= 0) {
       this.scenario = this.UserDetailModelService.selectedScenarioIndex;
     }

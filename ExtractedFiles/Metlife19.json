@@ -1,0 +1,161 @@
+[annotation_spec_id: "6853749656648679424"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9999999403953552
+  text_segment {
+    start_offset: 32
+    end_offset: 59
+    content: "Consolidated Balance Sheets"
+  }
+}
+, annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.5575147271156311
+  text_segment {
+    start_offset: 1285
+    end_offset: 1310
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "83994991780691968"
+display_name: "Goodwill"
+text_extraction {
+  score: 0.995779275894165
+  text_segment {
+    start_offset: 1662
+    end_offset: 1670
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "3788271655990591488"
+display_name: "OtherAssets"
+text_extraction {
+  score: 0.8436012268066406
+  text_segment {
+    start_offset: 1671
+    end_offset: 1683
+    content: "Other assets"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.9951686263084412
+  text_segment {
+    start_offset: 2656
+    end_offset: 2673
+    content: "Total liabilities"
+  }
+}
+, annotation_spec_id: "8415372827439398912"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.999779999256134
+  text_segment {
+    start_offset: 3284
+    end_offset: 3296
+    content: "Total equity"
+  }
+}
+, annotation_spec_id: "1975506835276300288"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.9999881982803345
+  text_segment {
+    start_offset: 3297
+    end_offset: 3325
+    content: "Total liabilities and equity"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.8611788153648376
+  text_segment {
+    start_offset: 3567
+    end_offset: 3580
+    content: "MetLife, Inc."
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9311679005622864
+  text_segment {
+    start_offset: 4330
+    end_offset: 4344
+    content: "Total revenues"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9235477447509766
+  text_segment {
+    start_offset: 4575
+    end_offset: 4589
+    content: "Total expenses"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.6150412559509277
+  text_segment {
+    start_offset: 4611
+    end_offset: 4683
+    content: "Income (loss) from continuing operations before provision for income tax"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9819830060005188
+  text_segment {
+    start_offset: 4702
+    end_offset: 4744
+    content: "Provision for income tax expense (benefit)"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9430209994316101
+  text_segment {
+    start_offset: 4913
+    end_offset: 4930
+    content: "Net income (loss)"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.6739314794540405
+  text_segment {
+    start_offset: 5829
+    end_offset: 5867
+    content: "Depreciation and amortization expenses"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.5063998103141785
+  text_segment {
+    start_offset: 7335
+    end_offset: 7373
+    content: "maturity securities available-for-sale"
+  }
+}
+, annotation_spec_id: "3979340388618993664"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.9999229907989502
+  text_segment {
+    start_offset: 8028
+    end_offset: 8079
+    content: "Net cash provided by (used in) investing activities"
+  }
+}
+]

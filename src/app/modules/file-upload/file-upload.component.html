@@ -1,4 +1,4 @@
-<div class="file-drop-area">
+<!-- <div class=" row file-drop-area">
   <span class="fake-btn">Choose file</span>
   <br>
   <br>
@@ -9,5 +9,26 @@
     file ? file.name : "Drop file here"
   }}</span>
   <input class="file-input" type="file" #uploadFile/>
-</div>
+</div> -->
 
+<div class=" row file-drop-area">
+  <div class="col">
+    <div class="row fake-btn">
+      <span>
+        Choose file
+      </span>
+    </div>
+   
+    <div class="row or">
+      <span>
+        or
+      </span>
+    </div>
+    <div class="row file-msg">
+      <span>
+        {{ file ? file.name : "Drop file here" }}
+      </span>
+    </div>
+    <input class="file-input" type="file" #uploadFile />
+  </div>
+</div>

@@ -273,9 +273,12 @@ export class VisualsISComponent implements OnInit {
     this.projectionsYearsArray = [];
     let previousAmount;
     if (scenarioNumber >= 0) {
-      this.scenario = scenarioNumber;
-      this.loadedScenario = 'Scenario ' + this.scenario;
-    }
+      this.scenarioSelected = scenarioNumber;
+	if(this.scenarioSelected==null){
+        	this.scenarioSelected='0';
+      }
+	this.loadedScenario = 'Scenario ' + this.scenarioSelected;
+         }
     this.apiService
       .getData(this.urlConfig.getIsActualsAPI() + this.companySelected)
       .subscribe((res: any) => {
@@ -320,7 +323,10 @@ export class VisualsISComponent implements OnInit {
                   this.scenarioSelected
               )
               .subscribe((res: any) => {
-                this.progressBar = false;
+		this.progressBar = false;
+	 if(this.scenarioSelected==null){
+                  this.scenarioSelected='0';
+                }
                 this.loadedScenario = 'Scenario ' + this.scenarioSelected;
 
                 let totalRevenue = 0;
@@ -441,12 +447,29 @@ export class VisualsISComponent implements OnInit {
                   chart: { type: 'areaspline', animation: false },
                   title: { text: 'Revenue Growth' },
                   yAxis: {
-                    title: { text: 'In Percentage %' },
+		    title: { text: 'In Percentage %',
+			style: {
+                        fontSize: '14px',
+                      }  
+		 },
+		labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
+
                     min: -150,
                     max: 150,
                     tickInterval: 50,
                   },
-                  xAxis: { categories: this.projectionsYearsArray },
+		  xAxis: { categories: this.projectionsYearsArray,
+			labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+		 },
                   plotOptions: {
                     series: {
                       ...seriesOption,
@@ -542,12 +565,29 @@ export class VisualsISComponent implements OnInit {
                   chart: { type: 'areaspline', animation: false },
                   title: { text: 'COGS (% Revenue)' },
                   yAxis: {
-                    title: { text: 'As % of Revenue' },
+		    title: { text: 'As % of Revenue',
+		style: {
+                        fontSize: '14px',
+                      }  
+		 },
+		labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
+
                     min: 0,
                     max: 100,
                     tickInterval: 25,
                   },
-                  xAxis: { categories: this.projectionsYearsArray },
+		  xAxis: { categories: this.projectionsYearsArray,
+			labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+		},
                   plotOptions: {
                     series: {
                       ...seriesOption,
@@ -631,12 +671,29 @@ export class VisualsISComponent implements OnInit {
                   chart: { type: 'areaspline', animation: false },
                   title: { text: 'SG&A (% Revenue)' },
                   yAxis: {
-                    title: { text: 'As % of Revenue' },
+		    title: { text: 'As % of Revenue',
+			 style: {
+                        fontSize: '14px',
+                      }  
+			 },
+			labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
+
                     min: 0,
                     max: 100,
                     tickInterval: 25,
                   },
-                  xAxis: { categories: this.projectionsYearsArray },
+		  xAxis: { categories: this.projectionsYearsArray,
+			labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+		 },
                   plotOptions: {
                     series: {
                       ...seriesOption,
@@ -725,13 +782,28 @@ export class VisualsISComponent implements OnInit {
                   title: { text: 'D&A (% Revenue)' },
                   yAxis: {
                     title: {
-                      text: 'As % of Revenue',
+		      text: 'As % of Revenue',
+			 style: {
+                        fontSize: '14px',
+                      }  
+		    },
+			labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
                     },
                     min: 0,
                     max: 50,
                     tickInterval: 25,
                   },
-                  xAxis: { categories: this.projectionsYearsArray },
+		  xAxis: { categories: this.projectionsYearsArray,
+			labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+			},
                   plotOptions: {
                     series: {
                       ...seriesOption,
@@ -816,12 +888,28 @@ export class VisualsISComponent implements OnInit {
                   chart: { type: 'areaspline', animation: false },
                   title: { text: 'Other Income/Expense (% Revenue)' },
                   yAxis: {
-                    title: { text: 'As % of Revenue' },
+		    title: { text: 'As % of Revenue',
+			 style: {
+                        fontSize: '14px',
+                      }  		   
+		 },
+		labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
                     min: 0,
                     max: 100,
                     tickInterval: 25,
                   },
-                  xAxis: { categories: this.projectionsYearsArray },
+		  xAxis: { categories: this.projectionsYearsArray,
+			labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+			 },
                   plotOptions: {
                     series: {
                       ...seriesOption,
@@ -912,9 +1000,27 @@ export class VisualsISComponent implements OnInit {
                 this.NIEOptions = {
                   chart: { type: 'areaspline', animation: false },
                   title: { text: 'Net Interest Expense' },
-                  yAxis: { title: { text: 'USD' },tickInterval:50 },
+		  yAxis: { title: { text: 'USD',
+			 style: {
+                        fontSize: '14px',
+                      }  
+			},
+			labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
+			tickInterval:50 
+		},
+	
                   xAxis: {
-                    categories: this.projectionsYearsArray,
+		    categories: this.projectionsYearsArray,
+			labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
                   },
                   plotOptions: {
                     series: {
@@ -1079,8 +1185,26 @@ export class VisualsISComponent implements OnInit {
     this.PTROptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'Total Revenue' },
-      yAxis: { title: { text: 'USD' } },
-      xAxis: { categories: this.yearsArray },
+      yAxis: { title: { text: 'USD',
+	style: {
+                        fontSize: '14px',
+                      }  
+	 }, 
+ labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
+		},
+
+      xAxis: { categories: this.yearsArray,
+	labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+	},
       tooltip: {
         ...tooltip,
         formatter() {
@@ -1106,8 +1230,26 @@ export class VisualsISComponent implements OnInit {
     this.PGPOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'Gross Profit' },
-      yAxis: { title: { text: 'USD' } },
-      xAxis: { categories: this.yearsArray },
+      yAxis: { title: { text: 'USD',
+	style: {
+                        fontSize: '14px',
+                      }  
+
+	 },
+	labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
+	},
+      xAxis: { categories: this.yearsArray,
+	labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+	 },
       plotOptions: {
         series: { stickyTracking: false },
         column: {
@@ -1133,8 +1275,26 @@ export class VisualsISComponent implements OnInit {
     this.PEBITOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'EBIT' },
-      yAxis: { title: { text: 'USD' } },
-      xAxis: { categories: this.yearsArray },
+      yAxis: { title: { text: 'USD',
+}, style: {
+                        fontSize: '14px',
+		      },
+
+	labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
+	}, 
+
+      xAxis: { categories: this.yearsArray,
+	labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+	},
       plotOptions: {
         series: { stickyTracking: false },
         column: {
@@ -1160,8 +1320,26 @@ export class VisualsISComponent implements OnInit {
     this.PEBITDAOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'EBITDA' },
-      yAxis: { title: { text: 'USD' } },
-      xAxis: { categories: this.yearsArray },
+      yAxis: { title: { text: 'USD',
+	style: {
+                        fontSize: '14px',
+                      }  
+	 }, 
+	
+	labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
+	},
+      xAxis: { categories: this.yearsArray,
+	labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+	},
       plotOptions: {
         series: { stickyTracking: false },
         column: {
@@ -1187,8 +1365,25 @@ export class VisualsISComponent implements OnInit {
     this.PEBTOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'EBT' },
-      yAxis: { title: { text: 'USD' } },
-      xAxis: { categories: this.yearsArray },
+      yAxis: { title: { text: 'USD',
+	 style: {
+                        fontSize: '14px',
+                      }  
+	 },
+	labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
+	},
+      xAxis: { categories: this.yearsArray,
+	labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+	},
       plotOptions: {
         series: { stickyTracking: false },
         column: {
@@ -1214,8 +1409,27 @@ export class VisualsISComponent implements OnInit {
     this.PNIOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'Net Income' },
-      yAxis: { title: { text: 'USD' } },
-      xAxis: { categories: this.yearsArray },
+      yAxis: { title: { text: 'USD',
+	style: {
+                        fontSize: '14px',
+                      }  
+ },
+	labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
+
+
+	 },
+      xAxis: { categories: this.yearsArray,
+	labels:{
+					  style:{
+						  fontSize:'13px'
+					  }
+					  
+				  },
+	},
       plotOptions: {
         series: { stickyTracking: false },
         column: {

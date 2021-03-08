@@ -1,0 +1,121 @@
+[annotation_spec_id: "3611573540337221632"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.7183353900909424
+  text_segment {
+    start_offset: 153
+    end_offset: 164
+    content: "Receivables"
+  }
+}
+, annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.997943639755249
+  text_segment {
+    start_offset: 764
+    end_offset: 789
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.7989534735679626
+  text_segment {
+    start_offset: 804
+    end_offset: 819
+    content: "Restricted cash"
+  }
+}
+, annotation_spec_id: "2890997599957942272"
+display_name: "PPE"
+text_extraction {
+  score: 0.9802576303482056
+  text_segment {
+    start_offset: 882
+    end_offset: 909
+    content: "Property and equipment, net"
+  }
+}
+, annotation_spec_id: "152809026516680704"
+display_name: "OtherAssets"
+text_extraction {
+  score: 0.7392370104789734
+  text_segment {
+    start_offset: 1059
+    end_offset: 1071
+    content: "Other assets"
+  }
+}
+, annotation_spec_id: "4043919104564789248"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9834064245223999
+  text_segment {
+    start_offset: 1102
+    end_offset: 1114
+    content: "Total assets"
+  }
+}
+, annotation_spec_id: "3179227976109654016"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9266911149024963
+  text_segment {
+    start_offset: 1382
+    end_offset: 1398
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "3179227976109654016"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9732359647750854
+  text_segment {
+    start_offset: 1612
+    end_offset: 1650
+    content: "Accounts payable and other liabilities"
+  }
+}
+, annotation_spec_id: "296924214592536576"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.999818742275238
+  text_segment {
+    start_offset: 1716
+    end_offset: 1733
+    content: "Total liabilities"
+  }
+}
+, annotation_spec_id: "8943835499143888896"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9978059530258179
+  text_segment {
+    start_offset: 2390
+    end_offset: 2416
+    content: "Total shareholders\' equity"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.998556911945343
+  text_segment {
+    start_offset: 2437
+    end_offset: 2479
+    content: "Total liabilities and shareholders\' equity"
+  }
+}
+, annotation_spec_id: "1305730531123527680"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.5037597417831421
+  text_segment {
+    start_offset: 3742
+    end_offset: 3775
+    content: "Consolidated Statements of Income"
+  }
+}
+]

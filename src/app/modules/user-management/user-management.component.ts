@@ -3,6 +3,7 @@ import { Component, Inject, OnInit } from '@angular/core';
 import { error } from 'protractor';
 import { AuthService } from '../../auth.service';
 import { CommonModule } from '@angular/common';
+import { Router } from '@angular/router';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { RMIAPIsService } from 'src/app/shared/rmiapis.service';
 import { MatSnackBar } from '@angular/material/snack-bar';
@@ -10,6 +11,7 @@ import { MatDialog, MatDialogRef, MAT_DIALOG_DATA } from '@angular/material/dial
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { generatePassword, Preferences } from '@password-generator/package';
 import { MatRadioModule } from '@angular/material/radio';
+import { ExcelService } from 'src/app/shared/excel.service';
   
 @Component({
   selector: 'app-user-management',
@@ -23,7 +25,9 @@ export class UserManagementComponent implements OnInit {
     private apiService: RMIAPIsService,
     public snackBar: MatSnackBar,
     public dialog: MatDialog,
-    private modalService: NgbModal
+    private modalService: NgbModal,
+    private router : Router,
+    public excelService : ExcelService
   ) {}
 
   usersList;
@@ -40,6 +44,7 @@ export class UserManagementComponent implements OnInit {
     email: '',
     connection: 'Username-Password-Authentication',
     password: '',
+    verify_email: false,
   };
 
   assignedRole = 'User'
@@ -60,6 +65,13 @@ export class UserManagementComponent implements OnInit {
   }
 
   ngOnInit(): void {
+this.excelService.selectedDashboardMenu = 'profile'
+if(this.authService.currentUserRoles?.indexOf('Admin') >=0 || this.authService.currentUserRoles?.indexOf('SuperAdmin') >=0){
+
+    }
+    else{
+      this.router.navigate(['/statement']);
+    }
     this.progressBar = true;
     this.loggedInUserDetails.nickname = localStorage.getItem('nickname');
     this.loggedInUserDetails.email = localStorage.getItem('email');
@@ -276,14 +288,16 @@ export class UserManagementComponent implements OnInit {
                         this.user = {
                           email: '',
                           connection: 'Username-Password-Authentication',
-                          password: '',
+			  password: '',
+			verify_email: false,
                         };
                       }, error => {
                         console.log("Error while Send the mail", error);
                         this.user = {
                           email: '',
                           connection: 'Username-Password-Authentication',
-                          password: '',
+			  password: '',
+			verify_email: false,
                         };
                       })
                     },
@@ -300,7 +314,8 @@ export class UserManagementComponent implements OnInit {
                 this.user = {
                   email: '',
                   connection: 'Username-Password-Authentication',
-                  password: '',
+		  password: '',
+		verify_email: false,
                 };
               }
             );
@@ -313,7 +328,8 @@ export class UserManagementComponent implements OnInit {
         this.user = {
           email: '',
           connection: 'Username-Password-Authentication',
-          password: '',
+	  password: '',
+	verify_email: false,
         };
       }
     );

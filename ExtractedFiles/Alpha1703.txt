@@ -1,0 +1,163 @@
+
+Page#1
+Table of Contents Alphabet Inc.
+Alphabet Inc.
+CONSOLIDATED BALANCE SHEETS
+(In millions, except share and par value amounts which are reflected in thousands,
+and par value per share amounts)
+As of As of
+December 31, 2016 December 31, 2017
+Assets
+Current assets:
+Cash and cash equivalents $ 12,918 $ 10,715
+Marketable securities 73,415 91,156
+Total cash, cash equivalents, and marketable securities 86,333 101,871
+Accounts receivable, net of allowance of $467 and $674 14,137 18,336
+Income taxes receivable, net 95 369
+Inventory 268 749
+Other current assets 4,575 2,983
+Total current assets 105,408 124,308
+Non-marketable investments 5,878 7,813
+Deferred income taxes 383 680
+Property and equipment, net 34,234 42,383
+Intangible assets, net 3,307 2,692
+Goodwill 16,468 16,747
+Other non-current assets 1,819 2,672
+Total assets $ 167,497 $ 197,295
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable $ 2,041 $ 3,137
+Accrued compensation and benefits 3,976 4,581
+Accrued expenses and other current liabilities 6,144 10,177
+Accrued revenue share 2,942 3,975
+Deferred revenue 1,099 1,432
+Income taxes payable, net 554 881
+Total current liabilities 16,756 24,183
+Long-term debt 3,935 3,969
+Deferred revenue, non-current 202 340
+Income taxes payable, non-current 4,677 12,812
+Deferred income taxes 226 430
+Other long-term liabilities 2,665 3,059
+Total liabilities 28,461 44,793
+Commitments and Contingencies (Note 10)
+Stockholders’ equity:
+Convertible preferred stock, $0.001 par value per share, 100,000 shares 
+authorized; no shares issued and outstanding 0 0
+Class A and Class B common stock, and Class C capital stock and
+additional paid-in capital, $0.001 par value per share: 15,000,000 shares
+authorized (Class A 9,000,000, Class B 3,000,000, Class C 3,000,000);
+691,293 (Class A 296,992, Class B 47,437, Class C 346,864) and
+694,783 (Class A 298,470, Class B 46,972, Class C 349,341) shares
+issued and outstanding 36,307 40,247
+Accumulated other comprehensive loss (2,402) (992)
+Retained earnings 105,131 113,247
+Total stockholders’ equity 139,036 152,502
+Total liabilities and stockholders’ equity $ 167,497 $ 197,295
+See accompanying notes.
+48
+Page#2
+Table of Contents Alphabet Inc.
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except per share amounts)
+ Year Ended December 31,
+ 2015 2016 2017
+Revenues $ 74,989 $ 90,272 $ 110,855
+Costs and expenses:
+Cost of revenues 28,164 35,138 45,583
+Research and development 12,282 13,948 16,625
+Sales and marketing 9,047 10,485 12,893
+General and administrative 6,136 6,985 6,872
+European Commission fine 0 0 2,736
+Total costs and expenses 55,629 66,556 84,709
+Income from operations 19,360 23,716 26,146
+Other income (expense), net 291 434 1,047
+Income before income taxes 19,651 24,150 27,193
+Provision for income taxes 3,303 4,672 14,531
+Net income $ 16,348 $ 19,478 $ 12,662
+Less: Adjustment Payment to Class C capital stockholders 522 0 0
+Net income available to all stockholders $ 15,826 $ 19,478 $ 12,662
+Basic net income per share of Class A and B common stock $ 23.11 $ 28.32 $ 18.27
+Basic net income per share of Class C capital stock $ 24.63 $ 28.32 $ 18.27
+Diluted net income per share of Class A and B common stock $ 22.84 $ 27.85 $ 18.00
+Diluted net income per share of Class C capital stock $ 24.34 $ 27.85 $ 18.00
+See accompanying notes.
+49
+Page#3
+Table of Contents Alphabet Inc.
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(In millions)
+ Year Ended December 31,
+ 2015 2016 2017
+Net income $ 16,348 $ 19,478 $ 12,662
+Other comprehensive income (loss):
+Change in foreign currency translation adjustment (1,067) (599) 1,543
+Available-for-sale investments:
+Change in net unrealized gains (losses) (715) (314) 307
+Less: reclassification adjustment for net (gains) losses included 
+in net income 208 221 105
+Net change (net of tax effect of $29, $0, and $0) (507) (93) 412
+Cash flow hedges:
+Change in net unrealized gains (losses) 676 515 (638)
+Less: reclassification adjustment for net (gains) losses included 
+in net income (1,003) (351) 93
+Net change (net of tax effect of $115, $64, and $247) (327) 164 (545)
+Other comprehensive income (loss) (1,901) (528) 1,410
+Comprehensive income $ 14,447 $ 18,950 $ 14,072
+See accompanying notes.
+50
+Page#4
+Table of Contents Alphabet Inc.
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+ Year Ended December 31,
+ 2015 2016 2017
+Operating activities
+Net income $ 16,348 $ 19,478 $ 12,662
+Adjustments:
+Depreciation and impairment of property and equipment 4,132 5,267 6,103
+Amortization and impairment of intangible assets 931 877 812
+Stock-based compensation expense 5,203 6,703 7,679
+Deferred income taxes (179) (38) 258
+Loss on marketable and non-marketable investments, net 334 275 194
+Other 212 174 137
+Changes in assets and liabilities, net of effects of acquisitions:
+Accounts receivable (2,094) (2,578) (3,768)
+Income taxes, net (179) 3,125 8,211
+Other assets (318) 312 (2,164)
+Accounts payable 203 110 731
+Accrued expenses and other liabilities 1,597 1,515 4,891
+Accrued revenue share 339 593 955
+Deferred revenue 43 223 390
+Net cash provided by operating activities 26,572 36,036 37,091
+Investing activities
+Purchases of property and equipment (9,950) (10,212) (13,184)
+Proceeds from disposals of property and equipment 35 240 99
+Purchases of marketable securities (74,368) (84,509) (92,195)
+Maturities and sales of marketable securities 62,905 66,895 73,959
+Purchases of non-marketable investments (2,326) (1,109) (1,745)
+Maturities and sales of non-marketable investments 154 494 533
+Cash collateral related to securities lending (350) (2,428) 0
+Investments in reverse repurchase agreements 425 450 0
+Acquisitions, net of cash acquired, and purchases of intangible assets (236) (986) (287)
+Proceeds from collection of notes receivable 0 0 1,419
+Net cash used in investing activities (23,711) (31,165) (31,401)
+Financing activities
+Net payments related to stock-based award activities (2,375) (3,304) (4,166)
+Adjustment Payment to Class C capital stockholders (47) 0 0
+Repurchases of capital stock (1,780) (3,693) (4,846)
+Proceeds from issuance of debt, net of costs 13,705 8,729 4,291
+Repayments of debt (13,728) (10,064) (4,377)
+Proceeds from sale of subsidiary shares 0 0 800
+Net cash used in financing activities (4,225) (8,332) (8,298)
+Effect of exchange rate changes on cash and cash equivalents (434) (170) 405
+Net decrease in cash and cash equivalents (1,798) (3,631) (2,203)
+Cash and cash equivalents at beginning of period 18,347 16,549 12,918
+Cash and cash equivalents at end of period $ 16,549 $ 12,918 $ 10,715
+Supplemental disclosures of cash flow information
+Cash paid for taxes, net of refunds $ 3,651 $ 1,643 $ 6,191
+Cash paid for interest, net of amounts capitalized $ 96 $ 84 $ 84
+See accompanying notes.
+52

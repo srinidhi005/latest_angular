@@ -50,10 +50,10 @@
                         </button>
                 <li>
                     <button mat-button [matMenuTriggerFor]="menu" id="user-icon" style="margin-top: 16px;">
-                        <mat-icon><img src="{{picture}}" alt="" class="img-profile"></mat-icon>
+                        <mat-icon><img [src]="auth.userPicture" alt="" class="img-profile"></mat-icon>
                     </button>
                     <mat-menu #menu="matMenu" style="padding-right:50px">
-					<ul style="text-align:center;padding-right:15px;padding-left:15px"><mat-icon><img src="{{picture}}" alt="" class="img-profile"></mat-icon></ul>
+					<ul style="text-align:center;padding-right:15px;padding-left:15px"><mat-icon><img [src]="auth.userPicture" alt="" class="img-profile"></mat-icon></ul>
 					<ul style="font-weight:bold;text-align:center;padding-right:15px;padding-left:15px">{{nickname}}</ul>
 					
 					<ul style="text-align:center;padding-right:15px;padding-left:15px">{{email}}</ul>

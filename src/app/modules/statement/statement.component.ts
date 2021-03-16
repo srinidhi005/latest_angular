@@ -30,6 +30,7 @@ export interface PeriodicElement {
   download: string;
   delete: string;
   filename: any;
+type: string;
 }
 const ELEMENT_DATA: PeriodicElement[] = [];
 @Component({
@@ -67,6 +68,7 @@ export class StatementComponent implements OnInit {
     'industry',
     'createdOn',
     'createdBy',
+    'type',
     'download',
     'delete',
   ];
@@ -136,7 +138,8 @@ export class StatementComponent implements OnInit {
             company: data[index].company,
             industry: data[index].industry,
             createdOn: data[index].createdon,
-            createdBy: data[index].createdby,
+	    createdBy: data[index].createdby,
+	    type: data[index].statementtype,
             download: 'download',
             delete: 'delete',
             filename: data[index].filename,

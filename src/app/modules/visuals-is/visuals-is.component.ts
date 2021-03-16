@@ -1000,7 +1000,7 @@ export class VisualsISComponent implements OnInit {
                 this.NIEOptions = {
                   chart: { type: 'areaspline', animation: false },
                   title: { text: 'Net Interest Expense' },
-		  yAxis: { title: { text: 'USD',
+		  yAxis: { title: { text: 'USD (millions)',
 			 style: {
                         fontSize: '14px',
                       }  

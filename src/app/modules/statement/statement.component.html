@@ -59,6 +59,22 @@
                     <th mat-header-cell *matHeaderCellDef> Created By </th>
                     <td mat-cell *matCellDef="let element"> {{element.createdBy}} </td>
                 </ng-container>
+
+
+		<ng-container matColumnDef="type">
+                    <th mat-header-cell *matHeaderCellDef> Type </th>
+                    <td mat-cell *matCellDef="let element"> 
+                        <span class="material-icons" *ngIf = "element.type == 'Public'" matTooltip = "Public" matTooltipPosition = 'above'>
+                            supervised_user_circle
+                        </span>
+                        <span class="material-icons" *ngIf = "element.type != 'Public'" matTooltip = "Private" matTooltipPosition = 'above'>
+                            privacy_tip
+                        </span>                    
+                        </td>
+                </ng-container>
+
+
+
                 <ng-container matColumnDef="download">
                     <th mat-header-cell *matHeaderCellDef> Download </th>
                     <td mat-cell *matCellDef="let element"><a

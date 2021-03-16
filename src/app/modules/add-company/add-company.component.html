@@ -92,12 +92,27 @@
                 </div>
               </div>
             </div>
-	    <h4>Steps for Importing a New Company:<br/><br/></h4>
-	     <h5 style="text-align:left">
-		     		1. Download the PDF version of annual financial statement of the company (10-K)<br/><br/>
-				2. Edit the PDF file to remove all pages except for the Income Statement, Balance Sheet, and Cash Flow Statements<br/><br/>
-				3. Upload the edited file by either dragging it into the box to the right or using the Browse option<br/><br/>
-				4. Populate the fields listed above as it relates to key company attributes (e.g., Company name, Industry, etc.)</h5>
+			<div class="row">
+			<div class="col-8">
+			<h4>Steps for Importing a New Company:<br/><br/></h4>
+			<ol>
+	     <h6 style="text-align:left">
+			<li> Download or export the PDF version of the annual financial statements (e.g. 10-K) of the desired company</li><br/>
+			<li> Edit the PDF file to remove all pages except for the Income Statement, Balance Sheet, and Cash Flow Statements</li><br/>
+			<li> The PDF should include, at the minimum, the Income Statement and Balance Sheet</li><br/>
+			<li> The Income Statement and Balance Sheet should be on separate pages and should <br/>include at least two years' worth of financial information</li><br/>
+			<li> Upload the edited file by either dragging it into the box to the right or by using the Browse option</li><br/>
+			<li> Populate the fields listed above as it relates to key company attributes (e.g., Company name, Industry, etc.)</li></h6>
+			</ol>
+			</div>
+			<div class="col" style="margin: auto;margin-top: 95px" >
+			<h4>Download Sample PDF </h4>
+			  <img (click)="samplefile.click()" src="../../../assets/images/pdf.png" alt="PDF" height="120px" width="100px" style="cursor:pointer;margin-left: 70px;" 	>
+			<a style="display:none" #samplefile href="../../../assets/pdf/Nike2018.pdf" download>Download Sample Pdf</a>
+			</div>
+			</div>
+
+
             <div class="row" style="margin: 40px auto;">
               <button style="background-color: #164a5b; margin: auto; width: 100px; color: #ffffff;"
                 [disabled]="inprogress"

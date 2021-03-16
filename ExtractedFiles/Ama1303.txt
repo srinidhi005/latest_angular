@@ -1,0 +1,204 @@
+
+Page#1
+Table of Contents 
+ 
+AMAZON.COM, INC. 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+(in millions) 
+  
+  Year Ended December 31, 
+ 
+  2013  2012  2011 
+CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD  $ 8,084 $ 5,269 $ 3,777 
+OPERATING ACTIVITIES: 
+Net income (loss)  274 (39 ) 631 
+Adjustments to reconcile net income (loss) to net cash from operating activities: 
+Depreciation of property and equipment, including internal-use software and website 
+development, and other amortization  3,253 2,159 1,083 
+Stock-based compensation  1,134 833 557 
+Other operating expense (income), net  114 154 154 
+Losses (gains) on sales of marketable securities, net  1 (9 ) (4 ) 
+Other expense (income), net  166 253 (56 ) 
+Deferred income taxes  (156 ) (265 ) 136 
+Excess tax benefits from stock-based compensation  (78 ) (429 ) (62 ) 
+Changes in operating assets and liabilities: 
+Inventories  (1,410 ) (999 ) (1,777 ) 
+Accounts receivable, net and other  (846 ) (861 ) (866 ) 
+Accounts payable  1,888 2,070 2,997 
+Accrued expenses and other  736 1,038 1,067 
+Additions to unearned revenue  2,691 1,796 1,064 
+Amortization of previously unearned revenue  (2,292 ) (1,521 ) (1,021 ) 
+Net cash provided by (used in) operating activities  5,475 4,180 3,903 
+INVESTING ACTIVITIES: 
+Purchases of property and equipment, including internal-use software and website development  (3,444 ) (3,785 ) (1,811 ) 
+Acquisitions, net of cash acquired, and other  (312 ) (745 ) (705 ) 
+Sales and maturities of marketable securities and other investments  2,306 4,237 6,843 
+Purchases of marketable securities and other investments  (2,826 ) (3,302 ) (6,257 ) 
+Net cash provided by (used in) investing activities  (4,276 ) (3,595 ) (1,930 ) 
+FINANCING ACTIVITIES: 
+Excess tax benefits from stock-based compensation  78 429 62 
+Common stock repurchased  — (960 ) (277 ) 
+Proceeds from long-term debt and other  394 3,378 177 
+Repayments of long-term debt, capital lease, and finance lease obligations  (1,011 ) (588 ) (444 ) 
+Net cash provided by (used in) financing activities  (539 ) 2,259 (482 ) 
+Foreign-currency effect on cash and cash equivalents  (86 ) (29 ) 1 
+Net increase (decrease) in cash and cash equivalents  574 2,815 1,492 
+CASH AND CASH EQUIVALENTS, END OF PERIOD  $ 8,658 $ 8,084 $ 5,269 
+SUPPLEMENTAL CASH FLOW INFORMATION: 
+ 
+Cash paid for interest on long-term debt  $ 97 $ 31 $ 14 
+Cash paid for income taxes (net of refunds)  169 112 33 
+Property and equipment acquired under capital leases  1,867 802 753 
+Property and equipment acquired under build-to-suit leases  877 29 259 
+ 
+See accompanying notes to consolidated financial statements. 
+ 
+35 
+Page#2
+Table of Contents 
+ 
+AMAZON.COM, INC. 
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+(in millions, except per share data) 
+  
+  
+  Year Ended December 31, 
+ 
+  2013  2012  2011 
+Net product sales  $ 60,903  $ 51,733  $ 42,000 
+ 
+Net services sales  13,549 9,360 6,077 
+ 
+Total net sales  74,452 61,093 48,077 
+ 
+Operating expenses (1): 
+Cost of sales  54,181 45,971 37,288 
+ 
+Fulfillment  8,585 6,419 4,576 
+ 
+Marketing  3,133 2,408 1,630 
+ 
+Technology and content  6,565 4,564 2,909 
+ 
+General and administrative  1,129 896 658 
+ 
+Other operating expense (income), net  114 159 154 
+ 
+Total operating expenses  73,707 60,417 47,215 
+ 
+Income from operations  745 676 862 
+ 
+Interest income  38 40 61 
+ 
+Interest expense  (141 ) (92 ) (65 ) 
+Other income (expense), net  (136 ) (80 ) 76 
+ 
+Total non-operating income (expense)  (239 ) (132 ) 72 
+ 
+Income before income taxes  506 544 934 
+ 
+Provision for income taxes  (161 ) (428 ) (291) 
+Equity-method investment activity, net of tax  (71 ) (155 ) (12 ) 
+Net income (loss)  $ 274 $ (39 ) $ 631 
+ 
+Basic earnings per share 
+$ 0.60 $ (0.09)  $ 1.39 
+ 
+Diluted earnings per share 
+$ 0.59 $ (0.09)  $ 1.37 
+ 
+Weighted average shares used in computation of earnings per share: 
+ 
+Basic  457 453 453 
+ 
+Diluted 
+465 453 461 
+ 
+_____________ 
+ 
+(1)  Includes stock-based compensation as follows: 
+Fulfillment  $ 294  $ 212  $ 133 
+ 
+Marketing  88 61 39 
+ 
+Technology and content  603 434 292 
+ 
+General and administrative  149 126 93 
+ 
+See accompanying notes to consolidated financial statements. 
+ 
+ 
+36 
+Page#3
+Table of Contents 
+ 
+AMAZON.COM, INC. 
+CONSOLIDATED BALANCE SHEETS 
+(in millions, except per share data) 
+  
+  
+December 31, 
+ 
+  2013  2012 
+ASSETS 
+Current assets: 
+Cash and cash equivalents  $ 8,658  $ 8,084 
+  
+Marketable securities  3,789 3,364 
+  
+Inventories  7,411 6,031 
+  
+Accounts receivable, net and other  4,767 3,817 
+  
+Total current assets  24,625 21,296 
+  
+Property and equipment, net  10,949 7,060 
+  
+Goodwill  2,655 2,552 
+  
+Other assets  1,930 1,647 
+  
+Total assets  $ 40,159 $ 32,555 
+ 
+LIABILITIES AND STOCKHOLDERS’ EQUITY 
+ 
+Current liabilities: 
+Accounts payable  $ 15,133  $ 13,318 
+  
+Accrued expenses and other  6,688 4,892 
+  
+Unearned revenue  1,159 792 
+  
+Total current liabilities  22,980 19,002 
+  
+Long-term debt 
+3,191 3,084 
+  
+Other long-term liabilities  4,242 2,277 
+  
+Commitments and contingencies 
+  
+Stockholders’ equity: 
+Preferred stock, $0.01 par value: 
+Authorized shares — 500 
+Issued and outstanding shares — none  —  —
+  
+Common stock, $0.01 par value: 
+Authorized shares — 5,000 
+Issued shares — 483 and 478 
+Outstanding shares — 459 and 454  5 5 
+  
+Treasury stock, at cost  (1,837 ) (1,837 ) 
+Additional paid-in capital  9,573 8,347 
+  
+Accumulated other comprehensive loss  (185 ) (239) 
+Retained earnings  2,190 1,916 
+  
+Total stockholders’ equity  9,746 8,192 
+  
+Total liabilities and stockholders’ equity  $ 40,159 $ 32,555 
+ 
+See accompanying notes to consolidated financial statements. 
+ 
+ 
+38 

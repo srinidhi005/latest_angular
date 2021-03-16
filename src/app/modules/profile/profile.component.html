@@ -4,7 +4,7 @@
   <div class="col"></div>
   <div class="col-3" style="margin:0 auto;text-align:center;margin-top: 20px;" [class.col-height] = "imageLoaded == false ? true : false">
 
-    <img class="mat-card-img" #imgLink [src]="picture" alt="profile" style="border-radius:50px"
+    <img class="mat-card-img" #imgLink [src]="auth.userPicture" alt="profile" style="border-radius:50px"
        [class.show]="imageLoaded == false ? true : false">
     <input type="file" (change)="selectFile($event)" #fileInput style="display: none;">
   </div>

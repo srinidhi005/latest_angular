@@ -33,6 +33,9 @@ export class UserManagementComponent implements OnInit {
   usersList;
   roleName;
   MappedUsers;
+currentUser;
+//loggedInUserId;
+picture;
   progressBar = false;
   showCreateUser: any = false;
   loggedInUserDetails = {} as any;
@@ -75,9 +78,16 @@ if(this.authService.currentUserRoles?.indexOf('Admin') >=0 || this.authService.c
     this.progressBar = true;
     this.loggedInUserDetails.nickname = localStorage.getItem('nickname');
     this.loggedInUserDetails.email = localStorage.getItem('email');
-    this.loggedInUserDetails.picture = localStorage.getItem('picture');
+   // this.loggedInUserDetails.picture = localStorage.getItem('picture');
     this.loggedInUserDetails.role = localStorage.getItem('role');
-    this.apiService
+    
+
+
+
+
+
+
+this.apiService
       .getData(this.urlConfig.getUserAdminAPI() + this.loggedInUserId)
       .subscribe(
         (res) => {
@@ -155,10 +165,13 @@ if(this.authService.currentUserRoles?.indexOf('Admin') >=0 || this.authService.c
             .subscribe(
               (response) => {
                 console.log('deleteuserresponse', response);
-              },
+		this.openSnackBar("User Deleted Successfully!")     
+	
+		 },
               (error) => {
                 console.log('failed to delete the Users', error);
-              }
+	      this.openSnackBar("Failed To Delete User")
+		}
             );
         }
       },
@@ -197,7 +210,8 @@ if(this.authService.currentUserRoles?.indexOf('Admin') >=0 || this.authService.c
           this.authService.updateUsers(body, user.user_id).subscribe(
             (update) => {
               console.log('updateusers', update);
-            },
+	this.openSnackBar("Users Role Successfully Updated!")    
+		},
             (error) => {
               console.log('update the Users failed', error);
             }

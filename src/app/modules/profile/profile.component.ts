@@ -28,8 +28,6 @@ export class ProfileComponent implements OnInit, AfterViewInit {
     });
     this.nickname = localStorage.getItem('nickname');
     this.email = localStorage.getItem('email');
-    
-
     this.loggedInUserId = localStorage.getItem('loggedInUserId');
 
     this.auth.getUserById(this.loggedInUserId).subscribe( res => {
@@ -37,29 +35,35 @@ export class ProfileComponent implements OnInit, AfterViewInit {
       this.currentUser = res.body;
       if(this.currentUser && this.currentUser.user_metadata){
         if(this.currentUser.user_metadata && this.currentUser.user_metadata.picture){
-          this.picture = this.currentUser.user_metadata.picture
+	  this.picture = this.currentUser.user_metadata.picture
+this.auth.userPicture=this.picture
           this.imageLoaded = true
         }
         else{
-          this.picture = localStorage.getItem('picture');
+	  this.picture = localStorage.getItem('picture');
+	this.auth.userPicture=this.picture
           this.imageLoaded = true
 
         }
       }
       else{
-        this.picture = localStorage.getItem('picture');
+	this.picture = localStorage.getItem('picture');
+this.auth.userPicture=this.picture
         this.imageLoaded = true
 
       }
     }, error => {
       console.log(error);
       this.picture = localStorage.getItem('picture');
+this.auth.userPicture=this.picture
       this.imageLoaded = true
     })
-  }
+    
+
+     }
 
   ngAfterViewInit(){
-    this.imgLink.nativeElement.src = this.picture;
+    this.imgLink.nativeElement.src = this.auth.userPicture;
     this.imgLink.nativeElement.style.height = '180px';
     this.imgLink.nativeElement.style.width = '180px';
   }
@@ -85,19 +89,20 @@ export class ProfileComponent implements OnInit, AfterViewInit {
 		reader.readAsDataURL(event.target.files[0]);
 		
 		reader.onload = (_event) => {
-			this.picture = reader.result; 
+			this.picture = reader.result;
+			this.auth.userPicture=this.picture; 
       let body = {};
       if(this.currentUser && this.currentUser.user_metadata){
         body = {
           user_metadata : this.currentUser.user_metadata
         }
 
-        body["user_metadata"]["picture"] = this.picture
+        body["user_metadata"]["picture"] = this.auth.userPicture
       }
       else{
         body = {
           user_metadata : {
-            picture: this.picture
+            picture: this.auth.userPicture
           }
         }
       }
@@ -109,14 +114,14 @@ export class ProfileComponent implements OnInit, AfterViewInit {
       })
       console.log(this.picture);
       let image = new Image();
-    image.src = this.picture
+    image.src = this.auth.userPicture
 
     const _this = this;
     image.onload = function () {
       //Determine the Height and Width.
       console.log(this)
             
-      _this.imgLink.nativeElement.src = _this.picture;
+      _this.imgLink.nativeElement.src = _this.auth.userPicture;
       _this.imgLink.nativeElement.style.height = '180px';
       _this.imgLink.nativeElement.style.width = '180px';
 

@@ -14,7 +14,7 @@
                     <div class="row label-margin">
                         <div class="col-2"></div>
                         <div class="col">
-                           <span> Please click on the below link to change your password <br> <span style="color: rgb(19, 60, 182); cursor: pointer;" (click) = "changePassword()"><u>change password</u></span></span>
+                           <span> Please click on the below link to change your password <br> <span style="color: rgb(19, 60, 182); cursor: pointer;" (click) = "changePassword()"><u>Change Password</u></span></span>
                         </div>
                         <div class="col-2"></div>
                     </div>
@@ -43,7 +43,7 @@
                 <ng-container *ngSwitchCase = "3" >
                     <div class="row label-margin">
                         <div class="col">
-                            <span>To import a new statement, click on the <b>Import</b> icon and enter statement details </span>                       
+				<span>To import a new company, please name the company and fill out basic details about it before hitting the <b>Import</b> button </span>                       
                         </div>
                     </div>
                     <div class="row">
@@ -54,7 +54,7 @@
                 <ng-container *ngSwitchCase = "4" >
                     <div class="row label-margin">
                         <div class="col">
-                            <span>To create a new scenario for a company, click on <b>Add Scenario</b> and perform what-if analysis by changing key performance drivers                     </span>
+				<span>To create a new operating scenario for a company, click on <b>Add Scenario</b> and adjust the key operational-level drivers of the business   </span>
                         </div>
                     </div>
                     <div class="row">
@@ -65,16 +65,25 @@
                 <ng-container *ngSwitchCase = "5" >
                     <div class="row label-margin">
                         <div class="col">
-                            <span> To save an Added Scenario, click on  <b>Save Scenario</b> icon   </span>                     
+				<span> To save an scenario that you just created, please click on the <b>Save Scenario</b> icon  </span>                     
                         </div>
                     </div>
                     <div class="row">
                        <img class="img-margin" src="../../../assets/images/RMISaveScenario.png" alt="RMI Insights Account" width="80%" height="20%" (load) = "imageLoaded()" loading="lazy">
                     </div>    
                 </ng-container>  
-        
+        <ng-container *ngSwitchCase = "6" >
+                    <div class="row label-margin">
+                        <div class="col">
+                            <span>As you have just seen, Scenario Analysis is your 'Mission Control' for the RMI Insights platform. Any operating scenarios that you create here will be accessible throughout the rest of the platform's modules</span>
+                        </div>
+                    </div>
+                    <div class="row">
+                       <img class="img-margin" src="../../../assets/images/RMIDashboard.png" alt="RMI Dashboard" width="80%" (load) = "imageLoaded()" loading="lazy">
+                    </div>    
+                </ng-container>
                 
-                <ng-container *ngSwitchCase = "6" >
+                <ng-container *ngSwitchCase = "7" >
                     <div class="row label-margin">
                         <div class="col">
                             <span>To manage your account information, click on  <b>RMI Insights Account</b>  </span>
@@ -95,11 +104,11 @@
             <button mat-raised-button class="skip" (click) = "goToPrevSlide()"  *ngIf = "index != 1">
                 Back
             </button>
-            <button mat-raised-button [class.next] ="index != 1"  (click) = "goToNextSlide()" *ngIf = "index < 6" [class.display] = "index == 1">
+            <button mat-raised-button [class.next] ="index != 1"  (click) = "goToNextSlide()" *ngIf = "index < 7" [class.display] = "index == 1">
                 Next
             </button>
 
-            <button mat-raised-button class="next" (click) = "closeTutDialog()" *ngIf = "index == 6">
+            <button mat-raised-button class="next" (click) = "closeTutDialog()" *ngIf = "index == 7">
                 Close
             </button>
             

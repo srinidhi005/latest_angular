@@ -22,7 +22,8 @@ export class HeaderComponent implements OnInit {
   @Output() toggleSideBarForMe: EventEmitter<any> = new EventEmitter();
   myControl = new FormControl();
   options: string[] = [];
-  
+	  currentUser;
+	  loggedInUserId;
   nickname:any;
   email:any;
   picture:any;
@@ -37,18 +38,47 @@ export class HeaderComponent implements OnInit {
 	
 	
 	
-  ngOnInit() {
+	  ngOnInit() {
+	  this.loggedInUserId = localStorage.getItem('loggedInUserId');
 	  this.auth.userProfileSubject$.subscribe((res:any)=>{
       console.log("res for profile",res);
       localStorage.setItem('nickname',res.nickname);
       localStorage.setItem('email',res.email);
       localStorage.setItem('picture',res.picture);
     });
-    this.nickname = localStorage.getItem('nickname');
+	 this.nickname = localStorage.getItem('nickname');
     this.email = localStorage.getItem('email');
-    this.picture = localStorage.getItem('picture');
+	  // this.picture = localStorage.getItem('picture');
 	  
-	  
+	 this.auth.getUserById(this.loggedInUserId).subscribe( res => {
+      console.log("USER", res);
+      this.currentUser = res.body;
+      if(this.currentUser && this.currentUser.user_metadata){
+        if(this.currentUser.user_metadata && this.currentUser.user_metadata.picture){
+	  this.picture = this.currentUser.user_metadata.picture
+	  this.auth.userPicture=this.picture
+          
+        }
+        else{
+	  this.picture = localStorage.getItem('picture');
+	  this.auth.userPicture=this.picture
+         
+
+        }
+      }
+      else{
+	  this.picture = localStorage.getItem('picture');
+	  this.auth.userPicture=this.picture
+        
+
+      }
+    }, error => {
+      console.log(error);
+	  this.picture = localStorage.getItem('picture');
+	  this.auth.userPicture=this.picture
+      
+    })
+ 
 	  
     //this.auth.profileSubscriber.subscribe(() => {
       //this.picture = localStorage.getItem('picture');

@@ -1080,15 +1080,28 @@ export class VisualsBsComponent implements OnInit {
 
     this.TCAOptions = {
       chart: { type: 'column', animation: false },
-      title: { text: 'Total Current Assets(Excluding Cash)' },
+      title: { text: 'Total Current Assets (Excluding Cash)' },
       yAxis: { title: { text: 'USD',
 	  style: {
                         fontSize: '14px',
-                      }  
-	  } 
+		      },
+
+		labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    } 
+	  }, 
 	  
 	  },
-      xAxis: { categories: this.yearsArray },
+      xAxis: { categories: this.yearsArray,
+	labels: {
+                      style: {
+                        fontSize: '13px',
+                      }
+                    },
+
+	},
       plotOptions: {
         series: { stickyTracking: false },
         column: {

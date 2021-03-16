@@ -1,0 +1,121 @@
+[annotation_spec_id: "5917416549550915584"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9659092426300049
+  text_segment {
+    start_offset: 57
+    end_offset: 65
+    content: "Revenues"
+  }
+}
+, annotation_spec_id: "2602767223806230528"
+display_name: "Currency"
+text_extraction {
+  score: 0.9172142148017883
+  text_segment {
+    start_offset: 66
+    end_offset: 67
+    content: "$"
+  }
+}
+, annotation_spec_id: "6349762113778483200"
+display_name: "COGS"
+text_extraction {
+  score: 0.9822481870651245
+  text_segment {
+    start_offset: 118
+    end_offset: 134
+    content: "Cost of revenues"
+  }
+}
+, annotation_spec_id: "4764495044944068608"
+display_name: "SGA"
+text_extraction {
+  score: 0.9871135354042053
+  text_segment {
+    start_offset: 235
+    end_offset: 279
+    content: "Selling, general and administrative expenses"
+  }
+}
+, annotation_spec_id: "7790913994537041920"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9420034885406494
+  text_segment {
+    start_offset: 360
+    end_offset: 382
+    content: "Income from operations"
+  }
+}
+, annotation_spec_id: "5340955797247492096"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9803962111473083
+  text_segment {
+    start_offset: 467
+    end_offset: 483
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "4908610233019924480"
+display_name: "EBT"
+text_extraction {
+  score: 0.9812581539154053
+  text_segment {
+    start_offset: 642
+    end_offset: 682
+    content: "Income before provision for income taxes"
+  }
+}
+, annotation_spec_id: "7070338054157762560"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9699645638465881
+  text_segment {
+    start_offset: 707
+    end_offset: 733
+    content: "Provision for income taxes"
+  }
+}
+, annotation_spec_id: "7214453242233618432"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9425159692764282
+  text_segment {
+    start_offset: 752
+    end_offset: 762
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "1305730531123527680"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.6718050837516785
+  text_segment {
+    start_offset: 1256
+    end_offset: 1293
+    content: "CONSOLIDATED STATEMENTS OF OPERATIONS"
+  }
+}
+, annotation_spec_id: "873384966895960064"
+display_name: "DandA"
+text_extraction {
+  score: 0.9340912699699402
+  text_segment {
+    start_offset: 1554
+    end_offset: 1583
+    content: "Depreciation and amortization"
+  }
+}
+, annotation_spec_id: "6061531737626771456"
+display_name: "TotalCapitalExpenditures"
+text_extraction {
+  score: 0.924299418926239
+  text_segment {
+    start_offset: 2262
+    end_offset: 2297
+    content: "Purchases of property and equipment"
+  }
+}
+]

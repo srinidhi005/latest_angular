@@ -11,6 +11,10 @@ import { ExcelService } from 'src/app/shared/excel.service';
 import { UserDetailModelService } from 'src/app/shared/user-detail-model.service';
 import { formatNumber } from '@angular/common';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
+import html2canvas from 'html2canvas';
+import pdfMake from 'pdfmake/build/pdfmake';
+import pdfFonts from 'pdfmake/build/vfs_fonts';
+pdfMake.vfs = pdfFonts.pdfMake.vfs;
 import {
   MatSnackBar,
   MatSnackBarHorizontalPosition,
@@ -87,7 +91,10 @@ export class DcfComponent implements OnInit {
   loadedScenario = 'Scenario 0';
   waacEditedValue:any;
   dcf;
-  
+  @ViewChild('firstBlock', { static: false }) firstBlock: ElementRef; valuationSummary
+  @ViewChild('unleveredFreeCashFlow', { static: false }) unleveredFreeCashFlow: ElementRef;
+  @ViewChild('valuations', { static: false }) valuations: ElementRef;
+  @ViewChild('valuationSummary', { static: false }) valSummary: ElementRef;
 
   constructor(
     private urlConfig: UrlConfigService,
@@ -502,7 +509,46 @@ for (const [key, value] of this.financialObj) {
     this.ngOnInit();
   }
   
-  
+ exportToPdf1(){
+
+    const content = [];
+    html2canvas(this.firstBlock.nativeElement).then(canvas1 => {
+      const canvasData1 = canvas1.toDataURL();
+      content.push({
+        image: canvasData1,
+        width: 500,
+        })
+
+        html2canvas(this.unleveredFreeCashFlow.nativeElement).then(canvas2 => {
+          content.push({
+            image: canvas2.toDataURL(),
+            width: 500,
+            })
+
+            html2canvas(this.valuations.nativeElement).then(canvas3 => {
+              content.push({
+                image: canvas3.toDataURL(),
+                width: 500,
+                })
+
+                html2canvas(this.valSummary.nativeElement).then(canvas4 => {
+                  content.push({
+                    image: canvas4.toDataURL(),
+                    width: 200,
+                    })
+                    let docDefinition = {
+                      content: content
+                    };
+              
+                  pdfMake.createPdf(docDefinition).download('RMI_Insights_Export_'+this.companySelected+'_'+ '.pdf');
+
+                })
+            })
+        })
+    });
+
+  }
+ 
   
 }
 @Component({

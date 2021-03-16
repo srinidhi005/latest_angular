@@ -43,7 +43,7 @@ initChangePassword(){
 
   goToNextSlide(){
     this.imageLoadComplete = false
-    if(this.index >0 && this.index < 6){
+    if(this.index >0 && this.index < 7){
       this.index ++; 
     }
     else{

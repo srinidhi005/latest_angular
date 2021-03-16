@@ -1,14 +1,16 @@
 
 <div class="row" style="height: 30px;">
   <div class="col"><h4>Adjust Income Statement Drivers</h4></div>
-  <div class="col-3" style="text-align: right;">
-    <div class="actuals"></div> <div class="labels" style="margin-right: 40px;">Historical</div>
-    <div class="projections"></div> <div class="labels" style="margin-right: 10px;">Projection</div>
-  </div>
+ <!-- <div class="col-3" style="text-align: right;">
+    <div class="actuals"></div> <div class="labels" style="margin-right: 40px;font-family: Roboto,Helvetica Neue,sans-serif;font-size: 14px;  font-weight: 500">Historical</div>
+    <div class="projections"></div> <div class="labels" style="margin-right: 10px;font-family: Roboto,Helvetica Neue,sans-serif;font-size: 14px;font-weight: 500;">Projection</div>
+ </div>-->
 </div>
 <div fxLayout="row" class="header" style="margin-bottom: 10px">
   <div fxLayout="row" fxLayoutAlign="start center">
     <span style="font-weight:bold">{{ companySelected }} - {{loadedScenario}}  </span>
+    <div class="actuals" style="margin-left: 40px;"></div> <div class="labels" style="margin-right: 40px;">Historical</div>
+    <div class="projections"></div> <div class="labels" style="margin-right: 10px;">Projection</div>
   </div>
   <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px">
     <button mat-button (click)="addScenario()" [disabled]="inprogress" matTooltip="Add Scenario"

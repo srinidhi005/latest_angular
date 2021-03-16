@@ -387,7 +387,7 @@ export class VisualsCfComponent implements OnInit {
                   chart: { type: 'areaspline', animation: false },
                   title: { text: 'Dividends Paid' },
                   yAxis: {
-		    title: { text: 'USD',
+		    title: { text: 'USD (millions)',
 			 style: {
                         fontSize: '14px',
                       } 
@@ -464,7 +464,7 @@ export class VisualsCfComponent implements OnInit {
                     ...tooltip,
                     formatter: function () {
                       return (
-                        Highcharts.numberFormat(this.point.y, 0) + ' USD'
+                        Highcharts.numberFormat(this.point.y, 0) + ' millions'
                       );
                     },
                   },
@@ -883,7 +883,7 @@ export class VisualsCfComponent implements OnInit {
 
     this.CFOOptions = {
       chart: { type: 'column', animation: false },
-      title: { text: 'Cash Flow from Operating Activities ("CFO")' },
+      title: { text: 'Cash Flow from Operating Activities (CFO)' },
       yAxis: { title: { text: 'USD',
 	style: {
                         fontSize: '14px',
@@ -936,7 +936,7 @@ export class VisualsCfComponent implements OnInit {
     };
     this.CFIOptions = {
       chart: { type: 'column', animation: false },
-      title: { text: 'Cash Flow from Investing Activities ("CFI")' },
+      title: { text: 'Cash Flow from Investing Activities (CFI)' },
       yAxis: { title: { text: 'USD',
 		style: {
                         fontSize: '14px',
@@ -988,7 +988,7 @@ export class VisualsCfComponent implements OnInit {
     };
     this.CFFOptions = {
       chart: { type: 'column', animation: false },
-      title: { text: 'Cash Flow from Financing Activities ("CFF")' },
+      title: { text: 'Cash Flow from Financing Activities (CFF)' },
       yAxis: { title: { text: 'USD',
 	style:{fontSize:'14px'
 	 },

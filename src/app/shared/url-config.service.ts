@@ -35,6 +35,9 @@ export class UrlConfigService {
    private dcfscenarioAPI = `${environment.APIHost}dcf-scenarios?company=`;
  private benchmarkingActualsAPI = `${environment.APIHost}benchmarking-actuals?company=`;
    private benchmarkingProjectionsAPI = `${environment.APIHost}benchmarking-projections?company=`;
+private creditScoreCardAPI = `${environment.APIHost}financial-scorecard?company=`;
+
+
 
   constructor(private http: HttpClient) {}
 	getdcfCompaniesAPI()
@@ -64,6 +67,9 @@ export class UrlConfigService {
   getDCFAPI() {
     return this.DCFAPI;
   }
+getCreditScoreCardAPI(){
+   return this.creditScoreCardAPI;
+ }
   getDeleteStatementAPI() {
     return this.deleteStatementAPI;
   }

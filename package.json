@@ -46,6 +46,7 @@
     "jspdf-autotable": "^3.5.13",
     "latest": "^0.2.0",
     "ng2-tel-input": "^2.3.0",
+    "ngx-pagination": "^5.0.0",
     "os": "^0.1.1",
     "pdfmake": "^0.1.68",
     "rxjs": "~6.6.3",

@@ -169,3 +169,8 @@ th {
   ::ng-deep .mat-simple-snackbar-action button{
     color: lightgreen;
   }
+
+  ::ng-deep .ngx-pagination{
+  text-align: right;
+  padding: 20px 10px;
+}

@@ -5,7 +5,7 @@ import { environment } from 'src/environments/environment';
   providedIn: 'root',
 })
 export class UrlConfigService {
-  private statementAPI = `${environment.APIHost}statements?user=`;
+  private statementAPI = `${environment.APIHost}statements?employer=`;
   private deleteStatementAPI = `${environment.APIHost}deletestatement?companyname=`;
   private downloadStatementAPI = `${environment.APIHost}download_file?companyname=`;
   private uploadStatementAPI = `${environment.APIHost}upload_file`;

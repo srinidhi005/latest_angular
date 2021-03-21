@@ -6,33 +6,33 @@
 
 <img id='imgToExport' #imagecanvas src='https://app.rmiinsights.com/assets/images/RMI_logo.jpg' style='display:none' height="400" width="600"> 
 <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px" style="margin-right: 35px;">
- <span class="headerLabel"  fxFlex = "85" ><span style="font-weight:bold">{{ companySelected }} - {{scenarioName}} </span></span>
+ <span class="headerLabel"  fxFlex = "85" ><span style="font-weight:bold;font-size: 22px">{{ companySelected }} - {{scenarioName}} </span></span>
      
     <button mat-button (click)="exportToXLSX()" matTooltip="Export to XLSX"
-    matTooltipPosition='above'><mat-icon>sim_card</mat-icon></button>
+    matTooltipPosition='above' style="font-size: 22px"><mat-icon style="font-size: 26px">sim_card</mat-icon></button>
     <button mat-button (click)="exportToPDF()" matTooltip="Export to PDF"
-    matTooltipPosition='above'><mat-icon>picture_as_pdf</mat-icon></button>
-    <button mat-button [matMenuTriggerFor]="below"><mat-icon>exposure</mat-icon>Scenario<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
+    matTooltipPosition='above'><mat-icon style="font-size: 22px">picture_as_pdf</mat-icon></button>
+    <button mat-button [matMenuTriggerFor]="below" style="font-size: 22px"><mat-icon style="font-size: 22px">exposure</mat-icon>Scenario<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
     </button>
     <mat-menu #below="matMenu" yPosition="below">
       <button mat-menu-item *ngFor="let index of scenarioArray; let indexOfelement=index;">
-      <span *ngIf="indexOfelement==0;" (click)="loadScenario(indexOfelement)">Scenario 0</span> 
-      <span *ngIf="indexOfelement!=0;" (click)="loadScenario(indexOfelement)">Scenario {{index}}</span>
+      <span *ngIf="indexOfelement==0;" (click)="loadScenario(indexOfelement)" style="font-size: 22px">Scenario 0</span> 
+      <span *ngIf="indexOfelement!=0;" (click)="loadScenario(indexOfelement)" style="font-size: 22px">Scenario {{index}}</span>
     </button>
     </mat-menu>
-  <button mat-button [matMenuTriggerFor]="above"><mat-icon> insert_chart</mat-icon>Visuals<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
+  <button mat-button [matMenuTriggerFor]="above" style="font-size: 22px"><mat-icon style="font-size: 22px"> insert_chart</mat-icon>Visuals<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
   </button>
 <mat-menu #above="matMenu" yPosition="below">
-  <button mat-menu-item routerLink="/visualsIS">Income Statement</button>
-  <button mat-menu-item routerLink="/visualsBS">Balance Sheet</button>
-  <button mat-menu-item routerLink="/visualsCF">Cash Flow Statement</button>
+  <button mat-menu-item routerLink="/visualsIS" style="font-size: 22px">Income Statement</button>
+  <button mat-menu-item routerLink="/visualsBS" style="font-size: 22px">Balance Sheet</button>
+  <button mat-menu-item routerLink="/visualsCF" style="font-size: 22px">Cash Flow Statement</button>
 </mat-menu>
-<button mat-button [matMenuTriggerFor]="right">
-      <mat-icon> insert_chart</mat-icon>Financial Statements<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
+<button mat-button [matMenuTriggerFor]="right" style="font-size: 22px">
+      <mat-icon style="font-size: 22px"> insert_chart</mat-icon>Financial Statements<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
     </button>
     <mat-menu #right="matMenu" yPosition="below">
-      <button mat-menu-item routerLink="/IncomeStatementMetrics">Income Statement</button>
-      <button mat-menu-item routerLink="/cashmetrics">Cash Flow Statement</button>
+      <button mat-menu-item routerLink="/IncomeStatementMetrics" style="font-size: 22px">Income Statement</button>
+      <button mat-menu-item routerLink="/cashmetrics" style="font-size: 22px">Cash Flow Statement</button>
     </mat-menu>
 
   </div>

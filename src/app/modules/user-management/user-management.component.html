@@ -12,8 +12,7 @@
 		</div>
 		<div class="col-1" *ngIf = "authService.currentUserRoles?.indexOf('Admin') >=0 || authService.currentUserRoles?.indexOf('SuperAdmin') >=0">
 
-			<span (click)="openPopUpModal(addUser); getShowAddUser('add')" class="material-icons" style="cursor: pointer;"
-				style="font-size: 40px;width:55px;height:45px">
+			<span (click)="openPopUpModal(addUser); getShowAddUser('add')" class="material-icons" style="cursor: pointer;font-size: 40px;width:55px;height:45px" matTooltip="Add User">
 				person_add
 			</span>
 
@@ -59,8 +58,8 @@
 
 						</td>
 					</tr>
-					<ng-template ngFor [ngForOf]="usersList" let-user let-rowIndex="index">
-						<tr>
+				
+		<tr *ngFor = "let user of filteredListOfUsers | paginate: { itemsPerPage: 15, currentPage: currentPage },let rowIndex=index">
 							<td style="width: 75px;"> <img [src]="user.picture" [title]="user.nickname"
 									style="border-radius:50px;height:50px"></td>
 							<td>
@@ -98,9 +97,11 @@
 								</span>
 							</td>
 						</tr>
-					</ng-template>
+				
 				</tbody>
 			</table>
+			</ng-template>
+			<pagination-controls (pageChange)="currentPage = $event" [autoHide] = "true"></pagination-controls>
 			<!-- <div class="row">
                     <ng-template ngFor [ngForOf] = "usersList" let-user>
                         <div class="card col-4">
@@ -113,7 +114,7 @@
                         </div>
                     </ng-template>
                 </div> -->
-		</ng-template>
+		
 	</div>
 </div>
 

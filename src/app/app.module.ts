@@ -27,6 +27,7 @@ import { LoginComponent } from './modules/login/login.component';
 import { RMIAPIsService } from './shared/rmiapis.service';
 import { UrlConfigService } from './shared/url-config.service';
 import { UserManagementComponent } from './modules/user-management/user-management.component';
+import {NgxPaginationModule} from 'ngx-pagination';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 //import { SubscriptionComponent } from './modules/subscription/subscription.component';
 //import { MessagePopupComponent } from './modules/message-popup/message-popup.component';
@@ -55,9 +56,10 @@ declare var Chargebee: any;
     MatInputModule,
     MatSelectModule,
     MatOptionModule,
+    NgxPaginationModule,
     MatIconModule,
     MatCardModule,
-	MatRadioModule,
+    MatRadioModule,
     FormsModule,
     ReactiveFormsModule,
     MatProgressSpinnerModule,

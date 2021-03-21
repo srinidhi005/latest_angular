@@ -109,11 +109,12 @@ export class StatementComponent implements OnInit {
 
 
 	ELEMENT_DATA.length=0;
-    const nickname = localStorage.getItem('nickname');
+	  const nickname = localStorage.getItem('nickname');
+	  const employer = localStorage.getItem('employer');
     this.progressBar = true;
-    const val = this.urlConfig.getStatementAPI() + nickname;
+    const val = this.urlConfig.getStatementAPI() + employer;
     this.apiService
-      .getData(this.urlConfig.getStatementAPI() + nickname)
+      .getData(this.urlConfig.getStatementAPI() + employer)
       .subscribe((res: any) => {
 		   if (res == '') {
 			    this.progressBar = false;

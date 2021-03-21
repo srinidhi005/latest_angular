@@ -1,0 +1,141 @@
+
+Page#1
+Table of Contents 
+Noodles & Company
+Consolidated Balance Sheets
+(in thousands, except share data)
+ 
+January 1, 2019 January 2, 2018
+Assets  
+Current assets:  
+Cash and cash equivalents $ 4,655 $ 3,361
+Accounts receivable 2,391 2,434
+Inventories 9,646 9,929
+Prepaid expenses and other assets 6,474 6,258
+Income tax receivable 185 76
+Total current assets 23,351 22,058
+Property and equipment, net 138,774 152,593
+Goodwill 6,400 6,400
+Intangibles, net 1,291 1,565
+Other assets, net 2,216 2,617
+Total long-term assets 148,681 163,175
+Total assets $ 172,032 $ 185,233
+Liabilities and Stockholders’ Equity  
+Current liabilities:  
+Accounts payable $ 7,854 $ 10,929
+Accrued payroll and benefits 13,391 11,719
+Accrued expenses and other current liabilities 11,183 21,221
+Current portion of long-term debt 719 —
+Total current liabilities 33,147 43,869
+Long-term debt, net 44,183 57,624
+Deferred rent 37,334 38,872
+Deferred tax liabilities, net 133 416
+Other long-term liabilities 4,554 8,591
+Total liabilities 119,351 149,372
+Commitments and contingencies
+Stockholders’ equity: 
+Preferred stock—$0.01 par value, 1,000,000 shares authorized and undesignated as
+of January 1, 2019 and January 2, 2018; no shares issued or outstanding — —
+Common stock—$0.01 par value, 180,000,000 shares authorized as of January 1,
+2019 and January 2, 2018; 46,353,309 issued and 43,929,438 outstanding as of
+January 1, 2019 and 43,550,329 issued and 41,126,458 outstanding as of January
+2, 2018 464 436
+Treasury stock, at cost, 2,423,871 shares as of January 1, 2019 and January 2, 2018,
+respectively (35,000) (35,000)
+Additional paid-in capital 198,352 171,613
+Accumulated deficit (111,135) (101,188)
+Total stockholders’ equity 52,681 35,861
+Total liabilities and stockholders’ equity $ 172,032 $ 185,233
+See accompanying notes to consolidated financial statements.
+51
+Page#2
+Table of Contents 
+Noodles & Company
+Consolidated Statements of Operations
+(in thousands, except share and per share data)
+ 
+Fiscal Year Ended
+January 1, January 2, January 3,
+ 2019 2018 2017
+Revenue: 
+Restaurant revenue $ 453,671 $ 451,599 $ 482,544
+Franchising royalties and fees 4,170 4,893 4,930
+Total revenue 457,841 456,492 487,474
+Costs and expenses: 
+Restaurant operating costs (exclusive of depreciation and amortization shown
+separately below): 
+Cost of sales 121,102 121,473 130,630
+Labor 149,746 150,161 161,219
+Occupancy 49,020 51,877 55,912
+Other restaurant operating costs 65,575 64,091 73,011
+General and administrative 46,092 39,746 55,654
+Depreciation and amortization 22,872 24,613 28,134
+Pre-opening 50 935 3,131
+Restaurant impairments, closure costs and asset disposals 7,142 37,446 47,311
+Total costs and expenses 461,599 490,342 555,002
+Loss from operations (3,758) (33,850) (67,528)
+Loss on extinguishment of debt 626 — —
+Interest expense, net 4,305 3,839 2,916
+Loss before income taxes (8,689) (37,689) (70,444)
+(Benefit) provision for income taxes (248) (207) 1,233
+Net loss (8,441) (37,482) (71,677)
+Accretion of preferred stock to redemption value — (7,967) —
+Net loss attributable to common stockholders $ (8,441) $ (45,449) $ (71,677)
+Loss per Class A and Class B common stock, combined 
+Basic $ (0.20) $ (1.20) $ (2.58)
+Diluted $ (0.20) $ (1.20) $ (2.58)
+Weighted average Class A and Class B common stock outstanding, combined 
+Basic 42,329,556 37,759,497 27,808,708
+Diluted 42,329,556 37,759,497 27,808,708
+See accompanying notes to consolidated financial statements.
+52
+Page#3
+Table of Contents 
+Noodles & Company
+Consolidated Statements of Cash Flows
+(in thousands)
+ 
+Fiscal Year Ended
+January 1, January 2, January 3,
+ 2019 2018 2017
+Operating activities 
+Net loss $ (8,441) $ (37,482) $ (71,677)
+Adjustments to reconcile net loss to net cash provided by operating activities: 
+Depreciation and amortization 22,872 24,613 28,134
+Deferred income taxes, net (283) (228) 1,099
+Restaurant impairments, closure costs and asset disposals 6,992 30,859 45,536
+Loss on extinguishment of debt 626 — —
+Amortization of debt issuance costs 607 465 140
+Stock-based compensation 2,979 1,514 2,319
+Loss on liquidation of Canadian subsidiary — 70 —
+Gain on insurance proceeds received for property damage (370) — (494)
+Changes in operating assets and liabilities:  
+Accounts receivable 91 2,976 (443)
+Inventories (541) (387) (790)
+Prepaid expenses and other assets 185 332 162
+Accounts payable (1,580) (1,302) (2,440)
+Deferred rent (1,396) 1,597 5,328
+Income taxes (109) 180 564
+Accrued expenses and other liabilities (16,286) (19,105) 17,299
+Net cash provided by operating activities 5,346 4,102 24,737
+Investing activities 
+Purchases of property and equipment (14,338) (20,828) (43,335)
+Insurance proceeds received for property damage 500 — 578
+Net cash used in investing activities (13,838) (20,828) (42,757)
+Financing activities 
+Net repayments from swing line loan (101) (96) (1,649)
+Proceeds from borrowings on long-term debt 74,889 10,532 19,800
+Payments on long-term debt (87,030) (37,015) (1,000)
+Debt issuance costs (1,713) (938) (347)
+Issuance of preferred stock and common stock warrants, net of transaction
+expenses (see Note 8) — 16,589 —
+Issuance of common stock, net of transaction expenses (see Note 8) 22,992 29,110 —
+Proceeds from exercise of stock options and employee stock purchase plan 749 83 1,100
+Net cash provided by financing activities 9,786 18,265 17,904
+Effect of exchange rate changes on cash — (15) 41
+Net increase (decrease) in cash and cash equivalents 1,294 1,524 (75)
+Cash and cash equivalents  
+Beginning of year 3,361 1,837 1,912
+End of year $ 4,655 $ 3,361 $ 1,837
+See accompanying notes to consolidated financial statements.
+55

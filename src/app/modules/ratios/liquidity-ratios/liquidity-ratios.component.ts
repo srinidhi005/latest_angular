@@ -53,23 +53,23 @@ export class LiquidityRatiosComponent implements OnInit, OnChanges {
       });
       this.actualSpan = actualColumns.length;
       this.projectionSpan = projectionColumn.length;
-      const currentRatio: any = {
+      const currentratio: any = {
         name: this.dataColumns[0],
       };
       actualColumns.forEach((d: any) => {
-        currentRatio[d.value] = this.actuals[d.index].currentRatio || 0;
+        currentratio[d.value] = this.actuals[d.index].currentratio || 0;
       });
       projectionColumn.forEach((d: any) => {
-        currentRatio[d.value] = this.projections[d.index].currentRatio || 0;
+     	currentratio[d.value] = this.projections[d.index].currentratio || 0;
       });
       averages.forEach((a) => {
         if (a.isActual) {
-          currentRatio[a.value] = this.actuals[a.index].currentRatio || 0.0;
+          currentratio[a.value] = this.actuals[a.index].currentratio || 0.0;
         } else {
-          currentRatio[a.value] = this.projections[a.index].currentRatio || 0.0;
+          currentratio[a.value] = this.projections[a.index].currentratio || 0.0;
         }
       });
-      this.data.push(currentRatio);
+      this.data.push(currentratio);
       const quickratio: any = {
         name: this.dataColumns[1],
       };

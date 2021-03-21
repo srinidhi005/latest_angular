@@ -33,6 +33,10 @@ export class UserManagementComponent implements OnInit {
   usersList;
   roleName;
   MappedUsers;
+filteredListOfUsers=[];
+  pageSize = 10;
+  currentPage = 1;
+  totalLength = 0;
 currentUser;
 //loggedInUserId;
 picture;
@@ -68,6 +72,8 @@ picture;
   }
 
   ngOnInit(): void {
+ 
+
 this.excelService.selectedDashboardMenu = 'profile'
 if(this.authService.currentUserRoles?.indexOf('Admin') >=0 || this.authService.currentUserRoles?.indexOf('SuperAdmin') >=0){
 
@@ -104,14 +110,16 @@ this.apiService
                     const userexist =
                       this.loggedInUserDetails.nickname == usermap.nickname;
                     return !userexist;
-                  });
+		  });
+		this.filteredListOfUsers = this.usersList
                 } else {
-                  this.usersList = response['body'].filter((usermap) => {
+		  this.usersList = response['body'].filter((usermap) => {
                     const userexist = this.MappedUsers.find(
                       (u) => u.inviteduser === usermap.user_id
                     );
                     return userexist;
-                  });
+		  });
+		this.filteredListOfUsers = this.usersList
                 }
               }
             },
@@ -145,7 +153,9 @@ this.apiService
   }
 
   deleteUser(index) {
+
     const toBeDeletedUser = this.usersList.splice(index, 1)[0];
+ this.filteredListOfUsers = this.usersList
     //deleting user from the auth0
     this.authService.deleteUser(toBeDeletedUser.user_id).subscribe(
       (res) => {
@@ -284,7 +294,8 @@ this.apiService
                   .subscribe(
                     (update) => {
                       console.log('updateusers', update);
-                      this.usersList.push(update.body);
+		      this.usersList.unshift(update.body);
+		      this.filteredListOfUsers = this.usersList
                       this.openSnackBar('User created Successfully!');
                       const idOnly = res['body']['user_id'].indexOf("|");
                       const createdUserId : string = res['body']['user_id']
@@ -369,4 +380,26 @@ this.apiService
   openPopUpModal(content) {
     this.modalService.open(content, { centered: true });
   }
+
+pageChanged(event){
+    this.currentPage = event
+  }
+
+  applyFilter(event){
+    event.target.value;
+    if(event.target.value){
+      this.filteredListOfUsers = this.usersList.filter( user => {
+          const u = user.nickname.toLowerCase();
+          const v = event.target.value.toLowerCase();
+          const index = u.indexOf(v);
+          const filter = index >= 0 ? true : false;
+          return filter;
+       })
+    }
+    else if(event?.target?.value == ""){
+      this.filteredListOfUsers = this.usersList;
+    }
+  }
+
+
 }

@@ -2,90 +2,130 @@ import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
 import { FormControl, Validators, FormGroup } from '@angular/forms';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { RMIAPIsService } from '../../shared/rmiapis.service';
-import {MatSnackBar,MatSnackBarHorizontalPosition,MatSnackBarVerticalPosition} from '@angular/material/snack-bar';
+import { ExcelService } from 'src/app/shared/excel.service';
+import { AuthService } from 'src/app/auth.service';
+import {
+  MatSnackBar,
+  MatSnackBarHorizontalPosition,
+  MatSnackBarVerticalPosition,
+} from '@angular/material/snack-bar';
+import { Router } from '@angular/router';
 @Component({
   selector: 'app-user-details',
   templateUrl: './user-details.component.html',
-  styleUrls: ['./user-details.component.scss']
+  styleUrls: ['./user-details.component.scss'],
 })
-
 export class UserDetailsComponent implements OnInit {
-  @ViewChild('uploadFile',{static: false}) uploadFile: ElementRef;
+  @ViewChild('uploadFile', { static: false }) uploadFile: ElementRef;
   horizontalPosition: MatSnackBarHorizontalPosition = 'center';
   verticalPosition: MatSnackBarVerticalPosition = 'top';
-  userid: any;  
-  nickname: any;
+   firstname: any;
+   nickname:any;
+  lastname: any;
   email:any;
-  geography:any[]=['APAC', 'EMEA', 'LATAM','NA'];
-  companysize:any[]=['1-10','11-100','101-1000','1001-10000','10000+'];
-  industry:any[]=['Communications', 'Consumer & Retail','Distribution & Logistics', 'Energy & Natural Resources','Entertainment & Media','Financial Institutions & Sponsors', 'Food & Beverage', 'General Services', 'Healthcare','Hospitality','Industrials','Power, Infrastructure & Utilities','Real Estate','Technology','Telecommunications','Transportation']
-  capatialization:any[]=['USD 1M+','USD 10M+','USD 100M+'];
-  revenue:any[]=['Above USD 1M','Above USD 10M','Above USD 50M','Above USD 100M'];
-  firstname:any;
-  lastname:any;
+  userid:any;
   title: any;
   industryInput: any;
   zipcode: any;
   address: any;
   city: any;
+  gender: any[] = [
+    'Male',
+    'Female',
+    'Others',
+    'I prefer not to say',
+  ];
   country: any;
   capitalisation: any;
   state: any;
   geographyInput: any;
   company: any;
+  selectedGender: 'Gender'
   revenueInput: any;
   companysizeInput: any;
-  contact:any;
-  capatializationInput:any;
+  contact: any;
+  capatializationInput: any;
   inprogress: boolean = false;
   form = new FormGroup({
-    userid: new FormControl({value:"", disabled: true}, [Validators.required]),
-    email: new FormControl({value:"", disabled: true}, [Validators.required]),
-    firstname: new FormControl(null, [Validators.required]),
-    lastname: new FormControl(null, [Validators.required]),
-    contactnumber: new FormControl(null, [Validators.required]),
-    company: new FormControl(null, [Validators.required]),
-    title: new FormControl(null, [Validators.required]),
-    address: new FormControl(null, [Validators.required]),
-    country: new FormControl(null, [Validators.required]),
-    zipcode: new FormControl(null, [Validators.required]),
-    state: new FormControl(null, [Validators.required]),
-    city: new FormControl(null, [Validators.required]),
-    industry: new FormControl(null, [Validators.required]),
-    geography: new FormControl(null, [Validators.required]),
-    companysize: new FormControl(null, [Validators.required]),
-    capatialization: new FormControl(null, [Validators.required]),
-    revenue: new FormControl(null, [Validators.required]),
+    userid: new FormControl({ value: '', disabled: true }, [
+      Validators.required,
+    ]),
+    email: new FormControl({ value: '', disabled: true }, [
+      Validators.required,
+    ]),
+    firstname: new FormControl('',[Validators.required]),
+    lastname: new FormControl('',[Validators.required]),
+    contactnumber: new FormControl('',[Validators.required]),
+    gender: new FormControl(null),
+    company:new FormControl( null),
+    title: new FormControl(null),
+    address:new FormControl( null),
+    country:new FormControl( null),
+    zipcode:new FormControl(null),
+    state: new FormControl(null),
+    city:new FormControl( null),
+    industry:new FormControl(null),
+    geography: new FormControl(null),
+    companysize: new FormControl(null),
+    capatialization:new FormControl( null),
+    revenue:new FormControl(null),
   });
-  constructor(private RMIAPIsService: RMIAPIsService,
-    private UrlConfigService:UrlConfigService,
-    private _snackBar: MatSnackBar
-  ) { }
+  constructor(
+    private RMIAPIsService: RMIAPIsService,
+    private UrlConfigService: UrlConfigService,
+    private _snackBar: MatSnackBar,
+    private router : Router,
+private excelService : ExcelService,
+    private authService :AuthService
+  ) {}
 
-  ngOnInit():void{
+  ngOnInit(): void {
+
+
+
     this.nickname = localStorage.getItem('nickname');
     this.email = localStorage.getItem('email');
     this.userid = this.nickname;
-    this.RMIAPIsService.getData(this.UrlConfigService.getuserProfileDetail()+this.nickname+"&email="+this.email)
-    .subscribe((res:any)=>{
+    this.RMIAPIsService.getData(
+      this.UrlConfigService.getuserProfileDetail() +
+        this.nickname +
+        '&email=' +
+        this.email
+    ).subscribe((res: any) => {
       console.log(res);
-      this.firstname = res[0].firstname;
-      this.lastname = res[0].lastname;
-      this.title = res[0].title;
-      this.industryInput = res[0].industry;
-      this.zipcode = res[0].zipcode;
-      this.address = res[0].address;
-      this.city = res[0].city;
-      this.country = res[0].country;
-      this.capatializationInput = res[0].capitalisation;
-      this.state  = res[0].state;
-      this.geographyInput = res[0].geography;
-      this.company = res[0].companyname;
-      this.revenueInput = res[0].revenue;
-      this.companysizeInput = res[0].companysize;
-      this.contact = res[0].contact;
+      this.firstname = res[0]? res[0].firstname != "null" ? res[0].firstname: '' :'';
+      this.lastname = res[0]?res[0].lastname != "null" ? res[0].lastname : '' : '';
+      this.title = res[0]?res[0].title:'';
+      this.selectedGender = res[0]?res[0].gender != null ? res[0].gender : '':'';
+      this.industryInput = res[0]?res[0].industry:'';
+      this.zipcode = res[0]?res[0].zipcode:'';
+      this.address = res[0]?res[0].address:'';
+      this.city = res[0]?res[0].city:'';
+      this.country = res[0]?res[0].country:'';
+      this.capatializationInput = res[0]?res[0].capitalisation:'';
+      this.state = res[0]?res[0].state:'';
+      this.geographyInput = res[0]?res[0].geography:'';
+      this.company = res[0]?res[0].companyname:'';
+      this.revenueInput = res[0]?res[0].revenue:'';
+      this.companysizeInput = res[0]?res[0].companysize:'';
+      this.contact = res[0]?res[0].contact:'';
     });
   }
+
+changePassword(){
+    const popUpMsg = "To change your password click on Confirm. On Confirmation you will receive an email with instructions to change your password."
+    const dialogRef = this.excelService.showConfirmMessage(popUpMsg, "Confirm", "Cancel", '600px', '160px')
+    dialogRef.afterClosed().subscribe(action => {
+      if(action == "Yes"){
+        this.authService.changePassword(this.email).subscribe( success => {
+          console.log("Sent password chnage email", success)
+        }, error => {
+          console.log("Sent password chnage email", error)
+        })
+      }
+    })
+  }
+
 
   hasError(field: string, error: string) {
     const control = this.form.get(field);
@@ -99,36 +139,43 @@ export class UserDetailsComponent implements OnInit {
       return;
     }
     var postForm = new FormData();
-    postForm.append("userid", nickname);
-    postForm.append("email", this.email);
-    postForm.append("firstname", this.form.value.firstname);
-    postForm.append("lastname", this.form.value.lastname);
-    postForm.append("contactnumber", this.form.value.contactnumber);
-    postForm.append("company", this.form.value.company);
-    postForm.append("title", this.form.value.title);
-    postForm.append("address", this.form.value.address);
-    postForm.append("country", this.form.value.country);
-    postForm.append("zipcode", this.form.value.zipcode);
-    postForm.append("state", this.form.value.state);
-    postForm.append("city", this.form.value.city);
-    postForm.append("industry", this.form.value.industry);
-    postForm.append("geography", this.form.value.geography);
-    postForm.append("companysize", this.form.value.companysize);
-    postForm.append("capatialization", this.form.value.capatialization);
-    postForm.append("revenue", this.form.value.revenue);
+       postForm.append('userid', nickname);
+    postForm.append('email', this.email);
+    postForm.append('firstname', this.form.value.firstname);
+    postForm.append('lastname', this.form.value.lastname);
+    postForm.append('contactnumber', this.form.value.contactnumber);
+    postForm.append('gender', this.form.value.gender);
+    postForm.append('company', this.company);
+    postForm.append('title', this.title);
+    postForm.append('address', this.address);
+    postForm.append('country', this.country);
+    postForm.append('zipcode', this.zipcode);
+    postForm.append('state', this.state);
+    postForm.append('city', this.city);
+    postForm.append('industry', this.industryInput);
+    postForm.append('geography', this.geographyInput);
+    postForm.append('companysize', this.companysizeInput);
+    postForm.append('capatialization', this.capatializationInput);
+    postForm.append('revenue', this.revenueInput);
     console.log(JSON.stringify(postForm));
 
-   postForm.forEach((value,key) => {
-      console.log(key+" "+value)
+    postForm.forEach((value, key) => {
+      console.log(key + ' ' + value);
     });
-    
+
     this.inprogress = true;
-    this.RMIAPIsService.uploadUserData(this.UrlConfigService.getuserDetailAPI(),postForm)
-    .subscribe((res:any)=>{
-      this.inprogress=false;
+    this.RMIAPIsService.uploadUserData(
+      this.UrlConfigService.getuserDetailAPI(),
+      postForm
+    ).subscribe((res: any) => {
+      this.inprogress = false;
     });
   }
+
+  goToProfile(){
+    this.router.navigate(['/profile'])
   }
+}
 
 export function markAllAsDirty(form: FormGroup) {
   for (const control of Object.keys(form.controls)) {
@@ -137,7 +184,7 @@ export function markAllAsDirty(form: FormGroup) {
 }
 export function resetForm(form: FormGroup) {
   form.reset({
-    file: "",
+    file: '',
   });
-  form.get("file").markAsUntouched();
+  form.get('file').markAsUntouched();
 }

@@ -1,0 +1,103 @@
+.component-container > mat-card {
+  height: calc(100% - 104px);
+  overflow: auto;
+}
+
+.comp-header {
+  margin: -20px;
+  margin-bottom: 20px;
+}
+
+.comp-header > mat-card {
+  border-radius: 0;
+}
+
+.mat-card{
+  
+}
+
+.submit-action {
+  margin-top: -70px;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+.upload-btn {
+  margin-right: 20px;
+}
+
+.container-field {
+  margin: 0 2.5%;
+  width: 45%;
+}
+
+// .title {
+//   text-align: center;
+//   font-family: Roboto, 'Helvetica Neue', sans-serif;
+//   margin-top: 20px;
+//   margin-bottom: 40px;
+//   font-weight: 500;
+// }
+mat-form-field {
+  margin-top: 5px;
+}
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.header-container > p {
+  margin: 0;
+}
+
+.header-container > p:nth-child(1) {
+  cursor: pointer;
+  color: dodgerblue;
+  outline: none;
+  margin-right: 4px;
+}
+
+.header-container > p:nth-child(2) {
+  margin-right: 4px;
+}
+form {
+  margin: auto;
+}
+button {
+  background-color: #164a5b;
+  color: #fff;
+}
+.mat-figure {
+  align-items: unset;
+  height: fit-content;
+}
+
+
+
+
+// .title {
+//   text-align: center;
+//   font-family: Roboto, 'Helvetica Neue', sans-serif;
+//   margin-top: 20px;
+//   margin-bottom: 40px;
+//   font-weight: 500;
+// }
+
+
+.company-profile-section {
+  width: 90%;
+  margin: 2% 5%;
+  padding: 3%;
+}
+
+.title {
+  text-align: center;
+  font-size: x-large;
+  margin: 15px auto;
+  font-family: Roboto,"Helvetica Neue",sans-serif;
+  font-weight: 400;
+}

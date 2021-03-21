@@ -1,0 +1,55 @@
+
+Page#1
+Aria Services, Inc.
+Balance Sheet
+2017 2018
+ASSETS
+Current Assets
+Checking/Savings
+Allegiance Savings 9971 250,248.53 0.00
+BB&T Checking 0026 31,440.00 31,246.65
+BB&T Checking 1928 250,345.81 251,184.38
+BB&T Savings 0034 248,223.08 249,097.72
+BBVA Compass 5546 250,572.90 253,160.21
+BOA Checking 3348 760,524.27 242,881.28
+TDECU MM 01731 0.00 201,304.69
+TDECU Share 48189 0.00 5.00
+Total Checking/Savings 1,791,354.59 1,228,879.93
+Accounts Receivable
+Accounts Receivable 432,390.38 270,630.37
+Total Accounts Receivable 432,390.38 270,630.37
+Other Current Assets
+Due from Shareholders 1,000.00 1,000.00
+Total Other Current Assets 1,000.00 1,000.00
+Total Current Assets 2,224,744.97 1,529,505.30
+Fixed Assets
+Accumulated Amortization ‐1,290.00 ‐1,290.00
+Accumulated Depreciation ‐27,496.90 ‐31,472.90
+Computers 12,726.74 14,745.49
+Furniture 9,680.36 9,680.36
+Software 18,874.41 18,874.41
+Start‐up Costs 1,290.00 1,290.00
+Total Fixed Assets 13,784.61 11,827.36
+Other Assets
+Alowance for Doubtful Account ‐12,000.00 ‐12,000.00
+Prepaid Insurance 40,995.00 40,995.00
+Total Other Assets 28,995.00 28,995.00
+TOTAL ASSETS 2,267,524.58 1,541,332.66
+LIABILITIES & EQUITY
+Liabilities
+Current Liabilities
+Accounts Payable
+Accounts Payable 33,334.89 25,552.19
+Franchise Tax Payable 8,307.00 3,079.00
+Total Accounts Payable 41,641.89 28,631.19
+Other Current Liabilities
+Payroll Liabilities 294 1,238.72
+Total Current Liabilities 41,935.89 29,869.91
+Total Liabilities 41,935.89 29,869.91
+Equity
+Capital Stock 1,000.00 1,000.00
+Retained Earnings 1,957,607.99 2,224,587.69
+Shareholder Distribution ‐621,000.00 ‐949,999.00
+Net Income 887,980.70 235,874.06
+Total Equity 2,225,588.69 1,511,462.75
+TOTAL LIABILITIES & EQUITY 2,267,524.58 1,541,332.66

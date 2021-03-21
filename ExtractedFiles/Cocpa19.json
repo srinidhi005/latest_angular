@@ -1,0 +1,81 @@
+[annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9995606541633606
+  text_segment {
+    start_offset: 4435
+    end_offset: 4460
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.7424972057342529
+  text_segment {
+    start_offset: 4481
+    end_offset: 4505
+    content: "Accounts receivable, net"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.9712825417518616
+  text_segment {
+    start_offset: 4601
+    end_offset: 4628
+    content: "Property and equipment, net"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9842930436134338
+  text_segment {
+    start_offset: 4645
+    end_offset: 4657
+    content: "Total Assets"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9999679327011108
+  text_segment {
+    start_offset: 4709
+    end_offset: 4725
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9922131896018982
+  text_segment {
+    start_offset: 4745
+    end_offset: 4764
+    content: "Accrued liabilities"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.9913704991340637
+  text_segment {
+    start_offset: 4814
+    end_offset: 4831
+    content: "Total Liabilities"
+  }
+}
+, annotation_spec_id: "1975506835276300288"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.24381648004055023
+  text_segment {
+    start_offset: 5047
+    end_offset: 5079
+    content: "Total Liabilities and Net Assets"
+  }
+}
+]

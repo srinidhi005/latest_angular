@@ -1,0 +1,261 @@
+[annotation_spec_id: "6853749656648679424"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9999997615814209
+  text_segment {
+    start_offset: 70
+    end_offset: 96
+    content: "CONSOLIDATED BALANCE SHEET"
+  }
+}
+, annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9999996423721313
+  text_segment {
+    start_offset: 196
+    end_offset: 221
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.5968552231788635
+  text_segment {
+    start_offset: 273
+    end_offset: 297
+    content: "Accounts receivable, net"
+  }
+}
+, annotation_spec_id: "7495512603548975104"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9999995827674866
+  text_segment {
+    start_offset: 390
+    end_offset: 410
+    content: "Total current assets"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.9985515475273132
+  text_segment {
+    start_offset: 458
+    end_offset: 485
+    content: "Property and equipment, net"
+  }
+}
+, annotation_spec_id: "83994991780691968"
+display_name: "Goodwill"
+text_extraction {
+  score: 0.9999998807907104
+  text_segment {
+    start_offset: 498
+    end_offset: 506
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "6103759581203136512"
+display_name: "IntangibleAssets"
+text_extraction {
+  score: 0.9595654010772705
+  text_segment {
+    start_offset: 519
+    end_offset: 536
+    content: "Intangible assets"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9998372197151184
+  text_segment {
+    start_offset: 622
+    end_offset: 634
+    content: "Total assets"
+  }
+}
+, annotation_spec_id: "5429345537004404736"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.9995784759521484
+  text_segment {
+    start_offset: 711
+    end_offset: 726
+    content: "Short-term debt"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9999963045120239
+  text_segment {
+    start_offset: 737
+    end_offset: 753
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9494876265525818
+  text_segment {
+    start_offset: 762
+    end_offset: 808
+    content: "Accrued expenses and other current liabilities"
+  }
+}
+, annotation_spec_id: "3789331585199767552"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9999973773956299
+  text_segment {
+    start_offset: 930
+    end_offset: 955
+    content: "Total current liabilities"
+  }
+}
+, annotation_spec_id: "2337624392814559232"
+display_name: "LongTermDebt"
+text_extraction {
+  score: 0.9997091889381409
+  text_segment {
+    start_offset: 1019
+    end_offset: 1033
+    content: "Long-term debt"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.9930443167686462
+  text_segment {
+    start_offset: 1125
+    end_offset: 1142
+    content: "Total liabilities"
+  }
+}
+, annotation_spec_id: "8415372827439398912"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9999997019767761
+  text_segment {
+    start_offset: 1497
+    end_offset: 1523
+    content: "Total stockholders\342\200\231 equity"
+  }
+}
+, annotation_spec_id: "1975506835276300288"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.9999995827674866
+  text_segment {
+    start_offset: 1537
+    end_offset: 1579
+    content: "Total liabilities and stockholders\342\200\231 equity"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9916524887084961
+  text_segment {
+    start_offset: 1774
+    end_offset: 1782
+    content: "revenues"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.981778621673584
+  text_segment {
+    start_offset: 1805
+    end_offset: 1825
+    content: "Cost of net revenues"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9999899864196777
+  text_segment {
+    start_offset: 1844
+    end_offset: 1856
+    content: "Gross profit"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9998242259025574
+  text_segment {
+    start_offset: 1965
+    end_offset: 1991
+    content: "General and administrative"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9961716532707214
+  text_segment {
+    start_offset: 2147
+    end_offset: 2169
+    content: "Income from operations"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9985107779502869
+  text_segment {
+    start_offset: 2223
+    end_offset: 2276
+    content: "Income from continuing operations before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9993724822998047
+  text_segment {
+    start_offset: 2295
+    end_offset: 2321
+    content: "Provision for income taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9963624477386475
+  text_segment {
+    start_offset: 2483
+    end_offset: 2493
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "3752471557390204928"
+display_name: "ConsolidatedCashFlows"
+text_extraction {
+  score: 0.9320443868637085
+  text_segment {
+    start_offset: 3076
+    end_offset: 3112
+    content: "CONSOLIDATED STATEMENT OF CASH FLOWS"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9395570755004883
+  text_segment {
+    start_offset: 3374
+    end_offset: 3403
+    content: "Depreciation and amortization"
+  }
+}
+]

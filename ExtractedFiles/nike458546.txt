@@ -1,0 +1,20 @@
+
+Page#1
+Years
+Total Revenue
+Revenue Y-O-Y Growth rate
+(-) Cost of Goods Sold (COGS)
+Gross Profit
+Gross Margin
+(-) Selling, General & Administrative Expense (SG&A)
+EBIT
+EBIT Margin
+(+) Depreciation & Amortization (D&A)
+EBITDA
+EBITDA Margin
+(-) Net Interest/Other Income Expense
+EBT
+EBT Margin
+(-) Taxes
+Net Income
+Net Income Margin

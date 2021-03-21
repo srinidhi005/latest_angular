@@ -1,0 +1,135 @@
+
+Page#1
+CONSOLIDATED STATEMENTS OF (LOSS) INCOME
+Twelve Months Ended
+December 31,
+2019 2018 2017
+(In millions, except per share amounts)
+Operating revenue $ 3,507.6 $ 3,412.1 $ 3,362.2
+Operating expenses:
+Cost of services (exclusive of depreciation and amortization below) 1,521.7 1,440.4 1,210.7
+Selling, general and administrative expenses 1,990.2 1,213.3 1,032.0
+Depreciation and amortization 331.1 310.4 287.8
+Total operating expenses 3,843.0 2,964.1 2,530.5
+Operating (loss) income (335.4) 448.0 831.7
+Interest expense (111.7) (103.5) (92.8)
+Other income, net 14.1 11.8 7.7
+Consolidated (loss) income before income taxes (433.0) 356.3 746.6
+Benefit (provision) for income taxes 40.2 (50.0) (148.6)
+Consolidated net (loss) income (392.8) 306.3 598.0
+Less: Net income attributable to noncontrolling interests including 
+redeemable noncontrolling interests (6.0) (6.5) (10.7)
+Net (loss) income attributable to Equifax $ (398.8) $ 299.8 $ 587.3
+Basic earnings per common share:
+Net (loss) income attributable to Equifax $ (3.30) $ 2.49 $ 4.89
+Weighted-average shares used in computing basic earnings per share 120.9 120.4 120.1
+Diluted earnings per common share:
+Net (loss) income attributable to Equifax $ (3.27) $ 2.47 $ 4.83
+Weighted-average shares used in computing diluted earnings per share 122.0 121.4 121.5
+Dividends per common share $ 1.56 $ 1.56 $ 1.56
+See Notes to Consolidated Financial Statements.
+63
+Page#2
+CONSOLIDATED BALANCE SHEETS
+December 31,
+2019 2018
+(In millions, except par values)
+ASSETS
+Current assets:
+Cash and cash equivalents $ 401.3 $ 223.6
+Trade accounts receivable, net of allowance for doubtful accounts of $11.2 and $10.9 at
+532.1 469.1
+ December 31, 2019 and 2018, respectively
+Prepaid expenses 88.1 100.0
+Other current assets 187.9 109.6
+Total current assets 1,209.4 902.3
+Property and equipment:
+Capitalized internal-use software and system costs 979.4 684.1
+Data processing equipment and furniture 325.1 344.6
+Land, buildings and improvements 236.3 216.1
+Total property and equipment 1,540.8 1,244.8
+Less accumulated depreciation and amortization (593.2) (480.0)
+Total property and equipment, net 947.6 764.8
+Goodwill 4,308.3 4,129.7
+Indefinite-lived intangible assets 94.9 94.8
+Purchased intangible assets, net 1,044.6 1,099.2
+Other assets, net 304.2 162.4
+Total assets $ 7,909.0 $ 7,153.2
+LIABILITIES AND EQUITY
+Current liabilities:
+Short-term debt and current maturities of long-term debt $ 3.1 $ 4.9
+Accounts payable 148.3 175.7
+Accrued expenses 163.5 213.2
+Accrued salaries and bonuses 156.1 131.0
+Deferred revenue 104.0 98.0
+Other current liabilities 784.1 204.0
+Total current liabilities 1,359.1 826.8
+Long-term debt 3,379.5 2,630.6
+Deferred income tax liabilities, net 248.0 316.2
+Long-term pension and other postretirement benefit liabilities 118.9 139.3
+Other long-term liabilities 180.6 84.6
+Total liabilities 5,286.1 3,997.5
+Commitments and Contingencies (see Note 6)
+Equifax shareholders’ equity:
+Preferred stock, $0.01 par value: Authorized shares - 10.0; Issued shares - none — —
+Common stock, $1.25 par value: Authorized shares - 300.0;
+ Issued shares - 189.3 at December 31, 2019 and 2018; 236.6 236.6
+ Outstanding shares -121.2 and 120.6 at December 31, 2019 and 2018, respectively
+Paid-in capital 1,405.1 1,356.6
+Retained earnings 4,131.8 4,717.8
+Accumulated other comprehensive loss (631.6) (626.3)
+Treasury stock, at cost, 67.5 shares and 68.1 shares at December 31, 2019 and 2018,
+(2,557.4) (2,571.0)
+  respectively
+Stock held by employee benefits trusts, at cost, 0.6 shares at December 31, 2019 and 2018, 
+(5.9) (5.9)
+respectively
+Total Equifax shareholders’ equity 2,578.6 3,107.8
+Noncontrolling interests including redeemable noncontrolling interests 44.3 47.9
+Total shareholders’ equity 2,622.9 3,155.7
+Total liabilities and equity $ 7,909.0 $ 7,153.2
+See Notes to Consolidated Financial Statements.
+65
+Page#3
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Twelve Months Ended 
+ December 31,
+2019 2018 2017
+(In millions)
+Operating activities:
+Consolidated net (loss) income $ (392.8) $ 306.3 $ 598.0
+Adjustments to reconcile consolidated net income to net cash provided by 
+operating activities:
+Depreciation and amortization 337.3 315.9 290.9
+Stock-based compensation expense 49.7 42.5 38.3
+Deferred income taxes (87.2) (2.3) (44.1)
+Changes in assets and liabilities, excluding effects of acquisitions:
+Accounts receivable, net (61.3) (37.4) (1.3)
+Other assets, current and long-term (78.8) (15.4) (120.1)
+Current and long-term liabilities, excluding debt 546.9 62.6 54.3
+Cash provided by operating activities 313.8 672.2 816.0
+Investing activities:
+Capital expenditures (399.6) (321.9) (218.2)
+Acquisitions, net of cash acquired (272.9) (138.3) (139.9)
+Cash received from sale of asset — 5.6 8.6
+Investment in unconsolidated affiliates, net (25.0) (6.9) —
+Cash used in investing activities (697.5) (461.5) (349.5)
+Financing activities:
+Net short-term (repayments) borrowings (1.8) (959.2) 252.4
+Payments on long-term debt (250.0) (100.0) (322.5)
+Proceeds from issuance of long-term debt 998.3 994.5 100.0
+Treasury stock purchases — — (77.1)
+Dividends paid to Equifax shareholders (188.7) (187.9) (187.4)
+Dividends paid to noncontrolling interests (6.6) (10.3) (8.4)
+Proceeds from exercise of stock options 22.3 11.8 19.2
+Payment of taxes related to settlement of equity awards (10.5) (19.7) (33.5)
+Payment of contingent consideration — (1.5) (3.5)
+Purchase of redeemable noncontrolling interests — (30.9) (2.6)
+Debt issuance costs (5.1) (7.8) (0.3)
+Cash provided by (used in) financing activities 557.9 (311.0) (263.7)
+Effect of foreign currency exchange rates on cash and cash equivalents 3.5 (12.5) 4.3
+Increase (decrease) in cash and cash equivalents 177.7 (112.8) 207.1
+Cash and cash equivalents, beginning of period 223.6 336.4 129.3
+Cash and cash equivalents, end of period $ 401.3 $ 223.6 $ 336.4
+See Notes to Consolidated Financial Statements.
+66

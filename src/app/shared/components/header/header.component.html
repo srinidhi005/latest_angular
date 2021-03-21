@@ -1,32 +1,75 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<!-- adding HTML5.js -->
+<script src="https://js.chargebee.com/v2/chargebee.js" data-cb-site="rmiinsights" ></script>
+
+</head>
+<body>
 <mat-toolbar>
     <mat-toolbar-row>
+	
         <button mat-icon-button (click)="toggleSideBar()">
             <mat-icon>menu</mat-icon>
         </button>
 
        <img src="../../../../assets/images/logo.png" alt="RMI insights">
 
-        <div fxFlex fxLayout="row" fxLayoutAlign="flex-end">
+        <div fxFlex fxLayout="row" fxLayoutAlign="flex-end" >
             <ul fxLayout="row" fxLayoutGap="20px">
-                <li routerLinkActive="list-item-active" routerLink="/addcompany">
+			
+                <li routerLinkActive="list-item-active" routerLink="/addcompany" 
+                *ngIf = "auth.currentUserRoles.indexOf('Admin') >=0 || auth.currentUserRoles.indexOf('SuperAdmin') >=0">
                         <button mat-icon-button #tooltip="matTooltip" id="addcompany-button"
-                        matTooltip="Upload Company Statement">
+                        matTooltip="Upload Company Statement" style="margin-top:18px">
                             <mat-icon>note_add</mat-icon>
                         </button>
                 </li>
-
+				<li>
+                   <!-- <button mat-button [matMenuTriggerFor]="user"
+					*ngIf = "auth.currentUserRoles?.indexOf('Admin') >=0 || auth.currentUserRoles?.indexOf('SuperAdmin') >=0" style="margin-top: 22px;">
+                        <mat-icon>settings</mat-icon>
+		   </button>-->
+					<mat-menu #user="matMenu">
+                        <button mat-menu-item  routerLinkActive="list-item-active" routerLink="/Users">
+                            <mat-icon>supervised_user_circle</mat-icon>
+                            User Management
+                        </button>
+						<button mat-menu-item  routerLinkActive="list-item-active" routerLink="/Users" 
+						*ngIf = "auth.currentUserRoles?.indexOf('Admin') >=0 || auth.currentUserRoles?.indexOf('SuperAdmin') >=0">
+                            <mat-icon>person_add</mat-icon>
+                            Invite User
+                        </button>
+						</mat-menu>
+					</li>
+		<button  mat-menu-item (click)="SmallBusiness()"  style="font-weight:bold;margin-top:20px!important;text-align: center;border-radius: 25px;color: white;border: 2px solid #fff;width:150px;" >
+                           <mat-icon style="color:white;margin:5px">notification_important</mat-icon>
+                            Subscribe
+                        </button>
                 <li>
-                    <button mat-button [matMenuTriggerFor]="menu" id="user-icon">
-                        <mat-icon><img src="{{picture}}" alt="" class="img-profile"></mat-icon>
+                    <button mat-button [matMenuTriggerFor]="menu" id="user-icon" style="margin-top: 16px;">
+                        <mat-icon><img [src]="auth.userPicture" alt="" class="img-profile"></mat-icon>
                     </button>
-                    <mat-menu #menu="matMenu">
-                        <button mat-menu-item  routerLinkActive="list-item-active" routerLink="/profile">
+                    <mat-menu #menu="matMenu" style="padding-right:50px">
+					<ul style="text-align:center;padding-right:15px;padding-left:15px"><mat-icon><img [src]="auth.userPicture" alt="" class="img-profile"></mat-icon></ul>
+					<ul style="font-weight:bold;text-align:center;padding-right:15px;padding-left:15px">{{nickname}}</ul>
+					
+					<ul style="text-align:center;padding-right:15px;padding-left:15px">{{email}}</ul>
+					<ul style="text-align:center;padding-right:15px;padding-left:15px"><a routerLink="/profile" >Manage Your RMI Insights Account</a></ul>
+					
+                       <!-- <button mat-menu-item  routerLinkActive="list-item-active" routerLink="/profile">
                             <mat-icon>person_outline</mat-icon>
                             Profile
                         </button>
-                        <button mat-menu-item  (click)="auth.logout()">
-                            <mat-icon>exit_to_app</mat-icon>
-                            Sign out
+						 
+						
+						<button  mat-menu-item (click)="subscribe()"  > <mat-icon>notification_important</mat-icon> subscribe</button>-->
+                       <hr style="margin: 0px;">
+                        <button mat-menu-item  (click)="auth.logout()" style="text-align:center;height: 37px;">
+                            <mat-icon style="margin-right: 1px;">exit_to_app</mat-icon>
+                            Sign Out
                         </button>
                     </mat-menu>
                 </li>
@@ -34,6 +77,8 @@
         </div>
     </mat-toolbar-row>
 </mat-toolbar>
-
+</body>
+<script src="https://js.chargebee.com/v2/chargebee.js" data-cb-site="rmiinsights" ></script>
+</html>
 
 

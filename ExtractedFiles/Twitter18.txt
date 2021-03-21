@@ -1,0 +1,145 @@
+
+Page#1
+TWITTER, INC. 
+CONSOLIDATED BALANCE SHEETS 
+(In thousands, except par value) 
+ 
+ 
+ December 31, December 31, 
+  2018 2017 
+Assets 
+Current assets: 
+Cash and cash equivalents $ 1,894,444  $ 1,638,413 
+Short-term investments 4,314,957 2,764,689 
+Accounts receivable, net of allowance for doubtful accounts of $3,559 and $5,430 788,700 664,268 
+Prepaid expenses and other current assets 112,935 254,514 
+Total current assets 7,111,036 5,321,884 
+Property and equipment, net 885,078 773,715 
+Intangible assets, net  45,025 49,654 
+Goodwill  1,227,269 1,188,935 
+Deferred tax assets, net  808,459 10,455 
+Other assets  85,705 67,834 
+Total assets  $ 10,162,572  $ 7,412,477 
+Liabilities and stockholders' equity 
+Current liabilities: 
+Accounts payable  $ 145,186  $ 170,969 
+Accrued and other current liabilities 405,751 327,333 
+Convertible notes, short-term 897,328 — 
+Capital leases, short-term 68,046 84,976 
+Total current liabilities 1,516,311 583,278 
+Convertible notes, long-term 1,730,922 1,627,460 
+Capital leases, long-term 24,394 81,308 
+Deferred and other long-term tax liabilities, net 17,849 13,240 
+Other long-term liabilities 67,502 59,973 
+Total liabilities  3,356,978 2,365,259 
+Commitments and contingencies (Note 15) 
+Stockholders' equity: 
+Preferred stock, $0.000005 par value-- 200,000 shares authorized; none issued 
+and outstanding  — —
+Common stock, $0.000005 par value-- 5,000,000 shares authorized; 764,257 and 
+746,902 shares issued and outstanding 4  4 
+Additional paid-in capital 8,324,974 7,750,522 
+Accumulated other comprehensive loss (65,311) (31,579)
+Accumulated deficit  (1,454,073) (2,671,729)
+Total stockholders' equity 6,805,594 5,047,218 
+Total liabilities and stockholders' equity $ 10,162,572  $ 7,412,477
+ 
+The accompanying notes are an integral part of these consolidated financial statements. 
+77
+Page#2
+TWITTER, INC. 
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+(In thousands, except per share data) 
+ 
+ 
+ 
+  Year Ended December 31, 
+  2018 2017 2016 
+Revenue  $ 3,042,359  $ 2,443,299  $ 2,529,619 
+Costs and expenses 
+Cost of revenue 964,997 861,242 932,240 
+Research and development 553,858 542,010 713,482 
+Sales and marketing 771,361 717,419 957,829 
+General and administrative 298,818 283,888 293,276 
+Total costs and expenses 2,589,034 2,404,559 2,896,827 
+Income (loss) from operations 453,325 38,740 (367,208)
+Interest expense (132,606)  (105,237)  (99,968)
+Interest income 111,221 44,383 24,277 
+Other income (expense), net (8,396)  (73,304)  2,065 
+Income (loss) before income taxes 423,544 (95,418)  (440,834)
+Provision (benefit) for income taxes (782,052)  12,645 16,039 
+Net income (loss) $ 1,205,596  $ (108,063) $ (456,873)
+Net income (loss) per share attributable to common stockholders: 
+Basic $  1.60  $ (0.15) $ (0.65)
+Diluted $  1.56  $ (0.15) $ (0.65)
+Weighted-average shares used to compute net income (loss) per share 
+attributable to common stockholders:
+Basic 754,326 732,702 702,135 
+Diluted 772,686 732,702 702,135
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+78
+Page#3
+TWITTER, INC. 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+(In thousands)
+ 
+  Year Ended December 31, 
+  2018 2017 2016 
+Cash flows from operating activities 
+Net income (loss)  $ 1,205,596  $ (108,063)  $ (456,873)
+Adjustments to reconcile net income (loss) to net cash provided by operating activities: 
+Depreciation and amortization expense 425,498 395,867 402,172 
+Stock-based compensation expense 326,228 433,806 615,233 
+Amortization of discount on convertible notes 105,926 80,061 74,660 
+Deferred income taxes (801,720) (6,415) (4,775)
+Impairment of investments in privately-held companies 3,000 62,439 4,000 
+Other adjustments  (14,139) 5,753 46,042 
+Changes in assets and liabilities, net of assets acquired and liabilities assumed 
+from acquisitions:
+Accounts receivable (130,871) 2,668 (22,969)
+Prepaid expenses and other assets 126,470 (13,974) 7,101 
+Accounts payable  (1,533) 8,371 (7,112)
+Accrued and other liabilities 95,256 (29,304) 105,576 
+Net cash provided by operating activities 1,339,711 831,209 763,055 
+Cash flows from investing activities 
+Purchases of property and equipment (483,934) (160,742) (218,657)
+Proceeds from sales of property and equipment 13,070 2,783 — 
+Purchases of marketable securities (5,334,396) (2,687,214) (2,908,611)
+Proceeds from maturities of marketable securities 3,732,973 2,579,747 2,518,631 
+Proceeds from sales of marketable securities 58,721 124,826 183,154 
+Proceeds from sales of long-lived assets — 35,000 — 
+Purchases of investments in privately-held companies (3,375) (825) (81,502)
+Business combinations, net of cash acquired (33,572) — (85,082)
+Other investing activities   (5,000) (10,101) (1,181)
+Net cash used in investing activities (2,055,513) (116,526) (593,248)
+Cash flows from financing activities 
+Proceeds from issuance of convertible notes 1,150,000 — — 
+Purchases of convertible note hedges (267,950) — — 
+Proceeds from issuance of warrants concurrent with note hedges 186,760 — — 
+Debt issuance costs  (13,783) — — 
+Taxes paid related to net share settlement of equity awards (19,263) (8,962) (15,598)
+Payments of capital lease obligations (90,351) (102,775) (100,558)
+Proceeds from exercise of stock options 3,415 9,444 7,540 
+Proceeds from issuances of common stock under employee stock purchase plan 29,288 23,920 24,641 
+Net cash provided by (used in) financing activities 978,116 (78,373) (83,975)
+Net increase in cash, cash equivalents and restricted cash 262,314 636,310 85,832 
+Foreign exchange effect on cash, cash equivalents and restricted cash (14,296) 9,914 (3,754)
+Cash, cash equivalents and restricted cash at beginning of period 1,673,857 1,027,633 945,555 
+Cash, cash equivalents and restricted cash at end of period $ 1,921,875  $ 1,673,857  $ 1,027,633 
+Supplemental cash flow data 
+Interest paid in cash  $ 14,547  $ 13,990  $ 12,953 
+Taxes paid in cash  $ 33,065  $ 16,216  $ 14,532 
+Supplemental disclosures of non-cash investing and financing activities 
+Common stock issued in connection with acquisitions $ 19,165  $ —  $ 1,341 
+Equipment purchases under capital leases $ 16,086  $ 123,235  $ 100,281 
+Changes in accrued property and equipment purchases $ (23,469)  $ 16,387  $ 5,738 
+Reconciliation of cash, cash equivalents and restricted cash as shown in the 
+consolidated statements of cash flows
+Cash and cash equivalents $ 1,894,444  $ 1,638,413  $ 988,598 
+Restricted cash included in prepaid expenses and other current assets 1,698 8,289 9,449 
+Restricted cash included in other assets 25,733 27,155 29,586 
+Total cash, cash equivalents and restricted cash $ 1,921,875  $ 1,673,857  $ 1,027,633
+ 
+The accompanying notes are an integral part of these consolidated financial statements. 
+81

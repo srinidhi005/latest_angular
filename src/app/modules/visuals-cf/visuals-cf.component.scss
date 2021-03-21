@@ -1,0 +1,46 @@
+highcharts-chart{
+    height: 250px; 
+    display: block;
+    width:100%
+}
+p{
+    font-size: 18px;
+}
+
+.header{
+    margin-top:0px;
+    padding-top:0px;
+}
+
+.separator{
+    border-bottom: 3px solid #164a5b;
+    /* margin-bottom: 2%; */
+    width: 100%;
+    margin: auto;
+    margin-bottom: 1.5%;
+    margin-top: 1.5%;
+
+}
+
+.projections{
+    height: 12px;
+    width: 12px;
+    margin-right: 5px;
+    border-radius: 50%;
+    color: #385f6b;
+    background: #385f6b;
+}
+
+.actuals{
+    height: 12px;
+    margin-right: 5px;
+    width: 12px;
+    border-radius: 50%;
+    color: rgb(104 182 233);
+    background: rgb(104 182 233);
+}
+
+.projections, .actuals, .labels{
+    display: inline-block;
+}
+

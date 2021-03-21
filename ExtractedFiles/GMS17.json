@@ -1,0 +1,280 @@
+[annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.8797436356544495
+  text_segment {
+    end_offset: 13
+    content: "GARTNER, INC."
+  }
+}
+, annotation_spec_id: "6853749656648679424"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9999998807907104
+  text_segment {
+    start_offset: 14
+    end_offset: 41
+    content: "CONSOLIDATED BALANCE SHEETS"
+  }
+}
+, annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9999996423721313
+  text_segment {
+    start_offset: 170
+    end_offset: 195
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.993810772895813
+  text_segment {
+    start_offset: 216
+    end_offset: 236
+    content: "Fees receivable, net"
+  }
+}
+, annotation_spec_id: "7495512603548975104"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9999985098838806
+  text_segment {
+    start_offset: 429
+    end_offset: 449
+    content: "Total current assets"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.9999987483024597
+  text_segment {
+    start_offset: 470
+    end_offset: 521
+    content: "Property, equipment and leasehold improvements, net"
+  }
+}
+, annotation_spec_id: "83994991780691968"
+display_name: "Goodwill"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 538
+    end_offset: 546
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "6103759581203136512"
+display_name: "IntangibleAssets"
+text_extraction {
+  score: 0.9988890886306763
+  text_segment {
+    start_offset: 565
+    end_offset: 587
+    content: "Intangible assets, net"
+  }
+}
+, annotation_spec_id: "3788271655990591488"
+display_name: "OtherAssets"
+text_extraction {
+  score: 0.999973475933075
+  text_segment {
+    start_offset: 605
+    end_offset: 617
+    content: "Other assets"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9999988675117493
+  text_segment {
+    start_offset: 633
+    end_offset: 645
+    content: "Total Assets"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9999988079071045
+  text_segment {
+    start_offset: 728
+    end_offset: 744
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "5429345537004404736"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.9999353289604187
+  text_segment {
+    start_offset: 825
+    end_offset: 858
+    content: "Current portion of long-term debt"
+  }
+}
+, annotation_spec_id: "3789331585199767552"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9999929666519165
+  text_segment {
+    start_offset: 910
+    end_offset: 935
+    content: "Total current liabilities"
+  }
+}
+, annotation_spec_id: "2337624392814559232"
+display_name: "LongTermDebt"
+text_extraction {
+  score: 0.9996377229690552
+  text_segment {
+    start_offset: 956
+    end_offset: 970
+    content: "Long-term debt"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.9999931454658508
+  text_segment {
+    start_offset: 1055
+    end_offset: 1072
+    content: "Total Liabilities"
+  }
+}
+, annotation_spec_id: "8415372827439398912"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9999997019767761
+  text_segment {
+    start_offset: 1647
+    end_offset: 1673
+    content: "Total Stockholders\342\200\231 Equity"
+  }
+}
+, annotation_spec_id: "1975506835276300288"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.9999991059303284
+  text_segment {
+    start_offset: 1689
+    end_offset: 1731
+    content: "Total Liabilities and Stockholders\342\200\231 Equity"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.6011353731155396
+  text_segment {
+    start_offset: 1760
+    end_offset: 1772
+    content: "GARTNER, INC"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.8544459939002991
+  text_segment {
+    start_offset: 1774
+    end_offset: 1811
+    content: "CONSOLIDATED STATEMENTS OF OPERATIONS"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999990463256836
+  text_segment {
+    start_offset: 2096
+    end_offset: 2110
+    content: "Total revenues"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9993002414703369
+  text_segment {
+    start_offset: 2161
+    end_offset: 2201
+    content: "Cost of services and product development"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9999949336051941
+  text_segment {
+    start_offset: 2228
+    end_offset: 2263
+    content: "Selling, general and administrative"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9972008466720581
+  text_segment {
+    start_offset: 2537
+    end_offset: 2552
+    content: "Interest income"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9998475313186646
+  text_segment {
+    start_offset: 2571
+    end_offset: 2587
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.999962568283081
+  text_segment {
+    start_offset: 2722
+    end_offset: 2748
+    content: "provision for income taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.999780535697937
+  text_segment {
+    start_offset: 2773
+    end_offset: 2783
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "3752471557390204928"
+display_name: "ConsolidatedCashFlows"
+text_extraction {
+  score: 0.5423420667648315
+  text_segment {
+    start_offset: 4506
+    end_offset: 4543
+    content: "CONSOLIDATED STATEMENTS OF CASH FLOWS"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9867340326309204
+  text_segment {
+    start_offset: 4789
+    end_offset: 4818
+    content: "Depreciation and amortization"
+  }
+}
+]

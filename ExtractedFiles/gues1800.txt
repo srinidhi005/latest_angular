@@ -1,0 +1,148 @@
+
+Page#1
+Table of Contents
+GUESS?, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(in thousands, except share data)
+ February 3, 2018  January 28, 2017
+ASSETS 
+Current assets: 
+Cash and cash equivalents $ 367,441  $ 396,129
+Accounts receivable, net 259,996  225,537
+Inventories 428,304  367,381
+Other current assets 52,964  54,965
+Total current assets 1,108,705  1,044,012
+Property and equipment, net 294,254  243,005
+Goodwill 38,481  34,100
+Other intangible assets, net 5,977  6,504
+Deferred tax assets 68,386  82,793
+Restricted cash 241  1,521
+Other assets 139,590  122,550
+ $ 1,655,634  $ 1,534,485
+LIABILITIES AND STOCKHOLDERS’ EQUITY 
+Current liabilities: 
+Current portion of capital lease obligations and borrowings $ 2,845  $ 566
+Accounts payable 264,438  209,616
+Accrued expenses 200,562  135,271
+Total current liabilities 467,845  345,453
+Long-term debt and capital lease obligations 39,196  23,482
+Deferred rent and lease incentives 81,564  80,209
+Other long-term liabilities 127,964  99,895
+ 716,569  549,039
+Redeemable noncontrolling interests 5,590  4,452
+ 
+Commitments and contingencies (Note 14) 
+ 
+Stockholders’ equity: 
+Preferred stock, $.01 par value. Authorized 10,000,000 shares; no shares issued and outstanding —  —
+Common stock, $.01 par value. Authorized 150,000,000 shares; issued 141,623,687 and 140,509,974 shares,
+outstanding 81,371,118 and 84,069,492 shares, as of February 3, 2018 and January 28, 2017, respectively 813  841
+Paid-in capital 498,249  480,435
+Retained earnings 1,132,173  1,215,079
+Accumulated other comprehensive loss (93,062)  (161,389)
+Treasury stock, 60,252,569 and 56,440,482 shares as of February 3, 2018 and January 28, 2017, respectively (621,354)  (565,744)
+Guess?, Inc. stockholders’ equity 916,819  969,222
+Nonredeemable noncontrolling interests 16,656  11,772
+Total stockholders’ equity 933,475  980,994
+ $ 1,655,634  $ 1,534,485
+See accompanying notes to consolidated financial statements.
+F-3
+Page#2
+Table of Contents
+GUESS?, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME (LOSS)
+(in thousands, except per share data)
+ Year Ended  Year Ended  Year Ended
+ Feb 3, 2018  Jan 28, 2017  Jan 30, 2016
+Product sales $ 2,290,999  $ 2,118,534  $ 2,100,454
+Net royalties 72,755  71,919  84,041
+Net revenue 2,363,754  2,190,453  2,184,495
+Cost of product sales 1,534,906  1,445,413  1,397,065
+Gross profit 828,848  745,040  787,430
+Selling, general and administrative expenses 743,823  682,559  666,130
+Net (gains) losses on lease terminations 11,373  (695)  (2,337)
+Asset impairment charges 8,479  34,385  2,287
+Restructuring charges —  6,083  —
+Earnings from operations 65,173  22,708  121,350
+Other income (expense): 
+Interest expense (2,431)  (1,897)  (1,953)
+Interest income 4,106  1,890  1,045
+Other income, net 3,423  30,909  6,837
+ 5,098  30,902  5,929
+ 
+Earnings before income tax expense 70,271  53,610  127,279
+Income tax expense 74,172  28,212  42,464
+Net earnings (loss) (3,901)  25,398  84,815
+Net earnings attributable to noncontrolling interests 3,993  2,637  2,964
+Net earnings (loss) attributable to Guess?, Inc. $ (7,894)  $ 22,761  $ 81,851
+ 
+Net earnings (loss) per common share attributable to common stockholders
+(Note 18): 
+Basic $ (0.11)  $ 0.27  $ 0.97
+Diluted $ (0.11)  $ 0.27  $ 0.96
+Weighted average common shares outstanding attributable to common
+stockholders (Note 18): 
+Basic 82,189  83,666  84,264
+Diluted 82,189  83,829  84,525
+ 
+Dividends declared per common share $ 0.90  $ 0.90  $ 0.90
+See accompanying notes to consolidated financial statements.
+F-4
+Page#3
+Table of Contents
+GUESS?, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+ Year Ended  Year Ended  Year Ended
+ Feb 3, 2018  Jan 28, 2017  Jan 30, 2016
+Cash flows from operating activities: 
+Net earnings (loss) $ (3,901)  $ 25,398  $ 84,815
+Adjustments to reconcile net earnings (loss) to net cash provided by operating
+activities: 
+Depreciation and amortization of property and equipment 62,083  67,480  68,588
+Amortization of intangible assets 1,505  1,839  2,096
+Share-based compensation expense 18,852  16,908  18,880
+Unrealized forward contract (gains) losses 3,087  (3,157)  (1,937)
+Deferred income taxes 23,802  408  723
+Net (gain) loss on disposition of property and equipment and long-term assets 6,891  11,809  (4,255)
+Other items, net (7,832)  3,495  3,442
+Changes in operating assets and liabilities: 
+Accounts receivable (11,656)  (10,805)  (5,970)
+Inventories (28,120)  (57,096)  (2,179)
+Prepaid expenses and other assets (429)  (1,839)  (67)
+Accounts payable and accrued expenses 69,299  19,054  33,510
+Deferred rent and lease incentives 1,221  3,117  (3,384)
+Other long-term liabilities 13,568  (4,871)  (14,594)
+Net cash provided by operating activities 148,370  71,740  179,668
+Cash flows from investing activities: 
+Purchases of property and equipment (84,655)  (90,581)  (83,844)
+Proceeds from sale of long-term assets 1,052  43,399  —
+Changes in other assets 753  —  2,614
+Acquisition of businesses, net of cash acquired (4,850)  (2,068)  (1,330)
+Net cash settlement of forward contracts (2,150)  266  9,014
+Purchases of investments (497)  —  —
+Net cash used in investing activities (90,347)  (48,984)  (73,546)
+Cash flows from financing activities: 
+Payment of debt issuance costs —  (111)  (1,072)
+Proceeds from borrowings 166  21,500  948
+Repayment of borrowings and capital lease obligations (1,633)  (4,747)  (1,518)
+Dividends paid (76,057)  (76,503)  (76,860)
+Purchase of redeemable noncontrolling interest —  (4,445)  —
+Noncontrolling interest capital contribution 962  2,157  871
+Noncontrolling interest capital distribution (1,358)  (2,759)  (4,075)
+Issuance of common stock, net of tax withholdings on vesting of stock awards (690)  (594)  (2,220)
+Purchase of treasury stock (50,127)  (3,532)  (44,053)
+Net cash used in financing activities (128,737)  (69,034)  (127,979)
+Effect of exchange rates on cash, cash equivalents and restricted cash 40,746  (2,071)  (15,964)
+Net change in cash, cash equivalents and restricted cash (29,968)  (48,349)  (37,821)
+Cash, cash equivalents and restricted cash at the beginning of the year 397,650  445,999  483,820
+Cash, cash equivalents and restricted cash at the end of the year $ 367,682  $ 397,650  $ 445,999
+ 
+Supplemental cash flow data: 
+Interest paid $ 2,078  $ 1,225  $ 868
+Income taxes paid $ 26,907  $ 24,869  $ 31,188
+ 
+Non-cash investing and financing activity: 
+Assets acquired under capital lease obligations $ 18,502  $ —  $ —
+See accompanying notes to consolidated financial statements.
+F-7

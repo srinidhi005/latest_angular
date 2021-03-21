@@ -1,68 +1,78 @@
 .component-container {
-    height: 100%;
-  }
-  
-  .component-container > mat-card {
-    height: calc(100% - 104px);
-    overflow: auto;
-  }
-  
-  .comp-header {
-    margin: -20px;
-    margin-bottom: 20px;
-  }
-  
-  .comp-header > mat-card {
-    border-radius: 0;
-  }
-  
-  .submit-action {
-    margin-top: 40px;
-    margin-right: 35px;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    align-items: center;
-  }
-  
-  .container-field {
-    width: 320px;
-    margin-left: 35px;
-  }
-  
-  .title {
-    text-align: center;
-    font-size: 16px;
-    font-family: Roboto,"Helvetica Neue",sans-serif;
-    margin-top: 20px;
-    margin-bottom: 40px;
-    font-weight: 400;
-  }
-  mat-form-field {
-    margin-top: 5px;
-  }
-  .header-container {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
-  }
-  
-  .header-container > p {
-    margin: 0;
-  }
-  
-  .header-container > p:nth-child(1) {
-    cursor: pointer;
-    color: dodgerblue;
-    outline: none;
-    margin-right: 4px;
-  }
-  
-  .header-container > p:nth-child(2) {
-    margin-right: 4px;
-  }
-  form {
+  height: 100%;
+}
+
+.component-container > mat-card {
+  height: calc(100% - 104px);
+  overflow: auto;
+}
+
+.comp-header {
+  margin: -20px;
+  margin-bottom: 20px;
+}
+
+.comp-header > mat-card {
+  border-radius: 0;
+}
+
+.submit-action {
+  margin-top: 40px;
+  margin-right: 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.example-container{
+  mat-form-field{
+    margin: 5px 10px 5px 35px;
     width: 400px;
-    margin: auto;
   }
+}
+
+.header{
+  margin: 25px 5px;
+}
+
+.container-field {
+  width: 320px;
+  margin-left: 35px;
+}
+
+.title {
+  text-align: center;
+  font-size: x-large;
+  margin: auto;
+  font-family: Roboto,"Helvetica Neue",sans-serif;
+  font-weight: 400;
+}
+mat-form-field {
+  margin-top: 5px;
+}
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.header-container > p {
+  margin: 0;
+}
+
+.header-container > p:nth-child(1) {
+  cursor: pointer;
+  color: dodgerblue;
+  outline: none;
+  margin-right: 4px;
+}
+
+.header-container > p:nth-child(2) {
+  margin-right: 4px;
+}
+form {
+  width: 90%;
+  margin: auto;
+}

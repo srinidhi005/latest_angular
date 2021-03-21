@@ -1,25 +1,37 @@
-import { BrowserModule } from '@angular/platform-browser';
+import { HttpClientModule } from '@angular/common/http';
 import { NgModule } from '@angular/core';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import {
+  MatFormFieldModule,
+  MatGridListModule,
+  MatIconModule,
+  MatInputModule,
+  MatOptionModule,
+  MatSelectModule,
+  MatRadioModule,
+} from '@angular/material';
+import { MatButtonModule } from '@angular/material/button';
+import { MatCardModule } from '@angular/material/card';
+import { MatExpansionModule } from '@angular/material/expansion';
+import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
+import { BrowserModule } from '@angular/platform-browser';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { DefaultModule } from './layouts/default/default.module';
-import { HttpClientModule } from '@angular/common/http';
-import { UrlConfigService } from './shared/url-config.service';
-import { RMIAPIsService } from './shared/rmiapis.service';
-import { AddCompanyComponent } from './modules/add-company/add-company.component';
-import { MatFormFieldModule, MatInputModule,MatGridListModule, MatSelectModule, MatOptionModule, MatIconModule } from '@angular/material';
-import {MatCardModule} from '@angular/material/card';
-import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-import { FileUploadComponent } from './modules/file-upload/file-upload.component';
-import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
-import { MatButtonModule } from '@angular/material/button';
-import {MatExpansionModule} from '@angular/material/expansion';
-import { LoginComponent } from './modules/login/login.component';
-import { HashLocationStrategy, LocationStrategy  } from '@angular/common';
 import { AuthLoginComponent } from './auth-login/auth-login.component';
-import { ProfileComponent } from './modules/profile/profile.component';
-
+import { DefaultModule } from './layouts/default/default.module';
+import { AddCompanyComponent } from './modules/add-company/add-company.component';
+import { FileUploadComponent } from './modules/file-upload/file-upload.component';
+import { LoginComponent } from './modules/login/login.component';
+//import { ProfileComponent } from './modules/profile/profile.component';
+import { RMIAPIsService } from './shared/rmiapis.service';
+import { UrlConfigService } from './shared/url-config.service';
+import { UserManagementComponent } from './modules/user-management/user-management.component';
+import {NgxPaginationModule} from 'ngx-pagination';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+//import { SubscriptionComponent } from './modules/subscription/subscription.component';
+//import { MessagePopupComponent } from './modules/message-popup/message-popup.component';
+declare var Chargebee: any;
 
 @NgModule({
   declarations: [
@@ -28,7 +40,10 @@ import { ProfileComponent } from './modules/profile/profile.component';
     FileUploadComponent,
     LoginComponent,
     AuthLoginComponent,
-    ProfileComponent,
+   // ProfileComponent,
+    UserManagementComponent,
+  // SubscriptionComponent,
+  // MessagePopupComponent,
    
   ],
   imports: [
@@ -41,19 +56,32 @@ import { ProfileComponent } from './modules/profile/profile.component';
     MatInputModule,
     MatSelectModule,
     MatOptionModule,
+    NgxPaginationModule,
     MatIconModule,
     MatCardModule,
+    MatRadioModule,
     FormsModule,
     ReactiveFormsModule,
     MatProgressSpinnerModule,
     MatButtonModule,
     MatGridListModule,
-    MatExpansionModule
+    MatExpansionModule,
+    NgbModule,
   ],
-  providers: [
-    UrlConfigService,
-    RMIAPIsService
-  ],
-  bootstrap: [AppComponent]
+  providers: [UrlConfigService, RMIAPIsService],
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {
+constructor() {
+     const el = document.createElement('script')
+    el.onload = () => {
+      var chargebeeInstance = Chargebee.init({
+        site: "rmiinsights"
+      });
+      let cbInstance = Chargebee.getInstance()
+      
+    }
+    el.setAttribute('src', 'https://js.chargebee.com/v2/chargebee.js')
+    document.body.appendChild(el)
+  }
+}

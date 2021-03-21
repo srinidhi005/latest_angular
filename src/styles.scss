@@ -1,9 +1,57 @@
 /* You can add global styles to this file, and also import other style files */
 
-html, body { height: 100%; background-color: #d3e5eb; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;
-   
- }
-.mat-drawer-inner-container{
-    overflow: hidden !important;
-   }
+html,
+body {
+  margin: 0;
+  font-family: Roboto, 'Helvetica Neue', sans-serif;
+  height: 100%;
+  background-color: #d3e5eb;
+  .profile-page {
+    .tel-input-container {
+      .mat-form-field-label {
+        padding-left: 52px !important;
+      }
+    }
+
+    .mat-figure {
+      align-items: unset;
+      margin-top: 30px;
+      height: fit-content;
+    }
+  }
+}
+/* .mat-drawer-inner-container {
+  overflow: hidden !important;
+} */
+.text-center {
+  text-align: center !important;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75vh;
+}
+.mat-header-row {
+  height: 56px;
+}
+//
+td.mat-cell:first-of-type,
+td.mat-footer-cell:first-of-type,
+th.mat-header-cell:first-of-type {
+  padding-left: 24px;
+}
+td.mat-cell,
+td.mat-footer-cell,
+th.mat-header-cell {
+  padding: 0;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+}
+tr.mat-footer-row,
+tr.mat-row {
+  height: 48px;
+}
+
+/* Importing Bootstrap SCSS file. */
+@import '~bootstrap/scss/bootstrap';

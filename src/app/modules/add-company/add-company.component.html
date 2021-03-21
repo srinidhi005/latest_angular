@@ -1,55 +1,140 @@
-
 <div class="example-container">
-<mat-card>
-    <mat-card-content>
-      <div class="col-8" style="height: 100%;">
-        <form [formGroup]="form" (ngSubmit)="submit()">
-          <h2 class="title">Import New Statement</h2>
-          <mat-form-field class="container-field">
-            <mat-label>Company Name</mat-label>
-            <input matInput formControlName="companyname"/>
-            <mat-error *ngIf="form.get('companyname').hasError('required')">
-                Fill Company Name without space and special characters
-              </mat-error>
-          </mat-form-field>
-          <mat-form-field class="container-field" >
-            <mat-select placeholder="Financial Statement Duration" formControlName="period">
-              <mat-option *ngFor="let period of period" [value]="period">{{period}}</mat-option>
-            </mat-select>
-            <mat-error *ngIf="form.get('period').hasError('required')">
-                Financial Statement Duration is Required!
-              </mat-error>
-          </mat-form-field>
-          <mat-form-field class="container-field" >
-            <mat-select placeholder="Statement Type" formControlName="statementtype">
-                <mat-option *ngFor="let statementtype of statementtype" [value]="statementtype">{{statementtype}}</mat-option>
-            </mat-select>
-            <mat-error *ngIf="form.get('statementtype').hasError('required')">
-                Statement Type is Required!
-              </mat-error>
-          </mat-form-field>
-          <mat-form-field class="container-field">
-            <mat-select placeholder="Industry"  formControlName="industry">
-                <mat-option *ngFor="let industry of industry" [value]="industry">{{industry}}</mat-option>
-            </mat-select>
-            <mat-error *ngIf="form.get('industry').hasError('required')">
-                Industry is Required!
-              </mat-error>
-          </mat-form-field>
-          <div style="margin-top: 20px;" class="form-group">
-            <app-file-upload formControlName="file"></app-file-upload>
-            <div class="invalid-feedback" style="display: block;">
-              <ng-container *ngIf="hasError('file', 'required')">This field is required</ng-container>
+  <div class="row header">
+    <div class="col"></div>
+    <div class="col-3">
+      <h4>Import New Company</h4>
+    </div>
+    <div class="col"></div>
+  </div>
+  <mat-card>
+    <mat-card-content >
+      <div class="row">
+        <div class="col" style="height: 100%">
+          <form [formGroup]="form" (ngSubmit)="submit()">
+            <div class="row">
+              <div class="col">
+                <mat-form-field class="container-field">
+                  <mat-label>Company Name</mat-label>
+                  <input matInput formControlName="companyname" (input)="excelService.cleanString($event)" />
+                  <mat-error *ngIf="form.get('companyname').hasError('required')">
+                    Fill Company Name without space and special characters
+                  </mat-error>
+                </mat-form-field>
+    
+                <mat-form-field class="container-field">
+                  <mat-select
+                    placeholder="Financial Statement Duration"
+                    formControlName="period"
+                  >
+                    <mat-option *ngFor="let period of period" [value]="period">{{
+                      period
+                    }}</mat-option>
+                  </mat-select>
+                  <mat-error *ngIf="form.get('period').hasError('required')">
+                    Financial Statement Duration is Required!
+                  </mat-error>
+                </mat-form-field>
+    
+                <mat-form-field class="container-field">
+                  <mat-select
+                    placeholder="Company Type"
+                    formControlName="statementType"
+                  >
+                    <mat-option
+                      *ngFor="let statementType of statementType"
+                      [value]="statementType"
+                      >{{ statementType }}</mat-option
+                    >
+                  </mat-select>
+                  <mat-error *ngIf="form.get('statementType').hasError('required')">
+                    Statement Type is Required!
+                  </mat-error>
+                </mat-form-field>
+    
+                <mat-form-field class="container-field">
+                  <mat-select placeholder="Industry" formControlName="industry">
+                    <mat-option
+                      *ngFor="let industry of industry"
+                      [value]="industry"
+                      >{{ industry }}</mat-option
+                    >
+                  </mat-select>
+                  <mat-error *ngIf="form.get('industry').hasError('required')">
+                    Industry is Required!
+                  </mat-error>
+                </mat-form-field>
+
+                <!-- <mat-form-field class="container-field">
+                  <mat-select placeholder="Access Type" formControlName="accessType">
+                    <mat-option
+                      *ngFor="let t of accessType"
+                      [value]="t"
+                      >{{ t }}</mat-option
+                    >
+                  </mat-select>
+                  <mat-error *ngIf="form.get('accessType').hasError('required')">
+                    Access Type is Required!
+                  </mat-error>
+                </mat-form-field> -->
+              </div>
+              <div class="col">
+                <div style="margin-top: 20px" class="form-group">
+                  <app-file-upload formControlName="file"></app-file-upload>
+                  <div class="invalid-feedback" style="display: block">
+                    <ng-container *ngIf="hasError('file', 'required')"
+                      >This field is required</ng-container
+                    >
+                  </div>
+                </div>
+                <div class="submit-action">
+                  
+                  
+                </div>
+              </div>
             </div>
-          </div>
-          <div class="submit-action">
-            <mat-spinner *ngIf="inprogress" style="margin-right: 50px;" diameter="20"></mat-spinner>
-            <button [disabled]="inprogress" mat-stroked-button type="submit" mat-raised-button>
-              Upload
-            </button>
-          </div>
-        </form>
+			<div class="row">
+			<div class="col-8">
+			<h4>Steps for Importing a New Company:<br/><br/></h4>
+			<ol>
+	     <h6 style="text-align:left">
+			<li> Download or export the PDF version of the annual financial statements (e.g. 10-K) of the desired company</li><br/>
+			<li> Edit the PDF file to remove all pages except for the Income Statement, Balance Sheet, and Cash Flow Statements</li><br/>
+			<li> The PDF should include, at the minimum, the Income Statement and Balance Sheet</li><br/>
+			<li> The Income Statement and Balance Sheet should be on separate pages and should <br/>include at least two years' worth of financial information</li><br/>
+			<li> Upload the edited file by either dragging it into the box to the right or by using the Browse option</li><br/>
+			<li> Populate the fields listed above as it relates to key company attributes (e.g., Company name, Industry, etc.)</li></h6>
+			</ol>
+			</div>
+			<div class="col" style="margin: auto;margin-top: 95px" >
+			<h4>Download Sample PDF </h4>
+			  <img (click)="samplefile.click()" src="../../../assets/images/pdf.png" alt="PDF" height="120px" width="100px" style="cursor:pointer;margin-left: 70px;" 	>
+			<a style="display:none" #samplefile href="../../../assets/pdf/Nike2018.pdf" download>Download Sample Pdf</a>
+			</div>
+			</div>
+
+
+            <div class="row" style="margin: 40px auto;">
+              <button style="background-color: #164a5b; margin: auto; width: 100px; color: #ffffff;"
+                [disabled]="inprogress"
+                type="submit"
+                mat-raised-button
+              >
+                <span>
+                  Import
+                <mat-spinner style="display: inline-block; color: #ffffff; margin-top: 5px;"
+                    *ngIf="inprogress"
+                    diameter="20"
+              ></mat-spinner>
+                </span>
+              </button>
+              
+            </div>
+
+          </form>
+        </div>
+  
+        
       </div>
     </mat-card-content>
   </mat-card>
-  </div>
+</div>

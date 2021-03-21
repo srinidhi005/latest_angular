@@ -1,0 +1,61 @@
+:host{
+    .list li{
+        margin: 5px auto;
+        // text-align: center;
+    }
+    .list{
+        margin: auto;
+    }
+
+    .mat-card-header{
+        color: #fff;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+
+    ::ng-deep .mat-card-header-text{
+        width: 100%;
+    }
+
+    mat-card{
+        padding: 0;
+
+    }
+    .price{
+        text-align: center;
+        margin: 10px auto;
+        // font-weight: bold;
+        line-height: 2;
+        letter-spacing: 1px;
+        font-size: xx-large;
+    }
+
+    .plan{
+        text-align: center;
+        margin: 10px auto;
+        font-weight: 500;
+        line-height: 2;
+        letter-spacing: 1px;
+        font-size: 25px;
+    }
+
+    // .duration{
+    //     text-align: center;
+    //     margin: 10px auto;
+    //     font-weight: bold;
+    //     line-height: 2;
+    //     letter-spacing: 1px;
+    //     font-size: small;
+    // }
+
+    .basic{
+        background: #ecb514;
+    }
+
+    .core{
+        background: #97285b;
+    }
+    .premium{
+        background: #2e808b;
+    }
+}

@@ -1,0 +1,26 @@
+:host{
+    .rightAlign{
+        text-align: right;
+    }
+
+    .leftAlign{
+        text-align: left;
+    }
+
+    .centerAlign{
+        text-align: center;
+    }
+    thead  th{ //tr:nth-child(3)
+        background-color: #164a5b;
+        color: #ffffff;
+        vertical-align: middle;
+    }
+
+    // thead tr:nth-child(1) th, thead tr:nth-child(2) th{ 
+    //     background-color:#fff; 
+    //     border-bottom: 3px solid #fff;
+    // }
+    thead tr{
+        border-bottom: 3px solid #fff;
+    }
+}

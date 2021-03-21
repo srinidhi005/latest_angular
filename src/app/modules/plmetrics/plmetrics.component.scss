@@ -1,10 +1,79 @@
+
+.headerLabel{
+  float: left;
+  font-size: 22px;
+  font-weight: 400;
+  font-family: Roboto,"Helvetica Neue",sans-serif;
+}
+#myTable{
+  border-radius: 5px;
+}
 table {
-    width: 100%;
-  }
+  width: 100%;
+background:white;
+border-spacing: 0px;
+box-shadow: 5px 10px 8px 10px rgb(162, 156, 156);
+border-radius: 5px;
+}
 .mat-paginator-sticky {
-  bottom: 0px;
-  position: sticky;
-  z-index: 10;
+bottom: 0px;
+position: sticky;
+z-index: 10;
+}
+.borderRadius{
+  border-top-right-radius: 5px;
+}
+.table{
+  font-family: Roboto,"Helvetica Neue",sans-serif;
+  th, td {
+    padding: 18px 15px;
+    border-bottom: 0.5px solid rgb(214, 210, 210);
+    border-width: 90%;
+  }
+.leftAlign{
+  text-align: left;
+}
+
+.rightAlign{
+  text-align: right;
+}
+.boldClass{
+  font-weight: bold;
+  font-size: 16px;
+  padding: 18px 15px;
+}
+
+.tableheaderClass{
+  font-style: italic;
+  font-size: 16px;
+  padding: 18px 15px;
+  background: #164A5B;
+  color:white;
+}
+
+.tableheaderYearClass{
+  font-size: 16px;
+  padding: 18px 15px;
+  background: #164A5B;
+  color:white;
+}
+
+.tableboldClass{
+font-weight: bold;
+  font-size: 16px;
+  padding: 18px 15px;
+}
+
+.italicClass{
+  font-style: italic;
+  font-size: 16px;
+  padding: 18px 15px;
+
+}
+.normalClass{
+  font-size: 16px;
+  padding: 18px 15px;
+}
 }
 .cursor{
   cursor: pointer;
@@ -21,8 +90,8 @@ a{
   cursor: pointer;
 }
 th{
-  font-size: 14px;
-  font-weight: bold;
+font-size: 18px;
+font-weight: bold;
 }
 th.mat-header-cell:last-of-type {
   padding-right: 0px;

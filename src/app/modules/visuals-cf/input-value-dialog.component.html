@@ -1,0 +1,14 @@
+<h1 mat-dialog-title>Enter value</h1>
+<div mat-dialog-content>
+  <mat-form-field>
+    <mat-label>Enter value</mat-label>
+    <input matInput type="number" autocomplete="off" [(ngModel)]="data.value">
+  </mat-form-field>
+  <mat-error *ngIf="showError">
+    Please enter value between <b>{{ data.min }}</b> & <b>{{ data.max }}</b>.
+  </mat-error>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="onNoClick()">No Thanks</button>
+  <button mat-raised-button color="primary" (click)="onOk()" cdkFocusInitial>Ok</button>
+</div>

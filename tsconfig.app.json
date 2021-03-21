@@ -2,7 +2,11 @@
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "outDir": "./out-tsc/app",
-    "types": [],
+	"module": "es6",
+    "baseUrl": "",
+    "types": [
+      "node"
+    ]
   },
   "include": [
     "src/**/*.ts"

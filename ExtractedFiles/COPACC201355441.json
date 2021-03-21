@@ -1,0 +1,111 @@
+[annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9998219013214111
+  text_segment {
+    start_offset: 123
+    end_offset: 148
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9919163584709167
+  text_segment {
+    start_offset: 169
+    end_offset: 193
+    content: "Accounts receivable, net"
+  }
+}
+, annotation_spec_id: "4428420519821312000"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9992495775222778
+  text_segment {
+    start_offset: 240
+    end_offset: 249
+    content: "Inventory"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.9999253749847412
+  text_segment {
+    start_offset: 371
+    end_offset: 398
+    content: "Property and Equipment, net"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9997084140777588
+  text_segment {
+    start_offset: 415
+    end_offset: 427
+    content: "Total Assets"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9999992251396179
+  text_segment {
+    start_offset: 479
+    end_offset: 495
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9995318651199341
+  text_segment {
+    start_offset: 516
+    end_offset: 535
+    content: "Accrued liabilities"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.999444305896759
+  text_segment {
+    start_offset: 680
+    end_offset: 697
+    content: "Total Liabilities"
+  }
+}
+, annotation_spec_id: "1975506835276300288"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.3122464120388031
+  text_segment {
+    start_offset: 783
+    end_offset: 815
+    content: "Total Liabilities and Net Assets"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9995622038841248
+  text_segment {
+    start_offset: 1516
+    end_offset: 1529
+    content: "Total Revenue"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.22323668003082275
+  text_segment {
+    start_offset: 1771
+    end_offset: 1793
+    content: "General administrative"
+  }
+}
+]

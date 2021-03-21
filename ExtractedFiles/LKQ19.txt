@@ -1,0 +1,161 @@
+
+Page#1
+LKQ CORPORATION AND SUBSIDIARIES
+Consolidated Statements of Income
+(In thousands, except per share data)
+ 
+Year Ended December 31,
+  
+ 2019 2018 2017
+Revenue $ 12,506,109  $ 11,876,674  9,736,909
+Cost of goods sold 7,654,315  7,301,817  5,937,286
+Gross margin 4,851,794  4,574,857  3,799,623
+Selling, general and administrative expenses 3,580,300  3,352,731  2,715,407
+Restructuring and acquisition related expenses 36,979  32,428  19,672
+Impairment of net assets held for sale and goodwill 47,102  33,244  —
+Depreciation and amortization 290,770  274,213  219,546
+Operating income 896,643  882,241  844,998
+Other expense (income): 
+Interest expense 138,504  146,377  101,640
+(Gain) loss on debt extinguishment (128)  1,350  456
+Interest income and other income, net (32,755)  (8,917)  (23,725)
+Total other expense, net 105,621  138,810  78,371
+Income from continuing operations before provision for income taxes 791,022  743,431  766,627
+Provision for income taxes 215,330  191,395  235,560
+Equity in (losses) earnings of unconsolidated subsidiaries (32,277)  (64,471)  5,907
+Income from continuing operations 543,415  487,565  536,974
+Net income (loss) from discontinued operations 1,619  (4,397)  (6,746)
+Net income 545,034  483,168  530,228
+Less: net income (loss) attributable to continuing noncontrolling interest 2,800  3,050  (3,516)
+Less: net income attributable to discontinued noncontrolling interest 974  —  —
+Net income attributable to LKQ stockholders $ 541,260  $ 480,118  $ 533,744
+ 
+Basic earnings per share: (1) 
+Income from continuing operations $ 1.75  $ 1.55  $ 1.74
+Net income (loss) from discontinued operations 0.01  (0.01)  (0.02)
+Net income 1.76  1.54  1.72
+Less: net income (loss) attributable to continuing noncontrolling interest 0.01  0.01  (0.01)
+Less: net income attributable to discontinued noncontrolling interest 0.00  —  —
+Net income attributable to LKQ stockholders $ 1.75  $ 1.53  $ 1.73
+ 
+Diluted earnings per share: (1) 
+Income from continuing operations $ 1.75 $ 1.54 $ 1.73
+Net income (loss) from discontinued operations 0.01  (0.01)  (0.02)
+Net income 1.75  1.53  1.71
+Less: net income (loss) attributable to continuing noncontrolling interest 0.01  0.01  (0.01)
+Less: net income attributable to discontinued noncontrolling interest 0.00  —  —
+Net income attributable to LKQ stockholders $ 1.74  $ 1.52  $ 1.72
+(1) The sum of the individual earnings per share amounts may not equal the total due to rounding.
+The accompanying notes are an integral part of the consolidated financial statements.
+65
+Page#2
+LKQ CORPORATION AND SUBSIDIARIES
+Consolidated Balance Sheets
+(In thousands, except share and per share data)
+ 
+December 31,
+  
+2019 2018
+Assets 
+Current assets: 
+Cash and cash equivalents $ 523,020  $ 331,761
+Receivables, net 1,131,132  1,154,083
+Inventories 2,772,777  2,836,075
+Prepaid expenses and other current assets 260,890  199,030
+Total current assets 4,687,819  4,520,949
+Property, plant and equipment, net 1,234,400  1,220,162
+Operating lease assets, net 1,308,511  —
+Intangible assets: 
+Goodwill 4,406,535  4,381,458
+Other intangibles, net 850,338  928,752
+Equity method investments 139,243  179,169
+Other noncurrent assets 153,110  162,912
+Total assets $ 12,779,956  $ 11,393,402
+Liabilities and Stockholders' Equity
+ 
+Current liabilities: 
+Accounts payable $ 942,795  $ 942,398
+Accrued expenses: 
+Accrued payroll-related liabilities 179,203  172,005
+Refund liability 97,314  104,585
+Other accrued expenses 289,683  288,425
+Other current liabilities 121,623  61,109
+Current portion of operating lease liabilities 221,527  —
+Current portion of long-term obligations 326,367  121,826
+Total current liabilities 2,178,512  1,690,348
+Long-term operating lease liabilities, excluding current portion 1,137,597  —
+Long-term obligations, excluding current portion 3,715,389  4,188,674
+Deferred income taxes 310,129  311,434
+Other noncurrent liabilities 365,672  364,194
+Commitments and contingencies 
+Redeemable noncontrolling interest 24,077  —
+Stockholders' equity: 
+Common stock, $0.01 par value, 1,000,000,000 shares authorized, 319,927,243 shares issued and 306,731,328
+shares outstanding at December 31, 2019; 318,417,821 shares issued and 316,146,114 shares outstanding at
+December 31, 2018 3,199  3,184
+Additional paid-in capital 1,418,239  1,415,188
+Retained earnings 4,140,136  3,598,876
+Accumulated other comprehensive loss (200,885)  (174,950)
+Treasury stock, at cost; 13,195,915 shares at December 31, 2019 and 2,271,707 shares at December 31, 2018 (351,813)  (60,000)
+Total Company stockholders' equity 5,008,876  4,782,298
+Noncontrolling interest 39,704  56,454
+Total stockholders' equity 5,048,580  4,838,752
+Total liabilities and stockholders' equity $ 12,779,956  $ 11,393,402
+The accompanying notes are an integral part of the consolidated financial statements.
+67
+Page#3
+LKQ CORPORATION AND SUBSIDIARIES
+Consolidated Statements of Cash Flows
+(In thousands)
+ 
+Year Ended December 31,
+ 
+2019 2018 2017
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+Net income $ 545,034  $ 483,168  $ 530,228
+Adjustments to reconcile net income to net cash provided by operating activities: 
+Depreciation and amortization 314,406  294,077  230,203
+Impairment of equity method investments 41,057  70,895  —
+Impairment of net assets held for sale and goodwill 47,102  33,244  —
+Stock-based compensation expense 27,695  22,760  22,832
+Deferred income taxes 7,109  (2,180)  (46,537)
+Other (16,311)  8,466  8,683
+Changes in operating assets and liabilities, net of effects from acquisitions and dispositions: 
+Receivables, net 26,419  241  (55,979)
+Inventories 15,460  (127,153)  (203,857)
+Prepaid income taxes/income taxes payable 25,776  (2,125)  8,376
+Accounts payable 3,712  (77,621)  45,136
+Other operating assets and liabilities 26,574  6,967  (20,185)
+Net cash provided by operating activities 1,064,033  710,739  518,900
+CASH FLOWS FROM INVESTING ACTIVITIES: 
+Purchases of property, plant and equipment (265,730)  (250,027)  (179,090)
+Proceeds from disposals of property, plant and equipment 16,045  27,659  8,707
+Acquisitions, net of cash and restricted cash acquired (27,296)  (1,214,995)  (513,088)
+Proceeds from disposal of businesses 18,469  —  301,297
+Investments in unconsolidated subsidiaries (7,594)  (60,300)  (7,664)
+Receipts of deferred purchase price on receivables under factoring arrangements —  36,991  —
+Other investing activities, net 1,253  1,733  5,243
+Net cash used in investing activities (264,853)  (1,458,939)  (384,595)
+CASH FLOWS FROM FINANCING ACTIVITIES: 
+Debt issuance costs —  (21,128)  (4,267)
+Proceeds from issuance of Euro Notes (2026/28) —  1,232,100  —
+Purchase of treasury stock (291,813)  (60,000)  —
+Borrowings under revolving credit facilities 605,708  1,667,325  839,171
+Repayments under revolving credit facilities (734,471)  (1,528,970)  (946,477)
+Repayments under term loans (8,750)  (354,800)  (27,884)
+Borrowings under receivables securitization facility 36,600  10,120  11,245
+Repayments under receivables securitization facility (146,600)  (120)  (11,245)
+Payment of notes issued and assumed debt from acquisitions (19,123)  (54,888)  —
+(Repayments) borrowings of other debt, net (33,922)  (11,730)  19,706
+Other financing activities, net (8,298)  5,086  7,184
+Net cash (used in) provided by financing activities (600,669)  882,995  (112,567)
+Effect of exchange rate changes on cash, cash equivalents and restricted cash (904)  (77,311)  23,512
+Net increase in cash, cash equivalents and restricted cash 197,607  57,484  45,250
+Cash, cash equivalents and restricted cash of continuing operations, beginning of period 337,250  279,766  227,400
+Add: Cash, cash equivalents and restricted cash of discontinued operations, beginning of period —  —  7,116
+Cash, cash equivalents and restricted cash of continuing and discontinued operations, beginning of period 337,250  279,766  234,516
+Cash, cash equivalents and restricted cash of continuing and discontinued operations, end of period 534,857  337,250  279,766
+Less: Cash and cash equivalents of discontinued operations, end of period 6,470  —  —
+Cash, cash equivalents and restricted cash, end of period $ 528,387  $ 337,250  $ 279,766
+ 
+ 

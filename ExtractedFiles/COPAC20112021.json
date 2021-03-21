@@ -1,0 +1,181 @@
+[annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.7604266405105591
+  text_segment {
+    start_offset: 139
+    end_offset: 164
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9485376477241516
+  text_segment {
+    start_offset: 191
+    end_offset: 202
+    content: "receivables"
+  }
+}
+, annotation_spec_id: "4428420519821312000"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9710268378257751
+  text_segment {
+    start_offset: 296
+    end_offset: 305
+    content: "Inventory"
+  }
+}
+, annotation_spec_id: "7495512603548975104"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.4239284098148346
+  text_segment {
+    start_offset: 318
+    end_offset: 338
+    content: "Total Current Assets"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.4678349196910858
+  text_segment {
+    start_offset: 510
+    end_offset: 536
+    content: "Net Property and Equipment"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.4939734637737274
+  text_segment {
+    start_offset: 618
+    end_offset: 630
+    content: "Total Assets"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9996968507766724
+  text_segment {
+    start_offset: 703
+    end_offset: 719
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "3789331585199767552"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.862913966178894
+  text_segment {
+    start_offset: 908
+    end_offset: 933
+    content: "Total Current Liabilities"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.6240159869194031
+  text_segment {
+    start_offset: 1166
+    end_offset: 1183
+    content: "Total Liabilities"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.31518369913101196
+  text_segment {
+    start_offset: 1369
+    end_offset: 1417
+    content: "Colorado Society of Certified Public Accountants"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.44488194584846497
+  text_segment {
+    start_offset: 1418
+    end_offset: 1442
+    content: "Statements of Activities"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.7728222012519836
+  text_segment {
+    start_offset: 1961
+    end_offset: 1974
+    content: "Total Revenue"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.3173030912876129
+  text_segment {
+    start_offset: 2153
+    end_offset: 2175
+    content: "Total Program Services"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.8977447152137756
+  text_segment {
+    start_offset: 2216
+    end_offset: 2238
+    content: "General administrative"
+  }
+}
+, annotation_spec_id: "3752471557390204928"
+display_name: "ConsolidatedCashFlows"
+text_extraction {
+  score: 0.31414544582366943
+  text_segment {
+    start_offset: 2644
+    end_offset: 2668
+    content: "Statements of Cash Flows"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9919585585594177
+  text_segment {
+    start_offset: 2886
+    end_offset: 2898
+    content: "Depreciation"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.43220964074134827
+  text_segment {
+    start_offset: 3603
+    end_offset: 3628
+    content: "Redemption of investments"
+  }
+}
+, annotation_spec_id: "3979340388618993664"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.4349779486656189
+  text_segment {
+    start_offset: 3794
+    end_offset: 3833
+    content: "Net cash (used in) investing activities"
+  }
+}
+]

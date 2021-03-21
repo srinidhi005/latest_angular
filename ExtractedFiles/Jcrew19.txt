@@ -1,0 +1,183 @@
+
+Page#1
+J.CREW GROUP, INC.
+Consolidated Balance Sheets
+(in thousands, except share data)
+ 
+February 2, February 3,
+ 
+ 2019 2018 
+ASSETS 
+(As adjusted) 
+Current assets: 
+Cash and cash equivalents  $ 25,738  $ 107,066 
+Restricted cash 13,747 — 
+Accounts receivable, net 40,342 23,191 
+Merchandise inventories, net 390,470 292,489 
+Prepaid expenses and other current assets 84,942 69,157 
+Refundable income taxes 7,331 1,622 
+Total current assets 562,570 493,525 
+Property and equipment, at cost 465,967 555,351 
+Less accumulated depreciation (222,347) (265,910)
+Property and equipment, net 243,620 289,441 
+Intangible assets, net 301,397 308,702 
+Goodwill 107,900 107,900 
+Other assets 6,164 6,374 
+Total assets  $ 1,221,651  $ 1,205,942 
+LIABILITIES AND STOCKHOLDERS’ DEFICIT 
+Current liabilities: 
+Accounts payable  $ 259,705  $ 232,480 
+Other current liabilities 244,864 177,206 
+Borrowings under the ABL Facility 70,800 — 
+Due to Parent 37,462 38,210 
+Interest payable 23,866 21,914 
+Current portion of long-term debt 32,070 15,670 
+Total current liabilities 668,767 485,480 
+Long-term debt, net 1,673,282 1,697,812 
+Lease-related deferred credits, net 106,037 117,688 
+Deferred income taxes, net 16,872 27,752 
+Other liabilities 28,936 30,168 
+Total liabilities 2,493,894 2,358,900 
+Stockholders’ deficit: 
+Common stock $0.01 par value; 1,000 shares authorized, issued and outstanding — — 
+Additional paid-in capital 733,229 733,071 
+Accumulated other comprehensive loss (1,967) (2,603)
+Accumulated deficit (2,003,505) (1,883,426)
+Total stockholders’ deficit (1,272,243) (1,152,958)
+Total liabilities and stockholders’ deficit  $ 1,221,651  $ 1,205,942
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+F-3
+Page#2
+J.CREW GROUP, INC.
+Consolidated Statements of Operations and Comprehensive Loss
+(in thousands)
+ 
+  
+For the Year Ended 
+February 2, February 3, January 28,
+ 
+  2019 2018(a)  2017 
+Revenues: 
+(As adjusted)  (As adjusted) 
+Net sales  $ 2,308,695  $ 2,267,810  $ 2,360,010 
+Other 175,299 105,885 71,585 
+Total revenues 2,483,994 2,373,695 2,431,595 
+Cost of goods sold, including buying and occupancy costs 1,648,330 1,476,064 1,550,305 
+Gross profit 835,664 897,631 881,290 
+Selling, general and administrative expenses 824,031 872,681 824,290 
+Impairment losses 10,765 141,187 7,752 
+Income (loss) from operations 868 (116,237) 49,248 
+Interest expense, net 137,497 110,513 79,359 
+Loss on refinancings — — 435 
+Loss before income taxes (136,629) (226,750) (30,546)
+Benefit for income taxes (16,550) (103,551) (6,815)
+Net loss  $ (120,079)  $ (123,199)  $ (23,731)
+Other comprehensive income (loss): 
+Reclassification of losses on cash flow hedges, net of tax, to earnings 1,731 6,537 6,387 
+Unrealized gain (loss) on cash flow hedges, net of tax (413) 693 449 
+Foreign currency translation adjustments (682) 1,703 (1,581)
+Comprehensive loss  $ (119,443)  $ (114,266)  $ (18,476)
+ 
+ 
+(a) Consists of 53 weeks.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+F-4
+Page#3
+J.CREW GROUP, INC.
+Consolidated Statements of Cash Flows
+(in thousands)
+ 
+  
+For the Year Ended 
+February 2, February 3, January 28,
+ 
+  2019 2018  2017 
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+(As adjusted)  (As adjusted) 
+Net loss  $ (120,079)  $ (123,199)  $ (23,731)
+Adjustments to reconcile to cash flows from operating activities: 
+Depreciation of property and equipment 88,028 101,288 109,503 
+Impairment losses 10,765 141,187 7,752 
+Amortization of intangible assets 7,236 9,086 10,540 
+Amortization of deferred financing costs and debt discount 7,166 6,128 5,021 
+Reclassification of hedging losses to earnings 2,357 10,717 10,470 
+Share-based compensation 158 2,299 1,035 
+Loss on sale of property — 526 — 
+Loss on refinancings — — 435 
+Foreign currency transaction gains (403) (1,411) (1,539)
+Deferred income taxes (15,177) (121,852) (5,140)
+Changes in operating assets and liabilities: 
+Accounts receivable, net (17,151) (7,562) (11,740)
+Merchandise inventories, net (98,463) 22,562 57,798 
+Prepaid expenses and other current assets (16,010) (20,339) 16,668 
+Other assets 106 184 741 
+Accounts payable and other liabilities 83,296 41,215 (45,993)
+Federal and state income taxes (1,109) 2,077 6,013 
+Net cash provided by (used in) operating activities (69,280) 62,906 137,833 
+CASH FLOWS FROM INVESTING ACTIVITIES: 
+Capital expenditures (52,736) (39,678) (80,140)
+Proceeds from sale of property — 2,530 — 
+Net cash used in investing activities (52,736) (37,148) (80,140)
+CASH FLOWS FROM FINANCING ACTIVITIES: 
+Net borrowings under the ABL Facility 70,800 — — 
+Quarterly principal repayments of Term Loan Facility (15,670) (19,588) (11,753)
+Cost paid in connection with refinancings of debt (74) (5,740) (1,099)
+Proceeds from Notes, net of discount — 123,490 — 
+Repayments pursuant to the Term Loan amendment — (150,456) — 
+Net cash provided by (used in) financing activities 55,056 (52,294) (12,852)
+Effect of changes in foreign exchange rates on cash, cash equivalents and restricted cash (621) 1,376 (427)
+Increase (decrease) in cash, cash equivalents and restricted cash (67,581) (25,160) 44,414 
+Beginning balance 107,066 132,226 87,812 
+Ending balance  $ 39,485  $ 107,066  $ 132,226 
+Supplemental cash flow information: 
+Income taxes paid  $ 1,108  $ 1,610  $ 1,245 
+Interest paid  $ 128,048  $ 89,059  $ 72,558 
+Non-cash contribution to Parent in connection with Exchange Offer  $ —  $ 249,596  $ —
+ 
+ 
+ 
+ 
+ 
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+ 
+F-6

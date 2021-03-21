@@ -1,0 +1,141 @@
+[annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.5919772982597351
+  text_segment {
+    start_offset: 51
+    end_offset: 81
+    content: "PepsiCo, Inc. and Subsidiaries"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.999996542930603
+  text_segment {
+    start_offset: 283
+    end_offset: 290
+    content: "Revenue"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.9894742369651794
+  text_segment {
+    start_offset: 291
+    end_offset: 292
+    content: "$"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9999464750289917
+  text_segment {
+    start_offset: 318
+    end_offset: 331
+    content: "Cost of sales"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9999997615814209
+  text_segment {
+    start_offset: 353
+    end_offset: 365
+    content: "Gross profit"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9999630451202393
+  text_segment {
+    start_offset: 387
+    end_offset: 431
+    content: "Selling, general and administrative expenses"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9609968066215515
+  text_segment {
+    start_offset: 536
+    end_offset: 552
+    content: "Operating Profit"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9992687702178955
+  text_segment {
+    start_offset: 571
+    end_offset: 587
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9990015029907227
+  text_segment {
+    start_offset: 686
+    end_offset: 712
+    content: "Provision for income taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9958446621894836
+  text_segment {
+    start_offset: 731
+    end_offset: 741
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9744864106178284
+  text_segment {
+    start_offset: 1436
+    end_offset: 1465
+    content: "Depreciation and amortization"
+  }
+}
+, annotation_spec_id: "3979340388618993664"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.8763458132743835
+  text_segment {
+    start_offset: 3068
+    end_offset: 3106
+    content: "Net Cash Used for Investing Activities"
+  }
+}
+, annotation_spec_id: "3752471557390204928"
+display_name: "ConsolidatedCashFlows"
+text_extraction {
+  score: 0.9120488166809082
+  text_segment {
+    start_offset: 3153
+    end_offset: 3189
+    content: "Consolidated Statement of Cash Flows"
+  }
+}
+, annotation_spec_id: "2768997988763172864"
+display_name: "DividendsPaid"
+text_extraction {
+  score: 0.745906412601471
+  text_segment {
+    start_offset: 3723
+    end_offset: 3742
+    content: "Cash dividends paid"
+  }
+}
+]

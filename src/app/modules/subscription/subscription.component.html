@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://js.chargebee.com/v2/chargebee.js" data-cb-site="rmiinsights" ></script>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row" style="margin-top: 7%;">
+            <div class="col">
+                <mat-card class="mat-elevation-z4">
+                    <mat-card-header class="basic">
+                        <mat-card-title class="plan">Basic</mat-card-title>
+                        <mat-card-title class="price" >$ 1,000 <span style="font-size: small;"> per month</span></mat-card-title>
+                        <!-- <mat-card-title class="duration">per month</mat-card-title> -->
+                    </mat-card-header>
+                    <mat-card-content style="height: 300px;">
+                        <ol class="list">
+                            <li>No of Companies : 1</li>
+                            <li>Dashboard Accessible</li>
+                            <li>Scenario Planning</li>
+                            <li>Key Performance Indicators (KPIs)</li>
+                        </ol>
+    
+                        <button mat-raised-button (click)="Basic()" style="display: block; margin: 10px auto; background: #164A5B; position: relative; bottom: -150px; color: #fff;">
+                            Subscribe
+                        </button>
+                    </mat-card-content>
+                
+                </mat-card>
+            </div>
+    
+            <div class="col">
+                <mat-card class="mat-elevation-z4">
+                    <mat-card-header class="core">
+                        <mat-card-title class="plan">Core</mat-card-title>
+                        <mat-card-title class="price">$ 2,500 <span style="font-size: small;"> per month</span></mat-card-title>
+                        <!-- <mat-card-title class="duration">per month</mat-card-title> -->
+                    </mat-card-header>
+                    <mat-card-content style="height: 300px;">
+                        <ol class="list">
+                            <li>No of Companies : 10</li>
+                            <li>Dashboard Accessible</li>
+                            <li>Scenario Planning</li>
+                            <li>Key Performance Indicators (KPIs)</li>
+                            <li>Monthly Budgeting (Target Vs Actuals)</li>
+                            <li>Ratios & Metrics</li>
+                        </ol>
+    
+                        <button mat-raised-button (click)="Core()" style="display: block; margin: 10px auto; background: #164A5B; position: relative; bottom: -100px;  color: #fff">
+                            Subscribe
+                        </button>
+                    </mat-card-content>
+                
+                </mat-card>
+            </div>
+    
+            <div class="col">
+                <mat-card class="mat-elevation-z4">
+                    <mat-card-header class="premium">
+                        <mat-card-title class="plan">Premium</mat-card-title>
+                        <mat-card-title class="price">$ 5,000 <span style="font-size: small;"> per month</span></mat-card-title>
+                        <!-- <mat-card-title style="text-align:center; font-size: 12px; margin: 10px auto;">per month</mat-card-title> -->
+                    </mat-card-header>
+                    <mat-card-content style="height: 300px;">
+                        <ol class="list">
+                            <li>No of Companies : 50</li>
+                            <li>Dashboard Accessible</li>
+                            <li>Scenario Planning</li>
+                            <li>Key Performance Indicators (KPIs)</li>
+                            <li>Monthly Budgeting (Target Vs Actuals)</li>
+                            <li>Ratios & Metrics</li>
+                            <li>Industry Benchmarking</li>
+                            <li>Financial Health Scorecard</li>
+                            <li>Valuations</li>
+                        </ol>
+    
+                        <button mat-raised-button (click)="Premium()" style="display: block; margin: 10px auto; background: #164A5B; position: relative; bottom: -25px;  color: #fff">
+                            Subscribe
+                        </button>
+                    </mat-card-content>
+                
+                </mat-card>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

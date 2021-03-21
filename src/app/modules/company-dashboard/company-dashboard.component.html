@@ -1,0 +1,25 @@
+<div class="row">
+  <div class="col" style="text-align: left; margin: 10px auto;">
+	  <h4>  Dashboard</h4>
+  </div>
+</div>
+<ng-container *ngIf="!loading; else loader">
+  <app-company-matrics [companyName]="companyName" [scenario]="scenario"></app-company-matrics>
+  <br /><br />
+  <mat-tab-group>
+    <mat-tab label="Income Statement">
+      <app-income-statement-kpi [companyName]="companyName" [scenario]="scenario"></app-income-statement-kpi>
+    </mat-tab>
+    <mat-tab label="Balance Sheet">
+      <app-balance-sheet-kpi [companyName]="companyName" [scenario]="scenario"></app-balance-sheet-kpi>
+    </mat-tab>
+    <mat-tab label="Cash Flow">
+       <app-cashflow [companyName]="companyName" [scenario]="scenario"></app-cashflow>
+    </mat-tab>
+  </mat-tab-group>
+</ng-container>
+<ng-template #loader>
+  <div class="text-center loader-container">
+    <mat-spinner diameter="50" strokeWidth="5"></mat-spinner>
+  </div>
+</ng-template>

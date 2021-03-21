@@ -1,73 +1,104 @@
-<div fxLayout="row" class="header">
+
+<div class="row" style="height: 30px;">
+  <div class="col"><h4>Adjust Income Statement Drivers</h4></div>
+ <!-- <div class="col-3" style="text-align: right;">
+    <div class="actuals"></div> <div class="labels" style="margin-right: 40px;font-family: Roboto,Helvetica Neue,sans-serif;font-size: 14px;  font-weight: 500">Historical</div>
+    <div class="projections"></div> <div class="labels" style="margin-right: 10px;font-family: Roboto,Helvetica Neue,sans-serif;font-size: 14px;font-weight: 500;">Projection</div>
+ </div>-->
+</div>
+<div fxLayout="row" class="header" style="margin-bottom: 10px">
   <div fxLayout="row" fxLayoutAlign="start center">
-    <p>Adjust Financial Model Drivers</p>
+    <span style="font-weight:bold;font-size: 22px">{{ companySelected }} - {{loadedScenario}}  </span>
+    <div class="actuals" style="margin-left: 40px;"></div> <div class="labels" style="margin-right: 40px;font-size: 22px">Historical</div>
+    <div class="projections"></div> <div class="labels" style="margin-right: 10px;font-size: 22px">Projection</div>
   </div>
-  <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px" >
+  <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px">
     <button mat-button (click)="addScenario()" [disabled]="inprogress" matTooltip="Add Scenario"
-    matTooltipPosition='above'>
-    <mat-icon>add_box</mat-icon>
-  </button>
-
-    <button mat-button (click)="saveScenario()" matTooltip="Save Scenario"
-    matTooltipPosition='above'>
-    <mat-icon>save</mat-icon>
-  </button>
-
-    <button mat-button [matMenuTriggerFor]="belowMenu">Scenario<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
+      matTooltipPosition='above'>
+      <mat-icon style="font-size: 26px">add_box</mat-icon>
     </button>
-  <mat-menu #belowMenu="matMenu" yPosition="below">
-    <button mat-menu-item *ngFor="let index of scenarioArray; let indexOfelement=index;">
-      <span *ngIf="indexOfelement==0;" (click)="loadScenario(indexOfelement)">Default</span> 
-      <span *ngIf="indexOfelement!=0;" (click)="loadScenario(indexOfelement)">Scenario {{index}}</span>
-     </button>
-  </mat-menu>
 
-    <button mat-button [matMenuTriggerFor]="afterMenu">Metrics <mat-icon matSuffix>keyboard_arrow_down</mat-icon>
+    <button mat-button (click)="saveScenario()" matTooltip="Save Scenario" matTooltipPosition='above'>
+      <mat-icon style="font-size: 26px">save</mat-icon>
+    </button>
+
+    <button mat-button [matMenuTriggerFor]="belowMenu" style="font-size: 22px">{{ loadedScenario }}<mat-icon matSuffix>keyboard_arrow_down
+      </mat-icon>
+    </button>
+    <mat-menu #belowMenu="matMenu" yPosition="below">
+      <button mat-menu-item *ngFor="let index of scenarioArray; let indexOfelement=index;">
+        <span (click)="loadScenario(indexOfelement)" style="font-size: 22px">Scenario {{index}}</span>
       </button>
+    </mat-menu>
+
+    <button mat-button [matMenuTriggerFor]="afterMenu" style="font-size: 22px">Financial Statements <mat-icon matSuffix>keyboard_arrow_down</mat-icon>
+    </button>
 
     <mat-menu #afterMenu="matMenu" xPosition="after">
-      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/IncomeStatementMetrics'>Income Statement</button>
-      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/BalanceSheetMetrics'>Balance Sheet</button>
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/IncomeStatementMetrics' style="font-size: 22px">Income
+        Statement</button>
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/BalanceSheetMetrics' style="font-size: 22px">Balance Sheet</button>
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/cashmetrics' style="font-size: 22px">Cash Flow Statement</button>
     </mat-menu>
-  </div> 
+	<button mat-button
+      [matMenuTriggerFor]="tabMenus" style="padding: 0; margin: 0px;font-size: 22px">Visuals
+      <mat-icon matSuffix>
+        keyboard_arrow_down</mat-icon>
+    </button>
+    <mat-menu #tabMenus="matMenu" xPosition="after">
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsIS' style="font-size: 22px">Income
+        Statement</button>
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsBS' style="font-size: 22px">Balance Sheet</button>
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsCF' style="font-size: 22px">Cash Flow Statement</button>
+    </mat-menu>
+
+
+  </div>
 </div>
 
 <mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
 <div class="content" fxLayout="row wrap" fxLayoutGap="16px grid">
   <div fxFlex.xs="100%" fxFlex="33.3%" fxFlex.sm="33.3%">
     <mat-card class="mat-elevation-z4">
-      <highcharts-chart [Highcharts]="Highcharts" [options]="RGOptions"></highcharts-chart>
+      <highcharts-chart [Highcharts]="Highcharts" [options]="RGOptions" [(update)]="updateRGBOption"></highcharts-chart>
     </mat-card>
   </div>
 
   <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
     <mat-card class="mat-elevation-z4">
-      <highcharts-chart [Highcharts]="Highcharts" [options]="COGSOptions"></highcharts-chart>
+      <highcharts-chart [Highcharts]="Highcharts" [options]="COGSOptions" [(update)]="updateCogsOptions">
+      </highcharts-chart>
     </mat-card>
   </div>
 
   <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
     <mat-card class="mat-elevation-z4">
-      <highcharts-chart [Highcharts]="Highcharts" [options]="SGAOptions"></highcharts-chart>
+      <highcharts-chart [Highcharts]="Highcharts" [options]="SGAOptions" [(update)]="updateSGAOptions">
+      </highcharts-chart>
     </mat-card>
   </div>
   <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
     <mat-card class="mat-elevation-z4">
-      <highcharts-chart [Highcharts]="Highcharts" [options]="DAOptions"></highcharts-chart>
+      <highcharts-chart [Highcharts]="Highcharts" [options]="DAOptions" [(update)]="updateDAOptions"></highcharts-chart>
     </mat-card>
   </div>
   <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
     <mat-card class="mat-elevation-z4">
-      <highcharts-chart [Highcharts]="Highcharts" [options]="OIEOptions"></highcharts-chart>
+      <highcharts-chart [Highcharts]="Highcharts" [options]="OIEOptions" [(update)]="updateIEOOptions">
+      </highcharts-chart>
     </mat-card>
   </div>
   <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
     <mat-card class="mat-elevation-z4">
-      <highcharts-chart [Highcharts]="Highcharts" [options]="NIEOptions"></highcharts-chart>
+      <highcharts-chart [Highcharts]="Highcharts" [options]="NIEOptions" [(update)]="updateNIEOptions">
+      </highcharts-chart>
     </mat-card>
   </div>
 </div>
-<p class="projections-title">Annual Projections</p>
+
+<div class="row separator">
+</div>
+<p class="projections-title" style="font-size: 16px; font-weight: bold; margin-top:-10px;">Annual Projections</p>
 <div class="content" fxLayout="row wrap" fxLayoutGap="16px grid">
   <div fxFlex.xs="100%" fxFlex="33.3%" fxFlex.sm="33.3%">
     <mat-card class="mat-elevation-z4">

@@ -1,17 +1,27 @@
 table {
-    width: 100%;
-  }
-th{
-  font-size: 14px;
-  font-weight: bold;
+  width: 100%;
 }
-p{
+th {
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.mat-header-row {
+  background: #164a5b;
+}
+p {
   font-size: 18px;
 }
-.align-right{
-	text-align:right;
-	width:250px;
+.increment {
+  color: green;
+  font-weight: bold;
 }
-td.mat-cell:last-of-type, td.mat-footer-cell:last-of-type, th.mat-header-cell:last-of-type {
-    padding-right: 220px;
+.decrement {
+  color: red;
+  font-weight: bold;
+}
+
+.table-container {
+  border-radius: 5px;
+  overflow: hidden;
 }

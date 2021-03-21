@@ -1,0 +1,128 @@
+
+Page#1
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Advanced Micro Devices, Inc.
+Consolidated Statements of Operations (1) 
+ 
+  Year Ended
+December 29, December 30, December 31,
+  2018  2017  2016
+ (In millions, except per share amounts)
+Net revenue $ 6,475  $ 5,253  $ 4,319
+Cost of sales 4,028  3,466  3,316
+Gross margin 2,447  1,787  1,003
+Research and development 1,434  1,196  1,008
+Marketing, general and administrative 562  516  466
+Restructuring and other special charges, net —  —  (10)
+Licensing gain —  (52)  (88)
+Operating income (loss) 451  127  (373)
+Interest expense (121)  (126)  (156)
+Other income (expense), net —  (9)  80
+Income (loss) before income taxes and equity loss 330  (8)  (449)
+Provision (benefit) for income taxes (9)  18  39
+Equity loss in investee (2)  (7)  (10)
+Net income (loss) $ 337  $ (33)  $ (498)
+Earnings (loss) per share 
+ Basic $ 0.34  $ (0.03)  $ (0.60)
+ Diluted $ 0.32  $ (0.03)  $ (0.60)
+Shares used in per share calculation 
+ Basic 982  952  835
+ Diluted 1,064  952  835
+(1) Prior year amounts adjusted to reflect the retrospective application of ASU 2014-09, Revenue from Contracts with Customers. Refer to Note 2.
+See accompanying notes to consolidated financial statements.
+48
+Page#2
+Advanced Micro Devices, Inc.
+Consolidated Balance Sheets (1) 
+ 
+December 29, December 30,
+ 2018  2017
+ (In millions, except par value amounts)
+ASSETS 
+Current assets: 
+Cash and cash equivalents $ 1,078  $ 1,185
+Marketable securities 78  —
+Accounts receivable, net 1,235  454
+Inventories, net 845  694
+Prepayment and receivables - related parties 52  33
+Prepaid expenses 57  77
+Other current assets 195  191
+Total current assets 3,540  2,634
+Property and equipment, net 348  261
+Goodwill 289  289
+Investment: equity method 58  58
+Other assets 321  310
+Total assets $ 4,556  $ 3,552
+LIABILITIES AND STOCKHOLDERS’ EQUITY 
+Current liabilities: 
+Short-term debt $ 136  $ 70
+Accounts payable 528  384
+Payables to related parties 533  412
+Accrued liabilities 763  555
+Other current liabilities 24  92
+Total current liabilities 1,984  1,513
+Long-term debt, net 1,114  1,325
+Other long-term liabilities 192  118
+Commitments and contingencies (see Notes 18 and 19) 
+Stockholders’ equity: 
+Capital stock: 
+Common stock, par value $0.01; 2,250 shares authorized, 1,010 shares issued and 1,005 shares
+outstanding as of December 29, 2018; 1,500 shares authorized, 979 shares issued and 967 shares
+outstanding as of December 30, 2017 10  9
+Additional paid-in capital 8,750  8,464
+Treasury stock, at cost (5 shares as of December 29, 2018 and 12 shares as of December 30, 2017) (50)  (108)
+Accumulated deficit (7,436)  (7,775)
+Accumulated other comprehensive income (loss) (8)  6
+Total stockholders’ equity 1,266  596
+Total liabilities and stockholders’ equity $ 4,556  $ 3,552
+(1) Prior year amounts adjusted to reflect the retrospective application of ASU 2014-09, Revenue from Contracts with Customers. Refer to Note 2.
+See accompanying notes to consolidated financial statements.
+50
+Page#3
+Advanced Micro Devices, Inc.
+Consolidated Statements of Cash Flows (1) 
+  Year Ended
+December 29, December 30, December 31,
+  2018  2017  2016
+ (In millions)
+Cash flows from operating activities: 
+Net income (loss) $ 337  $ (33)  $ (498)
+Adjustments to reconcile net income (loss) to net cash used in operating activities: 
+Net gain on sale of equity interests in ATMP JV —  (3)  (146)
+Net loss on disposal of property and equipment 27  —  1
+Impairment of technology licenses 45  —  —
+Depreciation and amortization 170  144  133
+Deferred income taxes (4)  —  11
+Stock-based compensation expense 137  97  86
+Amortization of debt discount and issuance costs 38  36  21
+Loss on debt redemption 12  12  68
+Fair value of warrant issued related to sixth amendment to the WSA —  —  240
+Other (1)  3  (7)
+Changes in operating assets and liabilities: 
+Accounts receivable (806)  (103)  178
+Inventories (151)  (3)  (48)
+Prepayment and receivables - related parties (19)  (1)  1
+Prepaid expenses and other assets (79)  (172)  (163)
+Payables to related parties 121  29  138
+Accounts payable, accrued liabilities and other 207  6  66
+Net cash provided by operating activities 34  12  81
+Cash flows from investing activities: 
+Net proceeds from sale of equity interests in ATMP JV —  1  342
+Purchases of available-for-sale debt securities (123)  (222)  —
+Purchases of property and equipment (163)  (113)  (77)
+Proceeds from maturity of available-for-sale debt securities 45  222  —
+Collection of deferred proceeds on sale of receivables 71  60  10
+Other —  (2)  2
+Net cash provided by (used in) investing activities (170)  (54)  277
+Cash flows from financing activities: 
+Proceeds from issuance of common stock, net of issuance costs —  —  667
+Proceeds from issuance of convertible senior notes, net of issuance costs —  —  782
+Proceeds from issuance of common stock through employee equity incentive plans 70  20  20
+Proceeds from (repayments of) short-term borrowings, net —  70  (230)
+Repayments of long-term debt (41)  (110)  (1,113)
+Other (1)  (13)  (4)
+Net cash provided by (used in) financing activities 28  (33)  122
+Net increase (decrease) in cash and cash equivalents, and restricted cash (108)  (75)  480
+Cash, cash equivalents, and restricted cash at beginning of year 1,191  1,266  786
+Cash, cash equivalents, and restricted cash at end of year $ 1,083  $ 1,191  $ 1,266
+52

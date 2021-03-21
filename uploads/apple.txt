@@ -1,121 +1,86 @@
-RowSeptember 29,
-	September 30,
-	September 24,
-Row2018
+Row 0: 2018
 	2017
 	2016
-Row$ 265,595 	$ 229,234 	$ 215,639
-Row163,756 	141,048 	131,376
-Row101,839 	88,186 	84,263
-Row14,236 11,581 	10,045
-Row16,705 15,261 	14,194
-Row30,941 26,842 	24,239
-Row	70,898 2,005 72,903 	61,344 2,745 64,089 	60,024
-1,348
-61,372
-Row$ 	13,372 59,531 	15,738 $ 48,351 $ 	15,685
+Row 1: $ 265,595 	$ 229,234 	$ 215,639
+Row 2: 163,756 	141,048 	131,376
+Row 3: 101,839 	88,186 	84,263
+Row 0: 16,705 15,261 	14,194
+Row 1: 30,941 26,842 	24,239
+Row 0: $ 	13,372 59,531 	15,738 $ 48,351 $ 	15,685
 45,687
-Row$ 	12.01 $ 	9.27 $ 	8.35
-Row$ 	11.91 $ 	9.21 $ 	8.31
-Row4,955,377 	5,217,242 	5,470,820
-Row5,000,109 	5,251,692 	5,500,281
-RowSeptember 29,
-	September 	30,
-	September 24,
-Row2018
+Row 0: $ 	11.91 $ 	9.21 $ 	8.31
+Row 0: 5,000,109 	5,251,692 	5,500,281
+Row 0: 2018
 	2017
 		2016
-Row$ 59,531 	$ 	48,351 	$ 45,687
-Row(525) 	224 	75
-Row523 	1,315 	7
-Row382 	(1,477) 	(741)
-Row905 	(162) 	(734)
-Row(3,407) 	(782) 	1,582
-Row1 	(64) 	56
-Row(3,406) 	(846) 	1,638
-Row(3,026) 	(784) 	979
-Row$ 56,505 	$ 47,567 	$ 46,666
-Row	September 29,
-2018
-	September 30,
-2017
-Row$ 	25,913 40,388 	$ 20,289
+Row 1: $ 59,531 	$ 	48,351 	$ 45,687
+Row 0: 523 	1,315 	7
+Row 0: 905 	(162) 	(734)
+Row 0: 1 	(64) 	56
+Row 1: (3,406) 	(846) 	1,638
+Row 2: (3,026) 	(784) 	979
+Row 3: $ 56,505 	$ 47,567 	$ 46,666
+Row 0: $ 	25,913 40,388 	$ 20,289
 53,892
-Row	23,186 3,956 25,809 12,087 	17,874
+Row 1: 	23,186 3,956 25,809 12,087 	17,874
 4,855
 17,799
 13,936
-Row	131,339 	128,645
-Row	170,799 41,304 22,283 	194,714
-33,783
-18,177
-Row	234,386 	246,674
-Row$ 	365,725 $ 	375,319
-RowAccounts payable 	$ 55,888 	$ 44,242
-RowOther current liabilities 	32,687 	30,551
-RowDeferred revenue 	7,543 	7,548
-RowCommercial paper 	11,964 	11,977
-RowTerm debt 	8,784 	6,496
-RowTotal current liabilities 	116,866 	100,814
-Row$ 	55,888 32,687 	$ 	44,242
-30,551
-Row	7,543 11,964 8,784 		7,548
+Row 2: 	131,339 	128,645
+Row 0: 	234,386 	246,674
+Row 1: $ 	365,725 $ 	375,319
+Row 0: Other current liabilities 	32,687 	30,551
+Row 1: Deferred revenue 	7,543 	7,548
+Row 2: Commercial paper 	11,964 	11,977
+Row 3: Term debt 	8,784 	6,496
+Row 4: Total current liabilities 	116,866 	100,814
+Row 0: 	7,543 11,964 8,784 		7,548
 11,977
 6,496
-Row	116,866 		100,814
-Row2,797 	2,836
-Row93,735 	97,207
-Row45,180 	40,415
-Row141,712 	140,458
-Row258,578 	241,272
-Rowauthorized; 4,754,986 and 5,126,201 shares issued and outstanding, respectively 	40,201 	35,867
-RowRetained earnings 	70,400 	98,330
-RowAccumulated other comprehensive income/(loss) 	(3,454) 	(150)
-RowTotal shareholders’ equity 	107,147 	134,047
-RowTotal liabilities and shareholders’ equity 	$ 365,725 $ 	375,319
-Rowhttps://www.bamsec.com/filing/32019318000145?cik=320193 		45/85
-Row	40,201 	35,867
-Row	70,400 (3,454) 	98,330
+Row 1: 	116,866 		100,814
+Row 0: 93,735 	97,207
+Row 1: 45,180 	40,415
+Row 2: 141,712 	140,458
+Row 3: 258,578 	241,272
+Row 0: Retained earnings 	70,400 	98,330
+Row 1: Accumulated other comprehensive income/(loss) 	(3,454) 	(150)
+Row 2: Total shareholders’ equity 	107,147 	134,047
+Row 3: Total liabilities and shareholders’ equity 	$ 365,725 $ 	375,319
+Row 4: https://www.bamsec.com/filing/32019318000145?cik=320193 		45/85
+Row 0: 	70,400 (3,454) 	98,330
 (150)
-Row	107,147 	134,047
-Row$ 	365,725 $ 	375,319
-RowBalances as of September 26, 2015 	Shares 5,578,753 $ 	Amount
-27,416 $ 	Retained
-Earnings
-92,284 	Comprehensive
-Income/(Loss)
-$ (345) $ 	Shareholders’
-Equity 119,355
-RowNet income 	— 	— 	45,687 	— 	45,687
-RowOther comprehensive income/(loss) 	— 	— 	— 	979 	979
-RowDividends and dividend equivalents
-					Rowdeclared at $2.18 per share or RSU 	— 	— 	(12,188) 	— 	(12,188)
-RowRepurchase of common stock 	(279,609) 	— 	(29,000) 	— 	(29,000)
-RowShare-based compensation 	— 	4,262 	— 	— 	4,262
-RowCommon stock issued, net of shares
+Row 1: 	107,147 	134,047
+Row 2: $ 	365,725 $ 	375,319
+Row 0: Net income 	— 	— 	45,687 	— 	45,687
+Row 1: Other comprehensive income/(loss) 	— 	— 	— 	979 	979
+Row 2: Dividends and dividend equivalents
+					Row 3: declared at $2.18 per share or RSU 	— 	— 	(12,188) 	— 	(12,188)
+Row 4: Repurchase of common stock 	(279,609) 	— 	(29,000) 	— 	(29,000)
+Row 5: Share-based compensation 	— 	4,262 	— 	— 	4,262
+Row 6: Common stock issued, net of shares
 withheld for employee taxes 	37,022 	(806) 	(419) 	— 	(1,225)
-RowTax benefit from equity awards, including
+Row 7: Tax benefit from equity awards, including
 transfer pricing adjustments 	— 	379 	— 	— 	379
-RowBalances as of September 24, 2016 	5,336,166 	31,251 	96,364 	634 	128,249
-RowNet income 	— 	— 	48,351 	— 	48,351
-RowOther comprehensive income/(loss) 	— 	— 	— 	(784) 	(784)
-RowDividends and dividend equivalents
+Row 8: Balances as of September 24, 2016 	5,336,166 	31,251 	96,364 	634 	128,249
+Row 9: Net income 	— 	— 	48,351 	— 	48,351
+Row 10: Other comprehensive income/(loss) 	— 	— 	— 	(784) 	(784)
+Row 11: Dividends and dividend equivalents
 declared at $2.40 per share or RSU 	— 	— 	(12,803) 	— 	(12,803)
-RowRepurchase of common stock 	(246,496) 	— 	(33,001) 	— 	(33,001)
-RowShare-based compensation 	— 	4,909 	— 	— 	4,909
-RowCommon stock issued, net of shares
+Row 12: Repurchase of common stock 	(246,496) 	— 	(33,001) 	— 	(33,001)
+Row 13: Share-based compensation 	— 	4,909 	— 	— 	4,909
+Row 14: Common stock issued, net of shares
 withheld for employee taxes 	36,531 	(913) 	(581) 	— 	(1,494)
-RowTax benefit from equity awards, including
+Row 15: Tax benefit from equity awards, including
 transfer pricing adjustments 	— 	620 	— 	— 	620
-RowBalances as of September 30, 2017 	5,126,201 	35,867 	98,330 	(150) 	134,047
-RowCumulative effect of change in accounting
+Row 16: Balances as of September 30, 2017 	5,126,201 	35,867 	98,330 	(150) 	134,047
+Row 17: Cumulative effect of change in accounting
 principle 	— 	— 	278 	(278) 	—
-RowNet income 	— 	— 	59,531 	— 	59,531
-RowOther comprehensive income/(loss) 	— 	— 	— 	(3,026) 	(3,026)
-RowDividends and dividend equivalents
+Row 18: Net income 	— 	— 	59,531 	— 	59,531
+Row 19: Other comprehensive income/(loss) 	— 	— 	— 	(3,026) 	(3,026)
+Row 20: Dividends and dividend equivalents
 declared at $2.72 per share or RSU 	— 	— 	(13,735) 	— 	(13,735)
-RowRepurchase of common stock 	(405,549) 	— 	(73,056) 	— 	(73,056)
-RowShare-based compensation 	— 	5,443 	— 	— 	5,443
-RowCommon stock issued, net of shares
+Row 21: Repurchase of common stock 	(405,549) 	— 	(73,056) 	— 	(73,056)
+Row 22: Share-based compensation 	— 	5,443 	— 	— 	5,443
+Row 23: Common stock issued, net of shares
 withheld for employee taxes 	34,334 	(1,109) 	(948) 	— 	(2,057)
-RowBalances as of September 29, 2018 	4,754,986 $ 	40,201 $ 	70,400 	$ (3,454) $ 	107,147
+Row 24: Balances as of September 29, 2018 	4,754,986 $ 	40,201 $ 	70,400 	$ (3,454) $ 	107,147

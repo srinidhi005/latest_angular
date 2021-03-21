@@ -1,48 +1,159 @@
-<mat-nav-list >
-    <a mat-list-item routerLinkActive="list-item-active" routerLink="/statement">
+<mat-nav-list>
+    <mat-accordion>
+        <mat-expansion-panel class="mat-elevation-z0">
+            <mat-expansion-panel-header>
+                <a mat-list-item routerLinkActive="list-item-active">
+                    <mat-icon>dashboard</mat-icon>Dashboard
+                </a>
+            </mat-expansion-panel-header >
+            <ng-container *ngFor="let company of topCompanies; let i = $index">
+                <mat-accordion>
+                    <mat-expansion-panel class="mat-elevation-z0 child-component">
+                        <mat-expansion-panel-header>
+                            <a mat-list-item routerLinkActive="list-item-active" [class.selected] = "excelService.selectedDashboardMenu === company.companyName">
+                                <mat-icon>library_books</mat-icon>
+                                {{company.companyName}}
+                            </a>
+                        </mat-expansion-panel-header>
+                        <ng-container *ngFor="let scenario of company.scenario">
+                            <a mat-list-item routerLinkActive="list-item-active" (click) = "excelService.selectedDashboardMenu = company.companyName"
+                                [routerLink]="['/'+ company.companyName + '/dashboard/' + scenario]">
+                                <mat-icon>description</mat-icon>{{scenario === 0 ? "Default" : "Scenario " + scenario}}
+                            </a>
+                        </ng-container>
+                    </mat-expansion-panel>
+                </mat-accordion>
+            </ng-container>
+        </mat-expansion-panel>
+    </mat-accordion>
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/statement" [class.selected-menu] = "excelService.selectedDashboardMenu == 'MyCompanies'"  
+     (click) = "excelService.selectedDashboardMenu = 'MyCompanies'">
         <mat-icon>library_books</mat-icon>
-        My Companies</a>
-    <a mat-list-item routerLinkActive="list-item-active" routerLink="/articles">
+        My Companies
+    </a>
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/ratios" [class.selected-menu] = "excelService.selectedDashboardMenu == 'ratios'"  
+     (click) = "excelService.selectedDashboardMenu = 'ratios'">
+        <mat-icon>aspect_ratio</mat-icon>
+        Ratios
+    </a>
+	 <a mat-list-item routerLinkActive="list-item-active" routerLink="/scorecard" [class.selected-menu] = "excelService.selectedDashboardMenu == 'scorecard'"  
+     (click) = "excelService.selectedDashboardMenu = 'scorecard'">
+        <mat-icon>content_paste</mat-icon>
+        Financial Health Scorecard
+    </a>
+
+	<a mat-list-item routerLinkActive="list-item-active" routerLink="/comparator"[class.selected-menu] = "excelService.selectedDashboardMenu == 'comparator'"  
+     (click) = "excelService.selectedDashboardMenu = 'comparator'">
+        <mat-icon>compare</mat-icon>
+      	Benchmarking
+    </a>
+
+
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/dcf" [class.selected-menu] = "excelService.selectedDashboardMenu == 'dcf'"  
+     (click) = "excelService.selectedDashboardMenu = 'dcf'">
         <mat-icon>assignment</mat-icon>
-        Credit Scorecard</a>
-    <a mat-list-item routerLinkActive="list-item-active">
+        Valuations
+    </a>
+    <!--<a mat-list-item routerLinkActive="list-item-active">
         <mat-icon>dvr</mat-icon>
-        Financial Dashboard</a>
-        <mat-accordion >
-            <mat-expansion-panel class="mat-elevation-z0">
-                <mat-expansion-panel-header>
-                   <a mat-list-item routerLinkActive="list-item-active">
-                    <mat-icon>view_list</mat-icon>KPI</a> 
-                </mat-expansion-panel-header>
-                <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIIncomeStatement">
-                    <mat-icon>compare</mat-icon>Income Statement</a> 
-                    <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIBalanceSheet">
-                        <mat-icon>menu_book</mat-icon>Balance Sheet</a> 
-              </mat-expansion-panel>
-        </mat-accordion>
-        <mat-accordion >
-            <mat-expansion-panel class="mat-elevation-z0">
-                <mat-expansion-panel-header>
-                   <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
-                    <mat-icon>pie_chart</mat-icon>Budgeting</a> 
-                </mat-expansion-panel-header>
+        Financial Dashboard
+    </a>-->
+    <mat-accordion>
+        <mat-expansion-panel class="mat-elevation-z0">
+            <mat-expansion-panel-header>
+                <a mat-list-item routerLinkActive="list-item-active">
+                    <mat-icon>view_list</mat-icon>KPI
+                </a>
+            </mat-expansion-panel-header>
+            <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIIncomeStatement" [class.selected] = "excelService.selectedDashboardMenu === 'income'" (click) = "excelService.selectedDashboardMenu = 'income'">
+                <mat-icon>compare</mat-icon>Income Statement
+            </a>
+            <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIBalanceSheet" [class.selected] = "excelService.selectedDashboardMenu === 'balance'"
+(click) = "excelService.selectedDashboardMenu = 'balance'">
+                <mat-icon>menu_book</mat-icon>Balance Sheet
+            </a>
+            <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpiCashflow" [class.selected] = "excelService.selectedDashboardMenu === 'cashflow'"(click) = "excelService.selectedDashboardMenu = 'cashflow'">
+                <mat-icon>local_atm</mat-icon>Cash Flow Statement
+            </a>
+        </mat-expansion-panel>
+    </mat-accordion>
+    <mat-accordion>
+        <mat-expansion-panel class="mat-elevation-z0">
+            <mat-expansion-panel-header>
                 <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
-                    <mat-icon>tune</mat-icon>AdjustAssumption</a> 
-                    <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
-                        <mat-icon>layers</mat-icon>Actuals</a> 
-                        <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
-                            <mat-icon>flash_on</mat-icon>Target v/s Actuals</a> 
-              </mat-expansion-panel>
-        </mat-accordion>
-        <mat-accordion >
-            <mat-expansion-panel class="mat-elevation-z0">
-                <mat-expansion-panel-header>
-                   <a mat-list-item routerLinkActive="list-item-active" (click)="scenarioNumber()">
-                    <mat-icon>exposure</mat-icon>Scenario Analysis</a> 
-                </mat-expansion-panel-header>
-                <a mat-list-item routerLinkActive="list-item-active" *ngFor="let scenario of scenarioArray">
-                    <mat-icon>looks_one</mat-icon>Scenario{{scenario}}</a> 
-                    
-              </mat-expansion-panel>
-        </mat-accordion>
+                    <mat-icon>pie_chart</mat-icon>Budgeting
+                </a>
+            </mat-expansion-panel-header>
+            <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
+                <mat-icon>tune</mat-icon>AdjustAssumption
+            </a>
+            <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
+                <mat-icon>layers</mat-icon>Actuals
+            </a>
+            <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
+                <mat-icon>flash_on</mat-icon>Target v/s Actuals
+            </a>
+        </mat-expansion-panel>
+    </mat-accordion>
+    <mat-accordion multi class="mat-table">
+        <mat-expansion-panel class="mat-elevation-z0" (opened)="scenarioNumber()">
+            <mat-expansion-panel-header class="mat-row">
+                <a mat-list-item routerLinkActive="list-item-active">
+                    <mat-icon>exposure</mat-icon>Scenario Analysis
+                </a>
+            </mat-expansion-panel-header>
+            <mat-accordion lass="mat-table">
+                <!-- Income Statement -->
+                <mat-expansion-panel>
+                    <mat-expansion-panel-header>
+                        <span>
+                            <mat-icon>exposure</mat-icon>Income Statement
+                        </span>
+                    </mat-expansion-panel-header>
+                    <div class="row">
+                        <a mat-list-item routerLinkActive="list-item-active"
+                            (click)=displayIncomeSheetScenario(scenario) *ngFor="let scenario of scenarioArray">
+                            <mat-icon>leaderboard</mat-icon>Scenario {{scenario}}
+                        </a>
+                    </div>
+                </mat-expansion-panel>
+
+                <!-- Balance Sheet -->
+                <mat-expansion-panel>
+                    <mat-expansion-panel-header>
+                        <span>
+                            <mat-icon>exposure</mat-icon>Balance Sheet
+                        </span>
+                    </mat-expansion-panel-header>
+                    <div class="row">
+                        <a mat-list-item routerLinkActive="list-item-active" (click)=displayBalSheetScenario(scenario)
+                            *ngFor="let scenario of scenarioArray">
+                            <mat-icon>leaderboard</mat-icon>Scenario {{scenario}}
+                        </a>
+                    </div>
+                </mat-expansion-panel>
+
+                <!-- Cash Metrics -->
+                <mat-expansion-panel>
+                    <mat-expansion-panel-header>
+                        <span>
+                            <mat-icon>exposure</mat-icon>Cash Flow
+                        </span>
+                    </mat-expansion-panel-header>
+                    <div class="row">
+                        <a mat-list-item routerLinkActive="list-item-active" (click)="displayCashFlowScenario(scenario)"
+                            *ngFor="let scenario of scenarioArray">
+                            <mat-icon>leaderboard</mat-icon>Scenario {{scenario}}
+                        </a>
+                    </div>
+                </mat-expansion-panel>
+            </mat-accordion>
+        </mat-expansion-panel>
+    </mat-accordion>
+
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/profile" [class.selected-menu] = "excelService.selectedDashboardMenu == 'profile'"  
+     (click) = "excelService.selectedDashboardMenu = 'profile'">
+        <mat-icon>supervised_user_circle</mat-icon>
+        RMI Insights Account
+    </a>
 </mat-nav-list>

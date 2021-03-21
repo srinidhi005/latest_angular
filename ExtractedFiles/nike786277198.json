@@ -1,0 +1,11 @@
+[annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.6293201446533203
+  text_segment {
+    start_offset: 294
+    end_offset: 304
+    content: "Net Income"
+  }
+}
+]

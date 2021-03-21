@@ -1,0 +1,248 @@
+
+Page#1
+Consolidated Statements of Operations
+For the Years Ended December 31,
+In millions, except per share amounts 2019 2018 2017
+Revenues: 
+Products $ 185,236 $ 183,910 $ 180,063
+Premiums 63,122 8,184 3,558
+Services 7,407 1,825 1,144
+Net investment income 1,011 660 21
+Total revenues 256,776 194,579 184,786
+Operating costs:
+Cost of products sold 158,719 156,447 153,448
+Benefit costs 52,529 6,594 2,810
+Goodwill impairments — 6,149 181
+Operating expenses 33,541 21,368 18,809
+Total operating costs 244,789 190,558 175,248
+Operating income 11,987 4,021 9,538
+Interest expense 3,035 2,619 1,062
+Loss on early extinguishment of debt 79 — —
+Other expense (income) (124) (4) 208
+Income before income tax provision 8,997 1,406 8,268
+Income tax provision 2,366 2,002 1,637
+Income (loss) from continuing operations 6,631 (596) 6,631
+Loss from discontinued operations, net of tax — — (8)
+Net income (loss) 6,631 (596) 6,623
+Net (income) loss attributable to noncontrolling interests 3 2 (1)
+Net income (loss) attributable to CVS Health $ 6,634 $ (594) $ 6,622
+Basic earnings (loss) per share:
+Income (loss) from continuing operations attributable to CVS Health $ 5.10 $ (0.57) $ 6.48
+Loss from discontinued operations attributable to CVS Health $ — $ — $ (0.01)
+Net income (loss) attributable to CVS Health $ 5.10 $ (0.57) $ 6.47
+Weighted average basic shares outstanding 1,301 1,044 1,020
+Diluted earnings (loss) per share:
+Income (loss) from continuing operations attributable to CVS Health $ 5.08 $ (0.57) $ 6.45
+Loss from discontinued operations attributable to CVS Health $ — $ — $ (0.01)
+Net income (loss) attributable to CVS Health $ 5.08 $ (0.57) $ 6.44
+Weighted average diluted shares outstanding 1,305 1,044 1,024
+Dividends declared per share $ 2.00 $ 2.00 $ 2.00
+See accompanying notes to consolidated financial statements.
+91
+Page#2
+Consolidated Statements of Comprehensive Income (Loss)
+For the Years Ended December 31,
+In millions 2019 2018 2017
+Net income (loss) $ 6,631 $ (596) $ 6,623
+Other comprehensive income (loss), net of tax:
+Net unrealized investment gains 677 97 —
+Foreign currency translation adjustments 162 (29) (2)
+Net cash flow hedges (33) 330 (10)
+Pension and other postretirement benefits 111 (124) 152
+Other comprehensive income 917 274 140
+Comprehensive income (loss) 7,548 (322) 6,763
+Comprehensive (income) loss attributable to noncontrolling interests 3 2 (1)
+Comprehensive income (loss) attributable to CVS Health $ 7,551 $ (320) $ 6,762
+See accompanying notes to consolidated financial statements.
+92
+Page#3
+Consolidated Balance Sheets
+At December 31,
+In millions, except per share amounts 2019 2018
+Assets: 
+Cash and cash equivalents $ 5,683 $ 4,059
+Investments 2,373 2,522
+Accounts receivable, net 19,617 17,631
+Inventories 17,516 16,450
+Other current assets 5,113 4,581
+Total current assets 50,302 45,243
+Long-term investments 17,314 15,732
+Property and equipment, net 12,044 11,349
+Operating lease right-of-use assets 20,860 —
+Goodwill 79,749 78,678
+Intangible assets, net 33,121 36,524
+Separate accounts assets 4,459 3,884
+Other assets 4,600 5,046
+Total assets $ 222,449 $ 196,456
+Liabilities:
+Accounts payable $ 10,492 $ 8,925
+Pharmacy claims and discounts payable 13,601 11,365
+Health care costs payable 6,879 6,147
+Policyholders’ funds 2,991 2,939
+Accrued expenses 12,133 10,711
+Other insurance liabilities 1,830 1,937
+Current portion of operating lease liabilities 1,596 —
+Short-term debt — 720
+Current portion of long-term debt 3,781 1,265
+Total current liabilities 53,303 44,009
+Long-term operating lease liabilities 18,926 —
+Long-term debt 64,699 71,444
+Deferred income taxes 7,294 7,677
+Separate accounts liabilities 4,459 3,884
+Other long-term insurance liabilities 7,436 8,119
+Other long-term liabilities 2,162 2,780
+Total liabilities 158,279 137,913
+Commitments and contingencies (Note 16)
+Shareholders’ equity:
+Preferred stock, par value $0.01: 0.1 shares authorized; none issued or outstanding — —
+Common stock, par value $0.01: 3,200 shares authorized; 1,727 shares issued and 1,302
+shares outstanding at December 31, 2019 and 1,720 shares issued and 1,295 shares
+outstanding at December 31, 2018 and capital surplus 45,972 45,440
+Treasury stock, at cost: 425 shares at both December 31, 2019 and 2018 (28,235) (28,228)
+Retained earnings 45,108 40,911
+Accumulated other comprehensive income 1,019 102
+Total CVS Health shareholders’ equity 63,864 58,225
+Noncontrolling interests 306 318
+Total shareholders’ equity 64,170 58,543
+Total liabilities and shareholders’ equity $ 222,449 $ 196,456
+See accompanying notes to consolidated financial statements.
+93
+Page#4
+Consolidated Statements of Cash Flows
+For the Years Ended December 31,
+In millions 2019 2018 2017
+Cash flows from operating activities:  
+Cash receipts from customers $ 248,393 $ 186,519 $ 176,594
+Cash paid for inventory and prescriptions dispensed by retail network
+pharmacies (149,655) (148,981) (146,469)
+Insurance benefits paid (52,242) (6,897) (2,810)
+Cash paid to other suppliers and employees (28,932) (17,234) (15,348)
+Interest and investment income received 955 644 21
+Interest paid (2,954) (2,803) (1,072)
+Income taxes paid (2,717) (2,383) (2,909)
+Net cash provided by operating activities 12,848 8,865 8,007
+Cash flows from investing activities:
+Proceeds from sales and maturities of investments 7,049 817 61
+Purchases of investments (7,534) (692) (137)
+Purchases of property and equipment (2,457) (2,037) (1,918)
+Proceeds from sale-leaseback transactions 5 — 265
+Acquisitions (net of cash acquired) (444) (42,226) (1,181)
+Proceeds from sale of subsidiary and other assets — 832 —
+Other 42 21 33
+Net cash used in investing activities (3,339) (43,285) (2,877)
+Cash flows from financing activities:
+Net repayments of short-term debt (720) (556) (598)
+Proceeds from issuance of long-term debt 3,736 44,343 —
+Repayments of long-term debt (8,336) (5,522) —
+Derivative settlements (25) 446 —
+Repurchase of common stock — — (4,361)
+Dividends paid (2,603) (2,038) (2,049)
+Proceeds from exercise of stock options 210 242 329
+Payments for taxes related to net share settlement of equity awards (112) (97) (71)
+Other — 1 (1)
+Net cash provided by (used in) financing activities (7,850) 36,819 (6,751)
+Effect of exchange rate changes on cash, cash equivalents and restricted cash — (4) 1
+Net increase (decrease) in cash, cash equivalents and restricted cash 1,659 2,395 (1,620)
+Cash, cash equivalents and restricted cash at the beginning of the period 4,295 1,900 3,520
+Cash, cash equivalents and restricted cash at the end of the period $ 5,954 $ 4,295 $ 1,900
+94
+Page#5
+For the Years Ended December 31,
+In millions 2019 2018 2017
+Reconciliation of net income (loss) to net cash provided by operating activities:
+Net income (loss) $ 6,631 $ (596) $ 6,623
+Adjustments required to reconcile net income (loss) to net cash provided by
+operating activities:
+Depreciation and amortization 4,371 2,718 2,479
+Goodwill impairments — 6,149 181
+Loss on settlement of defined benefit pension plans — — 187
+Stock-based compensation 453 280 234
+Loss on sale of subsidiary 205 86 —
+Loss on early extinguishment of debt 79 — —
+Deferred income taxes (654) 87 (1,334)
+Other noncash items 264 253 53
+Change in operating assets and liabilities, net of effects from acquisitions:
+Accounts receivable, net (2,158) (1,139) (941)
+Inventories (1,075) (1,153) (514)
+Other assets (614) (3) (338)
+Accounts payable and pharmacy claims and discounts payable 3,550 2,329 1,710
+Health care costs payable and other insurance liabilities 320 (311) —
+Other liabilities 1,476 165 (333)
+Net cash provided by operating activities $ 12,848 $ 8,865 $ 8,007
+See accompanying notes to consolidated financial statements.
+95
+Page#6
+Consolidated Statements of Shareholders’ Equity
+Attributable to CVS Health
+Number of shares Common Accumulated Total
+outstanding Stock and Other CVS Health Total 
+Capital Comprehensive Shareholders’ Shareholders’
+Common Treasury Treasury Retained Noncontrolling 
+(2)
+In millions (1) Surplus (1) Income (Loss) Equity Equity
+Shares Shares Stock Earnings Interests 
+Balance at December
+31, 2016 1,705 (644) $ 31,635 $ (33,483) $ 38,983 $ (305) $ 36,830 $ 4 $ 36,834
+Net income — — — — 6,622 — 6,622 1 6,623
+Other comprehensive
+income (Note 13) — — — — — 140 140 — 140
+Stock option activity,
+stock awards and other 7 — 461 — — — 461 — 461
+Purchase of treasury
+shares, net of ESPP
+— (54) — (4,313) — — (4,313) — (4,313)
+issuances
+Common stock dividends — — — — (2,049) — (2,049) — (2,049)
+Other decreases in
+noncontrolling interests — — — — — — — (1) (1)
+Balance at December
+31, 2017 1,712 (698) 32,096 (37,796) 43,556 (165) 37,691 4 37,695
+Adoption of new 
+(3)
+accounting standards — — — — (6) (7) (13) — (13)
+Net loss — — — — (594) — (594) (2) (596)
+Other comprehensive
+income (Note 13) — — — — — 274 274 — 274
+Common shares issued to
+acquire Aetna — 274 12,923 9,561 — — 22,484 — 22,484
+Stock option activity,
+stock awards and other 8 — 421 — — — 421 — 421
+Purchase of treasury
+shares, net of ESPP
+— (1) — 7 — — 7 — 7
+issuances
+Common stock dividends — — — — (2,045) — (2,045) — (2,045)
+Acquisition of
+noncontrolling interests — — — — — — — 329 329
+Other decreases in
+noncontrolling interests — — — — — — — (13) (13)
+Balance at December
+31, 2018 1,720 (425) 45,440 (28,228) 40,911 102 58,225 318 58,543
+Adoption of new
+accounting standards
+(Note 1) — — — — 178 — 178 — 178
+Net income (loss) — — — — 6,634 — 6,634 (3) 6,631
+Other comprehensive
+income (Note 13) — — — — — 917 917 — 917
+Stock option activity,
+stock awards and other 7 2 532 — — — 532 — 532
+Purchase of treasury
+shares, net of ESPP
+— (2) — (7) — — (7) — (7)
+issuances
+Common stock dividends — — — — (2,615) — (2,615) — (2,615)
+Other decreases in
+noncontrolling interests — — — — — — — (9) (9)
+Balance at December
+31, 2019 1,727 (425) $ 45,972 $ (28,235) $ 45,108 $ 1,019 $ 63,864 $ 306 $ 64,170
+_____________________________________________
+(1) Treasury shares include 1 million shares held in trust for each of the years ended December 31, 2019, 2018 and 2017. Treasury stock includes $29 million 
+related to shares held in trust for each of the years ended December 31, 2019 and 2018 and $31 million related to shares held in trust for the year ended 
+December 31, 2017. See Note 1 ‘‘Significant Accounting Policies’’ for additional information.
+(2) Common stock and capital surplus includes the par value of common stock of $17 million as of December 31, 2019, 2018 and 2017.
+(3) Reflects the adoption of Accounting Standards Update (“ASU”) 2014-09, Revenue from Contracts with Customers, which resulted in a reduction to retained 
+earnings of $13 million and the adoption of ASU 2018-02, Income Statement - Reporting Comprehensive Income (Topic 220): Reclassification of Certain 
+Tax Effects from Accumulated Other Comprehensive Income, which resulted in a reduction to accumulated other comprehensive income of $7 million and 
+an increase to retained earnings of $7 million, each during the year ended December 31, 2018.
+See accompanying notes to consolidated financial statements.
+96

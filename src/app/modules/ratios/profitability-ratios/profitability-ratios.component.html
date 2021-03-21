@@ -1,0 +1,50 @@
+<div fxLayout="row" fxLayoutAlign="space-between center" fxLayoutGap="20px">
+  <div fxFlex="100">
+    
+    <mat-progress-bar mode="indeterminate" *ngIf="loading"></mat-progress-bar>
+    <div class="mat-elevation-z8 table-container">
+      <table class="mat-table">
+        <thead>
+          <tr class="mat-header-row custom-header">
+            <th></th>
+            <th [attr.colspan]="actualSpan"
+              class="text-center mat-header-cell cdk-column-name mat-column-name with-border"style="width:120px">
+              Actuals</th>
+            <th [attr.colspan]="projectionSpan"
+              class="text-center mat-header-cell cdk-column-name mat-column-name with-border" style="width:120px">
+              Projections
+            </th>
+            <th colspan="2" class="text-center mat-header-cell cdk-column-name mat-column-name"style="width:120px">Average</th>
+          </tr>
+          <tr class="mat-header-row">
+            <th style="width:610px" style="padding:25px;font-size:16px" >Profitability Ratios</th>
+            <ng-container *ngFor="let col of columnFields">
+              <ng-container *ngIf="col !== 'name'">
+                <th class="mat-header-cell cdk-column-name mat-column-name text-center" style="width:120px" ><b> {{col}} </b></th>
+              </ng-container>
+            </ng-container>
+          </tr>
+        </thead>
+        <tbody>
+          <ng-container *ngFor="let element of data">
+            <tr class="mat-row">
+              <td class="mat-cell cdk-column-name mat-column-name" style="width:610px"><b>{{ element.name }}</b></td>
+              <ng-container *ngFor="let col of columnFields">
+                <ng-container *ngIf="col !== 'name'">
+                  <td class="mat-cell cdk-column-name mat-column-name text-center" style="width:120px">
+                    <ng-container *ngIf="isAverage(col); else simple">
+                      <b>{{element[col] | parseNumber}}%</b>
+                    </ng-container>
+                    <ng-template #simple>
+                      {{element[col] | parseNumber}}%
+                    </ng-template>
+                  </td>
+                </ng-container>
+              </ng-container>
+            </tr>
+          </ng-container>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

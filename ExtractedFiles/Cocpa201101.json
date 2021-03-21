@@ -1,0 +1,211 @@
+[annotation_spec_id: "8330906145170391040"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.7536824345588684
+  text_segment {
+    start_offset: 49
+    end_offset: 81
+    content: "Statements of Financial Position"
+  }
+}
+, annotation_spec_id: "1557492305605165056"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9919337630271912
+  text_segment {
+    start_offset: 139
+    end_offset: 164
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "7466215016715255808"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.8069956302642822
+  text_segment {
+    start_offset: 185
+    end_offset: 202
+    content: "Trade receivables"
+  }
+}
+, annotation_spec_id: "7322099828639399936"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9760347008705139
+  text_segment {
+    start_offset: 296
+    end_offset: 305
+    content: "Inventory"
+  }
+}
+, annotation_spec_id: "6313293512108408832"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9429971575737
+  text_segment {
+    start_offset: 318
+    end_offset: 338
+    content: "Total Current Assets"
+  }
+}
+, annotation_spec_id: "6169178324032552960"
+display_name: "PPE"
+text_extraction {
+  score: 0.9274784326553345
+  text_segment {
+    start_offset: 510
+    end_offset: 536
+    content: "Net Property and Equipment"
+  }
+}
+, annotation_spec_id: "5592717571729129472"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9808458089828491
+  text_segment {
+    start_offset: 618
+    end_offset: 630
+    content: "Total Assets"
+  }
+}
+, annotation_spec_id: "6025063135956697088"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9864599704742432
+  text_segment {
+    start_offset: 703
+    end_offset: 719
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "2710413810212012032"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9321155548095703
+  text_segment {
+    start_offset: 771
+    end_offset: 790
+    content: "Accrued liabilities"
+  }
+}
+, annotation_spec_id: "4872141631349850112"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9389318227767944
+  text_segment {
+    start_offset: 908
+    end_offset: 933
+    content: "Total Current Liabilities"
+  }
+}
+, annotation_spec_id: "2710413810212012032"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.961302638053894
+  text_segment {
+    start_offset: 1045
+    end_offset: 1064
+    content: "Accrued liabilities"
+  }
+}
+, annotation_spec_id: "3863335314818859008"
+display_name: "LongTermDebt"
+text_extraction {
+  score: 0.7446600794792175
+  text_segment {
+    start_offset: 1128
+    end_offset: 1137
+    content: "Long\342\200\220Term"
+  }
+}
+, annotation_spec_id: "7898560580942823424"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.9321764707565308
+  text_segment {
+    start_offset: 1166
+    end_offset: 1183
+    content: "Total Liabilities"
+  }
+}
+, annotation_spec_id: "7898560580942823424"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.43933168053627014
+  text_segment {
+    start_offset: 1275
+    end_offset: 1292
+    content: "Total Liabilities"
+  }
+}
+, annotation_spec_id: "5016256819425705984"
+display_name: "Company"
+text_extraction {
+  score: 0.6794332265853882
+  text_segment {
+    start_offset: 1369
+    end_offset: 1417
+    content: "Colorado Society of Certified Public Accountants"
+  }
+}
+, annotation_spec_id: "548685989074173952"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.8384100794792175
+  text_segment {
+    start_offset: 1961
+    end_offset: 1974
+    content: "Total Revenue"
+  }
+}
+, annotation_spec_id: "981031553301741568"
+display_name: "COGS"
+text_extraction {
+  score: 0.8670341968536377
+  text_segment {
+    start_offset: 2153
+    end_offset: 2175
+    content: "Total Program Services"
+  }
+}
+, annotation_spec_id: "1989837869832732672"
+display_name: "SGA"
+text_extraction {
+  score: 0.9759249687194824
+  text_segment {
+    start_offset: 2216
+    end_offset: 2238
+    content: "General administrative"
+  }
+}
+, annotation_spec_id: "5016256819425705984"
+display_name: "Company"
+text_extraction {
+  score: 0.6335846781730652
+  text_segment {
+    start_offset: 2595
+    end_offset: 2643
+    content: "Colorado Society of Certified Public Accountants"
+  }
+}
+, annotation_spec_id: "5160372007501561856"
+display_name: "ConsolidatedCashFlows"
+text_extraction {
+  score: 0.8733752965927124
+  text_segment {
+    start_offset: 2644
+    end_offset: 2668
+    content: "Statements of Cash Flows"
+  }
+}
+, annotation_spec_id: "3286874562515435520"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.8710024356842041
+  text_segment {
+    start_offset: 3683
+    end_offset: 3727
+    content: "Proceeds from sale of property and equipment"
+  }
+}
+]

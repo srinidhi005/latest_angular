@@ -1,9 +1,15 @@
-import { Component, OnInit, ViewChild, ChangeDetectorRef } from '@angular/core';
+import { Component, OnInit, ViewChild, ChangeDetectorRef,ElementRef } from '@angular/core';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { RMIAPIsService } from 'src/app/shared/rmiapis.service';
 import {UserDetailModelService} from 'src/app/shared/user-detail-model.service';
-import jsPDF from 'jspdf';
-import autoTable from 'jspdf-autotable';
+import { ExcelService } from 'src/app/shared/excel.service';
+import pdfMake from 'pdfmake/build/pdfmake';
+import pdfFonts from 'pdfmake/build/vfs_fonts';
+pdfMake.vfs = pdfFonts.pdfMake.vfs;
+//import * as XLSX from 'xlsx';
+ import * as Excel from "exceljs/dist/exceljs.min.js"
+import {formatNumber} from '@angular/common';
+
 
 export interface PLElement {
   inMillions:number;
@@ -35,14 +41,18 @@ let ELEMENT_PL_PDF: PLElement[] = [];
 })
 
 export class PLMetricsComponent implements OnInit {
+	@ViewChild('imagecanvas', { static: true }) imagecanvas: ElementRef;
   scenarioArray=[];
   scenario=this.UserDetailModelService.getSelectedScenario();
   companyName=this.UserDetailModelService.getSelectedCompany();
   financialObj = new Map();
   progressBar:boolean;
+  years = [];
+  financials = [];
+
   inputColumns = ['inMillions',  'Total Revenue',
   'Revenue Y-O-Y Growth rate',
-  '(-) Cost of Goods Sold (COGS)',
+  "(-) Cost of Goods Sold (COGS)",
   'Gross Profit',
   'Gross Margin',
   '(-) Selling, General & Administrative Expense (SG&A)',
@@ -60,10 +70,13 @@ export class PLMetricsComponent implements OnInit {
   displayedColumns: string[]=[];
   displayData: any[];
   companySelected = localStorage.getItem('companySelected');
+  selectedCompanyName = localStorage.getItem('selectedCompanyName');
+  scenarioName = 'Scenario 0';
   constructor(
     private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
-    private UserDetailModelService:UserDetailModelService
+    private UserDetailModelService:UserDetailModelService,
+	private excelService: ExcelService
   ) { }
 
   ngOnInit() {
@@ -133,23 +146,23 @@ export class PLMetricsComponent implements OnInit {
         this.financialObj.forEach((v,k) => {
         var pushData={
             inMillions : k,
-            "Total Revenue" : "$ "+v.totalRevenue,
+             "Total Revenue" : "$ "+formatNumber(Number(v.totalRevenue), 'en-US', '1.0-0'),
             "Revenue Y-O-Y Growth rate" : v.revenuepercent+"%",
-            "(-) Cost of Goods Sold (COGS)" : "$ "+v.COGS,
-            "Gross Profit" : "$ "+v.GrossProfit,
+            "(-) Cost of Goods Sold (COGS)" : "$ "+formatNumber(Number(v.COGS), 'en-US', '1.0-0'),
+            "Gross Profit" : "$ "+formatNumber(Number(v.GrossProfit), 'en-US', '1.0-0'),
             "Gross Margin" : v.GrossMargin+"%",
-            "(-) Selling, General & Administrative Expense (SG&A)" : "$ "+v.SGA,
-            "EBIT" : "$ "+v.EBIT,
+            "(-) Selling, General & Administrative Expense (SG&A)" : "$ "+formatNumber(Number(v.SGA), 'en-US', '1.0-0'),
+            "EBIT" : "$ "+formatNumber(Number(v.EBIT), 'en-US', '1.0-0'),
             "EBIT Margin":v.EBITMargin+"%",
-            "(+) Depreciation & Amortization (D&A)" : "$ "+v.DandA,
-            "EBITDA" : "$ "+v.EBITDA,
+            "(+) Depreciation & Amortization (D&A)" : "$ "+formatNumber(Number(v.DandA), 'en-US', '1.0-0'),
+            "EBITDA" : "$ "+formatNumber(Number(v.EBITDA), 'en-US', '1.0-0'),
             "EBITDA Margin":v.EBITDAMargin+"%",
-            "(-) Net Interest/Other Income Expense" : "$ "+v.netIterestExpense,
-            "EBT" : "$ "+v.EBT,
+            "(-) Net Interest/Other Income Expense" : "$ "+formatNumber(Number(v.netIterestExpense), 'en-US', '1.0-0'),
+            "EBT" : "$ "+formatNumber(Number(v.EBT), 'en-US', '1.0-0'),
             "EBT Margin":v.EBTMargin+"%",
-            "(-) Taxes" : "$ "+v.Taxes,
-            "Net Income" : "$ "+v.NetIncome,
-            "Net Income Margin" : "$ "+v.NetIncomeMargin+"%"
+            "(-) Taxes" : "$ "+formatNumber(Number(v.Taxes), 'en-US', '1.0-0'),
+            "Net Income" : "$ "+formatNumber(Number(v.NetIncome), 'en-US', '1.0-0'),
+            "Net Income Margin" :v.NetIncomeMargin+"%"
           };
           ELEMENT_PL.push(pushData);
       });
@@ -157,6 +170,13 @@ export class PLMetricsComponent implements OnInit {
       this.displayedColumns = ['0'].concat(ELEMENT_PL.map(x => x.inMillions.toString()));
       this.displayData = this.inputColumns.map(x => formatInputRow(x));
       this.progressBar=false;
+	  const obj = {};
+        this.financialObj.forEach((value, key) => {
+          obj[key] = value
+        })
+
+        this.years = Object.keys(obj);
+        this.financials = Object.values(obj);
         });//end of projections
       });//end of Save Scenarios
     });//end of actuals
@@ -171,15 +191,73 @@ export class PLMetricsComponent implements OnInit {
   }
  
   loadScenario(index:number){
-  
-      this.scenario = index;
+  this.scenarioName = "Scenario "+index;
+  this.scenario = index;
       this.ngOnInit();
   
   }
 
-  exportToXLSX(){}
+  exportToXLSX(){
+    console.log("Finanials", this.financials)
+
+    this.years.forEach( year => {
+      year = " " + year
+    })
+
+    const keys = ["in millions"].concat(this.years)
+    const data = []
+
+    data.push(this.prepareJsonForExport(keys, 'totalRevenue', "Total Revenue"))
+    data.push(this.prepareJsonForExport(keys, 'revenuepercent', "Revenue Y-O-Y Growth rate",true))
+    data.push(this.prepareJsonForExport(keys, 'COGS', "(-) Cost of Goods Sold (COGS) "))
+    data.push(this.prepareJsonForExport(keys, 'GrossProfit', "Gross Profit "))
+    data.push(this.prepareJsonForExport(keys, 'GrossMargin', "Gross Margin",true))
+    data.push(this.prepareJsonForExport(keys, 'SGA', "(-) Selling, General & Administrative Expense (SG&A)"))
+    data.push(this.prepareJsonForExport(keys, 'EBIT', "EBIT"))
+    data.push(this.prepareJsonForExport(keys, 'EBITMargin', "EBIT Margin",true))
+    data.push(this.prepareJsonForExport(keys, 'DandA', "(+) Depreciation & Amortization (D&A)"))
+    data.push(this.prepareJsonForExport(keys, 'EBITDA', "EBITDA"))
+    data.push(this.prepareJsonForExport(keys, 'EBITDAMargin', "EBITDA Margin",true))
+    data.push(this.prepareJsonForExport(keys, 'EBIT', "EBIT")) // check this.
+    data.push(this.prepareJsonForExport(keys, 'netIterestExpense', "(-) Net Interest/Other Income Expense"))
+    data.push(this.prepareJsonForExport(keys, 'EBT', "EBT"))
+    data.push(this.prepareJsonForExport(keys, 'EBTMargin', "EBT Margin",true))
+    data.push(this.prepareJsonForExport(keys, 'Taxes', "(-) Taxes"))
+    data.push(this.prepareJsonForExport(keys, 'NetIncome', "Net Income"))
+    data.push(this.prepareJsonForExport(keys, 'NetIncomeMargin', "Net Income Margin",true));
+
+    console.log(data);
+
+    this.excelService.exportAsExcelFile(data, "Income Statement", keys,this.selectedCompanyName,this.scenarioName)
+
+  }
+
+  prepareJsonForExport(keys, parameter, label,isPercent?){
+    const jsonObject = {};
+
+    
+
+    keys.forEach((key, index) => {
+      if(index == 0){
+        jsonObject[key] = label
+      }
+      else{
+		  if(isPercent){
+			   jsonObject[key] = +(this.financials[index - 1][parameter]/100)
+		   }
+		   else{
+        jsonObject[key] = +this.financials[index - 1][parameter]
+      }
+	  }
+    })
+
+    return jsonObject
+    
+  }
+
+
   exportToPDF(){
-    let doc = new jsPDF('l','pt'); 
+    //let doc = new jsPDF('l','pt'); 
   let data = [];
   let inMillionsYear=[];
   let totalRevenue=[];
@@ -237,16 +315,129 @@ export class PLMetricsComponent implements OnInit {
   taxes.unshift("(-) Taxes");
   netIncome.unshift("Net Income");
   netIncomeMargin.unshift("Net Income Margin");
-  data.push(totalRevenue,revenueGrowthRate,COGS,grossProfit,grossMargin,SGA,EBIT,EBITMargin,DA,EBITDA,EBITDAMargin,NIE,EBT,EBTMargin,taxes,netIncome,netIncomeMargin);
-    autoTable(doc,{
-      head: [inMillionsYear],
-      body: data,     
-      headStyles:{fillColor: [22, 74, 91], textColor:[245, 245, 245]},
-      columnStyles: {0: {fillColor: [22, 74, 91], textColor:[245, 245, 245] }},
-      styles: {overflow: 'linebreak',fontSize: 12},
-    });
-    doc.save(this.companyName +'.pdf');
-  }
+  
+   inMillionsYear = inMillionsYear.map( (year, index) => {
+      if(index == 0){
+        return { text: "(in millions)", italics: true, fillColor: '#164A5B', color: "#fff",margin: [0, 10 , 0, 10],}
+      }
+      else{
+        return {text: year, bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10],alignment: 'right'}
+      }
+    })
+  
+  
+  data.push(inMillionsYear, 
+  this.getMappedArr(totalRevenue,true),
+  this.getMappedArr(revenueGrowthRate),
+  this.getMappedArr(COGS),
+   this.getMappedArr(grossProfit,true),
+  this.getMappedArr(grossMargin),
+  this.getMappedArr(SGA),
+  this.getMappedArr(EBIT,true),
+  this.getMappedArr(EBITMargin),
+  this.getMappedArr(DA),
+  this.getMappedArr(EBITDA,true),
+  this.getMappedArr(EBITDAMargin),
+  this.getMappedArr(NIE),
+  this.getMappedArr(EBT,true),
+  this.getMappedArr(EBTMargin),
+  this.getMappedArr(taxes),
+  this.getMappedArr(netIncome,true),
+  this.getMappedArr(netIncomeMargin));
+console.log("data",data);
+
+var canvas = document.createElement('canvas');
+        canvas.width = this.imagecanvas.nativeElement.width; 
+        canvas.height = this.imagecanvas.nativeElement.height; 
+        canvas.getContext('2d').drawImage(this.imagecanvas.nativeElement,0,0);
+  const imagermi = canvas.toDataURL('image/png')
+  
+ let docDefinition = {
+		    pageSize: {
+    width: 910,
+    height: 'auto'
+  },
+	
+   pageMargins: [ 40, 40, 40, 40 ],
+        
+  
+			
+ 
+		content: [
+		{image:imagermi,width:150,height:75},
+			{
+				  text:this.companySelected+' - '+' Historical & Projected Income Statement  '+'-'+ this.scenarioName,
+				  style:'header',
+			},
+          {
+			  
+            //style: 'tableExample',
+            // layout: 'lightHorizontalLines',            
+            
+			table: {
+              headerRows: 1,
+              heights: 20,
+			  //width:'auto',
+              widths: [290, 60, 60, 60,60,60,60,60,60],
+              body: data
+			  
+            },
+            layout: {
+              //set custom borders size and color
+              hLineWidth: function (i, node) {
+                return (i === 0 || i === node.table.body.length) ? 0.5 : 0.5;
+              },
+              vLineWidth: function (i, node) {
+                return 0;
+              },
+              hLineColor: function (i, node) {
+                return (i === 0 || i === node.table.body.length) ? 'black' : 'gray';
+              },
+              // vLineColor: function (i, node) {
+              //   return (i === 0 || i === node.table.widths.length) ? 'black' : 'gray';
+              // }
+            }
+          },
+        ],
+        styles: {
+          header:{
+			  fontSize:18,bold:true,margin:[10,10,10,10]
+		  },
+        },
+      }
+      // pdfMake.tableLayouts = {
+      //   exampleLayout : {
+      //     paddingLeft: function (i) {
+      //       return 20;
+      //     },
+      //   }
+      // }
+    
+      pdfMake.createPdf(docDefinition).download();
+
+    }
+
+    getMappedArr(inputArr,isfundsfromOperations?){
+      const arr = inputArr.map( (year, index) => {
+        if(index == 0){
+			if(isfundsfromOperations){
+          return {text: year, margin: [0, 10, 0, 10],alignment: 'left',bold:true}
+        }else{
+          return { text: year , margin: [0, 10, 0, 10]}
+		}
+        }
+        else {
+			if(isfundsfromOperations){
+          return {text: year.indexOf("-") >= 0 ? "( " + year.replace("-", "") +" )" : year, margin: [0, 10, 0, 10],alignment: 'right',bold:true}
+        }
+		else{
+			return {text: year.indexOf("-") >= 0 ? "( " + year.replace("-", "") +" )" : year, margin: [0, 10, 0, 10],alignment: 'right'}
+		}
+		}
+      })
+
+      return arr;
+    }
 }
 
 

@@ -1,0 +1,191 @@
+[annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.908978283405304
+  text_segment {
+    start_offset: 106
+    end_offset: 112
+    content: "Assets"
+  }
+}
+, annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.967782735824585
+  text_segment {
+    start_offset: 139
+    end_offset: 164
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9417978525161743
+  text_segment {
+    start_offset: 185
+    end_offset: 202
+    content: "Trade receivables"
+  }
+}
+, annotation_spec_id: "4428420519821312000"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9999620318412781
+  text_segment {
+    start_offset: 296
+    end_offset: 305
+    content: "Inventory"
+  }
+}
+, annotation_spec_id: "7495512603548975104"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9878859519958496
+  text_segment {
+    start_offset: 318
+    end_offset: 338
+    content: "Total Current Assets"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.49520379304885864
+  text_segment {
+    start_offset: 510
+    end_offset: 536
+    content: "Net Property and Equipment"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.5526272058486938
+  text_segment {
+    start_offset: 618
+    end_offset: 630
+    content: "Total Assets"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9998220801353455
+  text_segment {
+    start_offset: 703
+    end_offset: 719
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.794632077217102
+  text_segment {
+    start_offset: 771
+    end_offset: 790
+    content: "Accrued liabilities"
+  }
+}
+, annotation_spec_id: "3789331585199767552"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9777732491493225
+  text_segment {
+    start_offset: 908
+    end_offset: 933
+    content: "Total Current Liabilities"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.6546522378921509
+  text_segment {
+    start_offset: 1045
+    end_offset: 1064
+    content: "Accrued liabilities"
+  }
+}
+, annotation_spec_id: "3789331585199767552"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.14265108108520508
+  text_segment {
+    start_offset: 1122
+    end_offset: 1149
+    content: "Total Long\342\200\220Term Liabilities"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.5246055722236633
+  text_segment {
+    start_offset: 1166
+    end_offset: 1183
+    content: "Total Liabilities"
+  }
+}
+, annotation_spec_id: "1975506835276300288"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.7192683815956116
+  text_segment {
+    start_offset: 1275
+    end_offset: 1307
+    content: "Total Liabilities and Net Assets"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.6945261359214783
+  text_segment {
+    start_offset: 1961
+    end_offset: 1974
+    content: "Total Revenue"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.47594723105430603
+  text_segment {
+    start_offset: 3603
+    end_offset: 3628
+    content: "Redemption of investments"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.47276896238327026
+  text_segment {
+    start_offset: 3683
+    end_offset: 3727
+    content: "Proceeds from sale of property and equipment"
+  }
+}
+, annotation_spec_id: "3811862777476153344"
+display_name: "TotalCapitalExpenditures"
+text_extraction {
+  score: 0.2550716698169708
+  text_segment {
+    start_offset: 3736
+    end_offset: 3774
+    content: "Acquisitions of property and equipment"
+  }
+}
+, annotation_spec_id: "3979340388618993664"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.4774903655052185
+  text_segment {
+    start_offset: 3794
+    end_offset: 3833
+    content: "Net cash (used in) investing activities"
+  }
+}
+]

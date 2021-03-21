@@ -1,35 +1,51 @@
-
 <div fxLayout="row" fxLayoutAlign="space-between center" fxLayoutGap="20px">
     <div fxFlex="100">
         <mat-form-field>
             <mat-icon matPrefix class="search-icon">search</mat-icon>
             <mat-label>Search</mat-label>
             <input matInput (keyup)="applyFilter($event)" placeholder="Ex. Company" #input>
-          </mat-form-field>
+        </mat-form-field>
         <mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
-        <div class="mat-elevation-z8">
+        <div class="mat-elevation-z8 table-container">
             <table mat-table [dataSource]="dataSource" multiTemplateDataRows>
 
                 <!-- Position Column -->
                 <ng-container matColumnDef="position">
-                    <th mat-header-cell *matHeaderCellDef> No. </th>
+                    <th mat-header-cell *matHeaderCellDef style="border-top-left-radius: 5px;"> No. </th>
                     <td mat-cell *matCellDef="let element"> {{element.position}} </td>
                 </ng-container>
 
                 <!-- Name Column -->
                 <ng-container matColumnDef="name">
                     <th mat-header-cell *matHeaderCellDef> Name </th>
-                    <td mat-cell *matCellDef="let element" class="name" title="view" (click)="loadvisualsIS()"> {{element.name}} 
+                    <td mat-cell *matCellDef="let element; let i = dataIndex;" class="name" title="view"
+                        (click)="loadvisualsIS(element.company)">
+                        <ng-template [ngIf]="!editModeOn">
+                            {{element.name}}
+                            <i class="fa fa-pencil" aria-hidden="true"
+                                (click)="selectedRowIndex = i; editModeOn = !editModeOn"></i>
+                            <i class="fa fa-floppy-o" aria-hidden="true"
+                                (click)="selectedRowIndex = -1; saveCompanyName(element, i)"></i>
+                        </ng-template>
+                        <ng-template [ngIf]="editModeOn && selectedRowIndex == i">
+                            <mat-form-field class="container-field">
+                                <mat-label>User ID</mat-label>
+                                <input matInput [(ngModel)]="element.name" (input)="excelService.cleanString($event)" />
+                                <!-- <mat-error *ngIf="form.get('userid').hasError('required')">
+                                    Fill User Name without special characters
+                                  </mat-error> -->
+                            </mat-form-field>
+                        </ng-template>
                     </td>
                 </ng-container>
-                
+
                 <!-- Weight Column -->
                 <ng-container matColumnDef="company">
                     <th mat-header-cell *matHeaderCellDef> Company </th>
-                    <td mat-cell *matCellDef="let element" class="company"> {{element.company}} 
+                    <td mat-cell *matCellDef="let element" class="company"> {{element.company}}
                     </td>
                 </ng-container>
-              
+
                 <ng-container matColumnDef="industry">
                     <th mat-header-cell *matHeaderCellDef> Industry </th>
                     <td mat-cell *matCellDef="let element"> {{element.industry}} </td>
@@ -43,38 +59,62 @@
                     <th mat-header-cell *matHeaderCellDef> Created By </th>
                     <td mat-cell *matCellDef="let element"> {{element.createdBy}} </td>
                 </ng-container>
+
+
+		<ng-container matColumnDef="type">
+                    <th mat-header-cell *matHeaderCellDef> Type </th>
+                    <td mat-cell *matCellDef="let element"> 
+                        <span class="material-icons" *ngIf = "element.type == 'Public'" matTooltip = "Public" matTooltipPosition = 'above'>
+                            supervised_user_circle
+                        </span>
+                        <span class="material-icons" *ngIf = "element.type != 'Public'" matTooltip = "Private" matTooltipPosition = 'above'>
+                            privacy_tip
+                        </span>                    
+                        </td>
+                </ng-container>
+
+
+
                 <ng-container matColumnDef="download">
                     <th mat-header-cell *matHeaderCellDef> Download </th>
-                    <td mat-cell *matCellDef="let element"><a href="http://34.67.197.111:8000/download_file?companyname={{element.name}}"> <span class="material-icons cursor">
-                        cloud_download
-                     </span> </a> </td>
+                    <td mat-cell *matCellDef="let element"><a
+                            href="https://app.rmiinsights.com:8001/download_file?companyname={{element.name}}"> <span
+                                class="material-icons cursor">
+                                cloud_download
+                            </span> </a> </td>
                 </ng-container>
-                <ng-container matColumnDef="delete" >
-                    <th mat-header-cell *matHeaderCellDef> Delete </th>
-                    <td mat-cell *matCellDef="let element" > <span class="material-icons cursor" (click)="deleteDialogBox(element)" >
-                        delete
+                <ng-container matColumnDef="delete">
+                    <th mat-header-cell *matHeaderCellDef style="border-top-right-radius: 5px;"> Delete </th>
+                    <td mat-cell *matCellDef="let element"> <span class="material-icons cursor"
+                            (click)="deleteDialogBox(element)">
+                            delete
                         </span> </td>
                 </ng-container>
 
 
                 <ng-container matColumnDef="expandedDetail">
                     <td mat-cell *matCellDef="let element" [attr.colspan]="displayedColumns.length">
-                      <div class="example-element-detail"
-                           [@detailExpand]="element == expandedElement ? 'expanded' : 'collapsed'">
-                        <div class="example-element-description" fxLayout="row" fxFlex fxLayoutAlign="start" fxLayoutGap="20px">
-                            <button mat-raised-button class="incomeStatement" (click)="incomeStatement(element)" routerLink="/visualsIS">Income Statement</button>
-                            <button mat-raised-button class="incomeStatement" (click)="balanceStatement(element)" routerLink="/visualsBS">Balance Sheet</button>
+                        <div class="example-element-detail"
+                            [@detailExpand]="element == expandedElement ? 'expanded' : 'collapsed'">
+                            <div class="example-element-description" fxLayout="row" fxFlex fxLayoutAlign="start"
+                                fxLayoutGap="20px">
+                                <button mat-raised-button class="incomeStatement" (click)="incomeStatement(element)"
+                                    routerLink="/visualsIS">Income Statement</button>
+                                <button mat-raised-button class="incomeStatement" (click)="balanceStatement(element)"
+                                    routerLink="/visualsBS">Balance
+                                    Sheet</button>
+                                <button mat-raised-button class="incomeStatement" (click)="cashFlowStatement(element)"
+                                    routerLink="/visualsCF">Cash Flow</button>
+                            </div>
                         </div>
-                      </div>
                     </td>
-                  </ng-container>
+                </ng-container>
                 <tr mat-header-row *matHeaderRowDef="displayedColumns; sticky: true"></tr>
-                <tr mat-row *matRowDef="let element; columns: displayedColumns;"
-      class="example-element-row"
-      [class.example-expanded-row]="expandedElement === element"
-      (click)="expandedElement = expandedElement === element ? null : element">
-  </tr>
-  <tr mat-row *matRowDef="let row; columns: ['expandedDetail']" class="example-detail-row"></tr>
+                <tr mat-row *matRowDef="let element; columns: displayedColumns;" class="example-element-row"
+                    [class.example-expanded-row]="expandedElement === element"
+                    (click)="expandedElement = expandedElement === element ? null : element">
+                </tr>
+                <tr mat-row *matRowDef="let row; columns: ['expandedDetail']" class="example-detail-row"></tr>
             </table>
             <mat-paginator class="mat-paginator-sticky" [pageSizeOptions]="[100, 200, 500]"></mat-paginator>
         </div>

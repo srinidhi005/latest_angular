@@ -1,186 +1,185 @@
-RowAssets
-		RowCurrent assets:
-		RowCash and cash equivalents 	$ 12,918 	$ 10,715
-RowMarketable securities 	73,415 	91,156
-RowTotal cash, cash equivalents, and marketable securities 	86,333 	101,871
-RowAccounts receivable, net of allowance of $467 and $674 	14,137 	18,336
-RowIncome taxes receivable, net 	95 	369
-RowInventory 	268 	749
-RowOther current assets 	4,575 	2,983
-RowTotal current assets 	105,408 	124,308
-RowNon-marketable investments 	5,878 	7,813
-RowDeferred income taxes 	383 	680
-RowProperty and equipment, net 	34,234 	42,383
-RowIntangible assets, net 	3,307 	2,692
-RowGoodwill 	16,468 	16,747
-RowOther non-current assets 	1,819 	2,672
-RowTotal assets 	$ 167,497 	$ 197,295
-RowLiabilities and Stockholders’ Equity
-		RowCurrent liabilities:
-		RowAccounts payable 	$ 2,041 	$ 3,137
-RowAccrued compensation and benefits 	3,976 	4,581
-RowAccrued expenses and other current liabilities 	6,144 	10,177
-RowAccrued revenue share 	2,942 	3,975
-RowDeferred revenue 	1,099 	1,432
-RowIncome taxes payable, net 	554 	881
-RowTotal current liabilities 	16,756 	24,183
-RowLong-term debt 	3,935 	3,969
-RowDeferred revenue, non-current 	202 	340
-RowIncome taxes payable, non-current 	4,677 	12,812
-RowDeferred income taxes 	226 	430
-RowOther long-term liabilities 	2,665 	3,059
-RowTotal liabilities 	28,461 	44,793
-RowCommitments and Contingencies (Note 10)
-		RowStockholders’ equity:
-		RowConvertible preferred stock, $0.001 par value per share, 100,000 shares
+Row:Assets
+		Row:Current assets:
+		Row:Cash and cash equivalents 	$ 16,701 	$ 18,498
+Row:Marketable securities 	92,439 	101,177
+Row:Total cash, cash equivalents, and marketable securities 	109,140 	119,675
+Row:Accounts receivable, net of allowance of $729 and $753 	20,838 	25,326
+Row:Income taxes receivable, net 	355 	2,166
+Row:Inventory 	1,107 	999
+Row:Other current assets 	4,236 	4,412
+Row:Total current assets 	135,676 	152,578
+Row:Non-marketable investments 	13,859 	13,078
+Row:Deferred income taxes 	737 	721
+Row:Property and equipment, net 	59,719 	73,646
+Row:Operating lease assets 	0 	10,941
+Row:Intangible assets, net 	2,220 	1,979
+Row:Goodwill 	17,888 	20,624
+Row:Other non-current assets 	2,693 	2,342
+Row:Total assets 	$ 232,792 	$ 275,909
+Row:Liabilities and Stockholders’ Equity
+		Row:Liabilities and Stockholders’ Equity
+		Row:Current liabilities:
+		Row:Accounts payable 	$ 4,378 	$ 5,561
+Row:Accrued compensation and benefits 	6,839 	8,495
+Row:Accrued expenses and other current liabilities 	16,958 	23,067
+Row:Accrued revenue share 	4,592 	5,916
+Row:Deferred revenue 	1,784 	1,908
+Row:Income taxes payable, net 	69 	274
+Row:Total current liabilities 	34,620 	45,221
+Row:Long-term debt 	4,012 	4,554
+Row:Deferred revenue, non-current 	396 	358
+Row:Income taxes payable, non-current 	11,327 	9,885
+Row:Deferred income taxes 	1,264 	1,701
+Row:Operating lease liabilities 	0 	10,214
+Row:Other long-term liabilities 	3,545 	2,534
+Row:Total liabilities 	55,164 	74,467
+Row:Commitments and Contingencies (Note 10)
+		Row:Stockholders’ equity:
+		Row:Convertible preferred stock, $0.001 par value per share, 100,000 shares
 authorized; no shares issued and outstanding 	0 	0
-RowClass A and Class B common stock, and Class C capital stock and
+Row:Class A and Class B common stock, and Class C capital stock and
 additional paid-in capital, $0.001 par value per share: 15,000,000 shares
 authorized (Class A 9,000,000, Class B 3,000,000, Class C 3,000,000);
-691,293 (Class A 296,992, Class B 47,437, Class C 346,864) and
-694,783 (Class A 298,470, Class B 46,972, Class C 349,341) shares
-issued and outstanding 	36,307 	40,247
-RowAccumulated other comprehensive loss 	(2,402) 	(992)
-RowRetained earnings 	105,131 	113,247
-RowTotal stockholders’ equity 	139,036 	152,502
-RowTotal liabilities and stockholders’ equity 	$ 167,497 	$ 197,295
-RowAccounts payable 	$ 2,041 	$ 3,137
-RowAccrued compensation and benefits 	3,976 	4,581
-RowAccrued expenses and other current liabilities 	6,144 	10,177
-RowAccrued revenue share 	2,942 	3,975
-RowDeferred revenue 	1,099 	1,432
-RowIncome taxes payable, net 	554 	881
-RowTotal current liabilities 	16,756 	24,183
-RowLong-term debt 	3,935 	3,969
-RowDeferred revenue, non-current 	202 	340
-RowIncome taxes payable, non-current 	4,677 	12,812
-RowAccumulated other comprehensive loss 	(2,402) 	(992)
-RowRetained earnings 	105,131 	113,247
-RowTotal stockholders’ equity 	139,036 	152,502
-RowTotal liabilities and stockholders’ equity 	$ 167,497 	$ 197,295
-Row	2015 	2016 	2017
-RowRevenues 	$ 74,989 	$ 90,272 	$ 110,855
-RowCosts and expenses:
-			RowCost of revenues 	28,164 	35,138 	45,583
-RowResearch and development 	12,282 	13,948 	16,625
-RowSales and marketing 	9,047 	10,485 	12,893
-RowGeneral and administrative 	6,136 	6,985 	6,872
-RowEuropean Commission fine 	0 	0 	2,736
-RowTotal costs and expenses 	55,629 	66,556 	84,709
-RowIncome from operations 	19,360 	23,716 	26,146
-RowOther income (expense), net 	291 	434 	1,047
-RowIncome before income taxes 	19,651 	24,150 	27,193
-RowProvision for income taxes 	3,303 	4,672 	14,531
-RowNet income 	$ 16,348 	$ 19,478 	$ 12,662
-RowLess: Adjustment Payment to Class C capital stockholders 	522 	0 	0
-RowNet income available to all stockholders 	$ 15,826 	$ 19,478 	$ 12,662
-RowBasic net income per share of Class A and B common stock 	$ 23.11 	$ 28.32 	$ 18.27
-RowBasic net income per share of Class C capital stock 	$ 24.63 	$ 28.32 	$ 18.27
-RowDiluted net income per share of Class A and B common stock 	$ 22.84 	$ 27.85 	$ 18.00
-RowDiluted net income per share of Class C capital stock 	$ 24.34 	$ 27.85 	$ 18.00
-RowNet income 	$ 16,348 	$ 19,478 	$ 12,662
-RowOther comprehensive income (loss):
-			RowChange in foreign currency translation adjustment 	(1,067) 	(599) 	1,543
-RowAvailable-for-sale investments:
-			RowChange in net unrealized gains (losses) 	(715) 	(314) 	307
-RowLess: reclassification adjustment for net (gains) losses included
-in net income 	208 	221 	105
-RowNet change (net of tax effect of $29, $0, and $0) 	(507) 	(93) 	412
-RowCash flow hedges:
-			RowChange in net unrealized gains (losses) 	676 	515 	(638)
-RowLess: reclassification adjustment for net (gains) losses included
-in net income 	(1,003) 	(351) 	93
-RowNet change (net of tax effect of $115, $64, and $247) 	(327) 	164 	(545)
-RowOther comprehensive income (loss) 	(1,901) 	(528) 	1,410
-RowComprehensive income 	$ 14,447 	$ 18,950 	$ 14,072
-Row	(327) (1,901) 		164 (528) 		(545)
-1,410
-Row$ 	14,447 	$ 	18,950 	$ 	14,072
-Row	Shares 	Amount
-	Comprehensive
-Income (Loss)
-	Retained
-Earnings
-	Stockholders’
-Equity RowBalance as of December 31, 2014 	680,172 	$ 28,767 	$ 27 	$ 75,066 	$ 103,860
-RowCommon and capital stock issued 	8,714 	664 	0 	0 	664
-RowStock-based compensation expense 	0 	5,151 	0 	0 	5,151
-RowStock-based compensation tax
-benefits 	0 	815 	0 	0 	815
-RowTax withholding related to vesting of
-restricted stock units 	0 	(2,779) 	0 	0 	(2,779)
-RowRepurchases of capital stock 	(2,391) 	(111) 	0 	(1,669) 	(1,780)
-RowAdjustment Payment to Class C
-capital stockholders 	853 	475 	0 	(522) 	(47)
-RowNet income 	0 	0 	0 	16,348 	16,348
-RowOther comprehensive loss 	0 	0 	(1,901) 	0 	(1,901)
-RowBalance as of December 31, 2015 	687,348 	32,982 	(1,874) 	89,223 	120,331
-RowCumulative effect of accounting
-change 	0 	180 	0 	(133) 	47
-RowCommon and capital stock issued 	9,106 	298 	0 	0 	298
-RowStock-based compensation expense 	0 	6,700 	0 	0 	6,700
-RowTax withholding related to vesting of
-restricted stock units 	0 	(3,597) 	0 	0 	(3,597)
-RowRepurchases of capital stock 	(5,161) 	(256) 	0 	(3,437) 	(3,693)
-RowNet income 	0 	0 	0 	19,478 	19,478
-RowOther comprehensive loss 	0 	0 	(528) 	0 	(528)
-RowBalance as of December 31, 2016 	691,293 	36,307 	(2,402) 	105,131 	139,036
-RowCumulative effect of accounting
+695,556 (Class A 299,242, Class B 46,636, Class C 349,678) and
+688,335 (Class A 299,828, Class B 46,441, Class C 342,066) shares
+issued and outstanding 	45,049 	50,552
+Row:Accumulated other comprehensive loss 	(2,306) 	(1,232)
+Row:Retained earnings 	134,885 	152,122
+Row:Total stockholders’ equity 	177,628 	201,442
+Row:Total liabilities and stockholders’ equity 	$ 232,792 	$ 275,909
+Row:Accumulated other comprehensive loss 	(2,306) 	(1,232)
+Row:Retained earnings 	134,885 	152,122
+Row:Total stockholders’ equity 	177,628 	201,442
+Row:Total liabilities and stockholders’ equity 	$ 232,792 	$ 275,909
+Row:	2017 	2018 	2019
+Row:Revenues 	$ 110,855 	$ 136,819 	$ 161,857
+Row:Costs and expenses:
+			Row:Cost of revenues 	45,583 	59,549 	71,896
+Row:Research and development 	16,625 	21,419 	26,018
+Row:Sales and marketing 	12,893 	16,333 	18,464
+Row:General and administrative 	6,840 	6,923 	9,551
+Row:European Commission fines 	2,736 	5,071 	1,697
+Row:Total costs and expenses 	84,677 	109,295 	127,626
+Row:Income from operations 	26,178 	27,524 	34,231
+Row:Other income (expense), net 	1,015 	7,389 	5,394
+Row:Income before income taxes 	27,193 	34,913 	39,625
+Row:Provision for income taxes 	14,531 	4,177 	5,282
+Row:Net income 	$ 12,662 	$ 30,736 	$ 34,343
+Row:Basic net income per share of Class A and B common stock and Class
+			Row:C capital stock 	$ 18.27 	$ 44.22 	$ 49.59
+Row:Diluted net income per share of Class A and B common stock and
+			Row:Basic net income per share of Class A and B common stock and Class
+Row:C capital stock $ 18.27 $ 44.22 $ 49.59
+Row:Diluted net income per share of Class A and B common stock and
+Row:Class C capital stock $ 18.00 $ 43.70 $ 49.16
+Row:Net income 	$ 12,662 $ 	30,736 	$ 34,343
+Row:Other comprehensive income (loss):
+			Row:Change in foreign currency translation adjustment 	1,543 	(781) 	(119)
+Row:Available-for-sale investments:
+			Row:Change in net unrealized gains (losses) 	307 	88 	1,611
+Row:Less: reclassification adjustment for net (gains) losses included
+in net income 	105 	(911) 	(111)
+Row:Net change (net of tax effect of $0, $156, and $221) 	412 	(823) 	1,500
+Row:Cash flow hedges:
+			Row:Change in net unrealized gains (losses) 	(638) 	290 	22
+Row:Less: reclassification adjustment for net (gains) losses included
+in net income 	93 	98 	(299)
+Row:Net change (net of tax effect of $247, $103, and $42) 	(545) 	388 	(277)
+Row:Other comprehensive income (loss) 	1,410 	(1,216) 	1,104
+Row:Comprehensive income 	$ 14,072 $ 	29,520 	$ 35,447
+Row:(545) 		388 		(277)
+Row:1,410 		(1,216) 		1,104
+Row:$ 14,072 	$ 	29,520 	$ 	35,447
+Row:	Shares 	Amount
+	Income (Loss)
+	Earnings
+	Equity Row:Balance as of December 31, 2016 	691,293 	$ 36,307 	$ (2,402) 	$ 105,131 	$ 139,036
+Row:Cumulative effect of accounting
 change 	0 	0 	0 	(15) 	(15)
-RowCommon and capital stock issued 	8,652 	212 	0 	0 	212
-RowStock-based compensation expense 	0 	7,694 	0 	0 	7,694
-RowTax withholding related to vesting of
+Row:Common and capital stock issued 	8,652 	212 	0 	0 	212
+Row:Stock-based compensation expense 	0 	7,694 	0 	0 	7,694
+Row:Tax withholding related to vesting of
 restricted stock units 	0 	(4,373) 	0 	0 	(4,373)
-RowRepurchases of capital stock 	(5,162) 	(315) 	0 	(4,531) 	(4,846)
-RowSale of subsidiary shares 	0 	722 	0 	0 	722
-RowNet income 	0 	0 	0 	12,662 	12,662
-RowOther comprehensive income 	0 	0 	1,410 	0 	1,410
-RowBalance as of December 31, 2017 	694,783 	$ 40,247 	$ (992) 	$ 113,247 	$ 152,502
-Row	2015 	2016 	2017
-RowOperating activities
-			RowNet income 	$ 16,348 	$ 19,478 	$ 12,662
-RowAdjustments:
-			RowDepreciation and impairment of property and equipment 	4,132 	5,267 	6,103
-RowAmortization and impairment of intangible assets 	931 	877 	812
-RowStock-based compensation expense 	5,203 	6,703 	7,679
-RowDeferred income taxes 	(179) 	(38) 	258
-RowLoss on marketable and non-marketable investments, net 	334 	275 	194
-RowOther 	212 	174 	137
-RowChanges in assets and liabilities, net of effects of acquisitions:
-			RowAccounts receivable 	(2,094) 	(2,578) 	(3,768)
-RowIncome taxes, net 	(179) 	3,125 	8,211
-RowOther assets 	(318) 	312 	(2,164)
-RowAccounts payable 	203 	110 	731
-RowAccrued expenses and other liabilities 	1,597 	1,515 	4,891
-RowAccrued revenue share 	339 	593 	955
-RowDeferred revenue 	43 	223 	390
-RowNet cash provided by operating activities 	26,572 	36,036 	37,091
-RowInvesting activities
-			RowPurchases of property and equipment 	(9,950) 	(10,212) 	(13,184)
-RowProceeds from disposals of property and equipment 	35 	240 	99
-RowPurchases of marketable securities 	(74,368) 	(84,509) 	(92,195)
-RowMaturities and sales of marketable securities 	62,905 	66,895 	73,959
-RowPurchases of non-marketable investments 	(2,326) 	(1,109) 	(1,745)
-RowMaturities and sales of non-marketable investments 	154 	494 	533
-RowCash collateral related to securities lending 	(350) 	(2,428) 	0
-RowInvestments in reverse repurchase agreements 	425 	450 	0
-RowAcquisitions, net of cash acquired, and purchases of intangible assets 	(236) 	(986) 	(287)
-RowProceeds from collection of notes receivable 	0 	0 	1,419
-RowNet cash used in investing activities 	(23,711) 	(31,165) 	(31,401)
-RowFinancing activities
-			RowNet payments related to stock-based award activities 	(2,375) 	(3,304) 	(4,166)
-RowAdjustment Payment to Class C capital stockholders 	(47) 	0 	0
-RowRepurchases of capital stock 	(1,780) 	(3,693) 	(4,846)
-RowProceeds from issuance of debt, net of costs 	13,705 	8,729 	4,291
-RowRepayments of debt 	(13,728) 	(10,064) 	(4,377)
-RowProceeds from sale of subsidiary shares 	0 	0 	800
-RowNet cash used in financing activities 	(4,225) 	(8,332) 	(8,298)
-RowEffect of exchange rate changes on cash and cash equivalents 	(434) 	(170) 	405
-RowNet decrease in cash and cash equivalents 	(1,798) 	(3,631) 	(2,203)
-RowCash and cash equivalents at beginning of period 	18,347 	16,549 	12,918
-RowCash and cash equivalents at end of period 	$ 16,549 	$ 12,918 	$ 10,715
-RowSupplemental disclosures of cash flow information
-			RowCash paid for taxes, net of refunds 	$ 3,651 	$ 1,643 	$ 6,191
-RowCash paid for interest, net of amounts capitalized 	$ 96 	$ 84 	$ 84
-Rowtaxes, net of refunds 	$ 3,651 $ 1,643 $ 6,191
-Rowinterest, net of amounts capitalized 	$ 96 $ 84 $ 84
+Row:Repurchases of capital stock 	(5,162) 	(315) 	0 	(4,531) 	(4,846)
+Row:Sale of interest in consolidated
+entities 	0 	722 	0 	0 	722
+Row:Net income 	0 	0 	0 	12,662 	12,662
+Row:Other comprehensive income (loss) 	0 	0 	1,410 	0 	1,410
+Row:Balance as of December 31, 2017 	694,783 	40,247 	(992) 	113,247 	152,502
+Row:Cumulative effect of accounting
+change 	0 	0 	(98) 	(599) 	(697)
+Row:Common and capital stock issued 	8,975 	148 	0 	0 	148
+Row:Stock-based compensation expense 	0 	9,353 	0 	0 	9,353
+Row:Tax withholding related to vesting of
+restricted stock units and other 	0 	(4,782) 	0 	0 	(4,782)
+Row:Repurchases of capital stock 	(8,202) 	(576) 	0 	(8,499) 	(9,075)
+Row:Sale of interest in consolidated
+entities 	0 	659 	0 	0 	659
+Row:Net income 	0 	0 	0 	30,736 	30,736
+Row:Other comprehensive income (loss) 	0 	0 	(1,216) 	0 	(1,216)
+Row:Balance as of December 31, 2018 	695,556 	45,049 	(2,306) 	134,885 	177,628
+Row:Cumulative effect of accounting
+change 	0 	0 	(30) 	(4) 	(34)
+Row:Common and capital stock issued 	8,120 	202 	0 	0 	202
+Row:Stock-based compensation expense 	0 	10,890 	0 	0 	10,890
+Row:Tax withholding related to vesting of
+restricted stock units and other 	0 	(4,455) 	0 	0 	(4,455)
+Row:Repurchases of capital stock 	(15,341) 	(1,294) 	0 	(17,102) 	(18,396)
+Row:Sale of interest in consolidated
+entities 	0 	160 	0 	0 	160
+Row:Net income 	0 	0 	0 	34,343 	34,343
+Row:Other comprehensive income (loss) 	0 	0 	1,104 	0 	1,104
+Row:Balance as of December 31, 2019 	688,335 	$ 50,552 	$ (1,232) 	$ 152,122 	$ 201,442
+Row:	2017 	2018 	2019
+Row:Operating activities
+			Row:Net income 	$ 12,662 	$ 30,736 	$ 34,343
+Row:Adjustments:
+			Row:Depreciation and impairment of property and equipment 	6,103 	8,164 	10,856
+Row:Amortization and impairment of intangible assets 	812 	871 	925
+Row:Stock-based compensation expense 	7,679 	9,353 	10,794
+Row:Deferred income taxes 	258 	778 	173
+Row:(Gain) loss on debt and equity securities, net 	37 	(6,650) 	(2,798)
+Row:Other 	294 	(189) 	(592)
+Row:Changes in assets and liabilities, net of effects of acquisitions:
+			Row:Accounts receivable 	(3,768) 	(2,169) 	(4,340)
+Row:Income taxes, net 	8,211 	(2,251) 	(3,128)
+Row:Other assets 	(2,164) 	(1,207) 	(621)
+Row:Accounts payable 	731 	1,067 	428
+Row:Accrued expenses and other liabilities 	4,891 	8,614 	7,170
+Row:Accrued revenue share 	955 	483 	1,273
+Row:Deferred revenue 	390 	371 	37
+Row:Net cash provided by operating activities 	37,091 	47,971 	54,520
+Row:Investing activities
+			Row:Purchases of property and equipment 	(13,184) 	(25,139) 	(23,548)
+Row:Purchases of marketable securities 	(92,195) 	(50,158) 	(100,315)
+Row:Maturities and sales of marketable securities 	73,959 	48,507 	97,825
+Row:Purchases of non-marketable investments 	(1,745) 	(2,073) 	(1,932)
+Row:Maturities and sales of non-marketable investments 	533 	1,752 	405
+Row:Acquisitions, net of cash acquired, and purchases of intangible assets 	(287) 	(1,491) 	(2,515)
+Row:Proceeds from collection of notes receivable 	1,419 	0 	0
+Row:Other investing activities 	99 	98 	589
+Row:Net cash used in investing activities 	(31,401) 	(28,504) 	(29,491)
+Row:Financing activities
+Net payments related to stock-based award activities 	(4,166) 	(4,993) 	(4,765)
+Row:Repurchases of capital stock 	(4,846) 	(9,075) 	(18,396)
+Row:Proceeds from issuance of debt, net of costs 	4,291 	6,766 	317
+Row:Repayments of debt 	(4,377) 	(6,827) 	(585)
+Row:Proceeds from sale of interest in consolidated entities 	800 	950 	220
+Row:Net cash used in financing activities 	(8,298) 	(13,179) 	(23,209)
+Row:Effect of exchange rate changes on cash and cash equivalents 	405 	(302) 	(23)
+Row:Net increase (decrease) in cash and cash equivalents 	(2,203) 	5,986 	1,797
+Row:Cash and cash equivalents at beginning of period 	12,918 	10,715 	16,701
+Row:Cash and cash equivalents at end of period 	$ 10,715 	$ 16,701 	$ 18,498
+Row:Supplemental disclosures of cash flow information
+			Row:Cash paid for taxes, net of refunds 	$ 6,191 	$ 5,671 	$ 8,203
+Row:Purchases of property and equipment 	(13,184) 	(25,139) 	(23,548)
+Row:Purchases of marketable securities 	(92,195) 	(50,158) 	(100,315)
+Row:Maturities and sales of marketable securities 	73,959 	48,507 	97,825
+Row:Purchases of non-marketable investments 	(1,745) 	(2,073) 	(1,932)
+Row:Maturities and sales of non-marketable investments 	533 	1,752 	405
+Row:Acquisitions, net of cash acquired, and purchases of intangible assets 	(287) 	(1,491) 	(2,515)
+Row:Proceeds from collection of notes receivable 	1,419 	0 	0
+Row:Other investing activities 	99 	98 	589
+Row:Net cash used in investing activities 	(31,401) 	(28,504) 	(29,491)
+Row:Financing activities
+			Row:Net payments related to stock-based award activities 	(4,166) 	(4,993) 	(4,765)

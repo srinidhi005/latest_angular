@@ -1,26 +1,67 @@
-<!-- <div class="profile-card">
-    <header>
-      <a target="_blank">
-        <img src="{{picture}}" class="hoverZoomLink">
-      </a>
-    </header>
-    <div class="profile-bio">
-        <p class="p1">
-            {{nickname}}
-        </p>
-    <p class="p2">
-        {{email}}
-      </p>
-      </div>
-</div> -->
 
-<div class="example-container">
-<mat-card class="example-card">
-    <img class="mat-card-img" src="{{picture}}" alt="">
-    <div class="content">
-    <mat-card-title>{{nickname}}</mat-card-title>
-    <mat-card-subtitle>{{email}}</mat-card-subtitle>
-    <button mat-raised-button routerLink="/user">Edit</button>
+
+<div class="row">
+  <div class="col"></div>
+  <div class="col-3" style="margin:0 auto;text-align:center;margin-top: 20px;" [class.col-height] = "imageLoaded == false ? true : false">
+
+    <img class="mat-card-img" #imgLink [src]="auth.userPicture" alt="profile" style="border-radius:50px"
+       [class.show]="imageLoaded == false ? true : false">
+    <input type="file" (change)="selectFile($event)" #fileInput style="display: none;">
+  </div>
+  <div class="col"></div>
 </div>
-  </mat-card>
+<div class="row">
+  <div class="col"></div>
+  <div class="col-3" style="margin:0 auto;text-align:center;margin-top: -20px; margin-bottom: 20px;">
+    <br>
+    <span>
+      <span class="material-icons" (click)="clickOnFileInput(fileInput)">
+        photo_camera
+      </span>
+    </span> <br>
+    <mat-card-title><br />{{nickname}} </mat-card-title>
+  </div>
+  <div class="col"></div>
 </div>
+
+
+
+
+<div class="content" fxLayout="row wrap" fxLayoutGap="16px grid">
+
+
+ 
+
+
+  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
+    <mat-card class="mat-elevation-z4">    
+<mat-card-title style="text-align:center"><mat-icon style="font-size: 50px;"> person_outline</mat-icon></mat-card-title>
+    <mat-card-title style="text-align:center">Personal Info</mat-card-title>
+    <mat-card-subtitle style="text-align:center">Name, phone number, and other details that make your account yours </mat-card-subtitle>
+    <mat-card-subtitle style="text-align:center"><a routerLink="/user" >Manage Personal Info</a> </mat-card-subtitle>
+
+    </mat-card>
+  </div>
+  
+  
+  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
+    <mat-card class="mat-elevation-z4">
+   
+	<mat-card-title style="text-align:center"><mat-icon style="font-size: 50px;"> business</mat-icon></mat-card-title>
+    <mat-card-title style="text-align:center">Organization Info</mat-card-title>
+    <mat-card-subtitle style="text-align:center">Information about your organization  </mat-card-subtitle>
+    <mat-card-subtitle style="text-align:center"><a routerLink="/company">Manage Organization Info </a></mat-card-subtitle>
+
+    </mat-card>
+  </div>
+  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%" *ngIf = "auth.currentUserRoles?.indexOf('Admin') >=0 || auth.currentUserRoles?.indexOf('SuperAdmin') >=0">
+    <mat-card class="mat-elevation-z4">
+   <mat-card-title style="text-align:center"><mat-icon style="font-size: 50px;">supervised_user_circle</mat-icon></mat-card-title>
+    <mat-card-title style="text-align:center">User Management</mat-card-title>
+    <mat-card-subtitle style="text-align:center">Manage your users and their roles</mat-card-subtitle>
+    <mat-card-subtitle style="text-align:center"><a routerLink="/Users">Manage User Details</a></mat-card-subtitle>
+	
+    </mat-card>
+  </div>
+</div>
+

@@ -1,0 +1,331 @@
+[annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9999997019767761
+  text_segment {
+    start_offset: 81
+    end_offset: 106
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9999892711639404
+  text_segment {
+    start_offset: 358
+    end_offset: 377
+    content: "Accounts receivable"
+  }
+}
+, annotation_spec_id: "4428420519821312000"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9993953108787537
+  text_segment {
+    start_offset: 490
+    end_offset: 501
+    content: "Inventories"
+  }
+}
+, annotation_spec_id: "7495512603548975104"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9999110102653503
+  text_segment {
+    start_offset: 764
+    end_offset: 784
+    content: "Total current assets"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.9877906441688538
+  text_segment {
+    start_offset: 897
+    end_offset: 930
+    content: "Land, property and equipment, net"
+  }
+}
+, annotation_spec_id: "83994991780691968"
+display_name: "Goodwill"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 1030
+    end_offset: 1038
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.16160494089126587
+  text_segment {
+    start_offset: 1318
+    end_offset: 1344
+    content: "Purchased intangibles, net"
+  }
+}
+, annotation_spec_id: "3788271655990591488"
+display_name: "OtherAssets"
+text_extraction {
+  score: 0.39184802770614624
+  text_segment {
+    start_offset: 1454
+    end_offset: 1478
+    content: "Other non-current assets"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9998334050178528
+  text_segment {
+    start_offset: 1594
+    end_offset: 1606
+    content: "Total assets"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9999951720237732
+  text_segment {
+    start_offset: 1794
+    end_offset: 1810
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "5429345537004404736"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.9999938607215881
+  text_segment {
+    start_offset: 2198
+    end_offset: 2231
+    content: "Current portion of long-term debt"
+  }
+}
+, annotation_spec_id: "3789331585199767552"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9996798038482666
+  text_segment {
+    start_offset: 2454
+    end_offset: 2479
+    content: "Total current liabilities"
+  }
+}
+, annotation_spec_id: "2337624392814559232"
+display_name: "LongTermDebt"
+text_extraction {
+  score: 0.9999788999557495
+  text_segment {
+    start_offset: 2612
+    end_offset: 2626
+    content: "Long-term debt"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.9999170899391174
+  text_segment {
+    start_offset: 3017
+    end_offset: 3034
+    content: "Total liabilities"
+  }
+}
+, annotation_spec_id: "8415372827439398912"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.999999463558197
+  text_segment {
+    start_offset: 3957
+    end_offset: 3983
+    content: "Total stockholders\342\200\231 equity"
+  }
+}
+, annotation_spec_id: "1975506835276300288"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.9999812245368958
+  text_segment {
+    start_offset: 4084
+    end_offset: 4126
+    content: "Total liabilities and stockholders\342\200\231 equity"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.8920156359672546
+  text_segment {
+    start_offset: 4271
+    end_offset: 4293
+    content: "KLA-TENCOR CORPORATION"
+  }
+}
+, annotation_spec_id: "6853749656648679424"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9999620914459229
+  text_segment {
+    start_offset: 4294
+    end_offset: 4321
+    content: "Consolidated Balance Sheets"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999904036521912
+  text_segment {
+    start_offset: 4666
+    end_offset: 4680
+    content: "Total revenues"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9964551329612732
+  text_segment {
+    start_offset: 4802
+    end_offset: 4819
+    content: "Costs of revenues"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9999895691871643
+  text_segment {
+    start_offset: 5031
+    end_offset: 5066
+    content: "Selling, general and administrative"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9994567036628723
+  text_segment {
+    start_offset: 5224
+    end_offset: 5240
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9998838901519775
+  text_segment {
+    start_offset: 5453
+    end_offset: 5479
+    content: "Income before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.999983012676239
+  text_segment {
+    start_offset: 5570
+    end_offset: 5596
+    content: "Provision for income taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9835711121559143
+  text_segment {
+    start_offset: 5686
+    end_offset: 5696
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.6338493824005127
+  text_segment {
+    start_offset: 6634
+    end_offset: 6656
+    content: "KLA-TENCOR CORPORATION"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9991796612739563
+  text_segment {
+    start_offset: 7271
+    end_offset: 7300
+    content: "Depreciation and amortization"
+  }
+}
+, annotation_spec_id: "3811862777476153344"
+display_name: "TotalCapitalExpenditures"
+text_extraction {
+  score: 0.9988515973091125
+  text_segment {
+    start_offset: 8007
+    end_offset: 8027
+    content: "Capital expenditures"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.8688074350357056
+  text_segment {
+    start_offset: 8034
+    end_offset: 8096
+    content: "Proceeds from sale of assets..\nPurchases of available-for-sale"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.9985029101371765
+  text_segment {
+    start_offset: 8109
+    end_offset: 8160
+    content: "Proceeds from sale of available-for-sale securities"
+  }
+}
+, annotation_spec_id: "7573494366237360128"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.9131530523300171
+  text_segment {
+    start_offset: 8162
+    end_offset: 8217
+    content: "Proceeds from maturity of available-for-sale securities"
+  }
+}
+, annotation_spec_id: "3979340388618993664"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.9869598150253296
+  text_segment {
+    start_offset: 8295
+    end_offset: 8346
+    content: "Net cash provided by (used in) investing activities"
+  }
+}
+, annotation_spec_id: "2768997988763172864"
+display_name: "DividendsPaid"
+text_extraction {
+  score: 0.85072922706604
+  text_segment {
+    start_offset: 8593
+    end_offset: 8629
+    content: "Payment of dividends to stockholders"
+  }
+}
+]

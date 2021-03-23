@@ -140,7 +140,7 @@ const routes: Routes = [
        canActivate: [AuthGuard],
       },
 	  {
-        path: 'kpiCashflow',
+        path: 'KPICashflow',
         component: KpiCashflowComponent,
        canActivate: [AuthGuard],
       },

@@ -8,16 +8,16 @@
 	
 	
   <div fxLayout="row" fxFlex fxLayoutAlign="start center">
-	  <span style="font-weight:bold;font-size:22px">{{ companySelected }} - {{ loadedScenario }} </span> </div>
+	  <span style="font-weight:bold;font-size: 18px">{{ companySelected }} - {{ loadedScenario }} </span> </div>
    <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px">
     <button mat-button (click)="exportToPDF()" matTooltip="Export to PDF"
     matTooltipPosition='above'><mat-icon style="font-size:26px">picture_as_pdf</mat-icon></button>
-    <button mat-button [matMenuTriggerFor]="below" style="font-size:22px">
+    <button mat-button [matMenuTriggerFor]="below" style="font-size: 18px">
       <mat-icon style="font-size:26px">exposure</mat-icon>{{ loadedScenario }}<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
     </button>
     <mat-menu #below="matMenu" yPosition="below">
       <button mat-menu-item *ngFor="let index of scenarioArray; let indexOfelement=index;">
-        <span (click)="loadScenario(indexOfelement)" style="font-size:22px">Scenario {{index}}</span>
+        <span (click)="loadScenario(indexOfelement)" style="font-size: 18px">Scenario {{index}}</span>
       </button>
     </mat-menu>
   </div>

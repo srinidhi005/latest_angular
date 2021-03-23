@@ -1,0 +1,134 @@
+
+Page#1
+QUALCOMM Incorporated
+CONSOLIDATED BALANCE SHEETS 
+(In millions, except per share data)
+September 29, September 30,
+2019 2018
+ASSETS
+Current assets:  
+Cash and cash equivalents $ 11,839 $ 11,777
+Marketable securities 421 311
+Accounts receivable, net 2,471 2,904
+Inventories 1,400 1,693
+Other current assets 634 699
+Total current assets 16,765 17,384
+Deferred tax assets 1,196 936
+Property, plant and equipment, net 3,081 2,975
+Goodwill 6,282 6,498
+Other intangible assets, net 2,172 2,955
+Other assets 3,461 1,970
+Total assets $ 32,957 $ 32,718
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:  
+Trade accounts payable $ 1,368 $ 1,825
+Payroll and other benefits related liabilities 1,048 1,081
+Unearned revenues 565 500
+Short-term debt 2,496 1,005
+Other current liabilities 3,458 6,978
+Total current liabilities 8,935 11,389
+Unearned revenues 1,160 1,620
+Income taxes payable 2,088 2,312
+Long-term debt 13,437 15,365
+Other liabilities 2,428 1,225
+Total liabilities 28,048 31,911
+Commitments and contingencies (Note 7)
+Stockholders’ equity:  
+Preferred stock, $0.0001 par value; 8 shares authorized; none outstanding — —
+Common stock and paid-in capital, $0.0001 par value; 6,000 shares authorized; 1,145 and 1,219
+shares issued and outstanding, respectively 343 —
+Retained earnings 4,466 542
+Accumulated other comprehensive income 100 265
+Total stockholders’ equity 4,909 807
+Total liabilities and stockholders’ equity $ 32,957 $ 32,718
+See accompanying notes.
+F-5
+Page#2
+QUALCOMM Incorporated
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+(In millions, except per share data)
+ Year Ended
+September 29, September 30, September 24,
+2019 2018 2017
+Revenues:
+Equipment and services $ 14,611 $ 17,400 $ 16,647
+Licensing 9,662 5,211 5,611
+Total revenues 24,273 22,611 22,258
+Costs and expenses:
+Cost of revenues 8,599 10,244 9,792
+Research and development 5,398 5,625 5,485
+Selling, general and administrative 2,195 2,986 2,658
+Other 414 3,135 1,742
+Total costs and expenses 16,606 21,990 19,677
+Operating income 7,667 621 2,581
+Interest expense (627) (768) (494)
+Investment and other income, net 441 539 900
+Income before income taxes 7,481 392 2,987
+Income tax expense (3,095) (5,356) (543)
+Net income (loss) 4,386 (4,964) 2,444
+Net loss attributable to noncontrolling interests — — 1
+Net income (loss) attributable to Qualcomm $ 4,386 $ (4,964) $ 2,445
+Basic earnings (loss) per share attributable to Qualcomm $ 3.63 $ (3.39) $ 1.66
+Diluted earnings (loss) per share attributable to Qualcomm $ 3.59 $ (3.39) $ 1.64
+Shares used in per share calculations:
+Basic 1,210 1,463 1,477
+Diluted 1,220 1,463 1,490
+See accompanying notes.
+F-6
+Page#3
+QUALCOMM Incorporated
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+(In millions)
+Year Ended
+September 29, September 30, September 24,
+2019 2018 2017
+Operating Activities:
+Net income (loss) $ 4,386 $ (4,964) $ 2,444
+Adjustments to reconcile net income (loss) to net cash provided by operating activities: 
+Depreciation and amortization expense 1,401 1,561 1,461
+Income tax provision in excess of (less than) income tax payments 1,976 4,481 (412)
+Non-cash portion of share-based compensation expense 1,037 883 914
+Net gains on marketable securities and other investments (356) (124) (530)
+Indefinite and long-lived asset impairment charges 203 273 76
+Impairment losses on marketable securities and other investments 135 75 177
+Other items, net (272) (49) (26)
+Changes in assets and liabilities:  
+Accounts receivable, net 1,373 734 (1,104)
+Inventories 273 337 (200)
+Other assets 78 24 136
+Trade accounts payable (443) (94) (45)
+Payroll, benefits and other liabilities (2,376) 1,005 2,341
+Unearned revenues (129) (234) (231)
+Net cash provided by operating activities 7,286 3,908 5,001
+Investing Activities:  
+Capital expenditures (887) (784) (690)
+Purchases of debt and equity marketable securities — (5,936) (19,062)
+Proceeds from sales and maturities of debt and equity marketable securities 139 9,188 41,715
+Purchases of other marketable securities — (49) (2,010)
+Proceeds from sales and maturities of other marketable securities — 50 2,006
+Acquisitions and other investments, net of cash acquired (252) (326) (1,544)
+Proceeds from other investments 68 222 23
+Other items, net 126 16 25
+Net cash (used) provided by investing activities (806) 2,381 20,463
+Financing Activities:
+Proceeds from short-term debt 5,989 11,131 8,558
+Repayment of short-term debt (6,492) (11,127) (9,309)
+Proceeds from long-term debt — — 10,953
+Repayment of long-term debt — (5,513) —
+Proceeds from issuance of common stock 414 603 497
+Repurchases and retirements of common stock (1,793) (22,580) (1,342)
+Dividends paid (2,968) (3,466) (3,252)
+Payments of tax withholdings related to vesting of share-based awards (266) (280) (268)
+Payment of purchase consideration related to RF360 Holdings (1,163) (157) (115)
+Other items, net (107) (111) (151)
+Net cash (used) provided by financing activities (6,386) (31,500) 5,571
+Effect of exchange rate changes on cash and cash equivalents (32) (41) 48
+Net increase (decrease) in total cash and cash equivalents 62 (25,252) 31,083
+Total cash and cash equivalents at beginning of period 11,777 37,029 5,946
+Total cash and cash equivalents at end of period $ 11,839 $ 11,777 $ 37,029
+Reconciliation to the consolidated balance sheets
+Cash and cash equivalents $ 11,839 $ 11,777 $ 35,029
+Restricted cash and restricted cash equivalents included in other assets — — 2,000
+Total cash and cash equivalents at end of period $ 11,839 $ 11,777 $ 37,029
+See accompanying notes.
+F-8

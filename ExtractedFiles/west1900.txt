@@ -1,0 +1,324 @@
+
+Page#1
+Table of Contents
+WESTERN DIGITAL CORPORATION
+CONSOLIDATED BALANCE SHEETS
+(in millions, except par value)
+June 28, June 29, 
+  
+2019 2018
+ASSETS
+Current assets: 
+Cash and cash equivalents $ 3,455  $ 5,005
+Accounts receivable, net 1,204  2,197
+Inventories 3,283  2,944
+Other current assets 535  492
+Total current assets 8,477  10,638
+Property, plant and equipment, net 2,843  3,095
+Notes receivable and investments in Flash Ventures 2,791  2,105
+Goodwill 10,076  10,075
+Other intangible assets, net 1,711  2,680
+Other non-current assets 472  642
+Total assets $ 26,370  $ 29,235
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+Current liabilities: 
+Accounts payable $ 1,567  $ 2,265
+Accounts payable to related parties 331  259
+Accrued expenses 1,296  1,274
+Accrued compensation 347  479
+Current portion of long-term debt 276  179
+Total current liabilities 3,817  4,456
+Long-term debt 10,246  10,993
+Other liabilities 2,340  2,255
+Total liabilities 16,403  17,704
+Commitments and contingencies (Notes 6, 9, 13 and 16) 
+Shareholders’ equity: 
+Preferred stock, $0.01 par value; authorized — 5 shares; issued and outstanding — none —  —
+Common stock, $0.01 par value; authorized — 450 shares; issued — 312 shares in 2019 and 2018; outstanding — 295 shares
+in 2019 and 296 shares in 2018 3  3
+Additional paid-in capital 3,851  4,254
+Accumulated other comprehensive loss (68)  (39)
+Retained earnings 7,449  8,757
+Treasury stock — common shares at cost; 17 shares in 2019 and 16 shares in 2018 (1,268)  (1,444)
+Total shareholders’ equity 9,967  11,531
+Total liabilities and shareholders’ equity $ 26,370  $ 29,235
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+50
+Page#2
+Table of Contents
+WESTERN DIGITAL CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in millions, except per share amounts)
+ 
+Year Ended
+June 28, June 29, June 30, 
+  
+2019 2018 2017
+Revenue, net $ 16,569  $ 20,647  $ 19,093
+Cost of revenue 12,817  12,942  13,021
+Gross profit 3,752  7,705  6,072
+Operating expenses: 
+Research and development 2,182  2,400  2,441
+Selling, general and administrative 1,317  1,473  1,445
+Employee termination, asset impairment, and other charges 166  215  232
+Total operating expenses 3,665  4,088  4,118
+Operating income 87  3,617  1,954
+Interest and other income (expense): 
+Interest income 57  60  26
+Interest expense (469)  (676)  (847)
+Other income (expense), net 38  (916)  (364)
+Total interest and other expense, net (374)  (1,532)  (1,185)
+Income (loss) before taxes (287)  2,085  769
+Income tax expense 467  1,410  372
+Net income (loss) $ (754)  $ 675  $ 397
+ 
+Income (loss) per common share 
+Basic $ (2.58)  $ 2.27  $ 1.38
+Diluted $ (2.58)  $ 2.20  $ 1.34
+Weighted average shares outstanding: 
+Basic 292  297  288
+Diluted 292  307  296
+ 
+Cash dividends declared per share $ 2.00  $ 2.00  $ 2.00
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+51
+Page#3
+Table of Contents
+WESTERN DIGITAL CORPORATION
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+(in millions)
+ 
+Year Ended
+June 28, June 29, June 30, 
+ 
+2019 2018 2017
+Net income (loss) $ (754)  $ 675  $ 397
+Other comprehensive income (loss), before tax: 
+Actuarial pension gain (loss) (39)  (2)  39
+Foreign currency translation adjustment 28  18  (115)
+Net unrealized gain (loss) on derivative contracts and available-for-sale securities (39)  7  (75)
+Total other comprehensive income (loss), before tax (50)  23  (151)
+Income tax benefit (expense) related to items of other comprehensive income (loss), before tax 21  (4)  (10)
+Other comprehensive income (loss), net of tax (29)  19  (161)
+Total comprehensive income (loss) $ (783)  $ 694  $ 236
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+52
+Page#4
+Table of Contents
+WESTERN DIGITAL CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in millions)
+ 
+ 
+Year Ended
+June 28, June 29, June 30, 
+ 
+2019 2018 2017
+ 
+Cash flows from operating activities
+  
+Net income (loss) $ (754) $ 675 $ 397
+ 
+Adjustments to reconcile net income (loss) to net cash provided by operations:
+  
+Depreciation and amortization 1,812 2,056 2,128
+  
+Stock-based compensation 306 377 394
+  
+Deferred income taxes 374 (348) 12
+  
+Loss on disposal of assets 39 21 18
+  
+Write-off of issuance costs and amortization of debt discounts 38 221 285
+  
+Cash premium on extinguishment of debt — 720 —
+  
+Loss on convertible debt and related instruments — — 5
+  
+Non-cash portion of employee termination, asset impairment and other charges — 16 13
+  
+Other non-cash operating activities, net (8) (19) 94
+ 
+Changes in:
+  
+Accounts receivable, net 993 (244) (487)
+  
+Inventories (339) (598) (204)
+  
+Accounts payable (588) (15) 223
+  
+Accounts payable to related parties 72 53 38
+  
+Accrued expenses (42) (17) 231
+  
+Accrued compensation (135) (26) 115
+  
+Other assets and liabilities, net (221) 1,333 175
+  
+Net cash provided by operating activities 1,547 4,205 3,437
+ 
+Cash flows from investing activities
+  
+Purchases of property, plant and equipment (876) (835) (578)
+  
+Proceeds from the sale of property, plant and equipment 119 26 21
+  
+Acquisitions, net of cash acquired — (100) —
+  
+Purchases of investments (79) (89) (281)
+  
+Proceeds from sale of investments 175 48 94
+  
+Proceeds from maturities of investments 7 19 417
+  
+Investments in Flash Ventures — — (20)
+  
+Notes receivable issuances to Flash Ventures (1,364) (1,313) (549)
+  
+Notes receivable proceeds from Flash Ventures 766 571 292
+  
+Strategic investments and other, net (20) 18 (32)
+  
+Net cash used in investing activities (1,272) (1,655) (636)
+ 
+Cash flows from financing activities
+  
+Issuance of stock under employee stock plans 118 220 235
+  
+Taxes paid on vested stock awards under employee stock plans (115) (171) (124)
+  
+Excess tax benefits from employee stock plans — — 119
+  
+Proceeds from acquired call option — — 61
+  
+Settlement of convertible debt — — (492)
+  
+Repurchases of common stock (563) (591) —
+  
+Dividends paid to shareholders (584) (593) (574)
+  
+Settlement of debt hedge contracts — 28 (21)
+  
+Proceeds from (repayment of) revolving credit facility (500) 500 —
+  
+Repayment of debt (181) (17,074) (11,697)
+  
+Proceeds from debt — 13,840 7,908
+  
+Debt issuance costs (4) (59) (10)
+  
+Net cash used in financing activities (1,829) (3,900) (4,595)
+  
+Effect of exchange rate changes on cash 4 1 (3)
+  
+Net decrease in cash and cash equivalents (1,550) (1,349) (1,797)
+  
+Cash and cash equivalents, beginning of year 5,005 6,354 8,151
+  
+Cash and cash equivalents, end of year $ 3,455 $ 5,005 $ 6,354
+ 
+Supplemental disclosure of cash flow information:
+  
+Cash paid for income taxes $ 377 $ 220 $ 184
+Page#5
+Cash paid for interest $ 431  $ 708  $ 777
+ 
+Supplemental disclosure of non-cash investing and financing activities:
+  
+Shares issued in conjunction with settlement of convertible notes $ — $ — $ 16
+  
+Shares received in conjunction with assumed call options $ — $ — $ (11)
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+53
+Page#6
+Table of Contents
+WESTERN DIGITAL CORPORATION
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
+(in millions)
+ 
+Common Stock Treasury Stock Accumulated Other
+Additional Paid- Comprehensive Retained Total Shareholders’
+ 
+Shares Amount Shares Amount In Capital Income (Loss) Earnings Equity
+ 
+Balance at July 1, 2016 312 $ 3 (28) $ (2,238) $ 4,429 $ 103 $ 8,848 $ 11,145
+ 
+Net income — — — — — — 397 397
+ 
+Employee stock plans — — 10 583 (472) — — 111
+ 
+Stock-based compensation — — — — 394 — — 394
+Increase in excess tax benefits
+ 
+from employee stock plans — — — — 104 — — 104
+Shares issued in conjunction with
+ 
+settlement of convertible notes — — — — 16 — — 16
+Shares received in conjunction
+ 
+with assumed call options — — — (11) — — — (11)
+ 
+Dividends to shareholders — — — — 35 — (612) (577)
+ 
+Actuarial pension gain — — — — — 27 — 27
+Foreign currency translation
+ 
+adjustment — — — — — (113) — (113)
+Net unrealized loss on derivative
+contracts and available-for-sale
+ 
+securities — — — — — (75) — (75)
+ 
+Balance at June 30, 2017 312 3 (18) (1,666) 4,506 (58) 8,633 11,418
+ 
+Net income — — — — — — 675 675
+Adoption of new accounting
+ 
+standards — — — — (19) — 70 51
+ 
+Employee stock plans — — 9 813 (764) — — 49
+ 
+Stock-based compensation — — — — 377 — — 377
+Equity value of convertible debt
+ 
+issuance, net of deferred taxes — — — — 125 — — 125
+ 
+Repurchases of common stock — — (7) (591) — — — (591)
+ 
+Dividends to shareholders — — — — 29 — (621) (592)
+ 
+Actuarial pension loss — — — — — (1) — (1)
+Foreign currency translation
+ 
+adjustment — — — — — 18 — 18
+Net unrealized gain on derivative
+contracts and available-for-sale
+ 
+securities — — — — — 2 — 2
+ 
+Balance at June 29, 2018 312 3 (16) (1,444) 4,254 (39) 8,757 11,531
+ 
+Net loss — — — — — — (754) (754)
+ 
+Employee stock plans — — 7 739 (736) — — 3
+Adoption of new accounting
+ 
+standards — — — — — — 56 56
+ 
+Stock-based compensation — — — — 306 — — 306
+ 
+Repurchases of common stock — — (8) (563) — — — (563)
+ 
+Dividends to shareholders — — — — 27 — (610) (583)
+ 
+Actuarial pension loss — — — — — (34) — (34)
+Foreign currency translation
+ 
+adjustment — — — — — 25 — 25
+Net unrealized loss on derivative
+ 
+contracts — — — — — (20) — (20)
+ 
+Balance at June 28, 2019 312 $ 3 (17) $ (1,268) $ 3,851 $ (68) $ 7,449 $ 9,967
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+54

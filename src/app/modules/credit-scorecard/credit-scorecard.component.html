@@ -4,11 +4,11 @@
 	<img id='imgToExport' #imageCanvas src='../../../assets/images/RMI_logo.jpg' style="display: none;"
         height="400" width="600">
 	<div fxLayout="row" fxFlex fxLayoutAlign="start center" fxLayoutGap="5px">
-		<span class="headerLabel" ><span style="font-weight:bold">{{ companySelected }} </span> </span>
+		<span class="headerLabel" ><span style="font-weight:bold;font-size:18px">{{ companySelected }} </span> </span>
 		</div>
 		<div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px">
 		<button mat-button (click)="exportToPdf()" matTooltip="Export to PDF" matTooltipPosition='above'>
-			<mat-icon>picture_as_pdf</mat-icon>
+			<mat-icon style="font-size:26px">picture_as_pdf</mat-icon>
 		</button>
 	
 		<!--<button mat-button [matMenuTriggerFor]="above">
@@ -50,69 +50,69 @@
 							<tr>
 								<td class="left" style="vertical-align:middle"> <b>I) Historical Revenue CAGR</b> <span style="font-style:italic"> (Last 3 years)</span>
 								</td>
-								<td style="font-style:italic">{{scoreCardData1.revenuecagr | number: '1.1-1'}}%</td>
-								<td [class.highlight]="isInSegment(1, scoreCardData.revenuecagr)"> < 0.0%</td>
-								<td [class.highlight]="isInSegment(2, scoreCardData.revenuecagr)">0.0% - 2.5% </td>
-								<td [class.highlight]="isInSegment(3, scoreCardData.revenuecagr)">2.5% - 5.0% </td>
-								<td [class.highlight]="isInSegment(4, scoreCardData.revenuecagr)">5.0% - 10.0% </td>
-								<td [class.highlight]="isInSegment(5, scoreCardData.revenuecagr)"> > 10.0%
+								<td style="font-style:italic">{{scoreCardData1?.revenuecagr | number: '1.1-1'}}%</td>
+								<td [class.highlight]="isInSegment(1, scoreCardData?.revenuecagr)"> < 0.0%</td>
+								<td [class.highlight]="isInSegment(2, scoreCardData?.revenuecagr)">0.0% - 2.5% </td>
+								<td [class.highlight]="isInSegment(3, scoreCardData?.revenuecagr)">2.5% - 5.0% </td>
+								<td [class.highlight]="isInSegment(4, scoreCardData?.revenuecagr)">5.0% - 10.0% </td>
+								<td [class.highlight]="isInSegment(5, scoreCardData?.revenuecagr)"> > 10.0%
 								</td>
-								<td> {{scoreCardData.revenuecagr | number: '1.1-1'}} </td>
-								<td>{{scoreCardData.factorweight | number: '1.1-1'}}%</td>
+								<td> {{scoreCardData?.revenuecagr | number: '1.1-1'}} </td>
+								<td>{{scoreCardData?.factorweight | number: '1.1-1'}}%</td>
 							</tr>
 
 							<tr style="border-collapse: separate">
 								<td class="left" style="vertical-align:middle">
 									<b>II) Historical Gross Margins</b> <span style="font-style:italic"> (Avg. of last 3 years)</span>
 								</td>
-								<td style="font-style:italic">{{scoreCardData1.avggrossmargin | number: '1.1-1'}}%</td>
-								<td [class.highlight]="isInSegment(1, scoreCardData.avggrossmargin)">0.0% - 10.0%
+								<td style="font-style:italic">{{scoreCardData1?.avggrossmargin | number: '1.1-1'}}%</td>
+								<td [class.highlight]="isInSegment(1, scoreCardData?.avggrossmargin)">0.0% - 10.0%
 								</td>
-								<td [class.highlight]="isInSegment(2, scoreCardData.avggrossmargin)">10.0% - 20.0%
+								<td [class.highlight]="isInSegment(2, scoreCardData?.avggrossmargin)">10.0% - 20.0%
 								</td>
-								<td [class.highlight]="isInSegment(3, scoreCardData.avggrossmargin)">20.0% - 30.0%
+								<td [class.highlight]="isInSegment(3, scoreCardData?.avggrossmargin)">20.0% - 30.0%
 								</td>
-								<td [class.highlight]="isInSegment(4, scoreCardData.avggrossmargin)"> 30.0% - 40.0%
+								<td [class.highlight]="isInSegment(4, scoreCardData?.avggrossmargin)"> 30.0% - 40.0%
 								</td>
-								<td [class.highlight]="isInSegment(5, scoreCardData.avggrossmargin)"> > 40.0%
+								<td [class.highlight]="isInSegment(5, scoreCardData?.avggrossmargin)"> > 40.0%
 								</td>
-								<td> {{scoreCardData.avggrossmargin | number: '1.1-1'}} </td>
-								<td>{{scoreCardData.factorweight | number: '1.1-1'}}%</td>
+								<td> {{scoreCardData?.avggrossmargin | number: '1.1-1'}} </td>
+								<td>{{scoreCardData?.factorweight | number: '1.1-1'}}%</td>
 							</tr>
 							<tr>
 
 								<td class="left" style="vertical-align:middle"> <b>III)  Historical EBITDA Margins</b> <span style="font-style:italic"> (Avg. of last
 									3 years)</span></td>
-								<td style="font-style:italic"> {{scoreCardData1.avgebitdamargin | number: '1.1-1'}}%</td>
-								<td [class.highlight]="isInSegment(1, scoreCardData.avgebitdamargin)">
+								<td style="font-style:italic"> {{scoreCardData1?.avgebitdamargin | number: '1.1-1'}}%</td>
+								<td [class.highlight]="isInSegment(1, scoreCardData?.avgebitdamargin)">
 									< 5.0% </td>
-								<td [class.highlight]="isInSegment(2, scoreCardData.avgebitdamargin)">5% - 10% </td>
-								<td [class.highlight]="isInSegment(3, scoreCardData.avgebitdamargin)"> 10% - 15%
+								<td [class.highlight]="isInSegment(2, scoreCardData?.avgebitdamargin)">5.0% - 10.0% </td>
+								<td [class.highlight]="isInSegment(3, scoreCardData?.avgebitdamargin)"> 10.0% - 15.0%
 								</td>
-								<td [class.highlight]="isInSegment(4, scoreCardData.avgebitdamargin)">15% - 20%
+								<td [class.highlight]="isInSegment(4, scoreCardData?.avgebitdamargin)">15.0% - 20.0%
 								</td>
-								<td [class.highlight]="isInSegment(5, scoreCardData.avgebitdamargin)"> > 20%
+								<td [class.highlight]="isInSegment(5, scoreCardData?.avgebitdamargin)"> > 20.0%
 								</td>
-								<td>{{scoreCardData.avgebitdamargin | number: '1.1-1'}} </td>
-								<td>{{scoreCardData.factorweight | number: '1.1-1'}}%</td>
+								<td>{{scoreCardData?.avgebitdamargin | number: '1.1-1'}} </td>
+								<td>{{scoreCardData?.factorweight | number: '1.1-1'}}%</td>
 							</tr>
 							<tr>
 
 								<td class="left" style="vertical-align:middle"><b> IV) Historical EBITDA CAGR</b> <span style="font-style:italic"> (Last 3 years)</span>
 								</td>
-								<td style="font-style:italic"> {{scoreCardData1.ebitdacagr | number: '1.1-1'}}%</td>
-								<td [class.highlight]="isInSegment(1, scoreCardData.ebitdacagr)">
+								<td style="font-style:italic"> {{scoreCardData1?.ebitdacagr | number: '1.1-1'}}%</td>
+								<td [class.highlight]="isInSegment(1, scoreCardData?.ebitdacagr)">
 									< 0.0% </td>
-								<td [class.highlight]="isInSegment(2, scoreCardData.ebitdacagr)">0.0% - 2.5%
+								<td [class.highlight]="isInSegment(2, scoreCardData?.ebitdacagr)">0.0% - 2.5%
 								</td>
-								<td [class.highlight]="isInSegment(3, scoreCardData.ebitdacagr)">2.5% - 5.0%
+								<td [class.highlight]="isInSegment(3, scoreCardData?.ebitdacagr)">2.5% - 5.0%
 								</td>
-								<td [class.highlight]="isInSegment(4, scoreCardData.ebitdacagr)">5.0 - 10.0%
+								<td [class.highlight]="isInSegment(4, scoreCardData?.ebitdacagr)">5.0 - 10.0%
 								</td>
-								<td [class.highlight]="isInSegment(5, scoreCardData.ebitdacagr)"> > 10.0
+								<td [class.highlight]="isInSegment(5, scoreCardData?.ebitdacagr)"> > 10.0
 								</td>
-								<td>{{scoreCardData.ebitdacagr | number: '1.1-1'}} </td>
-								<td>{{scoreCardData.factorweight | number: '1.1-1'}}%</td>
+								<td>{{scoreCardData?.ebitdacagr | number: '1.1-1'}} </td>
+								<td>{{scoreCardData?.factorweight | number: '1.1-1'}}%</td>
 							</tr>
 
 							<tr>
@@ -120,71 +120,71 @@
 								<td class="left" style="vertical-align:middle"> <b>V) Total Debt-to-EBITDA</b><span style="font-style:italic"> (Last historical
 									year)</span>
 								</td>
-								<td style="font-style:italic"> {{scoreCardData1.totaldebtebitda | number: '1.1-1'}}x</td>
-								<td [class.highlight]="isInSegment(1, scoreCardData.totaldebtebitda)">> 5.0x
+								<td style="font-style:italic"> {{scoreCardData1?.totaldebtebitda | number: '1.1-1'}}x</td>
+								<td [class.highlight]="isInSegment(1, scoreCardData?.totaldebtebitda)">> 5.0x
 								</td>
-								<td [class.highlight]="isInSegment(2, scoreCardData.totaldebtebitda)"> 4.0x - 5.0x
+								<td [class.highlight]="isInSegment(2, scoreCardData?.totaldebtebitda)"> 4.0x - 5.0x
 								</td>
-								<td [class.highlight]="isInSegment(3, scoreCardData.totaldebtebitda)"> 3.0x - 4.0x
+								<td [class.highlight]="isInSegment(3, scoreCardData?.totaldebtebitda)"> 3.0x - 4.0x
 								</td>
-								<td [class.highlight]="isInSegment(4, scoreCardData.totaldebtebitda)">2.0x - 3.0x
+								<td [class.highlight]="isInSegment(4, scoreCardData?.totaldebtebitda)">2.0x - 3.0x
 								</td>
-								<td [class.highlight]="isInSegment(5, scoreCardData.totaldebtebitda)">
+								<td [class.highlight]="isInSegment(5, scoreCardData?.totaldebtebitda)">
 									< 2.0x </td>
-								<td>{{scoreCardData.totaldebtebitda | number: '1.1-1'}} </td>
-								<td>{{scoreCardData.factorweight | number: '1.1-1'}}%</td>
+								<td>{{scoreCardData?.totaldebtebitda | number: '1.1-1'}} </td>
+								<td>{{scoreCardData?.factorweight | number: '1.1-1'}}%</td>
 							</tr>
 							<tr>
 
 								<td class="left" style="vertical-align:middle"><b>VI) Current Ratio</b> <span style="font-style:italic"> (Last historical year)</span>
 								</td>
-								<td style="font-style:italic"> {{scoreCardData1.currentratio | number: '1.1-1'}}x</td>
-								<td [class.highlight]="isInSegment(1, scoreCardData.currentratio)">
+								<td style="font-style:italic"> {{scoreCardData1?.currentratio | number: '1.1-1'}}x</td>
+								<td [class.highlight]="isInSegment(1, scoreCardData?.currentratio)">
 									< 0.5x</td>
-								<td [class.highlight]="isInSegment(2, scoreCardData.currentratio)">0.5x - 1.0x</td>
-								<td [class.highlight]="isInSegment(3, scoreCardData.currentratio)"> 1.0x - 1.5x
+								<td [class.highlight]="isInSegment(2, scoreCardData?.currentratio)">0.5x - 1.0x</td>
+								<td [class.highlight]="isInSegment(3, scoreCardData?.currentratio)"> 1.0x - 1.5x
 								</td>
-								<td [class.highlight]="isInSegment(4, scoreCardData.currentratio)">1.5x - 2.0x
+								<td [class.highlight]="isInSegment(4, scoreCardData?.currentratio)">1.5x - 2.0x
 								</td>
-								<td [class.highlight]="isInSegment(5, scoreCardData.currentratio)"> > 2.0x
+								<td [class.highlight]="isInSegment(5, scoreCardData?.currentratio)"> > 2.0x
 								</td>
-								<td>{{scoreCardData.currentratio | number: '1.1-1'}} </td>
-								<td>{{scoreCardData.factorweight | number: '1.1-1'}}%</td>
+								<td>{{scoreCardData?.currentratio | number: '1.1-1'}} </td>
+								<td>{{scoreCardData?.factorweight | number: '1.1-1'}}%</td>
 							</tr>
 							<tr>
 
 								<td class="left" style="vertical-align:middle"><b>VII) Capex as % of Revenue</b> <span style="font-style:italic"> (Avg. of last 2
 									years)</span></td>
-								<td style="font-style:italic">{{scoreCardData1.capexpercent | number: '1.1-1'}}%</td>
-								<td [class.highlight]="isInSegment(1, scoreCardData.capexpercent)"> > 20.0%
+								<td style="font-style:italic">{{scoreCardData1?.capexpercent | number: '1.1-1'}}%</td>
+								<td [class.highlight]="isInSegment(1, scoreCardData?.capexpercent)"> > 20.0%
 								</td>
-								<td [class.highlight]="isInSegment(2, scoreCardData.capexpercent)">15.0% - 20.0%
+								<td [class.highlight]="isInSegment(2, scoreCardData?.capexpercent)">15.0% - 20.0%
 								</td>
-								<td [class.highlight]="isInSegment(3, scoreCardData.capexpercent)">10.0% - 15.0%
+								<td [class.highlight]="isInSegment(3, scoreCardData?.capexpercent)">10.0% - 15.0%
 								</td>
-								<td [class.highlight]="isInSegment(4, scoreCardData.capexpercent)">5.0% - 10.0%
+								<td [class.highlight]="isInSegment(4, scoreCardData?.capexpercent)">5.0% - 10.0%
 								</td>
-								<td [class.highlight]="isInSegment(5, scoreCardData.capexpercent)">
+								<td [class.highlight]="isInSegment(5, scoreCardData?.capexpercent)">
 									< 5.0% </td>
-								<td>{{scoreCardData.capexpercent | number: '1.1-1'}} </td>
-								<td>{{scoreCardData.factorweight | number: '1.1-1'}}%</td>
+								<td>{{scoreCardData?.capexpercent | number: '1.1-1'}} </td>
+								<td>{{scoreCardData?.factorweight | number: '1.1-1'}}%</td>
 							</tr>
 
 							<tr>
 
 								<td class="left" style="vertical-align:middle"><b>VIII) Return on Assets </b> <span style="font-style:italic"> (Last historical year)</span>
 								</td>
-								<td style="font-style:italic"> {{scoreCardData1.returnassets | number: '1.1-1'}}%</td>
+								<td style="font-style:italic"> {{scoreCardData1?.returnassets | number: '1.1-1'}}%</td>
 
-								<td [class.highlight]="isInSegment(1, scoreCardData.returnassets)">
+								<td [class.highlight]="isInSegment(1, scoreCardData?.returnassets)">
 									< 2.0% </td>
-								<td [class.highlight]="isInSegment(2, scoreCardData.returnassets)">2.0% - 4.0% </td>
-								<td [class.highlight]="isInSegment(3, scoreCardData.returnassets)">4.0% - 6.0% </td>
-								<td [class.highlight]="isInSegment(4, scoreCardData.returnassets)"> 6.0% - 8.0% </td>
-								<td [class.highlight]="isInSegment(5, scoreCardData.returnassets)"> > 8.0%
+								<td [class.highlight]="isInSegment(2, scoreCardData?.returnassets)">2.0% - 4.0% </td>
+								<td [class.highlight]="isInSegment(3, scoreCardData?.returnassets)">4.0% - 6.0% </td>
+								<td [class.highlight]="isInSegment(4, scoreCardData?.returnassets)"> 6.0% - 8.0% </td>
+								<td [class.highlight]="isInSegment(5, scoreCardData?.returnassets)"> > 8.0%
 								</td>
-								<td> {{scoreCardData.returnassets | number: '1.1-1'}} </td>
-								<td> {{scoreCardData.factorweight | number: '1.1-1'}}% </td>
+								<td> {{scoreCardData?.returnassets | number: '1.1-1'}} </td>
+								<td> {{scoreCardData?.factorweight | number: '1.1-1'}}% </td>
 
 							</tr>
 
@@ -192,19 +192,19 @@
 
 								<td class="left" style="vertical-align:middle"><b> IX) Return on Equity</b> <span style="font-style:italic"> (Last historical year)</span>
 								</td>
-								<td style="font-style:italic">{{scoreCardData1.returnequity | number: '1.1-1'}}%</td>
-								<td [class.highlight]="isInSegment(1, scoreCardData.returnequity)">
+								<td style="font-style:italic">{{scoreCardData1?.returnequity | number: '1.1-1'}}%</td>
+								<td [class.highlight]="isInSegment(1, scoreCardData?.returnequity)">
 									< 5.0% </td>
-								<td [class.highlight]="isInSegment(2, scoreCardData.returnequity)">5.0% - 10.0%
+								<td [class.highlight]="isInSegment(2, scoreCardData?.returnequity)">5.0% - 10.0%
 								</td>
-								<td [class.highlight]="isInSegment(3, scoreCardData.returnequity)">10.0% - 15.0%
+								<td [class.highlight]="isInSegment(3, scoreCardData?.returnequity)">10.0% - 15.0%
 								</td>
-								<td [class.highlight]="isInSegment(4, scoreCardData.returnequity)"> 15.0% - 20.0%
+								<td [class.highlight]="isInSegment(4, scoreCardData?.returnequity)"> 15.0% - 20.0%
 								</td>
-								<td [class.highlight]="isInSegment(5, scoreCardData.returnequity)"> > 20.0%
+								<td [class.highlight]="isInSegment(5, scoreCardData?.returnequity)"> > 20.0%
 								</td>
-								<td> {{scoreCardData.returnequity | number: '1.1-1'}} </td>
-								<td> {{scoreCardData.factorweight | number: '1.1-1'}}% </td>
+								<td> {{scoreCardData?.returnequity | number: '1.1-1'}} </td>
+								<td> {{scoreCardData?.factorweight | number: '1.1-1'}}% </td>
 							</tr>
 
 
@@ -212,20 +212,20 @@
 
 								<td class="left" style="vertical-align:middle"><b> X) Solvency Ratio</b> <span style="font-style:italic"> (Avg. of last 2 years)</span>
 								</td>
-								<td style="font-style:italic">{{scoreCardData1.solvencyratio | number: '1.1-1'}}%</td>
+								<td style="font-style:italic">{{scoreCardData1?.solvencyratio | number: '1.1-1'}}%</td>
 
-								<td [class.highlight]="isInSegment(1, scoreCardData.solvencyratio)">
+								<td [class.highlight]="isInSegment(1, scoreCardData?.solvencyratio)">
 									< 5.0% </td>
-								<td [class.highlight]="isInSegment(2, scoreCardData.solvencyratio)">5.0% - 10.0%
+								<td [class.highlight]="isInSegment(2, scoreCardData?.solvencyratio)">5.0% - 10.0%
 								</td>
-								<td [class.highlight]="isInSegment(3, scoreCardData.solvencyratio)">10.0% - 15.0%
+								<td [class.highlight]="isInSegment(3, scoreCardData?.solvencyratio)">10.0% - 15.0%
 								</td>
-								<td [class.highlight]="isInSegment(4, scoreCardData.solvencyratio)"> 15.0% - 20.0%
+								<td [class.highlight]="isInSegment(4, scoreCardData?.solvencyratio)"> 15.0% - 20.0%
 								</td>
-								<td [class.highlight]="isInSegment(5, scoreCardData.solvencyratio)"> > 20.0%
+								<td [class.highlight]="isInSegment(5, scoreCardData?.solvencyratio)"> > 20.0%
 								</td>
-								<td> {{scoreCardData.solvencyratio | number: '1.1-1'}} </td>
-								<td> {{scoreCardData.factorweight | number: '1.1-1'}}% </td>
+								<td> {{scoreCardData?.solvencyratio | number: '1.1-1'}} </td>
+								<td> {{scoreCardData?.factorweight | number: '1.1-1'}}% </td>
 							</tr>
 							<tr style="border:3px dashed black;background:light-blue">
 
@@ -238,7 +238,7 @@
 								<td class=" border-top-bottom" ></td>
 								<td class=" border-top-bottom" ></td>
 								<td class=" border-top-bottom" style="font-weight:bold;"> {{sumProduct | number: '1.1-1'}} </td>
-								<td class=" border-right-top-bottom"style="font-weight:bold;"> {{scoreCardData.factorweight*10 | number: '1.1-1'}}% </td>
+								<td class=" border-right-top-bottom"style="font-weight:bold;"> {{scoreCardData?.factorweight*10 | number: '1.1-1'}}% </td>
 							</tr>
 							
 							

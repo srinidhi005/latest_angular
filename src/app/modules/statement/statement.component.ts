@@ -132,7 +132,7 @@ export class StatementComponent implements OnInit {
           action: null,
         }));
         this.dataset = data;
-        for (let index = 0; index <= data.length; index++) {
+        for (let index = 0; index < data.length; index++) {
           var pushData = {
             position: index + 1,
             name: data[index].companyname,

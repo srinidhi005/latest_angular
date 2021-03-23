@@ -8,9 +8,9 @@
 </div>
 <div fxLayout="row" class="header" style="margin-bottom: 10px">
   <div fxLayout="row" fxLayoutAlign="start center">
-    <span style="font-weight:bold;font-size: 22px">{{ companySelected }} - {{loadedScenario}}  </span>
-    <div class="actuals" style="margin-left: 40px;"></div> <div class="labels" style="margin-right: 40px;font-size: 22px">Historical</div>
-    <div class="projections"></div> <div class="labels" style="margin-right: 10px;font-size: 22px">Projection</div>
+    <span style="font-weight:bold;font-size: 18px">{{ companySelected }} - {{loadedScenario}}  </span>
+    <div class="actuals" style="margin-left: 40px;"></div> <div class="labels" style="margin-right: 40px;font-size: 18px">Historical</div>
+    <div class="projections"></div> <div class="labels" style="margin-right: 10px;font-size: 18px">Projection</div>
   </div>
   <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px">
     <button mat-button (click)="addScenario()" [disabled]="inprogress" matTooltip="Add Scenario"
@@ -22,34 +22,34 @@
       <mat-icon style="font-size: 26px">save</mat-icon>
     </button>
 
-    <button mat-button [matMenuTriggerFor]="belowMenu" style="font-size: 22px">{{ loadedScenario }}<mat-icon matSuffix>keyboard_arrow_down
+    <button mat-button [matMenuTriggerFor]="belowMenu" style="font-size: 18px">{{ loadedScenario }}<mat-icon matSuffix>keyboard_arrow_down
       </mat-icon>
     </button>
     <mat-menu #belowMenu="matMenu" yPosition="below">
       <button mat-menu-item *ngFor="let index of scenarioArray; let indexOfelement=index;">
-        <span (click)="loadScenario(indexOfelement)" style="font-size: 22px">Scenario {{index}}</span>
+        <span (click)="loadScenario(indexOfelement)" style="font-size: 18px">Scenario {{index}}</span>
       </button>
     </mat-menu>
 
-    <button mat-button [matMenuTriggerFor]="afterMenu" style="font-size: 22px">Financial Statements <mat-icon matSuffix>keyboard_arrow_down</mat-icon>
+    <button mat-button [matMenuTriggerFor]="afterMenu" style="font-size: 18px">Financial Statements <mat-icon matSuffix>keyboard_arrow_down</mat-icon>
     </button>
 
     <mat-menu #afterMenu="matMenu" xPosition="after">
-      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/IncomeStatementMetrics' style="font-size: 22px">Income
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/IncomeStatementMetrics' style="font-size: 18px">Income
         Statement</button>
-      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/BalanceSheetMetrics' style="font-size: 22px">Balance Sheet</button>
-      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/cashmetrics' style="font-size: 22px">Cash Flow Statement</button>
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/BalanceSheetMetrics' style="font-size: 18px">Balance Sheet</button>
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/cashmetrics' style="font-size: 18px">Cash Flow Statement</button>
     </mat-menu>
 	<button mat-button
-      [matMenuTriggerFor]="tabMenus" style="padding: 0; margin: 0px;font-size: 22px">Visuals
+      [matMenuTriggerFor]="tabMenus" style="padding: 0; margin: 0px;font-size: 18px">Visuals
       <mat-icon matSuffix>
         keyboard_arrow_down</mat-icon>
     </button>
     <mat-menu #tabMenus="matMenu" xPosition="after">
-      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsIS' style="font-size: 22px">Income
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsIS' style="font-size: 18px">Income
         Statement</button>
-      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsBS' style="font-size: 22px">Balance Sheet</button>
-      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsCF' style="font-size: 22px">Cash Flow Statement</button>
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsBS' style="font-size: 18px">Balance Sheet</button>
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsCF' style="font-size: 18px">Cash Flow Statement</button>
     </mat-menu>
 
 
@@ -58,37 +58,37 @@
 
 <mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
 <div class="content" fxLayout="row wrap" fxLayoutGap="16px grid">
-  <div fxFlex.xs="100%" fxFlex="33.3%" fxFlex.sm="33.3%">
+  <div fxFlex.xs="100%" fxFlex="33.3%" fxFlex.sm="33.3%" *ngIf="RGOptions">
     <mat-card class="mat-elevation-z4">
       <highcharts-chart [Highcharts]="Highcharts" [options]="RGOptions" [(update)]="updateRGBOption"></highcharts-chart>
     </mat-card>
   </div>
 
-  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
+  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%" *ngIf="COGSOptions">
     <mat-card class="mat-elevation-z4">
       <highcharts-chart [Highcharts]="Highcharts" [options]="COGSOptions" [(update)]="updateCogsOptions">
       </highcharts-chart>
     </mat-card>
   </div>
 
-  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
+  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%" *ngIf="SGAOptions">
     <mat-card class="mat-elevation-z4">
       <highcharts-chart [Highcharts]="Highcharts" [options]="SGAOptions" [(update)]="updateSGAOptions">
       </highcharts-chart>
     </mat-card>
   </div>
-  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
+  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%" *ngIf="DAOptions">
     <mat-card class="mat-elevation-z4">
       <highcharts-chart [Highcharts]="Highcharts" [options]="DAOptions" [(update)]="updateDAOptions"></highcharts-chart>
     </mat-card>
   </div>
-  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
+  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%" *ngIf="OIEOptions">
     <mat-card class="mat-elevation-z4">
       <highcharts-chart [Highcharts]="Highcharts" [options]="OIEOptions" [(update)]="updateIEOOptions">
       </highcharts-chart>
     </mat-card>
   </div>
-  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
+  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%" *ngIf="NIEOptions">
     <mat-card class="mat-elevation-z4">
       <highcharts-chart [Highcharts]="Highcharts" [options]="NIEOptions" [(update)]="updateNIEOptions">
       </highcharts-chart>
@@ -100,34 +100,34 @@
 </div>
 <p class="projections-title" style="font-size: 16px; font-weight: bold; margin-top:-10px;">Annual Projections</p>
 <div class="content" fxLayout="row wrap" fxLayoutGap="16px grid">
-  <div fxFlex.xs="100%" fxFlex="33.3%" fxFlex.sm="33.3%">
-    <mat-card class="mat-elevation-z4">
+  <div fxFlex.xs="100%" fxFlex="33.3%" fxFlex.sm="33.3%" *ngIf="PTROptions">
+    <mat-card class="mat-elevation-z4" >
       <highcharts-chart [Highcharts]="Highcharts" [options]="PTROptions"></highcharts-chart>
     </mat-card>
   </div>
 
-  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
+  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%" *ngIf="PGPOptions">
     <mat-card class="mat-elevation-z4">
       <highcharts-chart [Highcharts]="Highcharts" [options]="PGPOptions"></highcharts-chart>
     </mat-card>
   </div>
 
-  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
+  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%" *ngIf="PEBITOptions">
     <mat-card class="mat-elevation-z4">
       <highcharts-chart [Highcharts]="Highcharts" [options]="PEBITOptions"></highcharts-chart>
     </mat-card>
   </div>
-  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
+  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%" *ngIf="PEBITDAOptions">
     <mat-card class="mat-elevation-z4">
       <highcharts-chart [Highcharts]="Highcharts" [options]="PEBITDAOptions"></highcharts-chart>
     </mat-card>
   </div>
-  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
+  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%" *ngIf="PEBTOptions">
     <mat-card class="mat-elevation-z4">
       <highcharts-chart [Highcharts]="Highcharts" [options]="PEBTOptions"></highcharts-chart>
     </mat-card>
   </div>
-  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
+  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%" *ngIf="PNIOptions">
     <mat-card class="mat-elevation-z4">
       <highcharts-chart [Highcharts]="Highcharts" [options]="PNIOptions"></highcharts-chart>
     </mat-card>

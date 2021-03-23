@@ -88,7 +88,7 @@ export class ComparatorComponent implements OnInit {
       const scenarios : any = await this.apiService.getData(this.urlConfig.getScenarioAPI()+srcObj.companyname).toPromise();
       loadedCompScenarios = scenarios.scenarios;
     } catch (error) {
-      console.log("failed to fetch Scenarios for Comp One", error)
+      
     }
     this.progressBar = true;
     let selectedComp;
@@ -159,7 +159,7 @@ export class ComparatorComponent implements OnInit {
 
       console.log(bmActuals)
     } catch (error) {
-      console.log("failed to fetch Benchmarking Actuals", error)
+      
     }
 
     try {
@@ -179,7 +179,7 @@ export class ComparatorComponent implements OnInit {
     
       console.log(bmProjections)
     } catch (error) {
-      console.log("failed to fetch Benchmarking Projections", error)
+      
     }
 
     this.progressBar = false;
@@ -197,7 +197,7 @@ export class ComparatorComponent implements OnInit {
         return {companyname: comp.companyname, company: comp.company};
       })
     } catch (error) {
-      console.log("Failed to fetch Statements data", error);
+      
     }
 
     // this.selectedCompany = localStorage.getItem('companySelected');
@@ -215,28 +215,28 @@ export class ComparatorComponent implements OnInit {
       const scenariosOne : any = await this.apiService.getData(this.urlConfig.getScenarioAPI()+this.selectedCompanyOne.companyname).toPromise();
       this.scenariosForCompanyOne = scenariosOne.scenarios;
     } catch (error) {
-      console.log("failed to fetch Scenarios for Comp One", error)
+     
     }
 
     try {
       const scenariosTwo : any = await this.apiService.getData(this.urlConfig.getScenarioAPI()+this.selectedCompanyTwo.companyname).toPromise();
       this.scenariosForCompanyTwo = scenariosTwo.scenarios;
     } catch (error) {
-      console.log("failed to fetch Scenarios for Comp Two", error)
+      
     }
 
     try {
       const scenariosThree : any = await this.apiService.getData(this.urlConfig.getScenarioAPI()+this.selectedCompanyThree.companyname).toPromise();
       this.scenariosForCompanyThree = scenariosThree.scenarios;
     } catch (error) {
-      console.log("failed to fetch Scenarios for Comp Three", error)
+     
     }
 	
 	try {
       const scenariosFour : any = await this.apiService.getData(this.urlConfig.getScenarioAPI()+this.selectedCompanyFour.companyname).toPromise();
       this.scenariosForCompanyFour = scenariosFour.scenarios;
     } catch (error) {
-      console.log("failed to fetch Scenarios for Comp Four", error)
+     
     }
 
 
@@ -244,28 +244,28 @@ export class ComparatorComponent implements OnInit {
       const bmActualsOne =  await this.apiService.getData(this.urlConfig.getBenchmarkingActualsAPI() + this.selectedCompanyOne.companyname).toPromise();
       this.benchmarkingActualsOne = bmActualsOne[0];
     } catch (error) {
-      console.log("failed to fetch Scenarios for Comp One", error)
+     
     }
 
     try {
       const bmProjectedOne = await this.apiService.getData(this.urlConfig.getBenchmarkingProjectionsAPI() + this.selectedCompanyOne.companyname+ "&scenario=" + this.selectedSenarioForCompOne).toPromise();
       this.benchmarkingProjectionsOne = bmProjectedOne[0];
     } catch (error) {
-      console.log("failed to fetch Benchmarking Projections for Comp One", error)
+      
     }
 
     try {
       const bmActualsTwo = await this.apiService.getData(this.urlConfig.getBenchmarkingActualsAPI() + this.selectedCompanyTwo.companyname).toPromise();
       this.benchmarkingActualsTwo = bmActualsTwo[0];
     } catch (error) {
-      console.log("failed to fetch Benchmarking Actuals for Comp Two", error)
+      
     }
 
     try {
       const bmProjectedTwo = await this.apiService.getData(this.urlConfig.getBenchmarkingProjectionsAPI() + this.selectedCompanyTwo.companyname + "&scenario=" + this.selectedSenarioForCompTwo).toPromise();
       this.benchmarkingProjectionsTwo = bmProjectedTwo[0];
     } catch (error) {
-      console.log("failed to fetch Benchmarking Projections for Comp Two", error)
+      
     }
 
 
@@ -273,21 +273,21 @@ export class ComparatorComponent implements OnInit {
       const bmActualsThree = await this.apiService.getData(this.urlConfig.getBenchmarkingActualsAPI() + this.selectedCompanyThree.companyname).toPromise();
       this.benchmarkingActualsThree = bmActualsThree[0];
     } catch (error) {
-      console.log("failed to fetch Benchmarking Actuals for Comp Three", error)
+      
     }
 
     try {
       const bmProjectedThree = await this.apiService.getData(this.urlConfig.getBenchmarkingProjectionsAPI() + this.selectedCompanyThree.companyname + "&scenario=" + this.selectedSenarioForCompThree).toPromise();
       this.benchmarkingProjectionsThree = bmProjectedThree[0];
     } catch (error) {
-      console.log("failed to fetch Benchmarking Projections for Comp Three", error)
+      
     }
 	
 	try {
       const bmActualsFour = await this.apiService.getData(this.urlConfig.getBenchmarkingActualsAPI() + this.selectedCompanyFour.companyname).toPromise();
       this.benchmarkingActualsFour = bmActualsFour[0];
     } catch (error) {
-      console.log("failed to fetch Benchmarking Actuals for Comp Four", error)
+      
     }
 	
 	
@@ -295,7 +295,7 @@ export class ComparatorComponent implements OnInit {
       const bmProjectedFour = await this.apiService.getData(this.urlConfig.getBenchmarkingProjectionsAPI() + this.selectedCompanyFour.companyname + "&scenario=" + this.selectedSenarioForCompFour).toPromise();
       this.benchmarkingProjectionsFour = bmProjectedFour[0];
     } catch (error) {
-      console.log("failed to fetch Benchmarking Projections for Comp Four", error)
+     
     }
 	
 	

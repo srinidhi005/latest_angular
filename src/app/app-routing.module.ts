@@ -27,6 +27,7 @@ import { CompanyDetailsComponent } from 'src/app/modules/company-details/company
 import { CreditScorecardComponent } from 'src/app/modules/credit-scorecard/credit-scorecard.component';
 import { ComparatorComponent } from 'src/app/modules/comparator/comparator.component';
 import { SubscriptionComponent } from './modules/subscription/subscription.component';
+import { ReportBuilderComponent } from 'src/app/modules/report-builder/report-builder.component';
 const routes: Routes = [
   {
     path: '',
@@ -106,6 +107,11 @@ const routes: Routes = [
         path: 'KPIIncomeStatement',
         component: KpiIsComponent,
        canActivate: [AuthGuard],
+      },
+		  	   {
+        path: 'report',
+        component: ReportBuilderComponent,
+        canActivate: [AuthGuard],
       },
       {
         path: 'KPIBalanceSheet',

@@ -1,0 +1,121 @@
+[annotation_spec_id: "3179227976109654016"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9621808528900146
+  text_segment {
+    start_offset: 194
+    end_offset: 210
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "296924214592536576"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.22958937287330627
+  text_segment {
+    start_offset: 460
+    end_offset: 485
+    content: "TOTAL CURRENT LIABILITIES"
+  }
+}
+, annotation_spec_id: "296924214592536576"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.4164455533027649
+  text_segment {
+    start_offset: 763
+    end_offset: 780
+    content: "TOTAL LIABILITIES"
+  }
+}
+, annotation_spec_id: "8943835499143888896"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.30030274391174316
+  text_segment {
+    start_offset: 1631
+    end_offset: 1643
+    content: "TOTAL CLIFFS"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.6290100812911987
+  text_segment {
+    start_offset: 1722
+    end_offset: 1735
+    content: "TOTAL DEFICIT"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.8771458268165588
+  text_segment {
+    start_offset: 1756
+    end_offset: 1785
+    content: "TOTAL LIABILITIES AND DEFICIT"
+  }
+}
+, annotation_spec_id: "1305730531123527680"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.33699458837509155
+  text_segment {
+    start_offset: 1931
+    end_offset: 1954
+    content: "Consolidated Operations"
+  }
+}
+, annotation_spec_id: "4764495044944068608"
+display_name: "SGA"
+text_extraction {
+  score: 0.9808580875396729
+  text_segment {
+    start_offset: 2388
+    end_offset: 2432
+    content: "Selling, general and administrative expenses"
+  }
+}
+, annotation_spec_id: "5340955797247492096"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.953473687171936
+  text_segment {
+    start_offset: 2640
+    end_offset: 2656
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "873384966895960064"
+display_name: "DandA"
+text_extraction {
+  score: 0.7570549845695496
+  text_segment {
+    start_offset: 5532
+    end_offset: 5572
+    content: "Depreciation, depletion and amortization"
+  }
+}
+, annotation_spec_id: "8655605122992177152"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.7258739471435547
+  text_segment {
+    start_offset: 6443
+    end_offset: 6471
+    content: "Proceeds (uses) from sale of"
+  }
+}
+, annotation_spec_id: "5485070985323347968"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.9024790525436401
+  text_segment {
+    start_offset: 6555
+    end_offset: 6592
+    content: "Net cash used in investing activities"
+  }
+}
+]

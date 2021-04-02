@@ -1,0 +1,171 @@
+
+Page#1
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+Item 8. Financial Statements and Supplementary Data
+CONSOLIDATED INCOME STATEMENTS
+(In millions, except per share amounts)
+ Years Ended December 31,
+ 2018 2017 2016
+Net sales and revenue 
+Automotive $ 133,045 $ 133,449 $ 140,205
+GM Financial 14,004 12,139 8,979
+Total net sales and revenue (Note 3) 147,049 145,588 149,184
+Costs and expenses  
+Automotive and other cost of sales 120,656 116,229 121,784
+GM Financial interest, operating and other expenses 12,298 11,128 8,369
+Automotive and other selling, general and administrative expense 9,650 9,570 10,345
+Total costs and expenses 142,604 136,927 140,498
+Operating income 4,445 8,661 8,686
+Automotive interest expense 655 575 563
+Interest income and other non-operating income, net (Note 19) 2,596 1,645 1,603
+Equity income (Note 8) 2,163 2,132 2,282
+Income before income taxes 8,549 11,863 12,008
+Income tax expense (Note 17) 474 11,533 2,739
+Income from continuing operations 8,075 330 9,269
+Loss from discontinued operations, net of tax (Note 22) 70 4,212 1
+Net income (loss) 8,005 (3,882) 9,268
+Net loss attributable to noncontrolling interests 9 18 159
+Net income (loss) attributable to stockholders $ 8,014 $ (3,864) $ 9,427
+ 
+Net income (loss) attributable to common stockholders $ 7,916  $ (3,880)  $ 9,427
+ 
+Earnings per share (Note 21) 
+Basic earnings per common share – continuing operations $ 5.66 $ 0.23 $ 6.12
+Basic loss per common share – discontinued operations $ 0.05 $ 2.88 $ —
+Basic earnings (loss) per common share $ 5.61 $ (2.65) $ 6.12
+Weighted-average common shares outstanding – basic 1,411  1,465  1,540
+ 
+Diluted earnings per common share – continuing operations $ 5.58 $ 0.22 $ 6.00
+Diluted loss per common share – discontinued operations $ 0.05 $ 2.82 $ —
+Diluted earnings (loss) per common share $ 5.53 $ (2.60) $ 6.00
+Weighted-average common shares outstanding – diluted 1,431  1,492  1,570
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(In millions)
+ Years Ended December 31,
+ 2018 2017 2016
+Net income (loss) $ 8,005 $ (3,882)  $ 9,268
+Other comprehensive income (loss), net of tax (Note 20) 
+Foreign currency translation adjustments and other (715) 747  (384)
+Defined benefit plans (221) 570  (969)
+Other comprehensive income (loss), net of tax 
+(936) 1,317 (1,353)
+Comprehensive income (loss) 7,069 (2,565)  7,915
+Comprehensive loss attributable to noncontrolling interests 15 20  218
+Comprehensive income (loss) attributable to stockholders $ 7,084 $ (2,545)  $ 8,133
+Reference should be made to the notes to consolidated financial statements.
+47
+Page#2
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(In millions, except per share amounts)
+ December 31, 2018  December 31, 2017
+ASSETS 
+Current Assets 
+Cash and cash equivalents $ 20,844  $ 15,512
+Marketable securities (Note 4) 5,966  8,313
+Accounts and notes receivable (net of allowance of $211 and $278) 6,549  8,164
+GM Financial receivables, net (Note 5; Note 11 at VIEs) 26,850  20,521
+Inventories (Note 6) 9,816  10,663
+Equipment on operating leases, net (Note 7) 247  1,106
+Other current assets (Note 4; Note 11 at VIEs) 5,021  4,465
+Total current assets 75,293  68,744
+Non-current Assets 
+GM Financial receivables, net (Note 5; Note 11 at VIEs) 25,083  21,208
+Equity in net assets of nonconsolidated affiliates (Note 8) 9,215  9,073
+Property, net (Note 9) 38,758  36,253
+Goodwill and intangible assets, net (Note 10) 5,579  5,849
+Equipment on operating leases, net (Note 7; Note 11 at VIEs) 43,559  42,882
+Deferred income taxes (Note 17) 24,082  23,544
+Other assets (Note 4; Note 11 at VIEs) 5,770  4,929
+Total non-current assets 152,046  143,738
+Total Assets $ 227,339  $ 212,482
+LIABILITIES AND EQUITY
+ 
+Current Liabilities 
+Accounts payable (principally trade) $ 22,297  $ 23,929
+Short-term debt and current portion of long-term debt (Note 13) 
+Automotive 935  2,515
+GM Financial (Note 11 at VIEs) 30,956  24,450
+Accrued liabilities (Note 12) 28,049  25,996
+Total current liabilities 82,237  76,890
+Non-current Liabilities 
+Long-term debt (Note 13) 
+Automotive 13,028  10,987
+GM Financial (Note 11 at VIEs) 60,032  56,267
+Postretirement benefits other than pensions (Note 15) 5,370  5,998
+Pensions (Note 15) 11,538  13,746
+Other liabilities (Note 12) 12,357  12,394
+Total non-current liabilities 102,325  99,392
+Total Liabilities 184,562  176,282
+Commitments and contingencies (Note 16) 
+Equity (Note 20) 
+Common stock, $0.01 par value 14  14
+Additional paid-in capital 25,563  25,371
+Retained earnings 
+22,322 17,627
+Accumulated other comprehensive loss (9,039)  (8,011)
+Total stockholders’ equity 38,860  35,001
+Noncontrolling interests 3,917  1,199
+Total Equity 42,777  36,200
+Total Liabilities and Equity $ 227,339  $ 212,482
+Page#3
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+ Years Ended December 31,
+2018 2017 2016
+Cash flows from operating activities 
+Income from continuing operations $ 8,075 $ 330 $ 9,269
+Depreciation and impairment of Equipment on operating leases, net 7,604 6,805 4,804
+Depreciation, amortization and impairment charges on Property, net 6,065 5,456 5,015
+Foreign currency remeasurement and transaction losses 168 52 229
+Undistributed earnings of nonconsolidated affiliates, net (141) (132) (15)
+Pension contributions and OPEB payments (2,069) (1,636) (3,454)
+Pension and OPEB income, net (1,280) (934) (769)
+Provision (benefit) for deferred taxes (112) 10,880 2,228
+Change in other operating assets and liabilities (Note 26) (1,376)  (3,015)  580
+Other operating activities (1,678)  (468)  (894)
+Net cash provided by operating activities – continuing operations 15,256 17,338 16,993
+Net cash used in operating activities – discontinued operations — (10) (386)
+Net cash provided by operating activities 15,256 17,328 16,607
+Cash flows from investing activities 
+Expenditures for property (8,761) (8,453) (8,384)
+Available-for-sale marketable securities, acquisitions (2,820) (5,503) (15,182)
+Trading marketable securities, acquisitions — — (262)
+Available-for-sale marketable securities, liquidations 5,108 9,007 10,871
+Trading marketable securities, liquidations — — 872
+Acquisition of companies/investments, net of cash acquired (83) (41) (804)
+Purchases of finance receivables, net (25,671) (19,325) (14,378)
+Principal collections and recoveries on finance receivables 17,048 12,578 9,899
+Purchases of leased vehicles, net (16,736) (19,180) (19,495)
+Proceeds from termination of leased vehicles 10,864 6,667 2,554
+Other investing activities 122 178 162
+Net cash used in investing activities – continuing operations (20,929) (24,072) (34,147)
+Net cash provided by (used in) investing activities – discontinued operations (Note 22) 166 (3,500) (1,496)
+Net cash used in investing activities (20,763) (27,572) (35,643)
+Cash flows from financing activities 
+Net increase (decrease) in short-term debt 1,186 (140) (282)
+Proceeds from issuance of debt (original maturities greater than three months) 43,801 52,187 42,036
+Payments on debt (original maturities greater than three months) (33,323) (33,592) (20,727)
+Payments to purchase common stock (190) (4,492) (2,500)
+Proceeds from issuance of subsidiary preferred and common stock (Note 20) 2,862 985 —
+Dividends paid (2,242) (2,233) (2,368)
+Other financing activities (640) (305) (163)
+Net cash provided by financing activities – continuing operations 11,454 12,410 15,996
+Net cash provided by financing activities – discontinued operations — 174 1,081
+Net cash provided by financing activities 11,454 12,584 17,077
+Effect of exchange rate changes on cash, cash equivalents and restricted cash (299) 348 (213)
+Net increase (decrease) in cash, cash equivalents and restricted cash 5,648 2,688 (2,172)
+Cash, cash equivalents and restricted cash at beginning of period 17,848 15,160 17,332
+Cash, cash equivalents and restricted cash at end of period $ 23,496 $ 17,848 $ 15,160
+ 
+Cash, cash equivalents and restricted cash – continuing operations at end of period (Note 4) $ 23,496 $ 17,848 $ 14,487
+Cash, cash equivalents and restricted cash – discontinued operations at end of period $ — $ — $ 673
+Significant Non-cash Investing and Financing Activity
+Non-cash property additions – continuing operations $ 3,813 $ 3,996 $ 3,897
+Non-cash property additions – discontinued operations $ — $ — $ 868
+Non-cash business acquisition – continuing operations $ — $ — $ 290
+Non-cash proceeds on sale of discontinued operations (Note 22) $ — $ 808 $ —

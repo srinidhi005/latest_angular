@@ -1,0 +1,101 @@
+[annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9835034012794495
+  text_segment {
+    start_offset: 310
+    end_offset: 335
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "3611573540337221632"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.4525441527366638
+  text_segment {
+    start_offset: 367
+    end_offset: 394
+    content: "Trade and other receivables"
+  }
+}
+, annotation_spec_id: "3467458352261365760"
+display_name: "Inventories"
+text_extraction {
+  score: 0.846794068813324
+  text_segment {
+    start_offset: 546
+    end_offset: 557
+    content: "Inventories"
+  }
+}
+, annotation_spec_id: "2890997599957942272"
+display_name: "PPE"
+text_extraction {
+  score: 0.9504948258399963
+  text_segment {
+    start_offset: 685
+    end_offset: 714
+    content: "Property, plant and equipment"
+  }
+}
+, annotation_spec_id: "4043919104564789248"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9358562231063843
+  text_segment {
+    start_offset: 725
+    end_offset: 737
+    content: "Total assets"
+  }
+}
+, annotation_spec_id: "3179227976109654016"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9542003273963928
+  text_segment {
+    start_offset: 904
+    end_offset: 920
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "296924214592536576"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.6574177742004395
+  text_segment {
+    start_offset: 1363
+    end_offset: 1380
+    content: "Total liabilities"
+  }
+}
+, annotation_spec_id: "8943835499143888896"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9230363368988037
+  text_segment {
+    start_offset: 1642
+    end_offset: 1654
+    content: "Total equity"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.9810422658920288
+  text_segment {
+    start_offset: 1655
+    end_offset: 1683
+    content: "Total liabilities and equity"
+  }
+}
+, annotation_spec_id: "5485070985323347968"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.6584323048591614
+  text_segment {
+    start_offset: 6939
+    end_offset: 6990
+    content: "Net cash provided by (used in) investing activities"
+  }
+}
+]

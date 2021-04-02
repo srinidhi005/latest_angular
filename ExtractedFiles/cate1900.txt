@@ -1,0 +1,149 @@
+
+Page#1
+STATEMENT 1 Caterpillar Inc.
+Consolidated Results of Operations for the Years Ended December 31
+(Dollars in millions except per share data)
+2019 2018 2017
+Sales and revenues:
+Sales of Machinery, Energy & Transportation $ 50,755 $ 51,822 $ 42,676
+Revenues of Financial Products 3,045 2,900 2,786
+Total sales and revenues 53,800 54,722 45,462
+Operating costs:
+Cost of goods sold 36,630 36,997 31,260
+Selling, general and administrative expenses 5,162 5,478 4,999
+Research and development expenses 1,693 1,850 1,842
+Interest expense of Financial Products 754 722 646
+Other operating (income) expenses 1,271 1,382 2,255
+Total operating costs 45,510 46,429 41,002
+Operating profit 8,290 8,293 4,460
+Interest expense excluding Financial Products 421 404 531
+Other income (expense) (57) (67) 153
+Consolidated profit before taxes 7,812 7,822 4,082
+Provision (benefit) for income taxes 1,746 1,698 3,339
+Profit of consolidated companies 6,066 6,124 743
+Equity in profit (loss) of unconsolidated affiliated companies 28 24 16
+Profit of consolidated and affiliated companies 6,094 6,148 759
+Less: Profit (loss) attributable to noncontrolling interests 1 1 5
+Profit 1 $ 6,093 $ 6,147 $ 754
+Profit per common share $ 10.85 $ 10.39 $ 1.27
+Profit per common share — diluted 2 $ 10.74 $ 10.26 $ 1.26
+Weighted-average common shares outstanding (millions)
+- Basic 561.6 591.4 591.8
+- Diluted 2 567.5 599.4 599.3
+1 Profit attributable to common shareholders.
+2 Diluted by assumed exercise of stock-based compensation awards, using the treasury stock method.
+See accompanying notes to Consolidated Financial Statements.
+52
+2019 FORM 10-K
+Page#2
+STATEMENT 3 Caterpillar Inc.
+Consolidated Financial Position at December 31
+(Dollars in millions)
+2019 2018
+Assets
+Current assets:
+Cash and short-term investments $ 8,284 $ 7,857
+Receivables – trade and other 8,568 8,802
+Receivables – finance 9,336 8,650
+Prepaid expenses and other current assets 1,739 1,765
+Inventories 11,266 11,529
+Total current assets 39,193 38,603
+Property, plant and equipment – net 12,904 13,574
+Long-term receivables – trade and other 1,193 1,161
+Long-term receivables – finance 12,651 13,286
+Noncurrent deferred and refundable income taxes 1,411 1,439
+Intangible assets 1,565 1,897
+Goodwill 6,196 6,217
+Other assets 3,340 2,332
+Total assets $ 78,453 $ 78,509
+Liabilities
+Current liabilities:
+Short-term borrowings:
+Machinery, Energy & Transportation $ 5 $ —
+Financial Products 5,161 5,723
+Accounts payable 5,957 7,051
+Accrued expenses 3,750 3,573
+Accrued wages, salaries and employee benefits 1,629 2,384
+Customer advances 1,187 1,243
+Dividends payable 567 495
+Other current liabilities 2,155 1,919
+Long-term debt due within one year:
+Machinery, Energy & Transportation 16 10
+Financial Products 6,194 5,820
+Total current liabilities 26,621 28,218
+Long-term debt due after one year:
+Machinery, Energy & Transportation 9,141 8,005
+Financial Products 17,140 16,995
+Liability for postemployment benefits 6,599 7,455
+Other liabilities 4,323 3,756
+Total liabilities 63,824 64,429
+Commitments and contingencies (Notes 21 and 22)
+Shareholders’ equity
+Common stock of $1.00 par value:
+Authorized shares: 2,000,000,000 
+Issued shares: (2019 and 2018 – 814,894,624 shares) at paid-in amount 5,935 5,827
+Treasury stock: (2019 - 264,812,014 shares; and 2018 – 239,351,886 shares) at cost (24,217) (20,531)
+Profit employed in the business 34,437 30,427
+Accumulated other comprehensive income (loss) (1,567) (1,684)
+Noncontrolling interests 41 41
+Total shareholders’ equity 14,629 14,080
+Total liabilities and shareholders’ equity $ 78,453 $ 78,509
+See accompanying notes to Consolidated Financial Statements.
+54
+2019 FORM 10-K
+Page#3
+STATEMENT 5 Caterpillar Inc.
+Consolidated Statement of Cash Flow for the Years Ended December 31
+(Millions of dollars) 2019 2018 2017
+Cash flow from operating activities:
+Profit (loss) of consolidated and affiliated companies $ 6,094 $ 6,148 $ 759
+Adjustments for non-cash items:
+Depreciation and amortization 2,577 2,766 2,877
+Actuarial (gain) loss on pension and postretirement benefits 468 495 301
+Provision (benefit) for deferred income taxes 28 220 1,213
+Other 675 1,006 750
+Changes in assets and liabilities, net of acquisitions and divestitures:
+Receivables – trade and other 171 (1,619) (1,151)
+Inventories 274 (1,579) (1,295)
+Accounts payable (1,025) 709 1,478
+Accrued expenses 172 101 175
+Accrued wages, salaries and employee benefits (757) (162) 1,187
+Customer advances (10) (183) (8)
+Other assets – net (93) 41 (192)
+Other liabilities – net (1,662) (1,385) (388)
+Net cash provided by (used for) operating activities 6,912 6,558 5,706
+Cash flow from investing activities:
+Capital expenditures – excluding equipment leased to others (1,056) (1,276) (898)
+Expenditures for equipment leased to others (1,613) (1,640) (1,438)
+Proceeds from disposals of leased assets and property, plant and equipment 1,153 936 1,164
+Additions to finance receivables (12,777) (12,183) (11,953)
+Collections of finance receivables 12,183 10,901 12,018
+Proceeds from sale of finance receivables 235 477 127
+Investments and acquisitions (net of cash acquired) (47) (392) (59)
+Proceeds from sale of businesses and investments (net of cash sold) 41 16 100
+Proceeds from sale of securities 529 442 932
+Investments in securities (552) (506) (1,048)
+Other – net (24) 13 89
+Net cash provided by (used for) investing activities (1,928) (3,212) (966)
+Cash flow from financing activities:
+Dividends paid (2,132) (1,951) (1,831)
+Common stock issued, including treasury shares reissued 238 313 566
+Common shares repurchased (4,047) (3,798) —
+Proceeds from debt issued (original maturities greater than three months):
+- Machinery, Energy & Transportation 1,479 57 361
+- Financial Products 8,362 8,850 8,702
+Payments on debt (original maturities greater than three months):
+- Machinery, Energy & Transportation (12) (7) (1,465)
+- Financial Products (8,285) (7,822) (6,923)
+Short-term borrowings – net (original maturities three months or less) (138) 762 (3,058)
+Other – net (3) (54) (9)
+Net cash provided by (used for) financing activities (4,538) (3,650) (3,657)
+Effect of exchange rate changes on cash (44) (126) 38
+Increase (decrease) in cash and short-term investments and restricted cash 402 (430) 1,121
+Cash and short-term investments and restricted cash at beginning of period 7,890 8,320 7,199
+Cash and short-term investments and restricted cash at end of period $ 8,292 $ 7,890 $ 8,320
+All short-term investments, which consist primarily of highly liquid investments with original maturities of three months or less, are considered to 
+be cash equivalents.
+See accompanying notes to Consolidated Financial Statements.
+57
+2019 FORM 10-K

@@ -1,0 +1,231 @@
+[annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9854177832603455
+  text_segment {
+    start_offset: 157
+    end_offset: 182
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "3611573540337221632"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.6536841988563538
+  text_segment {
+    start_offset: 226
+    end_offset: 253
+    content: "Trade and other receivables"
+  }
+}
+, annotation_spec_id: "2890997599957942272"
+display_name: "PPE"
+text_extraction {
+  score: 0.6619279980659485
+  text_segment {
+    start_offset: 531
+    end_offset: 570
+    content: "Mineral properties, plant and equipment"
+  }
+}
+, annotation_spec_id: "3467458352261365760"
+display_name: "Inventories"
+text_extraction {
+  score: 0.5399909019470215
+  text_segment {
+    start_offset: 581
+    end_offset: 592
+    content: "Inventories"
+  }
+}
+, annotation_spec_id: "1738076095351095296"
+display_name: "Goodwill"
+text_extraction {
+  score: 0.9862602353096008
+  text_segment {
+    start_offset: 693
+    end_offset: 701
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "4043919104564789248"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9744479656219482
+  text_segment {
+    start_offset: 727
+    end_offset: 739
+    content: "Total Assets"
+  }
+}
+, annotation_spec_id: "3179227976109654016"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9760978817939758
+  text_segment {
+    start_offset: 873
+    end_offset: 889
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "585154590744248320"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.7208021879196167
+  text_segment {
+    start_offset: 894
+    end_offset: 913
+    content: "accrued liabilities"
+  }
+}
+, annotation_spec_id: "8223259558764609536"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.8942545652389526
+  text_segment {
+    start_offset: 966
+    end_offset: 995
+    content: "Current portion of provisions"
+  }
+}
+, annotation_spec_id: "8223259558764609536"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.876189649105072
+  text_segment {
+    start_offset: 1006
+    end_offset: 1042
+    content: "Current portion of lease obligations"
+  }
+}
+, annotation_spec_id: "7502683618385330176"
+display_name: "LongTermDebt"
+text_extraction {
+  score: 0.221799835562706
+  text_segment {
+    start_offset: 1182
+    end_offset: 1199
+    content: "Long-term portion"
+  }
+}
+, annotation_spec_id: "8223259558764609536"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.2872612476348877
+  text_segment {
+    start_offset: 1259
+    end_offset: 1297
+    content: "Long-term portion of lease obligations"
+  }
+}
+, annotation_spec_id: "296924214592536576"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.8530887365341187
+  text_segment {
+    start_offset: 1422
+    end_offset: 1439
+    content: "Total Liabilities"
+  }
+}
+, annotation_spec_id: "8943835499143888896"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9020131230354309
+  text_segment {
+    start_offset: 1732
+    end_offset: 1744
+    content: "Total Equity"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.9729184508323669
+  text_segment {
+    start_offset: 1745
+    end_offset: 1773
+    content: "Total Liabilities and Equity"
+  }
+}
+, annotation_spec_id: "5917416549550915584"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.8662673830986023
+  text_segment {
+    start_offset: 2282
+    end_offset: 2289
+    content: "Revenue"
+  }
+}
+, annotation_spec_id: "873384966895960064"
+display_name: "DandA"
+text_extraction {
+  score: 0.8402547836303711
+  text_segment {
+    start_offset: 2363
+    end_offset: 2392
+    content: "Depreciation and amortization"
+  }
+}
+, annotation_spec_id: "4764495044944068608"
+display_name: "SGA"
+text_extraction {
+  score: 0.9035356044769287
+  text_segment {
+    start_offset: 2543
+    end_offset: 2569
+    content: "General and administrative"
+  }
+}
+, annotation_spec_id: "873384966895960064"
+display_name: "DandA"
+text_extraction {
+  score: 0.7903208136558533
+  text_segment {
+    start_offset: 4884
+    end_offset: 4913
+    content: "Depreciation and amortization"
+  }
+}
+, annotation_spec_id: "8655605122992177152"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.5376623272895813
+  text_segment {
+    start_offset: 5767
+    end_offset: 5815
+    content: "Net proceeds from sale of short-term investments"
+  }
+}
+, annotation_spec_id: "8655605122992177152"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.6284822225570679
+  text_segment {
+    start_offset: 5816
+    end_offset: 5845
+    content: "Proceeds from sale of mineral"
+  }
+}
+, annotation_spec_id: "5485070985323347968"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.7393555045127869
+  text_segment {
+    start_offset: 5957
+    end_offset: 5994
+    content: "Net cash used in investing activities"
+  }
+}
+, annotation_spec_id: "8367374746840465408"
+display_name: "DividendsPaid"
+text_extraction {
+  score: 0.8433076739311218
+  text_segment {
+    start_offset: 6281
+    end_offset: 6295
+    content: "Dividends paid"
+  }
+}
+]

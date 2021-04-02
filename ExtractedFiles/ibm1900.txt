@@ -1,0 +1,184 @@
+
+Page#1
+68 Consolidated Income Statement 
+International Business Machines Corporation and Subsidiary Companies
+($ in millions except per share amounts)
+For the year ended December 31: Notes 2019 2018 2017
+Revenue
+Services $47,493 $49,257 * $48,652 *
+Sales 28,252 28,735* 28,772*
+Financing 1,402 1,599 1,715
+Total revenue C 77,147 79,591 79,139
+Cost
+Services 32,491 33,687* 33,399*
+Sales 7,263 7,835* 7,587*
+Financing 904 1,132 1,210
+Total cost 40,659 42,655 42,196
+Gross profit 36,488 36,936 36,943
+Expense and other (income)
+Selling, general and administrative 20,604 19,366 19,680
+Research, development and engineering F 5,989 5,379 5,590
+Intellectual property and custom development income (648) (1,026) (1,466)
+Other (income) and expense (968) 1,152 1,125
+Interest expense P&T 1,344 723 615
+Total expense and other (income) 26,322 25,594 25,543
+Income from continuing operations before income taxes 10,166 11,342 11,400
+Provision for income taxes G 731 2,619 5,642
+Income from continuing operations 9,435 8,723 5,758
+Income/(loss) from discontinued operations, net of tax (4) 5 (5)
+Net income $ 9,431 $ 8,728 $ 5,753 
+Earnings/(loss) per share of common stock
+Assuming dilution
+Continuing operations H $ 10.57 $  9.51 $  6.14
+Discontinued operations H (0.01) 0.01 0.00
+Total H $ 10.56 $  9.52 $  6.14 
+Basic
+Continuing operations H $ 10.63 $  9.56 $  6.17
+Discontinued operations H 0.00 0.01 0.00
+Total H $ 10.63 $  9.57 $  6.17 
+Weighted-average number of common shares outstanding
+Assuming dilution 892,813,376 916,315,714 937,385,625
+Basic 887,235,105 912,048,072 932,828,295
+* Reclassified to conform to 2019 presentation. Refer to “Basis of Presentation” in note A, “Significant Accounting Policies.” 
+Amounts may not add due to rounding.
+The accompanying notes are an integral part of the financial statements.
+Page#2
+Consolidated Statement of Comprehensive Income 69
+International Business Machines Corporation and Subsidiary Companies
+($ in millions)
+For the year ended December 31: Notes 2019 2018 2017
+Net income $ 9,431 $8,728 $5,753 
+Other comprehensive income/(loss), before tax
+Foreign currency translation adjustments S (39) (730) 152
+Net changes related to available-for-sale securities S
+Unrealized gains/(losses) arising during the period 1 (2) 1
+Reclassification of (gains)/losses to net income — — 1
+Total net changes related to available-for-sale securities 1 (2) 2
+Unrealized gains/(losses) on cash flow hedges S
+Unrealized gains/(losses) arising during the period (689) (136) (58)
+Reclassification of (gains)/losses to net income 75 449 (363)
+Total unrealized gains/(losses) on cash flow hedges (614) 313 (421)
+Retirement-related benefit plans S
+Prior service costs/(credits) (73) (182) 0
+Net (losses)/gains arising during the period (120) (2,517) 682
+Curtailments and settlements 41 11 19
+Amortization of prior service (credits)/costs (9) (73) (88)
+Amortization of net (gains)/losses 1,843 2,966 2,889
+Total retirement-related benefit plans 1,681 204 3,502
+Other comprehensive income/(loss), before tax S 1,029 (215) 3,235
+Income tax (expense)/benefit related to items 
+of other comprehensive income S (136) (262) (429)
+Other comprehensive income/(loss) S 893 (476) 2,806
+Total comprehensive income $10,324 $8,252 $8,559 
+Amounts may not add due to rounding.
+The accompanying notes are an integral part of the financial statements.
+Page#3
+70 Consolidated Balance Sheet 
+International Business Machines Corporation and Subsidiary Companies
+($ in millions except per share amounts)
+At December 31: Notes 2019 2018
+Assets
+Current assets
+Cash and cash equivalents $ 8,172 $  11,379
+Restricted cash 141 225
+Marketable securities I 696 618
+Notes and accounts receivable—trade (net of allowances of 
+$299 in 2019 and $309 in 2018) 7,870 7,432
+Short-term financing receivables (net of allowances of $188 in 2019 and $244 in 2018) K 14,192 22,388
+Other accounts receivable (net of allowances of $33 in 2019 and $38 in 2018) 1,733 743
+Inventory J 1,619 1,682
+Deferred costs C 1,896 2,300
+Prepaid expenses and other current assets 2,101 2,378
+Total current assets 38,420 49,146
+Property, plant and equipment L 32,028 32,460
+Less: Accumulated depreciation L 22,018 21,668
+Property, plant and equipment—net L 10,010 10,792
+Operating right-of-use assets—net* M 4,996 —
+Long-term financing receivables (net of allowances of $33 in 2019 and $48 in 2018) K 8,712 9,148
+Prepaid pension assets V 6,865 4,666
+Deferred costs C 2,472 2,676
+Deferred taxes G 5,182 5,216
+Goodwill N 58,222 36,265
+Intangible assets—net N 15,235 3,087
+Investments and sundry assets O 2,074 2,386
+Total assets $ 152,186 $ 123,382 
+Liabilities and equity
+Current liabilities
+Taxes G $ 2,839 $ 3,046
+Short-term debt I&P 8,797 10,207
+Accounts payable 4,896 6,558
+Compensation and benefits 3,406 3,310
+Deferred income 12,026 11,165
+Operating lease liabilities* M 1,380 —
+Other accrued expenses and liabilities 4,357 3,941
+Total current liabilities 37,701 38,227
+Long-term debt I&P 54,102 35,605
+Retirement and nonpension postretirement benefit obligations V 17,142 17,002
+Deferred income 3,851 3,445
+Operating lease liabilities* M 3,879 —
+Other liabilities Q 14,526 12,174
+Total liabilities 131,202 106,452
+Commitments and Contingencies R
+Equity S
+IBM stockholders’ equity
+Common stock, par value $.20 per share, and additional paid-in capital 55,895 55,151
+Shares authorized: 4,687,500,000
+Shares issued (2019—2,237,996,975; 2018—2,233,427,058)
+Retained earnings 162,954 159,206
+Treasury stock, at cost (shares: 2019—1,350,886,521; 2018—1,340,947,648) (169,413) (168,071)
+Accumulated other comprehensive income/(loss) (28,597) (29,490)
+Total IBM stockholders’ equity 20,841 16,796
+Noncontrolling interests A 144 134
+Total equity 20,985 16,929
+Total liabilities and equity $ 152,186 $ 123,382 
+* Reflects the adoption of the FASB guidance on leases. 
+Amounts may not add due to rounding.
+The accompanying notes are an integral part of the financial statements.
+Page#4
+Consolidated Statement of Cash Flows 71
+International Business Machines Corporation and Subsidiary Companies
+($ in millions)
+For the year ended December 31: 2019 2018 2017
+Cash flows from operating activities
+Net income $  9,431 $  8,728 $ 5,753
+Adjustments to reconcile net income to cash provided by operating activities
+Depreciation 4,209 3,127 3,021
+Amortization of intangibles 1,850 1,353 1,520
+Stock-based compensation 679 510 534
+Deferred taxes (1,527) 853 (931)
+Net (gain)/loss on asset sales and other (1,096) 123 14
+Change in operating assets and liabilities, net of acquisitions/divestitures
+Receivables (including financing receivables) 502 1,006 1,297
+Retirement related 301 1,368 1,014
+Inventory 67 (127) 18
+Other assets/other liabilities 858 (1,819) 4,437
+Accounts payable (503) 126 47
+Net cash provided by operating activities 14,770 15,247 16,724
+Cash flows from investing activities
+Payments for property, plant and equipment (2,286) (3,395) (3,229)
+Proceeds from disposition of property, plant and equipment 537 248 460
+Investment in software (621) (569) (544)
+Purchases of marketable securities and other investments (3,693) (7,041) (4,949)
+Proceeds from disposition of marketable securities and other investments 3,961 6,487 3,910
+Non-operating finance receivables—net 6,720 (503) (2,028)
+Acquisition of businesses, net of cash acquired (32,630) (139) (496)
+Divestiture of businesses, net of cash transferred 1,076 — (205)
+Net cash provided by/(used in) investing activities (26,936) (4,913) (7,081)
+Cash flows from financing activities
+Proceeds from new debt 31,825 6,891 9,643
+Payments to settle debt (12,944) (8,533) (6,816)
+Short-term borrowings/(repayments) less than 90 days—net (2,597) 1,341 620
+Common stock repurchases (1,361) (4,443) (4,340)
+Common stock repurchases for tax withholdings (272) (171) (193)
+Financing—other 99 111 175
+Cash dividends paid (5,707) (5,666) (5,506)
+Net cash provided by/(used in) financing activities 9,042 (10,469) (6,418)
+Effect of exchange rate changes on cash, cash equivalents and restricted cash (167) (495) 937
+Net change in cash, cash equivalents and restricted cash (3,290) (630) 4,161
+Cash, cash equivalents and restricted cash at January 1 11,604 12,234 8,073
+Cash, cash equivalents and restricted cash at December 31 $  8,314 $ 11,604 $12,234
+Supplemental data
+Income taxes paid—net of refunds received $  2,091 $  1,745 $ 1,597
+Interest paid on debt $  1,685 $  1,423 $ 1,208
+Amounts may not add due to rounding.
+The accompanying notes are an integral part of the financial statements.

@@ -1,0 +1,231 @@
+[annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9890255331993103
+  text_segment {
+    start_offset: 1198
+    end_offset: 1223
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "3611573540337221632"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9702507853507996
+  text_segment {
+    start_offset: 1347
+    end_offset: 1366
+    content: "Accounts receivable"
+  }
+}
+, annotation_spec_id: "3035112788033798144"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9866564273834229
+  text_segment {
+    start_offset: 1638
+    end_offset: 1658
+    content: "Total current assets"
+  }
+}
+, annotation_spec_id: "2890997599957942272"
+display_name: "PPE"
+text_extraction {
+  score: 0.8937469124794006
+  text_segment {
+    start_offset: 1901
+    end_offset: 1934
+    content: "Total property and equipment, net"
+  }
+}
+, annotation_spec_id: "1738076095351095296"
+display_name: "Goodwill"
+text_extraction {
+  score: 0.8935299515724182
+  text_segment {
+    start_offset: 1989
+    end_offset: 1997
+    content: "GOODWILL"
+  }
+}
+, annotation_spec_id: "1449845719199383552"
+display_name: "IntangibleAssets"
+text_extraction {
+  score: 0.721828281879425
+  text_segment {
+    start_offset: 2014
+    end_offset: 2036
+    content: "INTANGIBLE ASSETS, NET"
+  }
+}
+, annotation_spec_id: "1449845719199383552"
+display_name: "IntangibleAssets"
+text_extraction {
+  score: 0.20235222578048706
+  text_segment {
+    start_offset: 2051
+    end_offset: 2063
+    content: "OTHER ASSETS"
+  }
+}
+, annotation_spec_id: "4043919104564789248"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.8744639754295349
+  text_segment {
+    start_offset: 2078
+    end_offset: 2090
+    content: "TOTAL ASSETS"
+  }
+}
+, annotation_spec_id: "8223259558764609536"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.5769491791725159
+  text_segment {
+    start_offset: 2159
+    end_offset: 2195
+    content: "Current maturities of long-term debt"
+  }
+}
+, annotation_spec_id: "3179227976109654016"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.8685570955276489
+  text_segment {
+    start_offset: 2214
+    end_offset: 2230
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "585154590744248320"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9613115191459656
+  text_segment {
+    start_offset: 2426
+    end_offset: 2442
+    content: "Accrued expenses"
+  }
+}
+, annotation_spec_id: "3755688728413077504"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9783764481544495
+  text_segment {
+    start_offset: 2522
+    end_offset: 2547
+    content: "Total current liabilities"
+  }
+}
+, annotation_spec_id: "296924214592536576"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.6051787734031677
+  text_segment {
+    start_offset: 2792
+    end_offset: 2809
+    content: "TOTAL LIABILITIES"
+  }
+}
+, annotation_spec_id: "8943835499143888896"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.48377135396003723
+  text_segment {
+    start_offset: 3331
+    end_offset: 3343
+    content: "TOTAL EQUITY"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.9294643402099609
+  text_segment {
+    start_offset: 3364
+    end_offset: 3392
+    content: "TOTAL LIABILITIES AND EQUITY"
+  }
+}
+, annotation_spec_id: "8079144370688753664"
+display_name: "Company"
+text_extraction {
+  score: 0.7664567828178406
+  text_segment {
+    start_offset: 3505
+    end_offset: 3546
+    content: "TUTOR PERINI CORPORATION AND SUBSIDIARIES"
+  }
+}
+, annotation_spec_id: "4332149480716500992"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.8558928370475769
+  text_segment {
+    start_offset: 3547
+    end_offset: 3574
+    content: "CONSOLIDATED BALANCE SHEETS"
+  }
+}
+, annotation_spec_id: "6061531737626771456"
+display_name: "TotalCapitalExpenditures"
+text_extraction {
+  score: 0.7806034088134766
+  text_segment {
+    start_offset: 4435
+    end_offset: 4472
+    content: "Acquisition of property and equipment"
+  }
+}
+, annotation_spec_id: "8655605122992177152"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.798960268497467
+  text_segment {
+    start_offset: 4500
+    end_offset: 4544
+    content: "Proceeds from sale of property and equipment"
+  }
+}
+, annotation_spec_id: "8655605122992177152"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.8398358821868896
+  text_segment {
+    start_offset: 4609
+    end_offset: 4658
+    content: "Proceeds from maturities and sales of investments"
+  }
+}
+, annotation_spec_id: "5485070985323347968"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.7392075061798096
+  text_segment {
+    start_offset: 4688
+    end_offset: 4725
+    content: "NET CASH USED IN INVESTING ACTIVITIES"
+  }
+}
+, annotation_spec_id: "8367374746840465408"
+display_name: "DividendsPaid"
+text_extraction {
+  score: 0.8172757029533386
+  text_segment {
+    start_offset: 5123
+    end_offset: 5169
+    content: "Distributions paid to noncontrolling interests"
+  }
+}
+, annotation_spec_id: "729269778820104192"
+display_name: "ConsolidatedCashFlows"
+text_extraction {
+  score: 0.913133978843689
+  text_segment {
+    start_offset: 5770
+    end_offset: 5807
+    content: "CONSOLIDATED STATEMENTS OF CASH FLOWS"
+  }
+}
+]

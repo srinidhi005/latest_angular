@@ -1,0 +1,141 @@
+
+Page#1
+Shopify Inc.
+Consolidated Balance Sheets
+Expressed in US $000’s except share amounts
+ As at 
+ December 31, 2019  December 31, 2018
+ Note  $  $
+Assets 
+Current assets 
+Cash and cash equivalents 4  649,916  410,683
+Marketable securities 5  1,805,278  1,558,987
+Trade and other receivables, net 6  90,529  41,347
+Merchant cash advances and loans receivable, net 7  150,172  91,873
+Other current assets 8  48,833  26,192
+ 2,744,728  2,129,082
+Long-term assets 
+Property and equipment, net 9  111,398  61,612
+Intangible assets, net 10  167,282  26,072
+Right-of-use assets 11  134,774  —
+Deferred tax assets 19  19,432  —
+Goodwill 12  311,865  38,019
+ 744,751  125,703
+Total assets 3,489,479  2,254,785
+Liabilities and shareholders’ equity
+ 
+Current liabilities 
+Accounts payable and accrued liabilities 13  181,193  96,956
+Income taxes payable 19  69,432  —
+Deferred revenue 14  56,691  39,180
+Lease liabilities 11  9,066  2,552
+ 316,382  138,688
+Long-term liabilities 
+Deferred revenue 14  5,969  1,881
+Lease liabilities 11  142,641  22,316
+Deferred tax liabilities 19  8,753  1,132
+ 157,363  25,329
+Commitments and contingencies 11, 16  
+Shareholders’ equity 
+Common stock, unlimited Class A subordinate voting shares authorized, 104,518,173 and
+98,081,889 issued and outstanding; unlimited Class B multiple voting shares authorized,
+11,910,802 and 12,310,800 issued and outstanding 17  3,256,284  2,215,936
+Additional paid-in capital 62,628  74,805
+Accumulated other comprehensive income (loss) 18  1,046 (12,216)
+Accumulated deficit 3  (304,224)  (187,757)
+Total shareholders’ equity 3,015,734  2,090,768
+Total liabilities and shareholders’ equity 3,489,479  2,254,785
+The accompanying notes are an integral part of these consolidated financial statements.
+On Behalf of the Board:"/s/ Tobias Lütke""/s/ Colleen Johnston"
+Tobias Lütke Colleen Johnston
+Chair, Board of Directors Chair, Audit Committee
+6
+Page#2
+Shopify Inc.
+Consolidated Statements of Operations and Comprehensive Loss
+Expressed in US $000’s, except share and per share amounts
+ Years ended
+ December 31, 2019  December 31, 2018
+ Note  $  $
+Revenues 
+Subscription solutions 21  642,241  464,996
+Merchant solutions 21  935,932  608,233
+ 1,578,173  1,073,229
+Cost of revenues 
+Subscription solutions 128,155  100,990
+Merchant solutions 584,375  375,972
+ 712,530  476,962
+Gross profit 865,643  596,267
+Operating expenses 
+Sales and marketing 472,841  350,069
+Research and development 355,015  230,674
+General and administrative 178,934  107,444
+Total operating expenses 1,006,790  688,187
+Loss from operations (141,147)  (91,920)
+Other income 
+Interest income, net 48,182  29,436
+Foreign exchange loss (2,850)  (2,069)
+ 45,332  27,367
+Loss before income taxes (95,815)  (64,553)
+Provision for income taxes 19  29,027  —
+Net loss (124,842)  (64,553)
+Other comprehensive income (loss)
+ 
+Unrealized gain (loss) on cash flow hedges 18  18,046  (15,651)
+Tax effect on unrealized gain (loss) on cash flow hedges (4,784)  —
+Comprehensive loss (111,580)  (80,204)
+ 
+Basic and diluted net loss per share attributable to shareholders 20  $ (1.10)  $ (0.61)
+Weighted average shares used to compute basic and diluted net loss per share attributable to
+shareholders 20  113,026,424  105,671,839
+The accompanying notes are an integral part of these consolidated financial statements.
+7
+Page#3
+Shopify Inc.
+Consolidated Statements of Cash Flows
+Expressed in US $000’s
+ Years ended
+ December 31, 2019  December 31, 2018
+ Note  $  $
+Cash flows from operating activities 
+Net loss for the year (124,842)  (64,553)
+Adjustments to reconcile net loss to net cash provided by operating activities: 
+Amortization and depreciation 35,651  27,052
+Stock-based compensation 158,456  95,720
+Provision for uncollectible receivables related to merchant cash advances and loans receivable 7  15,912  5,922
+Deferred income taxes (37,918)  —
+Unrealized foreign exchange loss 3,181  1,272
+Changes in operating assets and liabilities: 
+Trade and other receivables (56,181)  (32,649)
+Merchant cash advances and loans receivable (74,211)  (50,694)
+Other current assets (12,401)  (10,816)
+Accounts payable and accrued liabilities 84,563  20,641
+Income tax assets and liabilities 64,648  —
+Deferred revenue 12,305  9,015
+Lease assets and liabilities 1,452  8,414
+Net cash provided by operating activities 70,615  9,324
+Cash flows from investing activities 
+Purchase of marketable securities (2,718,604)  (2,447,955)
+Maturity of marketable securities 2,477,038  1,698,264
+Acquisitions of property and equipment (56,759)  (27,950)
+Acquisitions of intangible assets (5,638)  (13,595)
+Acquisition of businesses, net of cash acquired 22  (265,512)  (19,397)
+Net cash used by investing activities (569,475)  (810,633)
+Cash flows from financing activities 
+Proceeds from the exercise of stock options 48,337  30,494
+Proceeds from public offering, net of issuance costs 17  688,014  1,041,688
+Net cash provided by financing activities 736,351  1,072,182
+Effect of foreign exchange on cash and cash equivalents 1,742  (1,867)
+Net increase in cash and cash equivalents 239,233  269,006
+Cash and cash equivalents – Beginning of Year 410,683  141,677
+Cash and cash equivalents – End of Year 649,916  410,683
+ 
+Supplemental cash flow information: 
+Cash paid for amounts included in the measurement of lease liabilities included in cash flows from
+operating activities 15,611  —
+Lease liabilities arising from obtaining right-of-use assets 153,053  —
+Acquired property and equipment remaining unpaid 7,878  1,931
+Acquired intangible assets remaining unpaid —  322
+Capitalized stock-based compensation 854  1,970
+The accompanying notes are an integral part of these consolidated financial statements.
+9

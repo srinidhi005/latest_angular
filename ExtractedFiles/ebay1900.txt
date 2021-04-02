@@ -1,0 +1,227 @@
+
+Page#1
+eBay Inc.
+CONSOLIDATED STATEMENT OF INCOME
+ 
+ 
+Year Ended December 31,
+ 
+2019 2018 2017
+ 
+(In millions, except per share amounts)
+Net revenues $ 10,800  $ 10,746  $ 9,927
+Cost of net revenues 2,508  2,382  2,221
+Gross profit 8,292  8,364  7,706
+Operating expenses: 
+ 
+Sales and marketing 3,194  3,391  2,878
+Product development 1,240  1,285  1,224
+General and administrative 1,189  1,131  1,030
+Provision for transaction losses 300  286  272
+Amortization of acquired intangible assets 48  49  38
+Total operating expenses 5,971  6,142  5,442
+Income from operations 2,321  2,222  2,264
+Interest and other, net (114)  496  11
+Income from continuing operations before income taxes 2,207  2,718  2,275
+Income tax provision (415)  (190)  (3,288)
+Income (loss) from continuing operations $ 1,792  $ 2,528  $ (1,013)
+Income (loss) from discontinued operations, net of income taxes (6)  2  (4)
+Net income (loss) $ 1,786  $ 2,530  $ (1,017)
+ 
+Income (loss) per share - basic: 
+  
+Continuing operations $ 2.11  $ 2.58  $ (0.95)
+Discontinued operations (0.01)  —  —
+Net income (loss) per share - basic $ 2.10  $ 2.58  $ (0.95)
+ 
+Income (loss) per share - diluted: 
+Continuing operations $ 2.10  $ 2.55  $ (0.95)
+Discontinued operations (0.01)  —  —
+Net income (loss) per share - diluted $ 2.09  $ 2.55  $ (0.95)
+ 
+Weighted average shares: 
+  
+Basic 849  980  1,064
+Diluted 856  991  1,064
+The accompanying notes are an integral part of these consolidated financial statements.
+F-4
+Page#2
+eBay Inc.
+CONSOLIDATED STATEMENT OF STOCKHOLDERS’ EQUITY
+Year Ended December 31,
+ 
+2019  2018  2017
+ 
+(In millions)
+ 
+Common stock: 
+  
+Balance, beginning of year $ 2 $ 2 $ 2
+  
+Common stock issued — — —
+  
+Common stock repurchased/forfeited —  —  —
+Balance, end of year 2 2 2
+  
+Additional paid-in-capital: 
+  
+Balance, beginning of year 15,716 15,293 14,907
+  
+Common stock and stock-based awards issued 104 109 120
+  
+Tax withholdings related to net share settlements of restricted stock awards and
+units (202)  (225)  (219)
+Stock-based compensation 505 538 484
+  
+Other 3  1  1
+Balance, end of year 16,126 15,716 15,293
+  
+Treasury stock at cost: 
+  
+Balance, beginning of year (26,394) (21,892) (19,205)
+  
+Common stock repurchased (5,002) (4,502) (2,687)
+  
+Balance, end of year (31,396) (26,394) (21,892)
+  
+Retained earnings: 
+  
+Balance, beginning of year 16,459 13,929 14,946
+  
+Net income (loss) 1,786 2,530 (1,017)
+  
+Dividends and dividend equivalents declared (491)  —  —
+Balance, end of year 17,754 16,459 13,929
+  
+Accumulated other comprehensive income (loss): 
+  
+Balance, beginning of year 498 717 (124)
+  
+Change in unrealized gains (losses) on investments 61 (41) (66)
+  
+Change in unrealized gains (losses) on derivative instruments (77) 125 (111)
+  
+Foreign currency translation adjustment (99) (286) 978
+  
+Tax benefit (provision) on above items 1  (17)  40
+Balance, end of year 384 498 717
+  
+Total stockholders’ equity $ 2,870  $ 6,281 $ 8,049
+ 
+Number of shares: 
+  
+Common stock - shares outstanding: 
+  
+Balance, beginning of year 915 1,029 1,087
+  
+Common stock issued 15 17 24
+  
+Common stock repurchased/forfeited (134) (131) (82)
+  
+Balance, end of year 796 915 1,029
+  
+ 
+Dividends and dividend equivalents declared per share or restricted stock unit $ 0.56  $ —  $ —
+The accompanying notes are an integral part of these consolidated financial statements.
+F-6
+Page#3
+eBay Inc.
+CONSOLIDATED STATEMENT OF CASH FLOWS
+ Year Ended December 31,
+  
+ 2019 2018 2017
+ (In millions)
+ 
+Cash flows from operating activities:  
+  
+Net income (loss) $ 1,786 $ 2,530 $ (1,017)
+  
+(Income) loss from discontinued operations, net of income taxes 6 (2) 4
+ 
+Adjustments:  
+  
+Provision for transaction losses 300 286 272
+  
+Depreciation and amortization 681 696 676
+  
+Stock-based compensation 505 538 483
+  
+(Gain) loss on investments, net — (572) 49
+  
+(Gain) loss on sale of business 52 — (167)
+  
+Deferred income taxes 117 (153) 1,728
+  
+Change in fair value of warrant (133) (104) —
+  
+Other — 19 —
+ 
+Changes in assets and liabilities, net of acquisition effects
+  
+Accounts receivable (124) (98) (195)
+  
+Other current assets 177 (143) (148)
+  
+Other non-current assets 222 108 19
+  
+Accounts payable 4 (47) 19
+  
+Accrued expenses and other liabilities (391) (437) 206
+  
+Deferred revenue — 33 8
+  
+Income taxes payable and other tax liabilities (88) 7 1,209
+  
+Net cash provided by continuing operating activities 3,114 2,661 3,146
+  
+Net cash used in discontinued operating activities — (3) —
+  
+Net cash provided by operating activities 3,114 2,658 3,146
+  
+Cash flows from investing activities: 
+  
+Purchases of property and equipment (554) (651) (666)
+  
+Purchases of investments (46,977) (28,115) (14,599)
+  
+Maturities and sales of investments 50,548 30,901 14,520
+  
+Equity investment in Flipkart — — (514)
+  
+Equity investment in Paytm Mall (160) — —
+  
+Proceeds from sale of equity investment in Flipkart — 1,029 —
+  
+Acquisitions, net of cash acquired (93) (302) (34)
+  
+Other 23 32 (2)
+  
+Net cash provided by (used in) investing activities 2,787 2,894 (1,295)
+  
+Cash flows from financing activities: 
+  
+Proceeds from issuance of common stock 106 109 120
+  
+Repurchases of common stock (4,973) (4,502) (2,746)
+  
+Tax withholdings related to net share settlements of restricted stock awards and units (202) (225) (219)
+  
+Proceeds from issuance of long-term debt, net — — 2,484
+  
+Payments for dividends (473) — —
+  
+Repayment of debt (1,550) (750) (1,452)
+  
+Other 1 (30) 29
+  
+Net cash used in financing activities (7,091) (5,398) (1,784)
+  
+Effect of exchange rate changes on cash, cash equivalents and restricted cash (33) (75) 238
+  
+Net increase (decrease) in cash, cash equivalents and restricted cash (1,223) 79 305
+  
+Cash, cash equivalents and restricted cash at beginning of period 2,219 2,140 1,835
+  
+Cash, cash equivalents and restricted cash at end of period $ 996 $ 2,219 $ 2,140
+ 
+ 

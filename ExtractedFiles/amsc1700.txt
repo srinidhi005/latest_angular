@@ -1,0 +1,186 @@
+
+Page#1
+AMERICAN SUPERCONDUCTOR CORPORATION 
+PART I — FINANCIAL INFORMATION 
+ITEM 1. FINANCIAL STATEMENTS 
+CONSOLIDATED BALANCE SHEETS 
+(In thousands) 
+March 31, March 31, 
+ 2017  2016 
+ASSETS 
+Current assets: 
+ Cash and cash equivalents $ 26,784 $ 39,330
+ Accounts receivable, net 7,956 19,264
+ Inventory 17,462 18,512
+ Prepaid expenses and other current assets 2,703 5,778
+ Restricted cash 795 457
+ Total current assets 55,700 83,341
+ Property, plant and equipment, net 43,438 49,778
+ Intangibles, net 301 854
+ Restricted cash 165 934
+ Deferred tax assets 407 96
+ Other assets 233 315
+ Total assets $ 100,244 $ 135,318
+LIABILITIES AND STOCKHOLDERS' EQUITY 
+Current liabilities: 
+Accounts payable and accrued expenses $ 14,490 $ 23,156
+Note payable, current portion, net of discount of $19 as of March 31, 2017 and $42 as of 
+March 31, 2016 1,481 2,624
+Derivative liabilities 1,923 3,227
+Deferred revenue 14,323 12,000
+ Total current liabilities 32,217 41,007
+Note payable, net of discount of $133 as of March 31, 2016 — 1,367
+Deferred revenue 7,631 9,269
+Deferred tax liabilities 125 63
+Other liabilities 45 63
+ Total liabilities 40,018 51,769
+Commitments and contingencies (Note 13) 
+Stockholders' equity: 
+Common stock, $0.01 par value, 75,000,000 shares authorized; 14,713,839 and 14,107,126 
+shares issued at March 31, 2017 and 2016, respectively 147 141
+Additional paid-in capital 1,017,510 1,011,813
+Treasury stock, at cost, 97,529 and 51,506 shares at March 31, 2017 and 2016, respectively (1,371) (881)
+Accumulated other comprehensive (loss) income (503) 660
+Accumulated deficit (955,557) (928,184)
+ Total stockholders' equity 60,226 83,549
+ Total liabilities and stockholders' equity $ 100,244 $ 135,318
+The accompanying notes are an integral part of the consolidated financial statements. 
+50 
+Page#2
+AMERICAN SUPERCONDUCTOR CORPORATION 
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+(In thousands, except per share data) 
+Fiscal Year Ended March 31, 
+2017 2016 2015 
+Revenues $ 75,195 $ 96,023 $ 70,530
+Cost of revenues 64,352 74,041 67,442
+Gross profit 10,843 21,982 3,088
+Operating expenses: 
+  Research and development 12,540 12,303 11,878
+  Selling, general and administrative 25,688 28,861 29,217
+  Arbitration award expense — — 8,987
+  Restructuring and impairments — 779 5,366
+  Amortization of acquisition related intangibles 157 157 157
+ Total operating expenses 38,385 42,100 55,605
+Operating loss (27,542) (20,118) (52,517)
+Change in fair value of derivatives and warrants 1,304 (228) 3,963
+Gain on sale of minority interests 325 3,092 —
+Interest expense, net (383) (1,037) (1,882)
+Other income (expense), net 65 (2,457) 1,596
+Loss before income tax expense (benefit) (26,231) (20,748) (48,840)
+Income tax expense (benefit) 1,142 2,391 (184)
+Net loss $ (27,373) $ (23,139) $ (48,656)
+Net loss per common share  
+  Basic $ (1.98) $ (1.76) $ (5.74)
+  Diluted $ (1.98) $ (1.76) $ (5.74)
+Weighted average number of common shares outstanding  
+  Basic 13,804 13,178 8,477
+  Diluted 13,804 13,178 8,477
+The accompanying notes are an integral part of the consolidated financial statements. 
+51 
+Page#3
+AMERICAN SUPERCONDUCTOR CORPORATION 
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS 
+(In thousands) 
+Fiscal Year Ended March 31, 
+2017 2016 2015 
+Net loss $ (27,373) $ (23,139) $ (48,656)
+Other comprehensive (loss) gain, net of tax: 
+ Foreign currency translation (losses) gains (1,163) 968 (2,147)
+Total other comprehensive (loss) gain, net of tax (1,163) 968 (2,147)
+Comprehensive loss $ (28,536) $ (22,171) $ (50,803)
+The accompanying notes are an integral part of the consolidated financial statements. 
+52 
+Page#4
+AMERICAN SUPERCONDUCTOR CORPORATION 
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY 
+(In thousands) 
+Common Stock 
+Accumulated 
+Number Additional Other Total 
+of Par Paid-in Treasury Comprehensive Accumulated Stockholders'
+Shares Value Capital Stock Income (Loss) Deficit Equity 
+Balance at March 31, 2014 7,893 $ 79 $ 967,100 $ (370) $ 1,839 $ (856,389) $ 112,259
+  Issuance of common stock - ESPP 17 — 124 — — — 124
+  Issuance of common stock - restricted shares 301 3 (3) — — — —
+  Stock-based compensation expense — — 5,936 — — — 5,936
+  Issuance of stock for 401(k) match 35 — 392 — — — 392
+  Issuance of common stock-ATM, net of costs 375 4 5,835 — — — 5,839
+  Issuance of common stock-Hudson Bay Capital 909 9 5,216 — — — 5,225
+  Issuance of common stock to settle liabilities 94 1 1,322 — — — 1,323
+  Reverse stock split — — (1) — — — (1)
+  Repurchase of treasury stock — — — (401) — — (401)
+  Cumulative translation adjustment — — — — (2,147) — (2,147)
+  Net loss — — — — — (48,656) (48,656)
+Balance at March 31, 2015 9,624 $ 96 $ 985,921 $ (771) $ (308) $ (905,045) $ 79,893
+  Issuance of common stock - ESPP 8 — 30 — — — 30
+  Issuance of common stock - restricted shares 409 4 (4) — — — —
+  Stock-based compensation expense — — 3,248 — — — 3,248
+  Issuance of stock for 401(k) match 66 1 376 — — — 377
+  Issuance of common stock-equity offering 4,000 40 22,242 — — — 22,282
+  Repurchase of treasury stock — — — (110) — — (110)
+  Cumulative translation adjustment — — — — 968 — 968
+  Net loss — — — — — (23,139) (23,139)
+Balance at March 31, 2016 14,107 $ 141 $ 1,011,813 $ (881) $ 660 $ (928,184) $ 83,549
+  Issuance of common stock - restricted shares 174 2 (2) — — — —
+  Stock-based compensation expense — — 2,892 — — — 2,892
+  Issuance of stock for 401(k) match 53 — 284 — — — 284
+  Issuance of common stock-equity offering 380 4 2,523 — — — 2,527
+  Repurchase of treasury stock — — — (490) — — (490)
+  Cumulative translation adjustment — — — — (1,163) — (1,163)
+  Net loss — — — — — (27,373) (27,373)
+Balance at March 31, 2017 14,714 $ 147 $ 1,017,510 $ (1,371) $ (503) $ (955,557) $ 60,226
+The accompanying notes are an integral part of the consolidated financial statements. 
+53 
+Page#5
+AMERICAN SUPERCONDUCTOR CORPORATION 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+(In thousands) 
+Fiscal Year Ended March 31, 
+2017 2016 2015 
+Cash flows from operating activities: 
+  Net loss $ (27,373) $ (23,139) $ (48,656)
+  Adjustments to reconcile net loss to net cash used in operations: 
+Depreciation and amortization 7,519 7,972 9,554
+Stock-based compensation expense 2,892 3,248 5,936
+Impairment of minority interest investments — 746 3,464
+Provision for excess and obsolete inventory 1,615 2,713 1,386
+Write-off prepaid taxes — 289 —
+Gain on sale from minority interest investments (325) (3,092) —
+Loss from minority interest investments — 356 743
+Change in fair value of derivatives and warrants (1,304) 228 (3,963)
+Reversal of Catlin legal costs — — (2,220)
+Non-cash interest expense 156 359 566
+Other non-cash items (940) 1,462 (2,436)
+Changes in operating asset and liability accounts: 
+Accounts receivable 11,143 (9,318) (2,677)
+Inventory (815) (782) (1,887)
+Prepaid expenses and other current assets 2,729 5,608 (2,330)
+Accounts payable and accrued expenses (7,938) 1,543 5,579
+Deferred revenue 1,426 7,248 4,265
+  Net cash used in operating activities (11,215) (4,559) (32,676)
+Cash flows from investing activities: 
+Purchase of property, plant and equipment (656) (1,201) (737)
+Proceeds from the sale of property, plant and equipment 29 47 18
+Change in restricted cash 431 2,669 2,248
+Proceeds from sale of minority interests 325 3,092 —
+Change in other assets 63 266 280
+  Net cash provided by investing activities 192 4,873 1,809
+Cash flows from financing activities: 
+Employee taxes paid related to net settlement of equity awards (490) (110) (401)
+Proceeds from the issuance of debt, net of expenses — — 1,422
+Repayment of debt (3,167) (4,000) (7,295)
+Proceeds from ATM sales, net 2,527 — 5,839
+Proceeds from public equity offering, net — 22,282 9,094
+Proceeds from exercise of employee stock options and ESPP — 30 124
+  Net cash (used in) provided by financing activities (1,130) 18,202 8,783
+Effect of exchange rate changes on cash and cash equivalents (393) 324 (540)
+Net (decrease)/increase in cash and cash equivalents (12,546) 18,840 (22,624)
+Cash and cash equivalents at beginning of year 39,330 20,490 43,114
+Cash and cash equivalents at end of year $ 26,784 $ 39,330 $ 20,490
+Supplemental schedule of cash flow information: 
+Cash paid for income taxes, net of refunds $ 992 $ 1,723 $ 362
+Issuance of common stock to settle liabilities 399 377 1,715
+Cash paid for interest 280 709 1,362
+The accompanying notes are an integral part of the consolidated financial statements. 
+54 

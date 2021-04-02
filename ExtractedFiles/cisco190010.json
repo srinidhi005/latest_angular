@@ -1,0 +1,101 @@
+[annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9918178915977478
+  text_segment {
+    start_offset: 51
+    end_offset: 76
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "3611573540337221632"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9707694053649902
+  text_segment {
+    start_offset: 350
+    end_offset: 369
+    content: "Accounts receivable"
+  }
+}
+, annotation_spec_id: "3467458352261365760"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9653104543685913
+  text_segment {
+    start_offset: 540
+    end_offset: 551
+    content: "Inventories"
+  }
+}
+, annotation_spec_id: "3035112788033798144"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9884379506111145
+  text_segment {
+    start_offset: 982
+    end_offset: 1002
+    content: "Total current assets"
+  }
+}
+, annotation_spec_id: "2890997599957942272"
+display_name: "PPE"
+text_extraction {
+  score: 0.9879887104034424
+  text_segment {
+    start_offset: 1126
+    end_offset: 1153
+    content: "Property and equipment, net"
+  }
+}
+, annotation_spec_id: "3611573540337221632"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9319561719894409
+  text_segment {
+    start_offset: 1282
+    end_offset: 1293
+    content: "receivables"
+  }
+}
+, annotation_spec_id: "8943835499143888896"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9703013896942139
+  text_segment {
+    start_offset: 5018
+    end_offset: 5030
+    content: "Total equity"
+  }
+}
+, annotation_spec_id: "5340955797247492096"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9757200479507446
+  text_segment {
+    start_offset: 7405
+    end_offset: 7421
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "7070338054157762560"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9795068502426147
+  text_segment {
+    start_offset: 7850
+    end_offset: 7876
+    content: "Provision for income taxes"
+  }
+}
+, annotation_spec_id: "7214453242233618432"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.5684236288070679
+  text_segment {
+    start_offset: 7978
+    end_offset: 7988
+    content: "NET INCOME"
+  }
+}
+]

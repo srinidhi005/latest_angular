@@ -1,0 +1,145 @@
+
+Page#1
+PART II: FINANCIAL INFORMATION
+Item 8: Financial Statements
+eBay Inc.
+CONSOLIDATED BALANCE SHEET
+December 31,
+2017 2016
+(In millions, except par value)
+ASSETS
+Current assets:
+Cash and cash equivalents $ 2,120 $ 1,816
+Short-term investments 3,743 5,333
+Accounts receivable, net 695 592
+Other current assets 1,185 1,134
+Total current assets 7,743 8,875
+Long-term investments 6,331 3,969
+Property and equipment, net 1,597 1,516
+Goodwill 4,773 4,501
+Intangible assets, net 69 102
+Deferred tax assets 5,195 4,608
+Other assets 273 276
+Total assets $ 25,981 $23,847
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Short-term debt $ 781 $ 1,451
+Accounts payable 330 283
+Accrued expenses and other current liabilities 2,134 1,893
+Deferred revenue 117 110
+Income taxes payable 177 110
+Total current liabilities 3,539 3,847
+Deferred tax liabilities 3,425 1,453
+Long-term debt 9,234 7,509
+Other liabilities 1,720 499
+Total liabilities 17,918 13,308
+Commitments and contingencies (Note 12)
+Stockholders’ equity:
+Common stock, $0.001 par value; 3,580 shares authorized; 1,029 and 1,087
+shares outstanding 2 2
+Additional paid-in capital 15,293 14,907
+Treasury stock at cost, 632 and 557 shares (21,892) (19,205)
+Retained earnings 13,943 14,959
+Accumulated other comprehensive income (loss) 717 (124)
+Total stockholders’ equity 8,063 10,539
+Total liabilities and stockholders’ equity $ 25,981 $23,847
+The accompanying notes are an integral part of these consolidated financial statements.
+F-3
+Page#2
+eBay Inc.
+CONSOLIDATED STATEMENT OF INCOME
+Year Ended December 31,
+2017 2016 2015
+(In millions, except per share amounts)
+Net revenues $ 9,567 $8,979 $8,592
+Cost of net revenues 2,222 2,007 1,771
+Gross profit 7,345 6,972 6,821
+Operating expenses:
+Sales and marketing 2,515 2,368 2,267
+Product development 1,224 1,114 923
+General and administrative 1,031 900 1,122
+Provision for transaction losses 272 231 271
+Amortization of acquired intangible assets 38 34 41
+Total operating expenses 5,080 4,647 4,624
+Income from operations 2,265 2,325 2,197
+Interest and other, net 11 1,326 209
+Income from continuing operations before income taxes 2,276 3,651 2,406
+Income tax benefit (provision) (3,288) 3,634 (459)
+Income (loss) from continuing operations $ (1,012) $7,285 $ 1,947
+Income (loss) from discontinued operations, net of income
+taxes (4) (19) (222)
+Net income (loss) $ (1,016) $ 7,266 $ 1,725
+Income (loss) per share — basic:
+Continuing operations $ (0.95) $ 6.43 $ 1.61
+Discontinued operations — (0.02) (0.18)
+Net income (loss) per share — basic $ (0.95) $ 6.41 $ 1.43
+Income (loss) per share — diluted:
+Continuing operations $ (0.95) $ 6.37 $ 1.60
+Discontinued operations — (0.02) (0.18)
+Net income (loss) per share — diluted $ (0.95) $ 6.35 $ 1.42
+Weighted average shares:
+Basic 1,064 1,133 1,208
+Diluted 1,064 1,144 1,220
+The accompanying notes are an integral part of these consolidated financial statements.
+F-4
+Page#3
+eBay Inc.
+CONSOLIDATED STATEMENT OF CASH FLOWS
+Year Ended December 31,
+2017 2016 2015
+(In millions)
+Cash flows from operating activities:
+Net income (loss) $ (1,016) $ 7,266 $ 1,725
+(Income) loss from discontinued operations, net of income taxes 4 19 222
+Adjustments:
+Provision for transaction losses 272 231 271
+Depreciation and amortization 676 682 687
+Stock-based compensation 483 416 379
+Gain on sale of business (167) — —
+Deferred income taxes 1,729 (4,556) (32)
+Loss (gain) on sale of investments and other, net 49 (1,236) (195)
+Excess tax benefits from stock-based compensation — (15) (74)
+Changes in assets and liabilities, net of acquisition effects
+Accounts receivable (195) (48) (105)
+Other current assets (148) 23 (143)
+Other non-current assets 19 94 143
+Accounts payable 19 (28) 226
+Accrued expenses and other liabilities 206 (130) (202)
+Deferred revenue 6 4 9
+Income taxes payable and other tax liabilities 1,209 105 (34)
+Net cash provided by continuing operating activities 3,146 2,827 2,877
+Net cash provided by (used in) discontinued operating activities — (1) 1,156
+Net cash provided by operating activities 3,146 2,826 4,033
+Cash flows from investing activities:
+Purchases of property and equipment (666) (626) (668)
+Purchases of investments (14,599) (11,212) (6,744)
+Equity investment in Flipkart (514) — —
+Maturities and sales of investments 14,520 10,063 6,781
+Acquisitions, net of cash acquired (34) (212) (24)
+Other (3) (21) (18)
+Net cash used in continuing investing activities (1,296) (2,008) (673)
+Net cash used in discontinued investing activities — — (2,938)
+Net cash used in investing activities (1,296) (2,008) (3,611)
+Cash flows from financing activities:
+Proceeds from issuance of common stock 120 102 221
+Repurchases of common stock (2,746) (2,943) (2,149)
+Tax withholdings related to net share settlements of restricted stock
+awards and units (219) (121) (245)
+Proceeds from issuance of long-term debt, net 2,484 2,216 —
+Repayment of debt (1,452) (20) (850)
+Other 29 22 63
+Net cash used in continuing financing activities (1,784) (744) (2,960)
+Net cash provided by (used in) discontinued financing activities — — (1,594)
+Net cash used in financing activities (1,784) (744) (4,554)
+Effect of exchange rate changes on cash and cash equivalents 238 (90) (364)
+Net increase (decrease) in cash and cash equivalents 304 (16) (4,496)
+Cash and cash equivalents at beginning of period 1,816 1,832 6,328
+Cash and cash equivalents at end of period $ 2,120 $ 1,816 $ 1,832
+Supplemental cash flow disclosures:
+Cash paid for:
+Interest $ 285 $ 220 $ 175
+Income taxes $ 308 $ 492 $ 256
+Noncash investing activities:
+Sale of business in exchange for ownership interest in Flipkart $ 211 $ — $ —
+The accompanying notes are an integral part of these consolidated financial statements.
+F-7

@@ -1,0 +1,128 @@
+
+Page#1
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Micron Technology, Inc.
+Consolidated Statements of Operations
+(in millions, except per share amounts)
+September 3, August 29, August 30,
+For the year ended 2020 2019 2018
+Revenue $ 21,435 $ 23,406 $ 30,391 
+Cost of goods sold  14,883  12,704  12,500 
+Gross margin  6,552  10,702  17,891 
+Research and development  2,600  2,441  2,141 
+Selling, general, and administrative  881  836  813 
+Other operating (income) expense, net  68  49  (57) 
+Operating income  3,003  7,376  14,994 
+Interest income  114  205  120 
+Interest expense  (194)  (128)  (342) 
+Other non-operating income (expense), net  60  (405)  (465) 
+ 2,983  7,048  14,307 
+Income tax (provision) benefit  (280)  (693)  (168) 
+Equity in net income (loss) of equity method investees  7  3  (1) 
+Net income  2,710  6,358  14,138 
+Net income attributable to noncontrolling interests  (23)  (45)  (3) 
+Net income attributable to Micron $ 2,687 $ 6,313 $ 14,135 
+Earnings per share
+Basic $ 2.42 $ 5.67 $ 12.27 
+Diluted  2.37  5.51  11.51 
+Number of shares used in per share calculations
+Basic  1,110  1,114  1,152 
+Diluted  1,131  1,143  1,229 
+See accompanying notes to consolidated financial statements.
+|
+47  2020 10-K
+Page#2
+Micron Technology, Inc.
+Consolidated Balance Sheets
+(in millions, except par value amounts)
+September 3, August 29,
+As of 2020 2019
+Assets
+Cash and equivalents $ 7,624 $ 7,152 
+Short-term investments  518  803 
+Receivables  3,912  3,195 
+Inventories  5,607  5,118 
+Other current assets  304  235 
+Total current assets  17,965  16,503 
+Long-term marketable investments  1,048  1,164 
+Property, plant, and equipment  31,031  28,240 
+Operating lease right-of-use assets  584  — 
+Intangible assets  334  340 
+Deferred tax assets  707  837 
+Goodwill  1,228  1,228 
+Other noncurrent assets  781  575 
+Total assets $ 53,678 $ 48,887 
+Liabilities and equity
+Accounts payable and accrued expenses $ 5,817 $ 4,626 
+Current debt  270  1,310 
+Other current liabilities  548  454 
+Total current liabilities  6,635  6,390 
+Long-term debt  6,373  4,541 
+Noncurrent operating lease liabilities  533  — 
+Noncurrent unearned government incentives  643  636 
+Other noncurrent liabilities  498  452 
+Total liabilities  14,682  12,019 
+Commitments and contingencies
+Redeemable noncontrolling interest  —  98 
+Micron shareholders’ equity
+Common stock, $0.10 par value, 3,000 shares authorized, 1,194 shares issued and 1,113 outstanding 
+(1,182 shares issued and 1,106 outstanding as of August 29, 2019)  119  118 
+Additional capital  8,917  8,214 
+Retained earnings  33,384  30,761 
+Treasury stock, 81 shares held (76 shares as of August 29, 2019)  (3,495)  (3,221) 
+Accumulated other comprehensive income (loss)  71  9 
+Total Micron shareholders’ equity  38,996  35,881 
+Noncontrolling interest in subsidiary  —  889 
+Total equity  38,996  36,770 
+Total liabilities and equity $ 53,678 $ 48,887 
+See accompanying notes to consolidated financial statements.
+|
+49  2020 10-K
+Page#3
+Micron Technology, Inc.
+Consolidated Statements of Cash Flows
+(in millions)
+September 3, August 29, August 30,
+For the year ended 2020 2019 2018
+Cash flows from operating activities
+Net income $ 2,710 $ 6,358 $ 14,138 
+Adjustments to reconcile net income to net cash provided by operating activities  
+Depreciation expense and amortization of intangible assets  5,650  5,424  4,759 
+Amortization of debt discount and other costs  26  49  101 
+Stock-based compensation  328  243  198 
+(Gains) losses on debt prepayments, repurchases, and conversions  (40)  396  385 
+Change in operating assets and liabilities  
+Receivables  (723)  2,431  (1,734) 
+Inventories  (489)  (1,528)  (472) 
+Accounts payable and accrued expenses  725  (174)  668 
+Deferred income taxes, net  79  150  (265) 
+Other  40  (160)  (378) 
+Net cash provided by operating activities  8,306  13,189  17,400 
+Cash flows from investing activities  
+Expenditures for property, plant, and equipment  (8,223)  (9,780)  (8,879) 
+Purchases of available-for-sale securities  (1,857)  (4,218)  (760) 
+Proceeds from sales of available-for-sale securities  1,458  1,504  604 
+Proceeds from maturities of available-for-sale securities  814  1,541  320 
+Proceeds from government incentives  262  748  355 
+Other  (43)  120  144 
+Net cash provided by (used for) investing activities  (7,589)  (10,085)  (8,216) 
+Cash flows from financing activities  
+Repayments of debt  (4,366)  (3,340)  (10,194) 
+Acquisition of noncontrolling interest in IMFT  (744)  —  — 
+Payments to acquire treasury stock  (251)  (2,729)  (71) 
+Payments on equipment purchase contracts  (63)  (75)  (206) 
+Proceeds from issuance of debt  5,000  3,550  1,009 
+Proceeds from issuance of stock  225  179  1,655 
+Other  (118)  (23)  31 
+Net cash provided by (used for) financing activities  (317)  (2,438)  (7,776) 
+Effect of changes in currency exchange rates on cash, cash equivalents, and restricted cash  11  26  (37) 
+Net increase (decrease) in cash, cash equivalents, and restricted cash  411  692  1,371 
+Cash, cash equivalents, and restricted cash at beginning of period  7,279  6,587  5,216 
+Cash, cash equivalents, and restricted cash at end of period $ 7,690 $ 7,279 $ 6,587 
+Supplemental disclosures  
+Income taxes paid, net $ (167) $ (524) $ (226) 
+Interest paid, net of amounts capitalized  (165)  (53)  (312) 
+Noncash equipment acquisitions on contracts payable  278  119  84 
+See accompanying notes to consolidated financial statements.
+|
+51  2020 10-K

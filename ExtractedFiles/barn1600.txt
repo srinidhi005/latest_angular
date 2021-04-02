@@ -1,0 +1,162 @@
+
+Page#1
+Item 8. Financial Statements and Supplementary Data
+ 
+BARNES GROUP INC.
+CONSOLIDATED STATEMENTS OF INCOME
+ 
+(Dollars in thousands, except per share data)
+ 
+ Years Ended December 31,
+ 2016 2015 2014
+Net sales $ 1,230,754 $ 1,193,975 $ 1,262,006
+Cost of sales 790,299 782,817 829,648
+Selling and administrative expenses 248,277 242,762 252,384
+1,038,576 1,025,579 1,082,032
+Operating income 192,178 168,396 179,974
+Interest expense 11,883 10,698 11,392
+Other expense (income), net (2,326) (248) 2,082
+Income from continuing operations before income taxes 182,621 157,946 166,500
+Income taxes 47,020 36,566 45,959
+Income from continuing operations 135,601 121,380 120,541
+Loss from discontinued operations, net of income taxes of $0, $0 and
+$315, respectively — — (2,171)
+Net income $ 135,601 $ 121,380 $ 118,370
+Per common share:
+Basic:
+Income from continuing operations $ 2.50 $ 2.21 $ 2.20
+Loss from discontinued operations, net of income taxes — — (0.04)
+Net income $ 2.50 $ 2.21 $ 2.16
+Diluted:
+Income from continuing operations $ 2.48 $ 2.19 $ 2.16
+Loss from discontinued operations, net of income taxes — — (0.04)
+Net income $ 2.48 $ 2.19 $ 2.12
+Dividends $ 0.51 $ 0.48 $ 0.45
+Weighted average common shares outstanding:
+Basic 54,191,013 55,028,063 54,791,030
+Diluted 54,631,313 55,513,219 55,723,267
+ 
+See accompanying notes.
+37
+Page#2
+BARNES GROUP INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(Dollars in thousands)
+Years Ended December 31,
+2016 2015 2014
+Net income $ 135,601 $ 121,380 $ 118,370
+Other comprehensive loss, net of tax
+ Unrealized (loss) gain on hedging activities, net of tax (1) (342) 847 (213)
+ Foreign currency translation adjustments, net of tax (2) (48,367) (54,232) (83,168)
+ Defined benefit pension and other postretirement benefits, net 
+ of tax (3) (8,867) 9,586 (42,016)
+Total other comprehensive loss, net of tax (57,576) (43,799) (125,397)
+Total comprehensive income (loss) $ 78,025 $ 77,581 $ (7,027)
+(1) Net of tax of $(42), $227 and $(45) for the years ended December 31, 2016, 2015 and 2014, respectively.
+(2) Net of tax of $(833), $(1,777) and $(3,292) for the years ended December 31, 2016, 2015 and 2014, respectively.
+(3) Net of tax of $(4,687), $3,916 and $(24,799) for the years ended December 31, 2016, 2015 and 2014, respectively.
+See accompanying notes.
+38
+Page#3
+BARNES GROUP INC.
+CONSOLIDATED BALANCE SHEETS
+(Dollars in thousands)
+ 
+ December 31,
+ 2016 2015
+Assets
+Current assets
+Cash and cash equivalents $ 66,447 $ 83,926
+Accounts receivable, less allowances (2016 – $3,992; 2015 – $4,085) 287,123 261,757
+Inventories 227,759 208,611
+Deferred income taxes — 24,825
+Prepaid expenses and other current assets 27,163 32,469
+Total current assets 608,492 611,588
+Deferred income taxes 25,433 1,139
+Property, plant and equipment, net 334,489 308,856
+Goodwill 633,436 587,992
+Other intangible assets, net 522,258 528,322
+Other assets 13,431 23,969
+Total assets $ 2,137,539 $ 2,061,866
+Liabilities and Stockholders’ Equity
+Current liabilities
+Notes and overdrafts payable $ 30,825 $ 22,680
+Accounts payable 112,024 97,035
+Accrued liabilities 156,967 131,320
+Long-term debt – current 2,067 1,515
+Total current liabilities 301,883 252,550
+Long-term debt 468,062 485,711
+Accrued retirement benefits 109,350 112,888
+Deferred income taxes 66,446 62,364
+Other liabilities 23,440 20,600
+Commitments and contingencies (Note 20)
+Stockholders’ equity
+Common stock – par value $0.01 per share
+Authorized: 150,000,000 shares
+Issued: at par value (2016 – 62,692,403 shares; 2015 – 62,071,144 shares) 627 621
+Additional paid-in capital 443,235 427,558
+Treasury stock, at cost (2016 – 8,889,947 shares; 2015 – 8,206,683 shares) (251,827) (226,421)
+Retained earnings 1,177,151 1,069,247
+Accumulated other non-owner changes to equity (200,828) (143,252)
+Total stockholders’ equity 1,168,358 1,127,753
+Total liabilities and stockholders’ equity $ 2,137,539 $ 2,061,866
+ 
+See accompanying notes.
+39
+Page#4
+BARNES GROUP INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Dollars in thousands)
+ Years Ended December 31,
+ 2016 2015 2014
+Operating activities:
+Net income $ 135,601 $ 121,380 $ 118,370
+Adjustments to reconcile net income to net cash provided by operating
+activities:
+Depreciation and amortization 80,154 78,242 81,395
+Amortization of convertible debt discount — — 731
+(Gain) loss on disposition of property, plant and equipment (349) (1,128) 143
+Stock compensation expense 11,493 9,258 7,603
+Loss on the sale of businesses — — 1,586
+Pension lump-sum settlement charge — 9,856 —
+Changes in assets and liabilities, net of the effects of acquisitions:
+Accounts receivable (23,057) 14,027 (21,367)
+Inventories 1,989 (1,190) (10,092)
+Prepaid expenses and other current assets 569 (2,645) (7,137)
+Accounts payable 11,778 (2,936) 8,123
+Accrued liabilities 15,825 (14,166) 29,290
+Deferred income taxes (2,210) 3,121 (9,841)
+Long-term retirement benefits (15,492) 1,081 (7,584)
+ Other 1,345 2,575 4,933
+Net cash provided by operating activities 217,646 217,475 196,153
+Investing activities:
+Proceeds from disposition of property, plant and equipment 780 3,442 849
+Payments for the sale of businesses — — (1,181)
+Change in restricted cash — — 4,886
+Capital expenditures (47,577) (45,982) (57,365)
+Business acquisitions, net of cash acquired (128,613) (51,954) —
+Component Repair Program payments (4,100) (21,000) (70,100)
+Other — — (1,338)
+Net cash used in investing activities (179,510) (115,494) (124,249)
+Financing activities:
+Net change in other borrowings 8,375 14,680 7,009
+Payments on long-term debt (321,506) (171,198) (332,336)
+Proceeds from the issuance of long-term debt 303,277 159,264 293,291
+Payment of assumed liability to Otto Männer Holding AG — — (19,796)
+Premium paid on convertible debt redemption — — (14,868)
+Proceeds from the issuance of common stock 4,611 11,425 11,460
+Common stock repurchases (20,520) (52,103) (8,389)
+Dividends paid (27,435) (26,176) (24,464)
+Withholding taxes paid on stock issuances (4,885) (4,913) (4,367)
+Other 4,771 9,850 (338)
+Net cash used by financing activities (53,312) (59,171) (92,798)
+Effect of exchange rate changes on cash flows (2,303) (4,923) (3,923)
+(Decrease) increase in cash and cash equivalents (17,479) 37,887 (24,817)
+Cash and cash equivalents at beginning of year 83,926 46,039 70,856
+Cash and cash equivalents at end of year $ 66,447 $ 83,926 $ 46,039
+ 
+Supplemental Disclosure of Cash Flow Information:
+ Non-cash investing activities in 2015 and 2014 included the acquisition of $3,200 and $19,000, respectively, of intangible assets, 
+and the recognition of the corresponding liabilities, in connection with the Component Repair Programs. 
+See accompanying notes.
+40

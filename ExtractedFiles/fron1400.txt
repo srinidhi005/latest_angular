@@ -1,0 +1,152 @@
+
+Page#1
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+AS OF DECEMBER 31, 2014 AND 2013
+($ in thousands, except for share amounts)
+2014 2013
+A S S E T S
+Current assets:
+Cash and cash equivalents $ 682,134 $ 880,039
+Accounts receivable, less allowances of $71,571 and $71,362,
+respectively 614,164 479,210
+Prepaid expenses 60,598 68,573
+Income taxes and other current assets 129,196 191,017
+Total current assets 1,486,092 1,618,839
+Property, plant and equipment, net 8,566,048 7,255,762
+Goodwill  7,205,357 6,337,719
+Other intangibles, net 1,499,864 1,214,932
+Other assets  216,669 208,232
+Total assets $18,974,030 $16,635,484
+L I A B I L I T I E S A N D E Q U I T Y
+Current liabilities:
+Long-term debt due within one year $ 297,622 $ 257,916
+Accounts payable 379,255 327,256
+Advanced billings 179,058 137,319
+Accrued other taxes 80,090 66,276
+Accrued interest 214,226 188,639
+Pension and other postretirement benefits 123,794 111,713
+Other current liabilities 238,031 212,468
+Total current liabilities 1,512,076 1,301,587
+Deferred income taxes 2,938,907 2,417,108
+Pension and other postretirement benefits 1,140,677 725,333
+Other liabilities  239,078 262,308
+Long-term debt  9,485,615 7,873,667
+Equity:
+Common stock, $0.25 par value (1,750,000,000 authorized
+shares, 1,002,469,000 and 999,462,000 outstanding,
+respectively, and 1,027,986,000 issued, at December 31,
+2014 and 2013) 256,997 256,997
+Additional paid-in capital 3,990,160 4,321,056
+Retained earnings 108,754 76,108
+Accumulated other comprehensive loss, net of tax (404,328) (260,530)
+Treasury stock (293,906) (338,150)
+Total equity 3,657,677 4,055,481
+Total liabilities and equity $18,974,030 $16,635,484
+The accompanying Notes are an integral part of these Consolidated Financial Statements.
+F-5
+Page#2
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME
+FOR THE YEARS ENDED DECEMBER 31, 2014, 2013 AND 2012
+($ in thousands, except for per-share amounts)
+2014 2013 2012
+Revenue $4,772,490 $4,761,576 $5,011,853
+Operating expenses:
+Network access expenses 465,395 431,073 441,588
+Network related expenses 1,118,427 1,083,555 1,133,692
+Selling, general and administrative expenses 1,088,180 1,057,513 1,100,861
+Depreciation and amortization 1,138,942 1,169,500 1,266,807
+Pension settlement costs — 44,163 —
+Acquisition and integration costs 141,605 9,652 81,737
+Total operating expenses 3,952,549 3,795,456 4,024,685
+Gain on sale of Mohave partnership interest — 14,601 —
+Operating income 819,941 980,721 987,168
+Investment and other income, net 38,996 9,177 20,132
+Losses on early extinguishment of debt — 159,780 90,363
+Interest expense 695,500 667,398 687,985
+Income before income taxes 163,437 162,720 228,952
+Income tax expense 30,544 47,242 75,638
+Net income 132,893 115,478 153,314
+Less: Income attributable to the noncontrolling interest in a
+partnership — 2,643 16,678
+Net income attributable to common shareholders of
+Frontier $ 132,893 $ 112,835 $ 136,636
+Basic net income per common share attributable to
+common shareholders of Frontier $ 0.13 $ 0.11 $ 0.14
+Diluted net income per common share attributable to
+common shareholders of Frontier $ 0.13 $ 0.11 $ 0.13
+The accompanying Notes are an integral part of these Consolidated Financial Statements.
+F-6
+Page#3
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+FOR THE YEARS ENDED DECEMBER 31, 2014, 2013 AND 2012
+($ in thousands)
+2014 2013 2012
+Net income  $ 132,893 $115,478 $153,314
+Pension settlement costs, net of tax (see Notes 13 and 16) — 27,381 —
+Other comprehensive income (loss), net of tax (see Note 13) (143,798) 195,665 (96,613)
+Comprehensive income (loss) (10,905) 338,524 56,701
+Less: Income attributable to the noncontrolling interest in a
+partnership  — 2,643 16,678
+Comprehensive income (loss) attributable to the common
+shareholders of Frontier $ (10,905) $335,881 $ 40,023
+The accompanying Notes are an integral part of these Consolidated Financial Statements.
+F-7
+Page#4
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED DECEMBER 31, 2014, 2013 AND 2012
+($ in thousands)
+2014 2013 2012
+Cash flows provided by (used in) operating activities:
+Net income  $ 132,893 $ 115,478 $ 153,314
+Adjustments to reconcile net income to net cash provided by
+operating activities:
+Depreciation and amortization 1,138,942 1,169,500 1,266,807
+Losses on early extinguishment of debt — 159,780 90,363
+Pension settlement costs — 44,163 —
+Pension/OPEB costs (18,026) 37,243 28,087
+Stock based compensation expense 23,462 16,932 16,775
+Gains on sale of assets (37,041) (14,601) —
+Other non-cash adjustments 32,129 11,065 10,319
+Deferred income taxes (77,876) (7,510) 80,501
+Change in accounts receivable (61,528) 50,487 43,813
+Change in accounts payable and other liabilities 89,666 (6,507) (148,906)
+Change in prepaid expenses, income taxes and other current assets 47,451 (80,403) 11,400
+Net cash provided by operating activities 1,270,072 1,495,627 1,552,473
+Cash flows provided from (used by) investing activities:
+Cash paid for the Connecticut Acquisition (2,017,787) — —
+Capital expenditures—Business operations (572,443) (634,685) (748,407)
+Capital expenditures—Integration activities (115,653) — (54,097)
+Network expansion funded by Connect America Fund (56,453) (32,748) (4,830)
+Grant funds received for network expansion from Connect America
+Fund  3,748 63,636 65,981
+Proceeds on sale of assets 38,636 17,755 —
+Cash transferred from escrow 11,411 31,249 102,020
+Other  32,820 12,300 4,394
+Net cash used by investing activities (2,675,721) (542,493) (634,939)
+Cash flows provided from (used by) financing activities:
+Long-term debt borrowings 1,911,125 750,000 1,360,625
+Financing costs paid (40,496) (19,360) (27,852)
+Long-term debt payments (259,935) (1,563,022) (756,953)
+Premium paid to retire debt — (159,429) (72,290)
+Dividends paid  (400,892) (399,768) (399,390)
+Other  (2,058) (8,048) (21,236)
+Net cash provided from (used by) financing activities 1,207,744 (1,399,627) 82,904
+(Decrease)/Increase in cash and cash equivalents (197,905) (446,493) 1,000,438
+Cash and cash equivalents at January 1, 880,039 1,326,532 326,094
+Cash and cash equivalents at December 31, $ 682,134 $ 880,039 $1,326,532
+Supplemental cash flow information:
+Cash paid during the period for:
+Interest  $ 655,531 $ 667,753 $ 636,485
+Income taxes, net  $ 70,390 $ 94,161 $ 4,715
+Non-cash investing and financing activities:
+Capital lease obligations $ — $ — $ 26,596
+Financing obligation for contributions of real property to pension plan $ — $ 23,422 $ —
+Reduction of pension obligation $ — $ (23,422) $ —
+Increase (decrease) in capital expenditures due to changes in accounts
+payable  $ (15,271) $ 39,847 $ 9,802
+The accompanying Notes are an integral part of these Consolidated Financial Statements
+F-9

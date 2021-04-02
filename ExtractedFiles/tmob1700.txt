@@ -1,0 +1,163 @@
+
+Page#1
+T-Mobile US, Inc.
+Consolidated Balance Sheets
+December 31, December 31,
+(in millions, except share and per share amounts) 2017 2016
+Assets
+Current assets
+Cash and cash equivalents $ 1,219 $ 5,500
+Accounts receivable, net of allowances of $86 and $102 1,915 1,896
+Equipment installment plan receivables, net 2,290 1,930
+Accounts receivable from affiliates 22 40
+Inventories 1,566 1,111
+Asset purchase deposit — 2,203
+Other current assets 1,903 1,537
+Total current assets 8,915 14,217
+Property and equipment, net 22,196 20,943
+Goodwill 1,683 1,683
+Spectrum licenses 35,366 27,014
+Other intangible assets, net 217 376
+Equipment installment plan receivables due after one year, net 1,274 984
+Other assets 912 674
+Total assets $ 70,563 $ 65,891
+Liabilities and Stockholders' Equity
+Current liabilities
+Accounts payable and accrued liabilities $ 8,528 $ 7,152
+Payables to affiliates 182 125
+Short-term debt 1,612 354
+Deferred revenue 779 986
+Other current liabilities 414 405
+Total current liabilities 11,515 9,022
+Long-term debt 12,121 21,832
+Long-term debt to affiliates 14,586 5,600
+Tower obligations 2,590 2,621
+Deferred tax liabilities 3,537 4,938
+Deferred rent expense 2,720 2,616
+Other long-term liabilities 935 1,026
+Total long-term liabilities 36,489 38,633
+Commitments and contingencies (Note 13)
+Stockholders' equity
+5.50% Mandatory Convertible Preferred Stock Series A, par value $0.00001 per share, 100,000,000 shares authorized;
+0 and 20,000,000 shares issued; 0 and 20,000,000 shares outstanding; $0 and $1,000 aggregate liquidation value — —
+Common Stock, par value $0.00001 per share, 1,000,000,000 shares authorized; 860,861,998 and 827,768,818 shares
+issued, 859,406,651 and 826,357,331 shares outstanding — —
+Additional paid-in capital 38,629 38,846
+Treasury stock, at cost, 1,455,347 and 1,411,487 shares issued (4) (1)
+Accumulated other comprehensive income 8 1
+Accumulated deficit (16,074) (20,610)
+Total stockholders' equity 22,559 18,236
+Total liabilities and stockholders' equity $ 70,563 $ 65,891
+The accompanying notes are an integral part of these consolidated financial statements.
+58
+Page#2
+T-Mobile US, Inc.
+ 
+Consolidated Statements of Comprehensive Income
+Year Ended December 31,
+2017 2016 2015
+(in millions, except share and per share amounts) (As Adjusted - See Note 1)
+Revenues
+Branded postpaid revenues $ 19,448 $ 18,138 $ 16,383
+Branded prepaid revenues 9,380 8,553 7,553
+Wholesale revenues 1,102 903 692
+Roaming and other service revenues 230 250 193
+Total service revenues 30,160 27,844 24,821
+Equipment revenues 9,375 8,727 6,718
+Other revenues 1,069 919 928
+Total revenues 40,604 37,490 32,467
+Operating expenses
+Cost of services, exclusive of depreciation and amortization shown separately below 6,100 5,731 5,554
+Cost of equipment sales 11,608 10,819 9,344
+Selling, general and administrative 12,259 11,378 10,189
+Depreciation and amortization 5,984 6,243 4,688
+Cost of MetroPCS business combination — 104 376
+Gains on disposal of spectrum licenses (235) (835) (163)
+Total operating expense 35,716 33,440 29,988
+Operating income 4,888 4,050 2,479
+Other income (expense)
+Interest expense (1,111) (1,418) (1,085)
+Interest expense to affiliates (560) (312) (411)
+Interest income 17 13 6
+Other expense, net (73) (6) (11)
+Total other expense, net (1,727) (1,723) (1,501)
+Income before income taxes 3,161 2,327 978
+Income tax benefit (expense) 1,375 (867) (245)
+Net income 4,536 1,460 733
+Dividends on preferred stock (55) (55) (55)
+Net income attributable to common stockholders $ 4,481 $ 1,405 $ 678
+Net income $ 4,536 $ 1,460 $ 733
+Other comprehensive income (loss), net of tax
+Unrealized gain (loss) on available-for-sale securities, net of tax effect $2, $1 and $(1) 7 2 (2)
+Other comprehensive income (loss) 7 2 (2)
+Total comprehensive income $ 4,543 $ 1,462 $ 731
+Earnings per share
+Basic $ 5.39 $ 1.71 $ 0.83
+Diluted $ 5.20 $ 1.69 $ 0.82
+Weighted average shares outstanding
+Basic 831,850,073 822,470,275 812,994,028
+Diluted 871,787,450 833,054,545 822,617,938
+The accompanying notes are an integral part of these consolidated financial statements.
+59
+Page#3
+T-Mobile US, Inc.
+Consolidated Statements of Cash Flows
+Year Ended December 31,
+(in millions) 2017 2016 2015
+Operating activities
+Net income $ 4,536 $ 1,460 $ 733
+Adjustments to reconcile net income to net cash provided by operating activities
+Depreciation and amortization 5,984 6,243 4,688
+Stock-based compensation expense 306 235 201
+Deferred income tax (benefit) expense (1,404) 914 256
+Bad debt expense 388 477 547
+Losses from sales of receivables 299 228 204
+Deferred rent expense 76 121 167
+Gains on disposal of spectrum licenses (235) (835) (163)
+Change in fair value of embedded derivatives (52) (25) 148
+Changes in operating assets and liabilities
+Accounts receivable (444) (603) (259)
+Equipment installment plan receivables (894) 97 1,089
+Inventories (844) (802) (2,495)
+Deferred purchase price from sales of receivables (86) (270) (185)
+Other current and long-term assets (575) (133) (217)
+Accounts payable and accrued liabilities 1,079 (1,201) 693
+Other current and long-term liabilities (233) 158 22
+Other, net 61 71 (15)
+Net cash provided by operating activities 7,962 6,135 5,414
+Investing activities
+Purchases of property and equipment, including capitalized interest of $136, $142 and $246 (5,237) (4,702) (4,724)
+Purchases of spectrum licenses and other intangible assets, including deposits (5,828) (3,968) (1,935)
+Purchases of short-term investments — — (2,997)
+Sales of short-term investments — 2,998 —
+Other, net 1 (8) 96
+Net cash used in investing activities (11,064) (5,680) (9,560)
+Financing activities
+Proceeds from issuance of long-term debt 10,480 997 3,979
+Proceeds from tower obligations — — 140
+Proceeds from borrowing on revolving credit facility 2,910 — —
+Repayments of revolving credit facility (2,910) — —
+Repayments of capital lease obligations (486) (205) (57)
+Repayments of short-term debt for purchases of inventory, property and equipment, net (300) (150) (564)
+Repayments of long-term debt (10,230) (20) —
+Proceeds from exercise of stock options 21 29 47
+Repurchases of common shares (427) — —
+Tax withholdings on share-based awards (166) (121) (156)
+Dividends on preferred stock (55) (55) (55)
+Other, net (16) (12) 79
+Net cash (used in) provided by financing activities (1,179) 463 3,413
+Change in cash and cash equivalents (4,281) 918 (733)
+Cash and cash equivalents
+Beginning of period 5,500 4,582 5,315
+End of period $ 1,219 $ 5,500 $ 4,582
+Supplemental disclosure of cash flow information
+Interest payments, net of amounts capitalized, $79, $0 and $0 of which recorded as debt discount (Note
+7) $ 2,028 $ 1,681 $ 1,298
+Income tax payments 31 25 54
+Changes in accounts payable for purchases of property and equipment 313 285 46
+Leased devices transferred from inventory to property and equipment 1,131 1,588 2,451
+Returned leased devices transferred from property and equipment to inventory (742) (602) (166)
+Issuance of short-term debt for financing of property and equipment 292 150 500
+Assets acquired under capital lease obligations 887 799 470
+The accompanying notes are an integral part of these consolidated financial statements.
+60

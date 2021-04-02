@@ -11,7 +11,7 @@
     <button mat-button (click)="exportToPDF()" matTooltip="Export to PDF"
     matTooltipPosition='above' style="font-size: 20px"><mat-icon style="font-size: 24px">picture_as_pdf</mat-icon></button>
     <button mat-button [matMenuTriggerFor]="below" style="font-size: 20px">
-      <mat-icon style="font-size: 24px">exposure</mat-icon>{{ loadedScenario }}<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
+      {{ loadedScenario }}<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
     </button>
     <mat-menu #below="matMenu" yPosition="below">
       <button mat-menu-item *ngFor="let index of scenarioArray; let indexOfelement=index;">

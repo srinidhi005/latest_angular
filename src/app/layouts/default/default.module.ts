@@ -6,13 +6,17 @@ import { MessagePopupComponent } from 'src/app/modules/message-popup/message-pop
 import { CompanyDetailsComponent } from 'src/app/modules/company-details/company-details.component';
 import { ProfileComponent } from 'src/app/modules/profile/profile.component';
 import { TutorialComponent } from 'src/app/modules/tutorial/tutorial.component';
+import { LoadingPopupComponent } from 'src/app/modules/loading-popup/loading-popup.component';
+import { ReportBuilderComponent } from 'src/app/modules/report-builder/report-builder.component';
+import { SortableModule } from 'ngx-bootstrap/sortable';
 import {
   MatButtonModule,
   MatCardModule,
   MatDividerModule,
   MatFormFieldModule,
   MatGridListModule,
-MatAutocompleteModule,
+  MatCheckboxModule,
+  MatAutocompleteModule,
   MatIconModule,
   MatInputModule,
   MatOptionModule,
@@ -108,6 +112,8 @@ import { SubscriptionComponent } from 'src/app/modules/subscription/subscription
     uploadSnackBarStatementComponent,
     uploadFailureSnackBarStatementComponent,
     uploadSnackBarISComponent,
+    LoadingPopupComponent,
+    ReportBuilderComponent,
     uploadFailureSnackBarISComponent,
     uploadSnackBarBSComponent,
     SubscriptionComponent,
@@ -161,7 +167,9 @@ import { SubscriptionComponent } from 'src/app/modules/subscription/subscription
     SharedModule,
     MatSidenavModule,
     MatDividerModule,
+    MatCheckboxModule,
     FlexLayoutModule,
+    SortableModule.forRoot(),
     MatProgressSpinnerModule,
     MatCardModule,
     MatPaginatorModule,
@@ -192,6 +200,7 @@ import { SubscriptionComponent } from 'src/app/modules/subscription/subscription
     MessagePopupComponent,
     DialogElementsExampleDialog,
     VisualCFInputDialogComponent,
+	LoadingPopupComponent,
     uploadSnackBarISComponent,
     uploadFailureSnackBarISComponent,
     uploadSnackBarISAddComponent,

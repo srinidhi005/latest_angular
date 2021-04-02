@@ -1,0 +1,142 @@
+
+Page#1
+78
+Financial statements
+Consolidated income statement
+2018 2017*
+52 weeks  52 weeks 
+Notes £’000 £’000
+Continuing operations
+Revenue 5 1,649,591 1,357,281
+Cost of sales (1,440,193) (1,195,424)
+Gross profit 209,398 161,857
+Distribution costs (18,283) (11,953)
+Administrative expenses (150,030) (116,337)
+Exceptional item – acquisition costs 9 – (2,843)
+Share of profit in joint ventures 5,213 4,387
+Operating profit 46,298 35,111
+Finance income 10 49 66
+Finance costs 10 (3,015) (970)
+Finance costs – net 10 (2,966) (904)
+Profit before income tax 43,332 34,207
+Income tax expense 11 (8,626) (7,167)
+Profit for the year 34,706 27,040
+Attributable to:
+Owners of the parent 32,534 24,887
+Non-controlling interests 2,172 2,153
+34,706 27,040
+Earnings per share attributable to owners of the parent during the year
+Basic (pence) 12 39.9 33.2
+Diluted (pence) 12 39.5 32.8
+* Restated following adoption of IFRS 15, see note 2.
+Consolidated statement of comprehensive income
+2018 2017 
+52 weeks  52 weeks 
+£’000 £’000
+Profit for the year 34,706 27,040
+Other comprehensive (expense)/income
+Currency translation differences (671) 2,134
+Other comprehensive (expense)/income for the year net of tax (671) 2,134
+Total comprehensive income for the year 34,035 29,174
+Total comprehensive income attributable to:
+Owners of the parent 31,788 26,801
+Non-controlling interests 2,247 2,373
+34,035 29,174
+The notes on pages 82 to 105 are an integral part of these consolidated financial statements.
+Hilton Food Group plc | Annual report and financial statements 2018
+Page#2
+79
+Overview Strategic report Governance Financial statements
+Consolidated balance sheet
+Group Company
+2018 2017* 2018  2017 
+Notes £’000 £’000 £’000 £’000
+Assets
+Non-current assets
+Property, plant and equipment 14 158,549 80,596 – –
+Intangible assets 15 66,960 68,572 – –
+Investments 16 5,209 10,273 157,221 102,985
+Trade and other receivables 19 1,227 2,455 – –
+Deferred income tax assets 24 1,653 1,624 – –
+233,598 163,520 157,221 102,985
+Current assets
+Inventories 18 82,190 51,458 – –
+Trade and other receivables 19 172,465 139,616 272 54,237
+Current income tax assets 769 – – –
+Other financial asset 21 7,813 7,913 – –
+Cash and cash equivalents 20 80,234 70,853 82 204
+343,471 269,840 354 54,441
+Total assets 577,069 433,360 157,575 157,426
+Equity
+Equity attributable to owners of the parent
+Ordinary shares 25 8,160 8,135 8,160 8,135
+Share premium 63,628 62,335 63,628 62,335
+Employee share schemes reserve 5,505 5,723 – –
+Foreign currency translation reserve 4,134 4,880 – –
+Retained earnings 124,923 108,358 14,768 15,937
+Reverse acquisition reserve (31,700) (31,700) – –
+Merger reserve 919 919 71,019 71,019
+175,569 158,650 157,575 157,426
+Non-controlling interests 5,677 5,094 – –
+Total equity 181,246 163,744 157,575 157,426
+Liabilities
+Non-current liabilities
+Borrowings 22 109,426 38,056 – –
+Deferred income tax liabilities 24 6,104 6,166 – –
+115,530 44,222 – –
+Current liabilities
+Borrowings 22 5,408 15,268 – –
+Trade and other payables 23 274,885 209,586 – –
+Current income tax liabilities – 540 – –
+280,293 225,394 – –
+Total liabilities 395,823 269,616 – –
+Total equity and liabilities 577,069 433,360 157,575 157,426
+* Restated following adoption of IFRS 15, see note 2.
+The notes on pages 82 to 105 are an integral part of these consolidated financial statements.
+The financial statements on pages 78 to 105 were approved by the Board on 26 March 2019 and were signed on its behalf by:
+R. Watson  N. Majewski
+Director  Director
+Hilton Food Group plc – Registered number: 06165540
+The Company has taken advantage of the exemption in Section 408 Companies Act 2006 not to publish its individual income statement, statement of comprehensive 
+income and related notes. Profit for the year dealt with in the income statement of Hilton Food Group plc amounted to £14,800,000 (2017: £13,200,000).
+Hilton Food Group plc | Annual report and financial statements 2018
+Page#3
+81
+Overview Strategic report Governance Financial statements
+Consolidated cash flow statement
+Group Company
+2018 2017 2018 2017 
+52 weeks 52 weeks 52 weeks 52 weeks
+Notes £’000 £’000 £’000 £’000
+Cash flows from operating activities
+Cash generated from operations 27 66,166 54,986 – –
+Interest paid (3,015) (970) – –
+Income tax (paid)/received (9,666) (7,561) – 41
+Net cash generated from operating activities 53,485 46,455 – 41
+Cash flows from investing activities
+Acquisition of subsidiary, net of cash acquired – (80,901) – –
+Investment in joint ventures – (3,177) – –
+Disposal of investment – 46 – –
+Purchases of property, plant and equipment (98,412) (10,456) – –
+Proceeds from sale of property, plant and equipment 308 140 – –
+Purchases of intangible assets (930) (1,476) – –
+Interest received 49 66 – –
+Dividends received – – 14,800 13,200
+Dividends received from joint venture 9,958 2,008 – –
+Net cash (used in)/generated from investing activities (89,027) (93,750) 14,800 13,200
+Cash flows from financing activities
+Proceeds from borrowings 69,646 42,695 – –
+Repayments of borrowings (8,163) (16,560) – –
+Repayment of inter-company loan – – – (56,139)
+Issue of ordinary shares 1,047 57,465 1,047 57,465
+Equity raise costs – (1,623) – (1,623)
+Other financial asset – (7,913) – –
+Dividends paid to owners of the parent (15,969) (12,948) (15,969) (12,948)
+Dividends paid to non-controlling interests (1,664) (3,892) – –
+Net cash generated from/(used in) financing activities 44,897 57,224 (14,922) (13,245)
+Net increase/(decrease) in cash and cash equivalents 9,355 9,929 (122) (4)
+Cash and cash equivalents at beginning of the year 70,853 59,304 204 208
+Exchange gains on cash and cash equivalents 26 1,620 – –
+Cash and cash equivalents at end of the year 20 80,234 70,853 82 204
+The notes on pages 82 to 105 are an integral part of these consolidated financial statements.
+Hilton Food Group plc | Annual report and financial statements 2018

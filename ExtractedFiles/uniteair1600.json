@@ -1,0 +1,201 @@
+[annotation_spec_id: "8079144370688753664"
+display_name: "Company"
+text_extraction {
+  score: 0.619045615196228
+  text_segment {
+    start_offset: 18
+    end_offset: 50
+    content: "UNITED CONTINENTAL HOLDINGS, INC"
+  }
+}
+, annotation_spec_id: "1305730531123527680"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.8980792760848999
+  text_segment {
+    start_offset: 66
+    end_offset: 89
+    content: "CONSOLIDATED OPERATIONS"
+  }
+}
+, annotation_spec_id: "2458652035730374656"
+display_name: "Units"
+text_extraction {
+  score: 0.8541334271430969
+  text_segment {
+    start_offset: 94
+    end_offset: 102
+    content: "millions"
+  }
+}
+, annotation_spec_id: "5340955797247492096"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9474297761917114
+  text_segment {
+    start_offset: 937
+    end_offset: 953
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "4332149480716500992"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9821879267692566
+  text_segment {
+    start_offset: 1483
+    end_offset: 1510
+    content: "CONSOLIDATED BALANCE SHEETS"
+  }
+}
+, annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9828031659126282
+  text_segment {
+    start_offset: 1593
+    end_offset: 1618
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "3611573540337221632"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.8072911500930786
+  text_segment {
+    start_offset: 1642
+    end_offset: 1653
+    content: "Receivables"
+  }
+}
+, annotation_spec_id: "1738076095351095296"
+display_name: "Goodwill"
+text_extraction {
+  score: 0.9409126043319702
+  text_segment {
+    start_offset: 2353
+    end_offset: 2361
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "4332149480716500992"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9795496463775635
+  text_segment {
+    start_offset: 2643
+    end_offset: 2670
+    content: "CONSOLIDATED BALANCE SHEETS"
+  }
+}
+, annotation_spec_id: "3179227976109654016"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9101612567901611
+  text_segment {
+    start_offset: 2837
+    end_offset: 2853
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "585154590744248320"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9271165132522583
+  text_segment {
+    start_offset: 2854
+    end_offset: 2870
+    content: "Accrued salaries"
+  }
+}
+, annotation_spec_id: "8223259558764609536"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.920129120349884
+  text_segment {
+    start_offset: 2884
+    end_offset: 2920
+    content: "Current maturities of long-term debt"
+  }
+}
+, annotation_spec_id: "7502683618385330176"
+display_name: "LongTermDebt"
+text_extraction {
+  score: 0.971091628074646
+  text_segment {
+    start_offset: 3090
+    end_offset: 3104
+    content: "Long-term debt"
+  }
+}
+, annotation_spec_id: "7502683618385330176"
+display_name: "LongTermDebt"
+text_extraction {
+  score: 0.4161277711391449
+  text_segment {
+    start_offset: 3105
+    end_offset: 3126
+    content: "Long-term obligations"
+  }
+}
+, annotation_spec_id: "729269778820104192"
+display_name: "ConsolidatedCashFlows"
+text_extraction {
+  score: 0.5320925712585449
+  text_segment {
+    start_offset: 4043
+    end_offset: 4066
+    content: "CONSOLIDATED CASH FLOWS"
+  }
+}
+, annotation_spec_id: "873384966895960064"
+display_name: "DandA"
+text_extraction {
+  score: 0.9396061301231384
+  text_segment {
+    start_offset: 4518
+    end_offset: 4547
+    content: "Depreciation and amortization"
+  }
+}
+, annotation_spec_id: "6061531737626771456"
+display_name: "TotalCapitalExpenditures"
+text_extraction {
+  score: 0.9078404903411865
+  text_segment {
+    start_offset: 5068
+    end_offset: 5088
+    content: "Capital expenditures"
+  }
+}
+, annotation_spec_id: "8655605122992177152"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.7102975249290466
+  text_segment {
+    start_offset: 5135
+    end_offset: 5162
+    content: "Proceeds from sale of short"
+  }
+}
+, annotation_spec_id: "8655605122992177152"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.5734674334526062
+  text_segment {
+    start_offset: 5190
+    end_offset: 5234
+    content: "Proceeds from sale of property and equipment"
+  }
+}
+, annotation_spec_id: "5485070985323347968"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.7337431311607361
+  text_segment {
+    start_offset: 5246
+    end_offset: 5283
+    content: "Net cash used in investing activities"
+  }
+}
+]

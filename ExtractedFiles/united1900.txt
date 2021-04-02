@@ -1,0 +1,178 @@
+
+Page#1
+Table of Contents
+ UNITED STATES STEEL CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+Year Ended December 31,
+(Dollars in millions, except per share amounts) 2019 2018 2017
+Net sales:
+Net sales $ 11,506 $ 12,758 $ 11,046
+Net sales to related parties (Note 23) 1,431 1,420 1,204
+Total (Note 6) 12,937 14,178 12,250
+Operating expenses (income):
+Cost of sales (excludes items shown below) 12,082 12,305 10,858
+Selling, general and administrative expenses 289 336 320
+Depreciation, depletion and amortization (Notes 13 and 14) 616 521 501
+Earnings from investees (Note 12) (79) (61) (44)
+Gain on equity investee transactions (Note 12) — (38) (2)
+Gain associated with U. S. Steel Canada Inc. (Note 5) — — (72)
+Restructuring and other charges (Note 25) 275 — 31
+Net gain on disposals of assets (1) (6) (5)
+Other income, net (15) (3) (6)
+Total 13,167 13,054 11,581
+(Loss) earnings before interest and income taxes (230) 1,124 669
+Interest expense 142 168 226
+Interest income (17) (23) (17)
+Loss on debt extinguishment (Note 7) — 98 54
+Other financial costs 6 — 44
+(a)
+Net periodic benefit cost (other than service cost) (Note 3) 91 69 61
+Net interest and other financial costs (Note 7) 222 312 368
+(Loss) earnings before income taxes (452) 812 301
+Income tax provision (benefit) (Note 11) 178 (303) (86)
+Net (loss) earnings (630) 1,115 387
+Less: Net earnings attributable to noncontrolling interests — — —
+(Loss) earnings attributable to United States Steel Corporation $ (630) $ 1,115 $ 387
+(Loss) earnings per common share (Note 8)
+(Loss) earnings per share attributable to United States Steel Corporation
+stockholders:
+— Basic $ (3.67) $ 6.31 $ 2.21
+— Diluted $ (3.67) $ 6.25 $ 2.19
+(a)
+ Represents postretirement benefit expense as a result of the adoption of Accounting Standards Update 2017-07, 
+Compensation - Retirement Benefits on January 1, 2018 (see Note 3 for further details).
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-7
+Page#2
+Table of Contents
+UNITED STATES STEEL CORPORATION
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+Year Ended December 31,
+(Dollars in millions) 2019 2018 2017
+Net (loss) earnings $ (630) $ 1,115 $ 387
+Other comprehensive income (loss), net of tax:
+(a)
+Changes in foreign currency translation adjustments (22) (60) 189
+(a)
+Changes in pension and other employee benefit accounts 573 (107) 462
+(a)
+Changes in derivative financial instruments (3) (14) 1
+Total other comprehensive income (loss), net of tax 548 (181) 652
+Comprehensive income including noncontrolling interest (82) 934 1,039
+Comprehensive income attributable to noncontrolling interest — — —
+Comprehensive income attributable to United States Steel
+Corporation $ (82) $ 934 $ 1,039
+(a) 
+Related income tax benefit (provision)
+(b)
+Foreign currency translation adjustments $ 6 $ — $ —
+(b)
+Pension and other benefits adjustments (191) — —
+(b)
+Derivative adjustments 1 — —
+(b) 
+Amounts for 2018 and 2017 do not reflect a tax benefit as a result of a full valuation allowance on our domestic deferred tax assets.
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-8
+Page#3
+Table of Contents
+UNITED STATES STEEL CORPORATION
+CONSOLIDATED BALANCE SHEETS
+December 31,
+(Dollars in millions) 2019 2018
+Assets
+Current assets:
+Cash and cash equivalents (Note 9) $ 749 $ 1,000
+Receivables, less allowance of $28 and $29 956 1,435
+Receivables from related parties (Note 23) 221 224
+Inventories (Note 10) 1,785 2,092
+Other current assets 102 79
+Total current assets 3,813 4,830
+Long-term restricted cash (Note 9) 188 37
+Investments and long-term receivables, less allowance of $5 in both periods (Note 12) 1,466 513
+Operating lease assets (Note 24) 230 —
+Property, plant and equipment, net (Note 13) 5,447 4,865
+Intangibles — net (Note 14) 150 158
+Deferred income tax benefits (Note 11) 19 445
+Other noncurrent assets 295 134
+Total assets $ 11,608 $ 10,982
+Liabilities
+Current liabilities:
+Accounts payable and other accrued liabilities $ 1,970 $ 2,454
+Accounts payable to related parties (Note 23) 84 81
+Payroll and benefits payable 336 440
+Accrued taxes 116 118
+Accrued interest 45 39
+Current operating lease liabilities (Note 24) 60 —
+Short-term debt and current maturities of long-term debt (Note 17) 14 65
+Total current liabilities 2,625 3,197
+Noncurrent operating lease liabilities (Note 24) 177 —
+Long-term debt, less unamortized discount and debt issuance costs (Note 17) 3,627 2,316
+Employee benefits (Note 18) 532 980
+Deferred income tax liabilities (Note 11) 4 14
+Deferred credits and other noncurrent liabilities 550 272
+Total liabilities 7,515 6,779
+Contingencies and commitments (Note 26)
+Stockholders’ Equity
+Common stock issued — 178,555,206 and 177,386,430 shares issued (par value $1 per share,
+179 177
+authorized 400,000,000 shares) (Note 8)
+Treasury stock, at cost (8,509,337 shares and 2,857,578 shares) (173) (78)
+Additional paid-in capital 4,020 3,917
+Retained earnings 544 1,212
+Accumulated other comprehensive loss (Note 21) (478) (1,026)
+Total United States Steel Corporation stockholders’ equity 4,092 4,202
+Noncontrolling interests 1 1
+Total liabilities and stockholders’ equity $ 11,608 $ 10,982
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-9
+Page#4
+Table of Contents
+UNITED STATES STEEL CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Year Ended December 31,
+(Dollars in millions) 2019 2018 2017
+Increase (decrease) in cash and cash equivalents
+Operating activities:
+Net (loss) earnings $ (630) $ 1,115 $ 387
+Adjustments to reconcile net cash provided by operating activities:
+Depreciation, depletion and amortization (Notes 13 and 14) 616 521 501
+Gain associated with retained interest in U. S. Steel Canada Inc. (Note 5) — — (72)
+Gain on equity investee transactions (Note 12) — (38) (2)
+Restructuring and other charges (Note 25) 275 — 31
+Loss on debt extinguishment (Note 7) — 98 54
+Pensions and other post-employment benefits 101 77 (16)
+Deferred income taxes (Note 11) 202 (329) (72)
+Net gain on disposal of assets (1) (6) (5)
+Equity investees earnings, net of distributions received (74) (47) (32)
+Changes in:
+Current receivables 453 (312) (36)
+Inventories 296 (374) (117)
+Current accounts payable and accrued expenses (473) 282 225
+Income taxes receivable/payable 13 (8) (52)
+All other, net (96) (41) 32
+Net cash provided by operating activities 682 938 826
+Investing activities:
+Capital expenditures (1,252) (1,001) (505)
+Investment in Big River Steel (710) — —
+Disposal of assets 4 10 5
+Proceeds from sale of ownership interests in equity investees — 30 116
+Investments, net — (2) (2)
+Net cash used in investing activities (1,958) (963) (386)
+Financing activities:
+Revolving credit facilities - borrowings, net of financing costs 860 228 —
+Revolving credit facilities - repayments (100) — —
+Issuance of long-term debt, net of financing costs (Note 17) 702 640 737
+Repayment of long-term debt (Note 17) (155) (1,299) (1,127)
+Common stock repurchased (Note 27) (88) (75) —
+Receipts from exercise of stock options (Note 15) — 35 20
+Taxes paid for equity compensation plans (Note 15) (7) (8) (10)
+Dividends paid (35) (36) (35)
+Net cash provided by (used in) financing activities 1,177 (515) (415)
+Effect of exchange rate changes on cash (2) (17) 17
+Net (decrease) increase in cash, cash equivalents and restricted cash (101) (557) 42
+Cash, cash equivalents and restricted cash at beginning of year (Note 9) 1,040 1,597 1,555
+Cash, cash equivalents and restricted cash at end of year (Note 9) $ 939 $ 1,040 $ 1,597
+See Note 22 for supplemental cash flow information.
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-10

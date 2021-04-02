@@ -1,7 +1,7 @@
 <div mat-dialog-content class="dialog-content">
     <p [innerHTML]="data.dialogMsg" style="text-align: center;"></p>
   </div>
-  <div mat-dialog-actions style="justify-content: flex-center">
+  <div mat-dialog-actions style="justify-content:center">
     <button mat-button [mat-dialog-close]="'Yes'" cdkFocusInitial  class="no-button">{{data.okButtonMsg}}</button>
     <button mat-button (click)="onNoClick()" *ngIf="data.noButtonMsg" class="no-button">{{data.noButtonMsg}}</button>
 </div>

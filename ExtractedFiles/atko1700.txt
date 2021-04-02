@@ -1,0 +1,155 @@
+
+Page#1
+ATKORE INTERNATIONAL GROUP INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+ 
+ Fiscal Year Ended
+(in thousands, except per share data) Note  September 30, 2017  September 30, 2016  September 25, 2015
+Net sales $ 1,503,934 $ 1,523,384 $ 1,729,168
+Cost of sales 1,141,302  1,154,702  1,456,375
+Gross profit 362,632  368,682  272,793
+Selling, general and administrative 182,768  219,397  185,815
+Intangible asset amortization 13  22,407  22,238  22,103
+Asset impairment charges —  129  27,937
+Operating income 157,457  126,918  36,938
+Interest expense, net 26,598  41,798  44,809
+Loss (gain) on extinguishment of debt 14  9,805  (1,661)  —
+Other income, net 6  (5,071)  —  —
+Income (loss) before income taxes 126,125  86,781  (7,871)
+Income tax expense (benefit) 7  41,486  27,985  (2,916)
+Net income (loss) $ 84,639  $ 58,796  $ (4,955)
+ 
+Weighted-Average Common Shares Outstanding 
+Basic 8  63,420  62,486 62,527
+Diluted 8  66,585  62,820 62,527
+Net income (loss) per share 
+Basic 8  $ 1.33  $ 0.94  $ (0.08)
+Diluted 8  $ 1.27  $ 0.94  $ (0.08)
+See Notes to Consolidated Financial Statements
+56
+Page#2
+ATKORE INTERNATIONAL GROUP INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+ Fiscal Year Ended
+September 25,
+(in thousands) Note  September 30, 2017  September 30, 2016  2015
+Net income (loss) $ 84,639  $ 58,796  $ (4,955)
+Other comprehensive (loss), net of tax: 
+Change in foreign currency translation adjustment 1,221  (858)  (7,135)
+Change in unrecognized loss related to pension benefit plans, net of tax
+expense (benefit) of ($3,356), $2,680, $4,554, respectively 3  6,747  (4,059)  (7,268)
+Total other comprehensive income (loss) 9  7,968  (4,917)  (14,403)
+Comprehensive income (loss) $ 92,607  $ 53,879  $ (19,358)
+See Notes to Consolidated Financial Statements
+57
+Page#3
+ATKORE INTERNATIONAL GROUP INC.
+CONSOLIDATED BALANCE SHEETS
+(in thousands, except share and per share data) Note  September 30, 2017  September 30, 2016
+Assets 
+Current Assets: 
+Cash and cash equivalents $ 45,718  $ 200,279
+Accounts receivable, less allowance for doubtful accounts of $1,239 and $1,006, respectively 224,427  192,090
+Inventories, net 10  200,003  161,465
+Assets held for sale 11  —  6,680
+Prepaid expenses and other current assets 35,611  22,407
+Total current assets 505,759  582,921
+Property, plant and equipment, net 12  208,619  202,692
+Intangible assets, net 13  344,289  254,937
+Goodwill 13  147,716  115,829
+Deferred income taxes 7  1,657  945
+Non-trade receivables 7,052  7,244
+Total Assets $ 1,215,092  $ 1,164,568
+Liabilities and Equity
+ 
+Current Liabilities: 
+Short-term debt and current maturities of long-term debt 14  $ 4,215  $ 1,267
+Accounts payable 125,618  114,118
+Income tax payable 2,581  2,326
+Accrued compensation and employee benefits 26,387  34,331
+Other current liabilities 53,036  52,780
+Total current liabilities 211,837  204,822
+Long-term debt 14  571,863  629,046
+Deferred income taxes 7  17,464  12,834
+Other long-term tax liabilities 6,771  6,838
+Pension liabilities 3  25,239  35,172
+Other long-term liabilities 21,047  18,610
+Total Liabilities 854,221  907,322
+Equity: 
+Common stock, $0.01 par value, 1,000,000,000 shares authorized, 63,305,434 and 62,458,367
+shares issued and outstanding, respectively 634  626
+Treasury stock, held at cost, 260,900 and 260,900 shares, respectively (2,580)  (2,580)
+Additional paid-in capital 423,232  398,292
+Accumulated deficit (42,433)  (113,142)
+Accumulated other comprehensive loss 9  (17,982)  (25,950)
+Total Equity 360,871  257,246
+Total Liabilities and Equity $ 1,215,092  $ 1,164,568
+See Notes to Consolidated Financial Statements
+58
+Page#4
+ATKORE INTERNATIONAL GROUP INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+ 
+ Fiscal year ended
+September 30,
+(in thousands) Note  2017  September 30, 2016  September 25, 2015
+Operating activities: 
+Net income (loss) $ 84,639  $ 58,796  $ (4,955)
+Adjustments to reconcile net income to net cash provided by operating activities: 
+(Gain) loss on sale of fixed assets and assets held for sale (5,093)  (357)  1,240
+Impairment of assets —  129  27,937
+Depreciation and amortization 54,727  55,017  59,465
+Amortization of debt issuance costs and original issue discount 1,446  3,586  3,631
+Deferred income taxes 7  938  2,556  (3,650)
+Loss (gain) on extinguishment of debt 14  9,805  (1,661)  —
+Provision for losses on accounts receivable and inventory 1,333  3,021  546
+Stock-based compensation expense 4  12,788  21,127  13,523
+Other adjustments to net income (loss) 896  (190)  —
+Changes in operating assets and liabilities, net of effects from acquisitions 
+Accounts receivable (13,445)  24,538  7,038
+Inventories (10,301)  (2,437)  67,509
+Prepaid expenses and other current assets (3,074)  (2,986)  (616)
+Accounts payable 8,673  4,061  (43,710)
+Income taxes (9,138)  1,005  (3,814)
+Accrued and other liabilities (11,232)  (9,551)  16,311
+Other, net (1,308)  (8)  618
+Net cash provided by operating activities 121,654  156,646  141,073
+Investing activities: 
+Capital expenditures (25,122)  (16,830)  (26,849)
+Proceeds from sale of properties, plant and equipment 100  75  1,451
+Proceeds from sale of assets held for sale 11  3,024  2,400  —
+Acquisitions of businesses, net of cash acquired 2  (183,923)  —  (30,549)
+Proceeds from sale of an investment —  1,328  4,844
+Other, net 88  132  (78)
+Net cash (used for) continuing investing activities (205,833)  (12,895)  (51,181)
+Net cash provided by discontinued investing activities —  —  4,540
+Net cash (used for) investing activities (205,833)  (12,895)  (46,641)
+Financing activities: 
+Borrowings under credit facility 14  97,000  —  788,000
+Repayments under credit facility 14  (12,000)  —  (828,000)
+Issuance of short-term debt 14  —  —  1,692
+Repayments of short-term debt 14  (4,200)  (1,619)  (1,661)
+Issuance of long-term debt 14  498,750  —  —
+Repayments of long-term debt 14  (641,100)  (22,175)  (4,200)
+Issuance of common stock 4  12,168  52  49
+59
+Page#5
+ Fiscal year ended
+September 30, September 30,
+(in thousands) Note  2017  2016  September 25, 2015
+Repurchase of common stock (13,938)  —  (882)
+Payment for debt financing costs and fees 14  (4,375)  —  (102)
+Proceeds from foreign exchange forward option —  —  999
+Other, net (65)  (166)  (1)
+Net cash (used for) financing activities (67,760)  (23,908)  (44,106)
+Effects of foreign exchange rate changes on cash and cash equivalents (2,622)  (162)  (3,088)
+Increase (decrease) in cash and cash equivalents (154,561)  119,681  47,238
+Cash and cash equivalents at beginning of period 200,279  80,598  33,360
+Cash and cash equivalents at end of period $ 45,718  $ 200,279  $ 80,598
+Supplementary Cash Flow information 
+Interest paid $ 26,131  $ 49,855  $ 41,460
+Income taxes paid, net of refunds 49,813  30,859  4,759
+Capital expenditures, not yet paid 1,330  525  327
+Reclassification of stock-based compensation liability 4  —  43,870  —
+See Notes to Consolidated Financial Statements
+60

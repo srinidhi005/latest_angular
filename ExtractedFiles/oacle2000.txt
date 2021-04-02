@@ -1,0 +1,269 @@
+
+Page#1
+Table of Contents
+Index to Financial Statements
+ 
+ORACLE CORPORATION
+CONSOLIDATED BALANCE SHEETS
+As of May 31, 2020 and 2019
+ 
+  May 31, 
+(in millions, except per share data)  2020 2019 
+ASSETS 
+ 
+Current assets: 
+ 
+Cash and cash equivalents 
+$ 37,239  $ 20,514 
+Marketable securities 
+ 5,818 17,313 
+Trade receivables, net of allowances for doubtful accounts of $409 and $371 as of May 31, 2020 and May 31, 2019,
+ 
+respectively  5,551 5,134 
+Prepaid expenses and other current assets 
+ 3,532 3,425 
+Total current assets 
+ 52,140 46,386 
+Non-current assets: 
+ 
+Property, plant and equipment, net 
+ 6,244 6,252 
+Intangible assets, net 
+ 3,738 5,279 
+Goodwill, net 
+ 43,769 43,779 
+Deferred tax assets 
+ 3,252 2,696 
+Other non-current assets 
+ 6,295 4,317 
+Total non-current assets 
+ 63,298 62,323 
+Total assets 
+$ 115,438  $ 108,709 
+ 
+LIABILITIES AND EQUITY 
+Current liabilities: 
+ 
+Notes payable, current 
+$ 2,371  $ 4,494 
+Accounts payable 
+ 637 580 
+Accrued compensation and related benefits 
+ 1,453 1,628 
+Deferred revenues 
+ 8,002 8,374 
+Other current liabilities 
+ 4,737 3,554 
+Total current liabilities 
+ 17,200 18,630 
+Non-current liabilities: 
+ 
+Notes payable and other borrowings, non-current 
+ 69,226 51,673 
+Income taxes payable 
+ 12,463 13,295 
+Other non-current liabilities 
+ 3,832 2,748 
+Total non-current liabilities 
+ 85,521 67,716 
+Commitments and contingencies 
+ 
+Oracle Corporation stockholders' equity: 
+ 
+Preferred stock, $0.01 par value—authorized: 1.0 shares; outstanding: none 
+ — — 
+Common stock, $0.01 par value and additional paid in capital—authorized: 11,000 shares; outstanding: 3,067 shares
+ 
+and 3,359 shares as of May 31, 2020 and May 31, 2019, respectively  26,486 26,909 
+Accumulated deficit 
+ (12,696) (3,496)
+Accumulated other comprehensive loss 
+ (1,716) (1,628)
+Total Oracle Corporation stockholders' equity 
+ 12,074 21,785 
+Noncontrolling interests 
+ 643 578 
+Total equity 
+ 12,717 22,363 
+Total liabilities and equity 
+$ 115,438  $ 108,709
+ 
+ 
+See notes to consolidated financial statements.
+69
+Page#2
+Table of Contents
+Index to Financial Statements
+ 
+ORACLE CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+For the Years Ended May 31, 2020, 2019 and 2018
+ 
+  Year Ended May 31, 
+(in millions, except per share data)  2020 2019 2018 
+revenues: 
+ 
+Cloud services and license support 
+$ 27,392  $ 26,707  $ 26,222 
+Cloud license and on-premise license 
+ 5,127 5,855 5,772 
+Hardware 
+ 3,443 3,704 3,994 
+Services 
+ 3,106 3,240 3,395 
+Total revenues 
+ 39,068 39,506 39,383 
+Operating expenses: 
+ 
+Cloud services and license support(1) 
+ 4,006 3,782 3,606 
+Hardware(1) 
+ 1,116 1,360 1,576 
+Services(1) 
+ 2,816 2,853 2,878 
+Sales and marketing(1) 
+ 8,094 8,509 8,433 
+research and development 
+ 6,067 6,026 6,084 
+General and administrative 
+ 1,181 1,265 1,282 
+Amortization of intangible assets 
+ 1,586 1,689 1,620 
+Acquisition related and other 
+ 56 44 52 
+restructuring 
+ 250 443 588 
+ 
+Total operating expenses  25,172 25,971 26,119 
+Operating income 
+ 13,896 13,535 13,264 
+Interest expense 
+ (1,995) (2,082) (2,025)
+Non-operating income, net 
+ 162 815 1,185 
+Income before provision for income taxes 
+ 12,063 12,268 12,424 
+Provision for income taxes 
+ 1,928 1,185 8,837 
+Net income 
+$ 10,135  $ 11,083  $ 3,587 
+Earnings per share: 
+ 
+Basic 
+$ 3.16  $ 3.05  $ 0.87 
+Diluted 
+$ 3.08  $ 2.97  $ 0.85 
+Weighted average common shares outstanding: 
+ 
+Basic 
+ 3,211 3,634 4,121 
+Diluted 
+ 3,294 3,732 4,238
+ 
+ 
+(1) Exclusive of amortization of intangible assets, which is shown separately.
+ 
+ 
+See notes to consolidated financial statements.
+70
+Page#3
+Table of Contents
+Index to Financial Statements
+ 
+ORACLE CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+For the Years Ended May 31, 2020, 2019 and 2018
+ 
+  Year Ended May 31, 
+(in millions)  2020 2019 2018 
+Cash flows from operating activities: 
+ 
+Net income 
+$ 10,135  $ 11,083  $ 3,587 
+Adjustments to reconcile net income to net cash provided by operating activities: 
+ 
+Depreciation 
+ 1,382 1,230 1,165 
+Amortization of intangible assets 
+ 1,586 1,689 1,620 
+Allowances for doubtful accounts receivable 
+ 245 190 146 
+Deferred income taxes 
+ (851) (1,191) (847)
+Stock-based compensation 
+ 1,590 1,653 1,607 
+Other, net 
+ 239 157 (27)
+Changes in operating assets and liabilities, net of effects from acquisitions: 
+ 
+(Increase) decrease in trade receivables, net 
+ (690) (272) 267 
+Decrease (increase) in prepaid expenses and other assets 
+ 665 261 (258)
+Decrease in accounts payable and other liabilities 
+ (496) (102) (260)
+(Decrease) increase in income taxes payable 
+ (444) (453) 8,150 
+(Decrease) increase in deferred revenues 
+ (222) 306 236 
+Net cash provided by operating activities 
+ 13,139 14,551 15,386 
+Cash flows from investing activities: 
+ 
+Purchases of marketable securities and other investments 
+ (5,731) (1,400) (25,282)
+Proceeds from maturities of marketable securities and other investments 
+ 4,687 12,681 20,372 
+Proceeds from sales of marketable securities 
+ 12,575 17,299 2,745 
+Acquisitions, net of cash acquired 
+ (124) (363) (1,724)
+Capital expenditures 
+ (1,564) (1,660) (1,736)
+Net cash provided by (used for) investing activities 
+ 9,843 26,557 (5,625)
+Cash flows from financing activities: 
+ 
+Payments for repurchases of common stock 
+ (19,240) (36,140) (11,347)
+Proceeds from issuances of common stock 
+ 1,588 2,155 2,402 
+Shares repurchased for tax withholdings upon vesting of restricted stock-based awards 
+ (665) (503) (506)
+Payments of dividends to stockholders 
+ (3,070) (2,932) (3,140)
+Proceeds from borrowings, net of issuance costs 
+ 19,888 — 12,443 
+repayments of borrowings 
+ (4,500) (4,500) (9,800)
+Other, net 
+ (133) (136) (34)
+Net cash used for financing activities 
+ (6,132) (42,056) (9,982)
+Effect of exchange rate changes on cash and cash equivalents 
+ (125) (158) 57 
+Net increase (decrease) in cash and cash equivalents 
+ 16,725 (1,106) (164)
+Cash and cash equivalents at beginning of period 
+ 20,514 21,620 21,784 
+Cash and cash equivalents at end of period 
+$ 37,239 $ 20,514 $ 21,620 
+Non-cash investing and financing activities: 
+ 
+Fair values of stock awards assumed in connection with acquisitions 
+$ —  $ 8  $ 3 
+Change in unsettled repurchases of common stock 
+$ (40)  $ (140)  $ 154 
+Change in unsettled investment purchases 
+$ —  $ —  $ (303)
+Supplemental schedule of cash flow data: 
+ 
+Cash paid for income taxes  
+$ 3,218  $ 2,901  $ 1,562 
+Cash paid for interest 
+$ 1,972  $ 2,059  $ 1,910
+ 
+ 
+See notes to consolidated financial statements.
+ 
+73

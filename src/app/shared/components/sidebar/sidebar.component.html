@@ -80,17 +80,17 @@
     <mat-accordion>
         <mat-expansion-panel class="mat-elevation-z0">
             <mat-expansion-panel-header>
-                <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
+                <a mat-list-item routerLinkActive="list-item-active">
                     <mat-icon>pie_chart</mat-icon>Budgeting
                 </a>
             </mat-expansion-panel-header>
-            <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
+            <a mat-list-item routerLinkActive="list-item-active">
                 <mat-icon>tune</mat-icon>AdjustAssumption
             </a>
-            <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
+            <a mat-list-item routerLinkActive="list-item-active">
                 <mat-icon>layers</mat-icon>Actuals
             </a>
-            <a mat-list-item routerLinkActive="list-item-active" routerLink="/kpi">
+            <a mat-list-item routerLinkActive="list-item-active">
                 <mat-icon>flash_on</mat-icon>Target v/s Actuals
             </a>
         </mat-expansion-panel>
@@ -150,6 +150,12 @@
             </mat-accordion>
         </mat-expansion-panel>
     </mat-accordion>
+	
+      <a mat-list-item routerLinkActive="list-item-active" routerLink="/report">
+        <mat-icon>assignment</mat-icon>
+        Report
+    </a>
+
 
     <a mat-list-item routerLinkActive="list-item-active" routerLink="/profile" [class.selected-menu] = "excelService.selectedDashboardMenu == 'profile'"  
      (click) = "excelService.selectedDashboardMenu = 'profile'">

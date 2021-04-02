@@ -1,0 +1,209 @@
+:host {
+  .leftAlign {
+    text-align: left;
+  }
+
+  .rightAlign {
+    text-align: right;
+  }
+
+  .centerAlign {
+    text-align: center;
+  }
+
+  .autoMargin {
+    margin: auto;
+  }
+
+  .applyMargin {
+    margin: 3% 1px;
+  }
+
+  .downloadReportBtn {
+    background-color: #164a5b;
+    color: #fff;
+  }
+}
+
+.label {
+  margin-top: 5px;
+}
+
+::ng-deep .mat-checkbox-checked.mat-accent .mat-checkbox-background,
+.mat-checkbox-indeterminate.mat-accent .mat-checkbox-background {
+  background-color: #164a5b;
+}
+
+::ng-deep .mat-checkbox-layout {
+  margin-top: 7px;
+}
+
+::ng-deep .mat-checkbox-checkmark-path {
+  stroke: white !important;
+}
+
+.headerLabel {
+  float: left;
+  font-size: 22px;
+  font-weight: 400;
+  font-family: Roboto, 'Helvetica Neue', sans-serif;
+}
+#myTable {
+  border-radius: 25px;
+}
+table {
+  width: 100%;
+  background: white;
+  border-spacing: 0px;
+  border-radius: 25px;
+}
+.mat-paginator-sticky {
+  bottom: 0px;
+  position: sticky;
+  z-index: 10;
+}
+.borderRadius {
+  border-top-right-radius: 25px;
+}
+.table {
+  font-family: Roboto, 'Helvetica Neue', sans-serif;
+  th,
+  td {
+    padding: 5px 10px;
+    border-bottom: 0.5px solid rgb(214, 210, 210);
+    border-width: 90%;
+  }
+  .leftAlign {
+    text-align: left;
+  }
+
+  .rightAlign {
+    text-align: right;
+  }
+  .boldClass {
+    font-weight: bold;
+    font-size: 16px;
+    padding: 5px 10px;
+  }
+
+  .tableheaderClass {
+    font-style: italic;
+    font-size: 16px;
+    padding: 5px 10px;
+    background: #164a5b;
+    color: white;
+  }
+
+  .tableheaderYearClass {
+    font-size: 16px;
+    padding: 5px 10px;
+    background: #164a5b;
+    color: white;
+  }
+
+  .tableboldClass {
+    font-weight: bold;
+    font-size: 16px;
+    padding: 5px 10px;
+  }
+
+  .italicClass {
+    font-style: italic;
+    font-size: 16px;
+    padding: 5px 10px;
+  }
+  .normalClass {
+    font-size: 16px;
+    padding: 5px 10px;
+  }
+}
+.cursor {
+  cursor: pointer;
+}
+.dialog-container {
+  width: 35vw;
+}
+a {
+  color: black;
+}
+
+.name {
+  color: #0056b3;
+  cursor: pointer;
+}
+th {
+  font-size: 18px;
+  font-weight: bold;
+}
+th.mat-header-cell:last-of-type {
+  padding-right: 0px;
+}
+.company {
+  max-width: 80%;
+  text-overflow: hidden;
+  // overflow:hidden;
+}
+.highlight {
+  font-weight: bold;
+  background-color: #d1edf2;
+}
+.boldyears {
+  font-weight: bold;
+}
+.header {
+  margin-top: 0px;
+  padding: 0 0 10px 0;
+}
+
+.header-align-right {
+  text-align: right;
+}
+// .mat-column-0 {
+//   text-align: left;
+// }
+
+button {
+  background-color: #164a5b;
+  color: #fff;
+}
+.create {
+  right: 110px;
+}
+
+:host {
+  .container .row {
+    margin: 5px;
+  }
+
+
+  .headers {
+    background-color: #164a5b;
+
+    color: white;
+    padding: 5px 10px;
+    font-weight: normal;
+    border-top-left-radius: 25px;
+  }
+  .footers {
+    background-color: #cde2f4;
+    border-top: 1px solid #000;
+  }
+  .main-header {
+    padding: 5px 10px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .highlight {
+    background-color: #cde2f4;
+    border: 3px dashed #000;
+    margin-bottom: 15px;
+  }
+  .right-align {
+    text-align: right;
+  }
+  .left-align {
+    text-align: left;
+  }
+}
+
+

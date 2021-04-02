@@ -28,12 +28,12 @@ initChangePassword(){
     console.log("Sent a mail to update the password", res);
     // this.openSnackBar("We have sent a link to your Email to update your password")
     // this.excelService.showMessage("We have sent an Email with a Link to Update your Password", "Ok", '350px', '160px')
-    this.progressMsg = "We have sent an Email with a Link to Update your Password"
+    this.progressMsg = "We have sent you an email to update your password "
   }, error => {
     console.log("Failed to send a mail to update the password", error);
     // this.excelService.showMessage("We have sent an Email with a Link to Update your Password", "Ok", '350px', '160px');
     if(error.status == 200){
-      this.progressMsg = "We have sent an Email with a Link to Update your Password"
+      this.progressMsg = "We have sent you an email to update your password"
     }
     else{
       this.progressMsg = "Failed to send an Email. Please Contact your Admin";

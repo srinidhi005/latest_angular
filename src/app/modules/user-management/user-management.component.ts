@@ -7,7 +7,11 @@ import { Router } from '@angular/router';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { RMIAPIsService } from 'src/app/shared/rmiapis.service';
 import { MatSnackBar } from '@angular/material/snack-bar';
-import { MatDialog, MatDialogRef, MAT_DIALOG_DATA } from '@angular/material/dialog';
+import {
+  MatDialog,
+  MatDialogRef,
+  MAT_DIALOG_DATA,
+} from '@angular/material/dialog';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { generatePassword, Preferences } from '@password-generator/package';
 import { MatRadioModule } from '@angular/material/radio';
@@ -45,7 +49,7 @@ picture;
   loggedInUserDetails = {} as any;
   loggedInUserId = localStorage.getItem('loggedInUserId');
 
-  newUserRoles = ["User", "Admin"];
+  newUserRoles = ['User', 'Admin'];
 
   user = {
     email: '',
@@ -69,16 +73,16 @@ picture;
       numbers: true,
       symbols: false,
     },
-  }
+  };
 
   ngOnInit(): void {
- 
-
-this.excelService.selectedDashboardMenu = 'profile'
-if(this.authService.currentUserRoles?.indexOf('Admin') >=0 || this.authService.currentUserRoles?.indexOf('SuperAdmin') >=0){
-
-    }
-    else{
+    this.excelService.selectedDashboardMenu = 'profile';
+    
+    if (
+      this.authService.currentUserRoles?.indexOf('Admin') >= 0 ||
+      this.authService.currentUserRoles?.indexOf('SuperAdmin') >= 0
+    ) {
+    } else {
       this.router.navigate(['/statement']);
     }
     this.progressBar = true;
@@ -110,16 +114,16 @@ this.apiService
                     const userexist =
                       this.loggedInUserDetails.nickname == usermap.nickname;
                     return !userexist;
-		  });
-		this.filteredListOfUsers = this.usersList
+                  });
+                  this.filteredListOfUsers = this.usersList;
                 } else {
-		  this.usersList = response['body'].filter((usermap) => {
+                  this.usersList = response['body'].filter((usermap) => {
                     const userexist = this.MappedUsers.find(
                       (u) => u.inviteduser === usermap.user_id
                     );
                     return userexist;
-		  });
-		this.filteredListOfUsers = this.usersList
+                  });
+                  this.filteredListOfUsers = this.usersList;
                 }
               }
             },
@@ -144,18 +148,44 @@ this.apiService
     }
   }
 
-  changePas(){
-    this.authService.changePassword(this.loggedInUserDetails.email).subscribe(res => {
-      console.log("RES", res);
-    }, error => {
-      console.log("error", error);
+  confirmDeleteUser(user){
+    const toBeDeletedUser = this.usersList.find(u => {
+      return u.user_id == user.user_id
+    })
+
+    const message = "Are you sure you want to delete the user?" + toBeDeletedUser.nickname + "(" + toBeDeletedUser.email + ")";
+
+    const dialogRef = this.excelService.showConfirmMessage(message, "Delete", "Cancel", '480px', '140px');
+
+    dialogRef.afterClosed().subscribe(action => {
+      if(action == "Yes"){
+        this.deleteUser(toBeDeletedUser);
+      }
     })
   }
 
-  deleteUser(index) {
+  changePas() {
+    this.authService.changePassword(this.loggedInUserDetails.email).subscribe(
+      (res) => {
+        console.log('RES', res);
+      },
+      (error) => {
+        console.log('error', error);
+      }
+    );
+  }
 
-    const toBeDeletedUser = this.usersList.splice(index, 1)[0];
- this.filteredListOfUsers = this.usersList
+  deleteUser(toBeDeletedUser) {
+
+    console.log("DELETED USER", toBeDeletedUser.user_id, toBeDeletedUser.nickname);
+
+    if(toBeDeletedUser){
+      this.usersList = this.usersList.filter( u => {
+        return u.user_id != toBeDeletedUser.user_id;
+      }); 
+
+      this.filteredListOfUsers = this.usersList;
+    }
     //deleting user from the auth0
     this.authService.deleteUser(toBeDeletedUser.user_id).subscribe(
       (res) => {
@@ -175,13 +205,12 @@ this.apiService
             .subscribe(
               (response) => {
                 console.log('deleteuserresponse', response);
-		this.openSnackBar("User Deleted Successfully!")     
-	
-		 },
+                this.openSnackBar('User Deleted Successfully!');
+              },
               (error) => {
                 console.log('failed to delete the Users', error);
-	      this.openSnackBar("Failed To Delete User")
-		}
+                this.openSnackBar('Failed To Delete User');
+              }
             );
         }
       },
@@ -220,8 +249,8 @@ this.apiService
           this.authService.updateUsers(body, user.user_id).subscribe(
             (update) => {
               console.log('updateusers', update);
-	this.openSnackBar("Users Role Successfully Updated!")    
-		},
+              this.openSnackBar('Users Role Successfully Updated!');
+            },
             (error) => {
               console.log('update the Users failed', error);
             }
@@ -252,8 +281,8 @@ this.apiService
       this.user.password = password;
 
     } catch (error) {
-      console.error(error.message)
-      this.user.password = "qwT59JHgn";
+      console.error(error.message);
+      this.user.password = 'qwT59JHgn';
     }
 
 
@@ -273,19 +302,23 @@ this.apiService
               (response: any) => {
                 this.progressBar = false;
                 console.log('Response', response);
-                let nameCapitalized  = "";
-                if(this.authService.loggedInUserDetails){
-                  nameCapitalized = this.authService.loggedInUserDetails.nickname.charAt(0).toUpperCase() + this.authService.loggedInUserDetails.nickname.slice(1) 
+                let nameCapitalized = '';
+                if (this.authService.loggedInUserDetails) {
+                  nameCapitalized =
+                    this.authService.loggedInUserDetails.nickname
+                      .charAt(0)
+                      .toUpperCase() +
+                    this.authService.loggedInUserDetails.nickname.slice(1);
                 }
 
                 const reqBody = {
                   app_metadata: {
                     roles: [this.assignedRole],
-                    password: this.user.password
+                    password: this.user.password,
                   },
-                  user_metadata : {
-                    invitedNickName: nameCapitalized
-                  }
+                  user_metadata: {
+                    invitedNickName: nameCapitalized,
+                  },
                 };
 
 
@@ -294,19 +327,22 @@ this.apiService
                   .subscribe(
                     (update) => {
                       console.log('updateusers', update);
-		      this.usersList.unshift(update.body);
-		      this.filteredListOfUsers = this.usersList
+                      this.usersList.unshift(update.body);
+                      this.filteredListOfUsers = this.usersList;
                       this.openSnackBar('User created Successfully!');
-                      const idOnly = res['body']['user_id'].indexOf("|");
-                      const createdUserId : string = res['body']['user_id']
+                      const idOnly = res['body']['user_id'].indexOf('|');
+                      const createdUserId: string = res['body']['user_id'];
                       const reqBodyForEmail = {
-                        "user_id": res['body']['user_id'],
-                        "client_id": "lLtgZM1NooB3CBkugjhEcGT43kZH3XSS",
-                        "identity": {
-                          "user_id": createdUserId.slice((idOnly+1), res['body']['user_id'].length),
-                          "provider": createdUserId.slice(0, idOnly)
-                        }
-                      }
+                        user_id: res['body']['user_id'],
+                        client_id: 'lLtgZM1NooB3CBkugjhEcGT43kZH3XSS',
+                        identity: {
+                          user_id: createdUserId.slice(
+                            idOnly + 1,
+                            res['body']['user_id'].length
+                          ),
+                          provider: createdUserId.slice(0, idOnly),
+                        },
+                      };
 
                       this.authService.sendVerificationEmail(reqBodyForEmail).subscribe(resp => {
                         console.log("Email Sent Successfully", resp);
@@ -381,22 +417,21 @@ this.apiService
     this.modalService.open(content, { centered: true });
   }
 
-pageChanged(event){
-    this.currentPage = event
+  pageChanged(event) {
+    this.currentPage = event;
   }
 
-  applyFilter(event){
+  applyFilter(event) {
     event.target.value;
-    if(event.target.value){
-      this.filteredListOfUsers = this.usersList.filter( user => {
-          const u = user.nickname.toLowerCase();
-          const v = event.target.value.toLowerCase();
-          const index = u.indexOf(v);
-          const filter = index >= 0 ? true : false;
-          return filter;
-       })
-    }
-    else if(event?.target?.value == ""){
+    if (event.target.value) {
+      this.filteredListOfUsers = this.usersList.filter((user) => {
+        const u = user.nickname.toLowerCase();
+        const v = event.target.value.toLowerCase();
+        const index = u.indexOf(v);
+        const filter = index >= 0 ? true : false;
+        return filter;
+      });
+    } else if (event?.target?.value == '') {
       this.filteredListOfUsers = this.usersList;
     }
   }

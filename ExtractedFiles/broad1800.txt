@@ -1,0 +1,158 @@
+
+Page#1
+Table of Contents
+BROADCOM INC.
+CONSOLIDATED BALANCE SHEETS
+November 4, October 29, 
+  2018  2017
+ 
+  (In millions, except par value)
+ASSETS 
+Current assets: 
+Cash and cash equivalents  $ 4,292  $ 11,204
+Trade accounts receivable, net  3,325  2,448
+Inventory  1,124  1,447
+Other current assets  366  724
+Total current assets  9,107  15,823
+Long-term assets: 
+Property, plant and equipment, net  2,635  2,599
+Goodwill  26,913  24,706
+Intangible assets, net  10,762  10,832
+Other long-term assets  707  458
+Total assets  $ 50,124  $ 54,418
+LIABILITIES AND EQUITY 
+Current liabilities: 
+Accounts payable  $ 811  $ 1,105
+Employee compensation and benefits  715  626
+Current portion of long-term debt  —  117
+Other current liabilities  812  681
+Total current liabilities  2,338  2,529
+Long-term liabilities: 
+Long-term debt  17,493  17,431
+Other long-term liabilities  3,636  11,272
+Total liabilities  23,467  31,232
+Commitments and contingencies (Note 13)  
+Equity: 
+Broadcom Inc. stockholders’ equity: 
+Preferred stock, $0.001 par value; 100 shares authorized; none and 22 shares issued and outstanding as of
+November 4, 2018 and October 29, 2017, respectively  —  —
+Common stock and additional paid-in capital, $0.001 par value; 2,900 shares authorized; 408 and 409 shares
+issued and outstanding as of November 4, 2018 and October 29, 2017, respectively  23,285  20,505
+Retained earnings (accumulated deficit)  3,487  (129)
+Accumulated other comprehensive loss  (115)  (91)
+Total Broadcom Inc. stockholders’ equity  26,657  20,285
+Noncontrolling interest  —  2,901
+Total equity  26,657  23,186
+Total liabilities and equity  $ 50,124  $ 54,418
+The accompanying notes are an integral part of these consolidated financial statements.
+56
+Page#2
+Table of Contents
+BROADCOM INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+  Fiscal Year Ended
+November 4, October 29, October 30, 
+  2018  2017  2016
+ 
+  (In millions, except per share data)
+Net revenue  $ 20,848  $ 17,636  $ 13,240
+Cost of products sold: 
+Cost of products sold  7,021  6,593  5,295
+Purchase accounting effect on inventory  70  4  1,185
+Amortization of acquisition-related intangible assets  3,004  2,511  763
+Restructuring charges  20  19  57
+Total cost of products sold  10,115  9,127  7,300
+Gross margin  10,733  8,509  5,940
+Research and development  3,768  3,292  2,674
+Selling, general and administrative  1,056  787  806
+Amortization of acquisition-related intangible assets  541  1,764  1,873
+Restructuring, impairment and disposal charges  219  161  996
+Litigation settlements  14  122  —
+Total operating expenses  5,598  6,126  6,349
+Operating income (loss)  5,135  2,383  (409)
+Interest expense  (628)  (454)  (585)
+Impairment on investment  (106)  —  —
+Loss on extinguishment of debt  —  (166)  (123)
+Other income, net  144  62  10
+Income (loss) from continuing operations before income taxes  4,545  1,825  (1,107)
+Provision for (benefit from) income taxes  (8,084)  35  642
+Income (loss) from continuing operations  12,629  1,790  (1,749)
+Loss from discontinued operations, net of income taxes  (19)  (6)  (112)
+Net income (loss)  12,610  1,784  (1,861)
+Net income (loss) attributable to noncontrolling interest  351  92  (122)
+Net income (loss) attributable to common stock  $ 12,259  $ 1,692  $ (1,739)
+ 
+Basic income (loss) per share: 
+Income (loss) per share from continuing operations  $ 29.37  $ 4.19  $ (4.46)
+Loss per share from discontinued operations  (0.04)  (0.01)  (0.29)
+Net income (loss) per share  $ 29.33  $ 4.18  $ (4.75)
+ 
+Diluted income (loss) per share: 
+Income (loss) per share from continuing operations  $ 28.48  $ 4.03  $ (4.57)
+Loss per share from discontinued operations  (0.04)  (0.01)  (0.29)
+Net income (loss) per share  $ 28.44  $ 4.02  $ (4.86)
+ 
+Weighted-average shares: 
+Basic  418  405  366
+Diluted  431  421  383
+The accompanying notes are an integral part of these consolidated financial statements.
+57
+Page#3
+Table of Contents
+BROADCOM INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+  Fiscal Year Ended
+November 4, October 29, October 30, 
+  2018  2017  2016
+ 
+  (In millions)
+Cash flows from operating activities: 
+Net income (loss)  $ 12,610  $ 1,784  $ (1,861)
+Adjustments to reconcile net income (loss) to net cash provided by operating activities: 
+Amortization of intangible assets  3,566  4,286  2,640
+Depreciation  515  451  402
+Stock-based compensation  1,227  921  679
+Excess tax benefits from stock-based compensation  —  —  (89)
+Deferred taxes and other non-cash taxes  (8,270)  (173)  365
+Impairment on investment  106  —  —
+Non-cash portion of debt extinguishment loss  —  166  100
+Non-cash restructuring, impairment and disposal charges  21  71  662
+Amortization of debt issuance costs and accretion of debt discount  24  24  36
+Other  37  7  (6)
+Changes in assets and liabilities, net of acquisitions and disposals: 
+Trade accounts receivable, net  (652)  (267)  (491)
+Inventory  417  (39)  996
+Accounts payable  (325)  (97)  33
+Employee compensation and benefits  6  109  163
+Contributions to defined benefit pension plans  (130)  (361)  (33)
+Other current assets and current liabilities  369  (490)  (98)
+Other long-term assets and long-term liabilities  (641)  159  (87)
+Net cash provided by operating activities  8,880  6,551  3,411
+Cash flows from investing activities: 
+Acquisitions of businesses, net of cash acquired  (4,800)  (40)  (10,055)
+Proceeds from sales of businesses  773  10  898
+Purchases of property, plant and equipment  (635)  (1,069)  (723)
+Proceeds from disposals of property, plant and equipment  239  441  5
+Purchases of investments  (249)  (207)  (58)
+Proceeds from sales and maturities of investments  54  200  104
+Other  (56)  (9)  (11)
+Net cash used in investing activities  (4,674)  (674)  (9,840)
+Cash flows from financing activities: 
+Proceeds from issuance of long-term debt  —  17,426  19,510
+Repayment of debt  (973)  (13,668)  (11,317)
+Payment of debt issuance costs  —  (24)  (123)
+Dividend and distribution payments  (2,998)  (1,745)  (750)
+Repurchase of common stock  (7,258)  —  —
+Issuance of common stock, net of shares withheld for employee taxes  156  257  295
+Excess tax benefits from stock-based compensation  —  —  89
+Payment of capital lease obligations  (21)  (16)  —
+Other  (24)  —  —
+Net cash provided by (used in) financing activities  (11,118)  2,230  7,704
+Net change in cash and cash equivalents  (6,912)  8,107  1,275
+Cash and cash equivalents at beginning of period  11,204  3,097  1,822
+Cash and cash equivalents at end of period  $ 4,292  $ 11,204  $ 3,097
+Supplemental disclosure of cash flow information: 
+Cash paid for interest  $ 547  $ 310  $ 448
+Cash paid for income taxes  $ 512  $ 349  $ 242
+The accompanying notes are an integral part of these consolidated financial statements.
+59

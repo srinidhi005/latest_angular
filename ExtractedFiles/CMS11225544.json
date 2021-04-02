@@ -1,0 +1,101 @@
+[annotation_spec_id: "3142759374439579648"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.3929840624332428
+  text_segment {
+    start_offset: 150
+    end_offset: 160
+    content: "Total Bank"
+  }
+}
+, annotation_spec_id: "7322099828639399936"
+display_name: "Inventories"
+text_extraction {
+  score: 0.003019690280780196
+  text_segment {
+    start_offset: 161
+    end_offset: 169
+    content: "Accounts"
+  }
+}
+, annotation_spec_id: "6313293512108408832"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.8801003098487854
+  text_segment {
+    start_offset: 288
+    end_offset: 308
+    content: "Total Current Assets"
+  }
+}
+, annotation_spec_id: "5592717571729129472"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.971154510974884
+  text_segment {
+    start_offset: 331
+    end_offset: 343
+    content: "TOTAL ASSETS"
+  }
+}
+, annotation_spec_id: "3142759374439579648"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.11851229518651962
+  text_segment {
+    start_offset: 478
+    end_offset: 496
+    content: "Total Credit Cards"
+  }
+}
+, annotation_spec_id: "4872141631349850112"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.8977006077766418
+  text_segment {
+    start_offset: 513
+    end_offset: 538
+    content: "Total Current Liabilities"
+  }
+}
+, annotation_spec_id: "7898560580942823424"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.9224662780761719
+  text_segment {
+    start_offset: 555
+    end_offset: 572
+    content: "Total Liabilities"
+  }
+}
+, annotation_spec_id: "4439796067122282496"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.5104765295982361
+  text_segment {
+    start_offset: 965
+    end_offset: 975
+    content: "Net Income"
+  }
+}
+, annotation_spec_id: "3142759374439579648"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.48905283212661743
+  text_segment {
+    start_offset: 998
+    end_offset: 1010
+    content: "Total Equity"
+  }
+}
+, annotation_spec_id: "8475021333246246912"
+display_name: "Goodwill"
+text_extraction {
+  score: 0.002505549928173423
+  text_segment {
+    start_offset: 1033
+    end_offset: 1038
+    content: "TOTAL"
+  }
+}
+]

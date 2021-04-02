@@ -32,7 +32,7 @@ export class ComparatorComponent implements OnInit {
 
   typeOfFinancials = "Historical";
   
-  nickname;
+  employer;
   progressBar = false;
 
   allCompanies = [];
@@ -62,7 +62,7 @@ export class ComparatorComponent implements OnInit {
 	  ngOnInit(): void {
 	  this.excelService.selectedDashboardMenu = 'comparator'
     this.progressBar = true;
-    this.nickname = localStorage.getItem('nickname');
+    this.employer = localStorage.getItem('employer');
 
     this.filteredOptions = this.myControl.valueChanges.pipe(
       startWith(),
@@ -192,7 +192,7 @@ export class ComparatorComponent implements OnInit {
   async loadComparator(){
     this.progressBar = true;
     try {
-      const companiesAPIData : any = await this.apiService.getData(this.urlConfig.getStatementAPI() + this.nickname).toPromise();
+      const companiesAPIData : any = await this.apiService.getData(this.urlConfig.getStatementAPI() + this.employer).toPromise();
       this.allCompanies = companiesAPIData.map( comp => { 
         return {companyname: comp.companyname, company: comp.company};
       })

@@ -1,0 +1,123 @@
+
+Page#1
+TUTOR PERINI CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME
+Year Ended December 31,
+(in thousands, except per common share amounts) 2018 2017 2016
+REVENUE $ 4,454,662 $ 4,757,208 $ 4,973,076
+COST OF OPERATIONS (4,000,209) (4,302,803) (4,515,886)
+GROSS PROFIT 454,453 454,405 457,190
+General and administrative expenses (262,577) (274,928) (255,270)
+INCOME FROM CONSTRUCTION OPERATIONS 191,876 179,477 201,920
+Other income, net 4,256 43,882 6,977
+Interest expense (63,519) (69,384) (59,782)
+INCOME BEFORE INCOME TAXES 132,613 153,975 149,115
+Income tax (expense) benefit (34,832) 569 (53,293)
+NET INCOME 97,781 154,544 95,822
+LESS: NET INCOME ATTRIBUTABLE TO NONCONTROLLING 
+INTERESTS 14,345 6,162 —
+NET INCOME ATTRIBUTABLE TO TUTOR PERINI CORPORATION $ 83,436 $ 148,382 $ 95,822
+BASIC EARNINGS PER COMMON SHARE $ 1.67 $ 2.99 $ 1.95
+DILUTED EARNINGS PER COMMON SHARE $ 1.66 $ 2.92 $ 1.92
+WEIGHTED-AVERAGE COMMON SHARES OUTSTANDING:
+BASIC 49,952 49,647 49,150
+DILUTED 50,301 50,759 49,864
+The accompanying notes are an integral part of these consolidated financial statements.
+F-3
+Page#2
+TUTOR PERINI CORPORATION AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+As of December 31,
+2018 2017
+(in thousands, except share and per share amounts)
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents ($43,131 and $53,067 related to VIEs) $ 116,075 $ 192,868
+Restricted cash 3,788 4,780
+Restricted investments 58,142 53,014
+Accounts receivable ($62,482 and $30,003 related to VIEs) 1,261,072 1,265,717
+Retainage receivable ($36,724 and $12,410 related to VIEs) 478,744 535,939
+Costs and estimated earnings in excess of billings 1,142,295 932,758
+Other current assets ($30,185 and $0 related to VIEs) 115,527 89,316
+Total current assets 3,175,643 3,074,392
+PROPERTY AND EQUIPMENT:
+Land 41,599 41,382
+Building and improvements 125,193 125,029
+Construction equipment 486,034 477,988
+Other equipment 181,578 182,288
+834,404 826,687
+Less accumulated depreciation (343,735) (359,188)
+Total property and equipment, net ($51,508 and $11,641 related to VIEs) 490,669 467,499
+GOODWILL 585,006 585,006
+INTANGIBLE ASSETS, NET 85,911 89,454
+OTHER ASSETS 50,523 47,772
+TOTAL ASSETS $ 4,387,752 $ 4,264,123
+LIABILITIES AND EQUITY
+CURRENT LIABILITIES:
+Current maturities of long-term debt $ 16,767 $ 30,748
+Accounts payable ($18,070 and $19,243 related to VIEs) 621,728 699,971
+Retainage payable 211,956 261,820
+Billings in excess of costs and estimated earnings ($263,764 and $120,952 related to VIEs) 573,190 456,869
+Accrued expenses and other current liabilities ($34,828 and $0 related to VIEs) 174,325 132,438
+Total current liabilities 1,597,966 1,581,846
+LONG-TERM DEBT, less current maturities, net of unamortized discounts and debt issuance costs 
+totaling $34,998 and $45,631 744,737 705,528
+DEFERRED TAX LIABILITIES 105,521 108,504
+OTHER LONG-TERM LIABILITIES 151,639 163,465
+TOTAL LIABILITIES 2,599,863 2,559,343
+COMMITMENTS AND CONTINGENCIES (Note 8)
+EQUITY
+Stockholders' equity:
+Preferred stock – authorized 1,000,000 shares ($1 par value), none issued — —
+Common stock – authorized 75,000,000 shares ($1 par value), issued and outstanding 50,025,996 and 
+49,781,010 shares 50,026 49,781
+Additional paid-in capital 1,102,919 1,084,205
+Retained earnings 701,681 622,007
+Accumulated other comprehensive loss (45,449) (42,718)
+Total stockholders' equity 1,809,177 1,713,275
+Noncontrolling interests (21,288) (8,495)
+TOTAL EQUITY 1,787,889 1,704,780
+TOTAL LIABILITIES AND EQUITY $ 4,387,752 $ 4,264,123
+The accompanying notes are an integral part of these consolidated financial statements.
+F-5
+Page#3
+TUTOR PERINI CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Year Ended December 31,
+(in thousands) 2018 2017 2016
+Cash Flows from Operating Activities:
+Net income $ 97,781 $ 154,544 $ 95,822
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation 43,724 48,387  63,759
+Amortization of intangible assets 3,543 3,543  3,543
+Share-based compensation expense 22,782 21,174  13,423
+Excess income tax benefit from share-based compensation — —  (269)
+Change in debt discounts and deferred debt issuance costs 12,072 17,595  10,968
+Deferred income taxes (449) (23,096) (10,169)
+Loss on sale of property and equipment 402 1,131  453
+Changes in other components of working capital  (156,844) (60,214) (90,530)
+Other long-term liabilities (2,007) 3,656  28,210
+Other, net 398 (3,170) (1,874)
+NET CASH PROVIDED BY OPERATING ACTIVITIES 21,402 163,550 113,336
+Cash Flows from Investing Activities:
+Acquisition of property and equipment (77,069) (30,280) (15,743)
+Proceeds from sale of property and equipment 6,387 2,744  1,899
+Investments in securities (20,848) (60,967) —
+Proceeds from maturities and sales of investments in securities 21,322 1,370  —
+NET CASH USED IN INVESTING ACTIVITIES (70,208) (87,133) (13,844)
+Cash Flows from Financing Activities:
+Proceeds from debt 1,753,160 2,161,384  1,353,895
+Repayment of debt (1,738,314) (2,195,068) (1,562,684)
+Business acquisition related payment (15,951) —  —
+Issuance of convertible notes — — 200,000
+Cash payments related to share-based compensation (2,671) (11,769) (584)
+Excess income tax benefit from share-based compensation — —  269
+Distributions paid to noncontrolling interests (29,000) (17,499) —
+Contributions from noncontrolling interests 3,797 2,842  —
+Debt issuance and extinguishment costs — (15,266) (15,086)
+NET CASH USED IN FINANCING ACTIVITIES (28,979) (75,376) (24,190)
+Net increase (decrease) in cash, cash equivalents and restricted cash (77,785) 1,041 75,302
+Cash, cash equivalents and restricted cash at beginning of year 197,648 196,607 121,305
+Cash, cash equivalents and restricted cash at end of year $ 119,863 $ 197,648 $ 196,607
+The accompanying notes are an integral part of these consolidated financial statements.
+F-6

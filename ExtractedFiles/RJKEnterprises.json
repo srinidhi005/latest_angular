@@ -1,0 +1,91 @@
+[annotation_spec_id: "5592717571729129472"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.282209575176239
+  text_segment {
+    start_offset: 1814
+    end_offset: 1824
+    content: "Total Bank"
+  }
+}
+, annotation_spec_id: "7322099828639399936"
+display_name: "Inventories"
+text_extraction {
+  score: 0.0023279832676053047
+  text_segment {
+    start_offset: 1825
+    end_offset: 1833
+    content: "Accounts"
+  }
+}
+, annotation_spec_id: "6313293512108408832"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.8814672231674194
+  text_segment {
+    start_offset: 1952
+    end_offset: 1972
+    content: "Total Current Assets"
+  }
+}
+, annotation_spec_id: "5592717571729129472"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9687759876251221
+  text_segment {
+    start_offset: 1995
+    end_offset: 2007
+    content: "TOTAL ASSETS"
+  }
+}
+, annotation_spec_id: "3142759374439579648"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.15995678305625916
+  text_segment {
+    start_offset: 2142
+    end_offset: 2160
+    content: "Total Credit Cards"
+  }
+}
+, annotation_spec_id: "4872141631349850112"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.8948529958724976
+  text_segment {
+    start_offset: 2177
+    end_offset: 2202
+    content: "Total Current Liabilities"
+  }
+}
+, annotation_spec_id: "7898560580942823424"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.9232190847396851
+  text_segment {
+    start_offset: 2219
+    end_offset: 2236
+    content: "Total Liabilities"
+  }
+}
+, annotation_spec_id: "4439796067122282496"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.40347033739089966
+  text_segment {
+    start_offset: 2629
+    end_offset: 2639
+    content: "Net Income"
+  }
+}
+, annotation_spec_id: "3142759374439579648"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.39887937903404236
+  text_segment {
+    start_offset: 2662
+    end_offset: 2674
+    content: "Total Equity"
+  }
+}
+]

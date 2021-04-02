@@ -26,17 +26,29 @@
           </tr>
         </thead>
         <tbody>
-          <ng-container *ngFor="let element of data">
+          <ng-container *ngFor="let element of data; let i=index">
             <tr class="mat-row">
               <td class="mat-cell cdk-column-name mat-column-name" style="width:610px"><b>{{ element.name }}</b></td>
               <ng-container *ngFor="let col of columnFields">
                 <ng-container *ngIf="col !== 'name'">
                   <td class="mat-cell cdk-column-name mat-column-name text-center" style="width:120px">
                     <ng-container *ngIf="isAverage(col); else simple">
-                      <b>{{element[col] | parseNumber}}%</b>
+					<ng-template [ngIf]="i<=3">
+					<b>{{element[col] | parseNumber}}%</b>
+					</ng-template>
+                      <ng-template [ngIf]="i>3">
+					<b>{{element[col] | parseNumber}}x</b>
+					</ng-template>
                     </ng-container>
+					
                     <ng-template #simple>
-                      {{element[col] | parseNumber}}%
+					<ng-template [ngIf]="i<=3">
+					{{element[col] | parseNumber}}%
+					</ng-template>
+                      <ng-template [ngIf]="i>3">
+					{{element[col] | parseNumber}}x
+					</ng-template>
+                      
                     </ng-template>
                   </td>
                 </ng-container>

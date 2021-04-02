@@ -1,0 +1,261 @@
+[annotation_spec_id: "5917416549550915584"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.8634556531906128
+  text_segment {
+    start_offset: 279
+    end_offset: 293
+    content: "Total revenues"
+  }
+}
+, annotation_spec_id: "6349762113778483200"
+display_name: "COGS"
+text_extraction {
+  score: 0.9813071489334106
+  text_segment {
+    start_offset: 492
+    end_offset: 505
+    content: "Cost of sales"
+  }
+}
+, annotation_spec_id: "873384966895960064"
+display_name: "DandA"
+text_extraction {
+  score: 0.8799487948417664
+  text_segment {
+    start_offset: 953
+    end_offset: 982
+    content: "Depreciation and amortization"
+  }
+}
+, annotation_spec_id: "4764495044944068608"
+display_name: "SGA"
+text_extraction {
+  score: 0.9506438970565796
+  text_segment {
+    start_offset: 1065
+    end_offset: 1091
+    content: "General and administrative"
+  }
+}
+, annotation_spec_id: "7790913994537041920"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9692596793174744
+  text_segment {
+    start_offset: 1401
+    end_offset: 1417
+    content: "Operating income"
+  }
+}
+, annotation_spec_id: "5340955797247492096"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9771984219551086
+  text_segment {
+    start_offset: 1528
+    end_offset: 1544
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "4908610233019924480"
+display_name: "EBT"
+text_extraction {
+  score: 0.9781655073165894
+  text_segment {
+    start_offset: 1791
+    end_offset: 1831
+    content: "Income before provision for income taxes"
+  }
+}
+, annotation_spec_id: "7070338054157762560"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9804379940032959
+  text_segment {
+    start_offset: 1904
+    end_offset: 1930
+    content: "Provision for income taxes"
+  }
+}
+, annotation_spec_id: "7214453242233618432"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.966954231262207
+  text_segment {
+    start_offset: 2024
+    end_offset: 2034
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "4332149480716500992"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9831812977790833
+  text_segment {
+    start_offset: 3296
+    end_offset: 3323
+    content: "CONSOLIDATED BALANCE SHEETS"
+  }
+}
+, annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9887105822563171
+  text_segment {
+    start_offset: 3426
+    end_offset: 3451
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "3611573540337221632"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9673478007316589
+  text_segment {
+    start_offset: 3572
+    end_offset: 3591
+    content: "Accounts receivable"
+  }
+}
+, annotation_spec_id: "3467458352261365760"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9478765726089478
+  text_segment {
+    start_offset: 3715
+    end_offset: 3726
+    content: "Inventories"
+  }
+}
+, annotation_spec_id: "3035112788033798144"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9815622568130493
+  text_segment {
+    start_offset: 4160
+    end_offset: 4180
+    content: "Total current assets"
+  }
+}
+, annotation_spec_id: "1738076095351095296"
+display_name: "Goodwill"
+text_extraction {
+  score: 0.9652658104896545
+  text_segment {
+    start_offset: 5216
+    end_offset: 5224
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "4043919104564789248"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9571859836578369
+  text_segment {
+    start_offset: 5956
+    end_offset: 5968
+    content: "Total assets"
+  }
+}
+, annotation_spec_id: "8223259558764609536"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.9644458293914795
+  text_segment {
+    start_offset: 6168
+    end_offset: 6206
+    content: "Current installments of long-term debt"
+  }
+}
+, annotation_spec_id: "3179227976109654016"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.968977153301239
+  text_segment {
+    start_offset: 6305
+    end_offset: 6321
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "585154590744248320"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9402614831924438
+  text_segment {
+    start_offset: 6602
+    end_offset: 6617
+    content: "Accrued payroll"
+  }
+}
+, annotation_spec_id: "585154590744248320"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.843401312828064
+  text_segment {
+    start_offset: 6756
+    end_offset: 6775
+    content: "accrued liabilities"
+  }
+}
+, annotation_spec_id: "3755688728413077504"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9770186543464661
+  text_segment {
+    start_offset: 7041
+    end_offset: 7066
+    content: "Total current liabilities"
+  }
+}
+, annotation_spec_id: "7502683618385330176"
+display_name: "LongTermDebt"
+text_extraction {
+  score: 0.976754903793335
+  text_segment {
+    start_offset: 7181
+    end_offset: 7195
+    content: "Long-term debt"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.4952877163887024
+  text_segment {
+    start_offset: 8530
+    end_offset: 8557
+    content: "Total shareholders\342\200\231 deficit"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.6523743271827698
+  text_segment {
+    start_offset: 8671
+    end_offset: 8714
+    content: "Total liabilities and shareholders\342\200\231 deficit"
+  }
+}
+, annotation_spec_id: "873384966895960064"
+display_name: "DandA"
+text_extraction {
+  score: 0.9164324402809143
+  text_segment {
+    start_offset: 9167
+    end_offset: 9196
+    content: "Depreciation and amortization"
+  }
+}
+, annotation_spec_id: "729269778820104192"
+display_name: "ConsolidatedCashFlows"
+text_extraction {
+  score: 0.5063197612762451
+  text_segment {
+    start_offset: 13219
+    end_offset: 13256
+    content: "CONSOLIDATED STATEMENTS OF CASH FLOWS"
+  }
+}
+]

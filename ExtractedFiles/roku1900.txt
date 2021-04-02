@@ -1,0 +1,163 @@
+
+Page#1
+ 
+ROKU, INC.
+CONSOLIDATED BALANCE SHEETS
+(in thousands, except par value)
+ 
+ 
+ As of December 31, 
+  2019 2018 
+Assets 
+Current Assets: 
+Cash and cash equivalents  $ 515,479  $ 155,564 
+Short-term investments — 42,146 
+Restricted cash 1,854 — 
+Accounts receivable, net of allowances of $27,521 and $21,897 as of 332,673 183,078 
+December 31, 2019 and 2018, respectively 
+Inventories 49,714 35,585 
+Prepaid expenses and other current assets 25,943 16,562 
+Total current assets 925,663 432,935 
+Property and equipment, net 103,262 25,264 
+Operating lease right-of-use assets 283,291 — 
+Intangible assets, net 76,668 1,477 
+Goodwill 74,116 1,382 
+Other non-current assets 7,234 3,939 
+Total Assets  $ 1,470,234  $ 464,997 
+Liabilities and Stockholders’ Equity 
+Current Liabilities: 
+Accounts payable  $ 115,227  $ 56,576 
+Accrued liabilities 198,347 91,986 
+Current portion of long-term debt 4,866 — 
+Deferred revenue, current portion 39,861 45,442 
+Total current liabilities 358,301 194,004 
+Long-term debt, non-current portion 94,742 — 
+Deferred revenue, non-current portion 15,370 19,594 
+Operating lease liability, non-current 301,694 — 
+Other long-term liabilities 1,701 6,748 
+Total Liabilities 771,808 220,346 
+Commitments and contingencies (Note 12) 
+Stockholders’ Equity: 
+Preferred stock, $0.0001 par value; — — 
+10,000 shares authorized as of December 31, 2019 and 2018; 
+no shares issued and outstanding as of December 31, 2019 and 2018 
+Common stock, $0.0001 par value; 12 11 
+1,150,000 (Class A - 1,000,000 and Class B - 150,000) shares authorized 
+as of December 31, 2019 and 2018; 
+119,897 (Class A - 93,574 and Class B - 26,323) shares and 
+109,770 (Class A - 77,820 and Class B - 31,950) shares 
+issued and outstanding as of December 31, 2019 and 2018, respectively 
+Additional paid-in capital 1,012,218 498,553 
+Accumulated other comprehensive loss 29 (17)
+Accumulated deficit (313,833) (253,896)
+Total stockholders’ equity 698,426 244,651 
+Total Liabilities and Stockholders’ Equity  $ 1,470,234  $ 464,997
+ 
+ 
+See accompanying Notes to Consolidated Financial Statements.
+76
+Page#2
+ 
+ROKU, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in thousands, except per share data)
+ 
+ 
+ Years Ended December 31, 
+  2019 2018 2017 
+Net Revenue: 
+Platform  $ 740,776  $ 416,863  $ 225,356 
+Player 388,145 325,643 287,407 
+Total net revenue 1,128,921 742,506 512,763 
+Cost of Revenue: 
+Platform 262,655 120,543 54,826 
+Player 371,042 289,815 258,104 
+Total cost of revenue 633,697 410,358 312,930 
+Gross Profit: 
+Platform 478,121 296,320 170,530 
+Player 17,103 35,828 29,303 
+Total gross profit 495,224 332,148 199,833 
+Operating Expenses: 
+Research and development 265,011 170,692 107,945 
+Sales and marketing 178,855 102,780 64,069 
+General and administrative 116,417 71,972 47,435 
+Total operating expenses 560,283 345,444 219,449 
+Loss from Operations (65,059) (13,296) (19,616)
+Other Income (Expense), Net: 
+Interest expense (2,366) (346) (1,612)
+Loss on extinguishment of debt — — (2,338)
+Change in fair value of preferred stock warrant liability — — (40,333)
+Other income (expense), net 6,506 4,309 705 
+Total other income (expense), net 4,140 3,963 (43,578)
+Loss Before Income Taxes (60,919) (9,333) (63,194)
+Income tax (benefit) expense (982) (476) 315 
+Net Loss Attributable to Common Stockholders  $ (59,937)  $ (8,857)  $ (63,509)
+Net loss per share attributable to common stockholders—basic and diluted  $ (0.52)  $ (0.08)  $ (2.24)
+Weighted-average shares used in computing net loss per share attributable to common
+stockholders—basic and diluted 115,218 104,618 28,308
+ 
+ 
+See accompanying Notes to Consolidated Financial Statements.
+ 
+77
+Page#3
+ 
+ROKU, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+ 
+  Years Ended December 31, 
+  2019 2018 2017 
+Cash flows from operating activities: 
+Net loss  $ (59,937)  $ (8,857) $ (63,509)
+Adjustments to reconcile net loss to net cash provided by operating activities: 
+Depreciation and amortization 15,669 8,389 5,336 
+Stock-based compensation expense 85,175 37,674 10,953 
+Provision for doubtful accounts 704 876 104 
+Change in fair value of preferred stock warrant liability — — 40,333 
+Noncash interest expense 531 342 784 
+(Gain) Loss from exit of facilities and disposal of property and equipment (2) 1,128 579 
+Loss from extinguishment of debt — — 2,338 
+Impairment of long-lived assets 854 352 — 
+Amortization of premiums on short-term investments (282) (357)  — 
+Changes in operating assets and liabilities: 
+Accounts receivable (110,225) (50,673)  (41,184)
+Inventories (14,129) (2,953)  10,828 
+Prepaid expenses and other current assets (11,566) (306)  (6,514)
+Operating lease right-of-use assets 22,328 — — 
+Deferred cost of revenue 1,143 2,261 (1,959)
+Other noncurrent assets (3,060) (732)  (2,794)
+Accounts payable 9,409 (98)  24,315 
+Accrued liabilities 79,058 17,914 24,127 
+Operating lease liabilities 11,658 — — 
+Other long-term liabilities (3,024) (1,101)  3,579 
+Deferred revenue (10,597) 10,063 29,976 
+Net cash provided by operating activities 13,707 13,922 37,292 
+Cash flows from investing activities: 
+Purchase of property and equipment (77,180) (18,327)  (9,229)
+Purchase of business, net of cash acquired (68,132) — (2,959)
+Purchase of intangible assets (7,428) — — 
+Purchases of short-term investments (12,365) (53,806)  — 
+Sales/maturities of short-term investments 54,810 12,000 — 
+Change in deposits — — (80)
+Net cash used in investing activities (110,295) (60,133)  (12,268)
+Cash flows from financing activities: 
+Proceeds from borrowings, net of issuance costs 99,608 — 24,691 
+Repayments of borrowings — — (40,446)
+Holdback payment for a prior business acquisition — (500)  — 
+Proceeds from equity issued under incentive plans, net of repurchases 28,181 25,025 1,773 
+Proceeds from equity issued under at-the-market program, net of offering costs 330,539 — — 
+Proceeds from issuance of common stock pursuant to an initial public offering, net of issuance costs — — 131,646 
+Net cash provided by financing activities 458,328 24,525 117,664 
+Net Increase (Decrease) in cash, cash equivalents and restricted cash 361,740 (21,686)  142,688 
+Effect of exchange rate changes on cash, cash equivalents and restricted cash 29 — — 
+Cash, cash equivalents and restricted cash —Beginning of period 155,564 177,250 34,562 
+Cash, cash equivalents and restricted cash —End of period  $ 517,333  $ 155,564  $ 177,250 
+Cash, cash equivalents and restricted cash at end of period: 
+Cash and cash equivalents 515,479 155,564 177,250 
+Restricted cash 1,854 — — 
+Cash, cash equivalents and restricted cash —End of period  $ 517,333  $ 155,564  $ 177,250
+ 
+ 
+ 
+80

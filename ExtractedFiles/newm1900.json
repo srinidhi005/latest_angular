@@ -1,0 +1,181 @@
+[annotation_spec_id: "2458652035730374656"
+display_name: "Units"
+text_extraction {
+  score: 0.510493814945221
+  text_segment {
+    start_offset: 44
+    end_offset: 52
+    content: "millions"
+  }
+}
+, annotation_spec_id: "873384966895960064"
+display_name: "DandA"
+text_extraction {
+  score: 0.8048143982887268
+  text_segment {
+    start_offset: 434
+    end_offset: 463
+    content: "Depreciation and amortization"
+  }
+}
+, annotation_spec_id: "5340955797247492096"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.876266598701477
+  text_segment {
+    start_offset: 1831
+    end_offset: 1847
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "4908610233019924480"
+display_name: "EBT"
+text_extraction {
+  score: 0.6983148455619812
+  text_segment {
+    start_offset: 1984
+    end_offset: 2026
+    content: "Income (loss) before income and mining tax"
+  }
+}
+, annotation_spec_id: "1305730531123527680"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.45829862356185913
+  text_segment {
+    start_offset: 4497
+    end_offset: 4534
+    content: "CONSOLIDATED STATEMENTS OF OPERATIONS"
+  }
+}
+, annotation_spec_id: "873384966895960064"
+display_name: "DandA"
+text_extraction {
+  score: 0.8540338277816772
+  text_segment {
+    start_offset: 4849
+    end_offset: 4878
+    content: "Depreciation and amortization"
+  }
+}
+, annotation_spec_id: "8655605122992177152"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.8441901206970215
+  text_segment {
+    start_offset: 7304
+    end_offset: 7338
+    content: "Proceeds from sales of investments"
+  }
+}
+, annotation_spec_id: "5485070985323347968"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.8107080459594727
+  text_segment {
+    start_offset: 7739
+    end_offset: 7790
+    content: "Net cash provided by (used in) investing activities"
+  }
+}
+, annotation_spec_id: "8367374746840465408"
+display_name: "DividendsPaid"
+text_extraction {
+  score: 0.5810120105743408
+  text_segment {
+    start_offset: 8064
+    end_offset: 8101
+    content: "Dividends paid to common stockholders"
+  }
+}
+, annotation_spec_id: "1738076095351095296"
+display_name: "Goodwill"
+text_extraction {
+  score: 0.9887739419937134
+  text_segment {
+    start_offset: 13312
+    end_offset: 13320
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "4043919104564789248"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9637919664382935
+  text_segment {
+    start_offset: 13657
+    end_offset: 13669
+    content: "Total assets"
+  }
+}
+, annotation_spec_id: "3179227976109654016"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9768719673156738
+  text_segment {
+    start_offset: 13853
+    end_offset: 13869
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "7502683618385330176"
+display_name: "LongTermDebt"
+text_extraction {
+  score: 0.2312445193529129
+  text_segment {
+    start_offset: 14513
+    end_offset: 14517
+    content: "Debt"
+  }
+}
+, annotation_spec_id: "7502683618385330176"
+display_name: "LongTermDebt"
+text_extraction {
+  score: 0.2019031047821045
+  text_segment {
+    start_offset: 15194
+    end_offset: 15198
+    content: "Debt"
+  }
+}
+, annotation_spec_id: "296924214592536576"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.9552227258682251
+  text_segment {
+    start_offset: 16348
+    end_offset: 16365
+    content: "Total liabilities"
+  }
+}
+, annotation_spec_id: "8943835499143888896"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9669593572616577
+  text_segment {
+    start_offset: 18106
+    end_offset: 18118
+    content: "Total equity"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.9834575057029724
+  text_segment {
+    start_offset: 18285
+    end_offset: 18313
+    content: "Total liabilities and equity"
+  }
+}
+, annotation_spec_id: "4332149480716500992"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9828225374221802
+  text_segment {
+    start_offset: 18550
+    end_offset: 18577
+    content: "CONSOLIDATED BALANCE SHEETS"
+  }
+}
+]

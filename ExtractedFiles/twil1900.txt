@@ -1,0 +1,150 @@
+
+Page#1
+TWILIO INC.
+Consolidated Balance Sheets
+As of December 31,
+2019 2018
+(In thousands, except share and per share amounts)
+ASSETS
+Current assets:
+Cash and cash equivalents $ 253,660 $ 487,215
+Short-term marketable securities 1,599,033 261,128
+Accounts receivable, net 154,067 97,712
+Prepaid expenses and other current assets 54,571 26,893
+Total current assets 2,061,331 872,948
+Restricted cash 75 18,119
+Property and equipment, net 141,256 63,534
+Operating right-of-use asset 156,741 —
+Intangible assets, net 460,849 27,558
+Goodwill 2,296,784 38,165
+Other long-term assets 33,480 8,386
+Total assets $ 5,150,516 $ 1,028,710
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable $ 39,099 $ 18,495
+Accrued expenses and other current liabilities 147,681 96,343
+Deferred revenue and customer deposits 26,362 22,972
+Operating lease liability, current 27,156 —
+Finance lease liability, current 6,924 —
+Total current liabilities 247,222 137,810
+Operating lease liability, noncurrent 139,200 —
+Finance lease liability, noncurrent 8,746 —
+Convertible senior notes, net 458,190 434,496
+Other long-term liabilities 17,747 18,169
+F
+o
+Total liabilities 871,105 590,475
+r
+m
+Commitments and contingencies (Note 12)
+1
+Stockholders’ equity:
+0
+-
+Preferred stock, $0.001 par value, 100,000,000 shares
+K
+authorized, none issued — —
+Class A and Class B common stock, $0.001 par value per
+share
+Authorized shares 1,100,000,000 as of December 31, 2019
+and 2018; Issued and outstanding shares 138,412,799 and
+100,080,228 as of December 31, 2019 and 2018 138 100
+Additional paid-in capital 4,952,999 808,527
+Accumulated other comprehensive income 5,086 1,282
+Accumulated deficit (678,812) (371,674)
+Total stockholders’ equity 4,279,411 438,235
+Total liabilities and stockholders’ equity $ 5,150,516 $ 1,028,710
+See accompanying notes to consolidated financial statements.
+89
+Page#2
+TWILIO INC.
+Consolidated Statements of Operations
+Year Ended December 31,
+2019 2018 2017
+(In thousands, except share and per share amounts)
+Revenue $ 1,134,468 $ 650,067 $ 399,020
+Cost of revenue 525,551 300,841 182,895
+Gross profit 608,917 349,226 216,125
+Operating expenses:
+Research and development 391,355 171,358 120,739
+Sales and marketing 369,079 175,555 100,669
+General and administrative 218,268 117,548 60,791
+Total operating expenses 978,702 464,461 282,199
+Loss from operations (369,785) (115,235) (66,074)
+Other income (expense), net 7,569 (5,923) 3,071
+Loss before provision for income taxes (362,216) (121,158) (63,003)
+Income tax benefit (provision) 55,153 (791) (705)
+Net loss attributable to common stockholders $ (307,063) $ (121,949) $ (63,708)
+Net loss per share attributable to common
+stockholders, basic and diluted $ (2.36) $ (1.26) $ (0.70)
+Weighted-average shares used in computing net loss
+per share attributable to common stockholders, basic
+and diluted 130,083,046 97,130,339 91,224,607
+See accompanying notes to consolidated financial statements.
+90
+Page#3
+TWILIO INC.
+Consolidated Statements of Cash Flows
+Year Ended December 31,
+2019 2018 2017
+(In thousands)
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net loss  $ (307,063) $(121,949) $ (63,708)
+Adjustments to reconcile net loss to net cash provided by (used in) operating activities:
+Depreciation and amortization 110,430 26,095 18,764
+Non-cash reduction to the right-of-use asset 23,193 — —
+Net amortization of investment premium and discount (4,501) (1,496) 262
+Amortization of debt discount and issuance costs 23,696 14,053 —
+Stock-based compensation  264,318 93,273 49,619
+Tax benefit related to release of valuation allowance (55,745) — —
+Other adjustments  7,676 12,824 2,018
+Changes in operating assets and liabilities: 
+Accounts receivable  (51,357) (58,234) (15,280)
+Prepaid expenses and other current assets (20,316) (8,739) 2,214
+Other long-term assets  (18,021) (5,305) (1,984)
+Accounts payable  17,255 6,980 5,433
+Accrued expenses and other current liabilities 46,154 45,120 (3,312)
+Deferred revenue and customer deposits 2,968 5,958 3,560
+Operating right of use liability (21,138) — —
+Long-term liabilities  (3,501) (597) (841)
+Net cash provided by (used in) operating activities 14,048 7,983 (3,255)
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Acquisitions, net of cash acquired 122,749 (30,574) (22,621)
+Purchases of marketable securities and other investments (2,038,422) (279,687) (293,186)
+Proceeds from sales and maturities of marketable securities 697,171 195,497 115,877
+Capitalized software development costs (21,922) (19,546) (17,280)
+Purchases of long-lived assets  (45,368) (5,109) (9,538)
+Net cash used in investing activities (1,285,792) (139,419) (226,748)
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from a public offering, net of underwriting discount 980,000 — —
+Payments of costs related to public offerings (877) — (430)
+Proceeds from issuance of convertible senior notes — 550,000 —
+Payment of debt issuance costs  — (12,941) —
+Purchase of capped call  — (58,465) —
+Principal payments on notes payable (5,400) — —
+Principal payments on finance leases (5,646) — —
+Proceeds from exercises of stock options and shares issued in ESPP 57,480 39,879 37,645
+Value of equity awards withheld for tax liabilities (5,412) (2,654) (678)
+F
+Repurchases of common stock  — — (100) o
+r
+m
+Net cash provided by financing activities 1,020,145 515,819 36,437
+Effect of exchange rate changes on cash, cash equivalents and restricted cash — 163 74 1
+0
+NET (DECREASE) INCREASE IN CASH, CASH EQUIVALENTS AND RESTRICTED
+-
+K
+CASH  (251,599) 384,546 (193,492)
+CASH, CASH EQUIVALENTS AND RESTRICTED CASH—Beginning of period 505,334 120,788 314,280
+CASH, CASH EQUIVALENTS AND RESTRICTED CASH —End of period $ 253,735 $ 505,334 $ 120,788
+Cash paid for income taxes, net  $ 1,368 $ 564 $ 605
+Cash paid for interest  $ 2,290 $ 741 $ —
+NON-CASH INVESTING AND FINANCING ACTIVITIES:
+Finance lease right-of-use assets assumed in a business combination $ 14,173 $ — $ —
+Purchases of property and equipment through finance leases $ 5,848 $ 2,478 $ —
+Acquisition holdback  $ 7,980 $ 2,290 $ —
+Value of common stock issued and stock awards assumed in acquisition $ 2,841,452 $ — $ —
+Stock-based compensation capitalized in software development costs $ 7,777 $ 5,706 $ 4,176
+See accompanying notes to consolidated financial statements.
+93

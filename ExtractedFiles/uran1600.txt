@@ -1,0 +1,168 @@
+
+Page#1
+6/1/2017 https://www.sec.gov/Archives/edgar/data/1334933/000127956916004485/v449966_10k.htm
+ 
+ 
+URANIUM ENERGY CORP.
+CONSOLIDATED BALANCE SHEETS
+ 
+ 
+  Notes  July 31, 2016  July 31, 2015 
+ 
+CURRENT ASSETS 
+Cash and cash equivalents $ 7,142,571  $ 10,092,408 
+Inventories 275,316 251,999 
+Prepaid expenses and deposits 533,977 444,500 
+Other current assets 48,777 18,711 
+ 8,000,641 10,807,618 
+ 
+MINERAL RIGHTS AND PROPERTIES  3 37,973,951 38,437,967 
+PROPERTY, PLANT AND EQUIPMENT  4 6,942,304 6,948,647 
+RECLAMATION DEPOSITS  5 1,706,027 1,706,025 
+OTHER LONG­TERM ASSET  6 1,553,388 ­ 
+ $ 56,176,311  $ 57,900,257 
+ 
+CURRENT LIABILITIES 
+Accounts payable and accrued liabilities  6  $ 1,822,447  $ 2,538,544 
+Due to related parties  7 ­ 14,660 
+Current portion of long­term debt  8 ­ 1,666,667 
+Current portion of asset retirement obligations  9 ­ 340,827 
+ 1,822,447 4,560,698 
+ 
+DEFERRED INCOME TAX LIABILITIES  12 643,825 676,064 
+LONG­TERM DEBT  8 19,198,178 18,090,811 
+OTHER LONG­TERM LIABILITY  6 315,519 ­ 
+ASSET RETIREMENT OBLIGATIONS  9 3,746,464 3,586,019 
+ 25,726,433 26,913,592 
+ 
+STOCKHOLDERS' EQUITY 
+Capital stock 
+Common stock $0.001 par value: 750,000,000 shares authorized, 116,670,457
+shares issued and outstanding (July 31, 2015 ­ 97,834,087)  10 116,670 97,841 
+Additional paid­in capital 239,701,884 222,927,529 
+Accumulated deficit (209,353,946) (192,024,074)
+Accumulated other comprehensive loss (14,730) (14,631)
+ 30,449,878 30,986,665 
+ 
+$ 56,176,311 $ 57,900,257
+ 
+COMMITMENTS AND CONTINGENCIES  15 
+SUBSEQUENT EVENT  15 
+ 
+The accompanying notes are an integral part of these consolidated financial statements
+ 
+ F­4 
+https://www.sec.gov/Archives/edgar/data/1334933/000127956916004485/v449966_10k.htm 135/174
+Page#2
+6/1/2017 https://www.sec.gov/Archives/edgar/data/1334933/000127956916004485/v449966_10k.htm
+ 
+ 
+URANIUM ENERGY CORP.
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+ 
+ 
+ Year Ended July 31, 
+  Notes  2016 2015 2014 
+ 
+SALES $ ­  $ 3,080,000  $ ­ 
+ 
+COSTS AND EXPENSES 
+Cost of sales ­ 2,326,674 ­ 
+Inventory write­down ­ ­ 804,060 
+Mineral property expenditures  3, 9 4,061,159 5,706,080 9,160,648 
+General and administrative  7,10 9,297,746 13,230,840 9,825,796 
+Depreciation, amortization and accretion  3, 4, 9 875,724 1,802,443 2,392,866 
+Impairment loss on mineral properties  3 97,114 349,805 653,224 
+ 14,331,743 23,415,842 22,836,594 
+LOSS FROM OPERATIONS (14,331,743) (20,335,842) (22,836,594)
+ 
+OTHER INCOME (EXPENSES) 
+Interest income 24,177 12,797 30,027 
+Interest expenses and finance costs  8 (3,005,391) (3,071,235) (2,893,816)
+Loss on disposition of assets (2,186) (38) (2,553)
+Realized loss on available­for­sale securities ­ (3,023) ­ 
+Loss on fair value of variable share forward contract ­ ­ (331,130)
+Loss on settlement of current liabilities  7,14 (46,968) ­ (20,581)
+Gain on settlement of asset retirement obligations ­ ­ 9,831 
+ (3,030,368) (3,061,499) (3,208,222)
+LOSS BEFORE INCOME TAXES (17,362,111) (23,397,341) (26,044,816)
+ 
+DEFERRED INCOME TAX BENEFIT  12 32,239 35,413 69,709 
+NET LOSS FOR THE YEAR (17,329,872) (23,361,928) (25,975,107)
+ 
+OTHER COMPREHENSIVE LOSS, NET OF INCOME TAXES (99) (1,092) (13,539)
+TOTAL COMPREHENSIVE LOSS FOR THE YEAR )  )  )
+$ (17,329,971 $ (23,363,020 $ (25,988,646
+ 
+NET LOSS PER SHARE, BASIC AND DILUTED  11  )  )  )
+$ (0.16 $ (0.25 $ (0.29
+ 
+WEIGHTED AVERAGE NUMBER OF SHARES OUTSTANDING,
+BASIC AND DILUTED 
+ 106,086,782  92,397,547  89,136,505
+ 
+The accompanying notes are an integral part of these consolidated financial statements
+ 
+ F­5 
+https://www.sec.gov/Archives/edgar/data/1334933/000127956916004485/v449966_10k.htm 136/174
+Page#3
+6/1/2017 https://www.sec.gov/Archives/edgar/data/1334933/000127956916004485/v449966_10k.htm
+ 
+ 
+URANIUM ENERGY CORP.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+ 
+ 
+ Year Ended July 31, 
+  Notes  2016 2015 2014 
+CASH PROVIDED BY (USED IN): 
+ 
+OPERATING ACTIVITIES 
+Net loss for the year $ (17,329,872)  $ (23,361,928)  $ (25,975,107)
+Adjustments to reconcile net loss to cash flows in operating activities 
+Stock­based compensation  10 3,084,163 5,617,748 1,309,450 
+Depreciation, amortization and accretion  3,4,9 875,724 2,193,160 2,550,012 
+Amortization of long­term debt discount  8 1,245,615 1,353,773 1,498,858 
+Revaluation of asset retirement obligations  3,9 (308,398) ­ ­ 
+Impairment loss on mineral properties  3 97,114 349,805 653,224 
+Loss on disposition of assets 2,186 38 2,553 
+Realized loss on available­for­sale securities ­ 3,023 ­ 
+Loss on fair value of variable share forward contract ­ ­ 331,130 
+Loss on settlement of current liabilities  7,14 46,968 ­ 20,581 
+Gain on settlement of asset retirement obligations ­ ­ (9,831)
+Deferred income tax benefit  12 (32,239) (35,413) (69,709)
+Changes in operating assets and liabilities 
+Inventories (23,317) 1,316,959 (700,679)
+Prepaid expenses and deposits (85,673) 46,866 426,549 
+Other current assets (30,165) (2,954) 30,523 
+Accounts payable and accrued liabilities (622,713) 243,686 (1,322,106)
+Settlement of asset retirement obligations ­ ­ (13,551)
+NET CASH FLOWS USED IN OPERATING ACTIVITIES (13,080,607) (12,275,237) (21,268,103)
+ 
+FINANCING ACTIVITIES 
+Shares issuance for cash, net of issuance costs  10 10,209,632 9,650,530 6,342,254 
+Net proceeds from debt financing  8 ­ ­ 9,554,467 
+Due to related parties  7 (14,660) 3,426 1,663 
+NET CASH FLOWS PROVIDED BY FINANCING ACTIVITIES 10,194,972 9,653,956 15,898,384 
+ 
+INVESTING ACTIVITIES 
+Net cash used in asset acquisition  6 (46,084) ­ ­ 
+Investment in mineral rights and properties ­ (78,626) (161,800)
+Purchase of property, plant and equipment (18,934) (23,041) (163,276)
+Proceeds from disposition of assets 818 2,860 600 
+Cash proceeds from the release of reclamation deposits  5 ­ 5,663,158 ­ 
+Payment of collateral for surety bonds  5 ­ (1,690,208) ­ 
+Decrease in reclamation deposits (2) (346) 362,280 
+NET CASH FLOWS (USED IN) PROVIDED BY INVESTING
+ACTIVITIES (64,202) 3,873,797 37,804 
+ 
+NET CASH FLOWS (2,949,837) 1,252,516 (5,331,915)
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR 10,092,408 8,839,892 14,171,807 
+CASH AND CASH EQUIVALENTS, END OF YEAR $ 7,142,571  $ 10,092,408  $ 8,839,892 
+ 
+SUPPLEMENTAL CASH FLOW INFORMATION  6,8,14 
+ 
+The accompanying notes are an integral part of these consolidated financial statements
+ 
+ F­6 
+https://www.sec.gov/Archives/edgar/data/1334933/000127956916004485/v449966_10k.htm 137/174

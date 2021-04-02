@@ -1,0 +1,219 @@
+
+Page#1
+ 
+CIRCOR INTERNATIONAL, INC. 
+Consolidated Balance Sheets 
+(in thousands, except share and per share data) 
+ December 31, 
+ 2017  2016 
+ASSETS 
+CURRENT ASSETS: 
+Cash and cash equivalents $ 110,356  $ 58,279 
+Trade accounts receivable, less allowance for doubtful accounts of $4,791 and $5,056, respectively 223,922 133,046 
+ 
+Inventories 244,896  149,584 
+Prepaid expenses and other current assets 59,219  29,557 
+Total Current Assets 638,393  370,466 
+PROPERTY, PLANT AND EQUIPMENT, NET 217,539  99,713 
+OTHER ASSETS: 
+Goodwill 505,762  206,659 
+Intangibles, net 513,364  135,778 
+Deferred income taxes 22,334 4,824 
+ 
+Other assets 9,407  3,316 
+TOTAL ASSETS $ 1,906,799  $ 820,756 
+LIABILITIES AND SHAREHOLDERS’ EQUITY 
+CURRENT LIABILITIES: 
+ 
+Accounts payable $ 117,329  $ 46,767 
+Accrued expenses and other current liabilities 170,454  50,707 
+Accrued compensation and benefits 34,734  20,249 
+Total Current Liabilities 322,517 117,723 
+ 
+LONG-TERM DEBT 787,343  251,200 
+DEFERRED INCOME TAXES 26,122  13,657 
+PENSION LIABILITY, NET 150,719  13,131 
+OTHER NON-CURRENT LIABILITIES 18,124 20,635 
+ 
+COMMITMENTS AND CONTINGENCIES (NOTE 14) 
+SHAREHOLDERS’ EQUITY: 
+Preferred stock, $0.01 par value; 1,000,000 shares authorized; no shares issued and outstanding —  — 
+Common stock, $0.01 par value; 29,000,000 shares authorized; 19,785,298 and 16,445,363 shares 
+issued and outstanding at December 31, 2017 and 2016, respectively 212  178
+Additional paid-in capital 438,721 289,423 
+ 
+Retained earnings 274,243  265,543 
+Common treasury stock, at cost (1,372,488 shares at December 31, 2017 and 2016) (74,472) (74,472)
+Accumulated other comprehensive loss (36,730) (76,262)
+Total Shareholders’ Equity 601,974 404,410 
+ 
+TOTAL LIABILITIES AND SHAREHOLDERS’ EQUITY $ 1,906,799  $ 820,756 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The accompanying notes are an integral part of these consolidated financial statements. 
+ 
+41 
+ 
+Page#2
+ 
+CIRCOR INTERNATIONAL, INC. 
+Consolidated Statements of Income 
+(in thousands, except per share data) 
+ Year Ended December 31, 
+ 2017  2016  2015 
+Net revenues $ 661,710  $ 590,259  $ 656,267 
+Cost of revenues 460,890 407,144  456,935 
+GROSS PROFIT 200,820 183,115  199,332 
+Selling, general and administrative expenses 166,201 154,818  156,302 
+Impairment charges — 208  2,502 
+Special and restructuring charges, net 14,051 17,171  14,354 
+OPERATING INCOME 20,568 10,918  26,174 
+Other expense (income): 
+Interest expense, net 10,777 3,310  2,844 
+Other (income) expense, net 3,678  (2,072) 902 
+  
+TOTAL OTHER EXPENSE, NET 14,455 1,238  3,746 
+INCOME BEFORE INCOME TAXES 6,113  9,680 22,428 
+  
+(Benefit from) Provision for income taxes (5,676 ) (421) 12,565 
+NET INCOME $ 11,789  $ 10,101  $ 9,863 
+Earnings per common share: 
+Basic $ 0.71 $ 0.62 $ 0.59 
+  
+Diluted $ 0.70  $ 0.61  $ 0.58 
+Weighted average common shares outstanding: 
+Basic 16,674 16,418  16,850 
+Diluted 16,849 16,536  16,913 
+Dividends paid per common share $ 0.15  $ 0.15  $ 0.15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The accompanying notes are an integral part of these consolidated financial statements. 
+ 
+  
+42 
+ 
+Page#3
+ 
+CIRCOR INTERNATIONAL, INC. 
+Consolidated Statements of Comprehensive Income (Loss) 
+(in thousands) 
+ Year Ended December 31, 
+ 2017  2016  2015 
+Net income $ 11,789  $ 10,101  $ 9,863 
+Other comprehensive income (loss): 
+ 
+Foreign currency translation adjustments 34,119  (14,866) (31,775)
+Other net changes in post-retirement liabilities and assets - recognized actuarial 
+gains (1) 4,877  1,441  262
+Net periodic pension costs amortization (2) 535  3,152  (529)
+Other comprehensive income (loss) 39,531  (10,273) (32,042)
+COMPREHENSIVE (LOSS) INCOME $ 51,320  $ (172) $ (22,179)
+(1) Net of an income tax effect of $1.8 million, $0.8 million, and $(4.2) million for the years ended December 31, 2017, 2016 and 2015, respectively. 
+(2) Net of an income tax effect of $0.5 million, $(0.2) million, and $(0.2) million for the years ended December 31, 2017, 2016 and 2015, respectively. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The accompanying notes are an integral part of these consolidated financial statements. 
+43 
+ 
+Page#4
+ 
+CIRCOR INTERNATIONAL, INC. 
+Consolidated Statements of Cash Flows 
+(in thousands) 
+ Year Ended December 31, 
+ 2017  2016  2015 
+OPERATING ACTIVITIES 
+Net income $ 11,789  $ 10,101  $ 9,863 
+Adjustments to reconcile net income to net cash provided by operating activities: 
+Depreciation 15,290  13,304  14,254 
+Amortization 14,747  12,316  9,681 
+Provision for bad debt expense 810  2,330  2,561 
+Loss on write down of inventory and amortization of fair value step-up 7,337  9,297  15,404 
+Impairment charges —  208  2,502 
+Compensation expense of share-based plans 3,807  5,545  6,579 
+Debt extinguishment 1,810  —  — 
+Change in fair value of contingent consideration (12,200) —  — 
+Amortization of debt issuance costs 759  —  — 
+Tax effect of share-based plan compensation —  145  (134)
+Pension settlement charge —  4,457  — 
+Deferred income tax expense (benefit) (8,434) (10,737)  781 
+Loss on disposal of property, plant and equipment 360  3,708  305 
+Loss (Gain) on sale of businesses 5,300  —  (1,044)
+Changes in operating assets and liabilities, net of effects of acquisitions and divestitures: 
+Trade accounts receivable (5,734) 18,536  20,393 
+Inventories (19,494) 36,092  (14,446)
+Prepaid expenses and other assets (8,578) 2,454  (4,786)
+Accounts payable, accrued expenses and other liabilities 2,068  (48,357)  (34,771)
+Net cash provided by operating activities 9,637  59,399  27,142 
+INVESTING ACTIVITIES 
+Purchases of property, plant and equipment (14,541) (14,692)  (12,711)
+Proceeds from the sale of property, plant and equipment 934  1,700  2,209 
+Proceeds from divestitures —  —  2,759 
+Business acquisitions, net of cash acquired (488,517) (197,489)  (79,983)
+Net cash used in investing activities (502,124) (210,481)  (87,726)
+FINANCING ACTIVITIES 
+Proceeds from long-term debt 1,090,883  323,200  261,394 
+Payments of long-term debt (523,183) (162,540)  (182,004)
+Debt issuance costs (30,366) —  — 
+Dividends paid (2,506) (2,497)  (2,559)
+Proceeds from the exercise of stock options 740  246  258 
+Tax effect of share-based plan compensation —  (145)  134 
+Sales (purchases) of treasury stock —  500  (74,972)
+Net cash provided by financing activities 535,568  158,764  2,251 
+Effect of exchange rate changes on cash and cash equivalents 8,996  (3,944) (8,498)
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS 52,077  3,738  (66,831)
+Cash and cash equivalents at beginning of year 58,279  54,541  121,372 
+CASH AND CASH EQUIVALENTS AT END OF YEAR $ 110,356  $ 58,279  $ 54,541 
+Cash paid during the year for: 
+Income taxes $ 9,984  $ 10,650  $ 15,049 
+Interest $ 6,778  $ 2,908  $ 1,992 
+Non-cash supplemental information: 
+Share issuance for business acquisition $ 143,767  $ —  $ — 
+Accrued purchase price $ 4,824  $ —  $ — 
+Payable to seller related to cash balances $ 65,314  $ —  $ — 
+ 
+ 
+ The accompanying notes are an integral part of these consolidated financial statements. 
+ 
+44 
+ 

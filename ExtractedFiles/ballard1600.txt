@@ -1,0 +1,256 @@
+
+Page#1
+ 
+BALLARD POWER SYSTEMS INC. 
+Consolidated Statement of Financial Position 
+(Expressed in thousands of U.S. dollars) 
+ 
+ December 31, December 31, 
+Note  2016  2015 
+ 
+Assets 
+Current assets: 
+Cash and cash equivalents $ 72,628 $ 40,049 
+Trade and other receivables  8  14,924  25,484 
+Inventories 9  17,228  20,369 
+Prepaid expenses and other current assets 2,973  1,672 
+Total current assets 107,753  87,574 
+Non-current assets: 
+Property, plant and equipment 10  15,701  16,725 
+Intangible assets  11  18,083  16,329 
+Goodwill 12  40,562  40,562 
+Investments 13  1,191  6 
+Other long-term assets 156  135 
+Total assets $ 183,446 $ 161,331 
+ 
+Liabilities and Equity 
+Current liabilities: 
+Trade and other payables  15 $ 17,767 $ 17,220 
+Deferred revenue 20,621  6,085 
+Provisions 16  3,568  5,368 
+Finance lease liability  14 & 17  569  1,011 
+Debt to Ballard Power Systems Europe A/S non-controlling interest  18  521  504 
+Total current liabilities 43,046  30,188 
+Non-current liabilities: 
+Finance lease liability 14 & 17  6,428  6,723 
+Deferred gain on finance lease  17  3,398  3,829 
+Provisions 16  3,864  3,646 
+Employee future benefits  19  5,167  5,331 
+Total liabilities 61,903  49,717 
+Equity: 
+Share capital  20  977,707  948,213 
+Contributed surplus  20  295,547  293,332 
+Accumulated deficit (1,149,128)  (1,127,655) 
+Foreign currency reserve 718  567 
+Total equity attributable to equity holders 124,844  114,457 
+Ballard Power Systems Europe A/S non-controlling interest (3,301)  (2,843) 
+Total equity 121,543  111,614 
+Total liabilities and equity  $ 183,446 $ 161,331 
+ 
+ 
+See accompanying notes to consolidated financial statements. 
+ 
+Approved on behalf of the Board: 
+ 
+“Doug Hayhurst” “Ian Bourne”  
+Director Director 
+ 
+Page#2
+ 
+BALLARD POWER SYSTEMS INC. 
+Consolidated Statement of Loss and Comprehensive Loss 
+For the year ended December 31 
+(Expressed in thousands of U.S. dollars, except per share amounts and number of shares) 
+ 
+ Note 2016 2015 
+ 
+ 
+ 
+Revenues: 
+Product and service revenues $ 85,270  $ 56,463 
+Cost of product and service revenues 61,086 46,489 
+Gross margin 24,184 9,974 
+ 
+Operating expenses: 
+Research and product development 19,827 16,206 
+General and administrative 12,938 10,594 
+Sales and marketing 7,190 7,428 
+Other expense 25 2,298 630 
+Total operating expenses 42,253 34,858 
+ 
+Results from operating activities (18,069) (24,884) 
+Finance income (loss) and other 26 (777) (305) 
+Finance expense 26 (686) (794) 
+Net finance expense (1,463) (1,099) 
+Gain (loss) on sale of assets 27 (623) 1 
+Gain on sale of intellectual property 11 - 19,619 
+Impairment charges on intangible assets and property, plant and 
+  28 (1,151) - 
+ equipment 
+Loss before income taxes (21,306) (6,363) 
+Income tax expense 29 (381) (211) 
+Net loss (21,687) (6,574) 
+ 
+Other comprehensive income (loss): 
+Items that will not be reclassified to profit or loss: 
+Actuarial gain (loss) on defined benefit plans 19 (361) 168 
+ (361) 168 
+Items that may be reclassified subsequently to profit or loss: 
+Foreign currency translation differences 268 560 
+ 268 560 
+Other comprehensive income (loss), net of tax (93) 728 
+Total comprehensive loss $ (21,780)  $ (5,846) 
+ 
+See accompanying notes to consolidated financial statements. 
+ 
+Page#3
+ 
+BALLARD POWER SYSTEMS INC. 
+Consolidated Statement of Loss and Comprehensive Loss (cont’d) 
+For the year ended December 31 
+(Expressed in thousands of U.S. dollars, except per share amounts and number of shares) 
+ 
+ 2016 2015 
+ 
+Net loss attributable to: 
+ Ballard Power Systems Inc $ (21,112) $ (5,815) 
+ Ballard Power Systems Europe A/S non-controlling interest (575) (759) 
+Net loss  $ (21,687) $ (6,574) 
+ 
+Total comprehensive loss attributable to: 
+ Ballard Power Systems Inc $ (21,322) $ (5,351) 
+ Ballard Power Systems Europe A/S non-controlling interest (458) (495) 
+Total comprehensive loss  $ (21,780) $ (5,846) 
+ 
+Basic and diluted loss per share attributable to Ballard Power Systems Inc 
+Loss per share $ ($0.13) $ (0.04) 
+ 
+ 
+Weighted average number of common shares outstanding 163,449,737 140,393,579 
+ 
+See accompanying notes to consolidated financial statements. 
+ 
+Page#4
+ 
+BALLARD POWER SYSTEMS INC.
+ 
+Consolidated Statement of Changes in Equity 
+(Expressed in thousands of U.S. dollars except per share amounts and number of shares) 
+ 
+ 
+Ballard 
+Power 
+Systems 
+Ballard Power Systems Inc. Equity Europe A/S 
+ Foreign Non- 
+ Number of Share Contributed Accumulated  currency controlling Total 
+  shares capital surplus deficit  reserve interests equity 
+Balance, December 31, 2014 132,104,116  $ 914,786  $ 288,533  $ (1,121,671)  $ 280  $ (2,694)  $ 79,234 
+Net loss  - - - (5,815) - (759) (6,574) 
+Non-dilutive financing (note 21) - - 3,347 - - - 3,347 
+Net Offering proceeds (note 20)  9,343,750 13,389 - - - - 13,389 
+Acquisition (note 7)  11,415,704 13,699 - - - - 13,699 
+Private placement (note 20)  3,322,479 4,987 - - - - 4,987 
+DSUs redeemed (note 20) 83,619 354 (520) - - - (166) 
+RSUs redeemed (note 20) 119,627 203 (345) - - - (142) 
+Options exercised (note 20)  322,892 627 (239) - - - 388 
+Warrants exercised (note 20)  125,000 168 - - - - 168 
+Share distribution plan - - 2,556 - - - 2,556 
+Ballard Power Systems Europe NCI 
+adjustment for cancellation of Azure - - - (337) - 337 - 
+shares 
+Other comprehensive income (loss): 
+Defined benefit plan actuarial loss - - - 168 - - 168 
+Foreign currency translation for  
+- - - - 287 273 560 
+ foreign operations 
+Balance, December 31, 2015 156,837,187  $ 948,213  $ 293,332  $ (1,127,655)  $ 567  $ (2,843)  $ 111,614 
+Net loss  - - - (21,112) -  (575) (21,687) 
+Net Offering proceeds (note 20)  17,250,000 28,199 - - - - 28,199 
+DSUs redeemed (note 20) 146,211 299 (565)  - - - (266) 
+RSUs redeemed (note 20) 80,945 161 (283) - - - (122) 
+  -
+Options exercised (note 20)  435,287 835 (339) - - 496 
+  
+  -
+Share distribution plan - - 3,402 - - 3,402 
+  
+Other comprehensive income: 
+Defined benefit plan actuarial loss - - - (361) - - (361) 
+ 
+Foreign currency translation for  
+- - - - 151 117 268 
+ foreign operations 
+ 
+Balance, December 31, 2016 174,749,630  $ 977,707  $ 295,547  $ (1,149,128)  $ 718  $ (3,301)  $ 121,543 
+ 
+ 
+See accompanying notes to consolidated financial statements. 
+ 
+Page#5
+ 
+BALLARD POWER SYSTEMS INC.
+ 
+Consolidated Statement of Cash Flows 
+For the year ended December 31 
+ 
+(Expressed in thousands of U.S. dollars)
+  Note  2016  2015 
+ 
+Cash provided by (used in): 
+ 
+Operating activities: 
+Net loss for the year $ (21,687)  $ (6,574) 
+Adjustments for: 
+Share-based compensation  20 3,024 2,950 
+Employee future benefits 235 278 
+Employee future benefits plan contributions (760) (740) 
+Depreciation and amortization 4,544 4,375 
+(Gain)/loss on decommissioning liabilities 218 (602) 
+(Gain)/loss on sale of assets 27 623 (1) 
+Gain on sale of intellectual property  11 - (19,619) 
+Impairment charges on intangible assets and property, plant and equipment 28 1,151 - 
+Impairment loss on trade receivables 25 390 456 
+Unrealized (gain)/loss on forward contracts (151) 162 
+ (12,413) (19,315) 
+Changes in non-cash working capital: 
+Trade and other receivables (771) 410 
+Inventories (2,339) (5,550) 
+Prepaid expenses and other current assets (1,322) (166) 
+Trade and other payables 1,010 (1,344) 
+Deferred revenue 14,536 4,213 
+Warranty provision (2,605) (3,612) 
+ 8,509 (6,049) 
+Cash used in operating activities (3,904) (25,364) 
+  
+Investing activities: 
+Additions to property, plant and equipment  10 (2,778) (2,282) 
+Net proceeds on sale of property, plant and equipment and other  27 3,009 1 
+Additions to intangible assets  11 (4,103) (1,604) 
+Net proceeds on sale of intangible assets 11 9,244 29,475 
+Cash and cash equivalents acquired on acquisition of Protonex 7 - 1,464 
+Acquisition of Protonex  7 - (3,772) 
+Investment in associated companies  4(a)&13 (180) - 
+Cash provided by (used in) investing activities 5,192 23,282 
+ 
+Financing activities: 
+Non-dilutive equity financing 21 3,347 - 
+Net payment of finance lease liabilities (1,042) (845) 
+Net proceeds on issuance of share capital from underwritten Offering  20 - 13,389 
+Net proceeds on issuance of share capital from private placement  20 28,199 4,987 
+Net proceeds on issuance of share capital from stock option exercises  20 496 388 
+Net proceeds on issuance of share capital from warrant exercises  20 - 168 
+Cash provided by financing activities 31,000 18,087 
+ 
+Effect of exchange rate fluctuations on cash and cash equivalents held 291 373 
+ 
+ 
+Increase (decrease) in cash and cash equivalents 32,579 16,378 
+Cash and cash equivalents, beginning of year 40,049 23,671 
+ 
+Cash and cash equivalents, end of year  $ 72,628  $ 40,049 
+ 
+ 
+Supplemental disclosure of cash flow information (note 31). 
+See accompanying notes to consolidated financial statements. 
+ 

@@ -1,0 +1,139 @@
+
+Page#1
+salesforce.com, inc.
+Consolidated Balance Sheets
+(in millions)
+January 31, January 31,
+2020 2019
+Assets
+Current assets:
+Cash and cash equivalents $ 4,145 $ 2,669
+Marketable securities 3,802 1,673
+Accounts receivable, net 6,174 4,924
+Costs capitalized to obtain revenue contracts, net 926 788
+Prepaid expenses and other current assets 916 629
+Total current assets  15,963 10,683
+Property and equipment, net 2,375 2,051
+Operating lease right-of-use assets (Note 1) 3,040 0
+Costs capitalized to obtain revenue contracts, noncurrent, net 1,348 1,232
+Strategic investments  1,963 1,302
+Goodwill  25,134 12,851
+Intangible assets acquired through business combinations, net 4,724 1,923
+Capitalized software and other assets, net 579 695
+Total assets  $55,126 $30,737
+Liabilities and stockholders’ equity
+Current liabilities:
+Accounts payable, accrued expenses and other liabilities $ 3,433 $ 2,691
+Operating lease liabilities, current (Note 1) 750 0
+Unearned revenue  10,662 8,564
+Total current liabilities  14,845 11,255
+Noncurrent debt  2,673 3,173
+Noncurrent operating lease liabilities (Note 1) 2,445 0
+Other noncurrent liabilities 1,278 704
+Total liabilities  21,241 15,132
+Commitments and contingencies (See Notes 13 and 15)
+Stockholders’ equity:
+Preferred stock, $0.001 par value; 5 shares authorized and none issued and
+outstanding  0 0
+Common stock, $0.001 par value; 1,600 shares authorized, 893 and 770 issued and
+outstanding at January 31, 2020 and 2019, respectively 1 1
+Additional paid-in capital 32,116 13,927
+Accumulated other comprehensive loss (93) (58)
+Retained earnings  1,861 1,735
+Total stockholders’ equity 33,885 15,605
+Total liabilities and stockholders’ equity $55,126 $30,737
+See accompanying Notes.
+68
+Page#2
+salesforce.com, inc.
+Consolidated Statements of Operations
+(in millions, except per share data)
+Fiscal Year Ended January 31,
+2020 2019 2018
+Revenues:
+Subscription and support $16,043 $12,413 $ 9,766
+Professional services and other 1,055 869 774
+Total revenues 17,098 13,282 10,540
+Cost of revenues (1)(2):
+Subscription and support 3,198 2,604 2,033
+Professional services and other 1,037 847 740
+Total cost of revenues 4,235 3,451 2,773
+Gross profit  12,863 9,831 7,767
+Operating expenses (1)(2):
+Research and development 2,766 1,886 1,553
+Marketing and sales 7,930 6,064 4,671
+General and administrative 1,704 1,346 1,089
+Loss on settlement of Salesforce.org reseller agreement (Note 7) 166 0 0
+Total operating expenses 12,566 9,296 7,313
+Income from operations 297 535 454
+Gains on strategic investments, net 427 542 19
+Other expense  (18) (94) (53)
+Income before benefit from (provision for) income taxes 706 983 420
+Benefit from (provision for) income taxes (3) (580) 127 (60)
+Net income  $ 126 $ 1,110 $ 360
+Basic net income per share $ 0.15 $ 1.48 $ 0.50
+Diluted net income per share $ 0.15 $ 1.43 $ 0.49
+Shares used in computing basic net income per share 829 751 715
+Shares used in computing diluted net income per share 850 775 735
+(1) Amounts include amortization of intangible assets acquired through business combinations, as follows:
+Fiscal Year Ended January 31,
+2020 2019 2018
+Cost of revenues $ 440 $ 215 $ 166
+Marketing and sales 352 232 121
+(2) Amounts include stock-based expense, as follows:
+Fiscal Year Ended January 31,
+2020 2019 2018
+Cost of revenues $ 204 $ 161 $ 130
+Research and development 510 307 260
+Marketing and sales 852 643 469
+General and administrative 219 172 138
+(3) Amounts include a benefit related to the partial release of the valuation allowance of $612 million, and
+$2 million, for fiscal 2019 and 2018, respectively. The fiscal 2019 benefit was partially offset by an increase
+in unrecognized tax benefits.
+See accompanying Notes.
+69
+Page#3
+salesforce.com, inc.
+Consolidated Statements of Cash Flows
+(in millions)
+Fiscal Year Ended January 31,
+2020 2019 2018
+Operating activities:
+Net income  $ 126 $ 1,110 $ 360
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization 2,135 982 784
+Amortization of costs capitalized to obtain revenue contracts, net 876 737 592
+Expenses related to employee stock plans 1,785 1,283 997
+Loss on settlement of Salesforce.org reseller agreement (Note 7) 166 0 0
+Gains on strategic investments, net (427) (542) (19)
+Changes in assets and liabilities, net of business combinations:
+Accounts receivable, net (1,000) (923) (719)
+Costs capitalized to obtain revenue contracts, net (1,130) (981) (1,156)
+Prepaid expenses and other current assets and other assets (119) (58) 18
+Accounts payable 15 74 (39)
+Accrued expenses and other liabilities 967 213 392
+Operating lease liabilities (728) 0 0
+Unearned revenue 1,665 1,503 1,528
+Net cash provided by operating activities 4,331 3,398 2,738
+Investing activities:
+Business combinations, net of cash acquired (369) (5,115) (25)
+Purchases of strategic investments (768) (362) (216)
+Sales of strategic investments 434 260 131
+Purchases of marketable securities (3,857) (1,068) (2,003)
+Sales of marketable securities 1,444 1,426 558
+Maturities of marketable securities 779 146 78
+Capital expenditures  (643) (595) (534)
+Net cash used in investing activities (2,980) (5,308) (2,011)
+Financing activities:
+Proceeds from issuance of debt, net 0 2,966 0
+Proceeds from employee stock plans 840 704 650
+Principal payments on financing obligations (1) (173) (131) (106)
+Repayments of debt  (503) (1,529) (323)
+Net cash provided by financing activities 164 2,010 221
+Effect of exchange rate changes (39) 26 (12)
+Net increase in cash and cash equivalents 1,476 126 936
+Cash and cash equivalents, beginning of period 2,669 2,543 1,607
+Cash and cash equivalents, end of period $ 4,145 $ 2,669 $ 2,543
+(1) Previously referred to as principal payments on capital lease obligations.
+See accompanying Notes.
+72

@@ -1,0 +1,156 @@
+
+Page#1
+RAYTHEON COMPANY
+CONSOLIDATED BALANCE SHEETS
+ 
+(In millions, except per share amount) December 31: 2018 2017
+Assets  
+Current assets
+  
+Cash and cash equivalents $ 3,608 $ 3,103
+Short-term investments — 297
+Receivables, net 1,648 1,324
+Contract assets 5,594 5,247
+Inventories 758 594
+Prepaid expenses and other current assets 528 761
+Total current assets 12,136 11,326
+Property, plant and equipment, net 2,840 2,439
+Goodwill 14,864 14,871
+Other assets, net 2,024 2,224
+Total assets $ 31,864 $ 30,860
+Liabilities, Redeemable Noncontrolling Interest and Equity  
+Current liabilities
+  
+Commercial paper $ 300 $ 300
+Contract liabilities 3,309 2,927
+Accounts payable 1,964 1,519
+Accrued employee compensation 1,509 1,342
+Other current liabilities 1,206 1,260
+Total current liabilities 8,288 7,348
+Accrued retiree benefits and other long-term liabilities 6,938 8,287
+Long-term debt 4,755 4,750
+Commitments and contingencies (Note 10)
+Redeemable noncontrolling interest (Note 11) 411 512
+Equity
+  
+Raytheon Company stockholders’ equity
+  
+Common stock, par value, $0.01 per share, 1,450 shares authorized, 282 and 288
+shares outstanding at December 31, 2018 and 2017, respectively 3 3
+Additional paid-in capital — —
+Accumulated other comprehensive loss (8,618) (7,935)
+Retained earnings 20,087 17,895
+Total Raytheon Company stockholders’ equity 11,472 9,963
+Noncontrolling interests in subsidiaries — —
+Total equity 11,472 9,963
+Total liabilities, redeemable noncontrolling interest and equity $ 31,864 $ 30,860
+ 
+The accompanying notes are an integral part of the consolidated financial statements.
+78
+Page#2
+RAYTHEON COMPANY
+ 
+CONSOLIDATED STATEMENTS OF OPERATIONS
+ 
+(In millions, except per share amounts) Years Ended December 31: 2018 2017 2016
+Net sales
+ 
+Products $ 22,633 $ 21,416 $ 20,309
+Services 4,425 3,932 3,815
+Total net sales 27,058 25,348 24,124
+Operating expenses
+ 
+Cost of sales—products 16,108 15,252 14,462
+Cost of sales—services 3,465 3,088 3,045
+General and administrative expenses 2,947 2,777 2,721
+Total operating expenses 22,520 21,117 20,228
+Operating income 4,538 4,231 3,896
+Non-operating (income) expense, net
+Retirement benefits non-service expense 1,230 913 601
+Interest expense 184 205 232
+Interest income (31) (21) (16)
+Other (income) expense, net 8 21 (6)
+Total non-operating (income) expense, net 1,391 1,118 811
+Income from continuing operations before taxes 3,147 3,113 3,085
+Federal and foreign income taxes 264 1,114 873
+Income from continuing operations 2,883 1,999 2,212
+Income (loss) from discontinued operations, net of tax (1) 2 1
+Net income 2,882 2,001 2,213
+Less: Net income (loss) attributable to noncontrolling interests in subsidiaries (27) (23) (31)
+Net income attributable to Raytheon Company $ 2,909 $ 2,024 $ 2,244
+Basic earnings per share attributable to Raytheon Company common stockholders:
+ 
+Income from continuing operations $ 10.16 $ 6.95 $ 7.55
+Income (loss) from discontinued operations, net of tax — 0.01 —
+Net income 10.16 6.96 7.56
+Diluted earnings per share attributable to Raytheon Company common
+stockholders:
+ 
+Income from continuing operations $ 10.15 $ 6.94 $ 7.55
+Income (loss) from discontinued operations, net of tax — 0.01 —
+Net income 10.15 6.95 7.55
+Amounts attributable to Raytheon Company common stockholders:
+ 
+Income from continuing operations $ 2,910 $ 2,022 $ 2,243
+Income (loss) from discontinued operations, net of tax (1) 2 1
+Net income $ 2,909 $ 2,024 $ 2,244
+The accompanying notes are an integral part of the consolidated financial statements.
+79
+Page#3
+RAYTHEON COMPANY
+ 
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions) Years Ended December 31: 2018 2017 2016
+Cash flows from operating activities
+Net income $ 2,882 $ 2,001 $ 2,213
+(Income) loss from discontinued operations, net of tax 1 (2) (1)
+Income from continuing operations 2,883 1,999 2,212
+Adjustments to reconcile to net cash provided by (used in) operating activities
+ 
+from continuing operations, net of the effect of acquisitions and divestitures
+Depreciation and amortization 568 550 515
+Stock-based compensation 165 173 151
+Gain on sale of equity method investment — — (158)
+Loss on repayment of long-term debt — 39 —
+Deferred income taxes (24) 252 133
+Changes in assets and liabilities
+Receivables, net (327) (157) 18
+Contract assets and contract liabilities 28 88 (645)
+Inventories (166) 14 (10)
+Prepaid expenses and other current assets 73 204 205
+Income taxes receivable/payable 174 (193) (185)
+Accounts payable 406 (94) 152
+Accrued employee compensation 165 111 77
+Other current liabilities (108) 106 (41)
+Accrued retiree benefits (421) (250) 419
+Other, net 12 (95) 9
+Net cash provided by (used in) operating activities from continuing operations 3,428 2,747 2,852
+Net cash provided by (used in) operating activities from discontinued operations — (2) —
+Net cash provided by (used in) operating activities 3,428 2,745 2,852
+Cash flows from investing activities
+Additions to property, plant and equipment (763) (543) (561)
+Proceeds from sales of property, plant and equipment 2 46 34
+Additions to capitalized internal use software (58) (68) (64)
+Purchases of short-term investments — (696) (472)
+Maturities of short-term investments 309 517 1,184
+Payments for purchases of acquired companies, net of cash received — (93) (57)
+Proceeds from sale of business, net of transaction costs 11 — —
+Other (22) 20 (11)
+Net cash provided by (used in) investing activities (521) (817) 53
+Cash flows from financing activities
+Dividends paid (975) (910) (850)
+Net borrowings (payments) on commercial paper — 300 —
+Repayments of long-term debt — (591) —
+Loss on repayment of long-term debt — (38) —
+Repurchases of common stock under share repurchase programs (1,325) (800) (900)
+Repurchases of common stock to satisfy tax withholding obligations (93) (85) (96)
+Acquisition of noncontrolling interest in RCCS LLC — — (90)
+Contribution from noncontrolling interest in Forcepoint — 8 11
+Other (5) — (5)
+Net cash provided by (used in) financing activities (2,398) (2,116) (1,930)
+Net increase (decrease) in cash, cash equivalents and restricted cash 509 (188) 975
+Cash, cash equivalents and restricted cash at beginning of year 3,115 3,303 2,328
+Cash, cash equivalents and restricted cash at end of year $ 3,624 $ 3,115 $ 3,303
+ 
+The accompanying notes are an integral part of the consolidated financial statements.
+82

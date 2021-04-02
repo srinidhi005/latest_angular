@@ -1,0 +1,201 @@
+
+Page#1
+50
+CONSOLIDATED BALANCE SHEETS
+CONSOLIDATED BALANCE SHEETS 
+  (in thousands)
+December 31, 2018 2017
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents (Note 14) $ 1,398,886 $ 949,104 
+Short-term investments (Notes 4 and 14) —  50,000 
+Accounts receivable, net (Note 5) 2,505,568  2,028,545 
+Inventories, net (Note 6) 4,553,500  3,461,686 
+Other current assets (Notes 13 and 19) 178,311  335,085 
+Total current assets 8,636,265  6,824,420 
+PROPERTY, PLANT AND EQUIPMENT, NET (Note 7) 5,334,748 5,093,147 
+GOODWILL (Notes 3 and 8) 2,184,336 2,196,058 
+OTHER INTANGIBLE ASSETS, NET (Notes 3 and 8) 828,504 914,646 
+OTHER ASSETS (Note 9) 936,735 812,987
+TOTAL ASSETS $ 17,920,588 $ 15,841,258 
+LIABILITIES AND EQUITY
+CURRENT LIABILITIES:
+Short-term debt (Notes 11 and 14) $ 57,870 $ 52,833 
+Long-term debt due within one year (Notes 11 and 14) — 500,000 
+Accounts payable (Note 10) 1,428,191 1,181,346 
+Salaries, wages and related accruals (Note 17) 709,397 516,660 
+Accrued expenses and other current liabilities (Notes 10, 13 and 15) 610,842 573,925 
+Total current liabilities 2,806,300 2,824,764 
+LONG-TERM DEBT DUE AFTER ONE YEAR (Notes 11 and 14) 4,233,276 3,242,242 
+DEFERRED CREDITS AND OTHER LIABILITIES (Notes 13, 15, 17 and 19) 679,044 689,464 
+TOTAL LIABILITIES 7,718,620 6,756,470
+COMMITMENTS AND CONTINGENCIES (Notes 13 and 15)
+EQUITY
+NUCOR STOCKHOLDERS’ EQUITY (Notes 12 and 16):
+Common stock (800,000 shares authorized; 380,154 and 
+379,900 shares issued, respectively) 152,061 151,960 
+Additional paid-in capital 2,073,715  2,021,339 
+Retained earnings 10,337,445  8,463,709 
+Accumulated other comprehensive loss, net of income taxes 
+(Notes 13 and 20) (304,133) (254,681)
+Treasury stock (74,562 and 61,931 shares, respectively) (2,467,010) (1,643,291)
+Total Nucor stockholders’ equity 9,792,078  8,739,036 
+NONCONTROLLING INTERESTS 409,890  345,752 
+TOTAL EQUITY 10,201,968  9,084,788 
+TOTAL LIABILITIES AND EQUITY $ 17,920,588 $ 15,841,258 
+See notes to consolidated financial statements.
+Page#2
+51
+CONSOLIDATED STATEMENTS OF EARNINGS
+CONSOLIDATED STATEMENTS OF EARNINGS 
+(in thousands, except per share data)
+Year Ended December 31, 2018 2017 2016
+NET SALES (Notes 23 and 24) $25,067,279 $20,252,393 $16,208,122
+COSTS, EXPENSES AND OTHER:
+Cost of products sold (Notes 13 and 20) 20,771,871 17,682,986 14,182,215 
+Marketing, administrative and other expenses 860,722  687,531  596,761 
+Equity in earnings of unconsolidated subsidiaries (40,240) (41,661) (38,757)
+Impairment of assets (Notes 7 and 24) 110,000 — —
+Interest expense, net (Notes 18 and 19) 135,535  173,580  169,244 
+21,837,888  18,502,436  14,909,463 
+EARNINGS BEFORE INCOME TAXES AND 
+  NONCONTROLLING INTERESTS 3,229,391 1,749,957 1,298,659 
+PROVISION FOR INCOME TAXES (Notes 19 and 24) 748,307  369,386  398,243 
+NET EARNINGS 2,481,084 1,380,571  900,416 
+EARNINGS ATTRIBUTABLE  
+  TO NONCONTROLLING INTERESTS 120,317  61,883  104,145 
+NET EARNINGS ATTRIBUTABLE TO NUCOR STOCKHOLDERS $ 2,360,767 $  1,318,688 $ 796,271
+NET EARNINGS PER SHARE (Note 21):
+Basic $7.44 $4.11 $2.48 
+Diluted $7.42 $4.10 $2.48
+See notes to consolidated financial statements.
+Page#3
+5522
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME  
+(in thousands)
+Year Ended December 31, 2018 2017 2016
+NET EARNINGS $2,481,084 $1,380,571 $ 900,416
+OTHER COMPREHENSIVE INCOME (LOSS):
+Net unrealized (loss) income on hedging derivatives, 
+ net of income taxes of ($300), ($2,600) and $1,500 
+ for 2018, 2017 and 2016, respectively (3,568) (4,523) 2,570
+Reclassification adjustment for (gain) loss on settlement 
+ of hedging derivatives included in net earnings, 
+ net of income taxes of $0, $400 and $5,800 
+ for 2018, 2017 and 2016, respectively (132) 973 9,880
+Foreign currency translation (loss) gain, 
+ net of income taxes of $0 for 2018, 2017 and 2016 (47,133) 68,657 25,495
+Adjustment to early retiree medical plan, 
+ net of income taxes of $514, ($767) and ($1,291) 
+ for 2018, 2017 and 2016, respectively 1,731 (1,530) (3,589)
+Reclassification adjustment for gain on early 
+ retiree medical plan included in net earnings, 
+ net of income taxes of ($108), ($279) and ($309) 
+ for 2018, 2017 and 2016, respectively (350)  (415)  (837)
+(49,452) 63,162 33,519
+COMPREHENSIVE INCOME 2,431,632  1,443,733 933,935
+COMPREHENSIVE INCOME ATTRIBUTABLE TO 
+NONCONTROLLING INTERESTS
+(120,317)  (61,883)  (104,145)
+COMPREHENSIVE INCOME ATTRIBUTABLE TO 
+NUCOR STOCKHOLDERS $ 2,311,315 $1,381,850 $ 829,790
+See notes to consolidated financial statements.
+Page#4
+5533
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY (in thousands, except per share data)
+ACCUMULATED TOTAL
+ADDITIONAL OTHER TREASURY STOCK NUCOR NON- 
+COMMON STOCK PAID-IN RETAINED COMPREHENSIVE (AT COST) STOCKHOLDERS’ CONTROLLING
+TOTAL SHARES AMOUNT CAPITAL EARNINGS LOSS SHARES  AMOUNT EQUITY INTERESTS
+BALANCES, December 31, 2015 $ 7,849,877 378,566  $151,426  $1,918,970  $7,316,910  $(351,362) 60,604  $(1,558,128) $7,477,816  $372,061 
+Net earnings in 2016 900,416  796,271  796,271  104,145 
+Other comprehensive income (loss) 33,519  33,519  33,519 
+Stock options exercised 15,670 400 160 15,510  15,670 
+Stock option expense 7,833  7,833  7,833 
+Issuance of stock under award plans, 
+net of forfeitures 35,953 368 148 32,118  (143) 3,687  35,953 
+Amortization of unearned compensation 843  843  843 
+Treasury stock acquired (5,173) 136 (5,173) (5,173)
+Cash dividends declared ($1.5025 per share) (482,265) (482,265) (482,265)
+Distributions to noncontrolling interests (99,588) (99,588)
+Other (2,377) (602) (602) (1,775)
+BALANCES, December 31, 2016 8,254,708 379,334 151,734  1,974,672 7,630,916 (317,843) 60,597 (1,559,614) 7,879,865 374,843 
+Net earnings in 2017 1,380,571  1,318,688  1,318,688  61,883 
+Other comprehensive income (loss) 63,162 63,162  63,162 
+Stock options exercised 7,069 183 73  6,996  7,069 
+Stock option expense 8,233  8,233  8,233 
+Issuance of stock under award plans, 
+net of forfeitures 37,018 383 153  30,238  (257) 6,627  37,018 
+Amortization of unearned compensation 1,200  1,200  1,200 
+Treasury stock acquired (90,304) 1,591 (90,304) (90,304)
+Cash dividends declared ($1.5125 per share) (485,895) (485,895) (485,895)
+Distributions to noncontrolling interests (90,974) (90,974)
+BALANCES, December 31, 2017 9,084,788 379,900 151,960 2,021,339 8,463,709 (254,681) 61,931 (1,643,291) 8,739,036 345,752 
+Net earnings in 2018 2,481,084 2,360,767 2,360,767  120,317 
+Other comprehensive income (loss) (49,452) (49,452) (49,452)
+Stock options exercised 24,102  210  84 14,675 (333) 9,343 24,102 
+Stock option expense 4,563 4,563 4,563 
+Issuance of stock under award plans, 
+net of forfeitures 52,313  44  17 31,361 (762) 20,935 52,313 
+Amortization of unearned compensation 1,777 1,777 1,777 
+Treasury stock acquired (853,997) 13,726 (853,997) (853,997)
+Cash dividends declared ($1.5400 per share) (487,031) (487,031) (487,031)
+Distributions to noncontrolling interests (56,179) (56,179)
+BALANCES, December 31, 2018 $10,201,968 380,154 $152,061  $2,073,715 $10,337,445 $(304,133) 74,562 $(2,467,010) $9,792,078 $409,890 
+See notes to consolidated financial statements.
+Page#5
+54
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+CONSOLIDATED STATEMENTS OF CASH FLOWS (in thousands)
+Year Ended December 31, 2018 2017 2016
+OPERATING ACTIVITIES:
+Net earnings $ 2,481,084 $ 1,380,571 $  900,416
+Adjustments:
+Depreciation 630,879  635,833 613,192 
+Amortization 88,758  91,228  73,862 
+Stock-based compensation 73,422  64,176  56,511 
+Deferred income taxes 3,017  (221,173) 71,455 
+Distributions from affiliates 30,196  49,295  40,602 
+Equity in earnings of unconsolidated affiliates (40,240) (41,661) (38,757)
+Impairment of assets 110,000 — —  
+Changes in assets and liabilities (exclusive of acquisitions and dispositions):
+Accounts receivable (485,433) (329,501) (217,736)
+Inventories (1,092,101) (900,946) (132,639)
+Accounts payable 235,572 314,817  236,788 
+Federal income taxes 163,743 (107,577) 3,555 
+Salaries, wages and related accruals 204,796 87,700  133,625 
+Other operating activities (9,741) 32,576 9,127 
+Cash provided by operating activities 2,393,952  1,055,338  1,750,001 
+INVESTING ACTIVITIES:
+Capital expenditures (982,531) (448,555) (604,840)
+Investment in and advances to affiliates (121,412) (59,000) (63,167)
+Divestiture of affiliates — — 135,000 
+Disposition of plant and equipment 31,589  25,315  18,571 
+Acquisitions (net of cash acquired) (33,063) (544,041) (474,788)
+Purchases of investments — (50,000) (650,000)
+Proceeds from the sale of investments 50,000  150,000 600,000 
+Other investing activities 25,348  7,389  14,106 
+Cash used in investing activities (1,030,069) (918,892) (1,025,118)
+FINANCING ACTIVITIES:
+Net change in short-term debt  5,037 34,872 (33,360)
+Proceeds from long-term debt, net of discount 995,710 — —  
+Repayment of long-term debt (500,000) (600,000) —  
+Bond issuance related costs (7,625) — —  
+Issuance of common stock 24,101 7,070  15,670 
+Payment of tax withholdings on certain stock-based compensation (22,123) (14,408) (12,387)
+Excess tax benefits from stock-based compensation — — 2,784 
+Distributions to noncontrolling interests (56,179) (90,974) (99,588)
+Cash dividends (485,376) (485,321) (481,083)
+Acquisition of treasury stock (853,997) (90,304) (5,173)
+Other financing activities (7,725) (3,241) (13,297)
+Cash used in financing activities (908,177) (1,242,306) (626,434)
+Effect of exchange rate changes on cash (5,924) 9,003 8,043 
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS 449,782 (1,096,857) 106,492 
+CASH AND CASH EQUIVALENTS — BEGINNING OF YEAR 949,104  2,045,961  1,939,469 
+CASH AND CASH EQUIVALENTS — END OF YEAR $ 1,398,886 $  949,104 $2,045,961
+NON-CASH INVESTING ACTIVITY:
+Change in accrued plant and equipment purchases and assets 
+recorded under capital lease arrangements $ 14,725 $ 58,519 $ 12,837
+See notes to consolidated financial statements.

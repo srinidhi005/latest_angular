@@ -1,0 +1,166 @@
+
+Page#1
+PELOTON INTERACTIVE, INC.
+CONSOLIDATED BALANCE SHEETS
+(in millions, except share and per share amounts)
+June 30,
+2020 2019
+ASSETS
+Current assets:
+Cash and cash equivalents $ 1,035.5 $ 162.1 
+Marketable securities 719.5 216.0 
+Accounts receivable, net 34.6 18.5 
+Inventories, net 244.5 136.6 
+Prepaid expenses and other current assets 124.5 48.4 
+Total current assets 2,158.6 581.7 
+Property and equipment, net 242.3 249.7 
+Intangible assets, net 16.0 19.5 
+Goodwill 39.1 4.3 
+Restricted cash 1.5 0.8 
+Right-of-use assets, net 492.5 — 
+Other assets 31.8 8.5 
+$ 2,981.8 $ 864.5 
+Total assets
+LIABILITIES, REDEEMABLE CONVERTIBLE PREFERRED STOCK, AND STOCKHOLDERS’ EQUITY (DEFICIT)
+Current liabilities:
+Accounts payable $ 135.8 $ 92.2 
+Accrued expenses 225.9 104.5 
+Customer deposits and deferred revenue 363.6 90.8 
+Current portion of lease liabilities and other current liabilities 46.9 3.3 
+Total current liabilities 772.2 290.8 
+Deferred rent — 23.7 
+Build-to-suit liability — 147.1 
+Long term lease liabilities, net 508.2 — 
+Other non-current liabilities 23.4 0.4 
+Total liabilities 1,303.8 462.0 
+Commitments and contingencies (Note 13)
+Redeemable convertible preferred stock, $0.000025 par value, zero and 215,443,468 shares authorized;
+zero and 210,640,629 shares issued and outstanding as of June 30, 2020 and June 30, 2019,
+respectively. — 941.1 
+Stockholders’ equity (deficit)
+Common stock, $0.000025 par value; 2,500,000,000 and zero Class A shares authorized,
+237,518,574 and zero shares issued and outstanding as of June 30, 2020 and June 30, 2019,
+respectively; 2,500,000,000 and 400,000,000 Class B shares authorized, 50,538,538 and
+25,301,604 shares issued and outstanding as of June 30, 2020 and June 30, 2019, respectively. — — 
+Additional paid-in capital 2,361.8 90.7 
+Accumulated other comprehensive income 10.1 0.2 
+Accumulated deficit (693.9) (629.5)
+Total stockholders’ equity (deficit) 1,678.0 (538.6)
+$ 2,981.8 $ 864.5 
+Total liabilities, redeemable convertible preferred stock, and stockholders’ equity (deficit)
+See accompanying notes to these consolidated financial statements.
+58
+Page#2
+PELOTON INTERACTIVE, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+(in millions, except share and per share amounts)
+Fiscal Year Ended June 30,
+2020 2019 2018
+Revenue:
+Connected Fitness Products $ 1,462.2 $ 733.9 $ 354.7 
+Subscription 363.7 181.1 80.3 
+Total revenue 1,825.9 915.0 435.0 
+Cost of revenue:
+Connected Fitness Products 833.5 427.8 199.9 
+Subscription 155.7 103.7 45.5 
+Total cost of revenue 989.1 531.4 245.4 
+Gross profit 836.7 383.6 189.6 
+Operating expenses:
+Sales and marketing 477.0 324.0 151.4 
+General and administrative 351.6 207.0 62.4 
+Research and development 89.0 54.8 23.4 
+Total operating expenses 917.6 585.8 237.1 
+Loss from operations (80.8) (202.3) (47.5)
+Other income, net:
+Interest income, net 16.2 7.0 (0.3)
+Other expense, net (3.8) (0.3) — 
+Total other income (expense), net 12.4 6.7 (0.3)
+Loss before provision for income taxes (68.4) (195.6) (47.8)
+Income tax expense 3.3 0.1 0.1 
+$ (71.6) $ (195.6) $ (47.9)
+Net loss
+Net loss attributable to Class A and Class B common stockholders $ (71.6) $ (245.7) $ (47.9)
+Net loss per share attributable to Class A and Class B common stockholders,
+$ (0.32) $ (10.72) $ (2.18)
+basic and diluted
+Weighted-average Class A and Class B common shares outstanding, basic
+220,952,237 22,911,764 21,934,228 
+and diluted
+Other comprehensive income:
+Net unrealized gains on marketable securities $ 3.9 $ 0.2 $ — 
+Change in foreign currency translation adjustment 6.0 — — 
+Total other comprehensive income 9.9 0.2 — 
+$ (61.7) $ (195.4) $ (47.9)
+Comprehensive loss
+See accompanying notes to these consolidated financial statements.
+59
+Page#3
+PELOTON INTERACTIVE, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in millions)
+Fiscal Year Ended June 30,
+2020 2019 2018
+Cash Flows from Operating Activities:
+Net loss $ (71.6) $ (195.6) $ (47.9)
+Adjustments to reconcile net loss to net cash provided by (used in)
+operating activities:
+Depreciation and amortization expense 40.2 21.7 6.6 
+Stock-based compensation expense 88.8 89.5 8.5 
+Non-cash operating lease expense 47.7 — — 
+Other non-cash items 6.4 (1.4) 1.0 
+Changes in operating assets and liabilities:
+Accounts receivable 11.3 (9.1) (4.1)
+Inventories (96.8) (111.3) (9.6)
+Prepaid expenses and other current assets (33.1) (30.3) (12.1)
+Other assets (22.1) (5.5) 1.4 
+Accounts payable and accrued expenses 133.4 117.3 41.0 
+Customer deposits and deferred revenue 272.3 2.2 63.0 
+Operating lease liabilities, net (23.6) — — 
+Other liabilities 23.5 13.8 1.9 
+Net cash provided by (used in) operating activities 376.4 (108.6) 49.7 
+Cash Flows from Investing Activities:
+Purchases of marketable securities (1,199.6) (249.8) — 
+Maturities of marketable securities 435.4 36.0 — 
+Sales of marketable securities 224.3 — — 
+Cash paid for cost method investment (0.1) (0.6) — 
+Acquisition of business, net of cash acquired (45.0) (0.1) (28.7)
+Purchases of property and equipment (156.4) (83.0) (28.0)
+Net cash used in investing activities (741.3) (297.5) (56.7)
+Cash Flows from Financing Activities:
+Proceeds from issuance of common stock upon initial public offering, net of
+offering costs 1,195.7 — — 
+Repurchase of common and convertible preferred stock, including
+issuance costs — (130.3) — 
+Proceeds from issuance of redeemable convertible preferred stock, net of
+issuance costs — 539.1 — 
+Proceeds from employee stock purchase plan withholdings 7.0 — — 
+Repayments of debt — — (3.1)
+Debt issuance costs — (0.9) (1.2)
+Proceeds from exercise of stock options 37.4 9.3 7.4 
+Net cash provided by financing activities 1,240.2 417.2 3.1 
+Effect of exchange rate changes (1.2) 0.2 — 
+Net change in cash, cash equivalents, and restricted cash 874.0 11.3 (3.9)
+Cash, cash equivalents and restricted cash — Beginning of period 163.0 151.6 155.5 
+$ 1,037.0 $ 163.0 $ 151.6 
+Cash, cash equivalents and restricted cash — End of period
+Supplemental Disclosures of Cash Flow Information:
+$ 1.9 $ 1.1 $ 0.3 
+Cash paid for interest
+$ 4.1 $ — $ — 
+Cash paid for income taxes
+Supplemental Disclosures of Non-Cash Investing and Financing Information:
+60
+Page#4
+PELOTON INTERACTIVE, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in millions)
+$ (941.1) $ — $ — 
+Conversion of convertible preferred stock to common stock
+$ 18.2 $ 12.6 $ 4.3 
+Property and equipment accrued but unpaid
+$ — $ 147.1 $ — 
+Building - build-to-suit asset
+$ 2.2 $ 0.8 $ 0.3 
+Stock-based compensation capitalized for software development costs
+See accompanying notes to these consolidated financial statements.
+61

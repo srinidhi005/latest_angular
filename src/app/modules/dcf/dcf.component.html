@@ -36,7 +36,7 @@
 	<div class="row headers" style="font-weight: bold;background-color: #164A5B; color:white;
                 padding: 18px 15px;
                 font-weight: normal; 
-                border-top-left-radius: 25px;border-top-right-radius: 25px; ">Weighted Average Cost of Capital</div>
+                border-top-left-radius: 5px;border-top-right-radius: 5px; ">Weighted Average Cost of Capital</div>
        
         <div class="row" style="padding: 18px 15px;background: white;">
             <div class="col" style="max-width:40%">
@@ -44,7 +44,7 @@
                 <div class="row headers" style="font-weight: bold;background-color: #164A5B; color:white;
                 padding: 5px 15px;
                 font-weight: normal; 
-                border-top-left-radius: 25px;border-top-right-radius: 25px; ">Capital Structure</div>
+                border-top-left-radius: 5px;border-top-right-radius: 5px; ">Capital Structure</div>
                 <div class="row" style="background: white;">
                     <div class="col left-align">
                         Debt to Total Capitalization
@@ -76,7 +76,7 @@
                 <div class="row headers" style="font-weight: bold;background-color: #164A5B; color:white;
               padding: 5px 15px;
               font-weight: normal; 
-              border-top-left-radius: 25px;border-top-right-radius: 25px; ">Cost of Equity</div>
+              border-top-left-radius: 5px;border-top-right-radius: 5px; ">Cost of Equity</div>
                 <div class="row" style="background: white;">
                     <div class="col left-align">
                         Risk Free Rate (10-Year Treasury)
@@ -116,7 +116,7 @@
                 <div class="row headers" style="font-weight: bold;background-color: #164A5B; color:white;
               padding: 5px 15px;
               font-weight: normal; 
-              border-top-left-radius: 25px;border-top-right-radius: 25px; ">Cost of Debt</div>
+              border-top-left-radius: 5px;border-top-right-radius: 5px; ">Cost of Debt</div>
     
                 <div class="row" style="background: white;">
                     <div class="col left-align">
@@ -175,7 +175,7 @@
 				  <div class="row headers" style="font-weight: bold;background-color: #164A5B; color:white;
               padding: 5px 15px;
               font-weight: normal; 
-              border-top-left-radius: 25px;border-top-right-radius: 25px; ">Assumptions</div>
+              border-top-left-radius: 5px;border-top-right-radius: 5px; ">Assumptions</div>
     
                 <div class="row" style="background: white;">
                     <div class="col left-align">
@@ -190,7 +190,7 @@
                        EBITDA Exit Multiple
                     </div>
                     <div class="col-3 right-align">
-                        40.0%
+                        40.0x
                     </div>
                 </div>
                 <div class="row highlight">
@@ -214,7 +214,7 @@
                 <div class="row headers" style="font-weight: bold;background-color: #164A5B; color:white;
               padding: 5px 15px;
               font-weight: normal; 
-              border-top-left-radius: 25px;border-top-right-radius: 25px; ">
+              border-top-left-radius: 5px;border-top-right-radius: 5px; ">
                     <div class="col-2 left-align" style="border-bottom:0px">Ticker</div>
                     <div class="col-2 left-align" style="border-bottom:0px">Company</div>
                     <div class="col-2 right-align" style="border-bottom:0px">
@@ -239,10 +239,10 @@
                             {{ comp?.levered_beta | number: "1.2-2" }}
                         </div>
                         <div class="col-2 right-align">
-                            {{ comp?.debt_equity * 100 | number: "1.1-2" }}%
+                            {{ comp?.debt_equity  | number: "1.1-2" }}%
                         </div>
                         <div class="col-2 right-align">
-                            {{ comp?.tax_rate * 100 | number: "1.2-2" }}%
+                            {{ comp?.tax_rate  | number: "1.2-2" }}%
                         </div>
                         <div class="col-2 right-align">
                             {{ comp?.unlevered_beta | number: "1.2-2"}}
@@ -257,7 +257,7 @@
                         {{ dcf.median?.levered_beta | number: "1.2-2" }}
                     </div>
                     <div class="col-2 right-align">
-                        {{ dcf?.median?.debt_equity * 100| number: "1.1-2" }}%
+                        {{ dcf?.median?.debt_equity | number: "1.1-2" }}%
                     </div>
                     <div class="col-2 right-align"></div>
                     <div class="col-2 right-align">
@@ -288,8 +288,8 @@
 				<th style="font-weight: bold;background-color: #164A5B; color:white;
                 padding: 18px 15px;
                 font-weight: normal; 
-                border-top-left-radius: 25px;width: 5000px;
-    border-top-right-radius: 25px;">Unlevered Free Cash Flow Profile</th>
+                border-top-left-radius: 5px;width: 5000px;
+    border-top-right-radius: 5px;">Unlevered Free Cash Flow Profile</th>
 	
             <table class="table table-striped">
 			
@@ -623,8 +623,8 @@
 <th style="font-weight: bold;background-color: #164A5B; color:white;
                 padding: 18px 15px;
                 font-weight: normal; 
-                border-top-left-radius: 25px;width: 5000px;
-    border-top-right-radius: 25px;">Valuations
+                border-top-left-radius: 5px;width: 5000px;
+    border-top-right-radius: 5px;">Valuations
 </th>
 
 
@@ -808,7 +808,7 @@
 <div><th style="font-weight: bold;background-color: #164A5B; color:white;
                 padding: 18px 15px;
                 font-weight: normal; 
-                border-top-left-radius: 25px;border-top-right-radius: 25px;width:2000px ">
+                border-top-left-radius: 5px;border-top-right-radius: 5px;width:2000px ">
 				Valuation Summary</th>
 			
             <table class="table table-striped">

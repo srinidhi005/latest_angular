@@ -1,0 +1,148 @@
+
+Page#1
+Table of Contents
+BLUE APRON HOLDINGS, INC.
+Consolidated Balance Sheets
+(In thousands, except share and per‑‑share data)
+ 
+ 
+  December 31,  December 31, 
+  2018  2017
+ASSETS 
+CURRENT ASSETS: 
+Cash and cash equivalents  $ 95,615  $ 228,514
+Accounts receivable, net 494 1,945
+Inventories, net 33,634 41,927
+Prepaid expenses and other current assets 11,116 7,824
+Other receivables 1,143 2,539
+Total current assets 142,002 282,749
+Restricted cash 1,692 2,371
+Property and equipment, net 209,515 230,828
+Other noncurrent assets 1,690 1,761
+TOTAL ASSETS  $ 354,899  $ 517,709
+LIABILITIES AND STOCKHOLDERS’ EQUITY (DEFICIT) 
+CURRENT LIABILITIES: 
+Accounts payable  $ 22,573  $ 30,448
+Accrued expenses and other current liabilities 32,594 32,615
+Deferred revenue 12,372 27,646
+Total current liabilities 67,539 90,709
+Long-term debt 82,603 124,687
+Facility financing obligation 71,696 70,347
+Other noncurrent liabilities 13,759 8,116
+TOTAL LIABILITIES 235,597 293,859
+Commitments and contingencies (Note 9) 
+STOCKHOLDERS’ EQUITY (DEFICIT): 
+Class A common stock, par value of $0.0001 per share — 1,500,000,000 shares authorized
+as of December 31, 2018 and December 31, 2017; 78,601,089 and 37,657,649 shares
+issued and outstanding as of December 31, 2018 and December 31, 2017, respectively 8 4
+Class B common stock, par value of $0.0001 per share — 175,000,000 shares authorized as
+of December 31, 2018 and December 31, 2017; 115,710,547 and 153,727,228 shares
+issued and outstanding as of December 31, 2018 and December 31, 2017, respectively 11 15
+Class C common stock, par value of $0.0001 per share — 500,000,000 shares authorized as
+of December 31, 2018 and December 31, 2017; 0 shares issued and outstanding as of
+December 31, 2018 and December 31, 2017 — —
+Additional paid-in capital 590,521 572,528
+Accumulated deficit (471,238)  (348,697)
+TOTAL STOCKHOLDERS’ EQUITY (DEFICIT) 119,302 223,850
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY (DEFICIT)  $ 354,899  $ 517,709
+ 
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-3
+ 
+Page#2
+Table of Contents
+BLUE APRON HOLDINGS, INC.
+Consolidated Statements of Operations
+(In thousands, except share and per‑‑share data)
+ 
+ 
+  Year Ended December 31,  
+ 2018 2017 2016 
+Net revenue $ 667,600  $ 881,191  $ 795,416 
+Operating expenses: 
+Cost of goods sold, excluding depreciation and amortization  433,496 627,964 532,682 
+Marketing  117,455 154,529 144,141 
+Product, technology, general, and administrative  194,340 247,907 165,179 
+Depreciation and amortization  34,517 26,838 8,217 
+Other operating expense  2,170 12,713 — 
+Total operating expenses  781,978 1,069,951 850,219 
+Income (loss) from operations  (114,378)  (188,760)  (54,803) 
+Interest income (expense), net  (7,683)  (6,384)  25 
+Other income (expense), net — (14,984) — 
+Income (loss) before income taxes  (122,061)  (210,128)  (54,778) 
+Benefit (provision) for income taxes  (88)  (15)  (108) 
+Net income (loss) $ (122,149) $ (210,143) $ (54,886) 
+ 
+Net income (loss) per share attributable to Class A, Class B, and
+Class C common stockholders: 
+Basic $ (0.63) $ (1.64) $ (0.84) 
+Diluted $ (0.63) $ (1.64) $ (0.84) 
+Weighted-average shares used to compute net income (loss) per
+share attributable to Class A, Class B, and Class C common
+stockholders: 
+Basic 192,678,914 128,057,330 65,425,609 
+Diluted 192,678,914 128,057,330 65,425,609 
+ 
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+ 
+F-4
+ 
+Page#3
+Table of Contents
+ 
+BLUE APRON HOLDINGS, INC.
+Consolidated Statements of Cash Flows
+(In thousands)
+ 
+ Year Ended December 31, 
+ 
+ 2018 2017 2016
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+Net income (loss)  $ (122,149) $ (210,143) $ (54,886)
+Adjustments to reconcile net income (loss) to net cash from (used in) operating activities: 
+Depreciation and amortization of property and equipment 34,517 26,838 8,217
+Loss (gain) on disposal of property and equipment 1,624 (25) 3
+Loss on impairment — 9,456 —
+Changes in reserves and allowances (1,247)  1,870 151
+Share-based compensation 16,320 11,270 2,965
+Non-cash interest expense 1,595 2,719 62
+Loss (gain) on convertible notes — 14,984 —
+Changes in operating assets and liabilities: 
+Receivables 1,812 (123)  (449)
+Inventories 9,786 451 (25,686)
+Prepaid expenses and other current assets (3,194)  (125)  (3,598)
+Accounts payable (6,605)  (4,770)  3,713
+Accrued expenses and other current liabilities (2)  (7,923)  26,821
+Deferred revenue (15,274)  3,368 18,026
+Other noncurrent assets and liabilities 5,917 (289)  1,116
+Net cash from (used in) operating activities (76,900)  (152,442)  (23,545)
+CASH FLOWS FROM INVESTING ACTIVITIES: 
+Cash paid for acquisition (250)  (1,177) —
+Decrease (increase) in restricted cash 679 1,595 (3,629)
+Purchases of property and equipment (15,022)  (124,242)  (62,827)
+Proceeds from sale of property and equipment 983 137 —
+Net cash from (used in) investing activities (13,610)  (123,687)  (66,456)
+CASH FLOWS FROM FINANCING ACTIVITIES: 
+Net proceeds from debt issuances — 144,349 44,471
+Repayments of debt (41,422) — —
+Payments of debt issuance costs (908) — —
+Proceeds from exercise of stock options 215 1,010 402
+Principal payments on capital lease obligations (274)  (194)  (264)
+Net proceeds from public offering — 283,500 —
+Payments of public offering costs — (5,490) —
+Net cash from (used in) financing activities (42,389)  423,175 44,609
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS (132,899)  147,046 (45,392)
+CASH AND CASH EQUIVALENTS — Beginning of period 228,514 81,468 126,860
+CASH AND CASH EQUIVALENTS — End of period  $ 95,615  $ 228,514  $ 81,468
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION: 
+Cash paid for income taxes, net of refunds  $ 110  $ 70  $ 355
+Cash paid for interest, net of amounts capitalized  $ 8,317  $ 4,675  $ 96
+SUPPLEMENTAL DISCLOSURES OF NON-CASH INVESTING AND FINANCING
+INFORMATION: 
+Acquisition (disposal) of property and equipment financed under capital lease obligations  $ 184  $ 39  $ 256
+Non-cash additions to property and equipment  $ 1,065  $ 20,458  $ 46,085
+Purchases of property and equipment in Accounts payable and Accrued expenses and other current liabilities  $ 582  $ 1,950  $ 15,713
+ 
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-6
+ 

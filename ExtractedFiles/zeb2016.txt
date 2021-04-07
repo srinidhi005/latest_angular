@@ -1,0 +1,242 @@
+
+Page#1
+ZEBRA TECHNOLOGIES CORPORATION AND SUBSIDIARIES 
+CONSOLIDATED BALANCE SHEETS 
+(In millions, except share data) 
+December 31, 
+2016 2015 
+Assets 
+Current assets: 
+  
+Cash and cash equivalents $ 156  $ 192
+  
+Accounts receivable, net 625 671
+  
+Inventories, net 345 397
+  
+Income tax receivable 32 4
+  
+Prepaid expenses and other current assets 64 70
+  
+Total Current assets 1,222 1,334
+  
+Property, plant and equipment, net 292 298
+  
+Goodwill 2,458 2,490
+  
+Other intangibles, net 480 757
+  
+Long-term deferred income taxes 113 70
+  
+Other long-term assets 67 91
+  
+Total Assets $ 4,632  $ 5,040
+Liabilities and Stockholders’ Equity 
+Current liabilities: 
+  
+Accounts payable $ 413  $ 289
+  
+Accrued liabilities 323 367
+  
+Deferred revenue 191 197
+  
+Income taxes payable 22 42
+  
+Total Current liabilities 949 895
+  
+Long-term debt 2,648 3,012
+  
+Long-term deferred tax liability 3 1
+  
+Long-term deferred revenue 124 124
+  
+Other long-term liabilities 116 115
+  
+Total Liabilities 3,840 4,147
+Stockholders’ Equity: 
+  
+Preferred stock, $0.01 par value; authorized 10,000,000 shares; none issued — —
+Class A common stock, $0.01 par value; authorized 150,000,000 shares; 
+1 1
+issued 72,151,857 shares 
+  
+Additional paid-in capital 210 194
+Treasury stock at cost, 19,267,269 and 19,990,006 shares at December 31, 
+2016 and December 31, 2015, respectively (614)  (631) 
+  
+Retained earnings 1,240 1,377
+Accumulated other comprehensive loss (45)  (48) 
+  
+Total Stockholders’ Equity 792 893
+  
+Total Liabilities and Stockholders’ Equity $ 4,632  $ 5,040
+See accompanying Notes to Consolidated Financial Statements. 
+F-3 
+Page#2
+ZEBRA TECHNOLOGIES CORPORATION AND SUBSIDIARIES 
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+(In millions, except share data) 
+Year Ended December 31, 
+2016 2015 2014 
+Net sales: 
+ 
+Net sales of tangible products 
+$ 3,056  $ 3,131  $ 1,499 
+ 
+Revenue from services and software 
+518 519 172
+ 
+Total Net sales 3,574 3,650 1,671
+Cost of sales: 
+ 
+Cost of sales of tangible products 
+1,593 1,629 792
+ 
+Cost of services and software 
+339 377 101
+ 
+Total Cost of sales 1,932 2,006 893
+ 
+Gross profit 1,642 1,644 778
+Operating expenses: 
+ 
+Selling and marketing 
+444 494 213
+ 
+Research and development 
+376 394 151
+ 
+General and administrative 
+307 283 138
+ 
+Amortization of intangible assets 
+229 251 54
+ 
+Acquisition and integration costs 
+125 145 127
+ 
+Impairment of goodwill and other intangibles 62 — —
+ 
+Exit and restructuring costs 
+19 40 6
+ 
+Total Operating expenses 1,562 1,607 689
+ 
+Operating income 80 37 89
+Other expenses: 
+Foreign exchange loss 
+(5)  (23)  (9) 
+Interest expense, net 
+(193)  (193)  (62) 
+Other, net 
+(11)  (1)  (1) 
+Total Other expenses (209)  (217)  (72) 
+ 
+(Loss) income before income taxes (129)  (180)  17
+ 
+Income tax expense (benefit) 
+8 (22) (15)
+ 
+Net (loss) income $ (137 )  $ (158 )  $ 32 
+ 
+Basic (loss) earnings per share $ (2.65 )  $ (3.10 )  $ 0.64 
+ 
+Diluted (loss) earnings per share 
+$ (2.65 )  $ (3.10 )  $ 0.63 
+ 
+Basic weighted average shares outstanding 
+51,579,112  50,996,297 50,789,173
+Diluted weighted average and equivalent shares 
+outstanding 
+51,579,112  50,996,297 51,379,698
+See accompanying Notes to Consolidated Financial Statements. 
+F-4 
+Page#3
+ZEBRA TECHNOLOGIES CORPORATION AND SUBSIDIARIES 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+(In millions) 
+Year Ended December 31, 
+2016 2015 2014 
+Cash flows from operating activities: 
+ 
+Net (loss) income $ (137)  $ (158)  $ 32
+Adjustments to reconcile net (loss) income to net cash provided by 
+operating activities: 
+ 
+Depreciation and amortization 304 320 81
+ 
+Impairment of goodwill, intangibles and other assets 69 — —
+ 
+Amortization of debt issuance cost and discount 23 16 2
+ 
+Share-based compensation 27 31 20
+Excess tax benefit from share-based compensation (3) (12)  (6) 
+Deferred income taxes (44) (142)  (44) 
+  
+Unrealized (gain) loss on forward interest rate swaps — (4) 5
+ 
+Other 3 14 4
+Changes in operating assets and liabilities: 
+  
+Accounts receivable, net 34 2 (70)
+ 
+Inventories, net 34 (13) (2)
+ 
+Other assets 7 (7) (13)
+  
+Accounts payable 125 (21) 62
+ 
+Accrued liabilities (29) (5)  164
+ 
+Deferred revenue 7 16 10
+ 
+Income taxes (41) 47 (5)
+  
+Other operating activities (7) 26 8
+ 
+Net cash provided by operating activities 372 110 248
+Cash flows from investing activities: 
+ 
+Acquisition of businesses, net of cash acquired — (52)  (3,399)
+Purchases of property, plant and equipment (77) (122)  (39) 
+ 
+Proceeds from the sale of a business 39 — —
+ 
+Proceeds from the sale of long-term investments — 3 —
+Purchases of long-term investments (1) (1)  (2) 
+ 
+Purchases of investments and marketable securities — (1)  (651)
+ 
+Maturities of investments and marketable securities — — 336
+ 
+Proceeds from sales of investments and marketable securities — 25 644
+Net cash used in investing activities (39)  (148)  (3,111) 
+Cash flows from financing activities: 
+  
+Payment of debt issuance costs — — (24)
+ 
+Proceeds from issuance of long-term debt 102 —  3,189
+ 
+Payment of long term-debt (484) (165)  —
+ 
+Proceeds from exercise of stock options and stock purchase plan purchases 11 17 26
+Taxes paid related to net share settlement of equity awards (8) (13)  (5) 
+ 
+Excess tax benefit from share-based compensation 3 12 6
+ 
+Net cash (used in) provided by financing activities (376)  (149)  3,192
+  
+Effect of exchange rate changes on cash 7 (15) 2
+ 
+Net (decrease) increase in cash and cash equivalents (36) (202)  331
+ 
+Cash and cash equivalents at beginning of year 192 394 63
+ 
+Cash and cash equivalents at end of year $ 156  $ 192  $ 394
+Supplemental disclosures of cash flow information: 
+ 
+Income taxes paid $ 81 $ 38  $ 17
+ 
+Interest paid $ 180 $ 183  $ —
+See accompanying Notes to Consolidated Financial Statements. 
+F-7 

@@ -1,352 +1,363 @@
-<div fxLayout="row" fxLayoutAlign="start center" style="margin-bottom:10px;margin-top:10px">
-<h4>Historical & Projected Cash Flow Statement</h4>
-</div>
-<div fxLayout="row" class="header">
-<img id='imgToExport' #imagecanvas src='https://app.rmiinsights.com/assets/images/RMI_logo.jpg' style='display:none' height="400" width="600"> 
-  <div fxLayout="row" fxFlex fxLayoutAlign="end start" fxLayoutGap="5px">
-	 <span class="headerLabel"   style="font-weight:bold;font-size: 18px;position: absolute;left: 22px;top: 65px;">{{ companySelected }} - {{scenarioName}}  </span>
-    <button mat-button (click)="exportToXLSX()" matTooltip="Export to XLSX"
-    matTooltipPosition='above'><mat-icon style="font-size: 26px">sim_card</mat-icon></button>
-    <button mat-button (click)="exportToPDF()" matTooltip="Export to PDF"
-    matTooltipPosition='above'><mat-icon style="font-size: 26px">picture_as_pdf</mat-icon></button>
-    <button mat-button [matMenuTriggerFor]="below" style="font-size:18px">Scenario<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
-    </button>
-  <mat-menu #below="matMenu" yPosition="below">
-    <button mat-menu-item *ngFor="let index of scenarioArray; let indexOfelement=index;">
-    <span *ngIf="indexOfelement==0;" (click)="loadScenario(indexOfelement)" style="font-size: 18px">Scenario 0</span> 
-    <span *ngIf="indexOfelement!=0;" (click)="loadScenario(indexOfelement)" style="font-size: 18px">Scenario {{index}}</span>
-  </button>
-  </mat-menu>
-
-    <button mat-button [matMenuTriggerFor]="afterMenu" style="font-size: 18px">Financial Statements <mat-icon matSuffix>keyboard_arrow_down</mat-icon>
-    </button>
-
-    <mat-menu #afterMenu="matMenu" xPosition="after">
-	<button mat-menu-item routerLinkActive="list-item-active" routerLink='/IncomeStatementMetrics' style="font-size: 18px">Income Statement</button>
-      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/BalanceSheetMetrics' style="font-size: 18px">Balance Sheet</button>
-      
-    </mat-menu>
-	<button mat-button
-      [matMenuTriggerFor]="tabMenus" style="padding: 0; margin: 0px;font-size: 18px">Visuals
-      <mat-icon matSuffix>
-        keyboard_arrow_down</mat-icon>
-    </button>
-    <mat-menu #tabMenus="matMenu" xPosition="after">
-      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsIS' style="font-size: 18px">Income
-        Statement</button>
-      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsBS' style="font-size: 18px">Balance Sheet</button>
-      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsCF' style="font-size: 18px">Cash Flow Statement</button>
-    </mat-menu>
-
-
-  </div>
-</div>
-<mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
-
-<div fxLayout="row" fxLayoutAlign="space-between center" fxLayoutGap="20px" id="myTable">
-  <div fxFlex="100">
-    <div class="mat-elevation-z8">
-
-      <table class="table table-striped">
-        <tr style="height: 60px;">
-          <th class="tableheaderClass leftAlign" style="font-weight: normal; border-top-left-radius: 5px;">
-            <ng-template [ngIf]="selectedCompanyName!=='Colorado Society of Certified Public Accountants'">
-			(in millions)
-			</ng-template>
-          </th>
-          <ng-template ngFor [ngForOf]="years" let-year let-rowIndex="index">
-            <th class="tableheaderYearClass rightAlign" [class.borderRadius]="rowIndex == years.length - 1">
-              <ng-template [ngIf]="rowIndex<(years.length-5)">
-				 {{ year }}A
-				</ng-template>
-				<ng-template [ngIf]="rowIndex>=(years.length-5)">
-				 {{ year }}E
-				</ng-template>
-            </th>
-          </ng-template>
-        </tr>
-
-        <tr>
-          <td class="normalClass leftAlign">
-            Net Income
-          </td>
-          <td class="normalClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['Netincome'] >= 0">
-              $ {{ rev['Netincome'] | number: '1.0-0'}}
-            </ng-template>
-             <ng-template [ngIf]="rev['Netincome'] < 0">
-              ($ {{ -(rev['Netincome']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="normalClass leftAlign">
-            (+) Depreciation & Amortization (D&A)
-          </td>
-          <td class="normalClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['DandA'] >= 0">
-              $ {{ rev['DandA'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['DandA'] < 0">
-              ($ {{ -(rev['DandA']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="tableboldClass leftAlign">
-            <b>Funds from Operations</b>
-          </td>
-          <td class="tableboldClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['FundsFromOperations'] >= 0">
-              $ {{ rev['FundsFromOperations'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['FundsFromOperations'] < 0">
-              ($ {{ -(rev['FundsFromOperations']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="normalClass leftAlign">
-            (+/–) Δ in Accounts Receivable
-          </td>
-          <td class="normalClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['Accountreceivables'] >= 0">
-              $ {{ rev['Accountreceivables'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['Accountreceivables'] < 0">
-              ($ {{ -(rev['Accountreceivables']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="normalClass leftAlign">
-            (+/–) Δ in Inventories
-          </td>
-          <td class="normalClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['Inventories'] >= 0">
-              $ {{ rev['Inventories'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['Inventories'] < 0">
-              ($ {{ -(rev['Inventories']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="normalClass">
-            (+/–) Δ in Other Current Assets
-          </td>
-          <td class="normalClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['OtherCurrentassets'] >= 0">
-              $ {{ rev['OtherCurrentassets'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['OtherCurrentassets'] < 0">
-              ($ {{ -(rev['OtherCurrentassets']) | number: '1.0-0' }})
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="normalClass leftAlign">
-            (+/–) Δ in Accounts Payable
-          </td>
-          <td class="normalClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['Accountspayable'] >= 0">
-              $ {{ rev['Accountspayable'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['Accountspayable'] < 0">
-              ($ {{ -(rev['Accountspayable']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="normalClass leftAlign">
-            (+/–) Δ in Accrued Liabilities
-          </td>
-          <td class="normalClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['AccuredLiabilites'] >= 0">
-              $ {{ rev['AccuredLiabilites'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['AccuredLiabilites'] < 0">
-              ($ {{ -(rev['AccuredLiabilites']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="normalClass leftAlign">
-            (+/–) Δ in Other Current Liabilities
-
-          </td>
-          <td class="normalClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['OtherCurrentliabilities'] >= 0">
-              $ {{ rev['OtherCurrentliabilities'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['OtherCurrentliabilities'] < 0">
-              ($ {{ -(rev['OtherCurrentliabilities']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="tableboldClass leftAlign">
-            Cash Flow from Operating Activities ("CFO")
-          </td>
-          <td class="tableboldClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['CashFlowFromOperatingActivites'] >= 0">
-              $ {{ rev['CashFlowFromOperatingActivites'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['CashFlowFromOperatingActivites'] < 0">
-              ($ {{ -(rev['CashFlowFromOperatingActivites']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="normalClass leftAlign">
-            (–) Total Capital Expenditures
-          </td>
-          <td class="normalClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['Totalexpenditure'] >= 0">
-              $ {{ rev['Totalexpenditure'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['Totalexpenditure'] < 0">
-              ($ {{-(rev['Totalexpenditure']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="normalClass leftAlign">
-            (+/-) Asset Sales
-          </td>
-          <td class="normalClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['AssetSales'] >= 0">
-              $ {{ rev['AssetSales'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['AssetSales'] < 0">
-              ($ {{ -(rev['AssetSales']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="normalClass leftAlign">
-            (+/–) Other Investing Activities
-          </td>
-          <td class="normalClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['OtherInvestingActivites'] >= 0">
-              $ {{ rev['OtherInvestingActivites'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['OtherInvestingActivites'] < 0">
-              ($ {{ -(rev['OtherInvestingActivites']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="tableboldClass leftAlign">
-            Cash Flow from Investing Activities ("CFI")
-          </td>
-          <td class="tableboldClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['CashFlowFromInvesting'] >= 0">
-              $ {{ rev['CashFlowFromInvesting'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['CashFlowFromInvesting'] < 0">
-              ($ {{ -(rev['CashFlowFromInvesting']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="normalClass leftAlign">
-            (+/–) Debt Issued (Retired)
-          </td>
-          <td class="normalClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['DebtIssuedRetired'] >= 0">
-              $ {{ rev['DebtIssuedRetired'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['DebtIssuedRetired'] < 0">
-              ($ {{ -(rev['DebtIssuedRetired']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="normalClass leftAlign">
-            (+/–) Common Stock Issued (Retired)
-          </td>
-          <td class="normalClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['CommonStockIssuedRetired'] >= 0">
-              $ {{ rev['CommonStockIssuedRetired'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['CommonStockIssuedRetired'] < 0">
-              ($ {{ -(rev['CommonStockIssuedRetired']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="normalClass leftAlign">
-            (–) Dividends Paid
-          </td>
-          <td class="normalClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['Dividendspaid'] >= 0">
-              $ {{ rev['Dividendspaid'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['Dividendspaid'] < 0">
-              ($ {{ -(rev['Dividendspaid']) | number: '1.0-0' }})
-            </ng-template>
-          </td>
-        </tr>
-
-
-
-        <tr>
-          <td class="tableboldClass leftAlign">
-            Cash Flow from Financing Activities ("CFF")
-          </td>
-          <td class="tableboldClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['CashFlowFromFinancingActivites'] >= 0">
-              $ {{ rev['CashFlowFromFinancingActivites'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['CashFlowFromFinancingActivites'] < 0">
-              ($ {{ -(rev['CashFlowFromFinancingActivites']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-        <tr>
-          <td class="tableboldClass leftAlign">
-            Net Change in Cash
-          </td>
-          <td class="tableboldClass rightAlign" *ngFor="let rev of financials">
-            <ng-template [ngIf]="rev['NetChangeinCash'] >= 0">
-              $ {{ rev['NetChangeinCash'] | number: '1.0-0'}}
-            </ng-template>
-            <ng-template [ngIf]="rev['NetChangeinCash'] < 0">
-              ($ {{ -(rev['NetChangeinCash']) | number: '1.0-0' }} )
-            </ng-template>
-          </td>
-        </tr>
-
-
-        <!-- Name Column
-              <ng-container [matColumnDef]="column" *ngFor="let column of displayedColumns">
-                  <th mat-header-cell *matHeaderCellDef> {{ column }} </th>
-                  <td mat-cell *matCellDef="let element let i = index;" 
-                    [class.highlight] ="i == 1 || i==4 || i==7 || i==10 || i==13 || i == 16"
-                  [class.boldyears] ="i == 0">
-                  {{ element[column] }}
-              </td>
-            </ng-container>
-              <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr> -->
-      </table>
+<ng-template [ngIf] = "metricsLoaded && authService.authServiceLoaded">
+  <div fxLayout="row" fxLayoutAlign="start center" style="margin-bottom:10px;margin-top:10px">
+    <h4>Historical & Projected Cash Flow Statement</h4>
     </div>
-  </div>
-</div>
+    <div fxLayout="row" class="header">
+    <img id='imgToExport' #imagecanvas src='https://app.rmiinsights.com/assets/images/RMI_logo.jpg' style='display:none' height="400" width="600"> 
+      <div fxLayout="row" fxFlex fxLayoutAlign="end start" fxLayoutGap="5px">
+       <span class="headerLabel"   style="font-weight:bold;font-size: 18px;position: absolute;left: 22px;top: 65px;">{{ companySelected }} - {{scenarioName}}  </span>
+        <button mat-button (click)="exportToXLSX()" matTooltip="Export to XLSX"
+        matTooltipPosition='above'><mat-icon style="font-size: 26px">sim_card</mat-icon></button>
+        <button mat-button (click)="exportToPDF()" matTooltip="Export to PDF"
+        matTooltipPosition='above'><mat-icon style="font-size: 26px">picture_as_pdf</mat-icon></button>
+        <button mat-button [matMenuTriggerFor]="below" style="font-size:18px">Scenario<mat-icon matSuffix>keyboard_arrow_down</mat-icon>
+        </button>
+      <mat-menu #below="matMenu" yPosition="below">
+        <button mat-menu-item *ngFor="let index of scenarioArray; let indexOfelement=index;">
+        <span *ngIf="indexOfelement==0;" (click)="loadScenario(indexOfelement)" style="font-size: 18px">Scenario 0</span> 
+        <span *ngIf="indexOfelement!=0;" (click)="loadScenario(indexOfelement)" style="font-size: 18px">Scenario {{index}}</span>
+      </button>
+      </mat-menu>
+    
+        <button mat-button [matMenuTriggerFor]="afterMenu" style="font-size: 18px">Financial Statements <mat-icon matSuffix>keyboard_arrow_down</mat-icon>
+        </button>
+    
+        <mat-menu #afterMenu="matMenu" xPosition="after">
+      <button mat-menu-item routerLinkActive="list-item-active" routerLink='/IncomeStatementMetrics' style="font-size: 18px">Income Statement</button>
+          <button mat-menu-item routerLinkActive="list-item-active" routerLink='/BalanceSheetMetrics' style="font-size: 18px">Balance Sheet</button>
+          
+        </mat-menu>
+      <button mat-button
+          [matMenuTriggerFor]="tabMenus" style="padding: 0; margin: 0px;font-size: 18px">Visuals
+          <mat-icon matSuffix>
+            keyboard_arrow_down</mat-icon>
+        </button>
+        <mat-menu #tabMenus="matMenu" xPosition="after">
+          <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsIS' style="font-size: 18px">Income
+            Statement</button>
+          <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsBS' style="font-size: 18px">Balance Sheet</button>
+          <button mat-menu-item routerLinkActive="list-item-active" routerLink='/visualsCF' style="font-size: 18px">Cash Flow Statement</button>
+        </mat-menu>
+    
+    
+      </div>
+    </div>
+    <mat-progress-bar mode="indeterminate" *ngIf="progressBar"></mat-progress-bar>
+    
+    <div fxLayout="row" fxLayoutAlign="space-between center" fxLayoutGap="20px" id="myTable">
+      <div fxFlex="100">
+        <div class="mat-elevation-z8">
+    
+          <table class="table table-striped">
+            <tr style="height: 60px;">
+              <th class="tableheaderClass leftAlign" style="font-weight: normal; border-top-left-radius: 5px;">
+                <ng-template [ngIf]="selectedCompanyName!=='Colorado Society of Certified Public Accountants'">
+          (in millions)
+          </ng-template>
+              </th>
+              <ng-template ngFor [ngForOf]="years" let-year let-rowIndex="index">
+                <th class="tableheaderYearClass rightAlign" [class.borderRadius]="rowIndex == years.length - 1">
+                  <ng-template [ngIf]="rowIndex<(years.length-5)">
+             {{ year }}A
+            </ng-template>
+            <ng-template [ngIf]="rowIndex>=(years.length-5)">
+             {{ year }}E
+            </ng-template>
+                </th>
+              </ng-template>
+            </tr>
+    
+            <tr>
+              <td class="normalClass leftAlign">
+                Net Income
+              </td>
+              <td class="normalClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['Netincome'] >= 0">
+                  $ {{ rev['Netincome'] | number: '1.0-0'}}
+                </ng-template>
+                 <ng-template [ngIf]="rev['Netincome'] < 0">
+                  ($ {{ -(rev['Netincome']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="normalClass leftAlign">
+                (+) Depreciation & Amortization (D&A)
+              </td>
+              <td class="normalClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['DandA'] >= 0">
+                  $ {{ rev['DandA'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['DandA'] < 0">
+                  ($ {{ -(rev['DandA']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="tableboldClass leftAlign">
+                <b>Funds from Operations</b>
+              </td>
+              <td class="tableboldClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['FundsFromOperations'] >= 0">
+                  $ {{ rev['FundsFromOperations'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['FundsFromOperations'] < 0">
+                  ($ {{ -(rev['FundsFromOperations']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="normalClass leftAlign">
+                (+/–) Δ in Accounts Receivable
+              </td>
+              <td class="normalClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['Accountreceivables'] >= 0">
+                  $ {{ rev['Accountreceivables'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['Accountreceivables'] < 0">
+                  ($ {{ -(rev['Accountreceivables']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="normalClass leftAlign">
+                (+/–) Δ in Inventories
+              </td>
+              <td class="normalClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['Inventories'] >= 0">
+                  $ {{ rev['Inventories'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['Inventories'] < 0">
+                  ($ {{ -(rev['Inventories']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="normalClass">
+                (+/–) Δ in Other Current Assets
+              </td>
+              <td class="normalClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['OtherCurrentassets'] >= 0">
+                  $ {{ rev['OtherCurrentassets'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['OtherCurrentassets'] < 0">
+                  ($ {{ -(rev['OtherCurrentassets']) | number: '1.0-0' }})
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="normalClass leftAlign">
+                (+/–) Δ in Accounts Payable
+              </td>
+              <td class="normalClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['Accountspayable'] >= 0">
+                  $ {{ rev['Accountspayable'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['Accountspayable'] < 0">
+                  ($ {{ -(rev['Accountspayable']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="normalClass leftAlign">
+                (+/–) Δ in Accrued Liabilities
+              </td>
+              <td class="normalClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['AccuredLiabilites'] >= 0">
+                  $ {{ rev['AccuredLiabilites'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['AccuredLiabilites'] < 0">
+                  ($ {{ -(rev['AccuredLiabilites']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="normalClass leftAlign">
+                (+/–) Δ in Other Current Liabilities
+    
+              </td>
+              <td class="normalClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['OtherCurrentliabilities'] >= 0">
+                  $ {{ rev['OtherCurrentliabilities'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['OtherCurrentliabilities'] < 0">
+                  ($ {{ -(rev['OtherCurrentliabilities']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="tableboldClass leftAlign">
+                Cash Flow from Operating Activities ("CFO")
+              </td>
+              <td class="tableboldClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['CashFlowFromOperatingActivites'] >= 0">
+                  $ {{ rev['CashFlowFromOperatingActivites'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['CashFlowFromOperatingActivites'] < 0">
+                  ($ {{ -(rev['CashFlowFromOperatingActivites']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="normalClass leftAlign">
+                (–) Total Capital Expenditures
+              </td>
+              <td class="normalClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['Totalexpenditure'] >= 0">
+                  $ {{ rev['Totalexpenditure'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['Totalexpenditure'] < 0">
+                  ($ {{-(rev['Totalexpenditure']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="normalClass leftAlign">
+                (+/-) Asset Sales
+              </td>
+              <td class="normalClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['AssetSales'] >= 0">
+                  $ {{ rev['AssetSales'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['AssetSales'] < 0">
+                  ($ {{ -(rev['AssetSales']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="normalClass leftAlign">
+                (+/–) Other Investing Activities
+              </td>
+              <td class="normalClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['OtherInvestingActivites'] >= 0">
+                  $ {{ rev['OtherInvestingActivites'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['OtherInvestingActivites'] < 0">
+                  ($ {{ -(rev['OtherInvestingActivites']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="tableboldClass leftAlign">
+                Cash Flow from Investing Activities ("CFI")
+              </td>
+              <td class="tableboldClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['CashFlowFromInvesting'] >= 0">
+                  $ {{ rev['CashFlowFromInvesting'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['CashFlowFromInvesting'] < 0">
+                  ($ {{ -(rev['CashFlowFromInvesting']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="normalClass leftAlign">
+                (+/–) Debt Issued (Retired)
+              </td>
+              <td class="normalClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['DebtIssuedRetired'] >= 0">
+                  $ {{ rev['DebtIssuedRetired'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['DebtIssuedRetired'] < 0">
+                  ($ {{ -(rev['DebtIssuedRetired']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="normalClass leftAlign">
+                (+/–) Common Stock Issued (Retired)
+              </td>
+              <td class="normalClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['CommonStockIssuedRetired'] >= 0">
+                  $ {{ rev['CommonStockIssuedRetired'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['CommonStockIssuedRetired'] < 0">
+                  ($ {{ -(rev['CommonStockIssuedRetired']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="normalClass leftAlign">
+                (–) Dividends Paid
+              </td>
+              <td class="normalClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['Dividendspaid'] >= 0">
+                  $ {{ rev['Dividendspaid'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['Dividendspaid'] < 0">
+                  ($ {{ -(rev['Dividendspaid']) | number: '1.0-0' }})
+                </ng-template>
+              </td>
+            </tr>
+    
+    
+    
+            <tr>
+              <td class="tableboldClass leftAlign">
+                Cash Flow from Financing Activities ("CFF")
+              </td>
+              <td class="tableboldClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['CashFlowFromFinancingActivites'] >= 0">
+                  $ {{ rev['CashFlowFromFinancingActivites'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['CashFlowFromFinancingActivites'] < 0">
+                  ($ {{ -(rev['CashFlowFromFinancingActivites']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+            <tr>
+              <td class="tableboldClass leftAlign">
+                Net Change in Cash
+              </td>
+              <td class="tableboldClass rightAlign" *ngFor="let rev of financials">
+                <ng-template [ngIf]="rev['NetChangeinCash'] >= 0">
+                  $ {{ rev['NetChangeinCash'] | number: '1.0-0'}}
+                </ng-template>
+                <ng-template [ngIf]="rev['NetChangeinCash'] < 0">
+                  ($ {{ -(rev['NetChangeinCash']) | number: '1.0-0' }} )
+                </ng-template>
+              </td>
+            </tr>
+    
+    
+            <!-- Name Column
+                  <ng-container [matColumnDef]="column" *ngFor="let column of displayedColumns">
+                      <th mat-header-cell *matHeaderCellDef> {{ column }} </th>
+                      <td mat-cell *matCellDef="let element let i = index;" 
+                        [class.highlight] ="i == 1 || i==4 || i==7 || i==10 || i==13 || i == 16"
+                      [class.boldyears] ="i == 0">
+                      {{ element[column] }}
+                  </td>
+                </ng-container>
+                  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr> -->
+          </table>
+        </div>
+      </div>
+    </div>
+    
+</ng-template>
+<ng-template [ngIf] = "!metricsLoaded || !authService.authServiceLoaded">
+	<div id="loader-container">
+        <div id="loader"></div>
+        <div>
+          Loading Cash Flow Statement&nbsp;.&nbsp;.&nbsp;.
+        </div>
+    </div>
+</ng-template>

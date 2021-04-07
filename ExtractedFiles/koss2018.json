@@ -1,0 +1,251 @@
+[annotation_spec_id: "4332149480716500992"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9571058750152588
+  text_segment {
+    start_offset: 32
+    end_offset: 59
+    content: "CONSOLIDATED BALANCE SHEETS"
+  }
+}
+, annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9911880493164062
+  text_segment {
+    start_offset: 130
+    end_offset: 155
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "3611573540337221632"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9751030802726746
+  text_segment {
+    start_offset: 156
+    end_offset: 175
+    content: "Accounts receivable"
+  }
+}
+, annotation_spec_id: "3467458352261365760"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9659853577613831
+  text_segment {
+    start_offset: 251
+    end_offset: 262
+    content: "Inventories"
+  }
+}
+, annotation_spec_id: "3035112788033798144"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9878407716751099
+  text_segment {
+    start_offset: 329
+    end_offset: 349
+    content: "Total current assets"
+  }
+}
+, annotation_spec_id: "152809026516680704"
+display_name: "OtherAssets"
+text_extraction {
+  score: 0.5320348143577576
+  text_segment {
+    start_offset: 585
+    end_offset: 597
+    content: "other assets"
+  }
+}
+, annotation_spec_id: "4043919104564789248"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9832087159156799
+  text_segment {
+    start_offset: 648
+    end_offset: 660
+    content: "Total assets"
+  }
+}
+, annotation_spec_id: "3179227976109654016"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9860045909881592
+  text_segment {
+    start_offset: 745
+    end_offset: 761
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "585154590744248320"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9733891487121582
+  text_segment {
+    start_offset: 762
+    end_offset: 781
+    content: "Accrued liabilities"
+  }
+}
+, annotation_spec_id: "3755688728413077504"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9797233939170837
+  text_segment {
+    start_offset: 782
+    end_offset: 807
+    content: "Total current liabilities"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.897163987159729
+  text_segment {
+    start_offset: 1019
+    end_offset: 1036
+    content: "Total liabilities"
+  }
+}
+, annotation_spec_id: "8943835499143888896"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.37424734234809875
+  text_segment {
+    start_offset: 1057
+    end_offset: 1077
+    content: "Stockholders\' equity"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.5656836032867432
+  text_segment {
+    start_offset: 1215
+    end_offset: 1241
+    content: "Total stockholders\' equity"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.6683297157287598
+  text_segment {
+    start_offset: 1319
+    end_offset: 1361
+    content: "Total liabilities and stockholders\' equity"
+  }
+}
+, annotation_spec_id: "8079144370688753664"
+display_name: "Company"
+text_extraction {
+  score: 0.7825490236282349
+  text_segment {
+    start_offset: 1480
+    end_offset: 1496
+    content: "KOSS CORPORATION"
+  }
+}
+, annotation_spec_id: "1305730531123527680"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.8132229447364807
+  text_segment {
+    start_offset: 1512
+    end_offset: 1549
+    content: "CONSOLIDATED STATEMENTS OF OPERATIONS"
+  }
+}
+, annotation_spec_id: "5917416549550915584"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.861426055431366
+  text_segment {
+    start_offset: 1589
+    end_offset: 1594
+    content: "sales"
+  }
+}
+, annotation_spec_id: "6349762113778483200"
+display_name: "COGS"
+text_extraction {
+  score: 0.9839681386947632
+  text_segment {
+    start_offset: 1595
+    end_offset: 1613
+    content: "Cost of goods sold"
+  }
+}
+, annotation_spec_id: "2026306471502807040"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9824690818786621
+  text_segment {
+    start_offset: 1614
+    end_offset: 1626
+    content: "Gross profit"
+  }
+}
+, annotation_spec_id: "4764495044944068608"
+display_name: "SGA"
+text_extraction {
+  score: 0.9877999424934387
+  text_segment {
+    start_offset: 1691
+    end_offset: 1735
+    content: "Selling, general and administrative expenses"
+  }
+}
+, annotation_spec_id: "5340955797247492096"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9536440372467041
+  text_segment {
+    start_offset: 1793
+    end_offset: 1809
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "4908610233019924480"
+display_name: "EBT"
+text_extraction {
+  score: 0.9077592492103577
+  text_segment {
+    start_offset: 1810
+    end_offset: 1844
+    content: "(Loss) before income tax provision"
+  }
+}
+, annotation_spec_id: "7070338054157762560"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9529441595077515
+  text_segment {
+    start_offset: 1911
+    end_offset: 1931
+    content: "Income tax provision"
+  }
+}
+, annotation_spec_id: "7214453242233618432"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9278931617736816
+  text_segment {
+    start_offset: 1950
+    end_offset: 1960
+    content: "Net (loss)"
+  }
+}
+, annotation_spec_id: "729269778820104192"
+display_name: "ConsolidatedCashFlows"
+text_extraction {
+  score: 0.6028493046760559
+  text_segment {
+    start_offset: 2184
+    end_offset: 2221
+    content: "CONSOLIDATED STATEMENTS OF CASH FLOWS"
+  }
+}
+]

@@ -1,0 +1,137 @@
+
+Page#1
+Turtle Beach Corporation
+Consolidated Balance Sheets
+ December 31, 2018 December 31, 2017
+ASSETS (in thousands, except par value and share amounts)
+Current Assets: 
+Cash and cash equivalents $ 7,078 $ 5,247
+Accounts receivable, less allowances of $23,271 and $12,704 in 2018 and 2017, respectively 52,797  50,534
+Inventories 49,472  27,518
+Prepaid expenses and other current assets 4,469  3,467
+Total Current Assets 113,816  86,766
+Property and equipment, net 5,856  4,677
+Intangible assets, net 1,036  1,404
+Deferred income taxes —  362
+Other assets 1,212  1,042
+Total Assets $ 121,920  $ 94,251
+’
+LIABILITIES AND STOCKHOLDERS EQUITY (DEFICIT) 
+Current Liabilities: 
+Revolving credit facilities $ 37,385  $ 38,467
+Term loans —  4,173
+Accounts payable 17,724  13,459
+Other current liabilities 18,488  11,451
+Total Current Liabilities 73,597  67,550
+Term loans, long-term portion — 6,789
+Series B redeemable preferred stock —  18,921
+Deferred income taxes 187  —
+Subordinated notes - related party —  20,836
+Financial instrument obligation 7,848  —
+Other liabilities 2,792  2,312
+Total Liabilities 84,424  116,408
+Commitments and Contingencies 
+’
+Stockholders Equity (Deficit) 
+Common stock, $0.001 par value - 100,000,000 shares authorized; 14,268,184 and 12,349,449 shares issued and
+outstanding as of December 31, 2018 and 2017, respectively 14  12
+Additional paid-in capital 169,421  148,082
+Accumulated deficit (131,463)  (170,048)
+Accumulated other comprehensive loss (476)  (203)
+Total Stockholders’ Equity (Deficit) 37,496  (22,157)
+’
+Total Liabilities and Stockholders Equity (Deficit) $ 121,920  $ 94,251
+See accompanying Notes to the Consolidated Financial Statements
+35
+Page#2
+Turtle Beach Corporation
+Consolidated Statements of Operations
+ Year Ended
+ December 31, 2018 December 31, 2017  December 31, 2016
+ (in thousands, except per share data)
+Net Revenue $ 287,437  $ 149,135  $ 173,978
+Cost of Revenue 178,738  98,132  131,368
+Gross Profit 108,699  51,003  42,610
+Operating expenses: 
+Selling and marketing 32,389 24,385  28,572
+Research and development 5,611 5,587  8,259
+General and administrative 16,658 15,700  19,580
+Goodwill and other intangible asset impairment —  —  63,236
+Restructuring charges —  533  664
+Total operating expenses 54,658 46,205  120,311
+Operating income (loss) 54,041  4,798  (77,701)
+Interest expense 5,335  7,916  7,447
+Other non-operating expense (income), net 7,779  (463)  2,421
+Income (loss) before income tax expense (benefit) 40,927  (2,655)  (87,569)
+Income tax expense (benefit) 1,737 593 (387)
+Net income (loss) $ 39,190 $ (3,248)  $ (87,182)
+ 
+Net earnings (loss) per share : 
+Basic $ 2.90  $ (0.26)  $ (7.18)
+Diluted $ 2.74  $ (0.26)  $ (7.18)
+Weighted average number of shares: 
+Basic 13,512  12,336  12,148
+Diluted 14,289  12,336  12,148
+ 
+See accompanying Notes to the Consolidated Financial Statements
+36
+Page#3
+Turtle Beach Corporation
+Consolidated Statements of Cash Flows
+ Year Ended December 31,
+ 2018  2017  2016
+CASH FLOWS FROM OPERATING ACTIVITIES (in thousands)
+Net income (loss) $ 39,190  $ (3,248)  $ (87,182)
+Adjustments to reconcile net income (loss) to net cash used for operating activities: 
+Depreciation and amortization 3,954  4,074  5,066
+Amortization of intangible assets 303  348  4,128
+Amortization of deferred financing costs 1,081  1,593  1,342
+Stock-based compensation 1,877  1,430  3,960
+Accrued interest on Series B redeemable preferred stock 501  1,441  1,335
+Paid in kind interest 2,028  2,508  2,156
+Deferred income taxes 549  181  (547)
+Provision for (Reversal of) sales returns reserve 3,679  942  (1,677)
+Provision for doubtful accounts 431  48  144
+Provision for obsolete inventory 3,437  1,676  11,414
+Loss on disposal of property and equipment 111  9  15
+Unrealized loss on financial instrument obligation 5,291  —  —
+Loss on debt extinguishment 1,572  —  —
+Loss on impairment of HyperSound assets —  —  63,236
+Changes in operating assets and liabilities: 
+Accounts receivable (6,978)  3,109  4,092
+Inventories (25,391)  (7,496)  (6,966)
+Accounts payable 4,101  1,494  (5,057)
+Prepaid expenses and other assets (481)  755  245
+Income taxes payable 562  89  395
+Other liabilities 6,432  (5,535)  2,071
+Net cash provided by (used for) operating activities 42,249  3,418  (1,830)
+CASH FLOWS FROM INVESTING ACTIVITIES 
+Purchase of property and equipment (5,079)  (4,411)  (3,229)
+Net cash used for investing activities (5,079)  (4,411)  (3,229)
+CASH FLOWS FROM FINANCING ACTIVITIES 
+Borrowings on revolving credit facilities 361,073  172,694  208,920
+Repayment of revolving credit facilities (362,154)  (170,132)  (205,468)
+Repayment of capital leases —  (4)  (41)
+Borrowings on term loan 3,265  —  —
+Repayment of term loan (14,985)  (2,647)  (4,011)
+Repayment of subordinated notes (23,940)  —  —
+Settlement of Series B redeemable preferred stock (1,390)  —  —
+Proceeds from sale of common stock, net of issuance costs —  —  5,968
+Repurchase of common stock (246)  —  —
+Proceeds from exercise of stock options and warrants 4,235  —  —
+Debt financing costs (612)  (73)  (1,155)
+Cash portion of loss on debt extinguishment (375)  —  —
+Net cash provided by (used for) financing activities (35,129)  (162)  4,213
+Effect of exchange rate changes on cash and cash equivalents (210)  219  (85)
+  
+1,831 (936) (931)
+Net increase (decrease) in cash and cash equivalents
+Cash and cash equivalents - beginning of period 5,247  6,183  7,114
+Cash and cash equivalents - end of period $ 7,078  $ 5,247  $ 6,183
+ 
+SUPPLEMENTAL DISCLOSURE OF INFORMATION 
+Cash paid for interest $ 1,496  $ 1,975  $ 2,053
+Cash paid for income taxes $ —  $ —  $ —
+Accrual for purchases of property and equipment $ 348  $ 183  $ 145
+Exchange of Series B redeemable preferred stock $ 18,032  $ —  $ —
+See accompanying Notes to the Consolidated Financial Statements

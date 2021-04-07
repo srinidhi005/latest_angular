@@ -1,0 +1,146 @@
+
+Page#1
+CARVANA CO. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(In thousands)
+December 31, 
+2018 2017 
+ASSETS 
+Current assets: 
+Cash and cash equivalents  $ 78,861 $ 172,680 
+Restricted cash 9,848 14,443 
+Accounts receivable, net 33,120 14,105 
+Finance receivables held for sale, net 105,200 45,564 
+Vehicle inventory 412,243 227,446 
+Other current assets 23,582 15,480 
+Total current assets 662,854 489,718 
+Property and equipment, net 296,839 148,681 
+Intangible assets, net 8,869 — 
+Goodwill 9,353 — 
+Other assets, including $1,895 and $0, respectively, due from related parties 13,098 2,738 
+$ 991,013 $ 641,137 
+Total assets 
+LIABILITIES & STOCKHOLDERS' EQUITY 
+Current liabilities: 
+Accounts payable and accrued liabilities $ 117,524 $ 50,306 
+Accounts payable due to related party 3,891 1,802 
+Floor plan facility 196,963 248,792 
+Current portion of other long-term debt 11,133 5,131 
+Total current liabilities 329,511 306,031 
+342,869 — 
+Senior unsecured notes(1)
+Other long-term debt, excluding current portion 82,480 48,469 
+Other liabilities 8,725 7,093 
+Total liabilities 763,585 361,593 
+Commitments and contingencies (Note 14) 
+Stockholders' equity: 
+Class A Convertible Preferred Stock, $0.01 par value, $1,000 liquidation value per share - 0 and 100 shares authorized, issued and
+outstanding as of December 31, 2018 and 2017, respectively — 97,127 
+Preferred stock, $.01 par value - 50,000 and 49,900 shares authorized, and none issued and outstanding as of December 31, 2018 and
+2017, respectively — — 
+Class A common stock, $0.001 par value - 500,000 shares authorized, 41,208 and 18,096 shares issued and outstanding as of December
+31, 2018 and 2017, respectively 41 18 
+Class B common stock, $0.001 par value - 125,000 shares authorized, 104,336 and 114,664 shares issued and outstanding as of
+December 31, 2018 and 2017, respectively 104 115 
+Additional paid in capital 147,916 41,375 
+Accumulated deficit (74,653) (12,899)
+Total stockholders' equity attributable to Carvana Co. 73,408 125,736 
+Non-controlling interests 154,020 153,808 
+Total stockholders' equity 227,428 279,544 
+$ 991,013 $ 641,137 
+Total liabilities & stockholders' equity 
+(1) As of December 31, 2018, a related party held $15.0 million of the senior unsecured notes.
+79
+Page#2
+See accompanying notes to consolidated financial statements.
+CARVANA CO. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except per share amounts)
+ 
+Years Ended December 31, 
+2018 2017 2016 
+Sales and operating revenues: 
+Used vehicle sales, net $ 1,785,045 $ 796,915 $ 341,989 
+Wholesale vehicle sales 73,584 28,514 10,163 
+Other sales and revenues, including $25,572, $8,947 and $460, respectively, from related parties 96,838 33,441 12,996 
+Net sales and operating revenues 1,955,467 858,870 365,148 
+Cost of sales 1,758,758 790,779 345,951 
+Gross profit 196,709 68,091 19,197 
+Selling, general and administrative expenses 425,258 223,400 108,676 
+Interest expense, including $370, $1,382 and $0, respectively, to related parties 25,018 7,659 3,587 
+Other expense, net 1,178 1,348 46 
+Net loss before income taxes (254,745) (164,316) (93,112)
+Income tax provision — — — 
+Net loss (254,745) (164,316) (93,112)
+Net loss attributable to non-controlling interests (192,991) (101,475) — 
+Net loss attributable to Carvana Co. (61,754) (62,841) (93,112)
+Dividends on Class A convertible preferred stock (4,206) (413) — 
+Accretion of beneficial conversion feature on Class A convertible preferred stock (1,380) (1,237) — 
+$ (67,340) $ (64,491) $ (93,112)
+Net loss attributable to Class A common stockholders
+$ (2.24) $ (1.31) $ (0.68)
+Net loss per share of Class A common stock, basic and diluted (1)
+30,043 15,241 15,000 
+Weighted-average shares of Class A common stock, basic and diluted (1)(2)
+(1) Amounts for periods prior to the initial public offering have been retrospectively adjusted to give effect to 15.0 million shares of Class A common stock issued in the initial public offering and
+the Organizational Transactions described in Note 1.
+(2) Weighted-average shares of Class A common stock outstanding have been adjusted for unvested restricted stock awards.
+See accompanying notes to consolidated financial statements.
+80
+Page#3
+CARVANA CO. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+For the Years Ended December 31, 
+2018 2017 2016 
+Cash Flows from Operating Activities: 
+Net loss $ (254,745) $ (164,316) $ (93,112)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Depreciation and amortization expense 23,539 11,568 4,658 
+Loss on disposal of property and equipment 575 958 — 
+Provision for bad debt and valuation allowance 1,917 1,375 1,348 
+Gain on loan sales, including $0, $0 and $269 from related parties, respectively (51,729) (21,697) (7,446)
+Equity-based compensation expense 24,095 5,611 555 
+Amortization and write-off of debt issuance costs 2,305 1,646 — 
+Originations of finance receivables (1,259,539) (529,153) (224,169)
+Proceeds from sale of finance receivables 1,633,519 527,265 269,262 
+Purchase of finance receivables (387,445) — — 
+Proceeds from sale of finance receivables to related party — — 13,015 
+Purchase of finance receivables from related party — — (74,589)
+Changes in assets and liabilities:
+Accounts receivable (19,212) (8,715) (3,492)
+Vehicle inventory (183,068) (40,839) (117,468)
+Other current assets (7,291) (6,605) (7,157)
+Other assets, including $1,895, $0 and $0 due from related parties, respectively (4,958) (1,019) — 
+Accounts payable and accrued liabilities 66,461 16,986 17,922 
+Accounts payable to related party 2,089 (82) (19,552)
+Other liabilities (853) 7,093 — 
+Net cash used in operating activities (414,340) (199,924) (240,225)
+Cash Flows from Investing Activities: 
+Purchases of property and equipment (143,668) (78,490) (39,539)
+Business acquisitions, net of cash acquired (6,670) — — 
+Net cash used in investing activities (150,338) (78,490) (39,539)
+Cash Flows from Financing Activities: 
+Proceeds from floor plan facility 1,848,051 949,144 410,562 
+Payments on floor plan facility (1,899,880) (865,665) (287,551)
+350,000 — — 
+Proceeds from issuance of senior unsecured notes, including $25,000(1), $0, and $0 from related parties, respectively
+Proceeds from Verde Credit Facility — 35,000 — 
+Payments on Verde Credit Facility — (35,000) — 
+Proceeds from long-term debt 49,063 32,698 — 
+Payments on long-term debt (35,522) (2,259) (284)
+Payments of debt issuance costs, including $0, $1,000 and $0 to related parties, respectively (11,390) (2,055) (728)
+Net proceeds from issuance of Class A common stock 172,287 206,198 (398)
+Net proceeds from issuance of Class A Convertible Preferred Stock (12) 98,682 — 
+Proceeds from exercise of stock options 795 48 — 
+Tax withholdings related to restricted stock awards (2,509) (704) — 
+Proceeds from issuance of Class C redeemable preferred units — — 162,446 
+Class C redeemable preferred units issuance costs — — (82)
+Dividends paid (4,619) — — 
+Net cash provided by financing activities 466,264 416,087 283,965 
+Net (decrease) increase in cash and cash equivalents (98,414) 137,673 4,201 
+Cash, cash equivalents and restricted cash at beginning of period 187,123 49,450 45,249 
+$ 88,709 $ 187,123 $ 49,450 
+Cash, cash equivalents and restricted cash at end of period
+(1) A related party initially acquired $25.0 million of the senior unsecured notes, of which it subsequently disposed of $10.0 million, and held $15.0 million as of December 31, 2018.
+84

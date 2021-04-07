@@ -9,6 +9,7 @@ pdfMake.vfs = pdfFonts.pdfMake.vfs;
 import autoTable from 'jspdf-autotable';
 import * as Excel from "exceljs/dist/exceljs.min.js"
 import {formatNumber} from '@angular/common';
+import { AuthService } from 'src/app/auth.service';
 
 export interface PLElement {
   inMillions:number;
@@ -73,15 +74,20 @@ financials =[];
   scenarioNumber = localStorage.getItem('scenarioNumber');
   selectedCompanyName = localStorage.getItem('selectedCompanyName');
   scenarioName = 'Scenario 0';
+
+  metricsLoaded = false;
+
   constructor(
   private urlConfig:UrlConfigService,
     private apiService:RMIAPIsService,
+    public authService: AuthService,
     private UserDetailModelService:UserDetailModelService,
 	private excelService: ExcelService
 	) { }
 
   ngOnInit() {
-    const ELEMENT_PL=[] as any;
+    if(this.authService.authServiceLoaded){
+      const ELEMENT_PL=[] as any;
       this.progressBar=true;
       
     this.apiService.getData(this.urlConfig.getCashActualsAPI()+this.companySelected).subscribe((res:any)=>{
@@ -178,8 +184,16 @@ for (let j=0; j<res.length; j++) {
         })
         this.years = Object.keys(obj);
         this.financials = Object.values(obj);
+        this.metricsLoaded = true;
+
+        }, error => {
+          this.metricsLoaded = true;
         });//end of projections
+      }, error => {
+        this.metricsLoaded = true;
       });//end of Save Scenarios
+    }, error => {
+      this.metricsLoaded = true;
     });//end of actuals
    function formatInputRow(row) {
       const output = {};
@@ -188,6 +202,14 @@ for (let j=0; j<res.length; j++) {
         output[ELEMENT_PL[i].inMillions] = ELEMENT_PL[i][row];
       }
       return output;
+    }
+    }else {
+      const intervalID = setInterval(() => {
+        if (this.authService.authServiceLoaded) {
+          this.ngOnInit();
+          clearInterval(intervalID);
+        }
+      }, 100);
     }
   }
  

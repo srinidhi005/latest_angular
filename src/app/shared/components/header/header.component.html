@@ -18,7 +18,7 @@
        <img src="../../../../assets/images/logo.png" alt="RMI insights">
 
         <div fxFlex fxLayout="row" fxLayoutAlign="flex-end" >
-            <ul fxLayout="row" fxLayoutGap="20px">
+            <ul fxLayout="row" fxLayoutGap="5px">
 			
                 <li routerLinkActive="list-item-active" routerLink="/addcompany" 
                 *ngIf = "auth.currentUserRoles.indexOf('Admin') >=0 || auth.currentUserRoles.indexOf('SuperAdmin') >=0">
@@ -48,11 +48,11 @@
                            <mat-icon style="color:white;margin:5px">notification_important</mat-icon>
                             Subscribe
                         </button>
-                <li>
+                <li style="margin-right: 0;">
                     <button mat-button [matMenuTriggerFor]="menu" id="user-icon" style="margin-top: 16px;">
                         <mat-icon><img [src]="auth.userPicture" alt="" class="img-profile"></mat-icon>
                     </button>
-                    <mat-menu #menu="matMenu" style="padding-right:50px">
+                    <mat-menu #menu="matMenu">
 					<ul style="text-align:center;padding-right:15px;padding-left:15px"><mat-icon><img [src]="auth.userPicture" alt="" class="img-profile"></mat-icon></ul>
 					<ul style="font-weight:bold;text-align:center;padding-right:15px;padding-left:15px">{{nickname}}</ul>
 					
@@ -66,12 +66,19 @@
 						 
 						
 						<button  mat-menu-item (click)="subscribe()"  > <mat-icon>notification_important</mat-icon> subscribe</button>-->
-                       <hr style="margin: 0px;">
-                        <button mat-menu-item  (click)="auth.logout()" style="text-align:center;height: 37px;">
+                       <!-- <hr style="margin: 0px;"> -->
+                        <!-- <button mat-menu-item  (click)="auth.logout()" style="text-align:center;height: 37px;">
                             <mat-icon style="margin-right: 1px;">exit_to_app</mat-icon>
                             Sign Out
-                        </button>
+                        </button> -->
                     </mat-menu>
+                </li>
+
+                <li>
+                    <button mat-menu-item matTooltip="Sign Out" (click)="confirmLogout()" style="color: white;">
+                        <mat-icon style="margin-right: 1px; color: white;">exit_to_app</mat-icon>
+                        <!-- Sign Out -->
+                    </button>
                 </li>
             </ul>
         </div>

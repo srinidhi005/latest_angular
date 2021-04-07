@@ -1,0 +1,204 @@
+
+Page#1
+ Table of Contents
+ 
+AUTOWEB, INC.
+ 
+CONSOLIDATED BALANCE SHEETS
+(in thousands, except per-share and share data)
+ 
+December 31, December 31,
+  2017 2016 
+Assets 
+Current assets: 
+Cash and cash equivalents  $ 24,993  $ 38,512 
+Short-term investment 254 251 
+Accounts receivable, net of allowances for bad debts and customer credits of $892 and $1,015 at December 31,
+2017 and 2016, respectively 25,911 33,634 
+Deferred tax asset — 4,669 
+Prepaid expenses and other current assets 1,805 901 
+Total current assets 52,963 77,967 
+Property and equipment, net 4,311 4,430 
+Investments 100 680 
+Intangible assets, net 29,113 23,783 
+Goodwill 5,133 42,821 
+Long-term deferred tax asset 692 14,799 
+Other assets 601 801 
+Total assets  $ 92,913  $ 165,281 
+ 
+Liabilities and Stockholders’ Equity 
+Current liabilities: 
+Accounts payable  $ 7,083  $ 9,764 
+Accrued employee-related benefits 2,411 4,530 
+Other accrued expenses and other current liabilities 7,252 8,315 
+Current portion of term loan payable — 6,563 
+Total current liabilities 16,746 29,172 
+Convertible note payable 1,000 1,000 
+Long-term portion of term loan payable — 7,500 
+Borrowings under revolving credit facility 8,000 8,000 
+Total liabilities 25,746 45,672 
+Commitments and contingencies (Note 7) 
+Stockholders’ equity: 
+Preferred stock, $0.001 par value; 11,445,187 shares authorized 
+Series A Preferred stock, none issued and outstanding — — 
+Series B Preferred stock, none and 168,007 shares issued and outstanding at December 31, 2017 and December
+31, 2016, respectively — — 
+Common stock, $0.001 par value; 55,000,000 shares authorized; 13,059,341 and 11,012,625 shares issued and
+outstanding at December 31, 2017 and 2016, respectively 13 11 
+Additional paid-in capital 356,054 350,022 
+Accumulated deficit (288,900) (230,424)
+Total stockholders’ equity 67,167 119,609 
+Total liabilities and stockholders’ equity  $ 92,913  $ 165,281 
+ 
+The accompanying notes are an integral part of these consolidated financial statements. 
+ 
+ 
+F-3
+Page#2
+ Table of Contents
+ 
+ AUTOWEB, INC.
+ 
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME (LOSS)
+(in thousands, except per-share data)
+ 
+  Years Ended December 31, 
+  2017 2016 2015 
+Revenues: 
+Lead fees  $ 107,045  $ 130,684  $ 120,678 
+Advertising 34,142 24,508 10,534 
+Other revenues 938 1,492 2,014 
+Total revenues 142,125 156,684 133,226 
+Cost of revenues 99,352 98,771 81,586 
+Gross profit 42,773 57,913 51,640 
+Operating expenses: 
+Sales and marketing 14,315 18,118 15,956 
+Technology support 12,567 13,986 11,740 
+General and administrative 12,110 14,663 13,189 
+Depreciation and amortization 4,781 5,068 3,106 
+Litigation settlements (109) (50) (108)
+Goodwill impairment 37,688 — — 
+Total operating expenses 81,352 51,785 43,883 
+Operating income (loss) (38,579) 6,128 7,757 
+Interest and other income (expense), net (946) 558 322 
+Income (loss) before income tax provision (39,525) 6,686 8,079 
+Income tax provision 25,439 2,815 3,433 
+Net income (loss) and comprehensive income (loss)  $ (64,964)  $ 3,871  $ 4,646 
+ 
+Basic earnings (loss) per common share  $ (5.48)  $ 0.36  $ 0.47 
+Diluted earnings (loss) per common share  $ (5.48)  $ 0.29  $ 0.37 
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+ 
+ 
+F-4
+Page#3
+ Table of Contents
+ 
+AUTOWEB, INC.
+ 
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(in thousands, except share data)
+ 
+  Common Stock Preferred Stock Additional 
+Number of Number Paid-In- Accumulated 
+  of Shares Amount of Shares Amount Capital Deficit Total 
+ 
+Balance at January 1, 2015 8,880,377  $ 9 -  $ -  $ 308,190  $ (238,941)  $ 69,258 
+Share-based compensation - - - - 2,563 - 2,563 
+Issuance of common stock upon exercise
+of stock options 145,979 - - - 1,197 - 1,197 
+Issuance of AWI warrants - - - - 2,542 - 2,542 
+Issuance of preferred shares - - 168,007 - 21,133 - 21,133 
+Issuance of restricted stock 125,000 - - - - - - 
+Exercise of warrants 400,000 1 - - 1,860 - 1,861 
+Conversion of note payable 1,075,268 1 - - 5,000 - 5,001 
+Net income - - - - - 4,646 4,646 
+Balance at December 31, 2015 10,626,624 11 168,007 - 342,485 (234,295) 108,201 
+Share-based compensation - - - - 4,486 - 4,486 
+Issuance of common stock upon exercise of
+stock options 386,001 - - - 3,051 - 3,051 
+Net income - - - - - 3,871 3,871 
+Balance at December 31, 2016 11,012,625 11 168,007 - 350,022 (230,424) 119,609 
+Share-based compensation - - - - 4,106 - 4,106 
+Issuance of common stock upon exercise of
+stock options 248,344 - - - 1,355 - 1,355 
+Issuance of restricted stock 345,000 - - - - - - 
+Conversion of preferred shares 1,680,070 2 (168,007) - (2) - - 
+DealerX contingent consideration - - - - 2,470 - 2,470 
+Repurchase of common stock (226,698) - - - (1,897) - (1,897)
+Cumulative effect adjustment - - - - - 6,488 6,488 
+ Net loss - - - - - (64,964) (64,964)
+Balance at December 31, 2017 13,059,341  $ 13 -  $ -  $ 356,054  $ (288,900)  $ 67,167 
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+ 
+ 
+F-5
+Page#4
+ Table of Contents
+ 
+AUTOWEB, INC.
+ 
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+ 
+  Years Ended December 31, 
+  2017 2016 2015 
+Cash flows from operating activities: 
+Net income (loss)  $ (64,964)  $ 3,871  $ 4,646 
+Adjustments to reconcile net income (loss) to net cash provided by operating activities: 
+Depreciation and amortization 7,653 7,303 4,021 
+Provision for bad debt 346 344 379 
+Provision for customer credits 247 592 803 
+Share-based compensation 4,103 4,412 2,557 
+Write-down of assets 8 115 — 
+Gain on sale of business — (2,183) — 
+(Gain)/loss on long-term strategic investment 580 777 (636)
+Change in deferred tax assets 25,264 1,994 2,996 
+Goodwill impairment 37,688 — — 
+Changes in assets and liabilities: 
+Accounts receivable 7,130 (3,229) (381)
+Prepaid expenses and other current assets (904) (402) (121)
+Other non-current assets 200 946 147 
+Accounts payable (2,681) 2,121 (586)
+Accrued expenses and other current liabilities (3,182) 1,581 (1,352)
+Non-current liabilities — — (273)
+Net cash provided by operating activities 11,488 18,242 12,200 
+Cash flows from investing activities: 
+Purchase of Dealix/Autotegrity — — (25,011)
+Investment in GoMoto — (375) (375)
+Change in short-term investment (3) (251) — 
+Purchase of intangible assets (8,600) — — 
+Purchases of property and equipment (1,799) (2,148) (2,719)
+Net cash used in investing activities (10,402) (2,774) (28,105)
+Cash flows from financing activities: 
+Repurchase of common stock (1,897) — — 
+Borrowings under credit facility — — 2,750 
+Borrowings under term loan — — 15,000 
+Payments on term loan borrowings (14,063) (3,937) (3,750)
+Net proceeds from stock option exercises 1,355 3,051 1,197 
+Proceeds from exercise of warrants — — 1,860 
+Proceeds from issuance of preferred shares — — 2,132 
+Payment of contingent fee arrangement — (63) (38)
+Net cash (used in) provided by financing activities (14,605) (949) 19,151 
+Net increase (decrease) in cash and cash equivalents (13,519) 14,519 3,246 
+Cash and cash equivalents, beginning of period 38,512 23,993 20,747 
+Cash and cash equivalents, end of period  $ 24,993  $ 38,512  $ 23,993 
+Supplemental disclosure of cash flow information: 
+Cash paid for income taxes  $ 650  $ 760  $ 552 
+Cash paid for interest  $ 948  $ 717  $ 884 
+ 
+Supplemental schedule of non-cash investing and financing activities: 
+DealerX contingent consideration  $ 2,470  $ —  $ — 
+Purchase of AutoWeb  $ —  $ —  $ 21,543 
+Conversion of Cyber Note  $ —  $ —  $ 5,000 
+Sale of specialty finance leads business  $ —  $ 3,168  $ — 
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+ 
+ 
+F-6

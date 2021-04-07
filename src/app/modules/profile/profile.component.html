@@ -1,67 +1,120 @@
-
-
-<div class="row">
-  <div class="col"></div>
-  <div class="col-3" style="margin:0 auto;text-align:center;margin-top: 20px;" [class.col-height] = "imageLoaded == false ? true : false">
-
-    <img class="mat-card-img" #imgLink [src]="auth.userPicture" alt="profile" style="border-radius:50px"
-       [class.show]="imageLoaded == false ? true : false">
-    <input type="file" (change)="selectFile($event)" #fileInput style="display: none;">
+<ng-template [ngIf] = "profileLoaded && authService.authServiceLoaded">
+  <div class="row">
+    <div class="col"></div>
+    <div
+      class="col-3"
+      style="margin: 0 auto; text-align: center; margin-top: 20px"
+      [class.col-height]="imageLoaded == false ? true : false"
+    >
+      <img
+        class="mat-card-img"
+        #imgLink
+        [src]="authService.userPicture"
+        alt="profile"
+        style="border-radius: 50px"
+        [class.show]="imageLoaded == false ? true : false"
+      />
+      <input
+        type="file"
+        (change)="selectFile($event)"
+        #fileInput
+        style="display: none"
+      />
+    </div>
+    <div class="col"></div>
   </div>
-  <div class="col"></div>
-</div>
-<div class="row">
-  <div class="col"></div>
-  <div class="col-3" style="margin:0 auto;text-align:center;margin-top: -20px; margin-bottom: 20px;">
-    <br>
-    <span>
-      <span class="material-icons" (click)="clickOnFileInput(fileInput)">
-        photo_camera
+  <div class="row">
+    <div class="col"></div>
+    <div
+      class="col-3"
+      style="
+        margin: 0 auto;
+        text-align: center;
+        margin-top: -20px;
+        margin-bottom: 20px;
+      "
+    >
+      <br />
+      <span>
+        <span class="material-icons" (click)="clickOnFileInput(fileInput)">
+          photo_camera
+        </span>
       </span>
-    </span> <br>
-    <mat-card-title><br />{{nickname}} </mat-card-title>
+      <br />
+      <mat-card-title><br />{{ nickname }} </mat-card-title>
+    </div>
+    <div class="col"></div>
   </div>
-  <div class="col"></div>
-</div>
 
+  <div class="content" fxLayout="row wrap" fxLayoutGap="16px grid">
+    <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
+      <mat-card class="mat-elevation-z4">
+        <mat-card-title style="text-align: center"
+          ><mat-icon style="font-size: 50px">
+            person_outline</mat-icon
+          ></mat-card-title
+        >
+        <mat-card-title style="text-align: center"
+          >Personal Info</mat-card-title
+        >
+        <mat-card-subtitle style="text-align: center"
+          >Name, phone number, and other details of your account
+        </mat-card-subtitle>
+        <mat-card-subtitle style="text-align: center"
+          ><a routerLink="/user">Manage Personal Info</a>
+        </mat-card-subtitle>
+      </mat-card>
+    </div>
 
-
-
-<div class="content" fxLayout="row wrap" fxLayoutGap="16px grid">
-
-
- 
-
-
-  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
-    <mat-card class="mat-elevation-z4">    
-<mat-card-title style="text-align:center"><mat-icon style="font-size: 50px;"> person_outline</mat-icon></mat-card-title>
-    <mat-card-title style="text-align:center">Personal Info</mat-card-title>
-    <mat-card-subtitle style="text-align:center">Name, phone number, and other details that make your account yours </mat-card-subtitle>
-    <mat-card-subtitle style="text-align:center"><a routerLink="/user" >Manage Personal Info</a> </mat-card-subtitle>
-
-    </mat-card>
+    <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
+      <mat-card class="mat-elevation-z4">
+        <mat-card-title style="text-align: center"
+          ><mat-icon style="font-size: 50px">
+            business</mat-icon
+          ></mat-card-title
+        >
+        <mat-card-title style="text-align: center"
+          >Organization Info</mat-card-title
+        >
+        <mat-card-subtitle style="text-align: center"
+          >Information about your organization
+        </mat-card-subtitle>
+        <mat-card-subtitle style="text-align: center"
+          ><a routerLink="/company"
+            >Manage Organization Info
+          </a></mat-card-subtitle
+        >
+      </mat-card>
+    </div>
+    <div
+      fxFlex="33.3%"
+      fxFlex.xs="100%"
+      fxFlex.sm="33.3%"
+    >
+      <mat-card class="mat-elevation-z4">
+        <mat-card-title style="text-align: center"
+          ><mat-icon style="font-size: 50px"
+            >supervised_user_circle</mat-icon
+          ></mat-card-title
+        >
+        <mat-card-title style="text-align: center"
+          >User Management</mat-card-title
+        >
+        <mat-card-subtitle style="text-align: center"
+          >Manage your users and their roles</mat-card-subtitle
+        >
+        <mat-card-subtitle style="text-align: center"
+          ><a class="link" style="color: #007bff; cursor: pointer;" (click) = "checkForAccessibility()">Manage User Details</a></mat-card-subtitle
+        >
+      </mat-card>
+    </div>
   </div>
-  
-  
-  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%">
-    <mat-card class="mat-elevation-z4">
-   
-	<mat-card-title style="text-align:center"><mat-icon style="font-size: 50px;"> business</mat-icon></mat-card-title>
-    <mat-card-title style="text-align:center">Organization Info</mat-card-title>
-    <mat-card-subtitle style="text-align:center">Information about your organization  </mat-card-subtitle>
-    <mat-card-subtitle style="text-align:center"><a routerLink="/company">Manage Organization Info </a></mat-card-subtitle>
-
-    </mat-card>
+</ng-template>
+<ng-template [ngIf] = "!profileLoaded || !authService.authServiceLoaded">
+  <div id="loader-container">
+    <div id="loader"></div>
+    <div>
+      Loading User Profile
+    </div>
   </div>
-  <div fxFlex="33.3%" fxFlex.xs="100%" fxFlex.sm="33.3%" *ngIf = "auth.currentUserRoles?.indexOf('Admin') >=0 || auth.currentUserRoles?.indexOf('SuperAdmin') >=0">
-    <mat-card class="mat-elevation-z4">
-   <mat-card-title style="text-align:center"><mat-icon style="font-size: 50px;">supervised_user_circle</mat-icon></mat-card-title>
-    <mat-card-title style="text-align:center">User Management</mat-card-title>
-    <mat-card-subtitle style="text-align:center">Manage your users and their roles</mat-card-subtitle>
-    <mat-card-subtitle style="text-align:center"><a routerLink="/Users">Manage User Details</a></mat-card-subtitle>
-	
-    </mat-card>
-  </div>
-</div>
-
+</ng-template>

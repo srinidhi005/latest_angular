@@ -1,0 +1,121 @@
+[annotation_spec_id: "152809026516680704"
+display_name: "OtherAssets"
+text_extraction {
+  score: 0.4825055003166199
+  text_segment {
+    start_offset: 632
+    end_offset: 644
+    content: "Other assets"
+  }
+}
+, annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9690470695495605
+  text_segment {
+    start_offset: 697
+    end_offset: 722
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.5398592948913574
+  text_segment {
+    start_offset: 737
+    end_offset: 752
+    content: "Restricted cash"
+  }
+}
+, annotation_spec_id: "2890997599957942272"
+display_name: "PPE"
+text_extraction {
+  score: 0.5339515805244446
+  text_segment {
+    start_offset: 815
+    end_offset: 842
+    content: "Property and equipment, net"
+  }
+}
+, annotation_spec_id: "152809026516680704"
+display_name: "OtherAssets"
+text_extraction {
+  score: 0.5983957052230835
+  text_segment {
+    start_offset: 947
+    end_offset: 959
+    content: "Other assets"
+  }
+}
+, annotation_spec_id: "4043919104564789248"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.8089983463287354
+  text_segment {
+    start_offset: 990
+    end_offset: 1002
+    content: "Total assets"
+  }
+}
+, annotation_spec_id: "3179227976109654016"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.8566999435424805
+  text_segment {
+    start_offset: 1078
+    end_offset: 1094
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "296924214592536576"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.7769303321838379
+  text_segment {
+    start_offset: 1338
+    end_offset: 1355
+    content: "Total liabilities"
+  }
+}
+, annotation_spec_id: "8943835499143888896"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9801498651504517
+  text_segment {
+    start_offset: 1991
+    end_offset: 2017
+    content: "Total shareholders\' equity"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.9869521260261536
+  text_segment {
+    start_offset: 2038
+    end_offset: 2080
+    content: "Total liabilities and shareholders\' equity"
+  }
+}
+, annotation_spec_id: "4332149480716500992"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9776530265808105
+  text_segment {
+    start_offset: 2115
+    end_offset: 2142
+    content: "Consolidated Balance Sheets"
+  }
+}
+, annotation_spec_id: "873384966895960064"
+display_name: "DandA"
+text_extraction {
+  score: 0.915510892868042
+  text_segment {
+    start_offset: 3577
+    end_offset: 3606
+    content: "Depreciation and amortization"
+  }
+}
+]

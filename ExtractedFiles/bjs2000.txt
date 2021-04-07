@@ -1,0 +1,423 @@
+
+Page#1
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+CONSOLIDATED BALANCE SHEETS
+(Amounts in thousands)
+  
+February 1, 2020 February 2, 2019
+ 
+ASSETS
+ 
+Current assets:
+ 
+Cash and cash equivalents $ 30,204 $ 27,146
+ 
+Accounts receivable, net 206,353 194,300
+ 
+Merchandise inventories 1,081,502 1,052,306
+ 
+Prepaid expenses and other current assets 41,961 63,454
+ 
+Total current assets 1,360,020 1,337,206
+ 
+Operating lease right-of-use assets, net 2,060,059 —
+ 
+Property and equipment:
+ 
+Land and buildings 375,375 390,243
+ 
+Leasehold costs and improvements 214,209 203,394
+ 
+Furniture, fixtures and equipment 1,135,892 1,039,360
+ 
+Construction in progress 51,741 23,749
+  
+1,777,217 1,656,746
+ 
+Less: accumulated depreciation and amortization (1,017,009) (907,968)
+ 
+Total property and equipment, net 760,208 748,778
+ 
+Goodwill 924,134 924,134
+ 
+Intangibles, net 146,985 200,870
+ 
+Other assets 18,374 28,297
+ 
+$ 5,269,780 $ 3,239,285
+Total assets
+ 
+LIABILITIES
+ 
+Current liabilities:
+ 
+Current portion of long-term debt $ 343,377 $ 254,377
+ 
+Current portion of operating lease liabilities 123,751 —
+ 
+Accounts payable 786,412 816,880
+ 
+Accrued expenses and other current liabilities 547,876 506,431
+ 
+Total current liabilities 1,801,416 1,577,688
+ 
+Long-term operating lease liabilities 1,986,790 —
+ 
+Long-term debt 1,337,308 1,546,471
+ 
+Deferred income taxes 46,200 36,937
+ 
+Other non-current liabilities 152,410 280,273
+ 
+Commitments and contingencies (see Note 9)
+ 
+STOCKHOLDERS’ DEFICIT
+ 
+Preferred stock; $0.01 par value; 5,000 shares authorized, and no shares issued or outstanding — —
+Common stock; par value $0.01; 300,000 shares authorized, 140,723 shares issued and 137,298 shares outstanding at February 1, 2020; 300,000
+ 
+shares authorized, 138,099 shares issued and 137,317 shares outstanding at February 2, 2019 1,407 1,381
+ 
+Additional paid-in capital 773,618 742,072
+ 
+Accumulated deficit (716,369) (915,113)
+ 
+Accumulated other comprehensive loss (26,586) (11,315)
+ 
+Treasury stock, at cost, 3,425 shares at February 1, 2020 and 782 shares at February 2, 2019 (86,414) (19,109)
+ 
+Total stockholders’ deficit (54,344) (202,084)
+ 
+$ 5,269,780 $ 3,239,285
+Total liabilities and stockholders’ deficit
+The accompanying notes are an integral part of the consolidated financial statements.
+51
+Page#2
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME
+(Amounts in thousands, except per share amounts)
+Fiscal Year Ended Fiscal Year Ended Fiscal Year Ended 
+ 
+February 1, 2020 February 2, 2019 February 3, 2018
+Net sales  
+$ 12,888,556 $ 12,724,454 $ 12,495,995
+Membership fee income
+  
+302,151 282,893 258,594
+Total revenues
+  
+13,190,707 13,007,347 12,754,589
+Cost of sales
+  
+10,763,926 10,646,452 10,513,492
+Selling, general and administrative expenses
+  
+2,059,430 2,051,324 2,017,821
+Pre-opening expense
+  
+15,152 6,118 3,004
+Operating income
+  
+352,199 303,453 220,272
+Interest expense, net
+  
+108,230 164,535 196,724
+Income from continuing operations before income taxes
+  
+243,969 138,918 23,548
+Provision (benefit) for income taxes
+  
+56,212 11,826 (28,427)
+Income from continuing operations
+  
+187,757 127,092 51,975
+Income (loss) from discontinued operations, net of income taxes  
+(581) 169 (1,674)
+Net income  
+$ 187,176 $ 127,261 $ 50,301
+Income per share attributable to common stockholders — basic:  
+Income from continuing operations  
+$ 1.38 $ 1.09 $ 0.59
+Loss from discontinued operations  
+(0.01) — (0.02)
+Net income  
+$ 1.37 $ 1.09 $ 0.57
+Income per share attributable to common stockholders — diluted:  
+Income from continuing operations  
+$ 1.35 $ 1.05 $ 0.56
+Loss from discontinued operations  
+— — (0.02)
+Net income  
+$ 1.35 $ 1.05 $ 0.54
+Weighted-average number of common shares outstanding:  
+Basic
+  
+136,174 116,599 88,386
+Diluted
+  
+139,109 121,135 92,264
+Other comprehensive income:  
+  
+Postretirement medical plan adjustment, net of income tax of $385, $94 and $204, respectively $ (990) $ 240 $ (312)
+  
+Unrealized loss on cash flow hedge, net of income tax of $5,554, $5,454 and $0, respectively (14,281) (13,956) —
+Total other comprehensive loss  
+(15,271) (13,716) (312)
+Total comprehensive income  
+$ 171,905 $ 113,545 $ 49,989
+The accompanying notes are an integral part of the consolidated financial statements.
+52
+Page#3
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF CONTINGENTLY REDEEMABLE COMMON STOCK AND
+STOCKHOLDERS’ DEFICIT
+(Amount in thousands)
+Contingently 
+Accumulated 
+Redeemable 
+ Additional Other  Total 
+Common Stock Common Stock Treasury Stock
+Paid-in Accumulated Comprehensive Stockholders’
+ 
+Shares Amount Shares Amount  Capital  Deficit  Loss  Shares Amount Deficit
+Balance, January 28, 2017 
+1,043 $ 8,145 87,073 $ 871 $ 6,397 $ (356,760) $ 2,281 — $ — $ (347,211)
+Net income
+ 
+— — — — — 50,301 — — — 50,301
+Postretirement medical plan
+ 
+adjustment, net of tax — — — — — — (312) — — (312)
+Dividends paid
+ 
+— — — — (6,397) (729,121) — — — (735,518)
+Stock compensation expense
+ 
+— — — — 9,102 — — — — 9,102
+Option exercises
+ 
+616 3,708 — — (2,850) — — — — (2,850)
+Call of shares 
+(203) (1,415) — — (554) — — — — (554)
+Other equity transactions
+ 
+— — — — (2,815) (432) 432 — — (2,815)
+Balance, February 3, 2018
+ 
+1,456 $ 10,438 87,073 $ 871 $ 2,883 $ (1,036,012) $ 2,401 — $ — $ (1,029,857)
+Net income
+ 
+— — — — — 127,261 — — — 127,261
+Postretirement medical plan
+ 
+adjustment, net of tax — — — — — — 240 — — 240
+Unrealized loss on cash flow
+ 
+hedge, net of tax — — — — — — (13,956) — — (13,956)
+Dividends paid
+ 
+— — — — (25) — — — — (25)
+Common stock issued for public
+ 
+offering, net of related fees — — 43,125 431 685,458 — — — — 685,889
+Common stock issued under stock
+ 
+incentive plans — — 4,875 49 (49) — — — — —
+Stock reclassification as a result of
+ 
+public offering (1,736) (13,202) 1,736 17 13,185 — — — — 13,202
+Common stock issued related to
+ 
+follow-on offering — — 1,290 13 (13) — — — — —
+Common stock repurchased upon
+ 
+vesting of stock awards — — — — — — — (782) (19,109) (19,109)
+Stock compensation expense
+ 
+— — — — 57,677 — — — — 57,677
+Options exercised prior to public
+ 
+offering 280 2,792 — — (2,210) — — — — (2,210)
+Call of shares prior to public
+ 
+offering — (28) — — (12) — — — — (12)
+Net shares used to pay tax
+ 
+withholdings upon option exercise — — — — (22,883) — — — — (22,883)
+Net cash received on option
+ 
+exercises — — — — 8,061 — — — — 8,061
+Cumulative effect of change in
+ 
+Accounting principle — — — — — (6,362) — — — (6,362)
+Balance, February 2, 2019
+ 
+— $ — 138,099 $ 1,381 $ 742,072 $ (915,113) $ (11,315) (782) $ (19,109) $ (202,084)
+Net income
+ 
+— — — — — 187,176 — — — 187,176
+Postretirement medical plan
+ 
+adjustment, net of tax — — — — — — (990) — — (990)
+Unrealized loss on cash flow
+ 
+hedge, net of tax — — — — — — (14,281) — — (14,281)
+Dividend paid —
+ 
+— — — — (25) — — — (25)
+Common stock issued under stock
+—
+ 
+incentive plans — — 2,536 25 (25) — — — —
+Common stock issued under ESPP
+—
+ 
+plan — — 88 1 1,728 — — — 1,729
+Stock compensation expense —
+ 
+— — — — 18,796 — — — 18,796
+Net cash received on option
+—
+ 
+exercises — — — — 11,072 — — — 11,072
+Treasury stock purchases —
+ 
+— — — — — — (2,643) (67,305) (67,305)
+Cumulative effect of change in
+—
+ 
+Accounting principle — — — — — 11,568 — — 11,568
+Balance, February 1, 2020 
+— $ — 140,723 $ 1,407 $ 773,618 $ (716,369) $ (26,586) (3,425) $ (86,414) $ (54,344)
+Page#4
+The accompanying notes are an integral part of the consolidated financial statements.
+53
+Page#5
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Amounts in thousands)
+Fiscal Year Ended Fiscal Year Ended Fiscal Year Ended 
+ 
+February 1, 2020 February 2, 2019 February 3, 2018
+CASH FLOWS FROM OPERATING ACTIVITIES 
+Net income  
+$ 187,176 $ 127,261 $ 50,301
+Adjustments to reconcile net income to net cash provided by operating activities: 
+Depreciation and amortization
+  
+157,000 162,223 164,061
+Amortization of debt issuance costs and accretion of original issues discount
+  
+5,172 6,556 8,463
+Debt extinguishment and refinancing charges
+  
+2,167 23,602 9,788
+Impairment charges
+  
+13,306 3,962 —
+Stock-based compensation expense
+  
+18,796 57,677 9,102
+Deferred income tax provision (benefit)  
+10,246 (12,314) (35,623)
+Other non-cash items, net
+  
+2,028 2,362 3,892
+Increase (decrease) in cash due to changes in: 
+Accounts receivable
+  
+(12,053) (3,976) (24,507)
+Merchandise inventories
+  
+(29,196) (33,168) 12,706
+Prepaid expenses and other current assets
+  
+22,169 26,338 (47,867)
+Other assets
+  
+1,710 874 967
+Accounts payable
+  
+(20,868) 68,884 36,081
+Change in book overdrafts
+  
+(12,094) (19,770) 7,523
+Accrued expenses
+  
+18,134 19,121 8,236
+Other non-current liabilities
+  
+(8,550) (2,529) 6,962
+Net cash provided by operating activities  
+355,143 427,103 210,085
+CASH FLOWS FROM INVESTING ACTIVITIES  
+Additions to property and equipment, net of disposals  
+(196,901) (145,913) (137,466)
+Proceeds from sale leaseback transaction  
+21,606 — —
+Net cash used in investing activities  
+(175,295) (145,913) (137,466)
+CASH FLOWS FROM FINANCING ACTIVITIES  
+Proceeds from long term debt
+  
+— — 547,544
+Payments on long term debt  
+(14,829) (36,167) (14,437)
+Paydown of the First Lien Term Loan and extinguishment of Second Lien Term Loan
+  
+(200,000) (975,633) —
+Proceeds from ABL facility
+  
+1,390,000 1,587,000 1,645,000
+Payments on ABL facility  
+(1,301,000) (1,515,000) (1,483,000)
+Debt issuance costs paid  
+(21) (982) (24,635)
+Dividends paid  
+(25) (25) (735,518)
+Capital lease and financing obligations payments  
+(612) (691) (657)
+Net cash received (paid) from stock option exercises
+  
+11,072 (14,240) 858
+Net cash received from Employee Stock Purchase Program (ESPP)  
+1,728 — —
+Cash paid for share repurchases  
+— — (1,969)
+Acquisition of treasury stock  
+(67,305) (19,109) —
+Proceeds from Initial Public Offering, net of underwriters' discount and commission  
+— 690,970 —
+Payment of Initial Public Offering costs  
+— (5,081) —
+Proceeds from financing obligations
+  
+4,202 — —
+Other financing activities
+  
+— (40) (2,815)
+Net cash used in financing activities  
+(176,790) (288,998) (69,629)
+Net increase (decrease) in cash and cash equivalents  
+3,058 (7,808) 2,990
+Cash and cash equivalents at beginning of period
+  
+27,146 34,954 31,964
+Cash and cash equivalents at end of period  
+$ 30,204 $ 27,146 $ 34,954
+Supplemental cash flow information:  
+Page#6
+Interest paid  
+$ 96,861 $ 152,882 $ 152,178
+Income taxes paid
+  
+40,351 15,845 14,820
+Non-cash financing and investing activities:  
+Conversion of contingently redeemable common stock into common stock
+  
+— 13,202 —
+Property additions included in accrued expenses
+  
+11,247 13,849 19,405
+The accompanying notes are an integral part of the consolidated financial statements.
+54

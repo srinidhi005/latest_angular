@@ -1,0 +1,172 @@
+
+Page#1
+GILEAD SCIENCES, INC.
+Consolidated Balance Sheets
+(in millions, except per share amounts)
+ 
+December 31,
+  
+2017 2016
+Assets 
+Current assets: 
+Cash and cash equivalents $ 7,588  $ 8,229
+Short-term marketable securities 17,922  3,666
+Accounts receivable, net of allowances of $455 at December 31, 2017 and $763 at December 31, 2016 3,851  4,514
+Inventories 801  1,587
+Prepaid and other current assets 1,661  1,592
+Total current assets 31,823  19,588
+Property, plant and equipment, net 3,295  2,865
+Long-term marketable securities 11,184  20,485
+Intangible assets, net 17,100  8,971
+Goodwill 4,159  1,172
+Other long-term assets 2,722  3,896
+Total assets $ 70,283  $ 56,977
+Liabilities and Stockholders’ Equity 
+Current liabilities: 
+Accounts payable $ 814  $ 1,206
+Accrued government and other rebates 4,704  5,021
+Other accrued liabilities 3,370  2,991
+Current portion of long-term debt and other obligations, net 2,747  —
+Total current liabilities 11,635  9,218
+Long-term debt, net 30,795  26,346
+Long-term income taxes payable 6,794  1,753
+Other long-term obligations 558  297
+Commitments and contingencies (Note 12) 
+Stockholders’ equity: 
+Preferred stock, par value $0.001 per share; 5 shares authorized; none outstanding —  —
+Common stock, par value $0.001 per share; shares authorized of 5,600 at December 31, 2017 and December 31, 2016; shares
+issued and outstanding of 1,308 at December 31, 2017 and 1,310 at December 31, 2016 1  1
+Additional paid-in capital 1,264  454
+Accumulated other comprehensive income 165  278
+Retained earnings 19,012  18,154
+Total Gilead stockholders’ equity 20,442  18,887
+Noncontrolling interest 59  476
+Total stockholders’ equity 20,501  19,363
+Total liabilities and stockholders’ equity $ 70,283  $ 56,977
+See accompanying notes.
+62
+Page#2
+GILEAD SCIENCES, INC.
+Consolidated Statements of Income
+(in millions, except per share amounts)
+ 
+  
+Year Ended December 31,
+ 
+2017 2016 2015
+Revenues: 
+Product sales  $ 25,662  $ 29,953  $ 32,151
+Royalty, contract and other revenues  445  437  488
+Total revenues  26,107  30,390  32,639
+Costs and expenses: 
+Cost of goods sold  4,371  4,261  4,006
+Research and development expenses  3,734  5,098  3,014
+Selling, general and administrative expenses  3,878  3,398  3,426
+Total costs and expenses  11,983  12,757  10,446
+Income from operations  14,124  17,633  22,193
+Interest expense  (1,118)  (964)  (688)
+Other income (expense), net  523  428  154
+Income before provision for income taxes  13,529  17,097  21,659
+Provision for income taxes  8,885  3,609  3,553
+Net income  4,644  13,488  18,106
+Net income (loss) attributable to noncontrolling interest  16  (13)  (2)
+Net income attributable to Gilead  $ 4,628  $ 13,501  $ 18,108
+Net income per share attributable to Gilead common stockholders - basic  $ 3.54  $ 10.08  $ 12.37
+Shares used in per share calculation - basic  1,307  1,339  1,464
+Net income per share attributable to Gilead common stockholders - diluted  $ 3.51  $ 9.94  $ 11.91
+Shares used in per share calculation - diluted  1,319  1,358  1,521
+Cash dividends declared per share  $ 2.08  $ 1.84  $ 1.29
+See accompanying notes.
+63
+Page#3
+GILEAD SCIENCES, INC.
+Consolidated Statements of Cash Flows
+(in millions)
+  
+Year Ended December 31,
+ 
+2017 2016 2015
+Operating Activities:
+ 
+Net income 
+$ 4,644 $ 13,488 $ 18,106
+Adjustments to reconcile net income to net cash provided by operating activities: 
+Depreciation expense 
+233 177 161
+Amortization expense 
+1,053 981 937
+Stock-based compensation expense 
+638 380 382
+Deferred income taxes 
+(82) (119) (393)
+In-process research and development impairment 
+— 432 —
+Other 
+304 162 562
+Changes in operating assets and liabilities: 
+Accounts receivable, net 
+754 1,192 (1,397)
+Inventories 
+(253) (488) (855)
+Prepaid expenses and other 
+358 (520) (90)
+Accounts payable 
+(430) 47 226
+Income taxes payable 
+5,497 1,010 269
+Accrued liabilities 
+(818) 305 3,342
+Net cash provided by operating activities 
+11,898 17,047 21,250
+ 
+Investing Activities: 
+Purchases of marketable securities 
+(23,314) (25,619) (17,239)
+Proceeds from sales of marketable securities 
+10,440 13,039 4,792
+Proceeds from maturities of marketable securities 
+7,821 1,700 719
+Other investments 
+— (357) —
+Acquisitions, net of cash acquired 
+(10,426) — —
+Capital expenditures 
+(590) (748) (747)
+Net cash used in investing activities 
+(16,069) (11,985) (12,475)
+ 
+Financing Activities: 
+Proceeds from debt financing, net of issuance costs 
+8,985 5,293 9,902
+Proceeds from convertible note hedges 
+— 956 784
+Proceeds from issuances of common stock 
+234 208 319
+Repurchases of common stock 
+(954) (11,001) (10,002)
+Repayments of debt and other obligations 
+(1,811) (1,981) (997)
+Payments to settle warrants 
+— (469) (3,865)
+Payment of dividends 
+(2,731) (2,455) (1,874)
+Other 
+(330) (276) (151)
+Net cash provided by (used in) financing activities 
+3,393 (9,725) (5,884)
+Effect of exchange rate changes on cash and cash equivalents 
+137 41 (67)
+Net change in cash and cash equivalents 
+(641) (4,622) 2,824
+Cash and cash equivalents at beginning of period 
+8,229 12,851 10,027
+Cash and cash equivalents at end of period  $ 7,588  $ 8,229  $ 12,851
+ 
+ 
+Supplemental disclosure of cash flow information:
+ 
+Interest paid, net of amounts capitalized $ 1,038 $ 885 $ 529
+ 
+Income taxes paid $ 3,342 $ 2,436 $ 3,137
+See accompanying notes.
+66

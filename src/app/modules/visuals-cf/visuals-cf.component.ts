@@ -12,6 +12,7 @@ import * as Highcharts from 'highcharts';
 import HC_exporting from 'highcharts/modules/exporting';
 import { MatDialog } from '@angular/material';
 import { VisualCFInputDialogComponent } from './input-value-dialog.component';
+import { AuthService } from 'src/app/auth.service';
 draggable(Highcharts);
 const tooltip = {
   backgroundColor: '#5A6574',
@@ -113,9 +114,12 @@ export class VisualsCfComponent implements OnInit {
   scenarioSelected: any;
   selectedCompanyName = localStorage.getItem('selectedCompanyName');
 
+  visualsLoaded = false;
+
   constructor(
     private urlConfig: UrlConfigService,
     private apiService: RMIAPIsService,
+    public authService: AuthService,
     // tslint:disable-next-line:no-shadowed-variable
     private UserDetailModelService: UserDetailModelService,
     // tslint:disable-next-line:variable-name
@@ -124,15 +128,24 @@ export class VisualsCfComponent implements OnInit {
   ) {}
 
   ngOnInit() {
-    if (this.UserDetailModelService.selectedScenarioIndex >= 0) {
-      this.scenario = this.UserDetailModelService.selectedScenarioIndex;
+    if (this.authService.authServiceLoaded) {
+      if (this.UserDetailModelService.selectedScenarioIndex >= 0) {
+        this.scenario = this.UserDetailModelService.selectedScenarioIndex;
+      }
+
+      this.initScenario(this.scenario);
+
+      this.UserDetailModelService.updateCashFlowScenario.subscribe(() => {
+        this.initScenario(this.UserDetailModelService.selectedScenarioIndex);
+      });
+    } else {
+      const intervalID = setInterval(() => {
+        if (this.authService.authServiceLoaded) {
+          this.ngOnInit();
+          clearInterval(intervalID);
+        }
+      }, 100);
     }
-
-    this.initScenario(this.scenario);
-
-    this.UserDetailModelService.updateCashFlowScenario.subscribe(() => {
-      this.initScenario(this.UserDetailModelService.selectedScenarioIndex);
-    });
   }
   openDialog(): void {
     const dialogRef = this.dialog.open(VisualCFInputDialogComponent, {
@@ -280,14 +293,14 @@ export class VisualsCfComponent implements OnInit {
                 : res[j].capexpercent * -1,
             assetsalespercent: res[j].assetsalespercent,
             otherinvestmentpercent: res[j].otherinvestmentpercent,
-			ebitda:res[j].ebitda,
-			ffopercentrevenue:res[j].ffopercentrevenue,
-			cfopercentrevenue:res[j].cfopercentrevenue,
-		    dividendspaidpercentincome:res[j].dividendspaidpercentincome,
-			cfopercentebitda:res[j].cfopercentebitda,
-			capexpercentrevenue:res[j].capexpercentrevenue,
-			assetsalespercentrevenue:res[j].assetsalespercentrevenue,
-			investingpercentrevenue:res[j].investingpercentrevenue,
+            ebitda: res[j].ebitda,
+            ffopercentrevenue: res[j].ffopercentrevenue,
+            cfopercentrevenue: res[j].cfopercentrevenue,
+            dividendspaidpercentincome: res[j].dividendspaidpercentincome,
+            cfopercentebitda: res[j].cfopercentebitda,
+            capexpercentrevenue: res[j].capexpercentrevenue,
+            assetsalespercentrevenue: res[j].assetsalespercentrevenue,
+            investingpercentrevenue: res[j].investingpercentrevenue,
             latest: res[j].latest,
           });
         }
@@ -353,14 +366,15 @@ export class VisualsCfComponent implements OnInit {
                           : res[j].capexpercent * -1,
                       assetsalespercent: res[j].assetsalespercent,
                       otherinvestmentpercent: res[j].otherinvestmentpercent,
-					  ebitda:res[j].ebitda,
-					  ffopercentrevenue:res[j].ffopercentrevenue,
-					  cfopercentrevenue:res[j].cfopercentrevenue,
-					  dividendspaidpercentincome:res[j].dividendspaidpercentincome,
-					  cfopercentebitda:res[j].cfopercentebitda,
-					  capexpercentrevenue:res[j].capexpercentrevenue,
-					  assetsalespercentrevenue:res[j].assetsalespercentrevenue,
-					  investingpercentrevenue:res[j].investingpercentrevenue,
+                      ebitda: res[j].ebitda,
+                      ffopercentrevenue: res[j].ffopercentrevenue,
+                      cfopercentrevenue: res[j].cfopercentrevenue,
+                      dividendspaidpercentincome:
+                        res[j].dividendspaidpercentincome,
+                      cfopercentebitda: res[j].cfopercentebitda,
+                      capexpercentrevenue: res[j].capexpercentrevenue,
+                      assetsalespercentrevenue: res[j].assetsalespercentrevenue,
+                      investingpercentrevenue: res[j].investingpercentrevenue,
                       latest: res[j].latest,
                     });
                   }
@@ -387,27 +401,28 @@ export class VisualsCfComponent implements OnInit {
                   chart: { type: 'areaspline', animation: false },
                   title: { text: 'Dividends Paid' },
                   yAxis: {
-		    title: { text: 'USD (millions)',
-			 style: {
+                    title: {
+                      text: 'USD (millions)',
+                      style: {
                         fontSize: '14px',
-                      } 
-		 },
+                      },
+                    },
                     labels: {
                       style: {
                         fontSize: '13px',
-                      }
+                      },
                     },
-		    min: 0,
-		    tickInterval:50,
+                    min: 0,
+                    tickInterval: 50,
                   },
-		  xAxis: { categories: this.yearsArray,
-		labels:{
-			style:{
-				fontSize:'13px'
-				}
-					  
-				  },
-		 },
+                  xAxis: {
+                    categories: this.yearsArray,
+                    labels: {
+                      style: {
+                        fontSize: '13px',
+                      },
+                    },
+                  },
                   plotOptions: {
                     series: {
                       ...seriesOption,
@@ -455,7 +470,7 @@ export class VisualsCfComponent implements OnInit {
                         projectionColor,
                         projectionColor,
                         projectionColor,
-						projectionColor,
+                        projectionColor,
                       ],
                       borderRadius: 5,
                     },
@@ -481,32 +496,32 @@ export class VisualsCfComponent implements OnInit {
                 };
                 this.CPOptions = {
                   chart: { type: 'areaspline', animation: false },
-		  title: { text: 'Capex (% of Revenue)',
-			style: {
-                        fontSize: '14px',
-                      }  
-		 },
+                  title: {
+                    text: 'Capex (% of Revenue)',
+                    style: {
+                      fontSize: '14px',
+                    },
+                  },
                   yAxis: {
-		    title: { text: 'As % of Revenue' },
-		                    labels: {
+                    title: { text: 'As % of Revenue' },
+                    labels: {
                       style: {
                         fontSize: '13px',
-                      }
+                      },
                     },
                     min: 0,
                     max: 50,
                     tickInterval: 10,
                   },
-		  xAxis: { categories: this.yearsArray,
+                  xAxis: {
+                    categories: this.yearsArray,
 
-		labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-
-		},
+                    labels: {
+                      style: {
+                        fontSize: '13px',
+                      },
+                    },
+                  },
                   plotOptions: {
                     series: {
                       ...seriesOption,
@@ -553,7 +568,7 @@ export class VisualsCfComponent implements OnInit {
                         projectionColor,
                         projectionColor,
                         projectionColor,
-						projectionColor,
+                        projectionColor,
                       ],
                       borderRadius: 5,
                     },
@@ -577,30 +592,31 @@ export class VisualsCfComponent implements OnInit {
                 this.ASOptions = {
                   chart: { type: 'areaspline', animation: false },
                   title: { text: 'Asset Sales (% of Revenue)' },
-                  yAxis: 	{
-		    title: { text: 'As % of Revenue',
-			style: {
+                  yAxis: {
+                    title: {
+                      text: 'As % of Revenue',
+                      style: {
                         fontSize: '14px',
-                      }  
-		},
-			labels: {
+                      },
+                    },
+                    labels: {
                       style: {
                         fontSize: '13px',
-                      }
+                      },
                     },
 
                     min: 0,
                     max: 50,
                     tickInterval: 10,
                   },
-		  xAxis: { categories: this.yearsArray,
-		labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-		},
+                  xAxis: {
+                    categories: this.yearsArray,
+                    labels: {
+                      style: {
+                        fontSize: '13px',
+                      },
+                    },
+                  },
                   plotOptions: {
                     series: {
                       ...seriesOption,
@@ -648,7 +664,7 @@ export class VisualsCfComponent implements OnInit {
                         projectionColor,
                         projectionColor,
                         projectionColor,
-						projectionColor,
+                        projectionColor,
                       ],
                       borderRadius: 5,
                     },
@@ -678,15 +694,14 @@ export class VisualsCfComponent implements OnInit {
                     max: 30,
                     tickInterval: 10,
                   },
-		  xAxis: { categories: this.yearsArray,
-		labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-
-		},
+                  xAxis: {
+                    categories: this.yearsArray,
+                    labels: {
+                      style: {
+                        fontSize: '13px',
+                      },
+                    },
+                  },
                   plotOptions: {
                     series: {
                       ...seriesOption,
@@ -737,7 +752,7 @@ export class VisualsCfComponent implements OnInit {
                         projectionColor,
                         projectionColor,
                         projectionColor,
-						projectionColor,
+                        projectionColor,
                       ],
                       borderRadius: 5,
                     },
@@ -765,8 +780,16 @@ export class VisualsCfComponent implements OnInit {
                 };
 
                 this.updateProjection();
+
+                this.visualsLoaded = true
+              }, error => {
+                this.visualsLoaded = true
               }); // end of projections
+          }, error => {
+            this.visualsLoaded = true
           }); // end of Save Scenarios
+      }, error => {
+        this.visualsLoaded = true
       }); // end of actuals
 
     HC_exporting(Highcharts);
@@ -831,13 +854,13 @@ export class VisualsCfComponent implements OnInit {
           key
         ).totalrevenue;
         this.CffinancialObj.get(key).totalexpenditure =
-          ((this.CffinancialObj.get(key).capexpercent)/100) *
+          (this.CffinancialObj.get(key).capexpercent / 100) *
           this.CffinancialObj.get(key).totalrevenue;
         this.CffinancialObj.get(
           key
         ).assetsalespercent = this.CffinancialObj.get(key).assetsalespercent;
         this.CffinancialObj.get(key).assetsales =
-          ((this.CffinancialObj.get(key).assetsalespercent)/100) *
+          (this.CffinancialObj.get(key).assetsalespercent / 100) *
           this.CffinancialObj.get(key).totalrevenue;
         this.CffinancialObj.get(
           key
@@ -845,14 +868,16 @@ export class VisualsCfComponent implements OnInit {
           key
         ).otherinvestmentpercent;
         this.CffinancialObj.get(key).otherinvestingactivities =
-          Math.round((this.CffinancialObj.get(key).otherinvestmentpercent)/100) *
-          this.CffinancialObj.get(key).totalrevenue;
+          Math.round(
+            this.CffinancialObj.get(key).otherinvestmentpercent / 100
+          ) * this.CffinancialObj.get(key).totalrevenue;
 
-        this.CffinancialObj.get(key).cfi = Math.round(
-          (this.CffinancialObj.get(key).totalexpenditure) +
-            this.CffinancialObj.get(key).assetsales +
-            this.CffinancialObj.get(key).otherinvestingactivities
-        )*-1;
+        this.CffinancialObj.get(key).cfi =
+          Math.round(
+            this.CffinancialObj.get(key).totalexpenditure +
+              this.CffinancialObj.get(key).assetsales +
+              this.CffinancialObj.get(key).otherinvestingactivities
+          ) * -1;
         this.CffinancialObj.get(key).debtissued = this.CffinancialObj.get(
           key
         ).debtissued;
@@ -884,26 +909,27 @@ export class VisualsCfComponent implements OnInit {
     this.CFOOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'Cash Flow from Operating Activities (CFO)' },
-      yAxis: { title: { text: 'USD',
-	style: {
-                        fontSize: '14px',
-                      }  
-	 } ,
-	labels: {
-                      style: {
-                        fontSize: '13px',
-                      }
-                    },
-	},
-      xAxis: { categories: this.yearsArray,
-	labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-	
-	},
+      yAxis: {
+        title: {
+          text: 'USD',
+          style: {
+            fontSize: '14px',
+          },
+        },
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
+      xAxis: {
+        categories: this.yearsArray,
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
       plotOptions: {
         series: { stickyTracking: false, pointWidth: 35 },
         column: {
@@ -918,7 +944,7 @@ export class VisualsCfComponent implements OnInit {
             projectionColor,
             projectionColor,
             projectionColor,
-			projectionColor,
+            projectionColor,
           ],
           borderRadius: 5,
         },
@@ -937,25 +963,27 @@ export class VisualsCfComponent implements OnInit {
     this.CFIOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'Cash Flow from Investing Activities (CFI)' },
-      yAxis: { title: { text: 'USD',
-		style: {
-                        fontSize: '14px',
-                      }  
-		 },
-	 labels: {
-                      style: {
-                        fontSize: '13px',
-                      }
-                    },
-	 },
-      xAxis: { categories: this.yearsArray,
-	labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-	},
+      yAxis: {
+        title: {
+          text: 'USD',
+          style: {
+            fontSize: '14px',
+          },
+        },
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
+      xAxis: {
+        categories: this.yearsArray,
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
       plotOptions: {
         series: { stickyTracking: false, pointWidth: 35 },
         column: {
@@ -970,7 +998,7 @@ export class VisualsCfComponent implements OnInit {
             projectionColor,
             projectionColor,
             projectionColor,
-			projectionColor,
+            projectionColor,
           ],
           borderRadius: 5,
         },
@@ -989,26 +1017,22 @@ export class VisualsCfComponent implements OnInit {
     this.CFFOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'Cash Flow from Financing Activities (CFF)' },
-      yAxis: { title: { text: 'USD',
-	style:{fontSize:'14px'
-	 },
-	},
-	labels:{
-		 style:{
-			fontSize:'13px'
-			}
-					  
-				  },
-	 },
-      xAxis: { categories: this.yearsArray,
-	labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-
-	 },
+      yAxis: {
+        title: { text: 'USD', style: { fontSize: '14px' } },
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
+      xAxis: {
+        categories: this.yearsArray,
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
       plotOptions: {
         series: { stickyTracking: false, pointWidth: 35 },
         column: {
@@ -1023,7 +1047,7 @@ export class VisualsCfComponent implements OnInit {
             projectionColor,
             projectionColor,
             projectionColor,
-			projectionColor,
+            projectionColor,
           ],
           borderRadius: 5,
         },
@@ -1042,27 +1066,28 @@ export class VisualsCfComponent implements OnInit {
     this.NCOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'Net Change in Cash' },
-      yAxis: { title: { text: 'USD',
-	style: {
-                        fontSize: '14px',
-                      }
-	 },
+      yAxis: {
+        title: {
+          text: 'USD',
+          style: {
+            fontSize: '14px',
+          },
+        },
 
-	 labels: {
-                      style: {
-                        fontSize: '13px',
-                      }
-                    },
-	},
-      xAxis: { categories: this.yearsArray,
-	labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-
-	 },
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
+      xAxis: {
+        categories: this.yearsArray,
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
       plotOptions: {
         series: { stickyTracking: false, pointWidth: 33 },
 
@@ -1078,7 +1103,7 @@ export class VisualsCfComponent implements OnInit {
             projectionColor,
             projectionColor,
             projectionColor,
-			projectionColor,
+            projectionColor,
           ],
           borderRadius: 5,
         },
@@ -1109,7 +1134,7 @@ export class VisualsCfComponent implements OnInit {
 
         this.loadedScenario = ('Scenario ' + this.scenarioSelected) as any;
         const inputArray = [];
-		console.log("cff",this.CffinancialObj);
+        console.log('cff', this.CffinancialObj);
         for (const [key, value] of this.CffinancialObj) {
           const inputObj: any = {};
           if (this.CffinancialObj.get(key).latest > 0) {
@@ -1161,19 +1186,40 @@ export class VisualsCfComponent implements OnInit {
             inputObj.assetsalespercent = this.CffinancialObj.get(
               key
             ).assetsalespercent;
-			inputObj.totalrevenue= this.CffinancialObj.get(
+            inputObj.totalrevenue = this.CffinancialObj.get(key).totalrevenue;
+            inputObj.otherinvestmentpercent = this.CffinancialObj.get(
               key
-            ).totalrevenue;
-            inputObj.otherinvestmentpercent = this.CffinancialObj.get(key).otherinvestmentpercent;
-			inputObj.ffopercentrevenue = (this.CffinancialObj.get(key).fundsfromoperations/this.CffinancialObj.get(key).totalrevenue)*100;
-			inputObj.cfopercentrevenue = (this.CffinancialObj.get(key).cfo/this.CffinancialObj.get(key).totalrevenue)*100;
-			inputObj.dividendspaidpercentincome = (this.CffinancialObj.get(key).dividendspaid/this.CffinancialObj.get(key).netincome)*100;
-			inputObj.cfopercentebitda= this.CffinancialObj.get(key).cfo/this.CffinancialObj.get(key).ebitda*100;
-            inputObj.capexpercentrevenue = this.CffinancialObj.get(key).totalexpenditure/this.CffinancialObj.get(key).totalrevenue*100;
-			inputObj.assetsalespercentrevenue =this.CffinancialObj.get(key).assetsales/this.CffinancialObj.get(key).totalrevenue*100; 
-			inputObj.investingpercentrevenue = this.CffinancialObj.get(key).otherinvestingactivities/this.CffinancialObj.get(key).totalrevenue*100;
-			
-			inputObj.latest = this.CffinancialObj.get(key).latest;
+            ).otherinvestmentpercent;
+            inputObj.ffopercentrevenue =
+              (this.CffinancialObj.get(key).fundsfromoperations /
+                this.CffinancialObj.get(key).totalrevenue) *
+              100;
+            inputObj.cfopercentrevenue =
+              (this.CffinancialObj.get(key).cfo /
+                this.CffinancialObj.get(key).totalrevenue) *
+              100;
+            inputObj.dividendspaidpercentincome =
+              (this.CffinancialObj.get(key).dividendspaid /
+                this.CffinancialObj.get(key).netincome) *
+              100;
+            inputObj.cfopercentebitda =
+              (this.CffinancialObj.get(key).cfo /
+                this.CffinancialObj.get(key).ebitda) *
+              100;
+            inputObj.capexpercentrevenue =
+              (this.CffinancialObj.get(key).totalexpenditure /
+                this.CffinancialObj.get(key).totalrevenue) *
+              100;
+            inputObj.assetsalespercentrevenue =
+              (this.CffinancialObj.get(key).assetsales /
+                this.CffinancialObj.get(key).totalrevenue) *
+              100;
+            inputObj.investingpercentrevenue =
+              (this.CffinancialObj.get(key).otherinvestingactivities /
+                this.CffinancialObj.get(key).totalrevenue) *
+              100;
+
+            inputObj.latest = this.CffinancialObj.get(key).latest;
 
             inputArray.push(inputObj);
             console.log('Json stringify', inputArray);

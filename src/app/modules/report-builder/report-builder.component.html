@@ -1,136 +1,158 @@
-<div class="container-fluid">
-    <div class="row">
-        <div class="col" style="margin: 10px auto;">
-            <h4>Generate Report</h4>
+<ng-template [ngIf] = "reportLoaded && authService.authServiceLoaded">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col" style="margin: 10px auto;">
+                <h4>Generate Report</h4>
+
+            </div>
         </div>
-    </div>
-    <div class="row">
-        <mat-card style="width: 98%; margin: .5% auto;">
-            <mat-card-content>
-                <div class="col">
-                    <div class="row">
-                        <div class="col-2"></div>
-                        <div class="col-4 centerAlign">
-                            <form class="example-form">
+        <div class="row">
+            <mat-card style="width: 98%; margin: .5% auto;">
+                <mat-card-content>
+                    <div class="col">
+<p style="font-size: 16px; text-align: center;">
+                            Step 1: Please select your Company from the drop-down menu. After selecting a Company, please select a scenario for which the Report will be generated.
+                        </p>
+
+                        <div class="row">
+                            <div class="col-2"></div>
+                            <div class="col-4 centerAlign">
+                                <form class="example-form">
+                                    <mat-form-field style="width: 100%; margin-left: 20px;">
+                                        <mat-label>Select Company</mat-label>
+                                        <input type="text" matInput [formControl]="myControl" [matAutocomplete]="autoOne">
+                                        <mat-autocomplete #autoOne="matAutocomplete" [displayWith]="displayFn">
+                                            <mat-option *ngFor="let comp of filteredOptions | async" [value]="option"
+                                                (click)="loadCompany(comp)">
+                                                {{comp.compName }}
+                                            </mat-option>
+                                        </mat-autocomplete>
+                                        <span matSuffix>
+                                            <mat-icon>search</mat-icon>
+                                        </span>
+                                    </mat-form-field>
+                                </form>
+                            </div>
+                            <div class="col-4 centerAlign">
                                 <mat-form-field style="width: 100%; margin-left: 20px;">
-                                    <mat-label>Select Company</mat-label>
-                                    <input type="text" matInput [formControl]="myControl" [matAutocomplete]="autoOne">
-                                    <mat-autocomplete #autoOne="matAutocomplete" [displayWith]="displayFn">
-                                        <mat-option *ngFor="let comp of filteredOptions | async" [value]="option"
-                                            (click)="loadCompany(comp)">
-                                            {{comp.compName }}
+                                    <mat-select name="model" [(ngModel)]="selectedScenarioForDisplay">
+                                        <mat-option [value]="-1" [disabled]="true">
+                                            Select Scenario
                                         </mat-option>
-                                    </mat-autocomplete>
-                                    <span matSuffix>
-                                        <mat-icon>search</mat-icon>
-                                    </span>
+                                        <ng-template ngFor [ngForOf]="selectedCompanyScenarios" let-scen
+                                            let-scnIndex='index'>
+                                            <mat-option [value]="scen" (click)="loadScenario(scen)">
+                                                {{ "Scenario " + scen }}
+                                            </mat-option>
+                                        </ng-template>
+                                    </mat-select>
                                 </mat-form-field>
-                            </form>
+                            </div>
+                            <div class="col-2"></div>
+                            
                         </div>
-                        <div class="col-4 centerAlign">
-                            <mat-form-field style="width: 100%; margin-left: 20px;">
-                                <mat-select name="model" [(ngModel)]="selectedScenarioForDisplay">
-                                    <mat-option [value]="-1" [disabled]="true">
-                                        Select Scenario
-                                    </mat-option>
-                                    <ng-template ngFor [ngForOf]="selectedCompanyScenarios" let-scen
-                                        let-scnIndex='index'>
-                                        <mat-option [value]="scen" (click)="loadScenario(scen)">
-                                            {{ "Scenario " + scen }}
-                                        </mat-option>
-                                    </ng-template>
-                                </mat-select>
-                            </mat-form-field>
-                        </div>
-                        <div class="col-2"></div>
-                        
-                    </div>
+			
+                        <!-- *ngIf = "showScenario" -->
+                        <div class="row">
+                            <div class="col-2"></div>
 
-                    <!-- *ngIf = "showScenario" -->
-                    <div class="row">
-                        <div class="col-2"></div>
-                        <div class="col-4 centerAlign" *ngIf='selectedCompany.compName'>
-                            <span style="padding: 5px 10px; background-color: #164a5b; color: white;">
-                                Company Selected: {{ selectedCompany.compName }} 
-                            </span>
+			   
+                            <div class="col-4 centerAlign" *ngIf='selectedCompany.compName'>
+                                <span style="padding: 5px 10px; background-color: #164a5b; color: white;">
+                                    Company Selected: {{ selectedCompany.compName }} 
+                                </span>
+                            </div>
+                            <div class="col-4 centerAlign" *ngIf="showScenario && selectedScenario >= 0 ">
+                                <span style="padding: 5px 10px; background-color: #164a5b; color: white;">
+                                    Scenario Selected: Scenario {{ selectedScenario }}
+                                </span>
+                            </div>
+                            <div class="col-2"></div>
                         </div>
-                        <div class="col-4 centerAlign" *ngIf="showScenario && selectedScenario >= 0 ">
-                            <span style="padding: 5px 10px; background-color: #164a5b; color: white;">
-                                Scenario Selected: Scenario {{ selectedScenario }}
-                            </span>
-                        </div>
-                        <div class="col-2"></div>
-                    </div>
-
-
-                    <ng-template #itemTemplate let-item="item" let-index="index">
-                        <!-- <span style="background-color: red;">{{index}}: {{item.value.name}}</span> -->
-                        <mat-card style="margin: 2% auto; padding: 5px 20px; width: 60%; height: 60px;">
-                            <mat-card-content [class.applyMargin]="rowIndex == reportSelection.length - 1 && false">
-                                <div class="row">
-                                    <div class="col">
-                                        <div class="row">
-                                            <div class="col-1 autoMargin">
-                                                <span>
-                                                    <mat-checkbox [(ngModel)]="item.value.isSelected"></mat-checkbox>
-                                                </span>
-                                            </div>
-                                            <div class="col-4 autoMargin" style="font-size: 16px;">
-                                                <span> {{ item.value.name }} </span>
-                                            </div>
-                                            <div class="col">
-                                                <mat-form-field *ngIf='item.value.metrics'>
-                                                    <mat-select name="model"
-                                                        [(ngModel)]="item.value.selectedMetric.key">
-                                                        <ng-template ngFor [ngForOf]="item.value.metrics" let-metricType
-                                                            let-metricIndex='index'>
-                                                            <mat-option [value]="metricType.key"
-                                                                (click)="loadSelectedMetric(item.value, metricType)">
-                                                                {{ metricType.name }}
-                                                            </mat-option>
-                                                        </ng-template>
-                                                    </mat-select>
-                                                </mat-form-field>
-                                            </div>
-                                            <div class="col-2 rightAlign">
-                                                <mat-icon style="margin: 20% 1px;">menu</mat-icon>
+    
+			<p style="padding-top: 35px;
+    font-size: 16px;
+    text-align: center;">Step 2: Please choose the specific financial statements and analyses that you would like to be generated in your custom report. You can select specific pages from each module as well as re-order them in a manner that best suits your reporting needs.</p>
+                        <ng-template #itemTemplate let-item="item" let-index="index">
+                            <!-- <span style="background-color: red;">{{index}}: {{item.value.name}}</span> -->
+                            <mat-card style="margin: 2% auto; padding: 5px 20px; width: 60%; height: 60px;">
+                                <mat-card-content [class.applyMargin]="rowIndex == reportSelection.length - 1 && false">
+                                    <div class="row">
+                                        <div class="col">
+                                            <div class="row">
+                                                <div class="col-1 autoMargin">
+                                                    <span>
+                                                        <mat-checkbox [(ngModel)]="item.value.isSelected"></mat-checkbox>
+                                                    </span>
+                                                </div>
+                                                <div class="col-4 autoMargin" style="font-size: 16px;">
+                                                    <span> {{ item.value.name }} </span>
+                                                </div>
+                                                <div class="col">
+                                                    <mat-form-field *ngIf='item.value.metrics'>
+                                                        <mat-select name="model"
+                                                            [(ngModel)]="item.value.selectedMetric.key">
+                                                            <ng-template ngFor [ngForOf]="item.value.metrics" let-metricType
+                                                                let-metricIndex='index'>
+                                                                <mat-option [value]="metricType.key"
+                                                                    (click)="loadSelectedMetric(item.value, metricType)">
+                                                                    {{ metricType.name }}
+                                                                </mat-option>
+                                                            </ng-template>
+                                                        </mat-select>
+                                                    </mat-form-field>
+                                                </div>
+                                                <div class="col-2 rightAlign">
+                                                    <mat-icon style="margin: 20% 1px;">menu</mat-icon>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                            </mat-card-content>
-                        </mat-card>
-                    </ng-template>
-
-                    <div class="row">
-                        <div class="col">
-                            <bs-sortable [(ngModel)]="reportSelection" [itemTemplate]="itemTemplate"
-                                itemClass="sortable-item" itemActiveClass="sortable-item-active"
-                                placeholderItem="Drag here" placeholderClass="placeholderStyle"
-                                wrapperClass="sortable-wrapper"></bs-sortable>
+                                </mat-card-content>
+                            </mat-card>
+                        </ng-template>
+    
+                        <div class="row">
+                            <div class="col">
+                                <bs-sortable [(ngModel)]="reportSelection" [itemTemplate]="itemTemplate"
+                                    itemClass="sortable-item" itemActiveClass="sortable-item-active"
+                                    placeholderItem="Drag here" placeholderClass="placeholderStyle"
+                                    wrapperClass="sortable-wrapper"></bs-sortable>
+                            </div>
                         </div>
+    
+                        <div class="row">
+                            <div class="col"></div>
+                            <div class="col centerAlign" style="margin: 15px auto;">
+                                <button class="downloadReportBtn" mat-stroked-button mat-raised-button
+                                    (click)="buildReport()">
+                                    Download Report
+                                </button>
+                            </div>
+                            <div class="col">
+    
+                            </div>
+                        </div>
+    
                     </div>
+                </mat-card-content>
+                <img id='imgToExport' #imagecanvas src='../../../assets/images/RMI_logo.jpg' style='display:none'
+                    height="400" width="600">
 
-                    <div class="row">
-                        <div class="col"></div>
-                        <div class="col centerAlign" style="margin: 15px auto;">
-                            <button class="downloadReportBtn" mat-stroked-button mat-raised-button
-                                (click)="buildReport()">
-                                Download Report
-                            </button>
-                        </div>
-                        <div class="col">
-
-                        </div>
-                    </div>
-
-                </div>
-            </mat-card-content>
-            <img id='imgToExport' #imagecanvas src='../../../assets/images/RMI_logo.jpg' style='display:none'
-                height="400" width="600">
-        </mat-card>
+                <img id='imgToExport' #imagecover src='../../../assets/images/Report_logo.jpg' style='display:none'>
+            </mat-card>
+        </div>
     </div>
-</div>
+</ng-template>
+
+<ng-template [ngIf] = "!reportLoaded || !authService.authServiceLoaded">
+	<div id="loader-container">
+        <div id="loader"></div>
+        <div>
+          Loading Report&nbsp;.&nbsp;.&nbsp;.
+        </div>
+    </div>
+</ng-template>
 
 
 <ng-template [ngIf]="showValuations">

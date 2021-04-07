@@ -1,0 +1,136 @@
+
+Page#1
+NVR, Inc.
+Consolidated Balance Sheets
+(in thousands, except share and per share data)
+December 31, 2017 December 31, 2016
+ASSETS
+Homebuilding:
+Cash and cash equivalents $ 645,087 $ 375,748
+Restricted cash 19,438 17,561
+Receivables 20,026 18,937
+Inventory:
+Lots and housing units, covered under sales agreements with customers 1,046,094 883,868
+Unsold lots and housing units 148,620 145,065
+Land under development 34,212 46,999
+Building materials and other 17,273 16,168
+1,246,199 1,092,100
+Contract land deposits, net 370,429 379,844
+Property, plant and equipment, net 43,191 45,915
+Reorganization value in excess of amounts allocable to identifiable assets, net 41,580 41,580
+Deferred tax assets, net 111,953 170,652
+Other assets 86,977 91,009
+2,584,880 2,233,346
+Mortgage Banking:
+Cash and cash equivalents 21,707 19,657
+Restricted cash 2,256 1,857
+Mortgage loans held for sale, net 352,489 351,958
+Property and equipment, net 6,327 4,903
+Reorganization value in excess of amounts allocable to identifiable assets, net 7,347 7,347
+Other assets 14,273 24,875
+404,399 410,597
+Total assets $ 2,989,279 $ 2,643,943
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Homebuilding:
+Accounts payable $ 261,973 $ 251,212
+Accrued expenses and other liabilities 341,891 337,200
+Customer deposits 150,033 122,236
+Senior notes 597,066 596,455
+1,350,963 1,307,103
+Mortgage Banking:
+Accounts payable and other liabilities 32,824 32,399
+32,824 32,399
+Total liabilities 1,383,787 1,339,502
+Commitments and contingencies
+Shareholders' equity:
+Common stock, $0.01 par value; 60,000,000 shares authorized; 20,555,330 shares issued as of both
+206 206
+December 31, 2017 and December 31, 2016
+Additional paid-in capital 1,644,197 1,515,828
+Deferred compensation trust – 108,640 shares of NVR, Inc. common stock as of both December 31,
+(17,383) (17,375)
+2017 and December 31, 2016
+Deferred compensation liability 17,383 17,375
+Retained earnings 6,231,940 5,695,376
+Less treasury stock at cost – 16,864,324 and 16,862,327 shares as of December 31, 2017
+(6,270,851) (5,906,969)
+and December 31, 2016, respectively
+Total shareholders' equity 1,605,492 1,304,441
+Total liabilities and shareholders' equity $ 2,989,279 $ 2,643,943
+See notes to consolidated financial statements.
+40
+Page#2
+NVR, Inc.
+Consolidated Statements of Income 
+(in thousands, except per share data)
+Year Ended December 31,
+2017 2016 2015
+Homebuilding:
+Revenues $ 6,175,521 $ 5,709,223 $ 5,065,200
+Other income 6,536 2,820 2,956
+Cost of sales (4,990,378) (4,707,861) (4,118,782)
+Selling, general and administrative (392,272) (382,459) (371,127)
+Operating income 799,407 621,723 578,247
+Interest expense (23,037) (20,621) (22,918)
+Homebuilding income 776,370 601,102 555,329
+Mortgage Banking:
+Mortgage banking fees 130,319 113,321 93,808
+Interest income 7,850 7,569 6,485
+Other income 2,048 1,652 1,113
+General and administrative (68,528) (60,861) (52,882)
+Interest expense (1,148) (1,086) (641)
+Mortgage banking income 70,541 60,595 47,883
+Income before taxes 846,911 661,697 603,212
+Income tax expense (309,390) (236,435) (220,285)
+Net income $ 537,521 $ 425,262 $ 382,927
+Basic earnings per share $ 144.00 $ 110.53 $ 95.21
+Diluted earnings per share $ 126.77 $ 103.61 $ 89.99
+Basic weighted average shares outstanding 3,733 3,847 4,022
+Diluted weighted average shares outstanding 4,240 4,104 4,255
+See notes to consolidated financial statements.
+41
+Page#3
+NVR, Inc.
+Consolidated Statements of Cash Flows
+(in thousands)
+Year Ended December 31,
+2017 2016 2015
+Cash flows from operating activities:
+Net income $ 537,521 $ 425,262 $ 382,927
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization 22,667 22,269 21,534
+Equity-based compensation expense 44,562 43,598 54,091
+Contract land deposit impairments (recoveries), net 1,238 (4,269) (11,058)
+Gain on sale of loans, net (99,132) (85,535) (67,891)
+Deferred tax expense (benefit) 61,290 (10,024) 1,902
+Mortgage loans closed (4,077,372) (3,660,269) (3,111,413)
+Mortgage loans sold and principal payments on mortgage loans held for sale 4,182,220 3,710,250 3,059,889
+Distribution of earnings from unconsolidated joint ventures 5,614 9,094 15,511
+Net change in assets and liabilities:
+Increase in inventory (154,099) (85,194) (134,803)
+Decrease (increase) in contract land deposits 8,177 (32,280) (37,561)
+Increase in receivables (502) (9,083) (1,527)
+Increase in accounts payable and accrued expenses 10,789 58,532 55,404
+Increase in customer deposits 27,797 11,271 4,210
+Other, net (1,866) 4,504 (4,513)
+Net cash provided by operating activities 568,904 398,126 226,702
+Cash flows from investing activities:
+Investments in and advances to unconsolidated joint ventures (3,800) (653) (1,917)
+Distribution of capital from unconsolidated joint ventures 7,203 12,594 18,489
+Purchase of property, plant and equipment (20,269) (22,369) (18,277)
+Proceeds from the sale of property, plant and equipment 847 1,000 683
+Net cash used in investing activities (16,019) (9,428) (1,022)
+Cash flows from financing activities:
+Purchase of treasury stock (422,166) (455,351) (431,367)
+Repayments under non-recourse debt related to consolidated variable interest entity — — (64)
+Distributions to partner in consolidated variable interest entity — (150) (300)
+Proceeds from the exercise of stock options 140,525 38,106 85,948
+Net cash used in financing activities (281,641) (417,395) (345,783)
+Net increase (decrease) in cash and cash equivalents 271,244 (28,697) (120,103)
+Cash and cash equivalents, beginning of the year 396,619 425,316 545,419
+Cash and cash equivalents, end of the year $ 667,863 $ 396,619 $ 425,316
+Supplemental disclosures of cash flow information:
+Interest paid during the year, net of interest capitalized $ 23,251 $ 20,922 $ 24,546
+Income taxes paid during the year, net of refunds $ 260,232 $ 218,984 $ 194,670
+See notes to consolidated financial statements.
+43

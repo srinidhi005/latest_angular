@@ -28,17 +28,19 @@ export class AuthService {
   loggedInUserRoles;
   loggedInUserId;
   loggedInUserDetails;
-  firstTimeLogin = false;
-userPicture;
   currentUserRoles = [];
-  passwordChangeSubscriber = new Subject();
   profileSubscriber = new Subject();
   isAdmin: boolean;
   roleNames = ['SuperAdmin', 'User', 'Admin'];
   //url="https://example.com/roles";
   apiToken =
-    'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZNNTdKWW9md0lUZXJfU0JrNGxsbyJ9.eyJpc3MiOiJodHRwczovL3JtaS1pbnNpZ2h0cy51cy5hdXRoMC5jb20vIiwic3ViIjoiNlFjU3AyMmhDYmVJeHMwVHU1SEhTcWRJcGt1d2tmdFpAY2xpZW50cyIsImF1ZCI6Imh0dHBzOi8vcm1pLWluc2lnaHRzLnVzLmF1dGgwLmNvbS9hcGkvdjIvIiwiaWF0IjoxNjE3MTA0MDE3LCJleHAiOjE2MTk2OTYwMTcsImF6cCI6IjZRY1NwMjJoQ2JlSXhzMFR1NUhIU3FkSXBrdXdrZnRaIiwic2NvcGUiOiJyZWFkOmNsaWVudF9ncmFudHMgY3JlYXRlOmNsaWVudF9ncmFudHMgZGVsZXRlOmNsaWVudF9ncmFudHMgdXBkYXRlOmNsaWVudF9ncmFudHMgcmVhZDp1c2VycyB1cGRhdGU6dXNlcnMgZGVsZXRlOnVzZXJzIGNyZWF0ZTp1c2VycyByZWFkOnVzZXJzX2FwcF9tZXRhZGF0YSB1cGRhdGU6dXNlcnNfYXBwX21ldGFkYXRhIGRlbGV0ZTp1c2Vyc19hcHBfbWV0YWRhdGEgY3JlYXRlOnVzZXJzX2FwcF9tZXRhZGF0YSByZWFkOnVzZXJfY3VzdG9tX2Jsb2NrcyBjcmVhdGU6dXNlcl9jdXN0b21fYmxvY2tzIGRlbGV0ZTp1c2VyX2N1c3RvbV9ibG9ja3MgY3JlYXRlOnVzZXJfdGlja2V0cyByZWFkOmNsaWVudHMgdXBkYXRlOmNsaWVudHMgZGVsZXRlOmNsaWVudHMgY3JlYXRlOmNsaWVudHMgcmVhZDpjbGllbnRfa2V5cyB1cGRhdGU6Y2xpZW50X2tleXMgZGVsZXRlOmNsaWVudF9rZXlzIGNyZWF0ZTpjbGllbnRfa2V5cyByZWFkOmNvbm5lY3Rpb25zIHVwZGF0ZTpjb25uZWN0aW9ucyBkZWxldGU6Y29ubmVjdGlvbnMgY3JlYXRlOmNvbm5lY3Rpb25zIHJlYWQ6cmVzb3VyY2Vfc2VydmVycyB1cGRhdGU6cmVzb3VyY2Vfc2VydmVycyBkZWxldGU6cmVzb3VyY2Vfc2VydmVycyBjcmVhdGU6cmVzb3VyY2Vfc2VydmVycyByZWFkOmRldmljZV9jcmVkZW50aWFscyB1cGRhdGU6ZGV2aWNlX2NyZWRlbnRpYWxzIGRlbGV0ZTpkZXZpY2VfY3JlZGVudGlhbHMgY3JlYXRlOmRldmljZV9jcmVkZW50aWFscyByZWFkOnJ1bGVzIHVwZGF0ZTpydWxlcyBkZWxldGU6cnVsZXMgY3JlYXRlOnJ1bGVzIHJlYWQ6cnVsZXNfY29uZmlncyB1cGRhdGU6cnVsZXNfY29uZmlncyBkZWxldGU6cnVsZXNfY29uZmlncyByZWFkOmhvb2tzIHVwZGF0ZTpob29rcyBkZWxldGU6aG9va3MgY3JlYXRlOmhvb2tzIHJlYWQ6YWN0aW9ucyB1cGRhdGU6YWN0aW9ucyBkZWxldGU6YWN0aW9ucyBjcmVhdGU6YWN0aW9ucyByZWFkOmVtYWlsX3Byb3ZpZGVyIHVwZGF0ZTplbWFpbF9wcm92aWRlciBkZWxldGU6ZW1haWxfcHJvdmlkZXIgY3JlYXRlOmVtYWlsX3Byb3ZpZGVyIGJsYWNrbGlzdDp0b2tlbnMgcmVhZDpzdGF0cyByZWFkOnRlbmFudF9zZXR0aW5ncyB1cGRhdGU6dGVuYW50X3NldHRpbmdzIHJlYWQ6bG9ncyByZWFkOmxvZ3NfdXNlcnMgcmVhZDpzaGllbGRzIGNyZWF0ZTpzaGllbGRzIHVwZGF0ZTpzaGllbGRzIGRlbGV0ZTpzaGllbGRzIHJlYWQ6YW5vbWFseV9ibG9ja3MgZGVsZXRlOmFub21hbHlfYmxvY2tzIHVwZGF0ZTp0cmlnZ2VycyByZWFkOnRyaWdnZXJzIHJlYWQ6Z3JhbnRzIGRlbGV0ZTpncmFudHMgcmVhZDpndWFyZGlhbl9mYWN0b3JzIHVwZGF0ZTpndWFyZGlhbl9mYWN0b3JzIHJlYWQ6Z3VhcmRpYW5fZW5yb2xsbWVudHMgZGVsZXRlOmd1YXJkaWFuX2Vucm9sbG1lbnRzIGNyZWF0ZTpndWFyZGlhbl9lbnJvbGxtZW50X3RpY2tldHMgcmVhZDp1c2VyX2lkcF90b2tlbnMgY3JlYXRlOnBhc3N3b3Jkc19jaGVja2luZ19qb2IgZGVsZXRlOnBhc3N3b3Jkc19jaGVja2luZ19qb2IgcmVhZDpjdXN0b21fZG9tYWlucyBkZWxldGU6Y3VzdG9tX2RvbWFpbnMgY3JlYXRlOmN1c3RvbV9kb21haW5zIHVwZGF0ZTpjdXN0b21fZG9tYWlucyByZWFkOmVtYWlsX3RlbXBsYXRlcyBjcmVhdGU6ZW1haWxfdGVtcGxhdGVzIHVwZGF0ZTplbWFpbF90ZW1wbGF0ZXMgcmVhZDptZmFfcG9saWNpZXMgdXBkYXRlOm1mYV9wb2xpY2llcyByZWFkOnJvbGVzIGNyZWF0ZTpyb2xlcyBkZWxldGU6cm9sZXMgdXBkYXRlOnJvbGVzIHJlYWQ6cHJvbXB0cyB1cGRhdGU6cHJvbXB0cyByZWFkOmJyYW5kaW5nIHVwZGF0ZTpicmFuZGluZyBkZWxldGU6YnJhbmRpbmcgcmVhZDpsb2dfc3RyZWFtcyBjcmVhdGU6bG9nX3N0cmVhbXMgZGVsZXRlOmxvZ19zdHJlYW1zIHVwZGF0ZTpsb2dfc3RyZWFtcyBjcmVhdGU6c2lnbmluZ19rZXlzIHJlYWQ6c2lnbmluZ19rZXlzIHVwZGF0ZTpzaWduaW5nX2tleXMgcmVhZDpsaW1pdHMgdXBkYXRlOmxpbWl0cyBjcmVhdGU6cm9sZV9tZW1iZXJzIHJlYWQ6cm9sZV9tZW1iZXJzIGRlbGV0ZTpyb2xlX21lbWJlcnMiLCJndHkiOiJjbGllbnQtY3JlZGVudGlhbHMifQ.BAJUFr2uGu0rPcVCooBTlr9e3tdb-ysK0mUywwWMSiTr8mSItG0j-OZl23JHdtq_4TlUfile1lAjyYXayazN-Rw6abEVDNW_e0FuCUzuZ__JUsuEiS56HjC-60ZvkGCrxrHBW0WlT95543O51-Yr2WTXfengPPRTOR3gbIb4AhVP0pkwYF5HP2Lb4Zj7fmATwiAukkHa4-P4yq4AnZwSzp06eI8tWOKEhCMaBXDHwzEoJraT_vNa8xrcFGJA7wxYtZ5zgXWUfJmucHWu0byw3_8yxt8r2z5QcaWyPtS46-zLsLq7l-ora0mP8YUE7QHeBpUJ4XdNR0Cz2BY4AaW_XQ';
+    'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZNNTdKWW9md0lUZXJfU0JrNGxsbyJ9.eyJpc3MiOiJodHRwczovL3JtaS1pbnNpZ2h0cy51cy5hdXRoMC5jb20vIiwic3ViIjoiNlFjU3AyMmhDYmVJeHMwVHU1SEhTcWRJcGt1d2tmdFpAY2xpZW50cyIsImF1ZCI6Imh0dHBzOi8vcm1pLWluc2lnaHRzLnVzLmF1dGgwLmNvbS9hcGkvdjIvIiwiaWF0IjoxNjE3NTQ3Mjg4LCJleHAiOjE2MjAxMzkyODgsImF6cCI6IjZRY1NwMjJoQ2JlSXhzMFR1NUhIU3FkSXBrdXdrZnRaIiwic2NvcGUiOiJyZWFkOmNsaWVudF9ncmFudHMgY3JlYXRlOmNsaWVudF9ncmFudHMgZGVsZXRlOmNsaWVudF9ncmFudHMgdXBkYXRlOmNsaWVudF9ncmFudHMgcmVhZDp1c2VycyB1cGRhdGU6dXNlcnMgZGVsZXRlOnVzZXJzIGNyZWF0ZTp1c2VycyByZWFkOnVzZXJzX2FwcF9tZXRhZGF0YSB1cGRhdGU6dXNlcnNfYXBwX21ldGFkYXRhIGRlbGV0ZTp1c2Vyc19hcHBfbWV0YWRhdGEgY3JlYXRlOnVzZXJzX2FwcF9tZXRhZGF0YSByZWFkOnVzZXJfY3VzdG9tX2Jsb2NrcyBjcmVhdGU6dXNlcl9jdXN0b21fYmxvY2tzIGRlbGV0ZTp1c2VyX2N1c3RvbV9ibG9ja3MgY3JlYXRlOnVzZXJfdGlja2V0cyByZWFkOmNsaWVudHMgdXBkYXRlOmNsaWVudHMgZGVsZXRlOmNsaWVudHMgY3JlYXRlOmNsaWVudHMgcmVhZDpjbGllbnRfa2V5cyB1cGRhdGU6Y2xpZW50X2tleXMgZGVsZXRlOmNsaWVudF9rZXlzIGNyZWF0ZTpjbGllbnRfa2V5cyByZWFkOmNvbm5lY3Rpb25zIHVwZGF0ZTpjb25uZWN0aW9ucyBkZWxldGU6Y29ubmVjdGlvbnMgY3JlYXRlOmNvbm5lY3Rpb25zIHJlYWQ6cmVzb3VyY2Vfc2VydmVycyB1cGRhdGU6cmVzb3VyY2Vfc2VydmVycyBkZWxldGU6cmVzb3VyY2Vfc2VydmVycyBjcmVhdGU6cmVzb3VyY2Vfc2VydmVycyByZWFkOmRldmljZV9jcmVkZW50aWFscyB1cGRhdGU6ZGV2aWNlX2NyZWRlbnRpYWxzIGRlbGV0ZTpkZXZpY2VfY3JlZGVudGlhbHMgY3JlYXRlOmRldmljZV9jcmVkZW50aWFscyByZWFkOnJ1bGVzIHVwZGF0ZTpydWxlcyBkZWxldGU6cnVsZXMgY3JlYXRlOnJ1bGVzIHJlYWQ6cnVsZXNfY29uZmlncyB1cGRhdGU6cnVsZXNfY29uZmlncyBkZWxldGU6cnVsZXNfY29uZmlncyByZWFkOmhvb2tzIHVwZGF0ZTpob29rcyBkZWxldGU6aG9va3MgY3JlYXRlOmhvb2tzIHJlYWQ6YWN0aW9ucyB1cGRhdGU6YWN0aW9ucyBkZWxldGU6YWN0aW9ucyBjcmVhdGU6YWN0aW9ucyByZWFkOmVtYWlsX3Byb3ZpZGVyIHVwZGF0ZTplbWFpbF9wcm92aWRlciBkZWxldGU6ZW1haWxfcHJvdmlkZXIgY3JlYXRlOmVtYWlsX3Byb3ZpZGVyIGJsYWNrbGlzdDp0b2tlbnMgcmVhZDpzdGF0cyByZWFkOnRlbmFudF9zZXR0aW5ncyB1cGRhdGU6dGVuYW50X3NldHRpbmdzIHJlYWQ6bG9ncyByZWFkOmxvZ3NfdXNlcnMgcmVhZDpzaGllbGRzIGNyZWF0ZTpzaGllbGRzIHVwZGF0ZTpzaGllbGRzIGRlbGV0ZTpzaGllbGRzIHJlYWQ6YW5vbWFseV9ibG9ja3MgZGVsZXRlOmFub21hbHlfYmxvY2tzIHVwZGF0ZTp0cmlnZ2VycyByZWFkOnRyaWdnZXJzIHJlYWQ6Z3JhbnRzIGRlbGV0ZTpncmFudHMgcmVhZDpndWFyZGlhbl9mYWN0b3JzIHVwZGF0ZTpndWFyZGlhbl9mYWN0b3JzIHJlYWQ6Z3VhcmRpYW5fZW5yb2xsbWVudHMgZGVsZXRlOmd1YXJkaWFuX2Vucm9sbG1lbnRzIGNyZWF0ZTpndWFyZGlhbl9lbnJvbGxtZW50X3RpY2tldHMgcmVhZDp1c2VyX2lkcF90b2tlbnMgY3JlYXRlOnBhc3N3b3Jkc19jaGVja2luZ19qb2IgZGVsZXRlOnBhc3N3b3Jkc19jaGVja2luZ19qb2IgcmVhZDpjdXN0b21fZG9tYWlucyBkZWxldGU6Y3VzdG9tX2RvbWFpbnMgY3JlYXRlOmN1c3RvbV9kb21haW5zIHVwZGF0ZTpjdXN0b21fZG9tYWlucyByZWFkOmVtYWlsX3RlbXBsYXRlcyBjcmVhdGU6ZW1haWxfdGVtcGxhdGVzIHVwZGF0ZTplbWFpbF90ZW1wbGF0ZXMgcmVhZDptZmFfcG9saWNpZXMgdXBkYXRlOm1mYV9wb2xpY2llcyByZWFkOnJvbGVzIGNyZWF0ZTpyb2xlcyBkZWxldGU6cm9sZXMgdXBkYXRlOnJvbGVzIHJlYWQ6cHJvbXB0cyB1cGRhdGU6cHJvbXB0cyByZWFkOmJyYW5kaW5nIHVwZGF0ZTpicmFuZGluZyBkZWxldGU6YnJhbmRpbmcgcmVhZDpsb2dfc3RyZWFtcyBjcmVhdGU6bG9nX3N0cmVhbXMgZGVsZXRlOmxvZ19zdHJlYW1zIHVwZGF0ZTpsb2dfc3RyZWFtcyBjcmVhdGU6c2lnbmluZ19rZXlzIHJlYWQ6c2lnbmluZ19rZXlzIHVwZGF0ZTpzaWduaW5nX2tleXMgcmVhZDpsaW1pdHMgdXBkYXRlOmxpbWl0cyBjcmVhdGU6cm9sZV9tZW1iZXJzIHJlYWQ6cm9sZV9tZW1iZXJzIGRlbGV0ZTpyb2xlX21lbWJlcnMiLCJndHkiOiJjbGllbnQtY3JlZGVudGlhbHMifQ.ViHckUB904KpXkAdc9qCOZGNFtDRNs66DfFDY-7nkSU0G01MU_7lAJqYKav0buhZtSIrV0QZXkofybrt7Vn400zPBAQGXD9VidegAYY8EVzqukKh6aZ5zF08eoRc079ukjgx30Y4O24OjrUdcKCcUpUuyJ9G6Vz5Pf95laOMEJFCVTSoLX4Ebk_bdvbhC1qtyRwANgbmrh3Tv7FA9_EuDPxovvMe9HlZXZyzGMEq65qWu4WkZb2lW6rCQqiPr_t-hUYsVeLLr8HY0CUdsthdyVepJTD-MHbkL6RfKGxhK3lw1TwQafga740archMNw9WfXoXynwXoWQLqVMMK1TLsw';
   // Create an o/bservable of Auth0 instance of client
+
+  authServiceLoaded = false;
+  userPicture;
+  passwordChangeSubscriber = new Subject();
+  firstTimeLogin = false;
   auth0Client$ = (from(
     createAuth0Client({
       domain: 'rmi-insights.us.auth0.com',
@@ -75,7 +77,7 @@ userPicture;
     this.localAuthSetup();
     // Handle redirect from Auth0 login
     this.handleAuthCallback();
-    this.fetchRoleIds();
+    // this.fetchRoleIds();
 
     // this.openSnackBar("Please Update your Password");
 
@@ -100,146 +102,138 @@ userPicture;
   // When calling, options can be passed if desired
   // https://auth0.github.io/auth0-spa-js/classes/auth0client.html#getuser
   getUser$(options?): Observable<any> {
-    this.userProfileSubject$.subscribe((res: any) => {
-      console.log('res for profile', res);
+    this.userProfileSubject$.subscribe(async (res: any) => {
+      console.log('Logged in User Details', res);
       this.loggedInUserId = res.sub;
       this.loggedInUserDetails = res;
       localStorage.setItem('loggedInUserId', this.loggedInUserId);
       localStorage.setItem('loggedInUserDetails', this.loggedInUserDetails);
 
       const emailId = res.email;
-      const employer = emailId.substring(
-        emailId.lastIndexOf('@') + 1,
-        emailId.lastIndexOf('.')
-      );
+      const employer = emailId.substring(emailId.lastIndexOf('@') + 1, emailId.lastIndexOf('.'));
 
-      this.getUserById(res.sub).subscribe((resp:any) => {
-        console.log("Succesfully fetched the user to fetch logins count", resp);
-        //checking whether user logged for first time, then logins_count should be 1
-	  if(resp.body?.logins_count == 1){
-	  this.firstTimeLogin = true;
-	   this.passwordChangeSubscriber.next();
-	  // const dialogRef = this.excelService.showConfirmMessage("Do You wish to Update your Password?", "Yes", "No", '350px', '120px');
-	  // dialogRef.afterClosed().subscribe( action => {
-	  // if(action == "Yes"){
-	  // this.changePassword(this.loggedInUserDetails?.email).subscribe(res => {
-	  //   console.log("Sent a mail to update the password", res);
-	  //       this.openSnackBar("We have sent a link to your Email to update your password")
-	  // this.excelService.showMessage("We have sent an Email with a Link to Update your Password", "Ok", '350px', '160px')
-	  //  }, error => {
-	  //  console.log("Failed to send a mail to update the password", error);
-	  //    this.excelService.showMessage("We have sent an Email with a Link to Update your Password", "Ok", '350px', '160px')
-	  //   })
-	  //   }
-	  //  })
+      if(employer){
+        localStorage.setItem('employer', employer);
+      }
 
-	 }
-      }, error => {
-        console.log("Failed to get the user to fetch logins count", error)
-      })            
-
-      localStorage.setItem('employer', employer);
-      // this._setSession(res);
-      this.getUserById(res.sub).subscribe(
-        (response: any) => {
-          console.log('fetched user role for ' + res.sub, response);
-		console.log("Succesfully fetched the user to fetch logins count", response);
-        
-     
-		const metaData=response.body?response.body:null
-		
-		
-          if (employer.toLowerCase() == 'rmiinsights') {
-            const userRoleId = this.getRoleIdByRoleName('SuperAdmin');
-            this.assignRolesToUser(userRoleId.id, res.sub).subscribe(
-              (id) => {
-                const body = { app_metadata: { roles: ['SuperAdmin'] } };
-                this.updateUsers(body, res.sub).subscribe((update) => {
-                  console.log('updateusers', this.updateUsers);
-                });
-                console.log('Assigned User role by default', id);
-                this.roleNames = ['SuperAdmin','User','Admin'];
-                this.currentUserRoles = ['SuperAdmin'];
-                localStorage.setItem('role', 'SuperAdmin');
-                this.loggedInUserRoles = [
-                  this.roleIds.find((rName) => rName === 'SuperAdmin'),
-                ];
-              },
-              (error) => {
-                console.log('err', error);
-              }
-            );
-          } 
-		  
-		  else if (metaData && metaData.app_metadata && metaData.app_metadata.roles.length >0 ) {
-            this.loggedInUserRoles = metaData.app_metadata.roles;
-
-            this.currentUserRoles = this.loggedInUserRoles.map(
-              (role) => role
-            );
-            for (let i = 0; i < this.currentUserRoles.length; i++) {
-              const role = this.currentUserRoles[i];
-              if (this.currentUserRoles.indexOf('SuperAdmin') >= 0) {
-                localStorage.setItem('role', 'SuperAdmin');
-                this.roleNames = ['SuperAdmin','User','Admin'];
-                break;
-              } else if (this.currentUserRoles.indexOf('Admin') >= 0) {
-                localStorage.setItem('role', 'Admin');
-                this.roleNames = ['User','Admin'];
-                break;
-              } else if (this.currentUserRoles.indexOf('User') >= 0) {
-                localStorage.setItem('role', 'User');
-                this.roleNames = ['User','Admin'];
-                break;
-              } else {
-                continue;
-              }
+      console.log("Logged In Employer is ", employer)
+	  //	this.roleNames = ['SuperAdmin', 'User', 'Admin'];
+      this.roleIds = [];
+      for (let i = 0; i < this.roleNames.length; i++) {
+        try {
+          const data = await this.getRoleId$(this.roleNames[i]).toPromise();
+	  if(data && data.body && data.body[0]){
+	  console.log("fetching role ids for " + i + "times")
+      console.log("ROLE ID", data)
+      console.log("ROLE NAMES", this.roleNames)
+      console.log("ROLE IDS", this.roleIds)
+            const roleExists = this.roleIds.find( r => r.id == data.body[0].id);
+            if(!roleExists){
+              this.roleIds.push(data.body[0]);
             }
-            console.log(
-              'currentUserRoles',
-              this.currentUserRoles,
-              this.loggedInUserRoles
-            );
-          } 
-		  else {
-            this.roleNames = ['User','Admin'];
-            const userRoleId = this.getRoleIdByRoleName('User');
-            this.assignRolesToUser(userRoleId.id, res.sub).subscribe(
-              (id) => {
-                const body = { app_metadata: { roles: ['User'] } };
-                this.updateUsers(body, res.sub).subscribe((update) => {
-                  console.log('updateusers', this.updateUsers);
-                });
-                console.log('Assigned User role by default', id);
-                this.currentUserRoles = ['User'];
-                this.loggedInUserRoles = [
-                  this.roleIds.find((rName) => rName === 'User'),
-                ];
-              },
-              (error) => {
-                console.log('err', error);
-              }
-            );
           }
-		  
-		      if(response.body.logins_count == 1){
-          this.openSnackBar("Please Update your Password");
+        } catch (error) {
+          console.log("Failed to fetch the role id for " + this.roleNames[i])
         }
-        },
-        (error) => {
-          console.log('Failed to Fetch the user Role for ' + res.sub, error);
-        }
-      );
+      }
 
-      console.log('user', res.user_metadata);
+      console.log('Fetched All three RoleIds',this.roleIds);
+
+	  // this._setSession(res);
+	  let userDetailsDB 
+
+      try {
+        userDetailsDB = await this.getUserById(this.loggedInUserId).toPromise();
+        console.log("Fetched User Details For id: ", this.loggedInUserId, userDetailsDB?.body)
+        const metaData : any = userDetailsDB.body ? userDetailsDB.body : null;
+
+        //if employer is rmiinsights assigning SuperAdmin by default
+        if (employer.toLowerCase() == 'rmiinsights') {
+          const userRoleId = this.getRoleIdByRoleName('SuperAdmin');
+          try {
+            const body = { app_metadata: { roles: ['SuperAdmin'] } };
+            const updatedUserWithRole = await this.updateUsers(body, this.loggedInUserId).toPromise();
+            console.log("Updated User With Role - SuperAdmin - "+ employer, updatedUserWithRole);
+
+            this.roleNames = ['SuperAdmin', 'User', 'Admin'];
+            this.currentUserRoles = ['SuperAdmin'];
+            localStorage.setItem('role', 'SuperAdmin');
+            this.loggedInUserRoles = [this.roleIds.find((role) => role.name === 'SuperAdmin').name];
+
+            
+
+
+          } catch (error) {
+            console.log("Failed to Updated User With Role - SuperAdmin - "+ employer, error);
+          }
+
+        } 
+
+        //if employer is other than rmiinsights, will check whether any role exists for the user
+        else if (metaData && metaData.app_metadata && metaData.app_metadata.roles.length > 0) {
+          this.loggedInUserRoles = metaData.app_metadata.roles;
+
+          this.currentUserRoles = this.loggedInUserRoles.map((role) => role);
+          for (let i = 0; i < this.currentUserRoles.length; i++) {
+            const role = this.currentUserRoles[i];
+
+            switch (role) {
+              case "SuperAdmin":
+                localStorage.setItem('role', 'SuperAdmin');
+                this.roleNames = ['SuperAdmin','User','Admin'];
+                break;
+
+              case "Admin":
+                localStorage.setItem('role', 'Admin');
+                this.roleNames = ['User', 'Admin'];
+                break;
+
+              case "User":
+                localStorage.setItem('role', 'User');
+                this.roleNames = ['User', 'Admin'];
+                break;
+            }
+          }
+
+          
+          
+          console.log("Checking whether the role exists for logged in user ", metaData, this.loggedInUserRoles)
+        } 
+        
+        //already a role is assigned to user while creating the user itself, if its not assigned, 'User' is assigned as a role
+        else {
+          this.roleNames = ['User', 'Admin'];
+          const userRoleId = this.getRoleIdByRoleName('User');
+          
+          try {
+            const body = { app_metadata: { roles: ['User'] } };
+            const updatedUserWithRole = this.updateUsers(body, this.loggedInUserId).toPromise();
+            console.log("Updated User With Role - User - "+ employer, updatedUserWithRole);
+
+            this.currentUserRoles = ['User'];
+            this.loggedInUserRoles = [this.roleIds.find((role) => role.name === 'User').name];
+           
+
+          } catch (error) {
+            console.log("Failed to Updated User With Role - SuperAdmin - "+ employer, error);
+          }
+        }
+
+      } catch (error) {
+        
+      }
+
       localStorage.setItem('nickname', res.nickname);
       localStorage.setItem('email', res.email);
       localStorage.setItem('picture', res.picture);
 
-  
-      this.profileSubscriber.next();
+ 	 if (userDetailsDB && userDetailsDB.body &&  userDetailsDB.body.logins_count === 1) {
+        this.firstTimeLogin = true;
+      }
+	  this.profileSubscriber.next();
+	  this.authServiceLoaded = true;
 	  });
-	 
+    	 
 
     return this.auth0Client$.pipe(
       concatMap((client: Auth0Client) => from(client.getUser(options))),
@@ -254,11 +248,18 @@ userPicture;
       verticalPosition: 'top',
     });
 
-    snackb.afterDismissed().subscribe( res => {
-      console.log("Snack Bar Dismissed", res);
-      if(res.dismissedByAction == true){
+    snackb.afterDismissed().subscribe((res) => {
+      console.log('Snack Bar Dismissed', res);
+      if (res.dismissedByAction == true) {
         //Update the Password
-        this.changePassword(this.loggedInUserDetails?.email)
+        this.changePassword(this.loggedInUserDetails?.email).subscribe(
+          (respi) => {
+            console.log(respi);
+          },
+          (error) => {
+            console.log(error);
+          }
+        );
       }
     });
   }
@@ -449,7 +450,8 @@ userPicture;
     }
   }
 
-  logout() {
+	  logout() {
+	  localStorage.clear();
     // Ensure Auth0 client instance exists
     this.auth0Client$.subscribe((client: Auth0Client) => {
       // Call method to log out

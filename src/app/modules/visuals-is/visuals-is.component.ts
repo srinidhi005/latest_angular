@@ -13,6 +13,7 @@ import * as Highcharts from 'highcharts';
 import HC_exporting from 'highcharts/modules/exporting';
 import { MatDialog } from '@angular/material';
 import { VisualBSInputDialogComponent } from './input-value-dialog.component';
+import { AuthService } from 'src/app/auth.service';
 draggable(Highcharts);
 const tooltip = {
   backgroundColor: '#5A6574',
@@ -94,7 +95,7 @@ export class VisualsISComponent implements OnInit {
   PEBTOptions: {};
   PNIOptions: {};
   yearsArray = [];
-  actualDriversColors=[];
+  actualDriversColors = [];
   projectionsYearsArray = [];
   scenarioArray = [];
   driversColors = [];
@@ -121,9 +122,12 @@ export class VisualsISComponent implements OnInit {
   scenarioSelected: any;
   selectedCompanyName = localStorage.getItem('selectedCompanyName');
 
+  visualsLoaded = false;
+
   constructor(
     private urlConfig: UrlConfigService,
     private apiService: RMIAPIsService,
+    public authService: AuthService,
     // tslint:disable-next-line:no-shadowed-variable
     private UserDetailModelService: UserDetailModelService,
     // tslint:disable-next-line:variable-name
@@ -132,15 +136,24 @@ export class VisualsISComponent implements OnInit {
   ) {}
 
   ngOnInit() {
-    if (this.UserDetailModelService.selectedScenarioIndex >= 0) {
-      this.scenario = this.UserDetailModelService.selectedScenarioIndex;
+    if (this.authService.authServiceLoaded) {
+      if (this.UserDetailModelService.selectedScenarioIndex >= 0) {
+        this.scenario = this.UserDetailModelService.selectedScenarioIndex;
+      }
+
+      this.initScenario(this.scenario);
+
+      this.UserDetailModelService.updateIncomeSheetScenario.subscribe(() => {
+        this.initScenario(this.UserDetailModelService.selectedScenarioIndex);
+      });
+    } else {
+      const intervalID = setInterval(() => {
+        if (this.authService.authServiceLoaded) {
+          this.ngOnInit();
+          clearInterval(intervalID);
+        }
+      }, 100);
     }
-
-    this.initScenario(this.scenario);
-
-    this.UserDetailModelService.updateIncomeSheetScenario.subscribe(() => {
-      this.initScenario(this.UserDetailModelService.selectedScenarioIndex);
-    });
   }
   openDialog(): void {
     const dialogRef = this.dialog.open(VisualBSInputDialogComponent, {
@@ -274,11 +287,11 @@ export class VisualsISComponent implements OnInit {
     let previousAmount;
     if (scenarioNumber >= 0) {
       this.scenarioSelected = scenarioNumber;
-	if(this.scenarioSelected==null){
-        	this.scenarioSelected='0';
+      if (this.scenarioSelected == null) {
+        this.scenarioSelected = '0';
       }
-	this.loadedScenario = 'Scenario ' + this.scenarioSelected;
-         }
+      this.loadedScenario = 'Scenario ' + this.scenarioSelected;
+    }
     this.apiService
       .getData(this.urlConfig.getIsActualsAPI() + this.companySelected)
       .subscribe((res: any) => {
@@ -311,8 +324,8 @@ export class VisualsISComponent implements OnInit {
             if (res.scenarios.includes(Number(this.scenarioSelected))) {
               this.inprogress = false;
             } else {
-	      this.scenarioSelected = '0';
-	      localStorage.setItem('scenarioSelected', this.scenarioSelected);
+              this.scenarioSelected = '0';
+              localStorage.setItem('scenarioSelected', this.scenarioSelected);
               this.inprogress = true;
             }
             this.apiService
@@ -323,9 +336,9 @@ export class VisualsISComponent implements OnInit {
                   this.scenarioSelected
               )
               .subscribe((res: any) => {
-		this.progressBar = false;
-	 if(this.scenarioSelected==null){
-                  this.scenarioSelected='0';
+                this.progressBar = false;
+                if (this.scenarioSelected == null) {
+                  this.scenarioSelected = '0';
                 }
                 this.loadedScenario = 'Scenario ' + this.scenarioSelected;
 
@@ -388,88 +401,92 @@ export class VisualsISComponent implements OnInit {
                       : +v.netIterestExpense.toFixed(0)
                   );
                 });
-				console.log("years array",this.yearsArray);
+                console.log('years array', this.yearsArray);
                 RGArray.shift();
                 COGSArray.shift();
                 SGAArray.shift();
                 DAArray.shift();
                 OIEArray.shift();
                 NIEArray.shift();
-			
-               this.projectionsYearsArray.shift();
-			   if(this.projectionsYearsArray.length==6){
-				   
-	this.driversColors=[actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-						projectionColor,]
-				   
-			   }
-			   else{
-				   this.driversColors=[
-				        actualColor,
-				        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-						projectionColor,]
-			   }
-			   
-			   if(this.yearsArray.length==7){
-				   
-	this.actualDriversColors=[actualColor,
-						actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-						projectionColor,]
-				   
-			   }
-			   else{
-				   this.actualDriversColors=[
-						actualColor,
-				        actualColor,
-				        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-						projectionColor,]
-			   }
-				   
-			   console.log("projection years array",this.projectionsYearsArray);
-                const _this=this;
+
+                this.projectionsYearsArray.shift();
+                if (this.projectionsYearsArray.length == 6) {
+                  this.driversColors = [
+                    actualColor,
+                    projectionColor,
+                    projectionColor,
+                    projectionColor,
+                    projectionColor,
+                    projectionColor,
+                  ];
+                } else {
+                  this.driversColors = [
+                    actualColor,
+                    actualColor,
+                    projectionColor,
+                    projectionColor,
+                    projectionColor,
+                    projectionColor,
+                    projectionColor,
+                  ];
+                }
+
+                if (this.yearsArray.length == 7) {
+                  this.actualDriversColors = [
+                    actualColor,
+                    actualColor,
+                    projectionColor,
+                    projectionColor,
+                    projectionColor,
+                    projectionColor,
+                    projectionColor,
+                  ];
+                } else {
+                  this.actualDriversColors = [
+                    actualColor,
+                    actualColor,
+                    actualColor,
+                    projectionColor,
+                    projectionColor,
+                    projectionColor,
+                    projectionColor,
+                    projectionColor,
+                  ];
+                }
+
+                console.log(
+                  'projection years array',
+                  this.projectionsYearsArray
+                );
+                const _this = this;
                 this.RGOptions = {
                   chart: { type: 'areaspline', animation: false },
                   title: { text: 'Revenue Growth' },
                   yAxis: {
-		    title: { text: 'In Percentage %',
-			style: {
+                    title: {
+                      text: 'In Percentage %',
+                      style: {
                         fontSize: '14px',
-                      }  
-		 },
-		labels: {
+                      },
+                    },
+                    labels: {
                       style: {
                         fontSize: '13px',
-                      }
+                      },
                     },
 
                     min: -150,
                     max: 150,
                     tickInterval: 50,
                   },
-		  xAxis: { categories: this.projectionsYearsArray,
-			labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-		 },
+                  xAxis: {
+                    categories: this.projectionsYearsArray,
+                    labels: {
+                      style: {
+                        fontSize: '13px',
+                      },
+                    },
+                  },
                   plotOptions: {
                     series: {
                       ...seriesOption,
@@ -481,44 +498,40 @@ export class VisualsISComponent implements OnInit {
                       point: {
                         events: {
                           drag: function (e) {
-							  if(_this.projectionsYearsArray.length==6){
-								  if (e.target.index == 0 ) {
-                              return false;
+                            if (_this.projectionsYearsArray.length == 6) {
+                              if (e.target.index == 0) {
+                                return false;
+                              }
                             }
-							  }
-							if(_this.projectionsYearsArray.length==7){
-								  if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
+                            if (_this.projectionsYearsArray.length == 7) {
+                              if (e.target.index == 0 || e.target.index == 1) {
+                                return false;
+                              }
                             }
-                           
-							}
-							  },
+                          },
                           drop: function (e) {
-							  if(_this.projectionsYearsArray.length==6){
-								  if (e.target.index == 0 ) {
-                              return false;
-                            } else {
-                              that.financialObj.get(
-                                e.target.category
-                              ).revenueGrowth = e.target.y;
-                              console.log(e.target.y, e.target.category);
-                              that.updateProjection();
+                            if (_this.projectionsYearsArray.length == 6) {
+                              if (e.target.index == 0) {
+                                return false;
+                              } else {
+                                that.financialObj.get(
+                                  e.target.category
+                                ).revenueGrowth = e.target.y;
+                                console.log(e.target.y, e.target.category);
+                                that.updateProjection();
+                              }
                             }
-								  
-							  }
-							  if(_this.projectionsYearsArray.length==7){
-								  if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            } else {
-                              that.financialObj.get(
-                                e.target.category
-                              ).revenueGrowth = e.target.y;
-                              console.log(e.target.y, e.target.category);
-                              that.updateProjection();
+                            if (_this.projectionsYearsArray.length == 7) {
+                              if (e.target.index == 0 || e.target.index == 1) {
+                                return false;
+                              } else {
+                                that.financialObj.get(
+                                  e.target.category
+                                ).revenueGrowth = e.target.y;
+                                console.log(e.target.y, e.target.category);
+                                that.updateProjection();
+                              }
                             }
-								  
-							  }
-                            
                           },
                           click() {
                             if (this.index < 2) {
@@ -565,29 +578,30 @@ export class VisualsISComponent implements OnInit {
                   chart: { type: 'areaspline', animation: false },
                   title: { text: 'COGS (% Revenue)' },
                   yAxis: {
-		    title: { text: 'As % of Revenue',
-		style: {
+                    title: {
+                      text: 'As % of Revenue',
+                      style: {
                         fontSize: '14px',
-                      }  
-		 },
-		labels: {
+                      },
+                    },
+                    labels: {
                       style: {
                         fontSize: '13px',
-                      }
+                      },
                     },
 
                     min: 0,
                     max: 100,
                     tickInterval: 25,
                   },
-		  xAxis: { categories: this.projectionsYearsArray,
-			labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-		},
+                  xAxis: {
+                    categories: this.projectionsYearsArray,
+                    labels: {
+                      style: {
+                        fontSize: '13px',
+                      },
+                    },
+                  },
                   plotOptions: {
                     series: {
                       ...seriesOption,
@@ -595,37 +609,36 @@ export class VisualsISComponent implements OnInit {
                       point: {
                         events: {
                           drag: function (e) {
-							  if(_this.projectionsYearsArray.length==6){
-								  if (e.target.index == 0 ) {
-                              return false;
+                            if (_this.projectionsYearsArray.length == 6) {
+                              if (e.target.index == 0) {
+                                return false;
+                              }
                             }
-							  }
-							if(_this.projectionsYearsArray.length==7){
-								  if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
+                            if (_this.projectionsYearsArray.length == 7) {
+                              if (e.target.index == 0 || e.target.index == 1) {
+                                return false;
+                              }
                             }
-                           
-							}
-							  },
+                          },
                           drop: function (e) {
-                           if(_this.projectionsYearsArray.length==6){
-								  if (e.target.index == 0 ) {
-                              return false;
-                            } else {
-                              that.financialObj.get(e.target.category).COGS =
-                                e.target.y;
-                              that.updateProjection();
+                            if (_this.projectionsYearsArray.length == 6) {
+                              if (e.target.index == 0) {
+                                return false;
+                              } else {
+                                that.financialObj.get(e.target.category).COGS =
+                                  e.target.y;
+                                that.updateProjection();
+                              }
                             }
-						   }
-							 if(_this.projectionsYearsArray.length==7){
-								  if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            } else {
-                              that.financialObj.get(e.target.category).COGS =
-                                e.target.y;
-                              that.updateProjection();
+                            if (_this.projectionsYearsArray.length == 7) {
+                              if (e.target.index == 0 || e.target.index == 1) {
+                                return false;
+                              } else {
+                                that.financialObj.get(e.target.category).COGS =
+                                  e.target.y;
+                                that.updateProjection();
+                              }
                             }
-							 }
                           },
                           click() {
                             if (this.index < 2) {
@@ -671,71 +684,71 @@ export class VisualsISComponent implements OnInit {
                   chart: { type: 'areaspline', animation: false },
                   title: { text: 'SG&A (% Revenue)' },
                   yAxis: {
-		    title: { text: 'As % of Revenue',
-			 style: {
+                    title: {
+                      text: 'As % of Revenue',
+                      style: {
                         fontSize: '14px',
-                      }  
-			 },
-			labels: {
+                      },
+                    },
+                    labels: {
                       style: {
                         fontSize: '13px',
-                      }
+                      },
                     },
 
                     min: 0,
                     max: 100,
                     tickInterval: 25,
                   },
-		  xAxis: { categories: this.projectionsYearsArray,
-			labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-		 },
+                  xAxis: {
+                    categories: this.projectionsYearsArray,
+                    labels: {
+                      style: {
+                        fontSize: '13px',
+                      },
+                    },
+                  },
                   plotOptions: {
                     series: {
                       ...seriesOption,
                       dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
                       point: {
                         events: {
-                           drag: function (e) {
-							  if(_this.projectionsYearsArray.length==6){
-								  if (e.target.index == 0 ) {
-                              return false;
+                          drag: function (e) {
+                            if (_this.projectionsYearsArray.length == 6) {
+                              if (e.target.index == 0) {
+                                return false;
+                              }
                             }
-							  }
-							if(_this.projectionsYearsArray.length==7){
-								  if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
+                            if (_this.projectionsYearsArray.length == 7) {
+                              if (e.target.index == 0 || e.target.index == 1) {
+                                return false;
+                              }
                             }
-                           
-							}
-							  },
+                          },
                           drop: function (e) {
-                             if(_this.projectionsYearsArray.length==6){
-								  if (e.target.index == 0) {
-                              return false;
+                            if (_this.projectionsYearsArray.length == 6) {
+                              if (e.target.index == 0) {
+                                return false;
+                              } else {
+                                that.financialObj.get(
+                                  e.target.category
+                                ).SGAndA = e.target.y;
+                                console.log('inside chart', that.financialObj);
+                                that.updateProjection();
+                              }
                             }
-							else {
-                              that.financialObj.get(e.target.category).SGAndA =
-                                e.target.y;
-                              console.log('inside chart', that.financialObj);
-                              that.updateProjection();
+                            if (_this.projectionsYearsArray.length == 7) {
+                              if (e.target.index == 0 || e.target.index == 1) {
+                                return false;
+                              } else {
+                                that.financialObj.get(
+                                  e.target.category
+                                ).SGAndA = e.target.y;
+                                console.log('inside chart', that.financialObj);
+                                that.updateProjection();
+                              }
                             }
-							 }
-							  if(_this.projectionsYearsArray.length==7){
-								  if (e.target.index == 0 || e.target.index == 1 ) {
-                              return false;
-                            }
-							else {
-                              that.financialObj.get(e.target.category).SGAndA =
-                                e.target.y;
-                              console.log('inside chart', that.financialObj);
-                              that.updateProjection();
-                            }
-							 }
                           },
                           click() {
                             if (this.index < 2) {
@@ -782,66 +795,65 @@ export class VisualsISComponent implements OnInit {
                   title: { text: 'D&A (% Revenue)' },
                   yAxis: {
                     title: {
-		      text: 'As % of Revenue',
-			 style: {
+                      text: 'As % of Revenue',
+                      style: {
                         fontSize: '14px',
-                      }  
-		    },
-			labels: {
+                      },
+                    },
+                    labels: {
                       style: {
                         fontSize: '13px',
-                      }
+                      },
                     },
                     min: 0,
                     max: 50,
                     tickInterval: 25,
                   },
-		  xAxis: { categories: this.projectionsYearsArray,
-			labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-			},
+                  xAxis: {
+                    categories: this.projectionsYearsArray,
+                    labels: {
+                      style: {
+                        fontSize: '13px',
+                      },
+                    },
+                  },
                   plotOptions: {
                     series: {
                       ...seriesOption,
                       dragDrop: { draggableY: true, dragMaxY: 49, dragMinY: 0 },
                       point: {
                         events: {
-                           drag: function (e) {
-							  if(_this.projectionsYearsArray.length==6){
-								  if (e.target.index == 0 ) {
-                              return false;
+                          drag: function (e) {
+                            if (_this.projectionsYearsArray.length == 6) {
+                              if (e.target.index == 0) {
+                                return false;
+                              }
                             }
-							  }
-							if(_this.projectionsYearsArray.length==7){
-								  if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
+                            if (_this.projectionsYearsArray.length == 7) {
+                              if (e.target.index == 0 || e.target.index == 1) {
+                                return false;
+                              }
                             }
-                           
-							}
-							  },
+                          },
                           drop: function (e) {
-                            if(_this.projectionsYearsArray.length==6){
-								  if (e.target.index == 0) {
-                              return false;
-                            }else {
-                              that.financialObj.get(e.target.category).DAndA =
-                                e.target.y;
-                              that.updateProjection();
+                            if (_this.projectionsYearsArray.length == 6) {
+                              if (e.target.index == 0) {
+                                return false;
+                              } else {
+                                that.financialObj.get(e.target.category).DAndA =
+                                  e.target.y;
+                                that.updateProjection();
+                              }
                             }
-							}
-							 if(_this.projectionsYearsArray.length==7){
-								  if (e.target.index == 0 || e.target.index == 1 ) {
-                              return false;
-                            }else {
-                              that.financialObj.get(e.target.category).DAndA =
-                                e.target.y;
-                              that.updateProjection();
+                            if (_this.projectionsYearsArray.length == 7) {
+                              if (e.target.index == 0 || e.target.index == 1) {
+                                return false;
+                              } else {
+                                that.financialObj.get(e.target.category).DAndA =
+                                  e.target.y;
+                                that.updateProjection();
+                              }
                             }
-							 }
                           },
                           click() {
                             if (this.index < 2) {
@@ -888,28 +900,29 @@ export class VisualsISComponent implements OnInit {
                   chart: { type: 'areaspline', animation: false },
                   title: { text: 'Other Income/Expense (% Revenue)' },
                   yAxis: {
-		    title: { text: 'As % of Revenue',
-			 style: {
+                    title: {
+                      text: 'As % of Revenue',
+                      style: {
                         fontSize: '14px',
-                      }  		   
-		 },
-		labels: {
+                      },
+                    },
+                    labels: {
                       style: {
                         fontSize: '13px',
-                      }
+                      },
                     },
                     min: 0,
                     max: 100,
                     tickInterval: 25,
                   },
-		  xAxis: { categories: this.projectionsYearsArray,
-			labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-			 },
+                  xAxis: {
+                    categories: this.projectionsYearsArray,
+                    labels: {
+                      style: {
+                        fontSize: '13px',
+                      },
+                    },
+                  },
                   plotOptions: {
                     series: {
                       ...seriesOption,
@@ -920,42 +933,39 @@ export class VisualsISComponent implements OnInit {
                       },
                       point: {
                         events: {
-                           drag: function (e) {
-							  if(_this.projectionsYearsArray.length==6){
-								  if (e.target.index == 0 ) {
-                              return false;
+                          drag: function (e) {
+                            if (_this.projectionsYearsArray.length == 6) {
+                              if (e.target.index == 0) {
+                                return false;
+                              }
                             }
-							  }
-							if(_this.projectionsYearsArray.length==7){
-								  if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
+                            if (_this.projectionsYearsArray.length == 7) {
+                              if (e.target.index == 0 || e.target.index == 1) {
+                                return false;
+                              }
                             }
-                           
-							}
-							  },
+                          },
                           drop: function (e) {
-                            if(_this.projectionsYearsArray.length==6){
-								  if (e.target.index == 0) {
-                              return false;
-                            } 
-							else {
-                              that.financialObj.get(
-                                e.target.category
-                              ).otherIncomeOrExpense = e.target.y;
-                              that.updateProjection();
+                            if (_this.projectionsYearsArray.length == 6) {
+                              if (e.target.index == 0) {
+                                return false;
+                              } else {
+                                that.financialObj.get(
+                                  e.target.category
+                                ).otherIncomeOrExpense = e.target.y;
+                                that.updateProjection();
+                              }
                             }
-							}
-							  if(_this.projectionsYearsArray.length==7){
-								  if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            } 
-							else {
-                              that.financialObj.get(
-                                e.target.category
-                              ).otherIncomeOrExpense = e.target.y;
-                              that.updateProjection();
+                            if (_this.projectionsYearsArray.length == 7) {
+                              if (e.target.index == 0 || e.target.index == 1) {
+                                return false;
+                              } else {
+                                that.financialObj.get(
+                                  e.target.category
+                                ).otherIncomeOrExpense = e.target.y;
+                                that.updateProjection();
+                              }
                             }
-							}
                           },
                           click() {
                             if (this.index < 2) {
@@ -1000,27 +1010,28 @@ export class VisualsISComponent implements OnInit {
                 this.NIEOptions = {
                   chart: { type: 'areaspline', animation: false },
                   title: { text: 'Net Interest Expense' },
-		  yAxis: { title: { text: 'USD (millions)',
-			 style: {
+                  yAxis: {
+                    title: {
+                      text: 'USD (millions)',
+                      style: {
                         fontSize: '14px',
-                      }  
-			},
-			labels: {
+                      },
+                    },
+                    labels: {
                       style: {
                         fontSize: '13px',
-                      }
+                      },
                     },
-			tickInterval:50 
-		},
-	
+                    tickInterval: 50,
+                  },
+
                   xAxis: {
-		    categories: this.projectionsYearsArray,
-			labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
+                    categories: this.projectionsYearsArray,
+                    labels: {
+                      style: {
+                        fontSize: '13px',
+                      },
+                    },
                   },
                   plotOptions: {
                     series: {
@@ -1028,40 +1039,39 @@ export class VisualsISComponent implements OnInit {
                       dragDrop: { draggableY: true },
                       point: {
                         events: {
-                           drag: function (e) {
-							  if(_this.projectionsYearsArray.length==6){
-								  if (e.target.index == 0 ) {
-                              return false;
+                          drag: function (e) {
+                            if (_this.projectionsYearsArray.length == 6) {
+                              if (e.target.index == 0) {
+                                return false;
+                              }
                             }
-							  }
-							if(_this.projectionsYearsArray.length==7){
-								  if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
+                            if (_this.projectionsYearsArray.length == 7) {
+                              if (e.target.index == 0 || e.target.index == 1) {
+                                return false;
+                              }
                             }
-                           
-							}
-							  },
+                          },
                           drop: function (e) {
-                             if(_this.projectionsYearsArray.length==6){
-								  if (e.target.index == 0 ) {
-                              return false;
-                            }  else {
-                              that.financialObj.get(
-                                e.target.category
-                              ).netIterestExpense = e.target.y;
-                              that.updateProjection();
+                            if (_this.projectionsYearsArray.length == 6) {
+                              if (e.target.index == 0) {
+                                return false;
+                              } else {
+                                that.financialObj.get(
+                                  e.target.category
+                                ).netIterestExpense = e.target.y;
+                                that.updateProjection();
+                              }
                             }
-							 }
-							  if(_this.projectionsYearsArray.length==7){
-								  if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            }  else {
-                              that.financialObj.get(
-                                e.target.category
-                              ).netIterestExpense = e.target.y;
-                              that.updateProjection();
+                            if (_this.projectionsYearsArray.length == 7) {
+                              if (e.target.index == 0 || e.target.index == 1) {
+                                return false;
+                              } else {
+                                that.financialObj.get(
+                                  e.target.category
+                                ).netIterestExpense = e.target.y;
+                                that.updateProjection();
+                              }
                             }
-							 }
                           },
                           click() {
                             if (this.index < 2) {
@@ -1106,8 +1116,16 @@ export class VisualsISComponent implements OnInit {
                   legend: false,
                 };
                 this.updateProjection();
+
+                this.visualsLoaded = true;
+              }, error => {
+                this.visualsLoaded = true
               }); // end of projections
+          }, error => {
+            this.visualsLoaded = true
           }); // end of Save Scenarios
+      }, error =>{
+        this.visualsLoaded = true
       }); // end of actuals
 
     HC_exporting(Highcharts);
@@ -1185,26 +1203,28 @@ export class VisualsISComponent implements OnInit {
     this.PTROptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'Total Revenue' },
-      yAxis: { title: { text: 'USD',
-	style: {
-                        fontSize: '14px',
-                      }  
-	 }, 
- labels: {
-                      style: {
-                        fontSize: '13px',
-                      }
-                    },
-		},
+      yAxis: {
+        title: {
+          text: 'USD',
+          style: {
+            fontSize: '14px',
+          },
+        },
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
 
-      xAxis: { categories: this.yearsArray,
-	labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-	},
+      xAxis: {
+        categories: this.yearsArray,
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
       tooltip: {
         ...tooltip,
         formatter() {
@@ -1230,26 +1250,27 @@ export class VisualsISComponent implements OnInit {
     this.PGPOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'Gross Profit' },
-      yAxis: { title: { text: 'USD',
-	style: {
-                        fontSize: '14px',
-                      }  
-
-	 },
-	labels: {
-                      style: {
-                        fontSize: '13px',
-                      }
-                    },
-	},
-      xAxis: { categories: this.yearsArray,
-	labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-	 },
+      yAxis: {
+        title: {
+          text: 'USD',
+          style: {
+            fontSize: '14px',
+          },
+        },
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
+      xAxis: {
+        categories: this.yearsArray,
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
       plotOptions: {
         series: { stickyTracking: false },
         column: {
@@ -1257,7 +1278,7 @@ export class VisualsISComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          colors:this.actualDriversColors,
+          colors: this.actualDriversColors,
           borderRadius: 5,
         },
       },
@@ -1275,26 +1296,27 @@ export class VisualsISComponent implements OnInit {
     this.PEBITOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'EBIT' },
-      yAxis: { title: { text: 'USD',
-}, style: {
-                        fontSize: '14px',
-		      },
+      yAxis: {
+        title: { text: 'USD' },
+        style: {
+          fontSize: '14px',
+        },
 
-	labels: {
-                      style: {
-                        fontSize: '13px',
-                      }
-                    },
-	}, 
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
 
-      xAxis: { categories: this.yearsArray,
-	labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-	},
+      xAxis: {
+        categories: this.yearsArray,
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
       plotOptions: {
         series: { stickyTracking: false },
         column: {
@@ -1320,26 +1342,28 @@ export class VisualsISComponent implements OnInit {
     this.PEBITDAOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'EBITDA' },
-      yAxis: { title: { text: 'USD',
-	style: {
-                        fontSize: '14px',
-                      }  
-	 }, 
-	
-	labels: {
-                      style: {
-                        fontSize: '13px',
-                      }
-                    },
-	},
-      xAxis: { categories: this.yearsArray,
-	labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-	},
+      yAxis: {
+        title: {
+          text: 'USD',
+          style: {
+            fontSize: '14px',
+          },
+        },
+
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
+      xAxis: {
+        categories: this.yearsArray,
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
       plotOptions: {
         series: { stickyTracking: false },
         column: {
@@ -1365,25 +1389,27 @@ export class VisualsISComponent implements OnInit {
     this.PEBTOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'EBT' },
-      yAxis: { title: { text: 'USD',
-	 style: {
-                        fontSize: '14px',
-                      }  
-	 },
-	labels: {
-                      style: {
-                        fontSize: '13px',
-                      }
-                    },
-	},
-      xAxis: { categories: this.yearsArray,
-	labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-	},
+      yAxis: {
+        title: {
+          text: 'USD',
+          style: {
+            fontSize: '14px',
+          },
+        },
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
+      xAxis: {
+        categories: this.yearsArray,
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
       plotOptions: {
         series: { stickyTracking: false },
         column: {
@@ -1391,7 +1417,7 @@ export class VisualsISComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          colors:this.actualDriversColors,
+          colors: this.actualDriversColors,
           borderRadius: 5,
         },
       },
@@ -1409,27 +1435,27 @@ export class VisualsISComponent implements OnInit {
     this.PNIOptions = {
       chart: { type: 'column', animation: false },
       title: { text: 'Net Income' },
-      yAxis: { title: { text: 'USD',
-	style: {
-                        fontSize: '14px',
-                      }  
- },
-	labels: {
-                      style: {
-                        fontSize: '13px',
-                      }
-                    },
-
-
-	 },
-      xAxis: { categories: this.yearsArray,
-	labels:{
-					  style:{
-						  fontSize:'13px'
-					  }
-					  
-				  },
-	},
+      yAxis: {
+        title: {
+          text: 'USD',
+          style: {
+            fontSize: '14px',
+          },
+        },
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
+      xAxis: {
+        categories: this.yearsArray,
+        labels: {
+          style: {
+            fontSize: '13px',
+          },
+        },
+      },
       plotOptions: {
         series: { stickyTracking: false },
         column: {
@@ -1437,7 +1463,7 @@ export class VisualsISComponent implements OnInit {
           minPointLength: 2,
           colorByPoint: true,
           cursor: 'ns-resize',
-          colors:this.actualDriversColors,
+          colors: this.actualDriversColors,
           borderRadius: 5,
         },
       },

@@ -6,6 +6,7 @@ import { UserDetailModelService } from 'src/app/shared/user-detail-model.service
 import pdfMake from 'pdfmake/build/pdfmake';
 import pdfFonts from 'pdfmake/build/vfs_fonts';
 import { cloneDeep } from 'lodash';
+import { AuthService } from 'src/app/auth.service';
 pdfMake.vfs = pdfFonts.pdfMake.vfs;
 
 export interface PeriodicElement {
@@ -65,96 +66,118 @@ export class KpiCashflowComponent implements OnInit {
   );
   companySelected = localStorage.getItem('companySelected');
 
+  kpiLoaded = false;
+
+
   constructor( private urlConfig: UrlConfigService,
     private apiService: RMIAPIsService,
+    public authService: AuthService,
     // tslint:disable-next-line:no-shadowed-variable
     private UserDetailModelService: UserDetailModelService) { }
 
   
   ngOnInit() {
-    this.progressBar = true;
-    this.apiService
-      .getData(this.urlConfig.getKPICashActuals() + this.companySelected)
-      .subscribe((res: any) => {
-        this.ELEMENT_KPI_ACTUALS = [];
-        this.ELEMENT_KPI_PROJECTIONS = [];
-        this.dataSourceActuals = new MatTableDataSource<PeriodicElement>(
-          this.ELEMENT_KPI_ACTUALS
-        );
-        this.dataSourceProjections = new MatTableDataSource<PeriodicElement>(
-          this.ELEMENT_KPI_PROJECTIONS
-        );
-        this.dataValuesActuals = [
-          res[0].capexpercentrevenue,
-          res[0].assetsalespercentrevenue,
-          res[0].investingpercentrevenue,
-          res[0].dividendspaidpercentincome,
-          res[0].ffopercentrevenue,
-        ];
-        for (
-          let index = 0;
-          index <= this.dataColumnsActuals.length - 1;
-          index++
-        ) {
-          const pushData = {
-            position: index + 1,
-            name: this.dataColumnsActuals[index],
-            fromyear: res[0].fromyear,
-            toyear: res[0].toyear,
-            KPIValue: this.dataValuesActuals[index].toFixed(1),
-          };
-          this.ELEMENT_KPI_ACTUALS.push(pushData);
-          this.dataSourceActuals._updateChangeSubscription();
+    if(this.authService.authServiceLoaded){
+      this.progressBar = true;
+      this.apiService
+        .getData(this.urlConfig.getKPICashActuals() + this.companySelected)
+        .subscribe((res: any) => {
+          this.ELEMENT_KPI_ACTUALS = [];
+          this.ELEMENT_KPI_PROJECTIONS = [];
+          this.dataSourceActuals = new MatTableDataSource<PeriodicElement>(
+            this.ELEMENT_KPI_ACTUALS
+          );
+          this.dataSourceProjections = new MatTableDataSource<PeriodicElement>(
+            this.ELEMENT_KPI_PROJECTIONS
+          );
+          this.dataValuesActuals = [
+            res[0].capexpercentrevenue,
+            res[0].assetsalespercentrevenue,
+            res[0].investingpercentrevenue,
+            res[0].dividendspaidpercentincome,
+            res[0].ffopercentrevenue,
+          ];
+          for (
+            let index = 0;
+            index <= this.dataColumnsActuals.length - 1;
+            index++
+          ) {
+            const pushData = {
+              position: index + 1,
+              name: this.dataColumnsActuals[index],
+              fromyear: res[0].fromyear,
+              toyear: res[0].toyear,
+              KPIValue: this.dataValuesActuals[index].toFixed(1),
+            };
+            this.ELEMENT_KPI_ACTUALS.push(pushData);
+            this.dataSourceActuals._updateChangeSubscription();
+          }
+          this.progressBar = false;
+        }, error => {
+          this.kpiLoaded = true;
+        });
+      this.apiService
+        .getData(this.urlConfig.getScenarioAPI() + this.companySelected)
+        .subscribe((res: any) => {
+          this.progressBar = true;
+          this.scenarioArray = res.scenarios;
+          this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
+          let scenarioNumber = 0;
+          if (res.scenarios.includes(this.scenario)) {
+            scenarioNumber = this.scenario;
+          }
+          this.apiService
+            .getData(
+              this.urlConfig.getKPICashProjections() +
+                this.companySelected +
+                '&scenario=' +
+                scenarioNumber
+            )
+            // tslint:disable-next-line:no-shadowed-variable
+            .subscribe((res: any) => {
+              this.progressBar = true;
+              this.dataValuesProjections = [
+                res[0].capexpercentrevenue,
+                res[0].assetsalespercentrevenue,
+                res[0].investingpercentrevenue,
+                res[0].dividendspaidpercentincome,
+                res[0].ffopercentrevenue,
+          res[0].cfopercentrevenue,
+          res[0].cfopercentebitda
+              ];
+              for (
+                let index = 0;
+                index <= this.dataColumnsProjections.length - 1;
+                index++
+              ) {
+                const pushData = {
+                  position: index + 1,
+                  name: this.dataColumnsProjections[index],
+                  fromyear: res[0].fromyear,
+                  toyear: res[0].toyear,
+                  KPIValue: this.dataValuesProjections[index].toFixed(1),
+                };
+                this.ELEMENT_KPI_PROJECTIONS.push(pushData);
+                this.dataSourceProjections._updateChangeSubscription();
+                this.kpiLoaded = true;
+  
+              }
+              this.progressBar = false;
+            }, error => {
+              this.kpiLoaded = true;
+            });
+        }, error => {
+          this.kpiLoaded = true;
+        });
+    }
+    else{
+      const intervalID = setInterval(() => {
+        if (this.authService.authServiceLoaded) {
+          this.ngOnInit();
+          clearInterval(intervalID);
         }
-        this.progressBar = false;
-      });
-    this.apiService
-      .getData(this.urlConfig.getScenarioAPI() + this.companySelected)
-      .subscribe((res: any) => {
-        this.progressBar = true;
-        this.scenarioArray = res.scenarios;
-        this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
-        let scenarioNumber = 0;
-        if (res.scenarios.includes(this.scenario)) {
-          scenarioNumber = this.scenario;
-        }
-        this.apiService
-          .getData(
-            this.urlConfig.getKPICashProjections() +
-              this.companySelected +
-              '&scenario=' +
-              scenarioNumber
-          )
-          // tslint:disable-next-line:no-shadowed-variable
-          .subscribe((res: any) => {
-            this.progressBar = true;
-            this.dataValuesProjections = [
-              res[0].capexpercentrevenue,
-              res[0].assetsalespercentrevenue,
-              res[0].investingpercentrevenue,
-              res[0].dividendspaidpercentincome,
-              res[0].ffopercentrevenue,
-			  res[0].cfopercentrevenue,
-			  res[0].cfopercentebitda
-            ];
-            for (
-              let index = 0;
-              index <= this.dataColumnsProjections.length - 1;
-              index++
-            ) {
-              const pushData = {
-                position: index + 1,
-                name: this.dataColumnsProjections[index],
-                fromyear: res[0].fromyear,
-                toyear: res[0].toyear,
-                KPIValue: this.dataValuesProjections[index].toFixed(1),
-              };
-              this.ELEMENT_KPI_PROJECTIONS.push(pushData);
-              this.dataSourceProjections._updateChangeSubscription();
-            }
-            this.progressBar = false;
-          });
-      });
+      }, 100);
+    }
   }
   loadScenario(index: number) {
     this.scenario = index;

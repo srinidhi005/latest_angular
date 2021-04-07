@@ -1,0 +1,145 @@
+
+Page#1
+Table of Contents
+MODERNA, INC.
+CONSOLIDATED BALANCE SHEETS
+(In thousands, except share and per share data)
+ December 31,
+ 2018  2017
+Assets 
+Current assets: 
+Cash and cash equivalents $ 658,364  $ 134,859
+Investments 863,063  621,170
+Accounts receivable 11,686  11,881
+Accounts receivable from affiliate (Note 14) 899  1,536
+Prepaid expenses and other current assets 28,399  12,826
+Restricted cash 595  951
+Total current assets 1,563,006  783,223
+Investments, non-current 172,990  145,851
+Property and equipment, net 211,977  139,031
+Restricted cash, non-current 11,532  11,798
+Other non-current assets 2,644  4,586
+Total assets $ 1,962,149  $ 1,084,489
+Liabilities, Redeemable Convertible Preferred Stock and Stockholders’ Equity (Deficit) 
+Current liabilities: 
+Accounts payable $ 31,210  $ 20,725
+Accrued liabilities 79,073  72,715
+Deferred revenue 109,056  96,739
+Other current liabilities 3,464  1,282
+Total current liabilities 222,803  191,461
+Deferred revenue, non-current 165,352  242,929
+Deferred lease obligation, non-current 10,006  7,586
+Lease financing obligation 33,489  15,687
+Other non-current liabilities 258  1,530
+Total liabilities 431,908  459,193
+Commitments and contingencies (Note 7) 
+Redeemable convertible preferred stock, par value $0.0001; 0 and 448,686,791 shares authorized as of December 31,
+2018 and 2017, respectively; 0 and 448,686,791 shares issued and outstanding as of December 31, 2018 and 2017,
+respectively; aggregate liquidation preference of $0 and $1,209,940 as of December 31, 2018 and 2017,
+respectively —  1,176,661
+Stockholders’ equity (deficit): 
+Preferred stock, $0.0001 par value; 162,000,000 and 0 shares authorized at December 31, 2018
+  and 2017, respectively; 0 shares issued or outstanding at December 31, 2018 and 2017 —  —
+Common stock, par value $0.0001; 1,600,000,000 and 696,581,112 shares authorized as of December 31, 2018
+and 2017, respectively; 328,798,904 and 65,206,999 shares issued and outstanding as of December 31, 2018
+and 2017, respectively 33  6
+Additional paid-in capital 2,538,155  71,679
+Accumulated other comprehensive loss (1,320)  (1,157)
+Accumulated deficit (1,006,627)  (621,893)
+Total stockholders’ equity (deficit) 1,530,241  (551,365)
+Total liabilities, redeemable convertible preferred stock and stockholders’ equity $ 1,962,149  $ 1,084,489
+The accompanying notes are an integral part of these consolidated financial statements.
+220
+Page#2
+Table of Contents
+MODERNA, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except share and per share data)
+ Years Ended December 31,
+ 2018  2017  2016
+Revenue: 
+Collaboration revenue $ 76,519  $ 146,953  $ 69,109
+Collaboration revenue from affiliate (Note 14) 45,993  30,021  32,427
+Grant revenue 12,556  28,851  6,860
+Total revenue 135,068  205,825  108,396
+Operating expenses: 
+Research and development 454,082  410,459  274,717
+General and administrative 94,252  64,722  57,450
+Total operating expenses 548,334  475,181  332,167
+Loss from operations (413,266)  (269,356)  (223,771)
+Interest income 27,023  15,235  11,312
+Other income (expense), net 1,835  (1,875)  (2,709)
+Loss before provision for (benefit from) income taxes (384,408)  (255,996)  (215,168)
+Provision for (benefit from) income taxes 326  (80)  1,043
+Net loss (384,734)  (255,916)  (216,211)
+Reconciliation of net loss to net loss attributable to common stockholders: 
+Premium paid on repurchase of preferred stock (4,127)  —  —
+Accretion of redeemable convertible preferred units to redemption value —  —  (8,663)
+Cumulative preferred stock dividends (12,996)  (13,925)  (5,440)
+Net loss attributable to common stockholders $ (401,857)  $ (269,841)  $ (230,314)
+Net loss per share attributable to common stockholders, basic and diluted
+$ (4.95)  $ (4.18)  $ (3.79)
+Weighted average common shares used in net loss per share attributable to common
+stockholders, basic and diluted 81,114,183  64,497,544  60,747,426
+The accompanying notes are an integral part of these consolidated financial statements.
+221
+Page#3
+Table of Contents
+MODERNA, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+ 
+Years Ended December 31,
+ 
+2018 2017 2016
+Operating activities 
+Net loss $ (384,734)  $ (255,916)  $ (216,211)
+Adjustments to reconcile net loss to net cash (used in) provided by operating activities: 
+Stock-based compensation 72,565  40,055  39,360
+Depreciation and amortization 24,862  20,537  15,114
+Amortization of investment premiums and discounts (1,866)  1,086  2,478
+Loss on disposal of property and equipment 891  —  —
+Changes in assets and liabilities: 
+Accounts receivable 195  1,476  (8,642)
+Accounts receivable from affiliate (Note 14) 637  (1,370)  60,979
+Prepaid expenses and other assets (5,289)  579  (7,887)
+Accounts payable 15,017  (12,766)  5,993
+Accrued liabilities 8,787  34,369  5,328
+Deferred revenue (65,260)  (162,321)  164,129
+Deferred lease obligation 2,420  2,932  3,828
+Other liabilities 910  (145)  1,977
+Deferred income taxes —  —  288
+Net cash (used in) provided by operating activities (330,865)  (331,484)  66,734
+Investing activities 
+Purchases of marketable securities (1,227,709)  (727,203)  (1,415,461)
+Proceeds from maturities of marketable securities 783,373  800,438  675,200
+Proceeds from sales of marketable securities 177,008  402,530  133,700
+Purchases of property and equipment (105,766)  (58,401)  (33,144)
+Decrease (increase) in restricted cash 622  (1,269)  (8,902)
+Net cash (used in) provided by investing activities (372,472)  416,095  (648,607)
+Financing activities 
+Proceeds from issuance of redeemable convertible preferred stock, net of issuance costs 661,111  —  473,532
+Proceeds from initial public offering of common stock, net of issuance costs 563,026  —  —
+Repurchases of redeemable convertible preferred stock (8,182)  —  —
+Distributions to preferred and common unit holders —  (1,483)  (633)
+Proceeds from issuance of common stock through equity plans 1,427  212  11
+Reimbursement of assets under financing lease obligation 11,635  2,724  —
+Payments on financing lease obligation (2,175)  (1,285)  —
+Net cash provided by financing activities 1,226,842  168  472,910
+Net increase (decrease) in cash and cash equivalents 523,505  84,779  (108,963)
+Cash and cash equivalents, beginning of year 134,859  50,080  159,043
+Cash and cash equivalents, end of year $ 658,364  $ 134,859  $ 50,080
+Supplemental cash flow information
+ 
+Income taxes paid $ 294  $ 398  $ 905
+Interest in connection with financing lease obligation $ 2,998  $ —  $ —
+Non-cash investing and financing activities
+ 
+Issuance costs included in accounts payable and accrued liabilities $ 2,638  $ 152  $ 89
+Purchases of property and equipment included in accounts payable and accrued liabilities $ 12,892  $ 19,959  $ 10,014
+Leasehold improvements included in prepaid and other current assets $ 10,089  $ 1,748  $ —
+Lease financing obligation (Note 7) $ 10,089  $ 1,748  $ 12,500
+Dividends and accretion of redeemable convertible preferred units $ —  $ —  $ 8,663
+Tax distributions to members included in accounts payable and accrued liabilities $ —  $ —  $ 1,464
+The accompanying notes are an integral part of these consolidated financial statements.
+225

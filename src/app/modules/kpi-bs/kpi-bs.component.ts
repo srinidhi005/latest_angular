@@ -6,6 +6,7 @@ import { UserDetailModelService } from 'src/app/shared/user-detail-model.service
 import pdfMake from 'pdfmake/build/pdfmake';
 import pdfFonts from 'pdfmake/build/vfs_fonts';
 import { cloneDeep } from 'lodash';
+import { AuthService } from 'src/app/auth.service';
 pdfMake.vfs = pdfFonts.pdfMake.vfs;
 
 export interface PeriodicElement {
@@ -59,14 +60,19 @@ export class KpiBsComponent implements OnInit {
     this.ELEMENT_KPI_PROJECTIONS
   );
   companySelected = localStorage.getItem('companySelected');
+
+  kpiLoaded = false;
+
   constructor(
     private urlConfig: UrlConfigService,
     private apiService: RMIAPIsService,
+    public authService: AuthService,
     private UserDetailModelService: UserDetailModelService
   ) {}
 
   ngOnInit() {
-    this.progressBar = true;
+    if(this.authService.authServiceLoaded){
+      this.progressBar = true;
     this.apiService
       .getData(this.urlConfig.getBsKPIActuals() + this.companySelected)
       .subscribe((res: any) => {
@@ -100,6 +106,8 @@ export class KpiBsComponent implements OnInit {
           this.dataSourceActuals._updateChangeSubscription();
         }
         this.progressBar = false;
+      }, error => {
+        this.kpiLoaded = true;
       });
     this.apiService
       .getData(this.urlConfig.getScenarioAPI() + this.companySelected)
@@ -138,11 +146,26 @@ export class KpiBsComponent implements OnInit {
               };
               this.ELEMENT_KPI_PROJECTIONS.push(pushData);
               this.dataSourceProjections._updateChangeSubscription();
+              this.kpiLoaded = true;
             }
             this.progressBar = false;
+          }, error => {
+            this.kpiLoaded = true;
           });
+      }, error => {
+        this.kpiLoaded = true;
       });
+    }
+    else{
+      const intervalID = setInterval(() => {
+        if (this.authService.authServiceLoaded) {
+          this.ngOnInit();
+          clearInterval(intervalID);
+        }
+      }, 100);
+    }
   }
+
   loadScenario(index: number) {
     this.scenario = index;
 

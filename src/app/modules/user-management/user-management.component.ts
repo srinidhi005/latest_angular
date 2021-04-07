@@ -1,4 +1,3 @@
-
 import { Component, Inject, OnInit } from '@angular/core';
 import { error } from 'protractor';
 import { AuthService } from '../../auth.service';
@@ -16,7 +15,7 @@ import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { generatePassword, Preferences } from '@password-generator/package';
 import { MatRadioModule } from '@angular/material/radio';
 import { ExcelService } from 'src/app/shared/excel.service';
-  
+
 @Component({
   selector: 'app-user-management',
   templateUrl: './user-management.component.html',
@@ -30,20 +29,20 @@ export class UserManagementComponent implements OnInit {
     public snackBar: MatSnackBar,
     public dialog: MatDialog,
     private modalService: NgbModal,
-    private router : Router,
-    public excelService : ExcelService
+    private router: Router,
+    public excelService: ExcelService
   ) {}
 
   usersList;
   roleName;
   MappedUsers;
-filteredListOfUsers=[];
+  filteredListOfUsers = [];
   pageSize = 10;
   currentPage = 1;
   totalLength = 0;
-currentUser;
-//loggedInUserId;
-picture;
+  currentUser;
+  //loggedInUserId;
+  picture;
   progressBar = false;
   showCreateUser: any = false;
   loggedInUserDetails = {} as any;
@@ -58,12 +57,12 @@ picture;
     verify_email: false,
   };
 
-  assignedRole = 'User'
+  assignedRole = 'User';
 
   emailToolTip = 'format the email';
   passwordToolTip = 'passwordStrength';
 
-  preferences : Preferences = {
+  preferences: Preferences = {
     length: 9,
     initialText: 'abc',
     useChars: {
@@ -75,69 +74,79 @@ picture;
     },
   };
 
+  userManagementLoaded = false;
+
   ngOnInit(): void {
     this.excelService.selectedDashboardMenu = 'profile';
-    
-    if (
-      this.authService.currentUserRoles?.indexOf('Admin') >= 0 ||
-      this.authService.currentUserRoles?.indexOf('SuperAdmin') >= 0
-    ) {
-    } else {
-      this.router.navigate(['/statement']);
-    }
-    this.progressBar = true;
-    this.loggedInUserDetails.nickname = localStorage.getItem('nickname');
-    this.loggedInUserDetails.email = localStorage.getItem('email');
-   // this.loggedInUserDetails.picture = localStorage.getItem('picture');
-    this.loggedInUserDetails.role = localStorage.getItem('role');
-    
 
-
-
-
-
-
-this.apiService
-      .getData(this.urlConfig.getUserAdminAPI() + this.loggedInUserId)
-      .subscribe(
-        (res) => {
-          console.log('fetched Users Succesfully', res, this.loggedInUserId);
-          this.MappedUsers = res;
-          //fetching all the users
-          this.authService.getActiveUsers().subscribe(
-            (response: any) => {
-              console.log('fetched Users Succesfuly without c', response);
-              this.progressBar = false;
-              if (response['body'] && response['body'].length > 0) {
-                if (this.authService.currentUserRoles[0] == 'SuperAdmin') {
-                  this.usersList = response['body'].filter((usermap) => {
-                    const userexist =
-                      this.loggedInUserDetails.nickname == usermap.nickname;
-                    return !userexist;
-                  });
-                  this.filteredListOfUsers = this.usersList;
-                } else {
-                  this.usersList = response['body'].filter((usermap) => {
-                    const userexist = this.MappedUsers.find(
-                      (u) => u.inviteduser === usermap.user_id
-                    );
-                    return userexist;
-                  });
-                  this.filteredListOfUsers = this.usersList;
+    if(this.authService.authServiceLoaded){
+      if (
+        this.authService.currentUserRoles?.indexOf('Admin') >= 0 ||
+        this.authService.currentUserRoles?.indexOf('SuperAdmin') >= 0
+      ) {
+      } else {
+        this.router.navigate(['/statement']);
+      }
+      this.progressBar = true;
+      this.loggedInUserDetails.nickname = localStorage.getItem('nickname');
+      this.loggedInUserDetails.email = localStorage.getItem('email');
+      // this.loggedInUserDetails.picture = localStorage.getItem('picture');
+      this.loggedInUserDetails.role = localStorage.getItem('role');
+  
+      this.apiService
+        .getData(this.urlConfig.getUserAdminAPI() + this.loggedInUserId)
+        .subscribe(
+          (res) => {
+            console.log('fetched Users Succesfully', res, this.loggedInUserId);
+            this.MappedUsers = res;
+            //fetching all the users
+            this.authService.getActiveUsers().subscribe(
+              (response: any) => {
+                console.log('fetched Users Succesfuly without c', response);
+                this.progressBar = false;
+                if (response['body'] && response['body'].length > 0) {
+                  if (this.authService.currentUserRoles[0] == 'SuperAdmin') {
+                    this.usersList = response['body'].filter((usermap) => {
+                      const userexist =
+                        this.loggedInUserDetails.nickname == usermap.nickname;
+                      return !userexist;
+                    });
+                    this.filteredListOfUsers = this.usersList;
+                  } else {
+                    this.usersList = response['body'].filter((usermap) => {
+                      const userexist = this.MappedUsers.find(
+                        (u) => u.inviteduser === usermap.user_id
+                      );
+                      return userexist;
+                    });
+                    this.filteredListOfUsers = this.usersList;
+                  }
                 }
+
+                this.userManagementLoaded = true
+              },
+              (error) => {
+                this.progressBar = false;
+                this.userManagementLoaded = true
+                console.log('failed to fetch the Users', error);
               }
-            },
-            (error) => {
-              this.progressBar = false;
-              console.log('failed to fetch the Users', error);
-            }
-          );
-        },
-        (error) => {
-          this.progressBar = false;
-          console.log('failed to fetch the Users', error);
+            );
+          },
+          (error) => {
+            this.progressBar = false;
+            this.userManagementLoaded = true
+            console.log('failed to fetch the Users', error);
+          }
+        );
+    }
+    else{
+      const intervalID = setInterval(()=> {
+        if(this.authService.authServiceLoaded){
+          this.ngOnInit();
+          clearInterval(intervalID);
         }
-      );
+      }, 100)
+    }
   }
 
   getShowAddUser(type) {
@@ -148,20 +157,31 @@ this.apiService
     }
   }
 
-  confirmDeleteUser(user){
-    const toBeDeletedUser = this.usersList.find(u => {
-      return u.user_id == user.user_id
-    })
+  confirmDeleteUser(user) {
+    const toBeDeletedUser = this.usersList.find((u) => {
+      return u.user_id == user.user_id;
+    });
 
-    const message = "Are you sure you want to delete the user?" + toBeDeletedUser.nickname + "(" + toBeDeletedUser.email + ")";
+    const message =
+      'Are you sure you want to delete the user?' +
+      toBeDeletedUser.nickname +
+      '(' +
+      toBeDeletedUser.email +
+      ')';
 
-    const dialogRef = this.excelService.showConfirmMessage(message, "Delete", "Cancel", '480px', '140px');
+    const dialogRef = this.excelService.showConfirmMessage(
+      message,
+      'Delete',
+      'Cancel',
+      '480px',
+      '140px'
+    );
 
-    dialogRef.afterClosed().subscribe(action => {
-      if(action == "Yes"){
+    dialogRef.afterClosed().subscribe((action) => {
+      if (action == 'Yes') {
         this.deleteUser(toBeDeletedUser);
       }
-    })
+    });
   }
 
   changePas() {
@@ -176,13 +196,16 @@ this.apiService
   }
 
   deleteUser(toBeDeletedUser) {
+    console.log(
+      'DELETED USER',
+      toBeDeletedUser.user_id,
+      toBeDeletedUser.nickname
+    );
 
-    console.log("DELETED USER", toBeDeletedUser.user_id, toBeDeletedUser.nickname);
-
-    if(toBeDeletedUser){
-      this.usersList = this.usersList.filter( u => {
+    if (toBeDeletedUser) {
+      this.usersList = this.usersList.filter((u) => {
         return u.user_id != toBeDeletedUser.user_id;
-      }); 
+      });
 
       this.filteredListOfUsers = this.usersList;
     }
@@ -279,12 +302,10 @@ this.apiService
       const password = generatePassword(this.preferences);
       console.log(password);
       this.user.password = password;
-
     } catch (error) {
       console.error(error.message);
       this.user.password = 'qwT59JHgn';
     }
-
 
     this.authService.createUsers(this.user).subscribe(
       (res) => {
@@ -321,7 +342,6 @@ this.apiService
                   },
                 };
 
-
                 this.authService
                   .updateUsers(reqBody, res.body['user_id'])
                   .subscribe(
@@ -344,23 +364,28 @@ this.apiService
                         },
                       };
 
-                      this.authService.sendVerificationEmail(reqBodyForEmail).subscribe(resp => {
-                        console.log("Email Sent Successfully", resp);
-                        this.user = {
-                          email: '',
-                          connection: 'Username-Password-Authentication',
-			  password: '',
-			verify_email: false,
-                        };
-                      }, error => {
-                        console.log("Error while Send the mail", error);
-                        this.user = {
-                          email: '',
-                          connection: 'Username-Password-Authentication',
-			  password: '',
-			verify_email: false,
-                        };
-                      })
+                      this.authService
+                        .sendVerificationEmail(reqBodyForEmail)
+                        .subscribe(
+                          (resp) => {
+                            console.log('Email Sent Successfully', resp);
+                            this.user = {
+                              email: '',
+                              connection: 'Username-Password-Authentication',
+                              password: '',
+                              verify_email: false,
+                            };
+                          },
+                          (error) => {
+                            console.log('Error while Send the mail', error);
+                            this.user = {
+                              email: '',
+                              connection: 'Username-Password-Authentication',
+                              password: '',
+                              verify_email: false,
+                            };
+                          }
+                        );
                     },
 
                     (error) => {
@@ -375,8 +400,8 @@ this.apiService
                 this.user = {
                   email: '',
                   connection: 'Username-Password-Authentication',
-		  password: '',
-		verify_email: false,
+                  password: '',
+                  verify_email: false,
                 };
               }
             );
@@ -389,8 +414,8 @@ this.apiService
         this.user = {
           email: '',
           connection: 'Username-Password-Authentication',
-	  password: '',
-	verify_email: false,
+          password: '',
+          verify_email: false,
         };
       }
     );
@@ -402,7 +427,7 @@ this.apiService
       verticalPosition: 'top',
     });
 
-    console.log("snackb", snackb);
+    console.log('snackb', snackb);
   }
   getRole(user) {
     let role = '';
@@ -435,6 +460,4 @@ this.apiService
       this.filteredListOfUsers = this.usersList;
     }
   }
-
-
 }

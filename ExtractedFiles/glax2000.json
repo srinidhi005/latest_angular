@@ -1,0 +1,181 @@
+[annotation_spec_id: "6349762113778483200"
+display_name: "COGS"
+text_extraction {
+  score: 0.9612807631492615
+  text_segment {
+    start_offset: 107
+    end_offset: 120
+    content: "Cost of sales"
+  }
+}
+, annotation_spec_id: "2026306471502807040"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9500731825828552
+  text_segment {
+    start_offset: 121
+    end_offset: 133
+    content: "Gross profit"
+  }
+}
+, annotation_spec_id: "4764495044944068608"
+display_name: "SGA"
+text_extraction {
+  score: 0.9256448745727539
+  text_segment {
+    start_offset: 134
+    end_offset: 169
+    content: "Selling, general and administration"
+  }
+}
+, annotation_spec_id: "7790913994537041920"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9275376200675964
+  text_segment {
+    start_offset: 243
+    end_offset: 259
+    content: "Operating profit"
+  }
+}
+, annotation_spec_id: "4908610233019924480"
+display_name: "EBT"
+text_extraction {
+  score: 0.3804478645324707
+  text_segment {
+    start_offset: 601
+    end_offset: 623
+    content: "Profit before taxation"
+  }
+}
+, annotation_spec_id: "2890997599957942272"
+display_name: "PPE"
+text_extraction {
+  score: 0.9628512263298035
+  text_segment {
+    start_offset: 2668
+    end_offset: 2697
+    content: "Property, plant and equipment"
+  }
+}
+, annotation_spec_id: "1738076095351095296"
+display_name: "Goodwill"
+text_extraction {
+  score: 0.9870683550834656
+  text_segment {
+    start_offset: 2718
+    end_offset: 2726
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "1449845719199383552"
+display_name: "IntangibleAssets"
+text_extraction {
+  score: 0.7938265204429626
+  text_segment {
+    start_offset: 2733
+    end_offset: 2750
+    content: "intangible assets"
+  }
+}
+, annotation_spec_id: "3035112788033798144"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.3534168303012848
+  text_segment {
+    start_offset: 2892
+    end_offset: 2916
+    content: "Total non-current assets"
+  }
+}
+, annotation_spec_id: "3467458352261365760"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9445667862892151
+  text_segment {
+    start_offset: 3084
+    end_offset: 3095
+    content: "Inventories"
+  }
+}
+, annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9770326614379883
+  text_segment {
+    start_offset: 3200
+    end_offset: 3225
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "3035112788033798144"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9858386516571045
+  text_segment {
+    start_offset: 3247
+    end_offset: 3267
+    content: "Total current assets"
+  }
+}
+, annotation_spec_id: "3035112788033798144"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.8782899975776672
+  text_segment {
+    start_offset: 3268
+    end_offset: 3280
+    content: "Total assets"
+  }
+}
+, annotation_spec_id: "8223259558764609536"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.9336438179016113
+  text_segment {
+    start_offset: 3373
+    end_offset: 3394
+    content: "Short-term borrowings"
+  }
+}
+, annotation_spec_id: "3755688728413077504"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9774484038352966
+  text_segment {
+    start_offset: 3532
+    end_offset: 3557
+    content: "Total current liabilities"
+  }
+}
+, annotation_spec_id: "296924214592536576"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.928548276424408
+  text_segment {
+    start_offset: 4139
+    end_offset: 4156
+    content: "Total liabilities"
+  }
+}
+, annotation_spec_id: "8943835499143888896"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9550409913063049
+  text_segment {
+    start_offset: 4297
+    end_offset: 4309
+    content: "Total equity"
+  }
+}
+, annotation_spec_id: "8367374746840465408"
+display_name: "DividendsPaid"
+text_extraction {
+  score: 0.7929204106330872
+  text_segment {
+    start_offset: 6202
+    end_offset: 6232
+    content: "Dividends paid to shareholders"
+  }
+}
+]

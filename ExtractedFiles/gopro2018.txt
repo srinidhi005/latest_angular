@@ -1,0 +1,119 @@
+
+Page#1
+GoPro, Inc.
+Consolidated Balance Sheets
+(in thousands, except par values) December 31, 2018  December 31, 2017
+Assets 
+Current assets: 
+Cash and cash equivalents $ 152,095  $ 202,504
+Marketable securities 45,417  44,886
+Accounts receivable, net 129,216  112,935
+Inventory 116,458  150,551
+Prepaid expenses and other current assets 30,887  62,811
+Total current assets 474,073  573,687
+Property and equipment, net 46,567  68,587
+Intangible assets, net 13,065  24,499
+Goodwill 146,459  146,459
+Other long-term assets 18,195  37,014
+Total assets $ 698,359  $ 850,246
+ 
+Liabilities and Stockholders’ Equity 
+Current liabilities: 
+Accounts payable $ 148,478  $ 138,257
+Accrued liabilities 135,892  213,030
+Deferred revenue 15,129  19,244
+Total current liabilities 299,499  370,531
+Long-term taxes payable 19,553  21,188
+Long-term debt 138,992  130,048
+Other long-term liabilities 28,203  29,774
+Total liabilities 486,247  551,541
+ 
+Commitments, contingencies and guarantees (Note 11) 
+ 
+Stockholders’ equity: 
+Preferred stock, $0.0001 par value, 5,000 shares authorized; none issued —  —
+Common stock and additional paid-in capital, $0.0001 par value, 500,000 Class A shares
+authorized, 105,170 and 101,034 shares issued and outstanding, respectively; 150,000 Class
+B shares authorized, 35,897 and 35,966 shares issued and outstanding, respectively 894,755  854,452
+Treasury stock, at cost, 10,710 and 10,710 shares, respectively (113,613)  (113,613)
+Accumulated deficit (569,030)  (442,134)
+Total stockholders’ equity 212,112  298,705
+Total liabilities and stockholders’ equity $ 698,359  $ 850,246
+The accompanying notes are an integral part of these consolidated financial statements.
+66
+Page#2
+GoPro, Inc.
+Consolidated Statements of Operations
+ Year ended December 31,
+(in thousands, except per share data) 2018  2017  2016
+Revenue $ 1,148,337  $ 1,179,741  $ 1,185,481
+Cost of revenue 786,903  795,211  723,561
+Gross profit 361,434  384,530  461,920
+Operating expenses: 
+Research and development 167,296  229,265  358,902
+Sales and marketing 222,096  236,581  368,620
+General and administrative 66,004  82,144  107,367
+Total operating expenses 455,396  547,990  834,889
+Operating loss (93,962)  (163,460)  (372,969)
+Other income (expense): 
+Interest expense (18,683)  (13,660)  (2,992)
+Other income, net 4,970  733  787
+Total other expense, net (13,713)  (12,927)  (2,205)
+Loss before income taxes (107,675)  (176,387)  (375,174)
+Income tax expense 1,359  6,486  43,829
+Net loss $ (109,034)  $ (182,873)  $ (419,003)
+ 
+Basic and diluted net loss per share $ (0.78)  $ (1.32)  $ (3.01)
+ 
+Weighted average number of shares outstanding, basic and diluted 139,495  138,056  139,425
+The accompanying notes are an integral part of these consolidated financial statements.
+67
+Page#3
+GoPro, Inc.
+Consolidated Statements of Cash Flows
+ Year ended December 31,
+(in thousands) 2018  2017  2016
+Operating activities: 
+Net loss $ (109,034)  $ (182,873)  $ (419,003)
+Adjustments to reconcile net loss to net cash used in operating activities: 
+Depreciation and amortization 35,063  41,478  41,640
+Stock-based compensation 40,887  51,255  69,527
+Excess tax benefit from stock-based compensation (1) —  —  (3,463)
+Deferred income taxes (389)  (2,527)  38,568
+Non-cash restructuring charges 6,282  7,315  17,601
+Non-cash interest expense 8,112  5,345  —
+Impairment of intangible assets —  —  7,088
+Gain on sale and license of intellectual property (5,000)  —  —
+Other 1,696  4,094  7,574
+Changes in operating assets and liabilities: 
+Accounts receivable, net (16,460)  52,278  (18,816)
+Inventory 34,093  16,641  21,040
+Prepaid expenses and other assets 35,390  9,303  (14,618)
+Accounts payable and other liabilities (70,400)  (44,411)  142,941
+Deferred revenue (2,674)  5,249  2,168
+Net cash used in operating activities (42,434)  (36,853)  (107,753)
+ 
+Investing activities: 
+Purchases of property and equipment, net (11,004)  (24,061)  (43,627)
+Purchases of marketable securities (57,731)  (52,318)  —
+Maturities of marketable securities 57,500  21,659  119,918
+Sale of marketable securities —  11,623  47,348
+Proceeds from the sale and license of intellectual property 5,000  —  —
+Acquisitions, net of cash acquired —  —  (104,353)
+Net cash provided by (used in) investing activities (6,235)  (43,097)  19,286
+ 
+Financing activities: 
+Proceeds from issuance of common stock 5,169  9,751  9,664
+Taxes paid related to net share settlement of equity awards (6,650)  (12,118)  (6,889)
+Proceeds from issuance of convertible senior notes —  175,000  —
+Prepayment of forward stock repurchase transaction —  (78,000)  —
+Excess tax benefit from stock-based compensation (1) —  —  3,463
+Payment of deferred acquisition-related consideration —  (75)  (950)
+Payment of debt issuance costs —  (5,964)  (3,333)
+Net cash provided by (used in) financing activities (1,481)  88,594  1,955
+Effect of exchange rate changes on cash and cash equivalents (259)  1,746  (1,046)
+Net increase (decrease) in cash and cash equivalents (50,409)  10,390  (87,558)
+Cash and cash equivalents at beginning of period 202,504  192,114  279,672
+Cash and cash equivalents at end of period $ 152,095  $ 202,504  $ 192,114
+ 
+69

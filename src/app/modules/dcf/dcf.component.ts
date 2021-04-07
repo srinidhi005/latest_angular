@@ -20,10 +20,11 @@ import {
   MatSnackBarHorizontalPosition,
   MatSnackBarVerticalPosition,
 } from '@angular/material/snack-bar';
+import { AuthService } from 'src/app/auth.service';
 
 export interface PLElement {
   inMillions: number;
-  'EBITDA': string;
+  EBITDA: string;
   '(–) Depreciation & Amortization': string;
   EBIT: string;
   '(+/–) Net Interest Expense': string;
@@ -36,9 +37,9 @@ export interface PLElement {
   '(–) Capex': string;
   '(+/–) Change in Net Working Capital': string;
   'Unlevered Free Cash Flow': string;
-  'Period': string;
-  'DiscountFactor': string;
-  'wacc':string;
+  Period: string;
+  DiscountFactor: string;
+  wacc: string;
 }
 
 let ELEMENT_PL_PDF: PLElement[] = [];
@@ -49,7 +50,7 @@ let ELEMENT_PL_PDF: PLElement[] = [];
   styleUrls: ['./dcf.component.scss'],
 })
 export class DcfComponent implements OnInit {
-	horizontalPosition: MatSnackBarHorizontalPosition = 'center';
+  horizontalPosition: MatSnackBarHorizontalPosition = 'center';
   verticalPosition: MatSnackBarVerticalPosition = 'top';
   @ViewChild('imagecanvas', { static: true }) imagecanvas: ElementRef;
   scenarioArray = [];
@@ -77,7 +78,7 @@ export class DcfComponent implements OnInit {
     'Unlevered Free Cash Flow',
     'Peroid',
     'DiscountFactor',
-	'wacc'
+    'wacc',
   ];
   displayedColumns: string[] = [];
   displayData: any[];
@@ -87,12 +88,17 @@ export class DcfComponent implements OnInit {
   selectedCompanyName = localStorage.getItem('selectedCompanyName');
   scenarioName = 'Scenario [0]';
   saveScenarioNumber: any = 0;
-  scenarioSelected: any =0;
+  scenarioSelected: any = 0;
   loadedScenario = 'Scenario 0';
-  waacEditedValue:any;
+  waacEditedValue: any;
   dcf;
-  @ViewChild('firstBlock', { static: false }) firstBlock: ElementRef; valuationSummary
-  @ViewChild('unleveredFreeCashFlow', { static: false }) unleveredFreeCashFlow: ElementRef;
+
+  valuationsLoaded = false;
+
+  @ViewChild('firstBlock', { static: false }) firstBlock: ElementRef;
+  valuationSummary;
+  @ViewChild('unleveredFreeCashFlow', { static: false })
+  unleveredFreeCashFlow: ElementRef;
   @ViewChild('valuations', { static: false }) valuations: ElementRef;
   @ViewChild('valuationSummary', { static: false }) valSummary: ElementRef;
 
@@ -101,24 +107,35 @@ export class DcfComponent implements OnInit {
     private apiService: RMIAPIsService,
     private UserDetailModelService: UserDetailModelService,
     private excelService: ExcelService,
-    public modalService : NgbModal,
-	private _snackBar: MatSnackBar,
-  ) { }
-
+    public modalService: NgbModal,
+    public authService : AuthService,
+    private _snackBar: MatSnackBar
+  ) {}
 
   ngOnInit() {
-    this.excelService.selectedDashboardMenu = 'dcf'
-    if (this.UserDetailModelService.selectedScenarioIndex >= 0) {
-      this.scenario = this.UserDetailModelService.selectedScenarioIndex;
+    this.excelService.selectedDashboardMenu = 'dcf';
+    if(this.authService.authServiceLoaded){
+      if (this.UserDetailModelService.selectedScenarioIndex >= 0) {
+        this.scenario = this.UserDetailModelService.selectedScenarioIndex;
+      }
+  
+      this.initScenario(this.scenario);
+  
+      this.UserDetailModelService.updateBalanceSheetScenario.subscribe(() => {
+        this.initScenario(this.UserDetailModelService.selectedScenarioIndex);
+      });
     }
-
-    this.initScenario(this.scenario);
-
-    this.UserDetailModelService.updateBalanceSheetScenario.subscribe(() => {
-      this.initScenario(this.UserDetailModelService.selectedScenarioIndex);
-    });
+    else{
+      const intervalID = setInterval(()=> {
+        if(this.authService.authServiceLoaded){
+          this.ngOnInit();
+          clearInterval(intervalID);
+        }
+      }, 100)
+    }
   }
- initScenario(scenarioNumber?) {
+
+  initScenario(scenarioNumber?) {
     const ELEMENT_PL = [] as any;
     this.progressBar = true;
 
@@ -127,22 +144,26 @@ export class DcfComponent implements OnInit {
       this.loadedScenario = 'Scenario ' + this.scenarioSelected;
     }
 
-    this.apiService.getData(this.urlConfig.getdcfCompaniesAPI() + this.companySelected).subscribe(res => {
-      console.log("DCF ASSUMPTINS", res);
-	  
-	  
-      this.dcf = res;
-    }, error => {
-      console.log(error);
-    });
-	
+    this.apiService
+      .getData(this.urlConfig.getdcfCompaniesAPI() + this.companySelected)
+      .subscribe(
+        (res) => {
+          console.log('DCF ASSUMPTINS', res);
+
+          this.dcf = res;
+        },
+        (error) => {
+          console.log(error);
+          this.valuationsLoaded = true;
+        }
+      );
 
     this.apiService
       .getData(
         this.urlConfig.getDCFAPI() +
-        this.companySelected +
-        '&scenario=' +
-        this.scenarioSelected
+          this.companySelected +
+          '&scenario=' +
+          this.scenarioSelected
       )
       .subscribe((res: any) => {
         for (let j = 0; j < res.length; j++) {
@@ -161,45 +182,33 @@ export class DcfComponent implements OnInit {
             ChangeinNetWorkingCapital: res[j].networkingcapitalchange,
             UnleveredFreeCashFlow: res[j].unleveredfreecash,
             Period: res[j].period,
-           
+
             PresentFcf: res[j].presentfcf,
             PresentTerminalValue: res[j].presentterminalvalue,
-            Total: res[j].presentfcf+res[j].presentterminalvalue,
-			current:res[j].currentnetdebt,
-					equity:res[j].equityvalue,
-			
-			Totla:res[j].totalenterprisevalue,
-			
-				afterTaxCostOfDebt:res[j].after_tax_debt_cost,
-					costOfDebt:res[j].cost_of_debt,
-					costOfEquity:res[j].cost_of_equity,
-					debtEquity:res[j].debt_equity,
-					debtToTotalCapitalization:res[j].debt_to_total_cap, 
-					equityRiskPremium:res[j].equity_risk_premium,
-					equityToTotalCapitalization:res[j].equity_to_total_cap,
-					leveredBeta:res[j].levered_beta,
-					riskFreeRate:res[j].risk_free_rate,
-					taxRate:res[j].tax_rate,
-					wacc:res[j].wacc,
-					DiscountFactor: (1/(1+((res[j].wacc)/100))**res[j].period)*100,
-					fpyebitdaexitmultiple:res[j].fpyebitdaexitmultiple,
-					spyebitdaexitmultiple:res[j].spyebitdaexitmultiple,
-					
+            Total: res[j].presentfcf + res[j].presentterminalvalue,
+            current: res[j].currentnetdebt,
+            equity: res[j].equityvalue,
+
+            Totla: res[j].totalenterprisevalue,
+
+            afterTaxCostOfDebt: res[j].after_tax_debt_cost,
+            costOfDebt: res[j].cost_of_debt,
+            costOfEquity: res[j].cost_of_equity,
+            debtEquity: res[j].debt_equity,
+            debtToTotalCapitalization: res[j].debt_to_total_cap,
+            equityRiskPremium: res[j].equity_risk_premium,
+            equityToTotalCapitalization: res[j].equity_to_total_cap,
+            leveredBeta: res[j].levered_beta,
+            riskFreeRate: res[j].risk_free_rate,
+            taxRate: res[j].tax_rate,
+            wacc: res[j].wacc,
+            DiscountFactor:
+              (1 / (1 + res[j].wacc / 100) ** res[j].period) * 100,
+            fpyebitdaexitmultiple: res[j].fpyebitdaexitmultiple,
+            spyebitdaexitmultiple: res[j].spyebitdaexitmultiple,
           });
         }
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
         this.apiService
           .getData(this.urlConfig.getdcfscenarioAPI() + this.companySelected)
           .subscribe((res: any) => {
@@ -218,14 +227,13 @@ export class DcfComponent implements OnInit {
             this.apiService
               .getData(
                 this.urlConfig.getDCFAPI() +
-                this.companySelected +
-                '&scenario=' +
-                this.scenarioSelected
+                  this.companySelected +
+                  '&scenario=' +
+                  this.scenarioSelected
               )
               .subscribe((res: any) => {
-				  console.log("wacc",res);
+                console.log('wacc', res);
                 for (let j = 0; j < res.length; j++) {
-					
                   this.financialObj.set(res[j].asof, {
                     EBITDA: res[j].ebitda,
                     DepreciationAmortization: res[j].da,
@@ -242,31 +250,34 @@ export class DcfComponent implements OnInit {
                     UnleveredFreeCashFlow: res[j].unleveredfreecash,
                     Period: res[j].period,
                     //Total: res[j].valuationtotal,
-					Totla:res[j].totalenterprisevalue,
-					afterTaxCostOfDebt:res[j].after_tax_debt_cost,
-					costOfDebt:res[j].cost_of_debt,
-					costOfEquity:res[j].cost_of_equity,
-					debtEquity:res[j].debt_equity,
-					debtToTotalCapitalization:res[j].debt_to_total_cap, 
-					equityRiskPremium:res[j].equity_risk_premium,
-					equityToTotalCapitalization:res[j].equity_to_total_cap,
-					leveredBeta:res[j].levered_beta,
-					riskFreeRate:res[j].risk_free_rate,
-					taxRate:res[j].tax_rate,
-					wacc:res[j].wacc,
-					DiscountFactor: (1/(1+((res[j].wacc)/100))**res[j].period)*100,
-					current:res[j].currentnetdebt,
-					PresentFcf: (res[j].unleveredfreecash)*((1/(1+((res[j].wacc)/100))**res[j].period)),
-					PresentTerminalValue: res[j].presentterminalvalue,
-					Total: (res[j].unleveredfreecash)*((1/(1+((res[j].wacc)/100))**res[j].period))+res[j].presentterminalvalue,
-					equity:res[j].equityvalue,
-					fpyebitdaexitmultiple:res[j].fpyebitdaexitmultiple,
-					spyebitdaexitmultiple:res[j].spyebitdaexitmultiple,
-					scenarioNumber: res[j].scenario,
-					
-					
+                    Totla: res[j].totalenterprisevalue,
+                    afterTaxCostOfDebt: res[j].after_tax_debt_cost,
+                    costOfDebt: res[j].cost_of_debt,
+                    costOfEquity: res[j].cost_of_equity,
+                    debtEquity: res[j].debt_equity,
+                    debtToTotalCapitalization: res[j].debt_to_total_cap,
+                    equityRiskPremium: res[j].equity_risk_premium,
+                    equityToTotalCapitalization: res[j].equity_to_total_cap,
+                    leveredBeta: res[j].levered_beta,
+                    riskFreeRate: res[j].risk_free_rate,
+                    taxRate: res[j].tax_rate,
+                    wacc: res[j].wacc,
+                    DiscountFactor:
+                      (1 / (1 + res[j].wacc / 100) ** res[j].period) * 100,
+                    current: res[j].currentnetdebt,
+                    PresentFcf:
+                      res[j].unleveredfreecash *
+                      (1 / (1 + res[j].wacc / 100) ** res[j].period),
+                    PresentTerminalValue: res[j].presentterminalvalue,
+                    Total:
+                      res[j].unleveredfreecash *
+                        (1 / (1 + res[j].wacc / 100) ** res[j].period) +
+                      res[j].presentterminalvalue,
+                    equity: res[j].equityvalue,
+                    fpyebitdaexitmultiple: res[j].fpyebitdaexitmultiple,
+                    spyebitdaexitmultiple: res[j].spyebitdaexitmultiple,
+                    scenarioNumber: res[j].scenario,
                   });
-				  
                 }
 
                 this.financialObj.forEach((v, k) => {
@@ -363,13 +374,19 @@ export class DcfComponent implements OnInit {
                   obj[key] = value;
                 });
                 this.years = Object.keys(obj);
-				console.log("years",this.years);
+                console.log('years', this.years);
                 this.financials = Object.values(obj);
-				console.log("financials",this.financials);
+                console.log('financials', this.financials);
+                this.valuationsLoaded = true;
               }); //end of projections
-			  
+          }, error => {
+            this.valuationsLoaded = true;
           }); //end of Save Scenarios
+      }, error => {
+        this.valuationsLoaded = true;
       }); //end of actuals
+
+      // this.valuationsLoaded = true;
     function formatInputRow(row) {
       const output = {};
       output[0] = row;
@@ -379,9 +396,6 @@ export class DcfComponent implements OnInit {
       return output;
     }
   }
-
-
-
 
   saveScenario() {
     this.apiService
@@ -395,48 +409,61 @@ export class DcfComponent implements OnInit {
         }
 
         this.loadedScenario = ('Scenario ' + this.scenarioSelected) as any;
-        console.log("finals",this.financialObj);
-		const inputArray = [];
+        console.log('finals', this.financialObj);
+        const inputArray = [];
         for (const [key, value] of this.financialObj) {
           const inputObj: any = {};
-          
-			inputObj.companyname = this.companySelected;
-			inputObj.asof = key.toString();
-            inputObj.wacc = this.financialObj.get(key).wacc;
-			inputObj.period = this.financialObj.get(key).Period;
-			//inputObj.scenario = this.saveScenarioNumber;
-			inputObj.ebitda=this.financialObj.get(key).EBITDA;
-			inputObj.scenario = this.scenario;
-			 inputObj.da= this.financialObj.get(key).DepreciationAmortization,
-            inputObj.ebit=this.financialObj.get(key).EBIT,
-            inputObj.netinterest= this.financialObj.get(key).NetInterestExpense,
-            inputObj.ebt= this.financialObj.get(key).EBT,
-            inputObj.nols= this.financialObj.get(key).NOLsUtilized,
-            inputObj.ebtpostnol= this.financialObj.get(key).EBTPostNOLUtilization,
-            inputObj.cashtaxes= this.financialObj.get(key).CashTaxes,
-            inputObj.ebiat= this.financialObj.get(key).EarningsBeforeInterestAfterTaxes,
-            inputObj.da= this.financialObj.get(key).DA,
-            inputObj.capex=this.financialObj.get(key).Capex,
-            inputObj.networkingcapitalchange= this.financialObj.get(key).ChangeinNetWorkingCapital,
-            inputObj.unleveredfreecash= this.financialObj.get(key).UnleveredFreeCashFlow,
-            
-           
-            inputObj.presentfcf= this.financialObj.get(key).PresentFcf,
-            inputObj.presentterminalvalue= this.financialObj.get(key).PresentTerminalValue,
-            inputObj.valuationtotal= this.financialObj.get(key).Total,
-			inputObj.currentnetdebt=this.financialObj.get(key).current,
-			inputObj.equityvalue=this.financialObj.get(key).equity,
-			
-			inputObj.totalenterprisevalue=this.financialObj.get(key).Totla,
-			inputObj.DiscountFactor= (1/(1+((inputObj.wacc)/100))**inputObj.Period)*100;
-			//inputObj.DiscountFactor = this.financialObj.get(key).DiscountFactor;
-			inputObj.fpyebitdaexitmultiple=this.financialObj.get(key).fpyebitdaexitmultiple,
-					inputObj.spyebitdaexitmultiple=this.financialObj.get(key).spyebitdaexitmultiple,
+
+          inputObj.companyname = this.companySelected;
+          inputObj.asof = key.toString();
+          inputObj.wacc = this.financialObj.get(key).wacc;
+          inputObj.period = this.financialObj.get(key).Period;
+          //inputObj.scenario = this.saveScenarioNumber;
+          inputObj.ebitda = this.financialObj.get(key).EBITDA;
+          inputObj.scenario = this.scenario;
+          (inputObj.da = this.financialObj.get(key).DepreciationAmortization),
+            (inputObj.ebit = this.financialObj.get(key).EBIT),
+            (inputObj.netinterest = this.financialObj.get(
+              key
+            ).NetInterestExpense),
+            (inputObj.ebt = this.financialObj.get(key).EBT),
+            (inputObj.nols = this.financialObj.get(key).NOLsUtilized),
+            (inputObj.ebtpostnol = this.financialObj.get(
+              key
+            ).EBTPostNOLUtilization),
+            (inputObj.cashtaxes = this.financialObj.get(key).CashTaxes),
+            (inputObj.ebiat = this.financialObj.get(
+              key
+            ).EarningsBeforeInterestAfterTaxes),
+            (inputObj.da = this.financialObj.get(key).DA),
+            (inputObj.capex = this.financialObj.get(key).Capex),
+            (inputObj.networkingcapitalchange = this.financialObj.get(
+              key
+            ).ChangeinNetWorkingCapital),
+            (inputObj.unleveredfreecash = this.financialObj.get(
+              key
+            ).UnleveredFreeCashFlow),
+            (inputObj.presentfcf = this.financialObj.get(key).PresentFcf),
+            (inputObj.presentterminalvalue = this.financialObj.get(
+              key
+            ).PresentTerminalValue),
+            (inputObj.valuationtotal = this.financialObj.get(key).Total),
+            (inputObj.currentnetdebt = this.financialObj.get(key).current),
+            (inputObj.equityvalue = this.financialObj.get(key).equity),
+            (inputObj.totalenterprisevalue = this.financialObj.get(key).Totla),
+            (inputObj.DiscountFactor =
+              (1 / (1 + inputObj.wacc / 100) ** inputObj.Period) * 100);
+          //inputObj.DiscountFactor = this.financialObj.get(key).DiscountFactor;
+          (inputObj.fpyebitdaexitmultiple = this.financialObj.get(
+            key
+          ).fpyebitdaexitmultiple),
+            (inputObj.spyebitdaexitmultiple = this.financialObj.get(
+              key
+            ).spyebitdaexitmultiple),
             inputArray.push(inputObj);
-            console.log('Json stringify', inputArray);
-        
+          console.log('Json stringify', inputArray);
         }
-		
+
         this.apiService
           .postData(
             this.urlConfig.getdcfPOST() + this.companySelected,
@@ -486,21 +513,21 @@ export class DcfComponent implements OnInit {
     }
   }
 
-openPopUpModal(content) {
+  openPopUpModal(content) {
     this.modalService.open(content, { centered: true });
   }
 
-  getWaccValue(value){
-    value = (value );
+  getWaccValue(value) {
+    value = value;
     return value;
   }
 
-  assignValueToDCFAssumptions(event){
-	  console.log("event",event);
+  assignValueToDCFAssumptions(event) {
+    console.log('event', event);
     const editedValue = event;
-for (const [key, value] of this.financialObj) {
-   this.financialObj.get(key).wacc = editedValue;
-}
+    for (const [key, value] of this.financialObj) {
+      this.financialObj.get(key).wacc = editedValue;
+    }
   }
 
   loadScenario(index: number) {
@@ -508,48 +535,47 @@ for (const [key, value] of this.financialObj) {
     this.scenario = index;
     this.ngOnInit();
   }
-  
- exportToPdf1(){
 
+  exportToPdf1() {
     const content = [];
-    html2canvas(this.firstBlock.nativeElement).then(canvas1 => {
+    html2canvas(this.firstBlock.nativeElement).then((canvas1) => {
       const canvasData1 = canvas1.toDataURL();
       content.push({
         image: canvasData1,
         width: 500,
-        })
+      });
 
-        html2canvas(this.unleveredFreeCashFlow.nativeElement).then(canvas2 => {
+      html2canvas(this.unleveredFreeCashFlow.nativeElement).then((canvas2) => {
+        content.push({
+          image: canvas2.toDataURL(),
+          width: 500,
+        });
+
+        html2canvas(this.valuations.nativeElement).then((canvas3) => {
           content.push({
-            image: canvas2.toDataURL(),
+            image: canvas3.toDataURL(),
             width: 500,
-            })
+          });
 
-            html2canvas(this.valuations.nativeElement).then(canvas3 => {
-              content.push({
-                image: canvas3.toDataURL(),
-                width: 500,
-                })
+          html2canvas(this.valSummary.nativeElement).then((canvas4) => {
+            content.push({
+              image: canvas4.toDataURL(),
+              width: 200,
+            });
+            let docDefinition = {
+              content: content,
+            };
 
-                html2canvas(this.valSummary.nativeElement).then(canvas4 => {
-                  content.push({
-                    image: canvas4.toDataURL(),
-                    width: 200,
-                    })
-                    let docDefinition = {
-                      content: content
-                    };
-              
-                  pdfMake.createPdf(docDefinition).download('RMI_Insights_Export_'+this.companySelected+'_'+ '.pdf');
-
-                })
-            })
-        })
+            pdfMake
+              .createPdf(docDefinition)
+              .download(
+                'RMI_Insights_Export_' + this.companySelected + '_' + '.pdf'
+              );
+          });
+        });
+      });
     });
-
   }
- 
-  
 }
 @Component({
   selector: 'snackBar',
@@ -634,4 +660,3 @@ export class uploadSnackBarDCFAddComponent {
 export class uploadFailureSnackBarDCFAddComponent {
   scenarioBanner = localStorage.getItem('scenarioSelected');
 }
-

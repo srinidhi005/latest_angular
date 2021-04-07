@@ -1,0 +1,341 @@
+[annotation_spec_id: "5917416549550915584"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9621431231498718
+  text_segment {
+    start_offset: 19
+    end_offset: 24
+    content: "sales"
+  }
+}
+, annotation_spec_id: "2602767223806230528"
+display_name: "Currency"
+text_extraction {
+  score: 0.797509491443634
+  text_segment {
+    start_offset: 25
+    end_offset: 26
+    content: "$"
+  }
+}
+, annotation_spec_id: "5917416549550915584"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.8753890991210938
+  text_segment {
+    start_offset: 135
+    end_offset: 148
+    content: "Total revenue"
+  }
+}
+, annotation_spec_id: "6349762113778483200"
+display_name: "COGS"
+text_extraction {
+  score: 0.9847512245178223
+  text_segment {
+    start_offset: 173
+    end_offset: 191
+    content: "Cost of goods sold"
+  }
+}
+, annotation_spec_id: "2026306471502807040"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9829242825508118
+  text_segment {
+    start_offset: 261
+    end_offset: 273
+    content: "Gross profit"
+  }
+}
+, annotation_spec_id: "4764495044944068608"
+display_name: "SGA"
+text_extraction {
+  score: 0.9875064492225647
+  text_segment {
+    start_offset: 298
+    end_offset: 342
+    content: "Selling, general and administrative expenses"
+  }
+}
+, annotation_spec_id: "4908610233019924480"
+display_name: "EBT"
+text_extraction {
+  score: 0.8165178298950195
+  text_segment {
+    start_offset: 519
+    end_offset: 551
+    content: "Income before interest and taxes"
+  }
+}
+, annotation_spec_id: "5340955797247492096"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9785161018371582
+  text_segment {
+    start_offset: 570
+    end_offset: 586
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "4908610233019924480"
+display_name: "EBT"
+text_extraction {
+  score: 0.9697287082672119
+  text_segment {
+    start_offset: 633
+    end_offset: 652
+    content: "Income before taxes"
+  }
+}
+, annotation_spec_id: "7070338054157762560"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9790968298912048
+  text_segment {
+    start_offset: 671
+    end_offset: 699
+    content: "Income tax (benefit) expense"
+  }
+}
+, annotation_spec_id: "7214453242233618432"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9736692905426025
+  text_segment {
+    start_offset: 718
+    end_offset: 728
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "1305730531123527680"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.7615588903427124
+  text_segment {
+    start_offset: 1053
+    end_offset: 1072
+    content: "CONSOLIDATED INCOME"
+  }
+}
+, annotation_spec_id: "5196840609171636224"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9919214248657227
+  text_segment {
+    start_offset: 1224
+    end_offset: 1249
+    content: "Cash and cash equivalents"
+  }
+}
+, annotation_spec_id: "3611573540337221632"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9206578731536865
+  text_segment {
+    start_offset: 1266
+    end_offset: 1283
+    content: "Trade receivables"
+  }
+}
+, annotation_spec_id: "3467458352261365760"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9697636365890503
+  text_segment {
+    start_offset: 1384
+    end_offset: 1395
+    content: "Inventories"
+  }
+}
+, annotation_spec_id: "3035112788033798144"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9434323906898499
+  text_segment {
+    start_offset: 1462
+    end_offset: 1482
+    content: "Total Current Assets"
+  }
+}
+, annotation_spec_id: "2890997599957942272"
+display_name: "PPE"
+text_extraction {
+  score: 0.9840050339698792
+  text_segment {
+    start_offset: 1499
+    end_offset: 1533
+    content: "Property, Plant and Equipment, net"
+  }
+}
+, annotation_spec_id: "1738076095351095296"
+display_name: "Goodwill"
+text_extraction {
+  score: 0.9890356063842773
+  text_segment {
+    start_offset: 1546
+    end_offset: 1554
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "1449845719199383552"
+display_name: "IntangibleAssets"
+text_extraction {
+  score: 0.5226475596427917
+  text_segment {
+    start_offset: 1604
+    end_offset: 1620
+    content: "Intangibles, net"
+  }
+}
+, annotation_spec_id: "4043919104564789248"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.9731038808822632
+  text_segment {
+    start_offset: 1703
+    end_offset: 1715
+    content: "Total Assets"
+  }
+}
+, annotation_spec_id: "3179227976109654016"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.985374391078949
+  text_segment {
+    start_offset: 1833
+    end_offset: 1849
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "585154590744248320"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9167685508728027
+  text_segment {
+    start_offset: 1866
+    end_offset: 1882
+    content: "Accrued expenses"
+  }
+}
+, annotation_spec_id: "8223259558764609536"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.9759404063224792
+  text_segment {
+    start_offset: 1922
+    end_offset: 1943
+    content: "Short-term borrowings"
+  }
+}
+, annotation_spec_id: "8223259558764609536"
+display_name: "CurrentPortionLongTermDebt"
+text_extraction {
+  score: 0.9821617603302002
+  text_segment {
+    start_offset: 1954
+    end_offset: 1987
+    content: "Current portion of long-term debt"
+  }
+}
+, annotation_spec_id: "3755688728413077504"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9540365934371948
+  text_segment {
+    start_offset: 1992
+    end_offset: 2017
+    content: "Total Current Liabilities"
+  }
+}
+, annotation_spec_id: "7502683618385330176"
+display_name: "LongTermDebt"
+text_extraction {
+  score: 0.8820436596870422
+  text_segment {
+    start_offset: 2034
+    end_offset: 2048
+    content: "Long-Term Debt"
+  }
+}
+, annotation_spec_id: "8943835499143888896"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.979426383972168
+  text_segment {
+    start_offset: 2650
+    end_offset: 2676
+    content: "Total Stockholders\342\200\231 Equity"
+  }
+}
+, annotation_spec_id: "6637992489930194944"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.9501823782920837
+  text_segment {
+    start_offset: 2693
+    end_offset: 2772
+    content: "Total Liabilities, Redeemable Non-Controlling Interest and Stockholders\342\200\231 Equity"
+  }
+}
+, annotation_spec_id: "4332149480716500992"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9766297936439514
+  text_segment {
+    start_offset: 2795
+    end_offset: 2822
+    content: "CONSOLIDATED BALANCE SHEETS"
+  }
+}
+, annotation_spec_id: "873384966895960064"
+display_name: "DandA"
+text_extraction {
+  score: 0.9368776679039001
+  text_segment {
+    start_offset: 3312
+    end_offset: 3341
+    content: "Depreciation and amortization"
+  }
+}
+, annotation_spec_id: "8655605122992177152"
+display_name: "AssetSales"
+text_extraction {
+  score: 0.9398113489151001
+  text_segment {
+    start_offset: 4432
+    end_offset: 4462
+    content: "Proceeds from sale of building"
+  }
+}
+, annotation_spec_id: "5485070985323347968"
+display_name: "CashFlowfromInvesting"
+text_extraction {
+  score: 0.9140537977218628
+  text_segment {
+    start_offset: 4684
+    end_offset: 4721
+    content: "Net cash used by investing activities"
+  }
+}
+, annotation_spec_id: "8367374746840465408"
+display_name: "DividendsPaid"
+text_extraction {
+  score: 0.7458719611167908
+  text_segment {
+    start_offset: 5309
+    end_offset: 5323
+    content: "Cash dividends"
+  }
+}
+, annotation_spec_id: "729269778820104192"
+display_name: "ConsolidatedCashFlows"
+text_extraction {
+  score: 0.4615115225315094
+  text_segment {
+    start_offset: 5847
+    end_offset: 5884
+    content: "CONSOLIDATED STATEMENTS OF CASH FLOWS"
+  }
+}
+]

@@ -9,6 +9,7 @@ import { formatNumber } from '@angular/common';
 import html2canvas from 'html2canvas';
 import { LoadingPopupComponent } from '../loading-popup/loading-popup.component';
 import { MatDialog } from '@angular/material';
+import { AuthService } from 'src/app/auth.service';
 
 
 export interface PLElement {
@@ -42,6 +43,7 @@ export class ReportBuilderComponent implements OnInit {
   constructor(
     private urlConfig: UrlConfigService,
     private apiService: RMIAPIsService,
+    public authService: AuthService,
     private dialog: MatDialog,
     public reportService: ReportBuilderService
   ) {}
@@ -76,6 +78,7 @@ export class ReportBuilderComponent implements OnInit {
   myControl = new FormControl();
 
   @ViewChild('imagecanvas', { static: false }) imagecanvas: ElementRef;
+  @ViewChild('imagecover', { static: false }) imagecover: ElementRef;
 
   filteredOptions: Observable<any>;
   allCompanies = [];
@@ -103,8 +106,12 @@ export class ReportBuilderComponent implements OnInit {
   nickname;
   showScenario = false;
 
+  reportLoaded = false;
+
+
   ngOnInit(): void {
-    this.nickname = localStorage.getItem('nickname');
+    if(this.authService.authServiceLoaded){
+      this.nickname = localStorage.getItem('nickname');
 
     this.filteredOptions = this.myControl.valueChanges.pipe(
       startWith(),
@@ -113,19 +120,32 @@ export class ReportBuilderComponent implements OnInit {
     );
 
     this.loadCompanies();
+    }
+    else{
+      const intervalID = setInterval(() => {
+        if (this.authService.authServiceLoaded) {
+          this.ngOnInit();
+          clearInterval(intervalID);
+        }
+      }, 100);
+    }
   }
 
   async loadCompanies() {
+  //const employer = localStorage.getItem('employer');
     try {
       const companiesAPIData: any = await this.apiService
+       //.getData(this.urlConfig.getStatementAPI() + employer)
         .getData(this.urlConfig.getStatementAPI() + 'rmiinsights')
         .toPromise();
       this.allCompanies = companiesAPIData.map((comp) => {
         return { compName: comp.companyname, compActualName: comp.company };
       });
       // .splice(0, 10)
+      this.reportLoaded = true;
     } catch (error) {
       console.log('Failed to fetch Statements data', error);
+      this.reportLoaded = true;
     }
   }
 
@@ -191,12 +211,19 @@ export class ReportBuilderComponent implements OnInit {
     canvas.height = this.imagecanvas.nativeElement.height;
     canvas.getContext('2d').drawImage(this.imagecanvas.nativeElement, 0, 0);
     const imagermi = canvas.toDataURL('image/png');
+	
+	var canvas1 = document.createElement('canvas');
+    canvas1.width = this.imagecover.nativeElement.width;
+    canvas1.height = this.imagecover.nativeElement.height;
+    canvas1.getContext('2d').drawImage(this.imagecover.nativeElement, 0, 0);  
+    const imagermicover = canvas1.toDataURL('image/png');
+
 
     await this.initScenario(this.selectedScenario);
     this.showValuations = true;
 
     setTimeout(() => {
-      this.exportToPdf1(imagermi);
+      this.exportToPdf1(imagermi,imagermicover);
     }, 1500);
     }
     
@@ -394,7 +421,7 @@ export class ReportBuilderComponent implements OnInit {
     }
   }
 
-  exportToPdf1(imagermi) {
+  exportToPdf1(imagermi,imagecover) {
     const content = [];
 
     content.push({ 
@@ -403,8 +430,8 @@ export class ReportBuilderComponent implements OnInit {
     content.push({
       text: "Valuations",
       style: 'header',
-      pageOrientation: "landscape",
-
+      // pageOrientation: "landscape",
+      // pageBreak: 'after',
     })
 
     content.push({
@@ -417,9 +444,9 @@ export class ReportBuilderComponent implements OnInit {
       const canvasData1 = canvas1.toDataURL();
       content.push({
         image: canvasData1,
-        width: 900,
+        width: 850,
         pageOrientation: "landscape",
-        margin: [30, 10, 30, 10]
+        margin: [10, 10, 30, 10]
         // height: 470
       });
 
@@ -472,7 +499,8 @@ export class ReportBuilderComponent implements OnInit {
                 this.selectedCompany,
                 this.selectedScenario,
                 imagermi,
-                content
+                content,
+		imagecover,
               );
             }
 

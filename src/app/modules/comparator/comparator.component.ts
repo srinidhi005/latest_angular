@@ -9,6 +9,7 @@ import pdfFonts from 'pdfmake/build/vfs_fonts';
 pdfMake.vfs = pdfFonts.pdfMake.vfs;
 import { cloneDeep } from 'lodash';
 import { ExcelService } from 'src/app/shared/excel.service';
+import { AuthService } from 'src/app/auth.service';
 
 @Component({
   selector: 'app-comparator',
@@ -17,7 +18,10 @@ import { ExcelService } from 'src/app/shared/excel.service';
 })
 export class ComparatorComponent implements OnInit {
 
-  constructor(private urlConfig : UrlConfigService, private apiService : RMIAPIsService,public excelService : ExcelService) { }
+  constructor(private urlConfig : UrlConfigService, 
+    private apiService : RMIAPIsService,
+    public excelService : ExcelService,
+    public authService : AuthService) { }
 
 
   selectedCompanyOne;
@@ -59,17 +63,30 @@ export class ComparatorComponent implements OnInit {
 
   filteredOptions: Observable<any>;
 
-	  ngOnInit(): void {
+  comparatorLoaded = false;
+
+	ngOnInit(): void {
 	  this.excelService.selectedDashboardMenu = 'comparator'
-    this.progressBar = true;
-    this.employer = localStorage.getItem('employer');
+    
+    if(this.authService.authServiceLoaded){
+      this.progressBar = true;
+      this.employer = localStorage.getItem('employer');
 
-    this.filteredOptions = this.myControl.valueChanges.pipe(
-      startWith(),
-      map(value => typeof value === 'string' ? value : ""),
-      map(name => name ? this._filter(name) : this.allCompanies.slice()));
+      this.filteredOptions = this.myControl.valueChanges.pipe(
+        startWith(),
+        map(value => typeof value === 'string' ? value : ""),
+        map(name => name ? this._filter(name) : this.allCompanies.slice()));
 
-    this.loadComparator()
+      this.loadComparator()
+    }
+    else{
+      const intervalID = setInterval(()=> {
+        if(this.authService.authServiceLoaded){
+          this.ngOnInit();
+          clearInterval(intervalID);
+        }
+      }, 100)
+    }
   }
 
   displayFn(user): string {
@@ -300,6 +317,8 @@ export class ComparatorComponent implements OnInit {
 	
 	
     this.progressBar = false;
+
+    this.comparatorLoaded = true;
   }
 
 exportToPDF() {

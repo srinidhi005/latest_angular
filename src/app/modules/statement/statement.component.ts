@@ -4,7 +4,7 @@ import { RMIAPIsService } from '../../shared/rmiapis.service';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { UserDetailModelService } from 'src/app/shared/user-detail-model.service';
 import { MatDialog } from '@angular/material/dialog';
-import { TutorialComponent } from 'src/app/modules/tutorial/tutorial.component'
+import { TutorialComponent } from 'src/app/modules/tutorial/tutorial.component';
 import { AuthService } from '../../auth.service';
 import { ExcelService } from 'src/app/shared/excel.service';
 import {
@@ -30,7 +30,7 @@ export interface PeriodicElement {
   download: string;
   delete: string;
   filename: any;
-type: string;
+  type: string;
 }
 const ELEMENT_DATA: PeriodicElement[] = [];
 @Component({
@@ -49,7 +49,7 @@ const ELEMENT_DATA: PeriodicElement[] = [];
   ],
 })
 export class StatementComponent implements OnInit {
-	horizontalPosition: MatSnackBarHorizontalPosition = 'center';
+  horizontalPosition: MatSnackBarHorizontalPosition = 'center';
   verticalPosition: MatSnackBarVerticalPosition = 'top';
   progressBar: boolean;
   editModeOn: boolean = false;
@@ -76,6 +76,8 @@ export class StatementComponent implements OnInit {
   @ViewChild(MatPaginator, { static: true }) paginator: MatPaginator;
   @ViewChild('downloadForm', { static: true }) downloadForm: any;
   public downloadGroup = this.formBuilder.group({});
+
+  statementsLoaded = false;
   applyFilter(event: Event) {
     const filterValue = (event.target as HTMLInputElement).value;
     this.dataSource.filter = filterValue.trim().toLowerCase();
@@ -85,75 +87,91 @@ export class StatementComponent implements OnInit {
     private userDetailModelService: UserDetailModelService,
     private urlConfig: UrlConfigService,
     public dialog: MatDialog,
-	  public formBuilder: FormBuilder,
-	  public authService: AuthService,
-	  private _snackBar: MatSnackBar,
-	  public excelService : ExcelService,
+    public formBuilder: FormBuilder,
+    public authService: AuthService,
+    private _snackBar: MatSnackBar,
+    public excelService: ExcelService
   ) {}
-	  ngOnInit(): void {
-	  this.excelService.selectedDashboardMenu == 'MyCompanies'
-	this.authService.passwordChangeSubscriber.subscribe( res => {
-    if(this.authService.firstTimeLogin){
-      let dialogRef = this.dialog.open(TutorialComponent, { 
-        width: '70%',
-        height:'80%' 
-      }); 
-    
-      dialogRef.afterClosed().subscribe(result => { 
-        // this.animal = result; 
-      }); 
-     }
-   })
+  ngOnInit(): void {
+    this.excelService.selectedDashboardMenu == 'MyCompanies';
 
+    if(this.authService.authServiceLoaded){
+	  // this.authService.passwordChangeSubscriber.subscribe((res) => {
+	   if (this.authService.firstTimeLogin) {
+          let dialogRef = this.dialog.open(TutorialComponent, {
+            width: '70%',
+            height: '80%',
+          });
 
+          dialogRef.afterClosed().subscribe((result) => {
+            // this.animal = result;
+          });
+        }
+	  // });
 
-
-	ELEMENT_DATA.length=0;
-	  const nickname = localStorage.getItem('nickname');
-	  const employer = localStorage.getItem('employer');
-    this.progressBar = true;
-    const val = this.urlConfig.getStatementAPI() + employer;
-    this.apiService
+      ELEMENT_DATA.length = 0;
+      const nickname = localStorage.getItem('nickname');
+      const employer = localStorage.getItem('employer');
+      this.progressBar = true;
+      const val = this.urlConfig.getStatementAPI() + employer;
+      this.apiService
       .getData(this.urlConfig.getStatementAPI() + employer)
       .subscribe((res: any) => {
-		   if (res == '') {
-			    this.progressBar = false;
-              this._snackBar.openFromComponent(snackBarStatementFailure, {
-				 
-                duration: 9000,
-                horizontalPosition: this.horizontalPosition,
-                verticalPosition: this.verticalPosition,
-              });
-            }
-			else{
-        const data = res.map((el, index) => ({
-          ...el,
-          position: index + 1,
-          action: null,
-        }));
-        this.dataset = data;
-        for (let index = 0; index < data.length; index++) {
-          var pushData = {
+        if (res == '') {
+          this.progressBar = false;
+          this._snackBar.openFromComponent(snackBarStatementFailure, {
+            duration: 9000,
+            horizontalPosition: this.horizontalPosition,
+            verticalPosition: this.verticalPosition,
+          });
+        } else {
+          const data = res.map((el, index) => ({
+            ...el,
             position: index + 1,
-            name: data[index].companyname,
-            company: data[index].company,
-            industry: data[index].industry,
-            createdOn: data[index].createdon,
-	    createdBy: data[index].createdby,
-	    type: data[index].statementtype,
-            download: 'download',
-            delete: 'delete',
-            filename: data[index].filename,
-          };
-          ELEMENT_DATA.push(pushData);
+            action: null,
+          }));
+          this.dataset = data;
+	  for (let index = 0; index < data.length ; index++) {
+            var pushData = {
+              position: index + 1,
+              name: data[index].companyname,
+              company: data[index].company,
+              industry: data[index].industry,
+              createdOn: data[index].createdon,
+              createdBy: data[index].createdby,
+              type: data[index].statementtype,
+              download: 'download',
+              delete: 'delete',
+              filename: data[index].filename,
+            };
+            ELEMENT_DATA.push(pushData);
+          }
+
           this.dataSource.paginator = this.paginator;
 
           this.dataSource._updateChangeSubscription();
           this.progressBar = false;
-        }
-			}
+
+      
+
+	  }
+	  this.statementsLoaded = true
+	  },
+	   error => {
+        this.statementsLoaded = true
       });
+    }
+    else{
+      const intervalID = setInterval(()=> {
+        if(this.authService.authServiceLoaded){
+          this.ngOnInit();
+          clearInterval(intervalID);
+        }
+      }, 100)
+    }
   }
+
+
   deleteDialogBox(element: any) {
     const dialogRef = this.dialog.open(DialogElementsExampleDialog);
     dialogRef.afterClosed().subscribe((result) => {
@@ -163,6 +181,7 @@ export class StatementComponent implements OnInit {
     });
     this.ngOnInit();
   }
+
   deleteStatement(element: any) {
     this.apiService
       .getData(this.urlConfig.getDeleteStatementAPI() + element.name)
@@ -170,8 +189,7 @@ export class StatementComponent implements OnInit {
         ELEMENT_DATA.splice(element.position - 1, 1);
         this.dataSource._updateChangeSubscription();
         this.dataSource._renderChangesSubscription;
-           
-          });
+      });
   }
 
   downloadStatement(element: any) {
@@ -215,16 +233,18 @@ export class DialogElementsExampleDialog {}
 @Component({
   selector: 'snackBarStatementsLoadFailure',
   templateUrl: 'snackBarStatementsLoadFailure.html',
-  styles: [`
-    .snackBar{
-      color: #fff;
-    }
-    b{
-      color:#fff !important;
-    }
-    .material-icons{
-      color:lightgreen;
-    }
-  `],
+  styles: [
+    `
+      .snackBar {
+        color: #fff;
+      }
+      b {
+        color: #fff !important;
+      }
+      .material-icons {
+        color: lightgreen;
+      }
+    `,
+  ],
 })
 export class snackBarStatementFailure {}

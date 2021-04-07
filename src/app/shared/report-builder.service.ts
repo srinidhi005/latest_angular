@@ -214,8 +214,8 @@ export class ReportBuilderService {
   ELEMENT_KPI_PROJECTIONS_CF: PeriodicElement[] = [];
 
   imagermi;
-
-  async initReportBuild(reportSelection, selectedCompany, selectedScenario, imagermi, valuationsContent) {
+  
+  async initReportBuild(reportSelection, selectedCompany, selectedScenario, imagermi, valuationsContent,cover) {
 
     this.imagermi = imagermi;
     this.reportSelection = reportSelection;
@@ -305,7 +305,17 @@ export class ReportBuilderService {
     }
 
     console.log(finalContent);
-
+const imagecover=[]
+      imagecover.push({
+        image: cover,
+        width: 660,
+        pageOrientation: "landscape",
+        margin: [120, 10, 100, 10],
+		    pageBreak: 'after'
+        // height: 470
+      });
+	  
+	  finalContent.unshift(imagecover)
     this.exportToFinalPDf(finalContent);
 
     setTimeout(() => {
@@ -2006,7 +2016,7 @@ buildReportForRatios(eachReport, actuals, projections){
       },
       // pageSize: 'A5',
       // pageOrientation: 'landscape',
-      pageMargins: [20, 40, 20, 40],
+      pageMargins: [35, 40, 20, 40],
       content: content,
       styles: {
         header: {

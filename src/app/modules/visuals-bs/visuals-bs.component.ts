@@ -12,6 +12,7 @@ import * as Highcharts from 'highcharts';
 import HC_exporting from 'highcharts/modules/exporting';
 import { MatDialog } from '@angular/material';
 import { VisualBSInputDialogComponent } from '../visuals-is/input-value-dialog.component';
+import { AuthService } from 'src/app/auth.service';
 draggable(Highcharts);
 const tooltip = {
   backgroundColor: '#5A6574',
@@ -116,26 +117,38 @@ export class VisualsBsComponent implements OnInit {
   scenarioSelected: any;
   selectedCompanyName = localStorage.getItem('selectedCompanyName');
 
+  visualsLoaded = false;
+
   constructor(
     private urlConfig: UrlConfigService,
     private apiService: RMIAPIsService,
     // tslint:disable-next-line:no-shadowed-variable
     private UserDetailModelService: UserDetailModelService,
+    public authService: AuthService,
     // tslint:disable-next-line:variable-name
     private _snackBar: MatSnackBar,
     public dialog: MatDialog
   ) {}
 
   ngOnInit() {
-    if (this.UserDetailModelService.selectedScenarioIndex >= 0) {
-      this.scenario = this.UserDetailModelService.selectedScenarioIndex;
+    if(this.authService.authServiceLoaded){
+      if (this.UserDetailModelService.selectedScenarioIndex >= 0) {
+        this.scenario = this.UserDetailModelService.selectedScenarioIndex;
+      }
+  
+      this.initScenario(this.scenario);
+  
+      this.UserDetailModelService.updateBalanceSheetScenario.subscribe(() => {
+        this.initScenario(this.UserDetailModelService.selectedScenarioIndex);
+      });
+    }else {
+      const intervalID = setInterval(() => {
+        if (this.authService.authServiceLoaded) {
+          this.ngOnInit();
+          clearInterval(intervalID);
+        }
+      }, 100);
     }
-
-    this.initScenario(this.scenario);
-
-    this.UserDetailModelService.updateBalanceSheetScenario.subscribe(() => {
-      this.initScenario(this.UserDetailModelService.selectedScenarioIndex);
-    });
   }
   openDialog(): void {
     const dialogRef = this.dialog.open(VisualBSInputDialogComponent, {
@@ -961,8 +974,19 @@ export class VisualsBsComponent implements OnInit {
                   legend: false,
                 };
                 this.updateProjection();
+
+                this.visualsLoaded = true
+              }, error => {
+                this.visualsLoaded = true
+
               }); // end of projections
+          }, error => {
+            this.visualsLoaded = true
+
           }); // end of Save Scenarios
+      }, error => {
+        this.visualsLoaded = true
+
       }); // end of actuals
 
     HC_exporting(Highcharts);

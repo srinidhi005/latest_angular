@@ -1,0 +1,133 @@
+
+Page#1
+Table of Contents
+Fiserv, Inc.
+Consolidated Statements of Income
+ 
+In millions, except per share data
+Year ended December 31,  2017  2016  2015
+Revenue: 
+Processing and services  $ 4,833  $ 4,625  $ 4,411
+Product  863  880  843
+Total revenue  5,696  5,505  5,254
+Expenses: 
+Cost of processing and services  2,291  2,212  2,178
+Cost of product  733  747  731
+Selling, general and administrative  1,150  1,101  1,034
+Gain on sale of business  (10)  —  —
+Total expenses  4,164  4,060  3,943
+Operating income  1,532  1,445  1,311
+Interest expense  (176)  (163)  (170)
+Interest and investment income (loss), net  2  (7)  1
+Loss on early debt extinguishment  —  —  (85)
+Income from continuing operations before income taxes and income from investment in
+unconsolidated affiliate  1,358  1,275  1,057
+Income tax provision  (158)  (492)  (377)
+Income from investment in unconsolidated affiliate  32  147  32
+Income from continuing operations  1,232  930  712
+Income from discontinued operations, net of income taxes  14  —  —
+Net income  $ 1,246  $ 930  $ 712
+ 
+Net income per share - basic: 
+Continuing operations  $ 5.84  $ 4.22  $ 3.04
+Discontinued operations  0.07  —  —
+Total  $ 5.90  $ 4.22  $ 3.04
+Net income per share - diluted:
+ 
+Continuing operations  $ 5.71  $ 4.15  $ 2.99
+Discontinued operations  0.07  —  —
+Total  $ 5.78  $ 4.15  $ 2.99
+ 
+Shares used in computing net income per share: 
+Basic  211.1  220.3  233.9
+Diluted  215.6  223.9  238.0
+See accompanying notes to consolidated financial statements.
+28
+Page#2
+Table of Contents
+Fiserv, Inc.
+Consolidated Balance Sheets
+In millions
+December 31,  2017  2016
+Assets 
+Cash and cash equivalents  $ 325  $ 300
+Trade accounts receivable, less allowance for doubtful accounts  997  902
+Prepaid expenses and other current assets  603  526
+Assets held for sale  50  —
+Total current assets  1,975  1,728
+Property and equipment, net  390  405
+Intangible assets, net  1,882  1,833
+Goodwill  5,590  5,373
+Other long-term assets  452  404
+Total assets  $ 10,289  $ 9,743
+Liabilities and Shareholders’ Equity
+ 
+Accounts payable and accrued expenses  $ 1,383  $ 1,242
+Current maturities of long-term debt  3  95
+Deferred revenue  552  483
+Total current liabilities  1,938  1,820
+Long-term debt  4,897  4,467
+Deferred income taxes  552 762
+Other long-term liabilities  171  153
+Total liabilities  7,558  7,202
+Commitments and Contingencies  
+Shareholders’ Equity 
+Preferred stock, no par value: 25.0 million shares authorized; none issued  —  —
+Common stock, $0.01 par value: 900.0 million shares authorized; 395.7 million shares issued  4  4
+Additional paid-in capital  1,035  1,020
+Accumulated other comprehensive loss  (54)  (76)
+Retained earnings  10,240  8,994
+Treasury stock, at cost, 188.1 million and 180.2 million shares  (8,494)  (7,401)
+Total shareholders’ equity  2,731  2,541
+Total liabilities and shareholders’ equity  $ 10,289  $ 9,743
+See accompanying notes to consolidated financial statements.
+30
+Page#3
+Table of Contents
+Fiserv, Inc.
+Consolidated Statements of Cash Flows
+In millions
+Year ended December 31,  2017  2016  2015
+Cash flows from operating activities: 
+Net income  $ 1,246  $ 930  $ 712
+Adjustment for discontinued operations  (14)  —  —
+Adjustments to reconcile net income to net cash provided by operating activities from continuing
+operations: 
+Depreciation and other amortization  274  253  223
+Amortization of acquisition-related intangible assets  159  158  194
+Share-based compensation  63  68  65
+Excess tax benefits from share-based awards  —  (51)  (38)
+Deferred income taxes  (247)  21  20
+Income from investment in unconsolidated affiliate  (32)  (147)  (32)
+Dividends from unconsolidated affiliate  45  151  36
+Non-cash impairment charges  18  17  6
+Gain on sale of business  (10)  —  —
+Loss on early debt extinguishment  —  —  85
+Other operating activities  (4)  (2)  (1)
+Changes in assets and liabilities, net of effects from acquisitions: 
+Trade accounts receivable  (75)  (88)  (2)
+Prepaid expenses and other assets  (55)  (68)  (66)
+Accounts payable and other liabilities  54  178  148
+Deferred revenue  61  11  (4)
+Net cash provided by operating activities from continuing operations  1,483  1,431  1,346
+Cash flows from investing activities: 
+Capital expenditures, including capitalization of software costs  (287)  (290)  (359)
+Payments for acquisitions of businesses, net of cash acquired  (384)  (265)  —
+Proceeds from sale of business  17  —  —
+Purchases of investments  (10)  (1)  (4)
+Other investing activities  7  2  3
+Net cash used in investing activities from continuing operations  (657)  (554)  (360)
+Cash flows from financing activities: 
+Debt proceeds  2,310  2,126  3,121
+Debt repayments, including redemption and other costs  (1,985)  (1,863)  (2,707)
+Proceeds from issuance of treasury stock  78  79  71
+Purchases of treasury stock, including employee shares withheld for tax obligations  (1,223)  (1,245)  (1,522)
+Excess tax benefits from share-based awards  —  51  38
+Other financing activities  —  —  (6)
+Net cash used in financing activities from continuing operations  (820)  (852)  (1,005)
+Net change in cash and cash equivalents from continuing operations  6  25  (19)
+Net cash flows from discontinued operations provided by operating activities  19  —  —
+Cash and cash equivalents, beginning balance  300  275  294
+Cash and cash equivalents, ending balance  $ 325  $ 300  $ 275
+See accompanying notes to consolidated financial statements.
+32

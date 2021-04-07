@@ -1,0 +1,191 @@
+
+Page#1
+Table of Contents
+ 
+ 
+MercadoLibre, Inc.
+Consolidated Balance Sheets
+As of December 31, 2019 and 2018
+(In thousands of U.S. dollars, except par value)
+ 
+ December 31,  December 31,
+ 2019  2018
+Assets 
+Current assets: 
+Cash and cash equivalents $ 1,384,740  $ 440,332
+Restricted cash and cash equivalents 66,684  24,363
+Short-term investments (522,798 and 284,317 held in guarantee - see Note 4) 1,597,241  461,541
+Accounts receivable, net 35,446  35,153
+Credit cards receivable, net 379,969  360,298
+Loans receivable, net 182,105  95,778
+Prepaid expenses 45,309  27,477
+Inventory 8,626  4,612
+Other assets 88,736  61,569
+Total current assets 3,788,856  1,511,123
+Non-current assets: 
+Long-term investments 263,983  276,136
+Loans receivable, net 6,439  —
+Property and equipment, net 244,257  165,614
+Operating lease right-of-use assets 200,449  —
+Goodwill 87,609  88,883
+Intangible assets, net 14,275  18,581
+Deferred tax assets 117,582  141,438
+Other assets 58,241  37,744
+Total non-current assets 992,835  728,396
+Total assets $ 4,781,691  $ 2,239,519
+ 
+Liabilities 
+Current liabilities: 
+Accounts payable and accrued expenses $ 372,309  $ 266,759
+Funds payable to customers 894,057  640,954
+Salaries and social security payable 101,841  60,406
+Taxes payable 60,247  31,058
+Loans payable and other financial liabilities 186,138  132,949
+Operating lease liabilities 23,259  —
+Other liabilities  114,469  34,098
+Total current liabilities 1,752,320  1,166,224
+Non-current liabilities: 
+Salaries and social security payable 26,803  23,161
+Loans payable and other financial liabilities 631,353  602,228
+Operating lease liabilities 176,673  —
+Deferred tax liabilities 99,952  91,698
+Other liabilities  12,627  19,508
+Total non-current liabilities 947,408  736,595
+Total liabilities $ 2,699,728  $ 1,902,819
+ 
+Commitments and contingencies (Note 13) 
+ 
+Redeemable convertible preferred stock, $0.001 par value, 40,000,000 shares 
+authorized, 100,000 shares issued and outstanding at December 31, 2019 $ 98,843  $ —
+ 
+Equity 
+ 
+Common stock, $0.001 par value, 110,000,000 shares authorized, 
+49,709,955 and 45,202,859 shares issued and outstanding at December 31, 
+2019 and December 31, 2018 $ 50  $ 45
+Additional paid-in capital 2,067,869  224,800
+Treasury stock (720)  —
+Retained earnings 322,592  503,432
+Accumulated other comprehensive loss (406,671)  (391,577)
+Total Equity  1,983,120  336,700
+Total Liabilities, Redeemable convertible preferred stock and Equity $ 4,781,691  $ 2,239,519
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+3
+Page#2
+Table of Contents
+ 
+ 
+MercadoLibre, Inc.
+Consolidated Statements of Income
+For the years ended December 31, 2019, 2018 and 2017
+(In thousands of U.S. dollars, except for share data)
+ 
+  Year Ended December 31,
+  2019  2018  2017
+Net revenues  $ 2,296,314  $ 1,439,653  $ 1,216,542
+Cost of net revenues  (1,194,191)  (742,645)  (496,942)
+Gross profit  1,102,123  697,008  719,600
+ 
+Operating expenses: 
+Product and technology development  (223,807)  (146,273)  (127,160)
+Sales and marketing (834,022)  (482,447)  (325,375)
+General and administrative  (197,455)  (137,770)  (122,194)
+Impairment of Long-Lived Assets  —  —  (2,837)
+Loss on deconsolidation of Venezuelan subsidiaries  —  —  (85,761)
+Total operating expenses (1,255,284)  (766,490)  (663,327)
+(Loss) income from operations  (153,161)  (69,482)  56,273
+ 
+Other income (expenses): 
+Interest income and other financial gains  113,523  42,039  45,901
+Interest expense and other financial losses  (65,876)  (56,249)  (26,469)
+Foreign currency (losses) gains (1,732)  18,240  (21,635)
+Net (loss) income before income tax (expense) gain (107,246)  (65,452)  54,070
+ 
+Income tax (expense) gain  (64,753)  28,867  (40,290)
+Net (loss) income  $ (171,999) $ (36,585) $ 13,780
+ 
+  Year Ended December 31,
+  2019  2018  2017
+Basic EPS 
+Basic net (loss) income 
+ Available to shareholders per common share  $ (3.71)  $ (0.82)  $ 0.31
+Weighted average of outstanding common shares  48,692,906  44,529,614 44,157,364
+Diluted EPS 
+Diluted net (loss) income 
+Available to shareholders per common share $ (3.71)  $ (0.82)  $ 0.31
+Weighted average of outstanding common shares 48,692,906  44,529,614 44,157,364
+ 
+Cash Dividends declared (per share)  —  —  0.600
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+​ 
+4
+Page#3
+Table of Contents
+ 
+ 
+MercadoLibre, Inc.
+Consolidated Statement of Cash Flows
+For the years ended December 31, 2019, 2018 and 2017
+(In thousands of U.S. dollars)
+ 
+  Year Ended December 31,
+  2019  2018  2017
+ 
+Cash flows from operations: 
+Net (loss) income  $ (171,999) $ (36,585) $ 13,780
+Adjustments to reconcile net (loss) income to net cash provided by operating activities: 
+Unrealized devaluation loss, net  44,326 11,131 28,463
+Impairment of Long-Lived Assets  — — 2,837
+Loss on deconsolidation of Venezuelan subsidiaries  — — 85,761
+Depreciation and amortization  73,320 45,792 40,921
+Accrued interest  (54,309) (17,811) (20,192)
+Non cash interest, convertible notes amortization of debt discount and amortization of 
+debt issuance costs and other charges  86,694 11,408 10,855
+Stock-based compensation expense - restricted shares  395 — —
+LTRP accrued compensation 51,662 27,525 35,719
+Deferred income taxes  16,453 (92,585) (24,575)
+Changes in assets and liabilities: 
+Accounts receivable (507) (27,105) (21,817)
+Credit cards receivable  (29,315) 42,655 (257,563)
+Prepaid expenses  (17,956) (23,342) 8,670
+Inventory  (4,148) (3,015) (1,549)
+Other assets  (49,390) (17,617) (54,780)
+Payables and accrued expenses  143,495 90,123 150,215
+Funds payable to customers  267,293 175,398 242,037
+Other liabilities  45,452 28,202 7,680
+Interest received from investments  49,625 16,733 22,548
+Net cash provided by operating activities  451,091 230,907 269,010
+Cash flows from investing activities: 
+Purchase of investments  (4,490,678) (3,176,078) (4,553,649)
+Proceeds from sale and maturity of investments  3,353,606 2,662,800 4,713,934
+Payment for acquired businesses, net of cash acquired  — (4,195) (8,568)
+Reduction of cash due to Venezuela deconsolidation  — — (27,230)
+Purchases of intangible assets  (72) (192) (33)
+Changes in principal loans receivable, net  (173,848) (57,232) (72,244)
+Advance for property and equipment  — (4,426) (19,695)
+Purchases of property and equipment  (136,798) (93,136) (55,156)
+Net cash used in investing activities (1,447,790) (672,459) (22,641)
+Cash flows from financing activities: 
+Funds received from the issuance of convertible notes  — 880,000 —
+Transaction costs from the issuance of convertible notes  — (16,264) —
+Payments on convertible note  (25) (348,123) —
+Purchase of convertible note capped calls  (96,367) (148,943) (67,308)
+Unwind of convertible note capped calls  — 136,108 —
+Proceeds from loans payable and other financial liabilities  629,891 236,873 47,905
+Payments on loans payable and other financing liabilities  (472,897) (123,822) (5,004)
+Dividends paid  — (6,624) (26,496)
+Payment of finance lease obligations  (1,929) (323) —
+Common Stock repurchased  (720) — —
+Dividends paid of preferred stock  (2,844) — —
+Proceeds from issuance of convertible redeemable preferred stock, net  98,688 — —
+Proceeds from issuance of common stock, net  1,867,215 — —
+Net cash provided by (used in) financing activities 2,021,012 608,882 (50,903)
+Effect of exchange rate changes on cash, cash equivalents, restricted cash and cash equivalents  (37,584) (90,895) (41,346)
+Net increase in cash, cash equivalents, restricted cash and cash equivalents  986,729 76,435 154,120
+Cash, cash equivalents, restricted cash and cash equivalents, beginning of the year  464,695 388,260 234,140
+Cash, cash equivalents, restricted cash and cash equivalents, end of the year  $ 1,451,424 $ 464,695 $ 388,260
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+7

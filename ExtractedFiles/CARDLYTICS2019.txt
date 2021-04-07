@@ -1,0 +1,132 @@
+
+Page#1
+Table of Contents
+CARDLYTICS, INC.
+CONSOLIDATED BALANCE SHEETS
+(Amounts in thousands, except par value amounts)
+ December 31,
+ 2018 2019
+Assets 
+Current assets: 
+Cash and cash equivalents $ 39,623 $ 104,458
+Restricted cash 20,247 129
+Accounts receivable, net 58,125 81,452
+Other receivables 2,417 3,908
+Prepaid expenses and other assets 3,956 5,783
+Total current assets 124,368 195,730
+Long-term assets:
+Property and equipment, net 10,230 14,290
+Intangible assets, net 370 389
+Capitalized software development costs, net 1,625 3,815
+Deferred FI implementation costs, net 15,877 8,383
+Other long-term assets, net 1,293 1,706
+Total assets $ 153,763 $ 224,313
+Liabilities and stockholders' equity
+Current liabilities:
+Accounts payable $ 2,099 $ 1,229
+Accrued liabilities:
+Accrued compensation 5,936 8,186
+Accrued expenses 4,388 6,018
+FI Share liability 27,656 41,956
+Consumer Incentive liability 11,476 19,861
+Deferred revenue 346 1,127
+Current portion of long-term debt 21 24
+Total current liabilities 51,922 78,401
+Long-term liabilities:
+Deferred liabilities 3,173 2,632
+Long-term debt, net of current portion 46,693 13
+Total liabilities 101,788 81,046
+Stockholders’ equity:
+Common stock, $0.0001 par value—100,000 shares authorized and 22,466 and 26,547 shares issued and outstanding
+as of December 31, 2018 and December 31, 2019, respectively 7 8
+Additional paid-in capital 371,463 480,578
+Accumulated other comprehensive income 1,992 1,312
+Accumulated deficit (321,487) (338,631)
+Total stockholders’ equity 51,975 143,267
+Total liabilities and stockholders’ equity $ 153,763 $ 224,313
+See notes to the consolidated financial statements
+67
+Page#2
+Table of Contents
+CARDLYTICS, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Amounts in thousands, except per share amounts)
+ Year Ended December 31,
+ 2017  2018  2019
+Revenue $ 130,365  $ 150,684  $ 210,430
+Costs and expenses:  
+FI Share and other third-party costs 73,247  85,371  118,080
+Delivery costs 7,012  10,632  12,893
+Sales and marketing expense 31,927  41,878  43,828
+Research and development expense 12,150  16,210  11,699
+General and administration expense 20,100  34,228  36,720
+Depreciation and amortization expense 3,028  3,282  4,535
+Total costs and expenses 147,464  191,601  227,755
+Operating loss (17,099)  (40,917)  (17,325)
+Non-operating (expense) income:  
+Interest expense, net (8,239)  (3,264)  (548)
+Change in fair value of warrant liabilities, net (581)  (6,760)  —
+Change in fair value of convertible promissory notes (1,244)  —  —
+Change in fair value of convertible promissory notes—related parties 6,213  —  —
+Other income (expense), net 1,309  (2,101)  729
+Total non-operating (expense) income (2,542)  (12,125)  181
+Loss before income taxes (19,641)  (53,042)  (17,144)
+Income tax benefit —  —  —
+Net loss (19,641)  (53,042)  (17,144)
+Adjustments to the carrying value of redeemable convertible preferred stock (5,743)  (157)  —
+Net loss attributable to common stockholders $ (25,384)  $ (53,199)  $ (17,144)
+Net loss per share attributable to common stockholders, basic and diluted
+$ (7.86)  $ (2.79)  $ (0.72)
+Weighted-average common shares outstanding, basic and diluted
+3,230  19,060  23,746
+See notes to the consolidated financial statements
+68
+Page#3
+Table of Contents
+CARDLYTICS, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Amounts in thousands)
+ Year Ended December 31,
+ 2017 2018 2019
+Operating activities 
+ Net loss $ (19,641)  $ (53,042)  $ (17,144)
+Adjustments to reconcile net loss to net cash (used in) provided by operating activities: 
+Depreciation and amortization 3,028  3,282  4,535
+Amortization of financing costs charged to interest expense 560  282  95
+Accretion of debt discount and non-cash interest expense 6,889  2,326  —
+Stock-based compensation expense 5,147  26,790  15,851
+Change in the fair value of warrant liabilities, net 581  6,760  —
+Change in the fair value of convertible promissory notes 1,244  —  —
+Change in the fair value of convertible promissory notes - related parties (6,213)  —  —
+Other non-cash (income) expense, net (1,102)  4,771  631
+Amortization of deferred FI implementation costs 1,626  1,618  2,869
+Settlement of paid-in-kind interest —  (8,353)  —
+Change in operating assets and liabilities: 
+Accounts receivable (7,503)  (9,426)  (26,018)
+Prepaid expenses and other assets (666)  (2,275)  (2,224)
+Deferred FI implementation costs (10,900)  (9,250)  —
+Recovery of deferred FI implementation costs 4,100  5,380  4,625
+Accounts payable (1,907)  911  (601)
+Other accrued expenses 466  3,255  6,152
+FI Share liability 804  3,742  14,301
+Customer Incentive liability 1,385  4,234  8,385
+Net cash (used in) provided by operating activities (22,102)  (18,995)  11,457
+Investing activities 
+Acquisition of property and equipment (1,215)  (5,920)  (8,277)
+Acquisition of patents (60)  (23)  (31)
+Capitalized software development costs (372)  (1,399)  (2,712)
+Net cash used in investing activities (1,647)  (7,342)  (11,020)
+Financing activities 
+Proceeds from issuance of debt 12,500  47,435  —
+Principal payments of debt (99)  (52,581)  (46,698)
+Proceeds from issuance of common stock 230  72,334  91,216
+Proceeds from issuance of Series G preferred stock 11,940  —  —
+Equity issuance costs (2,668)  (1,949)  (196)
+Debt issuance costs (142)  (48)  (143)
+Net cash provided by financing activities 21,761  65,191  44,179
+Effect of exchange rates on cash, cash equivalents and restricted cash 282  (246)  101
+Net (decrease) increase in cash, cash equivalents and restricted cash (1,706)  38,608  44,717
+Cash, cash equivalents, and restricted cash — Beginning of period 22,968  21,262  59,870
+Cash, cash equivalents, and restricted cash — End of period $ 21,262  $ 59,870  $ 104,587
+See notes to the consolidated financial statements
+71

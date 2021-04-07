@@ -66,14 +66,17 @@
                 </a>
             </mat-expansion-panel-header>
             <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIIncomeStatement" [class.selected] = "excelService.selectedDashboardMenu === 'income'" (click) = "excelService.selectedDashboardMenu = 'income'">
-                <mat-icon>compare</mat-icon>Income Statement
+                <mat-icon>menu_book</mat-icon>
+                Income Statement
             </a>
             <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPIBalanceSheet" [class.selected] = "excelService.selectedDashboardMenu === 'balance'"
 (click) = "excelService.selectedDashboardMenu = 'balance'">
-                <mat-icon>menu_book</mat-icon>Balance Sheet
+<mat-icon>account_balance_wallet</mat-icon>Balance Sheet
             </a>
             <a mat-list-item routerLinkActive="list-item-active" routerLink="/KPICashflow" [class.selected] = "excelService.selectedDashboardMenu === 'cashflow'"(click) = "excelService.selectedDashboardMenu = 'cashflow'">
-                <mat-icon>local_atm</mat-icon>Cash Flow Statement
+                <mat-icon>
+                    request_quote
+                    </mat-icon>Cash Flow Statement
             </a>
         </mat-expansion-panel>
     </mat-accordion>
@@ -151,7 +154,8 @@
         </mat-expansion-panel>
     </mat-accordion>
 	
-      <a mat-list-item routerLinkActive="list-item-active" routerLink="/report">
+      <a mat-list-item routerLinkActive="list-item-active" routerLink="/report" [class.selected-menu] = "excelService.selectedDashboardMenu == 'report'"
+      (click) = "excelService.selectedDashboardMenu = 'report'">
         <mat-icon>assignment</mat-icon>
         Report
     </a>

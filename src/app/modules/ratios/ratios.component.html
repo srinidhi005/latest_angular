@@ -1,34 +1,46 @@
-<div class="row">
-  <div class="col" style="text-align: left; margin:10px auto;">
-	  <h4> Ratios</h4>
+<ng-template [ngIf] = "authService.authServiceLoaded && ratiosLoaded">
+  <div class="row">
+    <div class="col" style="text-align: left; margin:10px auto;">
+      <h4> Ratios</h4>
+    </div>
   </div>
-</div>
-<div fxLayout="row" class="header">
-	
-  <div fxLayout="row" fxLayoutAlign="start center">
-	  <span style="font-weight:bold;font-size:18px">{{ companySelected }} - Scenario {{selectedScenario}}
-    </span>
-  </div>
-  <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px">
- <button mat-button (click)="exportToPDF()" matTooltip="Export to PDF"
-    matTooltipPosition='above' style="font-size:26px"><mat-icon>picture_as_pdf</mat-icon></button>
-
-    <button mat-button [matMenuTriggerFor]="below" style="font-size:18px">
-      Scenario {{ selectedScenario }} <mat-icon matSuffix style="font-size:22px">keyboard_arrow_down</mat-icon>
-    </button>
-    <mat-menu #below="matMenu" yPosition="below">
-      <button mat-menu-item *ngFor="let index of scenarioArray; let indexOfelement=index;"
-        (click)="changeScenario(index)" style="font-size:18px">
-        <span>Scenario {{index}}</span>
+  <div fxLayout="row" class="header">
+    
+    <div fxLayout="row" fxLayoutAlign="start center">
+      <span style="font-weight:bold;font-size:18px">{{ companySelected }} - Scenario {{selectedScenario}}
+      </span>
+    </div>
+    <div fxLayout="row" fxFlex fxLayoutAlign="end center" fxLayoutGap="5px">
+   <button mat-button (click)="exportToPDF()" matTooltip="Export to PDF"
+      matTooltipPosition='above' style="font-size:26px"><mat-icon>picture_as_pdf</mat-icon></button>
+  
+      <button mat-button [matMenuTriggerFor]="below" style="font-size:18px">
+        Scenario {{ selectedScenario }} <mat-icon matSuffix style="font-size:22px">keyboard_arrow_down</mat-icon>
       </button>
-    </mat-menu>
+      <mat-menu #below="matMenu" yPosition="below">
+        <button mat-menu-item *ngFor="let index of scenarioArray; let indexOfelement=index;"
+          (click)="changeScenario(index)" style="font-size:18px">
+          <span>Scenario {{index}}</span>
+        </button>
+      </mat-menu>
+    </div>
   </div>
-</div>
-<app-profitability-ratios [loading]="isLoading" [actuals]="actuals" [projections]="projections">
-</app-profitability-ratios>
-<hr />
-<app-return-ratios [loading]="isLoading" [actuals]="actuals" [projections]="projections"></app-return-ratios>
-<hr />
-<app-liquidity-ratios [loading]="isLoading" [actuals]="actuals" [projections]="projections"></app-liquidity-ratios>
-<hr />
-<app-solvency-ratios [loading]="isLoading" [actuals]="actuals" [projections]="projections"></app-solvency-ratios>
+  <app-profitability-ratios [loading]="isLoading" [actuals]="actuals" [projections]="projections">
+  </app-profitability-ratios>
+  <hr />
+  <app-return-ratios [loading]="isLoading" [actuals]="actuals" [projections]="projections"></app-return-ratios>
+  <hr />
+  <app-liquidity-ratios [loading]="isLoading" [actuals]="actuals" [projections]="projections"></app-liquidity-ratios>
+  <hr />
+  <app-solvency-ratios [loading]="isLoading" [actuals]="actuals" [projections]="projections"></app-solvency-ratios>
+  
+</ng-template>
+
+<ng-template [ngIf] = "!authService.authServiceLoaded || !ratiosLoaded">
+  <div id="loader-container">
+      <div id="loader"></div>
+      <div>
+        Loading Ratios&nbsp;.&nbsp;.&nbsp;.
+      </div>
+  </div>
+</ng-template>

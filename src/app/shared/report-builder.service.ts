@@ -291,6 +291,10 @@ export class ReportBuilderService {
     if(isArray(finalContent[outerLength])){
       const innerLength = finalContent[outerLength].length - 1
       delete finalContent[outerLength][innerLength]["pageBreak"];
+
+    }
+    else if(finalContent[outerLength]["pageBreak"]){
+      delete finalContent[outerLength]["pageBreak"]
     }
 
     this.message = ""
@@ -298,7 +302,7 @@ export class ReportBuilderService {
     for (let outerIndex = 0; outerIndex < finalContent.length; outerIndex++) {
       for (let innerIndex = 0; innerIndex < finalContent[outerIndex].length; innerIndex++) {
         const obj = finalContent[outerIndex][innerIndex]
-        obj["pageOrientation"] = 'landscape'
+        obj["pageOrientation"] = 'portrait'
         finalContent[outerIndex][innerIndex] = obj  
         
       }
@@ -307,20 +311,20 @@ export class ReportBuilderService {
     console.log(finalContent);
 const imagecover=[]
       imagecover.push({
-        image: cover,
-        width: 660,
-        pageOrientation: "landscape",
-        margin: [120, 10, 100, 10],
-		    pageBreak: 'after'
-        // height: 470
+        text: "",
+        // width: 800,
+        // height: 1000,
+        pageOrientation: "portrait",
+        //margin: [120, 10, 100, 10],
+		    pageBreak: 'after',
       });
 	  
 	  finalContent.unshift(imagecover)
-    this.exportToFinalPDf(finalContent);
+    this.exportToFinalPDf(finalContent, cover);
 
-    setTimeout(() => {
-      this.dialog.closeAll();
-    }, 1500);
+    // setTimeout(() => {
+    //   this.dialog.closeAll();
+    // }, 1500);
     
   }
 
@@ -986,6 +990,12 @@ buildReportForRatios(eachReport, actuals, projections){
       if(index == 0){
         return {text: "Solvency Ratios", bold: true, fillColor: '#164A5B', color: "#fff", margin: [10, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
       }
+      else if (index <= (solvencyRatiosKeys.length - 3) && index >= (solvencyRatiosKeys.length - 7)){
+        return {text: name+"E", bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
+      }
+      else if(index <= (solvencyRatiosKeys.length - 8) && index >= (solvencyRatiosKeys.length - 10)){
+        return {text: name+"A", bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
+      }
       else{
         return {text: name, bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
       }
@@ -1038,7 +1048,7 @@ buildReportForRatios(eachReport, actuals, projections){
           headerRows: 2,
           height: "auto",
           // width:'auto',
-          widths: [200, 65, 65, 65, 65, 65, 65, 65, 65, 65, 65],
+          widths: this.getWidthsForRatios(),
           body: finalDataForSolvency
         },
         layout: {
@@ -1080,6 +1090,12 @@ buildReportForRatios(eachReport, actuals, projections){
     const liquidityRatiosHeaders = liquidityRatiosKeys.map( (name, index) => {
       if(index == 0){
         return {text: "Liquidity Ratios", bold: true, fillColor: '#164A5B', color: "#fff", margin: [10, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
+      }
+      else if (index <= (liquidityRatiosKeys.length - 3) && index >= (liquidityRatiosKeys.length - 7)){
+        return {text: name+"E", bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
+      }
+      else if(index <= (liquidityRatiosKeys.length - 8) && index >= (liquidityRatiosKeys.length - 10)){
+        return {text: name+"A", bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
       }
       else{
         return {text: name, bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
@@ -1131,7 +1147,7 @@ buildReportForRatios(eachReport, actuals, projections){
         headerRows: 2,
         height: "auto",
         // width:'auto',
-        widths: [200, 65, 65, 65, 65, 65, 65, 65, 65, 65, 65],
+        widths: this.getWidthsForRatios(),
         body: finalDataForLiquidity
       },
       layout: {
@@ -1167,6 +1183,12 @@ buildReportForRatios(eachReport, actuals, projections){
     const returnRatiosHeaders = returnRatiosKeys.map( (name, index) => {
       if(index == 0){
         return {text: "Return Ratios", bold: true, fillColor: '#164A5B', color: "#fff", margin: [10, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
+      }
+      else if (index <= (returnRatiosKeys.length - 3) && index >= (returnRatiosKeys.length - 7)){
+        return {text: name+"E", bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
+      }
+      else if(index <= (returnRatiosKeys.length - 8) && index >= (returnRatiosKeys.length - 10)){
+        return {text: name+"A", bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
       }
       else{
         return {text: name, bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
@@ -1218,7 +1240,7 @@ buildReportForRatios(eachReport, actuals, projections){
           headerRows: 2,
           height: 'auto',
           // width:'auto',
-          widths: [200, 65, 65, 65, 65, 65, 65, 65, 65, 65, 65],
+          widths: this.getWidthsForRatios(),
           body: finalDataForReturn
         },
         layout: {
@@ -1255,6 +1277,12 @@ buildReportForRatios(eachReport, actuals, projections){
     const profitabilityRatiosHeaders = profitabilityRatiosKeys.map( (name, index) => {
       if(index == 0){
         return {text: "Profitability Ratios", bold: true, fillColor: '#164A5B', color: "#fff", margin: [10, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
+      }
+      else if (index <= (profitabilityRatiosKeys.length - 3) && index >= (profitabilityRatiosKeys.length - 7)){
+        return {text: name+"E", bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
+      }
+      else if(index <= (profitabilityRatiosKeys.length - 8) && index >= (profitabilityRatiosKeys.length - 10)){
+        return {text: name+"A", bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
       }
       else{
         return {text: name, bold: true, fillColor: '#164A5B', color: "#fff", margin: [0, 10, 0, 10], border: [10, 10, 10, 10], alignment: "left"}
@@ -1308,7 +1336,7 @@ buildReportForRatios(eachReport, actuals, projections){
           headerRows: 2,
           height: "auto",
           // width:'auto',
-          widths: [200, 65, 65, 65, 65, 65, 65, 65, 65, 65, 65],
+          widths: this.getWidthsForRatios(),
           body: finalDataForProfit
         },
         layout: {
@@ -2006,17 +2034,41 @@ buildReportForRatios(eachReport, actuals, projections){
     return content;
   }
 
-  exportToFinalPDf(content) {
+  exportToFinalPDf(content, cover) {
     let docDefinition = {
       // footer: function(currentPage, pageCount) { return currentPage.toString() + ' of ' + pageCount; },
 
+      // working 
+      // pageSize: {
+      //   width: 970,
+      //   height: 975,
+      // },
+
       pageSize: {
-        width: 970,
-        height: 'auto',
+        width: 1050,
+        height: 920,
+      },
+
+      background: function(currentPage, pageSize) {
+        // return `page ${currentPage} with size ${pageSize.width} x ${pageSize.height}`
+        console.log(currentPage);
+        console.log(pageSize)
+
+        return currentPage == 1 ? {
+          image: cover,
+          // fit: [1200, 400],
+          absolutePosition: { x: 0, y: 0 },
+          // width: 980,
+          width: 920, //* 0.7487922705314,
+          height: 1050,
+          pageOrientation: "portrait",
+          margin: [0, 0, 0, 0],
+          // pageBreak: 'after',
+        } : "";
       },
       // pageSize: 'A5',
-      // pageOrientation: 'landscape',
-      pageMargins: [35, 40, 20, 40],
+      pageOrientation: 'portrait',
+      pageMargins: [25, 60, 25, 40],
       content: content,
       styles: {
         header: {
@@ -2039,6 +2091,10 @@ buildReportForRatios(eachReport, actuals, projections){
     console.log(currentDate);
 
     pdfMake.createPdf(docDefinition).download("RMI_Insights_Report_ "+ currentDate +".pdf");
+
+    setTimeout(() => {
+      this.dialog.closeAll();
+    }, 1500);
   }
 
   exportToPDFIS() {
@@ -2167,7 +2223,9 @@ buildReportForRatios(eachReport, actuals, projections){
           headerRows: 1,
           heights: 20,
           //width:'auto',
-          widths: [250, 75, 75, 75, 75, 75, 75, 75, 75],
+          // widths: [250, 75, 75, 75, 75, 75, 75, 75, 75],
+          widths: [235, 70, 70, 70, 70, 70, 70, 70, 70],
+
           body: data,
         },
         layout: {
@@ -2337,7 +2395,9 @@ buildReportForRatios(eachReport, actuals, projections){
           headerRows: 1,
           heights: 20,
           //width:'auto',
-          widths: [250, 85, 85, 85, 85, 85, 85, 85],
+          // widths: [250, 85, 85, 85, 85, 85, 85, 85],
+          widths: [230, 82, 82, 82, 82, 82, 82, 82],
+          
           body: data,
         },
         layout: {
@@ -2498,7 +2558,8 @@ buildReportForRatios(eachReport, actuals, projections){
           headerRows: 1,
           heights: 20,
           //width:'auto',
-          widths: [250, 85, 85, 85, 85, 85, 85, 85],
+          // widths: [250, 85, 85, 85, 85, 85, 85, 85],
+          widths: [230, 82, 82, 82, 82, 82, 82, 82],
           body: data,
         },
         layout: {
@@ -2618,7 +2679,7 @@ buildReportForRatios(eachReport, actuals, projections){
           headerRows: 1,
           heights: 20,
           // width:'auto',
-          widths: [100, 475, 100, 100, 85],
+          widths: this.getWidthsForKPI(),
           body: dataForActuals
         },
         layout: {
@@ -2663,7 +2724,7 @@ buildReportForRatios(eachReport, actuals, projections){
           headerRows: 1,
           heights: 20,
           // width:'auto',
-          widths: [100, 475, 100, 100, 85],
+          widths: this.getWidthsForKPI(),
           body: dataForProj,
         },
         layout: {
@@ -2786,7 +2847,7 @@ buildReportForRatios(eachReport, actuals, projections){
           headerRows: 1,
           heights: 20,
           // width:'auto',
-          widths: [100, 475, 100, 100, 85],
+          widths: this.getWidthsForKPI(),
           body: dataForActuals
         },
         layout: {
@@ -2830,7 +2891,7 @@ buildReportForRatios(eachReport, actuals, projections){
           headerRows: 1,
           heights: 20,
           // width:'auto',
-          widths: [100, 475, 100, 100, 85],
+          widths: this.getWidthsForKPI(),
           body: dataForProj,
         },
         layout: {
@@ -2950,7 +3011,7 @@ buildReportForRatios(eachReport, actuals, projections){
           headerRows: 1,
           heights: 20,
           // width:'auto',
-          widths: [100, 475, 100, 100, 85],
+          widths: this.getWidthsForKPI(),
           body: dataForActuals
         },
         layout: {
@@ -2994,7 +3055,7 @@ buildReportForRatios(eachReport, actuals, projections){
           headerRows: 1,
           heights: 20,
           // width:'auto',
-          widths: [100, 475, 100, 100, 85],
+          widths: this.getWidthsForKPI(),
           body: dataForProj,
         },
         layout: {
@@ -3104,7 +3165,7 @@ buildReportForRatios(eachReport, actuals, projections){
           headerRows: 1,
           heights: 20,
           // width:'auto',
-          widths: [280, 50, 80, 80, 80, 80, 80, 50, 50],
+          widths: [250, 49, 79, 79, 79, 79, 79, 49, 49],
           body: tableRows,
         },
         layout: {
@@ -3539,5 +3600,14 @@ getMappedArrS(inputArr,rowIndex) {
     });
 
     return arr;
+  }
+
+
+  getWidthsForRatios(){
+    return [180, 59, 59, 59, 59, 59, 67, 60, 59, 59, 59]
+  }
+
+  getWidthsForKPI(){
+    return [100, 447, 100, 100, 85]
   }
 }

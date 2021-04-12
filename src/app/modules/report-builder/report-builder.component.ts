@@ -94,6 +94,10 @@ export class ReportBuilderComponent implements OnInit {
 
   showValuations = false;
 
+  coverImage;
+
+  showCoverImage = false;
+
   dcf;
   @ViewChild('firstBlock', { static: false }) firstBlock: ElementRef;
   valuationSummary;
@@ -120,6 +124,7 @@ export class ReportBuilderComponent implements OnInit {
     );
 
     this.loadCompanies();
+
     }
     else{
       const intervalID = setInterval(() => {
@@ -154,7 +159,7 @@ export class ReportBuilderComponent implements OnInit {
     srcObj.selectedMetric = selectedMetric;
   }
 
-  loadCompany(comp) {
+  loadCompany(comp) {    
     this.companyLoaded = false;
     this.showScenario = false;
 
@@ -210,21 +215,24 @@ export class ReportBuilderComponent implements OnInit {
     canvas.width = this.imagecanvas.nativeElement.width;
     canvas.height = this.imagecanvas.nativeElement.height;
     canvas.getContext('2d').drawImage(this.imagecanvas.nativeElement, 0, 0);
-    const imagermi = canvas.toDataURL('image/png');
-	
-	var canvas1 = document.createElement('canvas');
-    canvas1.width = this.imagecover.nativeElement.width;
-    canvas1.height = this.imagecover.nativeElement.height;
-    canvas1.getContext('2d').drawImage(this.imagecover.nativeElement, 0, 0);  
-    const imagermicover = canvas1.toDataURL('image/png');
-
+    const imagermi = canvas.toDataURL('image/png', 1);
 
     await this.initScenario(this.selectedScenario);
     this.showValuations = true;
 
+    this.showCoverImage = true;
+
     setTimeout(() => {
-      this.exportToPdf1(imagermi,imagermicover);
+      html2canvas(this.imagecover.nativeElement, {scale: 5}).then((canvas1) => {
+        this.coverImage = canvas1.toDataURL();
+        this.showCoverImage = false;
+        this.exportToPdf1(imagermi,this.coverImage);
+      }); 
     }, 1500);
+
+    // setTimeout(() => {
+    //   this.exportToPdf1(imagermi,imagermicover);
+    // }, 1500);
     }
     
   }
@@ -438,56 +446,56 @@ export class ReportBuilderComponent implements OnInit {
       text:
         this.selectedCompany.compName + " - " + "Scenario "  + this.selectedScenario,
         style: 'subheader',
-        pageOrientation: "landscape",
+        pageOrientation: "portrait",
     })
-    html2canvas(this.firstBlock.nativeElement).then((canvas1) => {
+    html2canvas(this.firstBlock.nativeElement, {scale: 5}).then((canvas1) => {
       const canvasData1 = canvas1.toDataURL();
       content.push({
         image: canvasData1,
-        width: 850,
-        pageOrientation: "landscape",
-        margin: [10, 10, 30, 10]
+        width: 880,
+        pageOrientation: "portrait",
+        margin: [0, 10, 0, 10]
         // height: 470
       });
 
 
-      html2canvas(this.unleveredFreeCashFlow.nativeElement).then((canvas2) => {
+      html2canvas(this.unleveredFreeCashFlow.nativeElement, {scale: 5}).then((canvas2) => {
         content.push({
           image: canvas2.toDataURL(),
-          width: 850,
-          pageOrientation: "landscape",
-          margin: [30, 10, 30, 10]
+          width: 870,
+          pageOrientation: "portrait",
+          margin: [0, 10, 0, 10]
           // height: 430
         });
 
         // this.unleveredFreeCashFlow.nativeElement.style.display = "none"
 
 
-        html2canvas(this.valuations.nativeElement).then((canvas3) => {
+        html2canvas(this.valuations.nativeElement,  {scale: 5}).then((canvas3) => {
           content.push({
             image: canvas3.toDataURL(),
-            width: 850,
-            pageOrientation: "landscape",
-            margin: [30, 10, 30, 10]
+            width: 870,
+            pageOrientation: "portrait",
+            margin: [0, 10, 0, 10]
             // height: 220
           });
 
           // this.valuations.nativeElement.style.display = "none"
 
-          html2canvas(this.valSummary.nativeElement).then((canvas4) => {
+          html2canvas(this.valSummary.nativeElement,  {scale: 5}).then((canvas4) => {
             content.push({
               image: canvas4.toDataURL(),
               width: 400,
-              pageOrientation: "landscape",
+              pageOrientation: "portrait",
               pageBreak: 'after',
-              margin: [30, 10, 30, 10]
+              margin: [0, 10, 0, 10]
             });
 
             
 
             // this.valSummary.nativeElement.style.display = "none"
 
-            this.showValuations = false;
+            // this.showValuations = false;
             if (
               this.reportSelection &&
               this.selectedCompany &&

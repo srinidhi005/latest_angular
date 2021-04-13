@@ -52,7 +52,7 @@ export class StatementComponent implements OnInit {
   horizontalPosition: MatSnackBarHorizontalPosition = 'center';
   verticalPosition: MatSnackBarVerticalPosition = 'top';
   progressBar: boolean;
-  editModeOn: boolean = false;
+  editModeOn = false;
   selectedRowIndex = -1;
   dataset: any = [];
   downloadLink: any;
@@ -78,6 +78,9 @@ export class StatementComponent implements OnInit {
   public downloadGroup = this.formBuilder.group({});
 
   statementsLoaded = false;
+  length: number;
+  pageIndex: number;
+  pageSize: number;
   applyFilter(event: Event) {
     const filterValue = (event.target as HTMLInputElement).value;
     this.dataSource.filter = filterValue.trim().toLowerCase();
@@ -94,82 +97,10 @@ export class StatementComponent implements OnInit {
   ) {}
   ngOnInit(): void {
     this.excelService.selectedDashboardMenu == 'MyCompanies';
-
-    if(this.authService.authServiceLoaded){
-	  // this.authService.passwordChangeSubscriber.subscribe((res) => {
-	   if (this.authService.firstTimeLogin) {
-          let dialogRef = this.dialog.open(TutorialComponent, {
-            width: '70%',
-            height: '80%',
-          });
-
-          dialogRef.afterClosed().subscribe((result) => {
-            // this.animal = result;
-          });
-        }
-	  // });
-
-      ELEMENT_DATA.length = 0;
-      const nickname = localStorage.getItem('nickname');
-      const employer = localStorage.getItem('employer');
-      this.progressBar = true;
-      const val = this.urlConfig.getStatementAPI() + employer;
-      this.apiService
-      .getData(this.urlConfig.getStatementAPI() + employer)
-      .subscribe((res: any) => {
-        if (res == '') {
-          this.progressBar = false;
-          this._snackBar.openFromComponent(snackBarStatementFailure, {
-            duration: 9000,
-            horizontalPosition: this.horizontalPosition,
-            verticalPosition: this.verticalPosition,
-          });
-        } else {
-          const data = res.map((el, index) => ({
-            ...el,
-            position: index + 1,
-            action: null,
-          }));
-          this.dataset = data;
-	  for (let index = 0; index < data.length ; index++) {
-            var pushData = {
-              position: index + 1,
-              name: data[index].companyname,
-              company: data[index].company,
-              industry: data[index].industry,
-              createdOn: data[index].createdon,
-              createdBy: data[index].createdby,
-              type: data[index].statementtype,
-              download: 'download',
-              delete: 'delete',
-              filename: data[index].filename,
-            };
-            ELEMENT_DATA.push(pushData);
-          }
-
-          this.dataSource.paginator = this.paginator;
-
-          this.dataSource._updateChangeSubscription();
-          this.progressBar = false;
-
-      
-
-	  }
-	  this.statementsLoaded = true
-	  },
-	   error => {
-        this.statementsLoaded = true
-      });
-    }
-    else{
-      const intervalID = setInterval(()=> {
-        if(this.authService.authServiceLoaded){
-          this.ngOnInit();
-          clearInterval(intervalID);
-        }
-      }, 100)
-    }
+    this.getServerData(null);
   }
+
+
 
 
   deleteDialogBox(element: any) {
@@ -221,6 +152,83 @@ export class StatementComponent implements OnInit {
   }
   saveCompanyName(compObj, index) {
     // APICALL to save the comp Name
+  }
+
+  private getServerData(event?: PageEvent) {
+    if (this.authService.authServiceLoaded) {
+      // this.authService.passwordChangeSubscriber.subscribe((res) => {
+      if (this.authService.firstTimeLogin) {
+        const dialogRef = this.dialog.open(TutorialComponent, {
+          width: '70%',
+          height: '80%',
+        });
+
+        dialogRef.afterClosed().subscribe((result) => {
+          // this.animal = result;
+        });
+      }
+      // });
+      ELEMENT_DATA.length = 0;
+      const nickname = localStorage.getItem('nickname');
+      const employer = localStorage.getItem('employer');
+      this.progressBar = true;
+      const val = this.urlConfig.getStatementAPI() + employer;
+      const pageIndex = event ? event.pageIndex + 1 : 1;
+      const pageSize = event ? event.pageSize : 100;
+      this.apiService
+        .getData(this.urlConfig.getStatementAPI() + 'rmiinsights', pageIndex, pageSize)
+        .subscribe((res: any) => {
+            if (res == '') {
+              this.progressBar = false;
+              this._snackBar.openFromComponent(snackBarStatementFailure, {
+                duration: 9000,
+                horizontalPosition: this.horizontalPosition,
+                verticalPosition: this.verticalPosition,
+              });
+            } else {
+              const data = JSON.parse(res.result).map((el, index) => ({
+                ...el,
+                position: index + 1,
+                action: null,
+              }));
+              this.dataset = data;
+              for (let index = 0; index < data.length ; index++) {
+                const pushData = {
+                  position: index + 1,
+                  name: data[index].companyname,
+                  company: data[index].company,
+                  industry: data[index].industry,
+                  createdOn: data[index].createdon,
+                  createdBy: data[index].createdby,
+                  type: data[index].statementtype,
+                  download: 'download',
+                  delete: 'delete',
+                  filename: data[index].filename,
+                };
+                ELEMENT_DATA.push(pushData);
+              }
+
+              this.dataSource.paginator = this.paginator;
+              this.pageIndex = res.pageIndex;
+              this.pageSize = res.pageSize;
+              this.length = res.length;
+
+              this.dataSource._updateChangeSubscription();
+              this.progressBar = false;
+            }
+            this.statementsLoaded = true;
+          },
+          error => {
+            this.statementsLoaded = true;
+          });
+    } else {
+      const intervalID = setInterval(() => {
+        if (this.authService.authServiceLoaded) {
+          this.ngOnInit();
+          clearInterval(intervalID);
+        }
+      }, 100);
+    }
   }
 }
 

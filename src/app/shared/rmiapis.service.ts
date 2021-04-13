@@ -37,11 +37,16 @@ export class RMIAPIsService {
     });
   }
 
-  getData(url: string) {
+  getData(url: string, page = 1, perPage = 100 ) {
     if (!url.startsWith("http")) {
       url = `${environment.APIHost}${url}`;
     }
-    return this.http.get(url, { headers: this.GETheaders }).pipe(
+    return this.http.get(url, {
+      headers: this.GETheaders,
+      params: {
+        per_page: perPage,
+        page: page
+      } }).pipe(
       catchError((err) => {
         console.log("Handling error getData", err);
         return throwError(err);

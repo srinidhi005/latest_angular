@@ -176,7 +176,7 @@ export class StatementComponent implements OnInit {
       const pageIndex = event ? event.pageIndex + 1 : 1;
       const pageSize = event ? event.pageSize : 100;
       this.apiService
-        .getData(this.urlConfig.getStatementAPI() + 'rmiinsights', pageIndex, pageSize)
+        .getData(this.urlConfig.getStatementAPI() + employer, pageIndex, pageSize)
         .subscribe((res: any) => {
             if (res == '') {
               this.progressBar = false;

@@ -44,9 +44,9 @@ export class RMIAPIsService {
     return this.http.get(url, {
       headers: this.GETheaders,
       params: {
-        per_page: perPage,
-        page: page
-      } }).pipe(
+        per_page: String(perPage),
+        page: String(page)
+      }}).pipe(
       catchError((err) => {
         console.log("Handling error getData", err);
         return throwError(err);

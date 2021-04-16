@@ -1,5 +1,5 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
-import { MatTableDataSource, MatPaginator } from '@angular/material';
+import { MatTableDataSource, MatPaginator, PageEvent } from '@angular/material';
 import { RMIAPIsService } from '../../shared/rmiapis.service';
 import { UrlConfigService } from 'src/app/shared/url-config.service';
 import { UserDetailModelService } from 'src/app/shared/user-detail-model.service';

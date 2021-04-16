@@ -18,7 +18,7 @@ import { AuthService } from 'src/app/auth.service';
 })
 export class ComparatorComponent implements OnInit {
 
-  constructor(private urlConfig : UrlConfigService, 
+  constructor(private urlConfig : UrlConfigService,
     private apiService : RMIAPIsService,
     public excelService : ExcelService,
     public authService : AuthService) { }
@@ -28,14 +28,14 @@ export class ComparatorComponent implements OnInit {
   selectedCompanyTwo;
   selectedCompanyThree;
   selectedCompanyFour;
-   
+
   selectedSenarioForCompOne;
   selectedSenarioForCompTwo;
   selectedSenarioForCompThree;
   selectedSenarioForCompFour;
 
   typeOfFinancials = "Historical";
-  
+
   employer;
   progressBar = false;
 
@@ -49,11 +49,11 @@ export class ComparatorComponent implements OnInit {
 
   benchmarkingActualsThree;
   benchmarkingProjectionsThree;
-	
+
    benchmarkingActualsFour;
-  benchmarkingProjectionsFour;	
-	
-	
+  benchmarkingProjectionsFour;
+
+
   scenariosForCompanyOne;
   scenariosForCompanyTwo;
   scenariosForCompanyThree;
@@ -67,7 +67,7 @@ export class ComparatorComponent implements OnInit {
 
 	ngOnInit(): void {
 	  this.excelService.selectedDashboardMenu = 'comparator'
-    
+
     if(this.authService.authServiceLoaded){
       this.progressBar = true;
       this.employer = localStorage.getItem('employer');
@@ -105,7 +105,7 @@ export class ComparatorComponent implements OnInit {
       const scenarios : any = await this.apiService.getData(this.urlConfig.getScenarioAPI()+srcObj.companyname).toPromise();
       loadedCompScenarios = scenarios.scenarios;
     } catch (error) {
-      
+
     }
     this.progressBar = true;
     let selectedComp;
@@ -176,7 +176,7 @@ export class ComparatorComponent implements OnInit {
 
       console.log(bmActuals)
     } catch (error) {
-      
+
     }
 
     try {
@@ -193,10 +193,10 @@ export class ComparatorComponent implements OnInit {
 	  else{
         this.benchmarkingProjectionsFour = bmProjections[0];
       }
-    
+
       console.log(bmProjections)
     } catch (error) {
-      
+
     }
 
     this.progressBar = false;
@@ -209,12 +209,12 @@ export class ComparatorComponent implements OnInit {
   async loadComparator(){
     this.progressBar = true;
     try {
-      const companiesAPIData : any = await this.apiService.getData(this.urlConfig.getStatementAPI() + this.employer).toPromise();
-      this.allCompanies = companiesAPIData.map( comp => { 
+      const companiesAPIData : any = await this.apiService.getData(this.urlConfig.getStatementAPI() + "rmiinsights").toPromise();
+      this.allCompanies = JSON.parse(companiesAPIData.result).map( comp => {
         return {companyname: comp.companyname, company: comp.company};
       })
     } catch (error) {
-      
+
     }
 
     // this.selectedCompany = localStorage.getItem('companySelected');
@@ -232,28 +232,28 @@ export class ComparatorComponent implements OnInit {
       const scenariosOne : any = await this.apiService.getData(this.urlConfig.getScenarioAPI()+this.selectedCompanyOne.companyname).toPromise();
       this.scenariosForCompanyOne = scenariosOne.scenarios;
     } catch (error) {
-     
+
     }
 
     try {
       const scenariosTwo : any = await this.apiService.getData(this.urlConfig.getScenarioAPI()+this.selectedCompanyTwo.companyname).toPromise();
       this.scenariosForCompanyTwo = scenariosTwo.scenarios;
     } catch (error) {
-      
+
     }
 
     try {
       const scenariosThree : any = await this.apiService.getData(this.urlConfig.getScenarioAPI()+this.selectedCompanyThree.companyname).toPromise();
       this.scenariosForCompanyThree = scenariosThree.scenarios;
     } catch (error) {
-     
+
     }
-	
+
 	try {
       const scenariosFour : any = await this.apiService.getData(this.urlConfig.getScenarioAPI()+this.selectedCompanyFour.companyname).toPromise();
       this.scenariosForCompanyFour = scenariosFour.scenarios;
     } catch (error) {
-     
+
     }
 
 
@@ -261,28 +261,28 @@ export class ComparatorComponent implements OnInit {
       const bmActualsOne =  await this.apiService.getData(this.urlConfig.getBenchmarkingActualsAPI() + this.selectedCompanyOne.companyname).toPromise();
       this.benchmarkingActualsOne = bmActualsOne[0];
     } catch (error) {
-     
+
     }
 
     try {
       const bmProjectedOne = await this.apiService.getData(this.urlConfig.getBenchmarkingProjectionsAPI() + this.selectedCompanyOne.companyname+ "&scenario=" + this.selectedSenarioForCompOne).toPromise();
       this.benchmarkingProjectionsOne = bmProjectedOne[0];
     } catch (error) {
-      
+
     }
 
     try {
       const bmActualsTwo = await this.apiService.getData(this.urlConfig.getBenchmarkingActualsAPI() + this.selectedCompanyTwo.companyname).toPromise();
       this.benchmarkingActualsTwo = bmActualsTwo[0];
     } catch (error) {
-      
+
     }
 
     try {
       const bmProjectedTwo = await this.apiService.getData(this.urlConfig.getBenchmarkingProjectionsAPI() + this.selectedCompanyTwo.companyname + "&scenario=" + this.selectedSenarioForCompTwo).toPromise();
       this.benchmarkingProjectionsTwo = bmProjectedTwo[0];
     } catch (error) {
-      
+
     }
 
 
@@ -290,32 +290,32 @@ export class ComparatorComponent implements OnInit {
       const bmActualsThree = await this.apiService.getData(this.urlConfig.getBenchmarkingActualsAPI() + this.selectedCompanyThree.companyname).toPromise();
       this.benchmarkingActualsThree = bmActualsThree[0];
     } catch (error) {
-      
+
     }
 
     try {
       const bmProjectedThree = await this.apiService.getData(this.urlConfig.getBenchmarkingProjectionsAPI() + this.selectedCompanyThree.companyname + "&scenario=" + this.selectedSenarioForCompThree).toPromise();
       this.benchmarkingProjectionsThree = bmProjectedThree[0];
     } catch (error) {
-      
+
     }
-	
+
 	try {
       const bmActualsFour = await this.apiService.getData(this.urlConfig.getBenchmarkingActualsAPI() + this.selectedCompanyFour.companyname).toPromise();
       this.benchmarkingActualsFour = bmActualsFour[0];
     } catch (error) {
-      
+
     }
-	
-	
+
+
 	try {
       const bmProjectedFour = await this.apiService.getData(this.urlConfig.getBenchmarkingProjectionsAPI() + this.selectedCompanyFour.companyname + "&scenario=" + this.selectedSenarioForCompFour).toPromise();
       this.benchmarkingProjectionsFour = bmProjectedFour[0];
     } catch (error) {
-     
+
     }
-	
-	
+
+
     this.progressBar = false;
 
     this.comparatorLoaded = true;
@@ -326,8 +326,8 @@ exportToPDF() {
     const financials = [this.typeOfFinancials, "", "", "", ""]
     const companies = ["" ,this.selectedCompanyOne.companyname, this.selectedCompanyTwo.companyname, this.selectedCompanyThree.companyname, this.selectedCompanyFour.companyname]
     const scenarios = ["", this.selectedSenarioForCompOne, this.selectedSenarioForCompTwo, this.selectedSenarioForCompThree, this.selectedSenarioForCompFour]
-        
-  
+
+
     const headersOne = financials.map( (name, index) => {
       if(index == 0){
         return {text: name, bold: true, fillColor: '#fff', color: "#000", margin: [10, 10, 0, 10], border: [0, 0, 0, 0], alignment: "left"}
@@ -503,7 +503,7 @@ exportToPDF() {
         },
       },
     };
-    
+
 
     pdfMake.createPdf(docDefinition).download();
   }
@@ -513,7 +513,7 @@ exportToPDF() {
       if(index == 0){
         return  {
           text: value,
-          margin: [0, 10, 0, 10],          
+          margin: [0, 10, 0, 10],
           alignment: 'left',
           bold: true,
         };

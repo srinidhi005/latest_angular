@@ -15,7 +15,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./company-details.component.scss']
 })
 export class CompanyDetailsComponent implements OnInit {
-	
+
 
  @ViewChild('uploadFile', { static: false }) uploadFile: ElementRef;
   horizontalPosition: MatSnackBarHorizontalPosition = 'center';
@@ -90,7 +90,6 @@ industry:any[]= ['Communication Services', 'Consumer Discretionary', 'Consumer S
         '&email=' +
         this.email
     ).subscribe((res: any) => {
-      console.log(res);
       this.firstname = res[0]?res[0].firstname:'';
       this.lastname = res[0]?res[0].lastname:'';
       this.title = res[0]?res[0].title:'';
@@ -138,11 +137,6 @@ industry:any[]= ['Communication Services', 'Consumer Discretionary', 'Consumer S
     postForm.append('companysize', this.form.value.companysize);
     postForm.append('capatialization', this.form.value.capatialization);
     postForm.append('revenue', this.form.value.revenue);
-    console.log(JSON.stringify(postForm));
-
-    postForm.forEach((value, key) => {
-      console.log(key + ' ' + value);
-    });
 
     this.inprogress = true;
     this.RMIAPIsService.uploadUserData(

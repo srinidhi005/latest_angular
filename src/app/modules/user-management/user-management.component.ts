@@ -92,17 +92,15 @@ export class UserManagementComponent implements OnInit {
       this.loggedInUserDetails.email = localStorage.getItem('email');
       // this.loggedInUserDetails.picture = localStorage.getItem('picture');
       this.loggedInUserDetails.role = localStorage.getItem('role');
-  
+
       this.apiService
         .getData(this.urlConfig.getUserAdminAPI() + this.loggedInUserId)
         .subscribe(
           (res) => {
-            console.log('fetched Users Succesfully', res, this.loggedInUserId);
             this.MappedUsers = res;
             //fetching all the users
             this.authService.getActiveUsers().subscribe(
               (response: any) => {
-                console.log('fetched Users Succesfuly without c', response);
                 this.progressBar = false;
                 if (response['body'] && response['body'].length > 0) {
                   if (this.authService.currentUserRoles[0] == 'SuperAdmin') {
@@ -128,14 +126,12 @@ export class UserManagementComponent implements OnInit {
               (error) => {
                 this.progressBar = false;
                 this.userManagementLoaded = true
-                console.log('failed to fetch the Users', error);
               }
             );
           },
           (error) => {
             this.progressBar = false;
             this.userManagementLoaded = true
-            console.log('failed to fetch the Users', error);
           }
         );
     }
@@ -186,22 +182,12 @@ export class UserManagementComponent implements OnInit {
 
   changePas() {
     this.authService.changePassword(this.loggedInUserDetails.email).subscribe(
-      (res) => {
-        console.log('RES', res);
-      },
-      (error) => {
-        console.log('error', error);
-      }
+      (res) => {},
+      (error) => {}
     );
   }
 
   deleteUser(toBeDeletedUser) {
-    console.log(
-      'DELETED USER',
-      toBeDeletedUser.user_id,
-      toBeDeletedUser.nickname
-    );
-
     if (toBeDeletedUser) {
       this.usersList = this.usersList.filter((u) => {
         return u.user_id != toBeDeletedUser.user_id;
@@ -212,7 +198,6 @@ export class UserManagementComponent implements OnInit {
     //deleting user from the auth0
     this.authService.deleteUser(toBeDeletedUser.user_id).subscribe(
       (res) => {
-        console.log('auth0Del', res);
         if (true) {
           //user succesfully deleted from auth0
 
@@ -227,35 +212,23 @@ export class UserManagementComponent implements OnInit {
             )
             .subscribe(
               (response) => {
-                console.log('deleteuserresponse', response);
                 this.openSnackBar('User Deleted Successfully!');
               },
               (error) => {
-                console.log('failed to delete the Users', error);
                 this.openSnackBar('Failed To Delete User');
               }
             );
         }
       },
-      (error) => {
-        console.log('Unable to delete user from the auth0');
-      }
+      (error) => {}
     );
   }
 
   assignRoleToUser(user) {
     const role = this.authService.getRoleIdByRoleName(user.roleName);
-    console.log('user', user);
-    //updating the roles in app_metadata
     if (role) {
       this.authService.assignRolesToUser(role.id, user.user_id).subscribe(
         (res) => {
-          console.log('userid', user.user_id);
-          console.log(
-            'Assigned role succesfully to the User ' + user.nickname,
-            res
-          );
-
           let body;
 
           if (user.app_metadata && user.app_metadata?.roles) {
@@ -270,13 +243,8 @@ export class UserManagementComponent implements OnInit {
           }
 
           this.authService.updateUsers(body, user.user_id).subscribe(
-            (update) => {
-              console.log('updateusers', update);
-              this.openSnackBar('Users Role Successfully Updated!');
-            },
-            (error) => {
-              console.log('update the Users failed', error);
-            }
+            (update) => {},
+            (error) => {}
           );
         },
         (error) => {

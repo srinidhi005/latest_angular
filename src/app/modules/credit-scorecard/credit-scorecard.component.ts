@@ -23,8 +23,8 @@ export class CreditScorecardComponent implements OnInit {
   scoreCardLoaded = false;
   //scoreCardData = {"avgebitdamargin": 4.0, "avggrossmargin": 5.0, "capexpercent": 5.0, "companyname": "Nike2547781", "currentratio": 5.0, "ebitdacagr": 2.0, "factorweight": 10.0, "fromyear": 2017, "overallscorecard": 4.4, "returnassets": 5.0, "returnequity": 4.0, "revenuecagr": 4.0, "solvencyratio": 5.0, "totaldebtebitda": 5.0, "toyear": 2018}
 
-  constructor(     
-	
+  constructor(
+
     private apiService: RMIAPIsService,
     private urlConfig: UrlConfigService,
     public authService : AuthService) { }
@@ -32,10 +32,9 @@ export class CreditScorecardComponent implements OnInit {
   ngOnInit(): void {
     if(this.authService.authServiceLoaded){
       this.apiService.getData(this.urlConfig.getCreditScoreCardAPI() + this.companySelected).subscribe( res => {
-        console.log("RES", res);
       this.scoreCardData=res[0];
       this.scoreCardData1=res[1];
-      
+
       this.sumProduct=(((this.scoreCardData.revenuecagr)*(this.scoreCardData.factorweight/100))+
       ((this.scoreCardData.avggrossmargin)*(this.scoreCardData.factorweight/100))+
       ((this.scoreCardData.avgebitdamargin)*(this.scoreCardData.factorweight/100))+
@@ -46,11 +45,8 @@ export class CreditScorecardComponent implements OnInit {
       +((this.scoreCardData.returnequity)*(this.scoreCardData.factorweight/100))+
       ((this.scoreCardData.solvencyratio)*(this.scoreCardData.factorweight/100))+
       ((this.scoreCardData.ebitdacagr)*(this.scoreCardData.factorweight/100)));
-      console.log("socre",this.sumProduct);
       this.scoreCardLoaded = true;
-    }, error => {
-        console.log(error);
-      })
+    }, error => {})
     }
     else{
       const intervalID = setInterval(()=> {
@@ -78,9 +74,9 @@ exportToPdf(){
 
     html2canvas(this.creditScoreCard.nativeElement).then(canvas1 => {
       const canvasData1 = canvas1.toDataURL();
-	  
+
       content.push(
-	   
+
 	  {
         image: imagermi,
         width: 110, height: 60
@@ -101,14 +97,14 @@ exportToPdf(){
             width:850,
             height: 'auto'
           },
-    
+
           pageMargins: [40, 40, 40, 40],
           content: content
         };
 
         pdfMake.createPdf(docDefinition).download('RMI_Insights_Export_'+this.companySelected+'_'+ '.pdf');
-           
-    });  
+
+    });
   }
 
 }

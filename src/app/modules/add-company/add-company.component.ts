@@ -18,9 +18,7 @@ export class AddCompanyComponent implements OnInit {
   companyname: any;
   createdby: any;
   period:any[]=['Monthly', 'Quarterly', 'Yearly'];
-  //accessType:any[]=['Public', 'Private'];
-  statementType:any[]=['Private','Public'];
-  //industry:any[]=['Communications', 'Consumer & Retail','Distribution & Logistics', 'Energy & Natural Resources','Entertainment & Media','Financial Institutions & Sponsors', 'Food & Beverage', 'General Services', 'Healthcare','Hospitality','Industrials','Power, Infrastructure & Utilities','Real Estate','Technology','Telecommunications','Transportation']
+  statementType:any[] = ['Private','Public'];
   industry:any[]= ['Communication Services', 'Consumer Discretionary', 'Consumer Staples', 'Energy', 'Financials', 'Healthcare', 'Industrials', 'Information Technology', 'Materials', 'Pharmaceuticals', 'Real Estate', 'Utilities']
   inprogress: boolean = false;
   form = new FormGroup({
@@ -39,8 +37,6 @@ export class AddCompanyComponent implements OnInit {
   ) { }
 
 
-
-
   ngOnInit():void{}
 
   hasError(field: string, error: string) {
@@ -56,7 +52,7 @@ export class AddCompanyComponent implements OnInit {
     }
     if(this.form.value.period == "Yearly"){
       this.form.value.period ="Y";
-    } 
+    }
     else if(this.form.value.period == "Quarterly"){
       this.form.value.period ="Q";
     }
@@ -77,7 +73,7 @@ export class AddCompanyComponent implements OnInit {
    postForm.forEach((value,key) => {
       console.log(key+" "+value)
     });
-    
+
     this.inprogress = true;
     this.RMIAPIsService.uploadData(this.UrlConfigService.getuploadStatementAPI(),postForm)
     .subscribe((res:any)=>{

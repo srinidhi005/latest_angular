@@ -10,7 +10,7 @@ import { ExcelService } from 'src/app/shared/excel.service';
 import {
   MatSnackBar,
   MatSnackBarHorizontalPosition,
-  MatSnackBarVerticalPosition,
+  MatSnackBarVerticalPosition
 } from '@angular/material/snack-bar';
 import { FormBuilder } from '@angular/forms';
 import {
@@ -18,8 +18,9 @@ import {
   state,
   style,
   transition,
-  trigger,
+  trigger
 } from '@angular/animations';
+
 export interface PeriodicElement {
   name: string;
   position: number;
@@ -32,7 +33,9 @@ export interface PeriodicElement {
   filename: any;
   type: string;
 }
+
 const ELEMENT_DATA: PeriodicElement[] = [];
+
 @Component({
   selector: 'app-statement',
   templateUrl: './statement.component.html',
@@ -44,9 +47,9 @@ const ELEMENT_DATA: PeriodicElement[] = [];
       transition(
         'expanded <=> collapsed',
         animate('225ms cubic-bezier(0.4, 0.0, 0.2, 1)')
-      ),
-    ]),
-  ],
+      )
+    ])
+  ]
 })
 export class StatementComponent implements OnInit {
   horizontalPosition: MatSnackBarHorizontalPosition = 'center';
@@ -70,7 +73,7 @@ export class StatementComponent implements OnInit {
     'createdBy',
     'type',
     'download',
-    'delete',
+    'delete'
   ];
   dataSource = new MatTableDataSource<PeriodicElement>(ELEMENT_DATA);
   @ViewChild(MatPaginator, { static: true }) paginator: MatPaginator;
@@ -81,10 +84,12 @@ export class StatementComponent implements OnInit {
   length: number;
   pageIndex: number;
   pageSize: number;
+
   applyFilter(event: Event) {
     const filterValue = (event.target as HTMLInputElement).value;
     this.dataSource.filter = filterValue.trim().toLowerCase();
   }
+
   constructor(
     private apiService: RMIAPIsService,
     private userDetailModelService: UserDetailModelService,
@@ -94,19 +99,18 @@ export class StatementComponent implements OnInit {
     public authService: AuthService,
     private _snackBar: MatSnackBar,
     public excelService: ExcelService
-  ) {}
-  ngOnInit(): void {
-    this.excelService.selectedDashboardMenu == 'MyCompanies';
-    this.getServerData(null);
+  ) {
   }
 
-
+  ngOnInit(): void {
+    this.getServerData(null);
+  }
 
 
   deleteDialogBox(element: any) {
     const dialogRef = this.dialog.open(DialogElementsExampleDialog);
     dialogRef.afterClosed().subscribe((result) => {
-      if (result == true) {
+      if (result) {
         this.deleteStatement(element);
       }
     });
@@ -119,7 +123,6 @@ export class StatementComponent implements OnInit {
       .subscribe((res: any) => {
         ELEMENT_DATA.splice(element.position - 1, 1);
         this.dataSource._updateChangeSubscription();
-        this.dataSource._renderChangesSubscription;
       });
   }
 
@@ -132,24 +135,28 @@ export class StatementComponent implements OnInit {
   loadvisualsIS() {
     this.userDetailModelService.getSelectedCompany();
   }
+
   incomeStatement(element: any) {
     localStorage.setItem('companySelected', element.name);
     localStorage.setItem('selectedCompanyName', element.company);
     this.userDetailModelService.setSelectedCompany(element.name);
     this.userDetailModelService.setSelectedScenario(0);
   }
+
   balanceStatement(element: any) {
     localStorage.setItem('companySelected', element.name);
     localStorage.setItem('selectedCompanyName', element.company);
     this.userDetailModelService.setSelectedCompany(element.name);
     this.userDetailModelService.setSelectedScenario(0);
   }
+
   cashFlowStatement(element: any) {
     localStorage.setItem('companySelected', element.name);
     localStorage.setItem('selectedCompanyName', element.company);
     this.userDetailModelService.setSelectedCompany(element.name);
     this.userDetailModelService.setSelectedScenario(0);
   }
+
   saveCompanyName(compObj, index) {
     // APICALL to save the comp Name
   }
@@ -160,7 +167,7 @@ export class StatementComponent implements OnInit {
       if (this.authService.firstTimeLogin) {
         const dialogRef = this.dialog.open(TutorialComponent, {
           width: '70%',
-          height: '80%',
+          height: '80%'
         });
 
         dialogRef.afterClosed().subscribe((result) => {
@@ -169,30 +176,29 @@ export class StatementComponent implements OnInit {
       }
       // });
       ELEMENT_DATA.length = 0;
-      const nickname = localStorage.getItem('nickname');
       const employer = localStorage.getItem('employer');
       this.progressBar = true;
       const val = this.urlConfig.getStatementAPI() + employer;
       const pageIndex = event ? event.pageIndex + 1 : 1;
       const pageSize = event ? event.pageSize : 100;
       this.apiService
-        .getData(this.urlConfig.getStatementAPI() + employer, pageIndex, pageSize)
+        .getData(val, pageIndex, pageSize)
         .subscribe((res: any) => {
-            if (res == '') {
+            if (res === '') {
               this.progressBar = false;
               this._snackBar.openFromComponent(snackBarStatementFailure, {
                 duration: 9000,
                 horizontalPosition: this.horizontalPosition,
-                verticalPosition: this.verticalPosition,
+                verticalPosition: this.verticalPosition
               });
             } else {
               const data = JSON.parse(res.result).map((el, index) => ({
                 ...el,
                 position: index + 1,
-                action: null,
+                action: null
               }));
               this.dataset = data;
-              for (let index = 0; index < data.length ; index++) {
+              for (let index = 0; index < data.length; index++) {
                 const pushData = {
                   position: index + 1,
                   name: data[index].companyname,
@@ -203,7 +209,7 @@ export class StatementComponent implements OnInit {
                   type: data[index].statementtype,
                   download: 'download',
                   delete: 'delete',
-                  filename: data[index].filename,
+                  filename: data[index].filename
                 };
                 ELEMENT_DATA.push(pushData);
               }
@@ -235,9 +241,11 @@ export class StatementComponent implements OnInit {
 @Component({
   selector: 'dialog-elements-example-dialog',
   templateUrl: 'dialogbox.html',
-  styleUrls: ['./statement.component.scss'],
+  styleUrls: ['./statement.component.scss']
 })
-export class DialogElementsExampleDialog {}
+export class DialogElementsExampleDialog {
+}
+
 @Component({
   selector: 'snackBarStatementsLoadFailure',
   templateUrl: 'snackBarStatementsLoadFailure.html',
@@ -246,13 +254,16 @@ export class DialogElementsExampleDialog {}
       .snackBar {
         color: #fff;
       }
+
       b {
         color: #fff !important;
       }
+
       .material-icons {
         color: lightgreen;
       }
-    `,
-  ],
+    `
+  ]
 })
-export class snackBarStatementFailure {}
+export class snackBarStatementFailure {
+}

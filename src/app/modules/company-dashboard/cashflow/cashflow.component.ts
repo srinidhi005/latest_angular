@@ -56,7 +56,6 @@ export class CashflowKPIComponent implements OnInit, OnDestroy {
   ) {}
 
   ngOnInit() {
-    console.log(this.companyName, this.scenario);
     this.getHistoryRecords();
     this.getProjections();
   }

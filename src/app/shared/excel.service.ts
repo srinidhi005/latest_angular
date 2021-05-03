@@ -81,7 +81,7 @@ export class ExcelService {
               }
             } else {
               if (cellNum > 1) {
-                Cell.numFmt = '0.00%';
+                Cell.numFmt = '0.0%';
               }
             }
           }
@@ -186,7 +186,7 @@ export class ExcelService {
               }
             } else {
               if (cellNum > 1) {
-                Cell.numFmt = '0.00%';
+                Cell.numFmt = '0.0%';
               }
             }
           }
@@ -285,7 +285,7 @@ export class ExcelService {
               }
             } else {
               if (cellNum > 1) {
-                Cell.numFmt = '0.00%';
+                Cell.numFmt = '0.0%';
               }
             }
           }

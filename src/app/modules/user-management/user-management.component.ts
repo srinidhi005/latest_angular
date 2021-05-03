@@ -243,14 +243,10 @@ export class UserManagementComponent implements OnInit {
           }
 
           this.authService.updateUsers(body, user.user_id).subscribe(
-            (update) => {},
-            (error) => {}
-          );
-        },
-        (error) => {
-          console.log(
-            'Error While assigning role to User ' + user.nickname,
-            error
+            (update) => {
+              console.log('updateusers', update);
+              this.openSnackBar('Users Role Successfully Updated!');
+            }
           );
         }
       );

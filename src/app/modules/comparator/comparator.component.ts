@@ -112,42 +112,36 @@ export class ComparatorComponent implements OnInit {
     let selectedComp;
     let selectedScenario;
     if (type === 'SCENARIO') {
+      selectedScenario = srcObj.companyname
       if (index === 1) {
         this.selectedSenarioForCompOne = srcObj;
-        selectedScenario = srcObj;
         selectedComp = cloneDeep(this.selectedCompanyOne);
       } else if (index === 2) {
         this.selectedSenarioForCompTwo = srcObj;
-        selectedScenario = srcObj;
         selectedComp = cloneDeep(this.selectedCompanyTwo);
       } else if (index === 3) {
         this.selectedSenarioForCompThree = srcObj;
-        selectedScenario = srcObj;
         selectedComp = cloneDeep(this.selectedCompanyThree);
       } else {
         this.selectedSenarioForCompFour = srcObj;
-        selectedScenario = srcObj;
         selectedComp = cloneDeep(this.selectedCompanyFour);
       }
     } else {
+      selectedComp = srcObj.companyname
       if (index === 1) {
         this.selectedCompanyOne = cloneDeep(srcObj);
-        selectedComp = srcObj;
         selectedScenario = this.selectedSenarioForCompOne;
         this.scenariosForCompanyOne = loadedCompScenarios;
       } else if (index === 2) {
         this.selectedCompanyTwo = cloneDeep(srcObj);
-        selectedComp = srcObj;
         selectedScenario = this.selectedSenarioForCompTwo;
         this.scenariosForCompanyTwo = loadedCompScenarios;
       } else if (index === 3) {
         this.selectedCompanyThree = cloneDeep(srcObj);
-        selectedComp = srcObj;
         selectedScenario = this.selectedSenarioForCompThree;
         this.scenariosForCompanyThree = loadedCompScenarios;
       } else {
         this.selectedCompanyFour = cloneDeep(srcObj);
-        selectedComp = srcObj;
         selectedScenario = this.selectedSenarioForCompFour;
         this.scenariosForCompanyFour = loadedCompScenarios;
       }
@@ -197,7 +191,7 @@ export class ComparatorComponent implements OnInit {
   async loadComparator() {
     this.progressBar = true;
     try {
-      const companiesAPIData: any = await this.apiService.getData(this.urlConfig.getStatementAPI() + 'rmiinsights').toPromise();
+      const companiesAPIData: any = await this.apiService.getData(this.urlConfig.getStatementAPI() + this.employer).toPromise();
       this.allCompanies = JSON.parse(companiesAPIData.result).map(comp => {
         return { companyname: comp.companyname, company: comp.company };
       });

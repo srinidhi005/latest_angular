@@ -27,6 +27,7 @@ export class RMIAPIsService {
       authorization: 'Basic cm1pX3VzZXI6cm1pMzIxIUAj',
       'cache-control': 'no-cache',
       'postman-token': '648dcbfa-30ef-3359-f29a-31b2038f29ac',
+      'Access-Control-Max-Age': '86400'
     });
     this.uploadHeaders = new HttpHeaders({
       authorization: 'Basic cm1pX3VzZXI6cm1pMzIxIUAj',

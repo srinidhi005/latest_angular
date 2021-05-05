@@ -1,49 +1,54 @@
-import { Injectable } from "@angular/core";
+import { Injectable } from '@angular/core';
 import {
   HttpClient,
   HttpEvent,
   HttpEventType,
   HttpResponse,
   HttpHeaders,
-} from "@angular/common/http";
-import { catchError } from "rxjs/operators";
-import { throwError } from "rxjs";
-import { pipe } from "rxjs";
-import { filter, map } from "rxjs/operators";
-import { environment } from "src/environments/environment";
+} from '@angular/common/http';
+import { catchError } from 'rxjs/operators';
+import { throwError } from 'rxjs';
+import { pipe } from 'rxjs';
+import { filter, map } from 'rxjs/operators';
+import { environment } from 'src/environments/environment';
 
 @Injectable({
-  providedIn: "root",
+  providedIn: 'root',
 })
 export class RMIAPIsService {
   data: Object[];
-  GETheaders: any;
-  POSTheaders: any;
-  uploadHeaders: any;
+  GETheaders;
+  POSTheaders;
+  uploadHeaders;
   constructor(private http: HttpClient) {
     this.GETheaders = new HttpHeaders({
-      "Content-Type": "application/json",
-      "Content-Encoding": "none",
-      authorization: "Basic cm1pX3VzZXI6cm1pMzIxIUAj",
-      "cache-control": "no-cache",
-      "postman-token": "648dcbfa-30ef-3359-f29a-31b2038f29ac",
+      'Content-Type': 'application/json',
+      'Content-Encoding': 'none',
+      authorization: 'Basic cm1pX3VzZXI6cm1pMzIxIUAj',
+      'cache-control': 'no-cache',
+      'postman-token': '648dcbfa-30ef-3359-f29a-31b2038f29ac',
     });
     this.uploadHeaders = new HttpHeaders({
-      authorization: "Basic cm1pX3VzZXI6cm1pMzIxIUAj",
+      authorization: 'Basic cm1pX3VzZXI6cm1pMzIxIUAj',
     });
     this.POSTheaders = new HttpHeaders({
-      authorization: "Basic cm1pX3VzZXI6cm1pMzIxIUAj",
-      "Content-Type": "application/json",
+      authorization: 'Basic cm1pX3VzZXI6cm1pMzIxIUAj',
+      'Content-Type': 'application/json',
     });
   }
 
-  getData(url: string) {
-    if (!url.startsWith("http")) {
+  getData(url: string, page = 1, perPage = 100 ) {
+    if (!url.startsWith('http')) {
       url = `${environment.APIHost}${url}`;
     }
-    return this.http.get(url, { headers: this.GETheaders }).pipe(
+    return this.http.get(url, {
+      headers: this.GETheaders,
+      params: {
+        per_page: String(perPage),
+        page: String(page)
+      }}).pipe(
       catchError((err) => {
-        console.log("Handling error getData", err);
+        console.log('Handling error getData', err);
         return throwError(err);
       })
     );
@@ -51,7 +56,7 @@ export class RMIAPIsService {
   uploadData(url: string, input: Object) {
     return this.http.post(url, input, { headers: this.uploadHeaders }).pipe(
       catchError((err) => {
-        console.log("Handling error getData", err);
+        console.log('Handling error getData', err);
         return throwError(err);
       })
     );
@@ -59,7 +64,7 @@ export class RMIAPIsService {
   uploadUserData(url: string, input: Object) {
     return this.http.post(url, input, { headers: this.uploadHeaders }).pipe(
       catchError((err) => {
-        console.log("Handling error getData", err);
+        console.log('Handling error getData', err);
         return throwError(err);
       })
     );
@@ -67,7 +72,7 @@ export class RMIAPIsService {
   postData(url: string, input: Object) {
     return this.http.post(url, input, { headers: this.POSTheaders }).pipe(
       catchError((err) => {
-        console.log("Handling error getData", err);
+        console.log('Handling error getData', err);
         return throwError(err);
       })
     );
@@ -79,7 +84,7 @@ export function toResponseBody<T>() {
     map((res: HttpResponse<T>) => res.body)
   );
 }
-const SI_SYMBOL = ["", "k", "M", "G", "T", "P", "E"];
+const SI_SYMBOL = ['', 'k', 'M', 'G', 'T', 'P', 'E'];
 
 export const abbreviateNumber = (number: number): string => {
   // what tier? (determines SI symbol)

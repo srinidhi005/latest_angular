@@ -66,7 +66,6 @@ export class IncomeStatementKpiComponent implements OnInit, OnDestroy {
   ) {}
 
   ngOnInit() {
-    console.log(this.companyName, this.scenario);
     this.getHistoryRecords();
     this.getProjections();
   }

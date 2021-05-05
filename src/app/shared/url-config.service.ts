@@ -1,8 +1,9 @@
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { environment } from 'src/environments/environment';
+
 @Injectable({
-  providedIn: 'root',
+  providedIn: 'root'
 })
 export class UrlConfigService {
   private statementAPI = `${environment.APIHost}statements?employer=`;
@@ -26,123 +27,153 @@ export class UrlConfigService {
   private getTopCompanies = `${environment.APIHost}dashboard`;
   private cashKPIProjections = `${environment.APIHost}kpi-cfs-projections?company=`;
   private cashKPIActuals = `${environment.APIHost}kpi-cfs-actuals?company=`;
-   private UserByAdmin = `${environment.APIHost}getUsersByAdmin?admin=`;
-    private UserByAdminPOST = `${environment.APIHost}updateusers?admin=`;
-	private DCFAPI = `${environment.APIHost}dcf-valuation?company=`;
-	private getcompany = `${environment.APIHost}dcf-companies?company=`;
-	private deleteuser=`${environment.APIHost}deleteusers?inviteduser=`;
- private DCFAPIPOST = `${environment.APIHost}dcf-valuation?company=`;
-   private dcfscenarioAPI = `${environment.APIHost}dcf-scenarios?company=`;
- private benchmarkingActualsAPI = `${environment.APIHost}benchmarking-actuals?company=`;
-   private benchmarkingProjectionsAPI = `${environment.APIHost}benchmarking-projections?company=`;
-private creditScoreCardAPI = `${environment.APIHost}financial-scorecard?company=`;
+  private UserByAdmin = `${environment.APIHost}getUsersByAdmin?admin=`;
+  private UserByAdminPOST = `${environment.APIHost}updateusers?admin=`;
+  private DCFAPI = `${environment.APIHost}dcf-valuation?company=`;
+  private getcompany = `${environment.APIHost}dcf-companies?company=`;
+  private deleteuser = `${environment.APIHost}deleteusers?inviteduser=`;
+  private DCFAPIPOST = `${environment.APIHost}dcf-valuation?company=`;
+  private dcfscenarioAPI = `${environment.APIHost}dcf-scenarios?company=`;
+  private benchmarkingActualsAPI = `${environment.APIHost}benchmarking-actuals?company=`;
+  private benchmarkingProjectionsAPI = `${environment.APIHost}benchmarking-projections?company=`;
+  private creditScoreCardAPI = `${environment.APIHost}financial-scorecard?company=`;
 
 
+  constructor(private http: HttpClient) {
+  }
 
-  constructor(private http: HttpClient) {}
-	getdcfCompaniesAPI()
-	{
-	return this.getcompany;
-	}
-	
-	getdeleteAPI()
-	{
-	return this.deleteuser;
-	}
-	getUserAdminAPI() {
+  getdcfCompaniesAPI() {
+    return this.getcompany;
+  }
+
+  getdeleteAPI() {
+    return this.deleteuser;
+  }
+
+  getUserAdminAPI() {
     return this.UserByAdmin;
   }
+
   PostUserAdminAPI() {
     return this.UserByAdminPOST;
   }
+
   getStatementAPI() {
     return this.statementAPI;
   }
-   getdcfPOST () {
+
+  getdcfPOST() {
     return this.DCFAPIPOST;
   }
-   getdcfscenarioAPI () {
+
+  getdcfscenarioAPI() {
     return this.dcfscenarioAPI;
   }
+
   getDCFAPI() {
     return this.DCFAPI;
   }
-getCreditScoreCardAPI(){
-   return this.creditScoreCardAPI;
- }
+
+  getCreditScoreCardAPI() {
+    return this.creditScoreCardAPI;
+  }
+
   getDeleteStatementAPI() {
     return this.deleteStatementAPI;
   }
+
   getDownloadStatementAPI() {
     return this.downloadStatementAPI;
   }
+
   getuploadStatementAPI() {
     return this.uploadStatementAPI;
   }
 
-getBenchmarkingActualsAPI(){
+  getBenchmarkingActualsAPI() {
     return this.benchmarkingActualsAPI;
   }
-  getBenchmarkingProjectionsAPI(){
+
+  getBenchmarkingProjectionsAPI() {
     return this.benchmarkingProjectionsAPI;
   }
+
   getIsActualsAPI() {
     return this.isActualsAPI;
   }
+
   getIsProjectionsAPIGET() {
     return this.isProjectionsAPIGET;
   }
+
   getIsProjectionsAPIPOST() {
     return this.isProjectionsAPIGET;
   }
+
   getScenarioAPI() {
     return this.scenarioAPI;
   }
+
   getBsActualsAPI() {
     return this.bsActualsAPI;
   }
+
   getBsProjectionsAPIGET() {
     return this.bsProjectionsAPIGET;
   }
+
   getBsProjectionsAPIPOST() {
     return this.bsProjectionsAPIGET;
   }
-   getKPICashProjections() {
+
+  getKPICashProjections() {
     return this.cashKPIProjections;
   }
+
   getKPICashActuals() {
     return this.cashKPIActuals;
   }
+
   getIsKPIActuals() {
     return this.isKPIActuals;
   }
+
   getIsKPIProjections() {
     return this.isKPIProjections;
   }
+
   getBsKPIActuals() {
     return this.bsKPIActuals;
   }
+
   getBsKPIProjections() {
     return this.bsKPIProjections;
   }
+
   getuserDetailAPI() {
     return this.userDetailAPI;
   }
+
   getCashActualsAPI() {
     return this.cashActualsAPI;
   }
+
   getCashProjectionsAPIGET() {
     return this.cashProjectionsAPI;
   }
+
   getCashProjectionsAPIPOST() {
     return this.cashProjectionsAPI;
   }
+
   getCashScenarioAPI() {
     return this.cashscenarioAPI;
   }
+
   getuserProfileDetail() {
     return this.userProfileDetailAPI;
   }
+
   getTopCompaniesAPI() {
     return this.getTopCompanies;
   }

@@ -72,6 +72,7 @@ const seriesOption = {
     ],
   },
 };
+
 @Component({
   selector: 'app-visuals-is',
   templateUrl: './visuals-is.component.html',
@@ -292,841 +293,843 @@ export class VisualsISComponent implements OnInit {
       }
       this.loadedScenario = 'Scenario ' + this.scenarioSelected;
     }
-    this.apiService
-      .getData(this.urlConfig.getIsActualsAPI() + this.companySelected)
-      .subscribe((res: any) => {
-        // tslint:disable-next-line:prefer-for-of
-        for (let j = 0; j < res.length; j++) {
-          if (res[j].latest === 0) {
-            previousAmount = res[j].totalrevenue;
-          }
-          this.financialObj.set(res[j].asof, {
-            totalRevenue: res[j].totalrevenue,
-            p_GrossProfit: res[j].grossprofit,
-            p_EBIT: res[j].ebit,
-            p_EBITDA: res[j].ebitda,
-            p_EBT: res[j].ebt,
-            p_NetInCome: res[j].netincome,
-            latest: res[j].latest,
-            revenuepercent: res[j].revenuepercent,
-            sgapercent: res[j].sgapercent,
-            cogspercent: res[j].cogspercent,
-            dapercent: res[j].dapercent,
-            netIterestExpense: res[j].netinterest,
-          });
-        }
-        this.apiService
-          .getData(this.urlConfig.getScenarioAPI() + this.companySelected)
-          .subscribe((res: any) => {
-            this.scenarioArray = res.scenarios;
-            this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
-            this.scenarioSelected = localStorage.getItem('scenarioSelected');
-            if (res.scenarios.includes(Number(this.scenarioSelected))) {
-              this.inprogress = false;
-            } else {
-              this.scenarioSelected = '0';
-              localStorage.setItem('scenarioSelected', this.scenarioSelected);
-              this.inprogress = true;
+
+    this.apiService.getData(this.urlConfig.getScenarioAPI() + this.companySelected).subscribe( res => {
+      console.log("Successfully fetched scenarios for company " + this.companySelected, res);
+
+      this.scenarioArray = res[this.companySelected] || [];
+      this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
+      this.scenarioSelected = localStorage.getItem('scenarioSelected');
+      
+      if (this.scenarioArray.includes(Number(this.scenarioSelected))) {
+        this.inprogress = false;
+      } else {
+        this.scenarioSelected = '0';
+        localStorage.setItem('scenarioSelected', this.scenarioSelected);
+        this.inprogress = false;
+      }
+
+      this.apiService.getData(this.urlConfig.getActualsProjectionsForIS() + this.companySelected + "&scenario=" + this.scenarioSelected).subscribe( (success: any) => {
+        console.log("Succesfully fetched projections and actuals for company " + this.companySelected, success);
+        if(success.result && success.result.actuals && success.result.projections){
+          const actualsData = JSON.parse(success.result.actuals);
+          const projectionsData = JSON.parse(success.result.projections);
+
+          for (let j = 0; j < actualsData.length; j++) {
+            if (actualsData[j].latest === 0) {
+              previousAmount = actualsData[j].totalrevenue;
             }
-            this.apiService
-              .getData(
-                this.urlConfig.getIsProjectionsAPIGET() +
-                  this.companySelected +
-                  '&scenario=' +
-                  this.scenarioSelected
-              )
-              .subscribe((res: any) => {
-                this.progressBar = false;
-                if (this.scenarioSelected == null) {
-                  this.scenarioSelected = '0';
-                }
-                this.loadedScenario = 'Scenario ' + this.scenarioSelected;
+            this.financialObj.set(actualsData[j].asof, {
+              totalRevenue: actualsData[j].totalrevenue,
+              p_GrossProfit: actualsData[j].grossprofit,
+              p_EBIT: actualsData[j].ebit,
+              p_EBITDA: actualsData[j].ebitda,
+              p_EBT: actualsData[j].ebt,
+              p_NetInCome: actualsData[j].netincome,
+              latest: actualsData[j].latest,
+              revenuepercent: actualsData[j].revenuepercent,
+              sgapercent: actualsData[j].sgapercent,
+              cogspercent: actualsData[j].cogspercent,
+              dapercent: actualsData[j].dapercent,
+              netIterestExpense: actualsData[j].netinterest,
+            });
+          }
 
-                let totalRevenue = 0;
-                for (let j = 0; j < res.length; j++) {
-                  if (j == 0) {
-                    totalRevenue = Math.round(
-                      previousAmount +
-                        previousAmount * (res[j].revenuepercent / 100)
-                    );
-                  } else {
-                    totalRevenue = Math.round(
-                      res[j - 1].totalRevenue +
-                        res[j - 1].totalRevenue * (res[j].revenuepercent / 100)
-                    );
-                  }
-                  this.financialObj.set(res[j].asof, {
-                    totalRevenue,
-                    revenueGrowth: res[j].revenuepercent,
-                    COGS: res[j].cogspercent,
-                    SGAndA: res[j].sgapercent,
-                    DAndA: res[j].dapercent,
-                    netIterestExpense: res[j].netinterestdollars,
-                    otherIncomeOrExpense: res[j].otherincomepercent,
-                    netinterest: res[j].netinterest,
-                    latest: res[j].latest,
-                    taxes: res[j].taxespercent,
-                    // "latest" : res[j].latest
-                    revenuepercent: res[j].revenuepercent,
-                    sgapercent: res[j].sgapercent,
-                    cogspercent: res[j].cogspercent,
-                    dapercent: res[j].dapercent,
-                  });
-                }
-                this.financialObj.forEach((v, k) => {
-                  this.yearsArray.push(k);
-                  this.projectionsYearsArray.push(k);
-                  RGArray.push(
-                    v.revenuepercent == undefined
-                      ? 0
-                      : +v.revenuepercent.toFixed(0)
-                  );
-                  COGSArray.push(
-                    v.cogspercent == undefined ? 0 : +v.cogspercent.toFixed(0)
-                  );
-                  SGAArray.push(
-                    v.sgapercent == undefined ? 0 : +v.sgapercent.toFixed(0)
-                  );
-                  DAArray.push(
-                    v.dapercent == undefined ? 0 : +v.dapercent.toFixed(0)
-                  );
-                  OIEArray.push(
-                    v.otherincomepercent == undefined
-                      ? 0
-                      : +v.otherincomepercent.toFixed(0)
-                  );
-                  NIEArray.push(
-                    v.netIterestExpense == undefined
-                      ? 0
-                      : +v.netIterestExpense.toFixed(0)
-                  );
-                });
-                console.log('years array', this.yearsArray);
-                RGArray.shift();
-                COGSArray.shift();
-                SGAArray.shift();
-                DAArray.shift();
-                OIEArray.shift();
-                NIEArray.shift();
+          let totalRevenue = 0;
+          for (let j = 0; j < projectionsData.length; j++) {
+            if (j == 0) {
+              totalRevenue = Math.round(
+                previousAmount +
+                  previousAmount * (projectionsData[j].revenuepercent / 100)
+              );
+            } else {
+              totalRevenue = Math.round(
+                projectionsData[j - 1].totalRevenue +
+                  projectionsData[j - 1].totalRevenue * (projectionsData[j].revenuepercent / 100)
+              );
+            }
+            this.financialObj.set(projectionsData[j].asof, {
+              totalRevenue,
+              revenueGrowth: projectionsData[j].revenuepercent,
+              COGS: projectionsData[j].cogspercent,
+              SGAndA: projectionsData[j].sgapercent,
+              DAndA: projectionsData[j].dapercent,
+              netIterestExpense: projectionsData[j].netinterestdollars,
+              otherIncomeOrExpense: projectionsData[j].otherincomepercent,
+              netinterest: projectionsData[j].netinterest,
+              latest: projectionsData[j].latest,
+              taxes: projectionsData[j].taxespercent,
+              // "latest" : projectionsData[j].latest
+              revenuepercent: projectionsData[j].revenuepercent,
+              sgapercent: projectionsData[j].sgapercent,
+              cogspercent: projectionsData[j].cogspercent,
+              dapercent: projectionsData[j].dapercent,
+            });
+          }
 
-                this.projectionsYearsArray.shift();
-                if (this.projectionsYearsArray.length == 6) {
-                  this.driversColors = [
-                    actualColor,
-                    projectionColor,
-                    projectionColor,
-                    projectionColor,
-                    projectionColor,
-                    projectionColor,
-                  ];
-                } else {
-                  this.driversColors = [
-                    actualColor,
-                    actualColor,
-                    projectionColor,
-                    projectionColor,
-                    projectionColor,
-                    projectionColor,
-                    projectionColor,
-                  ];
-                }
+          this.financialObj.forEach((v, k) => {
+            this.yearsArray.push(k);
+            this.projectionsYearsArray.push(k);
+            RGArray.push(
+              v.revenuepercent == undefined
+                ? 0
+                : +v.revenuepercent.toFixed(0)
+            );
+            COGSArray.push(
+              v.cogspercent == undefined ? 0 : +v.cogspercent.toFixed(0)
+            );
+            SGAArray.push(
+              v.sgapercent == undefined ? 0 : +v.sgapercent.toFixed(0)
+            );
+            DAArray.push(
+              v.dapercent == undefined ? 0 : +v.dapercent.toFixed(0)
+            );
+            OIEArray.push(
+              v.otherincomepercent == undefined
+                ? 0
+                : +v.otherincomepercent.toFixed(0)
+            );
+            NIEArray.push(
+              v.netIterestExpense == undefined
+                ? 0
+                : +v.netIterestExpense.toFixed(0)
+            );
+          });
+          console.log('years array', this.yearsArray);
+          RGArray.shift();
+          COGSArray.shift();
+          SGAArray.shift();
+          DAArray.shift();
+          OIEArray.shift();
+          NIEArray.shift();
 
-                if (this.yearsArray.length == 7) {
-                  this.actualDriversColors = [
-                    actualColor,
-                    actualColor,
-                    projectionColor,
-                    projectionColor,
-                    projectionColor,
-                    projectionColor,
-                    projectionColor,
-                  ];
-                } else {
-                  this.actualDriversColors = [
-                    actualColor,
-                    actualColor,
-                    actualColor,
-                    projectionColor,
-                    projectionColor,
-                    projectionColor,
-                    projectionColor,
-                    projectionColor,
-                  ];
-                }
+          this.projectionsYearsArray.shift();
+          if (this.projectionsYearsArray.length == 6) {
+            this.driversColors = [
+              actualColor,
+              projectionColor,
+              projectionColor,
+              projectionColor,
+              projectionColor,
+              projectionColor,
+            ];
+          } else {
+            this.driversColors = [
+              actualColor,
+              actualColor,
+              projectionColor,
+              projectionColor,
+              projectionColor,
+              projectionColor,
+              projectionColor,
+            ];
+          }
 
-                console.log(
-                  'projection years array',
-                  this.projectionsYearsArray
+          if (this.yearsArray.length == 7) {
+            this.actualDriversColors = [
+              actualColor,
+              actualColor,
+              projectionColor,
+              projectionColor,
+              projectionColor,
+              projectionColor,
+              projectionColor,
+            ];
+          } else {
+            this.actualDriversColors = [
+              actualColor,
+              actualColor,
+              actualColor,
+              projectionColor,
+              projectionColor,
+              projectionColor,
+              projectionColor,
+              projectionColor,
+            ];
+          }
+
+          console.log(
+            'projection years array',
+            this.projectionsYearsArray
+          );
+          const _this = this;
+          this.RGOptions = {
+            chart: { type: 'areaspline', animation: false },
+            title: { text: 'Revenue Growth' },
+            yAxis: {
+              title: {
+                text: 'In Percentage %',
+                style: {
+                  fontSize: '14px',
+                },
+              },
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+
+              min: -150,
+              max: 150,
+              tickInterval: 50,
+            },
+            xAxis: {
+              categories: this.projectionsYearsArray,
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+            },
+            plotOptions: {
+              series: {
+                ...seriesOption,
+                dragDrop: {
+                  draggableY: true,
+                  dragMaxY: 199,
+                  dragMinY: -99,
+                },
+                point: {
+                  events: {
+                    drag: function (e) {
+                      if (_this.projectionsYearsArray.length == 6) {
+                        if (e.target.index == 0) {
+                          return false;
+                        }
+                      }
+                      if (_this.projectionsYearsArray.length == 7) {
+                        if (e.target.index == 0 || e.target.index == 1) {
+                          return false;
+                        }
+                      }
+                    },
+                    drop: function (e) {
+                      if (_this.projectionsYearsArray.length == 6) {
+                        if (e.target.index == 0) {
+                          return false;
+                        } else {
+                          that.financialObj.get(
+                            e.target.category
+                          ).revenueGrowth = e.target.y;
+                          console.log(e.target.y, e.target.category);
+                          that.updateProjection();
+                        }
+                      }
+                      if (_this.projectionsYearsArray.length == 7) {
+                        if (e.target.index == 0 || e.target.index == 1) {
+                          return false;
+                        } else {
+                          that.financialObj.get(
+                            e.target.category
+                          ).revenueGrowth = e.target.y;
+                          console.log(e.target.y, e.target.category);
+                          that.updateProjection();
+                        }
+                      }
+                    },
+                    click() {
+                      if (this.index < 2) {
+                        return false;
+                      }
+                      that.minValue = this.series.yAxis.min;
+                      that.maxValue = this.series.yAxis.max;
+                      that.selectedChart = 'revenue-growth';
+                      that.selectedYear = this.category;
+                      that.modalDefaultValue = this.y;
+                      that.openDialog();
+                    },
+                  },
+                },
+              },
+              areaspline: {
+                stacking: 'normal',
+                minPointLength: 2,
+                colorByPoint: true,
+                cursor: 'ns-resize',
+                colors: this.driversColors,
+                borderRadius: 5,
+              },
+            },
+            tooltip: {
+              ...tooltip,
+              // tslint:disable-next-line:object-literal-shorthand
+              formatter: function () {
+                return Highcharts.numberFormat(this.point.y, 0) + ' %';
+              },
+            },
+            credits: { enabled: false },
+            exporting: { enabled: false },
+            series: [
+              {
+                data: RGArray,
+                dragDrop: { draggableY: true },
+                minPointLength: 2,
+              },
+            ],
+            legend: false,
+          };
+          this.COGSOptions = {
+            chart: { type: 'areaspline', animation: false },
+            title: { text: 'COGS (% Revenue)' },
+            yAxis: {
+              title: {
+                text: 'As % of Revenue',
+                style: {
+                  fontSize: '14px',
+                },
+              },
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+
+              min: 0,
+              max: 100,
+              tickInterval: 25,
+            },
+            xAxis: {
+              categories: this.projectionsYearsArray,
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+            },
+            plotOptions: {
+              series: {
+                ...seriesOption,
+                dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
+                point: {
+                  events: {
+                    drag: function (e) {
+                      if (_this.projectionsYearsArray.length == 6) {
+                        if (e.target.index == 0) {
+                          return false;
+                        }
+                      }
+                      if (_this.projectionsYearsArray.length == 7) {
+                        if (e.target.index == 0 || e.target.index == 1) {
+                          return false;
+                        }
+                      }
+                    },
+                    drop: function (e) {
+                      if (_this.projectionsYearsArray.length == 6) {
+                        if (e.target.index == 0) {
+                          return false;
+                        } else {
+                          that.financialObj.get(e.target.category).COGS =
+                            e.target.y;
+                          that.updateProjection();
+                        }
+                      }
+                      if (_this.projectionsYearsArray.length == 7) {
+                        if (e.target.index == 0 || e.target.index == 1) {
+                          return false;
+                        } else {
+                          that.financialObj.get(e.target.category).COGS =
+                            e.target.y;
+                          that.updateProjection();
+                        }
+                      }
+                    },
+                    click() {
+                      if (this.index < 2) {
+                        return false;
+                      }
+                      that.minValue = this.series.yAxis.min;
+                      that.maxValue = this.series.yAxis.max;
+                      that.selectedChart = 'cogs-percent';
+                      that.selectedYear = this.category;
+                      that.modalDefaultValue = this.y;
+                      that.openDialog();
+                    },
+                  },
+                },
+              },
+              areaspline: {
+                stacking: 'normal',
+                minPointLength: 2,
+                colorByPoint: true,
+                cursor: 'ns-resize',
+                colors: this.driversColors,
+                borderRadius: 5,
+              },
+            },
+            tooltip: {
+              ...tooltip,
+              formatter: function () {
+                return Highcharts.numberFormat(this.point.y, 0) + ' %';
+              },
+            },
+            credits: { enabled: false },
+            exporting: { enabled: false },
+            series: [
+              {
+                data: COGSArray,
+                dragDrop: { draggableY: true },
+                minPointLength: 2,
+              },
+            ],
+            legend: false,
+          };
+          this.SGAOptions = {
+            chart: { type: 'areaspline', animation: false },
+            title: { text: 'SG&A (% Revenue)' },
+            yAxis: {
+              title: {
+                text: 'As % of Revenue',
+                style: {
+                  fontSize: '14px',
+                },
+              },
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+
+              min: 0,
+              max: 100,
+              tickInterval: 25,
+            },
+            xAxis: {
+              categories: this.projectionsYearsArray,
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+            },
+            plotOptions: {
+              series: {
+                ...seriesOption,
+                dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
+                point: {
+                  events: {
+                    drag: function (e) {
+                      if (_this.projectionsYearsArray.length == 6) {
+                        if (e.target.index == 0) {
+                          return false;
+                        }
+                      }
+                      if (_this.projectionsYearsArray.length == 7) {
+                        if (e.target.index == 0 || e.target.index == 1) {
+                          return false;
+                        }
+                      }
+                    },
+                    drop: function (e) {
+                      if (_this.projectionsYearsArray.length == 6) {
+                        if (e.target.index == 0) {
+                          return false;
+                        } else {
+                          that.financialObj.get(
+                            e.target.category
+                          ).SGAndA = e.target.y;
+                          console.log('inside chart', that.financialObj);
+                          that.updateProjection();
+                        }
+                      }
+                      if (_this.projectionsYearsArray.length == 7) {
+                        if (e.target.index == 0 || e.target.index == 1) {
+                          return false;
+                        } else {
+                          that.financialObj.get(
+                            e.target.category
+                          ).SGAndA = e.target.y;
+                          console.log('inside chart', that.financialObj);
+                          that.updateProjection();
+                        }
+                      }
+                    },
+                    click() {
+                      if (this.index < 2) {
+                        return false;
+                      }
+                      that.minValue = this.series.yAxis.min;
+                      that.maxValue = this.series.yAxis.max;
+                      that.selectedChart = 'sga-percent';
+                      that.selectedYear = this.category;
+                      that.modalDefaultValue = this.y;
+                      that.openDialog();
+                    },
+                  },
+                },
+              },
+              areaspline: {
+                stacking: 'normal',
+                minPointLength: 2,
+                colorByPoint: true,
+                cursor: 'ns-resize',
+                colors: this.driversColors,
+                borderRadius: 5,
+              },
+            },
+            tooltip: {
+              ...tooltip,
+              formatter: function () {
+                return Highcharts.numberFormat(this.point.y, 0) + ' %';
+              },
+            },
+            credits: { enabled: false },
+            exporting: { enabled: false },
+            series: [
+              {
+                data: SGAArray,
+                dragDrop: { draggableY: true },
+                minPointLength: 2,
+              },
+            ],
+            legend: false,
+          };
+          this.DAOptions = {
+            chart: { type: 'areaspline', animation: false },
+            title: { text: 'D&A (% Revenue)' },
+            yAxis: {
+              title: {
+                text: 'As % of Revenue',
+                style: {
+                  fontSize: '14px',
+                },
+              },
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+              min: 0,
+              max: 50,
+              tickInterval: 25,
+            },
+            xAxis: {
+              categories: this.projectionsYearsArray,
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+            },
+            plotOptions: {
+              series: {
+                ...seriesOption,
+                dragDrop: { draggableY: true, dragMaxY: 49, dragMinY: 0 },
+                point: {
+                  events: {
+                    drag: function (e) {
+                      if (_this.projectionsYearsArray.length == 6) {
+                        if (e.target.index == 0) {
+                          return false;
+                        }
+                      }
+                      if (_this.projectionsYearsArray.length == 7) {
+                        if (e.target.index == 0 || e.target.index == 1) {
+                          return false;
+                        }
+                      }
+                    },
+                    drop: function (e) {
+                      if (_this.projectionsYearsArray.length == 6) {
+                        if (e.target.index == 0) {
+                          return false;
+                        } else {
+                          that.financialObj.get(e.target.category).DAndA =
+                            e.target.y;
+                          that.updateProjection();
+                        }
+                      }
+                      if (_this.projectionsYearsArray.length == 7) {
+                        if (e.target.index == 0 || e.target.index == 1) {
+                          return false;
+                        } else {
+                          that.financialObj.get(e.target.category).DAndA =
+                            e.target.y;
+                          that.updateProjection();
+                        }
+                      }
+                    },
+                    click() {
+                      if (this.index < 2) {
+                        return false;
+                      }
+                      that.minValue = this.series.yAxis.min;
+                      that.maxValue = this.series.yAxis.max;
+                      that.selectedChart = 'dna-percent';
+                      that.selectedYear = this.category;
+                      that.modalDefaultValue = this.y;
+                      that.openDialog();
+                    },
+                  },
+                },
+              },
+              areaspline: {
+                stacking: 'normal',
+                minPointLength: 2,
+                colorByPoint: true,
+                cursor: 'ns-resize',
+                colors: this.driversColors,
+                borderRadius: 5,
+              },
+            },
+            tooltip: {
+              ...tooltip,
+              formatter: function () {
+                return Highcharts.numberFormat(this.point.y, 0) + ' %';
+              },
+            },
+            credits: { enabled: false },
+            exporting: { enabled: false },
+            series: [
+              {
+                data: DAArray,
+                dragDrop: { draggableY: true },
+                minPointLength: 2,
+              },
+            ],
+
+            legend: false,
+          };
+          this.OIEOptions = {
+            chart: { type: 'areaspline', animation: false },
+            title: { text: 'Other Income/Expense (% Revenue)' },
+            yAxis: {
+              title: {
+                text: 'As % of Revenue',
+                style: {
+                  fontSize: '14px',
+                },
+              },
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+              min: 0,
+              max: 100,
+              tickInterval: 25,
+            },
+            xAxis: {
+              categories: this.projectionsYearsArray,
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+            },
+            plotOptions: {
+              series: {
+                ...seriesOption,
+                dragDrop: {
+                  draggableY: true,
+                  dragMaxY: 100,
+                  dragMinY: 0,
+                },
+                point: {
+                  events: {
+                    drag: function (e) {
+                      if (_this.projectionsYearsArray.length == 6) {
+                        if (e.target.index == 0) {
+                          return false;
+                        }
+                      }
+                      if (_this.projectionsYearsArray.length == 7) {
+                        if (e.target.index == 0 || e.target.index == 1) {
+                          return false;
+                        }
+                      }
+                    },
+                    drop: function (e) {
+                      if (_this.projectionsYearsArray.length == 6) {
+                        if (e.target.index == 0) {
+                          return false;
+                        } else {
+                          that.financialObj.get(
+                            e.target.category
+                          ).otherIncomeOrExpense = e.target.y;
+                          that.updateProjection();
+                        }
+                      }
+                      if (_this.projectionsYearsArray.length == 7) {
+                        if (e.target.index == 0 || e.target.index == 1) {
+                          return false;
+                        } else {
+                          that.financialObj.get(
+                            e.target.category
+                          ).otherIncomeOrExpense = e.target.y;
+                          that.updateProjection();
+                        }
+                      }
+                    },
+                    click() {
+                      if (this.index < 2) {
+                        return false;
+                      }
+                      that.minValue = this.series.yAxis.min;
+                      that.maxValue = this.series.yAxis.max;
+                      that.selectedChart = 'oincome-expense-percent';
+                      that.selectedYear = this.category;
+                      that.modalDefaultValue = this.y;
+                      that.openDialog();
+                    },
+                  },
+                },
+              },
+              areaspline: {
+                stacking: 'normal',
+                minPointLength: 2,
+                colorByPoint: true,
+                cursor: 'ns-resize',
+                colors: this.driversColors,
+                borderRadius: 5,
+              },
+            },
+            tooltip: {
+              ...tooltip,
+              formatter: function () {
+                return Highcharts.numberFormat(this.point.y, 0) + ' %';
+              },
+            },
+            credits: { enabled: false },
+            exporting: { enabled: false },
+            series: [
+              {
+                data: OIEArray,
+                dragDrop: { draggableY: true },
+                minPointLength: 2,
+              },
+            ],
+            legend: false,
+          };
+          this.NIEOptions = {
+            chart: { type: 'areaspline', animation: false },
+            title: { text: 'Net Interest Expense' },
+            yAxis: {
+              title: {
+                text: 'USD (millions)',
+                style: {
+                  fontSize: '14px',
+                },
+              },
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+              tickInterval: 50,
+            },
+
+            xAxis: {
+              categories: this.projectionsYearsArray,
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+            },
+            plotOptions: {
+              series: {
+                ...seriesOption,
+                dragDrop: { draggableY: true },
+                point: {
+                  events: {
+                    drag: function (e) {
+                      if (_this.projectionsYearsArray.length == 6) {
+                        if (e.target.index == 0) {
+                          return false;
+                        }
+                      }
+                      if (_this.projectionsYearsArray.length == 7) {
+                        if (e.target.index == 0 || e.target.index == 1) {
+                          return false;
+                        }
+                      }
+                    },
+                    drop: function (e) {
+                      if (_this.projectionsYearsArray.length == 6) {
+                        if (e.target.index == 0) {
+                          return false;
+                        } else {
+                          that.financialObj.get(
+                            e.target.category
+                          ).netIterestExpense = e.target.y;
+                          that.updateProjection();
+                        }
+                      }
+                      if (_this.projectionsYearsArray.length == 7) {
+                        if (e.target.index == 0 || e.target.index == 1) {
+                          return false;
+                        } else {
+                          that.financialObj.get(
+                            e.target.category
+                          ).netIterestExpense = e.target.y;
+                          that.updateProjection();
+                        }
+                      }
+                    },
+                    click() {
+                      if (this.index < 2) {
+                        return false;
+                      }
+                      that.minValue = undefined;
+                      that.maxValue = undefined;
+                      that.selectedChart = 'net-interest-expense';
+                      that.selectedYear = this.category;
+                      that.modalDefaultValue = this.y;
+                      that.openDialog();
+                    },
+                  },
+                },
+              },
+              areaspline: {
+                stacking: 'normal',
+                minPointLength: 2,
+                colorByPoint: true,
+                cursor: 'ns-resize',
+                colors: this.driversColors,
+                borderRadius: 5,
+              },
+            },
+            tooltip: {
+              ...tooltip,
+              formatter() {
+                return (
+                  Highcharts.numberFormat(this.point.y, 0) + ' millions'
                 );
-                const _this = this;
-                this.RGOptions = {
-                  chart: { type: 'areaspline', animation: false },
-                  title: { text: 'Revenue Growth' },
-                  yAxis: {
-                    title: {
-                      text: 'In Percentage %',
-                      style: {
-                        fontSize: '14px',
-                      },
-                    },
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
+              },
+            },
+            credits: { enabled: false },
+            exporting: { enabled: false },
+            series: [
+              {
+                data: NIEArray,
+                dragDrop: { draggableY: true },
+                minPointLength: 2,
+              },
+            ],
+            legend: false,
+          };
+          this.updateProjection();
 
-                    min: -150,
-                    max: 150,
-                    tickInterval: 50,
-                  },
-                  xAxis: {
-                    categories: this.projectionsYearsArray,
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
-                  },
-                  plotOptions: {
-                    series: {
-                      ...seriesOption,
-                      dragDrop: {
-                        draggableY: true,
-                        dragMaxY: 199,
-                        dragMinY: -99,
-                      },
-                      point: {
-                        events: {
-                          drag: function (e) {
-                            if (_this.projectionsYearsArray.length == 6) {
-                              if (e.target.index == 0) {
-                                return false;
-                              }
-                            }
-                            if (_this.projectionsYearsArray.length == 7) {
-                              if (e.target.index == 0 || e.target.index == 1) {
-                                return false;
-                              }
-                            }
-                          },
-                          drop: function (e) {
-                            if (_this.projectionsYearsArray.length == 6) {
-                              if (e.target.index == 0) {
-                                return false;
-                              } else {
-                                that.financialObj.get(
-                                  e.target.category
-                                ).revenueGrowth = e.target.y;
-                                console.log(e.target.y, e.target.category);
-                                that.updateProjection();
-                              }
-                            }
-                            if (_this.projectionsYearsArray.length == 7) {
-                              if (e.target.index == 0 || e.target.index == 1) {
-                                return false;
-                              } else {
-                                that.financialObj.get(
-                                  e.target.category
-                                ).revenueGrowth = e.target.y;
-                                console.log(e.target.y, e.target.category);
-                                that.updateProjection();
-                              }
-                            }
-                          },
-                          click() {
-                            if (this.index < 2) {
-                              return false;
-                            }
-                            that.minValue = this.series.yAxis.min;
-                            that.maxValue = this.series.yAxis.max;
-                            that.selectedChart = 'revenue-growth';
-                            that.selectedYear = this.category;
-                            that.modalDefaultValue = this.y;
-                            that.openDialog();
-                          },
-                        },
-                      },
-                    },
-                    areaspline: {
-                      stacking: 'normal',
-                      minPointLength: 2,
-                      colorByPoint: true,
-                      cursor: 'ns-resize',
-                      colors: this.driversColors,
-                      borderRadius: 5,
-                    },
-                  },
-                  tooltip: {
-                    ...tooltip,
-                    // tslint:disable-next-line:object-literal-shorthand
-                    formatter: function () {
-                      return Highcharts.numberFormat(this.point.y, 0) + ' %';
-                    },
-                  },
-                  credits: { enabled: false },
-                  exporting: { enabled: false },
-                  series: [
-                    {
-                      data: RGArray,
-                      dragDrop: { draggableY: true },
-                      minPointLength: 2,
-                    },
-                  ],
-                  legend: false,
-                };
-                this.COGSOptions = {
-                  chart: { type: 'areaspline', animation: false },
-                  title: { text: 'COGS (% Revenue)' },
-                  yAxis: {
-                    title: {
-                      text: 'As % of Revenue',
-                      style: {
-                        fontSize: '14px',
-                      },
-                    },
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
+          this.visualsLoaded = true;
 
-                    min: 0,
-                    max: 100,
-                    tickInterval: 25,
-                  },
-                  xAxis: {
-                    categories: this.projectionsYearsArray,
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
-                  },
-                  plotOptions: {
-                    series: {
-                      ...seriesOption,
-                      dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
-                      point: {
-                        events: {
-                          drag: function (e) {
-                            if (_this.projectionsYearsArray.length == 6) {
-                              if (e.target.index == 0) {
-                                return false;
-                              }
-                            }
-                            if (_this.projectionsYearsArray.length == 7) {
-                              if (e.target.index == 0 || e.target.index == 1) {
-                                return false;
-                              }
-                            }
-                          },
-                          drop: function (e) {
-                            if (_this.projectionsYearsArray.length == 6) {
-                              if (e.target.index == 0) {
-                                return false;
-                              } else {
-                                that.financialObj.get(e.target.category).COGS =
-                                  e.target.y;
-                                that.updateProjection();
-                              }
-                            }
-                            if (_this.projectionsYearsArray.length == 7) {
-                              if (e.target.index == 0 || e.target.index == 1) {
-                                return false;
-                              } else {
-                                that.financialObj.get(e.target.category).COGS =
-                                  e.target.y;
-                                that.updateProjection();
-                              }
-                            }
-                          },
-                          click() {
-                            if (this.index < 2) {
-                              return false;
-                            }
-                            that.minValue = this.series.yAxis.min;
-                            that.maxValue = this.series.yAxis.max;
-                            that.selectedChart = 'cogs-percent';
-                            that.selectedYear = this.category;
-                            that.modalDefaultValue = this.y;
-                            that.openDialog();
-                          },
-                        },
-                      },
-                    },
-                    areaspline: {
-                      stacking: 'normal',
-                      minPointLength: 2,
-                      colorByPoint: true,
-                      cursor: 'ns-resize',
-                      colors: this.driversColors,
-                      borderRadius: 5,
-                    },
-                  },
-                  tooltip: {
-                    ...tooltip,
-                    formatter: function () {
-                      return Highcharts.numberFormat(this.point.y, 0) + ' %';
-                    },
-                  },
-                  credits: { enabled: false },
-                  exporting: { enabled: false },
-                  series: [
-                    {
-                      data: COGSArray,
-                      dragDrop: { draggableY: true },
-                      minPointLength: 2,
-                    },
-                  ],
-                  legend: false,
-                };
-                this.SGAOptions = {
-                  chart: { type: 'areaspline', animation: false },
-                  title: { text: 'SG&A (% Revenue)' },
-                  yAxis: {
-                    title: {
-                      text: 'As % of Revenue',
-                      style: {
-                        fontSize: '14px',
-                      },
-                    },
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
+          this.progressBar = false;
+        }
+        else{
+          throw new Error();
+        }
+        
+      }, error => {
+        this.visualsLoaded = true;
+        this.progressBar = false;
+        console.log("Failed to fetch projections and actuals for company " + this.companySelected, error);
+      })
 
-                    min: 0,
-                    max: 100,
-                    tickInterval: 25,
-                  },
-                  xAxis: {
-                    categories: this.projectionsYearsArray,
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
-                  },
-                  plotOptions: {
-                    series: {
-                      ...seriesOption,
-                      dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
-                      point: {
-                        events: {
-                          drag: function (e) {
-                            if (_this.projectionsYearsArray.length == 6) {
-                              if (e.target.index == 0) {
-                                return false;
-                              }
-                            }
-                            if (_this.projectionsYearsArray.length == 7) {
-                              if (e.target.index == 0 || e.target.index == 1) {
-                                return false;
-                              }
-                            }
-                          },
-                          drop: function (e) {
-                            if (_this.projectionsYearsArray.length == 6) {
-                              if (e.target.index == 0) {
-                                return false;
-                              } else {
-                                that.financialObj.get(
-                                  e.target.category
-                                ).SGAndA = e.target.y;
-                                console.log('inside chart', that.financialObj);
-                                that.updateProjection();
-                              }
-                            }
-                            if (_this.projectionsYearsArray.length == 7) {
-                              if (e.target.index == 0 || e.target.index == 1) {
-                                return false;
-                              } else {
-                                that.financialObj.get(
-                                  e.target.category
-                                ).SGAndA = e.target.y;
-                                console.log('inside chart', that.financialObj);
-                                that.updateProjection();
-                              }
-                            }
-                          },
-                          click() {
-                            if (this.index < 2) {
-                              return false;
-                            }
-                            that.minValue = this.series.yAxis.min;
-                            that.maxValue = this.series.yAxis.max;
-                            that.selectedChart = 'sga-percent';
-                            that.selectedYear = this.category;
-                            that.modalDefaultValue = this.y;
-                            that.openDialog();
-                          },
-                        },
-                      },
-                    },
-                    areaspline: {
-                      stacking: 'normal',
-                      minPointLength: 2,
-                      colorByPoint: true,
-                      cursor: 'ns-resize',
-                      colors: this.driversColors,
-                      borderRadius: 5,
-                    },
-                  },
-                  tooltip: {
-                    ...tooltip,
-                    formatter: function () {
-                      return Highcharts.numberFormat(this.point.y, 0) + ' %';
-                    },
-                  },
-                  credits: { enabled: false },
-                  exporting: { enabled: false },
-                  series: [
-                    {
-                      data: SGAArray,
-                      dragDrop: { draggableY: true },
-                      minPointLength: 2,
-                    },
-                  ],
-                  legend: false,
-                };
-                this.DAOptions = {
-                  chart: { type: 'areaspline', animation: false },
-                  title: { text: 'D&A (% Revenue)' },
-                  yAxis: {
-                    title: {
-                      text: 'As % of Revenue',
-                      style: {
-                        fontSize: '14px',
-                      },
-                    },
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
-                    min: 0,
-                    max: 50,
-                    tickInterval: 25,
-                  },
-                  xAxis: {
-                    categories: this.projectionsYearsArray,
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
-                  },
-                  plotOptions: {
-                    series: {
-                      ...seriesOption,
-                      dragDrop: { draggableY: true, dragMaxY: 49, dragMinY: 0 },
-                      point: {
-                        events: {
-                          drag: function (e) {
-                            if (_this.projectionsYearsArray.length == 6) {
-                              if (e.target.index == 0) {
-                                return false;
-                              }
-                            }
-                            if (_this.projectionsYearsArray.length == 7) {
-                              if (e.target.index == 0 || e.target.index == 1) {
-                                return false;
-                              }
-                            }
-                          },
-                          drop: function (e) {
-                            if (_this.projectionsYearsArray.length == 6) {
-                              if (e.target.index == 0) {
-                                return false;
-                              } else {
-                                that.financialObj.get(e.target.category).DAndA =
-                                  e.target.y;
-                                that.updateProjection();
-                              }
-                            }
-                            if (_this.projectionsYearsArray.length == 7) {
-                              if (e.target.index == 0 || e.target.index == 1) {
-                                return false;
-                              } else {
-                                that.financialObj.get(e.target.category).DAndA =
-                                  e.target.y;
-                                that.updateProjection();
-                              }
-                            }
-                          },
-                          click() {
-                            if (this.index < 2) {
-                              return false;
-                            }
-                            that.minValue = this.series.yAxis.min;
-                            that.maxValue = this.series.yAxis.max;
-                            that.selectedChart = 'dna-percent';
-                            that.selectedYear = this.category;
-                            that.modalDefaultValue = this.y;
-                            that.openDialog();
-                          },
-                        },
-                      },
-                    },
-                    areaspline: {
-                      stacking: 'normal',
-                      minPointLength: 2,
-                      colorByPoint: true,
-                      cursor: 'ns-resize',
-                      colors: this.driversColors,
-                      borderRadius: 5,
-                    },
-                  },
-                  tooltip: {
-                    ...tooltip,
-                    formatter: function () {
-                      return Highcharts.numberFormat(this.point.y, 0) + ' %';
-                    },
-                  },
-                  credits: { enabled: false },
-                  exporting: { enabled: false },
-                  series: [
-                    {
-                      data: DAArray,
-                      dragDrop: { draggableY: true },
-                      minPointLength: 2,
-                    },
-                  ],
-
-                  legend: false,
-                };
-                this.OIEOptions = {
-                  chart: { type: 'areaspline', animation: false },
-                  title: { text: 'Other Income/Expense (% Revenue)' },
-                  yAxis: {
-                    title: {
-                      text: 'As % of Revenue',
-                      style: {
-                        fontSize: '14px',
-                      },
-                    },
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
-                    min: 0,
-                    max: 100,
-                    tickInterval: 25,
-                  },
-                  xAxis: {
-                    categories: this.projectionsYearsArray,
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
-                  },
-                  plotOptions: {
-                    series: {
-                      ...seriesOption,
-                      dragDrop: {
-                        draggableY: true,
-                        dragMaxY: 100,
-                        dragMinY: 0,
-                      },
-                      point: {
-                        events: {
-                          drag: function (e) {
-                            if (_this.projectionsYearsArray.length == 6) {
-                              if (e.target.index == 0) {
-                                return false;
-                              }
-                            }
-                            if (_this.projectionsYearsArray.length == 7) {
-                              if (e.target.index == 0 || e.target.index == 1) {
-                                return false;
-                              }
-                            }
-                          },
-                          drop: function (e) {
-                            if (_this.projectionsYearsArray.length == 6) {
-                              if (e.target.index == 0) {
-                                return false;
-                              } else {
-                                that.financialObj.get(
-                                  e.target.category
-                                ).otherIncomeOrExpense = e.target.y;
-                                that.updateProjection();
-                              }
-                            }
-                            if (_this.projectionsYearsArray.length == 7) {
-                              if (e.target.index == 0 || e.target.index == 1) {
-                                return false;
-                              } else {
-                                that.financialObj.get(
-                                  e.target.category
-                                ).otherIncomeOrExpense = e.target.y;
-                                that.updateProjection();
-                              }
-                            }
-                          },
-                          click() {
-                            if (this.index < 2) {
-                              return false;
-                            }
-                            that.minValue = this.series.yAxis.min;
-                            that.maxValue = this.series.yAxis.max;
-                            that.selectedChart = 'oincome-expense-percent';
-                            that.selectedYear = this.category;
-                            that.modalDefaultValue = this.y;
-                            that.openDialog();
-                          },
-                        },
-                      },
-                    },
-                    areaspline: {
-                      stacking: 'normal',
-                      minPointLength: 2,
-                      colorByPoint: true,
-                      cursor: 'ns-resize',
-                      colors: this.driversColors,
-                      borderRadius: 5,
-                    },
-                  },
-                  tooltip: {
-                    ...tooltip,
-                    formatter: function () {
-                      return Highcharts.numberFormat(this.point.y, 0) + ' %';
-                    },
-                  },
-                  credits: { enabled: false },
-                  exporting: { enabled: false },
-                  series: [
-                    {
-                      data: OIEArray,
-                      dragDrop: { draggableY: true },
-                      minPointLength: 2,
-                    },
-                  ],
-                  legend: false,
-                };
-                this.NIEOptions = {
-                  chart: { type: 'areaspline', animation: false },
-                  title: { text: 'Net Interest Expense' },
-                  yAxis: {
-                    title: {
-                      text: 'USD (millions)',
-                      style: {
-                        fontSize: '14px',
-                      },
-                    },
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
-                    tickInterval: 50,
-                  },
-
-                  xAxis: {
-                    categories: this.projectionsYearsArray,
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
-                  },
-                  plotOptions: {
-                    series: {
-                      ...seriesOption,
-                      dragDrop: { draggableY: true },
-                      point: {
-                        events: {
-                          drag: function (e) {
-                            if (_this.projectionsYearsArray.length == 6) {
-                              if (e.target.index == 0) {
-                                return false;
-                              }
-                            }
-                            if (_this.projectionsYearsArray.length == 7) {
-                              if (e.target.index == 0 || e.target.index == 1) {
-                                return false;
-                              }
-                            }
-                          },
-                          drop: function (e) {
-                            if (_this.projectionsYearsArray.length == 6) {
-                              if (e.target.index == 0) {
-                                return false;
-                              } else {
-                                that.financialObj.get(
-                                  e.target.category
-                                ).netIterestExpense = e.target.y;
-                                that.updateProjection();
-                              }
-                            }
-                            if (_this.projectionsYearsArray.length == 7) {
-                              if (e.target.index == 0 || e.target.index == 1) {
-                                return false;
-                              } else {
-                                that.financialObj.get(
-                                  e.target.category
-                                ).netIterestExpense = e.target.y;
-                                that.updateProjection();
-                              }
-                            }
-                          },
-                          click() {
-                            if (this.index < 2) {
-                              return false;
-                            }
-                            that.minValue = undefined;
-                            that.maxValue = undefined;
-                            that.selectedChart = 'net-interest-expense';
-                            that.selectedYear = this.category;
-                            that.modalDefaultValue = this.y;
-                            that.openDialog();
-                          },
-                        },
-                      },
-                    },
-                    areaspline: {
-                      stacking: 'normal',
-                      minPointLength: 2,
-                      colorByPoint: true,
-                      cursor: 'ns-resize',
-                      colors: this.driversColors,
-                      borderRadius: 5,
-                    },
-                  },
-                  tooltip: {
-                    ...tooltip,
-                    formatter() {
-                      return (
-                        Highcharts.numberFormat(this.point.y, 0) + ' millions'
-                      );
-                    },
-                  },
-                  credits: { enabled: false },
-                  exporting: { enabled: false },
-                  series: [
-                    {
-                      data: NIEArray,
-                      dragDrop: { draggableY: true },
-                      minPointLength: 2,
-                    },
-                  ],
-                  legend: false,
-                };
-                this.updateProjection();
-
-                this.visualsLoaded = true;
-              }, error => {
-                this.visualsLoaded = true
-              }); // end of projections
-          }, error => {
-            this.visualsLoaded = true
-          }); // end of Save Scenarios
-      }, error =>{
-        this.visualsLoaded = true
-      }); // end of actuals
+    }, error => {
+      this.visualsLoaded = true;
+      this.progressBar = false;
+      console.log("Failed to fetch scenarios for company " + this.companySelected, error)
+    })
 
     HC_exporting(Highcharts);
     setTimeout(() => {
@@ -1485,8 +1488,8 @@ export class VisualsISComponent implements OnInit {
       .getData(this.urlConfig.getScenarioAPI() + this.companySelected)
       .subscribe((res: any) => {
         if (this.scenarioSelected == 0) {
-          this.saveScenarioNumber = res.scenarios.length;
-          console.log('In If', res.scenarios.length);
+          this.saveScenarioNumber = res[this.companySelected] ? res[this.companySelected].length : 0;
+          console.log('In If', res[this.companySelected].length);
         } else {
           this.saveScenarioNumber = this.scenarioSelected;
           console.log('In Else', this.scenarioSelected);
@@ -1559,7 +1562,7 @@ export class VisualsISComponent implements OnInit {
         }
         this.apiService
           .postData(
-            this.urlConfig.getIsProjectionsAPIPOST() + this.companySelected,
+            this.urlConfig.getIsProjectionsAPIPOST() + this.companySelected + "&scenario="+this.saveScenarioNumber,
             JSON.stringify(inputArray)
           )
           .subscribe((res: any) => {

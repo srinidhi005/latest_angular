@@ -76,7 +76,7 @@ const seriesOption = {
 export class VisualsCfComponent implements OnInit {
   horizontalPosition: MatSnackBarHorizontalPosition = 'center';
   verticalPosition: MatSnackBarVerticalPosition = 'top';
-  inprogress = false;
+  inprogress = true;
   progressBar: boolean;
   DPOptions: {};
   CPOptions: {};
@@ -258,539 +258,536 @@ export class VisualsCfComponent implements OnInit {
       this.loadedScenario = 'Scenario ' + this.scenarioSelected;
     }
 
-    this.apiService
-      .getData(this.urlConfig.getCashActualsAPI() + this.companySelected)
-      .subscribe((res: any) => {
-        this.progressBar = true;
-        for (let j = 0; j < res.length; j++) {
-          this.CffinancialObj.set(res[j].asof, {
-            netincome: res[j].netincome,
-            totalrevenue: res[j].totalrevenue,
-            daa: res[j].daa,
-            fundsfromoperations: res[j].fundsfromoperations,
-            accountreceivablesdelta: res[j].accountreceivablesdelta,
-            inventoriesdelta: res[j].inventoriesdelta,
-            othercurrentassets: res[j].othercurrentassets,
-            accountspayable: res[j].accountspayable,
-            accruedliabilities: res[j].accruedliabilities,
-            othercurrentliabilities: res[j].othercurrentliabilities,
-            cfo: res[j].cfo,
-            totalexpenditure: res[j].totalexpenditure,
-            assetsales: res[j].assetsales,
-            otherinvestingactivities: res[j].otherinvestingactivities,
-            cfi: res[j].cfi,
-            debtissued: res[j].debtissued,
-            commonstockissued: res[j].commonstockissued,
-            dividendspaid:
-              res[j].dividendspaid > 0
-                ? res[j].dividendspaid
-                : res[j].dividendspaid * -1,
-            cff: res[j].cff,
-            netchangeincash: res[j].netchangeincash,
-            capexpercent:
-              res[j].capexpercent > 0
-                ? res[j].capexpercent
-                : res[j].capexpercent * -1,
-            assetsalespercent: res[j].assetsalespercent,
-            otherinvestmentpercent: res[j].otherinvestmentpercent,
-            ebitda: res[j].ebitda,
-            ffopercentrevenue: res[j].ffopercentrevenue,
-            cfopercentrevenue: res[j].cfopercentrevenue,
-            dividendspaidpercentincome: res[j].dividendspaidpercentincome,
-            cfopercentebitda: res[j].cfopercentebitda,
-            capexpercentrevenue: res[j].capexpercentrevenue,
-            assetsalespercentrevenue: res[j].assetsalespercentrevenue,
-            investingpercentrevenue: res[j].investingpercentrevenue,
-            latest: res[j].latest,
+    this.apiService.getData(this.urlConfig.getScenarioAPI() + this.companySelected).subscribe(res => {
+      console.log("Successfully fetched scenarios for company " + this.companySelected, res);
+
+      this.scenarioArray = res[this.companySelected] || [];
+      this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
+      this.scenarioSelected = localStorage.getItem('scenarioSelected');
+      
+      if (this.scenarioArray.includes(Number(this.scenarioSelected))) {
+        this.inprogress = false;
+      } else {
+        this.scenarioSelected = '0';
+        localStorage.setItem('scenarioSelected', this.scenarioSelected);
+        this.inprogress = false;
+      }
+
+      this.apiService.getData(this.urlConfig.getActualsProjectionsForCF() + this.companySelected + "&scenario=" + this.scenarioSelected).subscribe( (success: any) => {
+        console.log("Succesfully fetched projections and actuals for company " + this.companySelected, success);
+
+        if(success.result && success.result.actuals && success.result.projections){
+          const actualsData = JSON.parse(success.result.actuals);
+          const projectionsData = JSON.parse(success.result.projections);
+
+          for (let j = 0; j < actualsData.length; j++) {
+            this.CffinancialObj.set(+actualsData[j].asof, {
+              netincome: +actualsData[j].netincome,
+              totalrevenue: +actualsData[j].totalrevenue,
+              daa: +actualsData[j].daa,
+              fundsfromoperations: +actualsData[j].fundsfromoperations,
+              accountreceivablesdelta: +actualsData[j].accountreceivablesdelta,
+              inventoriesdelta: +actualsData[j].inventoriesdelta,
+              othercurrentassets: +actualsData[j].othercurrentassets,
+              accountspayable: +actualsData[j].accountspayable,
+              accruedliabilities: +actualsData[j].accruedliabilities,
+              othercurrentliabilities: +actualsData[j].othercurrentliabilities,
+              cfo: +actualsData[j].cfo,
+              totalexpenditure: +actualsData[j].totalexpenditure,
+              assetsales: +actualsData[j].assetsales,
+              otherinvestingactivities: +actualsData[j].otherinvestingactivities,
+              cfi: +actualsData[j].cfi,
+              debtissued: +actualsData[j].debtissued,
+              commonstockissued: +actualsData[j].commonstockissued,
+              dividendspaid:
+                +actualsData[j].dividendspaid > 0
+                  ? +actualsData[j].dividendspaid
+                  : +actualsData[j].dividendspaid * -1,
+              cff: +actualsData[j].cff,
+              netchangeincash: +actualsData[j].netchangeincash,
+              capexpercent:
+                +actualsData[j].capexpercent > 0
+                  ? +actualsData[j].capexpercent
+                  : +actualsData[j].capexpercent * -1,
+              assetsalespercent: +actualsData[j].assetsalespercent,
+              otherinvestmentpercent: +actualsData[j].otherinvestmentpercent,
+              ebitda: +actualsData[j].ebitda,
+              ffopercentrevenue: +actualsData[j].ffopercentrevenue,
+              cfopercentrevenue: +actualsData[j].cfopercentrevenue,
+              dividendspaidpercentincome: +actualsData[j].dividendspaidpercentincome,
+              cfopercentebitda: +actualsData[j].cfopercentebitda,
+              capexpercentrevenue: +actualsData[j].capexpercentrevenue,
+              assetsalespercentrevenue: +actualsData[j].assetsalespercentrevenue,
+              investingpercentrevenue: +actualsData[j].investingpercentrevenue,
+              latest: +actualsData[j].latest,
+            });
+          }
+
+          for (let j = 0; j < projectionsData.length; j++) {
+            this.CffinancialObj.set(+projectionsData[j].asof, {
+              netincome: +projectionsData[j].netincome,
+              totalrevenue: +projectionsData[j].totalrevenue,
+              daa: +projectionsData[j].daa,
+              fundsfromoperations: +projectionsData[j].fundsfromoperations,
+              accountreceivablesdelta: +projectionsData[j].accountreceivablesdelta,
+              inventoriesdelta: +projectionsData[j].inventoriesdelta,
+              othercurrentassets: +projectionsData[j].othercurrentassets,
+              accountspayable: +projectionsData[j].accountspayable,
+              accruedliabilities: +projectionsData[j].accruedliabilities,
+              scenario: +projectionsData[j].scenario,
+              othercurrentliabilities: +projectionsData[j].othercurrentliabilities,
+              cfo: +projectionsData[j].cfo,
+              totalexpenditure: +projectionsData[j].totalexpenditure,
+              assetsales: +projectionsData[j].assetsales,
+              otherinvestingactivities: +projectionsData[j].otherinvestingactivities,
+              cfi: +projectionsData[j].cfi,
+              debtissued: +projectionsData[j].debtissued,
+              commonstockissued: +projectionsData[j].commonstockissued,
+              dividendspaid:
+                +projectionsData[j].dividendspaid > 0
+                  ? +projectionsData[j].dividendspaid
+                  : +projectionsData[j].dividendspaid * -1,
+              cff: +projectionsData[j].cff,
+              netchangeincash: +projectionsData[j].netchangeincash,
+              capexpercent:
+                +projectionsData[j].capexpercent > 0
+                  ? +projectionsData[j].capexpercent
+                  : +projectionsData[j].capexpercent * -1,
+              assetsalespercent: +projectionsData[j].assetsalespercent,
+              otherinvestmentpercent: +projectionsData[j].otherinvestmentpercent,
+              ebitda: +projectionsData[j].ebitda,
+              ffopercentrevenue: +projectionsData[j].ffopercentrevenue,
+              cfopercentrevenue: +projectionsData[j].cfopercentrevenue,
+              dividendspaidpercentincome:
+                +projectionsData[j].dividendspaidpercentincome,
+              cfopercentebitda: +projectionsData[j].cfopercentebitda,
+              capexpercentrevenue: +projectionsData[j].capexpercentrevenue,
+              assetsalespercentrevenue: +projectionsData[j].assetsalespercentrevenue,
+              investingpercentrevenue: +projectionsData[j].investingpercentrevenue,
+              latest: +projectionsData[j].latest,
+            });
+          }
+
+          this.CffinancialObj.forEach((v, k) => {
+            this.yearsArray.push(k);
+            DSOArray.push(
+              v.dividendspaid ? 0 : v.dividendspaid
+            );
+            IDArray.push(
+              v.capexpercent ? 0 : v.capexpercent
+            );
+            OCAArray.push(
+              v.assetsalespercent ? 0 : v.assetsalespercent
+            );
+            DPOArray.push(
+              v.otherinvestmentpercent
+                ? 0
+                : v.otherinvestmentpercent
+            );
           });
+
+          this.DPOptions = {
+            chart: { type: 'areaspline', animation: false },
+            title: { text: 'Dividends Paid' },
+            yAxis: {
+              title: {
+                text: 'USD (millions)',
+                style: {
+                  fontSize: '14px',
+                },
+              },
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+              min: 0,
+              tickInterval: 50,
+            },
+            xAxis: {
+              categories: this.yearsArray,
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+            },
+            plotOptions: {
+              series: {
+                ...seriesOption,
+                point: {
+                  events: {
+                    drag: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      }
+                    },
+                    drop: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      } else {
+                        that.CffinancialObj.get(
+                          e.target.category
+                        ).dividendspaid = e.target.y;
+
+                        that.updateProjection();
+                      }
+                    },
+                    click() {
+                      if (this.index < 2) {
+                        return false;
+                      }
+                      that.minValue = this.series.yAxis.min;
+                      that.maxValue = this.series.yAxis.max;
+                      that.selectedChart = 'dividend-paid';
+                      that.selectedYear = this.category;
+                      that.modalDefaultValue = this.y;
+                      that.openDialog();
+                    },
+                  },
+                },
+              },
+              areaspline: {
+                stacking: 'normal',
+                minPointLength: 2,
+                colorByPoint: true,
+                cursor: 'ns-resize',
+                colors: [
+                  actualColor,
+                  actualColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                ],
+                borderRadius: 5,
+              },
+            },
+            tooltip: {
+              ...tooltip,
+              formatter: function () {
+                return (
+                  Highcharts.numberFormat(this.point.y, 0) + ' millions'
+                );
+              },
+            },
+            credits: { enabled: false },
+            exporting: { enabled: false },
+            series: [
+              {
+                data: DSOArray,
+                dragDrop: { draggableY: true, dragMinY: 0 },
+                minPointLength: 2,
+              },
+            ],
+            legend: false,
+          };
+          this.CPOptions = {
+            chart: { type: 'areaspline', animation: false },
+            title: {
+              text: 'Capex (% of Revenue)',
+              style: {
+                fontSize: '14px',
+              },
+            },
+            yAxis: {
+              title: { text: 'As % of Revenue' },
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+              min: 0,
+              max: 50,
+              tickInterval: 10,
+            },
+            xAxis: {
+              categories: this.yearsArray,
+
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+            },
+            plotOptions: {
+              series: {
+                ...seriesOption,
+                point: {
+                  events: {
+                    drag: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      }
+                    },
+                    drop: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      } else {
+                        that.CffinancialObj.get(
+                          e.target.category
+                        ).capexpercent = e.target.y;
+                        that.updateProjection();
+                      }
+                    },
+                    click() {
+                      if (this.index < 2) {
+                        return false;
+                      }
+                      that.minValue = this.series.yAxis.min;
+                      that.maxValue = this.series.yAxis.max;
+                      that.selectedChart = 'capex';
+                      that.selectedYear = this.category;
+                      that.modalDefaultValue = this.y;
+                      that.openDialog();
+                    },
+                  },
+                },
+              },
+              areaspline: {
+                stacking: 'normal',
+                minPointLength: 2,
+                colorByPoint: true,
+                cursor: 'ns-resize',
+                colors: [
+                  actualColor,
+                  actualColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                ],
+                borderRadius: 5,
+              },
+            },
+            tooltip: {
+              ...tooltip,
+              formatter: function () {
+                return Highcharts.numberFormat(this.point.y, 0) + '%';
+              },
+            },
+            credits: { enabled: false },
+            exporting: { enabled: false },
+            series: [
+              {
+                data: IDArray,
+                dragDrop: { draggableY: true, dragMaxY: 50, dragMinY: 0 },
+              },
+            ],
+            legend: false,
+          };
+          this.ASOptions = {
+            chart: { type: 'areaspline', animation: false },
+            title: { text: 'Asset Sales (% of Revenue)' },
+            yAxis: {
+              title: {
+                text: 'As % of Revenue',
+                style: {
+                  fontSize: '14px',
+                },
+              },
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+
+              min: 0,
+              max: 50,
+              tickInterval: 10,
+            },
+            xAxis: {
+              categories: this.yearsArray,
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+            },
+            plotOptions: {
+              series: {
+                ...seriesOption,
+                point: {
+                  events: {
+                    drag: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      }
+                    },
+                    drop: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      } else {
+                        that.CffinancialObj.get(
+                          e.target.category
+                        ).assetsalespercent = e.target.y;
+
+                        that.updateProjection();
+                      }
+                    },
+                    click() {
+                      if (this.index < 2) {
+                        return false;
+                      }
+                      that.minValue = this.series.yAxis.min;
+                      that.maxValue = this.series.yAxis.max;
+                      that.selectedChart = 'assest-sales';
+                      that.selectedYear = this.category;
+                      that.modalDefaultValue = this.y;
+                      that.openDialog();
+                    },
+                  },
+                },
+              },
+              areaspline: {
+                stacking: 'normal',
+                minPointLength: 2,
+                colorByPoint: true,
+                cursor: 'ns-resize',
+                colors: [
+                  actualColor,
+                  actualColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                ],
+                borderRadius: 5,
+              },
+            },
+            tooltip: {
+              ...tooltip,
+              formatter: function () {
+                return Highcharts.numberFormat(this.point.y, 0) + ' %';
+              },
+            },
+            credits: { enabled: false },
+            exporting: { enabled: false },
+            series: [
+              {
+                data: OCAArray,
+                dragDrop: { draggableY: true, dragMaxY: 50, dragMinY: 0 },
+              },
+            ],
+            legend: false,
+          };
+          this.OIAOptions = {
+            chart: { type: 'areaspline', animation: false },
+            title: { text: 'Other Investing Activities (% of Revenue)' },
+            yAxis: {
+              title: { text: 'As % of Revenue' },
+              min: -30,
+              max: 30,
+              tickInterval: 10,
+            },
+            xAxis: {
+              categories: this.yearsArray,
+              labels: {
+                style: {
+                  fontSize: '13px',
+                },
+              },
+            },
+            plotOptions: {
+              series: {
+                ...seriesOption,
+                stickyTracking: false,
+                dragDrop: {
+                  draggableY: true,
+                },
+                point: {
+                  events: {
+                    drag: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      }
+                    },
+                    drop: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      } else {
+                        that.CffinancialObj.get(
+                          e.target.category
+                        ).otherinvestmentpercent = e.target.y;
+                        that.updateProjection();
+                      }
+                    },
+                    click() {
+                      if (this.index < 2) {
+                        return false;
+                      }
+                      that.minValue = this.series.yAxis.min;
+                      that.maxValue = this.series.yAxis.max;
+                      that.selectedChart = 'other-investment';
+                      that.selectedYear = this.category;
+                      that.modalDefaultValue = this.y;
+                      that.openDialog();
+                    },
+                  },
+                },
+              },
+              areaspline: {
+                stacking: 'normal',
+                minPointLength: 2,
+                colorByPoint: true,
+                cursor: 'ns-resize',
+                colors: [
+                  actualColor,
+                  actualColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                ],
+                borderRadius: 5,
+              },
+            },
+            tooltip: {
+              ...tooltip,
+              formatter: function () {
+                return Highcharts.numberFormat(this.point.y, 0) + '%';
+              },
+            },
+            credits: { enabled: false },
+            exporting: { enabled: false },
+            series: [
+              {
+                data: DPOArray,
+                dragDrop: {
+                  draggableY: true,
+                  dragMaxY: 30,
+                  dragMinY: -30,
+                },
+              },
+            ],
+
+            legend: false,
+          };
+
+          this.updateProjection();
+
+          this.visualsLoaded = true
+
+          this.progressBar = false;
         }
-
-        this.apiService
-          .getData(this.urlConfig.getCashScenarioAPI() + this.companySelected)
-          .subscribe((res: any) => {
-            this.scenarioArray = res.scenarios;
-            this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
-            // this.scenarioSelected = localStorage.getItem('scenarioSelected');
-            if (this.scenarioArray.includes(+this.scenarioSelected)) {
-              this.loadedScenario = ('Scenario ' +
-                this.scenarioSelected) as any;
-              this.inprogress = true;
-            } else {
-              this.scenarioSelected = 0;
-              this.loadedScenario = ('Scenario ' +
-                this.scenarioSelected) as any;
-              this.inprogress = true;
-            }
-
-            this.apiService
-              .getData(
-                this.urlConfig.getCashProjectionsAPIGET() +
-                  this.companySelected +
-                  '&scenario=' +
-                  this.scenarioSelected
-              )
-              // tslint:disable-next-line:no-shadowed-variable
-              .subscribe((res: any) => {
-                this.loadedScenario = 'Scenario ' + this.scenarioSelected;
-                this.progressBar = false;
-                if (Array.isArray(res)) {
-                  for (let j = 0; j < res.length; j++) {
-                    this.CffinancialObj.set(res[j].asof, {
-                      netincome: res[j].netincome,
-                      totalrevenue: res[j].totalrevenue,
-                      daa: res[j].daa,
-                      fundsfromoperations: res[j].fundsfromoperations,
-                      accountreceivablesdelta: res[j].accountreceivablesdelta,
-                      inventoriesdelta: res[j].inventoriesdelta,
-                      othercurrentassets: res[j].othercurrentassets,
-                      accountspayable: res[j].accountspayable,
-                      accruedliabilities: res[j].accruedliabilities,
-                      scenario: res[j].scenario,
-                      othercurrentliabilities: res[j].othercurrentliabilities,
-                      cfo: res[j].cfo,
-                      totalexpenditure: res[j].totalexpenditure,
-                      assetsales: res[j].assetsales,
-                      otherinvestingactivities: res[j].otherinvestingactivities,
-                      cfi: res[j].cfi,
-                      debtissued: res[j].debtissued,
-                      commonstockissued: res[j].commonstockissued,
-                      dividendspaid:
-                        res[j].dividendspaid > 0
-                          ? res[j].dividendspaid
-                          : res[j].dividendspaid * -1,
-                      cff: res[j].cff,
-                      netchangeincash: res[j].netchangeincash,
-                      capexpercent:
-                        res[j].capexpercent > 0
-                          ? res[j].capexpercent
-                          : res[j].capexpercent * -1,
-                      assetsalespercent: res[j].assetsalespercent,
-                      otherinvestmentpercent: res[j].otherinvestmentpercent,
-                      ebitda: res[j].ebitda,
-                      ffopercentrevenue: res[j].ffopercentrevenue,
-                      cfopercentrevenue: res[j].cfopercentrevenue,
-                      dividendspaidpercentincome:
-                        res[j].dividendspaidpercentincome,
-                      cfopercentebitda: res[j].cfopercentebitda,
-                      capexpercentrevenue: res[j].capexpercentrevenue,
-                      assetsalespercentrevenue: res[j].assetsalespercentrevenue,
-                      investingpercentrevenue: res[j].investingpercentrevenue,
-                      latest: res[j].latest,
-                    });
-                  }
-                }
-                this.CffinancialObj.forEach((v, k) => {
-                  this.yearsArray.push(k);
-                  DSOArray.push(
-                    v.dividendspaid == undefined ? 0 : v.dividendspaid
-                  );
-                  IDArray.push(
-                    v.capexpercent == undefined ? 0 : v.capexpercent
-                  );
-                  OCAArray.push(
-                    v.assetsalespercent == undefined ? 0 : v.assetsalespercent
-                  );
-                  DPOArray.push(
-                    v.otherinvestmentpercent == undefined
-                      ? 0
-                      : v.otherinvestmentpercent
-                  );
-                });
-
-                this.DPOptions = {
-                  chart: { type: 'areaspline', animation: false },
-                  title: { text: 'Dividends Paid' },
-                  yAxis: {
-                    title: {
-                      text: 'USD (millions)',
-                      style: {
-                        fontSize: '14px',
-                      },
-                    },
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
-                    min: 0,
-                    tickInterval: 50,
-                  },
-                  xAxis: {
-                    categories: this.yearsArray,
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
-                  },
-                  plotOptions: {
-                    series: {
-                      ...seriesOption,
-                      point: {
-                        events: {
-                          drag: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            }
-                          },
-                          drop: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            } else {
-                              that.CffinancialObj.get(
-                                e.target.category
-                              ).dividendspaid = e.target.y;
-
-                              that.updateProjection();
-                            }
-                          },
-                          click() {
-                            if (this.index < 2) {
-                              return false;
-                            }
-                            that.minValue = this.series.yAxis.min;
-                            that.maxValue = this.series.yAxis.max;
-                            that.selectedChart = 'dividend-paid';
-                            that.selectedYear = this.category;
-                            that.modalDefaultValue = this.y;
-                            that.openDialog();
-                          },
-                        },
-                      },
-                    },
-                    areaspline: {
-                      stacking: 'normal',
-                      minPointLength: 2,
-                      colorByPoint: true,
-                      cursor: 'ns-resize',
-                      colors: [
-                        actualColor,
-                        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                      ],
-                      borderRadius: 5,
-                    },
-                  },
-                  tooltip: {
-                    ...tooltip,
-                    formatter: function () {
-                      return (
-                        Highcharts.numberFormat(this.point.y, 0) + ' millions'
-                      );
-                    },
-                  },
-                  credits: { enabled: false },
-                  exporting: { enabled: false },
-                  series: [
-                    {
-                      data: DSOArray,
-                      dragDrop: { draggableY: true, dragMinY: 0 },
-                      minPointLength: 2,
-                    },
-                  ],
-                  legend: false,
-                };
-                this.CPOptions = {
-                  chart: { type: 'areaspline', animation: false },
-                  title: {
-                    text: 'Capex (% of Revenue)',
-                    style: {
-                      fontSize: '14px',
-                    },
-                  },
-                  yAxis: {
-                    title: { text: 'As % of Revenue' },
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
-                    min: 0,
-                    max: 50,
-                    tickInterval: 10,
-                  },
-                  xAxis: {
-                    categories: this.yearsArray,
-
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
-                  },
-                  plotOptions: {
-                    series: {
-                      ...seriesOption,
-                      point: {
-                        events: {
-                          drag: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            }
-                          },
-                          drop: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            } else {
-                              that.CffinancialObj.get(
-                                e.target.category
-                              ).capexpercent = e.target.y;
-                              that.updateProjection();
-                            }
-                          },
-                          click() {
-                            if (this.index < 2) {
-                              return false;
-                            }
-                            that.minValue = this.series.yAxis.min;
-                            that.maxValue = this.series.yAxis.max;
-                            that.selectedChart = 'capex';
-                            that.selectedYear = this.category;
-                            that.modalDefaultValue = this.y;
-                            that.openDialog();
-                          },
-                        },
-                      },
-                    },
-                    areaspline: {
-                      stacking: 'normal',
-                      minPointLength: 2,
-                      colorByPoint: true,
-                      cursor: 'ns-resize',
-                      colors: [
-                        actualColor,
-                        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                      ],
-                      borderRadius: 5,
-                    },
-                  },
-                  tooltip: {
-                    ...tooltip,
-                    formatter: function () {
-                      return Highcharts.numberFormat(this.point.y, 0) + '%';
-                    },
-                  },
-                  credits: { enabled: false },
-                  exporting: { enabled: false },
-                  series: [
-                    {
-                      data: IDArray,
-                      dragDrop: { draggableY: true, dragMaxY: 50, dragMinY: 0 },
-                    },
-                  ],
-                  legend: false,
-                };
-                this.ASOptions = {
-                  chart: { type: 'areaspline', animation: false },
-                  title: { text: 'Asset Sales (% of Revenue)' },
-                  yAxis: {
-                    title: {
-                      text: 'As % of Revenue',
-                      style: {
-                        fontSize: '14px',
-                      },
-                    },
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
-
-                    min: 0,
-                    max: 50,
-                    tickInterval: 10,
-                  },
-                  xAxis: {
-                    categories: this.yearsArray,
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
-                  },
-                  plotOptions: {
-                    series: {
-                      ...seriesOption,
-                      point: {
-                        events: {
-                          drag: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            }
-                          },
-                          drop: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            } else {
-                              that.CffinancialObj.get(
-                                e.target.category
-                              ).assetsalespercent = e.target.y;
-
-                              that.updateProjection();
-                            }
-                          },
-                          click() {
-                            if (this.index < 2) {
-                              return false;
-                            }
-                            that.minValue = this.series.yAxis.min;
-                            that.maxValue = this.series.yAxis.max;
-                            that.selectedChart = 'assest-sales';
-                            that.selectedYear = this.category;
-                            that.modalDefaultValue = this.y;
-                            that.openDialog();
-                          },
-                        },
-                      },
-                    },
-                    areaspline: {
-                      stacking: 'normal',
-                      minPointLength: 2,
-                      colorByPoint: true,
-                      cursor: 'ns-resize',
-                      colors: [
-                        actualColor,
-                        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                      ],
-                      borderRadius: 5,
-                    },
-                  },
-                  tooltip: {
-                    ...tooltip,
-                    formatter: function () {
-                      return Highcharts.numberFormat(this.point.y, 0) + ' %';
-                    },
-                  },
-                  credits: { enabled: false },
-                  exporting: { enabled: false },
-                  series: [
-                    {
-                      data: OCAArray,
-                      dragDrop: { draggableY: true, dragMaxY: 50, dragMinY: 0 },
-                    },
-                  ],
-                  legend: false,
-                };
-                this.OIAOptions = {
-                  chart: { type: 'areaspline', animation: false },
-                  title: { text: 'Other Investing Activities (% of Revenue)' },
-                  yAxis: {
-                    title: { text: 'As % of Revenue' },
-                    min: -30,
-                    max: 30,
-                    tickInterval: 10,
-                  },
-                  xAxis: {
-                    categories: this.yearsArray,
-                    labels: {
-                      style: {
-                        fontSize: '13px',
-                      },
-                    },
-                  },
-                  plotOptions: {
-                    series: {
-                      ...seriesOption,
-                      stickyTracking: false,
-                      dragDrop: {
-                        draggableY: true,
-                      },
-                      point: {
-                        events: {
-                          drag: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            }
-                          },
-                          drop: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            } else {
-                              that.CffinancialObj.get(
-                                e.target.category
-                              ).otherinvestmentpercent = e.target.y;
-                              that.updateProjection();
-                            }
-                          },
-                          click() {
-                            if (this.index < 2) {
-                              return false;
-                            }
-                            that.minValue = this.series.yAxis.min;
-                            that.maxValue = this.series.yAxis.max;
-                            that.selectedChart = 'other-investment';
-                            that.selectedYear = this.category;
-                            that.modalDefaultValue = this.y;
-                            that.openDialog();
-                          },
-                        },
-                      },
-                    },
-                    areaspline: {
-                      stacking: 'normal',
-                      minPointLength: 2,
-                      colorByPoint: true,
-                      cursor: 'ns-resize',
-                      colors: [
-                        actualColor,
-                        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                      ],
-                      borderRadius: 5,
-                    },
-                  },
-                  tooltip: {
-                    ...tooltip,
-                    formatter: function () {
-                      return Highcharts.numberFormat(this.point.y, 0) + '%';
-                    },
-                  },
-                  credits: { enabled: false },
-                  exporting: { enabled: false },
-                  series: [
-                    {
-                      data: DPOArray,
-                      dragDrop: {
-                        draggableY: true,
-                        dragMaxY: 30,
-                        dragMinY: -30,
-                      },
-                    },
-                  ],
-
-                  legend: false,
-                };
-
-                this.updateProjection();
-
-                this.visualsLoaded = true
-              }, error => {
-                this.visualsLoaded = true
-              }); // end of projections
-          }, error => {
-            this.visualsLoaded = true
-          }); // end of Save Scenarios
+        else{
+          throw new Error()
+        }
       }, error => {
-        this.visualsLoaded = true
-      }); // end of actuals
+        this.visualsLoaded = true;
+        this.progressBar = false;
+        console.log("Failed to fetch projections and actuals for company " + this.companySelected, error);
+      })
+      
+    }, error => {
+      this.visualsLoaded = true;
+      this.progressBar = false;
+      console.log("Failed to fetch scenarios for company " + this.companySelected, error)
+    })
 
     HC_exporting(Highcharts);
     setTimeout(() => {
@@ -1126,8 +1123,8 @@ export class VisualsCfComponent implements OnInit {
       .getData(this.urlConfig.getCashScenarioAPI() + this.companySelected)
       .subscribe((res: any) => {
         if (this.scenarioSelected == 0) {
-          this.saveScenarioNumber = res.scenarios.length;
-          this.scenarioSelected = res.scenarios.length;
+          this.saveScenarioNumber = res[this.companySelected] ? res[this.companySelected].length : 0;
+          this.scenarioSelected = res[this.companySelected] ? res[this.companySelected].length : 0;
         } else {
           this.saveScenarioNumber = this.scenarioSelected;
         }
@@ -1227,7 +1224,7 @@ export class VisualsCfComponent implements OnInit {
         }
         this.apiService
           .postData(
-            this.urlConfig.getCashProjectionsAPIPOST() + this.companySelected,
+            this.urlConfig.getCashProjectionsAPIPOST() + this.companySelected + "&scenario="+this.saveScenarioNumber,
             JSON.stringify(inputArray)
           )
           .subscribe((res: any) => {

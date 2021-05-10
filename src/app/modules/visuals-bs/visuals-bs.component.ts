@@ -290,705 +290,693 @@ export class VisualsBsComponent implements OnInit {
       this.loadedScenario = 'Scenario ' + this.scenarioSelected;
     }
 
-    // this.UserDetailModelService.updatedScenario.next();
+    this.apiService.getData(this.urlConfig.getScenarioAPI() + this.companySelected).subscribe(res => {
+      console.log("Successfully fetched scenarios for company " + this.companySelected, res);
 
-    // if(this.UserDetailModelService.selectedScenarioIndex >= 0){
-    //   this.scenario = this.UserDetailModelService.selectedScenarioIndex
-    //   this.loadedScenario = "Scenario "+this.scenario;
-    // }
+      this.scenarioArray = res[this.companySelected] || [];
+      this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
+      this.scenarioSelected = localStorage.getItem('scenarioSelected');
+      
+      if (this.scenarioArray.includes(Number(this.scenarioSelected))) {
+        this.inprogress = false;
+      } else {
+        this.scenarioSelected = '0';
+        localStorage.setItem('scenarioSelected', this.scenarioSelected);
+        this.inprogress = false;
+      }
 
-    this.apiService
-      .getData(this.urlConfig.getBsActualsAPI() + this.companySelected)
-      .subscribe((res: any) => {
-        this.progressBar = true;
-        // tslint:disable-next-line:prefer-for-of
-        for (let j = 0; j < res.length; j++) {
-          this.BsfinancialObj.set(res[j].asof, {
-            totalcurrentassets: res[j].totalcurrentassets,
-            totalassets: res[j].totalassets,
-            totalcurrentliabilities: res[j].totalcurrentliabilities,
-            totalliabilities: res[j].totalliabilities,
-            totalshareholdersequity: res[j].totalshareholdersequity,
-            totalliabilitiesandequity: res[j].totalliabilitiesandequity,
-            dso: res[j].dso,
-            inventorydays: res[j].inventorydays,
-            othercurrentassetspercent: res[j].othercurrentassetspercent,
-            dpo: res[j].dpo,
-            accruedliabilitiespercent: res[j].accruedliabilitiespercent,
-            othercurrentliabilitiespercent:
-              res[j].othercurrentliabilitiespercent,
-            ppe: res[j].ppe,
-            goodwill: res[j].goodwill,
-            intangibleassets: res[j].intangibleassets,
-            otherassets: res[j].otherassets,
-            currentportionlongtermdebt: res[j].currentportionlongtermdebt,
-            longtermdebt: res[j].longtermdebt,
-            otherliabilities: res[j].otherliabilities,
-			totalcurrentassestexcash:res[j].accountsreceivable+res[j].inventories+res[j].othercurrentassets,
-			 totalassestexcash:res[j].accountsreceivable+res[j].inventories+res[j].othercurrentassets+res[j].ppe+res[j].goodwill+res[j].intangibleassets+res[j].otherassets,
-            // "totalshareholdersequity":res[j].totalshareholdersequity
+      this.apiService.getData(this.urlConfig.getActualsProjectionsForBS() + this.companySelected + "&scenario=" + this.scenarioSelected).subscribe( (success:any) => {
+        console.log("Succesfully fetched projections and actuals for company " + this.companySelected, success);
+
+        if(success.result && success.result.actuals && success.result.projections){
+          const actualsData = JSON.parse(success.result.actuals);
+          const projectionsData = JSON.parse(success.result.projections);
+
+          for (let j = 0; j < actualsData.length; j++) {
+            this.BsfinancialObj.set(actualsData[j].asof, {
+              totalcurrentassets: actualsData[j].totalcurrentassets,
+              totalassets: actualsData[j].totalassets,
+              totalcurrentliabilities: actualsData[j].totalcurrentliabilities,
+              totalliabilities: actualsData[j].totalliabilities,
+              totalshareholdersequity: actualsData[j].totalshareholdersequity,
+              totalliabilitiesandequity: actualsData[j].totalliabilitiesandequity,
+              dso: actualsData[j].dso,
+              inventorydays: actualsData[j].inventorydays,
+              othercurrentassetspercent: actualsData[j].othercurrentassetspercent,
+              dpo: actualsData[j].dpo,
+              accruedliabilitiespercent: actualsData[j].accruedliabilitiespercent,
+              othercurrentliabilitiespercent:
+                actualsData[j].othercurrentliabilitiespercent,
+              ppe: actualsData[j].ppe,
+              goodwill: actualsData[j].goodwill,
+              intangibleassets: actualsData[j].intangibleassets,
+              otherassets: actualsData[j].otherassets,
+              currentportionlongtermdebt: actualsData[j].currentportionlongtermdebt,
+              longtermdebt: actualsData[j].longtermdebt,
+              otherliabilities: actualsData[j].otherliabilities,
+              totalcurrentassestexcash:actualsData[j].accountsreceivable+actualsData[j].inventories+actualsData[j].othercurrentassets,
+              totalassestexcash:actualsData[j].accountsreceivable+actualsData[j].inventories+actualsData[j].othercurrentassets+actualsData[j].ppe+actualsData[j].goodwill+actualsData[j].intangibleassets+actualsData[j].otherassets,
+              // "totalshareholdersequity":actualsData[j].totalshareholdersequity
+            });
+          }
+
+          for (let j = 0; j < projectionsData.length; j++) {
+            this.BsfinancialObj.set(projectionsData[j].asof, {
+              totalcurrentassets: projectionsData[j].totalcurrentassets,
+              totalassets: projectionsData[j].totalassets,
+              totalcurrentliabilities: projectionsData[j].totalcurrentliabilities,
+              totalliabilities: projectionsData[j].totalliabilities,
+              totalshareholdersequity: projectionsData[j].totalshareholdersequity,
+              totalliabilitiesandequity:
+                projectionsData[j].totalliabilitiesandequity,
+              dso: projectionsData[j].dso,
+              inventorydays: projectionsData[j].inventorydays,
+              othercurrentassetspercent:
+                projectionsData[j].othercurrentassetspercent,
+              dpo: projectionsData[j].dpo,
+              accruedliabilitiespercent:
+                projectionsData[j].accruedliabilitiespercent,
+              othercurrentliabilitiespercent:
+                projectionsData[j].othercurrentliabilitiespercent,
+              scenarioNumber: projectionsData[j].scenario,
+              otherliabilities: projectionsData[j].otherliabilities,
+              longtermdebt: projectionsData[j].longtermdebt,
+              othercurrentliabilities: projectionsData[j].othercurrentliabilities,
+              accruedliabilities: projectionsData[j].accruedliabilities,
+              accountspayable: projectionsData[j].accountspayable,
+              currentportionlongtermdebt:
+                projectionsData[j].currentportionlongtermdebt,
+              otherassets: projectionsData[j].otherassets,
+              goodwill: projectionsData[j].goodwill,
+              intangibleassets: projectionsData[j].intangibleassets,
+              ppe: projectionsData[j].ppe,
+              inventories: projectionsData[j].inventories,
+              accountsreceivable: projectionsData[j].accountsreceivable,
+              cashequivalents: projectionsData[j].cashequivalents,
+              cogs: projectionsData[j].ic_cogs,
+              netincome: projectionsData[j].ic_netincome,
+              totalrevenue: projectionsData[j].ic_totalrevenue,
+              memocheck: projectionsData[j].memocheck,
+              othercurrentassets: projectionsData[j].othercurrentassets,
+              totalcurrentassestexcash:projectionsData[j].accountsreceivable+projectionsData[j].inventories+projectionsData[j].othercurrentassets,
+              totalassestexcash:projectionsData[j].accountsreceivable+projectionsData[j].inventories+projectionsData[j].othercurrentassets+projectionsData[j].ppe+projectionsData[j].goodwill+projectionsData[j].intangibleassets+projectionsData[j].otherassets,
+              latest: projectionsData[j].latest,
+            });
+          }
+
+          this.BsfinancialObj.forEach((v, k) => {
+            this.yearsArray.push(k);
+            DSOArray.push(v.dso == undefined ? 0 : v.dso);
+            IDArray.push(
+              v.inventorydays == undefined ? 0 : v.inventorydays
+            );
+            OCAArray.push(
+              v.othercurrentassetspercent == undefined
+                ? 0
+                : v.othercurrentassetspercent
+            );
+            DPOArray.push(v.dpo == undefined ? 0 : v.dpo);
+            ALArray.push(
+              v.accruedliabilitiespercent == undefined
+                ? 0
+                : v.accruedliabilitiespercent
+            );
+            OCLArray.push(
+              v.othercurrentliabilitiespercent == undefined
+                ? 0
+                : v.othercurrentliabilitiespercent
+            );
           });
-        }
 
-        this.apiService
-          .getData(this.urlConfig.getScenarioAPI() + this.companySelected)
-          .subscribe((res: any) => {
-            this.scenarioArray = res.scenarios;
-            this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
-            // this.scenarioSelected = localStorage.getItem('scenarioSelected');
-            if (this.scenarioArray.includes(+this.scenarioSelected)) {
-              this.loadedScenario = ('Scenario ' +
-                this.scenarioSelected) as any;
-              this.inprogress = true;
-            } else {
-              this.scenarioSelected = 0;
-              this.loadedScenario = ('Scenario ' +
-                this.scenarioSelected) as any;
-              this.inprogress = true;
-            }
-            this.apiService
-              .getData(
-                this.urlConfig.getBsProjectionsAPIGET() +
-                  this.companySelected +
-                  '&scenario=' +
-                  this.scenarioSelected
-              )
-              // tslint:disable-next-line:no-shadowed-variable
-              .subscribe((res: any) => {
-                this.loadedScenario = 'Scenario ' + this.scenarioSelected;
-                this.progressBar = false;
-                if (Array.isArray(res)) {
-                  for (let j = 0; j < res.length; j++) {
-                    this.BsfinancialObj.set(res[j].asof, {
-                      totalcurrentassets: res[j].totalcurrentassets,
-                      totalassets: res[j].totalassets,
-                      totalcurrentliabilities: res[j].totalcurrentliabilities,
-                      totalliabilities: res[j].totalliabilities,
-                      totalshareholdersequity: res[j].totalshareholdersequity,
-                      totalliabilitiesandequity:
-                        res[j].totalliabilitiesandequity,
-                      dso: res[j].dso,
-                      inventorydays: res[j].inventorydays,
-                      othercurrentassetspercent:
-                        res[j].othercurrentassetspercent,
-                      dpo: res[j].dpo,
-                      accruedliabilitiespercent:
-                        res[j].accruedliabilitiespercent,
-                      othercurrentliabilitiespercent:
-                        res[j].othercurrentliabilitiespercent,
-                      scenarioNumber: res[j].scenario,
-                      otherliabilities: res[j].otherliabilities,
-                      longtermdebt: res[j].longtermdebt,
-                      othercurrentliabilities: res[j].othercurrentliabilities,
-                      accruedliabilities: res[j].accruedliabilities,
-                      accountspayable: res[j].accountspayable,
-                      currentportionlongtermdebt:
-                        res[j].currentportionlongtermdebt,
-                      otherassets: res[j].otherassets,
-                      goodwill: res[j].goodwill,
-                      intangibleassets: res[j].intangibleassets,
-                      ppe: res[j].ppe,
-                      inventories: res[j].inventories,
-                      accountsreceivable: res[j].accountsreceivable,
-                      cashequivalents: res[j].cashequivalents,
-                      cogs: res[j].ic_cogs,
-                      netincome: res[j].ic_netincome,
-                      totalrevenue: res[j].ic_totalrevenue,
-                      memocheck: res[j].memocheck,
-                      othercurrentassets: res[j].othercurrentassets,
-					  totalcurrentassestexcash:res[j].accountsreceivable+res[j].inventories+res[j].othercurrentassets,
-			 totalassestexcash:res[j].accountsreceivable+res[j].inventories+res[j].othercurrentassets+res[j].ppe+res[j].goodwill+res[j].intangibleassets+res[j].otherassets,
-                      latest: res[j].latest,
-                    });
-                  }
+          this.DSOOptions = {
+            chart: { type: 'areaspline', animation: false },
+            title: { text: 'Days Sales Outstanding' },
+            yAxis: {
+              title: { text: 'Days',
+    style: {
+                  fontSize: '14px',
+                }  
+    },
+    labels: {
+                style: {
+                  fontSize: '13px',
                 }
-                this.BsfinancialObj.forEach((v, k) => {
-                  this.yearsArray.push(k);
-                  DSOArray.push(v.dso == undefined ? 0 : v.dso);
-                  IDArray.push(
-                    v.inventorydays == undefined ? 0 : v.inventorydays
-                  );
-                  OCAArray.push(
-                    v.othercurrentassetspercent == undefined
-                      ? 0
-                      : v.othercurrentassetspercent
-                  );
-                  DPOArray.push(v.dpo == undefined ? 0 : v.dpo);
-                  ALArray.push(
-                    v.accruedliabilitiespercent == undefined
-                      ? 0
-                      : v.accruedliabilitiespercent
-                  );
-                  OCLArray.push(
-                    v.othercurrentliabilitiespercent == undefined
-                      ? 0
-                      : v.othercurrentliabilitiespercent
-                  );
-                });
+              },
+              min: 0,
+              max: 180,
+              tickInterval: 30,
+            },
+            xAxis: { categories: this.yearsArray,
+    labels: {
+                style: {
+                  fontSize: '13px',
+                }
+              },
+    },
+            plotOptions: {
+              series: {
+                ...seriesOption,
+                dragDrop: {
+                  draggableY: true,
+                  dragMaxY: 180,
+                  dragMinY: 0,
+                },
+                point: {
+                  events: {
+                    drag: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      }
+                    },
+                    drop: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      } else {
+                        that.BsfinancialObj.get(e.target.category).dso =
+                          e.target.y;
+                        that.updateProjection();
+                      }
+                    },
+                    click() {
+                      if (this.index < 2) {
+                        return false;
+                      }
+                      that.minValue = this.series.yAxis.min;
+                      that.maxValue = this.series.yAxis.max;
+                      that.selectedChart = 'daily-sales';
+                      that.selectedYear = this.category;
+                      that.modalDefaultValue = this.y;
+                      that.openDialog();
+                    },
+                  },
+                },
+              },
+              areaspline: {
+                stacking: 'normal',
+                minPointLength: 2,
+                colorByPoint: true,
+                cursor: 'ns-resize',
+                colors: [
+                  actualColor,
+                  actualColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+      projectionColor,
+                ],
+                borderRadius: 5,
+              },
+            },
+            tooltip: {
+              ...tooltip,
+              formatter() {
+                return Highcharts.numberFormat(this.point.y, 0) + ' Days';
+              },
+            },
+            credits: { enabled: false },
+            exporting: { enabled: false },
+            series: [
+              {
+                data: DSOArray,
+                dragDrop: { draggableY: true },
+                minPointLength: 2,
+              },
+            ],
+            legend: false,
+          };
+          this.IDOptions = {
+            chart: { type: 'areaspline', animation: false },
+            title: { text: 'Inventory Days' },
+            yAxis: {
+              title: { text: 'Days',
+    style: {
+                  fontSize: '14px',
+                }  
+    },
+    labels: {
+                style: {
+                  fontSize: '13px',
+                }
+              },
+              min: 0,
+              max: 180,
+              tickInterval: 30,
+            },
+            xAxis: { categories: this.yearsArray,
+    labels: {
+                style: {
+                  fontSize: '13px',
+                }
+              },
+    },
+            plotOptions: {
+              series: {
+                ...seriesOption,
+                dragDrop: {
+                  draggableY: true,
+                  dragMaxY: 180,
+                  dragMinY: 0,
+                },
+                point: {
+                  events: {
+                    drag: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      }
+                    },
+                    drop: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      } else {
+                        that.BsfinancialObj.get(
+                          e.target.category
+                        ).inventorydays = e.target.y;
+                        that.updateProjection();
+                      }
+                    },
+                    click() {
+                      if (this.index < 2) {
+                        return false;
+                      }
+                      that.minValue = this.series.yAxis.min;
+                      that.maxValue = this.series.yAxis.max;
+                      that.selectedChart = 'inventory-days';
+                      that.selectedYear = this.category;
+                      that.modalDefaultValue = this.y;
+                      that.openDialog();
+                    },
+                  },
+                },
+              },
+              areaspline: {
+                stacking: 'normal',
+                minPointLength: 2,
+                colorByPoint: true,
+                cursor: 'ns-resize',
+                colors: [
+                  actualColor,
+                  actualColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+      projectionColor,
+                ],
+                borderRadius: 5,
+              },
+            },
+            tooltip: {
+              ...tooltip,
+              formatter: function () {
+                return Highcharts.numberFormat(this.point.y, 0) + ' Days';
+              },
+            },
+            credits: { enabled: false },
+            exporting: { enabled: false },
+            series: [{ data: IDArray, dragDrop: { draggableY: true } }],
+            legend: false,
+          };
+          this.OCAOptions = {
+            chart: { type: 'areaspline', animation: false },
+            title: { text: 'Other Current Assets (% of Revenue)' },
+            yAxis: {
+              title: { text: 'As % of Revenue',
+      style: {
+                  fontSize: '14px',
+                }  
+      },
+      labels: {
+                style: {
+                  fontSize: '13px',
+                }
+              },
+              min: 0,
+              max: 100,
+              tickInterval: 25,
+            },
+            xAxis: { categories: this.yearsArray,
+    labels: {
+                style: {
+                  fontSize: '13px',
+                }
+              },
+    },
+            plotOptions: {
+              series: {
+                ...seriesOption,
+                dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
+                point: {
+                  events: {
+                    drag: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      }
+                    },
+                    drop: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      } else {
+                        that.BsfinancialObj.get(
+                          e.target.category
+                        ).othercurrentassetspercent = e.target.y;
+                        that.updateProjection();
+                      }
+                    },
+                    click() {
+                      if (this.index < 2) {
+                        return false;
+                      }
+                      that.minValue = this.series.yAxis.min;
+                      that.maxValue = this.series.yAxis.max;
+                      that.selectedChart = 'other-current-assets';
+                      that.selectedYear = this.category;
+                      that.modalDefaultValue = this.y;
+                      that.openDialog();
+                    },
+                  },
+                },
+              },
+              areaspline: {
+                stacking: 'normal',
+                minPointLength: 2,
+                colorByPoint: true,
+                cursor: 'ns-resize',
+                colors: [
+                  actualColor,
+                  actualColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+      projectionColor,
+                ],
+                borderRadius: 5,
+              },
+            },
+            tooltip: {
+              ...tooltip,
+              formatter: function () {
+                return Highcharts.numberFormat(this.point.y, 0) + ' %';
+              },
+            },
+            credits: { enabled: false },
+            exporting: { enabled: false },
+            series: [{ data: OCAArray, dragDrop: { draggableY: true } }],
+            legend: false,
+          };
+          this.DPOOptions = {
+            chart: { type: 'areaspline', animation: false },
+            title: { text: 'Days Payable Outstanding' },
+            yAxis: {
+              title: { text: 'Days',
+    style: {
+                  fontSize: '14px',
+                }  
+    },
+    labels: {
+                style: {
+                  fontSize: '13px',
+                }
+              },
+              min: 0,
+              max: 180,
+              tickInterval: 30,
+            },
+            xAxis: { categories: this.yearsArray,
+    labels: {
+                style: {
+                  fontSize: '13px',
+                }
+              },
+    },
+            plotOptions: {
+              series: {
+                ...seriesOption,
+                dragDrop: {
+                  draggableY: true,
+                  dragMaxY: 180,
+                  dragMinY: 0,
+                },
+                point: {
+                  events: {
+                    drag: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      }
+                    },
+                    drop: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      } else {
+                        that.BsfinancialObj.get(e.target.category).dpo =
+                          e.target.y;
+                        that.updateProjection();
+                      }
+                    },
+                    click() {
+                      if (this.index < 2) {
+                        return false;
+                      }
+                      that.minValue = this.series.yAxis.min;
+                      that.maxValue = this.series.yAxis.max;
+                      that.selectedChart = 'dasy-payable-outstanding';
+                      that.selectedYear = this.category;
+                      that.modalDefaultValue = this.y;
+                      that.openDialog();
+                    },
+                  },
+                },
+              },
+              areaspline: {
+                stacking: 'normal',
+                minPointLength: 2,
+                colorByPoint: true,
+                cursor: 'ns-resize',
+                colors: [
+                  actualColor,
+                  actualColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+      projectionColor,
+                ],
+                borderRadius: 5,
+              },
+            },
+            tooltip: {
+              ...tooltip,
+              formatter: function () {
+                return Highcharts.numberFormat(this.point.y, 0) + ' Days';
+              },
+            },
+            credits: { enabled: false },
+            exporting: { enabled: false },
+            series: [{ data: DPOArray, dragDrop: { draggableY: true } }],
 
-                this.DSOOptions = {
-                  chart: { type: 'areaspline', animation: false },
-                  title: { text: 'Days Sales Outstanding' },
-                  yAxis: {
-                    title: { text: 'Days',
-					style: {
-                        fontSize: '14px',
-                      }  
-					},
-					labels: {
-                      style: {
-                        fontSize: '13px',
+            legend: false,
+          };
+          this.ALOptions = {
+            chart: { type: 'areaspline', animation: false },
+            title: { text: 'Accrued Liabilities (% of COGS)' },
+            yAxis: {
+              title: { text: 'As % of COGS',
+    style: {
+                  fontSize: '14px',
+                }  
+    
+    },
+    
+    labels: {
+                style: {
+                  fontSize: '13px',
+                }
+              },
+              min: 0,
+              max: 100,
+              tickInterval: 25,
+            },
+            xAxis: { categories: this.yearsArray,
+    labels: {
+                style: {
+                  fontSize: '13px',
+                }
+              },
+    },
+            plotOptions: {
+              series: {
+                stickyTracking: false,
+                dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
+                point: {
+                  events: {
+                    drag: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
                       }
                     },
-                    min: 0,
-                    max: 180,
-                    tickInterval: 30,
-                  },
-                  xAxis: { categories: this.yearsArray,
-				  labels: {
-                      style: {
-                        fontSize: '13px',
+                    drop: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      } else {
+                        that.BsfinancialObj.get(
+                          e.target.category
+                        ).accruedliabilitiespercent = e.target.y;
+                        that.updateProjection();
                       }
                     },
-				  },
-                  plotOptions: {
-                    series: {
-                      ...seriesOption,
-                      dragDrop: {
-                        draggableY: true,
-                        dragMaxY: 180,
-                        dragMinY: 0,
-                      },
-                      point: {
-                        events: {
-                          drag: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            }
-                          },
-                          drop: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            } else {
-                              that.BsfinancialObj.get(e.target.category).dso =
-                                e.target.y;
-                              that.updateProjection();
-                            }
-                          },
-                          click() {
-                            if (this.index < 2) {
-                              return false;
-                            }
-                            that.minValue = this.series.yAxis.min;
-                            that.maxValue = this.series.yAxis.max;
-                            that.selectedChart = 'daily-sales';
-                            that.selectedYear = this.category;
-                            that.modalDefaultValue = this.y;
-                            that.openDialog();
-                          },
-                        },
-                      },
-                    },
-                    areaspline: {
-                      stacking: 'normal',
-                      minPointLength: 2,
-                      colorByPoint: true,
-                      cursor: 'ns-resize',
-                      colors: [
-                        actualColor,
-                        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-						projectionColor,
-                      ],
-                      borderRadius: 5,
+                    click() {
+                      if (this.index < 2) {
+                        return false;
+                      }
+                      that.minValue = this.series.yAxis.min;
+                      that.maxValue = this.series.yAxis.max;
+                      that.selectedChart = 'accrued-liabilities';
+                      that.selectedYear = this.category;
+                      that.modalDefaultValue = this.y;
+                      that.openDialog();
                     },
                   },
-                  tooltip: {
-                    ...tooltip,
-                    formatter() {
-                      return Highcharts.numberFormat(this.point.y, 0) + ' Days';
-                    },
-                  },
-                  credits: { enabled: false },
-                  exporting: { enabled: false },
-                  series: [
-                    {
-                      data: DSOArray,
-                      dragDrop: { draggableY: true },
-                      minPointLength: 2,
-                    },
-                  ],
-                  legend: false,
-                };
-                this.IDOptions = {
-                  chart: { type: 'areaspline', animation: false },
-                  title: { text: 'Inventory Days' },
-                  yAxis: {
-                    title: { text: 'Days',
-					style: {
-                        fontSize: '14px',
-                      }  
-					},
-					labels: {
-                      style: {
-                        fontSize: '13px',
+                },
+              },
+              areaspline: {
+                stacking: 'normal',
+                minPointLength: 2,
+                colorByPoint: true,
+                cursor: 'ns-resize',
+                colors: [
+                  actualColor,
+                  actualColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+      projectionColor,
+                ],
+                borderRadius: 5,
+              },
+            },
+            tooltip: {
+              ...tooltip,
+              formatter: function () {
+                return Highcharts.numberFormat(this.point.y, 0) + ' %';
+              },
+            },
+            credits: { enabled: false },
+            exporting: { enabled: false },
+            series: [{ data: ALArray, dragDrop: { draggableY: true } }],
+            legend: false,
+          };
+          this.OCLOptions = {
+            chart: { type: 'spline', animation: false },
+            title: { text: 'Other Current Liabilities (% of COGS)' },
+            yAxis: {
+              title: { text: 'As % of COGS',
+    style: {
+                  fontSize: '13px',
+                }
+    },
+        labels: {
+                style: {
+                  fontSize: '13px',
+                }
+              },
+              min: 0,
+              max: 100,
+              tickInterval: 25,
+            },
+            xAxis: { categories: this.yearsArray,
+        labels: {
+                style: {
+                  fontSize: '13px',
+                }
+              },
+    },
+            plotOptions: {
+              series: {
+                stickyTracking: false,
+                dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
+                point: {
+                  events: {
+                    drag: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
                       }
                     },
-                    min: 0,
-                    max: 180,
-                    tickInterval: 30,
-                  },
-                  xAxis: { categories: this.yearsArray,
-				  labels: {
-                      style: {
-                        fontSize: '13px',
+                    drop: function (e) {
+                      if (e.target.index == 0 || e.target.index == 1) {
+                        return false;
+                      } else {
+                        that.BsfinancialObj.get(
+                          e.target.category
+                        ).othercurrentliabilitiespercent = e.target.y;
+                        that.updateProjection();
                       }
                     },
-				  },
-                  plotOptions: {
-                    series: {
-                      ...seriesOption,
-                      dragDrop: {
-                        draggableY: true,
-                        dragMaxY: 180,
-                        dragMinY: 0,
-                      },
-                      point: {
-                        events: {
-                          drag: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            }
-                          },
-                          drop: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            } else {
-                              that.BsfinancialObj.get(
-                                e.target.category
-                              ).inventorydays = e.target.y;
-                              that.updateProjection();
-                            }
-                          },
-                          click() {
-                            if (this.index < 2) {
-                              return false;
-                            }
-                            that.minValue = this.series.yAxis.min;
-                            that.maxValue = this.series.yAxis.max;
-                            that.selectedChart = 'inventory-days';
-                            that.selectedYear = this.category;
-                            that.modalDefaultValue = this.y;
-                            that.openDialog();
-                          },
-                        },
-                      },
-                    },
-                    areaspline: {
-                      stacking: 'normal',
-                      minPointLength: 2,
-                      colorByPoint: true,
-                      cursor: 'ns-resize',
-                      colors: [
-                        actualColor,
-                        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-						projectionColor,
-                      ],
-                      borderRadius: 5,
-                    },
-                  },
-                  tooltip: {
-                    ...tooltip,
-                    formatter: function () {
-                      return Highcharts.numberFormat(this.point.y, 0) + ' Days';
-                    },
-                  },
-                  credits: { enabled: false },
-                  exporting: { enabled: false },
-                  series: [{ data: IDArray, dragDrop: { draggableY: true } }],
-                  legend: false,
-                };
-                this.OCAOptions = {
-                  chart: { type: 'areaspline', animation: false },
-                  title: { text: 'Other Current Assets (% of Revenue)' },
-                  yAxis: {
-                    title: { text: 'As % of Revenue',
-						style: {
-                        fontSize: '14px',
-                      }  
-						},
-						labels: {
-                      style: {
-                        fontSize: '13px',
+                    click() {
+                      if (this.index < 2) {
+                        return false;
                       }
-                    },
-                    min: 0,
-                    max: 100,
-                    tickInterval: 25,
-                  },
-                  xAxis: { categories: this.yearsArray,
-				  labels: {
-                      style: {
-                        fontSize: '13px',
-                      }
-                    },
-				  },
-                  plotOptions: {
-                    series: {
-                      ...seriesOption,
-                      dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
-                      point: {
-                        events: {
-                          drag: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            }
-                          },
-                          drop: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            } else {
-                              that.BsfinancialObj.get(
-                                e.target.category
-                              ).othercurrentassetspercent = e.target.y;
-                              that.updateProjection();
-                            }
-                          },
-                          click() {
-                            if (this.index < 2) {
-                              return false;
-                            }
-                            that.minValue = this.series.yAxis.min;
-                            that.maxValue = this.series.yAxis.max;
-                            that.selectedChart = 'other-current-assets';
-                            that.selectedYear = this.category;
-                            that.modalDefaultValue = this.y;
-                            that.openDialog();
-                          },
-                        },
-                      },
-                    },
-                    areaspline: {
-                      stacking: 'normal',
-                      minPointLength: 2,
-                      colorByPoint: true,
-                      cursor: 'ns-resize',
-                      colors: [
-                        actualColor,
-                        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-						projectionColor,
-                      ],
-                      borderRadius: 5,
+                      that.minValue = this.series.yAxis.min;
+                      that.maxValue = this.series.yAxis.max;
+                      that.selectedChart = 'other-current-liabilities';
+                      that.selectedYear = this.category;
+                      that.modalDefaultValue = this.y;
+                      that.openDialog();
                     },
                   },
-                  tooltip: {
-                    ...tooltip,
-                    formatter: function () {
-                      return Highcharts.numberFormat(this.point.y, 0) + ' %';
-                    },
-                  },
-                  credits: { enabled: false },
-                  exporting: { enabled: false },
-                  series: [{ data: OCAArray, dragDrop: { draggableY: true } }],
-                  legend: false,
-                };
-                this.DPOOptions = {
-                  chart: { type: 'areaspline', animation: false },
-                  title: { text: 'Days Payable Outstanding' },
-                  yAxis: {
-                    title: { text: 'Days',
-					style: {
-                        fontSize: '14px',
-                      }  
-					},
-					labels: {
-                      style: {
-                        fontSize: '13px',
-                      }
-                    },
-                    min: 0,
-                    max: 180,
-                    tickInterval: 30,
-                  },
-                  xAxis: { categories: this.yearsArray,
-				  labels: {
-                      style: {
-                        fontSize: '13px',
-                      }
-                    },
-				  },
-                  plotOptions: {
-                    series: {
-                      ...seriesOption,
-                      dragDrop: {
-                        draggableY: true,
-                        dragMaxY: 180,
-                        dragMinY: 0,
-                      },
-                      point: {
-                        events: {
-                          drag: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            }
-                          },
-                          drop: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            } else {
-                              that.BsfinancialObj.get(e.target.category).dpo =
-                                e.target.y;
-                              that.updateProjection();
-                            }
-                          },
-                          click() {
-                            if (this.index < 2) {
-                              return false;
-                            }
-                            that.minValue = this.series.yAxis.min;
-                            that.maxValue = this.series.yAxis.max;
-                            that.selectedChart = 'dasy-payable-outstanding';
-                            that.selectedYear = this.category;
-                            that.modalDefaultValue = this.y;
-                            that.openDialog();
-                          },
-                        },
-                      },
-                    },
-                    areaspline: {
-                      stacking: 'normal',
-                      minPointLength: 2,
-                      colorByPoint: true,
-                      cursor: 'ns-resize',
-                      colors: [
-                        actualColor,
-                        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-						projectionColor,
-                      ],
-                      borderRadius: 5,
-                    },
-                  },
-                  tooltip: {
-                    ...tooltip,
-                    formatter: function () {
-                      return Highcharts.numberFormat(this.point.y, 0) + ' Days';
-                    },
-                  },
-                  credits: { enabled: false },
-                  exporting: { enabled: false },
-                  series: [{ data: DPOArray, dragDrop: { draggableY: true } }],
+                },
+              },
+              spline: {
+                stacking: 'normal',
+                minPointLength: 2,
+                colorByPoint: true,
+                cursor: 'ns-resize',
+                colors: [
+                  actualColor,
+                  actualColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                  projectionColor,
+                projectionColor,
+                ],
+                borderRadius: 5,
+              },
+            },
+            tooltip: {
+              ...tooltip,
+              formatter: function () {
+                return Highcharts.numberFormat(this.point.y, 0) + ' %';
+              },
+            },
+            credits: { enabled: false },
+            exporting: { enabled: false },
+            series: [{ data: OCLArray, dragDrop: { draggableY: true } }],
+            legend: false,
+          };
+          this.updateProjection();
 
-                  legend: false,
-                };
-                this.ALOptions = {
-                  chart: { type: 'areaspline', animation: false },
-                  title: { text: 'Accrued Liabilities (% of COGS)' },
-                  yAxis: {
-                    title: { text: 'As % of COGS',
-					style: {
-                        fontSize: '14px',
-                      }  
-					
-					},
-					
-					labels: {
-                      style: {
-                        fontSize: '13px',
-                      }
-                    },
-                    min: 0,
-                    max: 100,
-                    tickInterval: 25,
-                  },
-                  xAxis: { categories: this.yearsArray,
-				  labels: {
-                      style: {
-                        fontSize: '13px',
-                      }
-                    },
-				  },
-                  plotOptions: {
-                    series: {
-                      stickyTracking: false,
-                      dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
-                      point: {
-                        events: {
-                          drag: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            }
-                          },
-                          drop: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            } else {
-                              that.BsfinancialObj.get(
-                                e.target.category
-                              ).accruedliabilitiespercent = e.target.y;
-                              that.updateProjection();
-                            }
-                          },
-                          click() {
-                            if (this.index < 2) {
-                              return false;
-                            }
-                            that.minValue = this.series.yAxis.min;
-                            that.maxValue = this.series.yAxis.max;
-                            that.selectedChart = 'accrued-liabilities';
-                            that.selectedYear = this.category;
-                            that.modalDefaultValue = this.y;
-                            that.openDialog();
-                          },
-                        },
-                      },
-                    },
-                    areaspline: {
-                      stacking: 'normal',
-                      minPointLength: 2,
-                      colorByPoint: true,
-                      cursor: 'ns-resize',
-                      colors: [
-                        actualColor,
-                        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-						projectionColor,
-                      ],
-                      borderRadius: 5,
-                    },
-                  },
-                  tooltip: {
-                    ...tooltip,
-                    formatter: function () {
-                      return Highcharts.numberFormat(this.point.y, 0) + ' %';
-                    },
-                  },
-                  credits: { enabled: false },
-                  exporting: { enabled: false },
-                  series: [{ data: ALArray, dragDrop: { draggableY: true } }],
-                  legend: false,
-                };
-                this.OCLOptions = {
-                  chart: { type: 'spline', animation: false },
-                  title: { text: 'Other Current Liabilities (% of COGS)' },
-                  yAxis: {
-                    title: { text: 'As % of COGS',
-					style: {
-                        fontSize: '13px',
-                      }
-					},
-							labels: {
-                      style: {
-                        fontSize: '13px',
-                      }
-                    },
-                    min: 0,
-                    max: 100,
-                    tickInterval: 25,
-                  },
-                  xAxis: { categories: this.yearsArray,
-				  		labels: {
-                      style: {
-                        fontSize: '13px',
-                      }
-                    },
-				  },
-                  plotOptions: {
-                    series: {
-                      stickyTracking: false,
-                      dragDrop: { draggableY: true, dragMaxY: 99, dragMinY: 0 },
-                      point: {
-                        events: {
-                          drag: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            }
-                          },
-                          drop: function (e) {
-                            if (e.target.index == 0 || e.target.index == 1) {
-                              return false;
-                            } else {
-                              that.BsfinancialObj.get(
-                                e.target.category
-                              ).othercurrentliabilitiespercent = e.target.y;
-                              that.updateProjection();
-                            }
-                          },
-                          click() {
-                            if (this.index < 2) {
-                              return false;
-                            }
-                            that.minValue = this.series.yAxis.min;
-                            that.maxValue = this.series.yAxis.max;
-                            that.selectedChart = 'other-current-liabilities';
-                            that.selectedYear = this.category;
-                            that.modalDefaultValue = this.y;
-                            that.openDialog();
-                          },
-                        },
-                      },
-                    },
-                    spline: {
-                      stacking: 'normal',
-                      minPointLength: 2,
-                      colorByPoint: true,
-                      cursor: 'ns-resize',
-                      colors: [
-                        actualColor,
-                        actualColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-                        projectionColor,
-						projectionColor,
-                      ],
-                      borderRadius: 5,
-                    },
-                  },
-                  tooltip: {
-                    ...tooltip,
-                    formatter: function () {
-                      return Highcharts.numberFormat(this.point.y, 0) + ' %';
-                    },
-                  },
-                  credits: { enabled: false },
-                  exporting: { enabled: false },
-                  series: [{ data: OCLArray, dragDrop: { draggableY: true } }],
-                  legend: false,
-                };
-                this.updateProjection();
+          this.visualsLoaded = true
 
-                this.visualsLoaded = true
-              }, error => {
-                this.visualsLoaded = true
-
-              }); // end of projections
-          }, error => {
-            this.visualsLoaded = true
-
-          }); // end of Save Scenarios
+          this.progressBar = false;
+        }
+        
+        else{
+          throw new Error();
+        }
       }, error => {
-        this.visualsLoaded = true
+        this.visualsLoaded = true;
+        this.progressBar = false;
+        console.log("Failed to fetch projections and actuals for company " + this.companySelected, error);
+      })
+    }, error => {
+      this.visualsLoaded = true;
+      this.progressBar = false;
+      console.log("Failed to fetch scenarios for company " + this.companySelected, error)
+    })
 
-      }); // end of actuals
-
+    
     HC_exporting(Highcharts);
     setTimeout(() => {
       window.dispatchEvent(new Event('resize'));
@@ -1420,8 +1408,9 @@ export class VisualsBsComponent implements OnInit {
       .getData(this.urlConfig.getScenarioAPI() + this.companySelected)
       .subscribe((res: any) => {
         if (this.scenarioSelected == 0) {
-          this.saveScenarioNumber = res.scenarios.length;
-          this.scenarioSelected = res.scenarios.length;
+          const allScenarios = 
+          this.saveScenarioNumber = res[this.companySelected] ? res[this.companySelected].length : 0;
+          this.scenarioSelected = res[this.companySelected] ? res[this.companySelected].length : 0;
         } else {
           this.saveScenarioNumber = this.scenarioSelected;
         }
@@ -1511,7 +1500,7 @@ export class VisualsBsComponent implements OnInit {
         }
         this.apiService
           .postData(
-            this.urlConfig.getBsProjectionsAPIPOST() + this.companySelected,
+            this.urlConfig.getBsProjectionsAPIPOST() + this.companySelected + "&scenario="+this.saveScenarioNumber,
             JSON.stringify(inputArray)
           )
           .subscribe((res: any) => {

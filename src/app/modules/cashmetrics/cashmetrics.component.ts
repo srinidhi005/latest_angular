@@ -89,112 +89,125 @@ financials =[];
     if(this.authService.authServiceLoaded){
       const ELEMENT_PL=[] as any;
       this.progressBar=true;
-      
-    this.apiService.getData(this.urlConfig.getCashActualsAPI()+this.companySelected).subscribe((res:any)=>{
-      for (let j=0; j<res.length; j++) {
-        
-      this.financialObj.set(res[j].asof,{
-        "Netincome":res[j].netincome,
-        "DandA" : res[j].daa,
-        "FundsFromOperations":res[j].fundsfromoperations,
-        "Accountreceivables" : res[j].accountreceivablesdelta, 
-        "Inventories":res[j].inventoriesdelta,
-        "OtherCurrentassets":res[j].othercurrentassets,
-        "Accountspayable" : res[j].accountspayable, 
-		
-		"AccuredLiabilites" : res[j].accruedliabilities, 
-        "OtherCurrentliabilities":res[j].othercurrentliabilities,
-		"CashFlowFromOperatingActivites":res[j].cfo,
-        "Totalexpenditure":res[j].totalexpenditure,
-        "AssetSales" : res[j].assetsales, 
-		"OtherInvestingActivites" : res[j].otherinvestingactivities, 
-        "CashFlowFromInvesting":res[j].cfi,
-        "DebtIssuedRetired" : res[j].debtissued,
-        "CommonStockIssuedRetired":res[j].commonstockissued,
-        "Dividendspaid":res[j].dividendspaid,
-		"CashFlowFromFinancingActivites":res[j].cff,
-        "NetChangeinCash" : res[j].netchangeincash
-          });
-        }
-    this.apiService.getData(this.urlConfig.getCashScenarioAPI()+this.companySelected).subscribe((res:any)=>{
-      this.scenarioArray=res.scenarios;
-      this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
-      let scenarioNumber=0;
-      if(res.scenarios.includes(this.scenario)){
-        scenarioNumber=this.scenario;
-      }
-      this.apiService.getData(this.urlConfig.getCashProjectionsAPIGET()+this.companySelected+"&scenario="+scenarioNumber).subscribe((res:any)=>{
-for (let j=0; j<res.length; j++) {
-         
-        
-       this.financialObj.set(res[j].asof,{
-       "Netincome":res[j].netincome,
-        "DandA" : res[j].daa,
-        "FundsFromOperations":res[j].fundsfromoperations,
-        "Accountreceivables" : res[j].accountreceivablesdelta, 
-        "Inventories":res[j].inventoriesdelta,
-        "OtherCurrentassets":res[j].othercurrentassets,
-        "Accountspayable" : res[j].accountspayable, 
-		"AccuredLiabilites" : res[j].accruedliabilities, 
-        "OtherCurrentliabilities":res[j].othercurrentliabilities,
-		"CashFlowFromOperatingActivites":res[j].cfo,
-        "Totalexpenditure":res[j].totalexpenditure,
-        "AssetSales" : res[j].assetsales, 
-		"OtherInvestingActivites" : res[j].otherinvestingactivities, 
-        "CashFlowFromInvesting":res[j].cfi,
-        "DebtIssuedRetired" : res[j].debtissued,
-        "CommonStockIssuedRetired":res[j].commonstockissued,
-        "Dividendspaid":res[j].dividendspaid,
-		"CashFlowFromFinancingActivites":res[j].cff,
-        "NetChangeinCash" : res[j].netchangeincash
-          });
-        }
-        this.financialObj.forEach((v,k) => {
-        var pushData={
-            inMillions : k,	
-            "NetIncome" : "$ "+formatNumber(Number(v.Netincome), 'en-US', '1.0-0'),
-            "(+) D&A" : "$ "+formatNumber(Number(v.DandA), 'en-US', '1.0-0'),
-            "Funds from Operations" : "$ "+formatNumber(Number(v.FundsFromOperations), 'en-US', '1.0-0'),
-            "(+/–) Δ in Accounts Receivable" : "$ "+formatNumber(Number(v.Accountreceivables), 'en-US', '1.0-0'),
-            "(+/–) Δ in Inventories" : "$ "+formatNumber(Number(v.Inventories), 'en-US', '1.0-0'),
-            "(+/–) Δ in Accounts Payable" : "$ "+formatNumber(Number(v.Accountspayable), 'en-US', '1.0-0'),
-            "(+/–) Δ in Accrued Liabilities" : "$ "+formatNumber(Number(v.AccuredLiabilites), 'en-US', '1.0-0'),
-            "(+/–) Δ in Other Current Liabilities":"$ "+formatNumber(Number(v.OtherCurrentliabilities), 'en-US', '1.0-0'),
-            "Cash Flow from Operating Activities (CFO)" : "$ "+formatNumber(Number(v.CashFlowFromOperatingActivites), 'en-US', '1.0-0'),
-            "(–) Total Capital Expenditures" : "$ "+formatNumber(Number(v.Totalexpenditure), 'en-US', '1.0-0'),
-            "(+) Asset Sales":"$ "+formatNumber(Number(v.AssetSales), 'en-US', '1.0-0'),
-            "(+/–) Δ in Other Current Assets":"$ "+formatNumber(Number(v.OtherCurrentassets), 'en-US', '1.0-0'),
-            "(+/–) Other Investing Activities" : "$ "+formatNumber(Number(v.OtherInvestingActivites), 'en-US', '1.0-0'),
-            "Cash Flow from Investing Activities (CFI)" : "$ "+formatNumber(Number(v.CashFlowFromInvesting), 'en-US', '1.0-0'),
-            "(+/–) Debt Issued (Retired)":"$ "+formatNumber(Number(v.DebtIssuedRetired), 'en-US', '1.0-0'),
-            "(+/–) Common Stock Issued (Retired)" : "$ "+formatNumber(Number(v.CommonStockIssuedRetired), 'en-US', '1.0-0'),
-            "(–) Dividends Paid" : "$ "+formatNumber(Number(v.Dividendspaid), 'en-US', '1.0-0'),
-            "Cash Flow from Financing Activities (CFF)" : "$ "+formatNumber(Number(v.CashFlowFromFinancingActivites), 'en-US', '1.0-0'),
-			"Net Change in Cash" : "$ "+formatNumber(Number(v.NetChangeinCash), 'en-US', '1.0-0'),
-          };
-          ELEMENT_PL.push(pushData);
-      });
-      ELEMENT_PL_PDF=ELEMENT_PL;
-      this.displayedColumns = ['0'].concat(ELEMENT_PL.map(x => x.inMillions.toString()));
-      this.displayData = this.inputColumns.map(x => formatInputRow(x));
-      this.progressBar=false;
-        const obj = {};
-        this.financialObj.forEach((value, key) => {
-          obj[key] = value
-        })
-        this.years = Object.keys(obj);
-        this.financials = Object.values(obj);
-        this.metricsLoaded = true;
 
+      this.apiService.getData(this.urlConfig.getScenarioAPI() + this.companySelected).subscribe(res => {
+        console.log("Successfully fetched scenarios for company " + this.companySelected, res);
+  
+        this.scenarioArray=res[this.companySelected];
+        this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
+        let scenarioNumber=0;
+        if(this.scenarioArray.includes(this.scenario)){
+          scenarioNumber=this.scenario;
+        }
+  
+        this.apiService.getData(this.urlConfig.getActualsProjectionsForCF() + this.companySelected + "&scenario=" + scenarioNumber).subscribe( (success: any) => {
+          console.log("Succesfully fetched projections and actuals for company " + this.companySelected, success);
+  
+          if(success.result && success.result.actuals && success.result.projections){
+            const actualsData = JSON.parse(success.result.actuals);
+            const projectionsData = JSON.parse(success.result.projections);
+  
+            for (let j=0; j<actualsData.length; j++) {
+        
+              this.financialObj.set(actualsData[j].asof,{
+                "Netincome":actualsData[j].netincome,
+                "DandA" : actualsData[j].daa,
+                "FundsFromOperations":actualsData[j].fundsfromoperations,
+                "Accountreceivables" : actualsData[j].accountreceivablesdelta, 
+                "Inventories":actualsData[j].inventoriesdelta,
+                "OtherCurrentassets":actualsData[j].othercurrentassets,
+                "Accountspayable" : actualsData[j].accountspayable, 
+            
+            "AccuredLiabilites" : actualsData[j].accruedliabilities, 
+                "OtherCurrentliabilities":actualsData[j].othercurrentliabilities,
+            "CashFlowFromOperatingActivites":actualsData[j].cfo,
+                "Totalexpenditure":actualsData[j].totalexpenditure,
+                "AssetSales" : actualsData[j].assetsales, 
+            "OtherInvestingActivites" : actualsData[j].otherinvestingactivities, 
+                "CashFlowFromInvesting":actualsData[j].cfi,
+                "DebtIssuedRetired" : actualsData[j].debtissued,
+                "CommonStockIssuedRetired":actualsData[j].commonstockissued,
+                "Dividendspaid":actualsData[j].dividendspaid,
+            "CashFlowFromFinancingActivites":actualsData[j].cff,
+                "NetChangeinCash" : actualsData[j].netchangeincash
+                });
+              }
+  
+            for (let j=0; j<projectionsData.length; j++) {
+              this.financialObj.set(projectionsData[j].asof,{
+              "Netincome":projectionsData[j].netincome,
+                "DandA" : projectionsData[j].daa,
+                "FundsFromOperations":projectionsData[j].fundsfromoperations,
+                "Accountreceivables" : projectionsData[j].accountreceivablesdelta, 
+                "Inventories":projectionsData[j].inventoriesdelta,
+                "OtherCurrentassets":projectionsData[j].othercurrentassets,
+                "Accountspayable" : projectionsData[j].accountspayable, 
+            "AccuredLiabilites" : projectionsData[j].accruedliabilities, 
+                "OtherCurrentliabilities":projectionsData[j].othercurrentliabilities,
+            "CashFlowFromOperatingActivites":projectionsData[j].cfo,
+                "Totalexpenditure":projectionsData[j].totalexpenditure,
+                "AssetSales" : projectionsData[j].assetsales, 
+            "OtherInvestingActivites" : projectionsData[j].otherinvestingactivities, 
+                "CashFlowFromInvesting":projectionsData[j].cfi,
+                "DebtIssuedRetired" : projectionsData[j].debtissued,
+                "CommonStockIssuedRetired":projectionsData[j].commonstockissued,
+                "Dividendspaid":projectionsData[j].dividendspaid,
+            "CashFlowFromFinancingActivites":projectionsData[j].cff,
+                "NetChangeinCash" : projectionsData[j].netchangeincash
+              });
+            }
+            
+            this.financialObj.forEach((v,k) => {
+              var pushData={
+                  inMillions : k,	
+                  "NetIncome" : "$ "+formatNumber(Number(v.Netincome), 'en-US', '1.0-0'),
+                  "(+) D&A" : "$ "+formatNumber(Number(v.DandA), 'en-US', '1.0-0'),
+                  "Funds from Operations" : "$ "+formatNumber(Number(v.FundsFromOperations), 'en-US', '1.0-0'),
+                  "(+/–) Δ in Accounts Receivable" : "$ "+formatNumber(Number(v.Accountreceivables), 'en-US', '1.0-0'),
+                  "(+/–) Δ in Inventories" : "$ "+formatNumber(Number(v.Inventories), 'en-US', '1.0-0'),
+                  "(+/–) Δ in Accounts Payable" : "$ "+formatNumber(Number(v.Accountspayable), 'en-US', '1.0-0'),
+                  "(+/–) Δ in Accrued Liabilities" : "$ "+formatNumber(Number(v.AccuredLiabilites), 'en-US', '1.0-0'),
+                  "(+/–) Δ in Other Current Liabilities":"$ "+formatNumber(Number(v.OtherCurrentliabilities), 'en-US', '1.0-0'),
+                  "Cash Flow from Operating Activities (CFO)" : "$ "+formatNumber(Number(v.CashFlowFromOperatingActivites), 'en-US', '1.0-0'),
+                  "(–) Total Capital Expenditures" : "$ "+formatNumber(Number(v.Totalexpenditure), 'en-US', '1.0-0'),
+                  "(+) Asset Sales":"$ "+formatNumber(Number(v.AssetSales), 'en-US', '1.0-0'),
+                  "(+/–) Δ in Other Current Assets":"$ "+formatNumber(Number(v.OtherCurrentassets), 'en-US', '1.0-0'),
+                  "(+/–) Other Investing Activities" : "$ "+formatNumber(Number(v.OtherInvestingActivites), 'en-US', '1.0-0'),
+                  "Cash Flow from Investing Activities (CFI)" : "$ "+formatNumber(Number(v.CashFlowFromInvesting), 'en-US', '1.0-0'),
+                  "(+/–) Debt Issued (Retired)":"$ "+formatNumber(Number(v.DebtIssuedRetired), 'en-US', '1.0-0'),
+                  "(+/–) Common Stock Issued (Retired)" : "$ "+formatNumber(Number(v.CommonStockIssuedRetired), 'en-US', '1.0-0'),
+                  "(–) Dividends Paid" : "$ "+formatNumber(Number(v.Dividendspaid), 'en-US', '1.0-0'),
+                  "Cash Flow from Financing Activities (CFF)" : "$ "+formatNumber(Number(v.CashFlowFromFinancingActivites), 'en-US', '1.0-0'),
+            "Net Change in Cash" : "$ "+formatNumber(Number(v.NetChangeinCash), 'en-US', '1.0-0'),
+                };
+                ELEMENT_PL.push(pushData);
+            });
+            ELEMENT_PL_PDF=ELEMENT_PL;
+            this.displayedColumns = ['0'].concat(ELEMENT_PL.map(x => x.inMillions.toString()));
+            this.displayData = this.inputColumns.map(x => formatInputRow(x));
+            this.progressBar=false;
+              const obj = {};
+              this.financialObj.forEach((value, key) => {
+                obj[key] = value
+              })
+              this.years = Object.keys(obj);
+              this.financials = Object.values(obj);
+              this.metricsLoaded = true;
+          }
+          else{
+            throw new Error()
+          }
         }, error => {
           this.metricsLoaded = true;
-        });//end of projections
+          console.log("Failed to fetch projections and actuals for company " + this.companySelected, error);
+        })
+        
       }, error => {
         this.metricsLoaded = true;
-      });//end of Save Scenarios
-    }, error => {
-      this.metricsLoaded = true;
-    });//end of actuals
+        console.log("Failed to fetch scenarios for company " + this.companySelected, error)
+      })
+      
+    
    function formatInputRow(row) {
       const output = {};
       output[0] = row;

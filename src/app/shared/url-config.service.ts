@@ -10,7 +10,6 @@ export class UrlConfigService {
   private deleteStatementAPI = `${environment.APIHost}deletestatement?companyname=`;
   private downloadStatementAPI = `${environment.APIHost}download_file?companyname=`;
   private uploadStatementAPI = `${environment.APIHost}upload_file`;
-  private isActualsAPI = `${environment.APIHost}actuals?company=`;
   private scenarioAPI = `${environment.APIHost}scenarios?company=`;
   private cashscenarioAPI = `${environment.APIHost}cashflow-scenarios?company=`;
   private isProjectionsAPIGET = `${environment.APIHost}projections?company=`;
@@ -38,9 +37,34 @@ export class UrlConfigService {
   private benchmarkingProjectionsAPI = `${environment.APIHost}benchmarking-projections?company=`;
   private creditScoreCardAPI = `${environment.APIHost}financial-scorecard?company=`;
 
+  // private isActualsAPI = `${environment.APIHost}actuals?company=`;
+
+  //actuals and projections Merged 
+
+  // For IS
+  private actualsProjectionsForIS = `${environment.APIHost}actuals-projections?company=`;
+  private actualsProjectionsForBS = `${environment.APIHost}balance-actuals-projections?company=`;
+  private actualsProjectionsForCF = `${environment.APIHost}cashflow-actuals-projections?company=`;
+
+
 
   constructor(private http: HttpClient) {
   }
+
+
+  getActualsProjectionsForIS(){
+    return this.actualsProjectionsForIS;
+  }
+
+  getActualsProjectionsForBS(){
+    return this.actualsProjectionsForBS;
+  }
+
+  getActualsProjectionsForCF(){
+    return this.actualsProjectionsForCF;
+  }
+
+
 
   getdcfCompaniesAPI() {
     return this.getcompany;
@@ -98,9 +122,9 @@ export class UrlConfigService {
     return this.benchmarkingProjectionsAPI;
   }
 
-  getIsActualsAPI() {
-    return this.isActualsAPI;
-  }
+  // getIsActualsAPI() {
+  //   return this.isActualsAPI;
+  // }
 
   getIsProjectionsAPIGET() {
     return this.isProjectionsAPIGET;

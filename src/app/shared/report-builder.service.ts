@@ -1615,115 +1615,105 @@ buildReportForRatios(eachReport, actuals, projections){
       let previousAmount = 0;
       const ELEMENT_PL: PLElement[] = [];
       try {
-        const actualsData: any = await this.apiService
-          .getData(
-            this.urlConfig.getIsActualsAPI() + this.selectedCompany.compName
-          )
-          .toPromise();
-        for (let j = 0; j < actualsData.length; j++) {
-          if (actualsData[j].latest === 0) {
-            previousAmount = actualsData[j].totalrevenue;
-          }
-          this.financialObjForIncomeStatement.set(actualsData[j].asof, {
-            totalRevenue: actualsData[j].totalrevenue,
-            revenuepercent: actualsData[j].revenuepercent,
-            COGS: actualsData[j].cogs,
-            GrossProfit: actualsData[j].grossprofit,
-            GrossMargin: actualsData[j].grossprofitmargin,
-            SGA: actualsData[j].sga,
-            EBIT: actualsData[j].ebit,
-            EBITMargin: actualsData[j].ebitmargin,
-            DandA: actualsData[j].da,
-            EBITDA: actualsData[j].ebitda,
-            EBITDAMargin: actualsData[j].ebitdamargin,
-            EBT: actualsData[j].ebt,
-            EBTMargin: actualsData[j].ebtmargin,
-            Taxes: actualsData[j].taxes,
-            netIterestExpense: actualsData[j].netinterest,
-            NetIncome: actualsData[j].netincome,
-            NetIncomeMargin: actualsData[j].netincomemargin,
-          });
-        }
-      } catch (error) {
-        console.log('incomeStatement', error);
-      }
+        const apiData : any = await this.apiService.getData(this.urlConfig.getActualsProjectionsForIS() + this.selectedCompany.compName + "&scenario=" + this.selectedScenario).toPromise();
+        if(apiData.result && apiData.result.actuals && apiData.result.projections){
+          const actualsData = JSON.parse(apiData.result.actuals);
+          const projectionsData = JSON.parse(apiData.result.projections);
 
-      try {
-        const projectionsData: any = await this.apiService
-          .getData(
-            this.urlConfig.getIsProjectionsAPIGET() +
-              this.selectedCompany.compName +
-              '&scenario=' +
-              this.selectedScenario
-          )
-          .toPromise();
-        let totalRevenue = 0;
-        for (let j = 0; j < projectionsData.length; j++) {
-          if (j == 0) {
-            totalRevenue = Math.round(
-              previousAmount +
-                previousAmount * (projectionsData[j].revenuepercent / 100)
-            );
-          } else {
-            totalRevenue = Math.round(
-              projectionsData[j - 1].totalRevenue +
-                projectionsData[j - 1].totalRevenue *
-                  (projectionsData[j].revenuepercent / 100)
-            );
+          for (let j = 0; j < actualsData.length; j++) {
+            if (actualsData[j].latest === 0) {
+              previousAmount = actualsData[j].totalrevenue;
+            }
+            this.financialObjForIncomeStatement.set(actualsData[j].asof, {
+              totalRevenue: actualsData[j].totalrevenue,
+              revenuepercent: actualsData[j].revenuepercent,
+              COGS: actualsData[j].cogs,
+              GrossProfit: actualsData[j].grossprofit,
+              GrossMargin: actualsData[j].grossprofitmargin,
+              SGA: actualsData[j].sga,
+              EBIT: actualsData[j].ebit,
+              EBITMargin: actualsData[j].ebitmargin,
+              DandA: actualsData[j].da,
+              EBITDA: actualsData[j].ebitda,
+              EBITDAMargin: actualsData[j].ebitdamargin,
+              EBT: actualsData[j].ebt,
+              EBTMargin: actualsData[j].ebtmargin,
+              Taxes: actualsData[j].taxes,
+              netIterestExpense: actualsData[j].netinterest,
+              NetIncome: actualsData[j].netincome,
+              NetIncomeMargin: actualsData[j].netincomemargin,
+            });
           }
-          this.financialObjForIncomeStatement.set(projectionsData[j].asof, {
-            totalRevenue: projectionsData[j].totalrevenue,
-            revenuepercent: projectionsData[j].revenuepercent,
-            COGS: projectionsData[j].cogs,
-            GrossProfit: projectionsData[j].grossprofit,
-            GrossMargin: projectionsData[j].grossprofitmargin,
-            SGA: projectionsData[j].sga,
-            EBIT: projectionsData[j].ebit,
-            EBITMargin: projectionsData[j].ebitmargin,
-            DandA: projectionsData[j].da,
-            EBITDA: projectionsData[j].ebitda,
-            EBITDAMargin: projectionsData[j].ebitdamargin,
-            EBT: projectionsData[j].ebt,
-            EBTMargin: projectionsData[j].ebtmargin,
-            Taxes: projectionsData[j].taxes,
-            netIterestExpense: projectionsData[j].netinterestdollars,
-            NetIncome: projectionsData[j].netincome,
-            NetIncomeMargin: projectionsData[j].netincomemargin,
-          });
-        }
 
-        this.financialObjForIncomeStatement.forEach((v, k) => {
-          var pushData = {
-            inMillions: k,
-            'Total Revenue':
-              '$ ' + formatNumber(Number(v.totalRevenue), 'en-US', '1.0-0'),
-            'Revenue Y-O-Y Growth rate': v.revenuepercent + '%',
-            '(-) Cost of Goods Sold (COGS)':
-              '$ ' + formatNumber(Number(v.COGS), 'en-US', '1.0-0'),
-            'Gross Profit':
-              '$ ' + formatNumber(Number(v.GrossProfit), 'en-US', '1.0-0'),
-            'Gross Margin': v.GrossMargin + '%',
-            '(-) Selling, General & Administrative Expense (SG&A)':
-              '$ ' + formatNumber(Number(v.SGA), 'en-US', '1.0-0'),
-            EBIT: '$ ' + formatNumber(Number(v.EBIT), 'en-US', '1.0-0'),
-            'EBIT Margin': v.EBITMargin + '%',
-            '(+) Depreciation & Amortization (D&A)':
-              '$ ' + formatNumber(Number(v.DandA), 'en-US', '1.0-0'),
-            EBITDA: '$ ' + formatNumber(Number(v.EBITDA), 'en-US', '1.0-0'),
-            'EBITDA Margin': v.EBITDAMargin + '%',
-            '(-) Net Interest/Other Income Expense':
-              '$ ' +
-              formatNumber(Number(v.netIterestExpense), 'en-US', '1.0-0'),
-            EBT: '$ ' + formatNumber(Number(v.EBT), 'en-US', '1.0-0'),
-            'EBT Margin': v.EBTMargin + '%',
-            '(-) Taxes': '$ ' + formatNumber(Number(v.Taxes), 'en-US', '1.0-0'),
-            'Net Income':
-              '$ ' + formatNumber(Number(v.NetIncome), 'en-US', '1.0-0'),
-            'Net Income Margin': v.NetIncomeMargin + '%',
-          };
-          ELEMENT_PL.push(pushData);
-        });
-        ELEMENT_PL_PDF = ELEMENT_PL;
+          let totalRevenue = 0;
+          for (let j = 0; j < projectionsData.length; j++) {
+            if (j == 0) {
+              totalRevenue = Math.round(
+                previousAmount +
+                  previousAmount * (projectionsData[j].revenuepercent / 100)
+              );
+            } else {
+              totalRevenue = Math.round(
+                projectionsData[j - 1].totalRevenue +
+                  projectionsData[j - 1].totalRevenue *
+                    (projectionsData[j].revenuepercent / 100)
+              );
+            }
+            this.financialObjForIncomeStatement.set(projectionsData[j].asof, {
+              totalRevenue: projectionsData[j].totalrevenue,
+              revenuepercent: projectionsData[j].revenuepercent,
+              COGS: projectionsData[j].cogs,
+              GrossProfit: projectionsData[j].grossprofit,
+              GrossMargin: projectionsData[j].grossprofitmargin,
+              SGA: projectionsData[j].sga,
+              EBIT: projectionsData[j].ebit,
+              EBITMargin: projectionsData[j].ebitmargin,
+              DandA: projectionsData[j].da,
+              EBITDA: projectionsData[j].ebitda,
+              EBITDAMargin: projectionsData[j].ebitdamargin,
+              EBT: projectionsData[j].ebt,
+              EBTMargin: projectionsData[j].ebtmargin,
+              Taxes: projectionsData[j].taxes,
+              netIterestExpense: projectionsData[j].netinterestdollars,
+              NetIncome: projectionsData[j].netincome,
+              NetIncomeMargin: projectionsData[j].netincomemargin,
+            });
+          }
+
+          this.financialObjForIncomeStatement.forEach((v, k) => {
+            var pushData = {
+              inMillions: k,
+              'Total Revenue':
+                '$ ' + formatNumber(Number(v.totalRevenue), 'en-US', '1.0-0'),
+              'Revenue Y-O-Y Growth rate': v.revenuepercent + '%',
+              '(-) Cost of Goods Sold (COGS)':
+                '$ ' + formatNumber(Number(v.COGS), 'en-US', '1.0-0'),
+              'Gross Profit':
+                '$ ' + formatNumber(Number(v.GrossProfit), 'en-US', '1.0-0'),
+              'Gross Margin': v.GrossMargin + '%',
+              '(-) Selling, General & Administrative Expense (SG&A)':
+                '$ ' + formatNumber(Number(v.SGA), 'en-US', '1.0-0'),
+              EBIT: '$ ' + formatNumber(Number(v.EBIT), 'en-US', '1.0-0'),
+              'EBIT Margin': v.EBITMargin + '%',
+              '(+) Depreciation & Amortization (D&A)':
+                '$ ' + formatNumber(Number(v.DandA), 'en-US', '1.0-0'),
+              EBITDA: '$ ' + formatNumber(Number(v.EBITDA), 'en-US', '1.0-0'),
+              'EBITDA Margin': v.EBITDAMargin + '%',
+              '(-) Net Interest/Other Income Expense':
+                '$ ' +
+                formatNumber(Number(v.netIterestExpense), 'en-US', '1.0-0'),
+              EBT: '$ ' + formatNumber(Number(v.EBT), 'en-US', '1.0-0'),
+              'EBT Margin': v.EBTMargin + '%',
+              '(-) Taxes': '$ ' + formatNumber(Number(v.Taxes), 'en-US', '1.0-0'),
+              'Net Income':
+                '$ ' + formatNumber(Number(v.NetIncome), 'en-US', '1.0-0'),
+              'Net Income Margin': v.NetIncomeMargin + '%',
+            };
+            ELEMENT_PL.push(pushData);
+          });
+          ELEMENT_PL_PDF = ELEMENT_PL;
+        }
+      
       } catch (error) {
         console.log('incomeStatement', error);
       }
@@ -1737,150 +1727,143 @@ buildReportForRatios(eachReport, actuals, projections){
       const ELEMENT_BS: BSElement[] = [];
 
       try {
-        const actualsData: any = await this.apiService
-          .getData(
-            this.urlConfig.getBsActualsAPI() + this.selectedCompany.compName
-          )
-          .toPromise();
-        var memocheck;
-        for (let j = 0; j < actualsData.length; j++) {
-          if (actualsData[j].memocheck === 0) {
-            memocheck = 'Match';
-          } else {
-            memocheck = 'Not Match';
+        const apiData: any = await this.apiService.getData(this.urlConfig.getActualsProjectionsForBS() + this.selectedCompany.compName + "&scenario=" + this.selectedScenario).toPromise();
+        
+        if(apiData.result && apiData.result.actuals && apiData.result.projections){
+          const actualsData = JSON.parse(apiData.result.actuals);
+          const projectionsData = JSON.parse(apiData.result.projections);
+        
+          var memocheck;
+          for (let j = 0; j < actualsData.length; j++) {
+            if (actualsData[j].memocheck === 0) {
+              memocheck = 'Match';
+            } else {
+              memocheck = 'Not Match';
+            }
+            this.financialObjForBS.set(actualsData[j].asof, {
+              cashequivalents: actualsData[j].cashequivalents,
+              accountsreceivable: actualsData[j].accountsreceivable,
+              inventories: actualsData[j].inventories,
+              othercurrentassets: actualsData[j].othercurrentassets,
+              totalcurrentassets: actualsData[j].totalcurrentassets,
+              ppe: actualsData[j].ppe,
+              intangibleassets: actualsData[j].intangibleassets,
+              goodwill: actualsData[j].goodwill,
+              otherassets: actualsData[j].otherassets,
+              totalassets: actualsData[j].totalassets,
+              currentportionlongtermdebt:
+                actualsData[j].currentportionlongtermdebt,
+              accountspayable: actualsData[j].accountspayable,
+              accruedliabilities: actualsData[j].accruedliabilities,
+              othercurrentliabilities: actualsData[j].othercurrentliabilities,
+              totalcurrentliabilities: actualsData[j].totalcurrentliabilities,
+              longtermdebt: actualsData[j].longtermdebt,
+              otherliabilities: actualsData[j].otherliabilities,
+              totalliabilities: actualsData[j].totalliabilities,
+              totalshareholdersequity: actualsData[j].totalshareholdersequity,
+              totalliabilitiesandequity: actualsData[j].totalliabilitiesandequity,
+              'Memo Check': memocheck,
+            });
           }
-          this.financialObjForBS.set(actualsData[j].asof, {
-            cashequivalents: actualsData[j].cashequivalents,
-            accountsreceivable: actualsData[j].accountsreceivable,
-            inventories: actualsData[j].inventories,
-            othercurrentassets: actualsData[j].othercurrentassets,
-            totalcurrentassets: actualsData[j].totalcurrentassets,
-            ppe: actualsData[j].ppe,
-            intangibleassets: actualsData[j].intangibleassets,
-            goodwill: actualsData[j].goodwill,
-            otherassets: actualsData[j].otherassets,
-            totalassets: actualsData[j].totalassets,
-            currentportionlongtermdebt:
-              actualsData[j].currentportionlongtermdebt,
-            accountspayable: actualsData[j].accountspayable,
-            accruedliabilities: actualsData[j].accruedliabilities,
-            othercurrentliabilities: actualsData[j].othercurrentliabilities,
-            totalcurrentliabilities: actualsData[j].totalcurrentliabilities,
-            longtermdebt: actualsData[j].longtermdebt,
-            otherliabilities: actualsData[j].otherliabilities,
-            totalliabilities: actualsData[j].totalliabilities,
-            totalshareholdersequity: actualsData[j].totalshareholdersequity,
-            totalliabilitiesandequity: actualsData[j].totalliabilitiesandequity,
-            'Memo Check': memocheck,
+
+          for (let j = 0; j < projectionsData.length; j++) {
+            if (projectionsData[j].memocheck === 0) {
+              memocheck = 'Match';
+            } else {
+              memocheck = 'Not Match';
+            }
+            this.financialObjForBS.set(projectionsData[j].asof, {
+              cashequivalents: projectionsData[j].cashequivalents,
+              accountsreceivable: projectionsData[j].accountsreceivable,
+              inventories: projectionsData[j].inventories,
+              othercurrentassets: projectionsData[j].othercurrentassets,
+              totalcurrentassets: projectionsData[j].totalcurrentassets,
+              ppe: projectionsData[j].ppe,
+              intangibleassets: projectionsData[j].intangibleassets,
+              goodwill: projectionsData[j].goodwill,
+              otherassets: projectionsData[j].otherassets,
+              totalassets: projectionsData[j].totalassets,
+              currentportionlongtermdebt:
+                projectionsData[j].currentportionlongtermdebt,
+              accountspayable: projectionsData[j].accountspayable,
+              accruedliabilities: projectionsData[j].accruedliabilities,
+              othercurrentliabilities: projectionsData[j].othercurrentliabilities,
+              totalcurrentliabilities: projectionsData[j].totalcurrentliabilities,
+              longtermdebt: projectionsData[j].longtermdebt,
+              otherliabilities: projectionsData[j].otherliabilities,
+              totalliabilities: projectionsData[j].totalliabilities,
+              totalshareholdersequity: projectionsData[j].totalshareholdersequity,
+              totalliabilitiesandequity:
+                projectionsData[j].totalliabilitiesandequity,
+              'Memo Check': memocheck,
+            });
+          }
+  
+          this.financialObjForBS.forEach((v, k) => {
+            var pushData = {
+              inMillions: k,
+              'Cash Equivalents':
+                '$ ' + formatNumber(Number(v.cashequivalents), 'en-US', '1.0-0'),
+              'Accounts Receivable':
+                '$ ' +
+                formatNumber(Number(v.accountsreceivable), 'en-US', '1.0-0'),
+              Inventories:
+                '$ ' + formatNumber(Number(v.inventories), 'en-US', '1.0-0'),
+              'Prepaid Expenses & Other Current Assets':
+                '$ ' +
+                formatNumber(Number(v.othercurrentassets), 'en-US', '1.0-0'),
+              'Total Current Assets':
+                '$ ' +
+                formatNumber(Number(v.totalcurrentassets), 'en-US', '1.0-0'),
+              'Property Plant & Equipment':
+                '$ ' + formatNumber(Number(v.ppe), 'en-US', '1.0-0'),
+              'Intangible Assets':
+                '$ ' + formatNumber(Number(v.intangibleassets), 'en-US', '1.0-0'),
+              Goodwill: '$ ' + formatNumber(Number(v.goodwill), 'en-US', '1.0-0'),
+              'Other Assets':
+                '$ ' + formatNumber(Number(v.otherassets), 'en-US', '1.0-0'),
+              'Total Assets':
+                '$ ' + formatNumber(Number(v.totalassets), 'en-US', '1.0-0'),
+              'Current Portion Long Term Debt':
+                '$ ' +
+                formatNumber(
+                  Number(v.currentportionlongtermdebt),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Accounts Payable':
+                '$ ' + formatNumber(Number(v.accountspayable), 'en-US', '1.0-0'),
+              'Accrued Liabilities':
+                '$ ' +
+                formatNumber(Number(v.accruedliabilities), 'en-US', '1.0-0'),
+              'Other Current Liabilities':
+                '$ ' +
+                formatNumber(Number(v.othercurrentliabilities), 'en-US', '1.0-0'),
+              'Total Current Liabilities':
+                '$ ' +
+                formatNumber(Number(v.totalcurrentliabilities), 'en-US', '1.0-0'),
+              'Long Term Debt':
+                '$ ' + formatNumber(Number(v.longtermdebt), 'en-US', '1.0-0'),
+              'Other Liabilities':
+                '$ ' + formatNumber(Number(v.otherliabilities), 'en-US', '1.0-0'),
+              'Total Shareholders Equity':
+                '$ ' +
+                formatNumber(Number(v.totalshareholdersequity), 'en-US', '1.0-0'),
+              'Total Liabilities and Shareholders Equity':
+                '$ ' +
+                formatNumber(
+                  Number(v.totalliabilitiesandequity),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Memo Check': memocheck,
+            };
+            ELEMENT_BS.push(pushData);
+  
+            ELEMENT_BS_PDF = ELEMENT_BS;
           });
         }
-      } catch (error) {}
-
-      try {
-        const projectionsData: any = await this.apiService
-          .getData(
-            this.urlConfig.getBsProjectionsAPIGET() +
-              this.selectedCompany.compName +
-              '&scenario=' +
-              this.selectedScenario
-          )
-          .toPromise();
-        for (let j = 0; j < projectionsData.length; j++) {
-          if (projectionsData[j].memocheck === 0) {
-            memocheck = 'Match';
-          } else {
-            memocheck = 'Not Match';
-          }
-          this.financialObjForBS.set(projectionsData[j].asof, {
-            cashequivalents: projectionsData[j].cashequivalents,
-            accountsreceivable: projectionsData[j].accountsreceivable,
-            inventories: projectionsData[j].inventories,
-            othercurrentassets: projectionsData[j].othercurrentassets,
-            totalcurrentassets: projectionsData[j].totalcurrentassets,
-            ppe: projectionsData[j].ppe,
-            intangibleassets: projectionsData[j].intangibleassets,
-            goodwill: projectionsData[j].goodwill,
-            otherassets: projectionsData[j].otherassets,
-            totalassets: projectionsData[j].totalassets,
-            currentportionlongtermdebt:
-              projectionsData[j].currentportionlongtermdebt,
-            accountspayable: projectionsData[j].accountspayable,
-            accruedliabilities: projectionsData[j].accruedliabilities,
-            othercurrentliabilities: projectionsData[j].othercurrentliabilities,
-            totalcurrentliabilities: projectionsData[j].totalcurrentliabilities,
-            longtermdebt: projectionsData[j].longtermdebt,
-            otherliabilities: projectionsData[j].otherliabilities,
-            totalliabilities: projectionsData[j].totalliabilities,
-            totalshareholdersequity: projectionsData[j].totalshareholdersequity,
-            totalliabilitiesandequity:
-              projectionsData[j].totalliabilitiesandequity,
-            'Memo Check': memocheck,
-          });
-        }
-
-        this.financialObjForBS.forEach((v, k) => {
-          var pushData = {
-            inMillions: k,
-            'Cash Equivalents':
-              '$ ' + formatNumber(Number(v.cashequivalents), 'en-US', '1.0-0'),
-            'Accounts Receivable':
-              '$ ' +
-              formatNumber(Number(v.accountsreceivable), 'en-US', '1.0-0'),
-            Inventories:
-              '$ ' + formatNumber(Number(v.inventories), 'en-US', '1.0-0'),
-            'Prepaid Expenses & Other Current Assets':
-              '$ ' +
-              formatNumber(Number(v.othercurrentassets), 'en-US', '1.0-0'),
-            'Total Current Assets':
-              '$ ' +
-              formatNumber(Number(v.totalcurrentassets), 'en-US', '1.0-0'),
-            'Property Plant & Equipment':
-              '$ ' + formatNumber(Number(v.ppe), 'en-US', '1.0-0'),
-            'Intangible Assets':
-              '$ ' + formatNumber(Number(v.intangibleassets), 'en-US', '1.0-0'),
-            Goodwill: '$ ' + formatNumber(Number(v.goodwill), 'en-US', '1.0-0'),
-            'Other Assets':
-              '$ ' + formatNumber(Number(v.otherassets), 'en-US', '1.0-0'),
-            'Total Assets':
-              '$ ' + formatNumber(Number(v.totalassets), 'en-US', '1.0-0'),
-            'Current Portion Long Term Debt':
-              '$ ' +
-              formatNumber(
-                Number(v.currentportionlongtermdebt),
-                'en-US',
-                '1.0-0'
-              ),
-            'Accounts Payable':
-              '$ ' + formatNumber(Number(v.accountspayable), 'en-US', '1.0-0'),
-            'Accrued Liabilities':
-              '$ ' +
-              formatNumber(Number(v.accruedliabilities), 'en-US', '1.0-0'),
-            'Other Current Liabilities':
-              '$ ' +
-              formatNumber(Number(v.othercurrentliabilities), 'en-US', '1.0-0'),
-            'Total Current Liabilities':
-              '$ ' +
-              formatNumber(Number(v.totalcurrentliabilities), 'en-US', '1.0-0'),
-            'Long Term Debt':
-              '$ ' + formatNumber(Number(v.longtermdebt), 'en-US', '1.0-0'),
-            'Other Liabilities':
-              '$ ' + formatNumber(Number(v.otherliabilities), 'en-US', '1.0-0'),
-            'Total Shareholders Equity':
-              '$ ' +
-              formatNumber(Number(v.totalshareholdersequity), 'en-US', '1.0-0'),
-            'Total Liabilities and Shareholders Equity':
-              '$ ' +
-              formatNumber(
-                Number(v.totalliabilitiesandequity),
-                'en-US',
-                '1.0-0'
-              ),
-            'Memo Check': memocheck,
-          };
-          ELEMENT_BS.push(pushData);
-
-          ELEMENT_BS_PDF = ELEMENT_BS;
-        });
+        
       } catch (error) {}
 
       const contentBS = this.exportToPDFBS();
@@ -1891,141 +1874,132 @@ buildReportForRatios(eachReport, actuals, projections){
     if (typeOfSelection == 'all' || typeOfSelection == 'cashflow') {
       const ELEMENT_CF = [] as any;
       try {
-        const actualsData: any = await this.apiService
-          .getData(
-            this.urlConfig.getCashActualsAPI() + this.selectedCompany.compName
-          )
-          .toPromise();
-        for (let j = 0; j < actualsData.length; j++) {
-          this.financialObjForCF.set(actualsData[j].asof, {
-            Netincome: actualsData[j].netincome,
-            DandA: actualsData[j].daa,
-            FundsFromOperations: actualsData[j].fundsfromoperations,
-            Accountreceivables: actualsData[j].accountreceivablesdelta,
-            Inventories: actualsData[j].inventoriesdelta,
-            OtherCurrentassets: actualsData[j].othercurrentassets,
-            Accountspayable: actualsData[j].accountspayable,
+        const apiData: any = await this.apiService.getData(this.urlConfig.getActualsProjectionsForCF() + this.selectedCompany.compName + "&scenario=" + this.selectedScenario).toPromise();
+        
+        if(apiData.result && apiData.result.actuals && apiData.result.projections){
+          const actualsData = JSON.parse(apiData.result.actuals);
+          const projectionsData = JSON.parse(apiData.result.projections);
+          
+          for (let j = 0; j < actualsData.length; j++) {
+            this.financialObjForCF.set(actualsData[j].asof, {
+              Netincome: actualsData[j].netincome,
+              DandA: actualsData[j].daa,
+              FundsFromOperations: actualsData[j].fundsfromoperations,
+              Accountreceivables: actualsData[j].accountreceivablesdelta,
+              Inventories: actualsData[j].inventoriesdelta,
+              OtherCurrentassets: actualsData[j].othercurrentassets,
+              Accountspayable: actualsData[j].accountspayable,
+  
+              AccuredLiabilites: actualsData[j].accruedliabilities,
+              OtherCurrentliabilities: actualsData[j].othercurrentliabilities,
+              CashFlowFromOperatingActivites: actualsData[j].cfo,
+              Totalexpenditure: actualsData[j].totalexpenditure,
+              AssetSales: actualsData[j].assetsales,
+              OtherInvestingActivites: actualsData[j].otherinvestingactivities,
+              CashFlowFromInvesting: actualsData[j].cfi,
+              DebtIssuedRetired: actualsData[j].debtissued,
+              CommonStockIssuedRetired: actualsData[j].commonstockissued,
+              Dividendspaid: actualsData[j].dividendspaid,
+              CashFlowFromFinancingActivites: actualsData[j].cff,
+              NetChangeinCash: actualsData[j].netchangeincash,
+            });
+          }
 
-            AccuredLiabilites: actualsData[j].accruedliabilities,
-            OtherCurrentliabilities: actualsData[j].othercurrentliabilities,
-            CashFlowFromOperatingActivites: actualsData[j].cfo,
-            Totalexpenditure: actualsData[j].totalexpenditure,
-            AssetSales: actualsData[j].assetsales,
-            OtherInvestingActivites: actualsData[j].otherinvestingactivities,
-            CashFlowFromInvesting: actualsData[j].cfi,
-            DebtIssuedRetired: actualsData[j].debtissued,
-            CommonStockIssuedRetired: actualsData[j].commonstockissued,
-            Dividendspaid: actualsData[j].dividendspaid,
-            CashFlowFromFinancingActivites: actualsData[j].cff,
-            NetChangeinCash: actualsData[j].netchangeincash,
+          for (let j = 0; j < projectionsData.length; j++) {
+            this.financialObjForCF.set(projectionsData[j].asof, {
+              Netincome: projectionsData[j].netincome,
+              DandA: projectionsData[j].daa,
+              FundsFromOperations: projectionsData[j].fundsfromoperations,
+              Accountreceivables: projectionsData[j].accountreceivablesdelta,
+              Inventories: projectionsData[j].inventoriesdelta,
+              OtherCurrentassets: projectionsData[j].othercurrentassets,
+              Accountspayable: projectionsData[j].accountspayable,
+              AccuredLiabilites: projectionsData[j].accruedliabilities,
+              OtherCurrentliabilities: projectionsData[j].othercurrentliabilities,
+              CashFlowFromOperatingActivites: projectionsData[j].cfo,
+              Totalexpenditure: projectionsData[j].totalexpenditure,
+              AssetSales: projectionsData[j].assetsales,
+              OtherInvestingActivites: projectionsData[j].otherinvestingactivities,
+              CashFlowFromInvesting: projectionsData[j].cfi,
+              DebtIssuedRetired: projectionsData[j].debtissued,
+              CommonStockIssuedRetired: projectionsData[j].commonstockissued,
+              Dividendspaid: projectionsData[j].dividendspaid,
+              CashFlowFromFinancingActivites: projectionsData[j].cff,
+              NetChangeinCash: projectionsData[j].netchangeincash,
+            });
+          }
+          this.financialObjForCF.forEach((v, k) => {
+            var pushData = {
+              inMillions: k,
+              NetIncome:
+                '$ ' + formatNumber(Number(v.Netincome), 'en-US', '1.0-0'),
+              '(+) D&A': '$ ' + formatNumber(Number(v.DandA), 'en-US', '1.0-0'),
+              'Funds from Operations':
+                '$ ' +
+                formatNumber(Number(v.FundsFromOperations), 'en-US', '1.0-0'),
+              '(+/–) Δ in Accounts Receivable':
+                '$ ' +
+                formatNumber(Number(v.Accountreceivables), 'en-US', '1.0-0'),
+              '(+/–) Δ in Inventories':
+                '$ ' + formatNumber(Number(v.Inventories), 'en-US', '1.0-0'),
+              '(+/–) Δ in Accounts Payable':
+                '$ ' + formatNumber(Number(v.Accountspayable), 'en-US', '1.0-0'),
+              '(+/–) Δ in Accrued Liabilities':
+                '$ ' +
+                formatNumber(Number(v.AccuredLiabilites), 'en-US', '1.0-0'),
+              '(+/–) Δ in Other Current Liabilities':
+                '$ ' +
+                formatNumber(Number(v.OtherCurrentliabilities), 'en-US', '1.0-0'),
+              'Cash Flow from Operating Activities (CFO)':
+                '$ ' +
+                formatNumber(
+                  Number(v.CashFlowFromOperatingActivites),
+                  'en-US',
+                  '1.0-0'
+                ),
+              '(–) Total Capital Expenditures':
+                '$ ' + formatNumber(Number(v.Totalexpenditure), 'en-US', '1.0-0'),
+              '(+) Asset Sales':
+                '$ ' + formatNumber(Number(v.AssetSales), 'en-US', '1.0-0'),
+              '(+/–) Δ in Other Current Assets':
+                '$ ' +
+                formatNumber(Number(v.OtherCurrentassets), 'en-US', '1.0-0'),
+              '(+/–) Other Investing Activities':
+                '$ ' +
+                formatNumber(Number(v.OtherInvestingActivites), 'en-US', '1.0-0'),
+              'Cash Flow from Investing Activities (CFI)':
+                '$ ' +
+                formatNumber(Number(v.CashFlowFromInvesting), 'en-US', '1.0-0'),
+              '(+/–) Debt Issued (Retired)':
+                '$ ' +
+                formatNumber(Number(v.DebtIssuedRetired), 'en-US', '1.0-0'),
+              '(+/–) Common Stock Issued (Retired)':
+                '$ ' +
+                formatNumber(
+                  Number(v.CommonStockIssuedRetired),
+                  'en-US',
+                  '1.0-0'
+                ),
+              '(–) Dividends Paid':
+                '$ ' + formatNumber(Number(v.Dividendspaid), 'en-US', '1.0-0'),
+              'Cash Flow from Financing Activities (CFF)':
+                '$ ' +
+                formatNumber(
+                  Number(v.CashFlowFromFinancingActivites),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Net Change in Cash':
+                '$ ' + formatNumber(Number(v.NetChangeinCash), 'en-US', '1.0-0'),
+            };
+            ELEMENT_CF.push(pushData);
           });
+
+          ELEMENT_CF_PDF = ELEMENT_CF;
         }
+        
+        
       } catch (error) {}
-
-      try {
-        const projectedData: any = await this.apiService
-          .getData(
-            this.urlConfig.getCashProjectionsAPIGET() +
-              this.selectedCompany.compName +
-              '&scenario=' +
-              this.selectedScenario
-          )
-          .toPromise();
-        for (let j = 0; j < projectedData.length; j++) {
-          this.financialObjForCF.set(projectedData[j].asof, {
-            Netincome: projectedData[j].netincome,
-            DandA: projectedData[j].daa,
-            FundsFromOperations: projectedData[j].fundsfromoperations,
-            Accountreceivables: projectedData[j].accountreceivablesdelta,
-            Inventories: projectedData[j].inventoriesdelta,
-            OtherCurrentassets: projectedData[j].othercurrentassets,
-            Accountspayable: projectedData[j].accountspayable,
-            AccuredLiabilites: projectedData[j].accruedliabilities,
-            OtherCurrentliabilities: projectedData[j].othercurrentliabilities,
-            CashFlowFromOperatingActivites: projectedData[j].cfo,
-            Totalexpenditure: projectedData[j].totalexpenditure,
-            AssetSales: projectedData[j].assetsales,
-            OtherInvestingActivites: projectedData[j].otherinvestingactivities,
-            CashFlowFromInvesting: projectedData[j].cfi,
-            DebtIssuedRetired: projectedData[j].debtissued,
-            CommonStockIssuedRetired: projectedData[j].commonstockissued,
-            Dividendspaid: projectedData[j].dividendspaid,
-            CashFlowFromFinancingActivites: projectedData[j].cff,
-            NetChangeinCash: projectedData[j].netchangeincash,
-          });
-        }
-        this.financialObjForCF.forEach((v, k) => {
-          var pushData = {
-            inMillions: k,
-            NetIncome:
-              '$ ' + formatNumber(Number(v.Netincome), 'en-US', '1.0-0'),
-            '(+) D&A': '$ ' + formatNumber(Number(v.DandA), 'en-US', '1.0-0'),
-            'Funds from Operations':
-              '$ ' +
-              formatNumber(Number(v.FundsFromOperations), 'en-US', '1.0-0'),
-            '(+/–) Δ in Accounts Receivable':
-              '$ ' +
-              formatNumber(Number(v.Accountreceivables), 'en-US', '1.0-0'),
-            '(+/–) Δ in Inventories':
-              '$ ' + formatNumber(Number(v.Inventories), 'en-US', '1.0-0'),
-            '(+/–) Δ in Accounts Payable':
-              '$ ' + formatNumber(Number(v.Accountspayable), 'en-US', '1.0-0'),
-            '(+/–) Δ in Accrued Liabilities':
-              '$ ' +
-              formatNumber(Number(v.AccuredLiabilites), 'en-US', '1.0-0'),
-            '(+/–) Δ in Other Current Liabilities':
-              '$ ' +
-              formatNumber(Number(v.OtherCurrentliabilities), 'en-US', '1.0-0'),
-            'Cash Flow from Operating Activities (CFO)':
-              '$ ' +
-              formatNumber(
-                Number(v.CashFlowFromOperatingActivites),
-                'en-US',
-                '1.0-0'
-              ),
-            '(–) Total Capital Expenditures':
-              '$ ' + formatNumber(Number(v.Totalexpenditure), 'en-US', '1.0-0'),
-            '(+) Asset Sales':
-              '$ ' + formatNumber(Number(v.AssetSales), 'en-US', '1.0-0'),
-            '(+/–) Δ in Other Current Assets':
-              '$ ' +
-              formatNumber(Number(v.OtherCurrentassets), 'en-US', '1.0-0'),
-            '(+/–) Other Investing Activities':
-              '$ ' +
-              formatNumber(Number(v.OtherInvestingActivites), 'en-US', '1.0-0'),
-            'Cash Flow from Investing Activities (CFI)':
-              '$ ' +
-              formatNumber(Number(v.CashFlowFromInvesting), 'en-US', '1.0-0'),
-            '(+/–) Debt Issued (Retired)':
-              '$ ' +
-              formatNumber(Number(v.DebtIssuedRetired), 'en-US', '1.0-0'),
-            '(+/–) Common Stock Issued (Retired)':
-              '$ ' +
-              formatNumber(
-                Number(v.CommonStockIssuedRetired),
-                'en-US',
-                '1.0-0'
-              ),
-            '(–) Dividends Paid':
-              '$ ' + formatNumber(Number(v.Dividendspaid), 'en-US', '1.0-0'),
-            'Cash Flow from Financing Activities (CFF)':
-              '$ ' +
-              formatNumber(
-                Number(v.CashFlowFromFinancingActivites),
-                'en-US',
-                '1.0-0'
-              ),
-            'Net Change in Cash':
-              '$ ' + formatNumber(Number(v.NetChangeinCash), 'en-US', '1.0-0'),
-          };
-          ELEMENT_CF.push(pushData);
-        });
-
-        ELEMENT_CF_PDF = ELEMENT_CF;
-      } catch (error) {
-        console.log("EROOR", error)
-      }
-
       const contentCF = this.exportToPDFCF();
 
       content.push(contentCF);

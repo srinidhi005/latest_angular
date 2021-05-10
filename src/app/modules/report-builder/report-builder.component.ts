@@ -139,10 +139,12 @@ export class ReportBuilderComponent implements OnInit {
   async loadCompanies() {
   //const employer = localStorage.getItem('employer');
     try {
-      const companiesAPIData: any = await this.apiService
+      let companiesAPIData: any = await this.apiService
        //.getData(this.urlConfig.getStatementAPI() + employer)
         .getData(this.urlConfig.getStatementAPI() + 'rmiinsights')
         .toPromise();
+
+        companiesAPIData = companiesAPIData.result ? JSON.parse(companiesAPIData.result) : [];
       this.allCompanies = companiesAPIData.map((comp) => {
         return { compName: comp.companyname, compActualName: comp.company };
       });
@@ -174,7 +176,7 @@ export class ReportBuilderComponent implements OnInit {
       const scenarios: any = await this.apiService
         .getData(this.urlConfig.getScenarioAPI() + comp.compName)
         .toPromise();
-      this.selectedCompanyScenarios = scenarios.scenarios;
+      this.selectedCompanyScenarios = scenarios[comp.compName] || [0];
       this.companyLoaded = true;
       this.showScenario = true;
     } catch (error) {

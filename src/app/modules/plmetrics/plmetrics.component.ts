@@ -96,150 +96,157 @@ export class PLMetricsComponent implements OnInit {
       const ELEMENT_PL: PLElement[] = [];
       this.progressBar = true;
       var previousAmount;
-      this.apiService
-        .getData(this.urlConfig.getIsActualsAPI() + this.companySelected)
-        .subscribe((res: any) => {
-          for (let j = 0; j < res.length; j++) {
-            if (res[j].latest === 0) {
-              previousAmount = res[j].totalrevenue;
-            }
-            this.financialObj.set(res[j].asof, {
-              totalRevenue: res[j].totalrevenue,
-              revenuepercent: res[j].revenuepercent,
-              COGS: res[j].cogs,
-              GrossProfit: res[j].grossprofit,
-              GrossMargin: res[j].grossprofitmargin,
-              SGA: res[j].sga,
-              EBIT: res[j].ebit,
-              EBITMargin: res[j].ebitmargin,
-              DandA: res[j].da,
-              EBITDA: res[j].ebitda,
-              EBITDAMargin: res[j].ebitdamargin,
-              EBT: res[j].ebt,
-              EBTMargin: res[j].ebtmargin,
-              Taxes: res[j].taxes,
-              netIterestExpense: res[j].netinterest,
-              NetIncome: res[j].netincome,
-              NetIncomeMargin: res[j].netincomemargin,
-            });
-          }
-          this.apiService
-            .getData(this.urlConfig.getScenarioAPI() + this.companySelected)
-            .subscribe((res: any) => {
-              this.scenarioArray = res.scenarios;
-              this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
-              let scenarioNumber = 0;
-              if (res.scenarios.includes(this.scenario)) {
-                scenarioNumber = this.scenario;
-              }
-              this.apiService
-                .getData(
-                  this.urlConfig.getIsProjectionsAPIGET() +
-                    this.companySelected +
-                    '&scenario=' +
-                    scenarioNumber
-                )
-                .subscribe((res: any) => {
-                  let totalRevenue = 0;
-                  for (let j = 0; j < res.length; j++) {
-                    if (j == 0) {
-                      totalRevenue = Math.round(
-                        previousAmount +
-                          previousAmount * (res[j].revenuepercent / 100)
-                      );
-                    } else {
-                      totalRevenue = Math.round(
-                        res[j - 1].totalRevenue +
-                          res[j - 1].totalRevenue *
-                            (res[j].revenuepercent / 100)
-                      );
-                    }
-                    this.financialObj.set(res[j].asof, {
-                      totalRevenue: res[j].totalrevenue,
-                      revenuepercent: res[j].revenuepercent,
-                      COGS: res[j].cogs,
-                      GrossProfit: res[j].grossprofit,
-                      GrossMargin: res[j].grossprofitmargin,
-                      SGA: res[j].sga,
-                      EBIT: res[j].ebit,
-                      EBITMargin: res[j].ebitmargin,
-                      DandA: res[j].da,
-                      EBITDA: res[j].ebitda,
-                      EBITDAMargin: res[j].ebitdamargin,
-                      EBT: res[j].ebt,
-                      EBTMargin: res[j].ebtmargin,
-                      Taxes: res[j].taxes,
-                      netIterestExpense: res[j].netinterestdollars,
-                      NetIncome: res[j].netincome,
-                      NetIncomeMargin: res[j].netincomemargin,
-                    });
-                  }
-                  this.financialObj.forEach((v, k) => {
-                    var pushData = {
-                      inMillions: k,
-                      'Total Revenue':
-                        '$ ' +
-                        formatNumber(Number(v.totalRevenue), 'en-US', '1.0-0'),
-                      'Revenue Y-O-Y Growth rate': v.revenuepercent + '%',
-                      '(-) Cost of Goods Sold (COGS)':
-                        '$ ' + formatNumber(Number(v.COGS), 'en-US', '1.0-0'),
-                      'Gross Profit':
-                        '$ ' +
-                        formatNumber(Number(v.GrossProfit), 'en-US', '1.0-0'),
-                      'Gross Margin': v.GrossMargin + '%',
-                      '(-) Selling, General & Administrative Expense (SG&A)':
-                        '$ ' + formatNumber(Number(v.SGA), 'en-US', '1.0-0'),
-                      EBIT:
-                        '$ ' + formatNumber(Number(v.EBIT), 'en-US', '1.0-0'),
-                      'EBIT Margin': v.EBITMargin + '%',
-                      '(+) Depreciation & Amortization (D&A)':
-                        '$ ' + formatNumber(Number(v.DandA), 'en-US', '1.0-0'),
-                      EBITDA:
-                        '$ ' + formatNumber(Number(v.EBITDA), 'en-US', '1.0-0'),
-                      'EBITDA Margin': v.EBITDAMargin + '%',
-                      '(-) Net Interest/Other Income Expense':
-                        '$ ' +
-                        formatNumber(
-                          Number(v.netIterestExpense),
-                          'en-US',
-                          '1.0-0'
-                        ),
-                      EBT: '$ ' + formatNumber(Number(v.EBT), 'en-US', '1.0-0'),
-                      'EBT Margin': v.EBTMargin + '%',
-                      '(-) Taxes':
-                        '$ ' + formatNumber(Number(v.Taxes), 'en-US', '1.0-0'),
-                      'Net Income':
-                        '$ ' +
-                        formatNumber(Number(v.NetIncome), 'en-US', '1.0-0'),
-                      'Net Income Margin': v.NetIncomeMargin + '%',
-                    };
-                    ELEMENT_PL.push(pushData);
-                  });
-                  ELEMENT_PL_PDF = ELEMENT_PL;
-                  this.displayedColumns = ['0'].concat(
-                    ELEMENT_PL.map((x) => x.inMillions.toString())
-                  );
-                  this.displayData = this.inputColumns.map((x) =>
-                    formatInputRow(x)
-                  );
-                  this.progressBar = false;
-                  const obj = {};
-                  this.financialObj.forEach((value, key) => {
-                    obj[key] = value;
-                  });
 
-                  this.years = Object.keys(obj);
-                  this.financials = Object.values(obj);
-                  this.metricsLoaded = true;
-                }, error => {
-                  this.metricsLoaded = true;
-                }); //end of projections
-            }, error => {
-              this.metricsLoaded = true;
-            }); //end of Save Scenarios
+
+      this.apiService.getData(this.urlConfig.getScenarioAPI() + this.companySelected).subscribe( res => {
+        console.log("Successfully fetched scenarios for company " + this.companySelected, res);
+  
+        this.scenarioArray = res[this.companySelected] || [];
+        this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
+        let scenarioNumber = 0;
+        if (this.scenarioArray.includes(this.scenario)) {
+          scenarioNumber = this.scenario;
+        }
+  
+        this.apiService.getData(this.urlConfig.getActualsProjectionsForIS() + this.companySelected + "&scenario=" + scenarioNumber).subscribe( (success: any) => {
+          console.log("Succesfully fetched projections and actuals for company " + this.companySelected, success);
+          if(success.result && success.result.actuals && success.result.projections){
+            const actualsData = JSON.parse(success.result.actuals);
+            const projectionsData = JSON.parse(success.result.projections);
+  
+            for (let j = 0; j < actualsData.length; j++) {
+              if (actualsData[j].latest === 0) {
+                previousAmount = actualsData[j].totalrevenue;
+              }
+              this.financialObj.set(actualsData[j].asof, {
+                totalRevenue: actualsData[j].totalrevenue,
+                revenuepercent: actualsData[j].revenuepercent,
+                COGS: actualsData[j].cogs,
+                GrossProfit: actualsData[j].grossprofit,
+                GrossMargin: actualsData[j].grossprofitmargin,
+                SGA: actualsData[j].sga,
+                EBIT: actualsData[j].ebit,
+                EBITMargin: actualsData[j].ebitmargin,
+                DandA: actualsData[j].da,
+                EBITDA: actualsData[j].ebitda,
+                EBITDAMargin: actualsData[j].ebitdamargin,
+                EBT: actualsData[j].ebt,
+                EBTMargin: actualsData[j].ebtmargin,
+                Taxes: actualsData[j].taxes,
+                netIterestExpense: actualsData[j].netinterest,
+                NetIncome: actualsData[j].netincome,
+                NetIncomeMargin: actualsData[j].netincomemargin,
+              });
+            }
+  
+            let totalRevenue = 0;
+            for (let j = 0; j < projectionsData.length; j++) {
+              if (j == 0) {
+                totalRevenue = Math.round(
+                  previousAmount +
+                    previousAmount * (projectionsData[j].revenuepercent / 100)
+                );
+              } else {
+                totalRevenue = Math.round(
+                  projectionsData[j - 1].totalRevenue +
+                    projectionsData[j - 1].totalRevenue * (projectionsData[j].revenuepercent / 100)
+                );
+              }
+              this.financialObj.set(projectionsData[j].asof, {
+                totalRevenue: projectionsData[j].totalrevenue,
+                revenuepercent: projectionsData[j].revenuepercent,
+                COGS: projectionsData[j].cogs,
+                GrossProfit: projectionsData[j].grossprofit,
+                GrossMargin: projectionsData[j].grossprofitmargin,
+                SGA: projectionsData[j].sga,
+                EBIT: projectionsData[j].ebit,
+                EBITMargin: projectionsData[j].ebitmargin,
+                DandA: projectionsData[j].da,
+                EBITDA: projectionsData[j].ebitda,
+                EBITDAMargin: projectionsData[j].ebitdamargin,
+                EBT: projectionsData[j].ebt,
+                EBTMargin: projectionsData[j].ebtmargin,
+                Taxes: projectionsData[j].taxes,
+                netIterestExpense: projectionsData[j].netinterestdollars,
+                NetIncome: projectionsData[j].netincome,
+                NetIncomeMargin: projectionsData[j].netincomemargin,
+              });
+            }
+  
+            this.financialObj.forEach((v, k) => {
+              var pushData = {
+                inMillions: k,
+                'Total Revenue':
+                  '$ ' +
+                  formatNumber(Number(v.totalRevenue), 'en-US', '1.0-0'),
+                'Revenue Y-O-Y Growth rate': v.revenuepercent + '%',
+                '(-) Cost of Goods Sold (COGS)':
+                  '$ ' + formatNumber(Number(v.COGS), 'en-US', '1.0-0'),
+                'Gross Profit':
+                  '$ ' +
+                  formatNumber(Number(v.GrossProfit), 'en-US', '1.0-0'),
+                'Gross Margin': v.GrossMargin + '%',
+                '(-) Selling, General & Administrative Expense (SG&A)':
+                  '$ ' + formatNumber(Number(v.SGA), 'en-US', '1.0-0'),
+                EBIT:
+                  '$ ' + formatNumber(Number(v.EBIT), 'en-US', '1.0-0'),
+                'EBIT Margin': v.EBITMargin + '%',
+                '(+) Depreciation & Amortization (D&A)':
+                  '$ ' + formatNumber(Number(v.DandA), 'en-US', '1.0-0'),
+                EBITDA:
+                  '$ ' + formatNumber(Number(v.EBITDA), 'en-US', '1.0-0'),
+                'EBITDA Margin': v.EBITDAMargin + '%',
+                '(-) Net Interest/Other Income Expense':
+                  '$ ' +
+                  formatNumber(
+                    Number(v.netIterestExpense),
+                    'en-US',
+                    '1.0-0'
+                  ),
+                EBT: '$ ' + formatNumber(Number(v.EBT), 'en-US', '1.0-0'),
+                'EBT Margin': v.EBTMargin + '%',
+                '(-) Taxes':
+                  '$ ' + formatNumber(Number(v.Taxes), 'en-US', '1.0-0'),
+                'Net Income':
+                  '$ ' +
+                  formatNumber(Number(v.NetIncome), 'en-US', '1.0-0'),
+                'Net Income Margin': v.NetIncomeMargin + '%',
+              };
+              ELEMENT_PL.push(pushData);
+            });
+            
+            ELEMENT_PL_PDF = ELEMENT_PL;
+            this.displayedColumns = ['0'].concat(
+              ELEMENT_PL.map((x) => x.inMillions.toString())
+            );
+            this.displayData = this.inputColumns.map((x) =>
+              formatInputRow(x)
+            );
+            this.progressBar = false;
+            const obj = {};
+            this.financialObj.forEach((value, key) => {
+              obj[key] = value;
+            });
+
+            this.years = Object.keys(obj);
+            this.financials = Object.values(obj);
+            this.metricsLoaded = true;
+            
+          }
+          else{
+            throw new Error();
+          }
+          
         }, error => {
           this.metricsLoaded = true;
-        }); //end of actuals
+          console.log("Failed to fetch projections and actuals for company " + this.companySelected, error);
+        })
+  
+      }, error => {
+        this.metricsLoaded = true;
+        console.log("Failed to fetch scenarios for company " + this.companySelected, error)
+      })
+
       function formatInputRow(row) {
         const output = {};
         output[0] = row;

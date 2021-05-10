@@ -101,259 +101,256 @@ export class BsmetricsComponent implements OnInit {
       const ELEMENT_BS: PLElement[] = [];
     this.progressBar = true;
     var memocheck;
-    this.apiService
-      .getData(this.urlConfig.getBsActualsAPI() + this.companySelected)
-      .subscribe(
-        (res: any) => {
-          for (let j = 0; j < res.length; j++) {
-            if (res[j].memocheck === 0) {
+
+
+    this.apiService.getData(this.urlConfig.getScenarioAPI() + this.companySelected).subscribe(res => {
+      console.log("Successfully fetched scenarios for company " + this.companySelected, res);
+
+      this.scenarioArray = res[this.companySelected];
+      this.UserDetailModelService.setScenarioNumber(
+        this.scenarioArray
+      );
+      let scenarioNumber = 0;
+      if (this.scenarioArray.includes(this.scenario)) {
+        scenarioNumber = this.scenario;
+      }
+
+
+      this.apiService.getData(this.urlConfig.getActualsProjectionsForBS() + this.companySelected + "&scenario=" + scenarioNumber).subscribe( (success:any) => {
+        console.log("Succesfully fetched projections and actuals for company " + this.companySelected, success);
+
+        if(success.result && success.result.actuals && success.result.projections){
+          const actualsData = JSON.parse(success.result.actuals);
+          const projectionsData = JSON.parse(success.result.projections);
+
+          for (let j = 0; j < actualsData.length; j++) {
+            if (actualsData[j].memocheck === 0) {
               memocheck = 'Match';
             } else {
               memocheck = 'Not Match';
             }
-            this.financialObj.set(res[j].asof, {
-              cashequivalents: res[j].cashequivalents,
-              accountsreceivable: res[j].accountsreceivable,
-              inventories: res[j].inventories,
-              othercurrentassets: res[j].othercurrentassets,
-              totalcurrentassets: res[j].totalcurrentassets,
-              ppe: res[j].ppe,
-              intangibleassets: res[j].intangibleassets,
-              goodwill: res[j].goodwill,
-              otherassets: res[j].otherassets,
-              totalassets: res[j].totalassets,
-              currentportionlongtermdebt: res[j].currentportionlongtermdebt,
-              accountspayable: res[j].accountspayable,
-              accruedliabilities: res[j].accruedliabilities,
-              othercurrentliabilities: res[j].othercurrentliabilities,
-              totalcurrentliabilities: res[j].totalcurrentliabilities,
-              longtermdebt: res[j].longtermdebt,
-              otherliabilities: res[j].otherliabilities,
-              totalliabilities: res[j].totalliabilities,
-              totalshareholdersequity: res[j].totalshareholdersequity,
-              totalliabilitiesandequity: res[j].totalliabilitiesandequity,
+            this.financialObj.set(actualsData[j].asof, {
+              cashequivalents: actualsData[j].cashequivalents,
+              accountsreceivable: actualsData[j].accountsreceivable,
+              inventories: actualsData[j].inventories,
+              othercurrentassets: actualsData[j].othercurrentassets,
+              totalcurrentassets: actualsData[j].totalcurrentassets,
+              ppe: actualsData[j].ppe,
+              intangibleassets: actualsData[j].intangibleassets,
+              goodwill: actualsData[j].goodwill,
+              otherassets: actualsData[j].otherassets,
+              totalassets: actualsData[j].totalassets,
+              currentportionlongtermdebt: actualsData[j].currentportionlongtermdebt,
+              accountspayable: actualsData[j].accountspayable,
+              accruedliabilities: actualsData[j].accruedliabilities,
+              othercurrentliabilities: actualsData[j].othercurrentliabilities,
+              totalcurrentliabilities: actualsData[j].totalcurrentliabilities,
+              longtermdebt: actualsData[j].longtermdebt,
+              otherliabilities: actualsData[j].otherliabilities,
+              totalliabilities: actualsData[j].totalliabilities,
+              totalshareholdersequity: actualsData[j].totalshareholdersequity,
+              totalliabilitiesandequity: actualsData[j].totalliabilitiesandequity,
               'Memo Check': memocheck,
             });
           }
-          this.apiService
-            .getData(this.urlConfig.getScenarioAPI() + this.companySelected)
-            .subscribe(
-              (res: any) => {
-                this.scenarioArray = res.scenarios;
-                this.UserDetailModelService.setScenarioNumber(
-                  this.scenarioArray
-                );
-                let scenarioNumber = 0;
-                if (res.scenarios.includes(this.scenario)) {
-                  scenarioNumber = this.scenario;
-                }
-                this.apiService
-                  .getData(
-                    this.urlConfig.getBsProjectionsAPIGET() +
-                      this.companySelected +
-                      '&scenario=' +
-                      scenarioNumber
-                  )
-                  .subscribe(
-                    (res: any) => {
-                      for (let j = 0; j < res.length; j++) {
-                        if (res[j].memocheck === 0) {
-                          memocheck = 'Match';
-                        } else {
-                          memocheck = 'Not Match';
-                        }
-                        this.financialObj.set(res[j].asof, {
-                          cashequivalents: res[j].cashequivalents,
-                          accountsreceivable: res[j].accountsreceivable,
-                          inventories: res[j].inventories,
-                          othercurrentassets: res[j].othercurrentassets,
-                          totalcurrentassets: res[j].totalcurrentassets,
-                          ppe: res[j].ppe,
-                          intangibleassets: res[j].intangibleassets,
-                          goodwill: res[j].goodwill,
-                          otherassets: res[j].otherassets,
-                          totalassets: res[j].totalassets,
-                          currentportionlongtermdebt:
-                            res[j].currentportionlongtermdebt,
-                          accountspayable: res[j].accountspayable,
-                          accruedliabilities: res[j].accruedliabilities,
-                          othercurrentliabilities:
-                            res[j].othercurrentliabilities,
-                          totalcurrentliabilities:
-                            res[j].totalcurrentliabilities,
-                          longtermdebt: res[j].longtermdebt,
-                          otherliabilities: res[j].otherliabilities,
-                          totalliabilities: res[j].totalliabilities,
-                          totalshareholdersequity:
-                            res[j].totalshareholdersequity,
-                          totalliabilitiesandequity:
-                            res[j].totalliabilitiesandequity,
-                          'Memo Check': memocheck,
-                        });
-                      }
 
-                      this.financialObj.forEach((v, k) => {
-                        var pushData = {
-                          inMillions: k,
-                          'Cash Equivalents':
-                            '$ ' +
-                            formatNumber(
-                              Number(v.cashequivalents),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          'Accounts Receivable':
-                            '$ ' +
-                            formatNumber(
-                              Number(v.accountsreceivable),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          Inventories:
-                            '$ ' +
-                            formatNumber(
-                              Number(v.inventories),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          'Prepaid Expenses & Other Current Assets':
-                            '$ ' +
-                            formatNumber(
-                              Number(v.othercurrentassets),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          'Total Current Assets':
-                            '$ ' +
-                            formatNumber(
-                              Number(v.totalcurrentassets),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          'Property Plant & Equipment':
-                            '$ ' +
-                            formatNumber(Number(v.ppe), 'en-US', '1.0-0'),
-                          'Intangible Assets':
-                            '$ ' +
-                            formatNumber(
-                              Number(v.intangibleassets),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          Goodwill:
-                            '$ ' +
-                            formatNumber(Number(v.goodwill), 'en-US', '1.0-0'),
-                          'Other Assets':
-                            '$ ' +
-                            formatNumber(
-                              Number(v.otherassets),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          'Total Assets':
-                            '$ ' +
-                            formatNumber(
-                              Number(v.totalassets),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          'Current Portion Long Term Debt':
-                            '$ ' +
-                            formatNumber(
-                              Number(v.currentportionlongtermdebt),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          'Accounts Payable':
-                            '$ ' +
-                            formatNumber(
-                              Number(v.accountspayable),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          'Accrued Liabilities':
-                            '$ ' +
-                            formatNumber(
-                              Number(v.accruedliabilities),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          'Other Current Liabilities':
-                            '$ ' +
-                            formatNumber(
-                              Number(v.othercurrentliabilities),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          'Total Current Liabilities':
-                            '$ ' +
-                            formatNumber(
-                              Number(v.totalcurrentliabilities),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          'Long Term Debt':
-                            '$ ' +
-                            formatNumber(
-                              Number(v.longtermdebt),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          'Other Liabilities':
-                            '$ ' +
-                            formatNumber(
-                              Number(v.otherliabilities),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          'Total Shareholders Equity':
-                            '$ ' +
-                            formatNumber(
-                              Number(v.totalshareholdersequity),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          'Total Liabilities and Shareholders Equity':
-                            '$ ' +
-                            formatNumber(
-                              Number(v.totalliabilitiesandequity),
-                              'en-US',
-                              '1.0-0'
-                            ),
-                          'Memo Check': memocheck,
-                        };
-                        ELEMENT_BS.push(pushData);
-                      });
-                      this.displayedColumns = ['0'].concat(
-                        ELEMENT_BS.map((x) => x.inMillions.toString())
-                      );
-                      this.displayData = this.inputColumns.map((x) =>
-                        formatInputRow(x)
-                      );
-                      this.progressBar = false;
-                      const obj = {};
-                      this.financialObj.forEach((value, key) => {
-                        obj[key] = value;
-                      });
+          for (let j = 0; j < projectionsData.length; j++) {
+            if (projectionsData[j].memocheck === 0) {
+              memocheck = 'Match';
+            } else {
+              memocheck = 'Not Match';
+            }
+            this.financialObj.set(projectionsData[j].asof, {
+              cashequivalents: projectionsData[j].cashequivalents,
+              accountsreceivable: projectionsData[j].accountsreceivable,
+              inventories: projectionsData[j].inventories,
+              othercurrentassets: projectionsData[j].othercurrentassets,
+              totalcurrentassets: projectionsData[j].totalcurrentassets,
+              ppe: projectionsData[j].ppe,
+              intangibleassets: projectionsData[j].intangibleassets,
+              goodwill: projectionsData[j].goodwill,
+              otherassets: projectionsData[j].otherassets,
+              totalassets: projectionsData[j].totalassets,
+              currentportionlongtermdebt:
+                projectionsData[j].currentportionlongtermdebt,
+              accountspayable: projectionsData[j].accountspayable,
+              accruedliabilities: projectionsData[j].accruedliabilities,
+              othercurrentliabilities:
+                projectionsData[j].othercurrentliabilities,
+              totalcurrentliabilities:
+                projectionsData[j].totalcurrentliabilities,
+              longtermdebt: projectionsData[j].longtermdebt,
+              otherliabilities: projectionsData[j].otherliabilities,
+              totalliabilities: projectionsData[j].totalliabilities,
+              totalshareholdersequity:
+                projectionsData[j].totalshareholdersequity,
+              totalliabilitiesandequity:
+                projectionsData[j].totalliabilitiesandequity,
+              'Memo Check': memocheck,
+            });
+          }
 
-                      this.years = Object.keys(obj);
-                      this.financials = Object.values(obj);
-                      this.metricsLoaded = true;
-                    },
-                    (error) => {
-                      this.metricsLoaded = true;
-                    }
-                  ); //end of projections
-              },
-              (error) => {
-                this.metricsLoaded = true;
-              }
-            ); //end of Save Scenarios
-        },
-        (error) => {
+          this.financialObj.forEach((v, k) => {
+            var pushData = {
+              inMillions: k,
+              'Cash Equivalents':
+                '$ ' +
+                formatNumber(
+                  Number(v.cashequivalents),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Accounts Receivable':
+                '$ ' +
+                formatNumber(
+                  Number(v.accountsreceivable),
+                  'en-US',
+                  '1.0-0'
+                ),
+              Inventories:
+                '$ ' +
+                formatNumber(
+                  Number(v.inventories),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Prepaid Expenses & Other Current Assets':
+                '$ ' +
+                formatNumber(
+                  Number(v.othercurrentassets),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Total Current Assets':
+                '$ ' +
+                formatNumber(
+                  Number(v.totalcurrentassets),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Property Plant & Equipment':
+                '$ ' +
+                formatNumber(Number(v.ppe), 'en-US', '1.0-0'),
+              'Intangible Assets':
+                '$ ' +
+                formatNumber(
+                  Number(v.intangibleassets),
+                  'en-US',
+                  '1.0-0'
+                ),
+              Goodwill:
+                '$ ' +
+                formatNumber(Number(v.goodwill), 'en-US', '1.0-0'),
+              'Other Assets':
+                '$ ' +
+                formatNumber(
+                  Number(v.otherassets),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Total Assets':
+                '$ ' +
+                formatNumber(
+                  Number(v.totalassets),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Current Portion Long Term Debt':
+                '$ ' +
+                formatNumber(
+                  Number(v.currentportionlongtermdebt),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Accounts Payable':
+                '$ ' +
+                formatNumber(
+                  Number(v.accountspayable),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Accrued Liabilities':
+                '$ ' +
+                formatNumber(
+                  Number(v.accruedliabilities),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Other Current Liabilities':
+                '$ ' +
+                formatNumber(
+                  Number(v.othercurrentliabilities),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Total Current Liabilities':
+                '$ ' +
+                formatNumber(
+                  Number(v.totalcurrentliabilities),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Long Term Debt':
+                '$ ' +
+                formatNumber(
+                  Number(v.longtermdebt),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Other Liabilities':
+                '$ ' +
+                formatNumber(
+                  Number(v.otherliabilities),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Total Shareholders Equity':
+                '$ ' +
+                formatNumber(
+                  Number(v.totalshareholdersequity),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Total Liabilities and Shareholders Equity':
+                '$ ' +
+                formatNumber(
+                  Number(v.totalliabilitiesandequity),
+                  'en-US',
+                  '1.0-0'
+                ),
+              'Memo Check': memocheck,
+            };
+            ELEMENT_BS.push(pushData);
+          });
+          this.displayedColumns = ['0'].concat(
+            ELEMENT_BS.map((x) => x.inMillions.toString())
+          );
+          this.displayData = this.inputColumns.map((x) =>
+            formatInputRow(x)
+          );
+          this.progressBar = false;
+          const obj = {};
+          this.financialObj.forEach((value, key) => {
+            obj[key] = value;
+          });
+
+          this.years = Object.keys(obj);
+          this.financials = Object.values(obj);
           this.metricsLoaded = true;
         }
-      ); //end of actuals
+        
+        else{
+          throw new Error();
+        }
+      }, error => {
+        this.metricsLoaded = true;
+        console.log("Failed to fetch projections and actuals for company " + this.companySelected, error);
+      })
+    }, error => {
+      this.metricsLoaded = true;
+      console.log("Failed to fetch scenarios for company " + this.companySelected, error)
+    })
+
     function formatInputRow(row) {
       const output = {};
       output[0] = row;

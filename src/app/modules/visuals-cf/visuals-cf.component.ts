@@ -261,7 +261,9 @@ export class VisualsCfComponent implements OnInit {
     this.apiService.getData(this.urlConfig.getScenarioAPI() + this.companySelected).subscribe(res => {
       console.log("Successfully fetched scenarios for company " + this.companySelected, res);
 
-      this.scenarioArray = res[this.companySelected] || [];
+      const scenarios = res[this.companySelected] || [];
+
+      this.scenarioArray = scenarios.map( s => Number(s.trim()));
       this.UserDetailModelService.setScenarioNumber(this.scenarioArray);
       this.scenarioSelected = localStorage.getItem('scenarioSelected');
       
